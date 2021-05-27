@@ -1,0 +1,10 @@
+/cache
+/saves
+/gui
+/images
+/music
+/sounds
+archive.rpa
+*.rpyc
+*.rpymc
+*.ttf
