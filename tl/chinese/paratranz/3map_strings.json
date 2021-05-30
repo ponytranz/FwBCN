@@ -1,0 +1,602 @@
+[
+  {
+    "key": "game/3map.rpy_L75_0",
+    "original": "Yeah, let me just buy something quickly."
+  },
+  {
+    "key": "game/3map.rpy_L75_1",
+    "original": "I'm in no rush, let me help you."
+  },
+  {
+    "key": "game/3map.rpy_L75_2",
+    "original": "Oh my god."
+  },
+  {
+    "key": "game/3map.rpy_L99_0",
+    "original": "Equipment"
+  },
+  {
+    "key": "game/3map.rpy_L99_1",
+    "original": "Gifts"
+  },
+  {
+    "key": "game/3map.rpy_L99_2",
+    "original": "Muffins"
+  },
+  {
+    "key": "game/3map.rpy_L107_0",
+    "original": "I have [monies] monies."
+  },
+  {
+    "key": "game/3map.rpy_L107_1",
+    "original": "Hook and Ropes - 50 monies"
+  },
+  {
+    "key": "game/3map.rpy_L107_2",
+    "original": "Leather Armor - 130 monies"
+  },
+  {
+    "key": "game/3map.rpy_L107_3",
+    "original": "Scimitar - 240 monies"
+  },
+  {
+    "key": "game/3map.rpy_L107_4",
+    "original": "You"
+  },
+  {
+    "key": "game/3map.rpy_L188_0",
+    "original": "Hook and Ropes - 60 monies"
+  },
+  {
+    "key": "game/3map.rpy_L188_1",
+    "original": "Leather Armor - 140 monies"
+  },
+  {
+    "key": "game/3map.rpy_L188_2",
+    "original": "Scimitar - 250 monies"
+  },
+  {
+    "key": "game/3map.rpy_L188_3",
+    "original": "Flirt with Midna"
+  },
+  {
+    "key": "game/3map.rpy_L278_0",
+    "original": "The ol' fuck and chuck. Alright, sure."
+  },
+  {
+    "key": "game/3map.rpy_L278_1",
+    "original": "Sounds like you're taking the idea of being a cum dumpster literally."
+  },
+  {
+    "key": "game/3map.rpy_L278_2",
+    "original": "Fuck in an alleyway? Even I have higher standards than that."
+  },
+  {
+    "key": "game/3map.rpy_L347_0",
+    "original": "What?!"
+  },
+  {
+    "key": "game/3map.rpy_L347_1",
+    "original": "You said you weren't a virgin!"
+  },
+  {
+    "key": "game/3map.rpy_L347_2",
+    "original": "You lied to me!"
+  },
+  {
+    "key": "game/3map.rpy_L364_0",
+    "original": "An alleyway is no place to lose your virginity, least not with a stranger."
+  },
+  {
+    "key": "game/3map.rpy_L364_1",
+    "original": "I don't want you to regret this."
+  },
+  {
+    "key": "game/3map.rpy_L364_2",
+    "original": "Sheesh, you really are impatient. But I like that."
+  },
+  {
+    "key": "game/3map.rpy_L452_0",
+    "original": "Sure thing, I'll spread the love."
+  },
+  {
+    "key": "game/3map.rpy_L452_1",
+    "original": "Is keeping them not an option?"
+  },
+  {
+    "key": "game/3map.rpy_L452_2",
+    "original": "You should keep the roses, I don't want you getting the wrong idea."
+  },
+  {
+    "key": "game/3map.rpy_L512_0",
+    "original": "Fancy Chocolates - 30 monies"
+  },
+  {
+    "key": "game/3map.rpy_L512_1",
+    "original": "Bouquet of Roses - 75 monies"
+  },
+  {
+    "key": "game/3map.rpy_L512_2",
+    "original": "Sex at the Wagon"
+  },
+  {
+    "key": "game/3map.rpy_L512_3",
+    "original": "Flirt with Ari."
+  },
+  {
+    "key": "game/3map.rpy_L613_0",
+    "original": "Wow, you could grate cheese on those abs!"
+  },
+  {
+    "key": "game/3map.rpy_L613_1",
+    "original": "Your hair is gorgeous!"
+  },
+  {
+    "key": "game/3map.rpy_L613_2",
+    "original": "You have nice boobs."
+  },
+  {
+    "key": "game/3map.rpy_L682_0",
+    "original": "(There is literally no reason to actually buy muffins)."
+  },
+  {
+    "key": "game/3map.rpy_L682_1",
+    "original": "Blueberry Muffin – 5 Monies"
+  },
+  {
+    "key": "game/3map.rpy_L682_2",
+    "original": "Raisin Muffin – 5 Monies"
+  },
+  {
+    "key": "game/3map.rpy_L696_0",
+    "original": "Reverse Cowgirl"
+  },
+  {
+    "key": "game/3map.rpy_L696_1",
+    "original": "Lingerie Leg up Missionary"
+  },
+  {
+    "key": "game/3map.rpy_L696_2",
+    "original": "Changed my mind"
+  },
+  {
+    "key": "game/3map.rpy_L714_0",
+    "original": "Blueberry – (Reverse Cowgirl) – 50 Monies"
+  },
+  {
+    "key": "game/3map.rpy_L714_1",
+    "original": "Raisin – (Lingerie Leg Up Missionary) – 75 Monies"
+  },
+  {
+    "key": "game/3map.rpy_L714_2",
+    "original": "Blueberry – (Reverse Cowgirl) – 45 Monies"
+  },
+  {
+    "key": "game/3map.rpy_L714_3",
+    "original": "Raisin – (Lingerie Leg Up Missionary) – 67 Monies"
+  },
+  {
+    "key": "game/3map.rpy_L760_0",
+    "original": "If you’re a dragon, why do you have breasts and nipples?"
+  },
+  {
+    "key": "game/3map.rpy_L760_1",
+    "original": "Where are you from?"
+  },
+  {
+    "key": "game/3map.rpy_L760_2",
+    "original": "(Flirt with Cindy)"
+  },
+  {
+    "key": "game/3map.rpy_L760_3",
+    "original": "(Conclude conversation)"
+  },
+  {
+    "key": "game/3map.rpy_L830_0",
+    "original": "(Haggle her down)"
+  },
+  {
+    "key": "game/3map.rpy_L830_1",
+    "original": "I’ll buy your muffins; I couldn’t resist the opportunity to sleep with a dragon."
+  },
+  {
+    "key": "game/3map.rpy_L830_2",
+    "original": "Well, good luck finding some customers."
+  },
+  {
+    "key": "game/3map.rpy_L1122_0",
+    "original": "Vaginal"
+  },
+  {
+    "key": "game/3map.rpy_L1317_0",
+    "original": "Honeycrisp's farm"
+  },
+  {
+    "key": "game/3map.rpy_L1317_1",
+    "original": "Visit the Farm"
+  },
+  {
+    "key": "game/3map.rpy_L1346_0",
+    "original": "Lily's library"
+  },
+  {
+    "key": "game/3map.rpy_L1346_1",
+    "original": "Visit the library"
+  },
+  {
+    "key": "game/3map.rpy_L1359_0",
+    "original": "Cream's bakery"
+  },
+  {
+    "key": "game/3map.rpy_L1359_1",
+    "original": "Visit the bakery"
+  },
+  {
+    "key": "game/3map.rpy_L1390_0",
+    "original": "Butters' home"
+  },
+  {
+    "key": "game/3map.rpy_L1390_1",
+    "original": "Visit Butters"
+  },
+  {
+    "key": "game/3map.rpy_L1402_0",
+    "original": "Take a day off."
+  },
+  {
+    "key": "game/3map.rpy_L1402_1",
+    "original": "Crystal Ball"
+  },
+  {
+    "key": "game/3map.rpy_L1402_2",
+    "original": "Enter Cheat"
+  },
+  {
+    "key": "game/3map.rpy_L1451_0",
+    "original": "The Crystal Ball allows you to replay scenes without affecting time."
+  },
+  {
+    "key": "game/3map.rpy_L1451_1",
+    "original": "Prologue"
+  },
+  {
+    "key": "game/3map.rpy_L1451_2",
+    "original": "Farm"
+  },
+  {
+    "key": "game/3map.rpy_L1451_3",
+    "original": "Boutique"
+  },
+  {
+    "key": "game/3map.rpy_L1451_4",
+    "original": "Library"
+  },
+  {
+    "key": "game/3map.rpy_L1451_5",
+    "original": "Bar"
+  },
+  {
+    "key": "game/3map.rpy_L1451_6",
+    "original": "Forest"
+  },
+  {
+    "key": "game/3map.rpy_L1451_7",
+    "original": "Bakery"
+  },
+  {
+    "key": "game/3map.rpy_L1451_8",
+    "original": "Page 2 ->"
+  },
+  {
+    "key": "game/3map.rpy_L1454_0",
+    "original": "Prologue Day 0 (Note: You'll be able to change your name)"
+  },
+  {
+    "key": "game/3map.rpy_L1454_1",
+    "original": "Prologue Day 1"
+  },
+  {
+    "key": "game/3map.rpy_L1454_2",
+    "original": "The Sixty-Nine"
+  },
+  {
+    "key": "game/3map.rpy_L1454_3",
+    "original": "The Doggystyle Sex"
+  },
+  {
+    "key": "game/3map.rpy_L1472_0",
+    "original": "Visits"
+  },
+  {
+    "key": "game/3map.rpy_L1472_1",
+    "original": "Sex Scenes"
+  },
+  {
+    "key": "game/3map.rpy_L1474_0",
+    "original": "Visit 1 - Meeting Honey and Blossom"
+  },
+  {
+    "key": "game/3map.rpy_L1474_1",
+    "original": "Visit 2 - Meeting and Milking Anna"
+  },
+  {
+    "key": "game/3map.rpy_L1474_2",
+    "original": "Visit 3 - The Climax"
+  },
+  {
+    "key": "game/3map.rpy_L1487_0",
+    "original": "Milking and Paizuri with Anna"
+  },
+  {
+    "key": "game/3map.rpy_L1487_1",
+    "original": "Anna and Honey threesome"
+  },
+  {
+    "key": "game/3map.rpy_L1487_2",
+    "original": "Milk-Fueled sex with Blossom"
+  },
+  {
+    "key": "game/3map.rpy_L1505_0",
+    "original": "Visit 1 - Meeting Ruby and Melody"
+  },
+  {
+    "key": "game/3map.rpy_L1505_1",
+    "original": "Visit 2 - The Camshow"
+  },
+  {
+    "key": "game/3map.rpy_L1505_2",
+    "original": "Visit 3 - Personal Assistant"
+  },
+  {
+    "key": "game/3map.rpy_L1518_0",
+    "original": "Melody Handjob and Voyeur"
+  },
+  {
+    "key": "game/3map.rpy_L1518_1",
+    "original": "Ruby Photoshoot and Camshow"
+  },
+  {
+    "key": "game/3map.rpy_L1518_2",
+    "original": "Melody Blowjob"
+  },
+  {
+    "key": "game/3map.rpy_L1518_3",
+    "original": "Melody Cowgirl Position"
+  },
+  {
+    "key": "game/3map.rpy_L1538_0",
+    "original": "Visit 1 - Meeting Lily."
+  },
+  {
+    "key": "game/3map.rpy_L1538_1",
+    "original": "Visit 2 - Sex for Breakfast, Lunch and Dinner"
+  },
+  {
+    "key": "game/3map.rpy_L1538_2",
+    "original": "Visit 3 - Meeting the Royal Sisters."
+  },
+  {
+    "key": "game/3map.rpy_L1551_0",
+    "original": "Lily Thigh-Job into Sex into Facial"
+  },
+  {
+    "key": "game/3map.rpy_L1551_1",
+    "original": "Lily Standing Sex"
+  },
+  {
+    "key": "game/3map.rpy_L1551_2",
+    "original": "Lily Legs-Up Missionary"
+  },
+  {
+    "key": "game/3map.rpy_L1551_3",
+    "original": "Penelope Cunnilingus and Facesitting"
+  },
+  {
+    "key": "game/3map.rpy_L1551_4",
+    "original": "Penelope Rubbing and Scissoring"
+  },
+  {
+    "key": "game/3map.rpy_L1589_0",
+    "original": "Meeting Riku"
+  },
+  {
+    "key": "game/3map.rpy_L1589_1",
+    "original": "Making Riku a Maid"
+  },
+  {
+    "key": "game/3map.rpy_L1599_0",
+    "original": "Riku Truth or Dare into Doggystyle"
+  },
+  {
+    "key": "game/3map.rpy_L1599_1",
+    "original": "Riku Maid Blowjob"
+  },
+  {
+    "key": "game/3map.rpy_L1599_2",
+    "original": "Riku and Moxie Threesome"
+  },
+  {
+    "key": "game/3map.rpy_L1624_0",
+    "original": "Visit 1 - Meeting Butters and the Slime"
+  },
+  {
+    "key": "game/3map.rpy_L1624_1",
+    "original": "Visit 2 - Meeting the Plant Girl"
+  },
+  {
+    "key": "game/3map.rpy_L1624_2",
+    "original": "Visit 3 - Meeting SuccuButters"
+  },
+  {
+    "key": "game/3map.rpy_L1638_0",
+    "original": "Butters and the original Slime"
+  },
+  {
+    "key": "game/3map.rpy_L1638_1",
+    "original": "Butters and the Alraune"
+  },
+  {
+    "key": "game/3map.rpy_L1638_2",
+    "original": "SuccuButters Cowgirl Position"
+  },
+  {
+    "key": "game/3map.rpy_L1660_0",
+    "original": "Visit 1 - Meeting Cream and Party"
+  },
+  {
+    "key": "game/3map.rpy_L1660_1",
+    "original": "Visit 2 - Meeting the Whole Gang"
+  },
+  {
+    "key": "game/3map.rpy_L1670_0",
+    "original": "Quickie"
+  },
+  {
+    "key": "game/3map.rpy_L1670_1",
+    "original": "Gangbang"
+  },
+  {
+    "key": "game/3map.rpy_L1696_0",
+    "original": "Dawn"
+  },
+  {
+    "key": "game/3map.rpy_L1696_1",
+    "original": "Castle"
+  },
+  {
+    "key": "game/3map.rpy_L1696_2",
+    "original": "Morrigan's Route"
+  },
+  {
+    "key": "game/3map.rpy_L1696_3",
+    "original": "Secret Scenes"
+  },
+  {
+    "key": "game/3map.rpy_L1696_4",
+    "original": "<- Page 1"
+  },
+  {
+    "key": "game/3map.rpy_L1700_0",
+    "original": "Dawn Upstairs in the Club"
+  },
+  {
+    "key": "game/3map.rpy_L1700_1",
+    "original": "Travelling to the Human Universe"
+  },
+  {
+    "key": "game/3map.rpy_L1700_2",
+    "original": "Spa Day"
+  },
+  {
+    "key": "game/3map.rpy_L1700_3",
+    "original": "Meeting Dawn, again?"
+  },
+  {
+    "key": "game/3map.rpy_L1719_0",
+    "original": "The Long Threesome with Lily"
+  },
+  {
+    "key": "game/3map.rpy_L1719_1",
+    "original": "Principal Aurora's First Scene"
+  },
+  {
+    "key": "game/3map.rpy_L1749_0",
+    "original": "Visiting Selene"
+  },
+  {
+    "key": "game/3map.rpy_L1749_1",
+    "original": "Visiting Aurora"
+  },
+  {
+    "key": "game/3map.rpy_L1760_0",
+    "original": "Selene Blowjob and Cowgirl"
+  },
+  {
+    "key": "game/3map.rpy_L1760_1",
+    "original": "Aurora Missionary"
+  },
+  {
+    "key": "game/3map.rpy_L1778_0",
+    "original": "Replay - You can cancel the replay at any time by visiting the wagon."
+  },
+  {
+    "key": "game/3map.rpy_L1796_0",
+    "original": "Werewolf Hunting"
+  },
+  {
+    "key": "game/3map.rpy_L1796_1",
+    "original": "Female Werewolf Sex Only"
+  },
+  {
+    "key": "game/3map.rpy_L1796_2",
+    "original": "Sandy Threesome"
+  },
+  {
+    "key": "game/3map.rpy_L1796_3",
+    "original": "Double Doggos"
+  },
+  {
+    "key": "game/3map.rpy_L1796_4",
+    "original": "Honeycrisp Outside"
+  },
+  {
+    "key": "game/3map.rpy_L1796_5",
+    "original": "Cream Lingerie"
+  },
+  {
+    "key": "game/3map.rpy_L1796_6",
+    "original": "Next Page ->"
+  },
+  {
+    "key": "game/3map.rpy_L1822_0",
+    "original": "Ruby Lingerie Doggystyle"
+  },
+  {
+    "key": "game/3map.rpy_L1822_1",
+    "original": "Riku Climbing Sex"
+  },
+  {
+    "key": "game/3map.rpy_L1822_2",
+    "original": "Lily Splits Sex"
+  },
+  {
+    "key": "game/3map.rpy_L1822_3",
+    "original": "Dawn Shower Sex"
+  },
+  {
+    "key": "game/3map.rpy_L1822_4",
+    "original": "Melody Cunnilingus"
+  },
+  {
+    "key": "game/3map.rpy_L1822_5",
+    "original": "Succubutters Work Sex"
+  },
+  {
+    "key": "game/3map.rpy_L1822_6",
+    "original": "<- Previous Page"
+  },
+  {
+    "key": "game/3map.rpy_L2038_0",
+    "original": "Visit Cindy’s sister."
+  },
+  {
+    "key": "game/3map.rpy_L2038_1",
+    "original": "I’d really love to, but I can’t right now."
+  },
+  {
+    "key": "game/3map.rpy_L2195_0",
+    "original": "Why not? Try everything once for fun."
+  },
+  {
+    "key": "game/3map.rpy_L2195_1",
+    "original": "Do what makes you feel comfortable."
+  },
+  {
+    "key": "game/3map.rpy_L2195_2",
+    "original": "An incestuous dragon threesome? Sounds like a dream come true."
+  },
+  {
+    "key": "game/3map.rpy_L2195_3",
+    "original": "You shouldn’t do it if you don’t want to."
+  }
+]

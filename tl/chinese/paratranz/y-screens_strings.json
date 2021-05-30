@@ -1,0 +1,322 @@
+[
+  {
+    "key": "game/y-screens.rpy_L270_0",
+    "original": "History"
+  },
+  {
+    "key": "game/y-screens.rpy_L271_0",
+    "original": "Skip"
+  },
+  {
+    "key": "game/y-screens.rpy_L272_0",
+    "original": "Auto"
+  },
+  {
+    "key": "game/y-screens.rpy_L273_0",
+    "original": "Save"
+  },
+  {
+    "key": "game/y-screens.rpy_L274_0",
+    "original": "Load"
+  },
+  {
+    "key": "game/y-screens.rpy_L275_0",
+    "original": "Q.Save"
+  },
+  {
+    "key": "game/y-screens.rpy_L276_0",
+    "original": "Q.Load"
+  },
+  {
+    "key": "game/y-screens.rpy_L277_0",
+    "original": "Prefs"
+  },
+  {
+    "key": "game/y-screens.rpy_L318_0",
+    "original": "Start"
+  },
+  {
+    "key": "game/y-screens.rpy_L328_0",
+    "original": "Preferences"
+  },
+  {
+    "key": "game/y-screens.rpy_L332_0",
+    "original": "End Replay"
+  },
+  {
+    "key": "game/y-screens.rpy_L336_0",
+    "original": "Main Menu"
+  },
+  {
+    "key": "game/y-screens.rpy_L338_0",
+    "original": "About"
+  },
+  {
+    "key": "game/y-screens.rpy_L343_0",
+    "original": "Help"
+  },
+  {
+    "key": "game/y-screens.rpy_L346_0",
+    "original": "Quit"
+  },
+  {
+    "key": "game/y-screens.rpy_L594_0",
+    "original": "Version [config.version!t]\\n"
+  },
+  {
+    "key": "game/y-screens.rpy_L600_0",
+    "original": "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\\n\\n[renpy.license!t]"
+  },
+  {
+    "key": "game/y-screens.rpy_L682_0",
+    "original": "{#file_time}%A, %B %d %Y, %H:%M"
+  },
+  {
+    "key": "game/y-screens.rpy_L682_1",
+    "original": "empty slot"
+  },
+  {
+    "key": "game/y-screens.rpy_L699_0",
+    "original": "<"
+  },
+  {
+    "key": "game/y-screens.rpy_L702_0",
+    "original": "{#auto_page}A"
+  },
+  {
+    "key": "game/y-screens.rpy_L705_0",
+    "original": "{#quick_page}Q"
+  },
+  {
+    "key": "game/y-screens.rpy_L711_0",
+    "original": ">"
+  },
+  {
+    "key": "game/y-screens.rpy_L768_0",
+    "original": "Display"
+  },
+  {
+    "key": "game/y-screens.rpy_L769_0",
+    "original": "Window"
+  },
+  {
+    "key": "game/y-screens.rpy_L770_0",
+    "original": "Fullscreen"
+  },
+  {
+    "key": "game/y-screens.rpy_L774_0",
+    "original": "Rollback Side"
+  },
+  {
+    "key": "game/y-screens.rpy_L775_0",
+    "original": "Disable"
+  },
+  {
+    "key": "game/y-screens.rpy_L776_0",
+    "original": "Left"
+  },
+  {
+    "key": "game/y-screens.rpy_L777_0",
+    "original": "Right"
+  },
+  {
+    "key": "game/y-screens.rpy_L782_0",
+    "original": "Unseen Text"
+  },
+  {
+    "key": "game/y-screens.rpy_L783_0",
+    "original": "After Choices"
+  },
+  {
+    "key": "game/y-screens.rpy_L784_0",
+    "original": "Transitions"
+  },
+  {
+    "key": "game/y-screens.rpy_L797_0",
+    "original": "Text Speed"
+  },
+  {
+    "key": "game/y-screens.rpy_L801_0",
+    "original": "Auto-Forward Time"
+  },
+  {
+    "key": "game/y-screens.rpy_L808_0",
+    "original": "Music Volume"
+  },
+  {
+    "key": "game/y-screens.rpy_L814_0",
+    "original": "Sound Volume"
+  },
+  {
+    "key": "game/y-screens.rpy_L820_0",
+    "original": "Test"
+  },
+  {
+    "key": "game/y-screens.rpy_L825_0",
+    "original": "Mute All"
+  },
+  {
+    "key": "game/y-screens.rpy_L944_0",
+    "original": "The dialogue history is empty."
+  },
+  {
+    "key": "game/y-screens.rpy_L1014_0",
+    "original": "Keyboard"
+  },
+  {
+    "key": "game/y-screens.rpy_L1015_0",
+    "original": "Mouse"
+  },
+  {
+    "key": "game/y-screens.rpy_L1018_0",
+    "original": "Gamepad"
+  },
+  {
+    "key": "game/y-screens.rpy_L1031_0",
+    "original": "Enter"
+  },
+  {
+    "key": "game/y-screens.rpy_L1032_0",
+    "original": "Advances dialogue and activates the interface."
+  },
+  {
+    "key": "game/y-screens.rpy_L1035_0",
+    "original": "Space"
+  },
+  {
+    "key": "game/y-screens.rpy_L1036_0",
+    "original": "Advances dialogue without selecting choices."
+  },
+  {
+    "key": "game/y-screens.rpy_L1039_0",
+    "original": "Arrow Keys"
+  },
+  {
+    "key": "game/y-screens.rpy_L1040_0",
+    "original": "Navigate the interface."
+  },
+  {
+    "key": "game/y-screens.rpy_L1043_0",
+    "original": "Escape"
+  },
+  {
+    "key": "game/y-screens.rpy_L1044_0",
+    "original": "Accesses the game menu."
+  },
+  {
+    "key": "game/y-screens.rpy_L1047_0",
+    "original": "Ctrl"
+  },
+  {
+    "key": "game/y-screens.rpy_L1048_0",
+    "original": "Skips dialogue while held down."
+  },
+  {
+    "key": "game/y-screens.rpy_L1051_0",
+    "original": "Tab"
+  },
+  {
+    "key": "game/y-screens.rpy_L1052_0",
+    "original": "Toggles dialogue skipping."
+  },
+  {
+    "key": "game/y-screens.rpy_L1055_0",
+    "original": "Page Up"
+  },
+  {
+    "key": "game/y-screens.rpy_L1056_0",
+    "original": "Rolls back to earlier dialogue."
+  },
+  {
+    "key": "game/y-screens.rpy_L1059_0",
+    "original": "Page Down"
+  },
+  {
+    "key": "game/y-screens.rpy_L1060_0",
+    "original": "Rolls forward to later dialogue."
+  },
+  {
+    "key": "game/y-screens.rpy_L1064_0",
+    "original": "Hides the user interface."
+  },
+  {
+    "key": "game/y-screens.rpy_L1068_0",
+    "original": "Takes a screenshot."
+  },
+  {
+    "key": "game/y-screens.rpy_L1072_0",
+    "original": "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
+  },
+  {
+    "key": "game/y-screens.rpy_L1078_0",
+    "original": "Left Click"
+  },
+  {
+    "key": "game/y-screens.rpy_L1082_0",
+    "original": "Middle Click"
+  },
+  {
+    "key": "game/y-screens.rpy_L1086_0",
+    "original": "Right Click"
+  },
+  {
+    "key": "game/y-screens.rpy_L1090_0",
+    "original": "Mouse Wheel Up\\nClick Rollback Side"
+  },
+  {
+    "key": "game/y-screens.rpy_L1094_0",
+    "original": "Mouse Wheel Down"
+  },
+  {
+    "key": "game/y-screens.rpy_L1101_0",
+    "original": "Right Trigger\\nA/Bottom Button"
+  },
+  {
+    "key": "game/y-screens.rpy_L1105_0",
+    "original": "Left Trigger\\nLeft Shoulder"
+  },
+  {
+    "key": "game/y-screens.rpy_L1109_0",
+    "original": "Right Shoulder"
+  },
+  {
+    "key": "game/y-screens.rpy_L1114_0",
+    "original": "D-Pad, Sticks"
+  },
+  {
+    "key": "game/y-screens.rpy_L1118_0",
+    "original": "Start, Guide"
+  },
+  {
+    "key": "game/y-screens.rpy_L1122_0",
+    "original": "Y/Top Button"
+  },
+  {
+    "key": "game/y-screens.rpy_L1125_0",
+    "original": "Calibrate"
+  },
+  {
+    "key": "game/y-screens.rpy_L1237_0",
+    "original": "Skipping"
+  },
+  {
+    "key": "game/y-screens.rpy_L1460_0",
+    "original": "Menu"
+  },
+  {
+    "key": "game/y-screens.rpy_L1883_0",
+    "original": "Moxie's Satchel:"
+  },
+  {
+    "key": "game/y-screens.rpy_L1883_1",
+    "original": "Castle Permit"
+  },
+  {
+    "key": "game/y-screens.rpy_L1883_2",
+    "original": "Augusta's Gallery Key"
+  },
+  {
+    "key": "game/y-screens.rpy_L1883_3",
+    "original": "Gallery Pass"
+  }
+]

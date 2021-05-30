@@ -1,0 +1,1146 @@
+[
+  {
+    "key": "renpy/common/00accessibility.rpy_L28_0",
+    "original": "Self-voicing disabled."
+  },
+  {
+    "key": "renpy/common/00accessibility.rpy_L29_0",
+    "original": "Clipboard voicing enabled. "
+  },
+  {
+    "key": "renpy/common/00accessibility.rpy_L30_0",
+    "original": "Self-voicing enabled. "
+  },
+  {
+    "key": "renpy/common/00accessibility.rpy_L32_0",
+    "original": "bar"
+  },
+  {
+    "key": "renpy/common/00accessibility.rpy_L33_0",
+    "original": "selected"
+  },
+  {
+    "key": "renpy/common/00accessibility.rpy_L34_0",
+    "original": "viewport"
+  },
+  {
+    "key": "renpy/common/00accessibility.rpy_L35_0",
+    "original": "horizontal scroll"
+  },
+  {
+    "key": "renpy/common/00accessibility.rpy_L36_0",
+    "original": "vertical scroll"
+  },
+  {
+    "key": "renpy/common/00accessibility.rpy_L37_0",
+    "original": "activate"
+  },
+  {
+    "key": "renpy/common/00accessibility.rpy_L38_0",
+    "original": "deactivate"
+  },
+  {
+    "key": "renpy/common/00accessibility.rpy_L39_0",
+    "original": "increase"
+  },
+  {
+    "key": "renpy/common/00accessibility.rpy_L40_0",
+    "original": "decrease"
+  },
+  {
+    "key": "renpy/common/00accessibility.rpy_L128_0",
+    "original": "Font Override"
+  },
+  {
+    "key": "renpy/common/00accessibility.rpy_L132_0",
+    "original": "Default"
+  },
+  {
+    "key": "renpy/common/00accessibility.rpy_L136_0",
+    "original": "DejaVu Sans"
+  },
+  {
+    "key": "renpy/common/00accessibility.rpy_L140_0",
+    "original": "Opendyslexic"
+  },
+  {
+    "key": "renpy/common/00accessibility.rpy_L146_0",
+    "original": "Text Size Scaling"
+  },
+  {
+    "key": "renpy/common/00accessibility.rpy_L152_0",
+    "original": "Reset"
+  },
+  {
+    "key": "renpy/common/00accessibility.rpy_L158_0",
+    "original": "Line Spacing Scaling"
+  },
+  {
+    "key": "renpy/common/00accessibility.rpy_L171_0",
+    "original": "Self-Voicing"
+  },
+  {
+    "key": "renpy/common/00accessibility.rpy_L175_0",
+    "original": "Off"
+  },
+  {
+    "key": "renpy/common/00accessibility.rpy_L179_0",
+    "original": "Text-to-speech"
+  },
+  {
+    "key": "renpy/common/00accessibility.rpy_L183_0",
+    "original": "Clipboard"
+  },
+  {
+    "key": "renpy/common/00accessibility.rpy_L187_0",
+    "original": "Debug"
+  },
+  {
+    "key": "renpy/common/00accessibility.rpy_L193_0",
+    "original": "Self-Voicing Volume Drop"
+  },
+  {
+    "key": "renpy/common/00accessibility.rpy_L202_0",
+    "original": "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
+  },
+  {
+    "key": "renpy/common/00accessibility.rpy_L207_0",
+    "original": "Return"
+  },
+  {
+    "key": "renpy/common/00action_file.rpy_L26_0",
+    "original": "{#weekday}Monday"
+  },
+  {
+    "key": "renpy/common/00action_file.rpy_L26_1",
+    "original": "{#weekday}Tuesday"
+  },
+  {
+    "key": "renpy/common/00action_file.rpy_L26_2",
+    "original": "{#weekday}Wednesday"
+  },
+  {
+    "key": "renpy/common/00action_file.rpy_L26_3",
+    "original": "{#weekday}Thursday"
+  },
+  {
+    "key": "renpy/common/00action_file.rpy_L26_4",
+    "original": "{#weekday}Friday"
+  },
+  {
+    "key": "renpy/common/00action_file.rpy_L26_5",
+    "original": "{#weekday}Saturday"
+  },
+  {
+    "key": "renpy/common/00action_file.rpy_L26_6",
+    "original": "{#weekday}Sunday"
+  },
+  {
+    "key": "renpy/common/00action_file.rpy_L37_0",
+    "original": "{#weekday_short}Mon"
+  },
+  {
+    "key": "renpy/common/00action_file.rpy_L37_1",
+    "original": "{#weekday_short}Tue"
+  },
+  {
+    "key": "renpy/common/00action_file.rpy_L37_2",
+    "original": "{#weekday_short}Wed"
+  },
+  {
+    "key": "renpy/common/00action_file.rpy_L37_3",
+    "original": "{#weekday_short}Thu"
+  },
+  {
+    "key": "renpy/common/00action_file.rpy_L37_4",
+    "original": "{#weekday_short}Fri"
+  },
+  {
+    "key": "renpy/common/00action_file.rpy_L37_5",
+    "original": "{#weekday_short}Sat"
+  },
+  {
+    "key": "renpy/common/00action_file.rpy_L37_6",
+    "original": "{#weekday_short}Sun"
+  },
+  {
+    "key": "renpy/common/00action_file.rpy_L47_0",
+    "original": "{#month}January"
+  },
+  {
+    "key": "renpy/common/00action_file.rpy_L47_1",
+    "original": "{#month}February"
+  },
+  {
+    "key": "renpy/common/00action_file.rpy_L47_2",
+    "original": "{#month}March"
+  },
+  {
+    "key": "renpy/common/00action_file.rpy_L47_3",
+    "original": "{#month}April"
+  },
+  {
+    "key": "renpy/common/00action_file.rpy_L47_4",
+    "original": "{#month}May"
+  },
+  {
+    "key": "renpy/common/00action_file.rpy_L47_5",
+    "original": "{#month}June"
+  },
+  {
+    "key": "renpy/common/00action_file.rpy_L47_6",
+    "original": "{#month}July"
+  },
+  {
+    "key": "renpy/common/00action_file.rpy_L47_7",
+    "original": "{#month}August"
+  },
+  {
+    "key": "renpy/common/00action_file.rpy_L47_8",
+    "original": "{#month}September"
+  },
+  {
+    "key": "renpy/common/00action_file.rpy_L47_9",
+    "original": "{#month}October"
+  },
+  {
+    "key": "renpy/common/00action_file.rpy_L47_10",
+    "original": "{#month}November"
+  },
+  {
+    "key": "renpy/common/00action_file.rpy_L47_11",
+    "original": "{#month}December"
+  },
+  {
+    "key": "renpy/common/00action_file.rpy_L63_0",
+    "original": "{#month_short}Jan"
+  },
+  {
+    "key": "renpy/common/00action_file.rpy_L63_1",
+    "original": "{#month_short}Feb"
+  },
+  {
+    "key": "renpy/common/00action_file.rpy_L63_2",
+    "original": "{#month_short}Mar"
+  },
+  {
+    "key": "renpy/common/00action_file.rpy_L63_3",
+    "original": "{#month_short}Apr"
+  },
+  {
+    "key": "renpy/common/00action_file.rpy_L63_4",
+    "original": "{#month_short}May"
+  },
+  {
+    "key": "renpy/common/00action_file.rpy_L63_5",
+    "original": "{#month_short}Jun"
+  },
+  {
+    "key": "renpy/common/00action_file.rpy_L63_6",
+    "original": "{#month_short}Jul"
+  },
+  {
+    "key": "renpy/common/00action_file.rpy_L63_7",
+    "original": "{#month_short}Aug"
+  },
+  {
+    "key": "renpy/common/00action_file.rpy_L63_8",
+    "original": "{#month_short}Sep"
+  },
+  {
+    "key": "renpy/common/00action_file.rpy_L63_9",
+    "original": "{#month_short}Oct"
+  },
+  {
+    "key": "renpy/common/00action_file.rpy_L63_10",
+    "original": "{#month_short}Nov"
+  },
+  {
+    "key": "renpy/common/00action_file.rpy_L63_11",
+    "original": "{#month_short}Dec"
+  },
+  {
+    "key": "renpy/common/00action_file.rpy_L240_0",
+    "original": "%b %d, %H:%M"
+  },
+  {
+    "key": "renpy/common/00action_file.rpy_L353_0",
+    "original": "Save slot %s: [text]"
+  },
+  {
+    "key": "renpy/common/00action_file.rpy_L434_0",
+    "original": "Load slot %s: [text]"
+  },
+  {
+    "key": "renpy/common/00action_file.rpy_L487_0",
+    "original": "Delete slot [text]"
+  },
+  {
+    "key": "renpy/common/00action_file.rpy_L566_0",
+    "original": "File page auto"
+  },
+  {
+    "key": "renpy/common/00action_file.rpy_L568_0",
+    "original": "File page quick"
+  },
+  {
+    "key": "renpy/common/00action_file.rpy_L570_0",
+    "original": "File page [text]"
+  },
+  {
+    "key": "renpy/common/00action_file.rpy_L628_0",
+    "original": "Page {}"
+  },
+  {
+    "key": "renpy/common/00action_file.rpy_L628_1",
+    "original": "Automatic saves"
+  },
+  {
+    "key": "renpy/common/00action_file.rpy_L628_2",
+    "original": "Quick saves"
+  },
+  {
+    "key": "renpy/common/00action_file.rpy_L769_0",
+    "original": "Next file page."
+  },
+  {
+    "key": "renpy/common/00action_file.rpy_L841_0",
+    "original": "Previous file page."
+  },
+  {
+    "key": "renpy/common/00action_file.rpy_L902_0",
+    "original": "Quick save complete."
+  },
+  {
+    "key": "renpy/common/00action_file.rpy_L920_0",
+    "original": "Quick save."
+  },
+  {
+    "key": "renpy/common/00action_file.rpy_L939_0",
+    "original": "Quick load."
+  },
+  {
+    "key": "renpy/common/00action_other.rpy_L375_0",
+    "original": "Language [text]"
+  },
+  {
+    "key": "renpy/common/00director.rpy_L708_0",
+    "original": "The interactive director is not enabled here."
+  },
+  {
+    "key": "renpy/common/00director.rpy_L1481_0",
+    "original": "⬆"
+  },
+  {
+    "key": "renpy/common/00director.rpy_L1487_0",
+    "original": "⬇"
+  },
+  {
+    "key": "renpy/common/00director.rpy_L1551_0",
+    "original": "Done"
+  },
+  {
+    "key": "renpy/common/00director.rpy_L1561_0",
+    "original": "(statement)"
+  },
+  {
+    "key": "renpy/common/00director.rpy_L1562_0",
+    "original": "(tag)"
+  },
+  {
+    "key": "renpy/common/00director.rpy_L1563_0",
+    "original": "(attributes)"
+  },
+  {
+    "key": "renpy/common/00director.rpy_L1564_0",
+    "original": "(transform)"
+  },
+  {
+    "key": "renpy/common/00director.rpy_L1589_0",
+    "original": "(transition)"
+  },
+  {
+    "key": "renpy/common/00director.rpy_L1601_0",
+    "original": "(channel)"
+  },
+  {
+    "key": "renpy/common/00director.rpy_L1602_0",
+    "original": "(filename)"
+  },
+  {
+    "key": "renpy/common/00director.rpy_L1631_0",
+    "original": "Change"
+  },
+  {
+    "key": "renpy/common/00director.rpy_L1633_0",
+    "original": "Add"
+  },
+  {
+    "key": "renpy/common/00director.rpy_L1636_0",
+    "original": "Cancel"
+  },
+  {
+    "key": "renpy/common/00director.rpy_L1639_0",
+    "original": "Remove"
+  },
+  {
+    "key": "renpy/common/00director.rpy_L1674_0",
+    "original": "Statement:"
+  },
+  {
+    "key": "renpy/common/00director.rpy_L1695_0",
+    "original": "Tag:"
+  },
+  {
+    "key": "renpy/common/00director.rpy_L1711_0",
+    "original": "Attributes:"
+  },
+  {
+    "key": "renpy/common/00director.rpy_L1729_0",
+    "original": "Transforms:"
+  },
+  {
+    "key": "renpy/common/00director.rpy_L1748_0",
+    "original": "Behind:"
+  },
+  {
+    "key": "renpy/common/00director.rpy_L1767_0",
+    "original": "Transition:"
+  },
+  {
+    "key": "renpy/common/00director.rpy_L1785_0",
+    "original": "Channel:"
+  },
+  {
+    "key": "renpy/common/00director.rpy_L1803_0",
+    "original": "Audio Filename:"
+  },
+  {
+    "key": "renpy/common/00gui.rpy_L382_0",
+    "original": "Are you sure?"
+  },
+  {
+    "key": "renpy/common/00gui.rpy_L383_0",
+    "original": "Are you sure you want to delete this save?"
+  },
+  {
+    "key": "renpy/common/00gui.rpy_L384_0",
+    "original": "Are you sure you want to overwrite your save?"
+  },
+  {
+    "key": "renpy/common/00gui.rpy_L385_0",
+    "original": "Loading will lose unsaved progress.\\nAre you sure you want to do this?"
+  },
+  {
+    "key": "renpy/common/00gui.rpy_L386_0",
+    "original": "Are you sure you want to quit?"
+  },
+  {
+    "key": "renpy/common/00gui.rpy_L387_0",
+    "original": "Are you sure you want to return to the main menu?\\nThis will lose unsaved progress."
+  },
+  {
+    "key": "renpy/common/00gui.rpy_L388_0",
+    "original": "Are you sure you want to end the replay?"
+  },
+  {
+    "key": "renpy/common/00gui.rpy_L389_0",
+    "original": "Are you sure you want to begin skipping?"
+  },
+  {
+    "key": "renpy/common/00gui.rpy_L390_0",
+    "original": "Are you sure you want to skip to the next choice?"
+  },
+  {
+    "key": "renpy/common/00gui.rpy_L391_0",
+    "original": "Are you sure you want to skip unseen dialogue to the next choice?"
+  },
+  {
+    "key": "renpy/common/00keymap.rpy_L300_0",
+    "original": "Failed to save screenshot as %s."
+  },
+  {
+    "key": "renpy/common/00keymap.rpy_L312_0",
+    "original": "Saved screenshot as %s."
+  },
+  {
+    "key": "renpy/common/00library.rpy_L195_0",
+    "original": "Skip Mode"
+  },
+  {
+    "key": "renpy/common/00library.rpy_L281_0",
+    "original": "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
+  },
+  {
+    "key": "renpy/common/00preferences.rpy_L240_0",
+    "original": "display"
+  },
+  {
+    "key": "renpy/common/00preferences.rpy_L252_0",
+    "original": "transitions"
+  },
+  {
+    "key": "renpy/common/00preferences.rpy_L261_0",
+    "original": "skip transitions"
+  },
+  {
+    "key": "renpy/common/00preferences.rpy_L263_0",
+    "original": "video sprites"
+  },
+  {
+    "key": "renpy/common/00preferences.rpy_L272_0",
+    "original": "show empty window"
+  },
+  {
+    "key": "renpy/common/00preferences.rpy_L281_0",
+    "original": "text speed"
+  },
+  {
+    "key": "renpy/common/00preferences.rpy_L289_0",
+    "original": "joystick"
+  },
+  {
+    "key": "renpy/common/00preferences.rpy_L289_1",
+    "original": "joystick..."
+  },
+  {
+    "key": "renpy/common/00preferences.rpy_L296_0",
+    "original": "skip"
+  },
+  {
+    "key": "renpy/common/00preferences.rpy_L299_0",
+    "original": "skip unseen [text]"
+  },
+  {
+    "key": "renpy/common/00preferences.rpy_L304_0",
+    "original": "skip unseen text"
+  },
+  {
+    "key": "renpy/common/00preferences.rpy_L306_0",
+    "original": "begin skipping"
+  },
+  {
+    "key": "renpy/common/00preferences.rpy_L310_0",
+    "original": "after choices"
+  },
+  {
+    "key": "renpy/common/00preferences.rpy_L317_0",
+    "original": "skip after choices"
+  },
+  {
+    "key": "renpy/common/00preferences.rpy_L319_0",
+    "original": "auto-forward time"
+  },
+  {
+    "key": "renpy/common/00preferences.rpy_L333_0",
+    "original": "auto-forward"
+  },
+  {
+    "key": "renpy/common/00preferences.rpy_L340_0",
+    "original": "Auto forward"
+  },
+  {
+    "key": "renpy/common/00preferences.rpy_L343_0",
+    "original": "auto-forward after click"
+  },
+  {
+    "key": "renpy/common/00preferences.rpy_L352_0",
+    "original": "automatic move"
+  },
+  {
+    "key": "renpy/common/00preferences.rpy_L361_0",
+    "original": "wait for voice"
+  },
+  {
+    "key": "renpy/common/00preferences.rpy_L370_0",
+    "original": "voice sustain"
+  },
+  {
+    "key": "renpy/common/00preferences.rpy_L379_0",
+    "original": "self voicing"
+  },
+  {
+    "key": "renpy/common/00preferences.rpy_L388_0",
+    "original": "self voicing volume drop"
+  },
+  {
+    "key": "renpy/common/00preferences.rpy_L396_0",
+    "original": "clipboard voicing"
+  },
+  {
+    "key": "renpy/common/00preferences.rpy_L405_0",
+    "original": "debug voicing"
+  },
+  {
+    "key": "renpy/common/00preferences.rpy_L414_0",
+    "original": "emphasize audio"
+  },
+  {
+    "key": "renpy/common/00preferences.rpy_L423_0",
+    "original": "rollback side"
+  },
+  {
+    "key": "renpy/common/00preferences.rpy_L433_0",
+    "original": "gl powersave"
+  },
+  {
+    "key": "renpy/common/00preferences.rpy_L439_0",
+    "original": "gl framerate"
+  },
+  {
+    "key": "renpy/common/00preferences.rpy_L442_0",
+    "original": "gl tearing"
+  },
+  {
+    "key": "renpy/common/00preferences.rpy_L445_0",
+    "original": "font transform"
+  },
+  {
+    "key": "renpy/common/00preferences.rpy_L448_0",
+    "original": "font size"
+  },
+  {
+    "key": "renpy/common/00preferences.rpy_L456_0",
+    "original": "font line spacing"
+  },
+  {
+    "key": "renpy/common/00preferences.rpy_L464_0",
+    "original": "system cursor"
+  },
+  {
+    "key": "renpy/common/00preferences.rpy_L484_0",
+    "original": "music volume"
+  },
+  {
+    "key": "renpy/common/00preferences.rpy_L485_0",
+    "original": "sound volume"
+  },
+  {
+    "key": "renpy/common/00preferences.rpy_L486_0",
+    "original": "voice volume"
+  },
+  {
+    "key": "renpy/common/00preferences.rpy_L487_0",
+    "original": "mute music"
+  },
+  {
+    "key": "renpy/common/00preferences.rpy_L488_0",
+    "original": "mute sound"
+  },
+  {
+    "key": "renpy/common/00preferences.rpy_L489_0",
+    "original": "mute voice"
+  },
+  {
+    "key": "renpy/common/00preferences.rpy_L490_0",
+    "original": "mute all"
+  },
+  {
+    "key": "renpy/common/00preferences.rpy_L571_0",
+    "original": "Clipboard voicing enabled. Press 'shift+C' to disable."
+  },
+  {
+    "key": "renpy/common/00preferences.rpy_L573_0",
+    "original": "Self-voicing would say \\\"[renpy.display.tts.last]\\\". Press 'alt+shift+V' to disable."
+  },
+  {
+    "key": "renpy/common/00preferences.rpy_L575_0",
+    "original": "Self-voicing enabled. Press 'v' to disable."
+  },
+  {
+    "key": "renpy/common/_compat/gamemenu.rpym_L198_0",
+    "original": "Empty Slot."
+  },
+  {
+    "key": "renpy/common/_compat/gamemenu.rpym_L355_0",
+    "original": "Previous"
+  },
+  {
+    "key": "renpy/common/_compat/gamemenu.rpym_L362_0",
+    "original": "Next"
+  },
+  {
+    "key": "renpy/common/_compat/preferences.rpym_L428_0",
+    "original": "Joystick Mapping"
+  },
+  {
+    "key": "renpy/common/_developer/developer.rpym_L38_0",
+    "original": "Developer Menu"
+  },
+  {
+    "key": "renpy/common/_developer/developer.rpym_L43_0",
+    "original": "Interactive Director (D)"
+  },
+  {
+    "key": "renpy/common/_developer/developer.rpym_L45_0",
+    "original": "Reload Game (Shift+R)"
+  },
+  {
+    "key": "renpy/common/_developer/developer.rpym_L47_0",
+    "original": "Console (Shift+O)"
+  },
+  {
+    "key": "renpy/common/_developer/developer.rpym_L49_0",
+    "original": "Variable Viewer"
+  },
+  {
+    "key": "renpy/common/_developer/developer.rpym_L51_0",
+    "original": "Image Location Picker"
+  },
+  {
+    "key": "renpy/common/_developer/developer.rpym_L53_0",
+    "original": "Filename List"
+  },
+  {
+    "key": "renpy/common/_developer/developer.rpym_L57_0",
+    "original": "Show Image Load Log (F4)"
+  },
+  {
+    "key": "renpy/common/_developer/developer.rpym_L60_0",
+    "original": "Hide Image Load Log (F4)"
+  },
+  {
+    "key": "renpy/common/_developer/developer.rpym_L63_0",
+    "original": "Image Attributes"
+  },
+  {
+    "key": "renpy/common/_developer/developer.rpym_L90_0",
+    "original": "[name] [attributes] (hidden)"
+  },
+  {
+    "key": "renpy/common/_developer/developer.rpym_L94_0",
+    "original": "[name] [attributes]"
+  },
+  {
+    "key": "renpy/common/_developer/developer.rpym_L143_0",
+    "original": "Nothing to inspect."
+  },
+  {
+    "key": "renpy/common/_developer/developer.rpym_L154_0",
+    "original": "Hide deleted"
+  },
+  {
+    "key": "renpy/common/_developer/developer.rpym_L154_1",
+    "original": "Show deleted"
+  },
+  {
+    "key": "renpy/common/_developer/developer.rpym_L278_0",
+    "original": "Return to the developer menu"
+  },
+  {
+    "key": "renpy/common/_developer/developer.rpym_L443_0",
+    "original": "Rectangle: %r"
+  },
+  {
+    "key": "renpy/common/_developer/developer.rpym_L448_0",
+    "original": "Mouse position: %r"
+  },
+  {
+    "key": "renpy/common/_developer/developer.rpym_L453_0",
+    "original": "Right-click or escape to quit."
+  },
+  {
+    "key": "renpy/common/_developer/developer.rpym_L485_0",
+    "original": "Rectangle copied to clipboard."
+  },
+  {
+    "key": "renpy/common/_developer/developer.rpym_L488_0",
+    "original": "Position copied to clipboard."
+  },
+  {
+    "key": "renpy/common/_developer/developer.rpym_L506_0",
+    "original": "Type to filter: "
+  },
+  {
+    "key": "renpy/common/_developer/developer.rpym_L631_0",
+    "original": "Textures: [tex_count] ([tex_size_mb:.1f] MB)"
+  },
+  {
+    "key": "renpy/common/_developer/developer.rpym_L635_0",
+    "original": "Image cache: [cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
+  },
+  {
+    "key": "renpy/common/_developer/developer.rpym_L645_0",
+    "original": "✔ "
+  },
+  {
+    "key": "renpy/common/_developer/developer.rpym_L648_0",
+    "original": "✘ "
+  },
+  {
+    "key": "renpy/common/_developer/developer.rpym_L653_0",
+    "original": "\\n{color=#cfc}✔ predicted image (good){/color}\\n{color=#fcc}✘ unpredicted image (bad){/color}\\n{color=#fff}Drag to move.{/color}"
+  },
+  {
+    "key": "renpy/common/_developer/inspector.rpym_L38_0",
+    "original": "Displayable Inspector"
+  },
+  {
+    "key": "renpy/common/_developer/inspector.rpym_L61_0",
+    "original": "Size"
+  },
+  {
+    "key": "renpy/common/_developer/inspector.rpym_L65_0",
+    "original": "Style"
+  },
+  {
+    "key": "renpy/common/_developer/inspector.rpym_L71_0",
+    "original": "Location"
+  },
+  {
+    "key": "renpy/common/_developer/inspector.rpym_L122_0",
+    "original": "Inspecting Styles of [displayable_name!q]"
+  },
+  {
+    "key": "renpy/common/_developer/inspector.rpym_L139_0",
+    "original": "displayable:"
+  },
+  {
+    "key": "renpy/common/_developer/inspector.rpym_L145_0",
+    "original": "        (no properties affect the displayable)"
+  },
+  {
+    "key": "renpy/common/_developer/inspector.rpym_L147_0",
+    "original": "        (default properties omitted)"
+  },
+  {
+    "key": "renpy/common/_developer/inspector.rpym_L185_0",
+    "original": "<repr() failed>"
+  },
+  {
+    "key": "renpy/common/_layout/classic_load_save.rpym_L170_0",
+    "original": "a"
+  },
+  {
+    "key": "renpy/common/_layout/classic_load_save.rpym_L179_0",
+    "original": "q"
+  },
+  {
+    "key": "renpy/common/00iap.rpy_L219_0",
+    "original": "Contacting App Store\\nPlease Wait..."
+  },
+  {
+    "key": "renpy/common/00updater.rpy_L374_0",
+    "original": "The Ren'Py Updater is not supported on mobile devices."
+  },
+  {
+    "key": "renpy/common/00updater.rpy_L496_0",
+    "original": "An error is being simulated."
+  },
+  {
+    "key": "renpy/common/00updater.rpy_L680_0",
+    "original": "Either this project does not support updating, or the update status file was deleted."
+  },
+  {
+    "key": "renpy/common/00updater.rpy_L694_0",
+    "original": "This account does not have permission to perform an update."
+  },
+  {
+    "key": "renpy/common/00updater.rpy_L697_0",
+    "original": "This account does not have permission to write the update log."
+  },
+  {
+    "key": "renpy/common/00updater.rpy_L724_0",
+    "original": "Could not verify update signature."
+  },
+  {
+    "key": "renpy/common/00updater.rpy_L995_0",
+    "original": "The update file was not downloaded."
+  },
+  {
+    "key": "renpy/common/00updater.rpy_L1013_0",
+    "original": "The update file does not have the correct digest - it may have been corrupted."
+  },
+  {
+    "key": "renpy/common/00updater.rpy_L1067_0",
+    "original": "While unpacking {}, unknown type {}."
+  },
+  {
+    "key": "renpy/common/00updater.rpy_L1433_0",
+    "original": "Updater"
+  },
+  {
+    "key": "renpy/common/00updater.rpy_L1440_0",
+    "original": "An error has occured:"
+  },
+  {
+    "key": "renpy/common/00updater.rpy_L1442_0",
+    "original": "Checking for updates."
+  },
+  {
+    "key": "renpy/common/00updater.rpy_L1444_0",
+    "original": "This program is up to date."
+  },
+  {
+    "key": "renpy/common/00updater.rpy_L1446_0",
+    "original": "[u.version] is available. Do you want to install it?"
+  },
+  {
+    "key": "renpy/common/00updater.rpy_L1448_0",
+    "original": "Preparing to download the updates."
+  },
+  {
+    "key": "renpy/common/00updater.rpy_L1450_0",
+    "original": "Downloading the updates."
+  },
+  {
+    "key": "renpy/common/00updater.rpy_L1452_0",
+    "original": "Unpacking the updates."
+  },
+  {
+    "key": "renpy/common/00updater.rpy_L1454_0",
+    "original": "Finishing up."
+  },
+  {
+    "key": "renpy/common/00updater.rpy_L1456_0",
+    "original": "The updates have been installed. The program will restart."
+  },
+  {
+    "key": "renpy/common/00updater.rpy_L1458_0",
+    "original": "The updates have been installed."
+  },
+  {
+    "key": "renpy/common/00updater.rpy_L1460_0",
+    "original": "The updates were cancelled."
+  },
+  {
+    "key": "renpy/common/00updater.rpy_L1475_0",
+    "original": "Proceed"
+  },
+  {
+    "key": "renpy/common/00gallery.rpy_L590_0",
+    "original": "Image [index] of [count] locked."
+  },
+  {
+    "key": "renpy/common/00gallery.rpy_L610_0",
+    "original": "prev"
+  },
+  {
+    "key": "renpy/common/00gallery.rpy_L611_0",
+    "original": "next"
+  },
+  {
+    "key": "renpy/common/00gallery.rpy_L612_0",
+    "original": "slideshow"
+  },
+  {
+    "key": "renpy/common/00gallery.rpy_L613_0",
+    "original": "return"
+  },
+  {
+    "key": "renpy/common/00gltest.rpy_L89_0",
+    "original": "Renderer"
+  },
+  {
+    "key": "renpy/common/00gltest.rpy_L93_0",
+    "original": "Automatically Choose"
+  },
+  {
+    "key": "renpy/common/00gltest.rpy_L100_0",
+    "original": "Force GL Renderer"
+  },
+  {
+    "key": "renpy/common/00gltest.rpy_L105_0",
+    "original": "Force ANGLE Renderer"
+  },
+  {
+    "key": "renpy/common/00gltest.rpy_L110_0",
+    "original": "Force GLES Renderer"
+  },
+  {
+    "key": "renpy/common/00gltest.rpy_L116_0",
+    "original": "Force GL2 Renderer"
+  },
+  {
+    "key": "renpy/common/00gltest.rpy_L121_0",
+    "original": "Force ANGLE2 Renderer"
+  },
+  {
+    "key": "renpy/common/00gltest.rpy_L126_0",
+    "original": "Force GLES2 Renderer"
+  },
+  {
+    "key": "renpy/common/00gltest.rpy_L136_0",
+    "original": "Enable (No Blocklist)"
+  },
+  {
+    "key": "renpy/common/00gltest.rpy_L140_0",
+    "original": "Enable"
+  },
+  {
+    "key": "renpy/common/00gltest.rpy_L159_0",
+    "original": "Powersave"
+  },
+  {
+    "key": "renpy/common/00gltest.rpy_L173_0",
+    "original": "Framerate"
+  },
+  {
+    "key": "renpy/common/00gltest.rpy_L177_0",
+    "original": "Screen"
+  },
+  {
+    "key": "renpy/common/00gltest.rpy_L181_0",
+    "original": "60"
+  },
+  {
+    "key": "renpy/common/00gltest.rpy_L185_0",
+    "original": "30"
+  },
+  {
+    "key": "renpy/common/00gltest.rpy_L191_0",
+    "original": "Tearing"
+  },
+  {
+    "key": "renpy/common/00gltest.rpy_L207_0",
+    "original": "Changes will take effect the next time this program is run."
+  },
+  {
+    "key": "renpy/common/00gltest.rpy_L242_0",
+    "original": "Performance Warning"
+  },
+  {
+    "key": "renpy/common/00gltest.rpy_L247_0",
+    "original": "This computer is using software rendering."
+  },
+  {
+    "key": "renpy/common/00gltest.rpy_L249_0",
+    "original": "This game requires use of GL2 that can't be initialised."
+  },
+  {
+    "key": "renpy/common/00gltest.rpy_L251_0",
+    "original": "This computer has a problem displaying graphics: [problem]."
+  },
+  {
+    "key": "renpy/common/00gltest.rpy_L255_0",
+    "original": "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display."
+  },
+  {
+    "key": "renpy/common/00gltest.rpy_L259_0",
+    "original": "The {a=edit:1:log.txt}log.txt{/a} file may contain information to help you determine what is wrong with your computer."
+  },
+  {
+    "key": "renpy/common/00gltest.rpy_L264_0",
+    "original": "More details on how to fix this can be found in the {a=[url]}documentation{/a}."
+  },
+  {
+    "key": "renpy/common/00gltest.rpy_L269_0",
+    "original": "Continue, Show this warning again"
+  },
+  {
+    "key": "renpy/common/00gltest.rpy_L273_0",
+    "original": "Continue, Don't show warning again"
+  },
+  {
+    "key": "renpy/common/00gltest.rpy_L281_0",
+    "original": "Change render options"
+  },
+  {
+    "key": "renpy/common/00gamepad.rpy_L32_0",
+    "original": "Select Gamepad to Calibrate"
+  },
+  {
+    "key": "renpy/common/00gamepad.rpy_L35_0",
+    "original": "No Gamepads Available"
+  },
+  {
+    "key": "renpy/common/00gamepad.rpy_L54_0",
+    "original": "Calibrating [name] ([i]/[total])"
+  },
+  {
+    "key": "renpy/common/00gamepad.rpy_L58_0",
+    "original": "Press or move the '[control!s]' [kind]."
+  },
+  {
+    "key": "renpy/common/00gamepad.rpy_L68_0",
+    "original": "Skip (A)"
+  },
+  {
+    "key": "renpy/common/00gamepad.rpy_L71_0",
+    "original": "Back (B)"
+  },
+  {
+    "key": "renpy/common/_errorhandling.rpym_L542_0",
+    "original": "Open"
+  },
+  {
+    "key": "renpy/common/_errorhandling.rpym_L544_0",
+    "original": "Opens the traceback.txt file in a text editor."
+  },
+  {
+    "key": "renpy/common/_errorhandling.rpym_L546_0",
+    "original": "Copy BBCode"
+  },
+  {
+    "key": "renpy/common/_errorhandling.rpym_L548_0",
+    "original": "Copies the traceback.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
+  },
+  {
+    "key": "renpy/common/_errorhandling.rpym_L550_0",
+    "original": "Copy Markdown"
+  },
+  {
+    "key": "renpy/common/_errorhandling.rpym_L552_0",
+    "original": "Copies the traceback.txt file to the clipboard as Markdown for Discord."
+  },
+  {
+    "key": "renpy/common/_errorhandling.rpym_L581_0",
+    "original": "An exception has occurred."
+  },
+  {
+    "key": "renpy/common/_errorhandling.rpym_L604_0",
+    "original": "Rollback"
+  },
+  {
+    "key": "renpy/common/_errorhandling.rpym_L606_0",
+    "original": "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
+  },
+  {
+    "key": "renpy/common/_errorhandling.rpym_L609_0",
+    "original": "Ignore"
+  },
+  {
+    "key": "renpy/common/_errorhandling.rpym_L613_0",
+    "original": "Ignores the exception, allowing you to continue."
+  },
+  {
+    "key": "renpy/common/_errorhandling.rpym_L615_0",
+    "original": "Ignores the exception, allowing you to continue. This often leads to additional errors."
+  },
+  {
+    "key": "renpy/common/_errorhandling.rpym_L619_0",
+    "original": "Reload"
+  },
+  {
+    "key": "renpy/common/_errorhandling.rpym_L621_0",
+    "original": "Reloads the game from disk, saving and restoring game state if possible."
+  },
+  {
+    "key": "renpy/common/_errorhandling.rpym_L624_0",
+    "original": "Console"
+  },
+  {
+    "key": "renpy/common/_errorhandling.rpym_L626_0",
+    "original": "Opens a console to allow debugging the problem."
+  },
+  {
+    "key": "renpy/common/_errorhandling.rpym_L639_0",
+    "original": "Quits the game."
+  },
+  {
+    "key": "renpy/common/_errorhandling.rpym_L660_0",
+    "original": "Parsing the script failed."
+  },
+  {
+    "key": "renpy/common/_errorhandling.rpym_L686_0",
+    "original": "Opens the errors.txt file in a text editor."
+  },
+  {
+    "key": "renpy/common/_errorhandling.rpym_L690_0",
+    "original": "Copies the errors.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
+  },
+  {
+    "key": "renpy/common/_errorhandling.rpym_L694_0",
+    "original": "Copies the errors.txt file to the clipboard as Markdown for Discord."
+  }
+]

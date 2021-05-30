@@ -1,0 +1,474 @@
+[
+  {
+    "key": "game/city.rpy_L13_0",
+    "original": "Where should I go?"
+  },
+  {
+    "key": "game/city.rpy_L13_1",
+    "original": "Art Gallery"
+  },
+  {
+    "key": "game/city.rpy_L13_2",
+    "original": "Nightclub"
+  },
+  {
+    "key": "game/city.rpy_L13_3",
+    "original": "Church"
+  },
+  {
+    "key": "game/city.rpy_L464_0",
+    "original": "Accept"
+  },
+  {
+    "key": "game/city.rpy_L464_1",
+    "original": "Refuse"
+  },
+  {
+    "key": "game/city.rpy_L487_0",
+    "original": "Listen to Music"
+  },
+  {
+    "key": "game/city.rpy_L487_1",
+    "original": "Fix Melody's laptop (-150 Monies)"
+  },
+  {
+    "key": "game/city.rpy_L497_0",
+    "original": "Talk about Claire"
+  },
+  {
+    "key": "game/city.rpy_L497_1",
+    "original": "Talk about Melody and Blossom"
+  },
+  {
+    "key": "game/city.rpy_L497_2",
+    "original": "Talk about Teaching Music"
+  },
+  {
+    "key": "game/city.rpy_L562_0",
+    "original": "Claire"
+  },
+  {
+    "key": "game/city.rpy_L717_0",
+    "original": "Day Theme"
+  },
+  {
+    "key": "game/city.rpy_L717_1",
+    "original": "Wagon Theme"
+  },
+  {
+    "key": "game/city.rpy_L717_2",
+    "original": "Boutique Theme"
+  },
+  {
+    "key": "game/city.rpy_L717_3",
+    "original": "Farm Theme"
+  },
+  {
+    "key": "game/city.rpy_L720_0",
+    "original": "Currently listening to That's One Sly Cat - Artificial Music."
+  },
+  {
+    "key": "game/city.rpy_L720_1",
+    "original": "Stop"
+  },
+  {
+    "key": "game/city.rpy_L727_0",
+    "original": "Currently listening to Abstract Foilage - Artificial Music."
+  },
+  {
+    "key": "game/city.rpy_L734_0",
+    "original": "Currently listening to Good Day - Low Frequency Music."
+  },
+  {
+    "key": "game/city.rpy_L740_0",
+    "original": "Currently listening to Bald Mountain - God Hand"
+  },
+  {
+    "key": "game/city.rpy_L750_0",
+    "original": "Day Theme 1"
+  },
+  {
+    "key": "game/city.rpy_L750_1",
+    "original": "Day Theme 2"
+  },
+  {
+    "key": "game/city.rpy_L759_0",
+    "original": "Currently listening to Stuck in the Machine - NO MIC."
+  },
+  {
+    "key": "game/city.rpy_L778_0",
+    "original": "Currently listening to Hip Jazz - Benjamin Tissot"
+  },
+  {
+    "key": "game/city.rpy_L786_0",
+    "original": "Butters' Theme"
+  },
+  {
+    "key": "game/city.rpy_L786_1",
+    "original": "Lily's Theme"
+  },
+  {
+    "key": "game/city.rpy_L786_2",
+    "original": "Melody's Theme"
+  },
+  {
+    "key": "game/city.rpy_L786_3",
+    "original": "Castle Theme"
+  },
+  {
+    "key": "game/city.rpy_L786_4",
+    "original": "Danger!"
+  },
+  {
+    "key": "game/city.rpy_L786_5",
+    "original": "Page 3 ->"
+  },
+  {
+    "key": "game/city.rpy_L789_0",
+    "original": "Currently listening to Before you Fall Asleep - Jhove"
+  },
+  {
+    "key": "game/city.rpy_L796_0",
+    "original": "Currently listening to Another Perspective - Idealism."
+  },
+  {
+    "key": "game/city.rpy_L803_0",
+    "original": "Currently listening to N.ercophillia: it applies to the dead inside now (lorncloudshit) - Sewerslvt"
+  },
+  {
+    "key": "game/city.rpy_L810_0",
+    "original": "Currently listening to La fille aux cheveux de lin by Claude Debussy (1909)"
+  },
+  {
+    "key": "game/city.rpy_L817_0",
+    "original": "Currently listening to Euphoric Filth - Sewerslvt"
+  },
+  {
+    "key": "game/city.rpy_L829_0",
+    "original": "Music Studio Theme"
+  },
+  {
+    "key": "game/city.rpy_L829_1",
+    "original": "Melody Sex Theme"
+  },
+  {
+    "key": "game/city.rpy_L829_2",
+    "original": "Night Theme"
+  },
+  {
+    "key": "game/city.rpy_L829_3",
+    "original": "Intense"
+  },
+  {
+    "key": "game/city.rpy_L829_4",
+    "original": "Cindy's Theme"
+  },
+  {
+    "key": "game/city.rpy_L829_5",
+    "original": "<- Page 2"
+  },
+  {
+    "key": "game/city.rpy_L829_6",
+    "original": "Page 4 ->"
+  },
+  {
+    "key": "game/city.rpy_L832_0",
+    "original": "Currently listening to inpeace - Sewerslvt"
+  },
+  {
+    "key": "game/city.rpy_L839_0",
+    "original": "Currently listening to Yandere Complex - Sewerslvt"
+  },
+  {
+    "key": "game/city.rpy_L846_0",
+    "original": "Currently listening to Another Perspective - Idealism"
+  },
+  {
+    "key": "game/city.rpy_L853_0",
+    "original": "Currently listening to Basic Metal 6 - TeknoAXE"
+  },
+  {
+    "key": "game/city.rpy_L860_0",
+    "original": "Currently listening to Toe Wizard - Sewerslvt (/w Mortem)"
+  },
+  {
+    "key": "game/city.rpy_L871_0",
+    "original": "Sad Theme 1"
+  },
+  {
+    "key": "game/city.rpy_L871_1",
+    "original": "Sad Theme 2"
+  },
+  {
+    "key": "game/city.rpy_L871_2",
+    "original": "Library Theme"
+  },
+  {
+    "key": "game/city.rpy_L871_3",
+    "original": "Comedy"
+  },
+  {
+    "key": "game/city.rpy_L871_4",
+    "original": "Tension"
+  },
+  {
+    "key": "game/city.rpy_L871_5",
+    "original": "<- Page 3"
+  },
+  {
+    "key": "game/city.rpy_L871_6",
+    "original": "Page 5 ->"
+  },
+  {
+    "key": "game/city.rpy_L874_0",
+    "original": "Currently listening to Danse Morialta - Kevin MacLeod"
+  },
+  {
+    "key": "game/city.rpy_L881_0",
+    "original": "Currently listening to Dissociation - Naoya Sakamata"
+  },
+  {
+    "key": "game/city.rpy_L888_0",
+    "original": "Currently listening to Blue Boi - Lakey Inspired"
+  },
+  {
+    "key": "game/city.rpy_L895_0",
+    "original": "Currently listening to Jazz Organ Trio Cool Blue - Doug Maxwell"
+  },
+  {
+    "key": "game/city.rpy_L902_0",
+    "original": "Currently listening to Traids - Unknown"
+  },
+  {
+    "key": "game/city.rpy_L913_0",
+    "original": "Art of Silence"
+  },
+  {
+    "key": "game/city.rpy_L913_1",
+    "original": "Hopelessness"
+  },
+  {
+    "key": "game/city.rpy_L913_2",
+    "original": "Slow Death"
+  },
+  {
+    "key": "game/city.rpy_L913_3",
+    "original": "Suspense"
+  },
+  {
+    "key": "game/city.rpy_L913_4",
+    "original": "Epic"
+  },
+  {
+    "key": "game/city.rpy_L913_5",
+    "original": "<- Page 4"
+  },
+  {
+    "key": "game/city.rpy_L913_6",
+    "original": "Page 6 ->"
+  },
+  {
+    "key": "game/city.rpy_L916_0",
+    "original": "Currently listening to Art of Silence - Uniq"
+  },
+  {
+    "key": "game/city.rpy_L923_0",
+    "original": "Currently listening to Hopelessness - Sewerslvt"
+  },
+  {
+    "key": "game/city.rpy_L930_0",
+    "original": "Currently listening to Slow Death - Sewerslvt"
+  },
+  {
+    "key": "game/city.rpy_L937_0",
+    "original": "Currently listening to Secrets - Michael Hildreth"
+  },
+  {
+    "key": "game/city.rpy_L944_0",
+    "original": "Currently listening to Fire and Thunder - Cjbeards"
+  },
+  {
+    "key": "game/city.rpy_L955_0",
+    "original": "Spooky Breathing"
+  },
+  {
+    "key": "game/city.rpy_L955_1",
+    "original": "Cream's Baking music"
+  },
+  {
+    "key": "game/city.rpy_L955_2",
+    "original": "Mr. Kill Yourself - Sewerslvt"
+  },
+  {
+    "key": "game/city.rpy_L955_3",
+    "original": "Seduced by the Queen"
+  },
+  {
+    "key": "game/city.rpy_L955_4",
+    "original": "Everything's Going Wrong"
+  },
+  {
+    "key": "game/city.rpy_L955_5",
+    "original": "<- Page 5"
+  },
+  {
+    "key": "game/city.rpy_L955_6",
+    "original": "Page 7 ->"
+  },
+  {
+    "key": "game/city.rpy_L958_0",
+    "original": "Currently listening to Central Square Mall Alternate, 2nd Floor Balcony - Silent Hill 3"
+  },
+  {
+    "key": "game/city.rpy_L965_0",
+    "original": "Currently listening to inlove - Sewerslvt"
+  },
+  {
+    "key": "game/city.rpy_L972_0",
+    "original": "Currently listening to Mr. Kill Yourself - Sewerslvt"
+  },
+  {
+    "key": "game/city.rpy_L979_0",
+    "original": "Currently listening to Bread - Lukrembo"
+  },
+  {
+    "key": "game/city.rpy_L986_0",
+    "original": "Currently listening to Lips - Sewerslvt"
+  },
+  {
+    "key": "game/city.rpy_L997_0",
+    "original": "Rainy theme"
+  },
+  {
+    "key": "game/city.rpy_L997_1",
+    "original": "Ultimate Battle"
+  },
+  {
+    "key": "game/city.rpy_L997_2",
+    "original": "Nightclub Rave"
+  },
+  {
+    "key": "game/city.rpy_L997_3",
+    "original": "Dawn's Theme"
+  },
+  {
+    "key": "game/city.rpy_L997_4",
+    "original": "Church Theme"
+  },
+  {
+    "key": "game/city.rpy_L997_5",
+    "original": "<- Page 6"
+  },
+  {
+    "key": "game/city.rpy_L997_6",
+    "original": "Page 8 ->"
+  },
+  {
+    "key": "game/city.rpy_L1000_0",
+    "original": "Currently listening to Oni - Sewerslvt"
+  },
+  {
+    "key": "game/city.rpy_L1007_0",
+    "original": "Currently listening to The Maw - Sewerslvt"
+  },
+  {
+    "key": "game/city.rpy_L1014_0",
+    "original": "Currently listening to Cyberia lyr3 - Sewerslvt"
+  },
+  {
+    "key": "game/city.rpy_L1021_0",
+    "original": "Currently listening to Been Here Before - NO MIC"
+  },
+  {
+    "key": "game/city.rpy_L1028_0",
+    "original": "Currently listening to Tranquil - Whitesand"
+  },
+  {
+    "key": "game/city.rpy_L1040_0",
+    "original": "Augusta's Theme"
+  },
+  {
+    "key": "game/city.rpy_L1040_1",
+    "original": "<- Page 7"
+  },
+  {
+    "key": "game/city.rpy_L1044_0",
+    "original": "Currently listening to Pina Colada - Silent Partner"
+  },
+  {
+    "key": "game/city.rpy_L1320_0",
+    "original": "Visit Princess Selene?"
+  },
+  {
+    "key": "game/city.rpy_L1320_1",
+    "original": "Visit"
+  },
+  {
+    "key": "game/city.rpy_L1367_0",
+    "original": "Pay Entry Fee (-5 Monies)"
+  },
+  {
+    "key": "game/city.rpy_L1406_0",
+    "original": "Uhm, it's nice to meet you too."
+  },
+  {
+    "key": "game/city.rpy_L1406_1",
+    "original": "I can tell you and I are going to get along."
+  },
+  {
+    "key": "game/city.rpy_L1406_2",
+    "original": "If the acts are criminal, then surely I’ll need some handcuffs."
+  },
+  {
+    "key": "game/city.rpy_L1418_0",
+    "original": "[playername], what’s your name?"
+  },
+  {
+    "key": "game/city.rpy_L1418_1",
+    "original": "[playername] is what you’ll want to moan."
+  },
+  {
+    "key": "game/city.rpy_L1418_2",
+    "original": "Names are fleeting, you can keep calling me kitten."
+  },
+  {
+    "key": "game/city.rpy_L1438_0",
+    "original": "There are plenty of sexy ladies here. But partying ain't cheap, if I'm going to spend time here, I'll be buying drinks."
+  },
+  {
+    "key": "game/city.rpy_L1438_1",
+    "original": "Pink and Yellow Mares (-10 Monies)"
+  },
+  {
+    "key": "game/city.rpy_L1438_2",
+    "original": "Agatha and Sonia (-10 Monies)"
+  },
+  {
+    "key": "game/city.rpy_L1438_3",
+    "original": "Honeycrisp and Ruby (-10 Monies)"
+  },
+  {
+    "key": "game/city.rpy_L1438_4",
+    "original": "Mare with Pink Hair (-10 Monies)"
+  },
+  {
+    "key": "game/city.rpy_L1438_5",
+    "original": "Sofia (Free)"
+  },
+  {
+    "key": "game/city.rpy_L1438_6",
+    "original": "Dawn (Free)"
+  },
+  {
+    "key": "game/city.rpy_L1438_7",
+    "original": "Leave (No Refunds!)"
+  },
+  {
+    "key": "game/city.rpy_L2222_0",
+    "original": "Panties"
+  },
+  {
+    "key": "game/city.rpy_L2222_1",
+    "original": "Stockings"
+  }
+]
