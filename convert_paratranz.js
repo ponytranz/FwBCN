@@ -22,7 +22,7 @@ try {
       key: match[3],
       original: match[5],
       translation: match[7],
-      context: `https://github.com/ponytranz/FwBCN/blob/main/${match[1]}#L${match[2]}`
+      context: `说话人: ${match[4]??'无'}\n代码: https://github.com/ponytranz/FwBCN/blob/main/${match[1]}#L${match[2]}`
     })
     if (result.length)
       fs.writeFileSync(
@@ -48,7 +48,7 @@ try {
         key: `${match[2]}_L${match[3]}_${cnt++}`,
         original: match[4],
         translation: match[5],
-        context: `https://github.com/ponytranz/FwBCN/blob/main/${match[2]}#L${match[3]}`
+        context: `代码: https://github.com/ponytranz/FwBCN/blob/main/${match[2]}#L${match[3]}`
       })
     }
     if (result.length)
