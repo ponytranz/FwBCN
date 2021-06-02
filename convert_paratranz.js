@@ -1,8 +1,8 @@
 const fs = require('fs')
 
 try {
-  if (!fs.existsSync('game/tl/chinese/paratranz'))
-    fs.mkdirSync('game/tl/chinese/paratranz')
+  if (!fs.existsSync('paratranz'))
+    fs.mkdirSync('paratranz')
   for (let file of fs.readdirSync('game/tl/chinese').filter(file => /\.rpy$/.test(file))) {
     let name = file.match(/^(.+)\.rpy$/)[1]
     let content = fs.readFileSync(`game/tl/chinese/${file}`, 'utf-8')
@@ -26,7 +26,7 @@ try {
     })
     if (result.length)
       fs.writeFileSync(
-        `game/tl/chinese/paratranz/${name}.json`,
+        `paratranz/${name}.json`,
         JSON.stringify(result, null, 2))
     result = []
     /*
@@ -53,7 +53,7 @@ try {
     }
     if (result.length)
       fs.writeFileSync(
-        `game/tl/chinese/paratranz/${name}_strings.json`,
+        `paratranz/${name}_strings.json`,
         JSON.stringify(result, null, 2))
   }
 } catch (error) {
