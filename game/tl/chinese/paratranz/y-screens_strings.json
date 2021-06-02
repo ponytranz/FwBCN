@@ -1,322 +1,402 @@
 [
   {
     "key": "game/y-screens.rpy_L270_0",
-    "original": "History"
+    "original": "History",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L270"
   },
   {
     "key": "game/y-screens.rpy_L271_0",
-    "original": "Skip"
+    "original": "Skip",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L271"
   },
   {
     "key": "game/y-screens.rpy_L272_0",
-    "original": "Auto"
+    "original": "Auto",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L272"
   },
   {
     "key": "game/y-screens.rpy_L273_0",
-    "original": "Save"
+    "original": "Save",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L273"
   },
   {
     "key": "game/y-screens.rpy_L274_0",
-    "original": "Load"
+    "original": "Load",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L274"
   },
   {
     "key": "game/y-screens.rpy_L275_0",
-    "original": "Q.Save"
+    "original": "Q.Save",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L275"
   },
   {
     "key": "game/y-screens.rpy_L276_0",
-    "original": "Q.Load"
+    "original": "Q.Load",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L276"
   },
   {
     "key": "game/y-screens.rpy_L277_0",
-    "original": "Prefs"
+    "original": "Prefs",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L277"
   },
   {
     "key": "game/y-screens.rpy_L318_0",
-    "original": "Start"
+    "original": "Start",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L318"
   },
   {
     "key": "game/y-screens.rpy_L328_0",
-    "original": "Preferences"
+    "original": "Preferences",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L328"
   },
   {
     "key": "game/y-screens.rpy_L332_0",
-    "original": "End Replay"
+    "original": "End Replay",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L332"
   },
   {
     "key": "game/y-screens.rpy_L336_0",
-    "original": "Main Menu"
+    "original": "Main Menu",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L336"
   },
   {
     "key": "game/y-screens.rpy_L338_0",
-    "original": "About"
+    "original": "About",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L338"
   },
   {
     "key": "game/y-screens.rpy_L343_0",
-    "original": "Help"
+    "original": "Help",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L343"
   },
   {
     "key": "game/y-screens.rpy_L346_0",
-    "original": "Quit"
+    "original": "Quit",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L346"
   },
   {
     "key": "game/y-screens.rpy_L594_0",
-    "original": "Version [config.version!t]\\n"
+    "original": "Version [config.version!t]\\n",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L594"
   },
   {
     "key": "game/y-screens.rpy_L600_0",
-    "original": "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\\n\\n[renpy.license!t]"
+    "original": "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\\n\\n[renpy.license!t]",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L600"
   },
   {
     "key": "game/y-screens.rpy_L682_0",
-    "original": "{#file_time}%A, %B %d %Y, %H:%M"
+    "original": "{#file_time}%A, %B %d %Y, %H:%M",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L682"
   },
   {
     "key": "game/y-screens.rpy_L682_1",
-    "original": "empty slot"
+    "original": "empty slot",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L682"
   },
   {
     "key": "game/y-screens.rpy_L699_0",
-    "original": "<"
+    "original": "<",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L699"
   },
   {
     "key": "game/y-screens.rpy_L702_0",
-    "original": "{#auto_page}A"
+    "original": "{#auto_page}A",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L702"
   },
   {
     "key": "game/y-screens.rpy_L705_0",
-    "original": "{#quick_page}Q"
+    "original": "{#quick_page}Q",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L705"
   },
   {
     "key": "game/y-screens.rpy_L711_0",
-    "original": ">"
+    "original": ">",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L711"
   },
   {
     "key": "game/y-screens.rpy_L768_0",
-    "original": "Display"
+    "original": "Display",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L768"
   },
   {
     "key": "game/y-screens.rpy_L769_0",
-    "original": "Window"
+    "original": "Window",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L769"
   },
   {
     "key": "game/y-screens.rpy_L770_0",
-    "original": "Fullscreen"
+    "original": "Fullscreen",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L770"
   },
   {
     "key": "game/y-screens.rpy_L774_0",
-    "original": "Rollback Side"
+    "original": "Rollback Side",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L774"
   },
   {
     "key": "game/y-screens.rpy_L775_0",
-    "original": "Disable"
+    "original": "Disable",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L775"
   },
   {
     "key": "game/y-screens.rpy_L776_0",
-    "original": "Left"
+    "original": "Left",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L776"
   },
   {
     "key": "game/y-screens.rpy_L777_0",
-    "original": "Right"
+    "original": "Right",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L777"
   },
   {
     "key": "game/y-screens.rpy_L782_0",
-    "original": "Unseen Text"
+    "original": "Unseen Text",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L782"
   },
   {
     "key": "game/y-screens.rpy_L783_0",
-    "original": "After Choices"
+    "original": "After Choices",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L783"
   },
   {
     "key": "game/y-screens.rpy_L784_0",
-    "original": "Transitions"
+    "original": "Transitions",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L784"
   },
   {
     "key": "game/y-screens.rpy_L797_0",
-    "original": "Text Speed"
+    "original": "Text Speed",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L797"
   },
   {
     "key": "game/y-screens.rpy_L801_0",
-    "original": "Auto-Forward Time"
+    "original": "Auto-Forward Time",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L801"
   },
   {
     "key": "game/y-screens.rpy_L808_0",
-    "original": "Music Volume"
+    "original": "Music Volume",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L808"
   },
   {
     "key": "game/y-screens.rpy_L814_0",
-    "original": "Sound Volume"
+    "original": "Sound Volume",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L814"
   },
   {
     "key": "game/y-screens.rpy_L820_0",
-    "original": "Test"
+    "original": "Test",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L820"
   },
   {
     "key": "game/y-screens.rpy_L825_0",
-    "original": "Mute All"
+    "original": "Mute All",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L825"
   },
   {
     "key": "game/y-screens.rpy_L944_0",
-    "original": "The dialogue history is empty."
+    "original": "The dialogue history is empty.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L944"
   },
   {
     "key": "game/y-screens.rpy_L1014_0",
-    "original": "Keyboard"
+    "original": "Keyboard",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1014"
   },
   {
     "key": "game/y-screens.rpy_L1015_0",
-    "original": "Mouse"
+    "original": "Mouse",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1015"
   },
   {
     "key": "game/y-screens.rpy_L1018_0",
-    "original": "Gamepad"
+    "original": "Gamepad",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1018"
   },
   {
     "key": "game/y-screens.rpy_L1031_0",
-    "original": "Enter"
+    "original": "Enter",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1031"
   },
   {
     "key": "game/y-screens.rpy_L1032_0",
-    "original": "Advances dialogue and activates the interface."
+    "original": "Advances dialogue and activates the interface.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1032"
   },
   {
     "key": "game/y-screens.rpy_L1035_0",
-    "original": "Space"
+    "original": "Space",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1035"
   },
   {
     "key": "game/y-screens.rpy_L1036_0",
-    "original": "Advances dialogue without selecting choices."
+    "original": "Advances dialogue without selecting choices.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1036"
   },
   {
     "key": "game/y-screens.rpy_L1039_0",
-    "original": "Arrow Keys"
+    "original": "Arrow Keys",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1039"
   },
   {
     "key": "game/y-screens.rpy_L1040_0",
-    "original": "Navigate the interface."
+    "original": "Navigate the interface.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1040"
   },
   {
     "key": "game/y-screens.rpy_L1043_0",
-    "original": "Escape"
+    "original": "Escape",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1043"
   },
   {
     "key": "game/y-screens.rpy_L1044_0",
-    "original": "Accesses the game menu."
+    "original": "Accesses the game menu.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1044"
   },
   {
     "key": "game/y-screens.rpy_L1047_0",
-    "original": "Ctrl"
+    "original": "Ctrl",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1047"
   },
   {
     "key": "game/y-screens.rpy_L1048_0",
-    "original": "Skips dialogue while held down."
+    "original": "Skips dialogue while held down.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1048"
   },
   {
     "key": "game/y-screens.rpy_L1051_0",
-    "original": "Tab"
+    "original": "Tab",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1051"
   },
   {
     "key": "game/y-screens.rpy_L1052_0",
-    "original": "Toggles dialogue skipping."
+    "original": "Toggles dialogue skipping.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1052"
   },
   {
     "key": "game/y-screens.rpy_L1055_0",
-    "original": "Page Up"
+    "original": "Page Up",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1055"
   },
   {
     "key": "game/y-screens.rpy_L1056_0",
-    "original": "Rolls back to earlier dialogue."
+    "original": "Rolls back to earlier dialogue.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1056"
   },
   {
     "key": "game/y-screens.rpy_L1059_0",
-    "original": "Page Down"
+    "original": "Page Down",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1059"
   },
   {
     "key": "game/y-screens.rpy_L1060_0",
-    "original": "Rolls forward to later dialogue."
+    "original": "Rolls forward to later dialogue.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1060"
   },
   {
     "key": "game/y-screens.rpy_L1064_0",
-    "original": "Hides the user interface."
+    "original": "Hides the user interface.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1064"
   },
   {
     "key": "game/y-screens.rpy_L1068_0",
-    "original": "Takes a screenshot."
+    "original": "Takes a screenshot.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1068"
   },
   {
     "key": "game/y-screens.rpy_L1072_0",
-    "original": "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
+    "original": "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1072"
   },
   {
     "key": "game/y-screens.rpy_L1078_0",
-    "original": "Left Click"
+    "original": "Left Click",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1078"
   },
   {
     "key": "game/y-screens.rpy_L1082_0",
-    "original": "Middle Click"
+    "original": "Middle Click",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1082"
   },
   {
     "key": "game/y-screens.rpy_L1086_0",
-    "original": "Right Click"
+    "original": "Right Click",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1086"
   },
   {
     "key": "game/y-screens.rpy_L1090_0",
-    "original": "Mouse Wheel Up\\nClick Rollback Side"
+    "original": "Mouse Wheel Up\\nClick Rollback Side",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1090"
   },
   {
     "key": "game/y-screens.rpy_L1094_0",
-    "original": "Mouse Wheel Down"
+    "original": "Mouse Wheel Down",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1094"
   },
   {
     "key": "game/y-screens.rpy_L1101_0",
-    "original": "Right Trigger\\nA/Bottom Button"
+    "original": "Right Trigger\\nA/Bottom Button",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1101"
   },
   {
     "key": "game/y-screens.rpy_L1105_0",
-    "original": "Left Trigger\\nLeft Shoulder"
+    "original": "Left Trigger\\nLeft Shoulder",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1105"
   },
   {
     "key": "game/y-screens.rpy_L1109_0",
-    "original": "Right Shoulder"
+    "original": "Right Shoulder",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1109"
   },
   {
     "key": "game/y-screens.rpy_L1114_0",
-    "original": "D-Pad, Sticks"
+    "original": "D-Pad, Sticks",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1114"
   },
   {
     "key": "game/y-screens.rpy_L1118_0",
-    "original": "Start, Guide"
+    "original": "Start, Guide",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1118"
   },
   {
     "key": "game/y-screens.rpy_L1122_0",
-    "original": "Y/Top Button"
+    "original": "Y/Top Button",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1122"
   },
   {
     "key": "game/y-screens.rpy_L1125_0",
-    "original": "Calibrate"
+    "original": "Calibrate",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1125"
   },
   {
     "key": "game/y-screens.rpy_L1237_0",
-    "original": "Skipping"
+    "original": "Skipping",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1237"
   },
   {
     "key": "game/y-screens.rpy_L1460_0",
-    "original": "Menu"
+    "original": "Menu",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1460"
   },
   {
     "key": "game/y-screens.rpy_L1883_0",
-    "original": "Moxie's Satchel:"
+    "original": "Moxie's Satchel:",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1883"
   },
   {
     "key": "game/y-screens.rpy_L1883_1",
-    "original": "Castle Permit"
+    "original": "Castle Permit",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1883"
   },
   {
     "key": "game/y-screens.rpy_L1883_2",
-    "original": "Augusta's Gallery Key"
+    "original": "Augusta's Gallery Key",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1883"
   },
   {
     "key": "game/y-screens.rpy_L1883_3",
-    "original": "Gallery Pass"
+    "original": "Gallery Pass",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1883"
   }
 ]

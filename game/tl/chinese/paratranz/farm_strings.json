@@ -1,242 +1,302 @@
 [
   {
     "key": "game/farm.rpy_L51_0",
-    "original": "Work with Honeycrisp"
+    "original": "Work with Honeycrisp",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L51"
   },
   {
     "key": "game/farm.rpy_L51_1",
-    "original": "Visit Blossom"
+    "original": "Visit Blossom",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L51"
   },
   {
     "key": "game/farm.rpy_L51_2",
-    "original": "Visit and work with Anna (This will take all day)"
+    "original": "Visit and work with Anna (This will take all day)",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L51"
   },
   {
     "key": "game/farm.rpy_L51_3",
-    "original": "Back to World Map"
+    "original": "Back to World Map",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L51"
   },
   {
     "key": "game/farm.rpy_L72_0",
-    "original": "Cowgirl position"
+    "original": "Cowgirl position",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L72"
   },
   {
     "key": "game/farm.rpy_L93_0",
-    "original": "Come on Honeycrisp, you're not gonna let Blossom have all the fun are you?"
+    "original": "Come on Honeycrisp, you're not gonna let Blossom have all the fun are you?",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L93"
   },
   {
     "key": "game/farm.rpy_L93_1",
-    "original": "It's not like it's your first time doing it."
+    "original": "It's not like it's your first time doing it.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L93"
   },
   {
     "key": "game/farm.rpy_L106_0",
-    "original": "Doing something with your sister? You don't have to do anything with her at all."
+    "original": "Doing something with your sister? You don't have to do anything with her at all.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L106"
   },
   {
     "key": "game/farm.rpy_L106_1",
-    "original": "You're sharing me anyway, what's wrong with cutting the middleman?"
+    "original": "You're sharing me anyway, what's wrong with cutting the middleman?",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L106"
   },
   {
     "key": "game/farm.rpy_L130_0",
-    "original": "Talk about recent events"
+    "original": "Talk about recent events",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L130"
   },
   {
     "key": "game/farm.rpy_L130_1",
-    "original": "Plans for the future?"
+    "original": "Plans for the future?",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L130"
   },
   {
     "key": "game/farm.rpy_L130_2",
-    "original": "How did you become a farmer?"
+    "original": "How did you become a farmer?",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L130"
   },
   {
     "key": "game/farm.rpy_L130_3",
-    "original": "Ask what Honey does in her free time"
+    "original": "Ask what Honey does in her free time",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L130"
   },
   {
     "key": "game/farm.rpy_L400_0",
-    "original": "(Hug her again.)"
+    "original": "(Hug her again.)",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L400"
   },
   {
     "key": "game/farm.rpy_L400_1",
-    "original": "How about something more than a hug?"
+    "original": "How about something more than a hug?",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L400"
   },
   {
     "key": "game/farm.rpy_L400_2",
-    "original": "I’ll pass for now; I don’t want to get distracted before going back to work."
+    "original": "I’ll pass for now; I don’t want to get distracted before going back to work.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L400"
   },
   {
     "key": "game/farm.rpy_L447_0",
-    "original": "Why don’t you hire a unicorn to help?"
+    "original": "Why don’t you hire a unicorn to help?",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L447"
   },
   {
     "key": "game/farm.rpy_L447_1",
-    "original": "I think a pegasus would be a lot of help."
+    "original": "I think a pegasus would be a lot of help.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L447"
   },
   {
     "key": "game/farm.rpy_L496_0",
-    "original": "Like a husband?"
+    "original": "Like a husband?",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L496"
   },
   {
     "key": "game/farm.rpy_L496_1",
-    "original": "I’m strong and capable in other areas too."
+    "original": "I’m strong and capable in other areas too.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L496"
   },
   {
     "key": "game/farm.rpy_L496_2",
-    "original": "Thanks Honeycrisp, we worked well as a team today."
+    "original": "Thanks Honeycrisp, we worked well as a team today.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L496"
   },
   {
     "key": "game/farm.rpy_L591_0",
-    "original": "Do you have any milk for the tea?"
+    "original": "Do you have any milk for the tea?",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L591"
   },
   {
     "key": "game/farm.rpy_L591_1",
-    "original": "I like my tea black, thank you."
+    "original": "I like my tea black, thank you.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L591"
   },
   {
     "key": "game/farm.rpy_L700_0",
-    "original": "Should I mention sex?"
+    "original": "Should I mention sex?",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L700"
   },
   {
     "key": "game/farm.rpy_L700_1",
-    "original": "Hint at it."
+    "original": "Hint at it.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L700"
   },
   {
     "key": "game/farm.rpy_L700_2",
-    "original": "Explicitly mention sex."
+    "original": "Explicitly mention sex.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L700"
   },
   {
     "key": "game/farm.rpy_L700_3",
-    "original": "Say nothing, we’ll see each other again anyway."
+    "original": "Say nothing, we’ll see each other again anyway.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L700"
   },
   {
     "key": "game/farm.rpy_L875_0",
-    "original": "She stares at me with a salacious expression."
+    "original": "She stares at me with a salacious expression.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L875"
   },
   {
     "key": "game/farm.rpy_L875_1",
-    "original": "You’re really horny this morning."
+    "original": "You’re really horny this morning.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L875"
   },
   {
     "key": "game/farm.rpy_L875_2",
-    "original": "Is today the day we’re going to have sex?"
+    "original": "Is today the day we’re going to have sex?",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L875"
   },
   {
     "key": "game/farm.rpy_L907_0",
-    "original": "You’ve set me up to have sex with a cow girl?"
+    "original": "You’ve set me up to have sex with a cow girl?",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L907"
   },
   {
     "key": "game/farm.rpy_L907_1",
-    "original": "I’d much rather you join in."
+    "original": "I’d much rather you join in.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L907"
   },
   {
     "key": "game/farm.rpy_L907_2",
-    "original": "I’d prefer to do it with just you Honey."
+    "original": "I’d prefer to do it with just you Honey.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L907"
   },
   {
     "key": "game/farm.rpy_L987_0",
-    "original": "Can you tell me about minotaurs?"
+    "original": "Can you tell me about minotaurs?",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L987"
   },
   {
     "key": "game/farm.rpy_L987_1",
-    "original": "What's wrong with stallions?"
+    "original": "What's wrong with stallions?",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L987"
   },
   {
     "key": "game/farm.rpy_L987_2",
-    "original": "Can you tell me a bit about yourself?"
+    "original": "Can you tell me a bit about yourself?",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L987"
   },
   {
     "key": "game/farm.rpy_L987_3",
-    "original": "(Proceed)"
+    "original": "(Proceed)",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L987"
   },
   {
     "key": "game/farm.rpy_L1684_0",
-    "original": "What should I say?"
+    "original": "What should I say?",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L1684"
   },
   {
     "key": "game/farm.rpy_L1684_1",
-    "original": "She was talking about the apple supply."
+    "original": "She was talking about the apple supply.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L1684"
   },
   {
     "key": "game/farm.rpy_L1684_2",
-    "original": "We totally fucked."
+    "original": "We totally fucked.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L1684"
   },
   {
     "key": "game/farm.rpy_L1684_3",
-    "original": "Nothing you need to know about."
+    "original": "Nothing you need to know about.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L1684"
   },
   {
     "key": "game/farm.rpy_L1812_0",
-    "original": "Let’s learn more about her."
+    "original": "Let’s learn more about her.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L1812"
   },
   {
     "key": "game/farm.rpy_L1812_1",
-    "original": "What do you spend most of your time doing?"
+    "original": "What do you spend most of your time doing?",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L1812"
   },
   {
     "key": "game/farm.rpy_L1812_2",
-    "original": "You seem less shy than you were yesterday."
+    "original": "You seem less shy than you were yesterday.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L1812"
   },
   {
     "key": "game/farm.rpy_L1812_3",
-    "original": "Why do you want to have sex with me?"
+    "original": "Why do you want to have sex with me?",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L1812"
   },
   {
     "key": "game/farm.rpy_L1812_4",
-    "original": "That’s enough questions. (Proceed)"
+    "original": "That’s enough questions. (Proceed)",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L1812"
   },
   {
     "key": "game/farm.rpy_L2402_0",
-    "original": "Admit you were sleeping with Blossom"
+    "original": "Admit you were sleeping with Blossom",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L2402"
   },
   {
     "key": "game/farm.rpy_L2402_1",
-    "original": "Tell her you were helping Blossom with something and don’t mention the sex."
+    "original": "Tell her you were helping Blossom with something and don’t mention the sex.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L2402"
   },
   {
     "key": "game/farm.rpy_L2402_2",
-    "original": "Completely lie and say you were using the bathroom."
+    "original": "Completely lie and say you were using the bathroom.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L2402"
   },
   {
     "key": "game/farm.rpy_L2658_0",
-    "original": "Just how deep does your sexual relationship go with Honey?"
+    "original": "Just how deep does your sexual relationship go with Honey?",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L2658"
   },
   {
     "key": "game/farm.rpy_L2658_1",
-    "original": "We should get together again sometime. A time like before is too good to only experience once."
+    "original": "We should get together again sometime. A time like before is too good to only experience once.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L2658"
   },
   {
     "key": "game/farm.rpy_L2751_0",
-    "original": "You, of course!"
+    "original": "You, of course!",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L2751"
   },
   {
     "key": "game/farm.rpy_L3233_0",
-    "original": "What have you been up to lately?"
+    "original": "What have you been up to lately?",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L3233"
   },
   {
     "key": "game/farm.rpy_L3233_1",
-    "original": "Any plans for the future?"
+    "original": "Any plans for the future?",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L3233"
   },
   {
     "key": "game/farm.rpy_L3233_2",
-    "original": "Talk about her cooking"
+    "original": "Talk about her cooking",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L3233"
   },
   {
     "key": "game/farm.rpy_L3372_0",
-    "original": "Work with the girls"
+    "original": "Work with the girls",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L3372"
   },
   {
     "key": "game/farm.rpy_L3372_1",
-    "original": "Back to the Worldmap"
+    "original": "Back to the Worldmap",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L3372"
   },
   {
     "key": "game/farm.rpy_L3790_0",
-    "original": "You quite like interspecies men, don't you?"
+    "original": "You quite like interspecies men, don't you?",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L3790"
   },
   {
     "key": "game/farm.rpy_L3790_1",
-    "original": "Ask her about her business mindset"
+    "original": "Ask her about her business mindset",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L3790"
   },
   {
     "key": "game/farm.rpy_L3790_2",
-    "original": "What are your parents like?"
+    "original": "What are your parents like?",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L3790"
   }
 ]

@@ -1,14 +1,17 @@
 [
   {
     "key": "worldmapnight_212cd339",
-    "original": "Maybe I should check out the bar or nightclub?"
+    "original": "Maybe I should check out the bar or nightclub?",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/3evening map.rpy#L42"
   },
   {
     "key": "mapnightforest_592c1493",
-    "original": "Visiting Butters in the evening is just a little too far of a walk, especially since I'm not yet familiar with the layout of the dark forest."
+    "original": "Visiting Butters in the evening is just a little too far of a walk, especially since I'm not yet familiar with the layout of the dark forest.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/3evening map.rpy#L54"
   },
   {
     "key": "mapnightboutique_b89d78af",
-    "original": "I knock on the boutique door and there's no response. This building is massive, so the girls probably can't hear my knocking from their bedrooms at all."
+    "original": "I knock on the boutique door and there's no response. This building is massive, so the girls probably can't hear my knocking from their bedrooms at all.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/3evening map.rpy#L67"
   }
 ]

@@ -1,110 +1,137 @@
 [
   {
     "key": "game/y-init.rpy_L7_0",
-    "original": "Male Familiar?"
+    "original": "Male Familiar?",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-init.rpy#L7"
   },
   {
     "key": "game/y-init.rpy_L9_0",
-    "original": "[playername]"
+    "original": "[playername]",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-init.rpy#L9"
   },
   {
     "key": "game/y-init.rpy_L22_0",
-    "original": "Carrot"
+    "original": "Carrot",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-init.rpy#L22"
   },
   {
     "key": "game/y-init.rpy_L23_0",
-    "original": "Blueberry"
+    "original": "Blueberry",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-init.rpy#L23"
   },
   {
     "key": "game/y-init.rpy_L24_0",
-    "original": "Blackcurrant"
+    "original": "Blackcurrant",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-init.rpy#L24"
   },
   {
     "key": "game/y-init.rpy_L27_0",
-    "original": "Guard 1"
+    "original": "Guard 1",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-init.rpy#L27"
   },
   {
     "key": "game/y-init.rpy_L28_0",
-    "original": "Guard 2"
+    "original": "Guard 2",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-init.rpy#L28"
   },
   {
     "key": "game/y-init.rpy_L29_0",
-    "original": "Guard 3"
+    "original": "Guard 3",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-init.rpy#L29"
   },
   {
     "key": "game/y-init.rpy_L30_0",
-    "original": "Guard 4"
+    "original": "Guard 4",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-init.rpy#L30"
   },
   {
     "key": "game/y-init.rpy_L33_0",
-    "original": "Dress Dawn"
+    "original": "Dress Dawn",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-init.rpy#L33"
   },
   {
     "key": "game/y-init.rpy_L34_0",
-    "original": "Anthro Dawn"
+    "original": "Anthro Dawn",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-init.rpy#L34"
   },
   {
     "key": "game/y-init.rpy_L35_0",
-    "original": "???"
+    "original": "???",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-init.rpy#L35"
   },
   {
     "key": "game/y-init.rpy_L37_0",
-    "original": "Amora"
+    "original": "Amora",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-init.rpy#L37"
   },
   {
     "key": "game/y-init.rpy_L40_0",
-    "original": "Devil"
+    "original": "Devil",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-init.rpy#L40"
   },
   {
     "key": "game/y-init.rpy_L42_0",
-    "original": "Princess Selene"
+    "original": "Princess Selene",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-init.rpy#L42"
   },
   {
     "key": "game/y-init.rpy_L43_0",
-    "original": "Queen Aurora"
+    "original": "Queen Aurora",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-init.rpy#L43"
   },
   {
     "key": "game/y-init.rpy_L47_0",
-    "original": "Camshow Audience"
+    "original": "Camshow Audience",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-init.rpy#L47"
   },
   {
     "key": "game/y-init.rpy_L49_0",
-    "original": "Merchant"
+    "original": "Merchant",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-init.rpy#L49"
   },
   {
     "key": "game/y-init.rpy_L51_0",
-    "original": "Agatha"
+    "original": "Agatha",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-init.rpy#L51"
   },
   {
     "key": "game/y-init.rpy_L52_0",
-    "original": "Sonia"
+    "original": "Sonia",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-init.rpy#L52"
   },
   {
     "key": "game/y-init.rpy_L53_0",
-    "original": "Sofia"
+    "original": "Sofia",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-init.rpy#L53"
   },
   {
     "key": "game/y-init.rpy_L54_0",
-    "original": "[greymare]"
+    "original": "[greymare]",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-init.rpy#L54"
   },
   {
     "key": "game/y-init.rpy_L56_0",
-    "original": "[WhiteMare]"
+    "original": "[WhiteMare]",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-init.rpy#L56"
   },
   {
     "key": "game/y-init.rpy_L60_0",
-    "original": "Sandy"
+    "original": "Sandy",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-init.rpy#L60"
   },
   {
     "key": "game/y-init.rpy_L64_0",
-    "original": "Everyone"
+    "original": "Everyone",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-init.rpy#L64"
   },
   {
     "key": "game/y-init.rpy_L65_0",
-    "original": "Slime Girl"
+    "original": "Slime Girl",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-init.rpy#L65"
   },
   {
     "key": "game/y-init.rpy_L67_0",
-    "original": "Alraune"
+    "original": "Alraune",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-init.rpy#L67"
   }
 ]

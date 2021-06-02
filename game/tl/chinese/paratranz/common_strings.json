@@ -1,1146 +1,1432 @@
 [
   {
     "key": "renpy/common/00accessibility.rpy_L28_0",
-    "original": "Self-voicing disabled."
+    "original": "Self-voicing disabled.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00accessibility.rpy#L28"
   },
   {
     "key": "renpy/common/00accessibility.rpy_L29_0",
-    "original": "Clipboard voicing enabled. "
+    "original": "Clipboard voicing enabled. ",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00accessibility.rpy#L29"
   },
   {
     "key": "renpy/common/00accessibility.rpy_L30_0",
-    "original": "Self-voicing enabled. "
+    "original": "Self-voicing enabled. ",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00accessibility.rpy#L30"
   },
   {
     "key": "renpy/common/00accessibility.rpy_L32_0",
-    "original": "bar"
+    "original": "bar",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00accessibility.rpy#L32"
   },
   {
     "key": "renpy/common/00accessibility.rpy_L33_0",
-    "original": "selected"
+    "original": "selected",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00accessibility.rpy#L33"
   },
   {
     "key": "renpy/common/00accessibility.rpy_L34_0",
-    "original": "viewport"
+    "original": "viewport",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00accessibility.rpy#L34"
   },
   {
     "key": "renpy/common/00accessibility.rpy_L35_0",
-    "original": "horizontal scroll"
+    "original": "horizontal scroll",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00accessibility.rpy#L35"
   },
   {
     "key": "renpy/common/00accessibility.rpy_L36_0",
-    "original": "vertical scroll"
+    "original": "vertical scroll",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00accessibility.rpy#L36"
   },
   {
     "key": "renpy/common/00accessibility.rpy_L37_0",
-    "original": "activate"
+    "original": "activate",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00accessibility.rpy#L37"
   },
   {
     "key": "renpy/common/00accessibility.rpy_L38_0",
-    "original": "deactivate"
+    "original": "deactivate",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00accessibility.rpy#L38"
   },
   {
     "key": "renpy/common/00accessibility.rpy_L39_0",
-    "original": "increase"
+    "original": "increase",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00accessibility.rpy#L39"
   },
   {
     "key": "renpy/common/00accessibility.rpy_L40_0",
-    "original": "decrease"
+    "original": "decrease",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00accessibility.rpy#L40"
   },
   {
     "key": "renpy/common/00accessibility.rpy_L128_0",
-    "original": "Font Override"
+    "original": "Font Override",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00accessibility.rpy#L128"
   },
   {
     "key": "renpy/common/00accessibility.rpy_L132_0",
-    "original": "Default"
+    "original": "Default",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00accessibility.rpy#L132"
   },
   {
     "key": "renpy/common/00accessibility.rpy_L136_0",
-    "original": "DejaVu Sans"
+    "original": "DejaVu Sans",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00accessibility.rpy#L136"
   },
   {
     "key": "renpy/common/00accessibility.rpy_L140_0",
-    "original": "Opendyslexic"
+    "original": "Opendyslexic",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00accessibility.rpy#L140"
   },
   {
     "key": "renpy/common/00accessibility.rpy_L146_0",
-    "original": "Text Size Scaling"
+    "original": "Text Size Scaling",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00accessibility.rpy#L146"
   },
   {
     "key": "renpy/common/00accessibility.rpy_L152_0",
-    "original": "Reset"
+    "original": "Reset",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00accessibility.rpy#L152"
   },
   {
     "key": "renpy/common/00accessibility.rpy_L158_0",
-    "original": "Line Spacing Scaling"
+    "original": "Line Spacing Scaling",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00accessibility.rpy#L158"
   },
   {
     "key": "renpy/common/00accessibility.rpy_L171_0",
-    "original": "Self-Voicing"
+    "original": "Self-Voicing",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00accessibility.rpy#L171"
   },
   {
     "key": "renpy/common/00accessibility.rpy_L175_0",
-    "original": "Off"
+    "original": "Off",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00accessibility.rpy#L175"
   },
   {
     "key": "renpy/common/00accessibility.rpy_L179_0",
-    "original": "Text-to-speech"
+    "original": "Text-to-speech",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00accessibility.rpy#L179"
   },
   {
     "key": "renpy/common/00accessibility.rpy_L183_0",
-    "original": "Clipboard"
+    "original": "Clipboard",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00accessibility.rpy#L183"
   },
   {
     "key": "renpy/common/00accessibility.rpy_L187_0",
-    "original": "Debug"
+    "original": "Debug",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00accessibility.rpy#L187"
   },
   {
     "key": "renpy/common/00accessibility.rpy_L193_0",
-    "original": "Self-Voicing Volume Drop"
+    "original": "Self-Voicing Volume Drop",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00accessibility.rpy#L193"
   },
   {
     "key": "renpy/common/00accessibility.rpy_L202_0",
-    "original": "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
+    "original": "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00accessibility.rpy#L202"
   },
   {
     "key": "renpy/common/00accessibility.rpy_L207_0",
-    "original": "Return"
+    "original": "Return",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00accessibility.rpy#L207"
   },
   {
     "key": "renpy/common/00action_file.rpy_L26_0",
-    "original": "{#weekday}Monday"
+    "original": "{#weekday}Monday",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L26"
   },
   {
     "key": "renpy/common/00action_file.rpy_L26_1",
-    "original": "{#weekday}Tuesday"
+    "original": "{#weekday}Tuesday",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L26"
   },
   {
     "key": "renpy/common/00action_file.rpy_L26_2",
-    "original": "{#weekday}Wednesday"
+    "original": "{#weekday}Wednesday",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L26"
   },
   {
     "key": "renpy/common/00action_file.rpy_L26_3",
-    "original": "{#weekday}Thursday"
+    "original": "{#weekday}Thursday",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L26"
   },
   {
     "key": "renpy/common/00action_file.rpy_L26_4",
-    "original": "{#weekday}Friday"
+    "original": "{#weekday}Friday",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L26"
   },
   {
     "key": "renpy/common/00action_file.rpy_L26_5",
-    "original": "{#weekday}Saturday"
+    "original": "{#weekday}Saturday",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L26"
   },
   {
     "key": "renpy/common/00action_file.rpy_L26_6",
-    "original": "{#weekday}Sunday"
+    "original": "{#weekday}Sunday",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L26"
   },
   {
     "key": "renpy/common/00action_file.rpy_L37_0",
-    "original": "{#weekday_short}Mon"
+    "original": "{#weekday_short}Mon",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L37"
   },
   {
     "key": "renpy/common/00action_file.rpy_L37_1",
-    "original": "{#weekday_short}Tue"
+    "original": "{#weekday_short}Tue",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L37"
   },
   {
     "key": "renpy/common/00action_file.rpy_L37_2",
-    "original": "{#weekday_short}Wed"
+    "original": "{#weekday_short}Wed",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L37"
   },
   {
     "key": "renpy/common/00action_file.rpy_L37_3",
-    "original": "{#weekday_short}Thu"
+    "original": "{#weekday_short}Thu",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L37"
   },
   {
     "key": "renpy/common/00action_file.rpy_L37_4",
-    "original": "{#weekday_short}Fri"
+    "original": "{#weekday_short}Fri",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L37"
   },
   {
     "key": "renpy/common/00action_file.rpy_L37_5",
-    "original": "{#weekday_short}Sat"
+    "original": "{#weekday_short}Sat",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L37"
   },
   {
     "key": "renpy/common/00action_file.rpy_L37_6",
-    "original": "{#weekday_short}Sun"
+    "original": "{#weekday_short}Sun",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L37"
   },
   {
     "key": "renpy/common/00action_file.rpy_L47_0",
-    "original": "{#month}January"
+    "original": "{#month}January",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L47"
   },
   {
     "key": "renpy/common/00action_file.rpy_L47_1",
-    "original": "{#month}February"
+    "original": "{#month}February",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L47"
   },
   {
     "key": "renpy/common/00action_file.rpy_L47_2",
-    "original": "{#month}March"
+    "original": "{#month}March",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L47"
   },
   {
     "key": "renpy/common/00action_file.rpy_L47_3",
-    "original": "{#month}April"
+    "original": "{#month}April",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L47"
   },
   {
     "key": "renpy/common/00action_file.rpy_L47_4",
-    "original": "{#month}May"
+    "original": "{#month}May",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L47"
   },
   {
     "key": "renpy/common/00action_file.rpy_L47_5",
-    "original": "{#month}June"
+    "original": "{#month}June",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L47"
   },
   {
     "key": "renpy/common/00action_file.rpy_L47_6",
-    "original": "{#month}July"
+    "original": "{#month}July",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L47"
   },
   {
     "key": "renpy/common/00action_file.rpy_L47_7",
-    "original": "{#month}August"
+    "original": "{#month}August",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L47"
   },
   {
     "key": "renpy/common/00action_file.rpy_L47_8",
-    "original": "{#month}September"
+    "original": "{#month}September",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L47"
   },
   {
     "key": "renpy/common/00action_file.rpy_L47_9",
-    "original": "{#month}October"
+    "original": "{#month}October",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L47"
   },
   {
     "key": "renpy/common/00action_file.rpy_L47_10",
-    "original": "{#month}November"
+    "original": "{#month}November",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L47"
   },
   {
     "key": "renpy/common/00action_file.rpy_L47_11",
-    "original": "{#month}December"
+    "original": "{#month}December",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L47"
   },
   {
     "key": "renpy/common/00action_file.rpy_L63_0",
-    "original": "{#month_short}Jan"
+    "original": "{#month_short}Jan",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L63"
   },
   {
     "key": "renpy/common/00action_file.rpy_L63_1",
-    "original": "{#month_short}Feb"
+    "original": "{#month_short}Feb",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L63"
   },
   {
     "key": "renpy/common/00action_file.rpy_L63_2",
-    "original": "{#month_short}Mar"
+    "original": "{#month_short}Mar",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L63"
   },
   {
     "key": "renpy/common/00action_file.rpy_L63_3",
-    "original": "{#month_short}Apr"
+    "original": "{#month_short}Apr",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L63"
   },
   {
     "key": "renpy/common/00action_file.rpy_L63_4",
-    "original": "{#month_short}May"
+    "original": "{#month_short}May",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L63"
   },
   {
     "key": "renpy/common/00action_file.rpy_L63_5",
-    "original": "{#month_short}Jun"
+    "original": "{#month_short}Jun",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L63"
   },
   {
     "key": "renpy/common/00action_file.rpy_L63_6",
-    "original": "{#month_short}Jul"
+    "original": "{#month_short}Jul",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L63"
   },
   {
     "key": "renpy/common/00action_file.rpy_L63_7",
-    "original": "{#month_short}Aug"
+    "original": "{#month_short}Aug",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L63"
   },
   {
     "key": "renpy/common/00action_file.rpy_L63_8",
-    "original": "{#month_short}Sep"
+    "original": "{#month_short}Sep",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L63"
   },
   {
     "key": "renpy/common/00action_file.rpy_L63_9",
-    "original": "{#month_short}Oct"
+    "original": "{#month_short}Oct",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L63"
   },
   {
     "key": "renpy/common/00action_file.rpy_L63_10",
-    "original": "{#month_short}Nov"
+    "original": "{#month_short}Nov",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L63"
   },
   {
     "key": "renpy/common/00action_file.rpy_L63_11",
-    "original": "{#month_short}Dec"
+    "original": "{#month_short}Dec",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L63"
   },
   {
     "key": "renpy/common/00action_file.rpy_L240_0",
-    "original": "%b %d, %H:%M"
+    "original": "%b %d, %H:%M",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L240"
   },
   {
     "key": "renpy/common/00action_file.rpy_L353_0",
-    "original": "Save slot %s: [text]"
+    "original": "Save slot %s: [text]",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L353"
   },
   {
     "key": "renpy/common/00action_file.rpy_L434_0",
-    "original": "Load slot %s: [text]"
+    "original": "Load slot %s: [text]",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L434"
   },
   {
     "key": "renpy/common/00action_file.rpy_L487_0",
-    "original": "Delete slot [text]"
+    "original": "Delete slot [text]",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L487"
   },
   {
     "key": "renpy/common/00action_file.rpy_L566_0",
-    "original": "File page auto"
+    "original": "File page auto",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L566"
   },
   {
     "key": "renpy/common/00action_file.rpy_L568_0",
-    "original": "File page quick"
+    "original": "File page quick",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L568"
   },
   {
     "key": "renpy/common/00action_file.rpy_L570_0",
-    "original": "File page [text]"
+    "original": "File page [text]",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L570"
   },
   {
     "key": "renpy/common/00action_file.rpy_L628_0",
-    "original": "Page {}"
+    "original": "Page {}",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L628"
   },
   {
     "key": "renpy/common/00action_file.rpy_L628_1",
-    "original": "Automatic saves"
+    "original": "Automatic saves",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L628"
   },
   {
     "key": "renpy/common/00action_file.rpy_L628_2",
-    "original": "Quick saves"
+    "original": "Quick saves",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L628"
   },
   {
     "key": "renpy/common/00action_file.rpy_L769_0",
-    "original": "Next file page."
+    "original": "Next file page.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L769"
   },
   {
     "key": "renpy/common/00action_file.rpy_L841_0",
-    "original": "Previous file page."
+    "original": "Previous file page.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L841"
   },
   {
     "key": "renpy/common/00action_file.rpy_L902_0",
-    "original": "Quick save complete."
+    "original": "Quick save complete.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L902"
   },
   {
     "key": "renpy/common/00action_file.rpy_L920_0",
-    "original": "Quick save."
+    "original": "Quick save.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L920"
   },
   {
     "key": "renpy/common/00action_file.rpy_L939_0",
-    "original": "Quick load."
+    "original": "Quick load.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L939"
   },
   {
     "key": "renpy/common/00action_other.rpy_L375_0",
-    "original": "Language [text]"
+    "original": "Language [text]",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_other.rpy#L375"
   },
   {
     "key": "renpy/common/00director.rpy_L708_0",
-    "original": "The interactive director is not enabled here."
+    "original": "The interactive director is not enabled here.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00director.rpy#L708"
   },
   {
     "key": "renpy/common/00director.rpy_L1481_0",
-    "original": "⬆"
+    "original": "⬆",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00director.rpy#L1481"
   },
   {
     "key": "renpy/common/00director.rpy_L1487_0",
-    "original": "⬇"
+    "original": "⬇",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00director.rpy#L1487"
   },
   {
     "key": "renpy/common/00director.rpy_L1551_0",
-    "original": "Done"
+    "original": "Done",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00director.rpy#L1551"
   },
   {
     "key": "renpy/common/00director.rpy_L1561_0",
-    "original": "(statement)"
+    "original": "(statement)",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00director.rpy#L1561"
   },
   {
     "key": "renpy/common/00director.rpy_L1562_0",
-    "original": "(tag)"
+    "original": "(tag)",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00director.rpy#L1562"
   },
   {
     "key": "renpy/common/00director.rpy_L1563_0",
-    "original": "(attributes)"
+    "original": "(attributes)",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00director.rpy#L1563"
   },
   {
     "key": "renpy/common/00director.rpy_L1564_0",
-    "original": "(transform)"
+    "original": "(transform)",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00director.rpy#L1564"
   },
   {
     "key": "renpy/common/00director.rpy_L1589_0",
-    "original": "(transition)"
+    "original": "(transition)",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00director.rpy#L1589"
   },
   {
     "key": "renpy/common/00director.rpy_L1601_0",
-    "original": "(channel)"
+    "original": "(channel)",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00director.rpy#L1601"
   },
   {
     "key": "renpy/common/00director.rpy_L1602_0",
-    "original": "(filename)"
+    "original": "(filename)",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00director.rpy#L1602"
   },
   {
     "key": "renpy/common/00director.rpy_L1631_0",
-    "original": "Change"
+    "original": "Change",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00director.rpy#L1631"
   },
   {
     "key": "renpy/common/00director.rpy_L1633_0",
-    "original": "Add"
+    "original": "Add",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00director.rpy#L1633"
   },
   {
     "key": "renpy/common/00director.rpy_L1636_0",
-    "original": "Cancel"
+    "original": "Cancel",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00director.rpy#L1636"
   },
   {
     "key": "renpy/common/00director.rpy_L1639_0",
-    "original": "Remove"
+    "original": "Remove",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00director.rpy#L1639"
   },
   {
     "key": "renpy/common/00director.rpy_L1674_0",
-    "original": "Statement:"
+    "original": "Statement:",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00director.rpy#L1674"
   },
   {
     "key": "renpy/common/00director.rpy_L1695_0",
-    "original": "Tag:"
+    "original": "Tag:",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00director.rpy#L1695"
   },
   {
     "key": "renpy/common/00director.rpy_L1711_0",
-    "original": "Attributes:"
+    "original": "Attributes:",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00director.rpy#L1711"
   },
   {
     "key": "renpy/common/00director.rpy_L1729_0",
-    "original": "Transforms:"
+    "original": "Transforms:",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00director.rpy#L1729"
   },
   {
     "key": "renpy/common/00director.rpy_L1748_0",
-    "original": "Behind:"
+    "original": "Behind:",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00director.rpy#L1748"
   },
   {
     "key": "renpy/common/00director.rpy_L1767_0",
-    "original": "Transition:"
+    "original": "Transition:",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00director.rpy#L1767"
   },
   {
     "key": "renpy/common/00director.rpy_L1785_0",
-    "original": "Channel:"
+    "original": "Channel:",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00director.rpy#L1785"
   },
   {
     "key": "renpy/common/00director.rpy_L1803_0",
-    "original": "Audio Filename:"
+    "original": "Audio Filename:",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00director.rpy#L1803"
   },
   {
     "key": "renpy/common/00gui.rpy_L382_0",
-    "original": "Are you sure?"
+    "original": "Are you sure?",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00gui.rpy#L382"
   },
   {
     "key": "renpy/common/00gui.rpy_L383_0",
-    "original": "Are you sure you want to delete this save?"
+    "original": "Are you sure you want to delete this save?",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00gui.rpy#L383"
   },
   {
     "key": "renpy/common/00gui.rpy_L384_0",
-    "original": "Are you sure you want to overwrite your save?"
+    "original": "Are you sure you want to overwrite your save?",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00gui.rpy#L384"
   },
   {
     "key": "renpy/common/00gui.rpy_L385_0",
-    "original": "Loading will lose unsaved progress.\\nAre you sure you want to do this?"
+    "original": "Loading will lose unsaved progress.\\nAre you sure you want to do this?",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00gui.rpy#L385"
   },
   {
     "key": "renpy/common/00gui.rpy_L386_0",
-    "original": "Are you sure you want to quit?"
+    "original": "Are you sure you want to quit?",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00gui.rpy#L386"
   },
   {
     "key": "renpy/common/00gui.rpy_L387_0",
-    "original": "Are you sure you want to return to the main menu?\\nThis will lose unsaved progress."
+    "original": "Are you sure you want to return to the main menu?\\nThis will lose unsaved progress.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00gui.rpy#L387"
   },
   {
     "key": "renpy/common/00gui.rpy_L388_0",
-    "original": "Are you sure you want to end the replay?"
+    "original": "Are you sure you want to end the replay?",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00gui.rpy#L388"
   },
   {
     "key": "renpy/common/00gui.rpy_L389_0",
-    "original": "Are you sure you want to begin skipping?"
+    "original": "Are you sure you want to begin skipping?",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00gui.rpy#L389"
   },
   {
     "key": "renpy/common/00gui.rpy_L390_0",
-    "original": "Are you sure you want to skip to the next choice?"
+    "original": "Are you sure you want to skip to the next choice?",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00gui.rpy#L390"
   },
   {
     "key": "renpy/common/00gui.rpy_L391_0",
-    "original": "Are you sure you want to skip unseen dialogue to the next choice?"
+    "original": "Are you sure you want to skip unseen dialogue to the next choice?",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00gui.rpy#L391"
   },
   {
     "key": "renpy/common/00keymap.rpy_L300_0",
-    "original": "Failed to save screenshot as %s."
+    "original": "Failed to save screenshot as %s.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00keymap.rpy#L300"
   },
   {
     "key": "renpy/common/00keymap.rpy_L312_0",
-    "original": "Saved screenshot as %s."
+    "original": "Saved screenshot as %s.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00keymap.rpy#L312"
   },
   {
     "key": "renpy/common/00library.rpy_L195_0",
-    "original": "Skip Mode"
+    "original": "Skip Mode",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00library.rpy#L195"
   },
   {
     "key": "renpy/common/00library.rpy_L281_0",
-    "original": "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
+    "original": "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00library.rpy#L281"
   },
   {
     "key": "renpy/common/00preferences.rpy_L240_0",
-    "original": "display"
+    "original": "display",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L240"
   },
   {
     "key": "renpy/common/00preferences.rpy_L252_0",
-    "original": "transitions"
+    "original": "transitions",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L252"
   },
   {
     "key": "renpy/common/00preferences.rpy_L261_0",
-    "original": "skip transitions"
+    "original": "skip transitions",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L261"
   },
   {
     "key": "renpy/common/00preferences.rpy_L263_0",
-    "original": "video sprites"
+    "original": "video sprites",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L263"
   },
   {
     "key": "renpy/common/00preferences.rpy_L272_0",
-    "original": "show empty window"
+    "original": "show empty window",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L272"
   },
   {
     "key": "renpy/common/00preferences.rpy_L281_0",
-    "original": "text speed"
+    "original": "text speed",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L281"
   },
   {
     "key": "renpy/common/00preferences.rpy_L289_0",
-    "original": "joystick"
+    "original": "joystick",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L289"
   },
   {
     "key": "renpy/common/00preferences.rpy_L289_1",
-    "original": "joystick..."
+    "original": "joystick...",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L289"
   },
   {
     "key": "renpy/common/00preferences.rpy_L296_0",
-    "original": "skip"
+    "original": "skip",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L296"
   },
   {
     "key": "renpy/common/00preferences.rpy_L299_0",
-    "original": "skip unseen [text]"
+    "original": "skip unseen [text]",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L299"
   },
   {
     "key": "renpy/common/00preferences.rpy_L304_0",
-    "original": "skip unseen text"
+    "original": "skip unseen text",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L304"
   },
   {
     "key": "renpy/common/00preferences.rpy_L306_0",
-    "original": "begin skipping"
+    "original": "begin skipping",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L306"
   },
   {
     "key": "renpy/common/00preferences.rpy_L310_0",
-    "original": "after choices"
+    "original": "after choices",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L310"
   },
   {
     "key": "renpy/common/00preferences.rpy_L317_0",
-    "original": "skip after choices"
+    "original": "skip after choices",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L317"
   },
   {
     "key": "renpy/common/00preferences.rpy_L319_0",
-    "original": "auto-forward time"
+    "original": "auto-forward time",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L319"
   },
   {
     "key": "renpy/common/00preferences.rpy_L333_0",
-    "original": "auto-forward"
+    "original": "auto-forward",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L333"
   },
   {
     "key": "renpy/common/00preferences.rpy_L340_0",
-    "original": "Auto forward"
+    "original": "Auto forward",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L340"
   },
   {
     "key": "renpy/common/00preferences.rpy_L343_0",
-    "original": "auto-forward after click"
+    "original": "auto-forward after click",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L343"
   },
   {
     "key": "renpy/common/00preferences.rpy_L352_0",
-    "original": "automatic move"
+    "original": "automatic move",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L352"
   },
   {
     "key": "renpy/common/00preferences.rpy_L361_0",
-    "original": "wait for voice"
+    "original": "wait for voice",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L361"
   },
   {
     "key": "renpy/common/00preferences.rpy_L370_0",
-    "original": "voice sustain"
+    "original": "voice sustain",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L370"
   },
   {
     "key": "renpy/common/00preferences.rpy_L379_0",
-    "original": "self voicing"
+    "original": "self voicing",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L379"
   },
   {
     "key": "renpy/common/00preferences.rpy_L388_0",
-    "original": "self voicing volume drop"
+    "original": "self voicing volume drop",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L388"
   },
   {
     "key": "renpy/common/00preferences.rpy_L396_0",
-    "original": "clipboard voicing"
+    "original": "clipboard voicing",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L396"
   },
   {
     "key": "renpy/common/00preferences.rpy_L405_0",
-    "original": "debug voicing"
+    "original": "debug voicing",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L405"
   },
   {
     "key": "renpy/common/00preferences.rpy_L414_0",
-    "original": "emphasize audio"
+    "original": "emphasize audio",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L414"
   },
   {
     "key": "renpy/common/00preferences.rpy_L423_0",
-    "original": "rollback side"
+    "original": "rollback side",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L423"
   },
   {
     "key": "renpy/common/00preferences.rpy_L433_0",
-    "original": "gl powersave"
+    "original": "gl powersave",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L433"
   },
   {
     "key": "renpy/common/00preferences.rpy_L439_0",
-    "original": "gl framerate"
+    "original": "gl framerate",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L439"
   },
   {
     "key": "renpy/common/00preferences.rpy_L442_0",
-    "original": "gl tearing"
+    "original": "gl tearing",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L442"
   },
   {
     "key": "renpy/common/00preferences.rpy_L445_0",
-    "original": "font transform"
+    "original": "font transform",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L445"
   },
   {
     "key": "renpy/common/00preferences.rpy_L448_0",
-    "original": "font size"
+    "original": "font size",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L448"
   },
   {
     "key": "renpy/common/00preferences.rpy_L456_0",
-    "original": "font line spacing"
+    "original": "font line spacing",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L456"
   },
   {
     "key": "renpy/common/00preferences.rpy_L464_0",
-    "original": "system cursor"
+    "original": "system cursor",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L464"
   },
   {
     "key": "renpy/common/00preferences.rpy_L484_0",
-    "original": "music volume"
+    "original": "music volume",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L484"
   },
   {
     "key": "renpy/common/00preferences.rpy_L485_0",
-    "original": "sound volume"
+    "original": "sound volume",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L485"
   },
   {
     "key": "renpy/common/00preferences.rpy_L486_0",
-    "original": "voice volume"
+    "original": "voice volume",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L486"
   },
   {
     "key": "renpy/common/00preferences.rpy_L487_0",
-    "original": "mute music"
+    "original": "mute music",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L487"
   },
   {
     "key": "renpy/common/00preferences.rpy_L488_0",
-    "original": "mute sound"
+    "original": "mute sound",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L488"
   },
   {
     "key": "renpy/common/00preferences.rpy_L489_0",
-    "original": "mute voice"
+    "original": "mute voice",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L489"
   },
   {
     "key": "renpy/common/00preferences.rpy_L490_0",
-    "original": "mute all"
+    "original": "mute all",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L490"
   },
   {
     "key": "renpy/common/00preferences.rpy_L571_0",
-    "original": "Clipboard voicing enabled. Press 'shift+C' to disable."
+    "original": "Clipboard voicing enabled. Press 'shift+C' to disable.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L571"
   },
   {
     "key": "renpy/common/00preferences.rpy_L573_0",
-    "original": "Self-voicing would say \\\"[renpy.display.tts.last]\\\". Press 'alt+shift+V' to disable."
+    "original": "Self-voicing would say \\\"[renpy.display.tts.last]\\\". Press 'alt+shift+V' to disable.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L573"
   },
   {
     "key": "renpy/common/00preferences.rpy_L575_0",
-    "original": "Self-voicing enabled. Press 'v' to disable."
+    "original": "Self-voicing enabled. Press 'v' to disable.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L575"
   },
   {
     "key": "renpy/common/_compat/gamemenu.rpym_L198_0",
-    "original": "Empty Slot."
+    "original": "Empty Slot.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_compat/gamemenu.rpym#L198"
   },
   {
     "key": "renpy/common/_compat/gamemenu.rpym_L355_0",
-    "original": "Previous"
+    "original": "Previous",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_compat/gamemenu.rpym#L355"
   },
   {
     "key": "renpy/common/_compat/gamemenu.rpym_L362_0",
-    "original": "Next"
+    "original": "Next",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_compat/gamemenu.rpym#L362"
   },
   {
     "key": "renpy/common/_compat/preferences.rpym_L428_0",
-    "original": "Joystick Mapping"
+    "original": "Joystick Mapping",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_compat/preferences.rpym#L428"
   },
   {
     "key": "renpy/common/_developer/developer.rpym_L38_0",
-    "original": "Developer Menu"
+    "original": "Developer Menu",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_developer/developer.rpym#L38"
   },
   {
     "key": "renpy/common/_developer/developer.rpym_L43_0",
-    "original": "Interactive Director (D)"
+    "original": "Interactive Director (D)",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_developer/developer.rpym#L43"
   },
   {
     "key": "renpy/common/_developer/developer.rpym_L45_0",
-    "original": "Reload Game (Shift+R)"
+    "original": "Reload Game (Shift+R)",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_developer/developer.rpym#L45"
   },
   {
     "key": "renpy/common/_developer/developer.rpym_L47_0",
-    "original": "Console (Shift+O)"
+    "original": "Console (Shift+O)",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_developer/developer.rpym#L47"
   },
   {
     "key": "renpy/common/_developer/developer.rpym_L49_0",
-    "original": "Variable Viewer"
+    "original": "Variable Viewer",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_developer/developer.rpym#L49"
   },
   {
     "key": "renpy/common/_developer/developer.rpym_L51_0",
-    "original": "Image Location Picker"
+    "original": "Image Location Picker",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_developer/developer.rpym#L51"
   },
   {
     "key": "renpy/common/_developer/developer.rpym_L53_0",
-    "original": "Filename List"
+    "original": "Filename List",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_developer/developer.rpym#L53"
   },
   {
     "key": "renpy/common/_developer/developer.rpym_L57_0",
-    "original": "Show Image Load Log (F4)"
+    "original": "Show Image Load Log (F4)",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_developer/developer.rpym#L57"
   },
   {
     "key": "renpy/common/_developer/developer.rpym_L60_0",
-    "original": "Hide Image Load Log (F4)"
+    "original": "Hide Image Load Log (F4)",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_developer/developer.rpym#L60"
   },
   {
     "key": "renpy/common/_developer/developer.rpym_L63_0",
-    "original": "Image Attributes"
+    "original": "Image Attributes",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_developer/developer.rpym#L63"
   },
   {
     "key": "renpy/common/_developer/developer.rpym_L90_0",
-    "original": "[name] [attributes] (hidden)"
+    "original": "[name] [attributes] (hidden)",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_developer/developer.rpym#L90"
   },
   {
     "key": "renpy/common/_developer/developer.rpym_L94_0",
-    "original": "[name] [attributes]"
+    "original": "[name] [attributes]",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_developer/developer.rpym#L94"
   },
   {
     "key": "renpy/common/_developer/developer.rpym_L143_0",
-    "original": "Nothing to inspect."
+    "original": "Nothing to inspect.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_developer/developer.rpym#L143"
   },
   {
     "key": "renpy/common/_developer/developer.rpym_L154_0",
-    "original": "Hide deleted"
+    "original": "Hide deleted",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_developer/developer.rpym#L154"
   },
   {
     "key": "renpy/common/_developer/developer.rpym_L154_1",
-    "original": "Show deleted"
+    "original": "Show deleted",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_developer/developer.rpym#L154"
   },
   {
     "key": "renpy/common/_developer/developer.rpym_L278_0",
-    "original": "Return to the developer menu"
+    "original": "Return to the developer menu",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_developer/developer.rpym#L278"
   },
   {
     "key": "renpy/common/_developer/developer.rpym_L443_0",
-    "original": "Rectangle: %r"
+    "original": "Rectangle: %r",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_developer/developer.rpym#L443"
   },
   {
     "key": "renpy/common/_developer/developer.rpym_L448_0",
-    "original": "Mouse position: %r"
+    "original": "Mouse position: %r",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_developer/developer.rpym#L448"
   },
   {
     "key": "renpy/common/_developer/developer.rpym_L453_0",
-    "original": "Right-click or escape to quit."
+    "original": "Right-click or escape to quit.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_developer/developer.rpym#L453"
   },
   {
     "key": "renpy/common/_developer/developer.rpym_L485_0",
-    "original": "Rectangle copied to clipboard."
+    "original": "Rectangle copied to clipboard.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_developer/developer.rpym#L485"
   },
   {
     "key": "renpy/common/_developer/developer.rpym_L488_0",
-    "original": "Position copied to clipboard."
+    "original": "Position copied to clipboard.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_developer/developer.rpym#L488"
   },
   {
     "key": "renpy/common/_developer/developer.rpym_L506_0",
-    "original": "Type to filter: "
+    "original": "Type to filter: ",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_developer/developer.rpym#L506"
   },
   {
     "key": "renpy/common/_developer/developer.rpym_L631_0",
-    "original": "Textures: [tex_count] ([tex_size_mb:.1f] MB)"
+    "original": "Textures: [tex_count] ([tex_size_mb:.1f] MB)",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_developer/developer.rpym#L631"
   },
   {
     "key": "renpy/common/_developer/developer.rpym_L635_0",
-    "original": "Image cache: [cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
+    "original": "Image cache: [cache_pct:.1f]% ([cache_size_mb:.1f] MB)",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_developer/developer.rpym#L635"
   },
   {
     "key": "renpy/common/_developer/developer.rpym_L645_0",
-    "original": "✔ "
+    "original": "✔ ",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_developer/developer.rpym#L645"
   },
   {
     "key": "renpy/common/_developer/developer.rpym_L648_0",
-    "original": "✘ "
+    "original": "✘ ",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_developer/developer.rpym#L648"
   },
   {
     "key": "renpy/common/_developer/developer.rpym_L653_0",
-    "original": "\\n{color=#cfc}✔ predicted image (good){/color}\\n{color=#fcc}✘ unpredicted image (bad){/color}\\n{color=#fff}Drag to move.{/color}"
+    "original": "\\n{color=#cfc}✔ predicted image (good){/color}\\n{color=#fcc}✘ unpredicted image (bad){/color}\\n{color=#fff}Drag to move.{/color}",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_developer/developer.rpym#L653"
   },
   {
     "key": "renpy/common/_developer/inspector.rpym_L38_0",
-    "original": "Displayable Inspector"
+    "original": "Displayable Inspector",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_developer/inspector.rpym#L38"
   },
   {
     "key": "renpy/common/_developer/inspector.rpym_L61_0",
-    "original": "Size"
+    "original": "Size",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_developer/inspector.rpym#L61"
   },
   {
     "key": "renpy/common/_developer/inspector.rpym_L65_0",
-    "original": "Style"
+    "original": "Style",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_developer/inspector.rpym#L65"
   },
   {
     "key": "renpy/common/_developer/inspector.rpym_L71_0",
-    "original": "Location"
+    "original": "Location",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_developer/inspector.rpym#L71"
   },
   {
     "key": "renpy/common/_developer/inspector.rpym_L122_0",
-    "original": "Inspecting Styles of [displayable_name!q]"
+    "original": "Inspecting Styles of [displayable_name!q]",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_developer/inspector.rpym#L122"
   },
   {
     "key": "renpy/common/_developer/inspector.rpym_L139_0",
-    "original": "displayable:"
+    "original": "displayable:",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_developer/inspector.rpym#L139"
   },
   {
     "key": "renpy/common/_developer/inspector.rpym_L145_0",
-    "original": "        (no properties affect the displayable)"
+    "original": "        (no properties affect the displayable)",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_developer/inspector.rpym#L145"
   },
   {
     "key": "renpy/common/_developer/inspector.rpym_L147_0",
-    "original": "        (default properties omitted)"
+    "original": "        (default properties omitted)",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_developer/inspector.rpym#L147"
   },
   {
     "key": "renpy/common/_developer/inspector.rpym_L185_0",
-    "original": "<repr() failed>"
+    "original": "<repr() failed>",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_developer/inspector.rpym#L185"
   },
   {
     "key": "renpy/common/_layout/classic_load_save.rpym_L170_0",
-    "original": "a"
+    "original": "a",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_layout/classic_load_save.rpym#L170"
   },
   {
     "key": "renpy/common/_layout/classic_load_save.rpym_L179_0",
-    "original": "q"
+    "original": "q",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_layout/classic_load_save.rpym#L179"
   },
   {
     "key": "renpy/common/00iap.rpy_L219_0",
-    "original": "Contacting App Store\\nPlease Wait..."
+    "original": "Contacting App Store\\nPlease Wait...",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00iap.rpy#L219"
   },
   {
     "key": "renpy/common/00updater.rpy_L374_0",
-    "original": "The Ren'Py Updater is not supported on mobile devices."
+    "original": "The Ren'Py Updater is not supported on mobile devices.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00updater.rpy#L374"
   },
   {
     "key": "renpy/common/00updater.rpy_L496_0",
-    "original": "An error is being simulated."
+    "original": "An error is being simulated.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00updater.rpy#L496"
   },
   {
     "key": "renpy/common/00updater.rpy_L680_0",
-    "original": "Either this project does not support updating, or the update status file was deleted."
+    "original": "Either this project does not support updating, or the update status file was deleted.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00updater.rpy#L680"
   },
   {
     "key": "renpy/common/00updater.rpy_L694_0",
-    "original": "This account does not have permission to perform an update."
+    "original": "This account does not have permission to perform an update.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00updater.rpy#L694"
   },
   {
     "key": "renpy/common/00updater.rpy_L697_0",
-    "original": "This account does not have permission to write the update log."
+    "original": "This account does not have permission to write the update log.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00updater.rpy#L697"
   },
   {
     "key": "renpy/common/00updater.rpy_L724_0",
-    "original": "Could not verify update signature."
+    "original": "Could not verify update signature.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00updater.rpy#L724"
   },
   {
     "key": "renpy/common/00updater.rpy_L995_0",
-    "original": "The update file was not downloaded."
+    "original": "The update file was not downloaded.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00updater.rpy#L995"
   },
   {
     "key": "renpy/common/00updater.rpy_L1013_0",
-    "original": "The update file does not have the correct digest - it may have been corrupted."
+    "original": "The update file does not have the correct digest - it may have been corrupted.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00updater.rpy#L1013"
   },
   {
     "key": "renpy/common/00updater.rpy_L1067_0",
-    "original": "While unpacking {}, unknown type {}."
+    "original": "While unpacking {}, unknown type {}.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00updater.rpy#L1067"
   },
   {
     "key": "renpy/common/00updater.rpy_L1433_0",
-    "original": "Updater"
+    "original": "Updater",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00updater.rpy#L1433"
   },
   {
     "key": "renpy/common/00updater.rpy_L1440_0",
-    "original": "An error has occured:"
+    "original": "An error has occured:",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00updater.rpy#L1440"
   },
   {
     "key": "renpy/common/00updater.rpy_L1442_0",
-    "original": "Checking for updates."
+    "original": "Checking for updates.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00updater.rpy#L1442"
   },
   {
     "key": "renpy/common/00updater.rpy_L1444_0",
-    "original": "This program is up to date."
+    "original": "This program is up to date.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00updater.rpy#L1444"
   },
   {
     "key": "renpy/common/00updater.rpy_L1446_0",
-    "original": "[u.version] is available. Do you want to install it?"
+    "original": "[u.version] is available. Do you want to install it?",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00updater.rpy#L1446"
   },
   {
     "key": "renpy/common/00updater.rpy_L1448_0",
-    "original": "Preparing to download the updates."
+    "original": "Preparing to download the updates.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00updater.rpy#L1448"
   },
   {
     "key": "renpy/common/00updater.rpy_L1450_0",
-    "original": "Downloading the updates."
+    "original": "Downloading the updates.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00updater.rpy#L1450"
   },
   {
     "key": "renpy/common/00updater.rpy_L1452_0",
-    "original": "Unpacking the updates."
+    "original": "Unpacking the updates.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00updater.rpy#L1452"
   },
   {
     "key": "renpy/common/00updater.rpy_L1454_0",
-    "original": "Finishing up."
+    "original": "Finishing up.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00updater.rpy#L1454"
   },
   {
     "key": "renpy/common/00updater.rpy_L1456_0",
-    "original": "The updates have been installed. The program will restart."
+    "original": "The updates have been installed. The program will restart.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00updater.rpy#L1456"
   },
   {
     "key": "renpy/common/00updater.rpy_L1458_0",
-    "original": "The updates have been installed."
+    "original": "The updates have been installed.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00updater.rpy#L1458"
   },
   {
     "key": "renpy/common/00updater.rpy_L1460_0",
-    "original": "The updates were cancelled."
+    "original": "The updates were cancelled.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00updater.rpy#L1460"
   },
   {
     "key": "renpy/common/00updater.rpy_L1475_0",
-    "original": "Proceed"
+    "original": "Proceed",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00updater.rpy#L1475"
   },
   {
     "key": "renpy/common/00gallery.rpy_L590_0",
-    "original": "Image [index] of [count] locked."
+    "original": "Image [index] of [count] locked.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00gallery.rpy#L590"
   },
   {
     "key": "renpy/common/00gallery.rpy_L610_0",
-    "original": "prev"
+    "original": "prev",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00gallery.rpy#L610"
   },
   {
     "key": "renpy/common/00gallery.rpy_L611_0",
-    "original": "next"
+    "original": "next",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00gallery.rpy#L611"
   },
   {
     "key": "renpy/common/00gallery.rpy_L612_0",
-    "original": "slideshow"
+    "original": "slideshow",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00gallery.rpy#L612"
   },
   {
     "key": "renpy/common/00gallery.rpy_L613_0",
-    "original": "return"
+    "original": "return",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00gallery.rpy#L613"
   },
   {
     "key": "renpy/common/00gltest.rpy_L89_0",
-    "original": "Renderer"
+    "original": "Renderer",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00gltest.rpy#L89"
   },
   {
     "key": "renpy/common/00gltest.rpy_L93_0",
-    "original": "Automatically Choose"
+    "original": "Automatically Choose",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00gltest.rpy#L93"
   },
   {
     "key": "renpy/common/00gltest.rpy_L100_0",
-    "original": "Force GL Renderer"
+    "original": "Force GL Renderer",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00gltest.rpy#L100"
   },
   {
     "key": "renpy/common/00gltest.rpy_L105_0",
-    "original": "Force ANGLE Renderer"
+    "original": "Force ANGLE Renderer",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00gltest.rpy#L105"
   },
   {
     "key": "renpy/common/00gltest.rpy_L110_0",
-    "original": "Force GLES Renderer"
+    "original": "Force GLES Renderer",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00gltest.rpy#L110"
   },
   {
     "key": "renpy/common/00gltest.rpy_L116_0",
-    "original": "Force GL2 Renderer"
+    "original": "Force GL2 Renderer",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00gltest.rpy#L116"
   },
   {
     "key": "renpy/common/00gltest.rpy_L121_0",
-    "original": "Force ANGLE2 Renderer"
+    "original": "Force ANGLE2 Renderer",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00gltest.rpy#L121"
   },
   {
     "key": "renpy/common/00gltest.rpy_L126_0",
-    "original": "Force GLES2 Renderer"
+    "original": "Force GLES2 Renderer",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00gltest.rpy#L126"
   },
   {
     "key": "renpy/common/00gltest.rpy_L136_0",
-    "original": "Enable (No Blocklist)"
+    "original": "Enable (No Blocklist)",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00gltest.rpy#L136"
   },
   {
     "key": "renpy/common/00gltest.rpy_L140_0",
-    "original": "Enable"
+    "original": "Enable",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00gltest.rpy#L140"
   },
   {
     "key": "renpy/common/00gltest.rpy_L159_0",
-    "original": "Powersave"
+    "original": "Powersave",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00gltest.rpy#L159"
   },
   {
     "key": "renpy/common/00gltest.rpy_L173_0",
-    "original": "Framerate"
+    "original": "Framerate",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00gltest.rpy#L173"
   },
   {
     "key": "renpy/common/00gltest.rpy_L177_0",
-    "original": "Screen"
+    "original": "Screen",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00gltest.rpy#L177"
   },
   {
     "key": "renpy/common/00gltest.rpy_L181_0",
-    "original": "60"
+    "original": "60",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00gltest.rpy#L181"
   },
   {
     "key": "renpy/common/00gltest.rpy_L185_0",
-    "original": "30"
+    "original": "30",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00gltest.rpy#L185"
   },
   {
     "key": "renpy/common/00gltest.rpy_L191_0",
-    "original": "Tearing"
+    "original": "Tearing",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00gltest.rpy#L191"
   },
   {
     "key": "renpy/common/00gltest.rpy_L207_0",
-    "original": "Changes will take effect the next time this program is run."
+    "original": "Changes will take effect the next time this program is run.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00gltest.rpy#L207"
   },
   {
     "key": "renpy/common/00gltest.rpy_L242_0",
-    "original": "Performance Warning"
+    "original": "Performance Warning",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00gltest.rpy#L242"
   },
   {
     "key": "renpy/common/00gltest.rpy_L247_0",
-    "original": "This computer is using software rendering."
+    "original": "This computer is using software rendering.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00gltest.rpy#L247"
   },
   {
     "key": "renpy/common/00gltest.rpy_L249_0",
-    "original": "This game requires use of GL2 that can't be initialised."
+    "original": "This game requires use of GL2 that can't be initialised.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00gltest.rpy#L249"
   },
   {
     "key": "renpy/common/00gltest.rpy_L251_0",
-    "original": "This computer has a problem displaying graphics: [problem]."
+    "original": "This computer has a problem displaying graphics: [problem].",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00gltest.rpy#L251"
   },
   {
     "key": "renpy/common/00gltest.rpy_L255_0",
-    "original": "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display."
+    "original": "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00gltest.rpy#L255"
   },
   {
     "key": "renpy/common/00gltest.rpy_L259_0",
-    "original": "The {a=edit:1:log.txt}log.txt{/a} file may contain information to help you determine what is wrong with your computer."
+    "original": "The {a=edit:1:log.txt}log.txt{/a} file may contain information to help you determine what is wrong with your computer.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00gltest.rpy#L259"
   },
   {
     "key": "renpy/common/00gltest.rpy_L264_0",
-    "original": "More details on how to fix this can be found in the {a=[url]}documentation{/a}."
+    "original": "More details on how to fix this can be found in the {a=[url]}documentation{/a}.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00gltest.rpy#L264"
   },
   {
     "key": "renpy/common/00gltest.rpy_L269_0",
-    "original": "Continue, Show this warning again"
+    "original": "Continue, Show this warning again",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00gltest.rpy#L269"
   },
   {
     "key": "renpy/common/00gltest.rpy_L273_0",
-    "original": "Continue, Don't show warning again"
+    "original": "Continue, Don't show warning again",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00gltest.rpy#L273"
   },
   {
     "key": "renpy/common/00gltest.rpy_L281_0",
-    "original": "Change render options"
+    "original": "Change render options",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00gltest.rpy#L281"
   },
   {
     "key": "renpy/common/00gamepad.rpy_L32_0",
-    "original": "Select Gamepad to Calibrate"
+    "original": "Select Gamepad to Calibrate",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00gamepad.rpy#L32"
   },
   {
     "key": "renpy/common/00gamepad.rpy_L35_0",
-    "original": "No Gamepads Available"
+    "original": "No Gamepads Available",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00gamepad.rpy#L35"
   },
   {
     "key": "renpy/common/00gamepad.rpy_L54_0",
-    "original": "Calibrating [name] ([i]/[total])"
+    "original": "Calibrating [name] ([i]/[total])",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00gamepad.rpy#L54"
   },
   {
     "key": "renpy/common/00gamepad.rpy_L58_0",
-    "original": "Press or move the '[control!s]' [kind]."
+    "original": "Press or move the '[control!s]' [kind].",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00gamepad.rpy#L58"
   },
   {
     "key": "renpy/common/00gamepad.rpy_L68_0",
-    "original": "Skip (A)"
+    "original": "Skip (A)",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00gamepad.rpy#L68"
   },
   {
     "key": "renpy/common/00gamepad.rpy_L71_0",
-    "original": "Back (B)"
+    "original": "Back (B)",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00gamepad.rpy#L71"
   },
   {
     "key": "renpy/common/_errorhandling.rpym_L542_0",
-    "original": "Open"
+    "original": "Open",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_errorhandling.rpym#L542"
   },
   {
     "key": "renpy/common/_errorhandling.rpym_L544_0",
-    "original": "Opens the traceback.txt file in a text editor."
+    "original": "Opens the traceback.txt file in a text editor.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_errorhandling.rpym#L544"
   },
   {
     "key": "renpy/common/_errorhandling.rpym_L546_0",
-    "original": "Copy BBCode"
+    "original": "Copy BBCode",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_errorhandling.rpym#L546"
   },
   {
     "key": "renpy/common/_errorhandling.rpym_L548_0",
-    "original": "Copies the traceback.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
+    "original": "Copies the traceback.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_errorhandling.rpym#L548"
   },
   {
     "key": "renpy/common/_errorhandling.rpym_L550_0",
-    "original": "Copy Markdown"
+    "original": "Copy Markdown",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_errorhandling.rpym#L550"
   },
   {
     "key": "renpy/common/_errorhandling.rpym_L552_0",
-    "original": "Copies the traceback.txt file to the clipboard as Markdown for Discord."
+    "original": "Copies the traceback.txt file to the clipboard as Markdown for Discord.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_errorhandling.rpym#L552"
   },
   {
     "key": "renpy/common/_errorhandling.rpym_L581_0",
-    "original": "An exception has occurred."
+    "original": "An exception has occurred.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_errorhandling.rpym#L581"
   },
   {
     "key": "renpy/common/_errorhandling.rpym_L604_0",
-    "original": "Rollback"
+    "original": "Rollback",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_errorhandling.rpym#L604"
   },
   {
     "key": "renpy/common/_errorhandling.rpym_L606_0",
-    "original": "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
+    "original": "Attempts a roll back to a prior time, allowing you to save or choose a different choice.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_errorhandling.rpym#L606"
   },
   {
     "key": "renpy/common/_errorhandling.rpym_L609_0",
-    "original": "Ignore"
+    "original": "Ignore",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_errorhandling.rpym#L609"
   },
   {
     "key": "renpy/common/_errorhandling.rpym_L613_0",
-    "original": "Ignores the exception, allowing you to continue."
+    "original": "Ignores the exception, allowing you to continue.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_errorhandling.rpym#L613"
   },
   {
     "key": "renpy/common/_errorhandling.rpym_L615_0",
-    "original": "Ignores the exception, allowing you to continue. This often leads to additional errors."
+    "original": "Ignores the exception, allowing you to continue. This often leads to additional errors.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_errorhandling.rpym#L615"
   },
   {
     "key": "renpy/common/_errorhandling.rpym_L619_0",
-    "original": "Reload"
+    "original": "Reload",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_errorhandling.rpym#L619"
   },
   {
     "key": "renpy/common/_errorhandling.rpym_L621_0",
-    "original": "Reloads the game from disk, saving and restoring game state if possible."
+    "original": "Reloads the game from disk, saving and restoring game state if possible.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_errorhandling.rpym#L621"
   },
   {
     "key": "renpy/common/_errorhandling.rpym_L624_0",
-    "original": "Console"
+    "original": "Console",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_errorhandling.rpym#L624"
   },
   {
     "key": "renpy/common/_errorhandling.rpym_L626_0",
-    "original": "Opens a console to allow debugging the problem."
+    "original": "Opens a console to allow debugging the problem.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_errorhandling.rpym#L626"
   },
   {
     "key": "renpy/common/_errorhandling.rpym_L639_0",
-    "original": "Quits the game."
+    "original": "Quits the game.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_errorhandling.rpym#L639"
   },
   {
     "key": "renpy/common/_errorhandling.rpym_L660_0",
-    "original": "Parsing the script failed."
+    "original": "Parsing the script failed.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_errorhandling.rpym#L660"
   },
   {
     "key": "renpy/common/_errorhandling.rpym_L686_0",
-    "original": "Opens the errors.txt file in a text editor."
+    "original": "Opens the errors.txt file in a text editor.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_errorhandling.rpym#L686"
   },
   {
     "key": "renpy/common/_errorhandling.rpym_L690_0",
-    "original": "Copies the errors.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
+    "original": "Copies the errors.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_errorhandling.rpym#L690"
   },
   {
     "key": "renpy/common/_errorhandling.rpym_L694_0",
-    "original": "Copies the errors.txt file to the clipboard as Markdown for Discord."
+    "original": "Copies the errors.txt file to the clipboard as Markdown for Discord.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/renpy/common/_errorhandling.rpym#L694"
   }
 ]

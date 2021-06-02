@@ -1,22 +1,27 @@
 [
   {
     "key": "game/3evening map.rpy_L61_0",
-    "original": "Ruby's boutique"
+    "original": "Ruby's boutique",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/3evening map.rpy#L61"
   },
   {
     "key": "game/3evening map.rpy_L61_1",
-    "original": "Visit the boutique"
+    "original": "Visit the boutique",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/3evening map.rpy#L61"
   },
   {
     "key": "game/3evening map.rpy_L61_2",
-    "original": "Go back"
+    "original": "Go back",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/3evening map.rpy#L61"
   },
   {
     "key": "game/3evening map.rpy_L79_0",
-    "original": "The Riding Mare bar"
+    "original": "The Riding Mare bar",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/3evening map.rpy#L79"
   },
   {
     "key": "game/3evening map.rpy_L79_1",
-    "original": "Visit the bar"
+    "original": "Visit the bar",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/3evening map.rpy#L79"
   }
 ]

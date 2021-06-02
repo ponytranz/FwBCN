@@ -1,30 +1,37 @@
 [
   {
     "key": "todolist_5a4038dc",
-    "original": "This is a quaint to-do list Penelope and Moxie gave me."
+    "original": "This is a quaint to-do list Penelope and Moxie gave me.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1551"
   },
   {
     "key": "todolist_6492ee39",
-    "original": "It's full of work leads, and there's plenty of room for me to erase and pencil in new plans."
+    "original": "It's full of work leads, and there's plenty of room for me to erase and pencil in new plans.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1552"
   },
   {
     "key": "todolist_2ec1c7e4",
-    "original": "Wow, there are a lot of options! Where should I begin?"
+    "original": "Wow, there are a lot of options! Where should I begin?",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1553"
   },
   {
     "key": "inventorymenuday_25c128ba",
-    "original": "This is the bag Moxie gave me. Well, she called it a 'satchel', I don't know what the difference is."
+    "original": "This is the bag Moxie gave me. Well, she called it a 'satchel', I don't know what the difference is.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1878"
   },
   {
     "key": "inventorymenuday_e4cea817",
-    "original": "Pretty sure she made it herself."
+    "original": "Pretty sure she made it herself.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1879"
   },
   {
     "key": "inventorymenuday_94faed39",
-    "original": "It's certainly girly, but it should be able to carry a bunch of stuff."
+    "original": "It's certainly girly, but it should be able to carry a bunch of stuff.",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1880"
   },
   {
     "key": "inventorymenuday_ae48da32",
-    "original": "Here's what I've got now:"
+    "original": "Here's what I've got now:",
+    "context": "https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1881"
   }
 ]
