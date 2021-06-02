@@ -1,11 +1,11 @@
 const fs = require('fs')
 
 try {
-  if (!fs.existsSync('tl/chinese/paratranz'))
-    fs.mkdirSync('tl/chinese/paratranz')
-  for (let file of fs.readdirSync('tl/chinese').filter(file => /\.rpy$/.test(file))) {
+  if (!fs.existsSync('game/tl/chinese/paratranz'))
+    fs.mkdirSync('game/tl/chinese/paratranz')
+  for (let file of fs.readdirSync('game/tl/chinese').filter(file => /\.rpy$/.test(file))) {
     let name = file.match(/^(.+)\.rpy$/)[1]
-    let content = fs.readFileSync(`tl/chinese/${file}`, 'utf-8')
+    let content = fs.readFileSync(`game/tl/chinese/${file}`, 'utf-8')
     let result = []
     /*
     match[1] : file and line number
@@ -24,7 +24,7 @@ try {
     })
     if (result.length)
       fs.writeFileSync(
-        `tl/chinese/paratranz/${name}.json`,
+        `game/tl/chinese/paratranz/${name}.json`,
         JSON.stringify(result, null, 2))
     result = []
     /*
@@ -50,7 +50,7 @@ try {
     }
     if (result.length)
       fs.writeFileSync(
-        `tl/chinese/paratranz/${name}_strings.json`,
+        `game/tl/chinese/paratranz/${name}_strings.json`,
         JSON.stringify(result, null, 2))
   }
 } catch (error) {
