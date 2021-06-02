@@ -1,82 +1,242 @@
-[
+﻿[
   {
+    "id": 79443751,
+    "createdAt": "2021-05-30T19:47:48.000Z",
+    "updatedAt": "2021-06-02T15:57:54.000Z",
     "key": "game/finalroute.rpy_L192_0",
     "original": "Slave? That’s awful!",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/finalroute.rpy#L192"
+    "translation": "奴隶？这太糟糕了！",
+    "file": 272383,
+    "stage": 1,
+    "project": 2414,
+    "uid": null,
+    "extra": null,
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/finalroute.rpy#L192",
+    "words": 3
   },
   {
+    "id": 79443752,
+    "createdAt": "2021-05-30T19:47:48.000Z",
+    "updatedAt": "2021-06-02T15:57:54.000Z",
     "key": "game/finalroute.rpy_L192_1",
     "original": "I’m glad I could have helped, my Queen.",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/finalroute.rpy#L192"
+    "translation": "我很高兴能帮到些什么，我的女王。",
+    "file": 272383,
+    "stage": 1,
+    "project": 2414,
+    "uid": null,
+    "extra": null,
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/finalroute.rpy#L192",
+    "words": 8
   },
   {
+    "id": 79443753,
+    "createdAt": "2021-05-30T19:47:48.000Z",
+    "updatedAt": "2021-06-02T15:57:54.000Z",
     "key": "game/finalroute.rpy_L230_0",
     "original": "Would you like to save?",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/finalroute.rpy#L230"
+    "translation": "",
+    "file": 272383,
+    "stage": 0,
+    "project": 2414,
+    "uid": null,
+    "extra": null,
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/finalroute.rpy#L230",
+    "words": 5
   },
   {
+    "id": 79443754,
+    "createdAt": "2021-05-30T19:47:48.000Z",
+    "updatedAt": "2021-06-02T15:57:54.000Z",
     "key": "game/finalroute.rpy_L241_0",
     "original": "Of course, your majesty…",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/finalroute.rpy#L241"
+    "translation": "当然了，女王殿下。",
+    "file": 272383,
+    "stage": 1,
+    "project": 2414,
+    "uid": null,
+    "extra": null,
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/finalroute.rpy#L241",
+    "words": 4
   },
   {
+    "id": 79443755,
+    "createdAt": "2021-05-30T19:47:48.000Z",
+    "updatedAt": "2021-06-02T15:57:54.000Z",
     "key": "game/finalroute.rpy_L241_1",
     "original": "No way! I refuse!",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/finalroute.rpy#L241"
+    "translation": "没可能！我拒绝！",
+    "file": 272383,
+    "stage": 1,
+    "project": 2414,
+    "uid": null,
+    "extra": null,
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/finalroute.rpy#L241",
+    "words": 4
   },
   {
+    "id": 79443756,
+    "createdAt": "2021-05-30T19:47:48.000Z",
+    "updatedAt": "2021-06-02T15:57:54.000Z",
     "key": "game/finalroute.rpy_L292_0",
     "original": "I’ll never join you!",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/finalroute.rpy#L292"
+    "translation": "我绝不会加入你们！",
+    "file": 272383,
+    "stage": 1,
+    "project": 2414,
+    "uid": null,
+    "extra": null,
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/finalroute.rpy#L292",
+    "words": 4
   },
   {
+    "id": 79443757,
+    "createdAt": "2021-05-30T19:47:48.000Z",
+    "updatedAt": "2021-06-02T15:57:54.000Z",
     "key": "game/finalroute.rpy_L292_1",
     "original": "A harem? Alright, I’ll join you…",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/finalroute.rpy#L292"
+    "translation": "一个后宫？行吧，算我一个......",
+    "file": 272383,
+    "stage": 1,
+    "project": 2414,
+    "uid": null,
+    "extra": null,
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/finalroute.rpy#L292",
+    "words": 6
   },
   {
+    "id": 79443758,
+    "createdAt": "2021-05-30T19:47:48.000Z",
+    "updatedAt": "2021-06-02T15:57:54.000Z",
     "key": "game/finalroute.rpy_L377_0",
     "original": "Inventory",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/finalroute.rpy#L377"
+    "translation": "库存",
+    "file": 272383,
+    "stage": 1,
+    "project": 2414,
+    "uid": null,
+    "extra": null,
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/finalroute.rpy#L377",
+    "words": 1
   },
   {
+    "id": 79443759,
+    "createdAt": "2021-05-30T19:47:48.000Z",
+    "updatedAt": "2021-06-02T15:57:54.000Z",
     "key": "game/finalroute.rpy_L377_1",
     "original": "Moxie's Satchel",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/finalroute.rpy#L377"
+    "translation": "Moxie的背包",
+    "file": 272383,
+    "stage": 1,
+    "project": 2414,
+    "uid": null,
+    "extra": null,
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/finalroute.rpy#L377",
+    "words": 2
   },
   {
+    "id": 79443760,
+    "createdAt": "2021-05-30T19:47:48.000Z",
+    "updatedAt": "2021-06-02T15:57:54.000Z",
     "key": "game/finalroute.rpy_L377_2",
     "original": "[chocolates] Chocolates",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/finalroute.rpy#L377"
+    "translation": "[chocolates]巧克力",
+    "file": 272383,
+    "stage": 1,
+    "project": 2414,
+    "uid": null,
+    "extra": null,
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/finalroute.rpy#L377",
+    "words": 2
   },
   {
+    "id": 79443761,
+    "createdAt": "2021-05-30T19:47:48.000Z",
+    "updatedAt": "2021-06-02T15:57:54.000Z",
     "key": "game/finalroute.rpy_L377_3",
     "original": "[roses] Roses",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/finalroute.rpy#L377"
+    "translation": "[roses]玫瑰",
+    "file": 272383,
+    "stage": 1,
+    "project": 2414,
+    "uid": null,
+    "extra": null,
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/finalroute.rpy#L377",
+    "words": 2
   },
   {
+    "id": 79443762,
+    "createdAt": "2021-05-30T19:47:48.000Z",
+    "updatedAt": "2021-06-02T15:57:54.000Z",
     "key": "game/finalroute.rpy_L377_4",
     "original": "City Permit",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/finalroute.rpy#L377"
+    "translation": "城市通行证",
+    "file": 272383,
+    "stage": 1,
+    "project": 2414,
+    "uid": null,
+    "extra": null,
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/finalroute.rpy#L377",
+    "words": 2
   },
   {
+    "id": 79443763,
+    "createdAt": "2021-05-30T19:47:48.000Z",
+    "updatedAt": "2021-06-02T15:57:54.000Z",
     "key": "game/finalroute.rpy_L377_5",
     "original": "Hooks and Ropes",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/finalroute.rpy#L377"
+    "translation": "钩子和绳子",
+    "file": 272383,
+    "stage": 1,
+    "project": 2414,
+    "uid": null,
+    "extra": null,
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/finalroute.rpy#L377",
+    "words": 3
   },
   {
+    "id": 79443764,
+    "createdAt": "2021-05-30T19:47:48.000Z",
+    "updatedAt": "2021-06-02T15:57:54.000Z",
     "key": "game/finalroute.rpy_L377_6",
     "original": "Leather Armor",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/finalroute.rpy#L377"
+    "translation": "皮革盔甲",
+    "file": 272383,
+    "stage": 1,
+    "project": 2414,
+    "uid": null,
+    "extra": null,
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/finalroute.rpy#L377",
+    "words": 2
   },
   {
+    "id": 79443765,
+    "createdAt": "2021-05-30T19:47:48.000Z",
+    "updatedAt": "2021-06-02T15:57:54.000Z",
     "key": "game/finalroute.rpy_L377_7",
     "original": "Scimitar",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/finalroute.rpy#L377"
+    "translation": "短弯刀",
+    "file": 272383,
+    "stage": 1,
+    "project": 2414,
+    "uid": null,
+    "extra": null,
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/finalroute.rpy#L377",
+    "words": 1
   },
   {
+    "id": 79443766,
+    "createdAt": "2021-05-30T19:47:48.000Z",
+    "updatedAt": "2021-06-02T15:57:54.000Z",
     "key": "game/finalroute.rpy_L408_0",
     "original": "Should I return to the real world? (Crystal Ball)",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/finalroute.rpy#L408"
+    "translation": "我应该返回现实世界吗？（水晶球）",
+    "file": 272383,
+    "stage": 1,
+    "project": 2414,
+    "uid": null,
+    "extra": null,
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/finalroute.rpy#L408",
+    "words": 9
   }
 ]

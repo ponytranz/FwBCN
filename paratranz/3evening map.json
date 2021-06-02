@@ -1,17 +1,47 @@
-[
+﻿[
   {
+    "id": 79422303,
+    "createdAt": "2021-05-30T17:55:33.000Z",
+    "updatedAt": "2021-06-02T15:57:19.000Z",
     "key": "worldmapnight_212cd339",
     "original": "Maybe I should check out the bar or nightclub?",
-    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/3evening map.rpy#L42"
+    "translation": "也许我应该去酒吧或是夜总会转转？",
+    "file": 272336,
+    "stage": 3,
+    "project": 2414,
+    "uid": null,
+    "extra": null,
+    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/3evening map.rpy#L42",
+    "words": 9
   },
   {
+    "id": 79422304,
+    "createdAt": "2021-05-30T17:55:33.000Z",
+    "updatedAt": "2021-06-02T15:57:19.000Z",
     "key": "mapnightforest_592c1493",
     "original": "Visiting Butters in the evening is just a little too far of a walk, especially since I'm not yet familiar with the layout of the dark forest.",
-    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/3evening map.rpy#L54"
+    "translation": "大晚上的就这么走着去拜访Butters未免有些太过，更何况我对这片黑暗森林的布局还不太熟悉。",
+    "file": 272336,
+    "stage": 3,
+    "project": 2414,
+    "uid": null,
+    "extra": null,
+    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/3evening map.rpy#L54",
+    "words": 27
   },
   {
+    "id": 79422305,
+    "createdAt": "2021-05-30T17:55:33.000Z",
+    "updatedAt": "2021-06-02T15:57:19.000Z",
     "key": "mapnightboutique_b89d78af",
     "original": "I knock on the boutique door and there's no response. This building is massive, so the girls probably can't hear my knocking from their bedrooms at all.",
-    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/3evening map.rpy#L67"
+    "translation": "我敲了敲精品店的门却没有得到回应，这座建筑很大，所以躺在卧室里的女孩们也许听不见我在敲门。",
+    "file": 272336,
+    "stage": 3,
+    "project": 2414,
+    "uid": null,
+    "extra": null,
+    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/3evening map.rpy#L67",
+    "words": 27
   }
 ]

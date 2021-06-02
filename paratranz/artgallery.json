@@ -1,87 +1,257 @@
-[
+﻿[
   {
-    "key": "artgallery_867fe6a7",
-    "original": "It's just a regular art gallery. There are certainly a lot of beautiful works, but I have more important things to do right now.",
-    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L8"
-  },
-  {
-    "key": "artgallery_cf4d7c0e",
-    "original": "Alright, where's that room Augusta was talking about...",
-    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L20"
-  },
-  {
+    "id": 79423161,
+    "createdAt": "2021-05-30T17:55:34.000Z",
+    "updatedAt": "2021-06-02T15:57:21.000Z",
     "key": "artgallery_465c14f0",
     "original": "Oh, hold on... I may have a key, but that doesn't give me free entry... Damnit Augusta.",
-    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L21"
+    "translation": "",
+    "file": 272338,
+    "stage": 0,
+    "project": 2414,
+    "uid": null,
+    "extra": null,
+    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L21",
+    "words": 17
   },
   {
+    "id": 79423162,
+    "createdAt": "2021-05-30T17:55:34.000Z",
+    "updatedAt": "2021-06-02T15:57:21.000Z",
     "key": "artgallery_a75c79ab",
     "original": "Entry Fee - 15 monies for the day.",
-    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L22"
+    "translation": "",
+    "file": 272338,
+    "stage": 0,
+    "project": 2414,
+    "uid": null,
+    "extra": null,
+    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L22",
+    "words": 8
   },
   {
+    "id": 79423163,
+    "createdAt": "2021-05-30T17:55:34.000Z",
+    "updatedAt": "2021-06-02T15:57:21.000Z",
     "key": "artgallery_9e58b73d",
     "original": "150 for a year pass.",
-    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L23"
+    "translation": "",
+    "file": 272338,
+    "stage": 0,
+    "project": 2414,
+    "uid": null,
+    "extra": null,
+    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L23",
+    "words": 5
   },
   {
+    "id": 79423164,
+    "createdAt": "2021-05-30T17:55:34.000Z",
+    "updatedAt": "2021-06-02T15:57:21.000Z",
     "key": "artgallery_1eeba032",
     "original": "Well, I guess it can't be helped.",
-    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L24"
+    "translation": "",
+    "file": 272338,
+    "stage": 0,
+    "project": 2414,
+    "uid": null,
+    "extra": null,
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L24",
+    "words": 7
   },
   {
+    "id": 79423165,
+    "createdAt": "2021-05-30T17:55:34.000Z",
+    "updatedAt": "2021-06-02T15:57:21.000Z",
     "key": "artgallery_1ab7a527",
     "original": "The pass works all day, and in the evening too.",
-    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L30"
+    "translation": "",
+    "file": 272338,
+    "stage": 0,
+    "project": 2414,
+    "uid": null,
+    "extra": null,
+    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L30",
+    "words": 10
   },
   {
+    "id": 79423166,
+    "createdAt": "2021-05-30T17:55:34.000Z",
+    "updatedAt": "2021-06-02T15:57:21.000Z",
     "key": "artgallery_a1f3bc39",
     "original": "This will expire after 365 days. I'm serious.",
-    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L36"
+    "translation": "",
+    "file": 272338,
+    "stage": 0,
+    "project": 2414,
+    "uid": null,
+    "extra": null,
+    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L36",
+    "words": 8
   },
   {
+    "id": 79423167,
+    "createdAt": "2021-05-30T17:55:34.000Z",
+    "updatedAt": "2021-06-02T15:57:21.000Z",
     "key": "artgallery_32d05dad",
     "original": "Alright, with that done... Where does this key fit?",
-    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L44"
+    "translation": "",
+    "file": 272338,
+    "stage": 0,
+    "project": 2414,
+    "uid": null,
+    "extra": null,
+    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L44",
+    "words": 9
   },
   {
+    "id": 79423168,
+    "createdAt": "2021-05-30T17:55:34.000Z",
+    "updatedAt": "2021-06-02T15:57:21.000Z",
     "key": "artgallery_819a32df",
     "original": "Let's try the door with a giant loveheart around it, that's exceedingly unsubtle.",
-    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L45"
+    "translation": "",
+    "file": 272338,
+    "stage": 0,
+    "project": 2414,
+    "uid": null,
+    "extra": null,
+    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L45",
+    "words": 13
   },
   {
+    "id": 79423169,
+    "createdAt": "2021-05-30T17:55:34.000Z",
+    "updatedAt": "2021-06-02T15:57:21.000Z",
     "key": "artgallery_0d43e6f8",
     "original": "Okay perfect. Let's find a canvas and see what happens.",
-    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L47"
+    "translation": "",
+    "file": 272338,
+    "stage": 0,
+    "project": 2414,
+    "uid": null,
+    "extra": null,
+    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L47",
+    "words": 10
   },
   {
+    "id": 79423170,
+    "createdAt": "2021-05-30T17:55:34.000Z",
+    "updatedAt": "2021-06-02T15:57:21.000Z",
     "key": "artgallery_a75c79ab_1",
     "original": "Entry Fee - 15 monies for the day.",
-    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L50"
+    "translation": "",
+    "file": 272338,
+    "stage": 0,
+    "project": 2414,
+    "uid": null,
+    "extra": null,
+    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L50",
+    "words": 8
   },
   {
+    "id": 79423171,
+    "createdAt": "2021-05-30T17:55:34.000Z",
+    "updatedAt": "2021-06-02T15:57:21.000Z",
     "key": "artgallery_9e58b73d_1",
     "original": "150 for a year pass.",
-    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L51"
+    "translation": "",
+    "file": 272338,
+    "stage": 0,
+    "project": 2414,
+    "uid": null,
+    "extra": null,
+    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L51",
+    "words": 5
   },
   {
+    "id": 79423172,
+    "createdAt": "2021-05-30T17:55:34.000Z",
+    "updatedAt": "2021-06-02T15:57:21.000Z",
     "key": "artgallery_1eeba032_1",
     "original": "Well, I guess it can't be helped.",
-    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L52"
+    "translation": "",
+    "file": 272338,
+    "stage": 0,
+    "project": 2414,
+    "uid": null,
+    "extra": null,
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L52",
+    "words": 7
   },
   {
+    "id": 79423173,
+    "createdAt": "2021-05-30T17:55:34.000Z",
+    "updatedAt": "2021-06-02T15:57:21.000Z",
     "key": "artgallery_1ab7a527_1",
     "original": "The pass works all day, and in the evening too.",
-    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L58"
+    "translation": "",
+    "file": 272338,
+    "stage": 0,
+    "project": 2414,
+    "uid": null,
+    "extra": null,
+    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L58",
+    "words": 10
   },
   {
+    "id": 79423174,
+    "createdAt": "2021-05-30T17:55:34.000Z",
+    "updatedAt": "2021-06-02T15:57:21.000Z",
     "key": "artgallery_a1f3bc39_1",
     "original": "This will expire after 365 days. I'm serious.",
-    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L64"
+    "translation": "",
+    "file": 272338,
+    "stage": 0,
+    "project": 2414,
+    "uid": null,
+    "extra": null,
+    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L64",
+    "words": 8
   },
   {
+    "id": 79423175,
+    "createdAt": "2021-05-30T17:55:34.000Z",
+    "updatedAt": "2021-06-02T15:57:21.000Z",
     "key": "artgallerypostpass_64ed478a",
     "original": "I'll only be able to view art from girls I've spent a lot of time with...",
-    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L76"
+    "translation": "",
+    "file": 272338,
+    "stage": 0,
+    "project": 2414,
+    "uid": null,
+    "extra": null,
+    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L76",
+    "words": 16
+  },
+  {
+    "id": 79719513,
+    "createdAt": "2021-06-02T12:31:26.000Z",
+    "updatedAt": "2021-06-02T15:57:21.000Z",
+    "key": "artgallery_867fe6a7",
+    "original": "It's just a regular art gallery. There are certainly a lot of beautiful works, but I have more important things to do right now.",
+    "translation": "",
+    "file": 272338,
+    "stage": 0,
+    "project": 2414,
+    "uid": null,
+    "extra": null,
+    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L8",
+    "words": 24
+  },
+  {
+    "id": 79719514,
+    "createdAt": "2021-06-02T12:31:26.000Z",
+    "updatedAt": "2021-06-02T15:57:21.000Z",
+    "key": "artgallery_cf4d7c0e",
+    "original": "Alright, where's that room Augusta was talking about...",
+    "translation": "",
+    "file": 272338,
+    "stage": 0,
+    "project": 2414,
+    "uid": null,
+    "extra": null,
+    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L20",
+    "words": 8
   }
 ]

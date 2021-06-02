@@ -1,12 +1,32 @@
-[
+﻿[
   {
+    "id": 79442691,
+    "createdAt": "2021-05-30T19:47:45.000Z",
+    "updatedAt": "2021-06-02T15:57:17.000Z",
     "key": "game/2evening generic.rpy_L54_0",
     "original": "Go tonight",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/2evening generic.rpy#L54"
+    "translation": "今晚去。",
+    "file": 272367,
+    "stage": 3,
+    "project": 2414,
+    "uid": null,
+    "extra": null,
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/2evening generic.rpy#L54",
+    "words": 2
   },
   {
+    "id": 79442692,
+    "createdAt": "2021-05-30T19:47:45.000Z",
+    "updatedAt": "2021-06-02T15:57:17.000Z",
     "key": "game/2evening generic.rpy_L54_1",
     "original": "Visit another night",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/2evening generic.rpy#L54"
+    "translation": "另一个晚上吧。",
+    "file": 272367,
+    "stage": 3,
+    "project": 2414,
+    "uid": null,
+    "extra": null,
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/2evening generic.rpy#L54",
+    "words": 3
   }
 ]

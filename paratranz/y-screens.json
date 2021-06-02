@@ -1,37 +1,107 @@
-[
+﻿[
   {
-    "key": "todolist_5a4038dc",
-    "original": "This is a quaint to-do list Penelope and Moxie gave me.",
-    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1551"
-  },
-  {
+    "id": 79442126,
+    "createdAt": "2021-05-30T17:55:42.000Z",
+    "updatedAt": "2021-06-02T15:58:04.000Z",
     "key": "todolist_6492ee39",
     "original": "It's full of work leads, and there's plenty of room for me to erase and pencil in new plans.",
-    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1552"
+    "translation": "这上面写满了各种计划，而且这上面还有足够的空白可以让我添加和删除新的计划。",
+    "file": 272353,
+    "stage": 1,
+    "project": 2414,
+    "uid": null,
+    "extra": null,
+    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1552",
+    "words": 19
   },
   {
+    "id": 79442127,
+    "createdAt": "2021-05-30T17:55:42.000Z",
+    "updatedAt": "2021-06-02T15:58:04.000Z",
     "key": "todolist_2ec1c7e4",
     "original": "Wow, there are a lot of options! Where should I begin?",
-    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1553"
+    "translation": "哇哦，这里有这么多选择啊！我应该从哪儿开始呢？",
+    "file": 272353,
+    "stage": 1,
+    "project": 2414,
+    "uid": null,
+    "extra": null,
+    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1553",
+    "words": 11
   },
   {
+    "id": 79442128,
+    "createdAt": "2021-05-30T17:55:42.000Z",
+    "updatedAt": "2021-06-02T15:58:04.000Z",
     "key": "inventorymenuday_25c128ba",
     "original": "This is the bag Moxie gave me. Well, she called it a 'satchel', I don't know what the difference is.",
-    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1878"
+    "translation": "这个包是Moxie送给我的。嗯，她把这个包称作是“小背包”，可我不明白这个名字到底有什么不同之处。",
+    "file": 272353,
+    "stage": 1,
+    "project": 2414,
+    "uid": null,
+    "extra": null,
+    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1878",
+    "words": 20
   },
   {
+    "id": 79442129,
+    "createdAt": "2021-05-30T17:55:42.000Z",
+    "updatedAt": "2021-06-02T15:58:04.000Z",
     "key": "inventorymenuday_e4cea817",
     "original": "Pretty sure she made it herself.",
-    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1879"
+    "translation": "能够肯定的是，这是她亲手做的。",
+    "file": 272353,
+    "stage": 1,
+    "project": 2414,
+    "uid": null,
+    "extra": null,
+    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1879",
+    "words": 6
   },
   {
+    "id": 79442130,
+    "createdAt": "2021-05-30T17:55:42.000Z",
+    "updatedAt": "2021-06-02T15:58:04.000Z",
     "key": "inventorymenuday_94faed39",
     "original": "It's certainly girly, but it should be able to carry a bunch of stuff.",
-    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1880"
+    "translation": "这个包虽然少女味十足，但应该能装下很多物品。",
+    "file": 272353,
+    "stage": 1,
+    "project": 2414,
+    "uid": null,
+    "extra": null,
+    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1880",
+    "words": 14
   },
   {
+    "id": 79442131,
+    "createdAt": "2021-05-30T17:55:42.000Z",
+    "updatedAt": "2021-06-02T15:58:04.000Z",
     "key": "inventorymenuday_ae48da32",
     "original": "Here's what I've got now:",
-    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1881"
+    "translation": "这些是我目前所得到的物品：",
+    "file": 272353,
+    "stage": 1,
+    "project": 2414,
+    "uid": null,
+    "extra": null,
+    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1881",
+    "words": 5
+  },
+  {
+    "id": 79719604,
+    "createdAt": "2021-06-02T12:32:11.000Z",
+    "updatedAt": "2021-06-02T15:58:04.000Z",
+    "key": "todolist_5a4038dc",
+    "original": "This is a quaint to-do list Penelope and Moxie gave me.",
+    "translation": "这是一个很奇特的任务清单，是Penelope和Moxie送给我的。",
+    "file": 272353,
+    "stage": 1,
+    "project": 2414,
+    "uid": null,
+    "extra": null,
+    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1551",
+    "words": 11
   }
 ]

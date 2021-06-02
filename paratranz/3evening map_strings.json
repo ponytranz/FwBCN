@@ -1,27 +1,77 @@
-[
+﻿[
   {
+    "id": 79442714,
+    "createdAt": "2021-05-30T19:47:45.000Z",
+    "updatedAt": "2021-06-02T15:57:19.000Z",
     "key": "game/3evening map.rpy_L61_0",
     "original": "Ruby's boutique",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/3evening map.rpy#L61"
+    "translation": "Ruby的精品店",
+    "file": 272370,
+    "stage": 3,
+    "project": 2414,
+    "uid": null,
+    "extra": null,
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/3evening map.rpy#L61",
+    "words": 2
   },
   {
+    "id": 79442715,
+    "createdAt": "2021-05-30T19:47:45.000Z",
+    "updatedAt": "2021-06-02T15:57:19.000Z",
     "key": "game/3evening map.rpy_L61_1",
     "original": "Visit the boutique",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/3evening map.rpy#L61"
+    "translation": "拜访精品店",
+    "file": 272370,
+    "stage": 3,
+    "project": 2414,
+    "uid": null,
+    "extra": null,
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/3evening map.rpy#L61",
+    "words": 3
   },
   {
+    "id": 79442716,
+    "createdAt": "2021-05-30T19:47:45.000Z",
+    "updatedAt": "2021-06-02T15:57:19.000Z",
     "key": "game/3evening map.rpy_L61_2",
     "original": "Go back",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/3evening map.rpy#L61"
+    "translation": "还是回去吧",
+    "file": 272370,
+    "stage": 3,
+    "project": 2414,
+    "uid": null,
+    "extra": null,
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/3evening map.rpy#L61",
+    "words": 2
   },
   {
+    "id": 79442717,
+    "createdAt": "2021-05-30T19:47:45.000Z",
+    "updatedAt": "2021-06-02T15:57:19.000Z",
     "key": "game/3evening map.rpy_L79_0",
     "original": "The Riding Mare bar",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/3evening map.rpy#L79"
+    "translation": "雌驹善堕酒吧",
+    "file": 272370,
+    "stage": 3,
+    "project": 2414,
+    "uid": null,
+    "extra": null,
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/3evening map.rpy#L79",
+    "words": 4
   },
   {
+    "id": 79442718,
+    "createdAt": "2021-05-30T19:47:45.000Z",
+    "updatedAt": "2021-06-02T15:57:19.000Z",
     "key": "game/3evening map.rpy_L79_1",
     "original": "Visit the bar",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/3evening map.rpy#L79"
+    "translation": "拜访酒吧",
+    "file": 272370,
+    "stage": 3,
+    "project": 2414,
+    "uid": null,
+    "extra": null,
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/3evening map.rpy#L79",
+    "words": 3
   }
 ]
