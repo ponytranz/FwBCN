@@ -62,14 +62,14 @@
   {
     "id": 79421803,
     "createdAt": "2021-05-30T17:55:33.000Z",
-    "updatedAt": "2021-06-02T15:57:17.000Z",
+    "updatedAt": "2021-06-02T16:34:10.000Z",
     "key": "eveningmoxie2menu_b48a620a",
     "original": "(You've unlocked the Moxie cowgirl position scene.)",
-    "translation": "(你解锁了Moxie牛仔的位置。)",
+    "translation": "(你解锁了Moxie骑乘位的场景。)",
     "file": 272334,
     "stage": 1,
     "project": 2414,
-    "uid": null,
+    "uid": 21879,
     "extra": null,
     "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/2evening moxie.rpy#L51",
     "words": 7
