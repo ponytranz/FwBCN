@@ -992,14 +992,14 @@
   {
     "id": 79719603,
     "createdAt": "2021-06-02T12:32:11.000Z",
-    "updatedAt": "2021-06-02T15:58:03.000Z",
+    "updatedAt": "2021-06-04T01:38:57.000Z",
     "key": "spaday_49f9f28b",
     "original": "Well, I imagine something could be arranged, hehe.",
-    "translation": "",
+    "translation": "好吧，我还在想有些事已经都安排好了，嘻嘻。",
     "file": 272352,
-    "stage": 0,
+    "stage": 1,
     "project": 2414,
-    "uid": null,
+    "uid": 19759,
     "extra": null,
     "context": "说话人: butters \n代码: https://github.com/ponytranz/FwBCN/blob/main/game/spaday.rpy#L29",
     "words": 8

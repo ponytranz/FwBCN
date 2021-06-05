@@ -272,14 +272,14 @@
   {
     "id": 79443073,
     "createdAt": "2021-05-30T19:47:47.000Z",
-    "updatedAt": "2021-06-02T15:57:33.000Z",
+    "updatedAt": "2021-06-04T04:48:06.000Z",
     "key": "game/boutique.rpy_L280_0",
     "original": "You're right, she's camming because she wants people to see.",
-    "translation": "",
+    "translation": "你说得对，她拍照片是因为她想让其他人都能看到。",
     "file": 272375,
-    "stage": 0,
+    "stage": 1,
     "project": 2414,
-    "uid": null,
+    "uid": 19759,
     "extra": null,
     "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/boutique.rpy#L280",
     "words": 10
