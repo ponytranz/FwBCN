@@ -782,14 +782,14 @@
   {
     "id": 79443819,
     "createdAt": "2021-05-30T19:47:48.000Z",
-    "updatedAt": "2021-06-02T15:57:58.000Z",
+    "updatedAt": "2021-06-05T13:51:41.000Z",
     "key": "game/forest.rpy_L1861_1",
     "original": "Flight",
-    "translation": "",
+    "translation": "飞行",
     "file": 272384,
-    "stage": 0,
+    "stage": 1,
     "project": 2414,
-    "uid": null,
+    "uid": 21929,
     "extra": null,
     "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/forest.rpy#L1861",
     "words": 1

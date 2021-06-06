@@ -1,35 +1,5 @@
 ﻿[
   {
-    "id": 79443923,
-    "createdAt": "2021-05-30T19:47:49.000Z",
-    "updatedAt": "2021-06-02T15:58:04.000Z",
-    "key": "game/y-init.rpy_L7_0",
-    "original": "Male Familiar?",
-    "translation": "雄性傀儡？",
-    "file": 272387,
-    "stage": 3,
-    "project": 2414,
-    "uid": null,
-    "extra": null,
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-init.rpy#L7",
-    "words": 2
-  },
-  {
-    "id": 79443924,
-    "createdAt": "2021-05-30T19:47:49.000Z",
-    "updatedAt": "2021-06-02T15:58:04.000Z",
-    "key": "game/y-init.rpy_L9_0",
-    "original": "[playername]",
-    "translation": "[playername]",
-    "file": 272387,
-    "stage": 3,
-    "project": 2414,
-    "uid": null,
-    "extra": null,
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-init.rpy#L9",
-    "words": 1
-  },
-  {
     "id": 79443925,
     "createdAt": "2021-05-30T19:47:49.000Z",
     "updatedAt": "2021-06-02T15:58:04.000Z",
@@ -242,14 +212,14 @@
   {
     "id": 79443939,
     "createdAt": "2021-05-30T19:47:49.000Z",
-    "updatedAt": "2021-06-02T15:58:04.000Z",
+    "updatedAt": "2021-06-05T09:56:36.000Z",
     "key": "game/y-init.rpy_L47_0",
     "original": "Camshow Audience",
-    "translation": "",
+    "translation": "摄影展观众",
     "file": 272387,
-    "stage": 2,
+    "stage": 1,
     "project": 2414,
-    "uid": null,
+    "uid": 19759,
     "extra": null,
     "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-init.rpy#L47",
     "words": 2
@@ -402,6 +372,36 @@
     "uid": null,
     "extra": null,
     "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-init.rpy#L67",
+    "words": 1
+  },
+  {
+    "id": 79443923,
+    "createdAt": "2021-05-30T19:47:49.000Z",
+    "updatedAt": "2021-06-02T15:58:04.000Z",
+    "key": "game/y-init.rpy_L7_0",
+    "original": "Male Familiar?",
+    "translation": "雄性傀儡？",
+    "file": 272387,
+    "stage": 3,
+    "project": 2414,
+    "uid": null,
+    "extra": null,
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-init.rpy#L7",
+    "words": 2
+  },
+  {
+    "id": 79443924,
+    "createdAt": "2021-05-30T19:47:49.000Z",
+    "updatedAt": "2021-06-02T15:58:04.000Z",
+    "key": "game/y-init.rpy_L9_0",
+    "original": "[playername]",
+    "translation": "[playername]",
+    "file": 272387,
+    "stage": 3,
+    "project": 2414,
+    "uid": null,
+    "extra": null,
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-init.rpy#L9",
     "words": 1
   }
 ]
