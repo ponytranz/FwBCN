@@ -17,14 +17,14 @@
   {
     "id": 79436377,
     "createdAt": "2021-05-30T17:55:40.000Z",
-    "updatedAt": "2021-06-02T15:57:52.000Z",
+    "updatedAt": "2021-06-06T19:09:16.000Z",
     "key": "finalroute_de4ee743",
     "original": "Ah, [playername], it’s you!",
-    "translation": "",
+    "translation": "啊，[playername]，是你啊！",
     "file": 272348,
-    "stage": 0,
+    "stage": 1,
     "project": 2414,
-    "uid": null,
+    "uid": 21893,
     "extra": null,
     "context": "说话人: moxie \n代码: https://github.com/ponytranz/FwBCN/blob/main/game/finalroute.rpy#L19",
     "words": 4
