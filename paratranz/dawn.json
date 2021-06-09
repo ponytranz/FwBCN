@@ -11027,14 +11027,14 @@
   {
     "id": 79432579,
     "createdAt": "2021-05-30T17:55:38.000Z",
-    "updatedAt": "2021-06-07T09:11:00.000Z",
+    "updatedAt": "2021-06-08T16:43:20.000Z",
     "key": "ppclsex_effd0e0d",
     "original": "Okay, but that’s weird, isn’t it? That universe is extraordinarily different in technology, culture and history.",
-    "translation": "Ok，但很怪啊，不是吗》那个宇宙的可以，文化和历史都截然不同。",
+    "translation": "Ok，但很怪啊，不是吗？那个宇宙的科技、文化和历史都截然不同。",
     "file": 272345,
     "stage": 1,
     "project": 2414,
-    "uid": 21832,
+    "uid": 19759,
     "extra": null,
     "context": "说话人: dawn \n代码: https://github.com/ponytranz/FwBCN/blob/main/game/dawn.rpy#L1324",
     "words": 16
