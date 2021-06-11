@@ -22,7 +22,7 @@ try {
       key: match[3],
       original: match[5],
       translation: match[7],
-      context: `说话人: ${match[4]??'无'}\n代码: https://github.com/ponytranz/FwBCN/blob/main/${match[1]}#L${match[2]}`
+      context: `说话人: ${match[4] ?? '无 '}\n代码: https://github.com/ponytranz/FwBCN/blob/main/${match[1]}#L${match[2]}`
     })
     if (result.length)
       fs.writeFileSync(
