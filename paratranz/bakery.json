@@ -1,4 +1,49 @@
-﻿[
+[
+  {
+    "id": 79719515,
+    "createdAt": "2021-06-02T12:31:27.000Z",
+    "updatedAt": "2021-06-02T15:57:22.000Z",
+    "key": "bakeryvisit1_2f4adbe4",
+    "original": "The bakery will be fun to work at, if I’m lucky I might be able to lick the spoons! Actually, that’s a terrible idea, this is a professional establishment, not my grandma’s kitchen.",
+    "translation": "",
+    "file": 272339,
+    "stage": 0,
+    "project": 2414,
+    "uid": null,
+    "extra": null,
+    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/bakery.rpy#L14",
+    "words": 33
+  },
+  {
+    "id": 79719516,
+    "createdAt": "2021-06-02T12:31:27.000Z",
+    "updatedAt": "2021-06-02T15:57:22.000Z",
+    "key": "bakeryvisit1_eb1421a6",
+    "original": "When I arrive at the bakery I move to give the door a knock but it immediately bursts open!",
+    "translation": "",
+    "file": 272339,
+    "stage": 0,
+    "project": 2414,
+    "uid": null,
+    "extra": null,
+    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/bakery.rpy#L16",
+    "words": 19
+  },
+  {
+    "id": 79719517,
+    "createdAt": "2021-06-02T12:31:27.000Z",
+    "updatedAt": "2021-06-06T07:11:53.000Z",
+    "key": "bakeryvisit1_c8098308",
+    "original": "Oh mi gosh! [playername]! What are you doing out here? Come right in! Oh I'm so excited!",
+    "translation": "哦，我的老天！[playername]！你在那儿干什么呢？快进来！哦，我太激动了！",
+    "file": 272339,
+    "stage": 1,
+    "project": 2414,
+    "uid": 19759,
+    "extra": null,
+    "context": "说话人: cream \n代码: https://github.com/ponytranz/FwBCN/blob/main/game/bakery.rpy#L19",
+    "words": 17
+  },
   {
     "id": 79423176,
     "createdAt": "2021-05-30T17:55:35.000Z",
@@ -19708,50 +19753,5 @@
     "extra": null,
     "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/bakery.rpy#L2414",
     "words": 16
-  },
-  {
-    "id": 79719515,
-    "createdAt": "2021-06-02T12:31:27.000Z",
-    "updatedAt": "2021-06-02T15:57:22.000Z",
-    "key": "bakeryvisit1_2f4adbe4",
-    "original": "The bakery will be fun to work at, if I’m lucky I might be able to lick the spoons! Actually, that’s a terrible idea, this is a professional establishment, not my grandma’s kitchen.",
-    "translation": "",
-    "file": 272339,
-    "stage": 0,
-    "project": 2414,
-    "uid": null,
-    "extra": null,
-    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/bakery.rpy#L14",
-    "words": 33
-  },
-  {
-    "id": 79719516,
-    "createdAt": "2021-06-02T12:31:27.000Z",
-    "updatedAt": "2021-06-02T15:57:22.000Z",
-    "key": "bakeryvisit1_eb1421a6",
-    "original": "When I arrive at the bakery I move to give the door a knock but it immediately bursts open!",
-    "translation": "",
-    "file": 272339,
-    "stage": 0,
-    "project": 2414,
-    "uid": null,
-    "extra": null,
-    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/bakery.rpy#L16",
-    "words": 19
-  },
-  {
-    "id": 79719517,
-    "createdAt": "2021-06-02T12:31:27.000Z",
-    "updatedAt": "2021-06-06T07:11:53.000Z",
-    "key": "bakeryvisit1_c8098308",
-    "original": "Oh mi gosh! [playername]! What are you doing out here? Come right in! Oh I'm so excited!",
-    "translation": "哦，我的老天！[playername]！你在那儿干什么呢？快进来！哦，我太激动了！",
-    "file": 272339,
-    "stage": 1,
-    "project": 2414,
-    "uid": 19759,
-    "extra": null,
-    "context": "说话人: cream \n代码: https://github.com/ponytranz/FwBCN/blob/main/game/bakery.rpy#L19",
-    "words": 17
   }
 ]

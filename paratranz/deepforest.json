@@ -1,4 +1,34 @@
-﻿[
+[
+  {
+    "id": 79719557,
+    "createdAt": "2021-06-02T12:31:49.000Z",
+    "updatedAt": "2021-06-08T17:45:36.000Z",
+    "key": "deepforest_51a3a838",
+    "original": "I don't really have a reason to explore deep into the woods, I might even get lost without proper preparation.",
+    "translation": "我没有任何要到丛林深处探险的理由。而且，要是没做充分准备的话，我很可能会迷路的。",
+    "file": 272346,
+    "stage": 1,
+    "project": 2414,
+    "uid": 19759,
+    "extra": null,
+    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/deepforest.rpy#L13",
+    "words": 20
+  },
+  {
+    "id": 79719558,
+    "createdAt": "2021-06-02T12:31:49.000Z",
+    "updatedAt": "2021-06-02T15:57:45.000Z",
+    "key": "deepforest_0cd28411",
+    "original": "It'd be fun in a mysterious and creepy way though... Maybe if I had some more equipment I could go for a small hike around the area to fill an evening.",
+    "translation": "",
+    "file": 272346,
+    "stage": 0,
+    "project": 2414,
+    "uid": null,
+    "extra": null,
+    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/deepforest.rpy#L14",
+    "words": 31
+  },
   {
     "id": 79433327,
     "createdAt": "2021-05-30T17:55:39.000Z",
@@ -11428,35 +11458,5 @@
     "extra": null,
     "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/deepforest.rpy#L1485",
     "words": 4
-  },
-  {
-    "id": 79719557,
-    "createdAt": "2021-06-02T12:31:49.000Z",
-    "updatedAt": "2021-06-08T17:45:36.000Z",
-    "key": "deepforest_51a3a838",
-    "original": "I don't really have a reason to explore deep into the woods, I might even get lost without proper preparation.",
-    "translation": "我没有任何要到丛林深处探险的理由。而且，要是没做充分准备的话，我很可能会迷路的。",
-    "file": 272346,
-    "stage": 1,
-    "project": 2414,
-    "uid": 19759,
-    "extra": null,
-    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/deepforest.rpy#L13",
-    "words": 20
-  },
-  {
-    "id": 79719558,
-    "createdAt": "2021-06-02T12:31:49.000Z",
-    "updatedAt": "2021-06-02T15:57:45.000Z",
-    "key": "deepforest_0cd28411",
-    "original": "It'd be fun in a mysterious and creepy way though... Maybe if I had some more equipment I could go for a small hike around the area to fill an evening.",
-    "translation": "",
-    "file": 272346,
-    "stage": 0,
-    "project": 2414,
-    "uid": null,
-    "extra": null,
-    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/deepforest.rpy#L14",
-    "words": 31
   }
 ]

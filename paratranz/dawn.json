@@ -1,4 +1,19 @@
-﻿[
+[
+  {
+    "id": 79719556,
+    "createdAt": "2021-06-02T12:31:46.000Z",
+    "updatedAt": "2021-06-02T15:57:42.000Z",
+    "key": "dawntalksex_7eb30d83",
+    "original": "She isn't up there.",
+    "translation": "",
+    "file": 272345,
+    "stage": 0,
+    "project": 2414,
+    "uid": null,
+    "extra": null,
+    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/dawn.rpy#L5",
+    "words": 4
+  },
   {
     "id": 79431844,
     "createdAt": "2021-05-30T17:55:38.000Z",
@@ -22243,20 +22258,5 @@
     "extra": null,
     "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/dawn.rpy#L2645",
     "words": 12
-  },
-  {
-    "id": 79719556,
-    "createdAt": "2021-06-02T12:31:46.000Z",
-    "updatedAt": "2021-06-02T15:57:42.000Z",
-    "key": "dawntalksex_7eb30d83",
-    "original": "She isn't up there.",
-    "translation": "",
-    "file": 272345,
-    "stage": 0,
-    "project": 2414,
-    "uid": null,
-    "extra": null,
-    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/dawn.rpy#L5",
-    "words": 4
   }
 ]

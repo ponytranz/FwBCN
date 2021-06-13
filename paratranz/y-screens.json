@@ -1,4 +1,19 @@
-﻿[
+[
+  {
+    "id": 79719604,
+    "createdAt": "2021-06-02T12:32:11.000Z",
+    "updatedAt": "2021-06-02T15:58:04.000Z",
+    "key": "todolist_5a4038dc",
+    "original": "This is a quaint to-do list Penelope and Moxie gave me.",
+    "translation": "这是一个很奇特的任务清单，是Penelope和Moxie送给我的。",
+    "file": 272353,
+    "stage": 1,
+    "project": 2414,
+    "uid": null,
+    "extra": null,
+    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1551",
+    "words": 11
+  },
   {
     "id": 79442126,
     "createdAt": "2021-05-30T17:55:42.000Z",
@@ -88,20 +103,5 @@
     "extra": null,
     "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1881",
     "words": 5
-  },
-  {
-    "id": 79719604,
-    "createdAt": "2021-06-02T12:32:11.000Z",
-    "updatedAt": "2021-06-02T15:58:04.000Z",
-    "key": "todolist_5a4038dc",
-    "original": "This is a quaint to-do list Penelope and Moxie gave me.",
-    "translation": "这是一个很奇特的任务清单，是Penelope和Moxie送给我的。",
-    "file": 272353,
-    "stage": 1,
-    "project": 2414,
-    "uid": null,
-    "extra": null,
-    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1551",
-    "words": 11
   }
 ]

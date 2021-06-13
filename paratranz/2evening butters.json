@@ -1,4 +1,34 @@
-﻿[
+[
+  {
+    "id": 79719493,
+    "createdAt": "2021-06-02T12:31:20.000Z",
+    "updatedAt": "2021-06-02T15:57:14.000Z",
+    "key": "eveningbutters_ce840f9e",
+    "original": "Sometime during the evening, Butters slowly turned into her succubus form. Does she really need to get undressed every time?.",
+    "translation": "",
+    "file": 272332,
+    "stage": 0,
+    "project": 2414,
+    "uid": null,
+    "extra": null,
+    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/2evening butters.rpy#L11",
+    "words": 20
+  },
+  {
+    "id": 79719494,
+    "createdAt": "2021-06-02T12:31:20.000Z",
+    "updatedAt": "2021-06-02T15:57:14.000Z",
+    "key": "eveningbutters_3cdf68fd",
+    "original": "OH HOOONEYY! I'M HOOOOME!",
+    "translation": "",
+    "file": 272332,
+    "stage": 0,
+    "project": 2414,
+    "uid": null,
+    "extra": null,
+    "context": "说话人: butters \n代码: https://github.com/ponytranz/FwBCN/blob/main/game/2evening butters.rpy#L12",
+    "words": 4
+  },
   {
     "id": 79420954,
     "createdAt": "2021-05-30T17:55:32.000Z",
@@ -12358,35 +12388,5 @@
     "extra": null,
     "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/2evening butters.rpy#L1715",
     "words": 20
-  },
-  {
-    "id": 79719493,
-    "createdAt": "2021-06-02T12:31:20.000Z",
-    "updatedAt": "2021-06-02T15:57:14.000Z",
-    "key": "eveningbutters_ce840f9e",
-    "original": "Sometime during the evening, Butters slowly turned into her succubus form. Does she really need to get undressed every time?.",
-    "translation": "",
-    "file": 272332,
-    "stage": 0,
-    "project": 2414,
-    "uid": null,
-    "extra": null,
-    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/2evening butters.rpy#L11",
-    "words": 20
-  },
-  {
-    "id": 79719494,
-    "createdAt": "2021-06-02T12:31:20.000Z",
-    "updatedAt": "2021-06-02T15:57:14.000Z",
-    "key": "eveningbutters_3cdf68fd",
-    "original": "OH HOOONEYY! I'M HOOOOME!",
-    "translation": "",
-    "file": 272332,
-    "stage": 0,
-    "project": 2414,
-    "uid": null,
-    "extra": null,
-    "context": "说话人: butters \n代码: https://github.com/ponytranz/FwBCN/blob/main/game/2evening butters.rpy#L12",
-    "words": 4
   }
 ]

@@ -1,4 +1,19 @@
-﻿[
+[
+  {
+    "id": 79719512,
+    "createdAt": "2021-06-02T12:31:24.000Z",
+    "updatedAt": "2021-06-05T10:19:44.000Z",
+    "key": "mapmarket_91ae100c",
+    "original": "Aha, there's a familar face.",
+    "translation": "啊哈，这有位老熟马。",
+    "file": 272337,
+    "stage": 1,
+    "project": 2414,
+    "uid": 21855,
+    "extra": null,
+    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/3map.rpy#L57",
+    "words": 5
+  },
   {
     "id": 79422306,
     "createdAt": "2021-05-30T17:55:34.000Z",
@@ -12823,20 +12838,5 @@
     "extra": null,
     "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/3map.rpy#L2354",
     "words": 24
-  },
-  {
-    "id": 79719512,
-    "createdAt": "2021-06-02T12:31:24.000Z",
-    "updatedAt": "2021-06-05T10:19:44.000Z",
-    "key": "mapmarket_91ae100c",
-    "original": "Aha, there's a familar face.",
-    "translation": "啊哈，这有位老熟马。",
-    "file": 272337,
-    "stage": 1,
-    "project": 2414,
-    "uid": 21855,
-    "extra": null,
-    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/3map.rpy#L57",
-    "words": 5
   }
 ]

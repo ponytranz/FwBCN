@@ -1,4 +1,34 @@
-﻿[
+[
+  {
+    "id": 79719513,
+    "createdAt": "2021-06-02T12:31:26.000Z",
+    "updatedAt": "2021-06-04T05:46:31.000Z",
+    "key": "artgallery_867fe6a7",
+    "original": "It's just a regular art gallery. There are certainly a lot of beautiful works, but I have more important things to do right now.",
+    "translation": "这只是个普通的艺术画廊。当然这里有很多美丽的作品，但现在我有更重要的事情要做。",
+    "file": 272338,
+    "stage": 1,
+    "project": 2414,
+    "uid": 21893,
+    "extra": null,
+    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L8",
+    "words": 24
+  },
+  {
+    "id": 79719514,
+    "createdAt": "2021-06-02T12:31:26.000Z",
+    "updatedAt": "2021-06-05T02:02:18.000Z",
+    "key": "artgallery_cf4d7c0e",
+    "original": "Alright, where's that room Augusta was talking about...",
+    "translation": "好吧，Augusta说的那个房间在哪里……",
+    "file": 272338,
+    "stage": 1,
+    "project": 2414,
+    "uid": 19759,
+    "extra": null,
+    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L20",
+    "words": 8
+  },
   {
     "id": 79423161,
     "createdAt": "2021-05-30T17:55:34.000Z",
@@ -223,35 +253,5 @@
     "extra": null,
     "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L76",
     "words": 16
-  },
-  {
-    "id": 79719513,
-    "createdAt": "2021-06-02T12:31:26.000Z",
-    "updatedAt": "2021-06-04T05:46:31.000Z",
-    "key": "artgallery_867fe6a7",
-    "original": "It's just a regular art gallery. There are certainly a lot of beautiful works, but I have more important things to do right now.",
-    "translation": "这只是个普通的艺术画廊。当然这里有很多美丽的作品，但现在我有更重要的事情要做。",
-    "file": 272338,
-    "stage": 1,
-    "project": 2414,
-    "uid": 21893,
-    "extra": null,
-    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L8",
-    "words": 24
-  },
-  {
-    "id": 79719514,
-    "createdAt": "2021-06-02T12:31:26.000Z",
-    "updatedAt": "2021-06-05T02:02:18.000Z",
-    "key": "artgallery_cf4d7c0e",
-    "original": "Alright, where's that room Augusta was talking about...",
-    "translation": "好吧，Augusta说的那个房间在哪里……",
-    "file": 272338,
-    "stage": 1,
-    "project": 2414,
-    "uid": 19759,
-    "extra": null,
-    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L20",
-    "words": 8
   }
 ]
