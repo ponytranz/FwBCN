@@ -21,6 +21,10 @@ jobs:
           rm -rf paratranz
           unzip latest.zip "utf8/*"
           mv utf8 paratranz
+      - name: Sort
+        run: node sort_paratranz.js
+      - name: Reconvert
+        run: node reconvert_paratranz.js
       - name: Add & Commit
         uses: EndBug/add-and-commit@v7 # You can change this to use a specific version
         with:

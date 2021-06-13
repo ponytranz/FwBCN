@@ -17,7 +17,7 @@ try {
     match[7] : text translated
     */
     for (let match of content.matchAll(
-      /# (game\/.+\.rpy):(\d+)\s+translate chinese (.+):\s+# (.+ )?"(.+)"\s+(.+ )?"(.+)?"/g
+      /# (game\/.+\.rpym?):(\d+)\s+translate chinese (.+):\s+# (.+ )?"(.+)"\s+(.+ )?"(.+)?"/g
     )) result.push({
       key: match[3],
       original: match[5],
