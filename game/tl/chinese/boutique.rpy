@@ -1,4 +1,4 @@
-# Translation updated at Sat Jun 12 2021 00:40:45 GMT+0800 (香港标准时间)
+# Translation updated at Sun Jun 13 2021 10:42:31 GMT+0800 (香港标准时间)
 # game/boutique.rpy#L20
 translate chinese boutiquevisit1_9babdb27:
 
@@ -33,79 +33,79 @@ translate chinese boutiquevisit1_15aa3381:
 translate chinese boutiquevisit1_a4db6d61:
 
     # ruby "Ah, it’s Moxie's new friend! Sorry, we’re not open yet."
-    ruby ""
+    ruby "啊，是Moxie的新朋友!不好意思，我们还没开门。"
 
 # game/boutique.rpy#L29
 translate chinese boutiquevisit1_f2737196:
 
     # mc "Hello, I'm actually here in response to Penelope's letter, I hear you have some work for me?"
-    mc ""
+    mc "你好，我是来回复Penelope的信的，听说你有工作要给我?"
 
 # game/boutique.rpy#L31
 translate chinese boutiquevisit1_d187f5c3:
 
     # ruby "Goodness me… I almost forgot about that. Well, I… This is quite a surprise."
-    ruby ""
+    ruby "天啊……我差点忘了。…这真是个惊喜。"
 
 # game/boutique.rpy#L32
 translate chinese boutiquevisit1_3391fcc9:
 
     # mc "Don’t worry, I’m slowly getting used to that initial shock. I know I look a bit different, but I’m just like anyone else, happy to help and able to take orders."
-    mc ""
+    mc "别担心，我正在慢慢习惯最初的震惊。我知道我看起来有点不同，但我和其他人一样，很乐意帮忙，也能听命行事。"
 
 # game/boutique.rpy#L34
 translate chinese boutiquevisit1_6764f27b:
 
     # ruby "Ah please, do come in. My name is Ruby, it’s my pleasure darling."
-    ruby ""
+    ruby "啊，请进。我叫Ruby，这是我的荣幸，亲爱的"
 
 # game/boutique.rpy#L35
 translate chinese boutiquevisit1_472255bd:
 
     # mc "I’m [playername], the pleasure is mine."
-    mc ""
+    mc "我是[playername]，我很荣幸。"
 
 # game/boutique.rpy#L38
 translate chinese boutiquevisit1_7ed9af8f:
 
     # "I step into the boutique, and while I was expecting a shop floor it seems more like a messy warehouse. It’s chaotic to say the least."
-    ""
+    "当我走进精品店时，我以为会看到一个车间，但它看起来更像是一个凌乱的仓库。至少可以说是很混乱。"
 
 # game/boutique.rpy#L39
 translate chinese boutiquevisit1_f1b81b74:
 
     # "There are some mannequins outfitted with beautiful designer clothes, and some with unfinished rags."
-    ""
+    "有些人体模型穿着漂亮的设计师服装，有些则穿着未完工的破布。"
 
 # game/boutique.rpy#L40
 translate chinese boutiquevisit1_848a3f56:
 
     # "There are also bags of material strewn out over the shop floor."
-    ""
+    "还有一袋袋的材料散落在车间地板上。"
 
 # game/boutique.rpy#L42
 translate chinese boutiquevisit1_1dbb91ae:
 
     # ruby "It's nice to see you, however it's important to reiterate that this is a favour. Truth is, I’m stretched thin, so I won’t be able to pay you much."
-    ruby ""
+    ruby "很高兴见到你，但我要重申这是你的好意。实际上，我身无分文，所以我付不了你多少钱。"
 
 # game/boutique.rpy#L43
 translate chinese boutiquevisit1_56e8aa56:
 
     # mc "Stretched thin you say? Hopefully I can help you out with that."
-    mc ""
+    mc "你说拉长了?希望我能帮到你。"
 
 # game/boutique.rpy#L45
 translate chinese boutiquevisit1_9249db1a:
 
     # ruby "No, not really, this is a designer boutique. I design the clothes, you’ll just have meagre tasks to complete."
-    ruby ""
+    ruby "不，不是，这是设计师精品店。我设计衣服，你只需要完成很少的任务。"
 
 # game/boutique.rpy#L47
 translate chinese boutiquevisit1_ed4aaaa5:
 
     # mc "Speaking of which, are you selling clothes too? I'd like to buy something."
-    mc ""
+    mc "说到这个，你也卖衣服吗?我想买些东西。"
 
 # game/boutique.rpy#L48
 translate chinese boutiquevisit1_67b49aca:
@@ -117,739 +117,739 @@ translate chinese boutiquevisit1_67b49aca:
 translate chinese boutiquevisit1_ec895afb:
 
     # ruby "Oh? W-Well we're not open but... what would you like to buy?"
-    ruby ""
+    ruby "哦?我们还没开门，但是…你想买什么?"
 
 # game/boutique.rpy#L51
 translate chinese boutiquevisit1_3ac8445f:
 
     # mc "I'm looking for a maid dress."
-    mc ""
+    mc "我在找一件女仆装。"
 
 # game/boutique.rpy#L53
 translate chinese boutiquevisit1_e43a4c85:
 
     # ruby "Of course darling... Hmm, Melody had a maid dress for halloween once..."
-    ruby ""
+    ruby "当然亲爱的……Melody有一件在万圣节穿的女仆裙…"
 
 # game/boutique.rpy#L54
 translate chinese boutiquevisit1_7919381d:
 
     # ruby "Ah, there it is."
-    ruby ""
+    ruby "啊，找到了。"
 
 # game/boutique.rpy#L55
 translate chinese boutiquevisit1_37844fab:
 
     # "She walks over to a rack and takes one out to show me, it's perfect."
-    ""
+    "她走到一个架子上，拿出一个展示给我看，它很完美"
 
 # game/boutique.rpy#L57
 translate chinese boutiquevisit1_454d2d18:
 
     # ruby "Naturally this dress fits Melody's small figure and bosom, is that okay?"
-    ruby ""
+    ruby "这条裙子很适合Melody娇小的身材和胸部，可以吗?"
 
 # game/boutique.rpy#L58
 translate chinese boutiquevisit1_bf868f11:
 
     # mc "Yeah that's perfect, how much is it?"
-    mc ""
+    mc "太好了，多少钱?"
 
 # game/boutique.rpy#L60
 translate chinese boutiquevisit1_a60fc6e8:
 
     # ruby "Second hand? 50 monies should cover it."
-    ruby ""
+    ruby "这件二手货吗?50块钱就够了。"
 
 # game/boutique.rpy#L65
 translate chinese rubymaidmenu1_105f5958:
 
     # "I can't afford it."
-    ""
+    "我买不起。"
 
 # game/boutique.rpy#L69
 translate chinese rubymaidmenu1_97a22c68:
 
     # ruby "Pleasure doing business with you darling."
-    ruby ""
+    ruby "很高兴和你做生意，亲爱的。"
 
 # game/boutique.rpy#L70
 translate chinese rubymaidmenu1_a79e984d:
 
     # mc "By the way, can you leave the dress here?"
-    mc ""
+    mc "顺便问一下，你能把裙子留在这里吗?"
 
 # game/boutique.rpy#L71
 translate chinese rubymaidmenu1_62cccc3e:
 
     # ruby "Here? Do you want to pick it up at a later time?"
-    ruby ""
+    ruby "在这里吗?你想稍后再来取吗?"
 
 # game/boutique.rpy#L72
 translate chinese rubymaidmenu1_b7d2a020:
 
     # mc "Yes, you'll see."
-    mc ""
+    mc "是的,你会看到。"
 
 # game/boutique.rpy#L74
 translate chinese rubymaidmenu1_eaba9c5f:
 
     # ruby "Okay darling, maybe another time."
-    ruby ""
+    ruby "好吧，亲爱的，下次吧。"
 
 # game/boutique.rpy#L75
 translate chinese rubymaidmenu1_c5af20b7:
 
     # mc "Anyway, I'm here to work too. Do you have something for me?"
-    mc ""
+    mc "总之，我也在这里工作。你有东西要给我吗?"
 
 # game/boutique.rpy#L77
 translate chinese rubymaidmenu1_b9c032bf:
 
     # mc "Yeah, that makes sense. I’ll do anything, genuinely I’m just here to help."
-    mc ""
+    mc "是的，这说得通。我什么都愿意做，我只是来帮忙的。"
 
 # game/boutique.rpy#L79
 translate chinese rubymaidmenu1_ed4357f2:
 
     # ruby "Gosh, I didn’t really think this through, I’ve never worked with another pony before… Hmm…"
-    ruby ""
+    ruby "天啊，我还真没想清楚，我以前从没和别的小马一起工作过……"
 
 # game/boutique.rpy#L81
 translate chinese rubymaidmenu1_53053ef9:
 
     # ruby "Wait here a few moments and I’ll think of something... Oh, would you like some tea?"
-    ruby ""
+    ruby "在这儿等一会儿，让我思考一下……哦，要喝茶吗?"
 
 # game/boutique.rpy#L82
 translate chinese rubymaidmenu1_7f20feef:
 
     # mc "Yeah, tea would be great, thanks."
-    mc ""
+    mc "好的，茶就好，谢谢。"
 
 # game/boutique.rpy#L84
 translate chinese rubymaidmenu1_4b52e8a0:
 
     # "I sit down on what seems to be the only chair that doesn’t have a mound of material or clothes bundled atop of it."
-    ""
+    "我坐在了一把似乎是唯一一个没有被一堆材料或衣服捆在上面的椅子。"
 
 # game/boutique.rpy#L85
 translate chinese rubymaidmenu1_ecc5cebc:
 
     # "This room… it reminds me of a girl’s untidy bedroom. It’s like she got out all her toys, but she seldom puts them back."
-    ""
+    "这个房间，让我想起了一个女孩不整洁的卧室。就好像她把所有的玩具都拿出来了，却很少去收拾。"
 
 # game/boutique.rpy#L86
 translate chinese rubymaidmenu1_a5696890:
 
     # "While I’m waiting, I might as well have a closer look at the clothes she has designed. They each have a certain elegance to them, a certain royal charm."
-    ""
+    "我一边等，一边不妨仔细看看她设计的衣服。它们每一件看起来都很优雅，充满皇家魅力。"
 
 # game/boutique.rpy#L87
 translate chinese rubymaidmenu1_e750f701:
 
     # "To my ignorance they appear quite high-end and respectable."
-    ""
+    "在我看来，他们看起来相当高端和体面。"
 
 # game/boutique.rpy#L88
 translate chinese rubymaidmenu1_a6b61969:
 
     # "As I step closer and get a good look though, I can’t help but notice how dusty it is in here. It’s one thing for dust to accumulate in the crevices of the room, but on the clothes? It must have been sitting here untouched for months."
-    ""
+    "当我走近仔细看的时候，我不禁注意到这里满是灰尘。房间缝隙里的灰尘是一回事，但衣服上的呢?肯定有几个月没人清理过了。"
 
 # game/boutique.rpy#L89
 translate chinese rubymaidmenu1_799dca5b:
 
     # "Perhaps this is just an old design that has been already been approved and mass produced for a clothes shop, I can’t really say, I don’t know how it works in Arcadia. While it's similar in some aspects of my world, in other areas there’s a notable disconnect."
-    ""
+    "也许这只是一个旧的设计，已经被批准可以被服装店大量生产，我不能保证，我不知道它在阿卡迪亚是如何工作的。虽然在我的世界的某些方面是相似的，但在其他领域却有明显的脱节。"
 
 # game/boutique.rpy#L90
 translate chinese rubymaidmenu1_d1cf7ef6:
 
     # "Ruby soon returns with a decorated cup of black tea in both hands, placing them both on a clearing atop a dressing table."
-    ""
+    "Ruby很快拿着一杯泡好的红茶回来了，并把它放在梳妆台上。"
 
 # game/boutique.rpy#L92
 translate chinese rubymaidmenu1_9f517cdc:
 
     # mc "Thank you for the tea, Ruby."
-    mc ""
+    mc "谢谢你的茶，Ruby。"
 
 # game/boutique.rpy#L93
 translate chinese rubymaidmenu1_9de1b9dd:
 
     # ruby "You're welcome, dearie. I have decided that you can clean up around here. I don’t exactly have any hard rules, and it’s not exactly a science, I just want everything neater in here."
-    ruby ""
+    ruby "欢迎你,亲爱的。我决定让你把这里收拾干净。我没有严格的规定，也不是什么科学，我只是想让这里的一切都更整洁。"
 
 # game/boutique.rpy#L94
 translate chinese rubymaidmenu1_c6226b63:
 
     # ruby "Place materials in bags, fold up clothes neatly, dust surfaces, if there’s anything you genuinely don’t know what to do with, place it on that large table over there and I’ll sort it out later."
-    ruby ""
+    ruby "把材料放在袋子里，把衣服整齐地折叠起来，清理表面的灰尘，如果有什么你真的不知道怎么处理的，把它放在那边的大桌子上，我稍后会整理。"
 
 # game/boutique.rpy#L96
 translate chinese rubymaidmenu1_08d3f346:
 
     # ruby "Super simple, I'm honestly embarrassed that you came when it's so bad, I should never have let it get this messy anyway."
-    ruby ""
+    ruby "超级简单，我很尴尬让你看到这糟糕的情况，我本来就不该让事情变得这么混乱。"
 
 # game/boutique.rpy#L98
 translate chinese rubymaidmenu1_3fdab7df:
 
     # ruby "But… this is a good excuse to get it cleaned up, sorry to make you that excuse."
-    ruby ""
+    ruby "但是，这是一个打扫的好借口，很抱歉让你成为那个借口。"
 
 # game/boutique.rpy#L102
 translate chinese rubymaidmenu1_0baeb958:
 
     # ruby "Boring as it may be, it's that or leave empty-handed."
-    ruby ""
+    ruby "这可能会很无聊，但如果不去做的话你恐怕就得空手而归。"
 
 # game/boutique.rpy#L103
 translate chinese rubymaidmenu1_cd353ff8:
 
     # mc "Yeah, I'll do it, don't worry."
-    mc ""
+    mc "好的，我会去做的，别担心。"
 
 # game/boutique.rpy#L104
 translate chinese rubymaidmenu1_2bbfb8a1:
 
     # mc "It shouldn't take longer than an hour."
-    mc ""
+    mc "这应该不会超过一小时。"
 
 # game/boutique.rpy#L107
 translate chinese rubymaidmenu1_9b27d993:
 
     # ruby "Wonderful to hear darling, I have some work to do upstairs, I’m afraid that’s a do not disturb situation."
-    ruby ""
+    ruby "听你这么说真好，亲爱的，我在楼上有些工作要做，恐怕不能被打扰。"
 
 # game/boutique.rpy#L108
 translate chinese rubymaidmenu1_3539a89c:
 
     # mc "Alright, what if I need to ask a question, or something? Like… I don’t even know where anything is."
-    mc ""
+    mc "好吧，如果我遇到问题怎么办?我甚至不知道东西在哪里。"
 
 # game/boutique.rpy#L110
 translate chinese rubymaidmenu1_1d1af6e5:
 
     # ruby "If you really need me, call my name and I’ll come down when I’m ready. For everything else, the kitchen and downstairs bathroom are on the left of that hallway, plenty of cleaning utensils there."
-    ruby ""
+    ruby "如果你真的需要我，就叫我的名字，我准备好了就会下来。至于其他的，厨房和楼下的浴室在走廊的左边，那里有很多清洁用具。"
 
 # game/boutique.rpy#L111
 translate chinese rubymaidmenu1_5bb1ab75:
 
     # mc "Hmm, guess I’ll start by putting everything in neat piles."
-    mc ""
+    mc "嗯，我想我会先把所有东西整齐地堆放起来。"
 
 # game/boutique.rpy#L113
 translate chinese rubymaidmenu1_cdeed4fb:
 
     # ruby "Fabulous, now, I must be off, a mare must work hard to make waves in the industry these days."
-    ruby ""
+    ruby "太好了，现在，我得走了，如果一匹母马要想在这个行业里兴风作浪，就得努力工作。"
 
 # game/boutique.rpy#L115
 translate chinese rubymaidmenu1_d3fc9701:
 
     # "She claps her hands together, smiling as she takes her leave and goes upstairs."
-    ""
+    "她拍拍手，微笑着告别，并向楼上走去。"
 
 # game/boutique.rpy#L116
 translate chinese rubymaidmenu1_03f8980f:
 
     # "Now that she's gone, I can't help but feel like there's something wrong here."
-    ""
+    "现在她走了，我不禁觉得这里有什么不对劲。"
 
 # game/boutique.rpy#L119
 translate chinese rubymaidmenu1_06b9fc52:
 
     # "Wasn't she acting a little strange?"
-    ""
+    "她是不是有点奇怪?"
 
 # game/boutique.rpy#L120
 translate chinese rubymaidmenu1_5902729f:
 
     # "As I clean around the room I look at some of her beautiful clothing designs."
-    ""
+    "当我打扫房间的时候，我看着她的一些漂亮的服装设计。"
 
 # game/boutique.rpy#L121
 translate chinese rubymaidmenu1_b8ee6eb8:
 
     # "It must be hard making waves in a clothing industry when no one wears clothes..."
-    ""
+    "这里没人穿衣服，在服装业发展肯定不容易……"
 
 # game/boutique.rpy#L123
 translate chinese rubymaidmenu1_ec1b0d61:
 
     # "Perhaps Ruby would be more successful in my old world."
-    ""
+    "也许Ruby在我的旧世界会更成功"
 
 # game/boutique.rpy#L124
 translate chinese rubymaidmenu1_02a1e0c4:
 
     # "It’s surprising just how similar some of these clothing designs are to clothes in my world, yet simultaneously some designs seem to be completely abstract."
-    ""
+    "令人惊讶的是，有些服装设计与我的世界里的是如此相似，但同时有些设计似乎又是完全抽象的。"
 
 # game/boutique.rpy#L125
 translate chinese rubymaidmenu1_7c179cc8:
 
     # "It's genuinely hard to tell if some of the pieces are lingerie, or it just appear to be lingerie because it shows off genitalia, which isn’t a taboo in this society."
-    ""
+    "真的很难辨别其中一些是内衣，或者它只是因为炫耀而看起来是内衣，这在这个社会并不是禁忌。"
 
 # game/boutique.rpy#L126
 translate chinese rubymaidmenu1_60594e91:
 
     # "I assume she has another room for designing clothes, perhaps a textiles room, because honestly this place can’t be anything more than a warehouse considering its upkeep."
-    ""
+    "我猜她还有一间房间用来设计衣服，也许是一间纺织品房，因为老实说考虑到它的维护，这个地方不过是个仓库。"
 
 # game/boutique.rpy#L127
 translate chinese rubymaidmenu1_7704d9a5:
 
     # "Oh well, it’s my job to clean right now, not ask questions. It’s not exactly lavish work but I wasn’t expecting a free ride throughout my time here in Arcadia."
-    ""
+    "我现在的工作是打扫，不是问问题。这并不是一份奢侈的工作，但我并没有指望在Arcadia的这段时间里能得到免费的午餐。"
 
 # game/boutique.rpy#L128
 translate chinese rubymaidmenu1_d0a8e957:
 
     # "If I truly don’t enjoy it, I can just work somewhere else instead."
-    ""
+    "如果我真的不喜欢这份工作，我可以去别的地方工作。"
 
 # game/boutique.rpy#L129
 translate chinese rubymaidmenu1_4a393312:
 
     # "I start by organising all the materials, then bags, and then all the loose clothes."
-    ""
+    "我先是整理所有的材料，然后是袋子，然后是所有宽松的衣服。"
 
 # game/boutique.rpy#L130
 translate chinese rubymaidmenu1_375c63da:
 
     # "Once all loose items are accounted for, I can finally start to brush down the surfaces, and then sweep."
-    ""
+    "所有松散的物品都被整理好了，我终于可以开始清理表面，然后打扫。"
 
 # game/boutique.rpy#L131
 translate chinese rubymaidmenu1_e949c6cc:
 
     # "This is… really boring."
-    ""
+    "这真的很无聊。"
 
 # game/boutique.rpy#L132
 translate chinese rubymaidmenu1_8c70a1d4:
 
     # "As boring as it may be, it’s not exactly taking a long time, there’s not a chance this is going to fill up the expected eight hours of a full workday."
-    ""
+    "虽然它很无聊，但并不需要花费很长时间，也不可能用它来填满预期8小时的工作日。"
 
 # game/boutique.rpy#L133
 translate chinese rubymaidmenu1_a9a2da2d:
 
     # "Brushing, dusting… A sip of tea, it’s still warm."
-    ""
+    "打扫，掸灰尘，喝一口茶。   茶还是热的。"
 
 # game/boutique.rpy#L134
 translate chinese rubymaidmenu1_b4a85237:
 
     # "I’m surprised by how easy this task turned out to be. The room’s size made it seem like it’d be a gargantuan task at first, but all I’ve had to do is pick up and move some things."
-    ""
+    "我很惊讶这项任务竟然如此简单。房间的大小一开始让我觉得这是一项艰巨的任务，但我所要做的只是拿起并移动一些东西。"
 
 # game/boutique.rpy#L135
 translate chinese rubymaidmenu1_6a929995:
 
     # "It’s actually become quite apparent that this room isn’t actually messy, it’s just incredibly disorganised."
-    ""
+    "很明显，这个房间并不是真的凌乱，它只是令人难以置信地杂乱无章。"
 
 # game/boutique.rpy#L136
 translate chinese rubymaidmenu1_11aef9a3:
 
     # "Ruby could have done this herself and it wouldn’t have taken that long. It’s just like my old room back at home whenever it’s messy, it only takes about five minutes to actually tidy up, it’s just exerting the effort to actually get off my ass."
-    ""
+    "Ruby也可以自己做而且不会花那么长时间。这就像我在家里的旧房间一样，每当它很乱的时候，它实际上只需要五分钟就可以整理好，它只是在努力让我去挪动我的屁股。"
 
 # game/boutique.rpy#L137
 translate chinese rubymaidmenu1_7528d213:
 
     # "Alright, I’m done. This place looks much better, the room even feels bigger."
-    ""
+    "好的,我完成了。这地方看起来好多了，房间感觉更大了。"
 
 # game/boutique.rpy#L138
 translate chinese rubymaidmenu1_36f8d378:
 
     # "If Ruby isn't here working, what is this room even used for?"
-    ""
+    "如果Ruby不在这里工作，这房间还有什么用?"
 
 # game/boutique.rpy#L139
 translate chinese rubymaidmenu1_096af1ac:
 
     # "Surely this room must be a shop floor, where customers enter, try on clothes and then see how they look in the mirror. No need for changing rooms when everyone walks around naked."
-    ""
+    "这个房间肯定是试衣间，顾客进去，试穿衣服，然后看他们在镜子里是什么样子。但大家都光着身子走来走去，没必要去那里。"
 
 # game/boutique.rpy#L140
 translate chinese rubymaidmenu1_08b3967a:
 
     # "Maybe I just came here when the boutique was closed, but that wouldn’t explain the mess or dust."
-    ""
+    "也许我只是在精品店关门的时候来的，但那不能解释这里的混乱和灰尘。"
 
 # game/boutique.rpy#L141
 translate chinese rubymaidmenu1_fdc7087a:
 
     # "Alright, I've had enough pondering. Something is wrong, and I’m curious."
-    ""
+    "好吧，我思考了一下。有什么事情不对劲，我很好奇。"
 
 # game/boutique.rpy#L142
 translate chinese rubymaidmenu1_2cf4c7bd:
 
     # "Nothing about this situation adds up, and my inner detective is going to find out the truth."
-    ""
+    "这说不通，我内心的侦探将会找出真相。"
 
 # game/boutique.rpy#L143
 translate chinese rubymaidmenu1_0bc5bb4f:
 
     # "I know Ruby told me not to bother her upstairs, but I have to tell her I've finished cleaning, so I'll intentionally accidentally peep upstairs and see what's going on."
-    ""
+    "我知道Ruby让我别在楼上打扰她，但我得告诉她我打扫干净了，所以我会故意不小心偷看一下楼上，看看发生了什么。"
 
 # game/boutique.rpy#L144
 translate chinese rubymaidmenu1_4d28e365:
 
     # "Perhaps she’s just making clothes, maybe she’s in a cult gangbang, or secretly a demon."
-    ""
+    "也许她只是在做衣服，也许她参加了邪教团伙，或者秘密地成为了一个恶魔。"
 
 # game/boutique.rpy#L146
 translate chinese rubymaidmenu1_6037cc3b:
 
     # "I tiptoe upstairs and it leads to a hallway that shoots off to a few rooms that fill out the top floor."
-    ""
+    "我踮着脚尖上楼，走廊直通顶层的几个房间。"
 
 # game/boutique.rpy#L147
 translate chinese rubymaidmenu1_69e23560:
 
     # "The second floor is still quite large; I imagine there’s more than just bedrooms and a bathroom up here. I’m not sure what room Ruby is in though, and I don’t really feel like yelling."
-    ""
+    "二楼还是相当大;我想这上面可不止是卧室和浴室。我不知道Ruby在哪个房间，我也不想大喊大叫。"
 
 # game/boutique.rpy#L148
 translate chinese rubymaidmenu1_a63592fe:
 
     # "I peek into the first room and it's just an empty cutesy bedroom, the colour scheme is pink and white. I don’t go inside so the only notable object I can make out through the crack in the door is a musical keyboard."
-    ""
+    "我看了一眼第一个房间，它只是一个空的可爱的卧室，里面的颜色是粉色和白色。我进不去，所以从门缝里我唯一能辨认出的值得注意的东西是一个键盘。"
 
 # game/boutique.rpy#L149
 translate chinese rubymaidmenu1_764de1f3:
 
     # "A completely normal bedroom... I feel guilty now, I'm probably being petty and nosy."
-    ""
+    "这是一间完全正常的卧室……我现在觉得内疚，可能是我太小气太八卦了。"
 
 # game/boutique.rpy#L153
 translate chinese rubymaidmenu1_89be1939:
 
     # "Yeah, I need to tell her I'm done, so I'll push onward."
-    ""
+    "是啊，我得告诉她我受够了，所以我得继续努力。"
 
 # game/boutique.rpy#L154
 translate chinese rubymaidmenu1_9d5d22e5:
 
     # "Wait, I just heard something."
-    ""
+    "等等，我刚听到了什么。"
 
 # game/boutique.rpy#L155
 translate chinese rubymaidmenu1_08b0f61d:
 
     # "Was that Ruby’s voice? I can’t make out what she’s saying, but she talks again. Is she talking to herself?"
-    ""
+    "那是Ruby的声音吗?我听不清她在说什么，但她在说话了。她在自言自语吗?"
 
 # game/boutique.rpy#L157
 translate chinese rubymaidmenu1_d40a8644:
 
     # "Yeah, I should just wait downstairs..."
-    ""
+    "是的，我应该在楼下等…"
 
 # game/boutique.rpy#L158
 translate chinese rubymaidmenu1_6b6bacc6:
 
     # "Just as I'm turning to leave, I hear Ruby’s distinctive voice. Did she just talk to me?"
-    ""
+    "就在我转身要离开的时候，我听到了Ruby那独特的声音。她刚才在跟我说话吗?"
 
 # game/boutique.rpy#L159
 translate chinese rubymaidmenu1_fa5d8fd2:
 
     # "I can’t make out what she’s saying, but she talks again. Is she talking to herself?"
-    ""
+    "我听不清她在说什么，但她又说话了。她是在自言自语吗?"
 
 # game/boutique.rpy#L160
 translate chinese rubymaidmenu1_9f847576:
 
     # "Well I'm here now, I'll tell her I'm done."
-    ""
+    "我来了，我会告诉她我做完了。"
 
 # game/boutique.rpy#L162
 translate chinese rubymaidmenu1_9a6169ef:
 
     # ruby "… Yeah, you like…"
-    ruby ""
+    ruby "是的,你喜欢"
 
 # game/boutique.rpy#L163
 translate chinese rubymaidmenu1_73c6038b:
 
     # "I peek into this room and at a glance I can see a similar cutesy bedroom, I can definitely hear Ruby from this room."
-    ""
+    "我窥视这个房间，一眼就能看到一个类似的可爱的卧室，我肯定我能能从这个房间听到Ruby的声音。"
 
 # game/boutique.rpy#L164
 translate chinese rubymaidmenu1_8a08bd88:
 
     # ruby "Ahhh, yeahh… Thank you Bigs221"
-    ruby ""
+    ruby "啊，是的，谢谢你，Bigs221"
 
 # game/boutique.rpy#L166
 translate chinese rubymaidmenu1_c6515054:
 
     # "Bigs221? what? Wait, I can hear her moaning."
-    ""
+    "Bigs221?什么?等等，我听到她在呻吟"
 
 # game/boutique.rpy#L167
 translate chinese rubymaidmenu1_6946e8d3:
 
     # "Is she masturbating?"
-    ""
+    "她在自慰?"
 
 # game/boutique.rpy#L168
 translate chinese rubymaidmenu1_f3361725:
 
     # "Getting slightly closer, I peek through the crack in the door"
-    ""
+    "我走近了一点，从门缝里往里看"
 
 # game/boutique.rpy#L172
 translate chinese rubymaidmenu1_a946ef82:
 
     # "From behind I can see her legs spread open before a laptop, it seems she’s streaming herself masturbating."
-    ""
+    "从后面我可以看到她的腿展开在笔记本电脑前，似乎她在的手淫。"
 
 # game/boutique.rpy#L173
 translate chinese rubymaidmenu1_ba704d2e:
 
     # "She's a camgirl!"
-    ""
+    "她是个“网络播客” !"
 
 # game/boutique.rpy#L174
 translate chinese rubymaidmenu1_66ffc4fb:
 
     # "I… really shouldn’t be spying on this, this is way too personal and perverse."
-    ""
+    "我真的不应该监视这个，这太私人了，太变态了。"
 
 # game/boutique.rpy#L175
 translate chinese rubymaidmenu1_37c95fe1:
 
     # "I’m going to head back to the kitchen and pretend I didn’t see this, else I’ll end up in pony jail for being a peeping tom."
-    ""
+    "我要回厨房假装没看见，否则我就会因为偷窥被关进小马监狱。"
 
 # game/boutique.rpy#L178
 translate chinese rubymaidmenu1_0299b359:
 
     # "As soon as I turn around however, busted! There’s someone RIGHT there, making me jump. In a hushed voice she whispers to me."
-    ""
+    "我一转身，完蛋了!有人在那里，吓得我跳了一跳。她低声对我说。"
 
 # game/boutique.rpy#L181
 translate chinese rubymaidmenu1_b045f36a:
 
     # unknown "What’s this I spy, a rat peeping on my sister?"
-    unknown ""
+    unknown "这是什么，偷窥我妹妹的老鼠吗?"
 
 # game/boutique.rpy#L185
 translate chinese rubymaidmenu1_09cedbfe:
 
     # unknown "Ohoho, you didn't know? Let me guess, your dick just followed the trail of moans and your brain didn't catch on?"
-    unknown ""
+    unknown "哦，你不知道吗?让我猜猜，你的老二只是跟着呻吟的痕迹而你的大脑却不能思考?"
 
 # game/boutique.rpy#L188
 translate chinese rubymaidmenu1_88b622f5:
 
     # unknown "I'm the pest control."
-    unknown ""
+    unknown "我是个害虫控制员。"
 
 # game/boutique.rpy#L191
 translate chinese rubymaidmenu1_342fd852:
 
     # unknown "I like your honesty. Perhaps you're not a rat after all."
-    unknown ""
+    unknown "我喜欢你的诚实。也许你根本就不是老鼠。"
 
 # game/boutique.rpy#L192
 translate chinese rubymaidmenu1_52cd47b6:
 
     # unknown "You enjoyed it didn’t you? Watching such a regal lush mare touching herself in lewd ways."
-    unknown ""
+    unknown "你很享受，不是吗?看着这匹高贵高贵的母马猥亵地抚摸自己。"
 
 # game/boutique.rpy#L196
 translate chinese rubymaidmenu1_6c9e1345:
 
     # unknown "Gross, gross, gross! You really are just a sick pervert."
-    unknown ""
+    unknown "恶心,恶心,恶心!你真是个变态。"
 
 # game/boutique.rpy#L197
 translate chinese rubymaidmenu1_d52174a3:
 
     # unknown "I'm glad I caught you before you started masturbating to her."
-    unknown ""
+    unknown "我很庆幸在你开始对她手淫之前抓到了你。"
 
 # game/boutique.rpy#L199
 translate chinese rubymaidmenu1_f1527d52:
 
     # mc "What? I wouldn't do that."
-    mc ""
+    mc "什么?我不会那么做的。"
 
 # game/boutique.rpy#L200
 translate chinese rubymaidmenu1_87e0483d:
 
     # unknown "Wouldn't you?"
-    unknown ""
+    unknown "真的吗？"
 
 # game/boutique.rpy#L202
 translate chinese rubymaidmenu1_7102ca57:
 
     # unknown "I bet you get excited watching innocent mares like her touch herself."
-    unknown ""
+    unknown "我打赌你看到像她这样清纯的母马抚摸自己一定很兴奋"
 
 # game/boutique.rpy#L203
 translate chinese rubymaidmenu1_4f09bfeb:
 
     # unknown "You may be better suited to being one of her lonely orbiters that donate to her every day."
-    unknown ""
+    unknown "你也许更适合做她的榜一每天都给她打赏。"
 
 # game/boutique.rpy#L205
 translate chinese rubymaidmenu1_499b60e8:
 
     # unknown "Liar, I saw you tip-toeing up to the door, limp dick swaying back and forth."
-    unknown ""
+    unknown "骗子，我看见你踮着脚尖走到门口，那根软绵绵的鸡巴在那里晃来晃去。"
 
 # game/boutique.rpy#L206
 translate chinese rubymaidmenu1_fe9a59cf:
 
     # "I don’t even know what to say. I’m somewhat paralyzed, I just hope she doesn’t blow my cover."
-    ""
+    "我都不知道该说什么了。我有点慌了，我只希望她不会暴露我的身份。"
 
 # game/boutique.rpy#L207
 translate chinese rubymaidmenu1_5226d18f:
 
     # "As we whisper to each other in the hallway, I can still hear Ruby masturbating"
-    ""
+    "当我们在走廊里窃窃私语时，我还能听Ruby手淫的声音"
 
 # game/boutique.rpy#L208
 translate chinese rubymaidmenu1_c3fabcc7:
 
     # "If I can hear that, then she could hear the two of us any second."
-    ""
+    "如果我能听到这些，那她肯定也能听到我们俩的声音。"
 
 # game/boutique.rpy#L209
 translate chinese rubymaidmenu1_ef6bee6f:
 
     # mc "I was just returning to the kitchen, we shouldn't exacerbate the problem by staying here."
-    mc ""
+    mc "我应该回到厨房，我们不该待在这里让问题恶化。"
 
 # game/boutique.rpy#L211
 translate chinese rubymaidmenu1_36ee29ea:
 
     # unknown "What's that, we shouldn't masturbate the problem?"
-    unknown ""
+    unknown "那是什么，我们不该手淫的问题吗?"
 
 # game/boutique.rpy#L212
 translate chinese rubymaidmenu1_579bae9b:
 
     # unknown "Oh? Is that why your little guy down there is growing?"
-    unknown ""
+    unknown "哦?所以你的小家伙才变的这么大吗?"
 
 # game/boutique.rpy#L213
 translate chinese rubymaidmenu1_30c307d0:
 
     # mc "W-Wha, it is not!"
-    mc ""
+    mc "什-什么，不是的!"
 
 # game/boutique.rpy#L215
 translate chinese rubymaidmenu1_e6e41ef4:
 
     # unknown "Ohoh suuure, first you spy on my sister masturbating, and now you’re ogling my breasts and pussy."
-    unknown ""
+    unknown "你先是偷看我姐姐自慰，现在又偷窥我的胸部和阴部。"
 
 # game/boutique.rpy#L216
 translate chinese rubymaidmenu1_75a56aaf:
 
     # unknown "Admit it, you've looked at my boobs and pussy already."
-    unknown ""
+    unknown "承认吧，你已经看过我的胸部和阴部了。"
 
 # game/boutique.rpy#L220
 translate chinese rubymaidmenu1_1db14359:
 
     # unknown "Of course, it's only natural for you to love these breasts."
-    unknown ""
+    unknown "当然，你喜欢这些乳房是很自然的。"
 
 # game/boutique.rpy#L223
 translate chinese rubymaidmenu1_1026aa7e:
 
     # unknown "I'll take the compliment, you perv."
-    unknown ""
+    unknown "我接受你的赞美，你个变态。"
 
 # game/boutique.rpy#L225
 translate chinese rubymaidmenu1_799cf15e:
 
     # unknown "In fact, for being so kind, how about a closer look?"
-    unknown ""
+    unknown "其实，谢谢你的好意，为什么不近距离看看呢?"
 
 # game/boutique.rpy#L227
 translate chinese rubymaidmenu1_e8f26b52:
 
     # unknown "Oh please, I saw your eyes move at the mere mention of my tiny titties."
-    unknown ""
+    unknown "拜托，一提到我的小奶子你的眼睛就会动。"
 
 # game/boutique.rpy#L229
 translate chinese rubymaidmenu1_ef468dcc:
 
     # unknown "Come on, come touch them, they're as soft as they look."
-    unknown ""
+    unknown "来嘛，来摸摸它们，它们就像看起来一样柔软。"
 
 # game/boutique.rpy#L231
 translate chinese rubymaidmenu1_afde054b:
 
     # unknown "Or are you an ass man? Maybe you want to feel my pussy? It's mating season so it's nice and wet."
-    unknown ""
+    unknown "还是说你是个混蛋?还是说你想摸摸我的这根?现在是交配季节，所以天气又好又潮湿。"
 
 # game/boutique.rpy#L232
 translate chinese rubymaidmenu1_b1a77313:
 
     # "Damnit, now my penis is starting to stiffen slightly. I don’t know what this girl’s trying to do, but she has managed to beguile me."
-    ""
+    "该死，现在我的老二开始有点硬了。我不知道这女孩想干什么，但她成功地骗过了我。"
 
 # game/boutique.rpy#L234
 translate chinese rubymaidmenu1_dc772513:
 
     # unknown "Oh disgusting, your thing moved on its own, like a worm. Oh, by Aurora, it’s growing."
-    unknown ""
+    unknown "真恶心，你的东西自己动了，像条虫子。哦，天哪，它变大了。"
 
 # game/boutique.rpy#L235
 translate chinese rubymaidmenu1_4af56a18:
 
     # "I feel humiliated, but I have enough pride to not cover myself up at least. I can tell what she’s trying to do, she’s trying to psych me out and bully me, I’ll call her bluff."
-    ""
+    "我觉得很丢脸，但至少不至于害羞到想藏起来。我能看出她想做什么，她想吓唬我，欺负我，我会揭穿她的谎言。"
 
 # game/boutique.rpy#L237
 translate chinese rubymaidmenu1_67c68b5f:
 
     # unknown "All that growth because you saw me and my sister, hm? You have a thing for tasty mares like us?"
-    unknown ""
+    unknown "你变的那么大是因为你看到了我和我姐姐?你喜欢我们这种美味的母马吗?"
 
 # game/boutique.rpy#L241
 translate chinese rubymaidmenu1_1c131a89:
 
     # unknown "Aren't I just charming?"
-    unknown ""
+    unknown "我是不是很有魅力?"
 
 # game/boutique.rpy#L242
 translate chinese rubymaidmenu1_c57d915d:
 
     # unknown "Heat or not, I'm not one of your easy mare sluts."
-    unknown ""
+    unknown "不管性不性感，我都不是你想的那种放荡的荡妇。"
 
 # game/boutique.rpy#L245
 translate chinese rubymaidmenu1_171c8d74:
 
     # unknown "Wow, trying to sleep with a mare you met a few minutes ago?"
-    unknown ""
+    unknown "想跟你几分钟前遇到的母马上床吗?"
 
 # game/boutique.rpy#L246
 translate chinese rubymaidmenu1_42490d15:
 
     # unknown "I knew it, you really are a pig."
-    unknown ""
+    unknown "我就知道，你这头猪。"
 
 # game/boutique.rpy#L249
 translate chinese rubymaidmenu1_ddccd6a1:
@@ -861,271 +861,271 @@ translate chinese rubymaidmenu1_ddccd6a1:
 translate chinese rubymaidmenu1_e4938e43:
 
     # unknown "Kehehe."
-    unknown ""
+    unknown "Kehehe"
 
 # game/boutique.rpy#L253
 translate chinese rubymaidmenu1_f980fa45:
 
     # unknown "Why would either of us ever have sex with you though?"
-    unknown ""
+    unknown "我们为什么要和你上床呢?"
 
 # game/boutique.rpy#L254
 translate chinese rubymaidmenu1_4dbd77fd:
 
     # unknown "Heheh, look at you, pushed down into a cleaning errand boy."
-    unknown ""
+    unknown "看看你，成了一个扫除男孩。"
 
 # game/boutique.rpy#L255
 translate chinese rubymaidmenu1_b2a7417b:
 
     # unknown "Imagine if you were more charismatic, charming and good looking, you could have seduced my sister by now, but instead she's ignoring you and masturbating for strangers."
-    unknown ""
+    unknown "想象一下，如果你更有魅力，更迷人，更漂亮，你现在就可以勾引我姐姐了，但她却无视了你，为陌生人手淫。"
 
 # game/boutique.rpy#L256
 translate chinese rubymaidmenu1_b7460790:
 
     # unknown "At this rate, you'll always be ignored, just like your little worm, although it's not exactly little anymore..."
-    unknown ""
+    unknown "这样的话，你就会永远被忽视，就像你的小虫子一样，尽管它已经不是那么小了……"
 
 # game/boutique.rpy#L258
 translate chinese rubymaidmenu1_f139e9ca:
 
     # "Ah crap, I may have half an erection. Guess I’m still not used to hanging around naked girls, not when they tease me at least."
-    ""
+    "该死，我都快勃起一半了。看来我还是不习惯跟裸女鬼混，至少在她们取笑我的时候不习惯。"
 
 # game/boutique.rpy#L259
 translate chinese rubymaidmenu1_eda5856a:
 
     # "Additionally, this entire time I can hear wet sounds from Ruby masturbating in the background."
-    ""
+    "此外，在这段时间里，我还能听到Ruby手淫时发出的湿漉漉的声音。"
 
 # game/boutique.rpy#L260
 translate chinese rubymaidmenu1_c62218c8:
 
     # mc "Yeah I got stuck cleaning, but that’s what I’m here to do. I'm not here to seduce or sleep with anyone, I just want to get paid."
-    mc ""
+    mc "是啊，我一直在打扫，但我就是来打扫的。我不是来勾引或上床的，我只是想要钱。"
 
 # game/boutique.rpy#L261
 translate chinese rubymaidmenu1_3265f23e:
 
     # unknown "You want to fuck though, don’t you?"
-    unknown ""
+    unknown "但你想做爱，不是吗?"
 
 # game/boutique.rpy#L262
 translate chinese rubymaidmenu1_209d0d45:
 
     # mc "Huh? You?"
-    mc ""
+    mc "嗯?你吗?"
 
 # game/boutique.rpy#L264
 translate chinese rubymaidmenu1_a92d732d:
 
     # unknown "Certainly not me, gross!"
-    unknown ""
+    unknown "当然不是我，恶心!"
 
 # game/boutique.rpy#L274
 translate chinese melodyhandjob2_b0c9a141:
 
     # unknown "Heheh, my sister… bet you want to ravage her…"
-    unknown ""
+    unknown "嘿嘿，我姐姐…我打赌你想蹂躏她…"
 
 # game/boutique.rpy#L275
 translate chinese melodyhandjob2_2e45878e:
 
     # "She gets really close, whispering in my ear, I can feel her hot breath against my skin. Every so often I can hear Ruby moan too. This is a nightmare situation I’ve stumbled into, perhaps this is karma."
-    ""
+    "她离我很近，在我耳边低语，我能感觉到她热乎乎的呼吸吹在我的皮肤上。偶尔我也能听到Ruby呻吟。我陷入了噩梦，也许这是报应。"
 
 # game/boutique.rpy#L276
 translate chinese melodyhandjob2_b4d53269:
 
     # unknown "Go on, look at her, she's really desperate to have men look at her..."
-    unknown ""
+    unknown "看看她，她真的很渴望男人看她。"
 
 # game/boutique.rpy#L282
 translate chinese melodyhandjob2_ac8366ec:
 
     # unknown "Hehe, she also wants to earn money, if you want to keep watching her you'll have to pay up."
-    unknown ""
+    unknown "呵呵，她也想挣钱，如果你想一直看着她，你就得付钱。"
 
 # game/boutique.rpy#L284
 translate chinese melodyhandjob2_3b2cb1e0:
 
     # unknown "You may think that, but how could you possibly know what she thinks? Maybe she's really enjoying it..."
-    unknown ""
+    unknown "你可能这么想，但你怎么可能知道她在想什么?也许她真的很享受……"
 
 # game/boutique.rpy#L285
 translate chinese melodyhandjob2_62c5bc4f:
 
     # mc "Doubt it..."
-    mc ""
+    mc "怀疑……"
 
 # game/boutique.rpy#L293
 translate chinese melodyhandjob2_52a22e49:
 
     # unknown "My sister is always so needy for male attention, heheh, that’s the only reason she’d ever hire you…"
-    unknown ""
+    unknown "我姐姐总是渴望得到男性的关注，这是她雇佣你的唯一原因……"
 
 # game/boutique.rpy#L294
 translate chinese melodyhandjob2_98175a85:
 
     # "She’s walking circles around me, it’s quite unnerving."
-    ""
+    "她绕着我转，真让人紧张"
 
 # game/boutique.rpy#L296
 translate chinese melodyhandjob2_2d11b214:
 
     # unknown "But… Look at you, what kind of laboratory test tube did you stumble out of? Hmph."
-    unknown ""
+    unknown "看看你，你从哪个实验室的试管里摔出来的?嗯"
 
 # game/boutique.rpy#L297
 translate chinese melodyhandjob2_74526893:
 
     # mc "Okay, that was a bit mean."
-    mc ""
+    mc "好吧，那是有点刻薄。"
 
 # game/boutique.rpy#L299
 translate chinese melodyhandjob2_ab3079aa:
 
     # unknown "Oohh, boohoo… Here, let me make it all better…"
-    unknown ""
+    unknown "来，我来让一切变得更好……"
 
 # game/boutique.rpy#L308
 translate chinese melodyhandjob2_cb05e884:
 
     # "She pushes me back against the wall and kneels down beside my erection, she leers at it with intrigue before daintily wrapping her cold fingers around my cock."
-    ""
+    "她把我推回墙，跪在我的那根旁边，她斜着眼看着它，优雅地用她冰冷的手指绕着我的cock"
 
 # game/boutique.rpy#L309
 translate chinese melodyhandjob2_f69bc29c:
 
     # unknown "Heheh, nice cock, I give it an 8/10."
-    unknown ""
+    unknown "嘿，不错的cock，我给它打8分。"
 
 # game/boutique.rpy#L310
 translate chinese melodyhandjob2_f21631d8:
 
     # "Her cold fingers start to rub back and forth around my shaft all whilst she rubs herself."
-    ""
+    "她冰冷的手指开始在我的身体周围来回抚摸，同时她开始了自慰。"
 
 # game/boutique.rpy#L311
 translate chinese melodyhandjob2_99e5bdbf:
 
     # "What's more is I can still see Ruby through a crack in her door."
-    ""
+    "而且我还能从Ruby的门缝里看到她。"
 
 # game/boutique.rpy#L313
 translate chinese melodyhandjob2_7232ad1d:
 
     # unknown "Mmm… I bet you want to slide this thing deep inside of her…"
-    unknown ""
+    unknown "我猜你肯定想把这东西深深植入她体内"
 
 # game/boutique.rpy#L314
 translate chinese melodyhandjob2_68024ded:
 
     # "I don’t resist, not because I’m enjoying myself, more because I’m surprised and bewildered."
-    ""
+    "我不会抗拒，不是因为我很享受，更多的是因为我感到惊讶和困惑"
 
 # game/boutique.rpy#L316
 translate chinese melodyhandjob2_c339cedc:
 
     # unknown "She’s in heat you know… I bet her pussy is begging for it…"
-    unknown ""
+    unknown "她正在发情，你知道吗…我打赌她的阴部正在乞求…"
 
 # game/boutique.rpy#L317
 translate chinese melodyhandjob2_42f831a5:
 
     # "I look down to see her hand grazing my shaft in slow teasing motions. My eyes then look up and once again through the crack of the door."
-    ""
+    "我低下头，看到她的手慢慢地抚弄着我的那根。然后我的眼睛向上看，再一次透过门缝。"
 
 # game/boutique.rpy#L318
 translate chinese melodyhandjob2_a20af44f:
 
     # "Ruby is enjoying herself a lot more with the vibrator this time, with her little sister's silence all I can hear are Ruby's cute moans."
-    ""
+    "这次Ruby用振动棒玩得更开心了，她妹妹的沉默让我只能听到Ruby可爱的呻吟声。"
 
 # game/boutique.rpy#L320
 translate chinese melodyhandjob2_5a0a64a9:
 
     # unknown "Come on, admit it…"
-    unknown ""
+    unknown "得了吧，承认吧……"
 
 # game/boutique.rpy#L321
 translate chinese melodyhandjob2_154a73d9:
 
     # mc "Eugh… Admit what?"
-    mc ""
+    mc "emmm……承认什么"
 
 # game/boutique.rpy#L323
 translate chinese melodyhandjob2_762b3107:
 
     # unknown "You wanna fuck my sister, don’cha?"
-    unknown ""
+    unknown "你想上我姐姐，不是吗?"
 
 # game/boutique.rpy#L324
 translate chinese melodyhandjob2_a6cca44d:
 
     # "She continues to make sadistic and smug faces while she teases me.."
-    ""
+    "她一脸虐待狂和自鸣得意的表情，一边嘲笑我。"
 
 # game/boutique.rpy#L325
 translate chinese melodyhandjob2_0faa46ad:
 
     # mc "Yeah…"
-    mc ""
+    mc "是的"
 
 # game/boutique.rpy#L326
 translate chinese melodyhandjob2_6cc79745:
 
     # unknown "Gross, gross! You’re no better than the stallions, always thinking with the head of their cock instead of the head of their body."
-    unknown ""
+    unknown "真恶心!你比种马好不了多少，总是用cock去思考。"
 
 # game/boutique.rpy#L327
 translate chinese melodyhandjob2_732d91d8:
 
     # "Her hand speeds up around my cock, like… really speeds up, she seems giddy. She's masturbating too, I can see them both masturbating..."
-    ""
+    "她的手在cock上加速的动起来，…真的很快，她看起来有点性奋。她也在手淫，我能看到他们都在手淫……"
 
 # game/boutique.rpy#L329
 translate chinese melodyhandjob2_01d339be:
 
     # unknown "I can make it happen though…"
-    unknown ""
+    unknown "不过我可以让它发生……"
 
 # game/boutique.rpy#L330
 translate chinese melodyhandjob2_ed748ca2:
 
     # mc "You can?"
-    mc ""
+    mc "你能？"
 
 # game/boutique.rpy#L331
 translate chinese melodyhandjob2_0cdd1366:
 
     # "I’m too distracted by her hand job to really form long sentences, it feels annoyingly good."
-    ""
+    "我被她的手淫弄得心烦意乱，连一整句话都说不出来，这感觉好得烦人。"
 
 # game/boutique.rpy#L333
 translate chinese melodyhandjob2_9e8fa42b:
 
     # unknown "That’s right wormy boy, if you want, I’ll let you fuck my sister… All you need to do is accept a deal from me"
-    unknown ""
+    unknown "没错，如果你愿意，我可以让你上我姐姐，你只要接受我的条件就行了"
 
 # game/boutique.rpy#L334
 translate chinese melodyhandjob2_20b39397:
 
     # mc "What’s the catch? Why would you let me?"
-    mc ""
+    mc "问题是什么?你为什么要让我去?"
 
 # game/boutique.rpy#L336
 translate chinese melodyhandjob2_1dd69802:
 
     # unknown "Come on now, I’m not so sinister that I’d need a catch… Heheh, what I have planned will benefit us both."
-    unknown ""
+    unknown "别这样，我还没那么阴险，需要一个圈套……嘿嘿，我的计划对我们都有好处。"
 
 # game/boutique.rpy#L337
 translate chinese melodyhandjob2_85e9abe9:
 
     # mc "What's your plan?"
-    mc ""
+    mc "你的计划是什么?"
 
 # game/boutique.rpy#L339
 translate chinese melodyhandjob2_fc1c11f4:
@@ -11133,123 +11133,123 @@ translate chinese strings:
 
     # game/boutique.rpy_L61_0
     old "Buy the dress (-50 Monies)"
-    new ""
+    new "买裙子（-50元）"
 
     # game/boutique.rpy_L61_1
     old "Maybe later"
-    new ""
+    new "再说吧"
 
     # game/boutique.rpy_L99_0
     old "That sounds so boring..."
-    new ""
+    new "听起来太无聊了……"
 
     # game/boutique.rpy_L99_1
     old "Sounds great, I'll get started now."
-    new ""
+    new "听起来不错，我马上开始。"
 
     # game/boutique.rpy_L150_0
     old "What should I do?"
-    new ""
+    new "我该怎么办？"
 
     # game/boutique.rpy_L150_1
     old "Keep going, I need to talk to Ruby anyway."
-    new ""
+    new "继续走，不管怎么说我都要和Ruby谈谈。"
 
     # game/boutique.rpy_L150_2
     old "Turn back, this feels weird."
-    new ""
+    new "回去，这里感觉有点奇怪。"
 
     # game/boutique.rpy_L182_0
     old "It's a misunderstanding, I didn't know."
-    new ""
+    new "我不知道，这是个误会 。"
 
     # game/boutique.rpy_L182_1
     old "Who are you?"
-    new ""
+    new "你是谁？"
 
     # game/boutique.rpy_L182_2
     old "Yeah, I was watching."
-    new ""
+    new "没错，我当时看到了。"
 
     # game/boutique.rpy_L194_0
     old "Of course, she's beautiful."
-    new ""
+    new "当然了，她很漂亮。"
 
     # game/boutique.rpy_L194_1
     old "No, I didn't."
-    new ""
+    new "不，我没有。"
 
     # game/boutique.rpy_L217_0
     old "You're naked, it's only natural."
-    new ""
+    new "你光着身子，这才对嘛。"
 
     # game/boutique.rpy_L217_1
     old "Yeah, you have a nice body."
-    new ""
+    new "是啊，你的身材太完美了。"
 
     # game/boutique.rpy_L217_2
     old "Nope, eye contact only."
-    new ""
+    new "不行，只能有眼神交流。"
 
     # game/boutique.rpy_L238_0
     old "I sure do, especially horny girls in heat like you."
-    new ""
+    new "当然了，尤其是对像你们这样欲火烧身的姑娘们。"
 
     # game/boutique.rpy_L238_1
     old "I prefer you over your sister, how about we go to your room?"
-    new ""
+    new "比起你妹妹，我更喜欢你。我们到你的房间去怎么样？"
 
     # game/boutique.rpy_L238_2
     old "You're not a tasty mare, but your sister is."
-    new ""
+    new "你虽然不合我的口味，但你妹妹却很合我的口味。"
 
     # game/boutique.rpy_L280_0
     old "You're right, she's camming because she wants people to see."
-    new ""
+    new "你说得对，她拍照片是因为她想让其他人都能看到。"
 
     # game/boutique.rpy_L280_1
     old "You're wrong, watching her like this is an invasion of privacy."
-    new ""
+    new "这样做不对，像这样看着她属于侵犯她的隐私。"
 
     # game/boutique.rpy_L341_0
     old "It feels like I may be signing a deal with the devil."
-    new ""
+    new "看样子，我可能是在和魔鬼做交易。"
 
     # game/boutique.rpy_L341_1
     old "I agree, what do you want me to do?"
-    new ""
+    new "我同意，你想让我做什么？"
 
     # game/boutique.rpy_L341_2
     old "I'd much prefer to sleep with you."
-    new ""
+    new "我很想和你一起睡。"
 
     # game/boutique.rpy_L341_3
     old "I disagree, I'll sleep with Ruby, but I don't want your help."
-    new ""
+    new "我不同意，我要和Ruby一起睡，我不需要你的帮助。"
 
     # game/boutique.rpy_L385_0
     old "Actually, I was watching you rub your pussy."
-    new ""
+    new "说实话，我当时看到你正在摩擦自己的下体。"
 
     # game/boutique.rpy_L385_1
     old "I can't wait to fuck Ruby."
-    new ""
+    new "我已经迫不及待地想要干Ruby了。"
 
     # game/boutique.rpy_L1208_0
     old "You're such a bully."
-    new ""
+    new "你可真霸道。"
 
     # game/boutique.rpy_L1208_1
     old "You're the one that keeps pulling weird faces."
-    new ""
+    new "你总是拉着个脸。"
 
     # game/boutique.rpy_L1233_0
     old "I prefer flat chests."
-    new ""
+    new "我喜欢平胸。"
 
     # game/boutique.rpy_L1233_1
     old "I prefer big boobs."
-    new ""
+    new "我喜欢巨乳。"
 
     # game/boutique.rpy_L1233_2
     old "All body types have their perks."
@@ -11257,67 +11257,67 @@ translate chinese strings:
 
     # game/boutique.rpy_L1817_0
     old "Honestly, she's not that special."
-    new ""
+    new "说实话，她也没什么特别的。"
 
     # game/boutique.rpy_L1817_1
     old "I've already fucked other mares here, Ruby's just another on that list."
-    new ""
+    new "我已经干过不少小母马了，Ruby只不过就是做爱名单上的其中之一而已。"
 
     # game/boutique.rpy_L1817_2
     old "Yeah, she's special."
-    new ""
+    new "嗯，她很特别。"
 
     # game/boutique.rpy_L2102_0
     old "Shop"
-    new ""
+    new "商店"
 
     # game/boutique.rpy_L2102_1
     old "Visit Melody"
-    new ""
+    new "拜访Melody"
 
     # game/boutique.rpy_L2108_0
     old "Maid Dress (50 Monies)"
-    new ""
+    new "女仆裙（50元）"
 
     # game/boutique.rpy_L2133_0
     old "Talk to Ruby about being friends with benefits"
-    new ""
+    new "和Ruby聊聊成为炮友的事"
 
     # game/boutique.rpy_L2133_1
     old "Talk to Ruby about sleeping with Melody"
-    new ""
+    new "告诉Ruby关于睡过Melody的事"
 
     # game/boutique.rpy_L2133_2
     old "Ask Ruby about her mother"
-    new ""
+    new "询问Ruby关于她母亲的事"
 
     # game/boutique.rpy_L2133_3
     old "Ask Ruby about her voyeurism fetish"
-    new ""
+    new "询问Ruby关于她痴迷于窥阴癖的事"
 
     # game/boutique.rpy_L2146_0
     old "Yeah of course, I sleep around with enough girls as is."
-    new ""
+    new "是啊，当然了，和往常一样，我会和一群女孩睡在一起。"
 
     # game/boutique.rpy_L2146_1
     old "Nah... I like it when it's just you and I. I wouldn't be against a third participant, though."
-    new ""
+    new "不……我虽然喜欢两个人独处，但我也不介意再多加一个人。"
 
     # game/boutique.rpy_L2268_0
     old "Call it a day"
-    new ""
+    new "今天就这样吧"
 
     # game/boutique.rpy_L2387_0
     old "You overreact, but I know you enjoyed it Melody."
-    new ""
+    new "你反应有点过激了。但我知道你很喜欢这么做，Melody。"
 
     # game/boutique.rpy_L2387_1
     old "But Ruby really likes it, can't you do it for her?"
-    new ""
+    new "但Ruby真的喜欢这事，你能不能帮帮她呢？"
 
     # game/boutique.rpy_L2399_0
     old "Actually, the brainwashing doesn't change your personality at all, I know that for a fact. Melody, I {b}KNOW{/b} you enjoyed the threesome."
-    new ""
+    new "事实上，洗脑并不会改变你的性格，这是事实。Melody，我{b}知道{/b}你很喜欢3P。"
 
     # game/boutique.rpy_L2399_1
     old "Come on, don't pretend you don't love my cock all of a sudden, this tsundere side doesn't suit you."
@@ -11329,39 +11329,39 @@ translate chinese strings:
 
     # game/boutique.rpy_L2518_1
     old "Camera off"
-    new ""
+    new "关闭摄像机"
 
     # game/boutique.rpy_L2640_0
     old "Talk about her future and stuff"
-    new ""
+    new "谈一谈关于她未来的事"
 
     # game/boutique.rpy_L2640_1
     old "Talk about her bully-mode"
-    new ""
+    new "谈一谈关于她很霸道这件事。"
 
     # game/boutique.rpy_L2640_2
     old "Ask her why she decided to sleep with you"
-    new ""
+    new "询问她为什么要和你一起睡"
 
     # game/boutique.rpy_L2828_0
     old "Use your tongue."
-    new ""
+    new "用舌头。"
 
     # game/boutique.rpy_L2828_1
     old "Use toilet tissue."
-    new ""
+    new "用手纸。"
 
     # game/boutique.rpy_L3004_0
     old "Stay the night"
-    new ""
+    new "过夜"
 
     # game/boutique.rpy_L3004_1
     old "Go home"
-    new ""
+    new "回家"
 
     # game/boutique.rpy_L3141_0
     old "Caress her breast fur."
-    new ""
+    new "抚摸她胸前的绒毛。"
 
     # game/boutique.rpy_L3141_1
     old "Go for a modest approach in the middle of her bosom."

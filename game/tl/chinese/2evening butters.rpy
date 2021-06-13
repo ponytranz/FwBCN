@@ -1,4 +1,4 @@
-# Translation updated at Sat Jun 12 2021 00:40:45 GMT+0800 (香港标准时间)
+# Translation updated at Sun Jun 13 2021 10:42:31 GMT+0800 (香港标准时间)
 # game/2evening butters.rpy#L11
 translate chinese eveningbutters_ce840f9e:
 
@@ -15,391 +15,391 @@ translate chinese eveningbutters_3cdf68fd:
 translate chinese eveningbutters_43fffc42:
 
     # "Me and Butters get cozy as we spend the evening together."
-    ""
+    "我和Butters在一起度过了一晚，这感觉很舒服。"
 
 # game/2evening butters.rpy#L25
 translate chinese eveningbutters1_afdb24b7:
 
     # butters "Back from your walk honey?"
-    butters ""
+    butters "亲爱的，散完步了？"
 
 # game/2evening butters.rpy#L30
 translate chinese eveningbutters1_22672131:
 
     # butters "Perfect, the midnight snack has arrived."
-    butters ""
+    butters "太棒了，晚间零食刚好就位。"
 
 # game/2evening butters.rpy#L34
 translate chinese eveningbutters1_390f6a0a:
 
     # butters "Good evening, what brings you here at this time?"
-    butters ""
+    butters "晚上好，这回是什么风把你吹到这儿来了？"
 
 # game/2evening butters.rpy#L40
 translate chinese eveningbutterssuccmenu_0789010c:
 
     # butters "Wha? Wait, don't go!"
-    butters ""
+    butters "哈？等下，别走！"
 
 # game/2evening butters.rpy#L46
 translate chinese eveningbutterssuccmenu_dfe5bb85:
 
     # butters "You wanna talk with me? I was kinda hoping for some action, but okay."
-    butters ""
+    butters "你就想和我聊天吗？我原本还指望着你会采取什么行动，但无所谓了。"
 
 # game/2evening butters.rpy#L50
 translate chinese eveningbutterssuccmenu_f393e755:
 
     # "You ask SuccuButters if she wants to do anything naughty, she nods eagerly and mounts you."
-    ""
+    "你问SuccuButters是否想做一些“顽皮”的事情，她饥渴地点了点头并骑在了你的身上。"
 
 # game/2evening butters.rpy#L51
 translate chinese eveningbutterssuccmenu_191e1772:
 
     # butters "What do you want from me, big boy?"
-    butters ""
+    butters "小伙子，你想从我这儿搞到些什么？"
 
 # game/2evening butters.rpy#L54
 translate chinese eveningbutterssuccmenu_24ec2adb:
 
     # "I try to enter Poyo's room, but the door is locked. She must be hiding from Butters."
-    ""
+    "我试图进入Poyo的房间，但房门上了锁。她一定是在躲避Butters。"
 
 # game/2evening butters.rpy#L57
 translate chinese eveningbutterssuccmenu_b7544d00:
 
     # butters "Can I suck your dick while you sleep?"
-    butters ""
+    butters "我能在你睡觉的时候给你口交吗？"
 
 # game/2evening butters.rpy#L58
 translate chinese eveningbutterssuccmenu_1398c793:
 
     # mc "Yeah sure, as long as you don't wake me up."
-    mc ""
+    mc "当然可以了，别把我弄醒就好。"
 
 # game/2evening butters.rpy#L59
 translate chinese eveningbutterssuccmenu_340fcbf1:
 
     # butters "Fuck yeah."
-    butters ""
+    butters "太他妈棒了。"
 
 # game/2evening butters.rpy#L61
 translate chinese eveningbutterssuccmenu_87c54ec3:
 
     # "I go to bed. Butters soon snuggles up beside me and we doze off together."
-    ""
+    "我准备上床睡觉。Butters很快依偎在了我的身旁，我们一起入睡。"
 
 # game/2evening butters.rpy#L73
 translate chinese eveningbuttersmenu_ba847baa:
 
     # "You ask Butters if she wants to do something naughty, she nods eagerly and flashes you a tiddy."
-    ""
+    "你问Butters是否想做一些“顽皮”的事情，她饥渴地点了点头并骑在了你的身上。"
 
 # game/2evening butters.rpy#L81
 translate chinese eveningbuttersmenu_b1bb12e5:
 
     # mc "By the way, these chocolates here, they're for you."
-    mc ""
+    mc "顺带一提，这儿的这些巧克力是为你准备的。"
 
 # game/2evening butters.rpy#L83
 translate chinese eveningbuttersmenu_a5f9e782:
 
     # butters "Really, for me? That's so kind of you [playername], thank you so much!"
-    butters ""
+    butters "为我准备的？这妙极了，[playername]，太谢谢你了！"
 
 # game/2evening butters.rpy#L84
 translate chinese eveningbuttersmenu_d0b735c9:
 
     # mc "It's just a small gift to thank you for everything you've done for me so far."
-    mc ""
+    mc "这只是一个小小的礼物，感谢你迄今为止为我所做的一切。"
 
 # game/2evening butters.rpy#L86
 translate chinese eveningbuttersmenu_a0bc3b1f:
 
     # butters "You're so kind, I don't know what to say, ehehe."
-    butters ""
+    butters "你真贴心，我都不知道该说些什么好了，嘻嘻。"
 
 # game/2evening butters.rpy#L87
 translate chinese eveningbuttersmenu_82ea5822:
 
     # butters "Let's share them while we watch something!"
-    butters ""
+    butters "看电影的时候，我们可以一起吃。"
 
 # game/2evening butters.rpy#L88
 translate chinese eveningbuttersmenu_1964fa12:
 
     # "You've unlocked the Butters reverse cowgirl scene."
-    ""
+    "你刚解锁了Butters的反骑乘位场景。"
 
 # game/2evening butters.rpy#L95
 translate chinese eveningbuttersmenu_fe3f24f2:
 
     # mc "I've got a surprise for you!"
-    mc ""
+    mc "我有个惊喜给你！"
 
 # game/2evening butters.rpy#L97
 translate chinese eveningbuttersmenu_3f219a10:
 
     # "I reveal the bouquet of roses causing Butters to squee."
-    ""
+    "我露出了那束玫瑰花，引起了Butters的注意。"
 
 # game/2evening butters.rpy#L99
 translate chinese eveningbuttersmenu_4fc540f9:
 
     # "She runs up and hugs me tightly, kissing me on the lips."
-    ""
+    "她冲上来紧紧抱住了我，对着我的嘴就是一顿猛亲。"
 
 # game/2evening butters.rpy#L101
 translate chinese eveningbuttersmenu_fe1bf9c8:
 
     # butters "I love roses, thank you so much!"
-    butters ""
+    butters "我喜欢玫瑰，太谢谢你了！"
 
 # game/2evening butters.rpy#L102
 translate chinese eveningbuttersmenu_8c467860:
 
     # butters "I'll get them water straight away."
-    butters ""
+    butters "我马上就把水给它们。"
 
 # game/2evening butters.rpy#L103
 translate chinese eveningbuttersmenu_933595ea:
 
     # mc "Just a small show of appreciation, I really enjoy spending time with you."
-    mc ""
+    mc "只是表示一下小小的感谢，我真的很喜欢跟你待在一起的时间。"
 
 # game/2evening butters.rpy#L104
 translate chinese eveningbuttersmenu_c98c9027:
 
     # butters "Oh [playername], you're making me swoon in heart and heat."
-    butters ""
+    butters "哦，[playername]，你让我心醉神迷，热血沸腾。"
 
 # game/2evening butters.rpy#L106
 translate chinese eveningbuttersmenu_9aac6a92:
 
     # butters "I can think of a few ways to reward you for being such an amazing housemate."
-    butters ""
+    butters "我可以想点办法来奖励奖励你，因为你真是一个非常出色的住友。"
 
 # game/2evening butters.rpy#L107
 translate chinese eveningbuttersmenu_e9cf8ea8:
 
     # "You've unlocked the Butters Leg-Up Doggystyle scene."
-    ""
+    "你解锁了与Butters的抬腿后入式姿势。"
 
 # game/2evening butters.rpy#L113
 translate chinese eveningbuttersmenu_928e5d2b:
 
     # "I go into Poyo's room."
-    ""
+    "我走进了Poyo的房间。"
 
 # game/2evening butters.rpy#L117
 translate chinese eveningbuttersmenu_91c62dc4:
 
     # "And catch her masturbating."
-    ""
+    "她在自慰，被我逮住了。"
 
 # game/2evening butters.rpy#L118
 translate chinese eveningbuttersmenu_0040dc41:
 
     # poyo "Eek! You shoulda knocked, perv!"
-    poyo ""
+    poyo "啊！你应该先敲门的，变态！"
 
 # game/2evening butters.rpy#L120
 translate chinese eveningbuttersmenu_19ff9ab5:
 
     # "She's playing some video games, gamer girl confirmed?"
-    ""
+    "看起来她在玩电子游戏，电游宅女哈？"
 
 # game/2evening butters.rpy#L121
 translate chinese eveningbuttersmenu_0b6a3250:
 
     # poyo "What's up?"
-    poyo ""
+    poyo "什么事啊？"
 
 # game/2evening butters.rpy#L123
 translate chinese eveningbuttersmenu_08c673b0:
 
     # "She's on a laptop. I hope she doesn't get too much slime on it."
-    ""
+    "她在用笔记本。我希望那上面别被粘上太多她的粘液。"
 
 # game/2evening butters.rpy#L124
 translate chinese eveningbuttersmenu_8ad0d770:
 
     # poyo "Hey, wanna hang out?"
-    poyo ""
+    poyo "嘿，想出去转转吗？"
 
 # game/2evening butters.rpy#L136
 translate chinese poyomenu_305394b5:
 
     # butters "If you'd like to stay, of course you'd be welcome."
-    butters ""
+    butters "你如果想留下来，我当然非常欢迎。"
 
 # game/2evening butters.rpy#L138
 translate chinese poyomenu_b8d573c2:
 
     # butters "Would you like to live here? Rent free, naturally."
-    butters ""
+    butters "你想住在这里吗？当然是免租金喔。"
 
 # game/2evening butters.rpy#L143
 translate chinese poyomenu_b7b6aa51:
 
     # butters "This is going to be so much fun!"
-    butters ""
+    butters "这一定非常有趣！"
 
 # game/2evening butters.rpy#L145
 translate chinese poyomenu_281faf9e:
 
     # butters "You're going to love it here!"
-    butters ""
+    butters "你绝对会喜欢这里的！"
 
 # game/2evening butters.rpy#L148
 translate chinese poyomenu_161d1217:
 
     # "Guess I need to break the news to Moxie."
-    ""
+    "我一定要回去向Moxie讲明这件事。"
 
 # game/2evening butters.rpy#L150
 translate chinese poyomenu_a20cefa7:
 
     # "..."
-    ""
+    "……"
 
 # game/2evening butters.rpy#L159
 translate chinese poyomenu_78a52929:
 
     # moxie "You're going to stay with Butters? Of course, I'm happy for you."
-    moxie ""
+    moxie "你要和Butters住在一起？当然，我为你感到高兴。"
 
 # game/2evening butters.rpy#L160
 translate chinese poyomenu_311be927:
 
     # moxie "She's a bit of an oddball, but if she isn't charging rent, I'd say go for it."
-    moxie ""
+    moxie "她有点古怪，但如果她不收租金，我还是想说那就去吧。"
 
 # game/2evening butters.rpy#L161
 translate chinese poyomenu_5718558e:
 
     # moxie "You're only a walk away after all, you can visit me any time you want, and hey, maybe I'll visit you too!"
-    moxie ""
+    moxie "毕竟就离着没两步，你想什么时候回来那就来吧，嘿，说不定我会去看你！"
 
 # game/2evening butters.rpy#L162
 translate chinese poyomenu_6ab06182:
 
     # mc "Are you sure? I feel a bit guilty about this."
-    mc ""
+    mc "你说真的？我还有点小内疚呢。"
 
 # game/2evening butters.rpy#L167
 translate chinese poyomenu_0ee22e84:
 
     # moxie "Oh please, you're a grown man, and I don't even feel a tiny bit jealous, or sad."
-    moxie ""
+    moxie "哦，拜托，你是一个成年男人，我一点都不嫉妒，或者悲伤。"
 
 # game/2evening butters.rpy#L168
 translate chinese poyomenu_a31340dd:
 
     # mc "Really?"
-    mc ""
+    mc "真的吗？"
 
 # game/2evening butters.rpy#L173
 translate chinese poyomenu_94129615:
 
     # moxie "Really, really! I always wanted you to outgrow this tiny place."
-    moxie ""
+    moxie "真的，真的！我一直想让你从这个逼仄的小地方离开。"
 
 # game/2evening butters.rpy#L178
 translate chinese poyomenu_a18351e2:
 
     # moxie "But do visit, you are special to me aaannnddd, I wanna fuck you at least once a week."
-    moxie ""
+    moxie "但一定要来啊，你可是我的唯一。而——且，我每周至少干你一次。"
 
 # game/2evening butters.rpy#L179
 translate chinese poyomenu_8a3a14c5:
 
     # mc "Deal!"
-    mc ""
+    mc "成交！"
 
 # game/2evening butters.rpy#L184
 translate chinese poyomenu_e0336e6d:
 
     # moxie "Actually, uhm..."
-    moxie ""
+    moxie "说实话，额……"
 
 # game/2evening butters.rpy#L196
 translate chinese poyomenu_87961b00:
 
     # moxie "Oh yeah, yeah, yeah! I'll always be your number one bad bitch, aahh haaah!"
-    moxie ""
+    moxie "哦耶，耶，耶！我永远是你第一个操你的坏女人，啊哈哈哈!"
 
 # game/2evening butters.rpy#L202
 translate chinese poyomenu_2c445130:
 
     # moxie "Aaahhh fuck yeah! Fill me up! Mmmphhh..."
-    moxie ""
+    moxie "啊啊啊，牛逼！请把我填满！嗯嗯嗯……"
 
 # game/2evening butters.rpy#L205
 translate chinese poyomenu_a20cefa7_1:
 
     # "..."
-    ""
+    "……"
 
 # game/2evening butters.rpy#L206
 translate chinese poyomenu_3288dfe8:
 
     # "Moxie and I aggressively and energetically rut long into the night, until we doze off together."
-    ""
+    "Moxie和我精力充沛地一直干到晚上，最后我们贴在一起打着盹。"
 
 # game/2evening butters.rpy#L209
 translate chinese poyomenu_21d5afa1:
 
     # "In the morning I kiss Moxie goodbye and make my way to my new home."
-    ""
+    "在早上，我与Moxie吻别，并起身前往我的新家。"
 
 # game/2evening butters.rpy#L212
 translate chinese poyomenu_a20cefa7_2:
 
     # "..."
-    ""
+    "……"
 
 # game/2evening butters.rpy#L221
 translate chinese poyomenu_6c72a9d2:
 
     # "I go to bed and Butters soon snuggles up beside me and we doze off together."
-    ""
+    "我准备上床睡觉，Butters很快依偎在了我的身旁，我们一起入睡。"
 
 # game/2evening butters.rpy#L229
 translate chinese eveningbutterssex_82b2801b:
 
     # "The two of us saunter over to the bedroom and she promptly undresses, while I lay down on the bed, prepared to get the ride of a life time."
-    ""
+    "我们两个大步走到卧室，她很快便把衣服扒个精光，而我则躺在床上，准备着今生中最重要的一发。"
 
 # game/2evening butters.rpy#L231
 translate chinese eveningbutterssex_7077bcff:
 
     # "After folding her clothes, she seductively wiggles her hips as she approaches and mounts me."
-    ""
+    "叠好脱下来的衣服后，她诱人地扭动着臀部，走到我旁边然后骑到了我身上。"
 
 # game/2evening butters.rpy#L234
 translate chinese eveningbutterssex_5d53e194:
 
     # butters "I like to take things sensually and slow, if that's okay?"
-    butters ""
+    butters "我喜欢我们色色的，慢慢来，好吗？"
 
 # game/2evening butters.rpy#L235
 translate chinese eveningbutterssex_6f635057:
 
     # mc "Of course, let's make love."
-    mc ""
+    mc "当然没问题，我们来爱爱吧。"
 
 # game/2evening butters.rpy#L236
 translate chinese eveningbutterssex_3bc9a1e8:
 
     # "My body grows hot at the display and my cock grows to point upwards against her belly, her feminine lubricant dripping down my shaft as she begins to grind against it."
-    ""
+    "我的身体越来越热，阴茎也勃起的越来越大。大屌顶着她的小腹，她轻轻地蹭着，滴滴答答的淫水顺着流了下来。"
 
 # game/2evening butters.rpy#L238
 translate chinese eveningbutterssex_5f729eef:
 
     # "But Butters doesn't waste any time with foreplay, she arches her back while sliding her plush pussy onto my cock."
-    ""
+    "但Butters是不会把时间浪费在前戏上。在她用那长着绒毛的阴部在我的cock上来回滑动的同时，又弓起了自己的背。"
 
 # game/2evening butters.rpy#L239
 translate chinese eveningbutterssex_86ab2e4c:
@@ -525,7 +525,7 @@ translate chinese eveningbutterssex_4ace6187:
 translate chinese eveningbutterssex_a20cefa7:
 
     # "..."
-    ""
+    "……"
 
 # game/2evening butters.rpy#L278
 translate chinese eveningbutterssex_75790f4b:
@@ -537,7 +537,7 @@ translate chinese eveningbutterssex_75790f4b:
 translate chinese eveningbutterssex_a20cefa7_1:
 
     # "..."
-    ""
+    "……"
 
 # game/2evening butters.rpy#L287
 translate chinese eveningbutterssex_4e52e001:
@@ -705,7 +705,7 @@ translate chinese eveningbutterssex_75790f4b_1:
 translate chinese eveningbutterssex_a20cefa7_3:
 
     # "..."
-    ""
+    "..."
 
 # game/2evening butters.rpy#L339
 translate chinese eveningbutterssex_a50de358:
@@ -837,7 +837,7 @@ translate chinese eveningbutterssex_b1b19ccf:
 translate chinese eveningbutterssex_a20cefa7_4:
 
     # "..."
-    ""
+    "..."
 
 # game/2evening butters.rpy#L398
 translate chinese eveningbutterssex_75790f4b_2:
@@ -849,7 +849,7 @@ translate chinese eveningbutterssex_75790f4b_2:
 translate chinese eveningbutterssex_a20cefa7_5:
 
     # "..."
-    ""
+    "..."
 
 # game/2evening butters.rpy#L407
 translate chinese eveningbutterssex_2c70794a:
@@ -1521,7 +1521,7 @@ translate chinese eveningbutterssex_fb85ca9c:
 translate chinese eveningbutterssex_a20cefa7_7:
 
     # "..."
-    ""
+    "..."
 
 # game/2evening butters.rpy#L595
 translate chinese eveningbutterssex_0144553b:
@@ -2271,7 +2271,7 @@ translate chinese eveningbutterssuccsexmenu_4ace6187:
 translate chinese eveningbutterssuccsexmenu_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/2evening butters.rpy#L824
 translate chinese eveningbutterssuccsexmenu_75790f4b:
@@ -2283,7 +2283,7 @@ translate chinese eveningbutterssuccsexmenu_75790f4b:
 translate chinese eveningbutterssuccsexmenu_a20cefa7_1:
 
     # "..."
-    ""
+    "..."
 
 # game/2evening butters.rpy#L835
 translate chinese succbuttersrcg_d9d5f636:
@@ -2607,7 +2607,7 @@ translate chinese succbuttersrcg_b1b19ccf:
 translate chinese succbuttersrcg_a20cefa7_2:
 
     # "..."
-    ""
+    "..."
 
 # game/2evening butters.rpy#L958
 translate chinese succbuttersrcg_75790f4b_1:
@@ -2619,7 +2619,7 @@ translate chinese succbuttersrcg_75790f4b_1:
 translate chinese succbuttersrcg_a20cefa7_3:
 
     # "..."
-    ""
+    "..."
 
 # game/2evening butters.rpy#L965
 translate chinese succbuttersrcg_b666840d:
@@ -3279,7 +3279,7 @@ translate chinese poyoend_5bbb67c3:
 translate chinese poyoend_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/2evening butters.rpy#L1187
 translate chinese poyoend_bc698752:
@@ -3381,7 +3381,7 @@ translate chinese buttersimpregintro_36938e12:
 translate chinese buttersimpregintro_db7b11fd:
 
     # mc "What’s that?"
-    mc ""
+    mc "那是什么？"
 
 # game/2evening butters.rpy#L1216
 translate chinese buttersimpregintro_17ac4e53:
@@ -3393,7 +3393,7 @@ translate chinese buttersimpregintro_17ac4e53:
 translate chinese buttersimpregintro_ece63c8d:
 
     # mc "…"
-    mc ""
+    mc "…"
 
 # game/2evening butters.rpy#L1218
 translate chinese buttersimpregintro_b175cf2b:
@@ -4869,7 +4869,7 @@ translate chinese buttersimpregpaizuri_ce617998_1:
 translate chinese buttersimpregpaizuri_060560ec:
 
     # "Five minutes later."
-    ""
+    "五分钟之后."
 
 # game/2evening butters.rpy#L1692
 translate chinese butterspregnanteasteregg_f597802b:
@@ -4959,205 +4959,205 @@ translate chinese strings:
 
     # game/2evening butters.rpy_L37_0
     old "Go Outside"
-    new ""
+    new "外出"
 
     # game/2evening butters.rpy_L37_1
     old "Talk"
-    new ""
+    new "聊天"
 
     # game/2evening butters.rpy_L37_2
     old "Sex"
-    new ""
+    new "做爱"
 
     # game/2evening butters.rpy_L37_3
     old "Visit Poyo"
-    new ""
+    new "拜访Poyo"
 
     # game/2evening butters.rpy_L37_4
     old "Go to Sleep"
-    new ""
+    new "去睡觉"
 
     # game/2evening butters.rpy_L64_0
     old "Give Gift"
-    new ""
+    new "送礼"
 
     # game/2evening butters.rpy_L64_1
     old "You mentioned I could live here?"
-    new ""
+    new "你刚刚是不是说我能住在这儿？"
 
     # game/2evening butters.rpy_L76_0
     old "Chocolates"
-    new ""
+    new "巧克力"
 
     # game/2evening butters.rpy_L76_1
     old "Roses"
-    new ""
+    new "玫瑰"
 
     # game/2evening butters.rpy_L76_2
     old "Back"
-    new ""
+    new "返回"
 
     # game/2evening butters.rpy_L125_0
     old "Leave"
-    new ""
+    new "离开"
 
     # game/2evening butters.rpy_L139_0
     old "Sure thing."
-    new ""
+    new "妥妥的。"
 
     # game/2evening butters.rpy_L139_1
     old "I'll pass, but thanks for your offer."
-    new ""
+    new "我就不用了，但还是谢谢你的邀请。"
 
     # game/2evening butters.rpy_L224_0
     old "Cowgirl"
-    new ""
+    new "骑乘位"
 
     # game/2evening butters.rpy_L224_1
     old "Reverse-Cowgirl"
-    new ""
+    new "逆骑乘位"
 
     # game/2evening butters.rpy_L224_2
     old "Leg-Up Doggystyle"
-    new ""
+    new "抬腿后入式"
 
     # game/2evening butters.rpy_L224_3
     old "Missionary (Impregnation Version)"
-    new ""
+    new "男上位（内射版）"
 
     # game/2evening butters.rpy_L224_4
     old "Missionary (Standard Version)"
-    new ""
+    new "男上位（常规版）"
 
     # game/2evening butters.rpy_L224_5
     old "Milky Paizuri"
-    new ""
+    new "乳汁乳交"
 
     # game/2evening butters.rpy_L674_0
     old "What's the craziest potion you've ever brewed or tried?"
-    new ""
+    new "你所尝试或体验过的最疯狂的魔药是什么？"
 
     # game/2evening butters.rpy_L674_1
     old "What's the most interesting adventure you've ever had?"
-    new ""
+    new "你所经历过的最有趣的冒险是什么？"
 
     # game/2evening butters.rpy_L674_2
     old "Any plans for the future now that you're mortal?"
-    new ""
+    new "既然你终有一死，对未来有什么打算吗？"
 
     # game/2evening butters.rpy_L674_3
     old "What kind of potions are you making now you're cured?"
-    new ""
+    new "你做了什么药水，能治好你？"
 
     # game/2evening butters.rpy_L968_0
     old "Who are you exactly?"
-    new ""
+    new "你到底是什么？"
 
     # game/2evening butters.rpy_L968_1
     old "What do you want out of life?"
-    new ""
+    new "除了生命之外，你还有什么渴望的吗？"
 
     # game/2evening butters.rpy_L968_2
     old "Ever catch Butters doing anything weird?"
-    new ""
+    new "你见到过Butters做些什么奇怪的事吗？"
 
     # game/2evening butters.rpy_L1078_0
     old "How did you develop so quickly?"
-    new ""
+    new "你是怎么做到成长的如此之快的？"
 
     # game/2evening butters.rpy_L1078_1
     old "Talk about Poyo's mom"
-    new ""
+    new "谈论Poyo的母亲"
 
     # game/2evening butters.rpy_L1078_2
     old "Ask Poyo about her plans"
-    new ""
+    new "问问Poyo打算做些什么"
 
     # game/2evening butters.rpy_L1120_0
     old "Do you wanna do it, or not?"
-    new ""
+    new "你到底是想做，还是算了？"
 
     # game/2evening butters.rpy_L1120_1
     old "Doesn't that make it even better?"
-    new ""
+    new "这岂不是更好？"
 
     # game/2evening butters.rpy_L1120_2
     old "You're right, my bad."
-    new ""
+    new "你是对的，我错了。"
 
     # game/2evening butters.rpy_L1124_0
     old "Sure"
-    new ""
+    new "当然"
 
     # game/2evening butters.rpy_L1124_1
     old "Nah"
-    new ""
+    new "算了吧"
 
     # game/2evening butters.rpy_L1235_0
     old "Yeah, I’ll impregnate you."
-    new ""
+    new "好，我会让你受孕的。"
 
     # game/2evening butters.rpy_L1235_1
     old "I’ll think about it."
-    new ""
+    new "我会考虑的。"
 
     # game/2evening butters.rpy_L1235_2
     old "No, I’m not interested in that."
-    new ""
+    new "不，我对那没什么兴趣。"
 
     # game/2evening butters.rpy_L1248_0
     old "Fuck her now"
-    new ""
+    new "现在就上了她"
 
     # game/2evening butters.rpy_L1248_1
     old "Maybe later… (Accessible from the sex menu)"
-    new ""
+    new "或许等会也行......（可以在性爱目录上这么做）"
 
     # game/2evening butters.rpy_L1380_0
     old "Sure thing, I’ll happily donate my cum to any mare in Arcadia."
-    new ""
+    new "当然了，我很乐意向任何一匹住在Arcadia的雌驹献出我的精液。"
 
     # game/2evening butters.rpy_L1380_1
     old "Anything for you, darling."
-    new ""
+    new "什么都行，亲爱的。"
 
     # game/2evening butters.rpy_L1556_0
     old "Milky Paizuri? Hell yeah."
-    new ""
+    new "乳汁乳交？太棒了。"
 
     # game/2evening butters.rpy_L1556_1
     old "It's too early in the morning for sexy times."
-    new ""
+    new "现在还是清晨，没到做爱的时候。"
 
     # game/2evening butters.rpy_L1556_2
     old "Can’t you just milk it yourself? You’re being somewhat melodramatic by asking me."
-    new ""
+    new "你就不能自己给它挤奶吗？找我的话未免有些过于夸张了。"
 
     # game/2evening butters.rpy_L1591_0
     old "Call yourself mommy, that’s hot."
-    new ""
+    new "自称“妈咪”感觉挺性感的。"
 
     # game/2evening butters.rpy_L1591_1
     old "Avoid calling yourself mommy, it’s somewhat uncanny."
-    new ""
+    new "别再自称为妈咪了，听起来怪怪的。"
 
     # game/2evening butters.rpy_L1594_0
     old "Uhhmm… Sure, mommy."
-    new ""
+    new "嗯......当然了，妈咪。"
 
     # game/2evening butters.rpy_L1594_1
     old "That’s probably a bad idea."
-    new ""
+    new "那可能不是个好主意。"
 
     # game/2evening butters.rpy_L1701_0
     old "You can count on me"
-    new ""
+    new "你可以指望我。"
 
     # game/2evening butters.rpy_L1701_1
     old "Fill you with cum? Anytime."
-    new ""
+    new "用精液填满你？随时都可以。"
 
     # game/2evening butters.rpy_L1701_2
     old "Depends on my relationship situation."
-    new ""
+    new "这取决于我同他人关系的现状。"
 

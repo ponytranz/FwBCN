@@ -1,4 +1,4 @@
-# Translation updated at Sat Jun 12 2021 00:40:46 GMT+0800 (香港标准时间)
+# Translation updated at Sun Jun 13 2021 10:42:31 GMT+0800 (香港标准时间)
 # game/city.rpy#L6
 translate chinese city_12914194:
 
@@ -75,943 +75,943 @@ translate chinese musicstudio_d9de54f7:
 translate chinese musicstudio_c3044bf2:
 
     # "I turn around to see Blossom, and also..."
-    ""
+    "我转过身去看Blossom，而且……"
 
 # game/city.rpy#L77
 translate chinese musicstudio_c5130d62:
 
     # melody "Look at you staring around in awe. Looking for some sleezy mares?"
-    melody ""
+    melody "看看你惊叹地盯着四周，想找些光滑的母马吗？"
 
 # game/city.rpy#L78
 translate chinese musicstudio_582abb8d:
 
     # mc "Why, you offering?"
-    mc ""
+    mc "为什么，你愿意？"
 
 # game/city.rpy#L80
 translate chinese musicstudio_b7564cc1:
 
     # melody "Hah! ... Shit... That was a good line..."
-    melody ""
+    melody "哈！…草…那句词真不错……"
 
 # game/city.rpy#L81
 translate chinese musicstudio_55db164d:
 
     # mc "You two off to college?"
-    mc ""
+    mc "你们两个去上大学？"
 
 # game/city.rpy#L83
 translate chinese musicstudio_803ae9d4:
 
     # melody "Yeah, but we've got time, wanna hang out?"
-    melody ""
+    melody "是的，但是我们还有时间，想出去逛逛吗？"
 
 # game/city.rpy#L85
 translate chinese musicstudio_5252d15a:
 
     # blossom "Huh? We have time? Well... I like the idea anyway..."
-    blossom ""
+    blossom "哈？我们还有时间吗？好吧…出去逛逛也不错…"
 
 # game/city.rpy#L86
 translate chinese musicstudio_a7c0870f:
 
     # mc "Sure, I can hang, as long as I'm not keeping you two."
-    mc ""
+    mc "当然，只要我不留你们两个，我就可以遛弯去了。"
 
 # game/city.rpy#L88
 translate chinese musicstudio_75ae6c5d:
 
     # melody "Pfft it's only 8:00am, Blossom and I were just about to get a coffee and laze around for an hour anyway."
-    melody ""
+    melody "现在才8点，Blossom和我正要去喝杯咖啡，然后再闲逛一个小时。"
 
 # game/city.rpy#L90
 translate chinese musicstudio_1a552f78:
 
     # blossom "I thought we were goin-"
-    blossom ""
+    blossom "我以为我们要去——"
 
 # game/city.rpy#L94
 translate chinese musicstudio_fb8da035:
 
     # melody "Shh... Let's show this lost soul around."
-    melody ""
+    melody "嘘。。。让我们带着这个落魄的小马四处看看。"
 
 # game/city.rpy#L96
 translate chinese musicstudio_7c346eae:
 
     # "Ten minutes later..."
-    ""
+    "十分钟之后…"
 
 # game/city.rpy#L101
 translate chinese musicstudio_b328e054:
 
     # melody "And this is my hairdressers, this is how I manage to look so perfect."
-    melody ""
+    melody "这是我的理发师，这就是我让自己看起来如此完美的原因。"
 
 # game/city.rpy#L105
 translate chinese musicstudio_e9d8032b:
 
     # blossom "I don't see why you can't just cut your own hair."
-    blossom ""
+    blossom "我不明白你为什么不能自己剪头发。"
 
 # game/city.rpy#L107
 translate chinese musicstudio_1e9d5c18:
 
     # melody "Please Blossom, I have some standards!"
-    melody ""
+    melody "拜托，Blossom,我有自己的行为准则！"
 
 # game/city.rpy#L109
 translate chinese musicstudio_0481e31a:
 
     # melody "Oh, that's my favourite nightclub over there, Bed of Chaos."
-    melody ""
+    melody "哦，那是我在这里最喜欢的夜总会：无序之榻。"
 
 # game/city.rpy#L111
 translate chinese musicstudio_602bb7c0:
 
     # blossom "I like that one too because it's free entry for students."
-    blossom ""
+    blossom "我也喜欢那个夜总会，因为它对学生免费开放。"
 
 # game/city.rpy#L112
 translate chinese musicstudio_95005868:
 
     # blossom "I heard our sisters go there quite often."
-    blossom ""
+    blossom "我听说咱的姐妹们经常去那里。"
 
 # game/city.rpy#L114
 translate chinese musicstudio_14cb3daa:
 
     # melody "Ahh yeah! Every good night starts in the Bed, the drinks are cheap too."
-    melody ""
+    melody "啊耶！美好的夜生活从无序之榻夜总会开始，那儿的饮料也很便宜。"
 
 # game/city.rpy#L115
 translate chinese musicstudio_5287a5e7:
 
     # melody "It's also close to a brothel, did you notice that Blossom? I bet that gets some good evening business."
-    melody ""
+    melody "那儿离窑子也很近，你注意到Blossom了吗？我打赌这会带来一些晚上的好买卖。"
 
 # game/city.rpy#L117
 translate chinese musicstudio_2b06a377:
 
     # blossom "Uhm, I know of it... I heard there are gloryholes in there."
-    blossom ""
+    blossom "嗯，我知道…我听说里面有寻欢洞。"
 
 # game/city.rpy#L119
 translate chinese musicstudio_5fda2770:
 
     # "Are they talking about the church?"
-    ""
+    "他们在讨论教堂吗？"
 
 # game/city.rpy#L121
 translate chinese musicstudio_249435b2:
 
     # melody "Why would a mare pay to suck off a stranger? If you're going to spend money you might as well get a good dicking."
-    melody ""
+    melody "为什么一匹母马要付钱舔一个陌生人的鸡巴？如果你想花钱玩的话你完全可以被插的很舒服的。"
 
 # game/city.rpy#L122
 translate chinese musicstudio_8621f82e:
 
     # mc "Another brothel huh? I didn't realize it was so commonplace."
-    mc ""
+    mc "又是个妓院？我不知道这是如此平常的地方。"
 
 # game/city.rpy#L124
 translate chinese musicstudio_b94da20c:
 
     # melody "Ahah you prude! Our society is far more casual than whatever backwater planet you came from."
-    melody ""
+    melody "啊哈，你这个假正经的！我们的社会比你来自的任何一个穷乡僻壤的星球都要开放。"
 
 # game/city.rpy#L125
 translate chinese musicstudio_fba4461c:
 
     # mc "My world is so different, the brothels around here primarily deal with female customers right?"
-    mc ""
+    mc "我的世界和这里是如此的不同，这里的妓院主要是和女性顾客打交道，对吧？"
 
 # game/city.rpy#L126
 translate chinese musicstudio_95d84c2a:
 
     # melody "Yup, thirsty females that pay for sex because they can't get it elsewhere."
-    melody ""
+    melody "是的，饥渴的母马在这儿买春，因为她们在别的地方找不到。"
 
 # game/city.rpy#L127
 translate chinese musicstudio_27e5c4f9:
 
     # melody "But we don't have that problem, right Bloss?"
-    melody ""
+    melody "但我们没有这个问题，对吧，Bloss？"
 
 # game/city.rpy#L129
 translate chinese musicstudio_f5410c88:
 
     # blossom "Uhmm, hehe, I guess not."
-    blossom ""
+    blossom "唔，呵呵，我觉得并不是。"
 
 # game/city.rpy#L130
 translate chinese musicstudio_a2fca315:
 
     # "It is strange seeing two close friends from such different backgrounds."
-    ""
+    "看到两个身份背景如此不同的密友真奇怪。"
 
 # game/city.rpy#L131
 translate chinese musicstudio_89a3120f:
 
     # "A farmer girl and a high class boutique girl. What's even more unusual is they both want to be DJs."
-    ""
+    "一个农家女孩和一个高级精品店女孩。更不寻常的是她们都想当DJ。"
 
 # game/city.rpy#L133
 translate chinese musicstudio_2f3224e3:
 
     # melody "And this is our music studio!"
-    melody ""
+    melody "这是我们的音乐工作室！"
 
 # game/city.rpy#L135
 translate chinese musicstudio_2f8be842:
 
     # blossom "I mean... It's the college's, but we get to use it."
-    blossom ""
+    blossom "我是说……这是学校的，但我们可以用它。"
 
 # game/city.rpy#L136
 translate chinese musicstudio_e4705c7c:
 
     # mc "Hey, this is pretty awesome, you gonna show me inside?"
-    mc ""
+    mc "嘿，这太棒了，你要带我进去吗？"
 
 # game/city.rpy#L137
 translate chinese musicstudio_e945fa2d:
 
     # melody "Heh, sure, why not?"
-    melody ""
+    melody "哈，当然了。"
 
 # game/city.rpy#L148
 translate chinese musicstudio_19d6fbdf:
 
     # melody "Hey Claire, I've brought a friend if you don't mind."
-    melody ""
+    melody "嘿，Claire,如果你不介意，我会带一个朋友来。"
 
 # game/city.rpy#L150
 translate chinese musicstudio_db5ee150:
 
     # claire "Hmm, who's this?"
-    claire ""
+    claire "蛤，她是谁？"
 
 # game/city.rpy#L151
 translate chinese musicstudio_ecd8fd3a:
 
     # mc "O-Oh! It's you..."
-    mc ""
+    mc "哦！是你！"
 
 # game/city.rpy#L153
 translate chinese musicstudio_fca1f2fd:
 
     # claire "It's 'me'? I don't think we've ever met before."
-    claire ""
+    claire "我？我不认为我们之前见过。"
 
 # game/city.rpy#L154
 translate chinese musicstudio_d0284560:
 
     # claire "Hey Melody, would it be okay if I just took your friend to the side for a private conversation?"
-    claire ""
+    claire "嘿, Melody，我可以带你的朋友到旁边私下谈谈吗？"
 
 # game/city.rpy#L155
 translate chinese musicstudio_a0902387:
 
     # melody "Huh? You've fallen for him already? Of course you can!"
-    melody ""
+    melody "嗯？你已经爱上他了？你当然可以！"
 
 # game/city.rpy#L156
 translate chinese musicstudio_970cb935:
 
     # claire "Tch, your inappropriate remarks aren't appreciated."
-    claire ""
+    claire "啧，你的不当言论不受欢迎。"
 
 # game/city.rpy#L157
 translate chinese musicstudio_8cd386c0:
 
     # melody "Yeah, yeah..."
-    melody ""
+    melody "好吧好吧…"
 
 # game/city.rpy#L160
 translate chinese musicstudio_dab8cbe2:
 
     # "The mare called Claire takes me aside to another empty music studio."
-    ""
+    "这匹叫Claire的母马把我带到了另一间空的音乐工作室。"
 
 # game/city.rpy#L161
 translate chinese musicstudio_2fecc494:
 
     # mc "What did you need me for, Claire?"
-    mc ""
+    mc "你想让我做什么，Claire?"
 
 # game/city.rpy#L163
 translate chinese musicstudio_2cdcfbaa:
 
     # claire "You recognized me, so I have to go through the usual tedious process of explaining that you've never seen me before."
-    claire ""
+    claire "你认出了我，所以我不得不像往常一样乏味地解释你以前从未见过我。"
 
 # game/city.rpy#L164
 translate chinese musicstudio_8165e41c:
 
     # mc "What do you mean? Are you not the pony from the 'spa' brothel?"
-    mc ""
+    mc "什么意思？你不是温泉妓院的小马吗？"
 
 # game/city.rpy#L165
 translate chinese musicstudio_539b3659:
 
     # claire "B-Brothel... Tch..."
-    claire ""
+    claire "妓、妓院…啧…"
 
 # game/city.rpy#L166
 translate chinese musicstudio_5886ff5a:
 
     # claire "That's owned by my twin sister and her girlfriend."
-    claire ""
+    claire "那属于我的双胞胎姐姐和她的女朋友。"
 
 # game/city.rpy#L167
 translate chinese musicstudio_72302af5:
 
     # mc "Ooohhh... I'm really sorry for getting you two mixed up."
-    mc ""
+    mc "哦哦哦……真对不起把你们两个搞混了。"
 
 # game/city.rpy#L169
 translate chinese musicstudio_ccbbed3f:
 
     # claire "It doesn't happen too often, but it would be awkward if my students found out."
-    claire ""
+    claire "这种情况并不经常发生，但如果我的学生发现了，那就很尴尬了。"
 
 # game/city.rpy#L170
 translate chinese musicstudio_c5303f07:
 
     # mc "I'd worry about them finding out by themselves if I were you."
-    mc ""
+    mc "如果我是你，我会担心他们是自己发现的。"
 
 # game/city.rpy#L172
 translate chinese musicstudio_95967d70:
 
     # claire "Yeah, you're right... Talk about a difficult situation."
-    claire ""
+    claire "没错，你是对的…聊聊这个麻烦的情况。"
 
 # game/city.rpy#L173
 translate chinese musicstudio_2e95a654:
 
     # claire "It's not like I can just tell my sister to stop her vulgar business, but it puts my career in education at risk."
-    claire ""
+    claire "我并不能告诉我姐姐停止她的粗俗生意，但这会危及我的教育事业。"
 
 # game/city.rpy#L177
 translate chinese musicstudio_af1664c0:
 
     # claire "The fuck was that?"
-    claire ""
+    claire "那他妈的是什么？"
 
 # game/city.rpy#L184
 translate chinese musicstudio_27fc0d98:
 
     # blossom "I-It just blew up!"
-    blossom ""
+    blossom "我靠-它爆炸了！"
 
 # game/city.rpy#L186
 translate chinese musicstudio_06ac3dfb:
 
     # melody "I knew this piece of shit was on its last legs."
-    melody ""
+    melody "我知道这傻逼东西快坏了。"
 
 # game/city.rpy#L190
 translate chinese musicstudio_22b768ee:
 
     # claire "Oh thank god, it was just the speaker blowing out."
-    claire ""
+    claire "哦谢天谢地，只是播放器的声音太大了。"
 
 # game/city.rpy#L192
 translate chinese musicstudio_36737945:
 
     # melody "It's not just that, the entire sound system went with it."
-    melody ""
+    melody "不仅仅是这样，整个音响系统都跟着它。"
 
 # game/city.rpy#L193
 translate chinese musicstudio_025297d7:
 
     # claire "Tch... But that was personal equipment! The college won't reimburse us!"
-    claire ""
+    claire "啧…但那个是个人装备！学校不会给我们报销的！"
 
 # game/city.rpy#L194
 translate chinese musicstudio_178ec454:
 
     # melody "Eh, don't look at us, we're just poor students. Music ones too, so we're especially poor."
-    melody ""
+    melody "呃，别看我们，我们只是穷学生，放音乐的那个也是，所以我们真的特别穷。"
 
 # game/city.rpy#L196
 translate chinese musicstudio_cabde5b5:
 
     # blossom "I-I'm really sorry Miss..."
-    blossom ""
+    blossom "我、我很抱歉，小姐…"
 
 # game/city.rpy#L197
 translate chinese musicstudio_7f48b642:
 
     # claire "It-It's my fault... Since this is my own unofficial equipment, it never received the required safety checks."
-    claire ""
+    claire "那、那是我的错…由于这是我自己的非官方设备，它从来没有按要求进行安全检查。"
 
 # game/city.rpy#L199
 translate chinese musicstudio_96ef4ded:
 
     # melody "It's not just your stuff Claire, the sound system belongs to the school and that still blew the fuck up."
-    melody ""
+    melody "不仅仅是你的东西，Claire，音响系统是学校的，它也搞砸了。"
 
 # game/city.rpy#L200
 translate chinese musicstudio_6b01e0b1:
 
     # claire "Ohh jeez... M-Maybe I should contact my sister..."
-    claire ""
+    claire "哦天哪…也许我应该联系我姐姐…"
 
 # game/city.rpy#L201
 translate chinese musicstudio_31541ac6:
 
     # "Claire looks at me for a moment, seems like she has a job for me."
-    ""
+    "Claire看了我一会儿，似乎她想给我什么任务。"
 
 # game/city.rpy#L204
 translate chinese musicstudio_955b05b1:
 
     # claire "I'll need some monies to get some spare equipment, but I can't just leave work right now."
-    claire ""
+    claire "我需要一些钱来买个备用设备，但是我现在不能离开我的工作岗位。"
 
 # game/city.rpy#L205
 translate chinese musicstudio_28dc8c2a:
 
     # claire "Can I entrust you to visit my sister and collect it? I'm going to send a magic mail to let her know you're coming."
-    claire ""
+    claire "我可以委托你去找我姐姐把钱取来吗？我要发封魔法邮件让她知道你要去。"
 
 # game/city.rpy#L207
 translate chinese musicstudio_0c8c31c9:
 
     # claire "You know I can't send anyone else..."
-    claire ""
+    claire "你知道我没法派其他任何人去…"
 
 # game/city.rpy#L208
 translate chinese musicstudio_2ca9a694:
 
     # mc "Sure thing, but she will give you the money right?"
-    mc ""
+    mc "当然可以，但是她会立刻给你钱吗？"
 
 # game/city.rpy#L210
 translate chinese musicstudio_222820ca:
 
     # claire "Yeah, she owes me one, now is a better time than ever for her to pay me back."
-    claire ""
+    claire "会的，她欠我一笔钱，这次是个好机会让她还钱了。"
 
 # game/city.rpy#L211
 translate chinese musicstudio_e9957fe8:
 
     # claire "And of course, you'll get something out of this too..."
-    claire ""
+    claire "当然，做完这件事你可以获得一些奖励。"
 
 # game/city.rpy#L212
 translate chinese musicstudio_c17ef8ec:
 
     # mc "What's that?"
-    mc ""
+    mc "那是什么？"
 
 # game/city.rpy#L214
 translate chinese musicstudio_2ae4bc82:
 
     # claire "How's 25 monies and a discount at the brothel?"
-    claire ""
+    claire "25块钱，并且以后来妓院给你打折，怎么样？"
 
 # game/city.rpy#L215
 translate chinese musicstudio_5d917481:
 
     # mc "Sounds great, I'll leave right now."
-    mc ""
+    mc "听起来不错，我会马上出发。"
 
 # game/city.rpy#L217
 translate chinese musicstudio_e23a4b5e:
 
     # claire "Perfect! Thank you so much [playername]!"
-    claire ""
+    claire "太好了！真谢谢你,[playername]!"
 
 # game/city.rpy#L224
 translate chinese musicstudio_309f9767:
 
     # "And so, somehow I've ended up visiting the suburbs spa for work."
-    ""
+    "所以，不知怎的，我到郊区的温泉浴场去了。"
 
 # game/city.rpy#L228
 translate chinese musicstudio_d3bcf2d7:
 
     # greymare "Good morning sir, please take a look at our menu and- !!!"
-    greymare ""
+    greymare "早上好先生，请看看我们的菜单还有——！！！"
 
 # game/city.rpy#L229
 translate chinese musicstudio_95103c47:
 
     # mc "Well, well, you really do look a lot like your sister."
-    mc ""
+    mc "好，好，你看起来真像你妹妹。"
 
 # game/city.rpy#L231
 translate chinese musicstudio_270bf392:
 
     # greymare "You're [playername] right? I just got that magic mail."
-    greymare ""
+    greymare "你是 [playername] 吗？我刚收到了一份魔法邮件。"
 
 # game/city.rpy#L232
 translate chinese musicstudio_2dec5729:
 
     # mc "Heh, yeah. Sorry about the trouble, but there's been an incident."
-    mc ""
+    mc "嘿，是的。抱歉给你添麻烦了，出了点事。"
 
 # game/city.rpy#L234
 translate chinese musicstudio_8e12edcf:
 
     # greymare "It's no trouble at all [playername], please follow me."
-    greymare ""
+    greymare "一点也不麻烦 [playername]，请跟我来。"
 
 # game/city.rpy#L237
 translate chinese musicstudio_968da850:
 
     # "The mare leads me through a staff only door and up a flight of stairs. We end up in a bedroom of all things. This building is pretty similar to the boutique."
-    ""
+    "这匹母马领着我穿过一扇员工专用的门，爬上一段楼梯。最后我们在一间卧室里。这座大楼和那家精品店很相似。"
 
 # game/city.rpy#L240
 translate chinese musicstudio_7ee2f4a8:
 
     # greymare "The name's Tavi by the way. I don't usually work on a first name basis with customers, but I already know your name, so there's no harm."
-    greymare ""
+    greymare "顺便说一下，我叫Tavi。我通常不以客户的名字为基础工作，但我已经知道你的名字了，所以没什么坏处。"
 
 # game/city.rpy#L241
 translate chinese musicstudio_003c8621:
 
     # mc "It's always nice having a name to moan while you're serving me."
-    mc ""
+    mc "当你为我服务的时候，有名字吟叫总是很好的。"
 
 # game/city.rpy#L243
 translate chinese musicstudio_cbaca16e:
 
     # greymare "Hehe... I'm just going to count some money out for Claire, and your extra."
-    greymare ""
+    greymare "呵呵…我要数一些钱给Claire，还有你额外的钱。"
 
 # game/city.rpy#L244
 translate chinese musicstudio_bed326f7:
 
     # greymare "But there's one small problem regarding your 'bonus'."
-    greymare ""
+    greymare "但是你的“奖金”有个小问题。"
 
 # game/city.rpy#L245
 translate chinese musicstudio_c17ef8ec_1:
 
     # mc "What's that?"
-    mc ""
+    mc "那是什么？"
 
 # game/city.rpy#L247
 translate chinese musicstudio_70411098:
 
     # greymare "Claire said you wanted a discount at the spa, but [playername]... You already have a two for one discount here, remember?"
-    greymare ""
+    greymare "Claire说你想在水疗中心打折，但是 [playername]... 你在这里已经有二对一的优惠了，记得吗？"
 
 # game/city.rpy#L248
 translate chinese musicstudio_8ed17ffb:
 
     # mc "Oh yeah... If I buy one service, both you and your girlfriend will do it. Quite the bargain."
-    mc ""
+    mc "哦，是的……如果我要一份服务，你和你女朋友都会给我做，很划算。"
 
 # game/city.rpy#L249
 translate chinese musicstudio_f3330acb:
 
     # greymare "Yup, we usually spend all day massaging and performing services on other mares. You're the only interspecies male customer we have!"
-    greymare ""
+    greymare "是的，我们通常花一整天的时间给其他母马按摩和服务。你是我们唯一的异种男性顾客！"
 
 # game/city.rpy#L250
 translate chinese musicstudio_69c73266:
 
     # greymare "Sure we get one or two stallions a month, but stallions... well... they ejaculate {i}really{/i} quickly. So my girlfriend and I practically jump at the chance to have fun with you."
-    greymare ""
+    greymare "当然我们每个月能买到一两匹种马，但是种马……好吧……他们射得很快。所以我和我女朋友觉得和你玩得更开心。"
 
 # game/city.rpy#L251
 translate chinese musicstudio_eb76ecac:
 
     # mc "Ooohhh... Don't worry about a 'bonus' then. You do enough for me."
-    mc ""
+    mc "哦……那就不用担心“奖金”了。你为我做的够多了。"
 
 # game/city.rpy#L253
 translate chinese musicstudio_c71d3e7e:
 
     # greymare "Actually, I had another idea. How about a free 'visit' ticket?"
-    greymare ""
+    greymare "实际上，我有另一个主意。免费‘参观’票怎么样？"
 
 # game/city.rpy#L255
 translate chinese musicstudio_4fc62c60:
 
     # mc "A free visit to the spa? Sure, I don't mind something like that."
-    mc ""
+    mc "免费参观温泉？当然，我不介意这样的事。"
 
 # game/city.rpy#L256
 translate chinese musicstudio_4d1af970:
 
     # greymare "Hehehe, excellent! My sister isn't expecting you back immediately, is she?"
-    greymare ""
+    greymare "哈哈哈，太好了！我妹妹不指望你马上回来，是吗？"
 
 # game/city.rpy#L257
 translate chinese musicstudio_882bf61b:
 
     # mc "I suppose not, are you implying what I think?"
-    mc ""
+    mc "我觉得并不是，你是在暗示我的想法吗？"
 
 # game/city.rpy#L259
 translate chinese musicstudio_1cd20d54:
 
     # greymare "Hehe, how about we redeem that ticket right now? Lay down on the bed for me."
-    greymare ""
+    greymare "呵呵，我们现在就把票用掉怎么样？给我躺在床上。"
 
 # game/city.rpy#L260
 translate chinese musicstudio_1962c22a:
 
     # "She really wasn't kidding when she said she would practically jump at the chance to have fun with me..."
-    ""
+    "她说她会很快就抓住机会和我玩的时候，她真的不是在开玩笑……"
 
 # game/city.rpy#L261
 translate chinese musicstudio_b69a65cb:
 
     # "Well, I'm not one to turn down a free 'spa treatment'."
-    ""
+    "嗯，我可不是那种拒绝免费“水疗”的人。"
 
 # game/city.rpy#L266
 translate chinese musicstudio_876858b9:
 
     # "Softly laying me down with her delicate touch, she straddles my waist and gives me an immediate view of her incredibly sexy rear."
-    ""
+    "她轻轻地抚摸着我，跨过我的腰，让我立马看到她那令人难以置信的性感美臀。"
 
 # game/city.rpy#L267
 translate chinese musicstudio_0dd402d7:
 
     # greymare "The two for one deal means I haven't had a chance to enjoy you all for myself."
-    greymare ""
+    greymare "两对一的交易意味着我没有机会独享你。"
 
 # game/city.rpy#L268
 translate chinese musicstudio_fb0c358d:
 
     # mc "Isn't this cheating?"
-    mc ""
+    mc "这不是作弊吗？"
 
 # game/city.rpy#L269
 translate chinese musicstudio_a79abab7:
 
     # greymare "Tch, please... My girlfriend and I work in an 'erotic' spa, we have an open relationship."
-    greymare ""
+    greymare "啧，别这样……我女朋友和我在一家“色情”水疗中心服务，我们的关系很开放。"
 
 # game/city.rpy#L270
 translate chinese musicstudio_dc4bbfc2:
 
     # greymare "That way I can get the dick I crave too, hehe."
-    greymare ""
+    greymare "这样我也能得到我渴望的鸡巴，呵呵。"
 
 # game/city.rpy#L271
 translate chinese musicstudio_b1d31014:
 
     # "Damn this mare is horny! She must work in the spa purely because she enjoys it."
-    ""
+    "该死的，这母马真性感！她在水疗中心工作纯粹是因为她喜欢那里。"
 
 # game/city.rpy#L272
 translate chinese musicstudio_3dc77a95:
 
     # "I wonder if Claire has this kind of libido too? Considering she calls this spa a brothel in a derogatory way, I'm not so sure."
-    ""
+    "我想知道Claire是否也有这种性欲？考虑到她用贬义的方式称这家温泉浴场为妓院，我不太确定。"
 
 # game/city.rpy#L275
 translate chinese musicstudio_d65b80b3:
 
     # "Before I can finish my thought Tavi takes my cock in her soft furry grip, aligns it with her moist pussy and sinks down onto it."
-    ""
+    "可在我还没有停止思索时，Tavi一把将我的肉棒握在了她那柔软而毛绒绒的手里，然后将它插入了自己的阴道。"
 
 # game/city.rpy#L276
 translate chinese musicstudio_ce1416ca:
 
     # greymare "Ahhh, ahh... That hits the spot..."
-    greymare ""
+    greymare "啊，哦…插得好深…"
 
 # game/city.rpy#L277
 translate chinese musicstudio_21d51492:
 
     # mc "You mares really are like addicts, huh?"
-    mc ""
+    mc "你们母马真的像犯鸡巴瘾了，蛤？"
 
 # game/city.rpy#L278
 translate chinese musicstudio_96b2b8ae:
 
     # greymare "Oh shush you, you're the one that agreed to do this for a 'brothel discount' so I don't think you're in a position to judge."
-    greymare ""
+    greymare "噢，你闭嘴，你是那个同意做这件事的“妓院折扣”的人，所以我认为你没有资格评判。"
 
 # game/city.rpy#L280
 translate chinese musicstudio_7e2bfa54:
 
     # "*Squish, squish*"
-    ""
+    "*挤，挤*"
 
 # game/city.rpy#L281
 translate chinese musicstudio_f0445a37:
 
     # "She raises her hips once more, before slowly bringing her ass down once again. Slowly, like a massage to the cock, she savours each movement."
-    ""
+    "她再次抬起臀部，然后又慢慢地把屁股放下来。慢慢地，就像给肉棒按摩一样，她品味着每一个动作。"
 
 # game/city.rpy#L282
 translate chinese musicstudio_51976887:
 
     # "Her insides mold around my cock, squeezing tightly around my shaft as we make love. Her nether lips particularly gripping tightly with each movement upwards."
-    ""
+    "她里面变成了我肉棒的形状，在我们做爱时紧紧地包裹着我的阴茎。每次上下抽插时她阴唇特别紧实，"
 
 # game/city.rpy#L283
 translate chinese musicstudio_a0a394a3:
 
     # greymare "Ahhh, mmmmphh... I don't get nearly enough male customers, mmmhh..."
-    greymare ""
+    greymare "啊，嗯……我没有那么多的男性顾客，嗯～"
 
 # game/city.rpy#L284
 translate chinese musicstudio_d9e2b019:
 
     # "Moans of pleasure escape her lips and a warm feeling spreads throughout my body as her sensual fucking relaxes my mind."
-    ""
+    "快乐的呻吟从她的嘴唇里消失了，一种温暖的感觉在我的身体里蔓延，因为她那性感的身体让我的头脑放松。"
 
 # game/city.rpy#L285
 translate chinese musicstudio_10b82d98:
 
     # "She truly is an excellent masseuse, even in this lustful scenario her movements are practiced and designed to maximise pleasure and relaxation."
-    ""
+    "她真的是一个优秀的按摩师，即使在这种情欲的情况下，她精心设计的动作可以让人的最大限度地愉悦和放松。"
 
 # game/city.rpy#L286
 translate chinese musicstudio_26ae9404:
 
     # "I may not be as sensual and loving as her, but I decide to return some of Tavi's thrusts with my own passion filled ones."
-    ""
+    "我可能没有她那么感性和充满爱意，但我决定用我自己充满激情的身体来回报Tavi的一些努力。"
 
 # game/city.rpy#L287
 translate chinese musicstudio_9faeb2c9:
 
     # greymare "Ohh, f-fuck! Ahh, ahhh, aaaahhhh! Y-You're supposed to let me - aaahhh!"
-    greymare ""
+    greymare "哦，操！啊，啊，啊！你要让我去——呃啊啊啊！"
 
 # game/city.rpy#L288
 translate chinese musicstudio_9a7e5bd4:
 
     # "The two of us move in unison as the rutting intensifies and her moans grow louder, only further enticing me and my fervent fucking."
-    ""
+    "随着活塞运动的加剧，她的呻吟声越来越大，我们两个齐心协力，越来越激发出我的热情。"
 
 # game/city.rpy#L289
 translate chinese musicstudio_43a8ea95:
 
     # greymare "Ahhh mmmhh, fuck me harder [playername]! This is the best cock I've had in years! Ahhh, ahh!"
-    greymare ""
+    greymare "啊，嗯，他妈的再用力一点[playername]！这是我这几年遇到的最棒的鸡巴！啊，啊！"
 
 # game/city.rpy#L290
 translate chinese musicstudio_86a71312:
 
     # "The grey mare soon begins to orgasm causing her pussy to contract rhythmically around my cock, further enhancing the pleasure."
-    ""
+    "灰色的母马很快进入高潮，她的鲍鱼在我的鸡巴周围有节奏地收缩，进一步增强了快感。"
 
 # game/city.rpy#L291
 translate chinese musicstudio_4ff11b54:
 
     # "Soon after her own, I feel my climax begin to rapidly rise. I rapidly thrust my cock into her pussy as I push myself over the edge."
-    ""
+    "在她达到高潮后，我感觉自己也要高潮了。所以，我又迅速将肉棒插进了她的阴道。"
 
 # game/city.rpy#L296
 translate chinese musicstudio_bff658e9:
 
     # "My orgasm is soon unleashed as my cock explodes into Tavi, her pussy taking in each and every drop of my thick cum."
-    ""
+    "当我将肉棒插进Tavi的阴道时，我高潮了。浓稠的精液射满了她的阴道。"
 
 # game/city.rpy#L301
 translate chinese musicstudio_f3055d86:
 
     # "Tavi finishes me off not as a sensual masseuse, but as a lustful mare trying to drain my cock of all the pleasure she can."
-    ""
+    "Tavi之所以这么做，并不是因为她是一名性按摩师，而是因为这匹欲火焚身的小母马想把我的精液全部榨干。"
 
 # game/city.rpy#L302
 translate chinese musicstudio_88b5721f:
 
     # greymare "Yesss, yess! Aahhh, ahh! *Squish, squelch!*"
-    greymare ""
+    greymare "嗯，没错！啊，啊！（挤，挤）"
 
 # game/city.rpy#L305
 translate chinese musicstudio_ab61b9e7:
 
     # "Cum oozes from our point of connection as she comes to a stop."
-    ""
+    "当她停止了扭动，站起身时，精液便从她的阴道口流了出来。"
 
 # game/city.rpy#L306
 translate chinese musicstudio_caa256df:
 
     # greymare "Haahh... Phew... I never get to go all out like that with a customer..."
-    greymare ""
+    greymare "哈……咳……能和你干得这么尽兴，我很高兴……"
 
 # game/city.rpy#L310
 translate chinese musicstudio_2af83c75:
 
     # greymare "That was a good fuck! If you want it again though, I'll have to charge, ehehe."
-    greymare ""
+    greymare "你的技术真好！如果你想再做一次，我得收费，呃。"
 
 # game/city.rpy#L311
 translate chinese musicstudio_54ff1c0f:
 
     # mc "It's strange how the one time it's free you get to enjoy it the most."
-    mc ""
+    mc "奇怪的是，白嫖才是最爽的。"
 
 # game/city.rpy#L313
 translate chinese musicstudio_7f723c91:
 
     # greymare "Mmm, true... If you pay, you're getting a professional service so I can't focus on my own pleasure. It's not the same as fucking for fun."
-    greymare ""
+    greymare "嗯，真的……如果你付钱，我会给你更专业的服务，我不会专注于我自己的乐趣。这和玩乐做爱不一样。"
 
 # game/city.rpy#L315
 translate chinese musicstudio_77f53c1f:
 
     # greymare "But my business {i}is{/i} sex and erotic services, I can't just give that away for free! *Giggle*"
-    greymare ""
+    greymare "但我的生意就{i}是{/i}做爱和色情服务，我不能只是让你白嫖*咯咯笑*"
 
 # game/city.rpy#L316
 translate chinese musicstudio_6cf5cf73:
 
     # mc "Well, I always have your sister."
-    mc ""
+    mc "好吧，我一直都有你妹妹。"
 
 # game/city.rpy#L318
 translate chinese musicstudio_8c1c6de2:
 
     # greymare "W-Wha? You devil!"
-    greymare ""
+    greymare "什么？你这个臭流氓！"
 
 # game/city.rpy#L319
 translate chinese musicstudio_79558377:
 
     # greymare "Fine, I get it... I had a lot of fun too..."
-    greymare ""
+    greymare "好吧，我明白了……我也有很多乐子……"
 
 # game/city.rpy#L321
 translate chinese musicstudio_f6bbd59a:
 
     # greymare "I can make you a special customer, just ask me for a 'special' when you arrive. I'll bring you in here and we can forget the spa and just fuck for fun."
-    greymare ""
+    greymare "我可以让你成为一个特别的顾客，只要你到了就点特殊服务。我会带你到这里，我们可以忘记温泉spy，只是为了好玩。"
 
 # game/city.rpy#L323
 translate chinese musicstudio_ca1f4c50:
 
     # greymare "D-Don't tell my girlfriend though! She'd be so mad if she found out I was... y-yeah..."
-    greymare ""
+    greymare "别告诉我女朋友！如果她发现我是……是的……"
 
 # game/city.rpy#L324
 translate chinese musicstudio_02a3d165:
 
     # mc "Are you sure you want to make me a special customer?"
-    mc ""
+    mc "你确定你想让我成为你特殊顾客吗？"
 
 # game/city.rpy#L326
 translate chinese musicstudio_82ffe31d:
 
     # greymare "*Sigh*. You can't imagine how horny I get having to pleasure other people for up to six hours a day without a chance to get myself off."
-    greymare ""
+    greymare "*叹息*。你无法想象我每天要取悦别人长达六个小时却没有机会放松自己，我有多么饥渴。"
 
 # game/city.rpy#L328
 translate chinese musicstudio_60332b5f:
 
     # greymare "I should be the one paying you."
-    greymare ""
+    greymare "我才是应该报答的人。"
 
 # game/city.rpy#L329
 translate chinese musicstudio_cd8e3c1e:
 
     # mc "Don't gimme any ideas, hah!"
-    mc ""
+    mc "别给我任何想法，哈哈！"
 
 # game/city.rpy#L331
 translate chinese musicstudio_ffee81f9:
 
     # greymare "Tch, you really are the devil. Here, take Claire's money."
-    greymare ""
+    greymare "啧，你真是个混蛋。给，拿着Claire的钱。"
 
 # game/city.rpy#L333
 translate chinese musicstudio_3d5e970a:
 
     # greymare "And if you're going to seduce her too, well... I don't wanna hear about it!"
-    greymare ""
+    greymare "如果你也要勾引她……我可不想知道这种事！"
 
 # game/city.rpy#L334
 translate chinese musicstudio_c171f317:
 
     # mc "Thanks Tavi, I'll be seeing you."
-    mc ""
+    mc "谢谢你Tavi，我们会再见面的。"
 
 # game/city.rpy#L335
 translate chinese musicstudio_d98d734a:
 
     # greymare "I'll be looking forward to it, [playername]."
-    greymare ""
+    greymare "我很期待，[playername]。"
 
 # game/city.rpy#L337
 translate chinese musicstudio_a20cefa7:
 
     # "..."
-    ""
+    "…"
 
 # game/city.rpy#L340
 translate chinese musicstudio_b300ec67:
 
     # claire "Thank goodness you're here, this is definitely enough money to cover the school's hardware I accidentally fried."
-    claire ""
+    claire "谢天谢地你来了，这些钱绝对足够赔偿我不小心炸坏的学校的硬件。"
 
 # game/city.rpy#L341
 translate chinese musicstudio_7045026b:
 
     # claire "Although I'll still need to buy replacements of my own things out of my savings."
-    claire ""
+    claire "但是我仍然需要花自己的积蓄来买一件我设备的替代品。"
 
 # game/city.rpy#L342
 translate chinese musicstudio_9382cc35:
 
     # mc "Where are the girls?"
-    mc ""
+    mc "女孩们在哪里？"
 
 # game/city.rpy#L343
 translate chinese musicstudio_06e588d5:
 
     # claire "Hm? They're out to lunch right now, you did take quite a while considering it's only a thirty minute walk."
-    claire ""
+    claire "哈？她们刚刚出去吃午饭了，考虑到步行只需三十分钟，你确实花了不少时间。"
 
 # game/city.rpy#L344
 translate chinese musicstudio_487c7873:
 
     # mc "Sorry about that, I took a break at the spa."
-    mc ""
+    mc "不好意思啊，我在水疗中心里休息了一下。"
 
 # game/city.rpy#L346
 translate chinese musicstudio_3c53e424:
 
     # claire "A {i}break{/i}? At the brothel?"
-    claire ""
+    claire "{i}休息{/i}？在妓院？"
 
 # game/city.rpy#L347
 translate chinese musicstudio_d6a7455a:
 
     # mc "Ah, get your mind out the gutter, I went upstairs and spoke with Tavi personally."
-    mc ""
+    mc "啊，把你的心从排水沟里拿出来，我上楼亲自和Tavi谈过了。"
 
 # game/city.rpy#L349
 translate chinese musicstudio_01d48ab9:
 
     # claire "Ohh, right... It was wrong of me to assume!"
-    claire ""
+    claire "哦哦，是的。。。我的假设错了！"
 
 # game/city.rpy#L351
 translate chinese musicstudio_594e45db:
 
     # claire "Still, I've been thinking... You already knew my sister before you met me."
-    claire ""
+    claire "不过我一直在想....在你遇见我之前你已经认识我妹妹了"
 
 # game/city.rpy#L352
 translate chinese musicstudio_72bd8116:
 
     # claire "What would a man like you be doing at a place like that?"
-    claire ""
+    claire "像你这样的男人在那种地方会想要做什么？"
 
 # game/city.rpy#L353
 translate chinese musicstudio_d52be1b7:
 
     # mc "Is there something wrong with that?"
-    mc ""
+    mc "有啥问题吗？"
 
 # game/city.rpy#L354
 translate chinese musicstudio_9c227d7d:
@@ -1023,7 +1023,7 @@ translate chinese musicstudio_9c227d7d:
 translate chinese musicstudio_ba10778b:
 
     # "Uhm, awkward."
-    ""
+    "emm，有点尴尬。"
 
 # game/city.rpy#L356
 translate chinese musicstudio_f9d143c2:
@@ -1047,7 +1047,7 @@ translate chinese musicstudio_03a1a70e:
 translate chinese musicstudio_b43dd787:
 
     # mc "Is that her girlfriend?"
-    mc ""
+    mc "那是她女票吗？"
 
 # game/city.rpy#L361
 translate chinese musicstudio_64332176:
@@ -1071,7 +1071,7 @@ translate chinese musicstudio_4ee80670:
 translate chinese musicstudio_384d6268:
 
     # blossom "Did you go to get help?"
-    blossom ""
+    blossom "你去寻求帮助了吗？"
 
 # game/city.rpy#L372
 translate chinese musicstudio_4a32bb03:
@@ -1089,13 +1089,13 @@ translate chinese musicstudio_f4245d33:
 translate chinese musicstudio_68c413d2:
 
     # mc "No worries Blossom, I got paid."
-    mc ""
+    mc "不用担心，Blossom。我付钱了的。"
 
 # game/city.rpy#L377
 translate chinese musicstudio_3dfc3ecc:
 
     # melody "Oh really?"
-    melody ""
+    melody "哦，真的吗？"
 
 # game/city.rpy#L380
 translate chinese musicstudio_6c6c5c73:
@@ -1113,7 +1113,7 @@ translate chinese musicstudio_c21c7dc3:
 translate chinese musicstudio_5fca4469:
 
     # melody "No way, the pink ones are the best!"
-    melody ""
+    melody "不行，粉色的这个是最好的！"
 
 # game/city.rpy#L384
 translate chinese musicstudio_700aff3e:
@@ -1125,13 +1125,13 @@ translate chinese musicstudio_700aff3e:
 translate chinese musicstudio_ffe85b17:
 
     # blossom "You're so boring, miss!"
-    blossom ""
+    blossom "你狠无聊诶，小姐！"
 
 # game/city.rpy#L388
 translate chinese musicstudio_01edf018:
 
     # mc "Looks like my job here is done."
-    mc ""
+    mc "看起来我在这的任务已经做完了。"
 
 # game/city.rpy#L390
 translate chinese musicstudio_b842891e:
@@ -1251,13 +1251,13 @@ translate chinese musicstudio_f85f14b2:
 translate chinese musicstudio_a20cefa7_1:
 
     # "..."
-    ""
+    "。。。"
 
 # game/city.rpy#L422
 translate chinese musicstudio_6e0c2ade:
 
     # "A music studio? Seems to be part of a local college."
-    ""
+    "音乐工作室？似乎是一个本地大学的一部分。"
 
 # game/city.rpy#L423
 translate chinese musicstudio_266d87a2:
@@ -3513,13 +3513,13 @@ translate chinese agathasoniathreesome_ce617998_1:
 translate chinese agathasoniathreesome2_26b7bd1d:
 
     # "I spy Agatha and Sonia... Although, now I know that they're sisters..."
-    ""
+    "我监视Agatha和Sonia……即使现在我知道她们是姐妹……"
 
 # game/city.rpy#L1587
 translate chinese agathasoniathreesome2_3f78d658:
 
     # "Sisters that made out, caressed each other's breasts, rubbed their pussies."
-    ""
+    "互相亲热的小妞们，爱抚着对方的奶子，揉弄着她们的下体。"
 
 # game/city.rpy#L1588
 translate chinese agathasoniathreesome2_b38d9720:
@@ -3555,7 +3555,7 @@ translate chinese agathasoniathreesome2_f0016bb5:
 translate chinese agathasoniathreesome2_3882041e:
 
     # mc "Ahh, uhh... Okay!"
-    mc ""
+    mc "啊呜…好！"
 
 # game/city.rpy#L1602
 translate chinese agathasoniathreesome2_ce617998:
@@ -3585,7 +3585,7 @@ translate chinese agathasoniathreesome2_a608f928:
 translate chinese agathasoniathreesome2_077dfd3d:
 
     # "God damn, Agatha has a voluptuous ass, I’ve been eyeing it up all night."
-    ""
+    "妈的，Agatha有个性感的丰臀，我整晚都在盯着它看。"
 
 # game/city.rpy#L1611
 translate chinese agathasoniathreesome2_a3436ed5:
@@ -3603,7 +3603,7 @@ translate chinese agathasoniathreesome2_e4a7d11d:
 translate chinese agathasoniathreesome2_370a1467:
 
     # "From the moment we started mingling, their intentions with me became obvious. It’s as if I had sealed my fate from the moment I said I'd hang out with them…"
-    ""
+    "从我们开始交往的那一刻起，他们和我的意图就变得显而易见了。好像从我说要和他们在一起的那一刻起我就注定了自己的命运…"
 
 # game/city.rpy#L1615
 translate chinese agathasoniathreesome2_63dcbc4d:
@@ -3615,7 +3615,7 @@ translate chinese agathasoniathreesome2_63dcbc4d:
 translate chinese agathasoniathreesome2_0e22311f:
 
     # sonia "Mm… But I’m really horny too…"
-    sonia ""
+    sonia "嗯…但我也很性感…"
 
 # game/city.rpy#L1617
 translate chinese agathasoniathreesome2_47fbe484:
@@ -3639,7 +3639,7 @@ translate chinese agathasoniathreesome2_95de36d5:
 translate chinese agathasoniathreesome2_383a3d49:
 
     # "Unable to wait, I stumble towards the most easily accessible fuckable object. Ultimately prodding the tip of my cock against Agatha’s juicy labia."
-    ""
+    "迫不及待，我跌跌撞撞地走向最容易接近的东西。最后用我的龟头捅到了Agathe水汪汪的阴唇。"
 
 # game/city.rpy#L1621
 translate chinese agathasoniathreesome2_706d6cea:
@@ -3681,7 +3681,7 @@ translate chinese agathasoniathreesome2_fdfc8a82:
 translate chinese agathasoniathreesome2_0fb28770:
 
     # "The sisters get increasingly touchy with each other as their hands caress anything they can get a hold of."
-    ""
+    "俩姐妹在抚摸任何能抓住的东西时，彼此变得越来越敏感。"
 
 # game/city.rpy#L1632
 translate chinese agathasoniathreesome2_f8a6384e:
@@ -3699,13 +3699,13 @@ translate chinese agathasoniathreesome2_43a91e75:
 translate chinese agathasoniathreesome2_04d77f5a:
 
     # "Or I'm overthinking. Either way, it's fucking hot."
-    ""
+    "或者我想得太多了。不管怎样，这儿都他妈很热。"
 
 # game/city.rpy#L1636
 translate chinese agathasoniathreesome2_23696fd7:
 
     # agatha "Ahhh, you’re gonna make me come! Rub my clit, Sonia! Ahh."
-    agatha ""
+    agatha "啊，你要让我高潮了！揉我的小豆子，Sonia！啊。"
 
 # game/city.rpy#L1637
 translate chinese agathasoniathreesome2_ff6c24ec:
@@ -3717,7 +3717,7 @@ translate chinese agathasoniathreesome2_ff6c24ec:
 translate chinese agathasoniathreesome2_1df302b4:
 
     # "Sonia instead teases her sensitive nipples, as Agi’s hips buck faster; her moans becoming louder and almost squeaky."
-    ""
+    "Sonia转而挑逗她敏感的乳头，因为Agi的臀部跳得更快；她的呻吟声越来越大，几乎短促尖叫起来。"
 
 # game/city.rpy#L1639
 translate chinese agathasoniathreesome2_de1f9911:
@@ -3735,7 +3735,7 @@ translate chinese agathasoniathreesome2_d4e48671:
 translate chinese agathasoniathreesome2_1f99b173:
 
     # agatha "Ayyyahhhh! S-Such intensity, aaaaaahhh! I’ll let you cum in me, so fill me up, you sexy bastard!"
-    agatha ""
+    agatha "嗯~嗯~嗯~呃啊！好、好猛啊，啊啊啊！我要让你射在我里面。填满我~你个性感的混蛋！"
 
 # game/city.rpy#L1642
 translate chinese agathasoniathreesome2_cff421a1:
@@ -3759,7 +3759,7 @@ translate chinese agathasoniathreesome2_649bfe01:
 translate chinese agathasoniathreesome2_3a83ec51:
 
     # "Finally like a pressurized tank being released, my cock ejaculates many thick loads of hot cum into the pink mare."
-    ""
+    "最后，我的cock像一个被释放的高压水枪一样，向这匹粉红骚马喷射出大量炽热的精液。"
 
 # game/city.rpy#L1654
 translate chinese agathasoniathreesome2_beb5b460:
@@ -3783,19 +3783,19 @@ translate chinese agathasoniathreesome2_c5dda5ce:
 translate chinese agathasoniathreesome2_063b1723:
 
     # "It took us a while to recover, but Agatha and I were still horny and rearing to go; I pounded Sonia's plump pussy while Agatha sat on her face."
-    ""
+    "我们花了一段时间才恢复过来，但Agatha和我仍然性欲旺盛，准备再来一次；当Agatha坐在Sonia的脸上时，我拍了拍她丰满的阴部。"
 
 # game/city.rpy#L1666
 translate chinese agathasoniathreesome2_23ca60fc:
 
     # "After three more well enjoyed orgasms, we slept like a bundle of rocks."
-    ""
+    "又享受了三次高潮之后，我们睡得像一捆石头。"
 
 # game/city.rpy#L1669
 translate chinese agathasoniathreesome2_076f9ba3:
 
     # "By the time it was morning..."
-    ""
+    "等到早上的时候。。。"
 
 # game/city.rpy#L1673
 translate chinese agathasoniathreesome2_869e1961:
@@ -3837,7 +3837,7 @@ translate chinese agathasoniathreesome2_b77ea1b7:
 translate chinese agathasoniathreesome2_03604a08:
 
     # mc "Uhm, could you jog my memory? I have some morning brain fog."
-    mc ""
+    mc "嗯，你能唤起我的记忆吗？我早上脑子有点懵。"
 
 # game/city.rpy#L1680
 translate chinese agathasoniathreesome2_7b16dea2:
@@ -3861,13 +3861,13 @@ translate chinese agathasoniathreesome2_a3cf7712:
 translate chinese agathasoniathreesome2_3a3e234c:
 
     # "I gotta say, I'm impressed drunk me had the stamina. Kudos."
-    ""
+    "我得说，喝完酒后我更有持久力。"
 
 # game/city.rpy#L1685
 translate chinese agathasoniathreesome2_146f3b16:
 
     # "After talking with Ari to trace back my memories, I returned home."
-    ""
+    "在和Ari聊了几句追忆往事之后，我回到了家。"
 
 # game/city.rpy#L1691
 translate chinese honeycrisprubythreesome_a98901d5:
@@ -7299,67 +7299,67 @@ translate chinese strings:
 
     # game/city.rpy_L13_0
     old "Where should I go?"
-    new ""
+    new "我该去往哪里？"
 
     # game/city.rpy_L13_1
     old "Art Gallery"
-    new ""
+    new "美术馆"
 
     # game/city.rpy_L13_2
     old "Nightclub"
-    new ""
+    new "夜总会"
 
     # game/city.rpy_L13_3
     old "Church"
-    new ""
+    new "教堂"
 
     # game/city.rpy_L464_0
     old "Accept"
-    new ""
+    new "同意"
 
     # game/city.rpy_L464_1
     old "Refuse"
-    new ""
+    new "拒绝"
 
     # game/city.rpy_L487_0
     old "Listen to Music"
-    new ""
+    new "听音乐"
 
     # game/city.rpy_L487_1
     old "Fix Melody's laptop (-150 Monies)"
-    new ""
+    new "修理Melody的笔记本电脑（-150元）"
 
     # game/city.rpy_L497_0
     old "Talk about Claire"
-    new ""
+    new "聊聊关于Claire的事"
 
     # game/city.rpy_L497_1
     old "Talk about Melody and Blossom"
-    new ""
+    new "聊聊关于Melody和Blossom的事"
 
     # game/city.rpy_L497_2
     old "Talk about Teaching Music"
-    new ""
+    new "聊聊关于音乐教学的事"
 
     # game/city.rpy_L562_0
     old "Claire"
-    new ""
+    new "Claire"
 
     # game/city.rpy_L717_0
     old "Day Theme"
-    new ""
+    new "白昼主题曲"
 
     # game/city.rpy_L717_1
     old "Wagon Theme"
-    new ""
+    new "篷车主题曲"
 
     # game/city.rpy_L717_2
     old "Boutique Theme"
-    new ""
+    new "精品店主题曲"
 
     # game/city.rpy_L717_3
     old "Farm Theme"
-    new ""
+    new "农场主题曲"
 
     # game/city.rpy_L720_0
     old "Currently listening to That's One Sly Cat - Artificial Music."
@@ -7367,7 +7367,7 @@ translate chinese strings:
 
     # game/city.rpy_L720_1
     old "Stop"
-    new ""
+    new "暂停"
 
     # game/city.rpy_L727_0
     old "Currently listening to Abstract Foilage - Artificial Music."
@@ -7383,11 +7383,11 @@ translate chinese strings:
 
     # game/city.rpy_L750_0
     old "Day Theme 1"
-    new ""
+    new "白昼主题曲 1"
 
     # game/city.rpy_L750_1
     old "Day Theme 2"
-    new ""
+    new "白昼主题曲 2"
 
     # game/city.rpy_L759_0
     old "Currently listening to Stuck in the Machine - NO MIC."
@@ -7399,27 +7399,27 @@ translate chinese strings:
 
     # game/city.rpy_L786_0
     old "Butters' Theme"
-    new ""
+    new "Butters主题曲"
 
     # game/city.rpy_L786_1
     old "Lily's Theme"
-    new ""
+    new "Lily主题曲"
 
     # game/city.rpy_L786_2
     old "Melody's Theme"
-    new ""
+    new "Melody主题曲"
 
     # game/city.rpy_L786_3
     old "Castle Theme"
-    new ""
+    new "城堡主题曲"
 
     # game/city.rpy_L786_4
     old "Danger!"
-    new ""
+    new "危险！"
 
     # game/city.rpy_L786_5
     old "Page 3 ->"
-    new ""
+    new "第3页 ->"
 
     # game/city.rpy_L789_0
     old "Currently listening to Before you Fall Asleep - Jhove"
@@ -7443,15 +7443,15 @@ translate chinese strings:
 
     # game/city.rpy_L829_0
     old "Music Studio Theme"
-    new ""
+    new "音乐工作室主题曲"
 
     # game/city.rpy_L829_1
     old "Melody Sex Theme"
-    new ""
+    new "Melody性爱主题曲"
 
     # game/city.rpy_L829_2
     old "Night Theme"
-    new ""
+    new "黑夜主题曲"
 
     # game/city.rpy_L829_3
     old "Intense"
@@ -7459,15 +7459,15 @@ translate chinese strings:
 
     # game/city.rpy_L829_4
     old "Cindy's Theme"
-    new ""
+    new "Cindy主题曲"
 
     # game/city.rpy_L829_5
     old "<- Page 2"
-    new ""
+    new "<- 第2页"
 
     # game/city.rpy_L829_6
     old "Page 4 ->"
-    new ""
+    new "第4页 ->"
 
     # game/city.rpy_L832_0
     old "Currently listening to inpeace - Sewerslvt"
@@ -7491,15 +7491,15 @@ translate chinese strings:
 
     # game/city.rpy_L871_0
     old "Sad Theme 1"
-    new ""
+    new "伤感主题曲 1"
 
     # game/city.rpy_L871_1
     old "Sad Theme 2"
-    new ""
+    new "伤感主题曲 2"
 
     # game/city.rpy_L871_2
     old "Library Theme"
-    new ""
+    new "图书馆主题曲"
 
     # game/city.rpy_L871_3
     old "Comedy"
@@ -7511,11 +7511,11 @@ translate chinese strings:
 
     # game/city.rpy_L871_5
     old "<- Page 3"
-    new ""
+    new "<- 第3页"
 
     # game/city.rpy_L871_6
     old "Page 5 ->"
-    new ""
+    new "第5页 ->"
 
     # game/city.rpy_L874_0
     old "Currently listening to Danse Morialta - Kevin MacLeod"
@@ -7559,11 +7559,11 @@ translate chinese strings:
 
     # game/city.rpy_L913_5
     old "<- Page 4"
-    new ""
+    new "<- 第4页"
 
     # game/city.rpy_L913_6
     old "Page 6 ->"
-    new ""
+    new "第6页 ->"
 
     # game/city.rpy_L916_0
     old "Currently listening to Art of Silence - Uniq"
@@ -7591,7 +7591,7 @@ translate chinese strings:
 
     # game/city.rpy_L955_1
     old "Cream's Baking music"
-    new ""
+    new "Cream的烘焙音乐"
 
     # game/city.rpy_L955_2
     old "Mr. Kill Yourself - Sewerslvt"
@@ -7599,7 +7599,7 @@ translate chinese strings:
 
     # game/city.rpy_L955_3
     old "Seduced by the Queen"
-    new ""
+    new "受到女王的诱惑"
 
     # game/city.rpy_L955_4
     old "Everything's Going Wrong"
@@ -7607,11 +7607,11 @@ translate chinese strings:
 
     # game/city.rpy_L955_5
     old "<- Page 5"
-    new ""
+    new "<- 第5页"
 
     # game/city.rpy_L955_6
     old "Page 7 ->"
-    new ""
+    new "第7页 ->"
 
     # game/city.rpy_L958_0
     old "Currently listening to Central Square Mall Alternate, 2nd Floor Balcony - Silent Hill 3"
@@ -7635,31 +7635,31 @@ translate chinese strings:
 
     # game/city.rpy_L997_0
     old "Rainy theme"
-    new ""
+    new "雨天主题曲"
 
     # game/city.rpy_L997_1
     old "Ultimate Battle"
-    new ""
+    new "终极之战"
 
     # game/city.rpy_L997_2
     old "Nightclub Rave"
-    new ""
+    new "夜总会狂欢"
 
     # game/city.rpy_L997_3
     old "Dawn's Theme"
-    new ""
+    new "Dawn主题曲"
 
     # game/city.rpy_L997_4
     old "Church Theme"
-    new ""
+    new "教堂主题曲"
 
     # game/city.rpy_L997_5
     old "<- Page 6"
-    new ""
+    new "<- 第6页"
 
     # game/city.rpy_L997_6
     old "Page 8 ->"
-    new ""
+    new "第8页 ->"
 
     # game/city.rpy_L1000_0
     old "Currently listening to Oni - Sewerslvt"
@@ -7683,11 +7683,11 @@ translate chinese strings:
 
     # game/city.rpy_L1040_0
     old "Augusta's Theme"
-    new ""
+    new "Augusta主题曲"
 
     # game/city.rpy_L1040_1
     old "<- Page 7"
-    new ""
+    new "<- 第7页"
 
     # game/city.rpy_L1044_0
     old "Currently listening to Pina Colada - Silent Partner"
@@ -7695,31 +7695,31 @@ translate chinese strings:
 
     # game/city.rpy_L1320_0
     old "Visit Princess Selene?"
-    new ""
+    new "是否拜见Selene公主？"
 
     # game/city.rpy_L1320_1
     old "Visit"
-    new ""
+    new "拜见"
 
     # game/city.rpy_L1367_0
     old "Pay Entry Fee (-5 Monies)"
-    new ""
+    new "支付进门费（-5元）"
 
     # game/city.rpy_L1406_0
     old "Uhm, it's nice to meet you too."
-    new ""
+    new "嗯，很高兴能再次见到你。"
 
     # game/city.rpy_L1406_1
     old "I can tell you and I are going to get along."
-    new ""
+    new "我敢说，你我的关系会变得很融洽。"
 
     # game/city.rpy_L1406_2
     old "If the acts are criminal, then surely I’ll need some handcuffs."
-    new ""
+    new "如果这些行为属于违法行为，那我就要准备几个铐子了。"
 
     # game/city.rpy_L1418_0
     old "[playername], what’s your name?"
-    new ""
+    new "[playername]，你叫什么？"
 
     # game/city.rpy_L1418_1
     old "[playername] is what you’ll want to moan."
@@ -7731,41 +7731,41 @@ translate chinese strings:
 
     # game/city.rpy_L1438_0
     old "There are plenty of sexy ladies here. But partying ain't cheap, if I'm going to spend time here, I'll be buying drinks."
-    new ""
+    new "这里可有一大堆性感的小姐姐哦，但这个聚会的价格可不便宜。如果我想花些时间待在这里，我就要买些喝的才行。"
 
     # game/city.rpy_L1438_1
     old "Pink and Yellow Mares (-10 Monies)"
-    new ""
+    new "粉色母马和黄色母马（-10元）"
 
     # game/city.rpy_L1438_2
     old "Agatha and Sonia (-10 Monies)"
-    new ""
+    new "Agatha和Sonia（-10元）"
 
     # game/city.rpy_L1438_3
     old "Honeycrisp and Ruby (-10 Monies)"
-    new ""
+    new "Honeycrisp和Ruby（-10元）"
 
     # game/city.rpy_L1438_4
     old "Mare with Pink Hair (-10 Monies)"
-    new ""
+    new "粉色毛发的母马（-10元）"
 
     # game/city.rpy_L1438_5
     old "Sofia (Free)"
-    new ""
+    new "Sofia（免费）"
 
     # game/city.rpy_L1438_6
     old "Dawn (Free)"
-    new ""
+    new "Dawn（免费）"
 
     # game/city.rpy_L1438_7
     old "Leave (No Refunds!)"
-    new ""
+    new "离开（不予退款！）"
 
     # game/city.rpy_L2222_0
     old "Panties"
-    new ""
+    new "内裤"
 
     # game/city.rpy_L2222_1
     old "Stockings"
-    new ""
+    new "长筒袜"
 

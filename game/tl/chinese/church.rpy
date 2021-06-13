@@ -1,4 +1,4 @@
-# Translation updated at Sat Jun 12 2021 00:40:46 GMT+0800 (香港标准时间)
+# Translation updated at Sun Jun 13 2021 10:42:31 GMT+0800 (香港标准时间)
 # game/church.rpy#L15
 translate chinese augustapost_d42bf085:
 
@@ -4731,63 +4731,63 @@ translate chinese strings:
 
     # game/church.rpy_L24_0
     old "Research Progress"
-    new ""
+    new "研究进展"
 
     # game/church.rpy_L24_1
     old "Sex with you?"
-    new ""
+    new "和你做爱？"
 
     # game/church.rpy_L88_0
     old "Who’s going to fuck the mare?"
-    new ""
+    new "谁想来干这匹小母马？"
 
     # game/church.rpy_L88_1
     old "Let Augusta do it (Futa x Female)"
-    new ""
+    new "让Augusta来（扶她 x 女）"
 
     # game/church.rpy_L88_2
     old "I’ll do it."
-    new ""
+    new "我来。"
 
     # game/church.rpy_L111_0
     old "Fuck Augusta in her pussy, while she fucks the customer."
-    new ""
+    new "在Augusta操顾客时和她做爱。"
 
     # game/church.rpy_L111_1
     old "Double penetrate the customer."
-    new ""
+    new "对顾客进行双插。"
 
     # game/church.rpy_L272_0
     old "You're crazy, but okay!"
-    new ""
+    new "你疯了吧，但这样也好！"
 
     # game/church.rpy_L272_1
     old "How'd you get all that information from just watching me?"
-    new ""
+    new "你是怎么只通过看我就能获得所有信息的呢？"
 
     # game/church.rpy_L272_2
     old "I feel like a test subject."
-    new ""
+    new "我感觉自己就像是一个实验品。"
 
     # game/church.rpy_L437_0
     old "Who the hell are you?"
-    new ""
+    new "你到底是什么人？"
 
     # game/church.rpy_L437_1
     old "Why are you dressed like it's Halloween?"
-    new ""
+    new "为什么你的衣服很像万圣节时穿的衣服？"
 
     # game/church.rpy_L437_2
     old "How do you know who I am?"
-    new ""
+    new "你怎么知道我是谁？"
 
     # game/church.rpy_L457_0
     old "Sooo... You work here?"
-    new ""
+    new "这么说……你是在这里工作吗？"
 
     # game/church.rpy_L457_1
     old "That dress really makes your features 'pop'."
-    new ""
+    new "这件衣服让你显得很“漂亮”。"
 
     # game/church.rpy_L457_2
     old "I hope you're one of those nuns that does the opposite of celibacy."
@@ -4795,15 +4795,15 @@ translate chinese strings:
 
     # game/church.rpy_L470_0
     old "I came here to chew bubblegum, and fuck."
-    new ""
+    new "我来这儿是为了嚼泡泡糖和啪啪啪的。"
 
     # game/church.rpy_L470_1
     old "I'm here because I'm curious about this world's culture and religion"
-    new ""
+    new "我来这儿是因为我对这个世界的文化和宗教很好奇。"
 
     # game/church.rpy_L470_2
     old "Honestly, I have no idea. I might head out now."
-    new ""
+    new "说真的，我也不知道。我现在就走吧。"
 
     # game/church.rpy_L485_0
     old "Experience the Church of Love."
@@ -4811,47 +4811,47 @@ translate chinese strings:
 
     # game/church.rpy_L485_1
     old "Pass for now"
-    new ""
+    new "这次就算了。"
 
     # game/church.rpy_L546_0
     old "Yeah, we have a really deep bond. I think we should explore it some more."
-    new ""
+    new "好，我们之间存在着一种很紧密的联系。我觉得我们应该再多看一看。"
 
     # game/church.rpy_L546_1
     old "I didn't feel jack shit."
-    new ""
+    new "我什么感觉都没有。"
 
     # game/church.rpy_L546_2
     old "My balls feel a bit tingly, is that normal?"
-    new ""
+    new "我的蛋蛋有点刺痛的感觉，这正常吗？"
 
     # game/church.rpy_L686_0
     old "5/5"
-    new ""
+    new "5/5"
 
     # game/church.rpy_L686_1
     old "4/5"
-    new ""
+    new "4/5"
 
     # game/church.rpy_L686_2
     old "3/5"
-    new ""
+    new "3/5"
 
     # game/church.rpy_L686_3
     old "2/5"
-    new ""
+    new "2/5"
 
     # game/church.rpy_L686_4
     old "1/5"
-    new ""
+    new "1/5"
 
     # game/church.rpy_L752_0
     old "Is the goddess real? Like Aurora and Selene?"
-    new ""
+    new "像Aurora和Selene一样的女神是真实存在的吗？"
 
     # game/church.rpy_L752_1
     old "Interesting perspective. I'm not sure I entirely agree, but I respect it."
-    new ""
+    new "这个观点很有趣。我虽然不能完全赞同，但还是会尊重你的想法。"
 
     # game/church.rpy_L752_2
     old "Compelling argument, I generally agree."
@@ -4867,35 +4867,35 @@ translate chinese strings:
 
     # game/church.rpy_L800_0
     old "Become a Priest of Love?"
-    new ""
+    new "是否成为一名爱之牧师？"
 
     # game/church.rpy_L800_1
     old "Wait, interview? ARE YOU SCOUTING ME RIGHT NOW?"
-    new ""
+    new "等等，“测试”？你现在是在调查我吗？"
 
     # game/church.rpy_L800_2
     old "Get paid to fuck people? Sure!"
-    new ""
+    new "和别人啪啪啪还能得到酬劳？当然可以了！"
 
     # game/church.rpy_L800_3
     old "Come on, do you really think I'm that easy?"
-    new ""
+    new "拜托，你真认为我很放荡吗？"
 
     # game/church.rpy_L1131_0
     old "Hold up, I gotta get to work before it’s too late"
-    new ""
+    new "等等，我还有工作要忙，我要迟到了。"
 
     # game/church.rpy_L1131_1
     old "Sure, I’ve got time"
-    new ""
+    new "当然了，我有时间。"
 
     # game/church.rpy_L1209_0
     old "How are international relations?"
-    new ""
+    new "国际关系怎么样？"
 
     # game/church.rpy_L1209_1
     old "What's a Morphling?"
-    new ""
+    new "什么是变体精灵？"
 
     # game/church.rpy_L1209_2
     old "Do you really fuck as a 'bargaining' chip?"
@@ -4903,17 +4903,17 @@ translate chinese strings:
 
     # game/church.rpy_L1209_3
     old "How far reaching is your 'religion'?"
-    new ""
+    new "你们的“宗教”最远传播到了什么地方？"
 
     # game/church.rpy_L1209_4
     old "Also, I wanted to know about... (Conclude)"
-    new ""
+    new "还有，我之前想了解……（结束）"
 
     # game/church.rpy_L1443_0
     old "Fine, I’ll help you study… 'me'."
-    new ""
+    new "好吧，我会帮你了解……“我”的。"
 
     # game/church.rpy_L1443_1
     old "Mmm… maybe…"
-    new ""
+    new "嗯……或许吧……"
 

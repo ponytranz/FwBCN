@@ -1,4 +1,4 @@
-# Translation updated at Sat Jun 12 2021 00:40:45 GMT+0800 (香港标准时间)
+# Translation updated at Sun Jun 13 2021 10:42:31 GMT+0800 (香港标准时间)
 # game/bar.rpy#L13
 translate chinese barvisit1_d43fa519:
 
@@ -27,115 +27,115 @@ translate chinese barvisit1_cc7a30d0:
 translate chinese barvisit1_f015cb36:
 
     # mc "I am definitely not Ruby's boyfriend."
-    mc ""
+    mc "我当然不是Ruby的男朋友。"
 
 # game/bar.rpy#L22
 translate chinese barvisit1_abdc74c3:
 
     # riku "Aha, it's great to see you. Come right on in."
-    riku ""
+    riku "啊哈，很高兴见到你。请进来吧。"
 
 # game/bar.rpy#L24
 translate chinese barvisit1_382d74db:
 
     # riku "Ah, furless! Yep, you’re definitely the one Penelope mentioned in the letter! Come right on in."
-    riku ""
+    riku "啊，无毛怪! 没错，你绝对是Penelope在信中提到的那个人! 快进来吧。"
 
 # game/bar.rpy#L30
 translate chinese barvisit1_81ab6ef7:
 
     # mc "Thank you, the name’s [playername]."
-    mc ""
+    mc "谢谢，我的名字是[playername]。"
 
 # game/bar.rpy#L33
 translate chinese barvisit1_7c80970c:
 
     # riku "Just in case you forgot, I'm Riku."
-    riku ""
+    riku "以防你忘了，我是Riku。"
 
 # game/bar.rpy#L35
 translate chinese barvisit1_bf492569:
 
     # riku "I’m Riku. It’s always great to see a new face around these parts."
-    riku ""
+    riku "我是Riku。在这地方能见着个新面孔感觉还挺不错的。"
 
 # game/bar.rpy#L37
 translate chinese barvisit1_6052d358:
 
     # riku "Glad you decided to come work here. It's on a reduced wage but sometimes when you’re new you need a little something to get you off your feet, I get that."
-    riku ""
+    riku "很高兴你决定来这里工作。虽然工资很低，但现在你初来乍到，还是需要一些东西来帮自己渡过困境的，我很清楚这一点。"
 
 # game/bar.rpy#L38
 translate chinese barvisit1_78c8188b:
 
     # "I look around the bar, it’s marvellously antiquated. It’s exactly how I’d imagine a fantasy tavern or mead hall. Bright and cheerful."
-    ""
+    "我在酒吧里四处望了几眼，这里古色古香的。这正是我想象中奇幻世界里酒吧或者大堂的样子，环境明亮又欢快。"
 
 # game/bar.rpy#L39
 translate chinese barvisit1_6582fa81:
 
     # mc "Great place you’ve got here."
-    mc ""
+    mc "你这里针不戳。"
 
 # game/bar.rpy#L40
 translate chinese barvisit1_c3d43e90:
 
     # riku "This entire building is my house, and I’m using the bottom floor as the bar, it’s quaint."
-    riku ""
+    riku "这儿整栋楼都是我的，我便把最下面一层改成了酒吧，这儿很古雅。"
 
 # game/bar.rpy#L41
 translate chinese barvisit1_f1576377:
 
     # riku "We’re closed at the moment, so let me show you upstairs and we can chill."
-    riku ""
+    riku "不过现在酒吧不营业，所以我先带你去楼上吧，我们可以在那里放松一下。"
 
 # game/bar.rpy#L43
 translate chinese barvisit1_d7ea8d33:
 
     # "Riku and I walk up a set of wooden stairs into a more traditional room."
-    ""
+    "我和Riku从木楼梯上去，走进了一个更有古韵的房间。"
 
 # game/bar.rpy#L45
 translate chinese barvisit1_036c4a1c:
 
     # "Seeing this ordinary looking room really shows how well renovated the bottom floor is, it really does look like a fancy bar."
-    ""
+    "跟这个朴素的房间一比，看起来像豪华酒吧的楼下装修真的很不错。"
 
 # game/bar.rpy#L46
 translate chinese barvisit1_0002d5dc:
 
     # mc "So you're closed, what time do you open?"
-    mc ""
+    mc "你现在歇业的话，几点开始营业呢？"
 
 # game/bar.rpy#L50
 translate chinese barvisit1_25e610dd:
 
     # riku "Only in the afternoon, don’t tend to get many morning drinkers in Arcadia, so there’s no point in being open."
-    riku ""
+    riku "下午开始，在Arcadia没什么人一大早就跑来喝酒，所以也没必要这么早开张。"
 
 # game/bar.rpy#L51
 translate chinese barvisit1_3371a559:
 
     # mc "I’m sorry to bother you by coming so early, I can come back later if you’d like."
-    mc ""
+    mc "很抱歉这么早来麻烦你，如果你想的话，我可以晚点再来。"
 
 # game/bar.rpy#L53
 translate chinese barvisit1_03a4f5cd:
 
     # riku "You’re no bother at all, in fact I gave my grace to Penelope under the pretense that you’d arrive at this time."
-    riku ""
+    riku "你一点都不麻烦，事实上，我以你这个时候要来为藉口，已经恩赐过Penelope了。"
 
 # game/bar.rpy#L54
 translate chinese barvisit1_29d8ea23:
 
     # mc "You have some kind of plan for me?"
-    mc ""
+    mc "你对我有啥打算吗？"
 
 # game/bar.rpy#L55
 translate chinese barvisit1_17da1108:
 
     # riku "Yup, I deal a lot with people around here, perhaps more than most others."
-    riku ""
+    riku "当然，我常常和这儿的人打交道，说不定比绝大多数人都多。"
 
 # game/bar.rpy#L57
 translate chinese barvisit1_fd64648d:
@@ -13143,91 +13143,91 @@ translate chinese strings:
 
     # game/bar.rpy_L63_0
     old "I should ask Riku some questions."
-    new ""
+    new "我应该问Riku一些问题。"
 
     # game/bar.rpy_L63_1
     old "Heard any rumours?"
-    new ""
+    new "听到传言了吗？"
 
     # game/bar.rpy_L63_2
     old "Give me the latest gossip."
-    new ""
+    new "告诉我最近流言蜚语。"
 
     # game/bar.rpy_L63_3
     old "What kind of work can I do here?"
-    new ""
+    new "我能在这里干点什么活？"
 
     # game/bar.rpy_L63_4
     old "Could you tell me about yourself?"
-    new ""
+    new "可否告诉我关于你的事情？"
 
     # game/bar.rpy_L63_5
     old "(Conclude)"
-    new ""
+    new "（结束）"
 
     # game/bar.rpy_L243_0
     old "Are you jealous?"
-    new ""
+    new "你吃醋了？"
 
     # game/bar.rpy_L243_1
     old "You’re not using me to replace him, are you?"
-    new ""
+    new "你不会是想要我来代替他吧？"
 
     # game/bar.rpy_L448_0
     old "Ohoho, you’re challenging me???"
-    new ""
+    new "哦，你在挑战我？？"
 
     # game/bar.rpy_L448_1
     old "This is going to end up bad and you know it."
-    new ""
+    new "这一切最终会很糟糕，你知道的。"
 
     # game/bar.rpy_L484_0
     old "Truth"
-    new ""
+    new "真心话"
 
     # game/bar.rpy_L484_1
     old "Dare"
-    new ""
+    new "大冒险"
 
     # game/bar.rpy_L517_0
     old "What should I dare Riku?"
-    new ""
+    new "我该怎么做Riku？"
 
     # game/bar.rpy_L517_1
     old "I dare you to sit on my lap."
-    new ""
+    new "我敢让你坐在我腿上。"
 
     # game/bar.rpy_L517_2
     old "I dare you to serenade me."
-    new ""
+    new "我敢让你为我唱小夜曲。"
 
     # game/bar.rpy_L643_0
     old "What do I want to ask Riku?"
-    new ""
+    new "我想问Riku什么？"
 
     # game/bar.rpy_L643_1
     old "How many people have you slept with?"
-    new ""
+    new "你和多少人上过床？"
 
     # game/bar.rpy_L643_2
     old "What’s your dirtiest kink?"
-    new ""
+    new "你最肮脏的怪癖是什么？"
 
     # game/bar.rpy_L664_0
     old "Push her for a dirtier answer."
-    new ""
+    new "逼她给她一个更肮脏的答案。"
 
     # game/bar.rpy_L664_1
     old "Nevermind, she answered perfectly."
-    new ""
+    new "不介意，她回答得很完美。"
 
     # game/bar.rpy_L684_0
     old "Here we go again"
-    new ""
+    new "再来一次"
 
     # game/bar.rpy_L737_0
     old "I dare you to tongue kiss me anywhere you choose for 30 seconds."
-    new ""
+    new "我给你30秒时间，你可以舌吻我身上的任何部位。"
 
     # game/bar.rpy_L737_1
     old "I dare you to suck on my finger and pretend you’re performing oral sex for 30 seconds."
@@ -13235,19 +13235,19 @@ translate chinese strings:
 
     # game/bar.rpy_L888_0
     old "Want to cheer it up?"
-    new ""
+    new "想让它兴奋起来吗？"
 
     # game/bar.rpy_L888_1
     old "It just wants to find a nice, warm place to cum in."
-    new ""
+    new "它只是想射到一个又温暖又舒服的地方里去。"
 
     # game/bar.rpy_L1240_0
     old "Today we’re going to write giant graffiti over the biggest tower in Arcadia castle."
-    new ""
+    new "今天，我们要在Arcadia城堡中最大的塔上画一幅巨型涂鸦。"
 
     # game/bar.rpy_L1240_1
     old "We’re going to fuck all day. *Make eye contact* ALL. DAY."
-    new ""
+    new "我们要用一整天时间来啪啪啪。*看着她* 要一整天哦。"
 
     # game/bar.rpy_L1240_2
     old "I’m going to put you in a jar and jack off into it"
@@ -13255,19 +13255,19 @@ translate chinese strings:
 
     # game/bar.rpy_L1356_0
     old "Damn Ruby, you were right, the clothing really does accentuate her ass."
-    new ""
+    new "见鬼，Ruby，你说得对，衣服的确会突显出她的屁股。"
 
     # game/bar.rpy_L1356_1
     old "I wouldn’t mind seeing you wearing something like this Ruby."
-    new ""
+    new "如果你要穿和Ruby一样的衣服，我是不会介意的。"
 
     # game/bar.rpy_L1457_0
     old "I love small boobs just as much as big ones."
-    new ""
+    new "我对小胸的喜爱不亚于对巨乳的喜爱。"
 
     # game/bar.rpy_L1457_1
     old "As an ass man, I adore your cute butt."
-    new ""
+    new "作为一个臀控，我真的很喜欢你那可爱的屁股。"
 
     # game/bar.rpy_L1606_0
     old "Alright fine, let’s skip the dusting."
@@ -13275,7 +13275,7 @@ translate chinese strings:
 
     # game/bar.rpy_L1606_1
     old "So, you did want to show off your ass? How naughty!"
-    new ""
+    new "你想炫耀一下你的屁股吗？可真淘气啊！"
 
     # game/bar.rpy_L1796_0
     old "Do you want to know that, or are you just asking because you can’t help yourself."
@@ -13287,11 +13287,11 @@ translate chinese strings:
 
     # game/bar.rpy_L1796_2
     old "No, you and Moxie are the only ones."
-    new ""
+    new "不，你和Moxie是一类人。"
 
     # game/bar.rpy_L2135_0
     old "Actually, you have to tell me, I order you to."
-    new ""
+    new "我命令你告诉我。"
 
     # game/bar.rpy_L2135_1
     old "I already have a pretty good idea of what you like."
@@ -13299,27 +13299,27 @@ translate chinese strings:
 
     # game/bar.rpy_L2259_0
     old "In order to talk/have sex with Riku I'll need to work with her first."
-    new ""
+    new "为了能和Riku聊天/做爱，我需要先和她一起工作。"
 
     # game/bar.rpy_L2259_1
     old "Nah, I have things to do."
-    new ""
+    new "不了，我还有事要忙。"
 
     # game/bar.rpy_L2292_0
     old "What's with the bandage on your arm?"
-    new ""
+    new "你胳膊上的绷带是怎么回事？"
 
     # game/bar.rpy_L2292_1
     old "Ask her about her unusual hair colour"
-    new ""
+    new "问问她的发色为什么很与众不同"
 
     # game/bar.rpy_L2292_2
     old "Do you experience any trouble at your bar?"
-    new ""
+    new "你的酒吧遇到过什么麻烦吗？"
 
     # game/bar.rpy_L2346_0
     old "Plan a threesome with Moxie tonight"
-    new ""
+    new "计划今晚与Moxie三人行"
 
     # game/bar.rpy_L2346_1
     old "Sideways Sofa Sex"
@@ -13327,17 +13327,17 @@ translate chinese strings:
 
     # game/bar.rpy_L2346_2
     old "Anal Ride"
-    new ""
+    new "肛交"
 
     # game/bar.rpy_L2880_0
     old "Who should I talk to?"
-    new ""
+    new "我该和谁谈谈？"
 
     # game/bar.rpy_L2880_1
     old "[doggirl]"
-    new ""
+    new "[doggirl]"
 
     # game/bar.rpy_L2880_2
     old "[wolfgirl]"
-    new ""
+    new "[wolfgirl]"
 

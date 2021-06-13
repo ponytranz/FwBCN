@@ -1,267 +1,267 @@
-# Translation updated at Sat Jun 12 2021 00:40:45 GMT+0800 (香港标准时间)
+# Translation updated at Sun Jun 13 2021 10:42:31 GMT+0800 (香港标准时间)
 # game/artgallery.rpy#L8
 translate chinese artgallery_867fe6a7:
 
     # "It's just a regular art gallery. There are certainly a lot of beautiful works, but I have more important things to do right now."
-    ""
+    "这只是个普通的艺术画廊。当然这里有很多美丽的作品，但现在我有更重要的事情要做。"
 
 # game/artgallery.rpy#L20
 translate chinese artgallery_cf4d7c0e:
 
     # "Alright, where's that room Augusta was talking about..."
-    ""
+    "好吧，Augusta说的那个房间在哪里……"
 
 # game/artgallery.rpy#L21
 translate chinese artgallery_465c14f0:
 
     # "Oh, hold on... I may have a key, but that doesn't give me free entry... Damnit Augusta."
-    ""
+    "哦，等等……我确实有把钥匙，但这并不能让我免费进入……可恶的Augusta。"
 
 # game/artgallery.rpy#L22
 translate chinese artgallery_a75c79ab:
 
     # "Entry Fee - 15 monies for the day."
-    ""
+    "进门费 - 当日票15元。"
 
 # game/artgallery.rpy#L23
 translate chinese artgallery_9e58b73d:
 
     # "150 for a year pass."
-    ""
+    "年卡 - 150元。"
 
 # game/artgallery.rpy#L24
 translate chinese artgallery_1eeba032:
 
     # mc "Well, I guess it can't be helped."
-    mc ""
+    mc "好吧，我想这也是没办法的事。"
 
 # game/artgallery.rpy#L30
 translate chinese artgallery_1ab7a527:
 
     # "The pass works all day, and in the evening too."
-    ""
+    "该通行证全天有效，也包括晚上呦。"
 
 # game/artgallery.rpy#L36
 translate chinese artgallery_a1f3bc39:
 
     # "This will expire after 365 days. I'm serious."
-    ""
+    "这将在365天后过期。我认真的。"
 
 # game/artgallery.rpy#L44
 translate chinese artgallery_32d05dad:
 
     # "Alright, with that done... Where does this key fit?"
-    ""
+    "好了，做完这些以后... 这把钥匙要插到哪里？"
 
 # game/artgallery.rpy#L45
 translate chinese artgallery_819a32df:
 
     # "Let's try the door with a giant loveheart around it, that's exceedingly unsubtle."
-    ""
+    "让我们试试那扇周围画着一颗巨大爱心的门，它显眼的不得了。"
 
 # game/artgallery.rpy#L47
 translate chinese artgallery_0d43e6f8:
 
     # "Okay perfect. Let's find a canvas and see what happens."
-    ""
+    "完美。让我们去找个画布然后看看会发生什么。"
 
 # game/artgallery.rpy#L50
 translate chinese artgallery_a75c79ab_1:
 
     # "Entry Fee - 15 monies for the day."
-    ""
+    "进门费 - 当日票15元。"
 
 # game/artgallery.rpy#L51
 translate chinese artgallery_9e58b73d_1:
 
     # "150 for a year pass."
-    ""
+    "年卡 - 150元。"
 
 # game/artgallery.rpy#L52
 translate chinese artgallery_1eeba032_1:
 
     # mc "Well, I guess it can't be helped."
-    mc ""
+    mc "好吧，我想这也是没办法的事。"
 
 # game/artgallery.rpy#L58
 translate chinese artgallery_1ab7a527_1:
 
     # "The pass works all day, and in the evening too."
-    ""
+    "该通行证全天有效，也包括晚上呦。"
 
 # game/artgallery.rpy#L64
 translate chinese artgallery_a1f3bc39_1:
 
     # "This will expire after 365 days. I'm serious."
-    ""
+    "这将在365天后过期。我认真的。"
 
 # game/artgallery.rpy#L76
 translate chinese artgallerypostpass_64ed478a:
 
     # "I'll only be able to view art from girls I've spent a lot of time with..."
-    ""
+    "只能查看与我相处很长时间的女孩的艺术作品..."
 
 translate chinese strings:
 
     # game/artgallery.rpy_L25_0
     old "I should probably only pay if there's something worth seeing. (Best to complete some routes first!)"
-    new ""
+    new "如果有值得一看的东西，我才会付钱。（最好先完成一部分剧情线路！）"
 
     # game/artgallery.rpy_L25_1
     old "Pay for the day (-15 monies)"
-    new ""
+    new "支付当日票价（-15元）"
 
     # game/artgallery.rpy_L25_2
     old "Pay for the year (-150 monies)"
-    new ""
+    new "支付全年票价（-150元）"
 
     # game/artgallery.rpy_L25_3
     old "Nah!"
-    new ""
+    new "算了！"
 
     # game/artgallery.rpy_L78_0
     old "Moxie"
-    new ""
+    new "Moxie"
 
     # game/artgallery.rpy_L78_1
     old "Penelope"
-    new ""
+    new "Penelope"
 
     # game/artgallery.rpy_L78_2
     old "Lily"
-    new ""
+    new "Lily"
 
     # game/artgallery.rpy_L78_3
     old "Honeycrisp"
-    new ""
+    new "Honeycrisp"
 
     # game/artgallery.rpy_L78_4
     old "Ruby"
-    new ""
+    new "Ruby"
 
     # game/artgallery.rpy_L78_5
     old "Cream"
-    new ""
+    new "Cream"
 
     # game/artgallery.rpy_L80_0
     old "Blowjob and 69"
-    new ""
+    new "口交和六九式"
 
     # game/artgallery.rpy_L80_1
     old "Butt"
-    new ""
+    new "臀部"
 
     # game/artgallery.rpy_L80_2
     old "Doggystyle Vaginal"
-    new ""
+    new "后入式阴交"
 
     # game/artgallery.rpy_L80_3
     old "Doggystyle Anal"
-    new ""
+    new "后入式肛交"
 
     # game/artgallery.rpy_L192_0
     old "Cunnilingus"
-    new ""
+    new "舔阴"
 
     # game/artgallery.rpy_L192_1
     old "Masturbating"
-    new ""
+    new "自慰"
 
     # game/artgallery.rpy_L192_2
     old "Facesitting"
-    new ""
+    new "坐脸"
 
     # game/artgallery.rpy_L192_3
     old "Tribbing"
-    new ""
+    new "磨豆腐"
 
     # game/artgallery.rpy_L192_4
     old "Penelope x Moxie"
-    new ""
+    new "Penelope x Moxie"
 
     # game/artgallery.rpy_L251_0
     old "Standing Sex"
-    new ""
+    new "站立位做爱"
 
     # game/artgallery.rpy_L251_1
     old "From Behind"
-    new ""
+    new "后入"
 
     # game/artgallery.rpy_L251_2
     old "Thigh Job"
-    new ""
+    new "腿交"
 
     # game/artgallery.rpy_L308_0
     old "Anna threesome"
-    new ""
+    new "Anna 3P"
 
     # game/artgallery.rpy_L308_1
     old "Blossom threesome"
-    new ""
+    new "Blossom 3P"
 
     # game/artgallery.rpy_L308_2
     old "Ruby threesome (Vaginal then Anal)"
-    new ""
+    new "Ruby 3P（先阴交后肛交）"
 
     # game/artgallery.rpy_L308_3
     old "Masturbation"
-    new ""
+    new "自慰"
 
     # game/artgallery.rpy_L308_4
     old "Ass"
-    new ""
+    new "屁股"
 
     # game/artgallery.rpy_L413_0
     old "Camming Alone"
-    new ""
+    new "单独拍照"
 
     # game/artgallery.rpy_L413_1
     old "Photoshoot"
-    new ""
+    new "照片"
 
     # game/artgallery.rpy_L413_2
     old "Melody Threesome"
-    new ""
+    new "Melody 3P"
 
     # game/artgallery.rpy_L413_3
     old "Honey Threesome (Vaginal then Anal)"
-    new ""
+    new "Honey 3P（先阴交后肛交）"
 
     # game/artgallery.rpy_L489_0
     old "Doggystyle (Quickie)"
-    new ""
+    new "后入式（速战速决）"
 
     # game/artgallery.rpy_L489_1
     old "Against the Counter"
-    new ""
+    new "在柜台上做"
 
     # game/artgallery.rpy_L489_2
     old "Foursome Blowjob"
-    new ""
+    new "4P口交"
 
     # game/artgallery.rpy_L489_3
     old "Foursome from Behind"
-    new ""
+    new "4P后入"
 
     # game/artgallery.rpy_L578_0
     old "Riku"
-    new ""
+    new "Riku"
 
     # game/artgallery.rpy_L578_1
     old "Butters"
-    new ""
+    new "Butters"
 
     # game/artgallery.rpy_L578_2
     old "Blossom"
-    new ""
+    new "Blossom"
 
     # game/artgallery.rpy_L578_3
     old "Melody"
-    new ""
+    new "Melody"
 
     # game/artgallery.rpy_L578_4
     old "Anna"
-    new ""
+    new "Anna"
 
     # game/artgallery.rpy_L580_0
     old "Blowjob (Maid and Without)"
@@ -269,27 +269,27 @@ translate chinese strings:
 
     # game/artgallery.rpy_L580_1
     old "Riding Anal"
-    new ""
+    new "骑跨式肛交"
 
     # game/artgallery.rpy_L580_2
     old "Sofa Sex"
-    new ""
+    new "在沙发上做爱"
 
     # game/artgallery.rpy_L580_3
     old "Moxie Threesome"
-    new ""
+    new "Moxie 3P"
 
     # game/artgallery.rpy_L580_4
     old "Butters Threesome"
-    new ""
+    new "Butters 3P"
 
     # game/artgallery.rpy_L580_5
     old "Butts (Three Different Butts)"
-    new ""
+    new "臀部（三个不同的人的臀部）"
 
     # game/artgallery.rpy_L580_6
     old "Feet"
-    new ""
+    new "脚"
 
     # game/artgallery.rpy_L706_0
     old "Slime'd"
@@ -301,67 +301,67 @@ translate chinese strings:
 
     # game/artgallery.rpy_L706_2
     old "Cowgirl (Normal/Succubus)"
-    new ""
+    new "骑乘位（常规/梦淫妖）"
 
     # game/artgallery.rpy_L706_3
     old "Legup Doggy (Normal/Succubus)"
-    new ""
+    new "抬腿后入（常规/梦淫妖）"
 
     # game/artgallery.rpy_L706_4
     old "Reverse Cowgirl (Normal/Succubus)"
-    new ""
+    new "逆骑乘位（常规/梦淫妖）"
 
     # game/artgallery.rpy_L706_5
     old "Poyo"
-    new ""
+    new "Poyo"
 
     # game/artgallery.rpy_L706_6
     old "Misc (Ass and Masturbating)"
-    new ""
+    new "杂项（屁股和自慰）"
 
     # game/artgallery.rpy_L854_0
     old "Blossom Cowgirl"
-    new ""
+    new "Blossom骑乘位"
 
     # game/artgallery.rpy_L854_1
     old "Blossom Thighs"
-    new ""
+    new "Blossom腿"
 
     # game/artgallery.rpy_L854_2
     old "Blossom Masturbating"
-    new ""
+    new "Blossom自慰"
 
     # game/artgallery.rpy_L854_3
     old "Honeycrisp threesome"
-    new ""
+    new "Honeycrisp 3P"
 
     # game/artgallery.rpy_L930_0
     old "Handjob"
-    new ""
+    new "打手枪"
 
     # game/artgallery.rpy_L930_1
     old "Music Studio"
-    new ""
+    new "音乐工作室"
 
     # game/artgallery.rpy_L930_2
     old "Ruby Threesome"
-    new ""
+    new "Ruby 3P"
 
     # game/artgallery.rpy_L1029_0
     old "Milking"
-    new ""
+    new "挤奶"
 
     # game/artgallery.rpy_L1029_1
     old "Paizuri"
-    new ""
+    new "乳交"
 
     # game/artgallery.rpy_L1029_2
     old "Pussy"
-    new ""
+    new "阴部"
 
     # game/artgallery.rpy_L1029_3
     old "Honey Threesome"
-    new ""
+    new "Honey 3P"
 
     # game/artgallery.rpy_L1029_4
     old "Random Cow Girls Threesome"
@@ -369,59 +369,59 @@ translate chinese strings:
 
     # game/artgallery.rpy_L1117_0
     old "Ari, Sonia and Agatha"
-    new ""
+    new "Ari、Sonia和Agatha"
 
     # game/artgallery.rpy_L1117_1
     old "Bar + Nightclub Girls"
-    new ""
+    new "酒吧 + 夜总会的女孩"
 
     # game/artgallery.rpy_L1117_2
     old "Spa Girls"
-    new ""
+    new "水疗所的女孩"
 
     # game/artgallery.rpy_L1117_3
     old "Cindy"
-    new ""
+    new "Cindy"
 
     # game/artgallery.rpy_L1119_0
     old "Sonia and Agatha"
-    new ""
+    new "Sonia和Agatha"
 
     # game/artgallery.rpy_L1119_1
     old "Ari"
-    new ""
+    new "Ari"
 
     # game/artgallery.rpy_L1158_0
     old "Rosa (Vaginal then Anal)"
-    new ""
+    new "Rosa（先阴交后肛交）"
 
     # game/artgallery.rpy_L1158_1
     old "Hilda Character Model"
-    new ""
+    new "Hilda角色模组"
 
     # game/artgallery.rpy_L1158_2
     old "Hilda (Vaginal then Anal)"
-    new ""
+    new "Hilda（先阴交后肛交）"
 
     # game/artgallery.rpy_L1158_3
     old "Midna"
-    new ""
+    new "Midna"
 
     # game/artgallery.rpy_L1158_4
     old "Sofia (Panties then Stockings)"
-    new ""
+    new "Sofia（先内裤后长筒袜）"
 
     # game/artgallery.rpy_L1238_0
     old "Back Massage"
-    new ""
+    new "背部按摩"
 
     # game/artgallery.rpy_L1238_1
     old "Threesome"
-    new ""
+    new "3P"
 
     # game/artgallery.rpy_L1238_2
     old "Tavi Reverse Cowgirl"
-    new ""
+    new "Tavi逆骑乘位"
 
     # game/artgallery.rpy_L1278_0
     old "The Entire Dawn Lily Mega-Fuck"
@@ -429,35 +429,35 @@ translate chinese strings:
 
     # game/artgallery.rpy_L1377_0
     old "Cindy Reverse Cowgirl"
-    new ""
+    new "Cindy逆骑乘位"
 
     # game/artgallery.rpy_L1377_1
     old "Cindy Legs-Up Missionary (Vaginal then Anal)"
-    new ""
+    new "Cindy抬腿传教士位（先阴交后肛交）"
 
     # game/artgallery.rpy_L1419_0
     old "Zoe"
-    new ""
+    new "Zoe"
 
     # game/artgallery.rpy_L1419_1
     old "Augusta"
-    new ""
+    new "Augusta"
 
     # game/artgallery.rpy_L1419_2
     old "Selene"
-    new ""
+    new "Selene"
 
     # game/artgallery.rpy_L1419_3
     old "Aurora"
-    new ""
+    new "Aurora"
 
     # game/artgallery.rpy_L1419_4
     old "Morrigan"
-    new ""
+    new "Morrigan"
 
     # game/artgallery.rpy_L1419_5
     old "Last Page ->"
-    new ""
+    new "最后一页 ->"
 
     # game/artgallery.rpy_L1421_0
     old "Doggystyle (Vaginal and unused Anal variant)"
@@ -469,7 +469,7 @@ translate chinese strings:
 
     # game/artgallery.rpy_L1421_2
     old "Alraune Standing(?) Sex"
-    new ""
+    new "Alraune站立位（？）做爱"
 
     # game/artgallery.rpy_L1483_0
     old "Hole - Augusta"
@@ -493,25 +493,25 @@ translate chinese strings:
 
     # game/artgallery.rpy_L1614_0
     old "Aurora Threesome"
-    new ""
+    new "Aurora 3P"
 
     # game/artgallery.rpy_L1674_0
     old "Principal Aurora"
-    new ""
+    new "Aurora校长"
 
     # game/artgallery.rpy_L1674_1
     old "Selene Threesome"
-    new ""
+    new "Selene 3P"
 
     # game/artgallery.rpy_L1740_0
     old "Game Over Scenes"
-    new ""
+    new "游戏结束场景"
 
     # game/artgallery.rpy_L1795_0
     old "Werewolf"
-    new ""
+    new "狼人"
 
     # game/artgallery.rpy_L1795_1
     old "Devil Sex"
-    new ""
+    new "妖怪性爱"
 

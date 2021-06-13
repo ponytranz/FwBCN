@@ -1,4 +1,4 @@
-# Translation updated at Sat Jun 12 2021 00:40:46 GMT+0800 (香港标准时间)
+# Translation updated at Sun Jun 13 2021 10:42:31 GMT+0800 (香港标准时间)
 # game/finalroute.rpy#L6
 translate chinese finalroute_240762c1:
 
@@ -39,7 +39,7 @@ translate chinese finalroute_38ae87ac:
 translate chinese finalroute_de4ee743:
 
     # moxie "Ah, [playername], it’s you!"
-    moxie ""
+    moxie "啊，[playername]，是你啊！"
 
 # game/finalroute.rpy#L20
 translate chinese finalroute_6111b6d1:
@@ -8367,65 +8367,65 @@ translate chinese strings:
 
     # game/finalroute.rpy_L192_0
     old "Slave? That’s awful!"
-    new ""
+    new "奴隶？这太糟糕了！"
 
     # game/finalroute.rpy_L192_1
     old "I’m glad I could have helped, my Queen."
-    new ""
+    new "我很高兴能帮到些什么，我的女王。"
 
     # game/finalroute.rpy_L230_0
     old "Would you like to save?"
-    new ""
+    new "你想要保存进度吗？"
 
     # game/finalroute.rpy_L241_0
     old "Of course, your majesty…"
-    new ""
+    new "当然了，女王殿下……"
 
     # game/finalroute.rpy_L241_1
     old "No way! I refuse!"
-    new ""
+    new "没可能！我拒绝！"
 
     # game/finalroute.rpy_L292_0
     old "I’ll never join you!"
-    new ""
+    new "我绝不会加入你们！"
 
     # game/finalroute.rpy_L292_1
     old "A harem? Alright, I’ll join you…"
-    new ""
+    new "一个后宫？行吧，算我一个......"
 
     # game/finalroute.rpy_L377_0
     old "Inventory"
-    new ""
+    new "库存"
 
     # game/finalroute.rpy_L377_1
     old "Moxie's Satchel"
-    new ""
+    new "Moxie的背包"
 
     # game/finalroute.rpy_L377_2
     old "[chocolates] Chocolates"
-    new ""
+    new "[chocolates]巧克力"
 
     # game/finalroute.rpy_L377_3
     old "[roses] Roses"
-    new ""
+    new "[roses]玫瑰"
 
     # game/finalroute.rpy_L377_4
     old "City Permit"
-    new ""
+    new "城市通行证"
 
     # game/finalroute.rpy_L377_5
     old "Hooks and Ropes"
-    new ""
+    new "钩子和绳子"
 
     # game/finalroute.rpy_L377_6
     old "Leather Armor"
-    new ""
+    new "皮革盔甲"
 
     # game/finalroute.rpy_L377_7
     old "Scimitar"
-    new ""
+    new "短弯刀"
 
     # game/finalroute.rpy_L408_0
     old "Should I return to the real world? (Crystal Ball)"
-    new ""
+    new "我应该返回现实世界吗？（水晶球）"
 

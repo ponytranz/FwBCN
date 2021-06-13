@@ -1,4 +1,4 @@
-# Translation updated at Sat Jun 12 2021 00:40:46 GMT+0800 (香港标准时间)
+# Translation updated at Sun Jun 13 2021 10:42:31 GMT+0800 (香港标准时间)
 # game/farm.rpy#L20
 translate chinese farm_c5de936b:
 
@@ -39,7 +39,7 @@ translate chinese farm_ebb0fef4:
 translate chinese farm_66e5ae99:
 
     # honeycrisp "And of course, y'all welcome to join me in bed, ehehe..."
-    honeycrisp ""
+    honeycrisp "嗯当然，欢迎你们一起来我床上，呃哈哈..."
 
 # game/farm.rpy#L43
 translate chinese prefarmmenu_050eefef:
@@ -57,7 +57,7 @@ translate chinese prefarmmenu_ea9b5061:
 translate chinese prefarmmenu_8e205bd4:
 
     # honeycrisp "Ready to get some work done? Or are you heading out?"
-    honeycrisp ""
+    honeycrisp "准备好做工了吗？或者说你要出去？"
 
 # game/farm.rpy#L48
 translate chinese prefarmmenu_47c9e943:
@@ -129,7 +129,7 @@ translate chinese honeycrispmenu_1b134b41:
 translate chinese honeycrispmenu_e66b4cad:
 
     # honeycrisp "Uhhhuhh..."
-    honeycrisp ""
+    honeycrisp "呃...."
 
 # game/farm.rpy#L91
 translate chinese honeycrispmenu_a3fd52c5:
@@ -165,13 +165,13 @@ translate chinese honeycrispmenu_b1852cc9:
 translate chinese honeycrispmenu_a59e41ab:
 
     # honeycrisp "The answer's no."
-    honeycrisp ""
+    honeycrisp "答案是——不。"
 
 # game/farm.rpy#L101
 translate chinese honeycrispmenu_a0c2e176:
 
     # blossom "Awhh man..."
-    blossom ""
+    blossom "哇，伙计..."
 
 # game/farm.rpy#L105
 translate chinese honeycrispmenu_bbc1e3a6:
@@ -2151,7 +2151,7 @@ translate chinese farmvisit1_9de22f0f:
 translate chinese farmvisit1_959b7fe2:
 
     # blossom "Ahh, right… Another day…"
-    blossom ""
+    blossom "啊，没错...另一天..."
 
 # game/farm.rpy#L682
 translate chinese farmvisit1_b2e35343:
@@ -2181,7 +2181,7 @@ translate chinese farmvisit1_9ecaf2e6:
 translate chinese farmvisit1_52dd6674:
 
     # blossom "Th-thank you sir… We both really appreciate it…"
-    blossom ""
+    blossom "谢...谢谢你先生...我们真的很想欣赏它..."
 
 # game/farm.rpy#L690
 translate chinese farmvisit1_35ca6ef6:
@@ -2295,13 +2295,13 @@ translate chinese farmvisit1_00e75b63:
 translate chinese farmvisit1_a20cefa7_1:
 
     # "..."
-    ""
+    "..."
 
 # game/farm.rpy#L733
 translate chinese farmvisit1_ab74eff7:
 
     # "By the time I get back to the wagon the sun has fully set, the sky is a stunning sea of stars."
-    ""
+    "当我回Moxie家时，太阳已经完全落山了，天空就像一片璀璨的星海。"
 
 # game/farm.rpy#L737
 translate chinese farmvisit1_16eccc9e:
@@ -2337,7 +2337,7 @@ translate chinese farmvisit1_8e9e77c2:
 translate chinese farmvisit1_19f7a1c7:
 
     # mc "I went to the farm, Honey really put me to work there, I don’t think I’ve worked that hard all my life."
-    mc ""
+    mc "我去了农场，Honey居然真的安排我在这里工作了，我并不认为我会投入我的全部精力在这里工作。"
 
 # game/farm.rpy#L745
 translate chinese farmvisit1_fb610d45:
@@ -2349,7 +2349,7 @@ translate chinese farmvisit1_fb610d45:
 translate chinese farmvisit1_d63b5915:
 
     # moxie "Ooohh, Honey eh? Check you out, you’re already calling her a nickname, sounds like you two got along fine."
-    moxie ""
+    moxie "偶，Honey是吗？瞧，你已经在给她取昵称了，听上去你俩相处的很好呢。"
 
 # game/farm.rpy#L748
 translate chinese farmvisit1_4f988b01:
@@ -13431,7 +13431,7 @@ translate chinese annasex_741d7132:
 translate chinese farmsexduringwork_3f497396:
 
     # "During work…"
-    ""
+    "工作期间..."
 
 # game/farm.rpy#L4033
 translate chinese farmsexduringwork_2a65a922:
@@ -13449,7 +13449,7 @@ translate chinese farmsexduringwork_365a38d0:
 translate chinese farmsexduringwork_ca30365c:
 
     # mc "Yeah, it’s pretty hot today."
-    mc ""
+    mc "是啊，今天可真热。"
 
 # game/farm.rpy#L4041
 translate chinese farmsexduringwork_187d8154:
@@ -13749,31 +13749,31 @@ translate chinese strings:
 
     # game/farm.rpy_L51_0
     old "Work with Honeycrisp"
-    new ""
+    new "与Honeycrisp一起工作"
 
     # game/farm.rpy_L51_1
     old "Visit Blossom"
-    new ""
+    new "与Blossom见面"
 
     # game/farm.rpy_L51_2
     old "Visit and work with Anna (This will take all day)"
-    new ""
+    new "与Anna见面并和她一起工作（这将花费一天时间）"
 
     # game/farm.rpy_L51_3
     old "Back to World Map"
-    new ""
+    new "返回世界地图"
 
     # game/farm.rpy_L72_0
     old "Cowgirl position"
-    new ""
+    new "骑乘位"
 
     # game/farm.rpy_L93_0
     old "Come on Honeycrisp, you're not gonna let Blossom have all the fun are you?"
-    new ""
+    new "来嘛，Honeycrisp，你肯定不想让Blossom一个人把所有乐子都独享一遍吧？"
 
     # game/farm.rpy_L93_1
     old "It's not like it's your first time doing it."
-    new ""
+    new "这好像不是你第一次做这种事吧。"
 
     # game/farm.rpy_L106_0
     old "Doing something with your sister? You don't have to do anything with her at all."
@@ -13785,39 +13785,39 @@ translate chinese strings:
 
     # game/farm.rpy_L130_0
     old "Talk about recent events"
-    new ""
+    new "聊聊最近发生的事"
 
     # game/farm.rpy_L130_1
     old "Plans for the future?"
-    new ""
+    new "对未来的打算？"
 
     # game/farm.rpy_L130_2
     old "How did you become a farmer?"
-    new ""
+    new "你是怎么成为一名农夫的？"
 
     # game/farm.rpy_L130_3
     old "Ask what Honey does in her free time"
-    new ""
+    new "询问Honey在空闲时间会做些什么"
 
     # game/farm.rpy_L400_0
     old "(Hug her again.)"
-    new ""
+    new "（再抱她一次。）"
 
     # game/farm.rpy_L400_1
     old "How about something more than a hug?"
-    new ""
+    new "除了拥抱，还想做点别的事吗？"
 
     # game/farm.rpy_L400_2
     old "I’ll pass for now; I don’t want to get distracted before going back to work."
-    new ""
+    new "还是算了，在回去工作前，我不想分心。"
 
     # game/farm.rpy_L447_0
     old "Why don’t you hire a unicorn to help?"
-    new ""
+    new "你为什么不雇一匹独角兽来帮忙呢？"
 
     # game/farm.rpy_L447_1
     old "I think a pegasus would be a lot of help."
-    new ""
+    new "我觉得雇一匹飞马会很有用。"
 
     # game/farm.rpy_L496_0
     old "Like a husband?"
@@ -13825,47 +13825,47 @@ translate chinese strings:
 
     # game/farm.rpy_L496_1
     old "I’m strong and capable in other areas too."
-    new ""
+    new "我在其他方面也很强和在行的。"
 
     # game/farm.rpy_L496_2
     old "Thanks Honeycrisp, we worked well as a team today."
-    new ""
+    new "谢了，Honeycrisp，今天咱们配合得很好。"
 
     # game/farm.rpy_L591_0
     old "Do you have any milk for the tea?"
-    new ""
+    new "你有奶吗？我要加到茶里。"
 
     # game/farm.rpy_L591_1
     old "I like my tea black, thank you."
-    new ""
+    new "谢谢，我喜欢喝纯茶。"
 
     # game/farm.rpy_L700_0
     old "Should I mention sex?"
-    new ""
+    new "我要不要提啪啪啪的事呢？"
 
     # game/farm.rpy_L700_1
     old "Hint at it."
-    new ""
+    new "暗示一下。"
 
     # game/farm.rpy_L700_2
     old "Explicitly mention sex."
-    new ""
+    new "直接挑明。"
 
     # game/farm.rpy_L700_3
     old "Say nothing, we’ll see each other again anyway."
-    new ""
+    new "什么也不说。反正我们还会再见面的。"
 
     # game/farm.rpy_L875_0
     old "She stares at me with a salacious expression."
-    new ""
+    new "他色眯眯地盯着我。"
 
     # game/farm.rpy_L875_1
     old "You’re really horny this morning."
-    new ""
+    new "你今天早上好色啊。"
 
     # game/farm.rpy_L875_2
     old "Is today the day we’re going to have sex?"
-    new ""
+    new "今天是不是咱们啪啪啪的日子了？"
 
     # game/farm.rpy_L907_0
     old "You’ve set me up to have sex with a cow girl?"
@@ -13873,117 +13873,117 @@ translate chinese strings:
 
     # game/farm.rpy_L907_1
     old "I’d much rather you join in."
-    new ""
+    new "我希望你也能加入。"
 
     # game/farm.rpy_L907_2
     old "I’d prefer to do it with just you Honey."
-    new ""
+    new "我只想和你一起，Honey。"
 
     # game/farm.rpy_L987_0
     old "Can you tell me about minotaurs?"
-    new ""
+    new "你可以给我讲讲关于牛头人的事吗？"
 
     # game/farm.rpy_L987_1
     old "What's wrong with stallions?"
-    new ""
+    new "公马怎么了？"
 
     # game/farm.rpy_L987_2
     old "Can you tell me a bit about yourself?"
-    new ""
+    new "你能告诉我一些关于你的事吗？"
 
     # game/farm.rpy_L987_3
     old "(Proceed)"
-    new ""
+    new "（继续）"
 
     # game/farm.rpy_L1684_0
     old "What should I say?"
-    new ""
+    new "我该说些什么？"
 
     # game/farm.rpy_L1684_1
     old "She was talking about the apple supply."
-    new ""
+    new "她在说关于苹果供应的事。"
 
     # game/farm.rpy_L1684_2
     old "We totally fucked."
-    new ""
+    new "我们全都搞砸了。"
 
     # game/farm.rpy_L1684_3
     old "Nothing you need to know about."
-    new ""
+    new "你什么都不需要知道。"
 
     # game/farm.rpy_L1812_0
     old "Let’s learn more about her."
-    new ""
+    new "让我来多了解了解她。"
 
     # game/farm.rpy_L1812_1
     old "What do you spend most of your time doing?"
-    new ""
+    new "你大多数时间都会做什么呢？"
 
     # game/farm.rpy_L1812_2
     old "You seem less shy than you were yesterday."
-    new ""
+    new "你没昨天那么害羞了。"
 
     # game/farm.rpy_L1812_3
     old "Why do you want to have sex with me?"
-    new ""
+    new "你为什么想和我啪啪啪呢？"
 
     # game/farm.rpy_L1812_4
     old "That’s enough questions. (Proceed)"
-    new ""
+    new "我问完了。（继续）"
 
     # game/farm.rpy_L2402_0
     old "Admit you were sleeping with Blossom"
-    new ""
+    new "承认你睡过Blossom"
 
     # game/farm.rpy_L2402_1
     old "Tell her you were helping Blossom with something and don’t mention the sex."
-    new ""
+    new "告诉她你帮助过Blossom，但不提及做爱的事。"
 
     # game/farm.rpy_L2402_2
     old "Completely lie and say you were using the bathroom."
-    new ""
+    new "谎称你当时在上厕所。"
 
     # game/farm.rpy_L2658_0
     old "Just how deep does your sexual relationship go with Honey?"
-    new ""
+    new "你和Honey的性关系有多深入了？"
 
     # game/farm.rpy_L2658_1
     old "We should get together again sometime. A time like before is too good to only experience once."
-    new ""
+    new "我们应该时不时地聚一聚。从前的美好时光太美妙了，这种感觉可不能只经历一次嘛。"
 
     # game/farm.rpy_L2751_0
     old "You, of course!"
-    new ""
+    new "你呀，那当然了！"
 
     # game/farm.rpy_L3233_0
     old "What have you been up to lately?"
-    new ""
+    new "你最近在忙什么？"
 
     # game/farm.rpy_L3233_1
     old "Any plans for the future?"
-    new ""
+    new "对未来有什么打算吗？"
 
     # game/farm.rpy_L3233_2
     old "Talk about her cooking"
-    new ""
+    new "聊聊她做饭的事"
 
     # game/farm.rpy_L3372_0
     old "Work with the girls"
-    new ""
+    new "和女孩们一起工作"
 
     # game/farm.rpy_L3372_1
     old "Back to the Worldmap"
-    new ""
+    new "返回世界地图"
 
     # game/farm.rpy_L3790_0
     old "You quite like interspecies men, don't you?"
-    new ""
+    new "你很喜欢其他物种的异性吗？"
 
     # game/farm.rpy_L3790_1
     old "Ask her about her business mindset"
-    new ""
+    new "询问她对事业的态度"
 
     # game/farm.rpy_L3790_2
     old "What are your parents like?"
-    new ""
+    new "你父母怎么样？"
 

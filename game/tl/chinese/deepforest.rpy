@@ -1,9 +1,9 @@
-# Translation updated at Sat Jun 12 2021 00:40:46 GMT+0800 (香港标准时间)
+# Translation updated at Sun Jun 13 2021 10:42:31 GMT+0800 (香港标准时间)
 # game/deepforest.rpy#L13
 translate chinese deepforest_51a3a838:
 
     # "I don't really have a reason to explore deep into the woods, I might even get lost without proper preparation."
-    ""
+    "我没有任何要到丛林深处探险的理由。而且，要是没做充分准备的话，我很可能会迷路的。"
 
 # game/deepforest.rpy#L14
 translate chinese deepforest_0cd28411:
@@ -15,85 +15,85 @@ translate chinese deepforest_0cd28411:
 translate chinese zoe1_d3885ae1:
 
     # "I’ve never stepped far from Arcadia. Even though there’s an entire brand-new world out there."
-    ""
+    "虽然崭新的世界就在眼前，可我还是没有来过离Arcadia如此之远的地方。"
 
 # game/deepforest.rpy#L32
 translate chinese zoe1_2e0ee02f:
 
     # "So, here we go, some deep woods exploration for fun. While I’m out here, I could collect some berries for Butters' potions."
-    ""
+    "所以，我决定去丛林深处找找乐子。在外出的这段时间里，我还要为Butters采集一些浆果，以便帮助她完成药水的研发。"
 
 # game/deepforest.rpy#L33
 translate chinese zoe1_9f3289b6:
 
     # "But really, I’m not interested in work."
-    ""
+    "但说真的，我对工作一点兴趣都没有。"
 
 # game/deepforest.rpy#L34
 translate chinese zoe1_b0a37a34:
 
     # "I’ve been working almost every day for longer than I can imagine. Sometimes it’s nice to just get some fresh air."
-    ""
+    "我每天工作的时间基本上都要比我想象中的时间长。所以，偶尔能呼吸一下新鲜空气很是享受。"
 
 # game/deepforest.rpy#L36
 translate chinese zoe1_74a21c8b:
 
     # "Some peace and quiet under the starlit sky will certainly help relieve some stress."
-    ""
+    "夜空之下的宁静也能减少一些压力。"
 
 # game/deepforest.rpy#L38
 translate chinese zoe1_d329bac2:
 
     # "It almost reminds me of my evening walk with Melody."
-    ""
+    "这让我回想起了我和Melody在晚上散步时的情景。"
 
 # game/deepforest.rpy#L40
 translate chinese zoe1_a80b8ce4:
 
     # "I did decide to bring my leather armour, it certainly provides some comfort."
-    ""
+    "我决定带上我的皮革盔甲，因为穿上它很灵活舒适。"
 
 # game/deepforest.rpy#L41
 translate chinese zoe1_f9f13509:
 
     # "Even though I’ve gotten used to walking around on my bare feet, the leather shoes are especially nice in the dark."
-    ""
+    "即便我已经习惯了光脚走路，但在夜晚行走时，穿软底皮鞋却是个极好的选择。"
 
 # game/deepforest.rpy#L42
 translate chinese zoe1_3e5d7028:
 
     # "And a scimitar on my back, just in case, but I’ve yet to find a scenario where I’ve needed to use this. I suppose that's the point."
-    ""
+    "以防万一，我还背了一把短弯刀。但我还没找到能用到它的地方，这才是问题的关键。"
 
 # game/deepforest.rpy#L44
 translate chinese zoe1_309dfeee:
 
     # "Bringing a weapon is a bit more extreme than my walk with Melody, but it feels nice to have a backup plan."
-    ""
+    "相比和Melody一起散步，带武器似乎会有一点怪。但有备选方案的话，感觉会更好一些。"
 
 # game/deepforest.rpy#L46
 translate chinese zoe1_06b88036:
 
     # "I know this is just going to be a leisurely walk, but it feels nice to have a backup plan."
-    ""
+    "我知道这只是一次轻松的散步，但有备选方案的话，感觉会更好。"
 
 # game/deepforest.rpy#L47
 translate chinese zoe1_50775e38:
 
     # "There’s the usual and fairly clear path towards Butters' cottage, then a clearing. I think I’ll do a horse shoe path that’ll lead me back to clearing, or worst-case scenario Honey’s farm."
-    ""
+    "这里有一条又普通又好走的小路，它一直延伸到Butters的住处和一片林中空地。我想要修一条可以通往空地或是Honey农场的马路。"
 
 # game/deepforest.rpy#L48
 translate chinese zoe1_477615f6:
 
     # "Between the full moon, and the lights of Arcadia city, it’s almost impossible to get lost between these two landmarks."
-    ""
+    "借着满月的月光和Arcadia城的灯光，是不可能迷路的。"
 
 # game/deepforest.rpy#L49
 translate chinese zoe1_680e58f2:
 
     # "I stretch and set off. The sound of the chirping crickets being my only accompaniment as I step through the deeper woods."
-    ""
+    "我伸展了一下四肢，然后便出发了。在我穿越茂密的丛林时，唯一能陪伴我的就只有蟋蟀的叫声了。"
 
 # game/deepforest.rpy#L52
 translate chinese zoe1_e442161f:
@@ -105,415 +105,415 @@ translate chinese zoe1_e442161f:
 translate chinese zoe1_c4bedb2e:
 
     # "In the day, the woods are so peaceful and harmonic. In the dark, it’s seemingly hostile, yet exciting."
-    ""
+    "在白天，丛林会十分宁静安逸。但到了晚上，林子就会变得危机四伏，同时也让人热血沸腾。"
 
 # game/deepforest.rpy#L54
 translate chinese zoe1_80aca10e:
 
     # "Rather quickly along my walk, I discover my first curiosity within the woods."
-    ""
+    "我在林子里快步走着，然后发现了第一个引起我兴趣的东西。"
 
 # game/deepforest.rpy#L56
 translate chinese zoe1_e3899fd3:
 
     # "There’s another clearing, and another cottage that’s not too different from Butters’. It’d make sense that there’d be a few of these built around. Even these deep woods feel tamed with a quaint hospitality."
-    ""
+    "树林里还有另外一片空地和一座很像Butters住的小屋。这说明，在这片看似友好无害的树林里还存在着其他小屋。"
 
 # game/deepforest.rpy#L57
 translate chinese zoe1_1367fcd3:
 
     # "It seems that whoever lives in this one isn't home, so I bypass the cottage and continue onwards."
-    ""
+    "看来，住在小屋里的人并没有将这里当成是自己的家。所以，我要绕过小屋，继续向前走。"
 
 # game/deepforest.rpy#L59
 translate chinese zoe1_6d3a2eea:
 
     # "When I eventually stumble upon a second clearing with a hill that pokes through the trees, I take the opportunity to climb to the top."
-    ""
+    "当我爬到第二块空地所在的山上时，我又就势爬到了山顶。"
 
 # game/deepforest.rpy#L60
 translate chinese zoe1_c8bd6b8c:
 
     # "The hill is impressive, from here I can just peer over most of the trees, and can even see the two cottages poke through."
-    ""
+    "这座山很壮观。从山上，我可以看到几乎整片树林，还可以看到两座小屋。"
 
 # game/deepforest.rpy#L61
 translate chinese zoe1_90873cf5:
 
     # "And while Arcadia village is obscured from this angle, the dizzyingly tall castle continues to dwarf me."
-    ""
+    "尽管从我这个角度看，Arcadia村显得十分朦胧，但壮观而高耸的城堡却让我感觉自己十分渺小。"
 
 # game/deepforest.rpy#L62
 translate chinese zoe1_b2dff619:
 
     # mc "Ahh… This is nice."
-    mc ""
+    mc "啊……真好。"
 
 # game/deepforest.rpy#L64
 translate chinese zoe1_d1173474:
 
     # "I lay down on the grass and enjoy the soft breeze as I gaze into the stars…"
-    ""
+    "我躺在草地上，看着满天的繁星，享受着微风的吹拂……"
 
 # game/deepforest.rpy#L65
 translate chinese zoe1_1b5b9ee8:
 
     # "*Rustle, rustle*…"
-    ""
+    "*沙沙声*……"
 
 # game/deepforest.rpy#L66
 translate chinese zoe1_8767a899:
 
     # "*Whisper, whisper*…"
-    ""
+    "*低语声*……"
 
 # game/deepforest.rpy#L75
 translate chinese zoe1_2c352f6c:
 
     # "My ears prick slightly, at the sounds of some distant movement. Seems like I’m not the only person that decided to have a small peruse around the woods. I spot the orange light of a lantern to the east of my hill perch."
-    ""
+    "我竖起耳朵，仔细听着远处传来的脚步声。看来我并不是唯一一个在这片树林里探险的人。之后，我看到在山东侧亮起了灯笼发出的橘黄色光芒。"
 
 # game/deepforest.rpy#L83
 translate chinese zoe1_42bea0b9:
 
     # "I half-heartedly keep an eye on the light as it continues ahead ignorant to me, but it does pique my curiosity when it spontaneously turns off, and the once chatty whisperings melt into a silence."
-    ""
+    "在灯光继续朝我所在的方向移动时，我并没过于理睬它。但突然间，灯光熄灭了，窸窸窣窣的低语声也随之消失了。这让我十分好奇。"
 
 # game/deepforest.rpy#L84
 translate chinese zoe1_08292c64:
 
     # "Hmm…"
-    ""
+    "嗯……"
 
 # game/deepforest.rpy#L85
 translate chinese zoe1_54ed633e:
 
     # "I should probably head back."
-    ""
+    "我应该回去了。"
 
 # game/deepforest.rpy#L87
 translate chinese zoe1_d5f9dc64:
 
     # "I crick my neck and stand up, and as I do, a certain sickly-sweet scent hits my nose."
-    ""
+    "于是我站起身来。可在我站起来时，我闻到了一股难闻但又很香的气味。"
 
 # game/deepforest.rpy#L88
 translate chinese zoe1_27522579:
 
     # "*Sniff, sniff*"
-    ""
+    "*嗅*"
 
 # game/deepforest.rpy#L89
 translate chinese zoe1_c6891534:
 
     # "What a strange and indescribable scent…"
-    ""
+    "这味道真的很奇怪，也难以形容……"
 
 # game/deepforest.rpy#L90
 translate chinese zoe1_97cfe632:
 
     # "I can almost directly pinpoint the origin too, the same location the lamp went out."
-    ""
+    "我可以确定的是，这气味传来的方向和灯光的方向是一致的。"
 
 # game/deepforest.rpy#L91
 translate chinese zoe1_c4b3bc50:
 
     # "Somewhat allured, I follow the tantalizing scent with the justification that anyone carrying a lamp is probably just a friendly anthropomorph."
-    ""
+    "这味道吸引住了我。于是，我开始循着它的方向走去。我感觉，拿着灯的人应该只是个友善的兽人罢了。"
 
 # game/deepforest.rpy#L92
 translate chinese zoe1_7b15b542:
 
     # "But I’m not as naïve as I once was, I’ve worked with Butters a few times and learnt a lot in our time together. Therefore, I take a cautious approach as I crouch behind some bushes and investigate the smell."
-    ""
+    "但我不会再像以前那么天真了，因为我已经和Butters工作很长时间了，也从她那儿学到了很多。所以，我选择躲在灌木后面，小心翼翼地前去调查。"
 
 # game/deepforest.rpy#L93
 translate chinese zoe1_abad04e4:
 
     # "This heavy scent, if my experiences with Butters are correct, it’s purposely designed to attract males. But… Why would that scent be relevant to the quiet woods at a time like this?"
-    ""
+    "这气味十分浓烈。如果我没记错的话，Butters说过，这种气味是专为吸引雄性而设计的。但是……这气味和荒无人烟的树林又有什么联系呢？"
 
 # game/deepforest.rpy#L94
 translate chinese zoe1_4ccf9178:
 
     # "And that’s when she comes into view."
-    ""
+    "这时，气味的主人出现了。"
 
 # game/deepforest.rpy#L98
 translate chinese zoe1_0338c105:
 
     # "It’s… a zebra? A zebra anthropomorph!"
-    ""
+    "这是……一匹斑马？一匹兽人斑马！"
 
 # game/deepforest.rpy#L99
 translate chinese zoe1_4f98946d:
 
     # "She isn’t even trying to hide herself, and the contrasting stripes of white on the zebra girl shine in the moonlight."
-    ""
+    "她没有躲藏。在月光的照射下，这名斑马女孩身上的白色条纹变得闪闪发亮。"
 
 # game/deepforest.rpy#L100
 translate chinese zoe1_6343c539:
 
     # "I, however, am yet to reveal myself as I crouch behind the bushes."
-    ""
+    "但我却仍躲在灌木后面，没有现身。"
 
 # game/deepforest.rpy#L101
 translate chinese zoe1_9aaf2450:
 
     # "It’s hard to really assume a context for this situation, but I have to assume that she’s waiting for someone, or something…"
-    ""
+    "这种情况实在难以形容。但我不禁猜测，她应该是在等什么人，或是什么东西……"
 
 # game/deepforest.rpy#L102
 translate chinese zoe1_f4ca1903:
 
     # "Especially given that strange scent that attracts males… It’s so effective, that it managed to attract me when I was planning on completely ignoring this. I feel like a bit of a monke brain right now."
-    ""
+    "这种奇怪的气味对雄性的吸引效果很强……确实很强，在我打算完全忽视这气味的时候，我还是被它吸引住了。现在，我感觉头有点晕。"
 
 # game/deepforest.rpy#L103
 translate chinese zoe1_d6bab447:
 
     # unknown "The time is nigh, now don’t be shy…"
-    unknown ""
+    unknown "是时候了，别害羞嘛……"
 
 # game/deepforest.rpy#L104
 translate chinese zoe1_c4703b9a:
 
     # "Is... is she talking to me?"
-    ""
+    "她……她在和我说话？"
 
 # game/deepforest.rpy#L105
 translate chinese zoe1_f14aca64:
 
     # unknown "That’s right big boy, no need for tours, I’m all yours..."
-    unknown ""
+    unknown "这就对了，帅哥，没必要再到处乱转了，我是你的了……"
 
 # game/deepforest.rpy#L106
 translate chinese zoe1_e538d100:
 
     # "She isn’t looking my way, so by all means, she isn’t talking to me…"
-    ""
+    "但她却并没有看着我。所以，她肯定不是在和我说话……"
 
 # game/deepforest.rpy#L107
 translate chinese zoe1_82c8252a:
 
     # "But… Who, then?"
-    ""
+    "可……她又是在和谁说话呢？"
 
 # game/deepforest.rpy#L108
 translate chinese zoe1_a9c25347:
 
     # unknown "Don’t you want to find a nice place to cum in? I’ll even let you put a thumb in..."
-    unknown ""
+    unknown "你难道不想找一个很不错的地方去射呢？我可以满足你……"
 
 # game/deepforest.rpy#L109
 translate chinese zoe1_063d1e91:
 
     # "Alright, this is getting weird."
-    ""
+    "好吧，事情开始诡异起来了。"
 
 # game/deepforest.rpy#L110
 translate chinese zoe1_d392b720:
 
     # "Just gonna, slowly leave…"
-    ""
+    "我要……慢慢地离开这儿……"
 
 # game/deepforest.rpy#L112
 translate chinese zoe1_af69fbda:
 
     # "*Rustle, rustle*… !"
-    ""
+    "*沙沙声*……！"
 
 # game/deepforest.rpy#L114
 translate chinese zoe1_1b717d4f:
 
     # "Something, above me?"
-    ""
+    "在我上方……有什么东西？"
 
 # game/deepforest.rpy#L115
 translate chinese zoe1_e72805c2:
 
     # "Falling out from the trees, none other than Butters nimbly drops before me."
-    ""
+    "突然，Butters从树上敏捷地跳了下来，落在了我面前。"
 
 # game/deepforest.rpy#L117
 translate chinese zoe1_663e926c:
 
     # mc "B-B…! *Whispering* Butters?"
-    mc ""
+    mc "B……B……！*低声* Butters？"
 
 # game/deepforest.rpy#L118
 translate chinese zoe1_6bb00334:
 
     # butters "Phew, it’s just you! Heh, I thought maybe I’d been spotted."
-    butters ""
+    butters "哟，是你呀！嘿嘿，我还以为是我被人盯上了呢。"
 
 # game/deepforest.rpy#L119
 translate chinese zoe1_f27f72e5:
 
     # mc "What’s going on?"
-    mc ""
+    mc "出什么事了？"
 
 # game/deepforest.rpy#L121
 translate chinese zoe1_383df73c:
 
     # butters "Ah, it must look pretty strange, right?"
-    butters ""
+    butters "啊，很奇怪，对吧？"
 
 # game/deepforest.rpy#L122
 translate chinese zoe1_04febaac:
 
     # mc "No kidding."
-    mc ""
+    mc "别开玩笑了。"
 
 # game/deepforest.rpy#L124
 translate chinese zoe1_36e40370:
 
     # butters "Well, Zoe over there... she’s hoping to attract a werewolf for some 'fun'. I’m here to moderate, and I have a potion to revert both the lycanthropy of the werewolf, and herself."
-    butters ""
+    butters "好吧，Zoe就在那边……她想引诱个狼人来找找‘乐子’。我的任务是让狼人恢复原形。我带了一种药水，它可以把狼人和Zoe都恢复成原形。"
 
 # game/deepforest.rpy#L125
 translate chinese zoe1_1a3b71d9:
 
     # mc "Ah, you’re trying to lure in a werewolf with sex, and then cure them."
-    mc ""
+    mc "啊，你们是想引诱狼人，和他们啪啪啪，然后再把他们变回原形。"
 
 # game/deepforest.rpy#L127
 translate chinese zoe1_42e5bba1:
 
     # butters "Yup. I told Zoe I wouldn’t help her sleep with Mr. Wolfies anymore unless we helped them."
-    butters ""
+    butters "没错，我告诉过Zoe，如果我们不能帮助到那些狼人，我是不会帮她和狼人先生们一起上床的。"
 
 # game/deepforest.rpy#L128
 translate chinese zoe1_711d1060:
 
     # mc "That’s what this strange bonerific scent is for, then?"
-    mc ""
+    mc "这奇怪的气味就是干这个用的吗？"
 
 # game/deepforest.rpy#L130
 translate chinese zoe1_c2baf5f2:
 
     # butters "Yeah, is that what brought you here? Hehe, sorry for tricking you. Usually anthropomorphs can’t smell it unless they’re very close, but a werewolf’s sharp nose can smell it from up to ten kilometres away."
-    butters ""
+    butters "没错，你就是被它吸引过来的吧？哈哈，真对不起。不过，通常情况下，人形生物是闻不到这种气味的，除非离得很近才能闻到。但狼人的嗅觉很灵敏，所以他们能在十公里外闻到这气味。"
 
 # game/deepforest.rpy#L131
 translate chinese zoe1_f4be7bb0:
 
     # mc "Ah, it’s fine. I was relaxing on a nearby hill when I saw the glow of your lantern."
-    mc ""
+    mc "啊，没关系的。我当时正在山上休息，然后就看到了你灯笼发出来的灯光。"
 
 # game/deepforest.rpy#L132
 translate chinese zoe1_f86939bc:
 
     # mc "I should have realized it was you, after all, anyone else would probably just use a torch."
-    mc ""
+    mc "我应该能认出是你的，因为其他人一般都会用火把的。"
 
 # game/deepforest.rpy#L136
 translate chinese zoe1_a334deea:
 
     # zo "Come ooonn, big boyyy… There’s no need to be coy! Take me like the beast you are!"
-    zo ""
+    zo "拜 ~ 托 ~，帅哥……没必要拐弯抹角的！Take me like the beast you are！"
 
 # game/deepforest.rpy#L137
 translate chinese zoe1_f1a5ffce:
 
     # mc "Hmm… How long does this usually take?"
-    mc ""
+    mc "嗯……这工作通常要花多长时间？"
 
 # game/deepforest.rpy#L141
 translate chinese zoe1_6f515caa:
 
     # butters "Well, we were going to wait for at least an hour… But…"
-    butters ""
+    butters "嗯，我们至少要等一个小时吧……可是……"
 
 # game/deepforest.rpy#L142
 translate chinese zoe1_98bcc197:
 
     # mc "But?"
-    mc ""
+    mc "“可是”？"
 
 # game/deepforest.rpy#L144
 translate chinese zoe1_b1bed7d0:
 
     # butters "I keep telling her that the full moon already passed during the day, and it’s currently a waning gibbous…"
-    butters ""
+    butters "我一直在和她说，满月已经在白天的时候就过去了。现在已经是月亏阶段了……"
 
 # game/deepforest.rpy#L145
 translate chinese zoe1_0d4bd32a:
 
     # mc "The full moon started and stopped during the day?"
-    mc ""
+    mc "满月的开始和结束是在白天发生的吗？"
 
 # game/deepforest.rpy#L147
 translate chinese zoe1_a66cabca:
 
     # butters "Yeah, it’s a rookie mistake to just assume the moon operates only by nightfall."
-    butters ""
+    butters "对啊。认为月亮只会在晚上才有变化是个多么低级的错误啊。"
 
 # game/deepforest.rpy#L148
 translate chinese zoe1_c0b27d70:
 
     # butters "And technically a full moon only lasts within an instant, which causes the werewolf transformation, and then the transformation only lasts a few hours…"
-    butters ""
+    butters "理论上来说，满月只会持续很短的一段时间。而在这段时间里，人就会变成狼人。可变身的状态只能持续几个小时……"
 
 # game/deepforest.rpy#L149
 translate chinese zoe1_4f09d46a:
 
     # butters "But she insists, and I can’t really blame her for trying…"
-    butters ""
+    butters "可她却不听劝。她如果真想试试的话，我也不会怪她……"
 
 # game/deepforest.rpy#L151
 translate chinese zoe1_70f1ebe3:
 
     # butters "…And… I’m getting paid."
-    butters ""
+    butters "……而且……我是有酬劳的。"
 
 # game/deepforest.rpy#L152
 translate chinese zoe1_ae68d430:
 
     # "She winks and leans back on a tree."
-    ""
+    "她眨了眨眼，随后靠在了一棵树旁。"
 
 # game/deepforest.rpy#L153
 translate chinese zoe1_95f4d8d8:
 
     # mc "Your friend sounds stubborn."
-    mc ""
+    mc "听起来，你的朋友好像很固执啊。"
 
 # game/deepforest.rpy#L155
 translate chinese zoe1_97170109:
 
     # butters "Perhaps stubborn, but also simply hornier than her eyes can see."
-    butters ""
+    butters "她可能是很固执吧，但她其实也很色，只是她自己不知道而已。"
 
 # game/deepforest.rpy#L156
 translate chinese zoe1_e8d07d05:
 
     # mc "I guess I’ll keep you company."
-    mc ""
+    mc "我想我还是陪陪你们吧。"
 
 # game/deepforest.rpy#L160
 translate chinese zoe1_c65131f0:
 
     # zo "Uuughh… Butters you were right, I don't think anyone's coming…"
-    zo ""
+    zo "啊……Butters，看来你是对的，一个人都没引过来……"
 
 # game/deepforest.rpy#L161
 translate chinese zoe1_43cf0ce7:
 
     # zo "It’s {i}always{/i} night time in fiction… Just my luck…"
-    zo ""
+    zo "小说里写的是他们{i}总会{/i}在晚上出现……可能是我运气不好吧……"
 
 # game/deepforest.rpy#L165
 translate chinese zoe1_49a22f04:
 
     # butters "What do you think about Zoe?"
-    butters ""
+    butters "你感觉Zoe这人怎么样？"
 
 # game/deepforest.rpy#L168
 translate chinese zoe1_bb7d7df8:
 
     # butters "Anyone that chooses to live in the forest is probably a little crazy."
-    butters ""
+    butters "选择住在树林里的人多少都有一点疯疯癫癫的。"
 
 # game/deepforest.rpy#L169
 translate chinese zoe1_26f652ca:
@@ -525,463 +525,463 @@ translate chinese zoe1_26f652ca:
 translate chinese zoe1_4a268838:
 
     # mc "Hmm... You raise good points."
-    mc ""
+    mc "嗯……你这个观点倒挺不错的。"
 
 # game/deepforest.rpy#L172
 translate chinese zoe1_8f4ec127:
 
     # butters "What do you think would happen if you walked up and told her that right now?"
-    butters ""
+    butters "如果你现在走到她面前，把这话告诉她，你猜会发生什么吗？"
 
 # game/deepforest.rpy#L173
 translate chinese zoe1_66c1956e:
 
     # mc "Is that a challenge?"
-    mc ""
+    mc "这算是个挑战吗？"
 
 # game/deepforest.rpy#L177
 translate chinese zoe1_452cdd25:
 
     # butters "Hehe, yeah, I think you’re more than capable enough to satisfy her."
-    butters ""
+    butters "哈哈，当然算了。不过我感觉，以你的能力，让她满意应该不成问题。"
 
 # game/deepforest.rpy#L178
 translate chinese zoe1_62522a82:
 
     # mc "What would she think?"
-    mc ""
+    mc "她会怎么想呢？"
 
 # game/deepforest.rpy#L180
 translate chinese zoe1_dad44182:
 
     # butters "Hehe, try your luck! I just want to see what her reaction would be to a human!"
-    butters ""
+    butters "哈哈，那就要看你的运气了！我只是想看看她对人类会有什么样的反应！"
 
 # game/deepforest.rpy#L181
 translate chinese zoe1_f11d0304:
 
     # mc "Heh, that does sound amusing. Alright, I’ll do it."
-    mc ""
+    mc "呵呵，这话听起来很搞笑嘛。好吧，我会去问她的。"
 
 # game/deepforest.rpy#L183
 translate chinese zoe1_20f08e95:
 
     # butters "Okies, if you’re successful, I’ll be up in this tree masturbating if you need me."
-    butters ""
+    butters "好滴。要是你成功了，我就爬到这棵树上去自慰。"
 
 # game/deepforest.rpy#L184
 translate chinese zoe1_96c0b5d8:
 
     # "I don’t know if it’s the strange tantalising aroma making me do this, or the hot zebra ass, but I find myself going along with this strange situation a little easier than anticipated."
-    ""
+    "我不知道自己究竟是受到了那诱惑感十足的气味的影响，还是因为看到了斑马性感的臀部而兴奋不已，但我发现自己很容易地就融入到了这种奇怪的氛围当中。"
 
 # game/deepforest.rpy#L185
 translate chinese zoe1_42c87c7c:
 
     # "Dropping my scimitar and leather armour beside Butters and her chosen tree, I step into the opening and catch Zoe’s attention."
-    ""
+    "我将短弯刀和皮革盔甲放在了Butters和她所在的那棵树旁，然后走到开阔地，准备去吸引Zoe的注意。"
 
 # game/deepforest.rpy#L190
 translate chinese zoe1_e39531a1:
 
     # zo "Ooohh, you, you’re, you…"
-    zo ""
+    zo "哦 ~ 你，你是，你……"
 
 # game/deepforest.rpy#L191
 translate chinese zoe1_0da98eac:
 
     # zo "A male! A male… Perhaps you are looking for someone to nail?"
-    zo ""
+    zo "是个帅哥！是个帅哥……你是不是想找个人快活快活？"
 
 # game/deepforest.rpy#L192
 translate chinese zoe1_de847361:
 
     # mc "A rhyming Zebra?"
-    mc ""
+    mc "你是匹说话又有节奏感又很押韵的斑马吗？"
 
 # game/deepforest.rpy#L193
 translate chinese zoe1_44a45a57:
 
     # zo "Indeed young man, do you like what you see? I shall offer it to thee."
-    zo ""
+    zo "当然是了，小伙子。你喜欢吗？喜欢的话，我可以借你用用呀。"
 
 # game/deepforest.rpy#L194
 translate chinese zoe1_5b578ec3:
 
     # "Wiggle wiggle, her butt goes. I choose to play a little hard to get though, crossing my arms and raising an eyebrow."
-    ""
+    "她的臀部晃来晃去。于是，我插起胳膊，扬起眉毛，决定再试探试探她。"
 
 # game/deepforest.rpy#L195
 translate chinese zoe1_e62ec6b5:
 
     # "She begins flaunting her pussy like a target, her tail swishing back and forth, while the witches hat she placed on her butt nearly falls off."
-    ""
+    "见状，她开始挑逗性地摇晃起了自己的下体。她的尾巴前后抽动着，这让放在她屁股上的巫师帽差点掉了下来。"
 
 # game/deepforest.rpy#L196
 translate chinese zoe1_8972a467:
 
     # mc "You want it pretty badly, don’t you?"
-    mc ""
+    mc "你很想做，是吗？"
 
 # game/deepforest.rpy#L197
 translate chinese zoe1_97feffb2:
 
     # zo "Are you not convinced? There’s no trick, I just want dick."
-    zo ""
+    zo "你难道没看出来吗？我可没开玩笑，我只想要大屌。"
 
 # game/deepforest.rpy#L204
 translate chinese zoe1_ab57428b:
 
     # zo "Only the best of ass here, I am a lady of class."
-    zo ""
+    zo "我可是个贵族小姐，我的屁股可是最上乘的。"
 
 # game/deepforest.rpy#L205
 translate chinese zoe1_a5283d62:
 
     # mc "A lady of class? Sorry, but if this is 'classy' in this world I'm more out of touch than I realized."
-    mc ""
+    mc "贵族小姐？抱歉，可如果在这个世界像你这样就能称为‘贵族’的话，那我可真是和世界脱节了。"
 
 # game/deepforest.rpy#L206
 translate chinese zoe1_5020f99f:
 
     # zo "There is no fear, only a world of pleasure here."
-    zo ""
+    zo "这个世界只有喜悦，没有忧虑。"
 
 # game/deepforest.rpy#L207
 translate chinese zoe1_dd09ab2d:
 
     # "I peer behind me for a second while thinking. I bet Butters sent me in here on purpose so she wouldn't have to wait an hour, that's uncharacteristically crafty of her."
-    ""
+    "在我正在考虑的同时，我向后瞥了一眼。我敢打赌，Butters把我派到这儿来是有目的的，这样她就不用在原地等上一个小时的时间了。她可真是老谋深算啊。"
 
 # game/deepforest.rpy#L208
 translate chinese zoe1_b12907fb:
 
     # mc "Alright..."
-    mc ""
+    mc "好吧……"
 
 # game/deepforest.rpy#L210
 translate chinese zoe1_5020f99f_1:
 
     # zo "There is no fear, only a world of pleasure here."
-    zo ""
+    zo "这个世界只有喜悦，没有忧虑。"
 
 # game/deepforest.rpy#L211
 translate chinese zoe1_8fea2db2:
 
     # mc "Hmm..."
-    mc ""
+    mc "嗯……"
 
 # game/deepforest.rpy#L212
 translate chinese zoe1_dd09ab2d_1:
 
     # "I peer behind me for a second while thinking. I bet Butters sent me in here on purpose so she wouldn't have to wait an hour, that's uncharacteristically crafty of her."
-    ""
+    "在我正在考虑的同时，我向后瞥了一眼。我敢打赌，Butters把我派到这儿来是有目的的，这样她就不用在原地等上一个小时的时间了。她可真是老谋深算啊。"
 
 # game/deepforest.rpy#L213
 translate chinese zoe1_b12907fb_1:
 
     # mc "Alright..."
-    mc ""
+    mc "好吧……"
 
 # game/deepforest.rpy#L214
 translate chinese zoe1_fea0c575:
 
     # mc "But you do have some explaining to do afterwards."
-    mc ""
+    mc "但事后你可就要解释解释了。"
 
 # game/deepforest.rpy#L215
 translate chinese zoe1_f6281569:
 
     # zo "Absolutely, I shall explain, after I’ve been reined."
-    zo ""
+    zo "当然没问题，我会向你解释，但先要将我压制。"
 
 # game/deepforest.rpy#L216
 translate chinese zoe1_870a3ba7:
 
     # "I could tease her for a few more rhymes, especially since she sometimes takes pause to think of suitable words. Although the ‘rein’ rhyme was pretty genius considering she’s equine. She has probably used that one before."
-    ""
+    "在她停下来考虑用哪些合适的词语时，我完全可以去逗逗她的。因为她也是匹马，所以，她能说出“压制”这个词就已经能证明她的智商很高了。她以前肯定也用过这个词。"
 
 # game/deepforest.rpy#L217
 translate chinese zoe1_595125b5:
 
     # mc "If you want it so badly, then I won’t disappoint."
-    mc ""
+    mc "如果你很想这样的话，我会很乐意的。"
 
 # game/deepforest.rpy#L218
 translate chinese zoe1_bdcf0688:
 
     # "As I get into position before her presented rear, she exudes a high level of excitement, her tail swishes so fervently it keeps brushing against me."
-    ""
+    "我在她还没将臀部凑过来前就已经摆好了姿势，这让她兴奋到了极点。她的尾巴剧烈地摆动着，同时不停地抽打在我的身上。"
 
 # game/deepforest.rpy#L219
 translate chinese zoe1_88396dc7:
 
     # "The sweet flowery aroma that attracted me here combined with the smell of sex heightens my need to pound her pussy, almost to a beguiling degree."
-    ""
+    "那奇怪的气味混合着性爱的味道，让我彻底迷失了自我。"
 
 # game/deepforest.rpy#L222
 translate chinese zoe1_dc08b5c3:
 
     # "Her drippy pussy is clearly wet and ready, so I skip teasing and begin the session by aligning the tip of my cock against her pussy and pushing inside."
-    ""
+    "她的小穴已经湿润了，她已经做好了准备。所以我跳过了前戏，直接将我的cock抵在她的小穴上，然后插了进去。"
 
 # game/deepforest.rpy#L223
 translate chinese zoe1_57dac435:
 
     # "Immediately I sink into the pleasant warmth of her depths, her lips parting bit by bit as it easily accepts me to the hilt in a single smooth motion."
-    ""
+    "当插到她阴道的深处时，我立刻沉浸到了暖暖的喜悦之中。在我抽插时，她的阴唇就会稍稍分开，这让我的抽插变得容易了许多。"
 
 # game/deepforest.rpy#L224
 translate chinese zoe1_4b6b8465:
 
     # zo "Ahhhh, ahh… I’m so appreciative that you were present, because that feels extremely pleasant."
-    zo ""
+    zo "啊，啊……你能来到这里，我感到无比雀跃，因为这真的让人喜悦。"
 
 # game/deepforest.rpy#L226
 translate chinese zoe1_f54f5f44:
 
     # "Her hips twitch as I pull back and sink back in, beginning to rut her at a pleasureful pace for the both of us."
-    ""
+    "她的腰随着我的抽插扭动着，然后，我们便开始享受起交合的快乐。"
 
 # game/deepforest.rpy#L227
 translate chinese zoe1_32895ee1:
 
     # "Zoe was so wet from the start, she was clearly anticipating this and prepared for it. So it’s not too surprising that she accepted me even if I perhaps wasn’t quite what she wanted."
-    ""
+    "Zoe的下体从一开始就湿湿的，显然她早就为此做好了准备。所以，即便我不是她的菜，她还是接受了我。"
 
 # game/deepforest.rpy#L228
 translate chinese zoe1_1dee8906:
 
     # "The lustful wetness does allow me to pound her as fast as I want though, choosing to alternate between fast thrusting and then slowing myself down as to pace myself."
-    ""
+    "由于她的下体已被淫液完全浸湿，所以快速抽插完全不成问题。想快想慢可以随时调整。"
 
 # game/deepforest.rpy#L229
 translate chinese zoe1_bb387bcd:
 
     # "Each movement causes friction against her swollen clit, and deep sensitive spots within her pussy, filling the zebra girl with bliss."
-    ""
+    "每次抽插都会摩擦到这姑娘已经肿胀起来的阴蒂和阴道深处的兴奋点，这让她兴奋到了极点。"
 
 # game/deepforest.rpy#L231
 translate chinese zoe1_0bf8d2cd:
 
     # zo "Aaahhh, haaahhh, that’s it, I want you to fill me with your seed."
-    zo ""
+    zo "啊，哈啊……对，就是这样，狂射我吧。"
 
 # game/deepforest.rpy#L232
 translate chinese zoe1_d18c41c0:
 
     # "Hm, she didn’t rhyme that time. I clearly have my priorities wrong if I’m thinking about that right now, but this zebra girl is an enigma to me on so many levels."
-    ""
+    "嗯，这次她的话可没押上韵。但在这个时候思考这个问题可不太合适。不过对我来说，这个斑马女孩可真是谜一样的存在。"
 
 # game/deepforest.rpy#L233
 translate chinese zoe1_dacfd43a:
 
     # zo "Aahhahah, yesss... That’s good, keep going at that speed!"
-    zo ""
+    zo "啊……对……太爽喽，保持这个速度哟！"
 
 # game/deepforest.rpy#L234
 translate chinese zoe1_9cf34e47:
 
     # "Oh, there’s the rhyme! I thrust into my lover at the requested pace, rocking her back and forth against the grass while her toes curl and thighs quiver."
-    ""
+    "哦，这句话又押上韵了！我按照她要求的速度继续做着。我抽插着趴在草地上的她，她的脚趾也因此蜷缩起来，腿也在抽搐着。"
 
 # game/deepforest.rpy#L235
 translate chinese zoe1_902d4916:
 
     # "Doesn’t seem like it’ll take long for her to reach an orgasm, and indeed she does achieve one far before my own, as the mare squeals happily."
-    ""
+    "看来她马上就要高潮了。她欢悦地尖叫着。很显然，她达到高潮的时间可比我短多了。"
 
 # game/deepforest.rpy#L236
 translate chinese zoe1_d09fa5d8:
 
     # "Her moans grow in lustful intensity, that coupled with the wet schlicking of her pussy, it's pretty much the only thing I can hear as we rut in the dark woods."
-    ""
+    "随着性欲的增强，她的呻吟声也在逐渐变大。当我们在黑暗的树林里做爱时，除了她的呻吟声，我唯一能听见的声音就是抽插她湿润的小穴时发出的啪啪声。"
 
 # game/deepforest.rpy#L237
 translate chinese zoe1_61ec8c15:
 
     # "After her first orgasm, almost impatiently, I feel her own hips begin to rise and fall on my cock. Matching my own pace with some immediacy, and then outmatching it as she speeds up."
-    ""
+    "第一次高潮过后，我感觉到她又迫不及待地骑到了我的cock上扭动起来。刚开始的时候，我还能跟上她的速度，可当她加快速度后，我就没法再跟上她的速度了。"
 
 # game/deepforest.rpy#L238
 translate chinese zoe1_4b890717:
 
     # "Her hip movements make her sexual experience immediately clear; she’s done toying around with me, and now she’s going to make me cum."
-    ""
+    "根据她腰部的扭动，可以看出她确实有性爱方面的经验。她停止了玩弄。现在，她要让我射出来了。"
 
 # game/deepforest.rpy#L239
 translate chinese zoe1_e496546d:
 
     # "I grab her hips and commit to the accelerating pace, adding a third sound of our bodies slapping together to the mix."
-    ""
+    "我抱紧她的腰并加快了抽插的速度。于是，四周又回荡起了第三种肌肤撞击时发出的啪啪声。"
 
 # game/deepforest.rpy#L240
 translate chinese zoe1_5bb01b6d:
 
     # zo "Ahh, such a sly dog, ahh ahhhh… You’re certainly not a shy lover."
-    zo ""
+    zo "啊，真是只狡猾的小狗狗呀，啊，啊……你这个小情人可一点也不含蓄。"
 
 # game/deepforest.rpy#L241
 translate chinese zoe1_0b9380dc:
 
     # "My cock begins to twitch and get tighter as my impending orgasm draws closer and closer."
-    ""
+    "由于我马上就要高潮了，所以我的cock开始紧绷起来。"
 
 # game/deepforest.rpy#L242
 translate chinese zoe1_4befed0c:
 
     # zo "Now, cum in me, I want it all…"
-    zo ""
+    zo "现在就内射我吧，我全要了……"
 
 # game/deepforest.rpy#L243
 translate chinese zoe1_f336ecac:
 
     # "At a certain point my orgasm is all but confirmed, but it still takes a few seconds to escape. I use that time to push my body as far as it’ll go, fucking as hard as I can, to push to the heights of euphoria."
-    ""
+    "在我达到高潮的一瞬间，我将身体快速向后缩了回来，然后又用尽全力向前用力一插，好让自己享受到极致的快感。"
 
 # game/deepforest.rpy#L248
 translate chinese zoe1_3658d9d2:
 
     # "And then in one moment of intense bliss, my cock releases its load deep into the waiting mare."
-    ""
+    "在那一瞬间，我感受到了无比的快感。我的精液全部射到了这匹饥渴小马的体内。"
 
 # game/deepforest.rpy#L255
 translate chinese zoe1_80a88ce4:
 
     # zo "Ahh, yess, that’s it… Fill up my womb, until there’s simply no room!"
-    zo ""
+    zo "啊，爽，就是这样……射满我的子宫哟，一定要射满为止哟！"
 
 # game/deepforest.rpy#L257
 translate chinese zoe1_354e0a22:
 
     # "With one final load of cum, I finally empty my balls into the zebra, and she slumps onto the grass, panting."
-    ""
+    "我将所有的精液都射进了这匹小斑马体内。她瘫软在草地上，大口大口喘着粗气。"
 
 # game/deepforest.rpy#L258
 translate chinese zoe1_457e42fc:
 
     # "I follow her example, lying beside her voluptuous breasts."
-    ""
+    "我和她一样，也瘫软在了她丰满的巨乳旁。"
 
 # game/deepforest.rpy#L259
 translate chinese zoe1_856617ed:
 
     # "I peek around the tree tops while I’m laid down, but it’s so dark that I can’t make out Butters at all."
-    ""
+    "在我躺下时，我瞥了一眼树梢，但天实在是太黑了，所以根本就看不到Butters的位置。"
 
 # game/deepforest.rpy#L265
 translate chinese zoe1_6b6097fc:
 
     # "Eventually Zoe stands up and brushes off some stray strands of grass from her fur coat."
-    ""
+    "最后，Zoe站起身来，轻轻掸落了粘在鬃毛上的草叶。"
 
 # game/deepforest.rpy#L266
 translate chinese zoe1_7799629a:
 
     # zo "Phew… I was worried no one would come after all. It was certainly a close-call."
-    zo ""
+    zo "唉……我还担心不会有人来呢。可终于还是等到了呢，真不容易呢。"
 
 # game/deepforest.rpy#L267
 translate chinese zoe1_5273a2d2:
 
     # "Right, I already know why she’s here, but she doesn’t know why I’m here. This is a good chance to ask her some questions."
-    ""
+    "没错，我已经知道她来这儿的原因了，可她却不知道我为什么会出现在这里。现在正是问她问题的好机会。"
 
 # game/deepforest.rpy#L268
 translate chinese zoe1_f6a61576:
 
     # mc "That was fun, I still have questions though. Care to humour me?"
-    mc ""
+    mc "真好玩呀，不过我还有几个问题要问。还想满足我一下吗？"
 
 # game/deepforest.rpy#L270
 translate chinese zoe1_7701d4e0:
 
     # zo "Yes, since you did such an incredible task, I’ll answer anything you ask. My name is Zoe, and you are?"
-    zo ""
+    zo "没问题，既然你已经让我十分满意，那我就来回答你的所有问题。我叫Zoe，你叫什么？"
 
 # game/deepforest.rpy#L271
 translate chinese zoe1_d062a291:
 
     # mc "Call me [playername], I live nearby in Arcadia. You caught me during an evening adventure."
-    mc ""
+    mc "叫我[playername]就行。我住在离Arcadia不远的地方。然后在我晚上出来冒险的时候，你遇到了我。"
 
 # game/deepforest.rpy#L273
 translate chinese zoe1_96940045:
 
     # zo "Ahh, I see, it's my pleasure, [playername]. Perhaps you saw my humble cottage, I often leave it to indulge in some frottage."
-    zo ""
+    zo "啊，我明白了。这是我的荣幸，[playername]。或许你已经见到了我的小屋，那是我自慰的好去处。"
 
 # game/deepforest.rpy#L274
 translate chinese zoe1_f3950097:
 
     # "Ahh, so she's the occupant of that cottage? I wonder why I've never met her before if she's friends with Butters."
-    ""
+    "啊，这么说，她就是小屋的主人吗？我在想，如果她是Butters的朋友，为什么我从来都没见过她呢。"
 
 # game/deepforest.rpy#L275
 translate chinese zoe1_f4422101:
 
     # "Time to pursue this line of questioning further."
-    ""
+    "该好好问个清楚了。"
 
 # game/deepforest.rpy#L284
 translate chinese zoetalkmenu_3fb01323:
 
     # zo "Ahh, mhehe… I was looking for a good time before bedtime, got it?"
-    zo ""
+    zo "啊，嗯哈哈……我当时是想在睡觉之前再好好爽一回，明白了没？"
 
 # game/deepforest.rpy#L285
 translate chinese zoetalkmenu_6460bbe0:
 
     # mc "Looking for a good time, in the middle of the woods, with some strange man attracting scent?"
-    mc ""
+    mc "想再好好爽一回？就在这树林里和一个被气味吸引来的陌生男人做那种事吗？"
 
 # game/deepforest.rpy#L287
 translate chinese zoetalkmenu_71e5a00f:
 
     # zo "It worked, didn’t it? My methods are perhaps unusual, but it gets the job done. This little scent attracts any hun, it’s the perfect fuel."
-    zo ""
+    zo "但这方法起作用了，不是吗？我的方法虽然不寻常，但很奏效。用气味吸引帅哥，效果确实很屌。"
 
 # game/deepforest.rpy#L288
 translate chinese zoetalkmenu_68e259b8:
 
     # mc "True enough, but I have to assume you didn’t get what you wanted."
-    mc ""
+    mc "确实很牛。不过，我猜你并没有得到你想要的。"
 
 # game/deepforest.rpy#L290
 translate chinese zoetalkmenu_29cbd4a2:
 
     # zo "Perhaps not, but I found you more than enough fun to play around, though I certainly wasn’t expecting anyone from the town."
-    zo ""
+    zo "可能是吧。虽然我没想把镇上的人吸引过来，但我感觉你好像很有趣诶。"
 
 # game/deepforest.rpy#L291
 translate chinese zoetalkmenu_c7cfe919:
 
     # zo "In truth, I was hunting for a very specific type of chap. But it would seem I mistimed my little trap."
-    zo ""
+    zo "说真的，我当时是在猎捕一种很特别的小男生，可我好像没有设置好陷阱。"
 
 # game/deepforest.rpy#L292
 translate chinese zoetalkmenu_8d7630e2:
 
     # mc "Hmph… I feel pretty silly for getting caught up in this."
-    mc ""
+    mc "嗯哼……卷进这种事让我实在很无奈。"
 
 # game/deepforest.rpy#L294
 translate chinese zoetalkmenu_491dabd4:
 
     # zo "Was my pussy not satisfying enough for you? It certainly wringed out enough dew, mhehe."
-    zo ""
+    zo "难道我的小穴没让你感到满足？我可是挤出了那么多的“仙露”，嗯哈哈。"
 
 # game/deepforest.rpy#L295
 translate chinese zoetalkmenu_563d48cc:
 
     # mc "I just feel like I ought to stop sleeping with every single thing I see. It’s beginning to get out of hand."
-    mc ""
+    mc "我感觉自己不应该再见到谁就睡谁了。情况变得有些失控了。"
 
 # game/deepforest.rpy#L297
 translate chinese zoetalkmenu_a534a865:
 
     # zo "Oh my… Part of the problem, am I?"
-    zo ""
+    zo "哦，天哪……这难道是我的问题吗？"
 
 # game/deepforest.rpy#L302
 translate chinese zoetalkmenu_cef16197:
@@ -993,163 +993,163 @@ translate chinese zoetalkmenu_cef16197:
 translate chinese zoetalkmenu_9da38877:
 
     # zo "All I know is the mysterious art of alchemy."
-    zo ""
+    zo "我唯一知道的就是炼金术。"
 
 # game/deepforest.rpy#L305
 translate chinese zoetalkmenu_c65968ad:
 
     # mc "Should you really be telling me that so leisurely? I thought alchemy was a secret."
-    mc ""
+    mc "你就这么轻易地把炼金术的事告诉我了？我一直以为炼金术是个不能说的秘密呢。"
 
 # game/deepforest.rpy#L307
 translate chinese zoetalkmenu_39d6f32d:
 
     # zo "A secret? No. A societal ignorance? Perhaps."
-    zo ""
+    zo "“秘密”？那可不是秘密。可能是多数人都不了解它吧？可能是这样吧。"
 
 # game/deepforest.rpy#L308
 translate chinese zoetalkmenu_e20e0bfc:
 
     # zo "Most of my care-free customers simply misattribute my wares as not magical, despite the reality."
-    zo ""
+    zo "虽然我做的所有药水都是真的，可很多顾客还是会简单地认为我做的药和魔法没有任何关系。"
 
 # game/deepforest.rpy#L309
 translate chinese zoetalkmenu_8fd520ff:
 
     # zo "Although, that’s because I keep my most magical brews to myself. Some of them are too dangerous to leave the shelf."
-    zo ""
+    zo "之所以会这样，可能是因为我总是亲自保管魔法效果最强的药水。因为有些药水放在货架上是很危险的。"
 
 # game/deepforest.rpy#L310
 translate chinese zoetalkmenu_16c54352:
 
     # mc "Makes sense that you’d only sell basic wares, then."
-    mc ""
+    mc "所以，你为什么只会卖很普通的商品就能解释得通了。"
 
 # game/deepforest.rpy#L312
 translate chinese zoetalkmenu_abc8cf3f:
 
     # zo "There are two forest ‘witches’ that you ought to be wary of."
-    zo ""
+    zo "这片树林里住着两个“女巫”，你一定要小心。"
 
 # game/deepforest.rpy#L313
 translate chinese zoetalkmenu_535ebabc:
 
     # zo "Mhehe, I kid, we’re very friendly actually. If you visit me again, I may even offer you some more love."
-    zo ""
+    zo "嗯哈哈，我开玩笑的。我们两个都是很友善的女巫。如果你再来找我的话，我可能会给你更多的爱哟。"
 
 # game/deepforest.rpy#L318
 translate chinese zoetalkmenu_1f462f77:
 
     # zo "I do indeed, Butters was my alchemical friend. She came to Arcadia initially to work with me in alchemy twenty years ago. Together we can make an impressive blend."
-    zo ""
+    zo "当然是了。在炼金术这方面，Butters是我的合作伙伴。她二十年前就来Arcadia和我一起共事了。我们相当有默契。"
 
 # game/deepforest.rpy#L319
 translate chinese zoetalkmenu_e00fae60:
 
     # mc "Hm… That’s longer than I’ve been alive. You don’t mind if I ask, do you?"
-    mc ""
+    mc "嗯……你们合作的时间比我的年龄还要长。那你不介意我问几个问题吧？"
 
 # game/deepforest.rpy#L321
 translate chinese zoetalkmenu_04fd16e8:
 
     # zo "My age? I believe someone of your generation may refer to me as a ‘MILF’. I can’t think of a single word that rhymes with MILF, though."
-    zo ""
+    zo "我多大了？我感觉像你这代人可能会把我当成“老女人”。但我还没想到能和“老女人”这个词押上韵的词。"
 
 # game/deepforest.rpy#L322
 translate chinese zoetalkmenu_221fbf90:
 
     # mc "That’s all I need to know. Hell yeah."
-    mc ""
+    mc "我就想知道这些。太棒了。"
 
 # game/deepforest.rpy#L324
 translate chinese zoetalkmenu_e7b43f0d:
 
     # zo "And so, you know of Butters too?"
-    zo ""
+    zo "这么说，你也认识Butters？"
 
 # game/deepforest.rpy#L325
 translate chinese zoetalkmenu_6868737e:
 
     # mc "Indeed I do, I’m a close friend of hers, actually. I’m surprised you and I haven’t met."
-    mc ""
+    mc "当然认识了。我可是她的好朋友。不过咱们可没见过面，这真的让我很惊讶。"
 
 # game/deepforest.rpy#L327
 translate chinese zoetalkmenu_279261bd:
 
     # zo "How curious. She and I haven’t seen each other much lately, I had accidentally made her furious, and we fell apart."
-    zo ""
+    zo "说来也很奇怪，最近一段时间我们就很少见面了。因为我之前不小心惹她生气了，所有我们就闹掰了。"
 
 # game/deepforest.rpy#L328
 translate chinese zoetalkmenu_33b4ee51:
 
     # mc "Huh? What did you do?"
-    mc ""
+    mc "嗯？你都做了什么？"
 
 # game/deepforest.rpy#L330
 translate chinese zoetalkmenu_7decd814:
 
     # zo "Mmm, something about werewolves… I needn't bore you with detail."
-    zo ""
+    zo "嗯，就是狼人那些事嘛……不过我不会解释那么多废话来烦你了。"
 
 # game/deepforest.rpy#L331
 translate chinese zoetalkmenu_34c08de3:
 
     # mc "Right… I think I get it."
-    mc ""
+    mc "好吧……我好像知道是什么情况了。"
 
 # game/deepforest.rpy#L332
 translate chinese zoetalkmenu_32b28a87:
 
     # "I wonder if she gets annoyed if you interrupt her before she finishes her rhyme."
-    ""
+    "我在想，如果我在她还没押完韵的时候打断她，她会生气吗。"
 
 # game/deepforest.rpy#L337
 translate chinese zoetalkmenu_333e8445:
 
     # zo "Okay, just as soon as you came out of the blue, now it’s time to shoo."
-    zo ""
+    zo "好了，你来也匆匆，去也匆匆。"
 
 # game/deepforest.rpy#L338
 translate chinese zoetalkmenu_b03c7986:
 
     # mc "You’re telling me to leave?"
-    mc ""
+    mc "你是想让我走吗？"
 
 # game/deepforest.rpy#L340
 translate chinese zoetalkmenu_c48bf8d0:
 
     # zo "Would you rather stick around? I have beauty sleep to get. Maybe visit me again at my cottage someday, and we can dick around."
-    zo ""
+    zo "你还想在这儿继续待下去吗？我还要睡美容觉呢。有空就到小屋来找我，然后咱们就能爱爱了。"
 
 # game/deepforest.rpy#L352
 translate chinese zoetalkmenu_22e6f8e6:
 
     # butters "That’ll be fine, Zoe. I’ll be taking him."
-    butters ""
+    butters "那就太好了，Zoe。让我来背他吧。"
 
 # game/deepforest.rpy#L354
 translate chinese zoetalkmenu_c2ee2d33:
 
     # zo "Ahh, Butters, you were correct, as usual…"
-    zo ""
+    zo "啊，Butters，说得对，就和平时一样……"
 
 # game/deepforest.rpy#L356
 translate chinese zoetalkmenu_605aedb4:
 
     # butters "I told you, you were being delusional."
-    butters ""
+    butters "我早就告诉过你了，你有妄想症。"
 
 # game/deepforest.rpy#L358
 translate chinese zoetalkmenu_d81b7ec3:
 
     # zo "Was this man part of your plan?"
-    zo ""
+    zo "这老兄是你计划的一部分吗？"
 
 # game/deepforest.rpy#L360
 translate chinese zoetalkmenu_7857d146:
 
     # butters "Plan? What are you trying to say? I took part in no scam."
-    butters ""
+    butters "“计划”？你想说什么？坑蒙拐骗的事我可不干。"
 
 # game/deepforest.rpy#L361
 translate chinese zoetalkmenu_89783a83:
@@ -1161,127 +1161,127 @@ translate chinese zoetalkmenu_89783a83:
 translate chinese zoetalkmenu_a7153ed7:
 
     # butters "Hehe, sorry! I just like playing along sometimes."
-    butters ""
+    butters "嘿嘿，抱歉！有时候我就喜欢自己一个人玩。"
 
 # game/deepforest.rpy#L364
 translate chinese zoetalkmenu_d1bc8227:
 
     # mc "Alright, but why do you do it, Zoe?"
-    mc ""
+    mc "好吧，可你为什么要这么做呢，Zoe？"
 
 # game/deepforest.rpy#L366
 translate chinese zoetalkmenu_f04f1e0a:
 
     # zo "What’s wrong with it, son? Don’t you like to have fun?"
-    zo ""
+    zo "有什么问题吗，小哥？难道你不想找点乐？"
 
 # game/deepforest.rpy#L367
 translate chinese zoetalkmenu_18b7d492:
 
     # mc "Bruh… If it requires rhyming every word, I don’t want none."
-    mc ""
+    mc "呃……要是每个词都需要押韵的话，那就算了。"
 
 # game/deepforest.rpy#L369
 translate chinese zoetalkmenu_615cba74:
 
     # zo "That’s a shame… I loved making you cum."
-    zo ""
+    zo "真可惜……我就喜欢让你射一地。"
 
 # game/deepforest.rpy#L371
 translate chinese zoetalkmenu_672dad54:
 
     # butters "Alright everyone, it’s getting late. Let's make like a tree and split."
-    butters ""
+    butters "好了，两位，时间不早了。咱们该各回各家了。"
 
 # game/deepforest.rpy#L372
 translate chinese zoetalkmenu_c08ef966:
 
     # mc "What a strange walk this turned out to be."
-    mc ""
+    mc "这趟旅行可真是诡异啊。"
 
 # game/deepforest.rpy#L376
 translate chinese zoetalkmenu_19da5710:
 
     # "Zoe takes her leave, returning in the direction of the other cottage, while Butters and I return to hers."
-    ""
+    "Zoe转身朝着自己小屋的方向走去，而我和Butters则朝着她小屋的方向走去。"
 
 # game/deepforest.rpy#L379
 translate chinese zoetalkmenu_55837317:
 
     # butters "Ah sheesh… I suppose that was a pretty fun end to the night. Everything is better when you’re involved."
-    butters ""
+    butters "啊，胡说……我感觉今晚很有意思啊。自从你加入我们之后，事情就变得很顺利了。"
 
 # game/deepforest.rpy#L380
 translate chinese zoetalkmenu_517f2707:
 
     # mc "Is that your old work partner, then? You know, before you and I started to work together a lot."
-    mc ""
+    mc "她是你从前的搭档吗？你懂得，我指的是在你我搭档之前，她是不是就已经和你一起共事了。"
 
 # game/deepforest.rpy#L381
 translate chinese zoetalkmenu_1ab5f2e1:
 
     # mc "I sensed a little bit of tension between you two."
-    mc ""
+    mc "在你们两个面前，我感觉有点紧张。"
 
 # game/deepforest.rpy#L384
 translate chinese zoetalkmenu_16525cad:
 
     # "Butters gets changed as she replies."
-    ""
+    "在Butters回答我时，她的语气发生了变化。"
 
 # game/deepforest.rpy#L385
 translate chinese zoetalkmenu_2c1ff780:
 
     # butters "Indeed, we worked together for a long time. Although there has been some minor turbulence within our more recent relations. We just can’t seem to agree on anything anymore."
-    butters ""
+    butters "没错，我们在一起共事已经有很长时间了。但最近，我们两个之间出现了点小矛盾，我们在所有事上的看法都不一致了。"
 
 # game/deepforest.rpy#L386
 translate chinese zoetalkmenu_d382424f:
 
     # butters "It’s like she always has something to prove compared to me, an inferiority complex which she self imposes. This leads to her trying to show off, for validation or ego, I couldn't say."
-    butters ""
+    butters "她总是喜欢和我比，就好像她感觉自己低人一等似的。所以，为了能得到别人的认可，同时满足自尊心，她开始喜欢上了自我炫耀。但我也说不清楚究竟是为什么。"
 
 # game/deepforest.rpy#L387
 translate chinese zoetalkmenu_d8037205:
 
     # butters "But the insecurity it brings just leaves her stubborn and standoffish."
-    butters ""
+    butters "但缺乏安全感却让她变得很固执也很冷漠。"
 
 # game/deepforest.rpy#L390
 translate chinese zoetalkmenu_f0351002:
 
     # butters "Oh, and that rhyming thing? She just does it for attention. Everyone thinks it’s a funny quirk, but I dunno… To her it’s just another way to try and show off."
-    butters ""
+    butters "哦，还有她说话总是要押韵的事。她这么做只是为了博人眼球。所有人都感觉这只是个怪癖，但我不知道……可对她来说，这就是另一种炫耀的方式。"
 
 # game/deepforest.rpy#L394
 translate chinese zoetalkmenu_d35b9206:
 
     # butters "Well… The last straw for me was the werewolves incident."
-    butters ""
+    butters "好吧……我最后一根救命稻草就是解决狼人的问题了。"
 
 # game/deepforest.rpy#L395
 translate chinese zoetalkmenu_e15136fd:
 
     # butters "They’re not actually native to this area, she purposely infected someone for her sick fetish!"
-    butters ""
+    butters "狼人并不是这片地区的原住民。因为她的怪癖，所以她会有意地去感染其他的人！"
 
 # game/deepforest.rpy#L398
 translate chinese zoetalkmenu_221b6458:
 
     # butters "Well… Maybe I’m being unfair because I’m currently seeing every aspect of her from a negative light."
-    butters ""
+    butters "好吧……可能是因为我最近对他们的印象很不好，所以我对他们的态度才会带有偏见。"
 
 # game/deepforest.rpy#L399
 translate chinese zoetalkmenu_008fafd3:
 
     # butters "I’ve had a lot of time to dwell on those negatives too, especially because of the recent incident."
-    butters ""
+    butters "而且因为最近发生的某件事，我也常常会想起这些不好的印象。"
 
 # game/deepforest.rpy#L400
 translate chinese zoetalkmenu_9d9f9b3d:
 
     # mc "Incident?"
-    mc ""
+    mc "什么事？"
 
 # game/deepforest.rpy#L402
 translate chinese zoetalkmenu_7c48511c:
@@ -1293,43 +1293,43 @@ translate chinese zoetalkmenu_7c48511c:
 translate chinese zoetalkmenu_8a6f3c0e:
 
     # butters "Heh, you meanie… She’s still a really good alchemist, but she’s always been a few pegs behind me, and as a result she’s always tried to outdo me."
-    butters ""
+    butters "嘿，你个小气鬼……她还是个很厉害的炼金术士，但她却总是稍逊于我。所以，她就总想超过我。"
 
 # game/deepforest.rpy#L406
 translate chinese zoetalkmenu_d09ed734:
 
     # butters "But it’s pretty hard to outdo someone with twice your age and experience."
-    butters ""
+    butters "但想超越年龄和经验都比自己高出一倍的人可不是件容易事。"
 
 # game/deepforest.rpy#L407
 translate chinese zoetalkmenu_cd3e9f7c:
 
     # butters "I’m fairly sure she can brew her own anti-lycanthropy potions now, but I’m still going to help her cure the werewolves in the area."
-    butters ""
+    butters "虽然我能保证，她现在可以自己制作出用于治疗变狼术的药水，但我还是会继续帮助她去治愈这片区域内的狼人。"
 
 # game/deepforest.rpy#L408
 translate chinese zoetalkmenu_a23d3c92:
 
     # mc "What’s up with the werewolves I keep hearing about?"
-    mc ""
+    mc "这些狼人是怎么回事？"
 
 # game/deepforest.rpy#L410
 translate chinese zoetalkmenu_796c37b7:
 
     # butters "Well… They’re not actually native to this area, she purposely infected someone for her sick fetish"
-    butters ""
+    butters "呃……这些狼人并不是这片地区的原住民。因为她的怪癖，所以她会有意地去感染其他的人。"
 
 # game/deepforest.rpy#L412
 translate chinese zoetalkmenu_58f234a6:
 
     # mc "Woah, that’s pretty heavy."
-    mc ""
+    mc "哇哦，确实很危险啊。"
 
 # game/deepforest.rpy#L414
 translate chinese zoetalkmenu_90fce6ef:
 
     # butters "I was so pissed off that I swore I’d never work with her again…"
-    butters ""
+    butters "我因为受够了这些，所以发誓不会再和她一起共事了……"
 
 # game/deepforest.rpy#L415
 translate chinese zoetalkmenu_3b769d86:
@@ -1341,163 +1341,163 @@ translate chinese zoetalkmenu_3b769d86:
 translate chinese zoetalkmenu_8c70ff69:
 
     # butters "Problem is, there are probably a few of them now…"
-    butters ""
+    butters "可问题是，现在狼人的数量又增加了……"
 
 # game/deepforest.rpy#L418
 translate chinese zoetalkmenu_58a5c398:
 
     # mc "Oh dear! We're all at risk."
-    mc ""
+    mc "哦，我的天！咱们的处境很危险啊。"
 
 # game/deepforest.rpy#L420
 translate chinese zoetalkmenu_bf636760:
 
     # butters "Zoe thinks there's just the one male and a few submissive females, but it’s hard to keep track. For all we know, there could be another one from tonight."
-    butters ""
+    butters "Zoe认为这附近只有一只雄性狼人和几只顺从于他的雌性狼人。但追踪他们却很困难。而且，据我们所知，今晚又新出现了一只狼人。"
 
 # game/deepforest.rpy#L421
 translate chinese zoetalkmenu_fcb66a26:
 
     # butters "It’s quite the stressful job because it’s almost impossible to identify the curse in regular individuals."
-    butters ""
+    butters "这个工作的压力太大了，因为想要确认正常人是否染上了这种诅咒几乎是不可能的。"
 
 # game/deepforest.rpy#L422
 translate chinese zoetalkmenu_97a4d638:
 
     # butters "As long as we can get all the males that’ll typically fix the problem though, female werewolves only mate with other werewolves. But I guess bite infections are still a possiblity..."
-    butters ""
+    butters "只要抓住了所有雄性狼人，问题应该就能解决了。这样的话，雌性狼人就只能去找其他狼人交配了。但我猜测，通过撕咬也是有感染可能性的……"
 
 # game/deepforest.rpy#L424
 translate chinese zoetalkmenu_906f495f:
 
     # butters "So anyway, that’ll be what I do every full moon for about half a year."
-    butters ""
+    butters "所以，每到满月的时候，我就会忙这事。我已经忙了差不多半年了。"
 
 # game/deepforest.rpy#L425
 translate chinese zoetalkmenu_1633db2c:
 
     # butters "Watching from the trees with two servings of the potion. The only time a werewolf really lets its guard down is when they’re knotted in a female."
-    butters ""
+    butters "我会带上两瓶药水，躲在树上进行观察。狼人只有在和雌性交配的时候才会真正放松警惕。"
 
 # game/deepforest.rpy#L426
 translate chinese zoetalkmenu_78c37a34:
 
     # mc "I think I totally understand why you’re pissed off."
-    mc ""
+    mc "我好像明白你为什么会烦了。"
 
 # game/deepforest.rpy#L427
 translate chinese zoetalkmenu_7a938adc:
 
     # mc "Surprised you let me fuck her, then. You could have just left her to sit around for the hour."
-    mc ""
+    mc "但你居然会让我去干她，这确实让我很惊讶。其实你完全可以让她在原地等上一个小时的。"
 
 # game/deepforest.rpy#L429
 translate chinese zoetalkmenu_eb9222ed:
 
     # butters "Ah, I’m not so cruel. I figured you’d still have fun with a thick MILF like her."
-    butters ""
+    butters "啊，其实我可没那么残忍。其实我发现，你对她那样丰满的老女人也是挺感兴趣的。"
 
 # game/deepforest.rpy#L430
 translate chinese zoetalkmenu_fe2ebe71:
 
     # butters "Take her offer to go visit her too, I don’t mind."
-    butters ""
+    butters "她邀请你，你就去找她。我是不会介意的。"
 
 # game/deepforest.rpy#L431
 translate chinese zoetalkmenu_89dec270:
 
     # butters "Maybe a normal man will help knock some sense into her."
-    butters ""
+    butters "说不定正常的男人还能帮他恢复正常呢。"
 
 # game/deepforest.rpy#L432
 translate chinese zoetalkmenu_640385e8:
 
     # mc "Ah-ha! You think if she sleeps with me, she’ll stop being such a werewolf fucker?"
-    mc ""
+    mc "啊哈！你觉得如果我把她给睡了，她就不会再去干狼人了吗？"
 
 # game/deepforest.rpy#L434
 translate chinese zoetalkmenu_a26287cd:
 
     # butters "Mehh, you’re certainly good enough at sex to take that lustful energy of hers and put it somewhere else."
-    butters ""
+    butters "对，你在性这方面确实很在行。你可以平息掉她的欲火。"
 
 # game/deepforest.rpy#L435
 translate chinese zoetalkmenu_792f9f2f:
 
     # mc "Oh well, I don’t mind."
-    mc ""
+    mc "哦，好吧，我是不会在意这些的。"
 
 # game/deepforest.rpy#L437
 translate chinese zoetalkmenu_c42d2b50:
 
     # butters "And thanks for saving about forty-five minutes of my life. Imagine if I had to wait that entire time!"
-    butters ""
+    butters "谢谢你帮我节省了四十五分钟时间。要是真让我等上四十五分钟，那会是什么场面啊！"
 
 # game/deepforest.rpy#L438
 translate chinese zoetalkmenu_035fbe65:
 
     # mc "Maybe call me next month? Hah."
-    mc ""
+    mc "如果可以的话，下个月还可以再联系我，哈哈。"
 
 # game/deepforest.rpy#L442
 translate chinese zoetalkmenu_ae54ae47:
 
     # mc "I’m gonna go back to the wagon. See you later Butters."
-    mc ""
+    mc "我要回篷车了。再见了，Butters。"
 
 # game/deepforest.rpy#L443
 translate chinese zoetalkmenu_5e5c1ff1:
 
     # butters "Bye-bye [playername]."
-    butters ""
+    butters "拜拜，[playername]。"
 
 # game/deepforest.rpy#L451
 translate chinese zoe2_ae87f007:
 
     # "Alright, let’s visit the {i}other{/i} witch in the woods."
-    ""
+    "好了，我来见见树林里的{i}其他{/i}女巫。"
 
 # game/deepforest.rpy#L452
 translate chinese zoe2_39b1df9f:
 
     # "Now that I know a little more about her from Butters, I’m interested to hear if she has a side to this story."
-    ""
+    "我已经从Butters那儿了解到了一些关于她的事，所以我很感兴趣的是，她对这件事的描述会不会有其他的版本。"
 
 # game/deepforest.rpy#L453
 translate chinese zoe2_016f8bf6:
 
     # "I walk through the woods until I stumble upon the second cottage, barely remembering the correct way as I stumble around."
-    ""
+    "我穿过树林，跌跌撞撞地来到了第二座小屋前。由于一路的艰难跋涉，我连来时候的路都记不清了。"
 
 # game/deepforest.rpy#L455
 translate chinese zoe2_03829845:
 
     # "But eventually, west to Butters’ cottage, I find Zoe’s abode."
-    ""
+    "可最终，我在Butters小屋以西不远处的地方找到了Zoe的住处。"
 
 # game/deepforest.rpy#L457
 translate chinese zoe2_76f88b63:
 
     # "I knock on the wooden door, and she lets me in."
-    ""
+    "我敲了敲木门，随后她便让我进到屋里来。"
 
 # game/deepforest.rpy#L461
 translate chinese zoe2_6f49f432:
 
     # zo "Greetings [playername]. Are you here to give my pussy a beating?"
-    zo ""
+    zo "你好啊，[playername]。你是为了干我的小穴才来的吗？"
 
 # game/deepforest.rpy#L462
 translate chinese zoe2_b769fcec:
 
     # mc "Hey Zoe, sheesh, you didn't waste any time. How about you just bend over now why don't you?"
-    mc ""
+    mc "嘿，Zoe。我的天，你可真会节省时间啊。你为什么不直接把屁股翘起来等着我呢？"
 
 # game/deepforest.rpy#L463
 translate chinese zoe2_f806fef6:
 
     # mc "I suppose by being here I did take you up on that offer though, didn’t I?"
-    mc ""
+    mc "我感觉到这儿来的目的就是为了满足你，是不是啊？"
 
 # game/deepforest.rpy#L465
 translate chinese zoe2_f46cbfb7:
@@ -1509,43 +1509,43 @@ translate chinese zoe2_f46cbfb7:
 translate chinese zoe2_fd63e68b:
 
     # "She seductively wiggles her hips, exuding big MILF energy right now."
-    ""
+    "她诱惑性地摆动着自己的臀部，尽显出老女人的风韵。"
 
 # game/deepforest.rpy#L467
 translate chinese zoe2_df2b9105:
 
     # mc "I see you’ve taken a liking to me, even though I’m not like your werewolf lovers."
-    mc ""
+    mc "虽然我和你那些狼人小情人一点也不像，但我看得出来，你对我还是很感性趣的。"
 
 # game/deepforest.rpy#L469
 translate chinese zoe2_eab218b0:
 
     # zo "Ah, she told you? It’s true, I do like the occasional canine to screw."
-    zo ""
+    zo "啊，这是她告诉你的吧？不过没错，我的确很喜欢和偶尔光顾的狼人寻欢作乐。"
 
 # game/deepforest.rpy#L470
 translate chinese zoe2_add4a0a0:
 
     # zo "But I suppose you’re not so bad between the full moons. I’d be driven mad if I could only have sex once a month."
-    zo ""
+    zo "我猜，在两次满月之间，你对性的渴望可能不会特别强烈。但如果每个月只让我爱爱一次的话，我是会疯掉的。"
 
 # game/deepforest.rpy#L471
 translate chinese zoe2_97ae5c5a:
 
     # mc "And uh, you made this individual you were hunting for last night a werewolf on purpose?"
-    mc ""
+    mc "呃，昨天晚上你本来是想抓狼人的，但却抓到了我。你原本的目的是为了干那事吗？"
 
 # game/deepforest.rpy#L473
 translate chinese zoe2_35c09bc8:
 
     # zo "Ahh… *Sigh* There was an accident, but Butters claimed I was entirely at fault for my carelessness."
-    zo ""
+    zo "啊……*叹气* 那是个意外，可Butters却说，这是因为我的疏忽导致的，所以我要负全责。"
 
 # game/deepforest.rpy#L474
 translate chinese zoe2_c06ea815:
 
     # zo "It’s true, I had a lycanthropy potion… but it was never my intention to give it to someone. Now the curse has spread through sex and biting. It has become quite the stress."
-    zo ""
+    zo "我确实有一瓶会让人变成狼人的药水……可我不想把它交给别人。现在，这种诅咒可以通过性和撕咬传播了。所以情况就变得相当紧急了。"
 
 # game/deepforest.rpy#L478
 translate chinese zoe2_1f1c121e:
@@ -1557,85 +1557,85 @@ translate chinese zoe2_1f1c121e:
 translate chinese zoe2_d51a67d2:
 
     # zo "Butters had always been critical of my habits, and I always rolled my eyes and acted irate. But she was correct, my habit to not label any of my potions has certainly placed a lot of problems on my plate."
-    zo ""
+    zo "Butters总会因为我很多不好的习惯批评我，可我却总会翻着白眼，愤怒不已。但她是对的，我不给药水贴标签的习惯的确给我自己惹过很多麻烦。"
 
 # game/deepforest.rpy#L484
 translate chinese zoe2_790df734:
 
     # zo "My actions have caused a lot of grief. The situation should have been far more brief, but my carelessness caused the curse to spread further than it should have."
-    zo ""
+    zo "因为我的所作所为，造成了很多的麻烦。情况本来就很糟了，可因为我的失误，诅咒传播的速度变得比之前更快了。"
 
 # game/deepforest.rpy#L487
 translate chinese zoe2_32c0ad44:
 
     # zo "Yes, I am partially guilty, that is my admission. But it was still an accident, and only recently Butters has come around to see my side of the story, so the two of us tried to cure the victim."
-    zo ""
+    zo "是啊，我感觉很内疚，这点我承认。但那真的只是个意外。最近一段时间，Butters找过我，也听了我对这事的描述和看法。所以，我们才决定要把所有受害者全部治好。"
 
 # game/deepforest.rpy#L488
 translate chinese zoe2_bae43191:
 
     # mc "How many are there?"
-    mc ""
+    mc "需要治疗的人一共有多少？"
 
 # game/deepforest.rpy#L490
 translate chinese zoe2_4f94d456:
 
     # zo "Hard to say. Our hands are tied due to male werewolves and their predisposition to spread it."
-    zo ""
+    zo "很难说。因为雄性狼人和感染传播的问题，所以我们完全放不开手脚。"
 
 # game/deepforest.rpy#L491
 translate chinese zoe2_82e65535:
 
     # zo "We’ll need to keep that at bay. When we first met, you saw my method. Using a special pheromone fragrance, we can lure all male werewolves in about a ten-kilometre radius until they just stop coming."
-    zo ""
+    zo "我们要把控制住现在的局面。咱们第一次见面的时候，你已经见识过我的方法了。在他们停止进犯之前，咱们可以用一种特殊的信息素来吸引这方圆十公里范围内的所有雄性狼人。"
 
 # game/deepforest.rpy#L492
 translate chinese zoe2_8849e5e7:
 
     # mc "Uh, what if multiple arrive?"
-    mc ""
+    mc "呃，要是有很多狼人都被吸引过来了该怎么办呢？"
 
 # game/deepforest.rpy#L494
 translate chinese zoe2_80609a15:
 
     # zo "I can take a few, then Butters can cure them after they’re exhausted from their screw."
-    zo ""
+    zo "我可以抓住一部分狼人。在他们交配后精疲力竭的时候，Butters就可以给他们治疗了。"
 
 # game/deepforest.rpy#L495
 translate chinese zoe2_e33a5eaa:
 
     # mc "And the females?"
-    mc ""
+    mc "那雌性狼人怎么办？"
 
 # game/deepforest.rpy#L497
 translate chinese zoe2_835194ba:
 
     # zo "Typically docile and only sought out by the males. Butters is currently trying to concoct a method to detect them, which is great."
-    zo ""
+    zo "通常情况下，她们只会服从于雄性，而且只有雄性才会主动去寻找她们。最近，Butters正在研究一种可以探测雌性位置的方法，简直是棒极了。"
 
 # game/deepforest.rpy#L498
 translate chinese zoe2_99cd90dc:
 
     # "We should probably get Lily to help, or even Princess Selene. They probably haven't even noticed 2-3 infections, but I bet they can easily nip the problem in the bud."
-    ""
+    "或许，我们应该向Lily，或是Selene公主寻求帮助。虽然她们还没有注意到这两三起感染事件，但我敢打赌，她们能在情况恶化前将问题轻松地解决掉。"
 
 # game/deepforest.rpy#L499
 translate chinese zoe2_35f508f9:
 
     # zo "If we don’t control the situation, we’ll definitely draw the ire of Princess Selene at this rate. I could do without a prison sentence."
-    zo ""
+    zo "如果我们不能控制住局面，Selene公主一定会动怒的。那样的话，我肯定就躲不过牢狱之灾了。"
 
 # game/deepforest.rpy#L500
 translate chinese zoe2_22fb05eb:
 
     # mc "Hm... I really don't think avoiding help is the solution."
-    mc ""
+    mc "嗯……我认为，不寻求帮助肯定是不行的。"
 
 # game/deepforest.rpy#L504
 translate chinese zoe2_6d3e5321:
 
     # zo "*Nods* Yes, this has been a lesson in humility."
-    zo ""
+    zo "*点头* 是啊，我已经在“不想麻烦别人”这件事上得到过教训了。"
 
 # game/deepforest.rpy#L508
 translate chinese zoe2_7dfd2a61:
@@ -1647,7 +1647,7 @@ translate chinese zoe2_7dfd2a61:
 translate chinese zoe2_e26aeed6:
 
     # zo "*Sigh* You’re just as bad as they are. But I like a bad boy."
-    zo ""
+    zo "*喘气* 你和他们一样坏。不过我就喜欢坏孩子。"
 
 # game/deepforest.rpy#L516
 translate chinese zoe2_91e5573e:
@@ -1659,31 +1659,31 @@ translate chinese zoe2_91e5573e:
 translate chinese zoe2_beea5e9f:
 
     # mc "Hmph…"
-    mc ""
+    mc "嗯……"
 
 # game/deepforest.rpy#L519
 translate chinese zoe2_094cb339:
 
     # "At that moment, a familiar green figure enters the room."
-    ""
+    "此时，一个熟悉的绿色身影走进了房间。"
 
 # game/deepforest.rpy#L525
 translate chinese zoe2_e802cfdc:
 
     # alraune "Ah? It’s you!"
-    alraune ""
+    alraune "啊？是你！"
 
 # game/deepforest.rpy#L526
 translate chinese zoe2_c617d292:
 
     # mc "The Alraune from the cave? What are you doing here?"
-    mc ""
+    mc "一个洞穴里的Alraune？你在这儿干什么呢？"
 
 # game/deepforest.rpy#L528
 translate chinese zoe2_363374ce:
 
     # alraune "I live here, dummy!"
-    alraune ""
+    alraune "我就住在这儿，傻瓜！"
 
 # game/deepforest.rpy#L536
 translate chinese zoe2_5c3d03c3:
@@ -1695,31 +1695,31 @@ translate chinese zoe2_5c3d03c3:
 translate chinese zoe2_c4d07c78:
 
     # mc "You know this ‘pet’ molested Butters and I once, right?"
-    mc ""
+    mc "你应该知道你的“宠物”骚扰过我和Butters吧？"
 
 # game/deepforest.rpy#L539
 translate chinese zoe2_24c7b9ca:
 
     # zo "Is this true? I shall have to discipline you, Alraune."
-    zo ""
+    zo "是吗？我真该教训教训你了，Alraune。"
 
 # game/deepforest.rpy#L541
 translate chinese zoe2_5296a5b3:
 
     # alraune "Wha? It was consensual, you bully!"
-    alraune ""
+    alraune "什么？那是双方自愿的好吗，你个流氓！"
 
 # game/deepforest.rpy#L542
 translate chinese zoe2_cc3b646b:
 
     # alraune "Look, come here [playername]."
-    alraune ""
+    alraune "嘿，[playername]，快过来。"
 
 # game/deepforest.rpy#L543
 translate chinese zoe2_bab919a9:
 
     # "She comes closer and whispers into my ear."
-    ""
+    "她走到我身边，在我耳边低声说道。"
 
 # game/deepforest.rpy#L547
 translate chinese zoe2_357c2944:
@@ -1731,13 +1731,13 @@ translate chinese zoe2_357c2944:
 translate chinese zoe2_13bc11b2:
 
     # alraune "*Whisper* I’ll let you bang me if you do!"
-    alraune ""
+    alraune "*低语* 要是你想的话，我就让你和我啪啪啪！"
 
 # game/deepforest.rpy#L552
 translate chinese zoe2_c3c22694:
 
     # alraune "Yep, yep! What do you think, Zoe?"
-    alraune ""
+    alraune "是啊，是啊！你是怎么想的，Zoe？"
 
 # game/deepforest.rpy#L554
 translate chinese zoe2_b70cdfce:
@@ -1749,19 +1749,19 @@ translate chinese zoe2_b70cdfce:
 translate chinese zoe2_32a94a71:
 
     # alraune "Phhhewwww…"
-    alraune ""
+    alraune "唉……"
 
 # game/deepforest.rpy#L562
 translate chinese zoe2_073336a2:
 
     # alraune "Oh come on! It was only some light jovial molestation!"
-    alraune ""
+    alraune "哦，拜托！那次骚扰不是让人很开心吗！"
 
 # game/deepforest.rpy#L563
 translate chinese zoe2_e83f1a5c:
 
     # mc "There is no such thing!"
-    mc ""
+    mc "简直是胡扯！"
 
 # game/deepforest.rpy#L564
 translate chinese zoe2_53029f0a:
@@ -1779,25 +1779,25 @@ translate chinese zoe2_65fcf26f:
 translate chinese zoe2_ca6a6649:
 
     # "You know, Zoe is really growing on me right now."
-    ""
+    "知道吗，现在Zoe已经喜欢上我了。"
 
 # game/deepforest.rpy#L568
 translate chinese zoe2_e4abbc73:
 
     # alraune "Awwwhh maaannn…"
-    alraune ""
+    alraune "噢……老天……"
 
 # game/deepforest.rpy#L569
 translate chinese zoe2_d196d40c:
 
     # mc "Why are you complaining? That’s exactly what you said you’d do when you whispered in my ear."
-    mc ""
+    mc "你为什么要抱怨呢？刚才你在我耳边小声说的不就是这些吗？"
 
 # game/deepforest.rpy#L571
 translate chinese zoe2_2d94164f:
 
     # alraune "Yeah but, I hate being told what to do, even if I was gonna do it anyway! Hehe."
-    alraune ""
+    alraune "是啊，可我不喜欢让别人来告诉我该怎么做。即便是我想做某件事，我也不喜欢别人指手画脚！嘿嘿。"
 
 # game/deepforest.rpy#L573
 translate chinese zoe2_7b9e4c39:
@@ -1809,337 +1809,337 @@ translate chinese zoe2_7b9e4c39:
 translate chinese zoe2_631c948f:
 
     # zo "Greetings, [playername]. Always a welcome guest in this household."
-    zo ""
+    zo "你好，[playername]。这里永远都欢迎你的到来。"
 
 # game/deepforest.rpy#L589
 translate chinese zoe2_c5d66739:
 
     # alraune "Oh my gosh, [playername]! Come here!"
-    alraune ""
+    alraune "哦，老天，[playername]！快过来！"
 
 # game/deepforest.rpy#L590
 translate chinese zoe2_05500ff6:
 
     # mc "Huh?"
-    mc ""
+    mc "哈？"
 
 # game/deepforest.rpy#L591
 translate chinese zoe2_366bc42f:
 
     # "She leads me into her bedroom."
-    ""
+    "她让我到她的卧室去。"
 
 # game/deepforest.rpy#L594
 translate chinese zoe2_d21a8e97:
 
     # alraune "Look, our child!"
-    alraune ""
+    alraune "快看啊，这是咱们的孩子！"
 
 # game/deepforest.rpy#L595
 translate chinese zoe2_3d6a7d91:
 
     # mc "Ah?!"
-    mc ""
+    mc "啊？！"
 
 # game/deepforest.rpy#L596
 translate chinese zoe2_d50c0a95:
 
     # "She holds out a potted plant towards me. It's a single green stem in some soil."
-    ""
+    "她拿着一棵盆栽植物摆在我面前。可那只是一棵种在土里的绿色茎干而已。"
 
 # game/deepforest.rpy#L597
 translate chinese zoe2_9c02a3bc:
 
     # mc "Uhh, this thing is our child?"
-    mc ""
+    mc "呃，这就是咱们的孩子？"
 
 # game/deepforest.rpy#L599
 translate chinese zoe2_836bb07b:
 
     # alraune "Yep! Isn't she soooo cute?"
-    alraune ""
+    alraune "是啊！她是不是很可爱呀？"
 
 # game/deepforest.rpy#L600
 translate chinese zoe2_5171112d:
 
     # mc "Oh, uh, yeah... Is this an Alraune too?"
-    mc ""
+    mc "哦，呃，是啊……这不也是个Alraune吗？"
 
 # game/deepforest.rpy#L602
 translate chinese zoe2_b5f5afd1:
 
     # alraune "Well, she could be in about ten years. For now, it's just a rose!"
-    alraune ""
+    alraune "是啊，十年之后她也会变成一个Alraune。但现在，她还是一朵玫瑰！"
 
 # game/deepforest.rpy#L603
 translate chinese zoe2_65c49dbd:
 
     # mc "My semen contributed into making a rose? Woah..."
-    mc ""
+    mc "我的精液居然能让你生出一朵玫瑰？哇哦……"
 
 # game/deepforest.rpy#L605
 translate chinese zoe2_db3719b6:
 
     # alraune "Let's make lots more! Okay?"
-    alraune ""
+    alraune "咱们再多做几次吧！好吗？"
 
 # game/deepforest.rpy#L606
 translate chinese zoe2_e36756f0:
 
     # "Man, maybe I oughta be more careful about who I choose to cum in."
-    ""
+    "我的天，或许在内射这件事上，我真应该多注意一点才对。"
 
 # game/deepforest.rpy#L608
 translate chinese zoe2_568954f5:
 
     # alraune "For now, um, maybe you want to have some fun with Zoe too? You can pick one of us if you want!"
-    alraune ""
+    alraune "嗯……或许你也想找Zoe好好玩一玩？如果你愿意的话，也带上我吧！"
 
 # game/deepforest.rpy#L621
 translate chinese zoe2_03f87033:
 
     # alraune "Hiya! Gonna stay the evening again? You’ll have to pick a lovely lady to spend that time with."
-    alraune ""
+    alraune "嘿呀！今晚又要共度良宵吗？你要选个漂亮姑娘陪你才行。"
 
 # game/deepforest.rpy#L626
 translate chinese zoe2_949f04f5:
 
     # zo "Sorry my dear pet, but [playername] has chosen me today. You needn’t fret, I’m sure you’ll be on his list next."
-    zo ""
+    zo "抱歉了，小乖乖。今天[playername]已经和我有约了。不用着急，我保证下次就能轮到你了。"
 
 # game/deepforest.rpy#L627
 translate chinese zoe2_10060dc7:
 
     # alraune "Yeah yeah, whatevs!"
-    alraune ""
+    alraune "好吧，好吧，随便了！"
 
 # game/deepforest.rpy#L632
 translate chinese zoe2_7b0d9cf8:
 
     # "Alraune leaves the room, giving us some privacy."
-    ""
+    "Alraune离开房间，给我留出了一些私人空间。"
 
 # game/deepforest.rpy#L633
 translate chinese zoe2_e697816c:
 
     # zo "How would you like to do this?"
-    zo ""
+    zo "你想怎么做？"
 
 # game/deepforest.rpy#L643
 translate chinese zoedog_122fdbc4:
 
     # zo "Would you like to do this one outside? It’ll make it feel fierce and primal while you rut my backside."
-    zo ""
+    zo "你想到外边爱爱吗？这样的话，在你上我的时候，会感觉很原始，很狂野。"
 
 # game/deepforest.rpy#L644
 translate chinese zoedog_2ba2d58c:
 
     # mc "Suppose we could. The fresh air will stave off the sweat."
-    mc ""
+    mc "我觉得可以。外面的新鲜空气可以减慢出汗的速度。"
 
 # game/deepforest.rpy#L646
 translate chinese zoedog_e5ab581c:
 
     # "The two of us take a few steps out into the forest clearing of her cottage and she goes prone down in a patch of grass."
-    ""
+    "于是，我们来到了小屋旁的空地上。随后，她便卧在了一片草地上。"
 
 # game/deepforest.rpy#L651
 translate chinese zoedog_be84a796:
 
     # mc "Has anyone told you that your ass is sublime?"
-    mc ""
+    mc "有没有人说过你的屁股很大很漂亮？"
 
 # game/deepforest.rpy#L652
 translate chinese zoedog_f319b762:
 
     # zo "Considering your equally appreciable cock, you can take my ass anytime."
-    zo ""
+    zo "你的cock也又粗又大，所以我的屁股可以随时和你分享。"
 
 # game/deepforest.rpy#L653
 translate chinese zoedog_3bae563f:
 
     # mc "Hah, you used my own words to rhyme. I wonder when this gimmick will get old."
-    mc ""
+    mc "哈，你居然用我刚才的话来给自己的话押韵。我在想，你这花招到底要耍到什么时候。"
 
 # game/deepforest.rpy#L654
 translate chinese zoedog_bdcf0688:
 
     # "As I get into position before her presented rear, she exudes a high level of excitement, her tail swishes so fervently it keeps brushing against me."
-    ""
+    "我在她还没将臀部凑过来前就已经摆好了姿势，这让她兴奋到了极点。她的尾巴剧烈地摆动着，同时不停地抽打在我的身上。"
 
 # game/deepforest.rpy#L655
 translate chinese zoedog_88396dc7:
 
     # "The sweet flowery aroma that attracted me here combined with the smell of sex heightens my need to pound her pussy, almost to a beguiling degree."
-    ""
+    "那奇怪的气味混合着性爱的味道，让我彻底迷失了自我。"
 
 # game/deepforest.rpy#L658
 translate chinese zoedog_0cb78772:
 
     # "Her drippy pussy is clearly wet and ready, so I skip teasing and begin the session by pressing aligning the tip of my cock against her pussy and pushing inside."
-    ""
+    "她的小穴已经湿润了，她已经做好了准备。所以我跳过了前戏，直接将我的cock抵在她的小穴上，然后插了进去。"
 
 # game/deepforest.rpy#L659
 translate chinese zoedog_57dac435:
 
     # "Immediately I sink into the pleasant warmth of her depths, her lips parting bit by bit as it easily accepts me to the hilt in a single smooth motion."
-    ""
+    "当插到她阴道的深处时，我立刻沉浸到了暖暖的喜悦之中。在我抽插时，她的阴唇就会稍稍分开，这让我的抽插变得容易了许多。"
 
 # game/deepforest.rpy#L660
 translate chinese zoedog_4b6b8465:
 
     # zo "Ahhhh, ahh… I’m so appreciative that you were present, because that feels extremely pleasant."
-    zo ""
+    zo "啊，啊……你能来到这里，我感到无比雀跃，因为这真的让人很喜悦。"
 
 # game/deepforest.rpy#L662
 translate chinese zoedog_f54f5f44:
 
     # "Her hips twitch as I pull back and sink back in, beginning to rut her at a pleasureful pace for the both of us."
-    ""
+    "她的腰随着我的抽插扭动着，然后，我们便开始享受起交合的快乐。"
 
 # game/deepforest.rpy#L663
 translate chinese zoedog_32895ee1:
 
     # "Zoe was so wet from the start, she was clearly anticipating this and prepared for it. So it’s not too surprising that she accepted me even if I perhaps wasn’t quite what she wanted."
-    ""
+    "Zoe的下体从一开始就湿湿的，显然她早就为此做好了准备。所以，即便我不是她的菜，她还是接受了我。"
 
 # game/deepforest.rpy#L664
 translate chinese zoedog_1dee8906:
 
     # "The lustful wetness does allow me to pound her as fast as I want though, choosing to alternate between fast thrusting and then slowing myself down as to pace myself."
-    ""
+    "由于她的下体已被淫液完全浸湿，所以快速抽插完全不成问题。想快想慢可以随时调整。"
 
 # game/deepforest.rpy#L665
 translate chinese zoedog_bb387bcd:
 
     # "Each movement causes friction against her swollen clit, and deep sensitive spots within her pussy, filling the zebra girl with bliss."
-    ""
+    "每次抽插都会摩擦到这姑娘已经肿胀起来的阴蒂和阴道深处的兴奋点，这让她兴奋到了极点。"
 
 # game/deepforest.rpy#L666
 translate chinese zoedog_0bf8d2cd:
 
     # zo "Aaahhh, haaahhh, that’s it, I want you to fill me with your seed."
-    zo ""
+    zo "啊啊啊，哈啊……就是这样，狂射我吧。"
 
 # game/deepforest.rpy#L667
 translate chinese zoedog_d18c41c0:
 
     # "Hm, she didn’t rhyme that time. I clearly have my priorities wrong if I’m thinking about that right now, but this zebra girl is an enigma to me on so many levels."
-    ""
+    "嗯，这次她的话可没押上韵。但在这个时候思考这个问题可不太合适。但对我来说，这个斑马女孩可真是谜一样的存在。"
 
 # game/deepforest.rpy#L669
 translate chinese zoedog_dacfd43a:
 
     # zo "Aahhahah, yesss... That’s good, keep going at that speed!"
-    zo ""
+    zo "啊啊啊……对……太棒喽，保持这个速度哟！"
 
 # game/deepforest.rpy#L670
 translate chinese zoedog_9cf34e47:
 
     # "Oh, there’s the rhyme! I thrust into my lover at the requested pace, rocking her back and forth against the grass while her toes curl and thighs quiver."
-    ""
+    "哦，这句话又押上韵了！我按照她要求的速度继续做着。我抽插着趴在草地上的她，她的脚趾也因此蜷缩起来，腿也在抽搐着。"
 
 # game/deepforest.rpy#L671
 translate chinese zoedog_f7123050:
 
     # "Doesn’t seem like it’ll take long for her to reach an orgasm, and indeed she does achieve one far before my own as the mare squeals happily."
-    ""
+    "看来她马上就要高潮了。她欢悦地尖叫着。很显然，她达到高潮的时间比我短多了。"
 
 # game/deepforest.rpy#L672
 translate chinese zoedog_d09fa5d8:
 
     # "Her moans grow in lustful intensity, that coupled with the wet schlicking of her pussy, it's pretty much the only thing I can hear as we rut in the dark woods."
-    ""
+    "随着性欲的越发强烈，她的呻吟声也在逐渐变大。当我们在黑暗的树林里做爱时，除了她的呻吟声，我唯一能听见的声音就是抽插她湿润的小穴时发出的啪啪声。"
 
 # game/deepforest.rpy#L673
 translate chinese zoedog_acbba6c3:
 
     # "After her first orgasm, almost impatiently, I feel her hips begin to rock back and forth on my cock. Matching my own pace with some immediacy, and then outmatching it as she speeds up."
-    ""
+    "第一次高潮过后，我感觉到她又迫不及待地骑到了我的cock上扭动起来。刚开始的时候，我还能跟上她的速度，可当她加快速度后，我就没法再跟上她的速度了。"
 
 # game/deepforest.rpy#L674
 translate chinese zoedog_4b890717:
 
     # "Her hip movements make her sexual experience immediately clear; she’s done toying around with me, and now she’s going to make me cum."
-    ""
+    "根据她腰部的扭动，可以看出她确实有性爱方面的经验。她停止了玩弄。现在，她要让我射出来了。"
 
 # game/deepforest.rpy#L675
 translate chinese zoedog_e496546d:
 
     # "I grab her hips and commit to the accelerating pace, adding a third sound of our bodies slapping together to the mix."
-    ""
+    "我抱紧她的腰并加快了抽插的速度。于是，四周又回荡起了第三种肌肤撞击时发出的啪啪声。"
 
 # game/deepforest.rpy#L676
 translate chinese zoedog_5bb01b6d:
 
     # zo "Ahh, such a sly dog, ahh ahhhh… You’re certainly not a shy lover."
-    zo ""
+    zo "啊，真是只狡猾的小狗狗呀，啊，啊……你这个小情人一点也不含蓄啊。"
 
 # game/deepforest.rpy#L677
 translate chinese zoedog_0b9380dc:
 
     # "My cock begins to twitch and get tighter as my impending orgasm draws closer and closer."
-    ""
+    "我马上就要高潮了，我的cock也开始紧绷起来。"
 
 # game/deepforest.rpy#L678
 translate chinese zoedog_743c3d97:
 
     # zo "Now, cum in me I want it all…"
-    zo ""
+    zo "现在就内射我把，我都想要……"
 
 # game/deepforest.rpy#L679
 translate chinese zoedog_f336ecac:
 
     # "At a certain point my orgasm is all but confirmed, but it still takes a few seconds to escape. I use that time to push my body as far as it’ll go, fucking as hard as I can, to push to the heights of euphoria."
-    ""
+    "在我达到高潮的一瞬间，我将身体快速向后缩了回来，然后又用尽全力向前用力一插，好让自己享受到极致的快感。"
 
 # game/deepforest.rpy#L684
 translate chinese zoedog_3658d9d2:
 
     # "And then in one moment of intense bliss, my cock releases its load deep into the waiting mare."
-    ""
+    "在那一瞬间，我感受到了无比的快感。我的精液全都射到了这匹饥渴小马的体内。"
 
 # game/deepforest.rpy#L689
 translate chinese zoedog_80a88ce4:
 
     # zo "Ahh, yess, that’s it… Fill up my womb, until there’s simply no room!"
-    zo ""
+    zo "啊，爽，就是这样……要射满我的子宫哟，一定要射满为止哟！"
 
 # game/deepforest.rpy#L693
 translate chinese zoedog_0cfb3764:
 
     # "With one final load of cum, I finally empty my balls in the zebra and she slumps onto the grass, panting."
-    ""
+    "我将所有的精液都射进了这匹小斑马体内。她瘫软在草地上，大口大口喘着粗气。"
 
 # game/deepforest.rpy#L694
 translate chinese zoedog_ed12866d:
 
     # "I follow her example, lying beside her and resting my head on her voluptuous breasts."
-    ""
+    "我也瘫软在了她身旁，并将头枕在了她丰满的巨乳上。"
 
 # game/deepforest.rpy#L696
 translate chinese zoedog_2a5323c2:
 
     # "After the two of us catch our breathes in the cool outside air for a few moments, we return inside and spend the evening together."
-    ""
+    "我们在户外吹着凉风，休息了片刻。之后我们回到屋里，共度长夜。"
 
 # game/deepforest.rpy#L697
 translate chinese zoedog_e4608184:
 
     # "In the morning, I return home bright and early."
-    ""
+    "一大早，我神清气爽地回了家。"
 
 # game/deepforest.rpy#L701
 translate chinese zoelum_bb4f3858:
 
     # zo "Simply splendid, let us begin immediately."
-    zo ""
+    zo "直接了当，那咱们赶快开始吧。"
 
 # game/deepforest.rpy#L707
 translate chinese zoelum_fd4f4e0b:
 
     # "Taking me to her bed, she lays down on her side and soon her legs are spread. Her pussy dripping with anticipation as she presents herself to me."
-    ""
+    "她把我带到她的床前，然后侧躺下来，分开了双腿。和我预想的一样，在向我展示身姿时，她的小穴开始湿润起来。"
 
 # game/deepforest.rpy#L708
 translate chinese zoelum_7082f2d3:
@@ -2151,7 +2151,7 @@ translate chinese zoelum_7082f2d3:
 translate chinese zoelum_f63182f8:
 
     # "I’d be lying if I said my attention wasn’t immediately drawn to her pussy."
-    ""
+    "如果我说自己并没有马上将注意力集中到她的小穴上，我肯定是在说谎。"
 
 # game/deepforest.rpy#L710
 translate chinese zoelum_8a6a9226:
@@ -2175,7 +2175,7 @@ translate chinese zoelum_56191f35:
 translate chinese zoelum_fb223ec9:
 
     # "Zoe looks back at me and grins, anticipating my large cock as I approach and get into position between her legs."
-    ""
+    "我凑到她两腿之间，摆好了姿势。Zoe一边回过头看着我，咧着嘴微笑着，一边期待着我的大肉棒。"
 
 # game/deepforest.rpy#L714
 translate chinese zoelum_f66abc0d:
@@ -2193,7 +2193,7 @@ translate chinese zoelum_52538903:
 translate chinese zoelum_98cf93cc:
 
     # mc "We’re both lucky. I get to fuck a gorgeous Zebra girl, and you get one of the best fucks in the city."
-    mc ""
+    mc "咱们都很幸运。我可以和你这么漂亮的斑马女孩爱爱，而你也找到了这座城里床上功夫最牛的人。"
 
 # game/deepforest.rpy#L720
 translate chinese zoelum_4982c410:
@@ -2217,7 +2217,7 @@ translate chinese zoelum_2bf8f817:
 translate chinese zoelum_04983b93:
 
     # zo "Actions, my boy."
-    zo ""
+    zo "开始吧，小伙儿。"
 
 # game/deepforest.rpy#L727
 translate chinese zoelum_28b48e2d:
@@ -2259,13 +2259,13 @@ translate chinese zoelum_c436257e:
 translate chinese zoelum_271f3b89:
 
     # zo "Ahhh, aaahhhh! That’s right, slide that cock deep into me, fill us both with joy."
-    zo ""
+    zo "啊，啊啊啊！对，就是这样，用你的大屌使劲插我吧，咱们俩一定会很嗨的。"
 
 # game/deepforest.rpy#L737
 translate chinese zoelum_dd45576b:
 
     # "Panting and moaning slightly, Zoe caresses and teases her large breasts and erect nipples as I begin to hump her pussy."
-    ""
+    "在我猛操Zoe的同时，她也在轻声喘着气，呻吟着，并用手抚摸着自己的巨乳和那已经挺立起来的乳头。"
 
 # game/deepforest.rpy#L738
 translate chinese zoelum_d0d08139:
@@ -2385,13 +2385,13 @@ translate chinese zoelum_bdd00989:
 translate chinese zoelum_feabeabd:
 
     # zo "Aahhh, coming! Cum with me!"
-    zo ""
+    zo "啊，来吧！和我一起射吧！"
 
 # game/deepforest.rpy#L770
 translate chinese zoelum_e2384d54:
 
     # "The cum was already surging within me, and finally it erupts deeply into Zoe."
-    ""
+    "我马上就要射了。最终，我将精液射进了Zoe的体内。"
 
 # game/deepforest.rpy#L775
 translate chinese zoelum_a6e48e4f:
@@ -2409,13 +2409,13 @@ translate chinese zoelum_583af980:
 translate chinese zoelum_b4406df7:
 
     # mc "Phew, how was that?"
-    mc ""
+    mc "唉，感觉怎么样？"
 
 # game/deepforest.rpy#L784
 translate chinese zoelum_7f4edfc2:
 
     # zo "Pfft, you were just showing off how good you are in bed."
-    zo ""
+    zo "噗，你刚才还在吹自己的床上功夫有多了得呢。"
 
 # game/deepforest.rpy#L785
 translate chinese zoelum_26a17d37:
@@ -2427,19 +2427,19 @@ translate chinese zoelum_26a17d37:
 translate chinese zoelum_728a1422:
 
     # mc "Hah, I bet you’d say that to anyone after sex."
-    mc ""
+    mc "哈，我猜你和谁做完之后都会这么说。"
 
 # game/deepforest.rpy#L788
 translate chinese zoelum_cffcdbe2:
 
     # zo "Ihihi, I find myself unable to deny such an accusation."
-    zo ""
+    zo "咿嘻嘻，我觉得你刚才的话也不是没有道理。"
 
 # game/deepforest.rpy#L789
 translate chinese zoelum_bfd3df19:
 
     # zo "If you were trying to impress me because Butters told you to, don’t worry about it."
-    zo ""
+    zo "如果是Butters让你来讨好我的话，你就不用担心了。"
 
 # game/deepforest.rpy#L794
 translate chinese zoelum_83abe488:
@@ -2481,13 +2481,13 @@ translate chinese zoelum_13e68868:
 translate chinese zoelum_84262f13:
 
     # mc "Hm, maybe…"
-    mc ""
+    mc "嗯，应该行吧……"
 
 # game/deepforest.rpy#L802
 translate chinese zoelum_8040df80:
 
     # mc "Also, you stopped rhyming."
-    mc ""
+    mc "还有，说话的时候不要再押韵了。"
 
 # game/deepforest.rpy#L804
 translate chinese zoelum_e1f026b8:
@@ -2499,7 +2499,7 @@ translate chinese zoelum_e1f026b8:
 translate chinese zoelum_79ea8090:
 
     # mc "Alright Zoe, let’s snuggle."
-    mc ""
+    mc "好吧，Zoe，咱们睡觉吧。"
 
 # game/deepforest.rpy#L807
 translate chinese zoelum_bb9bd13f:
@@ -2511,7 +2511,7 @@ translate chinese zoelum_bb9bd13f:
 translate chinese zoelum_cc438ad4:
 
     # zo "Phew… That was amazing…"
-    zo ""
+    zo "唉……真是太好了……"
 
 # game/deepforest.rpy#L811
 translate chinese zoelum_8a412f67:
@@ -2691,7 +2691,7 @@ translate chinese zoelum_c481d027:
 translate chinese zoelum_5ed1fea4:
 
     # mc "Aaaahhhh…"
-    mc ""
+    mc "啊啊啊……"
 
 # game/deepforest.rpy#L863
 translate chinese zoelum_24a10ac6:
@@ -3033,31 +3033,31 @@ translate chinese zoelum_dd78daf3:
 translate chinese zoelum_ffe30585:
 
     # alraune "Ohh man… But I’m still so horny! You’re such a dick!"
-    alraune ""
+    alraune "哦，老天……我还是那么色！你个混蛋！"
 
 # game/deepforest.rpy#L965
 translate chinese zoelum_a1c32144:
 
     # alraune "And there’s no way you got me pregnant after one time…"
-    alraune ""
+    alraune "我怀过一次孕之后就再也怀不了孕了……"
 
 # game/deepforest.rpy#L966
 translate chinese zoelum_0b8f746c:
 
     # alraune "You’re going to have to fuck me lots and lots! Okay?"
-    alraune ""
+    alraune "所以你就可以疯狂地和我爱爱了！好不好？"
 
 # game/deepforest.rpy#L967
 translate chinese zoelum_a1ea174e:
 
     # mc "Yeah, yeah… I just didn’t want you to put me in a coma."
-    mc ""
+    mc "好，好……我只希望你别把我干晕了就行。"
 
 # game/deepforest.rpy#L969
 translate chinese zoelum_05c2ada5:
 
     # alraune "Pfft, I couldn’t even have sex with you without your consent anyway. With my body, there’s almost no natural position where I can be on top. All I can do is use my feeder, and that’s no fun…"
-    alraune ""
+    alraune "噗，如果没有你的同意，我可不敢和你爱爱。可由于我的身体构造，所以骑乘位会让我很不舒服。所以我只能靠养料才能做出这个体位。这可一点都不好玩……"
 
 # game/deepforest.rpy#L970
 translate chinese zoelum_9747fa8f:
@@ -3069,13 +3069,13 @@ translate chinese zoelum_9747fa8f:
 translate chinese zoelum_6c77a3c3:
 
     # mc "I won’t fall for your trick this time. But I might have sex with you again in the future, that was exceedingly pleasureful."
-    mc ""
+    mc "这次我可不会再上当了。但将来肯定还是有机会爱爱的，到时一定会很爽的。"
 
 # game/deepforest.rpy#L973
 translate chinese zoelum_4c8c6292:
 
     # alraune "Oh, you will? That’d really make my day!"
-    alraune ""
+    alraune "哦？会吗？那样的话，我会高兴死的！"
 
 # game/deepforest.rpy#L975
 translate chinese zoelum_196b2149:
@@ -3171,13 +3171,13 @@ translate chinese zoelum_d8732777:
 translate chinese zoelum_a20cefa7:
 
     # "..."
-    ""
+    "……"
 
 # game/deepforest.rpy#L1003
 translate chinese zoelum_a2cd4987:
 
     # "Three days later, 11:00PM"
-    ""
+    "三天后，晚上十一点"
 
 # game/deepforest.rpy#L1029
 translate chinese werewolfhunting_d778ea24:
@@ -3279,73 +3279,73 @@ translate chinese werewolfhunting_7ddddacd:
 translate chinese werewolfhunting_4a4ba7fc:
 
     # lily "Understood..."
-    lily ""
+    lily "明白……"
 
 # game/deepforest.rpy#L1056
 translate chinese werewolfhunting_fa003df1:
 
     # zo "Okay ladies and gentleman, five minutes until we begin our plan."
-    zo ""
+    zo "好了，女士们、先生们，五分钟之后开始实施计划。"
 
 # game/deepforest.rpy#L1062
 translate chinese werewolfhunting_5f5247eb:
 
     # "The other girls nod, and Butters lifts Lily into a safe position in the tree."
-    ""
+    "其他姑娘点了点头。随后，Butters便将Lily安置在了树上的安全位置。"
 
 # game/deepforest.rpy#L1064
 translate chinese werewolfhunting_70c97620:
 
     # "The other girls nod, and the two of them fly up into the trees."
-    ""
+    "其他姑娘点了点头。随后，其中两人便飞到了树上。"
 
 # game/deepforest.rpy#L1065
 translate chinese werewolfhunting_f3155cc4:
 
     # "The darkness of the leaves keeps them out of sight, but we can still hear them."
-    ""
+    "树叶的影子隐藏了她们的踪迹，但我还是能听到她们的声音。"
 
 # game/deepforest.rpy#L1067
 translate chinese werewolfhunting_47d594fe:
 
     # butters "You can masturbate all you want while we watch, Lily."
-    butters ""
+    butters "Lily，你想自慰的话就尽管来吧，我们都会看着的。"
 
 # game/deepforest.rpy#L1068
 translate chinese werewolfhunting_6b5771df:
 
     # lily "M-Masturbate? N-No, I wouldn't do that..."
-    lily ""
+    lily "自……自慰？不……不行，我可不干……"
 
 # game/deepforest.rpy#L1069
 translate chinese werewolfhunting_968751b1:
 
     # butters "Oh? I will. This aphrodisiac is strong stuff. Maybe I can help you out, hehe."
-    butters ""
+    butters "哦？我会让你干的。催情药可是很厉害的。也许我可以来帮帮你，嘻嘻。"
 
 # game/deepforest.rpy#L1070
 translate chinese werewolfhunting_64bc7792:
 
     # lily "That won't be necessary! I-I'm going to sit on the other side of the tree, okay?"
-    lily ""
+    lily "不用了！我……我会到树的另一端坐着去的，这样行了吧？"
 
 # game/deepforest.rpy#L1071
 translate chinese werewolfhunting_9812992f:
 
     # butters "Have fuuun..."
-    butters ""
+    butters "祝你玩得愉快……"
 
 # game/deepforest.rpy#L1073
 translate chinese werewolfhunting_3ccb9338:
 
     # mc "How are you feeling, Zoe?"
-    mc ""
+    mc "你感觉怎么样，Zoe？"
 
 # game/deepforest.rpy#L1075
 translate chinese werewolfhunting_398c0fed:
 
     # zo "After we help the civilians, I'll be relieved."
-    zo ""
+    zo "在咱们帮完平民之后，我就能轻松些了。"
 
 # game/deepforest.rpy#L1076
 translate chinese werewolfhunting_0a58508c:
@@ -3669,7 +3669,7 @@ translate chinese werewolfsex_35d9ea21:
 translate chinese werewolfsex_94004a03:
 
     # "Oh."
-    ""
+    "哦。"
 
 # game/deepforest.rpy#L1162
 translate chinese werewolfsex_db1b2a1a:
@@ -3885,25 +3885,25 @@ translate chinese werewolfsex_28614c6b:
 translate chinese werewolfsex_bf41ce45:
 
     # "Indeed, the girl is immediately transforming back."
-    ""
+    "的确，那个女孩马上变了回来。"
 
 # game/deepforest.rpy#L1231
 translate chinese werewolfsex_222ad457:
 
     # "Oh woah. It’s Claire!"
-    ""
+    "哦，哇哦，是Claire！"
 
 # game/deepforest.rpy#L1232
 translate chinese werewolfsex_2108d6e4:
 
     # mc "Are you okay, Claire?"
-    mc ""
+    mc "你没事吧，Claire？"
 
 # game/deepforest.rpy#L1235
 translate chinese werewolfsex_923d615d:
 
     # "Is this the girl that works in the spa? Woah, I hope not!"
-    ""
+    "这是在水疗所工作的那个女孩吗？哇，我希望她不是！"
 
 # game/deepforest.rpy#L1236
 translate chinese werewolfsex_ec919115:
@@ -3915,43 +3915,43 @@ translate chinese werewolfsex_ec919115:
 translate chinese werewolfsex_95c7633a:
 
     # mc "Are you okay?"
-    mc ""
+    mc "你没事吧？"
 
 # game/deepforest.rpy#L1240
 translate chinese werewolfsex_9a67429f:
 
     # "I’m not sure who this is. I do hope she’s okay though."
-    ""
+    "虽然我不清楚这人是谁，但我还是希望她能平安无事。"
 
 # game/deepforest.rpy#L1241
 translate chinese werewolfsex_95c7633a_1:
 
     # mc "Are you okay?"
-    mc ""
+    mc "你还好吗？"
 
 # game/deepforest.rpy#L1243
 translate chinese werewolfsex_de291c10:
 
     # claire "Ahh… I suppose I’m feeling a little better now."
-    claire ""
+    claire "啊……我现在感觉好些了。"
 
 # game/deepforest.rpy#L1244
 translate chinese werewolfsex_5f30dad2:
 
     # claire "I… I’m sorry about that, I really shouldn’t have had sex with you…"
-    claire ""
+    claire "真……真对不起，我真不应该和你做的……"
 
 # game/deepforest.rpy#L1245
 translate chinese werewolfsex_b8d0527c:
 
     # claire "Goodness me. I have a boyfriend, yet here I am, transforming into a wolf and doing stupid things like that."
-    claire ""
+    claire "我的天，我有男朋友，可我却变成了狼人到处做傻事。"
 
 # game/deepforest.rpy#L1246
 translate chinese werewolfsex_9e5ee12e:
 
     # claire "I have no self-control…"
-    claire ""
+    claire "我根本控制不住我自己……"
 
 # game/deepforest.rpy#L1261
 translate chinese werewolfsex_1d556219:
@@ -3987,7 +3987,7 @@ translate chinese werewolfsex_2c80a947:
 translate chinese werewolfsex_6048f3c8:
 
     # butters "Uh oh."
-    butters ""
+    butters "啊哦。"
 
 # game/deepforest.rpy#L1274
 translate chinese werewolfsex_e30bec8d:
@@ -3999,37 +3999,37 @@ translate chinese werewolfsex_e30bec8d:
 translate chinese werewolfsex_624331fd:
 
     # mc "Yeah, but he isn’t even a werewolf right now, he’s completely in control of his actions."
-    mc ""
+    mc "是啊，可现在他已经不是狼人了，他可以控制住自己的行为了。"
 
 # game/deepforest.rpy#L1277
 translate chinese werewolfsex_3540f9fb:
 
     # lily "Oh dear."
-    lily ""
+    lily "哦，我的天。"
 
 # game/deepforest.rpy#L1279
 translate chinese werewolfsex_82e2dfde:
 
     # butters "Tsk, Zoe! We had an agreement!"
-    butters ""
+    butters "啧，Zoe！咱们可是有协议的！"
 
 # game/deepforest.rpy#L1283
 translate chinese werewolfsex_0ba372d6:
 
     # lily "Now they’re both mad."
-    lily ""
+    lily "现在她们俩都疯了。"
 
 # game/deepforest.rpy#L1284
 translate chinese werewolfsex_aaa7c7ce:
 
     # mc "Jeez, what are we going to do with those two?"
-    mc ""
+    mc "天哪，咱们要怎么处理她们呢？"
 
 # game/deepforest.rpy#L1286
 translate chinese werewolfsex_ce617998:
 
     # "…"
-    ""
+    "……"
 
 # game/deepforest.rpy#L1305
 translate chinese werewolfsex_298abce9:
@@ -4167,13 +4167,13 @@ translate chinese werewolfsex_234f4663:
 translate chinese werewolfsex_ce617998_1:
 
     # "…"
-    ""
+    "……"
 
 # game/deepforest.rpy#L1365
 translate chinese werewolfsex_f65a325b:
 
     # everyone "Cheers!"
-    everyone ""
+    everyone "干杯！"
 
 # game/deepforest.rpy#L1367
 translate chinese werewolfsex_394cd6e7:
@@ -4203,7 +4203,7 @@ translate chinese werewolfsex_93187771:
 translate chinese werewolfsex_44db9cc3:
 
     # mc "Is that me?"
-    mc ""
+    mc "那个人是我吗？"
 
 # game/deepforest.rpy#L1385
 translate chinese werewolfsex_f02d08d7:
@@ -4215,25 +4215,25 @@ translate chinese werewolfsex_f02d08d7:
 translate chinese werewolfsex_0a8dc9a3:
 
     # unknown "Heyy, you’re [playername], right? Phew, you were always so scary before, but now like, you’re pretty cute! *Hic*"
-    unknown ""
+    unknown "嘿，你是[playername]吧？哦，你以前可好吓人啊，可现在的你好可爱呀！*嗝*"
 
 # game/deepforest.rpy#L1391
 translate chinese werewolfsex_ef758e11:
 
     # mc "Hello, I don't believe we've met?"
-    mc ""
+    mc "你好，我们见过面吗？"
 
 # game/deepforest.rpy#L1393
 translate chinese werewolfsex_3bec423d:
 
     # devil "My name is like, ‘Devil’, and I think Butters is my mom, but I don’t know the details."
-    devil ""
+    devil "我叫‘Devil’，我感觉Butters是我的母亲，可具体的细节我就不知道了。"
 
 # game/deepforest.rpy#L1394
 translate chinese werewolfsex_62989f51:
 
     # mc "Poyo... what did you do?"
-    mc ""
+    mc "Poyo……你都干了些什么？"
 
 # game/deepforest.rpy#L1395
 translate chinese werewolfsex_addb1cb3:
@@ -4245,7 +4245,7 @@ translate chinese werewolfsex_addb1cb3:
 translate chinese werewolfsex_1eb2623f:
 
     # devil "Come on, [playername], come and give me some tummy rubs in the guest bedroom."
-    devil ""
+    devil "来嘛，[playername]，快到卧室去揉揉我的肚子吧。"
 
 # game/deepforest.rpy#L1398
 translate chinese werewolfsex_7c99f2f0:
@@ -4257,13 +4257,13 @@ translate chinese werewolfsex_7c99f2f0:
 translate chinese werewolfsex_7722636d:
 
     # "Fortunately, I’m just drunk enough to think ‘fuck it, time to get some bunny pussy.'"
-    ""
+    "很走运，我已经喝醉了。我满脑子想的都是‘去他的吧，该干干兔子的小穴了。’"
 
 # game/deepforest.rpy#L1400
 translate chinese werewolfsex_4d11f68d:
 
     # "You found a secret scene! Requirements met: Bang the bunny."
-    ""
+    "你发现了一个秘密场景！达到目标：和兔子啪啪啪。"
 
 # game/deepforest.rpy#L1402
 translate chinese werewolfsex_f02d08d7_1:
@@ -4275,7 +4275,7 @@ translate chinese werewolfsex_f02d08d7_1:
 translate chinese werewolfsex_b695e962:
 
     # devil "Heyy, [playername]! *Hic* We really gotta meet like this more often!"
-    devil ""
+    devil "嘿，[playername]！*嗝* 我们真应该多在这种情况下见见面！"
 
 # game/deepforest.rpy#L1408
 translate chinese werewolfsex_35878a5b:
@@ -4347,19 +4347,19 @@ translate chinese werewolfsex_6d46fd4f:
 translate chinese werewolfsex_2e72f14b:
 
     # mc "Very good, keep going."
-    mc ""
+    mc "太好了，继续吧。"
 
 # game/deepforest.rpy#L1429
 translate chinese werewolfsex_4fb9ddd3:
 
     # devil "It’ll be my first time, so I want to make sure I’m ready."
-    devil ""
+    devil "这是我的第一次。所以，我想确认一下自己到底做没做好准备。"
 
 # game/deepforest.rpy#L1431
 translate chinese werewolfsex_cde0c87c:
 
     # devil "It's easy to get wet with you. You are very sexy."
-    devil ""
+    devil "和你在一起，想让自己变得湿漉漉的不是什么难事，因为你好性感啊。"
 
 # game/deepforest.rpy#L1433
 translate chinese werewolfsex_e10a8c62:
@@ -4377,13 +4377,13 @@ translate chinese werewolfsex_83a0b40b:
 translate chinese werewolfsex_b450607a:
 
     # "Her pussy gradually gets wetter as her fingers rub up and down its length. Soon, and almost impatiently, her hand withdraws. A trail of wetness connects her fingers signalling that she's wet enough."
-    ""
+    "当她用手指上下揉搓自己的小穴时，小穴变得越来越湿。很快，她便急切地将手缩了回来。从她手指上拉出了粘稠湿润的液体可以看得出，她那里已经很湿润了。"
 
 # game/deepforest.rpy#L1436
 translate chinese werewolfsex_d27878ea:
 
     # devil "Okay… Put it in me! I want to feel really good."
-    devil ""
+    devil "好了……插进去吧！我想好好爽一爽。"
 
 # game/deepforest.rpy#L1437
 translate chinese werewolfsex_af8b30e8:
@@ -4521,7 +4521,7 @@ translate chinese werewolfsex_da543aaf:
 translate chinese werewolfsex_8c054981:
 
     # devil "Hooohh my gosh, oh my gosh! Aaaahhh!"
-    devil ""
+    devil "嚯，我的天，哦，老天！啊！"
 
 # game/deepforest.rpy#L1468
 translate chinese werewolfsex_390259b5:
@@ -4545,7 +4545,7 @@ translate chinese werewolfsex_75e142c6:
 translate chinese werewolfsex_c78029ab:
 
     # mc "Me too, Bun, me too…"
-    mc ""
+    mc "我也一样，兔兔，我也一样……"
 
 # game/deepforest.rpy#L1479
 translate chinese werewolfsex_24ff83f9:
@@ -4575,133 +4575,133 @@ translate chinese werewolfsex_efa8a5f8:
 translate chinese werewolfsex_239b64ff:
 
     # "In the morning, I find myself waking up next to an actual white bunny snoozing on a pillow."
-    ""
+    "早上，我发现枕旁出现了一只正在睡觉的白兔。"
 
 # game/deepforest.rpy#L1485
 translate chinese werewolfsex_4cc67f16:
 
     # "Well, that was weird."
-    ""
+    "嗯，好奇怪啊。"
 
 translate chinese strings:
 
     # game/deepforest.rpy_L3_0
     old "Go deep into the forest?"
-    new ""
+    new "深入森林？"
 
     # game/deepforest.rpy_L3_1
     old "Yeah!"
-    new ""
+    new "冲！冲！冲！"
 
     # game/deepforest.rpy_L166_0
     old "She seems a little crazy."
-    new ""
+    new "她看起来似乎有些许疯狂。"
 
     # game/deepforest.rpy_L166_1
     old "She has a really nice ass"
-    new ""
+    new "她的屁股真漂亮"
 
     # game/deepforest.rpy_L166_2
     old "I always wanted to bang a Zebra, let's do this!"
-    new ""
+    new "我一直想搞一只斑马，让我们开始做吧！"
 
     # game/deepforest.rpy_L198_0
     old "Alright, get ready for a poundin'"
-    new ""
+    new "好吧，准备好Poundin"
 
     # game/deepforest.rpy_L198_1
     old "Once you go Zebra, you'll never go back."
-    new ""
+    new "一旦你接近斑马，你就再也无法回头。"
 
     # game/deepforest.rpy_L198_2
     old "You must think I stick my dick in any random ass I stumble upon in the woods, don'cha?"
-    new ""
+    new "你一定认为我在树林里随便碰到什么东西都会把老二插进去，对吧？"
 
     # game/deepforest.rpy_L198_3
     old "And what makes you think I want to give you any? I don't even know who you are."
-    new ""
+    new "你凭什么认为我想给你？我甚至不知道你是谁。"
 
     # game/deepforest.rpy_L281_0
     old "What were you doing out here?"
-    new ""
+    new "你在外面干什么？"
 
     # game/deepforest.rpy_L281_1
     old "Are you a Witch?"
-    new ""
+    new "你是女巫吗？"
 
     # game/deepforest.rpy_L281_2
     old "Do you know someone called Butters?"
-    new ""
+    new "你认识一个叫Butters的吗？"
 
     # game/deepforest.rpy_L391_0
     old "You sound pretty bitter, there must have been something big that made you fall out."
-    new ""
+    new "你听起来很痛苦，这里一定有什么大事让你不安。"
 
     # game/deepforest.rpy_L391_1
     old "She doesn’t seem so bad to me."
-    new ""
+    new "我觉得她没那么坏。"
 
     # game/deepforest.rpy_L391_2
     old "I agree, she was so busy trying to rhyme her sentences together that she barely managed to say anything of substance."
-    new ""
+    new "我同意，她忙着把她说的话押韵起来，所以她几乎没有说出任何有用的东西。"
 
     # game/deepforest.rpy_L475_0
     old "Butters didn’t seem to think it was an accident…"
-    new ""
+    new "Butters似乎不认为这是个意外..."
 
     # game/deepforest.rpy_L475_1
     old "How do you mislabel such an important potion?"
-    new ""
+    new "你怎么能将这么重要的药水贴错标签？"
 
     # game/deepforest.rpy_L475_2
     old "Mistakes happen, as long as you try to make amends that’s okay, right?"
-    new ""
+    new "错误是会发生的，只要你努力弥补，没关系的，对吧？"
 
     # game/deepforest.rpy_L501_0
     old "If you want my advice, it’s time to act real fucking humble, listen to Butters and get this done right."
-    new ""
+    new "如果你想听我的建议，是时候他妈的表现出他妈的谦虚，听Butters的，还有，把事情做好。"
 
     # game/deepforest.rpy_L501_1
     old "Whatever man, you deserve this for your carelessness."
-    new ""
+    new "不管是什么人，你该为你的粗心大意付出代价。"
 
     # game/deepforest.rpy_L501_2
     old "Enough about fucking werewolves, how about fucking me instead?"
-    new ""
+    new "操够了狼人，不如操我？"
 
     # game/deepforest.rpy_L501_3
     old "Can’t I have a go at a female werewolf if you find one?"
-    new ""
+    new "如果你找到一个女狼人，我就不能试一试吗？"
 
     # game/deepforest.rpy_L549_0
     old "Alright, molestation was a bit of an extreme way to phrase it. We all had a good and consensual time."
-    new ""
+    new "好吧，性骚扰是个有点极端的说法。我们都度过了一段美好而又合意的时光。"
 
     # game/deepforest.rpy_L549_1
     old "Nope, she totally molested us both. She needs some discipline."
-    new ""
+    new "不，她完全猥亵了我们俩个。她需要一些管教。"
 
     # game/deepforest.rpy_L624_0
     old "Sex with Zoe"
-    new ""
+    new "与Zoe做爱"
 
     # game/deepforest.rpy_L624_1
     old "Sex with Alraune"
-    new ""
+    new "与Alraune做爱"
 
     # game/deepforest.rpy_L624_2
     old "Hunt Werewolves"
-    new ""
+    new "猎杀狼人"
 
     # game/deepforest.rpy_L634_0
     old "Leg-up Sideways (NEW!)"
-    new ""
+    new "腿，起侧身(新！)"
 
     # game/deepforest.rpy_L1100_0
     old "Watch Zoe and the werewolf for five minutes."
-    new ""
+    new "观察Zoe和狼人五分钟。"
 
     # game/deepforest.rpy_L1100_1
     old "No way."
-    new ""
+    new "不行。"
 

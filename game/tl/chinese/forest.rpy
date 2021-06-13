@@ -1,4 +1,4 @@
-# Translation updated at Sat Jun 12 2021 00:40:46 GMT+0800 (香港标准时间)
+# Translation updated at Sun Jun 13 2021 10:42:31 GMT+0800 (香港标准时间)
 # game/forest.rpy#L18
 translate chinese forestvisit1_8c224d17:
 
@@ -39,7 +39,7 @@ translate chinese forestvisit1_85ba3115:
 translate chinese forestvisit1_5ba92952:
 
     # "All of the windows are covered with curtains, but I can’t shake the feeling I’m being observed right now."
-    ""
+    "所有的窗户都被窗帘遮住了，但我无法摆脱现在这种被人看到的感觉。"
 
 # game/forest.rpy#L26
 translate chinese forestvisit1_c1e9df2e:
@@ -81,13 +81,13 @@ translate chinese forestvisit1_4b2ffd18:
 translate chinese forestvisit1_88f04755:
 
     # mc "Animal? I’m not… I mean, I technically am, but…"
-    mc ""
+    mc "动物？我才不是呢...我是说...额...严格来说我是...但..."
 
 # game/forest.rpy#L37
 translate chinese forestvisit1_77fbf1d1:
 
     # butters "Oh my, you can talk my language? You must be really intelligent, how exciting!"
-    butters ""
+    butters "天哪，你可以讲我的语言？你肯定很聪明！多么令人激动啊！"
 
 # game/forest.rpy#L38
 translate chinese forestvisit1_1d202c54:
@@ -105,7 +105,7 @@ translate chinese forestvisit1_f98dd356:
 translate chinese forestvisit1_fd4719f9:
 
     # "Each room is full of seemingly rare trinkets and shiny baubles that would make even the most dedicated collectors jealous."
-    ""
+    "每个房间都摆满了看似稀有的小饰品和闪亮的小饰物，即使是最敬业的收藏家也会嫉妒。"
 
 # game/forest.rpy#L43
 translate chinese forestvisit1_2555461d:
@@ -129,13 +129,13 @@ translate chinese forestvisit1_4da449c1:
 translate chinese forestvisit1_9f80fb17:
 
     # butters "Do you like my pet bunny? She’s called Devil because she’s a naughty lil’ devil."
-    butters ""
+    butters "你喜欢我的宠物兔子吗？他叫“Devil”因为她是一个调皮的小恶魔"
 
 # game/forest.rpy#L48
 translate chinese forestvisit1_24a2f9f7:
 
     # mc "Ohh, what a ‘unique’ name..."
-    mc ""
+    mc "哦呵呵，多么“特别”的名字啊..."
 
 # game/forest.rpy#L49
 translate chinese forestvisit1_0e21ec10:
@@ -159,7 +159,7 @@ translate chinese forestvisit1_94ccc080:
 translate chinese forestvisit1_d94ca9a5:
 
     # butters "Ohhh, a hue-man!"
-    butters ""
+    butters "哦哈哈哈哈哈，一个男人！"
 
 # game/forest.rpy#L55
 translate chinese forestvisit1_deb97e71:
@@ -261,31 +261,31 @@ translate chinese forestvisit1_6a9a75e1:
 translate chinese forestvisit1_40e63180:
 
     # butters "Ohh, you’re different?"
-    butters ""
+    butters "欧，你不一样？"
 
 # game/forest.rpy#L80
 translate chinese forestvisit1_949b4241:
 
     # mc "I guess so. What about you?"
-    mc ""
+    mc "我想是吧。那你呢？"
 
 # game/forest.rpy#L82
 translate chinese forestvisit1_ed15f9e0:
 
     # butters "I’m different too! People like you and me need to look after each other."
-    butters ""
+    butters "我也不一样！像你我这样的人需要互相照顾。"
 
 # game/forest.rpy#L85
 translate chinese forestvisit1_a6180d1b:
 
     # butters "Ohh, so you’re not like them?"
-    butters ""
+    butters "哦，所以你不喜欢她们？"
 
 # game/forest.rpy#L86
 translate chinese forestvisit1_8ade9011:
 
     # mc "I am in some ways, but different in others, you’ll have to get to know me."
-    mc ""
+    mc "我在某些方面是不同的，但在其他方面，你必须了解我。"
 
 # game/forest.rpy#L88
 translate chinese forestvisit1_891e39ab:
@@ -297,13 +297,13 @@ translate chinese forestvisit1_891e39ab:
 translate chinese forestvisit1_909614b5:
 
     # butters "Can you do magic?"
-    butters ""
+    butters "你能用魔法吗？"
 
 # game/forest.rpy#L91
 translate chinese forestvisit1_1edd9a9c:
 
     # mc "Magic? I’m afraid not, I didn’t even know it existed until I got to Arcadia."
-    mc ""
+    mc "魔法？我恐怕不行，在我到Arcadia之前我甚至都不知道魔法是什么"
 
 # game/forest.rpy#L93
 translate chinese forestvisit1_62789de9:
@@ -327,7 +327,7 @@ translate chinese forestvisit1_beafc6b5:
 translate chinese forestvisit1_15b7ef7a:
 
     # butters "Ohh... Like, a monkey?"
-    butters ""
+    butters "噢…就像，一只猴子？"
 
 # game/forest.rpy#L98
 translate chinese forestvisit1_672e4fb4:
@@ -747,7 +747,7 @@ translate chinese forestvisit1choice1_61557745:
 translate chinese forestvisit1choice1_94dd6b31:
 
     # mc "Doesn’t seem too bad."
-    mc ""
+    mc "看起来不算太糟。"
 
 # game/forest.rpy#L208
 translate chinese forestvisit1choice1_460dc1ea:
@@ -1089,7 +1089,7 @@ translate chinese forestvisit1choice2_06013165:
 translate chinese forestvisit1choice2_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/forest.rpy#L302
 translate chinese forestvisit1choice2_e865aa58:
@@ -1401,7 +1401,7 @@ translate chinese buttersandslime_155d298b:
 translate chinese buttersandslime_59c9f0f6:
 
     # butters "Ohh, great idea."
-    butters ""
+    butters "哦，好主意。"
 
 # game/forest.rpy#L380
 translate chinese buttersandslime_733f0cb2:
@@ -1923,7 +1923,7 @@ translate chinese forestvisit1choice3_4c601a69:
 translate chinese forestvisit1choice3_4de76159:
 
     # mc "You did it!"
-    mc ""
+    mc "你做到了！"
 
 # game/forest.rpy#L554
 translate chinese forestvisit1choice3_124eca72:
@@ -1977,7 +1977,7 @@ translate chinese forestvisit1slimepresex_0bff863d:
 translate chinese forestvisit1slimesex_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/forest.rpy#L591
 translate chinese forestvisit1slimesex_91edd00c:
@@ -2583,7 +2583,7 @@ translate chinese forestvisit1slimesex_775dd196:
 translate chinese forestvisit1slimesex_ce617998:
 
     # "…"
-    ""
+    "…"
 
 # game/forest.rpy#L731
 translate chinese forestvisit1slimesex_34620785:
@@ -2733,7 +2733,7 @@ translate chinese forestvisit1slimesex_00e05e73:
 translate chinese forestvisit1slimesex_ce617998_1:
 
     # "…"
-    ""
+    "…"
 
 # game/forest.rpy#L774
 translate chinese forestvisit1slimesex_b3508bfe:
@@ -2835,7 +2835,7 @@ translate chinese forestvisit1slimesex_a562d21a:
 translate chinese forestvisit1slimesex_ce617998_2:
 
     # "…"
-    ""
+    "…"
 
 # game/forest.rpy#L805
 translate chinese forestvisit1slimesex_75402a58:
@@ -3039,7 +3039,7 @@ translate chinese forestvisit1slimesex_fd6ea85d:
 translate chinese forestvisit1slimesex_ce617998_3:
 
     # "…"
-    ""
+    "…"
 
 # game/forest.rpy#L859
 translate chinese forestvisit2_1786da78:
@@ -3351,7 +3351,7 @@ translate chinese forestvisit2_1ea6cdd9:
 translate chinese forestvisit2_1d22c517:
 
     # mc "How does it do that?"
-    mc ""
+    mc "它是怎么做到的？"
 
 # game/forest.rpy#L935
 translate chinese forestvisit2_b22afc01:
@@ -4515,7 +4515,7 @@ translate chinese forestrelax_8b1f56ba:
 translate chinese forestrelax_b5e91beb:
 
     # mc "Y-You and I?"
-    mc ""
+    mc "你 - 你和我？"
 
 # game/forest.rpy#L1230
 translate chinese forestrelax_ffed6354:
@@ -5367,7 +5367,7 @@ translate chinese forestrelax_8325d8d2:
 translate chinese forestrelax_db302deb:
 
     # butters "... Fine..."
-    butters ""
+    butters "... 好吧..."
 
 # game/forest.rpy#L1497
 translate chinese forestrelax_b05e11d0:
@@ -5817,7 +5817,7 @@ translate chinese forestrelax_ba032dbf:
 translate chinese forestrelax_ce617998:
 
     # "…"
-    ""
+    "…"
 
 # game/forest.rpy#L1614
 translate chinese forestrelax_a0230287:
@@ -6051,7 +6051,7 @@ translate chinese forestrelax_84209808:
 translate chinese forestrelax_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/forest.rpy#L1674
 translate chinese forestrelax_5ca232b6:
@@ -6195,7 +6195,7 @@ translate chinese forestrelax_aadf4af4:
 translate chinese forestrelax_a20cefa7_1:
 
     # "..."
-    ""
+    "..."
 
 # game/forest.rpy#L1712
 translate chinese forestvisit3_5d48c109:
@@ -6645,7 +6645,7 @@ translate chinese forestvisit3_9bc9076b:
 translate chinese forestvisit3_c3e7b99a:
 
     # mc "Uh…"
-    mc ""
+    mc "呃..."
 
 # game/forest.rpy#L1828
 translate chinese forestvisit3_7502ae45:
@@ -6657,7 +6657,7 @@ translate chinese forestvisit3_7502ae45:
 translate chinese forestvisit3_fee0d169:
 
     # butters "M-M-Maybe…"
-    butters ""
+    butters "也- 也- 也许吧…"
 
 # game/forest.rpy#L1830
 translate chinese forestvisit3_0c58fa9a:
@@ -7725,7 +7725,7 @@ translate chinese forestfreeze_bb1f02fb:
 translate chinese forestfreeze_c17ef8ec:
 
     # mc "What's that?"
-    mc ""
+    mc "那是什么？"
 
 # game/forest.rpy#L2105
 translate chinese forestfreeze_5683ca31:
@@ -7851,7 +7851,7 @@ translate chinese forestfreeze_9a4d2b44:
 translate chinese forestfreeze_606e2d02:
 
     # mc "Sure."
-    mc ""
+    mc "当然。"
 
 # game/forest.rpy#L2140
 translate chinese forestfreeze_585b0c37:
@@ -7875,7 +7875,7 @@ translate chinese forestfreeze_93ad1b59:
 translate chinese forestfreeze_ce617998:
 
     # "…"
-    ""
+    "…"
 
 # game/forest.rpy#L2150
 translate chinese forestfreeze_8d6d5c44:
@@ -7923,7 +7923,7 @@ translate chinese forestfreeze_9dcd8c1e:
 translate chinese forestfreeze_ee6d76c8:
 
     # moxie "Honey, I’m home!"
-    moxie ""
+    moxie "亲爱的，我回来了！"
 
 # game/forest.rpy#L2164
 translate chinese forestfreeze_5a7b38c9:
@@ -8169,7 +8169,7 @@ translate chinese forestfreeze_5f1279ff:
 translate chinese forestfreeze_ce617998_1:
 
     # "…"
-    ""
+    "…"
 
 # game/forest.rpy#L2260
 translate chinese buttersnormal_0c5cace0:
@@ -8283,7 +8283,7 @@ translate chinese buttersnormal_540c76f4:
 translate chinese buttersnormal_a31340dd:
 
     # mc "Really?"
-    mc ""
+    mc "真的吗？"
 
 # game/forest.rpy#L2285
 translate chinese buttersnormal_0d8cbb29:
@@ -8331,7 +8331,7 @@ translate chinese buttersnormalmenu_41810e7e:
 translate chinese buttersshopmenu_876fda9d:
 
     # mc "What's this?"
-    mc ""
+    mc "这是什么？"
 
 # game/forest.rpy#L2298
 translate chinese buttersshopmenu_3eed63d4:
@@ -8415,7 +8415,7 @@ translate chinese buttersshopmenu_3cb8e239:
 translate chinese buttersshopmenu_97d7f811:
 
     # "See? I don't need it."
-    ""
+    "看到了吗？我不需要它。"
 
 # game/forest.rpy#L2323
 translate chinese buttersshopmenu_b646f504:
@@ -8457,7 +8457,7 @@ translate chinese buttersshopmenu_3d02ed7b:
 translate chinese buttersshopmenu_5693a819:
 
     # mc "Huh..."
-    mc ""
+    mc "嗯..."
 
 # game/forest.rpy#L2335
 translate chinese buttersshopmenu_9095264d:
@@ -8745,7 +8745,7 @@ translate chinese buttersshopmenu_161d1217:
 translate chinese buttersshopmenu_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/forest.rpy#L2448
 translate chinese buttersshopmenu_78a52929:
@@ -8823,7 +8823,7 @@ translate chinese buttersshopmenu_2c445130:
 translate chinese buttersshopmenu_a20cefa7_1:
 
     # "..."
-    ""
+    "..."
 
 # game/forest.rpy#L2495
 translate chinese buttersshopmenu_3288dfe8:
@@ -8841,7 +8841,7 @@ translate chinese buttersshopmenu_21d5afa1:
 translate chinese buttersshopmenu_a20cefa7_2:
 
     # "..."
-    ""
+    "..."
 
 # game/forest.rpy#L2516
 translate chinese butterssucc_e405b5c0:
@@ -10407,7 +10407,7 @@ translate chinese devilsex_bcaf5549:
 translate chinese devilsex_93dfc1ec:
 
     # mc "Oh… Oh no…"
-    mc ""
+    mc "噢... 噢 不..."
 
 # game/forest.rpy#L3029
 translate chinese devilsex_52ebf3c6:
@@ -10533,7 +10533,7 @@ translate chinese succworksex_e54cfcbc:
 translate chinese succworksex_96235f48:
 
     # mc "Is everything okay?"
-    mc ""
+    mc "一切都还好吗？"
 
 # game/forest.rpy#L3063
 translate chinese succworksex_7ec809b5:
@@ -10839,7 +10839,7 @@ translate chinese succworksex_7473b0ec:
 translate chinese succworksex_ce617998:
 
     # "…"
-    ""
+    "…"
 
 # game/forest.rpy#L3140
 translate chinese succworksex_00d3970e:
@@ -10899,31 +10899,31 @@ translate chinese strings:
 
     # game/forest.rpy_L72_0
     old "Just kidding, I’m actually an animal."
-    new ""
+    new "开玩笑而已，我其实是只动物。"
 
     # game/forest.rpy_L72_1
     old "I’m new to Arcadia, before I came here, I have never seen an anthropomorphic pony before."
-    new ""
+    new "我才来Arcadia不久。在我来到这里之前，我还从没见到过人形小马呢。"
 
     # game/forest.rpy_L133_0
     old "Tummy rubs and treats pls"
-    new ""
+    new "请揉一揉我的肚肚"
 
     # game/forest.rpy_L133_1
     old "Penelope sent me to work."
-    new ""
+    new "Penelope派我来是工作的。"
 
     # game/forest.rpy_L161_0
     old "I’m serious, you can treat me like a pet, this is nice."
-    new ""
+    new "我是认真的，你可以把我当作宠物，这样很不错哦。"
 
     # game/forest.rpy_L161_1
     old "What kind of work will I be doing here?"
-    new ""
+    new "我在这里能做些什么？"
 
     # game/forest.rpy_L178_0
     old "Slime monster?"
-    new ""
+    new "史莱姆怪物？"
 
     # game/forest.rpy_L178_1
     old "Folium Polypus?"
@@ -10935,23 +10935,23 @@ translate chinese strings:
 
     # game/forest.rpy_L178_3
     old "What do you need those for? (Conclude)"
-    new ""
+    new "你要这些东西有什么用？（结束）"
 
     # game/forest.rpy_L227_0
     old "I need to ask, what is unicorn dust?"
-    new ""
+    new "我要问个问题，什么是独角兽尘？"
 
     # game/forest.rpy_L227_1
     old "What kind of potion are you trying to brew?"
-    new ""
+    new "你想制作什么样类型的药水？"
 
     # game/forest.rpy_L227_2
     old "Is there any difference between alchemy and magic?"
-    new ""
+    new "炼金术和魔法有什么不同？"
 
     # game/forest.rpy_L227_3
     old "Sounds exciting, I’m in. (Conclude)"
-    new ""
+    new "听起来很不错，这活我干了。（结束）"
 
     # game/forest.rpy_L354_0
     old "Perception Check."
@@ -10959,7 +10959,7 @@ translate chinese strings:
 
     # game/forest.rpy_L354_1
     old "Ask Butters."
-    new ""
+    new "询问Butters。"
 
     # game/forest.rpy_L354_2
     old "Intelligence Check."
@@ -10967,35 +10967,35 @@ translate chinese strings:
 
     # game/forest.rpy_L376_0
     old "Throw rocks"
-    new ""
+    new "投掷石块。"
 
     # game/forest.rpy_L376_1
     old "Use Butters as bait"
-    new ""
+    new "让Butters作诱饵。"
 
     # game/forest.rpy_L389_0
     old "Throw the rock underarm."
-    new ""
+    new "低臂投掷石块。"
 
     # game/forest.rpy_L389_1
     old "Throw the rock overarm."
-    new ""
+    new "举手过肩投掷石块。"
 
     # game/forest.rpy_L410_0
     old "Throw another rock underarm"
-    new ""
+    new "低臂投掷另一个石块。"
 
     # game/forest.rpy_L410_1
     old "Throw another rock overarm"
-    new ""
+    new "举手过肩投掷另一个石块。"
 
     # game/forest.rpy_L497_0
     old "Try and grab some gelatine quickly."
-    new ""
+    new "试着快速获得一些胶质。"
 
     # game/forest.rpy_L497_1
     old "Try to trap it in the knapsack."
-    new ""
+    new "试着用背包困住它。"
 
     # game/forest.rpy_L497_2
     old "Beat it up!"
@@ -11003,15 +11003,15 @@ translate chinese strings:
 
     # game/forest.rpy_L644_0
     old "Put your dick in Butters’s mouth."
-    new ""
+    new "把你的老二放进Butters嘴里。"
 
     # game/forest.rpy_L644_1
     old "Put your dick in the Slime’s mouth"
-    new ""
+    new "把你的老二放进史莱姆嘴里。"
 
     # game/forest.rpy_L968_0
     old "Have you seriously been fucking plants and monsters all day to get alchemy ingredients?"
-    new ""
+    new "为了得到炼金术材料，你是不是花了一整天的时间来狂干这些植物和怪物啊？"
 
     # game/forest.rpy_L968_1
     old "Seems fair, let’s go fuck a folium polypus, what could go wrong?"
@@ -11019,157 +11019,157 @@ translate chinese strings:
 
     # game/forest.rpy_L968_2
     old "I think that’s a terrible idea."
-    new ""
+    new "我觉得这主意很不好。"
 
     # game/forest.rpy_L991_0
     old "I could ask her if it was bothering me this much."
-    new ""
+    new "我可以问她，是否它很打扰我做这个"
 
     # game/forest.rpy_L991_1
     old "Would you sleep with me?"
-    new ""
+    new "你要和我一起睡吗？"
 
     # game/forest.rpy_L991_2
     old "(Ignore thought)"
-    new ""
+    new "（无视）"
 
     # game/forest.rpy_L1068_0
     old "Ask Butters what she thinks."
-    new ""
+    new "问问Butters的想法。"
 
     # game/forest.rpy_L1068_1
     old "Think about the situation yourself."
-    new ""
+    new "你自己考虑一下情况吧。"
 
     # game/forest.rpy_L1113_0
     old "Fuck Butters"
-    new ""
+    new "干Butters。"
 
     # game/forest.rpy_L1113_1
     old "Just get the damn leaves, I’m not going to let a plant win over me."
-    new ""
+    new "去拿那些该死的叶子吧，我不会让一株植物战胜我的。"
 
     # game/forest.rpy_L1113_2
     old "Fuck Butters, you know you want to"
-    new ""
+    new "干Butters，你知道自己想这么干。"
 
     # game/forest.rpy_L1113_3
     old "Just imagine your cock in her plump ass, I bet it feels amazing."
-    new ""
+    new "我敢说，只是想象把自己的肉棒插进她丰满的臀部就已经很爽了。"
 
     # game/forest.rpy_L1173_0
     old "Fight the vines."
-    new ""
+    new "和藤蔓战斗。"
 
     # game/forest.rpy_L1173_1
     old "Relax."
-    new ""
+    new "放松。"
 
     # game/forest.rpy_L1173_2
     old "Skip the foreplay and start masturbating."
-    new ""
+    new "跳过前戏，开始自慰。"
 
     # game/forest.rpy_L1413_0
     old "What’s a succubus?"
-    new ""
+    new "梦淫妖是什么？"
 
     # game/forest.rpy_L1413_1
     old "Are you dangerous?"
-    new ""
+    new "你很危险吗？"
 
     # game/forest.rpy_L1460_0
     old "Do you like being a Succubus?"
-    new ""
+    new "你喜欢成为梦淫妖吗？"
 
     # game/forest.rpy_L1460_1
     old "Isn’t there a way to have sex without hurting someone?"
-    new ""
+    new "就没有和人发生关系而不伤害到别人的方法吗？"
 
     # game/forest.rpy_L1756_0
     old "Snap out of it, Butters!"
-    new ""
+    new "振作起来，Butters！"
 
     # game/forest.rpy_L1756_1
     old "I’m really sorry, I fucked up."
-    new ""
+    new "我很抱歉，我把事情搞砸了。"
 
     # game/forest.rpy_L1772_0
     old "Finally, that’s exactly what I want!"
-    new ""
+    new "终于，我得到了我想要的！"
 
     # game/forest.rpy_L1772_1
     old "On the contrary, I don’t want that at all!"
-    new ""
+    new "正相反，我一点也不想要！"
 
     # game/forest.rpy_L1861_0
     old "Fight"
-    new ""
+    new "攻击"
 
     # game/forest.rpy_L1861_1
     old "Flight"
-    new ""
+    new "飞行"
 
     # game/forest.rpy_L1861_2
     old "Freeze"
-    new ""
+    new "冰冻"
 
     # game/forest.rpy_L1914_0
     old "Yes!"
-    new ""
+    new "是！"
 
     # game/forest.rpy_L1914_1
     old "No!"
-    new ""
+    new "否！"
 
     # game/forest.rpy_L2074_0
     old "I’ll consider it."
-    new ""
+    new "我会考虑的。"
 
     # game/forest.rpy_L2074_1
     old "I don't think so."
-    new ""
+    new "我不这么认为。"
 
     # game/forest.rpy_L2191_0
     old "Tell me more about dangerous stuff!"
-    new ""
+    new "再多告诉我一些危险的事！"
 
     # game/forest.rpy_L2191_1
     old "How can we ensure we’re safe?"
-    new ""
+    new "我们怎么才能确保安全呢？"
 
     # game/forest.rpy_L2213_0
     old "Very deep"
-    new ""
+    new "很深"
 
     # game/forest.rpy_L2213_1
     old "Was that subliminal messaging?"
-    new ""
+    new "那难道是通过潜意识传送的信息吗？"
 
     # game/forest.rpy_L2295_0
     old "Lust-Enhancing Potion."
-    new ""
+    new "催情药水"
 
     # game/forest.rpy_L2295_1
     old "Werewolf Cure Potion"
-    new ""
+    new "狼人治疗药水"
 
     # game/forest.rpy_L2295_2
     old "Corruption Potion"
-    new ""
+    new "堕落药水"
 
     # game/forest.rpy_L2295_3
     old "Bunny Potion"
-    new ""
+    new "兔子药水"
 
     # game/forest.rpy_L2306_0
     old "I'll pass."
-    new ""
+    new "算了。"
 
     # game/forest.rpy_L2358_0
     old "Bang the Bunny?"
-    new ""
+    new "变成兔子？"
 
     # game/forest.rpy_L2358_1
     old "Too pricy!"
-    new ""
+    new "太贵了！"
 
