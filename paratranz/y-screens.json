@@ -47,14 +47,14 @@
   {
     "id": 79442128,
     "createdAt": "2021-05-30T17:55:42.000Z",
-    "updatedAt": "2021-06-02T15:58:04.000Z",
+    "updatedAt": "2021-06-13T03:01:58.000Z",
     "key": "inventorymenuday_25c128ba",
     "original": "This is the bag Moxie gave me. Well, she called it a 'satchel', I don't know what the difference is.",
-    "translation": "这个包是Moxie送给我的。嗯，她把这个包称作是“小背包”，可我不明白这个名字到底有什么不同之处。",
+    "translation": "这个包是Moxie送给我的。嗯，她把这个包称作是'小背包'，可我不明白这个名字到底有什么不同之处。",
     "file": 272353,
     "stage": 1,
     "project": 2414,
-    "uid": null,
+    "uid": 19759,
     "extra": null,
     "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1878",
     "words": 20
