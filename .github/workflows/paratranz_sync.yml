@@ -10,6 +10,11 @@ jobs:
     name: sync
     runs-on: ubuntu-latest
     steps:
+      - name: Setup Node
+        id: node
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
       - name: Checkout
         uses: actions/checkout@v2
       - name: Pull from Paratranz
@@ -21,10 +26,10 @@ jobs:
           rm -rf paratranz
           unzip latest.zip "utf8/*"
           mv utf8 paratranz
-      - name: Sort
-        run: node sort_paratranz.js
-      - name: Reconvert
-        run: node reconvert_paratranz.js
+      - name: Sort & Reconvert
+        run: |
+          node sort_paratranz.js
+          node reconvert_paratranz.js
       - name: Add & Commit
         uses: EndBug/add-and-commit@v7 # You can change this to use a specific version
         with:
