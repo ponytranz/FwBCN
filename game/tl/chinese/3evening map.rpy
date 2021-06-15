@@ -1,4 +1,4 @@
-# Translation updated at Sun Jun 13 2021 10:42:31 GMT+0800 (香港标准时间)
+# Translation updated at Tue Jun 15 2021 19:43:44 GMT+0000 (Coordinated Universal Time)
 # game/3evening map.rpy#L42
 translate chinese worldmapnight_212cd339:
 

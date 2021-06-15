@@ -1,21 +1,21 @@
-# Translation updated at Sun Jun 13 2021 10:42:31 GMT+0800 (香港标准时间)
+# Translation updated at Tue Jun 15 2021 19:43:45 GMT+0000 (Coordinated Universal Time)
 translate chinese strings:
 
     # renpy/common/00accessibility.rpy_L28_0
     old "Self-voicing disabled."
-    new ""
+    new "Self-voicing disabled."
 
     # renpy/common/00accessibility.rpy_L29_0
     old "Clipboard voicing enabled. "
-    new ""
+    new "Clipboard voicing enabled. "
 
     # renpy/common/00accessibility.rpy_L30_0
     old "Self-voicing enabled. "
-    new ""
+    new "Self-voicing enabled. "
 
     # renpy/common/00accessibility.rpy_L32_0
     old "bar"
-    new ""
+    new "bar"
 
     # renpy/common/00accessibility.rpy_L33_0
     old "selected"
@@ -23,15 +23,15 @@ translate chinese strings:
 
     # renpy/common/00accessibility.rpy_L34_0
     old "viewport"
-    new ""
+    new "viewport"
 
     # renpy/common/00accessibility.rpy_L35_0
     old "horizontal scroll"
-    new ""
+    new "horizontal scroll"
 
     # renpy/common/00accessibility.rpy_L36_0
     old "vertical scroll"
-    new ""
+    new "vertical scroll"
 
     # renpy/common/00accessibility.rpy_L37_0
     old "activate"
@@ -43,15 +43,15 @@ translate chinese strings:
 
     # renpy/common/00accessibility.rpy_L39_0
     old "increase"
-    new ""
+    new "increase"
 
     # renpy/common/00accessibility.rpy_L40_0
     old "decrease"
-    new ""
+    new "decrease"
 
     # renpy/common/00accessibility.rpy_L128_0
     old "Font Override"
-    new ""
+    new "Font Override"
 
     # renpy/common/00accessibility.rpy_L132_0
     old "Default"
@@ -59,15 +59,15 @@ translate chinese strings:
 
     # renpy/common/00accessibility.rpy_L136_0
     old "DejaVu Sans"
-    new ""
+    new "DejaVu Sans"
 
     # renpy/common/00accessibility.rpy_L140_0
     old "Opendyslexic"
-    new ""
+    new "Opendyslexic"
 
     # renpy/common/00accessibility.rpy_L146_0
     old "Text Size Scaling"
-    new ""
+    new "Text Size Scaling"
 
     # renpy/common/00accessibility.rpy_L152_0
     old "Reset"
@@ -75,11 +75,11 @@ translate chinese strings:
 
     # renpy/common/00accessibility.rpy_L158_0
     old "Line Spacing Scaling"
-    new ""
+    new "Line Spacing Scaling"
 
     # renpy/common/00accessibility.rpy_L171_0
     old "Self-Voicing"
-    new ""
+    new "Self-Voicing"
 
     # renpy/common/00accessibility.rpy_L175_0
     old "Off"
@@ -87,7 +87,7 @@ translate chinese strings:
 
     # renpy/common/00accessibility.rpy_L179_0
     old "Text-to-speech"
-    new ""
+    new "Text-to-speech"
 
     # renpy/common/00accessibility.rpy_L183_0
     old "Clipboard"
@@ -95,11 +95,11 @@ translate chinese strings:
 
     # renpy/common/00accessibility.rpy_L187_0
     old "Debug"
-    new ""
+    new "Debug"
 
     # renpy/common/00accessibility.rpy_L193_0
     old "Self-Voicing Volume Drop"
-    new ""
+    new "Self-Voicing Volume Drop"
 
     # renpy/common/00accessibility.rpy_L202_0
     old "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
@@ -263,31 +263,31 @@ translate chinese strings:
 
     # renpy/common/00action_file.rpy_L240_0
     old "%b %d, %H:%M"
-    new ""
+    new "%b %d, %H:%M"
 
     # renpy/common/00action_file.rpy_L353_0
     old "Save slot %s: [text]"
-    new ""
+    new "Save slot %s: [text]"
 
     # renpy/common/00action_file.rpy_L434_0
     old "Load slot %s: [text]"
-    new ""
+    new "Load slot %s: [text]"
 
     # renpy/common/00action_file.rpy_L487_0
     old "Delete slot [text]"
-    new ""
+    new "Delete slot [text]"
 
     # renpy/common/00action_file.rpy_L566_0
     old "File page auto"
-    new ""
+    new "File page auto"
 
     # renpy/common/00action_file.rpy_L568_0
     old "File page quick"
-    new ""
+    new "File page quick"
 
     # renpy/common/00action_file.rpy_L570_0
     old "File page [text]"
-    new ""
+    new "File page [text]"
 
     # renpy/common/00action_file.rpy_L628_0
     old "Page {}"
@@ -327,7 +327,7 @@ translate chinese strings:
 
     # renpy/common/00director.rpy_L708_0
     old "The interactive director is not enabled here."
-    new ""
+    new "The interactive director is not enabled here."
 
     # renpy/common/00director.rpy_L1481_0
     old "⬆"
@@ -343,35 +343,35 @@ translate chinese strings:
 
     # renpy/common/00director.rpy_L1561_0
     old "(statement)"
-    new ""
+    new "(statement)"
 
     # renpy/common/00director.rpy_L1562_0
     old "(tag)"
-    new ""
+    new "(tag)"
 
     # renpy/common/00director.rpy_L1563_0
     old "(attributes)"
-    new ""
+    new "(attributes)"
 
     # renpy/common/00director.rpy_L1564_0
     old "(transform)"
-    new ""
+    new "(transform)"
 
     # renpy/common/00director.rpy_L1589_0
     old "(transition)"
-    new ""
+    new "(transition)"
 
     # renpy/common/00director.rpy_L1601_0
     old "(channel)"
-    new ""
+    new "(channel)"
 
     # renpy/common/00director.rpy_L1602_0
     old "(filename)"
-    new ""
+    new "(filename)"
 
     # renpy/common/00director.rpy_L1631_0
     old "Change"
-    new ""
+    new "Change"
 
     # renpy/common/00director.rpy_L1633_0
     old "Add"
@@ -387,35 +387,35 @@ translate chinese strings:
 
     # renpy/common/00director.rpy_L1674_0
     old "Statement:"
-    new ""
+    new "Statement:"
 
     # renpy/common/00director.rpy_L1695_0
     old "Tag:"
-    new ""
+    new "Tag:"
 
     # renpy/common/00director.rpy_L1711_0
     old "Attributes:"
-    new ""
+    new "Attributes:"
 
     # renpy/common/00director.rpy_L1729_0
     old "Transforms:"
-    new ""
+    new "Transforms:"
 
     # renpy/common/00director.rpy_L1748_0
     old "Behind:"
-    new ""
+    new "Behind:"
 
     # renpy/common/00director.rpy_L1767_0
     old "Transition:"
-    new ""
+    new "Transition:"
 
     # renpy/common/00director.rpy_L1785_0
     old "Channel:"
-    new ""
+    new "Channel:"
 
     # renpy/common/00director.rpy_L1803_0
     old "Audio Filename:"
-    new ""
+    new "Audio Filename:"
 
     # renpy/common/00gui.rpy_L382_0
     old "Are you sure?"
@@ -459,11 +459,11 @@ translate chinese strings:
 
     # renpy/common/00keymap.rpy_L300_0
     old "Failed to save screenshot as %s."
-    new ""
+    new "Failed to save screenshot as %s."
 
     # renpy/common/00keymap.rpy_L312_0
     old "Saved screenshot as %s."
-    new ""
+    new "Saved screenshot as %s."
 
     # renpy/common/00library.rpy_L195_0
     old "Skip Mode"
@@ -471,27 +471,27 @@ translate chinese strings:
 
     # renpy/common/00library.rpy_L281_0
     old "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
-    new ""
+    new "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
 
     # renpy/common/00preferences.rpy_L240_0
     old "display"
-    new ""
+    new "display"
 
     # renpy/common/00preferences.rpy_L252_0
     old "transitions"
-    new ""
+    new "transitions"
 
     # renpy/common/00preferences.rpy_L261_0
     old "skip transitions"
-    new ""
+    new "skip transitions"
 
     # renpy/common/00preferences.rpy_L263_0
     old "video sprites"
-    new ""
+    new "video sprites"
 
     # renpy/common/00preferences.rpy_L272_0
     old "show empty window"
-    new ""
+    new "show empty window"
 
     # renpy/common/00preferences.rpy_L281_0
     old "text speed"
@@ -499,11 +499,11 @@ translate chinese strings:
 
     # renpy/common/00preferences.rpy_L289_0
     old "joystick"
-    new ""
+    new "joystick"
 
     # renpy/common/00preferences.rpy_L289_1
     old "joystick..."
-    new ""
+    new "joystick..."
 
     # renpy/common/00preferences.rpy_L296_0
     old "skip"
@@ -511,11 +511,11 @@ translate chinese strings:
 
     # renpy/common/00preferences.rpy_L299_0
     old "skip unseen [text]"
-    new ""
+    new "skip unseen [text]"
 
     # renpy/common/00preferences.rpy_L304_0
     old "skip unseen text"
-    new ""
+    new "skip unseen text"
 
     # renpy/common/00preferences.rpy_L306_0
     old "begin skipping"
@@ -523,79 +523,79 @@ translate chinese strings:
 
     # renpy/common/00preferences.rpy_L310_0
     old "after choices"
-    new ""
+    new "after choices"
 
     # renpy/common/00preferences.rpy_L317_0
     old "skip after choices"
-    new ""
+    new "skip after choices"
 
     # renpy/common/00preferences.rpy_L319_0
     old "auto-forward time"
-    new ""
+    new "auto-forward time"
 
     # renpy/common/00preferences.rpy_L333_0
     old "auto-forward"
-    new ""
+    new "auto-forward"
 
     # renpy/common/00preferences.rpy_L340_0
     old "Auto forward"
-    new ""
+    new "Auto forward"
 
     # renpy/common/00preferences.rpy_L343_0
     old "auto-forward after click"
-    new ""
+    new "auto-forward after click"
 
     # renpy/common/00preferences.rpy_L352_0
     old "automatic move"
-    new ""
+    new "automatic move"
 
     # renpy/common/00preferences.rpy_L361_0
     old "wait for voice"
-    new ""
+    new "wait for voice"
 
     # renpy/common/00preferences.rpy_L370_0
     old "voice sustain"
-    new ""
+    new "voice sustain"
 
     # renpy/common/00preferences.rpy_L379_0
     old "self voicing"
-    new ""
+    new "self voicing"
 
     # renpy/common/00preferences.rpy_L388_0
     old "self voicing volume drop"
-    new ""
+    new "self voicing volume drop"
 
     # renpy/common/00preferences.rpy_L396_0
     old "clipboard voicing"
-    new ""
+    new "clipboard voicing"
 
     # renpy/common/00preferences.rpy_L405_0
     old "debug voicing"
-    new ""
+    new "debug voicing"
 
     # renpy/common/00preferences.rpy_L414_0
     old "emphasize audio"
-    new ""
+    new "emphasize audio"
 
     # renpy/common/00preferences.rpy_L423_0
     old "rollback side"
-    new ""
+    new "rollback side"
 
     # renpy/common/00preferences.rpy_L433_0
     old "gl powersave"
-    new ""
+    new "gl powersave"
 
     # renpy/common/00preferences.rpy_L439_0
     old "gl framerate"
-    new ""
+    new "gl framerate"
 
     # renpy/common/00preferences.rpy_L442_0
     old "gl tearing"
-    new ""
+    new "gl tearing"
 
     # renpy/common/00preferences.rpy_L445_0
     old "font transform"
-    new ""
+    new "font transform"
 
     # renpy/common/00preferences.rpy_L448_0
     old "font size"
@@ -603,7 +603,7 @@ translate chinese strings:
 
     # renpy/common/00preferences.rpy_L456_0
     old "font line spacing"
-    new ""
+    new "font line spacing"
 
     # renpy/common/00preferences.rpy_L464_0
     old "system cursor"
@@ -615,11 +615,11 @@ translate chinese strings:
 
     # renpy/common/00preferences.rpy_L485_0
     old "sound volume"
-    new ""
+    new "sound volume"
 
     # renpy/common/00preferences.rpy_L486_0
     old "voice volume"
-    new ""
+    new "voice volume"
 
     # renpy/common/00preferences.rpy_L487_0
     old "mute music"
@@ -627,11 +627,11 @@ translate chinese strings:
 
     # renpy/common/00preferences.rpy_L488_0
     old "mute sound"
-    new ""
+    new "mute sound"
 
     # renpy/common/00preferences.rpy_L489_0
     old "mute voice"
-    new ""
+    new "mute voice"
 
     # renpy/common/00preferences.rpy_L490_0
     old "mute all"
@@ -639,15 +639,15 @@ translate chinese strings:
 
     # renpy/common/00preferences.rpy_L571_0
     old "Clipboard voicing enabled. Press 'shift+C' to disable."
-    new ""
+    new "Clipboard voicing enabled. Press 'shift+C' to disable."
 
     # renpy/common/00preferences.rpy_L573_0
     old "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
-    new ""
+    new "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
 
     # renpy/common/00preferences.rpy_L575_0
     old "Self-voicing enabled. Press 'v' to disable."
-    new ""
+    new "Self-voicing enabled. Press 'v' to disable."
 
     # renpy/common/_compat/gamemenu.rpym_L198_0
     old "Empty Slot."
@@ -655,27 +655,27 @@ translate chinese strings:
 
     # renpy/common/_compat/gamemenu.rpym_L355_0
     old "Previous"
-    new ""
+    new "Previous"
 
     # renpy/common/_compat/gamemenu.rpym_L362_0
     old "Next"
-    new ""
+    new "Next"
 
     # renpy/common/_compat/preferences.rpym_L428_0
     old "Joystick Mapping"
-    new ""
+    new "Joystick Mapping"
 
     # renpy/common/_developer/developer.rpym_L38_0
     old "Developer Menu"
-    new ""
+    new "Developer Menu"
 
     # renpy/common/_developer/developer.rpym_L43_0
     old "Interactive Director (D)"
-    new ""
+    new "Interactive Director (D)"
 
     # renpy/common/_developer/developer.rpym_L45_0
     old "Reload Game (Shift+R)"
-    new ""
+    new "Reload Game (Shift+R)"
 
     # renpy/common/_developer/developer.rpym_L47_0
     old "Console (Shift+O)"
@@ -683,15 +683,15 @@ translate chinese strings:
 
     # renpy/common/_developer/developer.rpym_L49_0
     old "Variable Viewer"
-    new ""
+    new "Variable Viewer"
 
     # renpy/common/_developer/developer.rpym_L51_0
     old "Image Location Picker"
-    new ""
+    new "Image Location Picker"
 
     # renpy/common/_developer/developer.rpym_L53_0
     old "Filename List"
-    new ""
+    new "Filename List"
 
     # renpy/common/_developer/developer.rpym_L57_0
     old "Show Image Load Log (F4)"
@@ -703,27 +703,27 @@ translate chinese strings:
 
     # renpy/common/_developer/developer.rpym_L63_0
     old "Image Attributes"
-    new ""
+    new "Image Attributes"
 
     # renpy/common/_developer/developer.rpym_L90_0
     old "[name] [attributes] (hidden)"
-    new ""
+    new "[name] [attributes] (hidden)"
 
     # renpy/common/_developer/developer.rpym_L94_0
     old "[name] [attributes]"
-    new ""
+    new "[name] [attributes]"
 
     # renpy/common/_developer/developer.rpym_L143_0
     old "Nothing to inspect."
-    new ""
+    new "Nothing to inspect."
 
     # renpy/common/_developer/developer.rpym_L154_0
     old "Hide deleted"
-    new ""
+    new "Hide deleted"
 
     # renpy/common/_developer/developer.rpym_L154_1
     old "Show deleted"
-    new ""
+    new "Show deleted"
 
     # renpy/common/_developer/developer.rpym_L278_0
     old "Return to the developer menu"
@@ -731,35 +731,35 @@ translate chinese strings:
 
     # renpy/common/_developer/developer.rpym_L443_0
     old "Rectangle: %r"
-    new ""
+    new "Rectangle: %r"
 
     # renpy/common/_developer/developer.rpym_L448_0
     old "Mouse position: %r"
-    new ""
+    new "Mouse position: %r"
 
     # renpy/common/_developer/developer.rpym_L453_0
     old "Right-click or escape to quit."
-    new ""
+    new "Right-click or escape to quit."
 
     # renpy/common/_developer/developer.rpym_L485_0
     old "Rectangle copied to clipboard."
-    new ""
+    new "Rectangle copied to clipboard."
 
     # renpy/common/_developer/developer.rpym_L488_0
     old "Position copied to clipboard."
-    new ""
+    new "Position copied to clipboard."
 
     # renpy/common/_developer/developer.rpym_L506_0
     old "Type to filter: "
-    new ""
+    new "Type to filter: "
 
     # renpy/common/_developer/developer.rpym_L631_0
     old "Textures: [tex_count] ([tex_size_mb:.1f] MB)"
-    new ""
+    new "Textures: [tex_count] ([tex_size_mb:.1f] MB)"
 
     # renpy/common/_developer/developer.rpym_L635_0
     old "Image cache: [cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
-    new ""
+    new "Image cache: [cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
 
     # renpy/common/_developer/developer.rpym_L645_0
     old "✔ "
@@ -771,95 +771,95 @@ translate chinese strings:
 
     # renpy/common/_developer/developer.rpym_L653_0
     old "\n{color=#cfc}✔ predicted image (good){/color}\n{color=#fcc}✘ unpredicted image (bad){/color}\n{color=#fff}Drag to move.{/color}"
-    new ""
+    new "\n{color=#cfc}✔ predicted image (good){/color}\n{color=#fcc}✘ unpredicted image (bad){/color}\n{color=#fff}Drag to move.{/color}"
 
     # renpy/common/_developer/inspector.rpym_L38_0
     old "Displayable Inspector"
-    new ""
+    new "Displayable Inspector"
 
     # renpy/common/_developer/inspector.rpym_L61_0
     old "Size"
-    new ""
+    new "Size"
 
     # renpy/common/_developer/inspector.rpym_L65_0
     old "Style"
-    new ""
+    new "Style"
 
     # renpy/common/_developer/inspector.rpym_L71_0
     old "Location"
-    new ""
+    new "Location"
 
     # renpy/common/_developer/inspector.rpym_L122_0
     old "Inspecting Styles of [displayable_name!q]"
-    new ""
+    new "Inspecting Styles of [displayable_name!q]"
 
     # renpy/common/_developer/inspector.rpym_L139_0
     old "displayable:"
-    new ""
+    new "displayable:"
 
     # renpy/common/_developer/inspector.rpym_L145_0
     old "        (no properties affect the displayable)"
-    new ""
+    new "        (no properties affect the displayable)"
 
     # renpy/common/_developer/inspector.rpym_L147_0
     old "        (default properties omitted)"
-    new ""
+    new "        (default properties omitted)"
 
     # renpy/common/_developer/inspector.rpym_L185_0
     old "<repr() failed>"
-    new ""
+    new "<repr() failed>"
 
     # renpy/common/_layout/classic_load_save.rpym_L170_0
     old "a"
-    new ""
+    new "a"
 
     # renpy/common/_layout/classic_load_save.rpym_L179_0
     old "q"
-    new ""
+    new "q"
 
     # renpy/common/00iap.rpy_L219_0
     old "Contacting App Store\nPlease Wait..."
-    new ""
+    new "Contacting App Store\nPlease Wait..."
 
     # renpy/common/00updater.rpy_L374_0
     old "The Ren'Py Updater is not supported on mobile devices."
-    new ""
+    new "The Ren'Py Updater is not supported on mobile devices."
 
     # renpy/common/00updater.rpy_L496_0
     old "An error is being simulated."
-    new ""
+    new "An error is being simulated."
 
     # renpy/common/00updater.rpy_L680_0
     old "Either this project does not support updating, or the update status file was deleted."
-    new ""
+    new "Either this project does not support updating, or the update status file was deleted."
 
     # renpy/common/00updater.rpy_L694_0
     old "This account does not have permission to perform an update."
-    new ""
+    new "This account does not have permission to perform an update."
 
     # renpy/common/00updater.rpy_L697_0
     old "This account does not have permission to write the update log."
-    new ""
+    new "This account does not have permission to write the update log."
 
     # renpy/common/00updater.rpy_L724_0
     old "Could not verify update signature."
-    new ""
+    new "Could not verify update signature."
 
     # renpy/common/00updater.rpy_L995_0
     old "The update file was not downloaded."
-    new ""
+    new "The update file was not downloaded."
 
     # renpy/common/00updater.rpy_L1013_0
     old "The update file does not have the correct digest - it may have been corrupted."
-    new ""
+    new "The update file does not have the correct digest - it may have been corrupted."
 
     # renpy/common/00updater.rpy_L1067_0
     old "While unpacking {}, unknown type {}."
-    new ""
+    new "While unpacking {}, unknown type {}."
 
     # renpy/common/00updater.rpy_L1433_0
     old "Updater"
-    new ""
+    new "Updater"
 
     # renpy/common/00updater.rpy_L1440_0
     old "An error has occured:"
@@ -867,15 +867,15 @@ translate chinese strings:
 
     # renpy/common/00updater.rpy_L1442_0
     old "Checking for updates."
-    new ""
+    new "Checking for updates."
 
     # renpy/common/00updater.rpy_L1444_0
     old "This program is up to date."
-    new ""
+    new "This program is up to date."
 
     # renpy/common/00updater.rpy_L1446_0
     old "[u.version] is available. Do you want to install it?"
-    new ""
+    new "[u.version] is available. Do you want to install it?"
 
     # renpy/common/00updater.rpy_L1448_0
     old "Preparing to download the updates."
@@ -887,7 +887,7 @@ translate chinese strings:
 
     # renpy/common/00updater.rpy_L1452_0
     old "Unpacking the updates."
-    new ""
+    new "Unpacking the updates."
 
     # renpy/common/00updater.rpy_L1454_0
     old "Finishing up."
@@ -895,35 +895,35 @@ translate chinese strings:
 
     # renpy/common/00updater.rpy_L1456_0
     old "The updates have been installed. The program will restart."
-    new ""
+    new "The updates have been installed. The program will restart."
 
     # renpy/common/00updater.rpy_L1458_0
     old "The updates have been installed."
-    new ""
+    new "The updates have been installed."
 
     # renpy/common/00updater.rpy_L1460_0
     old "The updates were cancelled."
-    new ""
+    new "The updates were cancelled."
 
     # renpy/common/00updater.rpy_L1475_0
     old "Proceed"
-    new ""
+    new "Proceed"
 
     # renpy/common/00gallery.rpy_L590_0
     old "Image [index] of [count] locked."
-    new ""
+    new "Image [index] of [count] locked."
 
     # renpy/common/00gallery.rpy_L610_0
     old "prev"
-    new ""
+    new "prev"
 
     # renpy/common/00gallery.rpy_L611_0
     old "next"
-    new ""
+    new "next"
 
     # renpy/common/00gallery.rpy_L612_0
     old "slideshow"
-    new ""
+    new "slideshow"
 
     # renpy/common/00gallery.rpy_L613_0
     old "return"
@@ -931,55 +931,55 @@ translate chinese strings:
 
     # renpy/common/00gltest.rpy_L89_0
     old "Renderer"
-    new ""
+    new "Renderer"
 
     # renpy/common/00gltest.rpy_L93_0
     old "Automatically Choose"
-    new ""
+    new "Automatically Choose"
 
     # renpy/common/00gltest.rpy_L100_0
     old "Force GL Renderer"
-    new ""
+    new "Force GL Renderer"
 
     # renpy/common/00gltest.rpy_L105_0
     old "Force ANGLE Renderer"
-    new ""
+    new "Force ANGLE Renderer"
 
     # renpy/common/00gltest.rpy_L110_0
     old "Force GLES Renderer"
-    new ""
+    new "Force GLES Renderer"
 
     # renpy/common/00gltest.rpy_L116_0
     old "Force GL2 Renderer"
-    new ""
+    new "Force GL2 Renderer"
 
     # renpy/common/00gltest.rpy_L121_0
     old "Force ANGLE2 Renderer"
-    new ""
+    new "Force ANGLE2 Renderer"
 
     # renpy/common/00gltest.rpy_L126_0
     old "Force GLES2 Renderer"
-    new ""
+    new "Force GLES2 Renderer"
 
     # renpy/common/00gltest.rpy_L136_0
     old "Enable (No Blocklist)"
-    new ""
+    new "Enable (No Blocklist)"
 
     # renpy/common/00gltest.rpy_L140_0
     old "Enable"
-    new ""
+    new "Enable"
 
     # renpy/common/00gltest.rpy_L159_0
     old "Powersave"
-    new ""
+    new "Powersave"
 
     # renpy/common/00gltest.rpy_L173_0
     old "Framerate"
-    new ""
+    new "Framerate"
 
     # renpy/common/00gltest.rpy_L177_0
     old "Screen"
-    new ""
+    new "Screen"
 
     # renpy/common/00gltest.rpy_L181_0
     old "60"
@@ -991,7 +991,7 @@ translate chinese strings:
 
     # renpy/common/00gltest.rpy_L191_0
     old "Tearing"
-    new ""
+    new "Tearing"
 
     # renpy/common/00gltest.rpy_L207_0
     old "Changes will take effect the next time this program is run."
@@ -1003,31 +1003,31 @@ translate chinese strings:
 
     # renpy/common/00gltest.rpy_L247_0
     old "This computer is using software rendering."
-    new ""
+    new "This computer is using software rendering."
 
     # renpy/common/00gltest.rpy_L249_0
     old "This game requires use of GL2 that can't be initialised."
-    new ""
+    new "This game requires use of GL2 that can't be initialised."
 
     # renpy/common/00gltest.rpy_L251_0
     old "This computer has a problem displaying graphics: [problem]."
-    new ""
+    new "This computer has a problem displaying graphics: [problem]."
 
     # renpy/common/00gltest.rpy_L255_0
     old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display."
-    new ""
+    new "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display."
 
     # renpy/common/00gltest.rpy_L259_0
     old "The {a=edit:1:log.txt}log.txt{/a} file may contain information to help you determine what is wrong with your computer."
-    new ""
+    new "The {a=edit:1:log.txt}log.txt{/a} file may contain information to help you determine what is wrong with your computer."
 
     # renpy/common/00gltest.rpy_L264_0
     old "More details on how to fix this can be found in the {a=[url]}documentation{/a}."
-    new ""
+    new "More details on how to fix this can be found in the {a=[url]}documentation{/a}."
 
     # renpy/common/00gltest.rpy_L269_0
     old "Continue, Show this warning again"
-    new ""
+    new "Continue, Show this warning again"
 
     # renpy/common/00gltest.rpy_L273_0
     old "Continue, Don't show warning again"
@@ -1035,23 +1035,23 @@ translate chinese strings:
 
     # renpy/common/00gltest.rpy_L281_0
     old "Change render options"
-    new ""
+    new "Change render options"
 
     # renpy/common/00gamepad.rpy_L32_0
     old "Select Gamepad to Calibrate"
-    new ""
+    new "Select Gamepad to Calibrate"
 
     # renpy/common/00gamepad.rpy_L35_0
     old "No Gamepads Available"
-    new ""
+    new "No Gamepads Available"
 
     # renpy/common/00gamepad.rpy_L54_0
     old "Calibrating [name] ([i]/[total])"
-    new ""
+    new "Calibrating [name] ([i]/[total])"
 
     # renpy/common/00gamepad.rpy_L58_0
     old "Press or move the '[control!s]' [kind]."
-    new ""
+    new "Press or move the '[control!s]' [kind]."
 
     # renpy/common/00gamepad.rpy_L68_0
     old "Skip (A)"
@@ -1063,35 +1063,35 @@ translate chinese strings:
 
     # renpy/common/_errorhandling.rpym_L542_0
     old "Open"
-    new ""
+    new "Open"
 
     # renpy/common/_errorhandling.rpym_L544_0
     old "Opens the traceback.txt file in a text editor."
-    new ""
+    new "Opens the traceback.txt file in a text editor."
 
     # renpy/common/_errorhandling.rpym_L546_0
     old "Copy BBCode"
-    new ""
+    new "Copy BBCode"
 
     # renpy/common/_errorhandling.rpym_L548_0
     old "Copies the traceback.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
-    new ""
+    new "Copies the traceback.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
 
     # renpy/common/_errorhandling.rpym_L550_0
     old "Copy Markdown"
-    new ""
+    new "Copy Markdown"
 
     # renpy/common/_errorhandling.rpym_L552_0
     old "Copies the traceback.txt file to the clipboard as Markdown for Discord."
-    new ""
+    new "Copies the traceback.txt file to the clipboard as Markdown for Discord."
 
     # renpy/common/_errorhandling.rpym_L581_0
     old "An exception has occurred."
-    new ""
+    new "An exception has occurred."
 
     # renpy/common/_errorhandling.rpym_L604_0
     old "Rollback"
-    new ""
+    new "Rollback"
 
     # renpy/common/_errorhandling.rpym_L606_0
     old "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
@@ -1099,23 +1099,23 @@ translate chinese strings:
 
     # renpy/common/_errorhandling.rpym_L609_0
     old "Ignore"
-    new ""
+    new "Ignore"
 
     # renpy/common/_errorhandling.rpym_L613_0
     old "Ignores the exception, allowing you to continue."
-    new ""
+    new "Ignores the exception, allowing you to continue."
 
     # renpy/common/_errorhandling.rpym_L615_0
     old "Ignores the exception, allowing you to continue. This often leads to additional errors."
-    new ""
+    new "Ignores the exception, allowing you to continue. This often leads to additional errors."
 
     # renpy/common/_errorhandling.rpym_L619_0
     old "Reload"
-    new ""
+    new "重新载入"
 
     # renpy/common/_errorhandling.rpym_L621_0
     old "Reloads the game from disk, saving and restoring game state if possible."
-    new ""
+    new "Reloads the game from disk, saving and restoring game state if possible."
 
     # renpy/common/_errorhandling.rpym_L624_0
     old "Console"
@@ -1123,7 +1123,7 @@ translate chinese strings:
 
     # renpy/common/_errorhandling.rpym_L626_0
     old "Opens a console to allow debugging the problem."
-    new ""
+    new "Opens a console to allow debugging the problem."
 
     # renpy/common/_errorhandling.rpym_L639_0
     old "Quits the game."
@@ -1135,13 +1135,13 @@ translate chinese strings:
 
     # renpy/common/_errorhandling.rpym_L686_0
     old "Opens the errors.txt file in a text editor."
-    new ""
+    new "Opens the errors.txt file in a text editor."
 
     # renpy/common/_errorhandling.rpym_L690_0
     old "Copies the errors.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
-    new ""
+    new "Copies the errors.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
 
     # renpy/common/_errorhandling.rpym_L694_0
     old "Copies the errors.txt file to the clipboard as Markdown for Discord."
-    new ""
+    new "Copies the errors.txt file to the clipboard as Markdown for Discord."
 

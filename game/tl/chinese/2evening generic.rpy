@@ -1,4 +1,4 @@
-# Translation updated at Sun Jun 13 2021 10:42:31 GMT+0800 (香港标准时间)
+# Translation updated at Tue Jun 15 2021 19:43:44 GMT+0000 (Coordinated Universal Time)
 # game/2evening generic.rpy#L16
 translate chinese evening_f9a4bca4:
 
@@ -21,7 +21,7 @@ translate chinese evening_9b6721a9:
 translate chinese evening_2ced73e3:
 
     # mc "Urgently? Sure, see you later Butters."
-    mc "“马上”？好的，等会儿见了，Butters。"
+    mc "'马上'？好的，等会儿见了，Butters。"
 
 # game/2evening generic.rpy#L30
 translate chinese evening_f50a9789:

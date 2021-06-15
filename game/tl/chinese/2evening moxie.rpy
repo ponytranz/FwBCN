@@ -1,33 +1,33 @@
-# Translation updated at Sun Jun 13 2021 10:42:31 GMT+0800 (香港标准时间)
+# Translation updated at Tue Jun 15 2021 19:43:44 GMT+0000 (Coordinated Universal Time)
 # game/2evening moxie.rpy#L11
 translate chinese eveningmoxie_80cb7a87:
 
     # "After dinner Moxie and I get cozy on her sofa together."
-    ""
+    "晚餐过后，我和Moxie依偎在了她家的沙发上。"
 
 # game/2evening moxie.rpy#L20
 translate chinese eveningmoxie1_4c6a561b:
 
     # moxie "Hey, you're back. The nightlife not as good as ol' Mox?"
-    moxie ""
+    moxie "嘿，你回来了。没了Mox的陪伴，夜生活是不是没有什么乐趣呢？"
 
 # game/2evening moxie.rpy#L22
 translate chinese eveningmoxie1_783c0a05:
 
     # moxie "Ohh boy, it's my favourite visitor! Staying a while? I'll break out the booze."
-    moxie ""
+    moxie "Ohh boy, it's my favourite visitor! Staying a while? I'll break out the booze."
 
 # game/2evening moxie.rpy#L38
 translate chinese eveningmoxie2menu_cd7fccc0:
 
     # "You ask Moxie if she wants to do something naughty, she nods eagerly and sidles up to you."
-    ""
+    "你询问Moxie是否想做些顽皮的事。然后她急切地点了点头，随后悄悄走到了你面前。"
 
 # game/2evening moxie.rpy#L46
 translate chinese eveningmoxie2menu_b1bb12e5:
 
     # mc "By the way, these chocolates here, they're for you."
-    mc ""
+    mc "顺带一提，这儿的这些巧克力是为你准备的。"
 
 # game/2evening moxie.rpy#L47
 translate chinese eveningmoxie2menu_9211ecec:
@@ -903,19 +903,19 @@ translate chinese moxiedoggystyle_7db648c5:
 translate chinese moxiedoggystyle_99d8005f:
 
     # "Even though she says that, she does sink from her all fours position to one of laying on her belly, seemingly exhausted in a melodramatic manner, even though she didn’t actually move."
-    ""
+    "Even though she says that, she does sink from her all fours position to one of laying on her belly, seemingly exhausted in a melodramatic manner, even though she didn’t actually move."
 
 # game/2evening moxie.rpy#L474
 translate chinese moxiedoggystyle_45d55708:
 
     # "I join her side and she soon embraces me tightly with a goofy grin stuck on her lips."
-    ""
+    "我凑到他身旁。随后，她立刻紧紧地抱住了我，同时露出了痴痴的笑容。"
 
 # game/2evening moxie.rpy#L475
 translate chinese moxiedoggystyle_17c71ff5:
 
     # mc "Honestly, with how good that felt, I wish I could, I’ll probably have to wait at least ten minutes though."
-    mc ""
+    mc "说真的，虽然爱爱的感觉很爽，我也还想再来一发，但要让我先休息十分钟才行。"
 
 # game/2evening moxie.rpy#L480
 translate chinese moxiedoggystyle_46e97287:
@@ -933,7 +933,7 @@ translate chinese moxiedoggystyle_2affdf22:
 translate chinese moxiedoggystyle_f4ce18f8:
 
     # moxie "Ohh yes… That one really hit the spot and put my heat back in its place. I’ll be full of energy come tomorrow morning, and by the evening, I’ll be ready for another."
-    moxie ""
+    moxie "Ohh yes… That one really hit the spot and put my heat back in its place. I’ll be full of energy come tomorrow morning, and by the evening, I’ll be ready for another."
 
 # game/2evening moxie.rpy#L487
 translate chinese moxiedoggystyle_5ebfe654:
@@ -945,7 +945,7 @@ translate chinese moxiedoggystyle_5ebfe654:
 translate chinese moxiedoggystyle_ae34c4cd:
 
     # mc "If we ever both get the chance to have a day off, lets just spend it cuddlefucking."
-    mc ""
+    mc "如果咱们有机会能休息一天的话，那就用这一天时间来啪啪啪吧。"
 
 # game/2evening moxie.rpy#L493
 translate chinese moxiedoggystyle_d1c5b115:
@@ -975,259 +975,259 @@ translate chinese moxiedoggystyle_a20cefa7:
 translate chinese moxiecowgirl_c57da85b:
 
     # moxie "Ohoho, you're putting me in charge?"
-    moxie ""
+    moxie "哦吼吼，你是想让我做主吗？"
 
 # game/2evening moxie.rpy#L515
 translate chinese moxiecowgirl_61f7e0e3:
 
     # moxie "Ehehe, let me show you what a mare in heat can do."
-    moxie ""
+    moxie "嘿嘿，就让我见识见识发情的小马都有什么本事吧。"
 
 # game/2evening moxie.rpy#L516
 translate chinese moxiecowgirl_3fa8b981:
 
     # "I'm sure she'd be mad if I told her I've already seen what a mare in heat can do many times."
-    ""
+    "有一点我敢肯定，如果我告诉她我已经见到过很多发情的小雌驹的话，她一定会发狂的。"
 
 # game/2evening moxie.rpy#L523
 translate chinese moxiecowgirl_e90a0858:
 
     # "The two of us climb into bed, then she playfully rolls me on my back before mounting me. She wastes no time sinking her puffy mare pussy over my endowment."
-    ""
+    "The two of us climb into bed, then she playfully rolls me on my back before mounting me. She wastes no time sinking her puffy mare pussy over my endowment."
 
 # game/2evening moxie.rpy#L524
 translate chinese moxiecowgirl_936e41db:
 
     # "Moxie's pussy is so pleasant and warm, her insides are stretched perfectly around my cock, yet still squeezing around me like a pleasurable vice."
-    ""
+    "Moxie的小穴感觉又舒适又温暖。她小穴内部的延展性很强，所以她在我身边欢快地摩擦挤压时，她的小穴能完美地包裹在我肉棒的周围。"
 
 # game/2evening moxie.rpy#L525
 translate chinese moxiecowgirl_9e0159e1:
 
     # moxie "You see how wet I am?"
-    moxie ""
+    moxie "你看到我的下面有多湿了吗？"
 
 # game/2evening moxie.rpy#L526
 translate chinese moxiecowgirl_5e0384e0:
 
     # moxie "This is because I've been thinking about your cock all day."
-    moxie ""
+    moxie "因为我整天都在想着你的小弟弟。"
 
 # game/2evening moxie.rpy#L527
 translate chinese moxiecowgirl_87a9ef6f:
 
     # moxie "Now, just sit back and leave everything to me, hehe."
-    moxie ""
+    moxie "现在，你只需要坐过来就行，其他的事就让我来负责吧，嘿嘿。"
 
 # game/2evening moxie.rpy#L533
 translate chinese moxiecowgirl_8f7d3dcb:
 
     # "I'm fairly sure her pussy grips even tighter as she begins to gyrate her hips atop of me."
-    ""
+    "我敢肯定的是，当她骑在我身上扭动臀部时，她的小穴变得更紧了。"
 
 # game/2evening moxie.rpy#L534
 translate chinese moxiecowgirl_07d8515b:
 
     # "As usual when I offer her sex, she seems consumed with a wholesome lust as she giggles, pants and drools."
-    ""
+    "平常在我和她做爱时，从她的笑容、喘息和垂涎的状态中不难看出，她的内心满满的都是性欲。"
 
 # game/2evening moxie.rpy#L535
 translate chinese moxiecowgirl_8f777f79:
 
     # "Now that she's on top; she can take every opportunity to spend that accumulated lust on me."
-    ""
+    "现在，她就骑在我的身上，所以，她可以尽一切机会将欲望宣泄在我身上。"
 
 # game/2evening moxie.rpy#L536
 translate chinese moxiecowgirl_0a7e2d5e:
 
     # moxie "Mmphh yeah, such a good cock!"
-    moxie ""
+    moxie "嗯，真不错，真是根很不错的肉棒！"
 
 # game/2evening moxie.rpy#L537
 translate chinese moxiecowgirl_fbf7153e:
 
     # "She squeals in pleasure and happiness as she bounces on my rod, each moan of hers accompanied by the wet splatter of our coupling."
-    ""
+    "她在我的肉棒上上下起伏，同时发出着欢快而愉悦的尖叫声。她每一次呻吟的时候，都会有湿润的液体从我们交合的位置流出来。"
 
 # game/2evening moxie.rpy#L538
 translate chinese moxiecowgirl_2d933299:
 
     # "I savour every motion as her pussy squeezes and her hips wriggle, her inner walls suck around my cock and stroke against my pleasure points in an irresistible manner."
-    ""
+    "I savour every motion as her pussy squeezes and her hips wriggle, her inner walls suck around my cock and stroke against my pleasure points in an irresistible manner."
 
 # game/2evening moxie.rpy#L539
 translate chinese moxiecowgirl_6923cc02:
 
     # moxie "Moreee, more! Ahh, I'm going to come! *Pant*"
-    moxie ""
+    moxie "再来，再来嘛！啊，我要去了！ *喘气*"
 
 # game/2evening moxie.rpy#L540
 translate chinese moxiecowgirl_a4c2d1ba:
 
     # "With each passing second the lust in Moxie's eyes grow, and she holds no resistance when she feels my hips begin to thrust to match her own."
-    ""
+    "With each passing second the lust in Moxie's eyes grow, and she holds no resistance when she feels my hips begin to thrust to match her own."
 
 # game/2evening moxie.rpy#L541
 translate chinese moxiecowgirl_e6e00bbd:
 
     # "Both our thrusting hips cause my cock to push even deeper inside of her, each thrust going from my glans to the hilt of my cock."
-    ""
+    "Both our thrusting hips cause my cock to push even deeper inside of her, each thrust going from my glans to the hilt of my cock."
 
 # game/2evening moxie.rpy#L546
 translate chinese moxiecowgirl_a1557614:
 
     # moxie "There it is, I'm coming, I'm coming!"
-    moxie ""
+    moxie "There it is, I'm coming, I'm coming!"
 
 # game/2evening moxie.rpy#L547
 translate chinese moxiecowgirl_d6ec0dbe:
 
     # "Her eyes roll back and her body rattles with overwhelming pleasure as she experiences a full-body orgasm."
-    ""
+    "Her eyes roll back and her body rattles with overwhelming pleasure as she experiences a full-body orgasm."
 
 # game/2evening moxie.rpy#L548
 translate chinese moxiecowgirl_0737649a:
 
     # "Her already tight pussy constricts further with rhythmic convulsions which squeeze and suckle in an attempt to milk my throbbing member."
-    ""
+    "Her already tight pussy constricts further with rhythmic convulsions which squeeze and suckle in an attempt to milk my throbbing member."
 
 # game/2evening moxie.rpy#L549
 translate chinese moxiecowgirl_d6e2cead:
 
     # "This combined with her frantic fucking brings me closer, and soon I'm unable to hold back."
-    ""
+    "This combined with her frantic fucking brings me closer, and soon I'm unable to hold back."
 
 # game/2evening moxie.rpy#L550
 translate chinese moxiecowgirl_5205166b:
 
     # moxie "Cum inside me [playername], fill me up!"
-    moxie ""
+    moxie "Cum inside me [playername], fill me up!"
 
 # game/2evening moxie.rpy#L561
 translate chinese moxiecowgirl_068f6472:
 
     # "My cock gushes its thick cum deep into her hungry womb."
-    ""
+    "My cock gushes its thick cum deep into her hungry womb."
 
 # game/2evening moxie.rpy#L572
 translate chinese moxiecowgirl_0be79d2f:
 
     # "All whilst a euphoric Moxie continues her climactic riding, seeming to have yet another orgasm immediately after the first."
-    ""
+    "All whilst a euphoric Moxie continues her climactic riding, seeming to have yet another orgasm immediately after the first."
 
 # game/2evening moxie.rpy#L573
 translate chinese moxiecowgirl_37d071fa:
 
     # moxie "Fuck yes, ahhhh, aaaahhhh!"
-    moxie ""
+    moxie "操，就是这样，啊，啊……！"
 
 # game/2evening moxie.rpy#L579
 translate chinese moxiecowgirl_3f04d740:
 
     # "The two of us make the most of our explosive orgasms before we begin to slow down."
-    ""
+    "我们都达到了高潮。随后，我们的动作逐渐慢了下来。"
 
 # game/2evening moxie.rpy#L584
 translate chinese moxiecowgirl_f8663d93:
 
     # "Moxie slumps on top of me and embraces my chest, all whilst my softening cock is still inside her."
-    ""
+    "Moxie slumps on top of me and embraces my chest, all whilst my softening cock is still inside her."
 
 # game/2evening moxie.rpy#L589
 translate chinese moxiecowgirl_5daf74c2:
 
     # "I reciprocate her post-coital cuddle and kiss her on the forehead causing her to giggle."
-    ""
+    "I reciprocate her post-coital cuddle and kiss her on the forehead causing her to giggle."
 
 # game/2evening moxie.rpy#L590
 translate chinese moxiecowgirl_aa9b15a9:
 
     # moxie "That was shoooo good..."
-    moxie ""
+    moxie "刚才真的是太……爽……了……"
 
 # game/2evening moxie.rpy#L591
 translate chinese moxiecowgirl_e2111120:
 
     # mc "You really know how to ride, we have to do this more often."
-    mc ""
+    mc "你骑在我身上的技术简直太熟练了，咱们以后真应该多玩玩才对。"
 
 # game/2evening moxie.rpy#L596
 translate chinese moxiecowgirl_02ba3619:
 
     # moxie "Ehehe, I love pleasuring you, you always have the cutest reactions."
-    moxie ""
+    moxie "嘿嘿嘿，我就喜欢满足你，你的反应总是那么可爱呢。"
 
 # game/2evening moxie.rpy#L601
 translate chinese moxiecowgirl_90c7f90b:
 
     # moxie "And those cute reactions make me come even harder, haha."
-    moxie ""
+    moxie "而且你的这些反应总能让我更加如饥似渴，哈哈。"
 
 # game/2evening moxie.rpy#L606
 translate chinese moxiecowgirl_c5262f5c:
 
     # "To my surprise, she lifts herself back up."
-    ""
+    "说着，她又将身子坐了起来。这个动作让我很惊讶。"
 
 # game/2evening moxie.rpy#L607
 translate chinese moxiecowgirl_4583f8d8:
 
     # moxie "I think it's time for round two, [playername]. If I go slowly at first, it won't be too sensitive, right?"
-    moxie ""
+    moxie "[playername]，我觉得咱们可以进行第二轮了。要是我慢慢地做，你的感觉就不会那么强烈了吧？"
 
 # game/2evening moxie.rpy#L608
 translate chinese moxiecowgirl_2548e805:
 
     # mc "Uhh! I guess? Go easy on me!"
-    mc ""
+    mc "呃！可能是这样吧？请手下留情！"
 
 # game/2evening moxie.rpy#L609
 translate chinese moxiecowgirl_4fcd3b40:
 
     # "I knew her libido was extreme, but another round so soon? She must have really enjoyed herself."
-    ""
+    "我知道她的性欲很强，但这么快就要进行下一轮了吗？她一定是嗨到头了。"
 
 # game/2evening moxie.rpy#L610
 translate chinese moxiecowgirl_f3e1fddd:
 
     # "I could already feel my cock stiffening up again, even though I had just orgasmed a few minutes prior."
-    ""
+    "尽管在几分钟前刚刚射过，但我还是感觉自己的肉棒又一次硬了起来。"
 
 # game/2evening moxie.rpy#L611
 translate chinese moxiecowgirl_9299d53d:
 
     # moxie "Ohh, I can feel it grow inside me..."
-    moxie ""
+    moxie "哦，我感觉它在一点一点地变大呢……"
 
 # game/2evening moxie.rpy#L612
 translate chinese moxiecowgirl_60f5e702:
 
     # "She smirks and begins to very gently ride me again, gauging my reactions with each movement to ensure she doesn't overwhelm me."
-    ""
+    "她傻傻地笑着，随后又一次温柔地骑到了我的身上。为了不让我感觉太难受，所以在做每个动作的同时，她也会试探我的反应。"
 
 # game/2evening moxie.rpy#L613
 translate chinese moxiecowgirl_59369814:
 
     # mc "I think you can go faster, I'm surprisingly not that sensitive right now."
-    mc ""
+    mc "我觉得你可以再快一点，我现在的感觉竟然没那么强烈了。"
 
 # game/2evening moxie.rpy#L614
 translate chinese moxiecowgirl_6f1a43ad:
 
     # moxie "Hehehe! My pussy is just that good..."
-    moxie ""
+    moxie "嘿嘿嘿！我的小穴可是很厉害的哟……"
 
 # game/2evening moxie.rpy#L615
 translate chinese moxiecowgirl_b55c177b:
 
     # moxie "I'm not stopping until I'm completely satisfied tonight, so lay back and relax, I'll make this next orgasm even better."
-    moxie ""
+    moxie "今晚我一定要爽到爆为止，否则我是不会罢休的。所以，你现在只需要躺下来，好好放松就可以，这一次我会让你更爽的。"
 
 # game/2evening moxie.rpy#L618
 translate chinese moxiecowgirl_dfea6b1b:
 
     # "Several orgasms and an hour later, the two of us end up cuddled together sleeping."
-    ""
+    "我们在一个小时的时间里高潮了数次。最后，我们依偎在一起睡着了。"
 
 # game/2evening moxie.rpy#L619
 translate chinese moxiecowgirl_ce617998:
@@ -1257,25 +1257,25 @@ translate chinese moxieanal_e959438a:
 translate chinese moxieanal_c17ef8ec:
 
     # mc "What's that?"
-    mc "什么玩法？"
+    mc "什么不一样的玩法？"
 
 # game/2evening moxie.rpy#L638
 translate chinese moxieanal_62ac4d99:
 
     # "She grins fiendishly as she leans over and exposes her rear to me."
-    ""
+    "在将身体凑过来，并将臀部转向我的同时，她也露出了邪恶的笑容。"
 
 # game/2evening moxie.rpy#L639
 translate chinese moxieanal_315ab4cc:
 
     # "Seductively she lifts her tail in the air, revealing her pussy, which sparkles with lustful desire."
-    ""
+    "她将尾巴抬到空中，充满诱惑地展示着自己那满是淫欲的阴部。"
 
 # game/2evening moxie.rpy#L640
 translate chinese moxieanal_5bccaf75:
 
     # moxie "How about you try my ass?"
-    moxie ""
+    moxie "你要不要插一插我的屁股呢？"
 
 # game/2evening moxie.rpy#L641
 translate chinese moxieanal_3656a527:
@@ -1287,121 +1287,121 @@ translate chinese moxieanal_3656a527:
 translate chinese moxieanal_25454167:
 
     # moxie "Heh, don't be shy babe. I've experimented with sex toys before, I can take it."
-    moxie ""
+    moxie "嘿嘿，别害羞嘛，小宝贝。我已经用自慰器试过了，没问题的。"
 
 # game/2evening moxie.rpy#L647
 translate chinese moxieanal_06e435ec:
 
     # "I stroke my cock, getting it to full hardness as I bring myself into position behind Moxie, she eagerly rubs her clit in anticipation."
-    ""
+    "我来到Moxie身后，然后撸动着自己的肉棒，让它坚挺起来。而Moxie则早已开始揉擦起自己的阴蒂来。"
 
 # game/2evening moxie.rpy#L648
 translate chinese moxieanal_880ff0cc:
 
     # moxie "Go on... Fuck my ass!"
-    moxie ""
+    moxie "来吧……操我的屁股吧！"
 
 # game/2evening moxie.rpy#L653
 translate chinese moxieanal_9c6529b5:
 
     # "Spurred on, I line up my cock and press it against her tight pucker, slowly but surely it spreads and I sink inwards."
-    ""
+    "说着，我将阴茎抵在了她紧致的外阴处。这时，她的阴蒂慢慢张开了。随后，我便将阴茎插了进去。"
 
 # game/2evening moxie.rpy#L654
 translate chinese moxieanal_97575c26:
 
     # "Her sphincter tightly grips against my shaft, it's tight like a velvet vice."
-    ""
+    "她的括约肌就像天鹅绒一样紧紧地包裹在我肉棒的四周。"
 
 # game/2evening moxie.rpy#L655
 translate chinese moxieanal_e07ec3e6:
 
     # "As I gently push forward, she grunts and moans until my entire length has finally buried inside of her ass."
-    ""
+    "在我将肉棒慢慢插入她阴道的同时，她也在发出哼哼的呻吟声。直到我将肉棒全部插进小穴里后，她才停止了娇喘。"
 
 # game/2evening moxie.rpy#L660
 translate chinese moxieanal_6103f887:
 
     # moxie "Oohhh, yes! It feels so weird, yet amazing! Gimme a second to relax and you can fuck me."
-    moxie ""
+    moxie "哦，好爽！这感觉虽然很怪，但实在是棒极了！让我先休息一下，然后你再来干我。"
 
 # game/2evening moxie.rpy#L661
 translate chinese moxieanal_622d1868:
 
     # "As Moxie's anus slowly adjusts to my girth, she fervently rubs her clit and enjoys the feeling of being filled."
-    ""
+    "在Moxie慢慢将肛门挪动到我腰部的位置时，她便开始疯狂地摩擦着自己的阴蒂，同时享受着下体被阴茎占据所产生的快感。"
 
 # game/2evening moxie.rpy#L662
 translate chinese moxieanal_37491826:
 
     # "When she's ready, I pull back until just my cock's head is left buried inside her, and then with one thrust I push my cock back inside her ass."
-    ""
+    "当她做好了准备，我将龟头留在她的肛门里，而肉棒的其余部分则拔了出来。然后，我向前用力一插，又将整根肉棒全部塞了进去。"
 
 # game/2evening moxie.rpy#L667
 translate chinese moxieanal_586caf5b:
 
     # "She squeals with pleasure and her pucker constricts tightly. She not only takes it like a champ, but clearly enjoys the feeling!"
-    ""
+    "在她欢快尖叫的同时，她的肛门也在紧缩着。显然，她不仅将我的肉棒当成了释放性欲的工具，而且还十分享受抽插时的快感！"
 
 # game/2evening moxie.rpy#L672
 translate chinese moxieanal_4db741e9:
 
     # moxie "Harder, come on stud!"
-    moxie ""
+    moxie "使劲啊，来吧，大屌！"
 
 # game/2evening moxie.rpy#L674
 translate chinese moxieanal_384839d8:
 
     # "I pull out, and thrust, then again. I pound away at her asshole for a minute with her ass clamping down on my cock throughout."
-    ""
+    "我不停抽插着。随后，我又让她的臀部夹住我的肉棒，继续抽插了一分钟时间。"
 
 # game/2evening moxie.rpy#L679
 translate chinese moxieanal_02e1ae81:
 
     # moxie "Ohhh, fuck my ass [playername]! This is so good! Ahhh..."
-    moxie ""
+    moxie "哦，爆操我的屁股吧，[playername]！太棒了！啊……"
 
 # game/2evening moxie.rpy#L680
 translate chinese moxieanal_23b4b830:
 
     # moxie "I-I think I'm going to cum! Oh my gosh!"
-    moxie ""
+    moxie "我……我觉得我要去了！哦，我的天！"
 
 # game/2evening moxie.rpy#L681
 translate chinese moxieanal_03297b7f:
 
     # "We both get closer to orgasm from the intense rutting. Perhaps even faster than regular sex due to the pure lewdity of the situation."
-    ""
+    "由于剧烈的摩擦，我们两人马上就要高潮了。或许是因为这次的情况太过色情和淫荡，所以，这次做爱的速度要比平时快很多。"
 
 # game/2evening moxie.rpy#L682
 translate chinese moxieanal_8b9ba156:
 
     # "Her pussy contracts as she climaxes, her anus getting even tighter in the process, and bringing my inevitable orgasm ever closer."
-    ""
+    "在达到高潮时，她的小穴开始剧烈地抽搐起来。在此过程中，她的肛门也紧绷起来。这让我马上就要达到高潮了。"
 
 # game/2evening moxie.rpy#L683
 translate chinese moxieanal_6a00da4c:
 
     # moxie "F-Fuck me! Ahhh, aaahh!"
-    moxie ""
+    moxie "干……干我吧！啊，啊！"
 
 # game/2evening moxie.rpy#L684
 translate chinese moxieanal_67e33369:
 
     # "Her sanguine moans cause the crashing waves of orgasmic pleasure to reach their heights, threatening to push me over the edge almost immediately."
-    ""
+    "她那无比欢愉的呻吟声让性快感达到了顶峰，这也让我瞬间到达了高潮的临界值。"
 
 # game/2evening moxie.rpy#L695
 translate chinese moxieanal_015838cb:
 
     # "I manage to last a few more seconds of pounding before my cock begins to erupt and leak thick ropes of cum deep into her ass."
-    ""
+    "在我的精液即将喷射而出，注入到她肛门深处之时，我试图强忍住了那种冲动。"
 
 # game/2evening moxie.rpy#L706
 translate chinese moxieanal_c03979f4:
 
     # "*Splurt*, *splurt*!"
-    ""
+    "*射精*，*射精*！"
 
 # game/2evening moxie.rpy#L707
 translate chinese moxieanal_b599ebd8:
@@ -1419,25 +1419,25 @@ translate chinese moxieanal_4245a6ac:
 translate chinese moxieanal_362e7436:
 
     # "I pull my cock out with a pop and some semen oozes and dripples from our point of contact."
-    ""
+    "在我将颤抖的肉棒拔出来时，一些精液顺着我们性器相互接触的位置流了出来。"
 
 # game/2evening moxie.rpy#L719
 translate chinese moxieanal_dda2d565:
 
     # moxie "*Pant*, *pant*... We gotta do that more often!"
-    moxie ""
+    moxie "*喘气*，*喘气*……咱们一定要多做做才对嘛！"
 
 # game/2evening moxie.rpy#L724
 translate chinese moxieanal_9d2f01d0:
 
     # "She falls back onto the sofa with her arms wide, and I lay into her embrace and kiss her."
-    ""
+    "她张开双臂，坐回到沙发上。我随后也来到她面前，投入了她的怀抱，并给了她一个吻。"
 
 # game/2evening moxie.rpy#L725
 translate chinese moxieanal_7ba50acc:
 
     # "We enjoy each other's warm snuggles until we decide to go to bed."
-    ""
+    "我们享受着彼此依偎在一起时那温暖的感觉。之后，我们才决定去睡觉。"
 
 # game/2evening moxie.rpy#L727
 translate chinese moxieanal_a20cefa7:
@@ -1461,181 +1461,181 @@ translate chinese moxieanal_a20cefa7_1:
 translate chinese moxiemissionary_ac457808:
 
     # "The two of us go to the bedroom for funky times."
-    ""
+    "The two of us go to the bedroom for funky times."
 
 # game/2evening moxie.rpy#L743
 translate chinese moxiemissionary_f4c9c1c8:
 
     # "Moxie falls back onto the bed and spreads her legs."
-    ""
+    "Moxie躺在床上，然后张开了双腿。"
 
 # game/2evening moxie.rpy#L744
 translate chinese moxiemissionary_192a433a:
 
     # moxie "This position is kinda tame, but I really like watching you while we fuck."
-    moxie ""
+    moxie "这个姿势虽然很平常，但我就喜欢在你干我的时候看着你。"
 
 # game/2evening moxie.rpy#L745
 translate chinese moxiemissionary_986cee9f:
 
     # mc "Awh, that's kinda embarrassing, but I'm doing the same thing."
-    mc ""
+    mc "噢，这还真是有点尴尬啊。但其实我也想做相同的事。"
 
 # game/2evening moxie.rpy#L746
 translate chinese moxiemissionary_bcd97245:
 
     # moxie "Eep, I hope I pull cute faces."
-    moxie ""
+    moxie "嗯嗯，我真希望自己能做出萌萌的表情来。"
 
 # game/2evening moxie.rpy#L747
 translate chinese moxiemissionary_28be45a7:
 
     # "As I get into position, her tail rises up, obscuring her pussy."
-    ""
+    "在我摆好姿势的时候，她却将尾巴抬了起来，并挡在了小穴前。"
 
 # game/2evening moxie.rpy#L748
 translate chinese moxiemissionary_43e892ba:
 
     # "With a light giggle her tail then playfully swipes at me, bristles of her hair softly rubbing over my tense shaft."
-    ""
+    "她微微一笑，然后用尾巴顽皮地在我的身上扫动着，而她身上的鬃毛则在轻轻摩擦着我那已经坚挺起来的肉棒。"
 
 # game/2evening moxie.rpy#L749
 translate chinese moxiemissionary_9f398409:
 
     # "I get a nice long view at her soaked sex, her cute clit twitching while I align my cock with her moist cunt."
-    ""
+    "我慢慢欣赏着她那湿漉漉而淫荡的性器。在我的阴茎接触到她湿润的阴蒂时，她那可爱的阴蒂便开始抽搐起来。"
 
 # game/2evening moxie.rpy#L751
 translate chinese moxiemissionary_bd2c9eeb:
 
     # "I press my girthy cock against her entrance and it sinks into the warmth and wetness. It’s immensely pleasurable around my throbbing member, as her insides squeeze and suck my cock."
-    ""
+    "我将坚挺的阴茎插进了她那温暖而湿润的小穴里。小穴的内壁挤压吸吮着我的肉棒，这让我感受到了一种不可比拟的快感。"
 
 # game/2evening moxie.rpy#L753
 translate chinese moxiemissionary_33ed9b73:
 
     # "I start to hump her perfect, dripping pussy. Schlicking and sliding back and forth with ease as the cum froths, bubbles and mixes with her juices."
-    ""
+    "于是，我开始抽插着她那完美诱人，鲜美多汁的小穴。由于精液、淫液及两者交融混合的原因，我的肉棒在她的阴道里进出自如。"
 
 # game/2evening moxie.rpy#L754
 translate chinese moxiemissionary_ad9e3695:
 
     # "Her pussy feels even hotter and wetter than usual, occasional contractions deep inside intensify the pleasure."
-    ""
+    "我感觉，她的小穴变得比平时更热更湿了，小穴深处肉壁的收缩也增强了做爱时的快感。"
 
 # game/2evening moxie.rpy#L755
 translate chinese moxiemissionary_63af2e16:
 
     # moxie "Ahhhaha, it's crazy how this feels as good as the first time! No, even better!"
-    moxie ""
+    moxie "啊哈哈，这感觉就和我第一次爱爱的时候一样，太刺激了！不对，是更刺激才对！"
 
 # game/2evening moxie.rpy#L756
 translate chinese moxiemissionary_7d49e1da:
 
     # "Moxie moans and squirms as her body racks with pleasure."
-    ""
+    "在Moxie的身体因快感而飘飘欲仙的同时，她还发出了娇喘，身体也跟着扭动起来。"
 
 # game/2evening moxie.rpy#L757
 translate chinese moxiemissionary_7a9e9bbe:
 
     # moxie "Oooofft, keep going like that, you're gonna make me come!"
-    moxie ""
+    moxie "啊哦，就是这样，继续，我快要被你操到高潮了！"
 
 # game/2evening moxie.rpy#L758
 translate chinese moxiemissionary_291193f2:
 
     # "Her body ignores her concern as her hips continually wriggle and push into me as a means to maximise the pleasure she receives."
-    ""
+    "在她的臀部持续起伏和扭动以满足最大快感的过程中，她的身体已经完全不受意识的支配了。"
 
 # game/2evening moxie.rpy#L759
 translate chinese moxiemissionary_d3d16562:
 
     # "With both of our bodies dancing in tune, Moxie's pussy tightens as she begins to orgasm."
-    ""
+    "我们两人交合的动作变得协调起来。在Moxie高潮时，她的小穴突然紧缩了起来。"
 
 # game/2evening moxie.rpy#L760
 translate chinese moxiemissionary_9111a26d:
 
     # "She lustfully moans throughout, high-pitched squeaks of enjoyment and pleasure constantly spilling from her lips."
-    ""
+    "她那饱含情欲的呻吟声从未间断过，她那享受而喜悦的尖叫声也会不停地从她的嘴里传出来。"
 
 # game/2evening moxie.rpy#L761
 translate chinese moxiemissionary_99d9dbe0:
 
     # "She writhes and pants, her pristine blue fur growing moist with sweat. At this point she can barely form sentences between her moans."
-    ""
+    "她一边扭动着身体，一边大口大口喘着气。她洁净的蓝色毛发也被汗水浸湿了。此时的她，只能在两次呻吟之间的空隙勉强说出几个字了。"
 
 # game/2evening moxie.rpy#L762
 translate chinese moxiemissionary_198f4848:
 
     # moxie "Ooohh, I-I’aahmmm, aahhhh, I-ahh! C-Comminiggghh, agaaainn?! Ahhahaahhh!"
-    moxie ""
+    moxie "哦 ~ 我……我……嗯啊啊，啊啊啊，我……啊！我，我又……又去了吗？！啊啊啊……！"
 
 # game/2evening moxie.rpy#L763
 translate chinese moxiemissionary_e2c9f351:
 
     # "Yep, she’s completely inarticulate as she loses herself in the ecstasy of her second orgasm."
-    ""
+    "的确，在经历了第二次高潮的狂喜后，她完全迷失了自我，连说话也已经语无伦次了。"
 
 # game/2evening moxie.rpy#L764
 translate chinese moxiemissionary_a7f401f9:
 
     # "I thrust hard into her clenching pussy, it squeezes and sucks around my cock relentlessly."
-    ""
+    "我又用力抽插着她紧缩的小穴，紧致的肉壁也在不停挤压着我的阴茎。"
 
 # game/2evening moxie.rpy#L765
 translate chinese moxiemissionary_e5a752aa:
 
     # "Squirts of her juices drip and dribble from her thighs with each body-rocking impact."
-    ""
+    "随着每一次身体之间的撞击，蜜汁从她的蜜穴中喷涌而出，然后顺着大腿流了下来。"
 
 # game/2evening moxie.rpy#L766
 translate chinese moxiemissionary_e23f7e91:
 
     # moxie "F-Fuck, ahhhhh, ahhh… It’s so good! I want more! Ahhhh, fuck me more!"
-    moxie ""
+    moxie "操……操，啊啊啊，啊……好爽啊！我还要！啊，再来狂操我吧！"
 
 # game/2evening moxie.rpy#L767
 translate chinese moxiemissionary_3bb7123d:
 
     # "As I fuck her faster I'm also getting close to orgasm. Sprinting to the finish, I continue pounding her insides with every ounce of strength my body can muster."
-    ""
+    "由于我提高了抽插的速度，所以我也快要射了。为了最后一击，我用尽全身所有力气，继续用力抽插着她的下体。"
 
 # game/2evening moxie.rpy#L768
 translate chinese moxiemissionary_a1c8bd79:
 
     # "Her hips rock with just as much vigour as mine, each of us fucking hard, fast and desperate."
-    ""
+    "和我一样，她的臀部也在用力摆动着。这让我们两人的动作越来越剧烈，也越来越快。"
 
 # game/2evening moxie.rpy#L769
 translate chinese moxiemissionary_32110dba:
 
     # "I can feel my cock twitching, her consistently clenching pussy combined with my thrusts is too much to endure."
-    ""
+    "我可以感觉到自己的肉棒在颤抖。我的抽插，加上她小穴的强烈挤压，让我难以再继续坚持下去了。"
 
 # game/2evening moxie.rpy#L774
 translate chinese moxiemissionary_311919ee:
 
     # "Cum erupts from my cock, glazing her hot pussy in complete white; her pussy and womb completely stuffed with my semen."
-    ""
+    "于是，精液喷射而出，不仅注满了她的阴道和子宫，而且还将她那滚烫的蜜穴彻底染成了乳白色。"
 
 # game/2evening moxie.rpy#L780
 translate chinese moxiemissionary_f7e3e11f:
 
     # moxie "Oohhh, ahhh... It feels so hot, heh..."
-    moxie ""
+    moxie "哦……啊……好热啊，嘿嘿……"
 
 # game/2evening moxie.rpy#L782
 translate chinese moxiemissionary_e38f5703:
 
     # "I enjoy the feeling of her warm insides for a few seconds longer before pulling out, some cum oozing out from the separation."
-    ""
+    "在将肉棒拔出之前，我让它在小穴里享受了片刻的温暖。在肉棒拔出来的一瞬间，一些精液从小穴里缓缓流了出来。"
 
 # game/2evening moxie.rpy#L785
 translate chinese moxiemissionary_4c01db67:
 
     # moxie "Phew... Hahh, wanna go again? I got a spell for that now!"
-    moxie ""
+    moxie "哦……哈哈，还想再来一次吗？我刚刚想起那个咒语了！"
 
 # game/2evening moxie.rpy#L786
 translate chinese moxiemissionary_8fea2db2:
@@ -1647,7 +1647,7 @@ translate chinese moxiemissionary_8fea2db2:
 translate chinese moxiemissionary_7ae428f3:
 
     # "About an hour, and many orgasms later, we eventually fall asleep."
-    ""
+    "我们在一个小时内高潮了数次。最后，我们两人便进入了梦乡。"
 
 # game/2evening moxie.rpy#L792
 translate chinese moxiemissionary_00bbbd45:
@@ -1665,79 +1665,79 @@ translate chinese moxiemissionary_a20cefa7:
 translate chinese moxietalk_482ffaf0:
 
     # moxie "So you've slept with both Melody and Ruby."
-    moxie ""
+    moxie "这么说，你已经睡过Melody和Ruby了。"
 
 # game/2evening moxie.rpy#L809
 translate chinese moxietalk_3c0290f4:
 
     # moxie "Gosh, you're such a player! I thought two those would be innocent and cute."
-    moxie ""
+    moxie "我的天，你可真是个海王！我还以为这两个人很单纯很可爱呢。"
 
 # game/2evening moxie.rpy#L810
 translate chinese moxietalk_80aa0c3b:
 
     # moxie "Yet somehow inexplicably you've revealed that they're just as bad as someone like me, ahaha."
-    moxie ""
+    moxie "虽然还是解释不清，可通过你的描述，其实已经可以证明她们和我一样骚一样浪了，啊哈哈。"
 
 # game/2evening moxie.rpy#L815
 translate chinese moxietalk_5a0d6442:
 
     # mc "Haha, honestly I think they're worse than you, they're deviants."
-    mc ""
+    mc "哈哈，说真的，我感觉她们可比不上你，因为她们两个都很变态。"
 
 # game/2evening moxie.rpy#L816
 translate chinese moxietalk_213531c0:
 
     # moxie "Deviants? Oh my."
-    moxie ""
+    moxie "变态？哦，我的天哪。"
 
 # game/2evening moxie.rpy#L817
 translate chinese moxietalk_da430e98:
 
     # mc "You know, in a good way."
-    mc ""
+    mc "但你懂的，其实也没那么糟。"
 
 # game/2evening moxie.rpy#L818
 translate chinese moxietalk_e4d73280:
 
     # moxie "My, my, all this time I thought Ruby was a prude, and she was running a camshow, ohohoh."
-    moxie ""
+    moxie "天哪，天哪，我一直以为Ruby是个很正经的人呢，而且她还开过摄影展呢。哦哦哦。"
 
 # game/2evening moxie.rpy#L819
 translate chinese moxietalk_4a7a3a8a:
 
     # mc "Remember, you can't tell anyone about that!"
-    mc ""
+    mc "记住，这事可不能告诉任何人！"
 
 # game/2evening moxie.rpy#L820
 translate chinese moxietalk_bd9d332b:
 
     # moxie "My lips are sealed 'darling'."
-    moxie ""
+    moxie "好的，亲爱的，我保证一个字也不会说的。"
 
 # game/2evening moxie.rpy#L826
 translate chinese moxietalk_c8a9f395:
 
     # moxie "And so, [playername] conquered the farm by sleeping with not only Honeycrisp, but her sister and a cow!"
-    moxie ""
+    moxie "这么说，[playername]是靠睡了Honeycrisp、Honeycrisp她妹妹和一头牛这三个人才征服了整座农场的喽！"
 
 # game/2evening moxie.rpy#L831
 translate chinese moxietalk_41e825a7:
 
     # moxie "You're such an animal, hehe."
-    moxie ""
+    moxie "你可真是个大禽兽啊，嘿嘿。"
 
 # game/2evening moxie.rpy#L836
 translate chinese moxietalk_11da5040:
 
     # mc "You're gonna make me blush."
-    mc ""
+    mc "你说得都让我不好意思了。"
 
 # game/2evening moxie.rpy#L841
 translate chinese moxietalk_e8ee562d:
 
     # moxie "When I challenged you to sleep with so many people, I wasn't expecting you to succeed so amazingly."
-    moxie ""
+    moxie "在我向你发起挑战，看你能睡多少个人的时候，我可没想到你居然能取得这么厉害的结果。"
 
 # game/2evening moxie.rpy#L842
 translate chinese moxietalk_41c6cf9d:
@@ -1749,91 +1749,91 @@ translate chinese moxietalk_41c6cf9d:
 translate chinese moxietalk_cbc890a5:
 
     # moxie "Naahhh, haha. I'm not interested in sleeping around, I just think it's hilarious."
-    moxie ""
+    moxie "没没没，哈哈。我对睡过谁这事一点兴趣也没有，我只是觉得太有意思了。"
 
 # game/2evening moxie.rpy#L848
 translate chinese moxietalk_3c87eed7:
 
     # moxie "You ever thought about settling down, or are you gonna go for more mares?"
-    moxie ""
+    moxie "你有没有想过就此收手呢，或者是你还想去约更多的小马呢？"
 
 # game/2evening moxie.rpy#L849
 translate chinese moxietalk_d15515a2:
 
     # mc "Well, you know I'm still young..."
-    mc ""
+    mc "嗯，你也知道，我还年轻……"
 
 # game/2evening moxie.rpy#L850
 translate chinese moxietalk_b9017e75:
 
     # moxie "Hehe, I like your style."
-    moxie ""
+    moxie "哈哈，我了解你的品味。"
 
 # game/2evening moxie.rpy#L856
 translate chinese moxietalk_b72992e4:
 
     # moxie "I still can't believe you got through to Butters."
-    moxie ""
+    moxie "我还是不敢相信，你居然联系到了Butters。"
 
 # game/2evening moxie.rpy#L861
 translate chinese moxietalk_feb39e64:
 
     # moxie "She's always been that one person I've never been able to connect with, other than Lily a little."
-    moxie ""
+    moxie "我从来都没能联系到她，但Lily却成功过几次。"
 
 # game/2evening moxie.rpy#L862
 translate chinese moxietalk_dde1361a:
 
     # mc "She doesn't seem to like ponies very much, although I think she'll be more open in the future."
-    mc ""
+    mc "虽然我觉得她将来应该能变得很开朗，但她却很不喜欢和其他小马接触。"
 
 # game/2evening moxie.rpy#L867
 translate chinese moxietalk_bc5ba0cc:
 
     # moxie "Ohh, really? Did you encourage her to come out more?"
-    moxie ""
+    moxie "哦，真的吗？那你有没有鼓励过她，让她多出去走走呢？"
 
 # game/2evening moxie.rpy#L868
 translate chinese moxietalk_1ade8904:
 
     # mc "Yeah, you might even see her at the bar."
-    mc ""
+    mc "我当然鼓励过她了，所以你才会在酒吧里见到她呀。"
 
 # game/2evening moxie.rpy#L873
 translate chinese moxietalk_93ca6df2:
 
     # moxie "A few drinks of Honey's cider is enough to get anyone talking."
-    moxie ""
+    moxie "不管是谁，只要喝几口Honey的苹果酒，就能变得无话不说。"
 
 # game/2evening moxie.rpy#L878
 translate chinese moxietalk_c07eec25:
 
     # moxie "I bet she's a total lightweight too."
-    moxie ""
+    moxie "我猜她也是个无足轻重的人。"
 
 # game/2evening moxie.rpy#L879
 translate chinese moxietalk_b8681606:
 
     # mc "I think she might surprise you."
-    mc ""
+    mc "我觉得她可能会让你很吃惊的。"
 
 # game/2evening moxie.rpy#L880
 translate chinese moxietalk_842ecd1b:
 
     # moxie "It's settled then, we're gonna go to the bar and drink with Butters. I'll make it my goal to befriend her."
-    moxie ""
+    moxie "这事还是先放放吧。咱们还要去酒吧和Butters一起喝酒去呢。我有一个愿望，那就是和她做朋友。"
 
 # game/2evening moxie.rpy#L882
 translate chinese moxietalk_209b624b:
 
     # mc "You looking for another threesome?"
-    mc ""
+    mc "你还想来一次3P吗？"
 
 # game/2evening moxie.rpy#L883
 translate chinese moxietalk_617ec5e8:
 
     # moxie "Eep, no! I think Prisma and you are enough for me."
-    moxie ""
+    moxie "呃，算了！我觉得有你和Prisma就已经足够了。"
 
 # game/2evening moxie.rpy#L889
 translate chinese moxietalk_ba50eec4:
@@ -1857,145 +1857,145 @@ translate chinese moxietalk_940b56cd:
 translate chinese moxietalk_5ff83277:
 
     # moxie "There's a saying though. 'It's always the quiet ones'."
-    moxie ""
+    moxie "There's a saying though. 'It's always the quiet ones'."
 
 # game/2evening moxie.rpy#L901
 translate chinese moxietalk_334b4355:
 
     # moxie "Not to mention she's a lonely bugger, so she's sexually repressed for sure."
-    moxie ""
+    moxie "Not to mention she's a lonely bugger, so she's sexually repressed for sure."
 
 # game/2evening moxie.rpy#L902
 translate chinese moxietalk_0a3e8ba8:
 
     # mc "I see what you mean, but she's so shy."
-    mc ""
+    mc "我明白你的意思，可她实在是太腼腆了。"
 
 # game/2evening moxie.rpy#L907
 translate chinese moxietalk_82ba55cd:
 
     # moxie "True... Alright, don't tell me if you slept with Lily, I'll leave that one up to my imagination."
-    moxie ""
+    moxie "没错……好了，要是你已经睡过Lily了，就不用告诉我了。还是让我想象一下那个场面吧。"
 
 # game/2evening moxie.rpy#L908
 translate chinese moxietalk_be65e5bd:
 
     # moxie "Of course, I wouldn't mind if you did, I think it'd be hilarious that the person I created went and sexually dominated a girl that hated me."
-    moxie ""
+    moxie "当然了，即便你真的和她睡了，我也不会在意的。因为我感觉，用自己创造出来的人去征服一个讨厌我的女孩是件很有趣的事。"
 
 # game/2evening moxie.rpy#L909
 translate chinese moxietalk_0fe9853b:
 
     # moxie "Regardless if you did or not, there's one mare you'll never be able to sleep with, and that's Penelope."
-    moxie ""
+    moxie "可不管你到底睡没睡过她，我都敢肯定，有一匹雌驹是肯定不会和你睡的，她的名字就是Penelope。"
 
 # game/2evening moxie.rpy#L910
 translate chinese moxietalk_fa5117c9:
 
     # mc "Ah yeah, she only likes mares, doesn't she?"
-    mc ""
+    mc "噢，说得是啊，她只喜欢睡其他的小雌驹，对不对啊？"
 
 # game/2evening moxie.rpy#L911
 translate chinese moxietalk_7fba80a7:
 
     # moxie "Yup, sorry [playername], but you don't stand a chance!"
-    moxie ""
+    moxie "没错。不过很抱歉，[playername]，想睡她，你可真的一点机会也没有！"
 
 # game/2evening moxie.rpy#L912
 translate chinese moxietalk_4522bf32:
 
     # moxie "I won't hold it against you in our little challenge though, hehe."
-    moxie ""
+    moxie "I won't hold it against you in our little challenge though, hehe."
 
 # game/2evening moxie.rpy#L913
 translate chinese moxietalk_c139ccb3:
 
     # "If only she knew."
-    ""
+    "如果她知道真相就好了。"
 
 # game/2evening moxie.rpy#L917
 translate chinese moxietalkmenu_d5ed2a39:
 
     # moxie "Really great! I've been feeling super motivated and happy lately."
-    moxie ""
+    moxie "太棒了！最近，我感觉特别开心，而且超有干劲。"
 
 # game/2evening moxie.rpy#L918
 translate chinese moxietalkmenu_08c46533:
 
     # mc "Anything to do with me?"
-    mc ""
+    mc "需要我帮什么忙吗？"
 
 # game/2evening moxie.rpy#L923
 translate chinese moxietalkmenu_038af6d7:
 
     # moxie "Eheh, maybe, you make me happy... I work better when I'm happy."
-    moxie ""
+    moxie "嗯嗯，或许，你可以让我开心开心……我高兴的时候，可以把事做得更好。"
 
 # game/2evening moxie.rpy#L924
 translate chinese moxietalkmenu_39a0b590:
 
     # mc "I guess you're going to continue performing while you study?"
-    mc ""
+    mc "I guess you're going to continue performing while you study?"
 
 # game/2evening moxie.rpy#L929
 translate chinese moxietalkmenu_704e58d0:
 
     # moxie "Actually I think I'll stop soon. Studying will be a full-time commitment after all, especially in the later years."
-    moxie ""
+    moxie "Actually I think I'll stop soon. Studying will be a full-time commitment after all, especially in the later years."
 
 # game/2evening moxie.rpy#L930
 translate chinese moxietalkmenu_12281ae7:
 
     # moxie "I'm saving up as much money as I can right now for food and essentials."
-    moxie ""
+    moxie "所以，我现在正在存钱，能存多少就存多少。这是为日后买食物和生活必需品留的钱。"
 
 # game/2evening moxie.rpy#L931
 translate chinese moxietalkmenu_df152ec3:
 
     # mc "Sounds like a good plan, I need to get myself one of those."
-    mc ""
+    mc "这想法听起来不错。我也要学学你了。"
 
 # game/2evening moxie.rpy#L936
 translate chinese moxietalkmenu_43d2d716:
 
     # moxie "I think you're doing great, keep working and making connections. Eventually good opportunities will arise for you."
-    moxie ""
+    moxie "I think you're doing great, keep working and making connections. Eventually good opportunities will arise for you."
 
 # game/2evening moxie.rpy#L938
 translate chinese moxietalkmenu_53f35bf3:
 
     # mc "I'm not really sure how college works in Arcadia, could you tell me more?"
-    mc ""
+    mc "我不太清楚Arcadia的大学是如何运作的，你可以给我讲讲吗？"
 
 # game/2evening moxie.rpy#L939
 translate chinese moxietalkmenu_bf00d1ba:
 
     # moxie "Hmm, you were a college student, weren't you?"
-    moxie ""
+    moxie "嗯，你是个大学生，不是吗？"
 
 # game/2evening moxie.rpy#L940
 translate chinese moxietalkmenu_5f66ce2a:
 
     # mc "I was, yeah."
-    mc ""
+    mc "我以前确实是大学生。"
 
 # game/2evening moxie.rpy#L941
 translate chinese moxietalkmenu_9f5713e1:
 
     # moxie "I'm hoping it's similar. You choose a topic of study and you study it for a few years. Then you graduate with a qualification that lets you get a great job."
-    moxie ""
+    moxie "我希望这里的大学和你那个世界的大学差不多。你先选择自己要学的专业，然后用几年时间来完成学业，最后取得能让你找到好工作的毕业证书。"
 
 # game/2evening moxie.rpy#L942
 translate chinese moxietalkmenu_3196d4f8:
 
     # mc "Ah, that's simple enough, what are you going to study?"
-    mc ""
+    mc "啊，听起来也不复杂嘛。那你打算学什么专业呢？"
 
 # game/2evening moxie.rpy#L947
 translate chinese moxietalkmenu_d9c893ee:
 
     # moxie "I'm gonna study cosmic magic."
-    moxie "我要学习宇宙魔法了。"
+    moxie "我要学的是宇宙魔法。"
 
 # game/2evening moxie.rpy#L948
 translate chinese moxietalkmenu_c17ef8ec:
@@ -2013,385 +2013,385 @@ translate chinese moxietalkmenu_d5b93ef5:
 translate chinese moxietalkmenu_82349e7b:
 
     # moxie "It's a school of magic that utilises the power of your surroundings to cast magic that is otherwise more powerful than you'd be able to use by yourself."
-    moxie ""
+    moxie "It's a school of magic that utilises the power of your surroundings to cast magic that is otherwise more powerful than you'd be able to use by yourself."
 
 # game/2evening moxie.rpy#L955
 translate chinese moxietalkmenu_f216ab94:
 
     # moxie "Only problem is that a tiny, tiny amount of the unicorn population can tap into that."
-    moxie ""
+    moxie "Only problem is that a tiny, tiny amount of the unicorn population can tap into that."
 
 # game/2evening moxie.rpy#L956
 translate chinese moxietalkmenu_5cf1faeb:
 
     # mc "And you?"
-    mc ""
+    mc "那你可以吗？"
 
 # game/2evening moxie.rpy#L961
 translate chinese moxietalkmenu_f8daf37a:
 
     # moxie "Hehe, yup, that's how I do the invisibility spell really well."
-    moxie ""
+    moxie "Hehe, yup, that's how I do the invisibility spell really well."
 
 # game/2evening moxie.rpy#L966
 translate chinese moxietalkmenu_6f7d1349:
 
     # moxie "It's still difficult for me though."
-    moxie ""
+    moxie "但这对我来说还是很难的。"
 
 # game/2evening moxie.rpy#L967
 translate chinese moxietalkmenu_98b6d6d4:
 
     # moxie "Fortunately, that's what study is for! The entry exam doesn't require any actual experience with cosmic magic."
-    moxie ""
+    moxie "Fortunately, that's what study is for! The entry exam doesn't require any actual experience with cosmic magic."
 
 # game/2evening moxie.rpy#L968
 translate chinese moxietalkmenu_b0006e45:
 
     # mc "What other types of magic are there?"
-    mc ""
+    mc "What other types of magic are there?"
 
 # game/2evening moxie.rpy#L973
 translate chinese moxietalkmenu_8e477014:
 
     # moxie "Oh plenty, the actual categories are vague because there are so many different overlapping types."
-    moxie ""
+    moxie "Oh plenty, the actual categories are vague because there are so many different overlapping types."
 
 # game/2evening moxie.rpy#L974
 translate chinese moxietalkmenu_7c474cf7:
 
     # moxie "At the Arcadian college you can study cosmic magic, mystical magic, alteration magic, and white magic."
-    moxie ""
+    moxie "At the Arcadian college you can study cosmic magic, mystical magic, alteration magic, and white magic."
 
 # game/2evening moxie.rpy#L979
 translate chinese moxietalkmenu_2cbae864:
 
     # moxie "There's also black magic which you can't study, that focuses on using magic to cause pain and destruction, bad!"
-    moxie ""
+    moxie "There's also black magic which you can't study, that focuses on using magic to cause pain and destruction, bad!"
 
 # game/2evening moxie.rpy#L984
 translate chinese moxietalkmenu_bd2b93d5:
 
     # moxie "I bet there are other types too, but alteration is the most common form of magic, as you can imagine the uses for that are quite extreme."
-    moxie ""
+    moxie "I bet there are other types too, but alteration is the most common form of magic, as you can imagine the uses for that are quite extreme."
 
 # game/2evening moxie.rpy#L985
 translate chinese moxietalkmenu_30ad2789:
 
     # moxie "Fairly sure most buildings in Arcadia are made using that, apart from the suburbs that is."
-    moxie ""
+    moxie "Fairly sure most buildings in Arcadia are made using that, apart from the suburbs that is."
 
 # game/2evening moxie.rpy#L986
 translate chinese moxietalkmenu_1e6ef6ab:
 
     # moxie "The suburbs are actually older than the castle because they're remnants of pre-unicorn society."
-    moxie ""
+    moxie "The suburbs are actually older than the castle because they're remnants of pre-unicorn society."
 
 # game/2evening moxie.rpy#L987
 translate chinese moxietalkmenu_684199c3:
 
     # mc "This is all incredibly interesting. Could you tell me what Lily and Penelope are studying?"
-    mc ""
+    mc "This is all incredibly interesting. Could you tell me what Lily and Penelope are studying?"
 
 # game/2evening moxie.rpy#L988
 translate chinese moxietalkmenu_b257a607:
 
     # moxie "Of course, I think it's awesome to have someone new to talk to about this stuff."
-    moxie ""
+    moxie "Of course, I think it's awesome to have someone new to talk to about this stuff."
 
 # game/2evening moxie.rpy#L989
 translate chinese moxietalkmenu_5ef3ecc1:
 
     # moxie "Lily is doing a science of magic extended course, that's a special course which is far beyond me."
-    moxie ""
+    moxie "Lily is doing a science of magic extended course, that's a special course which is far beyond me."
 
 # game/2evening moxie.rpy#L990
 translate chinese moxietalkmenu_fb555cda:
 
     # moxie "And Penelope is studying mysticism, with some extra modules in alteration."
-    moxie ""
+    moxie "And Penelope is studying mysticism, with some extra modules in alteration."
 
 # game/2evening moxie.rpy#L991
 translate chinese moxietalkmenu_4399af8d:
 
     # "We spend a surprising amount of time talking about magic. I still can't get over how awesome it is to be living in a world where magic is real."
-    ""
+    "We spend a surprising amount of time talking about magic. I still can't get over how awesome it is to be living in a world where magic is real."
 
 # game/2evening moxie.rpy#L992
 translate chinese moxietalkmenu_8c8cf652:
 
     # "I'm really interested to see all the faucets of how a modern society is affected by magic."
-    ""
+    "I'm really interested to see all the faucets of how a modern society is affected by magic."
 
 # game/2evening moxie.rpy#L994
 translate chinese moxietalkmenu_a36d77de:
 
     # mc "Can you tell me more about magic?"
-    mc ""
+    mc "你可以多给我讲讲关于魔法的事吗？"
 
 # game/2evening moxie.rpy#L995
 translate chinese moxietalkmenu_11e64824:
 
     # moxie "This again? You're obsessed ahah."
-    moxie ""
+    moxie "又想听这些事了吗？看来你真是着了魔了，啊哈。"
 
 # game/2evening moxie.rpy#L996
 translate chinese moxietalkmenu_dd1afac7:
 
     # mc "Well, ever since I was young I always wanted to do magic."
-    mc ""
+    mc "嗯，在我小时候，我总是希望自己可以学会魔法。"
 
 # game/2evening moxie.rpy#L997
 translate chinese moxietalkmenu_7986470a:
 
     # moxie "Yeaahhh, it's pretty cool!"
-    moxie ""
+    moxie "嗯哼，真酷啊！"
 
 # game/2evening moxie.rpy#L1005
 translate chinese moxiemagictalk_eb2a4531:
 
     # moxie "I think mysticism is just generally a catch-all for fancy magic stuff that doesn't fit into the other categories."
-    moxie ""
+    moxie "I think mysticism is just generally a catch-all for fancy magic stuff that doesn't fit into the other categories."
 
 # game/2evening moxie.rpy#L1006
 translate chinese moxiemagictalk_e08fd0dc:
 
     # moxie "Mysticism is to use magic to manipulate the rules of nature."
-    moxie ""
+    moxie "Mysticism is to use magic to manipulate the rules of nature."
 
 # game/2evening moxie.rpy#L1007
 translate chinese moxiemagictalk_9a01b5ec:
 
     # moxie "It's the ability to reflect spells, raise the undead, telekinesis and even levitation."
-    moxie ""
+    moxie "It's the ability to reflect spells, raise the undead, telekinesis and even levitation."
 
 # game/2evening moxie.rpy#L1008
 translate chinese moxiemagictalk_9f65350d:
 
     # moxie "It's essentially doing things with magic that are otherwise impossible, and have no real standing in science."
-    moxie ""
+    moxie "It's essentially doing things with magic that are otherwise impossible, and have no real standing in science."
 
 # game/2evening moxie.rpy#L1009
 translate chinese moxiemagictalk_8e4251e3:
 
     # moxie "You can also use spells to manipulate your physics, perception or abilities."
-    moxie ""
+    moxie "You can also use spells to manipulate your physics, perception or abilities."
 
 # game/2evening moxie.rpy#L1010
 translate chinese moxiemagictalk_287bdb9e:
 
     # mc "Kinda like a buff in a video game?"
-    mc ""
+    mc "Kinda like a buff in a video game?"
 
 # game/2evening moxie.rpy#L1011
 translate chinese moxiemagictalk_f5c11326:
 
     # moxie "Yeah, most video game buffs are mystical spells."
-    moxie ""
+    moxie "Yeah, most video game buffs are mystical spells."
 
 # game/2evening moxie.rpy#L1018
 translate chinese moxiemagictalk_b0e48fff:
 
     # moxie "This is arguably the most useful school of magic. It can be used to change the fundamental chemistry of objects."
-    moxie ""
+    moxie "This is arguably the most useful school of magic. It can be used to change the fundamental chemistry of objects."
 
 # game/2evening moxie.rpy#L1019
 translate chinese moxiemagictalk_fbeffe08:
 
     # moxie "You could use it to say, turn clay into bricks, or sand into glass."
-    moxie ""
+    moxie "You could use it to say, turn clay into bricks, or sand into glass."
 
 # game/2evening moxie.rpy#L1020
 translate chinese moxiemagictalk_59767ccc:
 
     # moxie "It's useful for food production, health and safety, construction. Just depends on where you specialise I guess."
-    moxie ""
+    moxie "It's useful for food production, health and safety, construction. Just depends on where you specialise I guess."
 
 # game/2evening moxie.rpy#L1021
 translate chinese moxiemagictalk_1085f6ea:
 
     # mc "I guess that's the reason fancy architecture is the standard."
-    mc ""
+    mc "I guess that's the reason fancy architecture is the standard."
 
 # game/2evening moxie.rpy#L1022
 translate chinese moxiemagictalk_7161d0f8:
 
     # moxie "Yep, heck, the tree library was made entirely from alteration magic."
-    moxie ""
+    moxie "Yep, heck, the tree library was made entirely from alteration magic."
 
 # game/2evening moxie.rpy#L1025
 translate chinese moxiemagictalk_4a6f706b:
 
     # moxie "This is an incredibly challenging school of magic that is closely linked to medical courses."
-    moxie ""
+    moxie "This is an incredibly challenging school of magic that is closely linked to medical courses."
 
 # game/2evening moxie.rpy#L1026
 translate chinese moxiemagictalk_87436e00:
 
     # moxie "In a nutshell, it's healing magic. But the long of it is that healing is incredibly complicated."
-    moxie ""
+    moxie "In a nutshell, it's healing magic. But the long of it is that healing is incredibly complicated."
 
 # game/2evening moxie.rpy#L1027
 translate chinese moxiemagictalk_c032d0f3:
 
     # moxie "You can't just cast a healing spell on someone and assume everything will be okay, a profound understanding of biology and medicine is required to be effective."
-    moxie ""
+    moxie "You can't just cast a healing spell on someone and assume everything will be okay, a profound understanding of biology and medicine is required to be effective."
 
 # game/2evening moxie.rpy#L1028
 translate chinese moxiemagictalk_5a86bd51:
 
     # mc "Awh, nothing is ever as simple as the games."
-    mc ""
+    mc "Awh, nothing is ever as simple as the games."
 
 # game/2evening moxie.rpy#L1033
 translate chinese moxiemagictalk_c90f636a:
 
     # moxie "Afraid not kiddo."
-    moxie ""
+    moxie "Afraid not kiddo."
 
 # game/2evening moxie.rpy#L1040
 translate chinese moxiemagictalk_b66de143:
 
     # moxie "This is magic like teleportation, invisibility, detecting creatures around you, absorbing spells and creating portals."
-    moxie ""
+    moxie "This is magic like teleportation, invisibility, detecting creatures around you, absorbing spells and creating portals."
 
 # game/2evening moxie.rpy#L1041
 translate chinese moxiemagictalk_11884d6d:
 
     # moxie "Most of these spells require you to utilize external energies, because they're beyond basic magical ability."
-    moxie ""
+    moxie "Most of these spells require you to utilize external energies, because they're beyond basic magical ability."
 
 # game/2evening moxie.rpy#L1042
 translate chinese moxiemagictalk_0dd93717:
 
     # mc "Why's that?"
-    mc ""
+    mc "为什么呢？"
 
 # game/2evening moxie.rpy#L1047
 translate chinese moxiemagictalk_12bb91ac:
 
     # moxie "Well, basically... If you're creating a portal for example, you'll need to cast magic to create a portal in front of you. You can do that on your own."
-    moxie ""
+    moxie "Well, basically... If you're creating a portal for example, you'll need to cast magic to create a portal in front of you. You can do that on your own."
 
 # game/2evening moxie.rpy#L1048
 translate chinese moxiemagictalk_63fd0ef4:
 
     # moxie "But the only way to get a portal to link to somewhere else, is to use cosmic energy to form that portal on the other side."
-    moxie ""
+    moxie "But the only way to get a portal to link to somewhere else, is to use cosmic energy to form that portal on the other side."
 
 # game/2evening moxie.rpy#L1049
 translate chinese moxiemagictalk_0c486739:
 
     # mc "Sounds... complicated..."
-    mc ""
+    mc "Sounds... complicated..."
 
 # game/2evening moxie.rpy#L1054
 translate chinese moxiemagictalk_404a7a33:
 
     # moxie "Yeah, if time travel magic ever becomes a thing, it'll definitely be under this school."
-    moxie ""
+    moxie "Yeah, if time travel magic ever becomes a thing, it'll definitely be under this school."
 
 # game/2evening moxie.rpy#L1055
 translate chinese moxiemagictalk_e52ecf8c:
 
     # mc "Wait, so why is invisiblity cosmic? Surely that's mysticism?"
-    mc ""
+    mc "Wait, so why is invisiblity cosmic? Surely that's mysticism?"
 
 # game/2evening moxie.rpy#L1060
 translate chinese moxiemagictalk_c821ef5f:
 
     # moxie "Ahah, so you're paying attention, good!"
-    moxie ""
+    moxie "啊哈，看来你很认真嘛，很好！"
 
 # game/2evening moxie.rpy#L1065
 translate chinese moxiemagictalk_38331b18:
 
     # moxie "Invisibility is not what it appears to be. It's not an optical illusion, true invisibility is the act of casting away your physical form and replacing it with an ethereal one."
-    moxie ""
+    moxie "Invisibility is not what it appears to be. It's not an optical illusion, true invisibility is the act of casting away your physical form and replacing it with an ethereal one."
 
 # game/2evening moxie.rpy#L1066
 translate chinese moxiemagictalk_49a2e526:
 
     # moxie "The physical form has to go somewhere during that time, you know?"
-    moxie ""
+    moxie "The physical form has to go somewhere during that time, you know?"
 
 # game/2evening moxie.rpy#L1067
 translate chinese moxiemagictalk_124bef6c:
 
     # mc "Uh, I don't think I know."
-    mc ""
+    mc "呃，我好像不知道。"
 
 # game/2evening moxie.rpy#L1072
 translate chinese moxiemagictalk_afdbed9f:
 
     # moxie "Awh, don't worry about it too much."
-    moxie ""
+    moxie "噢，不用太担心。"
 
 # game/2evening moxie.rpy#L1077
 translate chinese moxiemagictalk_6f1f26bb:
 
     # mc "Can you tell me more about your past? I don't know much about where you used to live."
-    mc ""
+    mc "你能给我讲讲你之前的经历吗？因为我不太清楚你之前住在什么地方。"
 
 # game/2evening moxie.rpy#L1082
 translate chinese moxiemagictalk_d4ce57f1:
 
     # moxie "Sure thing. I come from a village far to the east. I was travelling and performing all across the country on my way to Arcadia, where I wanted to settle."
-    moxie ""
+    moxie "Sure thing. I come from a village far to the east. I was travelling and performing all across the country on my way to Arcadia, where I wanted to settle."
 
 # game/2evening moxie.rpy#L1083
 translate chinese moxiemagictalk_096569cf:
 
     # moxie "It was genius in retrospect; I'd perform my shows and live off the road using the money."
-    moxie ""
+    moxie "It was genius in retrospect; I'd perform my shows and live off the road using the money."
 
 # game/2evening moxie.rpy#L1084
 translate chinese moxiemagictalk_d000a6ef:
 
     # moxie "Performing in new places is always lucrative, even these days sometimes I travel outside of Arcadia to perform. I'll be back in the evenings though, so no need to worry."
-    moxie ""
+    moxie "Performing in new places is always lucrative, even these days sometimes I travel outside of Arcadia to perform. I'll be back in the evenings though, so no need to worry."
 
 # game/2evening moxie.rpy#L1085
 translate chinese moxiemagictalk_8df5565a:
 
     # moxie "Before that I was at school, I'm only just nineteen I'll have you know."
-    moxie ""
+    moxie "Before that I was at school, I'm only just nineteen I'll have you know."
 
 # game/2evening moxie.rpy#L1090
 translate chinese moxiemagictalk_664f962a:
 
     # moxie "I lived in Sylvania and grew up with a single mother. There was no father, I was born through magic, so I guess that means I'm a clone of my mom."
-    moxie ""
+    moxie "I lived in Sylvania and grew up with a single mother. There was no father, I was born through magic, so I guess that means I'm a clone of my mom."
 
 # game/2evening moxie.rpy#L1095
 translate chinese moxiemagictalk_a065a0bf:
 
     # moxie "Life in the village was surprisingly similar to the Arcadian suburbs; I however, was different!"
-    moxie ""
+    moxie "Life in the village was surprisingly similar to the Arcadian suburbs; I however, was different!"
 
 # game/2evening moxie.rpy#L1100
 translate chinese moxiemagictalk_2f3c6671:
 
     # moxie "Oh sheesh, I was a spoilt child, it brings a tear to my eye."
-    moxie ""
+    moxie "Oh sheesh, I was a spoilt child, it brings a tear to my eye."
 
 # game/2evening moxie.rpy#L1105
 translate chinese moxiemagictalk_fcaf367a:
 
     # moxie "Alright, your turn now, I want to know about you."
-    moxie ""
+    moxie "好了，该你说了。我想知道关于你的事。"
 
 # game/2evening moxie.rpy#L1106
 translate chinese moxiemagictalk_f1761e7f:
 
     # mc "Fair enough, we haven't talked about that since the day after I arrived."
-    mc ""
+    mc "Fair enough, we haven't talked about that since the day after I arrived."
 
 # game/2evening moxie.rpy#L1107
 translate chinese moxiemagictalk_36f9e4c0:
 
     # "We spend a while talking about my past life, my friends, family and everyday life."
-    ""
+    "我花了一段时间来讲述自己过去的经历、曾经的朋友和家人以及我每天的生活。"
 
 # game/2evening moxie.rpy#L1109
 translate chinese moxiemagictalk_111d6e1a:
@@ -2415,7 +2415,7 @@ translate chinese moxiemagictalk_d58ec144:
 translate chinese moxiemagictalk_ee452145:
 
     # mc "It's fine, I'm over that stuff now. I've come to terms with the fact you somehow cloned me."
-    mc ""
+    mc "It's fine, I'm over that stuff now. I've come to terms with the fact you somehow cloned me."
 
 # game/2evening moxie.rpy#L1121
 translate chinese moxiemagictalk_9891dd89:
@@ -2427,55 +2427,55 @@ translate chinese moxiemagictalk_9891dd89:
 translate chinese moxiemagictalk_61d3bb88:
 
     # mc "Haha, come on, answer my question from before."
-    mc ""
+    mc "Haha, come on, answer my question from before."
 
 # game/2evening moxie.rpy#L1127
 translate chinese moxiemagictalk_49ee13f3:
 
     # moxie "Ohh right! I've made tons of friends here, almost all thanks to Penelope."
-    moxie ""
+    moxie "哦，说得对！多亏了Penelope，我才能在这里交到这么多朋友。"
 
 # game/2evening moxie.rpy#L1128
 translate chinese moxiemagictalk_33fed7a1:
 
     # moxie "We used to go to the bar together in the evening, and that's where I got very close to Prisma."
-    moxie ""
+    moxie "我们经常会在晚上一起去酒吧喝酒。我就是在那儿和Prisma成为好朋友的。"
 
 # game/2evening moxie.rpy#L1129
 translate chinese moxiemagictalk_31d4a31b:
 
     # moxie "Being friends with the person that runs the largest bar in the suburbs is handy, because she knows a lot about Arcadia and its people."
-    moxie ""
+    moxie "能和经营市郊规模最大酒吧的人交朋友可以得到很多的便利，因为她知道很多关于Arcadia和当地居民的事。"
 
 # game/2evening moxie.rpy#L1130
 translate chinese moxiemagictalk_4a14fbc8:
 
     # moxie "Before I knew it, I had a gang of friends including all those that you're working for."
-    moxie ""
+    moxie "Before I knew it, I had a gang of friends including all those that you're working for."
 
 # game/2evening moxie.rpy#L1131
 translate chinese moxiemagictalk_06d7903d:
 
     # moxie "I hope they're treating you just as kindly as they treated me."
-    moxie ""
+    moxie "我希望她们可以像对待我一样来对待你。"
 
 # game/2evening moxie.rpy#L1132
 translate chinese moxiemagictalk_fc5797b6:
 
     # mc "Definitely, if it wasn't for the kindness of everyone here, I don't think I could have adapted to this new life as easily."
-    mc ""
+    mc "当然了，如果这里的人都不友好的话，我可能就不会那么容易地适应这里的新生活了。"
 
 # game/2evening moxie.rpy#L1137
 translate chinese moxiemagictalk_6cc0006a:
 
     # moxie "Phew, thank Aurora for that."
-    moxie ""
+    moxie "唉，这就要感谢Aurora了。"
 
 # game/2evening moxie.rpy#L1142
 translate chinese moxiemagictalk_a67a08da:
 
     # "We spend some time gossiping, I guess I've picked up that habit from spending so much time around girls."
-    ""
+    "我们聊了许久。我猜，可能是因为经常和身边的女孩聊天的缘故，我现在已经养成了和异性聊天的习惯。"
 
 translate chinese strings:
 

@@ -1,51 +1,51 @@
-# Translation updated at Sun Jun 13 2021 10:42:31 GMT+0800 (香港标准时间)
+# Translation updated at Tue Jun 15 2021 19:43:44 GMT+0000 (Coordinated Universal Time)
 # game/castle.rpy#L6
 translate chinese castle_38f72bb5:
 
     # "This is where we're supposed to meet up for the sauna trip, right?"
-    ""
+    "This is where we're supposed to meet up for the sauna trip, right?"
 
 # game/castle.rpy#L7
 translate chinese castle_84673aa7:
 
     # "I could request an audience with the Queen, she did say that she'd be happy to meet with me again."
-    ""
+    "I could request an audience with the Queen, she did say that she'd be happy to meet with me again."
 
 # game/castle.rpy#L10
 translate chinese castlemenu_51fa92df:
 
     # "I request to meet with the Queen and wait my turn to have an audience with her."
-    ""
+    "I request to meet with the Queen and wait my turn to have an audience with her."
 
 # game/castle.rpy#L14
 translate chinese castlemenu_d2f7c459:
 
     # "Here we are. I step into the portals and soon find myself within the office closet."
-    ""
+    "Here we are. I step into the portals and soon find myself within the office closet."
 
 # game/castle.rpy#L16
 translate chinese castlemenu_49e6179b:
 
     # "I nearly move to put on some clothes, but I realize that probably won't be necessary."
-    ""
+    "I nearly move to put on some clothes, but I realize that probably won't be necessary."
 
 # game/castle.rpy#L33
 translate chinese aurora_469d3121:
 
     # aurora "Greetings young one, how may I help you?"
-    aurora ""
+    aurora "Greetings young one, how may I help you?"
 
 # game/castle.rpy#L40
 translate chinese auroramenu_bded3f27:
 
     # aurora "Ah, that sounds wonderful. Please escort me to my quarters, sir."
-    aurora ""
+    aurora "Ah, that sounds wonderful. Please escort me to my quarters, sir."
 
 # game/castle.rpy#L41
 translate chinese auroramenu_0f3ebb69:
 
     # "Wait, I'm escorting you? Heh, sure."
-    ""
+    "Wait, I'm escorting you? Heh, sure."
 
 # game/castle.rpy#L46
 translate chinese auroramenu_a4e6078f:
@@ -2541,5521 +2541,5521 @@ translate chinese selenemenu_f035e201:
 translate chinese selenemenu_150cd8bc:
 
     # selene "I think it's important for a princess to have a subject to engage in {i}copulation{/i} with for the purposes of relief, don't you agree?"
-    selene ""
+    selene "I think it's important for a princess to have a subject to engage in {i}copulation{/i} with for the purposes of relief, don't you agree?"
 
 # game/castle.rpy#L756
 translate chinese selenemenu_0a5b85d5:
 
     # mc "I'd say so, is this an interview?"
-    mc ""
+    mc "I'd say so, is this an interview?"
 
 # game/castle.rpy#L757
 translate chinese selenemenu_52975376:
 
     # selene "Hehe, no, you already have the position..."
-    selene ""
+    selene "Hehe, no, you already have the position..."
 
 # game/castle.rpy#L758
 translate chinese selenemenu_88205126:
 
     # "She reaches her hand over to my rapidly growing erection, and gracefully moves it up and down my cock, applying pressure perfectly to stimulate the neck of my glans. Within seconds I’m stiff solid."
-    ""
+    "She reaches her hand over to my rapidly growing erection, and gracefully moves it up and down my cock, applying pressure perfectly to stimulate the neck of my glans. Within seconds I’m stiff solid."
 
 # game/castle.rpy#L760
 translate chinese selenemenu_1127b056:
 
     # "She lecherously muffles moans whilst her other hand begins to rub her cute puffy labia, the movements create lewd squelching sounds, causing my cock to throb in response."
-    ""
+    "She lecherously muffles moans whilst her other hand begins to rub her cute puffy labia, the movements create lewd squelching sounds, causing my cock to throb in response."
 
 # game/castle.rpy#L762
 translate chinese selenemenu_76dfe1c9:
 
     # "She brushes her hair out of the way as she lowers her muzzle down to the same level as my cock and kisses the precum off the tip."
-    ""
+    "She brushes her hair out of the way as she lowers her muzzle down to the same level as my cock and kisses the precum off the tip."
 
 # game/castle.rpy#L763
 translate chinese selenemenu_34ec7556:
 
     # selene "What do you think of my royal blowjob?"
-    selene ""
+    selene "What do you think of my royal blowjob?"
 
 # game/castle.rpy#L764
 translate chinese selenemenu_9ddbb69b:
 
     # mc "You're almost too good, your highness, you'll make me ejaculate prematurely."
-    mc ""
+    mc "You're almost too good, your highness, you'll make me ejaculate prematurely."
 
 # game/castle.rpy#L765
 translate chinese selenemenu_e3bfa2fc:
 
     # selene "*Giggles*. That's no problem for my magic..."
-    selene ""
+    selene "*Giggles*. That's no problem for my magic..."
 
 # game/castle.rpy#L767
 translate chinese selenemenu_79c315c8:
 
     # "Her long equine tongue starts to coil around the tip of my dick and swirl around, her finger grip is moving faster too, stimulating me towards an orgasm at a shocking rate."
-    ""
+    "Her long equine tongue starts to coil around the tip of my dick and swirl around, her finger grip is moving faster too, stimulating me towards an orgasm at a shocking rate."
 
 # game/castle.rpy#L768
 translate chinese selenemenu_4bde6d2c:
 
     # "Occasionally she pulls up to continue her saccharine dirty talk, all of my senses are being invaded simultaneously. Sex with Princess Selene is blissful."
-    ""
+    "Occasionally she pulls up to continue her saccharine dirty talk, all of my senses are being invaded simultaneously. Sex with Princess Selene is blissful."
 
 # game/castle.rpy#L769
 translate chinese selenemenu_0835da39:
 
     # selene "Mmphh, I don't know why but your cock turns me on so much..."
-    selene ""
+    selene "Mmphh, I don't know why but your cock turns me on so much..."
 
 # game/castle.rpy#L771
 translate chinese selenemenu_4f2a9f9f:
 
     # "She had begun to escalate, her mouth now wrapping around the tip. While her tongue continued to twirl around the head, her lips tightly gripped the base of the glans, moving back and forth, sucking and squeezing with each movement."
-    ""
+    "She had begun to escalate, her mouth now wrapping around the tip. While her tongue continued to twirl around the head, her lips tightly gripped the base of the glans, moving back and forth, sucking and squeezing with each movement."
 
 # game/castle.rpy#L772
 translate chinese selenemenu_b98c32c7:
 
     # "As ridiculous as it sounds, I was already at my limit. Because of her experienced movements, I could feel cum building up at a terrifyingly quick rate."
-    ""
+    "As ridiculous as it sounds, I was already at my limit. Because of her experienced movements, I could feel cum building up at a terrifyingly quick rate."
 
 # game/castle.rpy#L774
 translate chinese selenemenu_c179c2a3:
 
     # "But then milliseconds before my peak, she releases my cock and moves back, wiping the drool from her coy smile."
-    ""
+    "But then milliseconds before my peak, she releases my cock and moves back, wiping the drool from her coy smile."
 
 # game/castle.rpy#L776
 translate chinese selenemenu_6824a799:
 
     # selene "Not quite yet little boy, it’d be no fun to waste this cum in my mouth."
-    selene ""
+    selene "Not quite yet little boy, it’d be no fun to waste this cum in my mouth."
 
 # game/castle.rpy#L777
 translate chinese selenemenu_40f0b09d:
 
     # "Her index finger and thumb continue to tease at my cock, keeping the blood flow going yet delicately preventing any potential build-up of pleasure."
-    ""
+    "Her index finger and thumb continue to tease at my cock, keeping the blood flow going yet delicately preventing any potential build-up of pleasure."
 
 # game/castle.rpy#L781
 translate chinese selenemenu_7df6eb16:
 
     # "She finally lifted herself up and straddled my hips. The view of her pussy was beautiful as it dripped onto my twitching cock."
-    ""
+    "She finally lifted herself up and straddled my hips. The view of her pussy was beautiful as it dripped onto my twitching cock."
 
 # game/castle.rpy#L782
 translate chinese selenemenu_11359b70:
 
     # selene "Oohh, I love how your cock twitches and throbs in anticipation."
-    selene ""
+    selene "Oohh, I love how your cock twitches and throbs in anticipation."
 
 # game/castle.rpy#L783
 translate chinese selenemenu_dbd53220:
 
     # "She lavishly lowered herself into a frottage position as she began to grind up and down against my cock."
-    ""
+    "She lavishly lowered herself into a frottage position as she began to grind up and down against my cock."
 
 # game/castle.rpy#L784
 translate chinese selenemenu_56f2aaeb:
 
     # "The pressure and pleasure of her grinding was immense, but frustratingly not enough to rile up the urge to orgasm. Just like her index finger and thumb, it was a continuous yet safe pleasure. I could tell that she was teasing me to drag out the pleasure."
-    ""
+    "The pressure and pleasure of her grinding was immense, but frustratingly not enough to rile up the urge to orgasm. Just like her index finger and thumb, it was a continuous yet safe pleasure. I could tell that she was teasing me to drag out the pleasure."
 
 # game/castle.rpy#L785
 translate chinese selenemenu_d7fcef83:
 
     # "She was so wet, her grinding left a glistening sheen on my shaft, and each additional grind expels a lewd, satisfying wet sound, leaving me wanting more."
-    ""
+    "She was so wet, her grinding left a glistening sheen on my shaft, and each additional grind expels a lewd, satisfying wet sound, leaving me wanting more."
 
 # game/castle.rpy#L787
 translate chinese selenemenu_567a0c15:
 
     # "She grinds to the tip of my cock, and slowly releases the pressure, causing my tip to press against her pussy. Then she allows my cock to sink deep into her, until I’m fully inside."
-    ""
+    "She grinds to the tip of my cock, and slowly releases the pressure, causing my tip to press against her pussy. Then she allows my cock to sink deep into her, until I’m fully inside."
 
 # game/castle.rpy#L788
 translate chinese selenemenu_0cd7b343:
 
     # "It’s tight, I can feel her insides squeezing and sucking, as if she was deliberately trying to pleasure me by rhythmically clenching."
-    ""
+    "It’s tight, I can feel her insides squeezing and sucking, as if she was deliberately trying to pleasure me by rhythmically clenching."
 
 # game/castle.rpy#L790
 translate chinese selenemenu_f06bc39f:
 
     # "Her hips gyrate softly around my cock, I don’t think she realizes it, but she’s so horny her body is causing her to move subconsciously."
-    ""
+    "Her hips gyrate softly around my cock, I don’t think she realizes it, but she’s so horny her body is causing her to move subconsciously."
 
 # game/castle.rpy#L791
 translate chinese selenemenu_775d106e:
 
     # "She raises herself up and down repeatedly, fucking me gently."
-    ""
+    "She raises herself up and down repeatedly, fucking me gently."
 
 # game/castle.rpy#L793
 translate chinese selenemenu_2d26f380:
 
     # selene "Aahhh, you’re so thick too, and you don’t immediately cum like a stallion, you’re such a gem."
-    selene ""
+    selene "Aahhh, you’re so thick too, and you don’t immediately cum like a stallion, you’re such a gem."
 
 # game/castle.rpy#L794
 translate chinese selenemenu_29e00358:
 
     # "She arches her back and visibly shudders as pleasure surges through her. The genuine catharsis she’s feeling in this moment is rubbing off on me, giving me goose bumps."
-    ""
+    "She arches her back and visibly shudders as pleasure surges through her. The genuine catharsis she’s feeling in this moment is rubbing off on me, giving me goose bumps."
 
 # game/castle.rpy#L795
 translate chinese selenemenu_9a3d8f63:
 
     # selene "Mmm, it feels so much better than doing it with a familiar..."
-    selene ""
+    selene "Mmm, it feels so much better than doing it with a familiar..."
 
 # game/castle.rpy#L796
 translate chinese selenemenu_d1dbb412:
 
     # mc "What's wrong with familiars?"
-    mc ""
+    mc "What's wrong with familiars?"
 
 # game/castle.rpy#L798
 translate chinese selenemenu_07298110:
 
     # selene "Well, they feel good, but it’s akin to masturbation, it still leaves a lingering desire."
-    selene ""
+    selene "Well, they feel good, but it’s akin to masturbation, it still leaves a lingering desire."
 
 # game/castle.rpy#L799
 translate chinese selenemenu_08c59674:
 
     # "Faster, she begins to bounce her hips up and down, the orgasmic waves that were denied before come crashing into me at full-force, faster than I could even anticipate."
-    ""
+    "Faster, she begins to bounce her hips up and down, the orgasmic waves that were denied before come crashing into me at full-force, faster than I could even anticipate."
 
 # game/castle.rpy#L804
 translate chinese selenemenu_00a798d9:
 
     # "I cum already, starting to fill the princess’s pussy with my thick, hot cum. I couldn’t help it, her lustful whispers and her practiced movements pushed me to the edge faster than I would have liked."
-    ""
+    "I cum already, starting to fill the princess’s pussy with my thick, hot cum. I couldn’t help it, her lustful whispers and her practiced movements pushed me to the edge faster than I would have liked."
 
 # game/castle.rpy#L808
 translate chinese selenemenu_ceea7bbf:
 
     # "But as my formidable orgasm gradually fades, Selene is smirking."
-    ""
+    "But as my formidable orgasm gradually fades, Selene is smirking."
 
 # game/castle.rpy#L809
 translate chinese selenemenu_a5895786:
 
     # mc "You’re too good at this, sorry I came before you finished."
-    mc ""
+    mc "You’re too good at this, sorry I came before you finished."
 
 # game/castle.rpy#L811
 translate chinese selenemenu_0a66032e:
 
     # selene "Don’t worry young one, I pushed you over the edge on purpose. Just like last time, we’ll both be cumming a few times tonight."
-    selene ""
+    selene "Don’t worry young one, I pushed you over the edge on purpose. Just like last time, we’ll both be cumming a few times tonight."
 
 # game/castle.rpy#L813
 translate chinese selenemenu_a78ff64b:
 
     # "With an effortless, quick glow of her horn, I can feel my balls tingling, the heightened sensitivity of my refractory period disappears, and my erection returns."
-    ""
+    "With an effortless, quick glow of her horn, I can feel my balls tingling, the heightened sensitivity of my refractory period disappears, and my erection returns."
 
 # game/castle.rpy#L814
 translate chinese selenemenu_115b6d89:
 
     # selene "Once I've started, I struggle stopping! *Giggle*"
-    selene ""
+    selene "Once I've started, I struggle stopping! *Giggle*"
 
 # game/castle.rpy#L817
 translate chinese selenemenu_4624f94d:
 
     # "I’m already ready to continue fucking, and Selene wastes absolutely no time riding at a quicker pace than before."
-    ""
+    "I’m already ready to continue fucking, and Selene wastes absolutely no time riding at a quicker pace than before."
 
 # game/castle.rpy#L818
 translate chinese selenemenu_7010abd5:
 
     # selene "Now it’s my turn to come… Mm… Mmphh, mm."
-    selene ""
+    selene "Now it’s my turn to come… Mm… Mmphh, mm."
 
 # game/castle.rpy#L819
 translate chinese selenemenu_b92186f8:
 
     # "It feels like I have a fresh erection, every pleasure and every sensation is just as satisfying as the first time."
-    ""
+    "It feels like I have a fresh erection, every pleasure and every sensation is just as satisfying as the first time."
 
 # game/castle.rpy#L820
 translate chinese selenemenu_9f662535:
 
     # selene "Mmphh, you’re throbbing, are you close already? I’m close too! Ahhh, ahhh…"
-    selene ""
+    selene "Mmphh, you’re throbbing, are you close already? I’m close too! Ahhh, ahhh…"
 
 # game/castle.rpy#L821
 translate chinese selenemenu_cffb0f79:
 
     # "Although that doesn’t change the thick cum oozing out of her pussy, bubbling up and mixing with her juices as she continuously thrusts into me, her pace ever increasing."
-    ""
+    "Although that doesn’t change the thick cum oozing out of her pussy, bubbling up and mixing with her juices as she continuously thrusts into me, her pace ever increasing."
 
 # game/castle.rpy#L822
 translate chinese selenemenu_4d25ff7d:
 
     # selene "Aaahhhhh, ahhh, I-I’m coming!"
-    selene ""
+    selene "Aaahhhhh, ahhh, I-I’m coming!"
 
 # game/castle.rpy#L823
 translate chinese selenemenu_5ff0b664:
 
     # "She speeds up as she uses magic to stimulate her clit, her hips bucking as she squirts and orgasms powerfully."
-    ""
+    "She speeds up as she uses magic to stimulate her clit, her hips bucking as she squirts and orgasms powerfully."
 
 # game/castle.rpy#L826
 translate chinese selenemenu_637b7e7c:
 
     # "The magic aura around her clit grows and encompasses both our genitalia, suddenly heightening my own pleasure, to twice as pleasurable… Thrice as pleasurable… No, ten times more pleasurable."
-    ""
+    "The magic aura around her clit grows and encompasses both our genitalia, suddenly heightening my own pleasure, to twice as pleasurable… Thrice as pleasurable… No, ten times more pleasurable."
 
 # game/castle.rpy#L849
 translate chinese selenemenu_8dfac045:
 
     # "My climax comes so immediately, shocking, and powerful that it’s almost an out of body experience. My vision goes completely white and for a moment I can’t feel anything but euphoria."
-    ""
+    "My climax comes so immediately, shocking, and powerful that it’s almost an out of body experience. My vision goes completely white and for a moment I can’t feel anything but euphoria."
 
 # game/castle.rpy#L852
 translate chinese selenemenu_c029cdb5:
 
     # "When I recover from the pleasureful shock to the system, Selene is resting hazily on my damp chest. She’s panting too."
-    ""
+    "When I recover from the pleasureful shock to the system, Selene is resting hazily on my damp chest. She’s panting too."
 
 # game/castle.rpy#L854
 translate chinese selenemenu_41f1a8c9:
 
     # selene "Hahh, haaah… I think I wore myself out. Can you be a sweetie and go on top this time?"
-    selene ""
+    selene "Hahh, haaah… I think I wore myself out. Can you be a sweetie and go on top this time?"
 
 # game/castle.rpy#L855
 translate chinese selenemenu_9f82279a:
 
     # mc "Again? But I’m not- "
-    mc ""
+    mc "Again? But I’m not- "
 
 # game/castle.rpy#L857
 translate chinese selenemenu_18483506:
 
     # "A whimsical glow of the horn and I feel my balls shiver… The heightened sensitivity is soothed, my cock stiffens. Yeah, I do want to fuck her again."
-    ""
+    "A whimsical glow of the horn and I feel my balls shiver… The heightened sensitivity is soothed, my cock stiffens. Yeah, I do want to fuck her again."
 
 # game/castle.rpy#L860
 translate chinese selenemenu_fbdc5a36:
 
     # "She lets me sleep in her living quarters until it's early morning."
-    ""
+    "She lets me sleep in her living quarters until it's early morning."
 
 # game/castle.rpy#L861
 translate chinese selenemenu_d68a043e:
 
     # "When it's time for me to wake up, it's time for her to go to sleep. I kiss the princess goodbye, leave the castle and return home."
-    ""
+    "When it's time for me to wake up, it's time for her to go to sleep. I kiss the princess goodbye, leave the castle and return home."
 
 # game/castle.rpy#L866
 translate chinese selenemenu_6716d685:
 
     # mc "Hey Selene, you know you said you could 'nudge' something I desired and make it happen?"
-    mc ""
+    mc "Hey Selene, you know you said you could 'nudge' something I desired and make it happen?"
 
 # game/castle.rpy#L867
 translate chinese selenemenu_5237e3d2:
 
     # selene "I believe I did offer such a thing, have you finally decided what you'd like?"
-    selene ""
+    selene "I believe I did offer such a thing, have you finally decided what you'd like?"
 
 # game/castle.rpy#L868
 translate chinese selenemenu_0a67acb9:
 
     # mc "Mhm, I'd like to enjoy something no one else in the world could possibly taste."
-    mc ""
+    mc "Mhm, I'd like to enjoy something no one else in the world could possibly taste."
 
 # game/castle.rpy#L869
 translate chinese selenemenu_01edb537:
 
     # mc "I want a threesome with you and your sister."
-    mc ""
+    mc "I want a threesome with you and your sister."
 
 # game/castle.rpy#L871
 translate chinese selenemenu_6639e42a:
 
     # selene "Super lewd! Super lewd! I'm totally digging it!"
-    selene ""
+    selene "Super lewd! Super lewd! I'm totally digging it!"
 
 # game/castle.rpy#L872
 translate chinese selenemenu_f93fd5d7:
 
     # selene "Okay, come with me! We're gonna go pester Aurora."
-    selene ""
+    selene "Okay, come with me! We're gonna go pester Aurora."
 
 # game/castle.rpy#L874
 translate chinese selenemenu_4439bb08:
 
     # "And with that, we go to Aurora's bedroom to find her doing some last-minute paperwork before bed."
-    ""
+    "And with that, we go to Aurora's bedroom to find her doing some last-minute paperwork before bed."
 
 # game/castle.rpy#L882
 translate chinese selenemenu_3d8d1f5e:
 
     # aurora "Oh my, [playername] and Selene? What could you two be here for at this time?"
-    aurora ""
+    aurora "Oh my, [playername] and Selene? What could you two be here for at this time?"
 
 # game/castle.rpy#L886
 translate chinese selenemenu_ea47ebea:
 
     # selene "Hey Aura, let us all fuck!"
-    selene ""
+    selene "Hey Aura, let us all fuck!"
 
 # game/castle.rpy#L888
 translate chinese selenemenu_a22be24b:
 
     # aurora "Ahh, you must be merely jesting, Sele..."
-    aurora ""
+    aurora "Ahh, you must be merely jesting, Sele..."
 
 # game/castle.rpy#L889
 translate chinese selenemenu_cb3ad151:
 
     # "Aura and Sele? Hmm..."
-    ""
+    "Aura and Sele? Hmm..."
 
 # game/castle.rpy#L890
 translate chinese selenemenu_56427028:
 
     # "Wait, that's not important right now! Why was Selene so upfront?!"
-    ""
+    "Wait, that's not important right now! Why was Selene so upfront?!"
 
 # game/castle.rpy#L891
 translate chinese selenemenu_9d829f82:
 
     # selene "I offered [playername] a reward for saving Arcadia, and this was his request! Honest!"
-    selene ""
+    selene "I offered [playername] a reward for saving Arcadia, and this was his request! Honest!"
 
 # game/castle.rpy#L892
 translate chinese selenemenu_2390c608:
 
     # aurora "What a stupid request..."
-    aurora ""
+    aurora "What a stupid request..."
 
 # game/castle.rpy#L894
 translate chinese selenemenu_b781b043:
 
     # selene "Yup, a really stupid request!"
-    selene ""
+    selene "Yup, a really stupid request!"
 
 # game/castle.rpy#L896
 translate chinese selenemenu_9432f891:
 
     # aurora "Well... Let's get dumbeeerrrr!"
-    aurora ""
+    aurora "Well... Let's get dumbeeerrrr!"
 
 # game/castle.rpy#L900
 translate chinese selenemenu_53f7ab4b:
 
     # "The two girls playfully jump on the sun coloured bed and roll around until Selene is on top of Aurora."
-    ""
+    "The two girls playfully jump on the sun coloured bed and roll around until Selene is on top of Aurora."
 
 # game/castle.rpy#L901
 translate chinese selenemenu_8f4846a8:
 
     # aurora "Well? Are you just gotta sit there and stare? If you do not separate our pussies with your dick, this'll just be incest!"
-    aurora ""
+    aurora "Well? Are you just gotta sit there and stare? If you do not separate our pussies with your dick, this'll just be incest!"
 
 # game/castle.rpy#L902
 translate chinese selenemenu_6f67b344:
 
     # selene "Yeah, and there's no way we'd ever do anything incestuous, ain't that right sis?"
-    selene ""
+    selene "Yeah, and there's no way we'd ever do anything incestuous, ain't that right sis?"
 
 # game/castle.rpy#L903
 translate chinese selenemenu_fa3a298a:
 
     # aurora "Absolutely, how unregal!"
-    aurora ""
+    aurora "Absolutely, how unregal!"
 
 # game/castle.rpy#L904
 translate chinese selenemenu_43cc7818:
 
     # selene "Come save us [playername], we need your help!"
-    selene ""
+    selene "Come save us [playername], we need your help!"
 
 # game/castle.rpy#L905
 translate chinese selenemenu_7e0a6b88:
 
     # "What the hell?!"
-    ""
+    "What the hell?!"
 
 # game/castle.rpy#L907
 translate chinese selenemenu_aa50efee:
 
     # "They wiggle their butts and flick their tails with lustful enthusiasm. I wasn't expecting this enthusiasm."
-    ""
+    "They wiggle their butts and flick their tails with lustful enthusiasm. I wasn't expecting this enthusiasm."
 
 # game/castle.rpy#L908
 translate chinese selenemenu_a0c2ec32:
 
     # "Separate their pussies with my dick? They're probably referring to how I did it last time."
-    ""
+    "Separate their pussies with my dick? They're probably referring to how I did it last time."
 
 # game/castle.rpy#L912
 translate chinese selenemenu_64578401:
 
     # "Rather than penetrate either one of them, I slide my cock between their labia."
-    ""
+    "Rather than penetrate either one of them, I slide my cock between their labia."
 
 # game/castle.rpy#L913
 translate chinese selenemenu_555afc3d:
 
     # "They’re both wet enough to easily let my cock slide back and forth."
-    ""
+    "They’re both wet enough to easily let my cock slide back and forth."
 
 # game/castle.rpy#L914
 translate chinese selenemenu_50891dd5:
 
     # selene "Ohhh, I can feel your cock throbbing against my clit! It kinda tickles!"
-    selene ""
+    selene "Ohhh, I can feel your cock throbbing against my clit! It kinda tickles!"
 
 # game/castle.rpy#L915
 translate chinese selenemenu_dd3c35d3:
 
     # "As I push my cock forward, their labia and vulva squish against my shaft providing a suitable tightness concentrated in one area."
-    ""
+    "As I push my cock forward, their labia and vulva squish against my shaft providing a suitable tightness concentrated in one area."
 
 # game/castle.rpy#L916
 translate chinese selenemenu_b7e1554a:
 
     # aurora "You could have asked for a house in the castle, but instead you wanted a threesome. Pfft, men never change!"
-    aurora ""
+    aurora "You could have asked for a house in the castle, but instead you wanted a threesome. Pfft, men never change!"
 
 # game/castle.rpy#L917
 translate chinese selenemenu_507b248f:
 
     # mc "Well, since this is my wish, you should put all the effort in. Come on, get to it!"
-    mc ""
+    mc "Well, since this is my wish, you should put all the effort in. Come on, get to it!"
 
 # game/castle.rpy#L918
 translate chinese selenemenu_d7b1d6ed:
 
     # "With that, I'll barely have to budge."
-    ""
+    "With that, I'll barely have to budge."
 
 # game/castle.rpy#L919
 translate chinese selenemenu_6ba03b5d:
 
     # aurora "As you say! I'm counting on you Selene!"
-    aurora ""
+    aurora "As you say! I'm counting on you Selene!"
 
 # game/castle.rpy#L920
 translate chinese selenemenu_beb92f88:
 
     # selene "Oi, don't slack off!"
-    selene ""
+    selene "Oi, don't slack off!"
 
 # game/castle.rpy#L921
 translate chinese selenemenu_53a8796c:
 
     # "The horny mares grind their hips back and forth. Their technique is sloppy at first, but they soon find a rhythm which compliments each other’s movements."
-    ""
+    "The horny mares grind their hips back and forth. Their technique is sloppy at first, but they soon find a rhythm which compliments each other’s movements."
 
 # game/castle.rpy#L922
 translate chinese selenemenu_fbc73b33:
 
     # "Both mares apply pressure as their pussies slip back and forth, the sensation perfectly pleasuring my glans; sucking and squishing like penetration."
-    ""
+    "Both mares apply pressure as their pussies slip back and forth, the sensation perfectly pleasuring my glans; sucking and squishing like penetration."
 
 # game/castle.rpy#L923
 translate chinese selenemenu_044d3244:
 
     # selene "Ahhh, ahh, why can’t you just put it inside? *Squish, squish*"
-    selene ""
+    selene "Ahhh, ahh, why can’t you just put it inside? *Squish, squish*"
 
 # game/castle.rpy#L924
 translate chinese selenemenu_fc28d711:
 
     # aurora "Maybe [playername] likes doing it like this, it's pretty fuckin' lewd."
-    aurora ""
+    aurora "Maybe [playername] likes doing it like this, it's pretty fuckin' lewd."
 
 # game/castle.rpy#L925
 translate chinese selenemenu_ce7809b1:
 
     # "With overwhelming desire, their pussies drip and squirt all over my cock and each other, leaving my cock with a glistening sheen which allows them to move even faster."
-    ""
+    "With overwhelming desire, their pussies drip and squirt all over my cock and each other, leaving my cock with a glistening sheen which allows them to move even faster."
 
 # game/castle.rpy#L926
 translate chinese selenemenu_c343c6c7:
 
     # "As amazing as the pressure from their scissoring feels, I’ll never be able to cum from just this."
-    ""
+    "As amazing as the pressure from their scissoring feels, I’ll never be able to cum from just this."
 
 # game/castle.rpy#L927
 translate chinese selenemenu_59f7c6b2:
 
     # "Straining myself slightly, I begin to thrust back and forth, squishing and indenting their labia as they try to keep up."
-    ""
+    "Straining myself slightly, I begin to thrust back and forth, squishing and indenting their labia as they try to keep up."
 
 # game/castle.rpy#L928
 translate chinese selenemenu_1d488038:
 
     # selene "Ohh, ohhhh, yes! Keep pushing my clit like that!"
-    selene ""
+    selene "Ohh, ohhhh, yes! Keep pushing my clit like that!"
 
 # game/castle.rpy#L929
 translate chinese selenemenu_f0caabc5:
 
     # aurora "Be sure to give us both a creampie! *Squish, grind, squelch*"
-    aurora ""
+    aurora "Be sure to give us both a creampie! *Squish, grind, squelch*"
 
 # game/castle.rpy#L930
 translate chinese selenemenu_8c675be9:
 
     # "With all three of us grinding against each other, the sensations are increased and I get ever closer to my important climax."
-    ""
+    "With all three of us grinding against each other, the sensations are increased and I get ever closer to my important climax."
 
 # game/castle.rpy#L931
 translate chinese selenemenu_c372e828:
 
     # "The sisters hump like rabbits as they try to steal as much pleasure as they can, fortunately that serves my purposes too."
-    ""
+    "The sisters hump like rabbits as they try to steal as much pleasure as they can, fortunately that serves my purposes too."
 
 # game/castle.rpy#L933
 translate chinese selenemenu_16f5cf67:
 
     # aurora "Ahh, ohhh, harder sis, grind harder! It’s too hard on the bottom, aaahhhh!"
-    aurora ""
+    aurora "Ahh, ohhh, harder sis, grind harder! It’s too hard on the bottom, aaahhhh!"
 
 # game/castle.rpy#L934
 translate chinese selenemenu_fbc02749:
 
     # selene "Ohh f-fuuuck! I-I’m gonna come, I’m coming from just grinding on this cock! Ahh, ahh! *Squish, grind*"
-    selene ""
+    selene "Ohh f-fuuuck! I-I’m gonna come, I’m coming from just grinding on this cock! Ahh, ahh! *Squish, grind*"
 
 # game/castle.rpy#L935
 translate chinese selenemenu_e3f179b8:
 
     # "Selene’s pussy contracts and squirts slightly as she orgasms, her hips bucking and applying more pressure to my cock."
-    ""
+    "Selene’s pussy contracts and squirts slightly as she orgasms, her hips bucking and applying more pressure to my cock."
 
 # game/castle.rpy#L936
 translate chinese selenemenu_1c94fc9c:
 
     # "Aurora, frustrated that she hasn’t achieved orgasm from her more awkward position, irately pushes back with more vigour."
-    ""
+    "Aurora, frustrated that she hasn’t achieved orgasm from her more awkward position, irately pushes back with more vigour."
 
 # game/castle.rpy#L937
 translate chinese selenemenu_1ebc8ccb:
 
     # "The increase of intensity from both sides rapidly begins to overwhelm my cock, finally I can feel that familiar tension in my taint."
-    ""
+    "The increase of intensity from both sides rapidly begins to overwhelm my cock, finally I can feel that familiar tension in my taint."
 
 # game/castle.rpy#L938
 translate chinese selenemenu_68fdd4e3:
 
     # "My cock stiffens and my muscles grow tense, my mind clouds up as a potent orgasm rises throughout my core."
-    ""
+    "My cock stiffens and my muscles grow tense, my mind clouds up as a potent orgasm rises throughout my core."
 
 # game/castle.rpy#L939
 translate chinese selenemenu_ab90d37f:
 
     # selene "Ahhhaa, ghhaahh! *Pant, pant* *Squish, squirt*"
-    selene ""
+    selene "Ahhhaa, ghhaahh! *Pant, pant* *Squish, squirt*"
 
 # game/castle.rpy#L940
 translate chinese selenemenu_1bff5cc8:
 
     # aurora "F-Finally, I-I’m gonna come, yesshh! I’m coming for you [playername], gimme your cummies too!"
-    aurora ""
+    aurora "F-Finally, I-I’m gonna come, yesshh! I’m coming for you [playername], gimme your cummies too!"
 
 # game/castle.rpy#L941
 translate chinese selenemenu_ce75e65e:
 
     # "This is it! Instantly I pull back from the sisters to their immediate dismay, as I deny them pleasure from their orgasms."
-    ""
+    "This is it! Instantly I pull back from the sisters to their immediate dismay, as I deny them pleasure from their orgasms."
 
 # game/castle.rpy#L946
 translate chinese selenemenu_fbf4d548:
 
     # "However as if to rectify that problem, with one thrust I plunge my cock into Selene’s pussy, just as my cock erupts, and launches several loads deep into her womb."
-    ""
+    "However as if to rectify that problem, with one thrust I plunge my cock into Selene’s pussy, just as my cock erupts, and launches several loads deep into her womb."
 
 # game/castle.rpy#L951
 translate chinese selenemenu_58c49e71:
 
     # "Less than a second after, I pull back and lunge my shaft deep into Aurora’s pussy, a stray dollop of cum escaping and splattering her vulva."
-    ""
+    "Less than a second after, I pull back and lunge my shaft deep into Aurora’s pussy, a stray dollop of cum escaping and splattering her vulva."
 
 # game/castle.rpy#L958
 translate chinese selenemenu_9fdb7262:
 
     # "Sinking into the white mare, I breathe a sigh of relief as I unload the second half of my orgasm into her womb."
-    ""
+    "Sinking into the white mare, I breathe a sigh of relief as I unload the second half of my orgasm into her womb."
 
 # game/castle.rpy#L960
 translate chinese selenemenu_9e77185f:
 
     # "Phew..."
-    ""
+    "Phew..."
 
 # game/castle.rpy#L962
 translate chinese selenemenu_c3af3beb:
 
     # aurora "Mehehe, this is always a lot of fun!"
-    aurora ""
+    aurora "Mehehe, this is always a lot of fun!"
 
 # game/castle.rpy#L963
 translate chinese selenemenu_ca646f7f:
 
     # selene "Let's do this again!"
-    selene ""
+    selene "Let's do this again!"
 
 # game/castle.rpy#L964
 translate chinese selenemenu_2089cfcf:
 
     # aurora "W-Wha?!"
-    aurora ""
+    aurora "W-Wha?!"
 
 # game/castle.rpy#L965
 translate chinese selenemenu_6b6765ae:
 
     # selene "Come on, this dude saved our lives with that dick."
-    selene ""
+    selene "Come on, this dude saved our lives with that dick."
 
 # game/castle.rpy#L966
 translate chinese selenemenu_06b1aafa:
 
     # selene "We're gonna outlive him anyway, let's make his life bliss in return."
-    selene ""
+    selene "We're gonna outlive him anyway, let's make his life bliss in return."
 
 # game/castle.rpy#L967
 translate chinese selenemenu_ff5a6e49:
 
     # aurora "True, he is kinda stuck in another world..."
-    aurora ""
+    aurora "True, he is kinda stuck in another world..."
 
 # game/castle.rpy#L968
 translate chinese selenemenu_369a31c1:
 
     # "Damn, they just convinced themselves to give me infinite threesomes. Hell yes!"
-    ""
+    "Damn, they just convinced themselves to give me infinite threesomes. Hell yes!"
 
 # game/castle.rpy#L970
 translate chinese selenemenu_04ce32b8:
 
     # "The three of us clean up, enjoy some more banter, and then Selene and I return to her quarters."
-    ""
+    "The three of us clean up, enjoy some more banter, and then Selene and I return to her quarters."
 
 # game/castle.rpy#L975
 translate chinese selenemenu_d5b407ef:
 
     # mc "Hmm... Did that really just happen?"
-    mc ""
+    mc "Hmm... Did that really just happen?"
 
 # game/castle.rpy#L977
 translate chinese selenemenu_9e71b748:
 
     # selene "What, did you think I used a spell to make you dream it?"
-    selene ""
+    selene "What, did you think I used a spell to make you dream it?"
 
 # game/castle.rpy#L978
 translate chinese selenemenu_4a2ef417:
 
     # mc "I don't know..."
-    mc ""
+    mc "I don't know..."
 
 # game/castle.rpy#L980
 translate chinese selenemenu_ce7f5561:
 
     # selene "Hehe."
-    selene ""
+    selene "Hehe."
 
 # game/castle.rpy#L993
 translate chinese selenevisit_15547bd9:
 
     # "There’s a soft breeze accompanying the starry night while I make the long trek to the castle."
-    ""
+    "There’s a soft breeze accompanying the starry night while I make the long trek to the castle."
 
 # game/castle.rpy#L994
 translate chinese selenevisit_eb2f0289:
 
     # "I wonder what Selene wants that’s so important she couldn’t tell me by mail?"
-    ""
+    "I wonder what Selene wants that’s so important she couldn’t tell me by mail?"
 
 # game/castle.rpy#L996
 translate chinese selenevisit_ce617998:
 
     # "…"
-    ""
+    "…"
 
 # game/castle.rpy#L998
 translate chinese selenevisit_389bc4de:
 
     # "I’m escorted to Selene’s palace quarters, a small home-like setup in her palace that has all the functions of an ordinary home."
-    ""
+    "I’m escorted to Selene’s palace quarters, a small home-like setup in her palace that has all the functions of an ordinary home."
 
 # game/castle.rpy#L1000
 translate chinese selenevisit_a1e24b00:
 
     # "As before, I’m told to go to her bedroom."
-    ""
+    "As before, I’m told to go to her bedroom."
 
 # game/castle.rpy#L1001
 translate chinese selenevisit_78f47044:
 
     # "Why her bedroom? Surely with such a large living quarters she doesn’t work from here."
-    ""
+    "Why her bedroom? Surely with such a large living quarters she doesn’t work from here."
 
 # game/castle.rpy#L1003
 translate chinese selenevisit_3198d039:
 
     # "Crap, maybe this is just like what happened with Aurora..."
-    ""
+    "Crap, maybe this is just like what happened with Aurora..."
 
 # game/castle.rpy#L1004
 translate chinese selenevisit_b9fd8e71:
 
     # "Maybe she wants to have sex with me... Has she been watching me, seen me sleeping with everyone, and wants to see what all the excitement is about?"
-    ""
+    "Maybe she wants to have sex with me... Has she been watching me, seen me sleeping with everyone, and wants to see what all the excitement is about?"
 
 # game/castle.rpy#L1006
 translate chinese selenevisit_764867d5:
 
     # "Crap, does she really want to have sex with me? Has she been watching me, seen me sleeping with everyone, and wants to see what all the excitement is about?"
-    ""
+    "Crap, does she really want to have sex with me? Has she been watching me, seen me sleeping with everyone, and wants to see what all the excitement is about?"
 
 # game/castle.rpy#L1007
 translate chinese selenevisit_f5f339b1:
 
     # "As I step into her bedroom, I meekly walk through the large interior towards Selene, who is sat facing away from me."
-    ""
+    "As I step into her bedroom, I meekly walk through the large interior towards Selene, who is sat facing away from me."
 
 # game/castle.rpy#L1008
 translate chinese selenevisit_62fde824:
 
     # mc "Good evening, your highness."
-    mc ""
+    mc "Good evening, your highness."
 
 # game/castle.rpy#L1010
 translate chinese selenevisit_c17fc807:
 
     # "Selene is currently writing down some notes with telekinesis whilst simultaneously reading before she puts them both down and jumps up to welcome me."
-    ""
+    "Selene is currently writing down some notes with telekinesis whilst simultaneously reading before she puts them both down and jumps up to welcome me."
 
 # game/castle.rpy#L1011
 translate chinese selenevisit_e2f86053:
 
     # selene "Good evening [playername], so gracious for you to join me tonight."
-    selene ""
+    selene "Good evening [playername], so gracious for you to join me tonight."
 
 # game/castle.rpy#L1012
 translate chinese selenevisit_833b209a:
 
     # mc "The pleasure is mine Princess; can I call you Selene?"
-    mc ""
+    mc "The pleasure is mine Princess; can I call you Selene?"
 
 # game/castle.rpy#L1014
 translate chinese selenevisit_2d5f50da:
 
     # selene "Of course. I appreciate you joining me at such a late time in the evening, and I’m afraid I must ask you to stay longer."
-    selene ""
+    selene "Of course. I appreciate you joining me at such a late time in the evening, and I’m afraid I must ask you to stay longer."
 
 # game/castle.rpy#L1015
 translate chinese selenevisit_b1cd3f63:
 
     # selene "I’ll do my best to not keep you though, so let me tell you why you’re here."
-    selene ""
+    selene "I’ll do my best to not keep you though, so let me tell you why you’re here."
 
 # game/castle.rpy#L1017
 translate chinese selenevisit_a874876d:
 
     # selene "I hear you’ve been making large tracks in our world; and you’ve been making a lot of friends."
-    selene ""
+    selene "I hear you’ve been making large tracks in our world; and you’ve been making a lot of friends."
 
 # game/castle.rpy#L1018
 translate chinese selenevisit_aa7b57f4:
 
     # "Oh no, does she really know about all the sex I’ve been having?"
-    ""
+    "Oh no, does she really know about all the sex I’ve been having?"
 
 # game/castle.rpy#L1019
 translate chinese selenevisit_e30a6f2f:
 
     # mc "It has been my pleasure; I’ve loved my time here. I can’t think of any other magical world I’d prefer to get lost in."
-    mc ""
+    mc "It has been my pleasure; I’ve loved my time here. I can’t think of any other magical world I’d prefer to get lost in."
 
 # game/castle.rpy#L1021
 translate chinese selenevisit_056f9800:
 
     # selene "That is simply delightful to hear. My sister and I like to harbour a friendly atmosphere in Arcadia, everyone is welcome. To know that even you feel welcome fills me with pride."
-    selene ""
+    selene "That is simply delightful to hear. My sister and I like to harbour a friendly atmosphere in Arcadia, everyone is welcome. To know that even you feel welcome fills me with pride."
 
 # game/castle.rpy#L1022
 translate chinese selenevisit_b764fc73:
 
     # mc "That's exactly it, everyone has been so friendly and open."
-    mc ""
+    mc "That's exactly it, everyone has been so friendly and open."
 
 # game/castle.rpy#L1023
 translate chinese selenevisit_ab78a793:
 
     # mc "I’ve never once been judged or punished for my circumstances."
-    mc ""
+    mc "I’ve never once been judged or punished for my circumstances."
 
 # game/castle.rpy#L1025
 translate chinese selenevisit_a791d8be:
 
     # selene "That puts a smile on my face."
-    selene ""
+    selene "That puts a smile on my face."
 
 # game/castle.rpy#L1026
 translate chinese selenevisit_019d6934:
 
     # selene "Now, I know asking you to come to my quarters at midnight was rather unusual, but I truly have a secretive situation that I believe you’re best suited to helping me with."
-    selene ""
+    selene "Now, I know asking you to come to my quarters at midnight was rather unusual, but I truly have a secretive situation that I believe you’re best suited to helping me with."
 
 # game/castle.rpy#L1031
 translate chinese selenevisit_021c52ae:
 
     # selene "Ah wonderful, you must have already heard about the situation."
-    selene ""
+    selene "Ah wonderful, you must have already heard about the situation."
 
 # game/castle.rpy#L1033
 translate chinese selenevisit_8108292c:
 
     # selene "Aurora had told me you were resourceful, but I hadn’t anticipated you had such great intuition."
-    selene ""
+    selene "Aurora had told me you were resourceful, but I hadn’t anticipated you had such great intuition."
 
 # game/castle.rpy#L1035
 translate chinese selenevisit_d4433413:
 
     # "Oh crap, she knows about Aurora and I?"
-    ""
+    "Oh crap, she knows about Aurora and I?"
 
 # game/castle.rpy#L1037
 translate chinese selenevisit_5482beb2:
 
     # selene "Recently, all of your friends have been having nightmares."
-    selene ""
+    selene "Recently, all of your friends have been having nightmares."
 
 # game/castle.rpy#L1038
 translate chinese selenevisit_d79c1e6d:
 
     # "Nightmares… what does this have to do with sex?"
-    ""
+    "Nightmares… what does this have to do with sex?"
 
 # game/castle.rpy#L1039
 translate chinese selenevisit_f5fd06b1:
 
     # selene "I need your help to investigate the cause of these nightmares."
-    selene ""
+    selene "I need your help to investigate the cause of these nightmares."
 
 # game/castle.rpy#L1040
 translate chinese selenevisit_349e1ea4:
 
     # "Oh, this isn’t about sex at all, woops."
-    ""
+    "Oh, this isn’t about sex at all, woops."
 
 # game/castle.rpy#L1043
 translate chinese selenevisit_5482beb2_1:
 
     # selene "Recently, all of your friends have been having nightmares."
-    selene ""
+    selene "Recently, all of your friends have been having nightmares."
 
 # game/castle.rpy#L1044
 translate chinese selenevisit_f5fd06b1_1:
 
     # selene "I need your help to investigate the cause of these nightmares."
-    selene ""
+    selene "I need your help to investigate the cause of these nightmares."
 
 # game/castle.rpy#L1045
 translate chinese selenevisit_acc9be7b:
 
     # mc "How are we going to do that?"
-    mc ""
+    mc "我们要怎么做？"
 
 # game/castle.rpy#L1047
 translate chinese selenevisit_8a3390aa:
 
     # selene "Together we will enter the dream realm with my magic and try to stop the nightmares."
-    selene ""
+    selene "Together we will enter the dream realm with my magic and try to stop the nightmares."
 
 # game/castle.rpy#L1048
 translate chinese selenevisit_7b056de4:
 
     # selene "It’s more than that though… There’s a potential instigator, a culprit that I’ve been tracking down."
-    selene ""
+    selene "It’s more than that though… There’s a potential instigator, a culprit that I’ve been tracking down."
 
 # game/castle.rpy#L1049
 translate chinese selenevisit_3dccec32:
 
     # selene "Currently they’re hopping between the dreams of your friends, and leaving quite the trail."
-    selene ""
+    selene "Currently they’re hopping between the dreams of your friends, and leaving quite the trail."
 
 # game/castle.rpy#L1050
 translate chinese selenevisit_0eb52e36:
 
     # mc "Wait… Specifically my friends? As in, no one else at all?"
-    mc ""
+    mc "Wait… Specifically my friends? As in, no one else at all?"
 
 # game/castle.rpy#L1052
 translate chinese selenevisit_bda9af29:
 
     # selene "Indeed… I’d like to catch this person and figure out why they’re giving your friends nightmares."
-    selene ""
+    selene "Indeed… I’d like to catch this person and figure out why they’re giving your friends nightmares."
 
 # game/castle.rpy#L1053
 translate chinese selenevisit_dfaeb399:
 
     # mc "Okay I think I understand, but why am I helping you?"
-    mc ""
+    mc "Okay I think I understand, but why am I helping you?"
 
 # game/castle.rpy#L1055
 translate chinese selenevisit_78295843:
 
     # selene "You’re best suited for this because you understand these individuals on a deeper level than I do."
-    selene ""
+    selene "You’re best suited for this because you understand these individuals on a deeper level than I do."
 
 # game/castle.rpy#L1056
 translate chinese selenevisit_b318e4fd:
 
     # selene "They’re familiar with you, if I were to spontaneously appear in the dream, it may blow my cover."
-    selene ""
+    selene "They’re familiar with you, if I were to spontaneously appear in the dream, it may blow my cover."
 
 # game/castle.rpy#L1057
 translate chinese selenevisit_ddf9bb63:
 
     # selene "Once we get to the dream, it’ll be your job to make contact with the dreamer and perform a little bit of your magic."
-    selene ""
+    selene "Once we get to the dream, it’ll be your job to make contact with the dreamer and perform a little bit of your magic."
 
 # game/castle.rpy#L1058
 translate chinese selenevisit_12049bc3:
 
     # mc "My magic? What do you mean?"
-    mc ""
+    mc "My magic? What do you mean?"
 
 # game/castle.rpy#L1060
 translate chinese selenevisit_fb152a3b:
 
     # selene "Hehe, I think you know exactly what I mean… You can make your friends open their hearts to you far easier than I can."
-    selene ""
+    selene "Hehe, I think you know exactly what I mean… You can make your friends open their hearts to you far easier than I can."
 
 # game/castle.rpy#L1061
 translate chinese selenevisit_83d0b863:
 
     # "Ah, I think I just realized what she meant."
-    ""
+    "Ah, I think I just realized what she meant."
 
 # game/castle.rpy#L1063
 translate chinese selenevisit_1a5939f7:
 
     # selene "I have a soft spot for your friends too, I’d like to end their nightmares because they’ve been sleeping quite rough lately."
-    selene ""
+    selene "I have a soft spot for your friends too, I’d like to end their nightmares because they’ve been sleeping quite rough lately."
 
 # game/castle.rpy#L1064
 translate chinese selenevisit_a7b41b99:
 
     # selene "The best way to end a nightmare is to confront it, and sometimes a catalyst is required to help a pony along."
-    selene ""
+    selene "The best way to end a nightmare is to confront it, and sometimes a catalyst is required to help a pony along."
 
 # game/castle.rpy#L1065
 translate chinese selenevisit_c263e66d:
 
     # mc "I’m the emotional support, then."
-    mc ""
+    mc "I’m the emotional support, then."
 
 # game/castle.rpy#L1066
 translate chinese selenevisit_bef50707:
 
     # selene "In some ways, yes."
-    selene ""
+    selene "In some ways, yes."
 
 # game/castle.rpy#L1067
 translate chinese selenevisit_71522cb4:
 
     # selene "If you weren’t here, I’d have to wake them up with a spell, and the nightmare would return another night."
-    selene ""
+    selene "If you weren’t here, I’d have to wake them up with a spell, and the nightmare would return another night."
 
 # game/castle.rpy#L1068
 translate chinese selenevisit_8ed84b54:
 
     # mc "Ah, that’s not ideal."
-    mc ""
+    mc "Ah, that’s not ideal."
 
 # game/castle.rpy#L1072
 translate chinese selenevisit_f7cff31b:
 
     # selene "Hehe, I can see why magic seems like an amazing fix-all to an outsider."
-    selene ""
+    selene "Hehe, I can see why magic seems like an amazing fix-all to an outsider."
 
 # game/castle.rpy#L1073
 translate chinese selenevisit_c8eebbd5:
 
     # selene "Unfortunately I can only travel between dreams; I can’t change them. Only the dreamer can do that."
-    selene ""
+    selene "Unfortunately I can only travel between dreams; I can’t change them. Only the dreamer can do that."
 
 # game/castle.rpy#L1074
 translate chinese selenevisit_e21d4140:
 
     # mc "Sorry for the questions, but how is the culprit causing nightmares then?"
-    mc ""
+    mc "Sorry for the questions, but how is the culprit causing nightmares then?"
 
 # game/castle.rpy#L1076
 translate chinese selenevisit_9223fae4:
 
     # selene "Questions are good, the better you understand this situation the easier it will be to deal with it."
-    selene ""
+    selene "Questions are good, the better you understand this situation the easier it will be to deal with it."
 
 # game/castle.rpy#L1077
 translate chinese selenevisit_ce3890ed:
 
     # selene "However, I don’t know the answer to your question, I can only assume a negative magical energy is influencing the appearance of nightmares."
-    selene ""
+    selene "However, I don’t know the answer to your question, I can only assume a negative magical energy is influencing the appearance of nightmares."
 
 # game/castle.rpy#L1080
 translate chinese selenevisit_ad7e7cfa:
 
     # selene "Sex? Oh my, you mean a wet dream?"
-    selene ""
+    selene "Sex? Oh my, you mean a wet dream?"
 
 # game/castle.rpy#L1082
 translate chinese selenevisit_aa12afda:
 
     # selene "I’m no stranger to embarrassing incidents like that, waiting them out is usually the best scenario."
-    selene ""
+    selene "I’m no stranger to embarrassing incidents like that, waiting them out is usually the best scenario."
 
 # game/castle.rpy#L1083
 translate chinese selenevisit_5ce78d36:
 
     # mc "Mmm, that wasn’t quite what I meant."
-    mc ""
+    mc "Mmm, that wasn’t quite what I meant."
 
 # game/castle.rpy#L1084
 translate chinese selenevisit_d30a21ab:
 
     # "Speaking of sex, are only people I’ve had sex with having nightmares?"
-    ""
+    "Speaking of sex, are only people I’ve had sex with having nightmares?"
 
 # game/castle.rpy#L1086
 translate chinese selenevisit_d1edc15e:
 
     # mc "I wonder why this is exclusively affecting my friends…"
-    mc ""
+    mc "I wonder why this is exclusively affecting my friends…"
 
 # game/castle.rpy#L1088
 translate chinese selenevisit_5e8e06db:
 
     # selene "I’m honestly surprised that you haven’t been afflicted."
-    selene ""
+    selene "I’m honestly surprised that you haven’t been afflicted."
 
 # game/castle.rpy#L1089
 translate chinese selenevisit_87b0338f:
 
     # mc "Could you tell me who?"
-    mc ""
+    mc "Could you tell me who?"
 
 # game/castle.rpy#L1091
 translate chinese selenevisit_a0d49a6e:
 
     # selene "Honeycrisp, Riku, Butters, Lily, Moxie, Penelope and Ruby."
-    selene ""
+    selene "Honeycrisp, Riku, Butters, Lily, Moxie, Penelope and Ruby."
 
 # game/castle.rpy#L1093
 translate chinese selenevisit_6c0be0bb:
 
     # "That’s basically everyone, but not Anna, Melody and Blossom. If they’re unaffected this probably isn’t a sexually transmitted nightmare then."
-    ""
+    "That’s basically everyone, but not Anna, Melody and Blossom. If they’re unaffected this probably isn’t a sexually transmitted nightmare then."
 
 # game/castle.rpy#L1094
 translate chinese selenevisit_8d38ac1b:
 
     # "Damn when you list it out like this, I’ve slept with a lot of mares."
-    ""
+    "Damn when you list it out like this, I’ve slept with a lot of mares."
 
 # game/castle.rpy#L1096
 translate chinese selenevisit_a4dd3c74:
 
     # "That's a lot of people, and a lot that I've slept with too. Although, I haven't slept with all of them..."
-    ""
+    "That's a lot of people, and a lot that I've slept with too. Although, I haven't slept with all of them..."
 
 # game/castle.rpy#L1097
 translate chinese selenevisit_6b1f71ae:
 
     # "So it's probably not a sexually transmitted nightmare."
-    ""
+    "So it's probably not a sexually transmitted nightmare."
 
 # game/castle.rpy#L1098
 translate chinese selenevisit_af258c48:
 
     # mc "Okay, enough questions, I’m ready."
-    mc ""
+    mc "Okay, enough questions, I’m ready."
 
 # game/castle.rpy#L1100
 translate chinese selenevisit_24d6f721:
 
     # selene "How delightful, I haven’t worked with a mortal in too long."
-    selene ""
+    selene "How delightful, I haven’t worked with a mortal in too long."
 
 # game/castle.rpy#L1102
 translate chinese selenevisit_5dbd22e6:
 
     # selene "Oh and of course, you can expect a fantastic reward."
-    selene ""
+    selene "Oh and of course, you can expect a fantastic reward."
 
 # game/castle.rpy#L1103
 translate chinese selenevisit_f7378262:
 
     # selene "I’ll grant you any wish within my power. Have something in mind that you’d like?"
-    selene ""
+    selene "I’ll grant you any wish within my power. Have something in mind that you’d like?"
 
 # game/castle.rpy#L1108
 translate chinese selenevisit_91b77e39:
 
     # selene "Ohh, heheh, sleeping with a princess is surely a desire a lot of people have…"
-    selene ""
+    selene "Ohh, heheh, sleeping with a princess is surely a desire a lot of people have…"
 
 # game/castle.rpy#L1109
 translate chinese selenevisit_fbeffde4:
 
     # mc "You could say that."
-    mc ""
+    mc "You could say that."
 
 # game/castle.rpy#L1111
 translate chinese selenevisit_dd659c87:
 
     # selene "I’ll think about it, okay?"
-    selene ""
+    selene "I’ll think about it, okay?"
 
 # game/castle.rpy#L1112
 translate chinese selenevisit_113da3f6:
 
     # selene "I’m just saying you’ll have to impress me."
-    selene ""
+    selene "I’m just saying you’ll have to impress me."
 
 # game/castle.rpy#L1113
 translate chinese selenevisit_2051d66a:
 
     # mc "Understood."
-    mc ""
+    mc "Understood."
 
 # game/castle.rpy#L1116
 translate chinese selenevisit_f0dbd261:
 
     # selene "I’d pay you anyway, you don’t need to ask for that."
-    selene ""
+    selene "I’d pay you anyway, you don’t need to ask for that."
 
 # game/castle.rpy#L1117
 translate chinese selenevisit_0ec8bcdb:
 
     # mc "Yeah but wouldn’t it be really exciting if Moxie and I moved into to a castle?"
-    mc ""
+    mc "Yeah but wouldn’t it be really exciting if Moxie and I moved into to a castle?"
 
 # game/castle.rpy#L1119
 translate chinese selenevisit_fff0c659:
 
     # selene "I don’t know about a full castle, but if Moxie becomes my student you two can expect better than a wagon."
-    selene ""
+    selene "I don’t know about a full castle, but if Moxie becomes my student you two can expect better than a wagon."
 
 # game/castle.rpy#L1121
 translate chinese selenevisit_653e0e53:
 
     # "The amount of opportunities available to me is getting crazy. First Butters lets me live in her house, and now Moxie might get a house upgrade too."
-    ""
+    "The amount of opportunities available to me is getting crazy. First Butters lets me live in her house, and now Moxie might get a house upgrade too."
 
 # game/castle.rpy#L1123
 translate chinese selenevisit_c5e41cbe:
 
     # "How exciting! The wagon is starting to get a little cramped for my tastes."
-    ""
+    "How exciting! The wagon is starting to get a little cramped for my tastes."
 
 # game/castle.rpy#L1125
 translate chinese selenevisit_ea82a5b3:
 
     # selene "Uhhmmm, well… I could give you some unicorn dust and some alchemy books."
-    selene ""
+    selene "Uhhmmm, well… I could give you some unicorn dust and some alchemy books."
 
 # game/castle.rpy#L1126
 translate chinese selenevisit_75695a51:
 
     # selene "But you’d have to figure out what to do with that on your own, alchemy is a very obscure school of magic."
-    selene ""
+    selene "But you’d have to figure out what to do with that on your own, alchemy is a very obscure school of magic."
 
 # game/castle.rpy#L1127
 translate chinese selenevisit_9771d12f:
 
     # selene "And most people don’t even know that unicorn dust exists."
-    selene ""
+    selene "And most people don’t even know that unicorn dust exists."
 
 # game/castle.rpy#L1128
 translate chinese selenevisit_03c6ba42:
 
     # mc "I can see why; unicorn dust really is just regular looking dust."
-    mc ""
+    mc "I can see why; unicorn dust really is just regular looking dust."
 
 # game/castle.rpy#L1129
 translate chinese selenevisit_4ccbbd98:
 
     # selene "We don’t tend to teach alchemy because it’s seen as a pointless endeavour."
-    selene ""
+    selene "We don’t tend to teach alchemy because it’s seen as a pointless endeavour."
 
 # game/castle.rpy#L1130
 translate chinese selenevisit_e1778c49:
 
     # selene "Despite a few benefits of alchemy, such as 'permanent' changes via digestion, it can take fifty years to achieve something a unicorn barely exerts any effort to."
-    selene ""
+    selene "Despite a few benefits of alchemy, such as 'permanent' changes via digestion, it can take fifty years to achieve something a unicorn barely exerts any effort to."
 
 # game/castle.rpy#L1131
 translate chinese selenevisit_be4534ee:
 
     # selene "And I’d be the only one capable of teaching such a class, I’m the primary source of alchemical knowledge in the country, perhaps the world."
-    selene ""
+    selene "And I’d be the only one capable of teaching such a class, I’m the primary source of alchemical knowledge in the country, perhaps the world."
 
 # game/castle.rpy#L1132
 translate chinese selenevisit_ad29f3c7:
 
     # selene "But I don’t know how to make many useful potions either, with enough trial and error, maybe you could find a potion to give you a unicorn horn."
-    selene ""
+    selene "But I don’t know how to make many useful potions either, with enough trial and error, maybe you could find a potion to give you a unicorn horn."
 
 # game/castle.rpy#L1133
 translate chinese selenevisit_d8fa9898:
 
     # selene "I don’t think you’d live long enough to make such a potion though."
-    selene ""
+    selene "I don’t think you’d live long enough to make such a potion though."
 
 # game/castle.rpy#L1134
 translate chinese selenevisit_1598c572:
 
     # mc "Yeah… I might have to find a potion of immortality before I finish that. I’ll give up on magical powers for now."
-    mc ""
+    mc "Yeah… I might have to find a potion of immortality before I finish that. I’ll give up on magical powers for now."
 
 # game/castle.rpy#L1135
 translate chinese selenevisit_83dc4664:
 
     # selene "A potion of immortality? You might be onto something there."
-    selene ""
+    selene "A potion of immortality? You might be onto something there."
 
 # game/castle.rpy#L1138
 translate chinese selenevisit_a63bba5d:
 
     # selene "That’s your wish? Hehehe."
-    selene ""
+    selene "That’s your wish? Hehehe."
 
 # game/castle.rpy#L1140
 translate chinese selenevisit_476f7f21:
 
     # selene "Gracious, you’re such a pure soul [playername]."
-    selene ""
+    selene "Gracious, you’re such a pure soul [playername]."
 
 # game/castle.rpy#L1141
 translate chinese selenevisit_928d7941:
 
     # selene "Between you and I, I’ve already decided to make her my student."
-    selene ""
+    selene "Between you and I, I’ve already decided to make her my student."
 
 # game/castle.rpy#L1142
 translate chinese selenevisit_e36ade75:
 
     # mc "So the interview is just a formality?"
-    mc ""
+    mc "So the interview is just a formality?"
 
 # game/castle.rpy#L1144
 translate chinese selenevisit_7bdfd2bf:
 
     # selene "The ‘interview’ is just an excuse to meet up with her and chat about the future."
-    selene ""
+    selene "The ‘interview’ is just an excuse to meet up with her and chat about the future."
 
 # game/castle.rpy#L1146
 translate chinese selenevisit_9d146d71:
 
     # selene "She’s put me in quite a special situation. I can’t refuse her studentship because I need to show her how to control her powers."
-    selene ""
+    selene "She’s put me in quite a special situation. I can’t refuse her studentship because I need to show her how to control her powers."
 
 # game/castle.rpy#L1147
 translate chinese selenevisit_6d297a14:
 
     # mc "Heh, okay, that makes me happy."
-    mc ""
+    mc "Heh, okay, that makes me happy."
 
 # game/castle.rpy#L1148
 translate chinese selenevisit_e30aa85e:
 
     # mc "Alright, I’m ready."
-    mc ""
+    mc "Alright, I’m ready."
 
 # game/castle.rpy#L1150
 translate chinese selenevisit_92a983ff:
 
     # selene "Okay, lay on my bed and I’ll do the rest."
-    selene ""
+    selene "Okay, lay on my bed and I’ll do the rest."
 
 # game/castle.rpy#L1151
 translate chinese selenevisit_f0d61534:
 
     # "My brain can’t help but think of the sexual connotations of laying on her bed. She is hot, and a princess too, awesome combo."
-    ""
+    "My brain can’t help but think of the sexual connotations of laying on her bed. She is hot, and a princess too, awesome combo."
 
 # game/castle.rpy#L1152
 translate chinese selenevisit_2207778e:
 
     # "I think I’m just being a pervert."
-    ""
+    "I think I’m just being a pervert."
 
 # game/castle.rpy#L1153
 translate chinese selenevisit_399c98c9:
 
     # "As soon as I comfortably lay on the bed, all I remember next is that she clicked her fingers."
-    ""
+    "As soon as I comfortably lay on the bed, all I remember next is that she clicked her fingers."
 
 # game/castle.rpy#L1157
 translate chinese selenevisit_ce617998_1:
 
     # "…"
-    ""
+    "…"
 
 # game/castle.rpy#L1160
 translate chinese selenevisit_8a087df4:
 
     # "Nothing…"
-    ""
+    "Nothing…"
 
 # game/castle.rpy#L1161
 translate chinese selenevisit_fd7a75bc:
 
     # "It’s like I’m asleep, but fully conscious."
-    ""
+    "It’s like I’m asleep, but fully conscious."
 
 # game/castle.rpy#L1162
 translate chinese selenevisit_33f64866:
 
     # "After a few seconds a familiar blue figure takes form beside me."
-    ""
+    "After a few seconds a familiar blue figure takes form beside me."
 
 # game/castle.rpy#L1164
 translate chinese selenevisit_8fe10e7d:
 
     # selene "This is the dream realm; I’ll be sending us to our first dreamer now."
-    selene ""
+    selene "This is the dream realm; I’ll be sending us to our first dreamer now."
 
 # game/castle.rpy#L1166
 translate chinese selenevisit_81991e40:
 
     # "Slowly twinkling lights begin to form like a sea of stars."
-    ""
+    "Slowly twinkling lights begin to form like a sea of stars."
 
 # game/castle.rpy#L1168
 translate chinese selenevisit_45a3b59a:
 
     # "The stars kept appearing, until eventually there was more white than black."
-    ""
+    "The stars kept appearing, until eventually there was more white than black."
 
 # game/castle.rpy#L1169
 translate chinese selenevisit_246a7626:
 
     # "And then in one burst of light a reality had formed."
-    ""
+    "And then in one burst of light a reality had formed."
 
 # game/castle.rpy#L1171
 translate chinese selenevisit_3080124f:
 
     # "A gigantic stadium soaring high in the clouds."
-    ""
+    "A gigantic stadium soaring high in the clouds."
 
 # game/castle.rpy#L1172
 translate chinese selenevisit_5aade19b:
 
     # "While the crowds were empty, there were people racing and competing in sports in the centre."
-    ""
+    "While the crowds were empty, there were people racing and competing in sports in the centre."
 
 # game/castle.rpy#L1173
 translate chinese selenevisit_ab1bf12e:
 
     # "As I’m sat in awe taking in the surroundings, I notice the blue alicorn Selene is sat beside me."
-    ""
+    "As I’m sat in awe taking in the surroundings, I notice the blue alicorn Selene is sat beside me."
 
 # game/castle.rpy#L1175
 translate chinese selenevisit_797619cd:
 
     # mc "That was quite a shock to the system, what happened?"
-    mc ""
+    mc "That was quite a shock to the system, what happened?"
 
 # game/castle.rpy#L1176
 translate chinese selenevisit_4627613c:
 
     # selene "You just entered Riku’s dream. Nightmare to be more specific."
-    selene ""
+    selene "You just entered Riku’s dream. Nightmare to be more specific."
 
 # game/castle.rpy#L1177
 translate chinese selenevisit_0b0801a6:
 
     # mc "This looks fairly atypical for a nightmare."
-    mc ""
+    mc "This looks fairly atypical for a nightmare."
 
 # game/castle.rpy#L1179
 translate chinese selenevisit_6b2426fc:
 
     # selene "Nightmares can show themselves in many forms."
-    selene ""
+    selene "Nightmares can show themselves in many forms."
 
 # game/castle.rpy#L1181
 translate chinese selenevisit_f03ca7cf:
 
     # selene "Oh, and remember, the dreaming individual won’t realize it’s a dream, no matter how nonsensical the event is. You must be cautious and specific with your words."
-    selene ""
+    selene "Oh, and remember, the dreaming individual won’t realize it’s a dream, no matter how nonsensical the event is. You must be cautious and specific with your words."
 
 # game/castle.rpy#L1182
 translate chinese selenevisit_cdd94bcf:
 
     # "Selene points to a lone red mare at the stands. Even from behind the rainbow braids make it almost impossible to not immediately identify her as Riku."
-    ""
+    "Selene points to a lone red mare at the stands. Even from behind the rainbow braids make it almost impossible to not immediately identify her as Riku."
 
 # game/castle.rpy#L1183
 translate chinese selenevisit_9be701f2:
 
     # selene "The world around us is a manifestation of her nightmare, you’ll need to talk her down for the nightmare to dissipate."
-    selene ""
+    selene "The world around us is a manifestation of her nightmare, you’ll need to talk her down for the nightmare to dissipate."
 
 # game/castle.rpy#L1184
 translate chinese selenevisit_4444a54c:
 
     # mc "Could be challenging… What about that dream hopping person?"
-    mc ""
+    mc "Could be challenging… What about that dream hopping person?"
 
 # game/castle.rpy#L1185
 translate chinese selenevisit_8725d134:
 
     # selene "I will remain here and keep a watchful eye out for both you and the culprit."
-    selene ""
+    selene "I will remain here and keep a watchful eye out for both you and the culprit."
 
 # game/castle.rpy#L1186
 translate chinese selenevisit_63b06620:
 
     # selene "No more questions now."
-    selene ""
+    selene "No more questions now."
 
 # game/castle.rpy#L1188
 translate chinese selenevisit_e68559d6:
 
     # "She hurries me on and I quickly walk down the steps of the stands. In the silence of the empty stadium Riku hears me, turns around, and welcomes me to sit beside her."
-    ""
+    "She hurries me on and I quickly walk down the steps of the stands. In the silence of the empty stadium Riku hears me, turns around, and welcomes me to sit beside her."
 
 # game/castle.rpy#L1193
 translate chinese selenevisit_109e62ec:
 
     # riku "About time you got here! How could you be late for the first date with a catch like me?"
-    riku ""
+    riku "About time you got here! How could you be late for the first date with a catch like me?"
 
 # game/castle.rpy#L1194
 translate chinese selenevisit_7d140ef1:
 
     # mc "Wha? First da-? Uhm, sorry! The queue to get in was really long."
-    mc ""
+    mc "Wha? First da-? Uhm, sorry! The queue to get in was really long."
 
 # game/castle.rpy#L1196
 translate chinese selenevisit_ff27d23c:
 
     # riku "Yeah, yeah, my fault for arriving ten minutes early. You’re actually on time, so if anything, I’m just being whiny."
-    riku ""
+    riku "Yeah, yeah, my fault for arriving ten minutes early. You’re actually on time, so if anything, I’m just being whiny."
 
 # game/castle.rpy#L1197
 translate chinese selenevisit_1d5e35ba:
 
     # "What she’s saying doesn’t make any sense, this is almost entirely nonsensical just like Selene warned earlier."
-    ""
+    "What she’s saying doesn’t make any sense, this is almost entirely nonsensical just like Selene warned earlier."
 
 # game/castle.rpy#L1198
 translate chinese selenevisit_2ee5389d:
 
     # "Riku’s imagination seems to be moving rapidly, reacting and rewriting the scenarios to fit the surroundings and her thought patterns."
-    ""
+    "Riku’s imagination seems to be moving rapidly, reacting and rewriting the scenarios to fit the surroundings and her thought patterns."
 
 # game/castle.rpy#L1199
 translate chinese selenevisit_6747c42d:
 
     # "When I appeared, it suddenly turned into our first date, is this a true reflection of how she feels about me?"
-    ""
+    "When I appeared, it suddenly turned into our first date, is this a true reflection of how she feels about me?"
 
 # game/castle.rpy#L1200
 translate chinese selenevisit_e670ea2e:
 
     # "Maybe I’m looking into it too much, I’ve had some dreams that don’t reflect how I feel."
-    ""
+    "Maybe I’m looking into it too much, I’ve had some dreams that don’t reflect how I feel."
 
 # game/castle.rpy#L1203
 translate chinese selenevisit_95f470c5:
 
     # riku "You know, I should have been the one performing in this race."
-    riku ""
+    riku "You know, I should have been the one performing in this race."
 
 # game/castle.rpy#L1204
 translate chinese selenevisit_b9e77a79:
 
     # "We both look onward to the stadium, ponies flying at break-neck speeds around the course."
-    ""
+    "We both look onward to the stadium, ponies flying at break-neck speeds around the course."
 
 # game/castle.rpy#L1205
 translate chinese selenevisit_d653f8b1:
 
     # riku "This is the race I was practicing for, just before my injury."
-    riku ""
+    riku "This is the race I was practicing for, just before my injury."
 
 # game/castle.rpy#L1206
 translate chinese selenevisit_d6f03f2b:
 
     # mc "I see, is it troubling you?"
-    mc ""
+    mc "I see, is it troubling you?"
 
 # game/castle.rpy#L1208
 translate chinese selenevisit_ae564ba0:
 
     # riku "I don’t know, I feel so empty whenever I imagine these times of my life."
-    riku ""
+    riku "I don’t know, I feel so empty whenever I imagine these times of my life."
 
 # game/castle.rpy#L1209
 translate chinese selenevisit_211e0082:
 
     # mc "I see, how does that emptiness make you feel?"
-    mc ""
+    mc "I see, how does that emptiness make you feel?"
 
 # game/castle.rpy#L1211
 translate chinese selenevisit_5f05ab69:
 
     # riku "How does feeling empty make me feel? That’s such a confusing question, bonehead…"
-    riku ""
+    riku "How does feeling empty make me feel? That’s such a confusing question, bonehead…"
 
 # game/castle.rpy#L1213
 translate chinese selenevisit_8133edf4:
 
     # riku "I guess it makes me feel confused."
-    riku ""
+    riku "I guess it makes me feel confused."
 
 # game/castle.rpy#L1214
 translate chinese selenevisit_92736d78:
 
     # riku "I don’t miss it, so I don’t know why I feel so strange about it."
-    riku ""
+    riku "I don’t miss it, so I don’t know why I feel so strange about it."
 
 # game/castle.rpy#L1215
 translate chinese selenevisit_fa2f875f:
 
     # riku "I feel like I shouldn’t care, but I do."
-    riku ""
+    riku "I feel like I shouldn’t care, but I do."
 
 # game/castle.rpy#L1216
 translate chinese selenevisit_22c264a4:
 
     # mc "You do care?"
-    mc ""
+    mc "You do care?"
 
 # game/castle.rpy#L1218
 translate chinese selenevisit_bfee68f9:
 
     # riku "Not really, no! I try to forget about these times, I’ve moved on."
-    riku ""
+    riku "Not really, no! I try to forget about these times, I’ve moved on."
 
 # game/castle.rpy#L1219
 translate chinese selenevisit_dc559ea2:
 
     # mc "It doesn’t sound like you’ve moved on."
-    mc ""
+    mc "It doesn’t sound like you’ve moved on."
 
 # game/castle.rpy#L1220
 translate chinese selenevisit_c2143cf3:
 
     # mc "You can’t move on if you keep trying to reject and push these memories away."
-    mc ""
+    mc "You can’t move on if you keep trying to reject and push these memories away."
 
 # game/castle.rpy#L1221
 translate chinese selenevisit_9dc53b6f:
 
     # mc "You need to acknowledge the emptiness and explore your feelings."
-    mc ""
+    mc "You need to acknowledge the emptiness and explore your feelings."
 
 # game/castle.rpy#L1222
 translate chinese selenevisit_dc6cf0b6:
 
     # mc "Once you know why you feel empty, you can work towards releasing yourself from that feeling."
-    mc ""
+    mc "Once you know why you feel empty, you can work towards releasing yourself from that feeling."
 
 # game/castle.rpy#L1224
 translate chinese selenevisit_934d1c8f:
 
     # riku "Hehe, gosh, listen to you. I didn’t think you could be so profound. You want me to look at my memories? I’ll humour you."
-    riku ""
+    riku "Hehe, gosh, listen to you. I didn’t think you could be so profound. You want me to look at my memories? I’ll humour you."
 
 # game/castle.rpy#L1225
 translate chinese selenevisit_3a6aca91:
 
     # riku "When I was young, I was always built up to be something special. I nearly became a renowned athlete. And now I’ve just settled down as a humble bar owner."
-    riku ""
+    riku "When I was young, I was always built up to be something special. I nearly became a renowned athlete. And now I’ve just settled down as a humble bar owner."
 
 # game/castle.rpy#L1226
 translate chinese selenevisit_f8196782:
 
     # mc "How does that make you feel? Like a failure?"
-    mc ""
+    mc "How does that make you feel? Like a failure?"
 
 # game/castle.rpy#L1229
 translate chinese selenevisit_83d6ba59:
 
     # riku "Sometimes, yeah."
-    riku ""
+    riku "Sometimes, yeah."
 
 # game/castle.rpy#L1231
 translate chinese selenevisit_214b887c:
 
     # riku "I feel like I let my family and friends down."
-    riku ""
+    riku "I feel like I let my family and friends down."
 
 # game/castle.rpy#L1232
 translate chinese selenevisit_75c94136:
 
     # riku "My old friends… I couldn’t face them again after the coma, I moved to the suburbs and made new friends."
-    riku ""
+    riku "My old friends… I couldn’t face them again after the coma, I moved to the suburbs and made new friends."
 
 # game/castle.rpy#L1233
 translate chinese selenevisit_90a1b77d:
 
     # mc "It sounds like you’re so terrified of failure, you’d rather run away from all your problems, because you don’t want to even risk the idea that you might fail."
-    mc ""
+    mc "It sounds like you’re so terrified of failure, you’d rather run away from all your problems, because you don’t want to even risk the idea that you might fail."
 
 # game/castle.rpy#L1235
 translate chinese selenevisit_75e8e822:
 
     # riku "Hmph, yeah… I can see that; I’ve been so humble and within my means ever since the incident."
-    riku ""
+    riku "Hmph, yeah… I can see that; I’ve been so humble and within my means ever since the incident."
 
 # game/castle.rpy#L1236
 translate chinese selenevisit_7e184a39:
 
     # riku "But I, more than anyone, should know that the road to success requires many failures along the way."
-    riku ""
+    riku "But I, more than anyone, should know that the road to success requires many failures along the way."
 
 # game/castle.rpy#L1237
 translate chinese selenevisit_1125f501:
 
     # mc "Of course, your injury wasn’t your fault, it was an accident beyond your control."
-    mc ""
+    mc "Of course, your injury wasn’t your fault, it was an accident beyond your control."
 
 # game/castle.rpy#L1239
 translate chinese selenevisit_ea2d01e4:
 
     # riku "Meh… It was my fault though... I was overworking myself."
-    riku ""
+    riku "Meh… It was my fault though... I was overworking myself."
 
 # game/castle.rpy#L1240
 translate chinese selenevisit_b5916f10:
 
     # mc "But that doesn’t mean you have to run away from the athletics scene forever, especially not your friends."
-    mc ""
+    mc "But that doesn’t mean you have to run away from the athletics scene forever, especially not your friends."
 
 # game/castle.rpy#L1242
 translate chinese selenevisit_d89e906c:
 
     # riku "Yeah, yeah, there were lots of small issues here and there. Like the drugs, the bureaucracy, but I was mostly just using those as excuses to hide."
-    riku ""
+    riku "Yeah, yeah, there were lots of small issues here and there. Like the drugs, the bureaucracy, but I was mostly just using those as excuses to hide."
 
 # game/castle.rpy#L1243
 translate chinese selenevisit_dea811e4:
 
     # mc "A lot of these issues I think lead to self-loathing."
-    mc ""
+    mc "A lot of these issues I think lead to self-loathing."
 
 # game/castle.rpy#L1245
 translate chinese selenevisit_4c4c2a36:
 
     # riku "Self-loathing? What are you talking about, I don’t hate myself…?"
-    riku ""
+    riku "Self-loathing? What are you talking about, I don’t hate myself…?"
 
 # game/castle.rpy#L1246
 translate chinese selenevisit_8ecfa7dc:
 
     # mc "It’s not that you hate yourself, it’s that you don’t think you’re good enough."
-    mc ""
+    mc "It’s not that you hate yourself, it’s that you don’t think you’re good enough."
 
 # game/castle.rpy#L1247
 translate chinese selenevisit_cf9071d1:
 
     # mc "You don’t think you deserve the love and compassion of your friends and family because you perceive yourself to be a failure."
-    mc ""
+    mc "You don’t think you deserve the love and compassion of your friends and family because you perceive yourself to be a failure."
 
 # game/castle.rpy#L1248
 translate chinese selenevisit_06a1336a:
 
     # riku "Oh fuck, I feel like you’re peering into my soul right now."
-    riku ""
+    riku "Oh fuck, I feel like you’re peering into my soul right now."
 
 # game/castle.rpy#L1250
 translate chinese selenevisit_0498df0f:
 
     # riku "Yeah… There’s no shame in what I’ve chosen to do, so why do I feel like such a failure…"
-    riku ""
+    riku "Yeah… There’s no shame in what I’ve chosen to do, so why do I feel like such a failure…"
 
 # game/castle.rpy#L1251
 translate chinese selenevisit_d280267c:
 
     # mc "In order to understand that, you need to define what your goals are in life. If you’ve achieved them, you’re not a failure at all."
-    mc ""
+    mc "In order to understand that, you need to define what your goals are in life. If you’ve achieved them, you’re not a failure at all."
 
 # game/castle.rpy#L1252
 translate chinese selenevisit_addbab34:
 
     # mc "If anything, you’re a very successful business woman running the best bar this side of Arcadia."
-    mc ""
+    mc "If anything, you’re a very successful business woman running the best bar this side of Arcadia."
 
 # game/castle.rpy#L1254
 translate chinese selenevisit_581e9c01:
 
     # riku "How do I stop my past from haunting me?"
-    riku ""
+    riku "How do I stop my past from haunting me?"
 
 # game/castle.rpy#L1255
 translate chinese selenevisit_fdc3b564:
 
     # riku "What should I do, [playername]?"
-    riku ""
+    riku "What should I do, [playername]?"
 
 # game/castle.rpy#L1261
 translate chinese selenevisit_2b24b1e8:
 
     # riku "You’re right, I should reach out and build a new life with new experiences."
-    riku ""
+    riku "You’re right, I should reach out and build a new life with new experiences."
 
 # game/castle.rpy#L1262
 translate chinese selenevisit_077f592a:
 
     # riku "I think it’s too much to return to my past, to try to reconnect and become an athlete again."
-    riku ""
+    riku "I think it’s too much to return to my past, to try to reconnect and become an athlete again."
 
 # game/castle.rpy#L1263
 translate chinese selenevisit_5b476a72:
 
     # riku "But I shouldn’t let my past hinder my future opportunities."
-    riku ""
+    riku "But I shouldn’t let my past hinder my future opportunities."
 
 # game/castle.rpy#L1264
 translate chinese selenevisit_26b379b0:
 
     # riku "Coming to terms with the past will be easier if I make a future without fear of failing again."
-    riku ""
+    riku "Coming to terms with the past will be easier if I make a future without fear of failing again."
 
 # game/castle.rpy#L1266
 translate chinese selenevisit_79ccd9df:
 
     # riku "People like yourself and Moxie are helping me each step of the way."
-    riku ""
+    riku "People like yourself and Moxie are helping me each step of the way."
 
 # game/castle.rpy#L1269
 translate chinese selenevisit_eaeda05b:
 
     # riku "I always thought I might be better at coaching than actually racing."
-    riku ""
+    riku "I always thought I might be better at coaching than actually racing."
 
 # game/castle.rpy#L1270
 translate chinese selenevisit_dc41749d:
 
     # riku "I don’t know, I just thought I had a good coaching mentality."
-    riku ""
+    riku "I don’t know, I just thought I had a good coaching mentality."
 
 # game/castle.rpy#L1271
 translate chinese selenevisit_7eda60e1:
 
     # riku "I think you’ve convinced me to reach out to some of my old friends again."
-    riku ""
+    riku "I think you’ve convinced me to reach out to some of my old friends again."
 
 # game/castle.rpy#L1273
 translate chinese selenevisit_f95a1ea0:
 
     # riku "Thank you [playername]."
-    riku ""
+    riku "谢谢你， [playername]。"
 
 # game/castle.rpy#L1276
 translate chinese selenevisit_493cf714:
 
     # riku "If I can love myself, I can forgive myself for failing."
-    riku ""
+    riku "If I can love myself, I can forgive myself for failing."
 
 # game/castle.rpy#L1277
 translate chinese selenevisit_e5f97aae:
 
     # riku "It’s easier said than done, but I know what you mean, I just never imagined that I had these kinds of problems."
-    riku ""
+    riku "It’s easier said than done, but I know what you mean, I just never imagined that I had these kinds of problems."
 
 # game/castle.rpy#L1278
 translate chinese selenevisit_72b259e0:
 
     # riku "I’d always see it in my friends, and try to help them, but me? I just overlooked myself."
-    riku ""
+    riku "I’d always see it in my friends, and try to help them, but me? I just overlooked myself."
 
 # game/castle.rpy#L1279
 translate chinese selenevisit_8f5fcd52:
 
     # riku "Never thought I deserved that treatment."
-    riku ""
+    riku "Never thought I deserved that treatment."
 
 # game/castle.rpy#L1281
 translate chinese selenevisit_33cdde8a:
 
     # riku "You’ve made me realize that I was wrong, thank you [playername]."
-    riku ""
+    riku "You’ve made me realize that I was wrong, thank you [playername]."
 
 # game/castle.rpy#L1283
 translate chinese selenevisit_2acddc62:
 
     # mc "I certainly noticed you came out of your shell a lot in the days we’ve spent together. I’m hoping to see you become the best person you can possibly be in the future."
-    mc ""
+    mc "I certainly noticed you came out of your shell a lot in the days we’ve spent together. I’m hoping to see you become the best person you can possibly be in the future."
 
 # game/castle.rpy#L1288
 translate chinese selenevisit_68e3e26e:
 
     # "She stands up and stretches. And as she’s doing so, the entire location morphs into a bar full of chatter and buzz. There’s even a table full of familiar faces, our mutual friends."
-    ""
+    "She stands up and stretches. And as she’s doing so, the entire location morphs into a bar full of chatter and buzz. There’s even a table full of familiar faces, our mutual friends."
 
 # game/castle.rpy#L1292
 translate chinese selenevisit_5aaa5311:
 
     # riku "From the day I met you [playername], I always knew there was something quite special about you."
-    riku ""
+    riku "From the day I met you [playername], I always knew there was something quite special about you."
 
 # game/castle.rpy#L1293
 translate chinese selenevisit_6b7e22f1:
 
     # riku "I don’t cry for nothing, but I’ll shed a tear for this."
-    riku ""
+    riku "I don’t cry for nothing, but I’ll shed a tear for this."
 
 # game/castle.rpy#L1296
 translate chinese selenevisit_d0cef714:
 
     # "With the nightmare vanquished, Riku wanders to the table of friends and my vision returns to black."
-    ""
+    "With the nightmare vanquished, Riku wanders to the table of friends and my vision returns to black."
 
 # game/castle.rpy#L1298
 translate chinese selenevisit_8827da16:
 
     # "Selene is at my side again with a smile from cheek to cheek."
-    ""
+    "Selene is at my side again with a smile from cheek to cheek."
 
 # game/castle.rpy#L1299
 translate chinese selenevisit_7591e912:
 
     # selene "That was adorable, I’m glad I brought you along [playername]."
-    selene ""
+    selene "That was adorable, I’m glad I brought you along [playername]."
 
 # game/castle.rpy#L1300
 translate chinese selenevisit_cee59723:
 
     # mc "Just trying to help in any way I can."
-    mc ""
+    mc "Just trying to help in any way I can."
 
 # game/castle.rpy#L1301
 translate chinese selenevisit_7677b82c:
 
     # mc "Any luck finding the culprit?"
-    mc ""
+    mc "Any luck finding the culprit?"
 
 # game/castle.rpy#L1302
 translate chinese selenevisit_0e3d0356:
 
     # selene "No luck right now, we’re going to check Ruby’s nightmare next."
-    selene ""
+    selene "No luck right now, we’re going to check Ruby’s nightmare next."
 
 # game/castle.rpy#L1308
 translate chinese selenevisit_dafe4366:
 
     # "A sea of stars overwhelms and with a glow of ethereal light we’re suddenly on a balcony high up on a castle tower in Arcadia."
-    ""
+    "A sea of stars overwhelms and with a glow of ethereal light we’re suddenly on a balcony high up on a castle tower in Arcadia."
 
 # game/castle.rpy#L1309
 translate chinese selenevisit_63a98fbc:
 
     # "The view of the surrounding mountains, city and suburbs is beautiful, yet vague."
-    ""
+    "The view of the surrounding mountains, city and suburbs is beautiful, yet vague."
 
 # game/castle.rpy#L1310
 translate chinese selenevisit_a3cd6db6:
 
     # "It’s as if it’s not a fully formed thought, perhaps what someone would imagine the view looks like without ever having seen it."
-    ""
+    "It’s as if it’s not a fully formed thought, perhaps what someone would imagine the view looks like without ever having seen it."
 
 # game/castle.rpy#L1311
 translate chinese selenevisit_531e53bc:
 
     # "Inside from the balcony is a bedroom, where Ruby is in front of a beautiful mannequin as she threads a dress on it."
-    ""
+    "Inside from the balcony is a bedroom, where Ruby is in front of a beautiful mannequin as she threads a dress on it."
 
 # game/castle.rpy#L1312
 translate chinese selenevisit_82fbddd6:
 
     # mc "This doesn’t seem like a nightmare…"
-    mc ""
+    mc "This doesn’t seem like a nightmare…"
 
 # game/castle.rpy#L1314
 translate chinese selenevisit_84abd93f:
 
     # selene "Nightmares aren’t black and white; they may reveal themselves in subtle ways. Sometimes so subtle you can’t even tell."
-    selene ""
+    selene "Nightmares aren’t black and white; they may reveal themselves in subtle ways. Sometimes so subtle you can’t even tell."
 
 # game/castle.rpy#L1315
 translate chinese selenevisit_8a2e7513:
 
     # "Selene’s words pique my curiosity, so I closely watch the situation through the window."
-    ""
+    "Selene’s words pique my curiosity, so I closely watch the situation through the window."
 
 # game/castle.rpy#L1318
 translate chinese selenevisit_8e5d4ea1:
 
     # "Ruby turns around and goes to a desk drawer to get a few things, and something unnerving and far from subtle happens, leaving both me and Selene mouths agape."
-    ""
+    "Ruby turns around and goes to a desk drawer to get a few things, and something unnerving and far from subtle happens, leaving both me and Selene mouths agape."
 
 # game/castle.rpy#L1321
 translate chinese selenevisit_402de7f6:
 
     # "With instantaneous movement, the mannequin had followed Ruby, and was now right behind her."
-    ""
+    "With instantaneous movement, the mannequin had followed Ruby, and was now right behind her."
 
 # game/castle.rpy#L1323
 translate chinese selenevisit_9ec74c6c:
 
     # "When Ruby turns around, this causes her to jump with fright."
-    ""
+    "When Ruby turns around, this causes her to jump with fright."
 
 # game/castle.rpy#L1326
 translate chinese selenevisit_870437e1:
 
     # mc "Should I step in?"
-    mc ""
+    mc "Should I step in?"
 
 # game/castle.rpy#L1327
 translate chinese selenevisit_9c979a65:
 
     # selene "If you have a plan, you’re at your own discretion."
-    selene ""
+    selene "If you have a plan, you’re at your own discretion."
 
 # game/castle.rpy#L1332
 translate chinese selenevisit_8ba33083:
 
     # "I look back to Ruby who curiously inspects the mannequin from every angle."
-    ""
+    "I look back to Ruby who curiously inspects the mannequin from every angle."
 
 # game/castle.rpy#L1342
 translate chinese selenevisit_6cf33e43:
 
     # "As she does so, the other mannequins in the room close in one by one, and before Ruby has even realized it, she’s surrounded by these humanoid figures."
-    ""
+    "As she does so, the other mannequins in the room close in one by one, and before Ruby has even realized it, she’s surrounded by these humanoid figures."
 
 # game/castle.rpy#L1347
 translate chinese selenevisit_23f02a6d:
 
     # "The sudden realisation of this causes her to panic and kneel down in the fetal position."
-    ""
+    "The sudden realisation of this causes her to panic and kneel down in the fetal position."
 
 # game/castle.rpy#L1348
 translate chinese selenevisit_f935a7a2:
 
     # ruby "G-Go away! Stop!"
-    ruby ""
+    ruby "G-Go away! Stop!"
 
 # game/castle.rpy#L1349
 translate chinese selenevisit_c6c9f937:
 
     # "I can’t watch this farce any longer, I open the balcony door and step inside. Ruby doesn’t even react to my presence, not yet anyway."
-    ""
+    "I can’t watch this farce any longer, I open the balcony door and step inside. Ruby doesn’t even react to my presence, not yet anyway."
 
 # game/castle.rpy#L1352
 translate chinese selenevisit_506b94d7:
 
     # "I get closer and reach my hand out to Ruby, she takes it and hugs me tightly."
-    ""
+    "I get closer and reach my hand out to Ruby, she takes it and hugs me tightly."
 
 # game/castle.rpy#L1353
 translate chinese selenevisit_82fa3867:
 
     # ruby "Oh thank goodness it’s you darling!"
-    ruby ""
+    ruby "Oh thank goodness it’s you darling!"
 
 # game/castle.rpy#L1354
 translate chinese selenevisit_b077500a:
 
     # ruby "This is so scary, these ghastly mannequins just started moving on their own, you have to protect me!"
-    ruby ""
+    ruby "This is so scary, these ghastly mannequins just started moving on their own, you have to protect me!"
 
 # game/castle.rpy#L1355
 translate chinese selenevisit_5d732c19:
 
     # "Why is she having a nightmare like this?"
-    ""
+    "Why is she having a nightmare like this?"
 
 # game/castle.rpy#L1360
 translate chinese selenevisit_1fb9acec:
 
     # ruby "Too stressed? No darling, I love my work."
-    ruby ""
+    ruby "Too stressed? No darling, I love my work."
 
 # game/castle.rpy#L1361
 translate chinese selenevisit_8e1f232a:
 
     # ruby "It’s just these spooky mannequins started moving on their own!"
-    ruby ""
+    ruby "It’s just these spooky mannequins started moving on their own!"
 
 # game/castle.rpy#L1364
 translate chinese selenevisit_fdb115b1:
 
     # ruby "Representations? Judges?"
-    ruby ""
+    ruby "Representations? Judges?"
 
 # game/castle.rpy#L1365
 translate chinese selenevisit_dcbd266c:
 
     # ruby "Are they here to judge me? Goodness, but I have sinned so much!"
-    ruby ""
+    ruby "Are they here to judge me? Goodness, but I have sinned so much!"
 
 # game/castle.rpy#L1367
 translate chinese selenevisit_5ce61256:
 
     # "Hmm… I don’t think this nightmare is half as nuanced as Riku’s."
-    ""
+    "Hmm… I don’t think this nightmare is half as nuanced as Riku’s."
 
 # game/castle.rpy#L1368
 translate chinese selenevisit_6c0e2ac9:
 
     # mc "Wait, are you scared of ghosts?"
-    mc ""
+    mc "Wait, are you scared of ghosts?"
 
 # game/castle.rpy#L1370
 translate chinese selenevisit_f67c0862:
 
     # ruby "Ohhoh, terrified darling! I hate them!"
-    ruby ""
+    ruby "Ohhoh, terrified darling! I hate them!"
 
 # game/castle.rpy#L1389
 translate chinese selenevisit_d0e21768:
 
     # "She embraces me closer, nuzzling her face into my shoulder, this causes the mannequins to instantly pop to face us, causing me to jump momentarily."
-    ""
+    "She embraces me closer, nuzzling her face into my shoulder, this causes the mannequins to instantly pop to face us, causing me to jump momentarily."
 
 # game/castle.rpy#L1390
 translate chinese selenevisit_419e0f5f:
 
     # mc "I must admit, this is somewhat creepy."
-    mc ""
+    mc "I must admit, this is somewhat creepy."
 
 # game/castle.rpy#L1391
 translate chinese selenevisit_a064eb88:
 
     # ruby "*Sniffles* It-It’s just like this scary movie I saw as a young filly, *sob*, I hated that movie so much!"
-    ruby ""
+    ruby "*Sniffles* It-It’s just like this scary movie I saw as a young filly, *sob*, I hated that movie so much!"
 
 # game/castle.rpy#L1392
 translate chinese selenevisit_9284e98d:
 
     # ruby "I had nightmares for months! Nay, years!"
-    ruby ""
+    ruby "I had nightmares for months! Nay, years!"
 
 # game/castle.rpy#L1393
 translate chinese selenevisit_ce3c97d6:
 
     # "This nightmare is entirely different to Riku’s, so my strategy to soothe her should be different."
-    ""
+    "This nightmare is entirely different to Riku’s, so my strategy to soothe her should be different."
 
 # game/castle.rpy#L1397
 translate chinese selenevisit_d97dce0a:
 
     # ruby "B-But they are real! They’re here to get me!"
-    ruby ""
+    ruby "B-But they are real! They’re here to get me!"
 
 # game/castle.rpy#L1398
 translate chinese selenevisit_a02dc9c7:
 
     # ruby "I always put salt down at my doorstep to protect my house from ghosts, but I forgot when I moved into my new palace! Eeee!"
-    ruby ""
+    ruby "I always put salt down at my doorstep to protect my house from ghosts, but I forgot when I moved into my new palace! Eeee!"
 
 # game/castle.rpy#L1401
 translate chinese selenevisit_a16aab75:
 
     # ruby "B-but they’re moving!"
-    ruby ""
+    ruby "B-but they’re moving!"
 
 # game/castle.rpy#L1402
 translate chinese selenevisit_39590729:
 
     # mc "Yeah sure, I can move and I’m not scary."
-    mc ""
+    mc "Yeah sure, I can move and I’m not scary."
 
 # game/castle.rpy#L1403
 translate chinese selenevisit_09d76d77:
 
     # ruby "It’s so unnatural darling, it gives me the shakes."
-    ruby ""
+    ruby "It’s so unnatural darling, it gives me the shakes."
 
 # game/castle.rpy#L1406
 translate chinese selenevisit_ab5269e1:
 
     # "That didn’t work. I’ll try to show her just how easy it is to fight this particular fear."
-    ""
+    "That didn’t work. I’ll try to show her just how easy it is to fight this particular fear."
 
 # game/castle.rpy#L1407
 translate chinese selenevisit_3b25520f:
 
     # mc "Look, these are just plastic mannequins. They can teleport behind you all day, but they can’t do anything to you."
-    mc ""
+    mc "Look, these are just plastic mannequins. They can teleport behind you all day, but they can’t do anything to you."
 
 # game/castle.rpy#L1411
 translate chinese selenevisit_645abb87:
 
     # "I push one over to prove a point and it falls to the floor with a clunk with Ruby watching wide-eyed."
-    ""
+    "I push one over to prove a point and it falls to the floor with a clunk with Ruby watching wide-eyed."
 
 # game/castle.rpy#L1417
 translate chinese selenevisit_8f451c2b:
 
     # "Suddenly it transforms into a robed figure, causing Ruby to freak out even more than before!"
-    ""
+    "Suddenly it transforms into a robed figure, causing Ruby to freak out even more than before!"
 
 # game/castle.rpy#L1418
 translate chinese selenevisit_07c33438:
 
     # ruby "Kyaaahhhh, it’s a ghost! Oh my gosh, oh my gosh, kill it!"
-    ruby ""
+    ruby "Kyaaahhhh, it’s a ghost! Oh my gosh, oh my gosh, kill it!"
 
 # game/castle.rpy#L1419
 translate chinese selenevisit_cabad28b:
 
     # mc "Wait, no! It’s a person, it’s just some stupid unicorn using magic to prank you!"
-    mc ""
+    mc "Wait, no! It’s a person, it’s just some stupid unicorn using magic to prank you!"
 
 # game/castle.rpy#L1420
 translate chinese selenevisit_bf561242:
 
     # mc "Come on, let’s get them?"
-    mc ""
+    mc "Come on, let’s get them?"
 
 # game/castle.rpy#L1421
 translate chinese selenevisit_0646106b:
 
     # ruby "P-Prank? It’s just magic?"
-    ruby ""
+    ruby "P-Prank? It’s just magic?"
 
 # game/castle.rpy#L1422
 translate chinese selenevisit_68f084d3:
 
     # ruby "W-Wait… Ghosty stuff is just magic?"
-    ruby ""
+    ruby "W-Wait… Ghosty stuff is just magic?"
 
 # game/castle.rpy#L1424
 translate chinese selenevisit_45ec86c0:
 
     # "The robed figure awkwardly clambers up to their feet and starts to run away through the bedroom door. Who the heck was that? What a strange dream."
-    ""
+    "The robed figure awkwardly clambers up to their feet and starts to run away through the bedroom door. Who the heck was that? What a strange dream."
 
 # game/castle.rpy#L1429
 translate chinese selenevisit_9f0fcdb9:
 
     # "Selene suddenly runs past me."
-    ""
+    "Selene suddenly runs past me."
 
 # game/castle.rpy#L1430
 translate chinese selenevisit_01c8635b:
 
     # selene "That’s the culprit! Chase them [playername]!"
-    selene ""
+    selene "That’s the culprit! Chase them [playername]!"
 
 # game/castle.rpy#L1431
 translate chinese selenevisit_b1856a8a:
 
     # ruby "P-PRINCESS? T-This is too much! Ahhhhhhhhhhhhhhhhhhhhhhhhhh!"
-    ruby ""
+    ruby "P-PRINCESS? T-This is too much! Ahhhhhhhhhhhhhhhhhhhhhhhhhh!"
 
 # game/castle.rpy#L1434
 translate chinese selenevisit_18aee655:
 
     # "At the moment of her screaming, the entire world suddenly vanishes, leaving me and Selene in a void again."
-    ""
+    "At the moment of her screaming, the entire world suddenly vanishes, leaving me and Selene in a void again."
 
 # game/castle.rpy#L1436
 translate chinese selenevisit_3c83495c:
 
     # selene "Awwhhh… I blew it."
-    selene ""
+    selene "Awwhhh… I blew it."
 
 # game/castle.rpy#L1437
 translate chinese selenevisit_7d010a14:
 
     # mc "What happened?"
-    mc ""
+    mc "What happened?"
 
 # game/castle.rpy#L1439
 translate chinese selenevisit_0b65319c:
 
     # selene "Ruby just woke up, the nightmare got too extreme for her."
-    selene ""
+    selene "Ruby just woke up, the nightmare got too extreme for her."
 
 # game/castle.rpy#L1440
 translate chinese selenevisit_2db4e25e:
 
     # mc "Woops, does this mean her nightmare is over?"
-    mc ""
+    mc "Woops, does this mean her nightmare is over?"
 
 # game/castle.rpy#L1441
 translate chinese selenevisit_f8dc648e:
 
     # selene "For now, I guess. I'll definitely be able to end it when I figure out what the source of the nightmares is."
-    selene ""
+    selene "For now, I guess. I'll definitely be able to end it when I figure out what the source of the nightmares is."
 
 # game/castle.rpy#L1442
 translate chinese selenevisit_cb7def74:
 
     # mc "Let’s go, let’s go, my heart is racing. Let’s put this adrenaline to beneficial use."
-    mc ""
+    mc "Let’s go, let’s go, my heart is racing. Let’s put this adrenaline to beneficial use."
 
 # game/castle.rpy#L1444
 translate chinese selenevisit_f952bde3:
 
     # selene "That's the attitude! Let’s check the closest sleeping person then, Moxie!"
-    selene ""
+    selene "That's the attitude! Let’s check the closest sleeping person then, Moxie!"
 
 # game/castle.rpy#L1445
 translate chinese selenevisit_85e9746f:
 
     # mc "Moxie’s dream? This should be good."
-    mc ""
+    mc "Moxie’s dream? This should be good."
 
 # game/castle.rpy#L1447
 translate chinese selenevisit_7f282a14:
 
     # "I bet she’s dreaming about me because we didn’t have sex tonight, could be awkward!"
-    ""
+    "I bet she’s dreaming about me because we didn’t have sex tonight, could be awkward!"
 
 # game/castle.rpy#L1449
 translate chinese selenevisit_c092b60c:
 
     # "The world reforms in a burst of light around us, and it’s a dream of…"
-    ""
+    "The world reforms in a burst of light around us, and it’s a dream of…"
 
 # game/castle.rpy#L1452
 translate chinese selenevisit_5d2e6e0e:
 
     # "A dream of her doing a performance, Selene and myself have a view from the audience where we sit among others on long wooden seats."
-    ""
+    "A dream of her doing a performance, Selene and myself have a view from the audience where we sit among others on long wooden seats."
 
 # game/castle.rpy#L1453
 translate chinese selenevisit_cd3879f4:
 
     # moxie "I am the great and powerful Moxie, and today I will show you something truly magnificent!"
-    moxie ""
+    moxie "I am the great and powerful Moxie, and today I will show you something truly magnificent!"
 
 # game/castle.rpy#L1454
 translate chinese selenevisit_77ba9f30:
 
     # "I haven’t had an opportunity to watch one of these before, although this is a nightmare, so it may be the worst-case scenario."
-    ""
+    "I haven’t had an opportunity to watch one of these before, although this is a nightmare, so it may be the worst-case scenario."
 
 # game/castle.rpy#L1455
 translate chinese selenevisit_502c05ad:
 
     # "Maybe she has a fear of messing up on stage."
-    ""
+    "Maybe she has a fear of messing up on stage."
 
 # game/castle.rpy#L1456
 translate chinese selenevisit_11e7e3ff:
 
     # selene "It’ll be interesting to see what type of nightmares a potential future student of mine has."
-    selene ""
+    selene "It’ll be interesting to see what type of nightmares a potential future student of mine has."
 
 # game/castle.rpy#L1457
 translate chinese selenevisit_18cdbbca:
 
     # mc "Moxie seems so unwavering in spite of her insecurities; I can’t imagine what’ll happen."
-    mc ""
+    mc "Moxie seems so unwavering in spite of her insecurities; I can’t imagine what’ll happen."
 
 # game/castle.rpy#L1458
 translate chinese selenevisit_bd81afbc:
 
     # "As I say that, the curtain is lifted, and a strange sight leaves both myself and Selene rather surprised indeed."
-    ""
+    "As I say that, the curtain is lifted, and a strange sight leaves both myself and Selene rather surprised indeed."
 
 # game/castle.rpy#L1460
 translate chinese selenevisit_0ae3c7e5:
 
     # "There’s an iron cage, and inside that is a ferocious bear-like creature."
-    ""
+    "There’s an iron cage, and inside that is a ferocious bear-like creature."
 
 # game/castle.rpy#L1461
 translate chinese selenevisit_b94b0bb3:
 
     # "And with that, it all falls into place, she’s reliving the worst day of her life."
-    ""
+    "And with that, it all falls into place, she’s reliving the worst day of her life."
 
 # game/castle.rpy#L1462
 translate chinese selenevisit_1cc97beb:
 
     # mc "I thought she was over this; I didn’t get the impression that it was something that haunted her to this day."
-    mc ""
+    mc "I thought she was over this; I didn’t get the impression that it was something that haunted her to this day."
 
 # game/castle.rpy#L1463
 translate chinese selenevisit_79c8e95b:
 
     # selene "Nightmares don’t necessarily align to what haunts you."
-    selene ""
+    selene "Nightmares don’t necessarily align to what haunts you."
 
 # game/castle.rpy#L1464
 translate chinese selenevisit_3599cffb:
 
     # selene "I’m aware of the situation that may unfold before us, and I also have faith that Moxie has moved past this. But nightmares often manifest using the moments that matter to us most."
-    selene ""
+    selene "I’m aware of the situation that may unfold before us, and I also have faith that Moxie has moved past this. But nightmares often manifest using the moments that matter to us most."
 
 # game/castle.rpy#L1465
 translate chinese selenevisit_8a1f15f0:
 
     # mc "Right, we know how this situation has played in reality, but… this nightmare could be far worse."
-    mc ""
+    mc "Right, we know how this situation has played in reality, but… this nightmare could be far worse."
 
 # game/castle.rpy#L1466
 translate chinese selenevisit_26ec939b:
 
     # "As the caged creature crashes around, it wows the audience, but clearly worries Moxie. Selene quietly watches the situation unfold."
-    ""
+    "As the caged creature crashes around, it wows the audience, but clearly worries Moxie. Selene quietly watches the situation unfold."
 
 # game/castle.rpy#L1467
 translate chinese selenevisit_cfb98b08:
 
     # selene "You’re right… Lily said the ursa was a ‘child’, but that’s a fully grown ursa. This could be the worst-case scenario."
-    selene ""
+    selene "You’re right… Lily said the ursa was a ‘child’, but that’s a fully grown ursa. This could be the worst-case scenario."
 
 # game/castle.rpy#L1468
 translate chinese selenevisit_fdd36e84:
 
     # selene "I’m going to try my best to contain the ursa and keep Moxie asleep, I need you to search and identify the culprit, I know they’ll be nearby."
-    selene ""
+    selene "I’m going to try my best to contain the ursa and keep Moxie asleep, I need you to search and identify the culprit, I know they’ll be nearby."
 
 # game/castle.rpy#L1469
 translate chinese selenevisit_4be92ac1:
 
     # "She rises and makes strides towards the stage as the creature finally breaks its restraints and charges out."
-    ""
+    "She rises and makes strides towards the stage as the creature finally breaks its restraints and charges out."
 
 # game/castle.rpy#L1472
 translate chinese selenevisit_68052edc:
 
     # "Just as it’s about to attack Moxie, and potentially wake her up, Selene channels a paralysis spell that holds the bear in place! Moxie manages to quickly scurry away, that should buy us some time."
-    ""
+    "Just as it’s about to attack Moxie, and potentially wake her up, Selene channels a paralysis spell that holds the bear in place! Moxie manages to quickly scurry away, that should buy us some time."
 
 # game/castle.rpy#L1473
 translate chinese selenevisit_a795288e:
 
     # "The audience erupts into chaos and begins to escape from the scene in every direction possible."
-    ""
+    "The audience erupts into chaos and begins to escape from the scene in every direction possible."
 
 # game/castle.rpy#L1474
 translate chinese selenevisit_7750d90f:
 
     # "Within that chaos I looked around everywhere for that robed figure I saw earlier."
-    ""
+    "Within that chaos I looked around everywhere for that robed figure I saw earlier."
 
 # game/castle.rpy#L1476
 translate chinese selenevisit_8b8f8f37:
 
     # "In my search, I peer around the back of the stage and find Moxie. She's clearly distressed."
-    ""
+    "In my search, I peer around the back of the stage and find Moxie. She's clearly distressed."
 
 # game/castle.rpy#L1478
 translate chinese selenevisit_8613eb73:
 
     # mc "Moxie, you have to get out of here, it’s dangerous!"
-    mc ""
+    mc "Moxie, you have to get out of here, it’s dangerous!"
 
 # game/castle.rpy#L1479
 translate chinese selenevisit_6398ce20:
 
     # moxie "[playername]…? What are you doing here?"
-    moxie ""
+    moxie "[playername]…? What are you doing here?"
 
 # game/castle.rpy#L1481
 translate chinese selenevisit_b354f071:
 
     # "She runs up to me and tightly embraces me. Her softness sends a shiver of butterflies through my gut."
-    ""
+    "She runs up to me and tightly embraces me. Her softness sends a shiver of butterflies through my gut."
 
 # game/castle.rpy#L1482
 translate chinese selenevisit_e2ed8663:
 
     # "She feels so real! Sigh… Moxie…"
-    ""
+    "She feels so real! Sigh… Moxie…"
 
 # game/castle.rpy#L1484
 translate chinese selenevisit_967e1f85:
 
     # moxie "You’re here to save me again…"
-    moxie ""
+    moxie "You’re here to save me again…"
 
 # game/castle.rpy#L1485
 translate chinese selenevisit_b2b9e19d:
 
     # mc "What do you mean?"
-    mc ""
+    mc "What do you mean?"
 
 # game/castle.rpy#L1486
 translate chinese selenevisit_95f8e171:
 
     # "She nuzzles her cheek into my face, not letting go for a second."
-    ""
+    "She nuzzles her cheek into my face, not letting go for a second."
 
 # game/castle.rpy#L1487
 translate chinese selenevisit_9de1b91d:
 
     # "The unexpected reunion was nice. But the chaos, the bear and the adrenaline running through my body is preventing me from calming down right now."
-    ""
+    "The unexpected reunion was nice. But the chaos, the bear and the adrenaline running through my body is preventing me from calming down right now."
 
 # game/castle.rpy#L1489
 translate chinese selenevisit_8d1d214e:
 
     # "Fortunately, I see a relieving sight, Selene behind Moxie with a smile on her face."
-    ""
+    "Fortunately, I see a relieving sight, Selene behind Moxie with a smile on her face."
 
 # game/castle.rpy#L1490
 translate chinese selenevisit_9a749366:
 
     # "Ah, the nightmare had dissipated during the hug. The bear vanished, along with the chaotic crowd."
-    ""
+    "Ah, the nightmare had dissipated during the hug. The bear vanished, along with the chaotic crowd."
 
 # game/castle.rpy#L1491
 translate chinese selenevisit_9910dc95:
 
     # moxie "Mmphh, whenever I need you most, you’re always there for me."
-    moxie ""
+    moxie "Mmphh, whenever I need you most, you’re always there for me."
 
 # game/castle.rpy#L1492
 translate chinese selenevisit_ac6fe67b:
 
     # moxie "When you came into my life, you made everything so much better."
-    moxie ""
+    moxie "When you came into my life, you made everything so much better."
 
 # game/castle.rpy#L1493
 translate chinese selenevisit_9b5141f9:
 
     # moxie "I don’t know what I’d do without you."
-    moxie ""
+    moxie "I don’t know what I’d do without you."
 
 # game/castle.rpy#L1494
 translate chinese selenevisit_dc850881:
 
     # mc "You really love me, don’t you?"
-    mc ""
+    mc "You really love me, don’t you?"
 
 # game/castle.rpy#L1496
 translate chinese selenevisit_da3fe159:
 
     # moxie "More than you could ever know."
-    moxie ""
+    moxie "More than you could ever know."
 
 # game/castle.rpy#L1504
 translate chinese selenevisit_b47bb2b2:
 
     # "Moxie pulls away and turns to see Selene behind us."
-    ""
+    "Moxie pulls away and turns to see Selene behind us."
 
 # game/castle.rpy#L1505
 translate chinese selenevisit_e56e3e9a:
 
     # moxie "What’s going on? I’m… I’m confused… Why are you here Selene? I-I'm dreaming aren't I!"
-    moxie ""
+    moxie "What’s going on? I’m… I’m confused… Why are you here Selene? I-I'm dreaming aren't I!"
 
 # game/castle.rpy#L1506
 translate chinese selenevisit_8af99edc:
 
     # selene "Ooohh, she's sharp! Perfect for a future student of mine."
-    selene ""
+    selene "Ooohh, she's sharp! Perfect for a future student of mine."
 
 # game/castle.rpy#L1507
 translate chinese selenevisit_acae88d8:
 
     # selene "We’re here strictly on business, Moxie. Do you want to do the honours, [playername]?"
-    selene ""
+    selene "We’re here strictly on business, Moxie. Do you want to do the honours, [playername]?"
 
 # game/castle.rpy#L1508
 translate chinese selenevisit_8abce470:
 
     # mc "We’re looking for a robed figure, have you seen anyone?"
-    mc ""
+    mc "We’re looking for a robed figure, have you seen anyone?"
 
 # game/castle.rpy#L1510
 translate chinese selenevisit_586efc81:
 
     # moxie "Robed… Yeah, actually. Behind the stage, there was someone wearing a long cloak."
-    moxie ""
+    moxie "Robed… Yeah, actually. Behind the stage, there was someone wearing a long cloak."
 
 # game/castle.rpy#L1511
 translate chinese selenevisit_c4a2e69f:
 
     # mc "Thank you Moxie, I’ll see you later, okay?"
-    mc ""
+    mc "Thank you Moxie, I’ll see you later, okay?"
 
 # game/castle.rpy#L1513
 translate chinese selenevisit_eb215d77:
 
     # moxie "Stay safe!"
-    moxie ""
+    moxie "Stay safe!"
 
 # game/castle.rpy#L1515
 translate chinese selenevisit_bb1411a6:
 
     # "She kisses me on the cheek before Selene and I dash to the stage."
-    ""
+    "She kisses me on the cheek before Selene and I dash to the stage."
 
 # game/castle.rpy#L1518
 translate chinese selenevisit_8aa470bb:
 
     # "A robed figure is indeed hidden behind the dark wood of the stage, their face enshrouded by darkness casting an imposing figure."
-    ""
+    "A robed figure is indeed hidden behind the dark wood of the stage, their face enshrouded by darkness casting an imposing figure."
 
 # game/castle.rpy#L1519
 translate chinese selenevisit_7ad929c7:
 
     # selene "Identify yourself!"
-    selene ""
+    selene "Identify yourself!"
 
 # game/castle.rpy#L1521
 translate chinese selenevisit_5239b0f4:
 
     # "Haphazardly the figure leaps away from us, and I give pursuit."
-    ""
+    "Haphazardly the figure leaps away from us, and I give pursuit."
 
 # game/castle.rpy#L1522
 translate chinese selenevisit_e22515c1:
 
     # selene "Wait!"
-    selene ""
+    selene "Wait!"
 
 # game/castle.rpy#L1524
 translate chinese selenevisit_862336e9:
 
     # "As I’m chasing, they trip on the fabric of their long robe while attempting to cast a bizarre incantation. But it works in their favour as they conjure a portal and falls straight into it."
-    ""
+    "As I’m chasing, they trip on the fabric of their long robe while attempting to cast a bizarre incantation. But it works in their favour as they conjure a portal and falls straight into it."
 
 # game/castle.rpy#L1526
 translate chinese selenevisit_6b349eec:
 
     # "Unfortunately, this floor-bound portal engulfs me too, before immediately closing, separating Selene and I in two separate dreams."
-    ""
+    "Unfortunately, this floor-bound portal engulfs me too, before immediately closing, separating Selene and I in two separate dreams."
 
 # game/castle.rpy#L1531
 translate chinese selenevisit_4d6a3e0e:
 
     # "When I come to, I’m in a fairly familiar location. But it takes me a few moments to re-adjust."
-    ""
+    "When I come to, I’m in a fairly familiar location. But it takes me a few moments to re-adjust."
 
 # game/castle.rpy#L1532
 translate chinese selenevisit_deac305a:
 
     # "Where is the person I was just chasing? Damnit, why didn’t I appear adjacent to them."
-    ""
+    "Where is the person I was just chasing? Damnit, why didn’t I appear adjacent to them."
 
 # game/castle.rpy#L1533
 translate chinese selenevisit_a39c5b6d:
 
     # "I'm all alone now... Am I in danger? I hope not."
-    ""
+    "I'm all alone now... Am I in danger? I hope not."
 
 # game/castle.rpy#L1534
 translate chinese selenevisit_0a8fd562:
 
     # "I realize where I am, I’m in the corridor of the tree library, in-between Penelope and Lily’s rooms."
-    ""
+    "I realize where I am, I’m in the corridor of the tree library, in-between Penelope and Lily’s rooms."
 
 # game/castle.rpy#L1535
 translate chinese selenevisit_fbbc1c2d:
 
     # "Whose dream is this, though?"
-    ""
+    "Whose dream is this, though?"
 
 # game/castle.rpy#L1536
 translate chinese selenevisit_f52bfea1:
 
     # "My doubts were soon affirmed by the moaning coming from Penelope’s rooms, specifically the moans of Moxie. That means it’s probably Penny’s dream."
-    ""
+    "My doubts were soon affirmed by the moaning coming from Penelope’s rooms, specifically the moans of Moxie. That means it’s probably Penny’s dream."
 
 # game/castle.rpy#L1538
 translate chinese selenevisit_1ab69593:
 
     # "I peek through the gap in the door and I spot Moxie and Penelope having sex on Penelope’s bed."
-    ""
+    "I peek through the gap in the door and I spot Moxie and Penelope having sex on Penelope’s bed."
 
 # game/castle.rpy#L1539
 translate chinese selenevisit_de6e8a2e:
 
     # "It’s strange seeing Moxie again immediately in a different context."
-    ""
+    "It’s strange seeing Moxie again immediately in a different context."
 
 # game/castle.rpy#L1540
 translate chinese selenevisit_fed761d8:
 
     # "No less having sex with another…"
-    ""
+    "No less having sex with another…"
 
 # game/castle.rpy#L1541
 translate chinese selenevisit_dc0b1442:
 
     # "I know that it’s not really Moxie, but… I probably shouldn't watch this."
-    ""
+    "I know that it’s not really Moxie, but… I probably shouldn't watch this."
 
 # game/castle.rpy#L1543
 translate chinese selenevisit_d7c0457b:
 
     # "This is like a nightmare for me, not for her."
-    ""
+    "This is like a nightmare for me, not for her."
 
 # game/castle.rpy#L1544
 translate chinese selenevisit_0d50851d:
 
     # "To be jealous of Moxie sleeping with others is a dangerous precedent considering I’m freely sleeping around. I feel like a complete hypocrite right now."
-    ""
+    "To be jealous of Moxie sleeping with others is a dangerous precedent considering I’m freely sleeping around. I feel like a complete hypocrite right now."
 
 # game/castle.rpy#L1545
 translate chinese selenevisit_6d2bdfcb:
 
     # "Is this how Moxie feels when I sleep around? An uncomfortable feeling in the gut, it’s not pleasant."
-    ""
+    "Is this how Moxie feels when I sleep around? An uncomfortable feeling in the gut, it’s not pleasant."
 
 # game/castle.rpy#L1546
 translate chinese selenevisit_e44c6c57:
 
     # "Either I talk to Moxie about my feelings, or I shut up."
-    ""
+    "Either I talk to Moxie about my feelings, or I shut up."
 
 # game/castle.rpy#L1547
 translate chinese selenevisit_df03bd9f:
 
     # "Distracted with my own thought, I hadn’t even noticed that Moxie had completely disappeared from the room."
-    ""
+    "Distracted with my own thought, I hadn’t even noticed that Moxie had completely disappeared from the room."
 
 # game/castle.rpy#L1548
 translate chinese selenevisit_44cb0dc3:
 
     # "Upon reinspection, Penelope is sat there alone, she looks exhausted."
-    ""
+    "Upon reinspection, Penelope is sat there alone, she looks exhausted."
 
 # game/castle.rpy#L1551
 translate chinese selenevisit_5db3b452:
 
     # "Politely knocking on the door, I step inside."
-    ""
+    "我礼貌地敲门，并走进去。"
 
 # game/castle.rpy#L1552
 translate chinese selenevisit_f62ce4cb:
 
     # mc "Hey Penny."
-    mc ""
+    mc "Hey Penny."
 
 # game/castle.rpy#L1553
 translate chinese selenevisit_bd451d95:
 
     # "She turns to me, her expression unchanging."
-    ""
+    "She turns to me, her expression unchanging."
 
 # game/castle.rpy#L1554
 translate chinese selenevisit_e926b82c:
 
     # penelope "Ah, it’s you. Moxie’s new lover."
-    penelope ""
+    penelope "Ah, it’s you. Moxie’s new lover."
 
 # game/castle.rpy#L1555
 translate chinese selenevisit_0a10d09e:
 
     # "She sounds unusually bitter. Actually, she’s wholly rougher around the edges than her usual persona."
-    ""
+    "She sounds unusually bitter. Actually, she’s wholly rougher around the edges than her usual persona."
 
 # game/castle.rpy#L1562
 translate chinese selenevisit_7fd31693:
 
     # penelope "Is that so? Or is this just another one of your ploys."
-    penelope ""
+    penelope "Is that so? Or is this just another one of your ploys."
 
 # game/castle.rpy#L1563
 translate chinese selenevisit_a2e2bba4:
 
     # mc "My ploys? No, I’m serious."
-    mc ""
+    mc "My ploys? No, I’m serious."
 
 # game/castle.rpy#L1564
 translate chinese selenevisit_b63867fd:
 
     # penelope "Where’s Moxie?"
-    penelope ""
+    penelope "Where’s Moxie?"
 
 # game/castle.rpy#L1565
 translate chinese selenevisit_1952a046:
 
     # mc "What do you mean? I saw her a few seconds ago right here."
-    mc ""
+    mc "What do you mean? I saw her a few seconds ago right here."
 
 # game/castle.rpy#L1566
 translate chinese selenevisit_759efadd:
 
     # penelope "She vanished when you arrived, I haven’t seen her since."
-    penelope ""
+    penelope "She vanished when you arrived, I haven’t seen her since."
 
 # game/castle.rpy#L1567
 translate chinese selenevisit_858f1677:
 
     # mc "Yeah, but…"
-    mc ""
+    mc "Yeah, but…"
 
 # game/castle.rpy#L1569
 translate chinese selenevisit_ebf6dc1c:
 
     # penelope "She doesn’t visit me anymore; she used to always come and visit me in the evenings."
-    penelope ""
+    penelope "She doesn’t visit me anymore; she used to always come and visit me in the evenings."
 
 # game/castle.rpy#L1570
 translate chinese selenevisit_4dc4f704:
 
     # mc "I’m sorry, I didn’t mean to push her away from you."
-    mc ""
+    mc "I’m sorry, I didn’t mean to push her away from you."
 
 # game/castle.rpy#L1572
 translate chinese selenevisit_05bf4053:
 
     # penelope "I remember when I gave her that book, we spent an evening laughing, and casting magic together."
-    penelope ""
+    penelope "I remember when I gave her that book, we spent an evening laughing, and casting magic together."
 
 # game/castle.rpy#L1573
 translate chinese selenevisit_919ae735:
 
     # penelope "Ending with love, affection and snuggling in my bed."
-    penelope ""
+    penelope "Ending with love, affection and snuggling in my bed."
 
 # game/castle.rpy#L1575
 translate chinese selenevisit_16deee1d:
 
     # penelope "Then two days later, she shows up to my doorstep with the absolute accident that is you."
-    penelope ""
+    penelope "Then two days later, she shows up to my doorstep with the absolute accident that is you."
 
 # game/castle.rpy#L1576
 translate chinese selenevisit_b0683cf0:
 
     # "I was wondering what the nightmare was for a while, since this started as a wet dream."
-    ""
+    "I was wondering what the nightmare was for a while, since this started as a wet dream."
 
 # game/castle.rpy#L1577
 translate chinese selenevisit_050843c3:
 
     # "Nightmares don’t usually involve sex and love, but it seems like her nightmare was being abandoned and lonely."
-    ""
+    "Nightmares don’t usually involve sex and love, but it seems like her nightmare was being abandoned and lonely."
 
 # game/castle.rpy#L1578
 translate chinese selenevisit_a38677aa:
 
     # "And now I’m here. I just added a confrontational element, as such, I have become her nightmare."
-    ""
+    "And now I’m here. I just added a confrontational element, as such, I have become her nightmare."
 
 # game/castle.rpy#L1579
 translate chinese selenevisit_c4e08f1f:
 
     # mc "Penny, I know you had a crush on Moxie, but you have to realize she never felt the same way, it was always platonic for her."
-    mc ""
+    mc "Penny, I know you had a crush on Moxie, but you have to realize she never felt the same way, it was always platonic for her."
 
 # game/castle.rpy#L1581
 translate chinese selenevisit_df6e867a:
 
     # penelope "Was it though? We were so close, if you didn’t exist maybe we would still be together!"
-    penelope ""
+    penelope "Was it though? We were so close, if you didn’t exist maybe we would still be together!"
 
 # game/castle.rpy#L1582
 translate chinese selenevisit_bbcff9a3:
 
     # mc "You don’t understand, Moxie was going through a lot."
-    mc ""
+    mc "You don’t understand, Moxie was going through a lot."
 
 # game/castle.rpy#L1584
 translate chinese selenevisit_79e6875e:
 
     # penelope "Since you clearly know so much about us in the short time you’ve been here, do enlighten me."
-    penelope ""
+    penelope "Since you clearly know so much about us in the short time you’ve been here, do enlighten me."
 
 # game/castle.rpy#L1585
 translate chinese selenevisit_1ae3cb86:
 
     # mc "You told me that she felt extremely lonely, and was likely using you for comfort and intimacy, especially during the beginning of her heat."
-    mc ""
+    mc "You told me that she felt extremely lonely, and was likely using you for comfort and intimacy, especially during the beginning of her heat."
 
 # game/castle.rpy#L1587
 translate chinese selenevisit_ef86ee83:
 
     # penelope "Hmph… Well yeah…"
-    penelope ""
+    penelope "Hmph… Well yeah…"
 
 # game/castle.rpy#L1588
 translate chinese selenevisit_0678699a:
 
     # penelope "She had a hole within herself that needed to be filled, and you filled that far better than I ever could. No innuendos intended."
-    penelope ""
+    penelope "She had a hole within herself that needed to be filled, and you filled that far better than I ever could. No innuendos intended."
 
 # game/castle.rpy#L1589
 translate chinese selenevisit_e10f7bfd:
 
     # mc "It’s okay to be jealous, but you can’t let those feelings control and blind you."
-    mc ""
+    mc "It’s okay to be jealous, but you can’t let those feelings control and blind you."
 
 # game/castle.rpy#L1591
 translate chinese selenevisit_24c693e1:
 
     # penelope "Oh bother, we’ve already discussed this before, haven’t we?"
-    penelope ""
+    penelope "Oh bother, we’ve already discussed this before, haven’t we?"
 
 # game/castle.rpy#L1592
 translate chinese selenevisit_1c1a0fb3:
 
     # mc "I believe so, yeah, you know Moxie didn’t want to date you."
-    mc ""
+    mc "I believe so, yeah, you know Moxie didn’t want to date you."
 
 # game/castle.rpy#L1594
 translate chinese selenevisit_bbaae95c:
 
     # penelope "It really feels like Moxie’s misery and loneliness transferred to me instead."
-    penelope ""
+    penelope "It really feels like Moxie’s misery and loneliness transferred to me instead."
 
 # game/castle.rpy#L1595
 translate chinese selenevisit_87c27e3f:
 
     # penelope "Moxie thought she was relying on me, but in truth…"
-    penelope ""
+    penelope "Moxie thought she was relying on me, but in truth…"
 
 # game/castle.rpy#L1596
 translate chinese selenevisit_337c49be:
 
     # penelope "I was relying on her, perhaps even more."
-    penelope ""
+    penelope "I was relying on her, perhaps even more."
 
 # game/castle.rpy#L1597
 translate chinese selenevisit_a16124ee:
 
     # mc "It’s unfair to put that burden on a singular person, and it’s unfair to have those expectations of someone."
-    mc ""
+    mc "It’s unfair to put that burden on a singular person, and it’s unfair to have those expectations of someone."
 
 # game/castle.rpy#L1598
 translate chinese selenevisit_2f78378c:
 
     # mc "Especially when they may not even reciprocate your feelings."
-    mc ""
+    mc "Especially when they may not even reciprocate your feelings."
 
 # game/castle.rpy#L1600
 translate chinese selenevisit_48749ec3:
 
     # penelope "But we had so many great times together. I don’t understand why she always distanced herself from me... Mixed signals always confused me."
-    penelope ""
+    penelope "But we had so many great times together. I don’t understand why she always distanced herself from me... Mixed signals always confused me."
 
 # game/castle.rpy#L1601
 translate chinese selenevisit_c8f0179c:
 
     # penelope "How was I supposed to know how she felt? I can’t read minds."
-    penelope ""
+    penelope "How was I supposed to know how she felt? I can’t read minds."
 
 # game/castle.rpy#L1602
 translate chinese selenevisit_fa85043a:
 
     # mc "It’s not her mind you need to worry about, it’s yours"
-    mc ""
+    mc "It’s not her mind you need to worry about, it’s yours"
 
 # game/castle.rpy#L1604
 translate chinese selenevisit_17e676ab:
 
     # "Penelope’s ears perk up, she’s listening."
-    ""
+    "Penelope’s ears perk up, she’s listening."
 
 # game/castle.rpy#L1605
 translate chinese selenevisit_d30dec07:
 
     # mc "You’re letting your emotions get ahead of you and control yourself. For a moment I want you to try to consider your emotions from an outside perspective."
-    mc ""
+    mc "You’re letting your emotions get ahead of you and control yourself. For a moment I want you to try to consider your emotions from an outside perspective."
 
 # game/castle.rpy#L1607
 translate chinese selenevisit_5e605134:
 
     # penelope "My emotions are who I am, even if I try to be objective that doesn’t change that."
-    penelope ""
+    penelope "My emotions are who I am, even if I try to be objective that doesn’t change that."
 
 # game/castle.rpy#L1608
 translate chinese selenevisit_18d3babf:
 
     # mc "On the contrary, your emotions are a reaction to events. It’s definitely possible to control your reaction."
-    mc ""
+    mc "On the contrary, your emotions are a reaction to events. It’s definitely possible to control your reaction."
 
 # game/castle.rpy#L1609
 translate chinese selenevisit_42e4895f:
 
     # mc "When you see a glass of water, it can be half empty, or half full depending on whether you’re a pessimist or an optimist."
-    mc ""
+    mc "When you see a glass of water, it can be half empty, or half full depending on whether you’re a pessimist or an optimist."
 
 # game/castle.rpy#L1610
 translate chinese selenevisit_65f42f29:
 
     # penelope "I’m not following."
-    penelope ""
+    penelope "I’m not following."
 
 # game/castle.rpy#L1611
 translate chinese selenevisit_9eac5bb4:
 
     # mc "Ask yourself honestly, was Moxie’s happiness your primary goal?"
-    mc ""
+    mc "Ask yourself honestly, was Moxie’s happiness your primary goal?"
 
 # game/castle.rpy#L1612
 translate chinese selenevisit_ec17ba0f:
 
     # penelope "Umm… Of course! I worked hard to make her feel better after everything she’s been through; I was always there for her. I tried my best to please her during sex, I let her borrow books."
-    penelope ""
+    penelope "Umm… Of course! I worked hard to make her feel better after everything she’s been through; I was always there for her. I tried my best to please her during sex, I let her borrow books."
 
 # game/castle.rpy#L1613
 translate chinese selenevisit_17044d09:
 
     # mc "Despite that, Moxie has found someone else, and is now happier. If that’s what you really want, why aren’t you happy?"
-    mc ""
+    mc "Despite that, Moxie has found someone else, and is now happier. If that’s what you really want, why aren’t you happy?"
 
 # game/castle.rpy#L1615
 translate chinese selenevisit_a2a42c66:
 
     # penelope "Because… Now I’m the lonely one…"
-    penelope ""
+    penelope "Because… Now I’m the lonely one…"
 
 # game/castle.rpy#L1616
 translate chinese selenevisit_f5ec129d:
 
     # "I wait patiently, keeping eye contact with the teary-eyed mare. It’s not cold, but she’s shivering."
-    ""
+    "I wait patiently, keeping eye contact with the teary-eyed mare. It’s not cold, but she’s shivering."
 
 # game/castle.rpy#L1617
 translate chinese selenevisit_6b651fdd:
 
     # penelope "I get it…"
-    penelope ""
+    penelope "I get it…"
 
 # game/castle.rpy#L1619
 translate chinese selenevisit_a08e70a9:
 
     # "She takes a tissue from a nearby drawer and dries her tears."
-    ""
+    "She takes a tissue from a nearby drawer and dries her tears."
 
 # game/castle.rpy#L1621
 translate chinese selenevisit_52767007:
 
     # penelope "I was doing all these things for Moxie, not out of the kindness of my heart, but because I wanted love and intimacy in return."
-    penelope ""
+    penelope "I was doing all these things for Moxie, not out of the kindness of my heart, but because I wanted love and intimacy in return."
 
 # game/castle.rpy#L1622
 translate chinese selenevisit_c9fd4419:
 
     # penelope "That in itself was inherently selfish, but I was too stuck in my delusions of ‘helping’ and being a ‘good friend’."
-    penelope ""
+    penelope "That in itself was inherently selfish, but I was too stuck in my delusions of ‘helping’ and being a ‘good friend’."
 
 # game/castle.rpy#L1623
 translate chinese selenevisit_6a28df07:
 
     # penelope "If I was really a good friend, I’d be happy for her, like you said."
-    penelope ""
+    penelope "If I was really a good friend, I’d be happy for her, like you said."
 
 # game/castle.rpy#L1624
 translate chinese selenevisit_43bd7e0b:
 
     # mc "And why are you sad? If she never loved you in the first place, why are you sad now that she’s distanced herself from you?"
-    mc ""
+    mc "And why are you sad? If she never loved you in the first place, why are you sad now that she’s distanced herself from you?"
 
 # game/castle.rpy#L1626
 translate chinese selenevisit_8fb7ee87:
 
     # penelope "Hah, shit, saying it out loud makes me sound awful. I think I’m sad because I expected love and intimacy in return for everything I did."
-    penelope ""
+    penelope "Hah, shit, saying it out loud makes me sound awful. I think I’m sad because I expected love and intimacy in return for everything I did."
 
 # game/castle.rpy#L1627
 translate chinese selenevisit_b63856e4:
 
     # penelope "But, of course I don’t deserve that..."
-    penelope ""
+    penelope "But, of course I don’t deserve that..."
 
 # game/castle.rpy#L1629
 translate chinese selenevisit_f1ca7d5f:
 
     # penelope "In fact, I don’t even think I deserve to be sad over this, I feel ridiculous crying."
-    penelope ""
+    penelope "In fact, I don’t even think I deserve to be sad over this, I feel ridiculous crying."
 
 # game/castle.rpy#L1630
 translate chinese selenevisit_ce79b553:
 
     # mc "Self-awareness is the most crucial step to solving the problem."
-    mc ""
+    mc "Self-awareness is the most crucial step to solving the problem."
 
 # game/castle.rpy#L1631
 translate chinese selenevisit_c2783ea7:
 
     # mc "Can you tell me what you need to do next to completely solve this problem? You already told me once."
-    mc ""
+    mc "Can you tell me what you need to do next to completely solve this problem? You already told me once."
 
 # game/castle.rpy#L1633
 translate chinese selenevisit_98a5bd92:
 
     # penelope "Yup, I did... I put far too much pressure on Moxie, when there are so many beautiful and amazing people out there in the world that may actually reciprocate my love."
-    penelope ""
+    penelope "Yup, I did... I put far too much pressure on Moxie, when there are so many beautiful and amazing people out there in the world that may actually reciprocate my love."
 
 # game/castle.rpy#L1634
 translate chinese selenevisit_a938b339:
 
     # mc "Exactly, and you’re still friends with Moxie."
-    mc ""
+    mc "Exactly, and you’re still friends with Moxie."
 
 # game/castle.rpy#L1635
 translate chinese selenevisit_04117794:
 
     # penelope "Yeah, I think it’s time I got over myself."
-    penelope ""
+    penelope "Yeah, I think it’s time I got over myself."
 
 # game/castle.rpy#L1640
 translate chinese selenevisit_e023d9a4:
 
     # "Penelope seems a lot more awake and lively now, colour returning to the world as she yawns and stretches out."
-    ""
+    "Penelope seems a lot more awake and lively now, colour returning to the world as she yawns and stretches out."
 
 # game/castle.rpy#L1642
 translate chinese selenevisit_431313f1:
 
     # penelope "Thanks for this, [playername]. I was stuck in a strange place, and I didn’t have the id to realize it."
-    penelope ""
+    penelope "Thanks for this, [playername]. I was stuck in a strange place, and I didn’t have the id to realize it."
 
 # game/castle.rpy#L1643
 translate chinese selenevisit_91d9dca7:
 
     # mc "It’s fine, I’m partly responsible for this anyway."
-    mc ""
+    mc "It’s fine, I’m partly responsible for this anyway."
 
 # game/castle.rpy#L1645
 translate chinese selenevisit_57e5f37d:
 
     # penelope "You did nothing wrong, don’t worry about it."
-    penelope ""
+    penelope "You did nothing wrong, don’t worry about it."
 
 # game/castle.rpy#L1647
 translate chinese selenevisit_0cfeda5b:
 
     # penelope "I suppose with a clear mind, the only thing I lost is sex. I think I’ll make a visit to the brothel tonight for some much-needed relief."
-    penelope ""
+    penelope "I suppose with a clear mind, the only thing I lost is sex. I think I’ll make a visit to the brothel tonight for some much-needed relief."
 
 # game/castle.rpy#L1649
 translate chinese selenevisit_98881866:
 
     # penelope "Unless you want to try the gender-changing spell again? Heheh."
-    penelope ""
+    penelope "Unless you want to try the gender-changing spell again? Heheh."
 
 # game/castle.rpy#L1650
 translate chinese selenevisit_58f52c0b:
 
     # mc "I’d love to, but I’m afraid I have something important to do."
-    mc ""
+    mc "I’d love to, but I’m afraid I have something important to do."
 
 # game/castle.rpy#L1652
 translate chinese selenevisit_27afb2eb:
 
     # penelope "Oh? What’s that?"
-    penelope ""
+    penelope "Oh? What’s that?"
 
 # game/castle.rpy#L1653
 translate chinese selenevisit_5ed37282:
 
     # mc "Uhm, well… Can you create a portal to someone else’s dream?"
-    mc ""
+    mc "Uhm, well… Can you create a portal to someone else’s dream?"
 
 # game/castle.rpy#L1655
 translate chinese selenevisit_ffe2e03b:
 
     # penelope "Haha, that’s impossible! Unless you’re Princess Selene, unicorns can only do that if they’re already in the dream realm."
-    penelope ""
+    penelope "Haha, that’s impossible! Unless you’re Princess Selene, unicorns can only do that if they’re already in the dream realm."
 
 # game/castle.rpy#L1656
 translate chinese selenevisit_a45017e1:
 
     # mc "Yes, that’s perfect, could you make a portal to say… Honeycrisp, Butters or Lily’s dream?"
-    mc ""
+    mc "Yes, that’s perfect, could you make a portal to say… Honeycrisp, Butters or Lily’s dream?"
 
 # game/castle.rpy#L1658
 translate chinese selenevisit_15f78e25:
 
     # penelope "Wha? But we’re not…"
-    penelope ""
+    penelope "Wha? But we’re not…"
 
 # game/castle.rpy#L1660
 translate chinese selenevisit_9cc8af7c:
 
     # penelope "Well, I can try to humour you, but I doubt it’ll work."
-    penelope ""
+    penelope "Well, I can try to humour you, but I doubt it’ll work."
 
 # game/castle.rpy#L1661
 translate chinese selenevisit_d4b55db6:
 
     # "She stands up and nonchalantly zaps the corner of the room, expecting nothing."
-    ""
+    "She stands up and nonchalantly zaps the corner of the room, expecting nothing."
 
 # game/castle.rpy#L1668
 translate chinese selenevisit_7a922850:
 
     # "To her shock, but not mine, a portal does indeed form."
-    ""
+    "To her shock, but not mine, a portal does indeed form."
 
 # game/castle.rpy#L1669
 translate chinese selenevisit_0295e6a7:
 
     # mc "Thank you so much Penelope."
-    mc ""
+    mc "Thank you so much Penelope."
 
 # game/castle.rpy#L1670
 translate chinese selenevisit_176ce53e:
 
     # penelope "What the heck? I’m dreaming?"
-    penelope ""
+    penelope "What the heck? I’m dreaming?"
 
 # game/castle.rpy#L1671
 translate chinese selenevisit_283fa2e0:
 
     # mc "Yep! Thank you, I gotta go before you wake up! Have a good sleep!"
-    mc ""
+    mc "Yep! Thank you, I gotta go before you wake up! Have a good sleep!"
 
 # game/castle.rpy#L1673
 translate chinese selenevisit_d1878af5:
 
     # penelope "Wait, you have some explaining to do!"
-    penelope ""
+    penelope "Wait, you have some explaining to do!"
 
 # game/castle.rpy#L1674
 translate chinese selenevisit_b6be610a:
 
     # mc "You won’t remember this anyway!"
-    mc ""
+    mc "You won’t remember this anyway!"
 
 # game/castle.rpy#L1678
 translate chinese selenevisit_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/castle.rpy#L1679
 translate chinese selenevisit_5b57faf7:
 
     # "I take my leave and slip into the portal. Hopefully, Selene is on this side."
-    ""
+    "I take my leave and slip into the portal. Hopefully, Selene is on this side."
 
 # game/castle.rpy#L1680
 translate chinese selenevisit_d3e2d01b:
 
     # "This side of the portal is complete darkness."
-    ""
+    "This side of the portal is complete darkness."
 
 # game/castle.rpy#L1681
 translate chinese selenevisit_12b789ab:
 
     # "Judging by that and the ambient sounds I’m outside."
-    ""
+    "Judging by that and the ambient sounds I’m outside."
 
 # game/castle.rpy#L1683
 translate chinese selenevisit_838bdde8:
 
     # "It takes my eyes a few seconds to adjust, but as I look above I can see the stars and moon."
-    ""
+    "It takes my eyes a few seconds to adjust, but as I look above I can see the stars and moon."
 
 # game/castle.rpy#L1684
 translate chinese selenevisit_0e307e81:
 
     # "Gradually the light of the moon illuminates the surroundings enough for me to realize that I'm on a field."
-    ""
+    "Gradually the light of the moon illuminates the surroundings enough for me to realize that I'm on a field."
 
 # game/castle.rpy#L1685
 translate chinese selenevisit_8966b853:
 
     # "I think I'm standing in the middle of one of Honeycrisp’s farm fields."
-    ""
+    "I think I'm standing in the middle of one of Honeycrisp’s farm fields."
 
 # game/castle.rpy#L1686
 translate chinese selenevisit_2d7ff7c0:
 
     # "It’s raining too, and I’m genuinely getting wet."
-    ""
+    "It’s raining too, and I’m genuinely getting wet."
 
 # game/castle.rpy#L1687
 translate chinese selenevisit_b43daa0e:
 
     # "I walk through the soggy fields towards the farmhouse, each step is moist and unpleasant."
-    ""
+    "I walk through the soggy fields towards the farmhouse, each step is moist and unpleasant."
 
 # game/castle.rpy#L1689
 translate chinese selenevisit_57183645:
 
     # "When I reach the farmhouse and walk around it, all the windows are inexplicably barricaded, and the front door is locked."
-    ""
+    "When I reach the farmhouse and walk around it, all the windows are inexplicably barricaded, and the front door is locked."
 
 # game/castle.rpy#L1690
 translate chinese selenevisit_f36870b0:
 
     # "Seems like I’m alone out here. Dark, wet and cold."
-    ""
+    "Seems like I’m alone out here. Dark, wet and cold."
 
 # game/castle.rpy#L1691
 translate chinese selenevisit_fbdbbc38:
 
     # "At least there’s an overhang on the door preventing the rain from dropping on me."
-    ""
+    "At least there’s an overhang on the door preventing the rain from dropping on me."
 
 # game/castle.rpy#L1692
 translate chinese selenevisit_3027d20a:
 
     # "The farm looks abandoned, perhaps this is Honeycrisp’s fear of failure taken to its extreme."
-    ""
+    "The farm looks abandoned, perhaps this is Honeycrisp’s fear of failure taken to its extreme."
 
 # game/castle.rpy#L1693
 translate chinese selenevisit_67023944:
 
     # "I wish Selene was here, this situation is starting to get stressful."
-    ""
+    "I wish Selene was here, this situation is starting to get stressful."
 
 # game/castle.rpy#L1694
 translate chinese selenevisit_7d112edc:
 
     # "Honeycrisp must be around somewhere, there’s no dream without an occupant."
-    ""
+    "Honeycrisp must be around somewhere, there’s no dream without an occupant."
 
 # game/castle.rpy#L1695
 translate chinese selenevisit_7b2ac0f5:
 
     # "I close my eyes and try to listen as hard as I can through the constant pitter-patter of the the rain."
-    ""
+    "I close my eyes and try to listen as hard as I can through the constant pitter-patter of the the rain."
 
 # game/castle.rpy#L1696
 translate chinese selenevisit_5b6d6063:
 
     # "There’s faint conversation near me, I had suspected as much. Someone’s in this boarded up farmhouse."
-    ""
+    "There’s faint conversation near me, I had suspected as much. Someone’s in this boarded up farmhouse."
 
 # game/castle.rpy#L1697
 translate chinese selenevisit_12f303fe:
 
     # "I knock on the door, pounding rather loudly on the wooden boards."
-    ""
+    "I knock on the door, pounding rather loudly on the wooden boards."
 
 # game/castle.rpy#L1698
 translate chinese selenevisit_eae6c9a7:
 
     # "There’s no response, but there is a small scuffle on the inside."
-    ""
+    "There’s no response, but there is a small scuffle on the inside."
 
 # game/castle.rpy#L1700
 translate chinese selenevisit_0078e808:
 
     # honeycrisp "Well I’ll be… It’s [playername]! Let him in, quick!"
-    honeycrisp ""
+    honeycrisp "Well I’ll be… It’s [playername]! Let him in, quick!"
 
 # game/castle.rpy#L1702
 translate chinese selenevisit_a8e66917:
 
     # honeycrisp "Well I'll be... It's a male survivor! Let him in, quick!"
-    honeycrisp ""
+    honeycrisp "Well I'll be... It's a male survivor! Let him in, quick!"
 
 # game/castle.rpy#L1706
 translate chinese selenevisit_5d99ae52:
 
     # "The door is gently opened a quarter of the way and I shimmy through the gap as it’s quickly shut and shackled behind me by a flustered orange mare."
-    ""
+    "The door is gently opened a quarter of the way and I shimmy through the gap as it’s quickly shut and shackled behind me by a flustered orange mare."
 
 # game/castle.rpy#L1708
 translate chinese selenevisit_3cb84085:
 
     # "The door is gently opened a quarter of the way and I shimmy through the gap as it’s quickly shut and shackled behind me by a flustered Blossom."
-    ""
+    "The door is gently opened a quarter of the way and I shimmy through the gap as it’s quickly shut and shackled behind me by a flustered Blossom."
 
 # game/castle.rpy#L1711
 translate chinese selenevisit_743bcf91:
 
     # "A wary yellow mare walks up towards me, and she’s holding a menacing looking shotgun."
-    ""
+    "A wary yellow mare walks up towards me, and she’s holding a menacing looking shotgun."
 
 # game/castle.rpy#L1712
 translate chinese selenevisit_751c80b0:
 
     # "This is Honeycrisp, right? This must be her nightmare."
-    ""
+    "This is Honeycrisp, right? This must be her nightmare."
 
 # game/castle.rpy#L1714
 translate chinese selenevisit_186b4362:
 
     # "A wary Honeycrisp walks up towards me, and she’s holding a menacing looking shotgun too."
-    ""
+    "A wary Honeycrisp walks up towards me, and she’s holding a menacing looking shotgun too."
 
 # game/castle.rpy#L1715
 translate chinese selenevisit_1968f3cb:
 
     # "What the hell is going on?"
-    ""
+    "What the hell is going on?"
 
 # game/castle.rpy#L1717
 translate chinese selenevisit_f890837c:
 
     # honeycrisp "A man! You must be one of the tough ones if you managed to escape those walkers, let alone the chaos in Arcadia..."
-    honeycrisp ""
+    honeycrisp "A man! You must be one of the tough ones if you managed to escape those walkers, let alone the chaos in Arcadia..."
 
 # game/castle.rpy#L1719
 translate chinese selenevisit_bc0789e1:
 
     # honeycrisp "Glad you’re not another one of those walkers stud, I knew you’d be one of the tough ones that managed to escape the chaos in Arcadia."
-    honeycrisp ""
+    honeycrisp "Glad you’re not another one of those walkers stud, I knew you’d be one of the tough ones that managed to escape the chaos in Arcadia."
 
 # game/castle.rpy#L1720
 translate chinese selenevisit_3d996037:
 
     # mc "What are you talking about?"
-    mc ""
+    mc "What are you talking about?"
 
 # game/castle.rpy#L1722
 translate chinese selenevisit_a0b7c6d1:
 
     # honeycrisp "Heh, y’all could have run anywhere, but ya came straight to the farm."
-    honeycrisp ""
+    honeycrisp "Heh, y’all could have run anywhere, but ya came straight to the farm."
 
 # game/castle.rpy#L1724
 translate chinese selenevisit_3419c696:
 
     # honeycrisp "Probably thinkin’ that me and Blossom would be out here kickin’ ass. I must admit, I’m flattered."
-    honeycrisp ""
+    honeycrisp "Probably thinkin’ that me and Blossom would be out here kickin’ ass. I must admit, I’m flattered."
 
 # game/castle.rpy#L1727
 translate chinese selenevisit_1c49590f:
 
     # blossom "Yeah! Super awesome that you stumbled your way in here, I was worried those zombie numbskulls would have gotten all the men."
-    blossom ""
+    blossom "Yeah! Super awesome that you stumbled your way in here, I was worried those zombie numbskulls would have gotten all the men."
 
 # game/castle.rpy#L1729
 translate chinese selenevisit_543a0698:
 
     # blossom "Yeah! Super awesome that you’re here, I was worried those zombie numbskulls would have gotten to you too."
-    blossom ""
+    blossom "Yeah! Super awesome that you’re here, I was worried those zombie numbskulls would have gotten to you too."
 
 # game/castle.rpy#L1730
 translate chinese selenevisit_0cca7ac8:
 
     # mc "Zombies… A zombie apocalypse, out there?"
-    mc ""
+    mc "Zombies… A zombie apocalypse, out there?"
 
 # game/castle.rpy#L1733
 translate chinese selenevisit_df6d9953:
 
     # "I peek through a gap in the wooden barricade into the dark night, and I do indeed see swathes of stumbling pony zombies steadily shambling and shaking."
-    ""
+    "I peek through a gap in the wooden barricade into the dark night, and I do indeed see swathes of stumbling pony zombies steadily shambling and shaking."
 
 # game/castle.rpy#L1734
 translate chinese selenevisit_cbacaf9b:
 
     # "Those were out there with me? This nightmare is even more dangerous than Moxie’s!"
-    ""
+    "Those were out there with me? This nightmare is even more dangerous than Moxie’s!"
 
 # game/castle.rpy#L1735
 translate chinese selenevisit_a71b9f67:
 
     # "But… I’m pretty sure I didn’t see any zombies outside… They must have just been manifested by Honeycrisp."
-    ""
+    "But… I’m pretty sure I didn’t see any zombies outside… They must have just been manifested by Honeycrisp."
 
 # game/castle.rpy#L1738
 translate chinese selenevisit_48f2fc5f:
 
     # honeycrisp "It was chaos, one of those Goddesses turned evil, before anyone knew it, all unicorns turned into zombie-like slaves and started to eat the brains of others."
-    honeycrisp ""
+    honeycrisp "It was chaos, one of those Goddesses turned evil, before anyone knew it, all unicorns turned into zombie-like slaves and started to eat the brains of others."
 
 # game/castle.rpy#L1739
 translate chinese selenevisit_17953516:
 
     # "Ugh, why is this her nightmare? I suppose it makes sense if Honey is a god-fearing pony, but how am I supposed to resolve such a ridiculous nightmare?"
-    ""
+    "Ugh, why is this her nightmare? I suppose it makes sense if Honey is a god-fearing pony, but how am I supposed to resolve such a ridiculous nightmare?"
 
 # game/castle.rpy#L1740
 translate chinese selenevisit_494d250b:
 
     # "Selene would be a perfect fit to fix this nightmare."
-    ""
+    "Selene would be a perfect fit to fix this nightmare."
 
 # game/castle.rpy#L1742
 translate chinese selenevisit_3ca43012:
 
     # blossom "Gosh, Sis, some of them are coming this way!"
-    blossom ""
+    blossom "Gosh, Sis, some of them are coming this way!"
 
 # game/castle.rpy#L1744
 translate chinese selenevisit_66fa86ae:
 
     # honeycrisp "Argh damnit, maybe they heard us open the door."
-    honeycrisp ""
+    honeycrisp "Argh damnit, maybe they heard us open the door."
 
 # game/castle.rpy#L1745
 translate chinese selenevisit_ebe60308:
 
     # mc "Sorry, I might have led them here."
-    mc ""
+    mc "Sorry, I might have led them here."
 
 # game/castle.rpy#L1746
 translate chinese selenevisit_73fffdbd:
 
     # honeycrisp "Not your fault stud."
-    honeycrisp ""
+    honeycrisp "Not your fault stud."
 
 # game/castle.rpy#L1747
 translate chinese selenevisit_b21df540:
 
     # honeycrisp "I’d probably go insane in a zombie apocalypse without some good dick, so you were worth the risk."
-    honeycrisp ""
+    honeycrisp "I’d probably go insane in a zombie apocalypse without some good dick, so you were worth the risk."
 
 # game/castle.rpy#L1749
 translate chinese selenevisit_ea43170a:
 
     # blossom "Sis, that’s too vulgar!"
-    blossom ""
+    blossom "Sis, that’s too vulgar!"
 
 # game/castle.rpy#L1751
 translate chinese selenevisit_b6258abc:
 
     # honeycrisp "Different world, different rules, Blossom, we’re gonna stake it out in this zombie apocalypse and we’ll have to share the man."
-    honeycrisp ""
+    honeycrisp "Different world, different rules, Blossom, we’re gonna stake it out in this zombie apocalypse and we’ll have to share the man."
 
 # game/castle.rpy#L1752
 translate chinese selenevisit_cc419e72:
 
     # "This may be a nightmare for her, but it's starting to sound like a dream to me."
-    ""
+    "This may be a nightmare for her, but it's starting to sound like a dream to me."
 
 # game/castle.rpy#L1754
 translate chinese selenevisit_418bf884:
 
     # honeycrisp "Different world, different rules, Blossom, we’re gonna stake it out in this zombie apocalypse and we’ll have to share [playername]."
-    honeycrisp ""
+    honeycrisp "Different world, different rules, Blossom, we’re gonna stake it out in this zombie apocalypse and we’ll have to share [playername]."
 
 # game/castle.rpy#L1755
 translate chinese selenevisit_ab838816:
 
     # "Jesus Christ, did she really just say that?"
-    ""
+    "Jesus Christ, did she really just say that?"
 
 # game/castle.rpy#L1757
 translate chinese selenevisit_386c663c:
 
     # "Honey cocks her shotgun and squints through the boards."
-    ""
+    "Honey cocks her shotgun and squints through the boards."
 
 # game/castle.rpy#L1762
 translate chinese selenevisit_577e0bf9:
 
     # "Blossom sidles up next to me and goes to whisper something into my ear..."
-    ""
+    "Blossom sidles up next to me and goes to whisper something into my ear..."
 
 # game/castle.rpy#L1763
 translate chinese selenevisit_8d26952d:
 
     # "Although…"
-    ""
+    "Although…"
 
 # game/castle.rpy#L1764
 translate chinese selenevisit_568bdcd9:
 
     # blossom "…"
-    blossom ""
+    blossom "…"
 
 # game/castle.rpy#L1765
 translate chinese selenevisit_9fc65794:
 
     # "No words come out, complete silence. It’s eerie."
-    ""
+    "No words come out, complete silence. It’s eerie."
 
 # game/castle.rpy#L1766
 translate chinese selenevisit_3d4d89b8:
 
     # mc "Pardon? I’m not hearing you, Blossom."
-    mc ""
+    mc "Pardon? I’m not hearing you, Blossom."
 
 # game/castle.rpy#L1767
 translate chinese selenevisit_568bdcd9_1:
 
     # blossom "…"
-    blossom ""
+    blossom "…"
 
 # game/castle.rpy#L1768
 translate chinese selenevisit_e3abd214:
 
     # "Is she a zombie?!"
-    ""
+    "Is she a zombie?!"
 
 # game/castle.rpy#L1769
 translate chinese selenevisit_5e6337a1:
 
     # mc "Uhm… Blossom?"
-    mc ""
+    mc "Uhm… Blossom?"
 
 # game/castle.rpy#L1776
 translate chinese selenevisit_eb394539:
 
     # selene "It’s because she’s not the real Blossom, only a subject of the dreamer, hence she can only have real interactions with the dreamer."
-    selene ""
+    selene "It’s because she’s not the real Blossom, only a subject of the dreamer, hence she can only have real interactions with the dreamer."
 
 # game/castle.rpy#L1777
 translate chinese selenevisit_44693bc3:
 
     # mc "Selene! Finally!"
-    mc ""
+    mc "Selene! Finally!"
 
 # game/castle.rpy#L1779
 translate chinese selenevisit_86d3cde0:
 
     # "Selene leans smugly at the door before graciously moving towards me and patting me on the head."
-    ""
+    "Selene leans smugly at the door before graciously moving towards me and patting me on the head."
 
 # game/castle.rpy#L1781
 translate chinese selenevisit_77a5f389:
 
     # selene "You gave me quite the fright mister. When I yelled ‘wait’, I was talking to you!"
-    selene ""
+    selene "You gave me quite the fright mister. When I yelled ‘wait’, I was talking to you!"
 
 # game/castle.rpy#L1782
 translate chinese selenevisit_82baa9b5:
 
     # mc "Goodness Selene, I’m so glad you’re here, I already sorted out Penelope’s nightmare, but this one is impossible!"
-    mc ""
+    mc "Goodness Selene, I’m so glad you’re here, I already sorted out Penelope’s nightmare, but this one is impossible!"
 
 # game/castle.rpy#L1783
 translate chinese selenevisit_8837ae13:
 
     # selene "And I believe I soothed the nightmare of Lily while trying to find you."
-    selene ""
+    selene "And I believe I soothed the nightmare of Lily while trying to find you."
 
 # game/castle.rpy#L1785
 translate chinese selenevisit_68c48569:
 
     # selene "To think I was a few meters off from Penelope and finding you. I’m so sorry young one, I’ll make it up to you when this is all over."
-    selene ""
+    selene "To think I was a few meters off from Penelope and finding you. I’m so sorry young one, I’ll make it up to you when this is all over."
 
 # game/castle.rpy#L1790
 translate chinese selenevisit_1d7e55bb:
 
     # honeycrisp "Wot in tarnation is this! It’s the evil goddess!"
-    honeycrisp ""
+    honeycrisp "Wot in tarnation is this! It’s the evil goddess!"
 
 # game/castle.rpy#L1792
 translate chinese selenevisit_59629152:
 
     # selene "Ohoh, evil? No, my dear, there is no evil goddess."
-    selene ""
+    selene "Ohoh, evil? No, my dear, there is no evil goddess."
 
 # game/castle.rpy#L1793
 translate chinese selenevisit_780ac49e:
 
     # honeycrisp "Well if there is no evil goddess, then how do you explain all those zombies out there?"
-    honeycrisp ""
+    honeycrisp "Well if there is no evil goddess, then how do you explain all those zombies out there?"
 
 # game/castle.rpy#L1795
 translate chinese selenevisit_6f6b90fb:
 
     # selene "Those look like zombies to you? That’s a rude thing to call your customers."
-    selene ""
+    selene "Those look like zombies to you? That’s a rude thing to call your customers."
 
 # game/castle.rpy#L1797
 translate chinese selenevisit_4485a741:
 
     # honeycrisp "C-Custom... What kinda hijinx is this?"
-    honeycrisp ""
+    honeycrisp "C-Custom... What kinda hijinx is this?"
 
 # game/castle.rpy#L1798
 translate chinese selenevisit_b9406972:
 
     # selene "I’m serious, look outside, they’re just drunk ponies looking to buy cider."
-    selene ""
+    selene "I’m serious, look outside, they’re just drunk ponies looking to buy cider."
 
 # game/castle.rpy#L1799
 translate chinese selenevisit_bf95a798:
 
     # honeycrisp "If this is one of your evil tricks, I-I’ll..."
-    honeycrisp ""
+    honeycrisp "If this is one of your evil tricks, I-I’ll..."
 
 # game/castle.rpy#L1802
 translate chinese selenevisit_186c97d0:
 
     # "As Honey peers outside. Fascinatingly, the zombies are indeed friendly drunks that want to buy cider."
-    ""
+    "As Honey peers outside. Fascinatingly, the zombies are indeed friendly drunks that want to buy cider."
 
 # game/castle.rpy#L1806
 translate chinese selenevisit_e09a0c31:
 
     # honeycrisp "Well I’ll be, customers! Blossom go get a barrel of the good stuff; we got some selling to do."
-    honeycrisp ""
+    honeycrisp "Well I’ll be, customers! Blossom go get a barrel of the good stuff; we got some selling to do."
 
 # game/castle.rpy#L1809
 translate chinese selenevisit_d4fc2078:
 
     # "With that succinctly sorted, Selene takes me to the side to talk to me privately."
-    ""
+    "With that succinctly sorted, Selene takes me to the side to talk to me privately."
 
 # game/castle.rpy#L1810
 translate chinese selenevisit_6cb24fbb:
 
     # mc "How did you do that? That was incredible, you’re a life saver!"
-    mc ""
+    mc "How did you do that? That was incredible, you’re a life saver!"
 
 # game/castle.rpy#L1812
 translate chinese selenevisit_8f8d1b16:
 
     # selene "Hehe, you learn a few tricks in your time, especially effective on highly impressionable dreamers."
-    selene ""
+    selene "Hehe, you learn a few tricks in your time, especially effective on highly impressionable dreamers."
 
 # game/castle.rpy#L1814
 translate chinese selenevisit_8d0a462d:
 
     # selene "Dreams are malleable, all you need to do is plant the seed in someone’s mind and they’ll do the heavy lifting."
-    selene ""
+    selene "Dreams are malleable, all you need to do is plant the seed in someone’s mind and they’ll do the heavy lifting."
 
 # game/castle.rpy#L1815
 translate chinese selenevisit_ff001454:
 
     # mc "Ah ha ha! I’d call you a genius, but I’d feel strange to flatter a goddess."
-    mc ""
+    mc "Ah ha ha! I’d call you a genius, but I’d feel strange to flatter a goddess."
 
 # game/castle.rpy#L1816
 translate chinese selenevisit_34255734:
 
     # selene "The sweet nectar of compliments keeps a hag like me going."
-    selene ""
+    selene "The sweet nectar of compliments keeps a hag like me going."
 
 # game/castle.rpy#L1818
 translate chinese selenevisit_eaacd4f8:
 
     # selene "When you called me a genius, I still felt a tinge of happiness deep inside."
-    selene ""
+    selene "When you called me a genius, I still felt a tinge of happiness deep inside."
 
 # game/castle.rpy#L1819
 translate chinese selenevisit_6b1f6f4f:
 
     # mc "And here was me trying to be subtle and understated with my compliments in an attempt to seem formal."
-    mc ""
+    mc "And here was me trying to be subtle and understated with my compliments in an attempt to seem formal."
 
 # game/castle.rpy#L1821
 translate chinese selenevisit_d5d2dc43:
 
     # selene "Bless you, you don’t need to be formal with me, that’s how you behave around my sister."
-    selene ""
+    selene "Bless you, you don’t need to be formal with me, that’s how you behave around my sister."
 
 # game/castle.rpy#L1822
 translate chinese selenevisit_c44cd732:
 
     # selene "With me, you let loose, I’m the ‘cool’ royal sister, hehe."
-    selene ""
+    selene "With me, you let loose, I’m the ‘cool’ royal sister, hehe."
 
 # game/castle.rpy#L1823
 translate chinese selenevisit_a5dad0fa:
 
     # selene "Or if you get to know me really well, I'm the 'after dark' royal sister, hehehe."
-    selene ""
+    selene "Or if you get to know me really well, I'm the 'after dark' royal sister, hehehe."
 
 # game/castle.rpy#L1824
 translate chinese selenevisit_1b54d239:
 
     # mc "You two are goddesses, right? I don’t understand your powers, but it feels like you could have done this all by yourself."
-    mc ""
+    mc "You two are goddesses, right? I don’t understand your powers, but it feels like you could have done this all by yourself."
 
 # game/castle.rpy#L1825
 translate chinese selenevisit_734033a3:
 
     # selene "Ahh, a goddess I may be, but I have a soft spot for these girls."
-    selene ""
+    selene "Ahh, a goddess I may be, but I have a soft spot for these girls."
 
 # game/castle.rpy#L1826
 translate chinese selenevisit_8f9fa3f0:
 
     # selene "I wanted to bring you along to end their nightmares, even if we caught the culprit the nightmares would have persisted."
-    selene ""
+    selene "I wanted to bring you along to end their nightmares, even if we caught the culprit the nightmares would have persisted."
 
 # game/castle.rpy#L1827
 translate chinese selenevisit_89a90e73:
 
     # mc "I’m sorry if that seems pushy, but I feel like you’re hiding something... I think you could have ended all these nightmares by yourself. If you’re the cool sister, you don’t mind if I pry, do you?"
-    mc ""
+    mc "I’m sorry if that seems pushy, but I feel like you’re hiding something... I think you could have ended all these nightmares by yourself. If you’re the cool sister, you don’t mind if I pry, do you?"
 
 # game/castle.rpy#L1829
 translate chinese selenevisit_7bdc9a91:
 
     # selene "Hehehe, you’re too intelligent for your own good."
-    selene ""
+    selene "Hehehe, you’re too intelligent for your own good."
 
 # game/castle.rpy#L1831
 translate chinese selenevisit_d124c030:
 
     # selene "You know [playername], it’s rather refreshing to have someone talk to me like I’m an equal."
-    selene ""
+    selene "You know [playername], it’s rather refreshing to have someone talk to me like I’m an equal."
 
 # game/castle.rpy#L1833
 translate chinese selenevisit_9398fbff:
 
     # selene "I only get that playful attitude from my sister, everyone else seems terrified and guarded around me."
-    selene ""
+    selene "I only get that playful attitude from my sister, everyone else seems terrified and guarded around me."
 
 # game/castle.rpy#L1837
 translate chinese selenevisit_15043203:
 
     # selene "That’s the impression I got, you have no frame of reference when everyone is new and strange to you."
-    selene ""
+    selene "That’s the impression I got, you have no frame of reference when everyone is new and strange to you."
 
 # game/castle.rpy#L1840
 translate chinese selenevisit_395782e0:
 
     # selene "Ahaha, I’ll put you on my list little boy."
-    selene ""
+    selene "Ahaha, I’ll put you on my list little boy."
 
 # game/castle.rpy#L1843
 translate chinese selenevisit_f8ab52c2:
 
     # selene "I think it’s time to show you my ulterior motive, it’s time to visit the last nightmare."
-    selene ""
+    selene "I think it’s time to show you my ulterior motive, it’s time to visit the last nightmare."
 
 # game/castle.rpy#L1847
 translate chinese selenevisit_2468d988:
 
     # "With a snap of the fingers the surroundings turn black before dissipating in a wave of smoke leaving us in…"
-    ""
+    "With a snap of the fingers the surroundings turn black before dissipating in a wave of smoke leaving us in…"
 
 # game/castle.rpy#L1849
 translate chinese selenevisit_c7a1ea76:
 
     # "Butters’s cottage. What does Butters have to do with Selene’s motive?"
-    ""
+    "Butters’s cottage. What does Butters have to do with Selene’s motive?"
 
 # game/castle.rpy#L1850
 translate chinese selenevisit_aa50d594:
 
     # mc "Ah- you’re…"
-    mc ""
+    mc "Ah- you’re…"
 
 # game/castle.rpy#L1852
 translate chinese selenevisit_1ce6925d:
 
     # unknown "Uuu, you two are persistent."
-    unknown ""
+    unknown "Uuu, you two are persistent."
 
 # game/castle.rpy#L1854
 translate chinese selenevisit_1a6e4ec8:
 
     # selene "You don’t need to run anymore. It’s okay, Butters."
-    selene ""
+    selene "You don’t need to run anymore. It’s okay, Butters."
 
 # game/castle.rpy#L1855
 translate chinese selenevisit_20df765f:
 
     # "The robed figure who is quaking in place, finally drops the robes from her body, revealing the innocent(?) Butters."
-    ""
+    "The robed figure who is quaking in place, finally drops the robes from her body, revealing the innocent(?) Butters."
 
 # game/castle.rpy#L1858
 translate chinese selenevisit_eec92062:
 
     # butters "Um, I’m sorry, I tried my best..."
-    butters ""
+    butters "Um, I’m sorry, I tried my best..."
 
 # game/castle.rpy#L1859
 translate chinese selenevisit_bc120cb9:
 
     # mc "So you were the culprit? I suppose that makes sense, but why?"
-    mc ""
+    mc "So you were the culprit? I suppose that makes sense, but why?"
 
 # game/castle.rpy#L1861
 translate chinese selenevisit_3cc47d41:
 
     # butters "It wasn’t my fault; I couldn’t stop it."
-    butters ""
+    butters "It wasn’t my fault; I couldn’t stop it."
 
 # game/castle.rpy#L1862
 translate chinese selenevisit_81ad94f0:
 
     # selene "I knew it. The relic I gave you, it’s emanating dark energy."
-    selene ""
+    selene "I knew it. The relic I gave you, it’s emanating dark energy."
 
 # game/castle.rpy#L1863
 translate chinese selenevisit_c795c53f:
 
     # mc "The relic that captures unicorn dust?"
-    mc ""
+    mc "The relic that captures unicorn dust?"
 
 # game/castle.rpy#L1865
 translate chinese selenevisit_bdb16708:
 
     # selene "Hah, I don’t know how you do it [playername], but you have a way to make people tell you anything."
-    selene ""
+    selene "Hah, I don’t know how you do it [playername], but you have a way to make people tell you anything."
 
 # game/castle.rpy#L1867
 translate chinese selenevisit_67669a95:
 
     # selene "You know that was supposed to be a secret, Butters."
-    selene ""
+    selene "You know that was supposed to be a secret, Butters."
 
 # game/castle.rpy#L1868
 translate chinese selenevisit_5b2060d6:
 
     # mc "Wait, you two know each other?"
-    mc ""
+    mc "Wait, you two know each other?"
 
 # game/castle.rpy#L1870
 translate chinese selenevisit_a0dade36:
 
     # butters "Mmhm…"
-    butters ""
+    butters "Mmhm…"
 
 # game/castle.rpy#L1872
 translate chinese selenevisit_905e4012:
 
     # selene "Butters and I were acquainted once, I often deal with problems of the magical variety within society, and therefore her succubuification was under my jurisdiction."
-    selene ""
+    selene "Butters and I were acquainted once, I often deal with problems of the magical variety within society, and therefore her succubuification was under my jurisdiction."
 
 # game/castle.rpy#L1873
 translate chinese selenevisit_7204f017:
 
     # selene "I unfortunately didn’t have a cure, but I helped Butters as much as I could and gave her this relic."
-    selene ""
+    selene "I unfortunately didn’t have a cure, but I helped Butters as much as I could and gave her this relic."
 
 # game/castle.rpy#L1874
 translate chinese selenevisit_acb63e91:
 
     # mc "What’s so special about this relic?"
-    mc ""
+    mc "What’s so special about this relic?"
 
 # game/castle.rpy#L1876
 translate chinese selenevisit_bdebf977:
 
     # selene "It absorbs the energy from sleeping ponies, specifically their dreams. When used on unicorns, it can collect a small amount of unicorn dust."
-    selene ""
+    selene "It absorbs the energy from sleeping ponies, specifically their dreams. When used on unicorns, it can collect a small amount of unicorn dust."
 
 # game/castle.rpy#L1877
 translate chinese selenevisit_447edd1b:
 
     # mc "Ahah, and this thing has been causing nightmares…"
-    mc ""
+    mc "Ahah, and this thing has been causing nightmares…"
 
 # game/castle.rpy#L1879
 translate chinese selenevisit_498573d0:
 
     # selene "Oh, by the way Butters, congratulations on finally curing your curse."
-    selene ""
+    selene "Oh, by the way Butters, congratulations on finally curing your curse."
 
 # game/castle.rpy#L1881
 translate chinese selenevisit_3d0efa32:
 
     # butters "Thank you Miss, [playername] helped me lots."
-    butters ""
+    butters "Thank you Miss, [playername] helped me lots."
 
 # game/castle.rpy#L1882
 translate chinese selenevisit_c6810261:
 
     # mc "Oh no, no, I was just a lackey that helped you fetch some ingredients, and it’s debatable whether I helped at all. It’s just a coincidence that I was there, the curing was all you Butters."
-    mc ""
+    mc "Oh no, no, I was just a lackey that helped you fetch some ingredients, and it’s debatable whether I helped at all. It’s just a coincidence that I was there, the curing was all you Butters."
 
 # game/castle.rpy#L1883
 translate chinese selenevisit_068e53e5:
 
     # mc "I’ll congratulate you too on the peak of years of work, I don’t think I fully appreciated how much you fought for that at the time."
-    mc ""
+    mc "I’ll congratulate you too on the peak of years of work, I don’t think I fully appreciated how much you fought for that at the time."
 
 # game/castle.rpy#L1885
 translate chinese selenevisit_8afcb860:
 
     # butters "Oh gosh, thank you two so much. I don’t know what to say, it’s overwhelming being congratulated by the Princess."
-    butters ""
+    butters "Oh gosh, thank you two so much. I don’t know what to say, it’s overwhelming being congratulated by the Princess."
 
 # game/castle.rpy#L1887
 translate chinese selenevisit_26110a38:
 
     # butters "Oh, but, the nightmares! I think that’s my fault!"
-    butters ""
+    butters "Oh, but, the nightmares! I think that’s my fault!"
 
 # game/castle.rpy#L1889
 translate chinese selenevisit_f609d912:
 
     # selene "Well you see, I’ve been debating the source of the nightmares all night, it’s either the relic, or it’s [playername]."
-    selene ""
+    selene "Well you see, I’ve been debating the source of the nightmares all night, it’s either the relic, or it’s [playername]."
 
 # game/castle.rpy#L1890
 translate chinese selenevisit_f85b10a4:
 
     # mc "Surely it’s just the relic, right?"
-    mc ""
+    mc "Surely it’s just the relic, right?"
 
 # game/castle.rpy#L1892
 translate chinese selenevisit_0766e5ac:
 
     # selene "Yeah, it may seem fairly conclusive based on all the evidence, but I need to comb over every detail to ensure the problem is fully uprooted."
-    selene ""
+    selene "Yeah, it may seem fairly conclusive based on all the evidence, but I need to comb over every detail to ensure the problem is fully uprooted."
 
 # game/castle.rpy#L1894
 translate chinese selenevisit_560aca1d:
 
     # selene "I mentioned this earlier, but these nightmares have only been occurring among your friends, but specifically, not you."
-    selene ""
+    selene "I mentioned this earlier, but these nightmares have only been occurring among your friends, but specifically, not you."
 
 # game/castle.rpy#L1895
 translate chinese selenevisit_ae96dc92:
 
     # mc "Ahh, is there something wrong with me?"
-    mc ""
+    mc "Ahh, is there something wrong with me?"
 
 # game/castle.rpy#L1897
 translate chinese selenevisit_ad944daa:
 
     # selene "I’m not sure, I feel like I can be honest with you, but I brought you along so I could pay attention to you and how you interacted with the magical energies."
-    selene ""
+    selene "I’m not sure, I feel like I can be honest with you, but I brought you along so I could pay attention to you and how you interacted with the magical energies."
 
 # game/castle.rpy#L1898
 translate chinese selenevisit_79673561:
 
     # mc "Ah, so that was your ulterior motive. That’s not as exciting as I expected, but it’s understandable."
-    mc ""
+    mc "Ah, so that was your ulterior motive. That’s not as exciting as I expected, but it’s understandable."
 
 # game/castle.rpy#L1900
 translate chinese selenevisit_c4cf6a61:
 
     # selene "I guess I wanted to spend some time with you too, if that helps sate your craving for excitement."
-    selene ""
+    selene "I guess I wanted to spend some time with you too, if that helps sate your craving for excitement."
 
 # game/castle.rpy#L1902
 translate chinese selenevisit_2e8125d4:
 
     # butters "What about me Miss? I also see those people semi-frequently."
-    butters ""
+    butters "What about me Miss? I also see those people semi-frequently."
 
 # game/castle.rpy#L1904
 translate chinese selenevisit_726a7347:
 
     # "Selene takes an unusually long time to reply, but she appears to be deep in thought causing both Butters and I to hang in anticipation for her next word."
-    ""
+    "Selene takes an unusually long time to reply, but she appears to be deep in thought causing both Butters and I to hang in anticipation for her next word."
 
 # game/castle.rpy#L1906
 translate chinese selenevisit_619017b4:
 
     # selene "I’ve deduced that the anti-evil potion you created isn't making the negative energy dissipate, it's just releasing it into the wind."
-    selene ""
+    selene "I’ve deduced that the anti-evil potion you created isn't making the negative energy dissipate, it's just releasing it into the wind."
 
 # game/castle.rpy#L1907
 translate chinese selenevisit_f57b6e92:
 
     # selene "Causing a constant release of negative energy that the relic has collected, and also directly afflicting the people you spend the most time with."
-    selene ""
+    selene "Causing a constant release of negative energy that the relic has collected, and also directly afflicting the people you spend the most time with."
 
 # game/castle.rpy#L1908
 translate chinese selenevisit_dee738e7:
 
     # selene "It's a double threat, in other words you’re sending bad vibes to your friends in person and in dreams."
-    selene ""
+    selene "It's a double threat, in other words you’re sending bad vibes to your friends in person and in dreams."
 
 # game/castle.rpy#L1909
 translate chinese selenevisit_03f01039:
 
     # selene "It doesn't seem to have had any effect on [playername] because he's recently been in contact with a Dewblossom."
-    selene ""
+    selene "It doesn't seem to have had any effect on [playername] because he's recently been in contact with a Dewblossom."
 
 # game/castle.rpy#L1910
 translate chinese selenevisit_2a7f396d:
 
     # butters "Oh no, I thought I was finally free, but I’m still a freak…"
-    butters ""
+    butters "Oh no, I thought I was finally free, but I’m still a freak…"
 
 # game/castle.rpy#L1912
 translate chinese selenevisit_1f602cd9:
 
     # selene "Don’t worry, hehe. Now that I’ve finally figured it out, and tracked you down, I’m here to remedy the issue."
-    selene ""
+    selene "Don’t worry, hehe. Now that I’ve finally figured it out, and tracked you down, I’m here to remedy the issue."
 
 # game/castle.rpy#L1913
 translate chinese selenevisit_b8c2d399:
 
     # selene "I’ll just absorb the excess bad energy for you, so there will be no further adverse effects."
-    selene ""
+    selene "I’ll just absorb the excess bad energy for you, so there will be no further adverse effects."
 
 # game/castle.rpy#L1916
 translate chinese selenevisit_c85771d9:
 
     # "Selene’s horn burns alight with a magical energy that seems to absorb Butters’s very being, although the magic may be casted in the dream world, due to Selene’s unique abilities it’s also affecting Butters in the real world."
-    ""
+    "Selene’s horn burns alight with a magical energy that seems to absorb Butters’s very being, although the magic may be casted in the dream world, due to Selene’s unique abilities it’s also affecting Butters in the real world."
 
 # game/castle.rpy#L1917
 translate chinese selenevisit_a3adf318:
 
     # mc "Won’t that affect you Selene? Don’t you get nightmares too?"
-    mc ""
+    mc "Won’t that affect you Selene? Don’t you get nightmares too?"
 
 # game/castle.rpy#L1919
 translate chinese selenevisit_c7a1ae18:
 
     # selene "Fortunately not, I find myself absorbing negative energy from magic and nightmares quite often and there have been no consequences as of yet."
-    selene ""
+    selene "Fortunately not, I find myself absorbing negative energy from magic and nightmares quite often and there have been no consequences as of yet."
 
 # game/castle.rpy#L1920
 translate chinese selenevisit_94d49ac2:
 
     # selene "Although if I ever turn evil my sister promises to banish me to the moon, hah! As if that’ll happen."
-    selene ""
+    selene "Although if I ever turn evil my sister promises to banish me to the moon, hah! As if that’ll happen."
 
 # game/castle.rpy#L1922
 translate chinese selenevisit_ae114970:
 
     # butters "Thank you Princess, I’m not in trouble, am I?"
-    butters ""
+    butters "Thank you Princess, I’m not in trouble, am I?"
 
 # game/castle.rpy#L1924
 translate chinese selenevisit_4d82b6e6:
 
     # selene "Of course not dear, I could tell you were doing your best to prevent the nightmares."
-    selene ""
+    selene "Of course not dear, I could tell you were doing your best to prevent the nightmares."
 
 # game/castle.rpy#L1925
 translate chinese selenevisit_08a8e51e:
 
     # selene "It was brave and admirable of you."
-    selene ""
+    selene "It was brave and admirable of you."
 
 # game/castle.rpy#L1926
 translate chinese selenevisit_23ed3f52:
 
     # mc "Why were you snooping around and acting guilty though?"
-    mc ""
+    mc "Why were you snooping around and acting guilty though?"
 
 # game/castle.rpy#L1928
 translate chinese selenevisit_b6ceee71:
 
     # butters "I thought I was in big trouble! I was really scared."
-    butters ""
+    butters "I thought I was in big trouble! I was really scared."
 
 # game/castle.rpy#L1929
 translate chinese selenevisit_d7a8b952:
 
     # mc "Awh bless you, come here, let’s have a dream-hug."
-    mc ""
+    mc "Awh bless you, come here, let’s have a dream-hug."
 
 # game/castle.rpy#L1930
 translate chinese selenevisit_21d5eafc:
 
     # "The two of us embrace before Selene and I finally leave the dream, having fully resolved the issue at hand."
-    ""
+    "The two of us embrace before Selene and I finally leave the dream, having fully resolved the issue at hand."
 
 # game/castle.rpy#L1933
 translate chinese selenevisit_39aad234:
 
     # butters "I'll see you soon [playername]!"
-    butters ""
+    butters "I'll see you soon [playername]!"
 
 # game/castle.rpy#L1937
 translate chinese selenevisit_ce617998_2:
 
     # "…"
-    ""
+    "…"
 
 # game/castle.rpy#L1940
 translate chinese selenevisit_6f78243c:
 
     # "I reawaken in Selene’s bed, to my surprise we’re both tucked in under the covers and were sleeping."
-    ""
+    "I reawaken in Selene’s bed, to my surprise we’re both tucked in under the covers and were sleeping."
 
 # game/castle.rpy#L1941
 translate chinese selenevisit_ec7630bb:
 
     # "I can’t remember if this is how I entered the dream, but the warmth of the blankets helps tide over the familiar groggy feeling of waking up in the middle of the night."
-    ""
+    "I can’t remember if this is how I entered the dream, but the warmth of the blankets helps tide over the familiar groggy feeling of waking up in the middle of the night."
 
 # game/castle.rpy#L1942
 translate chinese selenevisit_5bb19e85:
 
     # "I shouldn’t get too used to this warmth however, I’d still need to take the returning journey back home."
-    ""
+    "I shouldn’t get too used to this warmth however, I’d still need to take the returning journey back home."
 
 # game/castle.rpy#L1943
 translate chinese selenevisit_cc84824e:
 
     # "As I sit up, stretch outwards and rub the sleep out of my eye, Selene soon awakes beside me and bounces out of bed with merciless energy."
-    ""
+    "As I sit up, stretch outwards and rub the sleep out of my eye, Selene soon awakes beside me and bounces out of bed with merciless energy."
 
 # game/castle.rpy#L1945
 translate chinese selenevisit_61a64696:
 
     # selene "Phew, what a start to the night."
-    selene ""
+    selene "Phew, what a start to the night."
 
 # game/castle.rpy#L1946
 translate chinese selenevisit_080a915a:
 
     # "It’s like early morning for her, she’s wide awake. She may be buzzing with more energy than before."
-    ""
+    "It’s like early morning for her, she’s wide awake. She may be buzzing with more energy than before."
 
 # game/castle.rpy#L1948
 translate chinese selenevisit_661aae93:
 
     # selene "I was worried we’d have a town-wide nightmare scenario on our hands."
-    selene ""
+    selene "I was worried we’d have a town-wide nightmare scenario on our hands."
 
 # game/castle.rpy#L1950
 translate chinese selenevisit_fde44da3:
 
     # "A yawn escapes my mouth before I’m able to reply, as I reopen my eyes again, Selene had returned to the bed. She sits by my side with a warm, yet regal smile."
-    ""
+    "A yawn escapes my mouth before I’m able to reply, as I reopen my eyes again, Selene had returned to the bed. She sits by my side with a warm, yet regal smile."
 
 # game/castle.rpy#L1951
 translate chinese selenevisit_cf30c10c:
 
     # selene "Thanks for helping. You more than proved your worth, and your devilish charm."
-    selene ""
+    selene "Thanks for helping. You more than proved your worth, and your devilish charm."
 
 # game/castle.rpy#L1952
 translate chinese selenevisit_b5b1991e:
 
     # mc "Thank you Selene. I enjoyed our unusual outing; it’ll certainly be a night to remember."
-    mc ""
+    mc "Thank you Selene. I enjoyed our unusual outing; it’ll certainly be a night to remember."
 
 # game/castle.rpy#L1954
 translate chinese selenevisit_051f9758:
 
     # selene "You’ll make a fine husband to Moxie one day."
-    selene ""
+    selene "You’ll make a fine husband to Moxie one day."
 
 # game/castle.rpy#L1955
 translate chinese selenevisit_eaf4e668:
 
     # mc "Oh, Moxie and I aren’t actually together."
-    mc ""
+    mc "Oh, Moxie and I aren’t actually together."
 
 # game/castle.rpy#L1957
 translate chinese selenevisit_75873929:
 
     # selene "Ah! My tongue slipped! What is the true nature of your relationship with Moxie?"
-    selene ""
+    selene "Ah! My tongue slipped! What is the true nature of your relationship with Moxie?"
 
 # game/castle.rpy#L1958
 translate chinese selenevisit_bc37a27b:
 
     # mc "Hard to say considering the magic stuff, but if you forget the magic, we’re friends."
-    mc ""
+    mc "Hard to say considering the magic stuff, but if you forget the magic, we’re friends."
 
 # game/castle.rpy#L1959
 translate chinese selenevisit_1a081317:
 
     # mc "And she lets me live in the wagon with her."
-    mc ""
+    mc "And she lets me live in the wagon with her."
 
 # game/castle.rpy#L1961
 translate chinese selenevisit_0b71393c:
 
     # selene "Hmm, that wagon is woefully small."
-    selene ""
+    selene "Hmm, that wagon is woefully small."
 
 # game/castle.rpy#L1963
 translate chinese selenevisit_2a854676:
 
     # mc "Yeah, that’s one of the reasons I’m living with Butters right now."
-    mc ""
+    mc "Yeah, that’s one of the reasons I’m living with Butters right now."
 
 # game/castle.rpy#L1965
 translate chinese selenevisit_a478fce5:
 
     # selene "When she becomes my student, she’ll be able to get a student house here in Arcadia for free, there will be plenty of room for you as well."
-    selene ""
+    selene "When she becomes my student, she’ll be able to get a student house here in Arcadia for free, there will be plenty of room for you as well."
 
 # game/castle.rpy#L1966
 translate chinese selenevisit_06ea4a49:
 
     # selene "Hopefully that’ll make up for me being a nuisance to you all night."
-    selene ""
+    selene "Hopefully that’ll make up for me being a nuisance to you all night."
 
 # game/castle.rpy#L1967
 translate chinese selenevisit_2237a969:
 
     # selene "Although, I doubt a favour from another and a sum of monies would be enough to make up for what happened tonight."
-    selene ""
+    selene "Although, I doubt a favour from another and a sum of monies would be enough to make up for what happened tonight."
 
 # game/castle.rpy#L1968
 translate chinese selenevisit_2dbd8f60:
 
     # selene "I recall I offered you one fantastic reward, if you succeeded in helping me."
-    selene ""
+    selene "I recall I offered you one fantastic reward, if you succeeded in helping me."
 
 # game/castle.rpy#L1969
 translate chinese selenevisit_8847b12e:
 
     # mc "Ah yeah, that reward…"
-    mc ""
+    mc "Ah yeah, that reward…"
 
 # game/castle.rpy#L1970
 translate chinese selenevisit_317b00b4:
 
     # selene "So... You're not with Moxie, are you single?"
-    selene ""
+    selene "So... You're not with Moxie, are you single?"
 
 # game/castle.rpy#L1972
 translate chinese selenevisit_c2a57b67:
 
     # "One of her fingers starts to trail round and round the fabric of the bed cover. Her fingers are indirectly encircling my pelvis, as if to mark what she wants."
-    ""
+    "One of her fingers starts to trail round and round the fabric of the bed cover. Her fingers are indirectly encircling my pelvis, as if to mark what she wants."
 
 # game/castle.rpy#L1973
 translate chinese selenevisit_8c8a003f:
 
     # mc "Yeah... I'm single."
-    mc ""
+    mc "Yeah... I'm single."
 
 # game/castle.rpy#L1974
 translate chinese selenevisit_deb9a458:
 
     # selene "May I be selfish yet again this evening, and give myself a reward too?"
-    selene ""
+    selene "May I be selfish yet again this evening, and give myself a reward too?"
 
 # game/castle.rpy#L1975
 translate chinese selenevisit_a7ead9a3:
 
     # mc "Of course, I agreed to be your partner in crime all night after all."
-    mc ""
+    mc "Of course, I agreed to be your partner in crime all night after all."
 
 # game/castle.rpy#L1977
 translate chinese selenevisit_8076b367:
 
     # selene "You see, even though I may be a fancy schmancy ‘princess’, my sister and I go into heat just like all the rest of them."
-    selene ""
+    selene "You see, even though I may be a fancy schmancy ‘princess’, my sister and I go into heat just like all the rest of them."
 
 # game/castle.rpy#L1978
 translate chinese selenevisit_7079f799:
 
     # selene "Only difference being, we need to be far more careful and secretive about our sex lives."
-    selene ""
+    selene "Only difference being, we need to be far more careful and secretive about our sex lives."
 
 # game/castle.rpy#L1984
 translate chinese selenevisit1choice1_44a7ff4d:
 
     # selene "No one has ever asked me that question before, never ever, in all my years of life."
-    selene ""
+    selene "No one has ever asked me that question before, never ever, in all my years of life."
 
 # game/castle.rpy#L1985
 translate chinese selenevisit1choice1_2b83eb55:
 
     # mc "Not even people you’ve slept with?"
-    mc ""
+    mc "Not even people you’ve slept with?"
 
 # game/castle.rpy#L1987
 translate chinese selenevisit1choice1_4c83f979:
 
     # selene "My dear, one cannot sleep around carelessly in my position."
-    selene ""
+    selene "My dear, one cannot sleep around carelessly in my position."
 
 # game/castle.rpy#L1988
 translate chinese selenevisit1choice1_8c9f40b8:
 
     # selene "I’m a respected authority figure and it would kick up a fuss amongst the prudes."
-    selene ""
+    selene "I’m a respected authority figure and it would kick up a fuss amongst the prudes."
 
 # game/castle.rpy#L1989
 translate chinese selenevisit1choice1_aa9d32ea:
 
     # selene "Needless to say, I’m also nocturnal. I haven’t had any action in real life for decades."
-    selene ""
+    selene "Needless to say, I’m also nocturnal. I haven’t had any action in real life for decades."
 
 # game/castle.rpy#L1990
 translate chinese selenevisit1choice1_3cb65d47:
 
     # selene "I’m a lucid dreamer however, I release pent up frustration in the dream realm."
-    selene ""
+    selene "I’m a lucid dreamer however, I release pent up frustration in the dream realm."
 
 # game/castle.rpy#L1994
 translate chinese selenevisit1choice1_f2ab50fe:
 
     # selene "Hehe, you’re a curious one."
-    selene ""
+    selene "Hehe, you’re a curious one."
 
 # game/castle.rpy#L1995
 translate chinese selenevisit1choice1_9a286dfe:
 
     # mc "I have to be curious, otherwise I’d be clueless. I don’t know how your unique goddess species operates."
-    mc ""
+    mc "I have to be curious, otherwise I’d be clueless. I don’t know how your unique goddess species operates."
 
 # game/castle.rpy#L1997
 translate chinese selenevisit1choice1_f69618f2:
 
     # selene "I can’t blame you; I’d have just as many questions if I were in your shoes."
-    selene ""
+    selene "I can’t blame you; I’d have just as many questions if I were in your shoes."
 
 # game/castle.rpy#L1998
 translate chinese selenevisit1choice1_becd7e46:
 
     # selene "Occasionally my sister and I do indulge in girly talks with a bottle of wine, although given our positions sex isn’t something we often partake in."
-    selene ""
+    selene "Occasionally my sister and I do indulge in girly talks with a bottle of wine, although given our positions sex isn’t something we often partake in."
 
 # game/castle.rpy#L1999
 translate chinese selenevisit1choice1_bd3c1898:
 
     # selene "Her even less so than myself, although…"
-    selene ""
+    selene "Her even less so than myself, although…"
 
 # game/castle.rpy#L2000
 translate chinese selenevisit1choice1_8c23c931:
 
     # "She quietly introspects for a few seconds, judging on whether to continue."
-    ""
+    "She quietly introspects for a few seconds, judging on whether to continue."
 
 # game/castle.rpy#L2001
 translate chinese selenevisit1choice1_745ed23d:
 
     # selene "Within that illustrious and dignified manner she too carries a curious soul."
-    selene ""
+    selene "Within that illustrious and dignified manner she too carries a curious soul."
 
 # game/castle.rpy#L2003
 translate chinese selenevisit1choice1_a724a496:
 
     # selene "I believe she has engaged in a love affair with a concubine a few years ago, but it’s not on my onus to divulge the details."
-    selene ""
+    selene "I believe she has engaged in a love affair with a concubine a few years ago, but it’s not on my onus to divulge the details."
 
 # game/castle.rpy#L2007
 translate chinese selenevisit1choice1_6a08a4de:
 
     # selene "Hehehe, that’s an interesting question. I imagine you already know we’re incompatible."
-    selene ""
+    selene "Hehehe, that’s an interesting question. I imagine you already know we’re incompatible."
 
 # game/castle.rpy#L2008
 translate chinese selenevisit1choice1_bda39cf5:
 
     # mc "Yeah, Lily tested my DNA."
-    mc ""
+    mc "Yeah, Lily tested my DNA."
 
 # game/castle.rpy#L2010
 translate chinese selenevisit1choice1_c8388458:
 
     # selene "With a swab of the cheek I’m sure, hehe."
-    selene ""
+    selene "With a swab of the cheek I’m sure, hehe."
 
 # game/castle.rpy#L2011
 translate chinese selenevisit1choice1_51666d9f:
 
     # mc "Ahh, yeah… Something like that."
-    mc ""
+    mc "Ahh, yeah… Something like that."
 
 # game/castle.rpy#L2013
 translate chinese selenevisit1choice1_ca35bfa3:
 
     # selene "Unfortunately I am compatible with ponies. Fortunately magic is the perfect contraceptive."
-    selene ""
+    selene "Unfortunately I am compatible with ponies. Fortunately magic is the perfect contraceptive."
 
 # game/castle.rpy#L2014
 translate chinese selenevisit1choice1_80c2e69c:
 
     # selene "However, our species of pony can only have alicorn children if they mate with another alicorn."
-    selene ""
+    selene "However, our species of pony can only have alicorn children if they mate with another alicorn."
 
 # game/castle.rpy#L2015
 translate chinese selenevisit1choice1_e647741f:
 
     # mc "Are there any others?"
-    mc ""
+    mc "Are there any others?"
 
 # game/castle.rpy#L2016
 translate chinese selenevisit1choice1_2e5a7b5c:
 
     # selene "Yeah, there’s my sister, myself and Augusta, the Princess of Love."
-    selene ""
+    selene "Yeah, there’s my sister, myself and Augusta, the Princess of Love."
 
 # game/castle.rpy#L2017
 translate chinese selenevisit1choice1_2e23ade7:
 
     # mc "No men? How awkward."
-    mc ""
+    mc "No men? How awkward."
 
 # game/castle.rpy#L2019
 translate chinese selenevisit1choice1_187095dc:
 
     # selene "There are no male alicorns, only females of which can breed amongst themselves via magic."
-    selene ""
+    selene "There are no male alicorns, only females of which can breed amongst themselves via magic."
 
 # game/castle.rpy#L2020
 translate chinese selenevisit1choice1_7f8655cf:
 
     # mc "No men at all? Well if ponies evolved from you guys, I can see why there’s a female majority."
-    mc ""
+    mc "No men at all? Well if ponies evolved from you guys, I can see why there’s a female majority."
 
 # game/castle.rpy#L2021
 translate chinese selenevisit1choice1_fa4969b6:
 
     # selene "I can always use a spell to make myself sexually compatible with anyone, even you."
-    selene ""
+    selene "I can always use a spell to make myself sexually compatible with anyone, even you."
 
 # game/castle.rpy#L2022
 translate chinese selenevisit1choice1_39db5eb3:
 
     # mc "Oh really? Are you going to eventually have children?"
-    mc ""
+    mc "Oh really? Are you going to eventually have children?"
 
 # game/castle.rpy#L2024
 translate chinese selenevisit1choice1_c9e11d69:
 
     # selene "Is that a hint? Hehe, I’m only three-thousand years young you know."
-    selene ""
+    selene "Is that a hint? Hehe, I’m only three-thousand years young you know."
 
 # game/castle.rpy#L2031
 translate chinese selenevisit1choice1_54455f82:
 
     # selene "I’m a great judge of character, from the time we’ve spent together, I know you could keep a secret."
-    selene ""
+    selene "I’m a great judge of character, from the time we’ve spent together, I know you could keep a secret."
 
 # game/castle.rpy#L2034
 translate chinese selenesex_08e6eda2:
 
     # mc "So, we’re going to make love?"
-    mc ""
+    mc "So, we’re going to make love?"
 
 # game/castle.rpy#L2036
 translate chinese selenesex_6f4cd96b:
 
     # selene "Just like any other mare friend, treat me like an equal tonight while you ravish me."
-    selene ""
+    selene "Just like any other mare friend, treat me like an equal tonight while you ravish me."
 
 # game/castle.rpy#L2037
 translate chinese selenesex_2f4222c2:
 
     # selene "Actually, I’d rather like to ravish you."
-    selene ""
+    selene "Actually, I’d rather like to ravish you."
 
 # game/castle.rpy#L2042
 translate chinese selenesex_771bc816:
 
     # "The voluptuous princess gently spreads her legs revealing her gooey wet snatch."
-    ""
+    "The voluptuous princess gently spreads her legs revealing her gooey wet snatch."
 
 # game/castle.rpy#L2043
 translate chinese selenesex_e1cb3366:
 
     # selene "You’re a pervert, you know."
-    selene ""
+    selene "You’re a pervert, you know."
 
 # game/castle.rpy#L2044
 translate chinese selenesex_160cc547:
 
     # mc "I am?"
-    mc ""
+    mc "I am?"
 
 # game/castle.rpy#L2045
 translate chinese selenesex_88205126:
 
     # "She reaches her hand over to my rapidly growing erection, and gracefully moves it up and down my cock, applying pressure perfectly to stimulate the neck of my glans. Within seconds I’m stiff solid."
-    ""
+    "She reaches her hand over to my rapidly growing erection, and gracefully moves it up and down my cock, applying pressure perfectly to stimulate the neck of my glans. Within seconds I’m stiff solid."
 
 # game/castle.rpy#L2046
 translate chinese selenesex_88279db9:
 
     # selene "All night you kept peeking at my breasts, my ass, and even my pussy."
-    selene ""
+    selene "All night you kept peeking at my breasts, my ass, and even my pussy."
 
 # game/castle.rpy#L2048
 translate chinese selenesex_e534f28c:
 
     # "She lecherously whispers whilst her other hand begins to rub her cute puffy labia, the movements create lewd squelching sounds, causing my cock to throb in response."
-    ""
+    "She lecherously whispers whilst her other hand begins to rub her cute puffy labia, the movements create lewd squelching sounds, causing my cock to throb in response."
 
 # game/castle.rpy#L2049
 translate chinese selenesex_545dc1fd:
 
     # mc "Ah, I couldn’t resist stealing glances. Your dress didn't exactly leave much to the imagination."
-    mc ""
+    mc "Ah, I couldn’t resist stealing glances. Your dress didn't exactly leave much to the imagination."
 
 # game/castle.rpy#L2051
 translate chinese selenesex_76dfe1c9:
 
     # "She brushes her hair out of the way as she lowers her muzzle down to the same level as my cock and kisses the precum off the tip."
-    ""
+    "She brushes her hair out of the way as she lowers her muzzle down to the same level as my cock and kisses the precum off the tip."
 
 # game/castle.rpy#L2053
 translate chinese selenesex_9d2e2ce8:
 
     # selene "It’s okay. I’m a pervert too."
-    selene ""
+    selene "It’s okay. I’m a pervert too."
 
 # game/castle.rpy#L2054
 translate chinese selenesex_ed240c5e:
 
     # selene "I’ve been stealing just as many glances at your cock."
-    selene ""
+    selene "I’ve been stealing just as many glances at your cock."
 
 # game/castle.rpy#L2057
 translate chinese selenesex_79c315c8:
 
     # "Her long equine tongue starts to coil around the tip of my dick and swirl around, her finger grip is moving faster too, stimulating me towards an orgasm at a shocking rate."
-    ""
+    "Her long equine tongue starts to coil around the tip of my dick and swirl around, her finger grip is moving faster too, stimulating me towards an orgasm at a shocking rate."
 
 # game/castle.rpy#L2058
 translate chinese selenesex_a24fb779:
 
     # "Occasionally she’d pull up to continue her saccharine dirty talk, all of my senses are being invaded simultaneously. Is this what thousands of years of sexual experience looks like?"
-    ""
+    "Occasionally she’d pull up to continue her saccharine dirty talk, all of my senses are being invaded simultaneously. Is this what thousands of years of sexual experience looks like?"
 
 # game/castle.rpy#L2059
 translate chinese selenesex_be372364:
 
     # selene "I've been imagining how your cock would feel in my fingers, how it’d feel in my mouth, and inside me."
-    selene ""
+    selene "I've been imagining how your cock would feel in my fingers, how it’d feel in my mouth, and inside me."
 
 # game/castle.rpy#L2061
 translate chinese selenesex_4f2a9f9f:
 
     # "She had begun to escalate, her mouth now wrapping around the tip. While her tongue continued to twirl around the head, her lips tightly gripped the base of the glans, moving back and forth, sucking and squeezing with each movement."
-    ""
+    "She had begun to escalate, her mouth now wrapping around the tip. While her tongue continued to twirl around the head, her lips tightly gripped the base of the glans, moving back and forth, sucking and squeezing with each movement."
 
 # game/castle.rpy#L2062
 translate chinese selenesex_b98c32c7:
 
     # "As ridiculous as it sounds, I was already at my limit. Because of her experienced movements, I could feel cum building up at a terrifyingly quick rate."
-    ""
+    "As ridiculous as it sounds, I was already at my limit. Because of her experienced movements, I could feel cum building up at a terrifyingly quick rate."
 
 # game/castle.rpy#L2064
 translate chinese selenesex_c179c2a3:
 
     # "But then milliseconds before my peak, she releases my cock and moves back, wiping the drool from her coy smile."
-    ""
+    "But then milliseconds before my peak, she releases my cock and moves back, wiping the drool from her coy smile."
 
 # game/castle.rpy#L2066
 translate chinese selenesex_6824a799:
 
     # selene "Not quite yet little boy, it’d be no fun to waste this cum in my mouth."
-    selene ""
+    selene "Not quite yet little boy, it’d be no fun to waste this cum in my mouth."
 
 # game/castle.rpy#L2067
 translate chinese selenesex_54779d99:
 
     # mc "You’re really good…"
-    mc ""
+    mc "You’re really good…"
 
 # game/castle.rpy#L2068
 translate chinese selenesex_c280c496:
 
     # selene "You’d be this good if you were my age too."
-    selene ""
+    selene "You’d be this good if you were my age too."
 
 # game/castle.rpy#L2069
 translate chinese selenesex_4eb4bdbc:
 
     # mc "At sucking dick?"
-    mc ""
+    mc "At sucking dick?"
 
 # game/castle.rpy#L2070
 translate chinese selenesex_40f0b09d:
 
     # "Her index finger and thumb continue to tease at my cock, keeping the blood flow going yet delicately preventing any potential build-up of pleasure."
-    ""
+    "Her index finger and thumb continue to tease at my cock, keeping the blood flow going yet delicately preventing any potential build-up of pleasure."
 
 # game/castle.rpy#L2071
 translate chinese selenesex_b6e5b7d2:
 
     # selene "Did you know I have a bucket list?"
-    selene ""
+    selene "Did you know I have a bucket list?"
 
 # game/castle.rpy#L2073
 translate chinese selenesex_f0b32bc3:
 
     # "I think every alicorn I've spoken to has had a bucket list. I wonder if the three gals challenged themselves?"
-    ""
+    "I think every alicorn I've spoken to has had a bucket list. I wonder if the three gals challenged themselves?"
 
 # game/castle.rpy#L2074
 translate chinese selenesex_98f14329:
 
     # "She continues to masturbate even as she’s talking to me, that only makes it hotter."
-    ""
+    "She continues to masturbate even as she’s talking to me, that only makes it hotter."
 
 # game/castle.rpy#L2075
 translate chinese selenesex_c74fdbe9:
 
     # mc "What’s your bucket list like?"
-    mc ""
+    mc "What’s your bucket list like?"
 
 # game/castle.rpy#L2076
 translate chinese selenesex_735c1328:
 
     # selene "It’s something akin to a contest me and Aurora created to sprinkle fun into our nigh-immortal lives."
-    selene ""
+    selene "It’s something akin to a contest me and Aurora created to sprinkle fun into our nigh-immortal lives."
 
 # game/castle.rpy#L2080
 translate chinese selenesex_7df6eb16:
 
     # "She finally lifted herself up and straddled my hips. The view of her pussy was beautiful as it dripped onto my twitching cock."
-    ""
+    "She finally lifted herself up and straddled my hips. The view of her pussy was beautiful as it dripped onto my twitching cock."
 
 # game/castle.rpy#L2081
 translate chinese selenesex_db0893eb:
 
     # selene "Oohh, I love how your cock twitches in anticipation, just how I imagined it."
-    selene ""
+    selene "Oohh, I love how your cock twitches in anticipation, just how I imagined it."
 
 # game/castle.rpy#L2082
 translate chinese selenesex_dbd53220:
 
     # "She lavishly lowered herself into a frottage position as she began to grind up and down against my cock."
-    ""
+    "She lavishly lowered herself into a frottage position as she began to grind up and down against my cock."
 
 # game/castle.rpy#L2083
 translate chinese selenesex_772f9a36:
 
     # selene "Our bucket-lists contain a few species, and a few generalities to give us something to do in our free time."
-    selene ""
+    selene "Our bucket-lists contain a few species, and a few generalities to give us something to do in our free time."
 
 # game/castle.rpy#L2084
 translate chinese selenesex_1e563978:
 
     # "The pressure and pleasure of her grinding was immense, but frustratingly not enough to rile up the urge to orgasm. Just like her index finger and thumb, it was a continuous yet safe pleasure. She's teasing me on purpose."
-    ""
+    "The pressure and pleasure of her grinding was immense, but frustratingly not enough to rile up the urge to orgasm. Just like her index finger and thumb, it was a continuous yet safe pleasure. She's teasing me on purpose."
 
 # game/castle.rpy#L2085
 translate chinese selenesex_51cff099:
 
     # selene "Currently, the general rule is to do at least one new and exciting thing every month."
-    selene ""
+    selene "Currently, the general rule is to do at least one new and exciting thing every month."
 
 # game/castle.rpy#L2086
 translate chinese selenesex_d7fcef83:
 
     # "She was so wet, her grinding left a glistening sheen on my shaft, and each additional grind expels a lewd, satisfying wet sound, leaving me wanting more."
-    ""
+    "She was so wet, her grinding left a glistening sheen on my shaft, and each additional grind expels a lewd, satisfying wet sound, leaving me wanting more."
 
 # game/castle.rpy#L2087
 translate chinese selenesex_c0faa3a1:
 
     # mc "Let me guess, the new thing you’re doing this month is me."
-    mc ""
+    mc "Let me guess, the new thing you’re doing this month is me."
 
 # game/castle.rpy#L2088
 translate chinese selenesex_5a0f44f6:
 
     # selene "Hehe, I do adore you [playername]. Although up until a few minutes ago I hadn’t planned for you to be the new thing."
-    selene ""
+    selene "Hehe, I do adore you [playername]. Although up until a few minutes ago I hadn’t planned for you to be the new thing."
 
 # game/castle.rpy#L2090
 translate chinese selenesex_567a0c15:
 
     # "She grinds to the tip of my cock, and slowly releases the pressure, causing my tip to press against her pussy. Then she allows my cock to sink deep into her, until I’m fully inside."
-    ""
+    "She grinds to the tip of my cock, and slowly releases the pressure, causing my tip to press against her pussy. Then she allows my cock to sink deep into her, until I’m fully inside."
 
 # game/castle.rpy#L2091
 translate chinese selenesex_b26941a0:
 
     # "It’s tight, I can feel her insides squeezing and sucking, despite her status and age her pussy feels just as amazing as any other girl."
-    ""
+    "It’s tight, I can feel her insides squeezing and sucking, despite her status and age her pussy feels just as amazing as any other girl."
 
 # game/castle.rpy#L2092
 translate chinese selenesex_0d0ae94b:
 
     # mc "I’m not surprised a girl like yourself has a bucket list, always seeking experiences to keep life stimulating."
-    mc ""
+    mc "I’m not surprised a girl like yourself has a bucket list, always seeking experiences to keep life stimulating."
 
 # game/castle.rpy#L2093
 translate chinese selenesex_9e0f0a11:
 
     # selene "My heart flutters when you earnestly call me a girl, instead of ‘princess’, ‘your majesty’, or other words that fall bitter to the ears."
-    selene ""
+    selene "My heart flutters when you earnestly call me a girl, instead of ‘princess’, ‘your majesty’, or other words that fall bitter to the ears."
 
 # game/castle.rpy#L2094
 translate chinese selenesex_298f4cb4:
 
     # "She’s smiling from ear to ear. It’s clear I’ve made her feel young again, and not through flattery."
-    ""
+    "She’s smiling from ear to ear. It’s clear I’ve made her feel young again, and not through flattery."
 
 # game/castle.rpy#L2096
 translate chinese selenesex_f06bc39f:
 
     # "Her hips gyrate softly around my cock, I don’t think she realizes it, but she’s so horny her body is causing her to move subconsciously."
-    ""
+    "Her hips gyrate softly around my cock, I don’t think she realizes it, but she’s so horny her body is causing her to move subconsciously."
 
 # game/castle.rpy#L2097
 translate chinese selenesex_8ab107b1:
 
     # selene "This isn’t just about a bucket list anymore. I regret mentioning it, because I consider you more than just a tick on an arbitrary list."
-    selene ""
+    selene "This isn’t just about a bucket list anymore. I regret mentioning it, because I consider you more than just a tick on an arbitrary list."
 
 # game/castle.rpy#L2098
 translate chinese selenesex_4a1657c3:
 
     # selene "You’ve seduced me, and I desire to seduce you too. I wish to breed with you."
-    selene ""
+    selene "You’ve seduced me, and I desire to seduce you too. I wish to breed with you."
 
 # game/castle.rpy#L2099
 translate chinese selenesex_775d106e:
 
     # "She raises herself up and down repeatedly, fucking me gently."
-    ""
+    "She raises herself up and down repeatedly, fucking me gently."
 
 # game/castle.rpy#L2101
 translate chinese selenesex_2d26f380:
 
     # selene "Aahhh, you’re so thick too, and you don’t immediately cum like a stallion, you’re such a gem."
-    selene ""
+    selene "Aahhh, you’re so thick too, and you don’t immediately cum like a stallion, you’re such a gem."
 
 # game/castle.rpy#L2102
 translate chinese selenesex_29e00358:
 
     # "She arches her back and visibly shudders as pleasure surges through her. The genuine catharsis she’s feeling in this moment is rubbing off on me, giving me goose bumps."
-    ""
+    "She arches her back and visibly shudders as pleasure surges through her. The genuine catharsis she’s feeling in this moment is rubbing off on me, giving me goose bumps."
 
 # game/castle.rpy#L2103
 translate chinese selenesex_a791b74d:
 
     # selene "Mmm, it feels so much better in real life."
-    selene ""
+    selene "Mmm, it feels so much better in real life."
 
 # game/castle.rpy#L2104
 translate chinese selenesex_9cfb5f19:
 
     # mc "What’s it like in dreams?"
-    mc ""
+    mc "What’s it like in dreams?"
 
 # game/castle.rpy#L2106
 translate chinese selenesex_2985b97c:
 
     # selene "It feels good, but it’s akin to masturbation, it still leaves a lingering desire."
-    selene ""
+    selene "It feels good, but it’s akin to masturbation, it still leaves a lingering desire."
 
 # game/castle.rpy#L2107
 translate chinese selenesex_08c59674:
 
     # "Faster, she begins to bounce her hips up and down, the orgasmic waves that were denied before come crashing into me at full-force, faster than I could even anticipate."
-    ""
+    "Faster, she begins to bounce her hips up and down, the orgasmic waves that were denied before come crashing into me at full-force, faster than I could even anticipate."
 
 # game/castle.rpy#L2108
 translate chinese selenesex_e25fa6df:
 
     # selene "And tonight, you’ll come to know that desire, pent up from decades."
-    selene ""
+    selene "And tonight, you’ll come to know that desire, pent up from decades."
 
 # game/castle.rpy#L2113
 translate chinese selenesex_00a798d9:
 
     # "I cum already, starting to fill the princess’s pussy with my thick, hot cum. I couldn’t help it, her lustful whispers and her practiced movements pushed me to the edge faster than I would have liked."
-    ""
+    "I cum already, starting to fill the princess’s pussy with my thick, hot cum. I couldn’t help it, her lustful whispers and her practiced movements pushed me to the edge faster than I would have liked."
 
 # game/castle.rpy#L2117
 translate chinese selenesex_ceea7bbf:
 
     # "But as my formidable orgasm gradually fades, Selene is smirking."
-    ""
+    "But as my formidable orgasm gradually fades, Selene is smirking."
 
 # game/castle.rpy#L2118
 translate chinese selenesex_a5895786:
 
     # mc "You’re too good at this, sorry I came before you finished."
-    mc ""
+    mc "You’re too good at this, sorry I came before you finished."
 
 # game/castle.rpy#L2120
 translate chinese selenesex_d06887b1:
 
     # selene "Don’t worry young one, I pushed you over the edge on purpose. We’ll both be cumming a few times tonight."
-    selene ""
+    selene "Don’t worry young one, I pushed you over the edge on purpose. We’ll both be cumming a few times tonight."
 
 # game/castle.rpy#L2122
 translate chinese selenesex_a78ff64b:
 
     # "With an effortless, quick glow of her horn, I can feel my balls tingling, the heightened sensitivity of my refractory period disappears, and my erection returns."
-    ""
+    "With an effortless, quick glow of her horn, I can feel my balls tingling, the heightened sensitivity of my refractory period disappears, and my erection returns."
 
 # game/castle.rpy#L2123
 translate chinese selenesex_b4e7c884:
 
     # selene "You see, I’ve learned a few helpful spells in my time. That was a few of them… Hehe."
-    selene ""
+    selene "You see, I’ve learned a few helpful spells in my time. That was a few of them… Hehe."
 
 # game/castle.rpy#L2126
 translate chinese selenesex_4624f94d:
 
     # "I’m already ready to continue fucking, and Selene wastes absolutely no time riding at a quicker pace than before."
-    ""
+    "I’m already ready to continue fucking, and Selene wastes absolutely no time riding at a quicker pace than before."
 
 # game/castle.rpy#L2127
 translate chinese selenesex_d57867c8:
 
     # selene "Now it’s my turn… Mm… Mmphh, mm."
-    selene ""
+    selene "Now it’s my turn… Mm… Mmphh, mm."
 
 # game/castle.rpy#L2128
 translate chinese selenesex_36333070:
 
     # "I’m not sure what the spells were, but it feels like I have a fresh erection, every pleasure and every sensation is just as satisfying as the first time."
-    ""
+    "I’m not sure what the spells were, but it feels like I have a fresh erection, every pleasure and every sensation is just as satisfying as the first time."
 
 # game/castle.rpy#L2129
 translate chinese selenesex_18062ee3:
 
     # selene "Mmphh, you’re throbbing, are you again? I’m too! Ahhh, ahhh…"
-    selene ""
+    selene "Mmphh, you’re throbbing, are you again? I’m too! Ahhh, ahhh…"
 
 # game/castle.rpy#L2130
 translate chinese selenesex_cffb0f79:
 
     # "Although that doesn’t change the thick cum oozing out of her pussy, bubbling up and mixing with her juices as she continuously thrusts into me, her pace ever increasing."
-    ""
+    "Although that doesn’t change the thick cum oozing out of her pussy, bubbling up and mixing with her juices as she continuously thrusts into me, her pace ever increasing."
 
 # game/castle.rpy#L2132
 translate chinese selenesex_4d25ff7d:
 
     # selene "Aaahhhhh, ahhh, I-I’m coming!"
-    selene ""
+    selene "Aaahhhhh, ahhh, I-I’m coming!"
 
 # game/castle.rpy#L2133
 translate chinese selenesex_5ff0b664:
 
     # "She speeds up as she uses magic to stimulate her clit, her hips bucking as she squirts and orgasms powerfully."
-    ""
+    "She speeds up as she uses magic to stimulate her clit, her hips bucking as she squirts and orgasms powerfully."
 
 # game/castle.rpy#L2136
 translate chinese selenesex_637b7e7c:
 
     # "The magic aura around her clit grows and encompasses both our genitalia, suddenly heightening my own pleasure, to twice as pleasurable… Thrice as pleasurable… No, ten times more pleasurable."
-    ""
+    "The magic aura around her clit grows and encompasses both our genitalia, suddenly heightening my own pleasure, to twice as pleasurable… Thrice as pleasurable… No, ten times more pleasurable."
 
 # game/castle.rpy#L2159
 translate chinese selenesex_8dfac045:
 
     # "My climax comes so immediately, shocking, and powerful that it’s almost an out of body experience. My vision goes completely white and for a moment I can’t feel anything but euphoria."
-    ""
+    "My climax comes so immediately, shocking, and powerful that it’s almost an out of body experience. My vision goes completely white and for a moment I can’t feel anything but euphoria."
 
 # game/castle.rpy#L2162
 translate chinese selenesex_c029cdb5:
 
     # "When I recover from the pleasureful shock to the system, Selene is resting hazily on my damp chest. She’s panting too."
-    ""
+    "When I recover from the pleasureful shock to the system, Selene is resting hazily on my damp chest. She’s panting too."
 
 # game/castle.rpy#L2164
 translate chinese selenesex_f41c17f0:
 
     # selene "Hahh, haaah… I think I wore myself out. Can you be a sweet and go on top this time?"
-    selene ""
+    selene "Hahh, haaah… I think I wore myself out. Can you be a sweet and go on top this time?"
 
 # game/castle.rpy#L2165
 translate chinese selenesex_9f82279a:
 
     # mc "Again? But I’m not- "
-    mc ""
+    mc "Again? But I’m not- "
 
 # game/castle.rpy#L2167
 translate chinese selenesex_18483506:
 
     # "A whimsical glow of the horn and I feel my balls shiver… The heightened sensitivity is soothed, my cock stiffens. Yeah, I do want to fuck her again."
-    ""
+    "A whimsical glow of the horn and I feel my balls shiver… The heightened sensitivity is soothed, my cock stiffens. Yeah, I do want to fuck her again."
 
 # game/castle.rpy#L2173
 translate chinese selenesex_ce617998:
 
     # "…"
-    ""
+    "…"
 
 # game/castle.rpy#L2176
 translate chinese selenesex_57872c00:
 
     # "I think I understand why men have a refractory period, otherwise we’d never stop fucking."
-    ""
+    "I think I understand why men have a refractory period, otherwise we’d never stop fucking."
 
 # game/castle.rpy#L2177
 translate chinese selenesex_123aeed3:
 
     # "I lost count of how many hours Selene and I spent together; our limbs entangled as we made sweet love."
-    ""
+    "I lost count of how many hours Selene and I spent together; our limbs entangled as we made sweet love."
 
 # game/castle.rpy#L2178
 translate chinese selenesex_8979b540:
 
     # "Unfortunately, all the best things in life come to an inevitable end. She had work to do, and I had best return home."
-    ""
+    "Unfortunately, all the best things in life come to an inevitable end. She had work to do, and I had best return home."
 
 # game/castle.rpy#L2179
 translate chinese selenesex_f09607c8:
 
     # "She kissed me goodbye, a kiss fuelled with a youthful passion that I had reinvigorated within her."
-    ""
+    "She kissed me goodbye, a kiss fuelled with a youthful passion that I had reinvigorated within her."
 
 # game/castle.rpy#L2180
 translate chinese selenesex_a4833508:
 
     # "Perhaps we’d do this again one night, although I’m fairly certain that the next time we meet it would be through formalities."
-    ""
+    "Perhaps we’d do this again one night, although I’m fairly certain that the next time we meet it would be through formalities."
 
 # game/castle.rpy#L2181
 translate chinese selenesex_a8a32fbf:
 
     # "She also paid me 100 monies, that's considerably more than anywhere else!"
-    ""
+    "She also paid me 100 monies, that's considerably more than anywhere else!"
 
 # game/castle.rpy#L2183
 translate chinese selenesex_063bfbe9:
 
     # "These are the things I think about on a cool evening walk home under the stars."
-    ""
+    "These are the things I think about on a cool evening walk home under the stars."
 
 # game/castle.rpy#L2184
 translate chinese selenesex_feb81631:
 
     # "What a night, I hope I have a nice dream."
-    ""
+    "What a night, I hope I have a nice dream."
 
 # game/castle.rpy#L2192
 translate chinese selenesex_10d10b9d:
 
     # "When I arrive home, Moxie is still in bed, hopefully having sweeter dreams than before."
-    ""
+    "When I arrive home, Moxie is still in bed, hopefully having sweeter dreams than before."
 
 # game/castle.rpy#L2193
 translate chinese selenesex_4151b2a1:
 
     # "She probably won't remember anything that happened in her dream."
-    ""
+    "She probably won't remember anything that happened in her dream."
 
 # game/castle.rpy#L2194
 translate chinese selenesex_9816f787:
 
     # "I snuggle up with her and soon doze off."
-    ""
+    "I snuggle up with her and soon doze off."
 
 # game/castle.rpy#L2199
 translate chinese selenesex_497795be:
 
     # "When I arrive home, Butters is actually awake and in bed. Does she remember?"
-    ""
+    "When I arrive home, Butters is actually awake and in bed. Does she remember?"
 
 # game/castle.rpy#L2201
 translate chinese selenesex_4784ede3:
 
     # butters "Hey, thank you for helping me tonight."
-    butters ""
+    butters "Hey, thank you for helping me tonight."
 
 # game/castle.rpy#L2202
 translate chinese selenesex_36a26b7e:
 
     # mc "So you do remember, you're welcome."
-    mc ""
+    mc "So you do remember, you're welcome."
 
 # game/castle.rpy#L2203
 translate chinese selenesex_1bcefa5f:
 
     # butters "I used my dream-weaver potion, it doesn't just let me control my dreams, but also hop between and remember them."
-    butters ""
+    butters "I used my dream-weaver potion, it doesn't just let me control my dreams, but also hop between and remember them."
 
 # game/castle.rpy#L2204
 translate chinese selenesex_217e7474:
 
     # mc "I had no idea there was a nightmare problem, I'm glad it's solved though."
-    mc ""
+    mc "I had no idea there was a nightmare problem, I'm glad it's solved though."
 
 # game/castle.rpy#L2206
 translate chinese selenesex_2e6ef523:
 
     # butters "Yeah, I was really scared when I realized my relic got corrupted..."
-    butters ""
+    butters "Yeah, I was really scared when I realized my relic got corrupted..."
 
 # game/castle.rpy#L2208
 translate chinese selenesex_ad67c682:
 
     # butters "*Sigh*. Everything is okay now though, I stayed up so we could snuggle."
-    butters ""
+    butters "*Sigh*. Everything is okay now though, I stayed up so we could snuggle."
 
 # game/castle.rpy#L2209
 translate chinese selenesex_1a28b5f3:
 
     # mc "Sounds like a plan, goodnight Butters."
-    mc ""
+    mc "Sounds like a plan, goodnight Butters."
 
 # game/castle.rpy#L2210
 translate chinese selenesex_55849115:
 
     # butters "G'night [playername]!"
-    butters ""
+    butters "G'night [playername]!"
 
 # game/castle.rpy#L2216
 translate chinese principalaurora_03e53559:
 
     # "Stepping out of the closet, I see the principal is at her desk performing some paperwork, but within seconds of revealing myself her attention is completely on me."
-    ""
+    "Stepping out of the closet, I see the principal is at her desk performing some paperwork, but within seconds of revealing myself her attention is completely on me."
 
 # game/castle.rpy#L2220
 translate chinese principalaurora_66af6113:
 
     # paurora "Ahh, good morning. Are you here for some extra credit? Hehe."
-    paurora ""
+    paurora "Ahh, good morning. Are you here for some extra credit? Hehe."
 
 # game/castle.rpy#L2221
 translate chinese principalaurora_8cd8134e:
 
     # mc "Nice to see you too, Aurora. As you can imagine, I've decided to take your 'offer'."
-    mc ""
+    mc "Nice to see you too, Aurora. As you can imagine, I've decided to take your 'offer'."
 
 # game/castle.rpy#L2223
 translate chinese principalaurora_dee3053b:
 
     # paurora "And you've arrived completely nude no less, I can take a hint."
-    paurora ""
+    paurora "And you've arrived completely nude no less, I can take a hint."
 
 # game/castle.rpy#L2224
 translate chinese principalaurora_f0e4af7c:
 
     # mc "Well, it's just that-"
-    mc ""
+    mc "Well, it's just that-"
 
 # game/castle.rpy#L2227
 translate chinese principalaurora_10031b90:
 
     # paurora "Better?"
-    paurora ""
+    paurora "Better?"
 
 # game/castle.rpy#L2228
 translate chinese principalaurora_e0ee6704:
 
     # mc "Damn, yep, better."
-    mc ""
+    mc "Damn, yep, better."
 
 # game/castle.rpy#L2230
 translate chinese principalaurora_b3d2c848:
 
     # paurora "Oohh, I just saw your cock twitch, it's so cute."
-    paurora ""
+    paurora "Oohh, I just saw your cock twitch, it's so cute."
 
 # game/castle.rpy#L2232
 translate chinese principalaurora_9ee8da0b:
 
     # paurora "Mmm… I think I have a lady boner that requires taking care of too. *Giggles*"
-    paurora ""
+    paurora "Mmm… I think I have a lady boner that requires taking care of too. *Giggles*"
 
 # game/castle.rpy#L2233
 translate chinese principalaurora_ff4ab193:
 
     # paurora "Think you can help me, big boy?"
-    paurora ""
+    paurora "Think you can help me, big boy?"
 
 # game/castle.rpy#L2234
 translate chinese principalaurora_c848172b:
 
     # "She's such a damn cougar, but I love it."
-    ""
+    "She's such a damn cougar, but I love it."
 
 # game/castle.rpy#L2235
 translate chinese principalaurora_7d2d40fd:
 
     # "She closes the distance, wraps her slender fingers around my growing cock, and gently starts to jack me off into a full throbbing erection."
-    ""
+    "She closes the distance, wraps her slender fingers around my growing cock, and gently starts to jack me off into a full throbbing erection."
 
 # game/castle.rpy#L2236
 translate chinese principalaurora_ff0bac28:
 
     # mc "*Twitch, throb*"
-    mc ""
+    mc "*Twitch, throb*"
 
 # game/castle.rpy#L2238
 translate chinese principalaurora_c42c88b2:
 
     # paurora "Okay darling, you know my favourite position by now."
-    paurora ""
+    paurora "Okay darling, you know my favourite position by now."
 
 # game/castle.rpy#L2239
 translate chinese principalaurora_bee78fcc:
 
     # mc "It's one hell of a position. Park your rear on my crotch if you will."
-    mc ""
+    mc "It's one hell of a position. Park your rear on my crotch if you will."
 
 # game/castle.rpy#L2241
 translate chinese principalaurora_9808ae04:
 
     # paurora "I think I shall, hehe."
-    paurora ""
+    paurora "I think I shall, hehe."
 
 # game/castle.rpy#L2244
 translate chinese principalaurora_7ec7924e:
 
     # paurora "Perfect, babe… Lift my legs up, lock them with your elbows... Hehe, you got it first try."
-    paurora ""
+    paurora "Perfect, babe… Lift my legs up, lock them with your elbows... Hehe, you got it first try."
 
 # game/castle.rpy#L2246
 translate chinese principalaurora_3bfe79a5:
 
     # mc "I aim to please."
-    mc ""
+    mc "I aim to please."
 
 # game/castle.rpy#L2251
 translate chinese principalaurora_a5e09b1b:
 
     # paurora "Having a cute boy like you visit me makes me so fucking wet."
-    paurora ""
+    paurora "Having a cute boy like you visit me makes me so fucking wet."
 
 # game/castle.rpy#L2254
 translate chinese principalaurora_429d025f:
 
     # "She lustfully wiggles her hips until the tip of my cock immediately slides in, she was so quick that I barely had time to adjust to this strange position."
-    ""
+    "She lustfully wiggles her hips until the tip of my cock immediately slides in, she was so quick that I barely had time to adjust to this strange position."
 
 # game/castle.rpy#L2255
 translate chinese principalaurora_189db9be:
 
     # "I’m not even moving, but from the mere penetration she’s panting like a bitch in heat."
-    ""
+    "I’m not even moving, but from the mere penetration she’s panting like a bitch in heat."
 
 # game/castle.rpy#L2257
 translate chinese principalaurora_1f21b918:
 
     # "The reduced wetness and thus extra friction from her pussy is very noticable as I begin to pump up and down."
-    ""
+    "The reduced wetness and thus extra friction from her pussy is very noticable as I begin to pump up and down."
 
 # game/castle.rpy#L2258
 translate chinese principalaurora_ce02685d:
 
     # paurora "Yesss! Go wild! Haah, haah."
-    paurora ""
+    paurora "Yesss! Go wild! Haah, haah."
 
 # game/castle.rpy#L2259
 translate chinese principalaurora_d3cf4689:
 
     # "Her pussy is already constantly dripping with feminine arousal around my cock, is this horny bitch this wet by default?"
-    ""
+    "Her pussy is already constantly dripping with feminine arousal around my cock, is this horny bitch this wet by default?"
 
 # game/castle.rpy#L2260
 translate chinese principalaurora_28a248ce:
 
     # "As I move my hips, my cock slides back and forth with ease and depth. Even at this slower pace, each thrust hits the right spots within Aurora to make her squeal with delight."
-    ""
+    "As I move my hips, my cock slides back and forth with ease and depth. Even at this slower pace, each thrust hits the right spots within Aurora to make her squeal with delight."
 
 # game/castle.rpy#L2261
 translate chinese principalaurora_8d2005dd:
 
     # "It feels incredibly pleasurable for me too, as Aurora’s tight warm pussy constantly squeezes and sucks each and every inch of my shaft almost deliberately."
-    ""
+    "It feels incredibly pleasurable for me too, as Aurora’s tight warm pussy constantly squeezes and sucks each and every inch of my shaft almost deliberately."
 
 # game/castle.rpy#L2262
 translate chinese principalaurora_9c64f2c6:
 
     # paurora "Ohh myy, you’re such a big boy… You always leave me so satisfied, haahh..."
-    paurora ""
+    paurora "Ohh myy, you’re such a big boy… You always leave me so satisfied, haahh..."
 
 # game/castle.rpy#L2263
 translate chinese principalaurora_261e38d8:
 
     # "It's fortunate that there’s a mirror in the corner of the room, allowing me to admire her body even from this angle. She looks so sexy right now, and she’s all mine."
-    ""
+    "It's fortunate that there’s a mirror in the corner of the room, allowing me to admire her body even from this angle. She looks so sexy right now, and she’s all mine."
 
 # game/castle.rpy#L2264
 translate chinese principalaurora_216f6a91:
 
     # "As my cock gets wetter and slicker with her juices, I find myself able to increase my pace as the motions of our fucking get smoother."
-    ""
+    "As my cock gets wetter and slicker with her juices, I find myself able to increase my pace as the motions of our fucking get smoother."
 
 # game/castle.rpy#L2265
 translate chinese principalaurora_aa02f5e2:
 
     # paurora "Mmm… No need to hold back, [playername], I want you to breed me, haah..."
-    paurora ""
+    paurora "Mmm… No need to hold back, [playername], I want you to breed me, haah..."
 
 # game/castle.rpy#L2266
 translate chinese principalaurora_9ad30b93:
 
     # "I hold her tightly and start fucking the horny principal at a vigorous pace. As our skin connects the lack of fur causes an even more satisfying slap sound than I’m used to."
-    ""
+    "I hold her tightly and start fucking the horny principal at a vigorous pace. As our skin connects the lack of fur causes an even more satisfying slap sound than I’m used to."
 
 # game/castle.rpy#L2267
 translate chinese principalaurora_5987bbd9:
 
     # "And the increase in friction and tightness of her human pussy immensely increases the pleasure I'm used to."
-    ""
+    "And the increase in friction and tightness of her human pussy immensely increases the pleasure I'm used to."
 
 # game/castle.rpy#L2269
 translate chinese principalaurora_e96345be:
 
     # paurora "Ahhh, jesus, what do they teach you over there? Mmm, mmmphh, you’re a good fuck!"
-    paurora ""
+    paurora "Ahhh, jesus, what do they teach you over there? Mmm, mmmphh, you’re a good fuck!"
 
 # game/castle.rpy#L2270
 translate chinese principalaurora_9e0ea8da:
 
     # "She flinches and quivers under my grasp, while my cock plunges repeatedly into her deepest and most sensitive spots."
-    ""
+    "She flinches and quivers under my grasp, while my cock plunges repeatedly into her deepest and most sensitive spots."
 
 # game/castle.rpy#L2271
 translate chinese principalaurora_770471c7:
 
     # "As I speed up my fucking, her entire body wriggles more, especially her large breasts which rock back and forth in tandem which each thrust."
-    ""
+    "As I speed up my fucking, her entire body wriggles more, especially her large breasts which rock back and forth in tandem which each thrust."
 
 # game/castle.rpy#L2272
 translate chinese principalaurora_b93b25c6:
 
     # "She’s so squishy and soft, almost her entire body ripples like a body of water receiving a droplet."
-    ""
+    "She’s so squishy and soft, almost her entire body ripples like a body of water receiving a droplet."
 
 # game/castle.rpy#L2273
 translate chinese principalaurora_8994c67a:
 
     # "And this increased friction… It feels too good, I can already feel my orgasm building, my mind going white with pleasure."
-    ""
+    "And this increased friction… It feels too good, I can already feel my orgasm building, my mind going white with pleasure."
 
 # game/castle.rpy#L2274
 translate chinese principalaurora_18b2ae57:
 
     # paurora "Ooohh, ohh, I’m so close! You’re gonna make me lose my mind! Haahh, aaah!"
-    paurora ""
+    paurora "Ooohh, ohh, I’m so close! You’re gonna make me lose my mind! Haahh, aaah!"
 
 # game/castle.rpy#L2275
 translate chinese principalaurora_0b0f6c66:
 
     # "Even though I try to hold back my orgasm, her moaning causes it to rise almost immediately."
-    ""
+    "Even though I try to hold back my orgasm, her moaning causes it to rise almost immediately."
 
 # game/castle.rpy#L2280
 translate chinese principalaurora_bf06591b:
 
     # "The moment I feel her pussy clench around my shaft, my orgasm hits, exploding forcefully from my tip, borderline prematurely."
-    ""
+    "The moment I feel her pussy clench around my shaft, my orgasm hits, exploding forcefully from my tip, borderline prematurely."
 
 # game/castle.rpy#L2285
 translate chinese principalaurora_6c75a4fe:
 
     # "The cougar's pussy has me beat, I can't hold back as I relentlessly unload my cum deep inside her."
-    ""
+    "The cougar's pussy has me beat, I can't hold back as I relentlessly unload my cum deep inside her."
 
 # game/castle.rpy#L2292
 translate chinese principalaurora_6ba4f449:
 
     # "Aurora’s body arches and coils as a full-body orgasm consumes her, albeit still restrained in my tight grip as I continuously and recklessly pound her pussy for each droplet of pleasure it’s worth."
-    ""
+    "Aurora’s body arches and coils as a full-body orgasm consumes her, albeit still restrained in my tight grip as I continuously and recklessly pound her pussy for each droplet of pleasure it’s worth."
 
 # game/castle.rpy#L2293
 translate chinese principalaurora_763e374c:
 
     # "In my lust, I don’t slow down a second, continuing to fuck her throughout until we're both completely spent."
-    ""
+    "In my lust, I don’t slow down a second, continuing to fuck her throughout until we're both completely spent."
 
 # game/castle.rpy#L2298
 translate chinese principalaurora_8c69e16a:
 
     # paurora "Ahh, haahh... Ohh... You're pretty good..."
-    paurora ""
+    paurora "Ahh, haahh... Ohh... You're pretty good..."
 
 # game/castle.rpy#L2299
 translate chinese principalaurora_ac616f8e:
 
     # mc "I could say the same to you. There's a reason I came running back."
-    mc ""
+    mc "I could say the same to you. There's a reason I came running back."
 
 # game/castle.rpy#L2301
 translate chinese principalaurora_adda6f5c:
 
     # paurora "By all means, visit frequently, ahah."
-    paurora ""
+    paurora "By all means, visit frequently, ahah."
 
 # game/castle.rpy#L2302
 translate chinese principalaurora_bf74e9a1:
 
     # mc "You really are horny for me, aren't you?"
-    mc ""
+    mc "You really are horny for me, aren't you?"
 
 # game/castle.rpy#L2304
 translate chinese principalaurora_3e1c1dfc:
 
     # paurora "More than you can possibly imagine, little boy."
-    paurora ""
+    paurora "More than you can possibly imagine, little boy."
 
 # game/castle.rpy#L2305
 translate chinese principalaurora_7314c82a:
 
     # mc "Heh, well... I'll let you get on with it."
-    mc ""
+    mc "Heh, well... I'll let you get on with it."
 
 # game/castle.rpy#L2307
 translate chinese principalaurora_5eadf8b3:
 
     # paurora "Ahh, yeah... Goodbye babe, think about me, okay?"
-    paurora ""
+    paurora "Ahh, yeah... Goodbye babe, think about me, okay?"
 
 # game/castle.rpy#L2308
 translate chinese principalaurora_dac16979:
 
     # mc "I will."
-    mc ""
+    mc "I will."
 
 # game/castle.rpy#L2310
 translate chinese principalaurora_00204d4f:
 
     # "Stepping back into the closet, I find myself whisked away back into Arcadia."
-    ""
+    "Stepping back into the closet, I find myself whisked away back into Arcadia."
 
 # game/castle.rpy#L2314
 translate chinese principalaurora_8cd6916f:
 
     # mc "Hmm... Is it just me, or is human Aurora kinda crazy for me?"
-    mc ""
+    mc "Hmm... Is it just me, or is human Aurora kinda crazy for me?"
 
 # game/castle.rpy#L2323
 translate chinese principalaurora_069b1df1:
 
     # aurora "Pardon?"
-    aurora ""
+    aurora "Pardon?"
 
 # game/castle.rpy#L2324
 translate chinese principalaurora_2ac4cd37:
 
     # mc "Ah?! Your majesty?!"
-    mc ""
+    mc "Ah?! Your majesty?!"
 
 # game/castle.rpy#L2326
 translate chinese principalaurora_8a56b8d6:
 
     # aurora "Is the human Aurora being a nuisance? Hehe."
-    aurora ""
+    aurora "Is the human Aurora being a nuisance? Hehe."
 
 # game/castle.rpy#L2327
 translate chinese principalaurora_a2676265:
 
     # mc "No, not at all! I mean, quite the opposite, actually."
-    mc ""
+    mc "No, not at all! I mean, quite the opposite, actually."
 
 # game/castle.rpy#L2329
 translate chinese principalaurora_4de611bd:
 
     # aurora "What is the matter, my child?"
-    aurora ""
+    aurora "What is the matter, my child?"
 
 # game/castle.rpy#L2330
 translate chinese principalaurora_08b6b41e:
 
     # mc "Well... I know I can be honest with you, but it's a... well..."
-    mc ""
+    mc "Well... I know I can be honest with you, but it's a... well..."
 
 # game/castle.rpy#L2331
 translate chinese principalaurora_c0601bf5:
 
     # mc "She seems really obsessed with having sex with me."
-    mc ""
+    mc "She seems really obsessed with having sex with me."
 
 # game/castle.rpy#L2332
 translate chinese principalaurora_7116b779:
 
     # mc "Actually, she was almost immediately wet enough for penetration without any foreplay."
-    mc ""
+    mc "Actually, she was almost immediately wet enough for penetration without any foreplay."
 
 # game/castle.rpy#L2334
 translate chinese principalaurora_5c59b29a:
 
     # aurora "Oh dear, you are going off and fucking people from other universes now?"
-    aurora ""
+    aurora "Oh dear, you are going off and fucking people from other universes now?"
 
 # game/castle.rpy#L2336
 translate chinese principalaurora_7313181a:
 
     # aurora "I shall need to rein you in at this rate."
-    aurora ""
+    aurora "I shall need to rein you in at this rate."
 
 # game/castle.rpy#L2338
 translate chinese principalaurora_c229ab19:
 
     # aurora "Hmm... The answer is going to disappoint you."
-    aurora ""
+    aurora "Hmm... The answer is going to disappoint you."
 
 # game/castle.rpy#L2339
 translate chinese principalaurora_f1955463:
 
     # aurora "The principal adores science, and often makes attempts to indulge in the furthest reaches of science she can."
-    aurora ""
+    aurora "The principal adores science, and often makes attempts to indulge in the furthest reaches of science she can."
 
 # game/castle.rpy#L2340
 translate chinese principalaurora_3c7b90aa:
 
     # aurora "She always requests to visit here, and while I have allowed it once or twice, I cannot allow a human version of myself to wander around in the public eye."
-    aurora ""
+    aurora "She always requests to visit here, and while I have allowed it once or twice, I cannot allow a human version of myself to wander around in the public eye."
 
 # game/castle.rpy#L2341
 translate chinese principalaurora_9685c3a2:
 
     # aurora "She, uhm... May have really wanted to sleep with someone from here for 'science'. I suppose you are the only person she can do that with."
-    aurora ""
+    aurora "She, uhm... May have really wanted to sleep with someone from here for 'science'. I suppose you are the only person she can do that with."
 
 # game/castle.rpy#L2342
 translate chinese principalaurora_2c566b78:
 
     # "Ahh! So, was it Principal Aurora that set Dawn up to bring a guy to her? God damnit, that explains that ridiculous 'fuck a cougar' challenge."
-    ""
+    "Ahh! So, was it Principal Aurora that set Dawn up to bring a guy to her? God damnit, that explains that ridiculous 'fuck a cougar' challenge."
 
 # game/castle.rpy#L2343
 translate chinese principalaurora_2d270b0b:
 
     # mc "For 'science'? Awhh, man... She only wants to sleep with me because I'm from another universe?"
-    mc ""
+    mc "For 'science'? Awhh, man... She only wants to sleep with me because I'm from another universe?"
 
 # game/castle.rpy#L2345
 translate chinese principalaurora_b49fd843:
 
     # aurora "Certainly a possibility. But she probably has a pretty wild libido regardless."
-    aurora ""
+    aurora "Certainly a possibility. But she probably has a pretty wild libido regardless."
 
 # game/castle.rpy#L2346
 translate chinese principalaurora_5733239e:
 
     # mc "Oh yeah, how would you known that one? Hehe."
-    mc ""
+    mc "Oh yeah, how would you known that one? Hehe."
 
 # game/castle.rpy#L2348
 translate chinese principalaurora_fe5b4b4f:
 
     # aurora "Cease your insolence! I merely know how to read people. *Giggle*"
-    aurora ""
+    aurora "Cease your insolence! I merely know how to read people. *Giggle*"
 
 # game/castle.rpy#L2350
 translate chinese principalaurora_652936fb:
 
     # aurora "That is not all, if she is anything like me, she probably likes younger men."
-    aurora ""
+    aurora "That is not all, if she is anything like me, she probably likes younger men."
 
 # game/castle.rpy#L2351
 translate chinese principalaurora_80831fe4:
 
     # mc "I figured that one out, she's a complete cougar."
-    mc ""
+    mc "I figured that one out, she's a complete cougar."
 
 # game/castle.rpy#L2353
 translate chinese principalaurora_3a5b6b70:
 
     # aurora "Couuu... gar? Like the species of feline woman?"
-    aurora ""
+    aurora "Couuu... gar? Like the species of feline woman?"
 
 # game/castle.rpy#L2354
 translate chinese principalaurora_f160fcdc:
 
     # mc "You wouldn't get it..."
-    mc ""
+    mc "You wouldn't get it..."
 
 # game/castle.rpy#L2356
 translate chinese principalaurora_22f04311:
 
     # aurora "Regardless, worry not, young one. Her adoration for you is genuine, that much I know."
-    aurora ""
+    aurora "Regardless, worry not, young one. Her adoration for you is genuine, that much I know."
 
 # game/castle.rpy#L2357
 translate chinese principalaurora_66636869:
 
     # mc "Oh? How'd you figure that?"
-    mc ""
+    mc "Oh? How'd you figure that?"
 
 # game/castle.rpy#L2359
 translate chinese principalaurora_5a9237b8:
 
     # aurora "Ahh... [playername]... Do I have to spell it out to you?"
-    aurora ""
+    aurora "Ahh... [playername]... Do I have to spell it out to you?"
 
 # game/castle.rpy#L2360
 translate chinese principalaurora_1f45ad73:
 
     # mc "Huh? Sure?"
-    mc ""
+    mc "Huh? Sure?"
 
 # game/castle.rpy#L2362
 translate chinese principalaurora_936ca40b:
 
     # aurora "You are {i}really, really, really{/i} her type."
-    aurora ""
+    aurora "You are {i}really, really, really{/i} her type."
 
 # game/castle.rpy#L2363
 translate chinese principalaurora_ff684914:
 
     # mc "I... see... I think I understand now."
-    mc ""
+    mc "I... see... I think I understand now."
 
 # game/castle.rpy#L2364
 translate chinese principalaurora_8b951ed2:
 
     # mc "Thank you, and sorry to waste your time over random questions, your majesty."
-    mc ""
+    mc "Thank you, and sorry to waste your time over random questions, your majesty."
 
 # game/castle.rpy#L2366
 translate chinese principalaurora_d84e9a9b:
 
     # aurora "Worry not, it was my pleasure."
-    aurora ""
+    aurora "Worry not, it was my pleasure."
 
 translate chinese strings:
 
@@ -8125,7 +8125,7 @@ translate chinese strings:
 
     # game/castle.rpy_L658_2
     old "Craziest bucket list story?"
-    new ""
+    new "Craziest bucket list story?"
 
     # game/castle.rpy_L739_0
     old "Blowjob into Cowgirl"
@@ -8173,7 +8173,7 @@ translate chinese strings:
 
     # game/castle.rpy_L1258_1
     old "Get back into athletics in different ways."
-    new ""
+    new "Get back into athletics in different ways."
 
     # game/castle.rpy_L1258_2
     old "Learn to love yourself and your decisions."
@@ -8185,7 +8185,7 @@ translate chinese strings:
 
     # game/castle.rpy_L1357_1
     old "Are these figures representations of the people that judge you for your work?"
-    new ""
+    new "Are these figures representations of the people that judge you for your work?"
 
     # game/castle.rpy_L1394_0
     old "Ghosts aren’t real, you don’t have to worry about it."

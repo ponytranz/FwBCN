@@ -1,4 +1,4 @@
-# Translation updated at Sun Jun 13 2021 10:42:31 GMT+0800 (香港标准时间)
+# Translation updated at Tue Jun 15 2021 19:43:45 GMT+0000 (Coordinated Universal Time)
 # game/spaday.rpy#L3
 translate chinese spaday_04fdf40f:
 
@@ -117,7 +117,7 @@ translate chinese spaday_b17752f7:
 translate chinese spaday_0523376c:
 
     # mc "Woah, calm your accalades. You're making me sound like a fuckboy."
-    mc ""
+    mc "Woah, calm your accalades. You're making me sound like a fuckboy."
 
 # game/spaday.rpy#L83
 translate chinese spaday_40693c67:
@@ -363,7 +363,7 @@ translate chinese spaday_835f51c4:
 translate chinese spaday_ce85d8aa:
 
     # "I justified that as myself figuring out the world, but I think it’s time to start making some big decisions."
-    ""
+    "I justified that as myself figuring out the world, but I think it’s time to start making some big decisions."
 
 # game/spaday.rpy#L159
 translate chinese spaday_70138a8a:

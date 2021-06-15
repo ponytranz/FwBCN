@@ -1,4 +1,4 @@
-# Translation updated at Sun Jun 13 2021 10:42:31 GMT+0800 (香港标准时间)
+# Translation updated at Tue Jun 15 2021 19:43:44 GMT+0000 (Coordinated Universal Time)
 # game/artgallery.rpy#L8
 translate chinese artgallery_867fe6a7:
 
@@ -265,7 +265,7 @@ translate chinese strings:
 
     # game/artgallery.rpy_L580_0
     old "Blowjob (Maid and Without)"
-    new ""
+    new "口交（穿或不穿女仆装）"
 
     # game/artgallery.rpy_L580_1
     old "Riding Anal"
@@ -293,11 +293,11 @@ translate chinese strings:
 
     # game/artgallery.rpy_L706_0
     old "Slime'd"
-    new ""
+    new "Slime'd"
 
     # game/artgallery.rpy_L706_1
     old "Plant'd"
-    new ""
+    new "Plant'd"
 
     # game/artgallery.rpy_L706_2
     old "Cowgirl (Normal/Succubus)"
@@ -365,7 +365,7 @@ translate chinese strings:
 
     # game/artgallery.rpy_L1029_4
     old "Random Cow Girls Threesome"
-    new ""
+    new "Random Cow Girls Threesome"
 
     # game/artgallery.rpy_L1117_0
     old "Ari, Sonia and Agatha"
@@ -425,7 +425,7 @@ translate chinese strings:
 
     # game/artgallery.rpy_L1278_0
     old "The Entire Dawn Lily Mega-Fuck"
-    new ""
+    new "The Entire Dawn Lily Mega-Fuck"
 
     # game/artgallery.rpy_L1377_0
     old "Cindy Reverse Cowgirl"
@@ -461,11 +461,11 @@ translate chinese strings:
 
     # game/artgallery.rpy_L1421_0
     old "Doggystyle (Vaginal and unused Anal variant)"
-    new ""
+    new "Doggystyle (Vaginal and unused Anal variant)"
 
     # game/artgallery.rpy_L1421_1
     old "Leg-Up Sideways"
-    new ""
+    new "Leg-Up Sideways"
 
     # game/artgallery.rpy_L1421_2
     old "Alraune Standing(?) Sex"
@@ -473,23 +473,23 @@ translate chinese strings:
 
     # game/artgallery.rpy_L1483_0
     old "Hole - Augusta"
-    new ""
+    new "Hole - Augusta"
 
     # game/artgallery.rpy_L1483_1
     old "Hole - Suspicously Recognizable Orange Pony"
-    new ""
+    new "Hole - Suspicously Recognizable Orange Pony"
 
     # game/artgallery.rpy_L1483_2
     old "Hole - Yellow Pony"
-    new ""
+    new "Hole - Yellow Pony"
 
     # game/artgallery.rpy_L1483_3
     old "Hole - Black/White Pony"
-    new ""
+    new "Hole - Black/White Pony"
 
     # game/artgallery.rpy_L1483_4
     old "Hole - Red Pony"
-    new ""
+    new "Hole - Red Pony"
 
     # game/artgallery.rpy_L1614_0
     old "Aurora Threesome"

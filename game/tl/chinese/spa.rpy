@@ -1,4 +1,4 @@
-# Translation updated at Sun Jun 13 2021 10:42:31 GMT+0800 (香港标准时间)
+# Translation updated at Tue Jun 15 2021 19:43:45 GMT+0000 (Coordinated Universal Time)
 # game/spa.rpy#L3
 translate chinese mapspa_a07ff8e2:
 
@@ -183,7 +183,7 @@ translate chinese spa1_8e035930:
 translate chinese spa1_c7d0947c:
 
     # "For the happy ending, the two girls have pincered my cock and begun to mush our sexes together in a most erotic sight."
-    ""
+    "For the happy ending, the two girls have pincered my cock and begun to mush our sexes together in a most erotic sight."
 
 # game/spa.rpy#L80
 translate chinese spa1_5ef20d88:
@@ -207,7 +207,7 @@ translate chinese spa1_92d78b39:
 translate chinese spa1_4e58a0c3:
 
     # whitemare "The rules state that happy endings are non-penetrative, and I don't see anything penetrative about this."
-    whitemare ""
+    whitemare "The rules state that happy endings are non-penetrative, and I don't see anything penetrative about this."
 
 # game/spa.rpy#L84
 translate chinese spa1_f554f56c:
@@ -585,7 +585,7 @@ translate chinese spa3_925164f9:
 translate chinese spa3_524be18f:
 
     # mc "Attack?"
-    mc "“进攻”？"
+    mc "进攻？"
 
 # game/spa.rpy#L196
 translate chinese spa3_5ed5abca:
@@ -723,7 +723,7 @@ translate chinese spa3_07d0bd9c:
 translate chinese spa3_61545cd4:
 
     # whitemare "Aahhaaah… First of the day is always the best."
-    whitemare "啊啊啊……每天的“第一次”总是最美妙的。"
+    whitemare "啊啊啊……每天的第一次总是最美妙的。"
 
 # game/spa.rpy#L227
 translate chinese spa3_5f4e9008:
@@ -1053,7 +1053,7 @@ translate chinese spaspecial_9a7e5bd4:
 translate chinese spaspecial_1cc5183a:
 
     # greymare "Ahhh mmmhh, fuck me harder [playername]! Ahhh, ahh!"
-    greymare "啊，嗯……，[playername]，使劲操我把！啊，啊！"
+    greymare "啊，嗯……，[playername]，使劲操我吧！啊，啊！"
 
 # game/spa.rpy#L314
 translate chinese spaspecial_86a71312:
@@ -1117,7 +1117,7 @@ translate chinese strings:
 
     # game/spa.rpy_L20_1
     old "Massage with Happy Ending - 50 monies"
-    new ""
+    new "Massage with Happy Ending - 50 monies"
 
     # game/spa.rpy_L20_2
     old "Massage with Blowjob - 75 monies"

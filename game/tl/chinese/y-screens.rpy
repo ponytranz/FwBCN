@@ -1,4 +1,4 @@
-# Translation updated at Sun Jun 13 2021 10:42:31 GMT+0800 (香港标准时间)
+# Translation updated at Tue Jun 15 2021 19:43:45 GMT+0000 (Coordinated Universal Time)
 # game/y-screens.rpy#L1551
 translate chinese todolist_5a4038dc:
 
@@ -21,7 +21,7 @@ translate chinese todolist_2ec1c7e4:
 translate chinese inventorymenuday_25c128ba:
 
     # "This is the bag Moxie gave me. Well, she called it a 'satchel', I don't know what the difference is."
-    "这个包是Moxie送给我的。嗯，她把这个包称作是“小背包”，可我不明白这个名字到底有什么不同之处。"
+    "这个包是Moxie送给我的。嗯，她把这个包称作是'小背包'，可我不明白这个名字到底有什么不同之处。"
 
 # game/y-screens.rpy#L1879
 translate chinese inventorymenuday_e4cea817:
@@ -305,7 +305,7 @@ translate chinese strings:
 
     # game/y-screens.rpy_L1090_0
     old "Mouse Wheel Up\nClick Rollback Side"
-    new ""
+    new "Mouse Wheel Up\nClick Rollback Side"
 
     # game/y-screens.rpy_L1094_0
     old "Mouse Wheel Down"
@@ -313,15 +313,15 @@ translate chinese strings:
 
     # game/y-screens.rpy_L1101_0
     old "Right Trigger\nA/Bottom Button"
-    new ""
+    new "Right Trigger\nA/Bottom Button"
 
     # game/y-screens.rpy_L1105_0
     old "Left Trigger\nLeft Shoulder"
-    new ""
+    new "Left Trigger\nLeft Shoulder"
 
     # game/y-screens.rpy_L1109_0
     old "Right Shoulder"
-    new ""
+    new "Right Shoulder"
 
     # game/y-screens.rpy_L1114_0
     old "D-Pad, Sticks"

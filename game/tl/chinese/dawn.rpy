@@ -1,9 +1,9 @@
-# Translation updated at Sun Jun 13 2021 10:42:31 GMT+0800 (香港标准时间)
+# Translation updated at Tue Jun 15 2021 19:43:45 GMT+0000 (Coordinated Universal Time)
 # game/dawn.rpy#L5
 translate chinese dawntalksex_7eb30d83:
 
     # "She isn't up there."
-    ""
+    "She isn't up there."
 
 # game/dawn.rpy#L7
 translate chinese dawntalksex_2414107f:
@@ -195,7 +195,7 @@ translate chinese dawntalkmenu_833919d9:
 translate chinese dawntalkmenu_a65b19a0:
 
     # dawn "Hmm... Allow me to reminisce for a few moments. You're essentially asking me to boil down my entire childhood and teens..."
-    dawn ""嗯。。。让我回忆一下。你是在想了解关于我被宠坏的童年的故事吧。。。"
+    dawn "嗯……让我回忆一下。你是让我总结一下我的整个童年和青年……"
 
 # game/dawn.rpy#L83
 translate chinese dawntalkmenu_85e6ffc3:
@@ -729,7 +729,7 @@ translate chinese dawnrcg_367a454b:
 translate chinese dawnrcg_98351e5e:
 
     # "Backing her hips slightly, my throbbing cock is slotted between her ass cheeks."
-    "稍稍抬起她的臀部，我把抽动的鸡巴夹到那两瓣屁股之间。""
+    "稍稍抬起她的臀部，我把抽动的鸡巴夹到那两瓣屁股之间。"
 
 # game/dawn.rpy#L275
 translate chinese dawnrcg_40104e9c:
@@ -4605,4303 +4605,4303 @@ translate chinese ppclsex_0a9e6b80:
 translate chinese ppclsex_70518fdb:
 
     # dawn "Now we’ve handpicked the universes, I’d like to observe how they change over time."
-    dawn ""
+    dawn "Now we’ve handpicked the universes, I’d like to observe how they change over time."
 
 # game/dawn.rpy#L1363
 translate chinese ppclsex_e9403902:
 
     # dawn "If the boundary of a universe is fixed, that means a universe will always keep a consistent amount of similarities, exactly like the ‘rubber banding’ you described."
-    dawn ""
+    dawn "If the boundary of a universe is fixed, that means a universe will always keep a consistent amount of similarities, exactly like the ‘rubber banding’ you described."
 
 # game/dawn.rpy#L1364
 translate chinese ppclsex_bc2813c7:
 
     # dawn "If the boundary constantly rises as some may surmise, it’ll be like my two infinitely long intersecting lines idea."
-    dawn ""
+    dawn "If the boundary constantly rises as some may surmise, it’ll be like my two infinitely long intersecting lines idea."
 
 # game/dawn.rpy#L1365
 translate chinese ppclsex_748c912f:
 
     # dawn "But it’s also possible that the boundary merely fluctuates, like a 2D double helix."
-    dawn ""
+    dawn "But it’s also possible that the boundary merely fluctuates, like a 2D double helix."
 
 # game/dawn.rpy#L1366
 translate chinese ppclsex_89d7cc4e:
 
     # dawn "Or perhaps we’re just thinking about this the wrong way, who knows. That’s the fun of science!"
-    dawn ""
+    dawn "Or perhaps we’re just thinking about this the wrong way, who knows. That’s the fun of science!"
 
 # game/dawn.rpy#L1367
 translate chinese ppclsex_2e2d489d:
 
     # mc "That’s really amazing, Dawn."
-    mc ""
+    mc "That’s really amazing, Dawn."
 
 # game/dawn.rpy#L1369
 translate chinese ppclsex_f4bc04a0:
 
     # dawn "Ahhh, it’s not so crazy, the studying is in such an infancy I barely feel like I’m doing anything productive at all."
-    dawn ""
+    dawn "Ahhh, it’s not so crazy, the studying is in such an infancy I barely feel like I’m doing anything productive at all."
 
 # game/dawn.rpy#L1371
 translate chinese ppclsex_455e2ced:
 
     # dawn "I’ll probably pass away before any of my research bears fruit, simply because most of the universal similarities are generational."
-    dawn ""
+    dawn "I’ll probably pass away before any of my research bears fruit, simply because most of the universal similarities are generational."
 
 # game/dawn.rpy#L1373
 translate chinese ppclsex_2c6b41ac:
 
     # dawn "In one hundred years, it's completely possible that not a single person will exists in all the mirror portal universes simultaneously. Except pony and anthro alicorns."
-    dawn ""
+    dawn "In one hundred years, it's completely possible that not a single person will exists in all the mirror portal universes simultaneously. Except pony and anthro alicorns."
 
 # game/dawn.rpy#L1374
 translate chinese ppclsex_5d17844d:
 
     # dawn "Ohhh well…"
-    dawn ""
+    dawn "Ohhh well…"
 
 # game/dawn.rpy#L1375
 translate chinese ppclsex_a2689033:
 
     # dawn "All this talk is making me horny."
-    dawn ""
+    dawn "All this talk is making me horny."
 
 # game/dawn.rpy#L1376
 translate chinese ppclsex_1aa87531:
 
     # mc "H-Horny?! No one but you would make such a drastic conversational shift."
-    mc ""
+    mc "H-Horny?! No one but you would make such a drastic conversational shift."
 
 # game/dawn.rpy#L1378
 translate chinese ppclsex_d89bbf79:
 
     # dawn "Hey, it’s not my fault there’s a naked dude sat next to me. You could have kept your new clothes on, but noooooooo, you just had to embrace your nudity."
-    dawn ""
+    dawn "Hey, it’s not my fault there’s a naked dude sat next to me. You could have kept your new clothes on, but noooooooo, you just had to embrace your nudity."
 
 # game/dawn.rpy#L1379
 translate chinese ppclsex_0d11f1db:
 
     # dawn "How do you think I feel having your penis in my peripheral vision the entire time and being forced to imagine incredibly naughty acts?"
-    dawn ""
+    dawn "How do you think I feel having your penis in my peripheral vision the entire time and being forced to imagine incredibly naughty acts?"
 
 # game/dawn.rpy#L1380
 translate chinese ppclsex_257a3030:
 
     # mc "N-Naughty, huh? Haven’t you gotten used to nudity yet?"
-    mc ""
+    mc "N-Naughty, huh? Haven’t you gotten used to nudity yet?"
 
 # game/dawn.rpy#L1382
 translate chinese ppclsex_53173792:
 
     # dawn "Mmm, perhaps you’re right. Maybe I should remove my dress…"
-    dawn ""
+    dawn "Mmm, perhaps you’re right. Maybe I should remove my dress…"
 
 # game/dawn.rpy#L1383
 translate chinese ppclsex_9e39b7ec:
 
     # dawn "At least, I could do you the courtesy of removing her, mmheheh."
-    dawn ""
+    dawn "At least, I could do you the courtesy of removing her, mmheheh."
 
 # game/dawn.rpy#L1384
 translate chinese ppclsex_3b16556b:
 
     # dawn "Stand to attention big boy, you’re about to witness a miracle…"
-    dawn ""
+    dawn "Stand to attention big boy, you’re about to witness a miracle…"
 
 # game/dawn.rpy#L1387
 translate chinese ppclsex_54e4da7b:
 
     # "Is she talking to me, my dick, or both of us simultaneously?"
-    ""
+    "Is she talking to me, my dick, or both of us simultaneously?"
 
 # game/dawn.rpy#L1389
 translate chinese ppclsex_68e0d763:
 
     # "Oh! She’s actually doing it; she’s removing her dress…"
-    ""
+    "Oh! She’s actually doing it; she’s removing her dress…"
 
 # game/dawn.rpy#L1392
 translate chinese ppclsex_0a8448ff:
 
     # mc "I knew it, no panties at all!"
-    mc ""
+    mc "I knew it, no panties at all!"
 
 # game/dawn.rpy#L1394
 translate chinese ppclsex_ca180d3a:
 
     # dawn "Oohh, I am wearing panties! They’re just invisible, here, come pat your hand between my legs to check!"
-    dawn ""
+    dawn "Oohh, I am wearing panties! They’re just invisible, here, come pat your hand between my legs to check!"
 
 # game/dawn.rpy#L1395
 translate chinese ppclsex_305f3507:
 
     # "Pat, pat… She’s lying… Nice…"
-    ""
+    "Pat, pat… She’s lying… Nice…"
 
 # game/dawn.rpy#L1397
 translate chinese ppclsex_5d2e2175:
 
     # dawn "Oh my, you’re getting an erection so easily. Well, if I had a cock, I’d probably already have been creating a tent in my dress, so I guess I’m even worse than you, hehe!"
-    dawn ""
+    dawn "Oh my, you’re getting an erection so easily. Well, if I had a cock, I’d probably already have been creating a tent in my dress, so I guess I’m even worse than you, hehe!"
 
 # game/dawn.rpy#L1398
 translate chinese ppclsex_3a330ffd:
 
     # mc "I'll admit, I was starting to think you had a surprise underneath the dress."
-    mc ""
+    mc "I'll admit, I was starting to think you had a surprise underneath the dress."
 
 # game/dawn.rpy#L1400
 translate chinese ppclsex_0709f5d5:
 
     # dawn "Is this not a marvellous surprise?"
-    dawn ""
+    dawn "Is this not a marvellous surprise?"
 
 # game/dawn.rpy#L1401
 translate chinese ppclsex_4d13f64b:
 
     # mc "Well... It is, but you know what I mean."
-    mc ""
+    mc "Well... It is, but you know what I mean."
 
 # game/dawn.rpy#L1403
 translate chinese ppclsex_66159ffc:
 
     # dawn "I do, but it's just an ordinary female body. Like any of the other thousands of mares in Arcadia!"
-    dawn ""
+    dawn "I do, but it's just an ordinary female body. Like any of the other thousands of mares in Arcadia!"
 
 # game/dawn.rpy#L1404
 translate chinese ppclsex_7e6f8a47:
 
     # dawn "But you got the chance to see me unwrapped like a present after days of anticipation, it’s no wonder you’re so stiff over basic nudity."
-    dawn ""
+    dawn "But you got the chance to see me unwrapped like a present after days of anticipation, it’s no wonder you’re so stiff over basic nudity."
 
 # game/dawn.rpy#L1405
 translate chinese ppclsex_50720a1c:
 
     # mc "That’s a good point, there’s really no excuse to get an erection over only seeing a nude woman anymore. But… you’re no average woman, that’s for sure."
-    mc ""
+    mc "That’s a good point, there’s really no excuse to get an erection over only seeing a nude woman anymore. But… you’re no average woman, that’s for sure."
 
 # game/dawn.rpy#L1409
 translate chinese dawnv3sex_23a5f69d:
 
     # dawn "Well, aren’t you glad I wore a dress now? Mmmhehe!"
-    dawn ""
+    dawn "Well, aren’t you glad I wore a dress now? Mmmhehe!"
 
 # game/dawn.rpy#L1410
 translate chinese dawnv3sex_515a5479:
 
     # dawn "You know, as a pony, my ass was always exposed… Like so…"
-    dawn ""
+    dawn "You know, as a pony, my ass was always exposed… Like so…"
 
 # game/dawn.rpy#L1412
 translate chinese dawnv3sex_eae8e2f0:
 
     # "Dawn swings around on the sofa and seductively bends at the hips to reveal her ass. My member stands to attention almost immediately at the erotic sight."
-    ""
+    "Dawn swings around on the sofa and seductively bends at the hips to reveal her ass. My member stands to attention almost immediately at the erotic sight."
 
 # game/dawn.rpy#L1413
 translate chinese dawnv3sex_59e56280:
 
     # dawn "All we had was our tails for decency… Like so..."
-    dawn ""
+    dawn "All we had was our tails for decency… Like so..."
 
 # game/dawn.rpy#L1414
 translate chinese dawnv3sex_5238c977:
 
     # "Swish, swish… Her tail flicks back and forth, making little attempt to hide her wet labia."
-    ""
+    "Swish, swish… Her tail flicks back and forth, making little attempt to hide her wet labia."
 
 # game/dawn.rpy#L1415
 translate chinese dawnv3sex_ee64ebff:
 
     # dawn "All the stallions would notice, and get excited. A little like how you’re getting excited now."
-    dawn ""
+    dawn "All the stallions would notice, and get excited. A little like how you’re getting excited now."
 
 # game/dawn.rpy#L1416
 translate chinese dawnv3sex_1b4e0bbc:
 
     # dawn "And during heat, it’d be so easy to just give in to those primal, biological urges for sex…"
-    dawn ""
+    dawn "And during heat, it’d be so easy to just give in to those primal, biological urges for sex…"
 
 # game/dawn.rpy#L1417
 translate chinese dawnv3sex_4a2b8352:
 
     # dawn "To just… close your eyes, lay your tail aside and… Mmhehe…"
-    dawn ""
+    dawn "To just… close your eyes, lay your tail aside and… Mmhehe…"
 
 # game/dawn.rpy#L1419
 translate chinese dawnv3sex_85ca7153:
 
     # dawn "I wanna feel that thick cock sliding inside of me…"
-    dawn ""
+    dawn "I wanna feel that thick cock sliding inside of me…"
 
 # game/dawn.rpy#L1420
 translate chinese dawnv3sex_effb0382:
 
     # mc "… You’re such a tease."
-    mc ""
+    mc "… You’re such a tease."
 
 # game/dawn.rpy#L1422
 translate chinese dawnv3sex_9095d89c:
 
     # dawn "I know, my little duckling… At this point, I can’t contain myself…"
-    dawn ""
+    dawn "I know, my little duckling… At this point, I can’t contain myself…"
 
 # game/dawn.rpy#L1424
 translate chinese dawnv3sex_367a454b:
 
     # "She suddenly crawls over me and drops her weight onto my thighs, her ass and tits jiggling alluringly."
-    ""
+    "She suddenly crawls over me and drops her weight onto my thighs, her ass and tits jiggling alluringly."
 
 # game/dawn.rpy#L1429
 translate chinese dawnv3sex_98351e5e:
 
     # "Backing her hips slightly, my throbbing cock is slotted between her ass cheeks."
-    ""
+    "Backing her hips slightly, my throbbing cock is slotted between her ass cheeks."
 
 # game/dawn.rpy#L1430
 translate chinese dawnv3sex_40104e9c:
 
     # "Pushing my cock back somewhat with her rump, she positions our genitalia in such a way that she can grind them together."
-    ""
+    "Pushing my cock back somewhat with her rump, she positions our genitalia in such a way that she can grind them together."
 
 # game/dawn.rpy#L1432
 translate chinese dawnv3sex_28f96b31:
 
     # "Her dripping wet labia dragging back and forth against my stiff member repeatedly, all whilst she looks deeply into my eyes."
-    ""
+    "Her dripping wet labia dragging back and forth against my stiff member repeatedly, all whilst she looks deeply into my eyes."
 
 # game/dawn.rpy#L1433
 translate chinese dawnv3sex_6dc02f74:
 
     # "She starts to press her slightly parted pussy lips against the tip of my cock, moaning more and more as she becomes increasingly aroused."
-    ""
+    "She starts to press her slightly parted pussy lips against the tip of my cock, moaning more and more as she becomes increasingly aroused."
 
 # game/dawn.rpy#L1434
 translate chinese dawnv3sex_cb1c9f6f:
 
     # dawn "This is it, kitten. Welcome to a new universe of pleasure…"
-    dawn ""
+    dawn "This is it, kitten. Welcome to a new universe of pleasure…"
 
 # game/dawn.rpy#L1437
 translate chinese dawnv3sex_94ccf41d:
 
     # "She pushes down, spreading her vulva around my shaft as she sinks further and further down. Biting her glossy lips as she reaches the hilt, a slight shiver encompassing her body."
-    ""
+    "She pushes down, spreading her vulva around my shaft as she sinks further and further down. Biting her glossy lips as she reaches the hilt, a slight shiver encompassing her body."
 
 # game/dawn.rpy#L1438
 translate chinese dawnv3sex_36c06e4f:
 
     # dawn "Aahhh...."
-    dawn ""
+    dawn "Aahhh...."
 
 # game/dawn.rpy#L1439
 translate chinese dawnv3sex_3589b3c9:
 
     # "It’s tight, warm, and wet. Even motionless, her pussy squeezes and sucks around my member, eliciting pleasure from each and every nerve ending."
-    ""
+    "It’s tight, warm, and wet. Even motionless, her pussy squeezes and sucks around my member, eliciting pleasure from each and every nerve ending."
 
 # game/dawn.rpy#L1440
 translate chinese dawnv3sex_995c438f:
 
     # "Through constant flirting and playing hard to get, the pure satisfaction of finally penetrating the alluring Dawn significantly adds to the pleasure. I’ll definitely have to hold myself back so I don’t cum prematurely like I did earlier with Aurora."
-    ""
+    "Through constant flirting and playing hard to get, the pure satisfaction of finally penetrating the alluring Dawn significantly adds to the pleasure. I’ll definitely have to hold myself back so I don’t cum prematurely like I did earlier with Aurora."
 
 # game/dawn.rpy#L1441
 translate chinese dawnv3sex_cac971d0:
 
     # "Cooing slightly, she adjusts to my girth, arching her back and rubbing her clit in the meantime; her nipples fully erect."
-    ""
+    "Cooing slightly, she adjusts to my girth, arching her back and rubbing her clit in the meantime; her nipples fully erect."
 
 # game/dawn.rpy#L1443
 translate chinese dawnv3sex_93050d80:
 
     # dawn "Mmmm… What a perfect fit, truly like a key in lock."
-    dawn ""
+    dawn "Mmmm… What a perfect fit, truly like a key in lock."
 
 # game/dawn.rpy#L1445
 translate chinese dawnv3sex_fe51f881:
 
     # "She closes her eyes tightly for a moment as she begins to grind her hips up and down."
-    ""
+    "She closes her eyes tightly for a moment as she begins to grind her hips up and down."
 
 # game/dawn.rpy#L1446
 translate chinese dawnv3sex_0535c397:
 
     # "Dawn is taking this quite slowly, perhaps she’s not as experienced as one would assume. If she’s had sex with a stallion before, size shouldn’t be a problem for her, perhaps she’s only had sex with humans."
-    ""
+    "Dawn is taking this quite slowly, perhaps she’s not as experienced as one would assume. If she’s had sex with a stallion before, size shouldn’t be a problem for her, perhaps she’s only had sex with humans."
 
 # game/dawn.rpy#L1448
 translate chinese dawnv3sex_d16f03b0:
 
     # dawn "Ahh, oohhh, don’t you dare cum until I’ve had my own, mmhehe…"
-    dawn ""
+    dawn "Ahh, oohhh, don’t you dare cum until I’ve had my own, mmhehe…"
 
 # game/dawn.rpy#L1449
 translate chinese dawnv3sex_ef1b4afd:
 
     # mc "That’s quite the challenge after your slew of seduction."
-    mc ""
+    mc "That’s quite the challenge after your slew of seduction."
 
 # game/dawn.rpy#L1450
 translate chinese dawnv3sex_3ac3ad5e:
 
     # dawn "Hehe, I’ll keep my fingers on my clit in that case."
-    dawn ""
+    dawn "Hehe, I’ll keep my fingers on my clit in that case."
 
 # game/dawn.rpy#L1452
 translate chinese dawnv3sex_b5eed335:
 
     # "She accelerates to an average and pleasurable pace, her ample yellow ass practically hypnotising me as I drink in every detail."
-    ""
+    "She accelerates to an average and pleasurable pace, her ample yellow ass practically hypnotising me as I drink in every detail."
 
 # game/dawn.rpy#L1453
 translate chinese dawnv3sex_65b8e060:
 
     # "The tightness of her pussy, the lips that grip against my shaft, and her cute butthole that I’d totally want to put a thumb in if this was doggystyle."
-    ""
+    "The tightness of her pussy, the lips that grip against my shaft, and her cute butthole that I’d totally want to put a thumb in if this was doggystyle."
 
 # game/dawn.rpy#L1455
 translate chinese dawnv3sex_5d592fc5:
 
     # "My lover’s pussy constantly squeezes and clenches around me, similar to how Ruby performs in bed, squeezing and milking in rhythmic motions as if she’s truly trying to make me blow my load."
-    ""
+    "My lover’s pussy constantly squeezes and clenches around me, similar to how Ruby performs in bed, squeezing and milking in rhythmic motions as if she’s truly trying to make me blow my load."
 
 # game/dawn.rpy#L1457
 translate chinese dawnv3sex_c65940ec:
 
     # "My lover’s pussy constantly squeezes and clenches around me, squeezing and milking in rhythmic motions as if she’s truly trying to make me blow my load."
-    ""
+    "My lover’s pussy constantly squeezes and clenches around me, squeezing and milking in rhythmic motions as if she’s truly trying to make me blow my load."
 
 # game/dawn.rpy#L1458
 translate chinese dawnv3sex_d6293f7d:
 
     # "Dawn giggles almost knowingly of this fact, letting her orgasm first may be quite the challenge indeed. You can trust Dawn to make sex a flirtatious back and forth game."
-    ""
+    "Dawn giggles almost knowingly of this fact, letting her orgasm first may be quite the challenge indeed. You can trust Dawn to make sex a flirtatious back and forth game."
 
 # game/dawn.rpy#L1459
 translate chinese dawnv3sex_420f30d5:
 
     # "Gritting my teeth slightly, I start to grind my own hips back and forth against her, bouncing her up and down, causing her ass and tits to bounce."
-    ""
+    "Gritting my teeth slightly, I start to grind my own hips back and forth against her, bouncing her up and down, causing her ass and tits to bounce."
 
 # game/dawn.rpy#L1460
 translate chinese dawnv3sex_6d314de8:
 
     # "Taking initiative like this allows me to pace myself, while still pleasuring her deeply."
-    ""
+    "Taking initiative like this allows me to pace myself, while still pleasuring her deeply."
 
 # game/dawn.rpy#L1462
 translate chinese dawnv3sex_c685cb93:
 
     # dawn "Oohhh, such an impatient man! Mmmhehe, oohhh, keep doing it like that, nice and deep! Ahh, yeahh!"
-    dawn ""
+    dawn "Oohhh, such an impatient man! Mmmhehe, oohhh, keep doing it like that, nice and deep! Ahh, yeahh!"
 
 # game/dawn.rpy#L1463
 translate chinese dawnv3sex_be96ee74:
 
     # "Perfect, she reacts with pure euphoria to each of my deep thrusts, while she constantly rubs her clit."
-    ""
+    "Perfect, she reacts with pure euphoria to each of my deep thrusts, while she constantly rubs her clit."
 
 # game/dawn.rpy#L1464
 translate chinese dawnv3sex_43511493:
 
     # "Bending my knees and tensing my thighs, I overwhelm any attempt she has to grind against me. Turning her into a willing participant of the act as I pound her pussy from below."
-    ""
+    "Bending my knees and tensing my thighs, I overwhelm any attempt she has to grind against me. Turning her into a willing participant of the act as I pound her pussy from below."
 
 # game/dawn.rpy#L1466
 translate chinese dawnv3sex_86f43605:
 
     # dawn "Ahh, ahh, ohh, ahhh! Y-You’re g-gonna-! Ahhhh!"
-    dawn ""
+    dawn "Ahh, ahh, ohh, ahhh! Y-You’re g-gonna-! Ahhhh!"
 
 # game/dawn.rpy#L1467
 translate chinese dawnv3sex_0df293f3:
 
     # "She squeaks and shivers, her back arches and my cock pushes against her g-spot. She can barely contain herself; her mind slowly eroding due to the pleasure."
-    ""
+    "She squeaks and shivers, her back arches and my cock pushes against her g-spot. She can barely contain herself; her mind slowly eroding due to the pleasure."
 
 # game/dawn.rpy#L1468
 translate chinese dawnv3sex_746b8e60:
 
     # "Any attempt at speech failing as moans escape her mouth and her body is consumed in pleasure."
-    ""
+    "Any attempt at speech failing as moans escape her mouth and her body is consumed in pleasure."
 
 # game/dawn.rpy#L1469
 translate chinese dawnv3sex_5ac6d796:
 
     # dawn "Ahhh, ahhh, y-yes! Ahhh, c-com-ahhh, ahhhhh!"
-    dawn ""
+    dawn "Ahhh, ahhh, y-yes! Ahhh, c-com-ahhh, ahhhhh!"
 
 # game/dawn.rpy#L1470
 translate chinese dawnv3sex_422fff1a:
 
     # "Internal contractions around my cock signal her climax, allowing me to lower my guard to my own orgasm."
-    ""
+    "Internal contractions around my cock signal her climax, allowing me to lower my guard to my own orgasm."
 
 # game/dawn.rpy#L1471
 translate chinese dawnv3sex_ed51f68a:
 
     # "My cock reacts almost immediately as it thickens and throbs, my muscles growing tense with the building force of my orgasm as it surges through my body."
-    ""
+    "My cock reacts almost immediately as it thickens and throbs, my muscles growing tense with the building force of my orgasm as it surges through my body."
 
 # game/dawn.rpy#L1476
 translate chinese dawnv3sex_249ec72b:
 
     # "Dawn almost gives way as she feels the first torrent of cum unload inside of her, the warm thick cum filling her womb and vagina."
-    ""
+    "Dawn almost gives way as she feels the first torrent of cum unload inside of her, the warm thick cum filling her womb and vagina."
 
 # game/dawn.rpy#L1481
 translate chinese dawnv3sex_7faf771b:
 
     # "My lover pants, her tongue hanging lewdly from her mouth as I pump my final few loads of cum into her womb."
-    ""
+    "My lover pants, her tongue hanging lewdly from her mouth as I pump my final few loads of cum into her womb."
 
 # game/dawn.rpy#L1484
 translate chinese dawnv3sex_3e979fa5:
 
     # "At this point, she falls back onto me, no longer reverse cowgirl anymore. The rutting however, does not let up until our orgasms finally fade."
-    ""
+    "At this point, she falls back onto me, no longer reverse cowgirl anymore. The rutting however, does not let up until our orgasms finally fade."
 
 # game/dawn.rpy#L1486
 translate chinese dawnv3sex_7ad3f5b8:
 
     # "For a while she continues to lay on top of me, recovering in post-orgasmic glow. I take advantage by cuddling her, and soon she turns around and reciprocates."
-    ""
+    "For a while she continues to lay on top of me, recovering in post-orgasmic glow. I take advantage by cuddling her, and soon she turns around and reciprocates."
 
 # game/dawn.rpy#L1491
 translate chinese dawnv3sex_cd4a820f:
 
     # "I don’t remember when, but at some point, we must have fallen asleep."
-    ""
+    "I don’t remember when, but at some point, we must have fallen asleep."
 
 # game/dawn.rpy#L1493
 translate chinese dawnv3sex_be8deea2:
 
     # "When I woke up, it was completely night time."
-    ""
+    "When I woke up, it was completely night time."
 
 # game/dawn.rpy#L1494
 translate chinese dawnv3sex_594a302c:
 
     # "I probably woke up because it’s cold, one of the windows has been open this entire time. Dawn’s still happily snoozing though, her fur coat keeping her warm."
-    ""
+    "I probably woke up because it’s cold, one of the windows has been open this entire time. Dawn’s still happily snoozing though, her fur coat keeping her warm."
 
 # game/dawn.rpy#L1495
 translate chinese dawnv3sex_2bd7622b:
 
     # "Deciding to move from the sofa to the bedroom, I lift her up and carry her there. She’s shockingly light, not to be rude, but I don’t struggle at all."
-    ""
+    "Deciding to move from the sofa to the bedroom, I lift her up and carry her there. She’s shockingly light, not to be rude, but I don’t struggle at all."
 
 # game/dawn.rpy#L1496
 translate chinese dawnv3sex_c090b230:
 
     # "I don’t even think she stirs from her sleep as I tuck us both into her unfortunately small single bed."
-    ""
+    "I don’t even think she stirs from her sleep as I tuck us both into her unfortunately small single bed."
 
 # game/dawn.rpy#L1499
 translate chinese dawnv3sex_ce617998:
 
     # "…"
-    ""
+    "…"
 
 # game/dawn.rpy#L1505
 translate chinese dawnv3sex_cba88e32:
 
     # dawn "Mmm… If you’re gonna make this a regular occurrence, I’ll need a bigger bed…"
-    dawn ""
+    dawn "Mmm… If you’re gonna make this a regular occurrence, I’ll need a bigger bed…"
 
 # game/dawn.rpy#L1506
 translate chinese dawnv3sex_1f0cab23:
 
     # mc "Ah... What time is it?"
-    mc ""
+    mc "Ah... What time is it?"
 
 # game/dawn.rpy#L1508
 translate chinese dawnv3sex_c900130b:
 
     # dawn "Uhhmm… 7:30am, and as much as I’d love to spend the rest of the day here by your side, I really need a shower."
-    dawn ""
+    dawn "Uhhmm… 7:30am, and as much as I’d love to spend the rest of the day here by your side, I really need a shower."
 
 # game/dawn.rpy#L1509
 translate chinese dawnv3sex_155889fd:
 
     # mc "No worries... *Yawn* I wonder what I’ll do today."
-    mc ""
+    mc "No worries... *Yawn* I wonder what I’ll do today."
 
 # game/dawn.rpy#L1511
 translate chinese dawnv3sex_0b329d28:
 
     # dawn "Ahh, you should have said that earlier, I could have made an innuendo about ‘doing’ me… She’s purring just at the thought of it."
-    dawn ""
+    dawn "Ahh, you should have said that earlier, I could have made an innuendo about ‘doing’ me… She’s purring just at the thought of it."
 
 # game/dawn.rpy#L1512
 translate chinese dawnv3sex_08398cb5:
 
     # mc "I’m a little too sleepy for that."
-    mc ""
+    mc "I’m a little too sleepy for that."
 
 # game/dawn.rpy#L1514
 translate chinese dawnv3sex_764c36fb:
 
     # dawn "And here I thought you were an unstoppable force of sex… What exactly are you planning to do in this new world anyway? You’re certainly in a peculiar position, kitten."
-    dawn ""
+    dawn "And here I thought you were an unstoppable force of sex… What exactly are you planning to do in this new world anyway? You’re certainly in a peculiar position, kitten."
 
 # game/dawn.rpy#L1515
 translate chinese dawnv3sex_ad2d7787:
 
     # dawn "I can’t imagine you’ll be spending your entire life wooing bachelorettes, well… I can..."
-    dawn ""
+    dawn "I can’t imagine you’ll be spending your entire life wooing bachelorettes, well… I can..."
 
 # game/dawn.rpy#L1516
 translate chinese dawnv3sex_11784a3c:
 
     # mc "Hmm…"
-    mc ""
+    mc "Hmm…"
 
 # game/dawn.rpy#L1518
 translate chinese dawnv3sex_851564e9:
 
     # dawn "Maybe you should hook up with one of the royal sisters so you’d be set for life, or perhaps you’re more of a harem ending guy, pfft, such a greedy man…"
-    dawn ""
+    dawn "Maybe you should hook up with one of the royal sisters so you’d be set for life, or perhaps you’re more of a harem ending guy, pfft, such a greedy man…"
 
 # game/dawn.rpy#L1519
 translate chinese dawnv3sex_a6aa445a:
 
     # mc "Heyy, I didn’t say anything. I’m just trying to get a career, so I’m trying out a lot of jobs and meeting a lot of people to see what fits me the best."
-    mc ""
+    mc "Heyy, I didn’t say anything. I’m just trying to get a career, so I’m trying out a lot of jobs and meeting a lot of people to see what fits me the best."
 
 # game/dawn.rpy#L1521
 translate chinese dawnv3sex_575afb17:
 
     # dawn "Ohh, I see… Well, unfortunately I don’t have anything for you here, however, leisure is important, kitten. Don’t forget to come to the nightclub, as long as I’m here you’ll never be alone at night, hehe…"
-    dawn ""
+    dawn "Ohh, I see… Well, unfortunately I don’t have anything for you here, however, leisure is important, kitten. Don’t forget to come to the nightclub, as long as I’m here you’ll never be alone at night, hehe…"
 
 # game/dawn.rpy#L1522
 translate chinese dawnv3sex_7ae1fa91:
 
     # mc "Thanks Dawn, and thank you for the trip yesterday, I really appreciated that."
-    mc ""
+    mc "Thanks Dawn, and thank you for the trip yesterday, I really appreciated that."
 
 # game/dawn.rpy#L1524
 translate chinese dawnv3sex_e9b9fff5:
 
     # dawn "I'll be seeing you, duckling."
-    dawn ""
+    dawn "I'll be seeing you, duckling."
 
 # game/dawn.rpy#L1525
 translate chinese dawnv3sex_aadfe62a:
 
     # mc "Count on it, Dawn."
-    mc ""
+    mc "Count on it, Dawn."
 
 # game/dawn.rpy#L1531
 translate chinese dawnv3sex_ef2fcf30:
 
     # "After stretching a little, I return home."
-    ""
+    "After stretching a little, I return home."
 
 # game/dawn.rpy#L1545
 translate chinese dawnvisit4_9a9ed3ac:
 
     # "I arrive at the back of the nightclub, and knock on the door sensibly this time."
-    ""
+    "I arrive at the back of the nightclub, and knock on the door sensibly this time."
 
 # game/dawn.rpy#L1546
 translate chinese dawnvisit4_78d56444:
 
     # "Bzzzt…"
-    ""
+    "Bzzzt…"
 
 # game/dawn.rpy#L1547
 translate chinese dawnvisit4_080fdec5:
 
     # dawn "Hello, the girl that was in your wet dream last night speaking, who’s this?"
-    dawn ""
+    dawn "Hello, the girl that was in your wet dream last night speaking, who’s this?"
 
 # game/dawn.rpy#L1548
 translate chinese dawnvisit4_4985e272:
 
     # mc "It’s me, [playername], and how did you know about my wet dream?"
-    mc ""
+    mc "It’s me, [playername], and how did you know about my wet dream?"
 
 # game/dawn.rpy#L1549
 translate chinese dawnvisit4_ab096c95:
 
     # dawn "Oh darling, you were so great last night, mmhehe."
-    dawn ""
+    dawn "Oh darling, you were so great last night, mmhehe."
 
 # game/dawn.rpy#L1550
 translate chinese dawnvisit4_78d56444_1:
 
     # "Bzzzt…"
-    ""
+    "Bzzzt…"
 
 # game/dawn.rpy#L1551
 translate chinese dawnvisit4_29838c4d:
 
     # "The feed cuts and the door opens."
-    ""
+    "The feed cuts and the door opens."
 
 # game/dawn.rpy#L1555
 translate chinese dawnvisit4_590422f9:
 
     # dawn "So wonderful of you to join me again, you’re certainly proving to become a reliable man. Which is why I’d like you to take advantage of me."
-    dawn ""
+    dawn "So wonderful of you to join me again, you’re certainly proving to become a reliable man. Which is why I’d like you to take advantage of me."
 
 # game/dawn.rpy#L1562
 translate chinese dawnvisit4_adf8c032:
 
     # dawn "You know me well, kitten!"
-    dawn ""
+    dawn "You know me well, kitten!"
 
 # game/dawn.rpy#L1564
 translate chinese dawnvisit4_a05f2fc0:
 
     # dawn "I have three day coupons for the spa, this one’s for you!"
-    dawn ""
+    dawn "I have three day coupons for the spa, this one’s for you!"
 
 # game/dawn.rpy#L1565
 translate chinese dawnvisit4_b42fb6f4:
 
     # mc "The spa? You mean the spa-brothel that has a big menu in the reception listing several sexual acts for a price?"
-    mc ""
+    mc "The spa? You mean the spa-brothel that has a big menu in the reception listing several sexual acts for a price?"
 
 # game/dawn.rpy#L1567
 translate chinese dawnvisit4_a2697fe9:
 
     # dawn "Mmmmhhmmm, we’re going to have a spa day! It’s going to be great! But goodness, you’re such a pervert, it’s a spa and a brothel, not a spa-brothel."
-    dawn ""
+    dawn "Mmmmhhmmm, we’re going to have a spa day! It’s going to be great! But goodness, you’re such a pervert, it’s a spa and a brothel, not a spa-brothel."
 
 # game/dawn.rpy#L1568
 translate chinese dawnvisit4_ec444e6e:
 
     # mc "Ah, so there are non-sexual functions too?"
-    mc ""
+    mc "Ah, so there are non-sexual functions too?"
 
 # game/dawn.rpy#L1570
 translate chinese dawnvisit4_ab203156:
 
     # dawn "Oh my goodness, kitten. I hope you realized what you just admitted to."
-    dawn ""
+    dawn "Oh my goodness, kitten. I hope you realized what you just admitted to."
 
 # game/dawn.rpy#L1571
 translate chinese dawnvisit4_2a29cdab:
 
     # mc "… Shit, you got me."
-    mc ""
+    mc "… Shit, you got me."
 
 # game/dawn.rpy#L1572
 translate chinese dawnvisit4_bd86220b:
 
     # mc "Who’s the special third wheel?"
-    mc ""
+    mc "Who’s the special third wheel?"
 
 # game/dawn.rpy#L1574
 translate chinese dawnvisit4_5cc10c9c:
 
     # dawn "I just found out a certain someone has recently acquired a pair of gorgeous wings…"
-    dawn ""
+    dawn "I just found out a certain someone has recently acquired a pair of gorgeous wings…"
 
 # game/dawn.rpy#L1575
 translate chinese dawnvisit4_589c6761:
 
     # dawn "Lily, a student of the Queen has officially begun her training, hmm?"
-    dawn ""
+    dawn "Lily, a student of the Queen has officially begun her training, hmm?"
 
 # game/dawn.rpy#L1576
 translate chinese dawnvisit4_83caf310:
 
     # dawn "As someone that was once in the exact same position as her, I’d like to take the opportunity to congratulate her, and perhaps give her some advice."
-    dawn ""
+    dawn "As someone that was once in the exact same position as her, I’d like to take the opportunity to congratulate her, and perhaps give her some advice."
 
 # game/dawn.rpy#L1577
 translate chinese dawnvisit4_3e492eab:
 
     # dawn "She’ll certainly need it, I don’t know if that girl realizes how hard it’s about to get."
-    dawn ""
+    dawn "She’ll certainly need it, I don’t know if that girl realizes how hard it’s about to get."
 
 # game/dawn.rpy#L1578
 translate chinese dawnvisit4_8707bec3:
 
     # dawn "Oh, and by the way… You’re the third wheel, the ‘wingman’ you could say."
-    dawn ""
+    dawn "Oh, and by the way… You’re the third wheel, the ‘wingman’ you could say."
 
 # game/dawn.rpy#L1579
 translate chinese dawnvisit4_56aae89e:
 
     # mc "Hm? Whatchu mean?"
-    mc ""
+    mc "Hm? Whatchu mean?"
 
 # game/dawn.rpy#L1581
 translate chinese dawnvisit4_61f1db8d:
 
     # dawn "I need someone that’s good at lubrication, to help the conversation flow as smooth as butter…"
-    dawn ""
+    dawn "I need someone that’s good at lubrication, to help the conversation flow as smooth as butter…"
 
 # game/dawn.rpy#L1582
 translate chinese dawnvisit4_f4b04e10:
 
     # mc "You’re planning on seducing her?!"
-    mc ""
+    mc "You’re planning on seducing her?!"
 
 # game/dawn.rpy#L1585
 translate chinese dawnvisit4_9aa90ed4:
 
     # dawn "Haven’t realized yet? I have a plan to seduce {i}everyone{/i} I meet."
-    dawn ""
+    dawn "Haven’t realized yet? I have a plan to seduce {i}everyone{/i} I meet."
 
 # game/dawn.rpy#L1586
 translate chinese dawnvisit4_ea278f7d:
 
     # dawn "Welcome to the world of girl love, it's slippery when wet!"
-    dawn ""
+    dawn "Welcome to the world of girl love, it's slippery when wet!"
 
 # game/dawn.rpy#L1590
 translate chinese dawnvisit4_a8609c40:
 
     # dawn "Oh dearie, it is special!"
-    dawn ""
+    dawn "Oh dearie, it is special!"
 
 # game/dawn.rpy#L1591
 translate chinese dawnvisit4_781fb513:
 
     # dawn "Why do you think I'm inviting you with me? I couldn't be without you."
-    dawn ""
+    dawn "Why do you think I'm inviting you with me? I couldn't be without you."
 
 # game/dawn.rpy#L1592
 translate chinese dawnvisit4_f6ded5f0:
 
     # dawn "Don't let my jokes get to your head too much."
-    dawn ""
+    dawn "Don't let my jokes get to your head too much."
 
 # game/dawn.rpy#L1596
 translate chinese dawnvisit4_f133a165:
 
     # dawn "In this world? Guess it's 'one', as of recently."
-    dawn ""
+    dawn "In this world? Guess it's 'one', as of recently."
 
 # game/dawn.rpy#L1597
 translate chinese dawnvisit4_7d712295:
 
     # mc "Ah, that's me!"
-    mc ""
+    mc "Ah, that's me!"
 
 # game/dawn.rpy#L1599
 translate chinese dawnvisit4_51f9f43d:
 
     # dawn "Congrats, detective. You took my anthro virginity!"
-    dawn ""
+    dawn "Congrats, detective. You took my anthro virginity!"
 
 # game/dawn.rpy#L1602
 translate chinese dawnvisit4_292a4c7d:
 
     # dawn "Hehe, yeah. I'm only joking."
-    dawn ""
+    dawn "Hehe, yeah. I'm only joking."
 
 # game/dawn.rpy#L1605
 translate chinese dawnvisit4_46f84771:
 
     # dawn "Oohh, you got me dearie, mmhehe. What a shambling mess of contradictions I am today."
-    dawn ""
+    dawn "Oohh, you got me dearie, mmhehe. What a shambling mess of contradictions I am today."
 
 # game/dawn.rpy#L1606
 translate chinese dawnvisit4_908f6d7d:
 
     # dawn "Why do you think I have a single bed, darling? You’re the one that broke it in."
-    dawn ""
+    dawn "Why do you think I have a single bed, darling? You’re the one that broke it in."
 
 # game/dawn.rpy#L1607
 translate chinese dawnvisit4_30d62513:
 
     # mc "Really? I would have assumed otherwise by your demeanour."
-    mc ""
+    mc "Really? I would have assumed otherwise by your demeanour."
 
 # game/dawn.rpy#L1609
 translate chinese dawnvisit4_aa93292c:
 
     # dawn "Mmmhehe, I think I understand where this misplaced train of thought is choo-choo-chooing from."
-    dawn ""
+    dawn "Mmmhehe, I think I understand where this misplaced train of thought is choo-choo-chooing from."
 
 # game/dawn.rpy#L1610
 translate chinese dawnvisit4_ee2ad4e9:
 
     # dawn "You have no idea what wearing clothing in this culture symbolises, do you?"
-    dawn ""
+    dawn "You have no idea what wearing clothing in this culture symbolises, do you?"
 
 # game/dawn.rpy#L1611
 translate chinese dawnvisit4_f973af70:
 
     # mc "It symbolises something? No, I wasn’t aware of that at all."
-    mc ""
+    mc "It symbolises something? No, I wasn’t aware of that at all."
 
 # game/dawn.rpy#L1613
 translate chinese dawnvisit4_f3a3c24e:
 
     # dawn "If an individual, particularly a mare, wears clothing… It’s a very strong indicator that they have no interest in relationships, or sexual encounters."
-    dawn ""
+    dawn "If an individual, particularly a mare, wears clothing… It’s a very strong indicator that they have no interest in relationships, or sexual encounters."
 
 # game/dawn.rpy#L1614
 translate chinese dawnvisit4_93fe1d14:
 
     # mc "Wait… Seriously?"
-    mc ""
+    mc "Wait… Seriously?"
 
 # game/dawn.rpy#L1618
 translate chinese dawnvisit4_454883d5:
 
     # "That’s why… Butters always wore that dress, and even to this day."
-    ""
+    "That’s why… Butters always wore that dress, and even to this day."
 
 # game/dawn.rpy#L1622
 translate chinese dawnvisit4_b7c97d0a:
 
     # "Holy shit! This is why Morrigan-Moxie was so eager on making me adapt to my nudity, she wanted me to be as open and available to the mares as possible from the beginning."
-    ""
+    "Holy shit! This is why Morrigan-Moxie was so eager on making me adapt to my nudity, she wanted me to be as open and available to the mares as possible from the beginning."
 
 # game/dawn.rpy#L1625
 translate chinese dawnvisit4_9f4593c9:
 
     # dawn "Indeed… Hehe, I’d never had sex in this body before I met you, I wasn’t even planning on it."
-    dawn ""
+    dawn "Indeed… Hehe, I’d never had sex in this body before I met you, I wasn’t even planning on it."
 
 # game/dawn.rpy#L1626
 translate chinese dawnvisit4_e775f3ed:
 
     # dawn "But you’re a remarkably charming and nostalgic gentleman for a lady such as myself, one that had lived around humans for half a decade."
-    dawn ""
+    dawn "But you’re a remarkably charming and nostalgic gentleman for a lady such as myself, one that had lived around humans for half a decade."
 
 # game/dawn.rpy#L1627
 translate chinese dawnvisit4_7507a207:
 
     # mc "I see… So, you’re not interested, but you’re not exactly against it."
-    mc ""
+    mc "I see… So, you’re not interested, but you’re not exactly against it."
 
 # game/dawn.rpy#L1629
 translate chinese dawnvisit4_5b37eeee:
 
     # dawn "Naturally, I find wearing clothing useful as an inhabitant that wasn’t originally from this universe, especially since I run a nightclub, hehe."
-    dawn ""
+    dawn "Naturally, I find wearing clothing useful as an inhabitant that wasn’t originally from this universe, especially since I run a nightclub, hehe."
 
 # game/dawn.rpy#L1630
 translate chinese dawnvisit4_044e1c06:
 
     # mc "I barely see anyone wear clothes though, not even mares or stallions in relationships, so it sounds like a pretty niche thing."
-    mc ""
+    mc "I barely see anyone wear clothes though, not even mares or stallions in relationships, so it sounds like a pretty niche thing."
 
 # game/dawn.rpy#L1632
 translate chinese dawnvisit4_9a87d69a:
 
     # dawn "Yeah, you could say that. You may have noticed that the royalty wear dresses in public too, same reason."
-    dawn ""
+    dawn "Yeah, you could say that. You may have noticed that the royalty wear dresses in public too, same reason."
 
 # game/dawn.rpy#L1633
 translate chinese dawnvisit4_b619971c:
 
     # mc "Ahh… I’m glad you told me, there’re still so many subtle things ingrained in this world that I’d never assume."
-    mc ""
+    mc "Ahh… I’m glad you told me, there’re still so many subtle things ingrained in this world that I’d never assume."
 
 # game/dawn.rpy#L1635
 translate chinese dawnvisit4_94670632:
 
     # dawn "However, in this particular circumstance, your ignorance was bliss…"
-    dawn ""
+    dawn "However, in this particular circumstance, your ignorance was bliss…"
 
 # game/dawn.rpy#L1636
 translate chinese dawnvisit4_e389f721:
 
     # dawn "Now, let’s plan how we’re going to indulge Lily today…"
-    dawn ""
+    dawn "Now, let’s plan how we’re going to indulge Lily today…"
 
 # game/dawn.rpy#L1637
 translate chinese dawnvisit4_83b22593:
 
     # mc "Plan?"
-    mc ""
+    mc "Plan?"
 
 # game/dawn.rpy#L1641
 translate chinese dawnvisit4_ce617998:
 
     # "…"
-    ""
+    "…"
 
 # game/dawn.rpy#L1642
 translate chinese dawnvisit4_b61a8c2b:
 
     # "Holy shit... What a plan..."
-    ""
+    "Holy shit... What a plan..."
 
 # game/dawn.rpy#L1643
 translate chinese dawnvisit4_cf7c1543:
 
     # "One hour later, approximately 8:45am…"
-    ""
+    "One hour later, approximately 8:45am…"
 
 # game/dawn.rpy#L1654
 translate chinese dawnvisit4_f802417f:
 
     # lily "Good morning [playername], it’s always nice to see you. I can’t thank you enough for what you’ve done for this city and country."
-    lily ""
+    lily "Good morning [playername], it’s always nice to see you. I can’t thank you enough for what you’ve done for this city and country."
 
 # game/dawn.rpy#L1655
 translate chinese dawnvisit4_63d85ab2:
 
     # mc "Hey, you’ve thanked me enough for all that, Lil. I think it’s time we all did something for you."
-    mc ""
+    mc "Hey, you’ve thanked me enough for all that, Lil. I think it’s time we all did something for you."
 
 # game/dawn.rpy#L1657
 translate chinese dawnvisit4_02563ca2:
 
     # lily "Oh? For me? Aha, I mean… I barely…"
-    lily ""
+    lily "Oh? For me? Aha, I mean… I barely…"
 
 # game/dawn.rpy#L1658
 translate chinese dawnvisit4_4a86646a:
 
     # mc "Nah, I don’t want you to undermine your accomplishments. All I want you to do for today, is to accept this all-day spa coupon."
-    mc ""
+    mc "Nah, I don’t want you to undermine your accomplishments. All I want you to do for today, is to accept this all-day spa coupon."
 
 # game/dawn.rpy#L1659
 translate chinese dawnvisit4_b987670c:
 
     # mc "You’re definitely due a day of relaxation, you’ve been working non-stop since we squashed the bug."
-    mc ""
+    mc "You’re definitely due a day of relaxation, you’ve been working non-stop since we squashed the bug."
 
 # game/dawn.rpy#L1661
 translate chinese dawnvisit4_bf88fe7c:
 
     # lily "That’s the nicest thing ever! My goodness, [playername]… I absolutely will, I mean, as long as you’ll be there, right?"
-    lily ""
+    lily "That’s the nicest thing ever! My goodness, [playername]… I absolutely will, I mean, as long as you’ll be there, right?"
 
 # game/dawn.rpy#L1662
 translate chinese dawnvisit4_2004cf4d:
 
     # "I suppose Dawn would say ‘hook, line and sinker’, however, I’m just looking forward to having a nice day out with Lily. She really needs this."
-    ""
+    "I suppose Dawn would say ‘hook, line and sinker’, however, I’m just looking forward to having a nice day out with Lily. She really needs this."
 
 # game/dawn.rpy#L1663
 translate chinese dawnvisit4_4d6d5e03:
 
     # mc "Of course, I’ve got my coupon right here! I hope you don’t mind, but a friend and I organised this just for you."
-    mc ""
+    mc "Of course, I’ve got my coupon right here! I hope you don’t mind, but a friend and I organised this just for you."
 
 # game/dawn.rpy#L1674
 translate chinese dawnvisit4_f712fc1d:
 
     # dawn "Mmhhmmm, nice to meet you Lily, you can call me Dawnie!"
-    dawn ""
+    dawn "Mmhhmmm, nice to meet you Lily, you can call me Dawnie!"
 
 # game/dawn.rpy#L1676
 translate chinese dawnvisit4_e252561e:
 
     # lily "D-Dawn?! I haven’t seen you in a year!"
-    lily ""
+    lily "D-Dawn?! I haven’t seen you in a year!"
 
 # game/dawn.rpy#L1677
 translate chinese dawnvisit4_c3e0acdc:
 
     # "Huh? Dawn said she's never met Lily before, so what is Lily talking about?"
-    ""
+    "Huh? Dawn said she's never met Lily before, so what is Lily talking about?"
 
 # game/dawn.rpy#L1678
 translate chinese dawnvisit4_f9eea6f8:
 
     # "Well shit, that wasn't part of the plan. Lily must be referring to the 'other' Dawn..."
-    ""
+    "Well shit, that wasn't part of the plan. Lily must be referring to the 'other' Dawn..."
 
 # game/dawn.rpy#L1680
 translate chinese dawnvisit4_704bef53:
 
     # dawn "Ahah, well, you know me... I've been... very busy!"
-    dawn ""
+    dawn "Ahah, well, you know me... I've been... very busy!"
 
 # game/dawn.rpy#L1681
 translate chinese dawnvisit4_f0f9c725:
 
     # dawn "Let me just blow your mind for a second time, I can tell you that I used to be a princess candidate. Figured you could use a little advice."
-    dawn ""
+    dawn "Let me just blow your mind for a second time, I can tell you that I used to be a princess candidate. Figured you could use a little advice."
 
 # game/dawn.rpy#L1683
 translate chinese dawnvisit4_95718cef:
 
     # lily "Ohhh! I really like the idea of that, I’ll let Aurora know that I’ll be taking the day off."
-    lily ""
+    lily "Ohhh! I really like the idea of that, I’ll let Aurora know that I’ll be taking the day off."
 
 # game/dawn.rpy#L1685
 translate chinese dawnvisit4_86024a58:
 
     # dawn "Sure thing, kitten. No rush, the coupon goes until 5:00pm."
-    dawn ""
+    dawn "Sure thing, kitten. No rush, the coupon goes until 5:00pm."
 
 # game/dawn.rpy#L1687
 translate chinese dawnvisit4_1a65e619:
 
     # lily "Okie! I’ll be one second."
-    lily ""
+    lily "Okie! I’ll be one second."
 
 # game/dawn.rpy#L1694
 translate chinese dawnvisit4_53f240b3:
 
     # mc "Hey, your plan worked, she’s totally pumped."
-    mc ""
+    mc "Hey, your plan worked, she’s totally pumped."
 
 # game/dawn.rpy#L1696
 translate chinese dawnvisit4_92c9b352:
 
     # dawn "For a girl like Lily, you need to subtly build up her confidence. If we had unloaded everything on her all at once, she would have been overwhelmed, shy and defensive."
-    dawn ""
+    dawn "For a girl like Lily, you need to subtly build up her confidence. If we had unloaded everything on her all at once, she would have been overwhelmed, shy and defensive."
 
 # game/dawn.rpy#L1697
 translate chinese dawnvisit4_cffa87e2:
 
     # mc "You seem to know her pretty well, but I think you’re overthinking it."
-    mc ""
+    mc "You seem to know her pretty well, but I think you’re overthinking it."
 
 # game/dawn.rpy#L1699
 translate chinese dawnvisit4_54024da3:
 
     # dawn "Ahh, I overthink all the time, darling. I know her from other universes. Truth be told, I was the one nervous to meet an old friend in a new form."
-    dawn ""
+    dawn "Ahh, I overthink all the time, darling. I know her from other universes. Truth be told, I was the one nervous to meet an old friend in a new form."
 
 # game/dawn.rpy#L1700
 translate chinese dawnvisit4_1c8535cf:
 
     # mc "She seemed to recognize you. But this is your first time meeting, isn't it?"
-    mc ""
+    mc "She seemed to recognize you. But this is your first time meeting, isn't it?"
 
 # game/dawn.rpy#L1702
 translate chinese dawnvisit4_54a5e2a9:
 
     # dawn "Yeah, I noticed that too... Naturally I'm aware of my counterpart, but I've never met her."
-    dawn ""
+    dawn "Yeah, I noticed that too... Naturally I'm aware of my counterpart, but I've never met her."
 
 # game/dawn.rpy#L1704
 translate chinese dawnvisit4_aef45e55:
 
     # dawn "I wonder if she's as cool as I am, mmhehe."
-    dawn ""
+    dawn "I wonder if she's as cool as I am, mmhehe."
 
 # game/dawn.rpy#L1705
 translate chinese dawnvisit4_3ad041fc:
 
     # mc "You're setting an unreasonably high bar there."
-    mc ""
+    mc "You're setting an unreasonably high bar there."
 
 # game/dawn.rpy#L1707
 translate chinese dawnvisit4_253845a1:
 
     # dawn "Well, if anyone can meet that, it'd be me!"
-    dawn ""
+    dawn "Well, if anyone can meet that, it'd be me!"
 
 # game/dawn.rpy#L1709
 translate chinese dawnvisit4_e424d7a4:
 
     # dawn "Anyway, where did kitten get off to? Is she writing an entire letter?"
-    dawn ""
+    dawn "Anyway, where did kitten get off to? Is she writing an entire letter?"
 
 # game/dawn.rpy#L1710
 translate chinese dawnvisit4_ca0a25ab:
 
     # mc "You’re calling her kitten too? I thought that was my pet name."
-    mc ""
+    mc "You’re calling her kitten too? I thought that was my pet name."
 
 # game/dawn.rpy#L1712
 translate chinese dawnvisit4_c0672aa1:
 
     # dawn "Mmmhehe, want me to upgrade yours to ‘tiger’ to distinguish yourself?"
-    dawn ""
+    dawn "Mmmhehe, want me to upgrade yours to ‘tiger’ to distinguish yourself?"
 
 # game/dawn.rpy#L1713
 translate chinese dawnvisit4_ded86e2a:
 
     # mc "Actually, nah. I like ‘kitten’, whenever you say it, you exude confidence and sexual prowess."
-    mc ""
+    mc "Actually, nah. I like ‘kitten’, whenever you say it, you exude confidence and sexual prowess."
 
 # game/dawn.rpy#L1715
 translate chinese dawnvisit4_2fe90883:
 
     # dawn "Is that so… Do I often exude myself upon you in your thoughts? Hehe."
-    dawn ""
+    dawn "Is that so… Do I often exude myself upon you in your thoughts? Hehe."
 
 # game/dawn.rpy#L1723
 translate chinese dawnvisit4_3729caa2:
 
     # lily "Hello, thanks for waiting, let’s go!"
-    lily ""
+    lily "Hello, thanks for waiting, let’s go!"
 
 # game/dawn.rpy#L1727
 translate chinese dawnvisit4_052249a1:
 
     # dawn "Let's go indeed!"
-    dawn ""
+    dawn "Let's go indeed!"
 
 # game/dawn.rpy#L1729
 translate chinese dawnvisit4_ce617998_1:
 
     # "…"
-    ""
+    "…"
 
 # game/dawn.rpy#L1732
 translate chinese dawnvisit4_08a3f6a5:
 
     # "When we arrive at the spa, the three of us get a small sauna and jacuzzi to ourselves."
-    ""
+    "When we arrive at the spa, the three of us get a small sauna and jacuzzi to ourselves."
 
 # game/dawn.rpy#L1733
 translate chinese dawnvisit4_3cc422e3:
 
     # "The girls fully disrobe, even letting their hair down as Dawn removes her ponytail and Lily her ribbon."
-    ""
+    "The girls fully disrobe, even letting their hair down as Dawn removes her ponytail and Lily her ribbon."
 
 # game/dawn.rpy#L1734
 translate chinese dawnvisit4_308c9046:
 
     # "About an hour in, we find ourselves chilling out in the sauna together."
-    ""
+    "About an hour in, we find ourselves chilling out in the sauna together."
 
 # game/dawn.rpy#L1738
 translate chinese dawnvisit4_8f156f66:
 
     # dawn "Aaaaahhhhhh…."
-    dawn ""
+    dawn "Aaaaahhhhhh…."
 
 # game/dawn.rpy#L1739
 translate chinese dawnvisit4_a67e70d6:
 
     # mc "Little cramped in here, isn't it?"
-    mc ""
+    mc "Little cramped in here, isn't it?"
 
 # game/dawn.rpy#L1741
 translate chinese dawnvisit4_9dbf23b4:
 
     # dawn "Why don't you come sit on my lap? Hehe, or the other way round!"
-    dawn ""
+    dawn "Why don't you come sit on my lap? Hehe, or the other way round!"
 
 # game/dawn.rpy#L1742
 translate chinese dawnvisit4_05627902:
 
     # mc "I'll be alright for now, Dawn."
-    mc ""
+    mc "I'll be alright for now, Dawn."
 
 # game/dawn.rpy#L1743
 translate chinese dawnvisit4_a306f45b:
 
     # dawn "Your loss, dearie!"
-    dawn ""
+    dawn "Your loss, dearie!"
 
 # game/dawn.rpy#L1745
 translate chinese dawnvisit4_e233e995:
 
     # dawn "This sauna is simply the best… Mmm…"
-    dawn ""
+    dawn "This sauna is simply the best… Mmm…"
 
 # game/dawn.rpy#L1746
 translate chinese dawnvisit4_81798198:
 
     # lily "Ooohh, it really is..."
-    lily ""
+    lily "Ooohh, it really is..."
 
 # game/dawn.rpy#L1747
 translate chinese dawnvisit4_f4373a2f:
 
     # lily "By the way, Dawn, I saw your new dress. It's a very beautiful, but it seems like a shame to hide such a nice body."
-    lily ""
+    lily "By the way, Dawn, I saw your new dress. It's a very beautiful, but it seems like a shame to hide such a nice body."
 
 # game/dawn.rpy#L1749
 translate chinese dawnvisit4_873c7681:
 
     # dawn "Well darling, with the dress gone, you know what that means… hahah."
-    dawn ""
+    dawn "Well darling, with the dress gone, you know what that means… hahah."
 
 # game/dawn.rpy#L1750
 translate chinese dawnvisit4_450eb86d:
 
     # lily "Ohh, Dawn… Hehe…"
-    lily ""
+    lily "Ohh, Dawn… Hehe…"
 
 # game/dawn.rpy#L1751
 translate chinese dawnvisit4_c6242e32:
 
     # "I wonder if Lily’s unbound libido extends to women too. I guess we won’t have to wait long to find out, especially if I’m around to act as a catalyst."
-    ""
+    "I wonder if Lily’s unbound libido extends to women too. I guess we won’t have to wait long to find out, especially if I’m around to act as a catalyst."
 
 # game/dawn.rpy#L1753
 translate chinese dawnvisit4_b3c44f41:
 
     # mc "How’re you finding the new lessons, Lily? You must have been practicing for this even before the incident with Morrigan, right?"
-    mc ""
+    mc "How’re you finding the new lessons, Lily? You must have been practicing for this even before the incident with Morrigan, right?"
 
 # game/dawn.rpy#L1754
 translate chinese dawnvisit4_07869449:
 
     # lily "Ah, well… The curriculum got pushed around a little."
-    lily ""
+    lily "Ah, well… The curriculum got pushed around a little."
 
 # game/dawn.rpy#L1755
 translate chinese dawnvisit4_caa4f3ae:
 
     # lily "I was supposed to earn the right to be an alicorn by proving myself, but I was neglecting the social aspect."
-    lily ""
+    lily "I was supposed to earn the right to be an alicorn by proving myself, but I was neglecting the social aspect."
 
 # game/dawn.rpy#L1756
 translate chinese dawnvisit4_35d800b2:
 
     # dawn "Mm… Kitten, you have no idea how important that is in the role of royalty."
-    dawn ""
+    dawn "Mm… Kitten, you have no idea how important that is in the role of royalty."
 
 # game/dawn.rpy#L1757
 translate chinese dawnvisit4_6850118e:
 
     # dawn "All your talent is meaningless if you can’t communicate and socialize effectively. All your knowledge would go to waste."
-    dawn ""
+    dawn "All your talent is meaningless if you can’t communicate and socialize effectively. All your knowledge would go to waste."
 
 # game/dawn.rpy#L1758
 translate chinese dawnvisit4_8666fefc:
 
     # lily "Yeah, I was pretty naïve back then. Defeating Morrigan proved beyond a doubt to Aurora that I could be the next to govern Arcadia, however, she’s very aware of my weaknesses."
-    lily ""
+    lily "Yeah, I was pretty naïve back then. Defeating Morrigan proved beyond a doubt to Aurora that I could be the next to govern Arcadia, however, she’s very aware of my weaknesses."
 
 # game/dawn.rpy#L1759
 translate chinese dawnvisit4_a0b62d3c:
 
     # dawn "I bet she’s grinding you hard on fixing that."
-    dawn ""
+    dawn "I bet she’s grinding you hard on fixing that."
 
 # game/dawn.rpy#L1760
 translate chinese dawnvisit4_a928dae8:
 
     # lily "She really is! I wasn’t expecting it, but she’s really pulling all the stops. She’s forcing me to make conversation with strangers as part of the training, and it’s so nerve-wracking."
-    lily ""
+    lily "She really is! I wasn’t expecting it, but she’s really pulling all the stops. She’s forcing me to make conversation with strangers as part of the training, and it’s so nerve-wracking."
 
 # game/dawn.rpy#L1761
 translate chinese dawnvisit4_07658ee6:
 
     # mc "She definitely has to take it a lot more seriously after the incident, I got the feeling she was a little content previously."
-    mc ""
+    mc "She definitely has to take it a lot more seriously after the incident, I got the feeling she was a little content previously."
 
 # game/dawn.rpy#L1762
 translate chinese dawnvisit4_d8f47414:
 
     # dawn "Yeah, but Aurora can be a total hard-ass if she wants to be. Ain’t that right Lily?"
-    dawn ""
+    dawn "Yeah, but Aurora can be a total hard-ass if she wants to be. Ain’t that right Lily?"
 
 # game/dawn.rpy#L1763
 translate chinese dawnvisit4_76cb06af:
 
     # lily "Hehe, you got that right… Oh, b-but we shouldn’t say that! She could overhear us!"
-    lily ""
+    lily "Hehe, you got that right… Oh, b-but we shouldn’t say that! She could overhear us!"
 
 # game/dawn.rpy#L1765
 translate chinese dawnvisit4_10ac4152:
 
     # dawn "Ahaha, she’s such a voyeur. I wonder if she’s watched any of us make love?"
-    dawn ""
+    dawn "Ahaha, she’s such a voyeur. I wonder if she’s watched any of us make love?"
 
 # game/dawn.rpy#L1766
 translate chinese dawnvisit4_127b5b7d:
 
     # "… I shouldn’t say anything."
-    ""
+    "… I shouldn’t say anything."
 
 # game/dawn.rpy#L1767
 translate chinese dawnvisit4_60847fbb:
 
     # "Wait, why is Dawn staring at me?"
-    ""
+    "Wait, why is Dawn staring at me?"
 
 # game/dawn.rpy#L1768
 translate chinese dawnvisit4_eaf63349:
 
     # lily "I don’t think Aurora would do that. She’s too busy with her duties, why would she act like a horny teen?"
-    lily ""
+    lily "I don’t think Aurora would do that. She’s too busy with her duties, why would she act like a horny teen?"
 
 # game/dawn.rpy#L1769
 translate chinese dawnvisit4_405b9826:
 
     # dawn "*Giggle* You’re right, kitten. I must be projecting about wanting to watch you and [playername] make love."
-    dawn ""
+    dawn "*Giggle* You’re right, kitten. I must be projecting about wanting to watch you and [playername] make love."
 
 # game/dawn.rpy#L1771
 translate chinese dawnvisit4_0e615f81:
 
     # lily "O-Oh! Ahh, I-I mean…"
-    lily ""
+    lily "O-Oh! Ahh, I-I mean…"
 
 # game/dawn.rpy#L1772
 translate chinese dawnvisit4_93d82ad8:
 
     # "Ahh, sheesh… You can read Lily like a book, if I don’t interject it’d be pretty obvious to Dawn that we have quite the sexual history."
-    ""
+    "Ahh, sheesh… You can read Lily like a book, if I don’t interject it’d be pretty obvious to Dawn that we have quite the sexual history."
 
 # game/dawn.rpy#L1775
 translate chinese dawnvisit4_b5bffb68:
 
     # "Wow, I just said that out loud. Dawn is a bad influence."
-    ""
+    "Wow, I just said that out loud. Dawn is a bad influence."
 
 # game/dawn.rpy#L1776
 translate chinese dawnvisit4_ff9f6790:
 
     # lily "E-Eep! D-Do you think I need advice?"
-    lily ""
+    lily "E-Eep! D-Do you think I need advice?"
 
 # game/dawn.rpy#L1777
 translate chinese dawnvisit4_8c963ab7:
 
     # dawn "Oohh? What an unusual development…"
-    dawn ""
+    dawn "Oohh? What an unusual development…"
 
 # game/dawn.rpy#L1780
 translate chinese dawnvisit4_324aef90:
 
     # dawn "Awh, my apologies, Lil. But you know, sex can be really relaxing too."
-    dawn ""
+    dawn "Awh, my apologies, Lil. But you know, sex can be really relaxing too."
 
 # game/dawn.rpy#L1781
 translate chinese dawnvisit4_3a52f82e:
 
     # lily "Ohh? Yeah, I suppose it can…"
-    lily ""
+    lily "Ohh? Yeah, I suppose it can…"
 
 # game/dawn.rpy#L1782
 translate chinese dawnvisit4_9137b06f:
 
     # "Sex, huh? I wasn't expecting her to be this forward about it."
-    ""
+    "Sex, huh? I wasn't expecting her to be this forward about it."
 
 # game/dawn.rpy#L1783
 translate chinese dawnvisit4_f1f7143b:
 
     # "Sex is allowed in these private rooms, but would Lily be okay with that?"
-    ""
+    "Sex is allowed in these private rooms, but would Lily be okay with that?"
 
 # game/dawn.rpy#L1786
 translate chinese dawnvisit4_245f7630:
 
     # dawn "Oh, really? I figured she may be a virgin. I guess I have a lot to teach her after all, mmhehe."
-    dawn ""
+    dawn "Oh, really? I figured she may be a virgin. I guess I have a lot to teach her after all, mmhehe."
 
 # game/dawn.rpy#L1787
 translate chinese dawnvisit4_87930371:
 
     # lily "H-Hey, now it feels like you’re both ganging up on me."
-    lily ""
+    lily "H-Hey, now it feels like you’re both ganging up on me."
 
 # game/dawn.rpy#L1788
 translate chinese dawnvisit4_ee264f09:
 
     # "That wasn’t really my intention, but I guess I was a little patronising."
-    ""
+    "That wasn’t really my intention, but I guess I was a little patronising."
 
 # game/dawn.rpy#L1791
 translate chinese dawnvisit4_3cb722c1:
 
     # dawn "You have such a gorgeous body, Lil… Your ass looks like an especially delectable treat. Mmm…"
-    dawn ""
+    dawn "You have such a gorgeous body, Lil… Your ass looks like an especially delectable treat. Mmm…"
 
 # game/dawn.rpy#L1792
 translate chinese dawnvisit4_e2f0ec1e:
 
     # lily "Hah… Uhm, t-thank you… I am quite proud of my butt."
-    lily ""
+    lily "Hah… Uhm, t-thank you… I am quite proud of my butt."
 
 # game/dawn.rpy#L1793
 translate chinese dawnvisit4_350824b1:
 
     # dawn "Absolutely darling, what do you think, [playername]?"
-    dawn ""
+    dawn "Absolutely darling, what do you think, [playername]?"
 
 # game/dawn.rpy#L1794
 translate chinese dawnvisit4_4d344b23:
 
     # mc "I- uhm…"
-    mc ""
+    mc "I- uhm…"
 
 # game/dawn.rpy#L1795
 translate chinese dawnvisit4_97ec11a0:
 
     # lily "It’s okay, you can be honest…"
-    lily ""
+    lily "It’s okay, you can be honest…"
 
 # game/dawn.rpy#L1796
 translate chinese dawnvisit4_272ab584:
 
     # "Ah… She adjusted herself so I can clearly see her pussy…"
-    ""
+    "Ah… She adjusted herself so I can clearly see her pussy…"
 
 # game/dawn.rpy#L1797
 translate chinese dawnvisit4_5aa8b20a:
 
     # "She’s really wet. Well, of course she’s wet… It’s Lily, self-proclaimed as my slut and cum-dumpster."
-    ""
+    "She’s really wet. Well, of course she’s wet… It’s Lily, self-proclaimed as my slut and cum-dumpster."
 
 # game/dawn.rpy#L1798
 translate chinese dawnvisit4_be4964d0:
 
     # mc "Yeah, it’s a really nice ass."
-    mc ""
+    mc "Yeah, it’s a really nice ass."
 
 # game/dawn.rpy#L1799
 translate chinese dawnvisit4_2fbc07f7:
 
     # "Woah, Dawn just spread her legs…"
-    ""
+    "Woah, Dawn just spread her legs…"
 
 # game/dawn.rpy#L1800
 translate chinese dawnvisit4_b36049ca:
 
     # "She’s not leaving much to the imagination by sitting like that… And… she’s really wet too."
-    ""
+    "She’s not leaving much to the imagination by sitting like that… And… she’s really wet too."
 
 # game/dawn.rpy#L1801
 translate chinese dawnvisit4_88cad924:
 
     # "Lily notices too, I can tell she's into it by the way she bites her lip…"
-    ""
+    "Lily notices too, I can tell she's into it by the way she bites her lip…"
 
 # game/dawn.rpy#L1804
 translate chinese dawnvisit4_a3915e6f:
 
     # dawn "Pheeww, it’s getting so hot in here… And not just the temperature…"
-    dawn ""
+    dawn "Pheeww, it’s getting so hot in here… And not just the temperature…"
 
 # game/dawn.rpy#L1805
 translate chinese dawnvisit4_2062a1eb:
 
     # lily "That’s such a naughty pose, Dawn. You’re going to give [playername] an erection."
-    lily ""
+    lily "That’s such a naughty pose, Dawn. You’re going to give [playername] an erection."
 
 # game/dawn.rpy#L1806
 translate chinese dawnvisit4_70b5c250:
 
     # dawn "Wouldn’t that be fun, hehe. Are you getting a ladyboner too, Lil?"
-    dawn ""
+    dawn "Wouldn’t that be fun, hehe. Are you getting a ladyboner too, Lil?"
 
 # game/dawn.rpy#L1808
 translate chinese dawnvisit4_5164a067:
 
     # "Dawn runs her hand up and down Lily’s thigh, she shivers and her tail instinctively flickers back and forth."
-    ""
+    "Dawn runs her hand up and down Lily’s thigh, she shivers and her tail instinctively flickers back and forth."
 
 # game/dawn.rpy#L1809
 translate chinese dawnvisit4_fcca4ce2:
 
     # "Woah, these two are getting along like wildfire."
-    ""
+    "Woah, these two are getting along like wildfire."
 
 # game/dawn.rpy#L1811
 translate chinese dawnvisit4_12ea0195:
 
     # lily "Ooo… D-Dawn… I can tell you look really aroused…"
-    lily ""
+    lily "Ooo… D-Dawn… I can tell you look really aroused…"
 
 # game/dawn.rpy#L1812
 translate chinese dawnvisit4_dd6c2f66:
 
     # dawn "Oh? You’re looking, kitten? If you purr for me, perhaps I’ll let you do more than just look…"
-    dawn ""
+    dawn "Oh? You’re looking, kitten? If you purr for me, perhaps I’ll let you do more than just look…"
 
 # game/dawn.rpy#L1814
 translate chinese dawnvisit4_36b94e28:
 
     # lily "Aahh, D-Dawn… T-Touch me…"
-    lily ""
+    lily "Aahh, D-Dawn… T-Touch me…"
 
 # game/dawn.rpy#L1815
 translate chinese dawnvisit4_dfb7364d:
 
     # "A very sexually dominant girl, and a very sexually submissive girl. It makes sense."
-    ""
+    "A very sexually dominant girl, and a very sexually submissive girl. It makes sense."
 
 # game/dawn.rpy#L1816
 translate chinese dawnvisit4_54f5bb97:
 
     # "But I didn’t think they’d get along this fucking well!"
-    ""
+    "But I didn’t think they’d get along this fucking well!"
 
 # game/dawn.rpy#L1821
 translate chinese dawnv4threesome_dce266db:
 
     # "Dawn’s hand slips between Lily’s thighs to specifically target her clit. Sheesh, she didn’t waste any time teasing her at all!"
-    ""
+    "Dawn’s hand slips between Lily’s thighs to specifically target her clit. Sheesh, she didn’t waste any time teasing her at all!"
 
 # game/dawn.rpy#L1822
 translate chinese dawnv4threesome_a6271399:
 
     # lily "Ahhh, ahh, y-yes… Ooohh…"
-    lily ""
+    lily "Ahhh, ahh, y-yes… Ooohh…"
 
 # game/dawn.rpy#L1824
 translate chinese dawnv4threesome_8ace03f3:
 
     # dawn "And you were accusing me of being aroused? Look how soaking wet you are. I bet you got like this imagining [playername] fucking you, you’re such a slut."
-    dawn ""
+    dawn "And you were accusing me of being aroused? Look how soaking wet you are. I bet you got like this imagining [playername] fucking you, you’re such a slut."
 
 # game/dawn.rpy#L1825
 translate chinese dawnv4threesome_e3457dbf:
 
     # lily "Y-Yeah! I-I’m s-such a slut… Ahhh, that feels so good."
-    lily ""
+    lily "Y-Yeah! I-I’m s-such a slut… Ahhh, that feels so good."
 
 # game/dawn.rpy#L1826
 translate chinese dawnv4threesome_ab8b303c:
 
     # "Holy crap, I got an erection so fast. My tip’s even dripping with precum and it’s only been a few seconds."
-    ""
+    "Holy crap, I got an erection so fast. My tip’s even dripping with precum and it’s only been a few seconds."
 
 # game/dawn.rpy#L1827
 translate chinese dawnv4threesome_e2fd4ac0:
 
     # dawn "Turn around, slut. I wanna get a taste of that juicy pussy."
-    dawn ""
+    dawn "Turn around, slut. I wanna get a taste of that juicy pussy."
 
 # game/dawn.rpy#L1829
 translate chinese dawnv4threesome_ce617998:
 
     # "…"
-    ""
+    "…"
 
 # game/dawn.rpy#L1835
 translate chinese dawnv4threesome_b9e53c16:
 
     # dawn "Mmmm, mmphh, you’re so fucking delicious, kitten. Keep purring for me…"
-    dawn ""
+    dawn "Mmmm, mmphh, you’re so fucking delicious, kitten. Keep purring for me…"
 
 # game/dawn.rpy#L1836
 translate chinese dawnv4threesome_950cae3c:
 
     # lily "Ahhh, ahhhh, o-ohmigosh! Ahhhh!"
-    lily ""
+    lily "Ahhh, ahhhh, o-ohmigosh! Ahhhh!"
 
 # game/dawn.rpy#L1839
 translate chinese dawnv4threesome_f7b0b0c9:
 
     # "Damn, Dawn got such a good reading on what type of lover Lily is in bed."
-    ""
+    "Damn, Dawn got such a good reading on what type of lover Lily is in bed."
 
 # game/dawn.rpy#L1840
 translate chinese dawnv4threesome_7aef4fd1:
 
     # "It’s brave to dirty talk this intensely when it’s your first time with someone, but Dawn has Lily completely figured out."
-    ""
+    "It’s brave to dirty talk this intensely when it’s your first time with someone, but Dawn has Lily completely figured out."
 
 # game/dawn.rpy#L1841
 translate chinese dawnv4threesome_55cbfc68:
 
     # "I can’t help but masturbate as I watch the two mares get it on. Dawn’s tongue flickering across Lily’s clit and driving her wild."
-    ""
+    "I can’t help but masturbate as I watch the two mares get it on. Dawn’s tongue flickering across Lily’s clit and driving her wild."
 
 # game/dawn.rpy#L1844
 translate chinese dawnv4threesome_b48b88e3:
 
     # lily "I-I’m… Y-You’re gonna make me come, ahhh! Ahhh!"
-    lily ""
+    lily "I-I’m… Y-You’re gonna make me come, ahhh! Ahhh!"
 
 # game/dawn.rpy#L1845
 translate chinese dawnv4threesome_1af61e65:
 
     # dawn "*Lick, slurp, lick* Already? Sheeeshhh! *Lick, lick*"
-    dawn ""
+    dawn "*Lick, slurp, lick* Already? Sheeeshhh! *Lick, lick*"
 
 # game/dawn.rpy#L1846
 translate chinese dawnv4threesome_405075f2:
 
     # lily "Ahh-ahh! Yes, yes! Yes, yes, yesss! Ahhh!"
-    lily ""
+    lily "Ahh-ahh! Yes, yes! Yes, yes, yesss! Ahhh!"
 
 # game/dawn.rpy#L1849
 translate chinese dawnv4threesome_1125e8f1:
 
     # "Lily’s entire body convulses as she’s consumed in orgasmic pleasure, her hips rocking into Dawn’s mouth as she grinds against it."
-    ""
+    "Lily’s entire body convulses as she’s consumed in orgasmic pleasure, her hips rocking into Dawn’s mouth as she grinds against it."
 
 # game/dawn.rpy#L1850
 translate chinese dawnv4threesome_af45c94a:
 
     # "She came already? Dawn must be really skilled with her tongue."
-    ""
+    "She came already? Dawn must be really skilled with her tongue."
 
 # game/dawn.rpy#L1851
 translate chinese dawnv4threesome_ae44a6d9:
 
     # "I can vouch for that, she made me cum really fast the last time she gave me a blowjob."
-    ""
+    "I can vouch for that, she made me cum really fast the last time she gave me a blowjob."
 
 # game/dawn.rpy#L1853
 translate chinese dawnv4threesome_4cc155da:
 
     # lily "Ahhh, Daaaawwwnn…"
-    lily ""
+    lily "Ahhh, Daaaawwwnn…"
 
 # game/dawn.rpy#L1854
 translate chinese dawnv4threesome_67a41171:
 
     # dawn "Mmm, mmmmm… Hehehe…"
-    dawn ""
+    dawn "Mmm, mmmmm… Hehehe…"
 
 # game/dawn.rpy#L1856
 translate chinese dawnv4threesome_e45d1dd3:
 
     # "The two girls briefly separate, and as Dawn wipes the wetness from her muzzle she's already planning her next move."
-    ""
+    "The two girls briefly separate, and as Dawn wipes the wetness from her muzzle she's already planning her next move."
 
 # game/dawn.rpy#L1858
 translate chinese dawnv4threesome_0c0ec03d:
 
     # dawn "For the next part of our performance, we’ll need a volunteer from the audience."
-    dawn ""
+    dawn "For the next part of our performance, we’ll need a volunteer from the audience."
 
 # game/dawn.rpy#L1859
 translate chinese dawnv4threesome_7bf4ff7c:
 
     # dawn "Come sit right here Lil, yeah, that’s right…"
-    dawn ""
+    dawn "Come sit right here Lil, yeah, that’s right…"
 
 # game/dawn.rpy#L1861
 translate chinese dawnv4threesome_2c780a5f:
 
     # "Almost beguiled, Lily follows each and every order as the two girls sit back on the benches."
-    ""
+    "Almost beguiled, Lily follows each and every order as the two girls sit back on the benches."
 
 # game/dawn.rpy#L1862
 translate chinese dawnv4threesome_58a086c7:
 
     # dawn "Come here, [playername]..."
-    dawn ""
+    dawn "Come here, [playername]..."
 
 # game/dawn.rpy#L1866
 translate chinese dawnv4threesome_d8f82a1f:
 
     # dawn "Hehe, I didn’t even need to ask her to spread her legs."
-    dawn ""
+    dawn "Hehe, I didn’t even need to ask her to spread her legs."
 
 # game/dawn.rpy#L1867
 translate chinese dawnv4threesome_bc2a847f:
 
     # lily "Y-Yeah, I want you, [playername]… I really want you right now."
-    lily ""
+    lily "Y-Yeah, I want you, [playername]… I really want you right now."
 
 # game/dawn.rpy#L1868
 translate chinese dawnv4threesome_b80d306a:
 
     # "I teasingly press the tip against her pussy, but I don't push in."
-    ""
+    "I teasingly press the tip against her pussy, but I don't push in."
 
 # game/dawn.rpy#L1869
 translate chinese dawnv4threesome_bcaca39a:
 
     # mc "I didn’t quite hear that, try again?"
-    mc ""
+    mc "I didn’t quite hear that, try again?"
 
 # game/dawn.rpy#L1870
 translate chinese dawnv4threesome_d7069a19:
 
     # lily "I-I really want you to fuck me, [playername]! I-I’m your cum-dumpster! Ahh… M-My pussy is all twitchy!"
-    lily ""
+    lily "I-I really want you to fuck me, [playername]! I-I’m your cum-dumpster! Ahh… M-My pussy is all twitchy!"
 
 # game/dawn.rpy#L1871
 translate chinese dawnv4threesome_5473b201:
 
     # dawn "Ooohh, hehe, you two really do have a deeper relationship than I expected… I’m expecting great things, [playername]."
-    dawn ""
+    dawn "Ooohh, hehe, you two really do have a deeper relationship than I expected… I’m expecting great things, [playername]."
 
 # game/dawn.rpy#L1872
 translate chinese dawnv4threesome_4e7623ad:
 
     # "My eyes lock onto Lily’s glistening pussy, moist from the steaming air, Dawn’s saliva, and her own plentiful lubricant."
-    ""
+    "My eyes lock onto Lily’s glistening pussy, moist from the steaming air, Dawn’s saliva, and her own plentiful lubricant."
 
 # game/dawn.rpy#L1873
 translate chinese dawnv4threesome_d45e40e4:
 
     # "Dawn runs a slender finger around the labia, squishing and manipulating the pussy in obscene ways, as to beckon me to plunge inside."
-    ""
+    "Dawn runs a slender finger around the labia, squishing and manipulating the pussy in obscene ways, as to beckon me to plunge inside."
 
 # game/dawn.rpy#L1876
 translate chinese dawnv4threesome_d793efb5:
 
     # "The horny mare moans loudly as I push forward, sliding my cock deep into her warmth and wetness."
-    ""
+    "The horny mare moans loudly as I push forward, sliding my cock deep into her warmth and wetness."
 
 # game/dawn.rpy#L1877
 translate chinese dawnv4threesome_6f4959a8:
 
     # lily "Ahhhaaaa, oohhh, yes! I’ve already come, b-but this feels even better than usual, ahh…"
-    lily ""
+    lily "Ahhhaaaa, oohhh, yes! I’ve already come, b-but this feels even better than usual, ahh…"
 
 # game/dawn.rpy#L1878
 translate chinese dawnv4threesome_bd30aec6:
 
     # dawn "Well darling, I plan to make a three-course meal out of you. Each dish will get more and more delicious…"
-    dawn ""
+    dawn "Well darling, I plan to make a three-course meal out of you. Each dish will get more and more delicious…"
 
 # game/dawn.rpy#L1880
 translate chinese dawnv4threesome_739d9355:
 
     # "Her greedy pussy squeezes and generously coats my shaft in her juices, allowing my girthy cock to easily slip backwards and start a rhythm of fucking."
-    ""
+    "Her greedy pussy squeezes and generously coats my shaft in her juices, allowing my girthy cock to easily slip backwards and start a rhythm of fucking."
 
 # game/dawn.rpy#L1881
 translate chinese dawnv4threesome_57d2aa1c:
 
     # "Lily pants and moans with happiness and lust as I pound her needy cunt, Dawn adding to the pleasure with tactful movements on her erogenous zones."
-    ""
+    "Lily pants and moans with happiness and lust as I pound her needy cunt, Dawn adding to the pleasure with tactful movements on her erogenous zones."
 
 # game/dawn.rpy#L1883
 translate chinese dawnv4threesome_a83ce1c3:
 
     # lily "Ahhh, y-you two… Y-You’re going to drive me w-wild, ahahhaa… I-It’s not even breeding season, b-but… It’s so good… Ahhh!"
-    lily ""
+    lily "Ahhh, y-you two… Y-You’re going to drive me w-wild, ahahhaa… I-It’s not even breeding season, b-but… It’s so good… Ahhh!"
 
 # game/dawn.rpy#L1884
 translate chinese dawnv4threesome_ec8670a5:
 
     # dawn "There we go, let all that sexual frustration out… We can’t have a princess who acts like a complete slut, can we? Or maybe you’d like to train to be a princess of love instead, hmm?"
-    dawn ""
+    dawn "There we go, let all that sexual frustration out… We can’t have a princess who acts like a complete slut, can we? Or maybe you’d like to train to be a princess of love instead, hmm?"
 
 # game/dawn.rpy#L1885
 translate chinese dawnv4threesome_20dbb245:
 
     # "For some reason, this line of dirty talking arouses Lily even more, her pussy clenching as I plunge deeper yet."
-    ""
+    "For some reason, this line of dirty talking arouses Lily even more, her pussy clenching as I plunge deeper yet."
 
 # game/dawn.rpy#L1886
 translate chinese dawnv4threesome_e22590e5:
 
     # "She watches with pure admiration and delight as my cock slides deep inside of her, she twitches slightly as she even manages to squirt a little, splattering our point of connection."
-    ""
+    "She watches with pure admiration and delight as my cock slides deep inside of her, she twitches slightly as she even manages to squirt a little, splattering our point of connection."
 
 # game/dawn.rpy#L1888
 translate chinese dawnv4threesome_0bc00714:
 
     # lily "I-I’m gonna… Ahh, y-you’re gonna make me… Ahhh!"
-    lily ""
+    lily "I-I’m gonna… Ahh, y-you’re gonna make me… Ahhh!"
 
 # game/dawn.rpy#L1889
 translate chinese dawnv4threesome_718cc005:
 
     # "With an expression of determination, Dawn starts to rub her clit faster, as if she was holding back to overwhelm Lil at the right moment."
-    ""
+    "With an expression of determination, Dawn starts to rub her clit faster, as if she was holding back to overwhelm Lil at the right moment."
 
 # game/dawn.rpy#L1890
 translate chinese dawnv4threesome_9d226cca:
 
     # dawn "Yess, yess… What an obedient little slut, come for me now… Come for me…"
-    dawn ""
+    dawn "Yess, yess… What an obedient little slut, come for me now… Come for me…"
 
 # game/dawn.rpy#L1891
 translate chinese dawnv4threesome_cc841742:
 
     # "Smirking, I furiously push forward, rutting with increased speed and intensity. Lily’s entire body rocks, even her petite breasts jiggling, as she begins to orgasm."
-    ""
+    "Smirking, I furiously push forward, rutting with increased speed and intensity. Lily’s entire body rocks, even her petite breasts jiggling, as she begins to orgasm."
 
 # game/dawn.rpy#L1893
 translate chinese dawnv4threesome_221c64ef:
 
     # lily "Aaahaaaa, I-I’m coming! M-Master and mistress, c-coming!"
-    lily ""
+    lily "Aaahaaaa, I-I’m coming! M-Master and mistress, c-coming!"
 
 # game/dawn.rpy#L1894
 translate chinese dawnv4threesome_1de5991c:
 
     # "Lily’s body begins to convulse as she has another strong orgasm, her pussy clenching and sucking around my throbbing cock as my own orgasm prepares to set itself loose."
-    ""
+    "Lily’s body begins to convulse as she has another strong orgasm, her pussy clenching and sucking around my throbbing cock as my own orgasm prepares to set itself loose."
 
 # game/dawn.rpy#L1899
 translate chinese dawnv4threesome_98feff95:
 
     # "Pushing deep and bottoming out into Lily’s pussy, my cock unloads straight into her womb. But I continue fucking, and splatter her entire pussy with several loads of cum."
-    ""
+    "Pushing deep and bottoming out into Lily’s pussy, my cock unloads straight into her womb. But I continue fucking, and splatter her entire pussy with several loads of cum."
 
 # game/dawn.rpy#L1905
 translate chinese dawnv4threesome_ebfea6b5:
 
     # "Her pussy milks and squeezes me until I finally finish ejaculating, and finally pull out."
-    ""
+    "Her pussy milks and squeezes me until I finally finish ejaculating, and finally pull out."
 
 # game/dawn.rpy#L1907
 translate chinese dawnv4threesome_00a96a89:
 
     # lily "Haahh, aaahhh… So good, b-best day ever…"
-    lily ""
+    lily "Haahh, aaahhh… So good, b-best day ever…"
 
 # game/dawn.rpy#L1912
 translate chinese dawnv4threesome_7451c499:
 
     # dawn "Now, now… This is an ‘all-day’ spa coupon, we can’t call it quits quite yet…"
-    dawn ""
+    dawn "Now, now… This is an ‘all-day’ spa coupon, we can’t call it quits quite yet…"
 
 # game/dawn.rpy#L1913
 translate chinese dawnv4threesome_c1721af4:
 
     # dawn "After all, I still have so much to teach you, future princess…"
-    dawn ""
+    dawn "After all, I still have so much to teach you, future princess…"
 
 # game/dawn.rpy#L1915
 translate chinese dawnv4threesome_ab93f2f7:
 
     # "Casting a spell on me, Dawn removes the post-orgasm sensitivity from my cock, and I’m suddenly ready to go again."
-    ""
+    "Casting a spell on me, Dawn removes the post-orgasm sensitivity from my cock, and I’m suddenly ready to go again."
 
 # game/dawn.rpy#L1916
 translate chinese dawnv4threesome_8777d989:
 
     # "Which is great, I definitely want to go again."
-    ""
+    "Which is great, I definitely want to go again."
 
 # game/dawn.rpy#L1917
 translate chinese dawnv4threesome_003affbb:
 
     # dawn "Let’s see here… You got really wet, so maybe…"
-    dawn ""
+    dawn "Let’s see here… You got really wet, so maybe…"
 
 # game/dawn.rpy#L1919
 translate chinese dawnv4threesome_c3d34544:
 
     # lily "*Gulp* What are you doing, Dawn? Aa-ahh?"
-    lily ""
+    lily "*Gulp* What are you doing, Dawn? Aa-ahh?"
 
 # game/dawn.rpy#L1921
 translate chinese dawnv4threesome_cf20fa8d:
 
     # "Dawn’s fingers stray slightly under Lily’s vulva, finding her tight anus and poking it with a finger."
-    ""
+    "Dawn’s fingers stray slightly under Lily’s vulva, finding her tight anus and poking it with a finger."
 
 # game/dawn.rpy#L1922
 translate chinese dawnv4threesome_eb117eed:
 
     # "Thanks to the copious wetness dripping down from the previous rutting, the pucker is practically as well lubricated as her pussy, causing Dawn’s finger to slip in with ease."
-    ""
+    "Thanks to the copious wetness dripping down from the previous rutting, the pucker is practically as well lubricated as her pussy, causing Dawn’s finger to slip in with ease."
 
 # game/dawn.rpy#L1923
 translate chinese dawnv4threesome_d912739e:
 
     # lily "Oh! Th-That feels… different…"
-    lily ""
+    lily "Oh! Th-That feels… different…"
 
 # game/dawn.rpy#L1924
 translate chinese dawnv4threesome_f344a172:
 
     # lily "A-Are you sure?"
-    lily ""
+    lily "A-Are you sure?"
 
 # game/dawn.rpy#L1925
 translate chinese dawnv4threesome_8f57a50d:
 
     # dawn "Be a good girl now… Close your eyes, and relax…"
-    dawn ""
+    dawn "Be a good girl now… Close your eyes, and relax…"
 
 # game/dawn.rpy#L1927
 translate chinese dawnv4threesome_2a7173d2:
 
     # lily "Y-Yeah, anything for you…"
-    lily ""
+    lily "Y-Yeah, anything for you…"
 
 # game/dawn.rpy#L1928
 translate chinese dawnv4threesome_18d1cc67:
 
     # mc "You really have her wrapped around your finger."
-    mc ""
+    mc "You really have her wrapped around your finger."
 
 # game/dawn.rpy#L1929
 translate chinese dawnv4threesome_b6e88154:
 
     # dawn "Mmmhehe, and you don’t? She’s seems to be your little slut before mine…"
-    dawn ""
+    dawn "Mmmhehe, and you don’t? She’s seems to be your little slut before mine…"
 
 # game/dawn.rpy#L1930
 translate chinese dawnv4threesome_c002acc0:
 
     # dawn "Here, she should be ready."
-    dawn ""
+    dawn "Here, she should be ready."
 
 # game/dawn.rpy#L1932
 translate chinese dawnv4threesome_e1294a58:
 
     # lily "Eee?! Really? We're doing that?"
-    lily ""
+    lily "Eee?! Really? We're doing that?"
 
 # game/dawn.rpy#L1936
 translate chinese dawnv4threesome_75a5649c:
 
     # "Attacking from the side, Dawn pushes Lily into a pseudo-sixty-nine position and begins to teasingly lap at her swollen clit."
-    ""
+    "Attacking from the side, Dawn pushes Lily into a pseudo-sixty-nine position and begins to teasingly lap at her swollen clit."
 
 # game/dawn.rpy#L1937
 translate chinese dawnv4threesome_633e47ea:
 
     # "Despite vocalising her uncertainty, Lily’s legs open wide and her ass is completely ready and available."
-    ""
+    "Despite vocalising her uncertainty, Lily’s legs open wide and her ass is completely ready and available."
 
 # game/dawn.rpy#L1938
 translate chinese dawnv4threesome_f5a26394:
 
     # dawn "Well… Let’s not keep the slutty princess waiting, hmm?"
-    dawn ""
+    dawn "Well… Let’s not keep the slutty princess waiting, hmm?"
 
 # game/dawn.rpy#L1939
 translate chinese dawnv4threesome_84d0359d:
 
     # "With one hand, Dawn spreads Lily’s cheeks slightly and I find myself getting straight into the same position as before."
-    ""
+    "With one hand, Dawn spreads Lily’s cheeks slightly and I find myself getting straight into the same position as before."
 
 # game/dawn.rpy#L1940
 translate chinese dawnv4threesome_6d6a0b07:
 
     # "I align the tip of my erection, still slick from the vaginal sex, and press it against Lily’s tightly puckered backdoor."
-    ""
+    "I align the tip of my erection, still slick from the vaginal sex, and press it against Lily’s tightly puckered backdoor."
 
 # game/dawn.rpy#L1943
 translate chinese dawnv4threesome_ead595a1:
 
     # "She gasps at the pressure on her tender ass. As she makes an effort to relax, my cock soon sinks deeply into her slippery, warm depths, all while Dawn watches with glee."
-    ""
+    "She gasps at the pressure on her tender ass. As she makes an effort to relax, my cock soon sinks deeply into her slippery, warm depths, all while Dawn watches with glee."
 
 # game/dawn.rpy#L1944
 translate chinese dawnv4threesome_ff42b378:
 
     # lily "Ooohhh, it feels so different… I like it, I like it a lot… Hehe… Now I can really be a cum dumpster, cum in all my holes… Hehe…"
-    lily ""
+    lily "Ooohhh, it feels so different… I like it, I like it a lot… Hehe… Now I can really be a cum dumpster, cum in all my holes… Hehe…"
 
 # game/dawn.rpy#L1945
 translate chinese dawnv4threesome_44bc1655:
 
     # dawn "Sheesh… You really have been a bad influence on her, [playername]."
-    dawn ""
+    dawn "Sheesh… You really have been a bad influence on her, [playername]."
 
 # game/dawn.rpy#L1946
 translate chinese dawnv4threesome_85e98fa1:
 
     # mc "Hey, she was always like this! I just helped her be more confident about it."
-    mc ""
+    mc "Hey, she was always like this! I just helped her be more confident about it."
 
 # game/dawn.rpy#L1948
 translate chinese dawnv4threesome_0ce3a5ad:
 
     # dawn "Mmm, just ask me if you need some drool, hehe… *Lick, drip, lick*"
-    dawn ""
+    dawn "Mmm, just ask me if you need some drool, hehe… *Lick, drip, lick*"
 
 # game/dawn.rpy#L1949
 translate chinese dawnv4threesome_16735a4f:
 
     # "After giving Lily a few seconds to adjust to the girth, I plunge further forward until I’m hilted, then I pull back about three quarters of the way and pump back in."
-    ""
+    "After giving Lily a few seconds to adjust to the girth, I plunge further forward until I’m hilted, then I pull back about three quarters of the way and pump back in."
 
 # game/dawn.rpy#L1951
 translate chinese dawnv4threesome_3fea24a9:
 
     # "And again, and again. Each thrust becomes easier, and more apparently pleasurable for Lily who is moaning more and more."
-    ""
+    "And again, and again. Each thrust becomes easier, and more apparently pleasurable for Lily who is moaning more and more."
 
 # game/dawn.rpy#L1952
 translate chinese dawnv4threesome_a835ff47:
 
     # "Mare’s pussies are extremely wet, so the anus is a welcome area of friction. Especially the sphincter itself which acts like a tight iron ring, which glides back and forth along my shaft."
-    ""
+    "Mare’s pussies are extremely wet, so the anus is a welcome area of friction. Especially the sphincter itself which acts like a tight iron ring, which glides back and forth along my shaft."
 
 # game/dawn.rpy#L1953
 translate chinese dawnv4threesome_f5e15830:
 
     # "It feels especially pleasurable if I let it roll across my sensitive glans, I can feel her twitching and throbbing."
-    ""
+    "It feels especially pleasurable if I let it roll across my sensitive glans, I can feel her twitching and throbbing."
 
 # game/dawn.rpy#L1954
 translate chinese dawnv4threesome_9c2dec3d:
 
     # lily "Oohhh, ahhh, it feels even bigger! Ahaa, seems like I love your cock anywhere, [playername]!"
-    lily ""
+    lily "Oohhh, ahhh, it feels even bigger! Ahaa, seems like I love your cock anywhere, [playername]!"
 
 # game/dawn.rpy#L1955
 translate chinese dawnv4threesome_eccf59e5:
 
     # "Dawn’s tongue continues to flicker against Lily’s clit, eliciting light orgasms and squirts from her, serving to glaze my cock in even more lubricant."
-    ""
+    "Dawn’s tongue continues to flicker against Lily’s clit, eliciting light orgasms and squirts from her, serving to glaze my cock in even more lubricant."
 
 # game/dawn.rpy#L1956
 translate chinese dawnv4threesome_ab9d1891:
 
     # "With Lily’s anus fully adjusted to the girth of my cock, I thrust at a stimulating pace, making her cute tits jiggle back and forth, and taking care not to let Dawn's horn poke me."
-    ""
+    "With Lily’s anus fully adjusted to the girth of my cock, I thrust at a stimulating pace, making her cute tits jiggle back and forth, and taking care not to let Dawn's horn poke me."
 
 # game/dawn.rpy#L1957
 translate chinese dawnv4threesome_ba1b517d:
 
     # lily "Oohh fuck, I-I’ve never felt anything this good! Ahh, aahhh!"
-    lily ""
+    lily "Oohh fuck, I-I’ve never felt anything this good! Ahh, aahhh!"
 
 # game/dawn.rpy#L1958
 translate chinese dawnv4threesome_1a3582e7:
 
     # dawn "Good girl, just lose yourself to the pleasure, the ecstasy."
-    dawn ""
+    dawn "Good girl, just lose yourself to the pleasure, the ecstasy."
 
 # game/dawn.rpy#L1959
 translate chinese dawnv4threesome_0d233ff6:
 
     # "The combination of the anal sex and focused cunnilingus overwhelmed the purple mare, and send her into a series of powerful orgasms."
-    ""
+    "The combination of the anal sex and focused cunnilingus overwhelmed the purple mare, and send her into a series of powerful orgasms."
 
 # game/dawn.rpy#L1960
 translate chinese dawnv4threesome_06163bf6:
 
     # "Her pussy begins to contract and her thighs quiver, her moans growing so loud that they may even escape the sound proof sauna."
-    ""
+    "Her pussy begins to contract and her thighs quiver, her moans growing so loud that they may even escape the sound proof sauna."
 
 # game/dawn.rpy#L1961
 translate chinese dawnv4threesome_3f9ae5d9:
 
     # "After another twenty seconds of pounding her ass, the fatigue from the heat and constant sweating in the sauna slowly takes over. Fortunately, before exhaustion becomes a concern, my own climax manages to arrive."
-    ""
+    "After another twenty seconds of pounding her ass, the fatigue from the heat and constant sweating in the sauna slowly takes over. Fortunately, before exhaustion becomes a concern, my own climax manages to arrive."
 
 # game/dawn.rpy#L1966
 translate chinese dawnv4threesome_6e881a6a:
 
     # "Slamming deeply into her with fervour, my entire shaft is alight with pleasure as it begins to unload several thick ropes of cum into her ass."
-    ""
+    "Slamming deeply into her with fervour, my entire shaft is alight with pleasure as it begins to unload several thick ropes of cum into her ass."
 
 # game/dawn.rpy#L1971
 translate chinese dawnv4threesome_d9aec97d:
 
     # "Her silken insides drawing as much cum as possible as it squeezes and sucks."
-    ""
+    "Her silken insides drawing as much cum as possible as it squeezes and sucks."
 
 # game/dawn.rpy#L1975
 translate chinese dawnv4threesome_e30c0f53:
 
     # "As if released from shackles, a sense of exhaustion consumes my body as I pull out and sit down on the bench."
-    ""
+    "As if released from shackles, a sense of exhaustion consumes my body as I pull out and sit down on the bench."
 
 # game/dawn.rpy#L1976
 translate chinese dawnv4threesome_f6633bfa:
 
     # mc "Looks like the heat’s getting to me, girls. There are better places to have sex than the sauna."
-    mc ""
+    mc "Looks like the heat’s getting to me, girls. There are better places to have sex than the sauna."
 
 # game/dawn.rpy#L1977
 translate chinese dawnv4threesome_1c1b2f78:
 
     # "Dawn keeps her tongue locked onto Lily’s clit until she’s completely sure their orgasm is over."
-    ""
+    "Dawn keeps her tongue locked onto Lily’s clit until she’s completely sure their orgasm is over."
 
 # game/dawn.rpy#L1978
 translate chinese dawnv4threesome_fd008307:
 
     # "Before Lily can even start catching her breath, Dawn surprises her with a messy kiss."
-    ""
+    "Before Lily can even start catching her breath, Dawn surprises her with a messy kiss."
 
 # game/dawn.rpy#L1982
 translate chinese dawnv4threesome_a0f0930c:
 
     # dawn "Mmfwaahhh, dessert was deliiicious!"
-    dawn ""
+    dawn "Mmfwaahhh, dessert was deliiicious!"
 
 # game/dawn.rpy#L1990
 translate chinese dawnv4threesome_3b5f6858:
 
     # lily "Uuuu, that was so hot…"
-    lily ""
+    lily "Uuuu, that was so hot…"
 
 # game/dawn.rpy#L1991
 translate chinese dawnv4threesome_884a54a1:
 
     # "The two girls sigh blissfully."
-    ""
+    "The two girls sigh blissfully."
 
 # game/dawn.rpy#L1992
 translate chinese dawnv4threesome_d04f7819:
 
     # "The three of us agree it’d probably be best if we went and washed up again."
-    ""
+    "The three of us agree it’d probably be best if we went and washed up again."
 
 # game/dawn.rpy#L1997
 translate chinese dawnv4threesome_b583bd86:
 
     # "Other than that, we spent a lot of time in the jacuzzi, and had some non-happy ending massages."
-    ""
+    "Other than that, we spent a lot of time in the jacuzzi, and had some non-happy ending massages."
 
 # game/dawn.rpy#L1998
 translate chinese dawnv4threesome_19a6aba9:
 
     # "A few hours later…"
-    ""
+    "A few hours later…"
 
 # game/dawn.rpy#L2005
 translate chinese dawnv4threesome_e5ac7464:
 
     # dawn "Mmphh, mmm, such a slutty princess, hah, aahh… *Lick*"
-    dawn ""
+    dawn "Mmphh, mmm, such a slutty princess, hah, aahh… *Lick*"
 
 # game/dawn.rpy#L2006
 translate chinese dawnv4threesome_1c19c465:
 
     # lily "F-Fuck, aahh, haaah, k-keep going!"
-    lily ""
+    lily "F-Fuck, aahh, haaah, k-keep going!"
 
 # game/dawn.rpy#L2007
 translate chinese dawnv4threesome_3751727f:
 
     # "Yeah, these two have been flirting back and forth all day. They didn’t even make it to the bed."
-    ""
+    "Yeah, these two have been flirting back and forth all day. They didn’t even make it to the bed."
 
 # game/dawn.rpy#L2008
 translate chinese dawnv4threesome_3acadf47:
 
     # "Come to think of it, there was barely any advice given to Lily about becoming a princess."
-    ""
+    "Come to think of it, there was barely any advice given to Lily about becoming a princess."
 
 # game/dawn.rpy#L2009
 translate chinese dawnv4threesome_eb4fc48a:
 
     # "The spa day was awesome though, we had sex in the morning, and it'd only be natural that the girls are horny again so many hours later."
-    ""
+    "The spa day was awesome though, we had sex in the morning, and it'd only be natural that the girls are horny again so many hours later."
 
 # game/dawn.rpy#L2010
 translate chinese dawnv4threesome_c2cad03f:
 
     # "Given that it's just past 5:00pm, the question is, should I stay or should I go?"
-    ""
+    "Given that it's just past 5:00pm, the question is, should I stay or should I go?"
 
 # game/dawn.rpy#L2014
 translate chinese dawnv4threesome_6c7c6a46:
 
     # "Ah, fuck it, why not?"
-    ""
+    "Ah, fuck it, why not?"
 
 # game/dawn.rpy#L2015
 translate chinese dawnv4threesome_8a8b543d:
 
     # mc "Hey, spread those cheeks, Lily could definitely use a good fuckin’ too."
-    mc ""
+    mc "Hey, spread those cheeks, Lily could definitely use a good fuckin’ too."
 
 # game/dawn.rpy#L2016
 translate chinese dawnv4threesome_493d6a38:
 
     # dawn "Mmmphh, great idea, darlingsh! *Lick*"
-    dawn ""
+    dawn "Mmmphh, great idea, darlingsh! *Lick*"
 
 # game/dawn.rpy#L2017
 translate chinese dawnv4threesome_c16d8ef1:
 
     # lily "Ahhaa, [playername]… Aahh, I want to feel you in my pussy again, ahh…"
-    lily ""
+    lily "Ahhaa, [playername]… Aahh, I want to feel you in my pussy again, ahh…"
 
 # game/dawn.rpy#L2018
 translate chinese dawnv4threesome_6797ba87:
 
     # mc "Lay down for me… There we go."
-    mc ""
+    mc "Lay down for me… There we go."
 
 # game/dawn.rpy#L2021
 translate chinese dawnv4threesome_a072dcb7:
 
     # lily "Ahhh, ohhh… I-I’m such a slut, aren’t I? Ahh, h-how could I ever be a princess with such a filthy mind?"
-    lily ""
+    lily "Ahhh, ohhh… I-I’m such a slut, aren’t I? Ahh, h-how could I ever be a princess with such a filthy mind?"
 
 # game/dawn.rpy#L2022
 translate chinese dawnv4threesome_dd524b64:
 
     # dawn "It’s obvious to me that you’re utterly obsessed with our friend’s cock."
-    dawn ""
+    dawn "It’s obvious to me that you’re utterly obsessed with our friend’s cock."
 
 # game/dawn.rpy#L2023
 translate chinese dawnv4threesome_85c98eed:
 
     # lily "Uuu… M-Maybe… I-It just feels so good!"
-    lily ""
+    lily "Uuu… M-Maybe… I-It just feels so good!"
 
 # game/dawn.rpy#L2024
 translate chinese dawnv4threesome_a14fdf89:
 
     # dawn "There, there… Let it all out of your system…"
-    dawn ""
+    dawn "There, there… Let it all out of your system…"
 
 # game/dawn.rpy#L2027
 translate chinese dawnv4threesome_22f3e6a1:
 
     # "The two of us fuck, and fuck, and fuck."
-    ""
+    "The two of us fuck, and fuck, and fuck."
 
 # game/dawn.rpy#L2028
 translate chinese dawnv4threesome_5abaf6c7:
 
     # "We really did let it all out of our system. I might not want to have sex for a few days after this."
-    ""
+    "We really did let it all out of our system. I might not want to have sex for a few days after this."
 
 # game/dawn.rpy#L2029
 translate chinese dawnv4threesome_d8a1df26:
 
     # "Ahh, who am I kidding? Who’s next?"
-    ""
+    "Ahh, who am I kidding? Who’s next?"
 
 # game/dawn.rpy#L2030
 translate chinese dawnv4threesome_ba74faee:
 
     # mc "Hey Dawn, cast the spell and bend over for me."
-    mc ""
+    mc "Hey Dawn, cast the spell and bend over for me."
 
 # game/dawn.rpy#L2031
 translate chinese dawnv4threesome_e3dbb3b2:
 
     # dawn "Oohoh, growl for me, tiger..."
-    dawn ""
+    dawn "Oohoh, growl for me, tiger..."
 
 # game/dawn.rpy#L2034
 translate chinese dawnv4threesome_ce617998_1:
 
     # "…"
-    ""
+    "…"
 
 # game/dawn.rpy#L2035
 translate chinese dawnv4threesome_33aada99:
 
     # "In the morning…"
-    ""
+    "In the morning…"
 
 # game/dawn.rpy#L2044
 translate chinese dawnv4threesome_022eb903:
 
     # lily "I guess we’re all fuckbuddies now… I never thought my sex life would blossom like this!"
-    lily ""
+    lily "I guess we’re all fuckbuddies now… I never thought my sex life would blossom like this!"
 
 # game/dawn.rpy#L2048
 translate chinese dawnv4threesome_090d629f:
 
     # dawn "Isn’t it magical, Lil? Being fuckbuddies, I mean."
-    dawn ""
+    dawn "Isn’t it magical, Lil? Being fuckbuddies, I mean."
 
 # game/dawn.rpy#L2049
 translate chinese dawnv4threesome_730e15b4:
 
     # dawn "A normal friendship, with all the benefits of sex, lust and pleasure. I wonder why it isn’t more normalised."
-    dawn ""
+    dawn "A normal friendship, with all the benefits of sex, lust and pleasure. I wonder why it isn’t more normalised."
 
 # game/dawn.rpy#L2050
 translate chinese dawnv4threesome_d5fb1f07:
 
     # mc "Yeah, yeah, I get the point. Friendship with Benefits."
-    mc ""
+    mc "Yeah, yeah, I get the point. Friendship with Benefits."
 
 # game/dawn.rpy#L2052
 translate chinese dawnv4threesome_a9b0ec77:
 
     # lily "Goodness… Before I met you, I was a virgin… But look at me now!"
-    lily ""
+    lily "Goodness… Before I met you, I was a virgin… But look at me now!"
 
 # game/dawn.rpy#L2054
 translate chinese dawnv4threesome_4e4b39e4:
 
     # dawn "Woo! Quite the bad influence, aren’t you, [playername]?"
-    dawn ""
+    dawn "Woo! Quite the bad influence, aren’t you, [playername]?"
 
 # game/dawn.rpy#L2056
 translate chinese dawnv4threesome_0a67f51d:
 
     # lily "Noooo, he’s been a great influence! I’ve learnt so many things, got to have so many experiences and I even took some big steps to combat my shyness."
-    lily ""
+    lily "Noooo, he’s been a great influence! I’ve learnt so many things, got to have so many experiences and I even took some big steps to combat my shyness."
 
 # game/dawn.rpy#L2058
 translate chinese dawnv4threesome_5b341dcf:
 
     # dawn "Hehe, we all love [playername]."
-    dawn ""
+    dawn "Hehe, we all love [playername]."
 
 # game/dawn.rpy#L2060
 translate chinese dawnv4threesome_0115fa08:
 
     # lily "Yeah! Thank you [playername], you’ve done so much for me, and Arcadia!"
-    lily ""
+    lily "Yeah! Thank you [playername], you’ve done so much for me, and Arcadia!"
 
 # game/dawn.rpy#L2061
 translate chinese dawnv4threesome_b6f93b1f:
 
     # mc "Awh, I should be thanking you two for making my time here in Arcadia so great."
-    mc ""
+    mc "Awh, I should be thanking you two for making my time here in Arcadia so great."
 
 # game/dawn.rpy#L2063
 translate chinese dawnv4threesome_8d320592:
 
     # dawn "More great times await you, all you need to do is come and see me in the evening."
-    dawn ""
+    dawn "More great times await you, all you need to do is come and see me in the evening."
 
 # game/dawn.rpy#L2065
 translate chinese dawnv4threesome_f409e10b:
 
     # lily "D-Does that apply to me?"
-    lily ""
+    lily "D-Does that apply to me?"
 
 # game/dawn.rpy#L2067
 translate chinese dawnv4threesome_d239c724:
 
     # dawn "Mmm, yeah! Yes, it does, I don’t think I’m finished with either of you… *Giggle*"
-    dawn ""
+    dawn "Mmm, yeah! Yes, it does, I don’t think I’m finished with either of you… *Giggle*"
 
 # game/dawn.rpy#L2068
 translate chinese dawnv4threesome_e55ff029:
 
     # "I’m still somewhat in disbelief at the events of yesterday, I wasn’t expecting these two to start having sex right in front of me."
-    ""
+    "I’m still somewhat in disbelief at the events of yesterday, I wasn’t expecting these two to start having sex right in front of me."
 
 # game/dawn.rpy#L2074
 translate chinese dawnv4threesome_1892a21b:
 
     # "Anyway, the three of us go our separate ways, and I return home."
-    ""
+    "Anyway, the three of us go our separate ways, and I return home."
 
 # game/dawn.rpy#L2075
 translate chinese dawnv4threesome_8afdd9f1:
 
     # "If I want to spend some time with Dawn again, I’ll just need to visit her at the nightclub during the evening."
-    ""
+    "If I want to spend some time with Dawn again, I’ll just need to visit her at the nightclub during the evening."
 
 # game/dawn.rpy#L2080
 translate chinese dawnv4threesome_8bfc6b91:
 
     # mc "Have fun you two, I’m going to head home."
-    mc ""
+    mc "Have fun you two, I’m going to head home."
 
 # game/dawn.rpy#L2081
 translate chinese dawnv4threesome_37c3e820:
 
     # dawn "Mmphh *Lick* Goodbaii, darlingsh!"
-    dawn ""
+    dawn "Mmphh *Lick* Goodbaii, darlingsh!"
 
 # game/dawn.rpy#L2082
 translate chinese dawnv4threesome_33119705:
 
     # lily "Ahaahh, y-yeah! Uh-humm, c-cum back soon!"
-    lily ""
+    lily "Ahaahh, y-yeah! Uh-humm, c-cum back soon!"
 
 # game/dawn.rpy#L2083
 translate chinese dawnv4threesome_bdfff05f:
 
     # dawn "Hehe, we both love you, [playername]. *Lick, lick*"
-    dawn ""
+    dawn "Hehe, we both love you, [playername]. *Lick, lick*"
 
 # game/dawn.rpy#L2084
 translate chinese dawnv4threesome_a5a825a9:
 
     # lily "Yeaahhhhh! Thank you [playername], you’ve done so much for me, and Arcadia!"
-    lily ""
+    lily "Yeaahhhhh! Thank you [playername], you’ve done so much for me, and Arcadia!"
 
 # game/dawn.rpy#L2085
 translate chinese dawnv4threesome_b6f93b1f_1:
 
     # mc "Awh, I should be thanking you two for making my time here in Arcadia so great."
-    mc ""
+    mc "Awh, I should be thanking you two for making my time here in Arcadia so great."
 
 # game/dawn.rpy#L2086
 translate chinese dawnv4threesome_8d320592_1:
 
     # dawn "More great times await you, all you need to do is come and see me in the evening."
-    dawn ""
+    dawn "More great times await you, all you need to do is come and see me in the evening."
 
 # game/dawn.rpy#L2087
 translate chinese dawnv4threesome_aa7ff89f:
 
     # lily "D-Does that apply to me? Ahh, ahh..."
-    lily ""
+    lily "D-Does that apply to me? Ahh, ahh..."
 
 # game/dawn.rpy#L2088
 translate chinese dawnv4threesome_8f13faa4:
 
     # dawn "Mmm, yeah! Yes, it does, now shut up, slut!"
-    dawn ""
+    dawn "Mmm, yeah! Yes, it does, now shut up, slut!"
 
 # game/dawn.rpy#L2089
 translate chinese dawnv4threesome_ec893bf3:
 
     # lily "Ahh, sorry mistress!"
-    lily ""
+    lily "Ahh, sorry mistress!"
 
 # game/dawn.rpy#L2095
 translate chinese dawnv4threesome_8afdd9f1_1:
 
     # "If I want to spend some time with Dawn again, I’ll just need to visit her at the nightclub during the evening."
-    ""
+    "If I want to spend some time with Dawn again, I’ll just need to visit her at the nightclub during the evening."
 
 # game/dawn.rpy#L2096
 translate chinese dawnv4threesome_ce617998_2:
 
     # "…"
-    ""
+    "…"
 
 # game/dawn.rpy#L2100
 translate chinese dawnvisit5_98708a85:
 
     # dawn2 "I live in one of the cute cottages near the city wall. Thank you so much for helping me. I'm not quite as strong as a handsome man such as yourself."
-    dawn2 ""
+    dawn2 "I live in one of the cute cottages near the city wall. Thank you so much for helping me. I'm not quite as strong as a handsome man such as yourself."
 
 # game/dawn.rpy#L2101
 translate chinese dawnvisit5_34f67d0d:
 
     # "She's definitely 'Dawn', albeit a slightly tamer version. Like a PG-13 Dawn, which is ironic considering this one's butt naked."
-    ""
+    "She's definitely 'Dawn', albeit a slightly tamer version. Like a PG-13 Dawn, which is ironic considering this one's butt naked."
 
 # game/dawn.rpy#L2102
 translate chinese dawnvisit5_131d68c1:
 
     # "I wonder how the two have avoided each other for so long. Although it's not exactly like I know what 'dress Dawn' gets up to."
-    ""
+    "I wonder how the two have avoided each other for so long. Although it's not exactly like I know what 'dress Dawn' gets up to."
 
 # game/dawn.rpy#L2103
 translate chinese dawnvisit5_b472d3e5:
 
     # "Maybe they simply haven't avoided each other, and they're good friends. But it's not like I can mention that at the risk of revealing something that's supposed to be classified."
-    ""
+    "Maybe they simply haven't avoided each other, and they're good friends. But it's not like I can mention that at the risk of revealing something that's supposed to be classified."
 
 # game/dawn.rpy#L2106
 translate chinese dawnvisit5_d9dff912:
 
     # dawn2 "So, tell me about yourself, [playername]! What settlement or country do you hail from?"
-    dawn2 ""
+    dawn2 "So, tell me about yourself, [playername]! What settlement or country do you hail from?"
 
 # game/dawn.rpy#L2107
 translate chinese dawnvisit5_5f261a21:
 
     # "This charade again. I'm pretty used to this by now though."
-    ""
+    "This charade again. I'm pretty used to this by now though."
 
 # game/dawn.rpy#L2108
 translate chinese dawnvisit5_354fa8a8:
 
     # mc "I'm from a pretty faraway land, not many have heard of it, it's called uhh, Humania... Definitely a different country, but I couldn't say which, it's private."
-    mc ""
+    mc "I'm from a pretty faraway land, not many have heard of it, it's called uhh, Humania... Definitely a different country, but I couldn't say which, it's private."
 
 # game/dawn.rpy#L2110
 translate chinese dawnvisit5_906f43d2:
 
     # dawn2 "Oh? That's rather mysterious, if the information is 'classified', you don't need to tell me."
-    dawn2 ""
+    dawn2 "Oh? That's rather mysterious, if the information is 'classified', you don't need to tell me."
 
 # game/dawn.rpy#L2111
 translate chinese dawnvisit5_e11f7e38:
 
     # dawn2 "I'm aware that as a friend of Lily, you might be privy to all sorts of juicy info that you can't indulge."
-    dawn2 ""
+    dawn2 "I'm aware that as a friend of Lily, you might be privy to all sorts of juicy info that you can't indulge."
 
 # game/dawn.rpy#L2112
 translate chinese dawnvisit5_b4d399e9:
 
     # mc "Ahh, I'm glad you understand. What about yourself, Dawn? I've heard good things from your friends."
-    mc ""
+    mc "Ahh, I'm glad you understand. What about yourself, Dawn? I've heard good things from your friends."
 
 # game/dawn.rpy#L2114
 translate chinese dawnvisit5_818eab8a:
 
     # dawn2 "Have you really? I'm surprised they speak of me much at all."
-    dawn2 ""
+    dawn2 "Have you really? I'm surprised they speak of me much at all."
 
 # game/dawn.rpy#L2115
 translate chinese dawnvisit5_f58d3924:
 
     # dawn2 "Well, given that I used to be in Lily's position, the topic may have come up once or twice."
-    dawn2 ""
+    dawn2 "Well, given that I used to be in Lily's position, the topic may have come up once or twice."
 
 # game/dawn.rpy#L2116
 translate chinese dawnvisit5_2127ca4d:
 
     # mc "You used to be a princess candidate too?"
-    mc ""
+    mc "You used to be a princess candidate too?"
 
 # game/dawn.rpy#L2118
 translate chinese dawnvisit5_7277cf90:
 
     # dawn2 "I certainly did, but I decided that wasn't for me. It's a little like a three thousand year prison sentence, hehe. I love my freedom."
-    dawn2 ""
+    dawn2 "I certainly did, but I decided that wasn't for me. It's a little like a three thousand year prison sentence, hehe. I love my freedom."
 
 # game/dawn.rpy#L2119
 translate chinese dawnvisit5_e784ee03:
 
     # "This all sounds familiar, but what's the catch?"
-    ""
+    "This all sounds familiar, but what's the catch?"
 
 # game/dawn.rpy#L2120
 translate chinese dawnvisit5_ef1e1445:
 
     # mc "What do you do now?"
-    mc ""
+    mc "What do you do now?"
 
 # game/dawn.rpy#L2122
 translate chinese dawnvisit5_fa393e31:
 
     # dawn2 "Well, Aurora offered me several other jobs. I'm not even sure if I can tell you, but I had to decline because a lot of them were very commital."
-    dawn2 ""
+    dawn2 "Well, Aurora offered me several other jobs. I'm not even sure if I can tell you, but I had to decline because a lot of them were very commital."
 
 # game/dawn.rpy#L2123
 translate chinese dawnvisit5_9e01493d:
 
     # dawn2 "I had a boyfriend at the time, so I couldn't just leave!"
-    dawn2 ""
+    dawn2 "I had a boyfriend at the time, so I couldn't just leave!"
 
 # game/dawn.rpy#L2124
 translate chinese dawnvisit5_5006e354:
 
     # "Ah-ha! There it is. This Dawn had a partner that she didn't want to give up, and that's why she didn't become an interuniversal scholar."
-    ""
+    "Ah-ha! There it is. This Dawn had a partner that she didn't want to give up, and that's why she didn't become an interuniversal scholar."
 
 # game/dawn.rpy#L2125
 translate chinese dawnvisit5_1ed886f9:
 
     # "What a subtle change... I wonder what aspect of being anthropomorphic over four-legged pushed that difference."
-    ""
+    "What a subtle change... I wonder what aspect of being anthropomorphic over four-legged pushed that difference."
 
 # game/dawn.rpy#L2126
 translate chinese dawnvisit5_91151655:
 
     # "Should I even ask?"
-    ""
+    "Should I even ask?"
 
 # game/dawn.rpy#L2128
 translate chinese dawnvisit5_4c76d3e5:
 
     # dawn2 "Mm... Well, I'm single now, that's all in the past. I'm just a teacher at the college."
-    dawn2 ""
+    dawn2 "Mm... Well, I'm single now, that's all in the past. I'm just a teacher at the college."
 
 # game/dawn.rpy#L2129
 translate chinese dawnvisit5_3552992f:
 
     # mc "That's a good position for someone like yourself, you seem quite passionate about learning."
-    mc ""
+    mc "That's a good position for someone like yourself, you seem quite passionate about learning."
 
 # game/dawn.rpy#L2131
 translate chinese dawnvisit5_ed28a4a0:
 
     # dawn2 "Indeed I am... You're certainly good at reading people."
-    dawn2 ""
+    dawn2 "Indeed I am... You're certainly good at reading people."
 
 # game/dawn.rpy#L2132
 translate chinese dawnvisit5_ea34de8c:
 
     # mc "You were a princess candidate, so you're clearly a remarkable person."
-    mc ""
+    mc "You were a princess candidate, so you're clearly a remarkable person."
 
 # game/dawn.rpy#L2134
 translate chinese dawnvisit5_34738567:
 
     # dawn2 "Heh, you flatter me. Perhaps such flattery is best left indoors, specifically... here's my house."
-    dawn2 ""
+    dawn2 "Heh, you flatter me. Perhaps such flattery is best left indoors, specifically... here's my house."
 
 # game/dawn.rpy#L2135
 translate chinese dawnvisit5_907ed8cc:
 
     # "That line almost sounded like something the other Dawn would say, hehe."
-    ""
+    "That line almost sounded like something the other Dawn would say, hehe."
 
 # game/dawn.rpy#L2136
 translate chinese dawnvisit5_6dff3ef3:
 
     # "Dawn leads me to exactly what she had specified earlier, a cute cottage in the shade of the city wall."
-    ""
+    "Dawn leads me to exactly what she had specified earlier, a cute cottage in the shade of the city wall."
 
 # game/dawn.rpy#L2137
 translate chinese dawnvisit5_e36866a2:
 
     # "As we step inside, it looks a lot more decorated and lived in than any of the other Dawn's settlements."
-    ""
+    "As we step inside, it looks a lot more decorated and lived in than any of the other Dawn's settlements."
 
 # game/dawn.rpy#L2139
 translate chinese dawnvisit5_4126bd55:
 
     # mc "Where do you want these groceries?"
-    mc ""
+    mc "Where do you want these groceries?"
 
 # game/dawn.rpy#L2141
 translate chinese dawnvisit5_061f1fc5:
 
     # dawn2 "Just through to the kitchen here, by the time I put them away the kettle should be done boiling."
-    dawn2 ""
+    dawn2 "Just through to the kitchen here, by the time I put them away the kettle should be done boiling."
 
 # game/dawn.rpy#L2143
 translate chinese dawnvisit5_47b8b484:
 
     # "I step through into the kitchen and stand by while Dawn puts away some groceries."
-    ""
+    "I step through into the kitchen and stand by while Dawn puts away some groceries."
 
 # game/dawn.rpy#L2144
 translate chinese dawnvisit5_c0bb59ea:
 
     # "In the short time I've come to know this new Dawn, I feel like I've gained a remarkable insight into her life already."
-    ""
+    "In the short time I've come to know this new Dawn, I feel like I've gained a remarkable insight into her life already."
 
 # game/dawn.rpy#L2145
 translate chinese dawnvisit5_d09b4bac:
 
     # "However, I'm wondering if she actually invited me here for... well, sex."
-    ""
+    "However, I'm wondering if she actually invited me here for... well, sex."
 
 # game/dawn.rpy#L2146
 translate chinese dawnvisit5_abceff5b:
 
     # "It seems too obvious, too easy for Dawn. Especially considering the other Dawn took things slow with me."
-    ""
+    "It seems too obvious, too easy for Dawn. Especially considering the other Dawn took things slow with me."
 
 # game/dawn.rpy#L2147
 translate chinese dawnvisit5_a0061e86:
 
     # "I just can't imagine a less flirtatious version deciding to sleep with me on a whim. Although I imagine I could flirt with her to get to such a position."
-    ""
+    "I just can't imagine a less flirtatious version deciding to sleep with me on a whim. Although I imagine I could flirt with her to get to such a position."
 
 # game/dawn.rpy#L2151
 translate chinese dawnvisit5_f1f7ec26:
 
     # dawn2 "Oh my, what are you implying?"
-    dawn2 ""
+    dawn2 "Oh my, what are you implying?"
 
 # game/dawn.rpy#L2152
 translate chinese dawnvisit5_2994b194:
 
     # dawn2 "Are you the type to get fiesty as soon as we're away prying eyes? I know I am..."
-    dawn2 ""
+    dawn2 "Are you the type to get fiesty as soon as we're away prying eyes? I know I am..."
 
 # game/dawn.rpy#L2153
 translate chinese dawnvisit5_44038319:
 
     # mc "Tell me more about yourself, I'm listening."
-    mc ""
+    mc "Tell me more about yourself, I'm listening."
 
 # game/dawn.rpy#L2155
 translate chinese dawnvisit5_baba0818:
 
     # dawn2 "Well dearie, flirting while I put bread away isn't the most seductive action, so allow me to finish up here."
-    dawn2 ""
+    dawn2 "Well dearie, flirting while I put bread away isn't the most seductive action, so allow me to finish up here."
 
 # game/dawn.rpy#L2158
 translate chinese dawnvisit5_baab0b39:
 
     # dawn2 "Okies dearie."
-    dawn2 ""
+    dawn2 "Okies dearie."
 
 # game/dawn.rpy#L2159
 translate chinese dawnvisit5_84960693:
 
     # dawn2 "Two sugars for me, and maybe a little milk depending on how strong you like it."
-    dawn2 ""
+    dawn2 "Two sugars for me, and maybe a little milk depending on how strong you like it."
 
 # game/dawn.rpy#L2160
 translate chinese dawnvisit5_0aae49a6:
 
     # mc "Milk? Was that a joke?"
-    mc ""
+    mc "Milk? Was that a joke?"
 
 # game/dawn.rpy#L2162
 translate chinese dawnvisit5_00d3936a:
 
     # dawn2 "You're the one making the tea, dearie, how about you decide?"
-    dawn2 ""
+    dawn2 "You're the one making the tea, dearie, how about you decide?"
 
 # game/dawn.rpy#L2163
 translate chinese dawnvisit5_f480d1f4:
 
     # "Phew... I don't think I could handle having sex under the aphrodisiac milk again, it can't be good for my heart."
-    ""
+    "Phew... I don't think I could handle having sex under the aphrodisiac milk again, it can't be good for my heart."
 
 # game/dawn.rpy#L2165
 translate chinese dawnvisit5_09659add:
 
     # "It seems that she doesn't actually own any milk, but the implications stand..."
-    ""
+    "It seems that she doesn't actually own any milk, but the implications stand..."
 
 # game/dawn.rpy#L2169
 translate chinese dawnvisit5_ba485013:
 
     # "Dawn finishes putting away the groceries and we take a cup of tea each back into the main room."
-    ""
+    "Dawn finishes putting away the groceries and we take a cup of tea each back into the main room."
 
 # game/dawn.rpy#L2171
 translate chinese dawnvisit5_07d03a48:
 
     # "Ah, this Dawn owns a much bigger sofa, so we can both comfortable sit without being squashed into body contact, although that certainly has its benefits too."
-    ""
+    "Ah, this Dawn owns a much bigger sofa, so we can both comfortable sit without being squashed into body contact, although that certainly has its benefits too."
 
 # game/dawn.rpy#L2175
 translate chinese dawnvisit5_eeb9dbb7:
 
     # dawn2 "Aahhh, this tea is so delicious."
-    dawn2 ""
+    dawn2 "Aahhh, this tea is so delicious."
 
 # game/dawn.rpy#L2176
 translate chinese dawnvisit5_6b12ba57:
 
     # mc "Mm, it's a little too hot for me to drink it yet."
-    mc ""
+    mc "Mm, it's a little too hot for me to drink it yet."
 
 # game/dawn.rpy#L2178
 translate chinese dawnvisit5_e01ecfab:
 
     # dawn2 "So, you knew me, huh?"
-    dawn2 ""
+    dawn2 "So, you knew me, huh?"
 
 # game/dawn.rpy#L2179
 translate chinese dawnvisit5_6911562f:
 
     # mc "Yeah, I've heard snippets from the time I've spent with Lily."
-    mc ""
+    mc "Yeah, I've heard snippets from the time I've spent with Lily."
 
 # game/dawn.rpy#L2181
 translate chinese dawnvisit5_0a45a88b:
 
     # dawn2 "And is that the truth?"
-    dawn2 ""
+    dawn2 "And is that the truth?"
 
 # game/dawn.rpy#L2187
 translate chinese dawnvisit5_2f6840f6:
 
     # dawn2 "And you just so happened to recognize me enough to call out to me from 'snippets' you'd heard about me from Lily?"
-    dawn2 ""
+    dawn2 "And you just so happened to recognize me enough to call out to me from 'snippets' you'd heard about me from Lily?"
 
 # game/dawn.rpy#L2197
 translate chinese dawnvisit5_02f6fede:
 
     # dawn2 "Who the hell are you? How do you really know about me?"
-    dawn2 ""
+    dawn2 "Who the hell are you? How do you really know about me?"
 
 # game/dawn.rpy#L2206
 translate chinese dawnvisit5_1683c343:
 
     # dawn2 "Hmph... I singled you out because you seem rather trustworthy, with your connections and all..."
-    dawn2 ""
+    dawn2 "Hmph... I singled you out because you seem rather trustworthy, with your connections and all..."
 
 # game/dawn.rpy#L2207
 translate chinese dawnvisit5_8830726c:
 
     # dawn2 "I think my assumption is right, I'm glad I've still got some intuition with these things."
-    dawn2 ""
+    dawn2 "I think my assumption is right, I'm glad I've still got some intuition with these things."
 
 # game/dawn.rpy#L2208
 translate chinese dawnvisit5_c8a6d439:
 
     # mc "Uhh, care to explain what you're talking about, then?"
-    mc ""
+    mc "Uhh, care to explain what you're talking about, then?"
 
 # game/dawn.rpy#L2210
 translate chinese dawnvisit5_a56115f0:
 
     # dawn2 "This is a little creepy, it makes my skin shiver, especially considering the recent 'Morphling' incident..."
-    dawn2 ""
+    dawn2 "This is a little creepy, it makes my skin shiver, especially considering the recent 'Morphling' incident..."
 
 # game/dawn.rpy#L2211
 translate chinese dawnvisit5_3026b2ea:
 
     # dawn2 "But, there have been... 'Sightings' of me, sightings that I don't recall."
-    dawn2 ""
+    dawn2 "But, there have been... 'Sightings' of me, sightings that I don't recall."
 
 # game/dawn.rpy#L2212
 translate chinese dawnvisit5_0c5eb6e3:
 
     # dawn2 "And to top that off, strange rumours about myself being at a nightclub that I've never visited before."
-    dawn2 ""
+    dawn2 "And to top that off, strange rumours about myself being at a nightclub that I've never visited before."
 
 # game/dawn.rpy#L2213
 translate chinese dawnvisit5_f78389d1:
 
     # dawn2 "You're one of many unusual occurrences in my life recently, just what the heck is happening?"
-    dawn2 ""
+    dawn2 "You're one of many unusual occurrences in my life recently, just what the heck is happening?"
 
 # game/dawn.rpy#L2217
 translate chinese dawnvisit5_118fdab8:
 
     # dawn2 "Eugh, what a creepy possibility… I’d be a perfect disguise target too."
-    dawn2 ""
+    dawn2 "Eugh, what a creepy possibility… I’d be a perfect disguise target too."
 
 # game/dawn.rpy#L2218
 translate chinese dawnvisit5_91a780bd:
 
     # dawn2 "I’m relevant enough to get places, as an ex-princess candidate and tutor, but not enough to raise suspicion."
-    dawn2 ""
+    dawn2 "I’m relevant enough to get places, as an ex-princess candidate and tutor, but not enough to raise suspicion."
 
 # game/dawn.rpy#L2219
 translate chinese dawnvisit5_6f3a0125:
 
     # "That’s a pretty similar criteria for Moxie, heh."
-    ""
+    "That’s a pretty similar criteria for Moxie, heh."
 
 # game/dawn.rpy#L2222
 translate chinese dawnvisit5_612e4a77:
 
     # dawn2 "Paranoid? Paranoia is characterised by delusions… I have had people literally come up to me, and said they had conversations with me that never happened!"
-    dawn2 ""
+    dawn2 "Paranoid? Paranoia is characterised by delusions… I have had people literally come up to me, and said they had conversations with me that never happened!"
 
 # game/dawn.rpy#L2225
 translate chinese dawnvisit5_904b7b67:
 
     # dawn2 "I have no idea…"
-    dawn2 ""
+    dawn2 "I have no idea…"
 
 # game/dawn.rpy#L2227
 translate chinese dawnvisit5_6f80d73a:
 
     # dawn2 "You seemed pretty confident that you knew me at the market. The moment I didn’t recognize you, your face dropped and you stuttered your words."
-    dawn2 ""
+    dawn2 "You seemed pretty confident that you knew me at the market. The moment I didn’t recognize you, your face dropped and you stuttered your words."
 
 # game/dawn.rpy#L2228
 translate chinese dawnvisit5_f0da9364:
 
     # dawn2 "So pardon my accusatory tone, but I believe you’re directly roped into these strange circumstances."
-    dawn2 ""
+    dawn2 "So pardon my accusatory tone, but I believe you’re directly roped into these strange circumstances."
 
 # game/dawn.rpy#L2229
 translate chinese dawnvisit5_a8347d53:
 
     # dawn2 "And furthermore, your body language indicated that you had something to hide."
-    dawn2 ""
+    dawn2 "And furthermore, your body language indicated that you had something to hide."
 
 # game/dawn.rpy#L2230
 translate chinese dawnvisit5_4d9938c3:
 
     # "Awh shit!"
-    ""
+    "Awh shit!"
 
 # game/dawn.rpy#L2231
 translate chinese dawnvisit5_4ee45809:
 
     # "This girl is far more intelligent than I am, she’ll run circles around me at this rate."
-    ""
+    "This girl is far more intelligent than I am, she’ll run circles around me at this rate."
 
 # game/dawn.rpy#L2232
 translate chinese dawnvisit5_c0bc96c0:
 
     # mc "I-uhh…"
-    mc ""
+    mc "I-uhh…"
 
 # game/dawn.rpy#L2233
 translate chinese dawnvisit5_bfa4b621:
 
     # mc "I don’t know what to say."
-    mc ""
+    mc "I don’t know what to say."
 
 # game/dawn.rpy#L2235
 translate chinese dawnvisit5_07e1ddce:
 
     # dawn2 "Hmm…"
-    dawn2 ""
+    dawn2 "Hmm…"
 
 # game/dawn.rpy#L2237
 translate chinese dawnvisit5_91d48a9f:
 
     # dawn2 "It seems like I won’t be getting anything out of you, will I?"
-    dawn2 ""
+    dawn2 "It seems like I won’t be getting anything out of you, will I?"
 
 # game/dawn.rpy#L2238
 translate chinese dawnvisit5_06dadbae:
 
     # mc "It would seem that way."
-    mc ""
+    mc "It would seem that way."
 
 # game/dawn.rpy#L2241
 translate chinese dawnvisit5_d7a84b3f:
 
     # dawn2 "Very well… I hope I haven’t soured the mood. I haven’t had a guest in a long time, least not one as impressive as a hero like yourself."
-    dawn2 ""
+    dawn2 "Very well… I hope I haven’t soured the mood. I haven’t had a guest in a long time, least not one as impressive as a hero like yourself."
 
 # game/dawn.rpy#L2243
 translate chinese dawnvisit5_f33693c8:
 
     # dawn2 "I wasn’t lying earlier, I’m actually rather enamoured at the idea of sharing a drink of tea with the man that helped defeat Morrigan."
-    dawn2 ""
+    dawn2 "I wasn’t lying earlier, I’m actually rather enamoured at the idea of sharing a drink of tea with the man that helped defeat Morrigan."
 
 # game/dawn.rpy#L2244
 translate chinese dawnvisit5_d03f2feb:
 
     # dawn2 "Little known fact, but I was Aurora’s student at a time where tensions between the Morrigan and Arcadia were quite high."
-    dawn2 ""
+    dawn2 "Little known fact, but I was Aurora’s student at a time where tensions between the Morrigan and Arcadia were quite high."
 
 # game/dawn.rpy#L2245
 translate chinese dawnvisit5_db361b7d:
 
     # dawn2 "Some time after I left, the ‘Elements’ initiative began with Lily taking the helm as she took over my position as princess candidate."
-    dawn2 ""
+    dawn2 "Some time after I left, the ‘Elements’ initiative began with Lily taking the helm as she took over my position as princess candidate."
 
 # game/dawn.rpy#L2247
 translate chinese dawnvisit5_a2d34e21:
 
     # dawn2 "And when a morphling army attempted to take over Arcadia, they were given a thrashing! It was spectacular!"
-    dawn2 ""
+    dawn2 "And when a morphling army attempted to take over Arcadia, they were given a thrashing! It was spectacular!"
 
 # game/dawn.rpy#L2249
 translate chinese dawnvisit5_f6fdbc31:
 
     # dawn2 "Ah-, you probably already know this though, don’t you?"
-    dawn2 ""
+    dawn2 "Ah-, you probably already know this though, don’t you?"
 
 # game/dawn.rpy#L2250
 translate chinese dawnvisit5_fc998d61:
 
     # mc "I’m vaguely aware, although the most recent events were very different. Rather than use a frontal assault, Morrigan had planted a spy and used a disguise to infiltrate the system."
-    mc ""
+    mc "I’m vaguely aware, although the most recent events were very different. Rather than use a frontal assault, Morrigan had planted a spy and used a disguise to infiltrate the system."
 
 # game/dawn.rpy#L2251
 translate chinese dawnvisit5_bb2fe523:
 
     # "Just going to leave out the part where I brainwashed everyone and then cured them via sex…"
-    ""
+    "Just going to leave out the part where I brainwashed everyone and then cured them via sex…"
 
 # game/dawn.rpy#L2253
 translate chinese dawnvisit5_8ed1056e:
 
     # dawn2 "Ohh! *Shudder* She’s defeated, yes?"
-    dawn2 ""
+    dawn2 "Ohh! *Shudder* She’s defeated, yes?"
 
 # game/dawn.rpy#L2254
 translate chinese dawnvisit5_335f23c1:
 
     # mc "Yeah, completely eradicated. You don’t need to worry about Morrigan disguising themselves as you."
-    mc ""
+    mc "Yeah, completely eradicated. You don’t need to worry about Morrigan disguising themselves as you."
 
 # game/dawn.rpy#L2256
 translate chinese dawnvisit5_133afb35:
 
     # dawn2 "Thank goodness… I had briefly thought that may be the case."
-    dawn2 ""
+    dawn2 "Thank goodness… I had briefly thought that may be the case."
 
 # game/dawn.rpy#L2257
 translate chinese dawnvisit5_d736cb83:
 
     # mc "Morrigan had chosen Moxie’s body, not only as a disguise but as a vessel. Moxie is currently fine."
-    mc ""
+    mc "Morrigan had chosen Moxie’s body, not only as a disguise but as a vessel. Moxie is currently fine."
 
 # game/dawn.rpy#L2259
 translate chinese dawnvisit5_75cd2aae:
 
     # dawn2 "More than fine I’d say, she seems to be a princess candidate herself!"
-    dawn2 ""
+    dawn2 "More than fine I’d say, she seems to be a princess candidate herself!"
 
 # game/dawn.rpy#L2260
 translate chinese dawnvisit5_92b1180c:
 
     # mc "Heh, yeah. I think she might be blood related to Princess Selene, but over many generations."
-    mc ""
+    mc "Heh, yeah. I think she might be blood related to Princess Selene, but over many generations."
 
 # game/dawn.rpy#L2262
 translate chinese dawnvisit5_b9c45e4c:
 
     # dawn2 "Well now, it seems anything you involve yourself in becomes incredibly successful."
-    dawn2 ""
+    dawn2 "Well now, it seems anything you involve yourself in becomes incredibly successful."
 
 # game/dawn.rpy#L2263
 translate chinese dawnvisit5_128ec0d4:
 
     # dawn2 "Be sure to spread some of that magic this way."
-    dawn2 ""
+    dawn2 "Be sure to spread some of that magic this way."
 
 # game/dawn.rpy#L2264
 translate chinese dawnvisit5_571243cd:
 
     # mc "Well, I could, but the method I use to spread that ‘magic’ may surprise you."
-    mc ""
+    mc "Well, I could, but the method I use to spread that ‘magic’ may surprise you."
 
 # game/dawn.rpy#L2266
 translate chinese dawnvisit5_40e4c284:
 
     # dawn2 "Oh? Tell me more, kitten…"
-    dawn2 ""
+    dawn2 "Oh? Tell me more, kitten…"
 
 # game/dawn.rpy#L2267
 translate chinese dawnvisit5_22dcd9ba:
 
     # mc "Come sit on my lap, and I’ll tell you exactly what you want to hear, duckling."
-    mc ""
+    mc "Come sit on my lap, and I’ll tell you exactly what you want to hear, duckling."
 
 # game/dawn.rpy#L2268
 translate chinese dawnvisit5_360dd1b3:
 
     # dawn2 "Oohh, mmhehe."
-    dawn2 ""
+    dawn2 "Oohh, mmhehe."
 
 # game/dawn.rpy#L2269
 translate chinese dawnvisit5_e915192e:
 
     # "Using some of the seduction tricks I learnt from the other Dawn, combined with some rough knowledge of what the other Dawn likes in bed, I decide to try and seduce her..."
-    ""
+    "Using some of the seduction tricks I learnt from the other Dawn, combined with some rough knowledge of what the other Dawn likes in bed, I decide to try and seduce her..."
 
 # game/dawn.rpy#L2275
 translate chinese dawnv5ds_9bb03819:
 
     # "She shimmies over and does indeed sit on my lap in a ladylike manner."
-    ""
+    "She shimmies over and does indeed sit on my lap in a ladylike manner."
 
 # game/dawn.rpy#L2277
 translate chinese dawnv5ds_50f5250c:
 
     # dawn2 "Oh my, do I feel something poking me already?"
-    dawn2 ""
+    dawn2 "Oh my, do I feel something poking me already?"
 
 # game/dawn.rpy#L2278
 translate chinese dawnv5ds_f40c0fb1:
 
     # mc "You sure do, and I’m not even erect yet."
-    mc ""
+    mc "You sure do, and I’m not even erect yet."
 
 # game/dawn.rpy#L2280
 translate chinese dawnv5ds_ba694acc:
 
     # dawn2 "Psshh, you could at least pretend to be subtle, mmhehe…"
-    dawn2 ""
+    dawn2 "Psshh, you could at least pretend to be subtle, mmhehe…"
 
 # game/dawn.rpy#L2281
 translate chinese dawnv5ds_4ec9e4cd:
 
     # mc "Subtlety was never my speciality, but I bet you’ll love my actual speciality…"
-    mc ""
+    mc "Subtlety was never my speciality, but I bet you’ll love my actual speciality…"
 
 # game/dawn.rpy#L2283
 translate chinese dawnv5ds_6eff4eea:
 
     # dawn2 "Ohh, pray tell, dearie…"
-    dawn2 ""
+    dawn2 "Ohh, pray tell, dearie…"
 
 # game/dawn.rpy#L2284
 translate chinese dawnv5ds_6182acfa:
 
     # mc "Let’s just say that the girl always gets her's first. My equipment would put a stallion to shame…"
-    mc ""
+    mc "Let’s just say that the girl always gets her's first. My equipment would put a stallion to shame…"
 
 # game/dawn.rpy#L2286
 translate chinese dawnv5ds_81ad1c0e:
 
     # dawn2 "Is that so? Are you saying that from experience, or are you a cocky little boy?"
-    dawn2 ""
+    dawn2 "Is that so? Are you saying that from experience, or are you a cocky little boy?"
 
 # game/dawn.rpy#L2287
 translate chinese dawnv5ds_6aae7297:
 
     # mc "Wouldn’t you like to find out?"
-    mc ""
+    mc "Wouldn’t you like to find out?"
 
 # game/dawn.rpy#L2289
 translate chinese dawnv5ds_dd9f5412:
 
     # dawn2 "You talk a lot of big game, but can you really keep up with a lady such as myself?"
-    dawn2 ""
+    dawn2 "You talk a lot of big game, but can you really keep up with a lady such as myself?"
 
 # game/dawn.rpy#L2290
 translate chinese dawnv5ds_5990a319:
 
     # mc "Heh, I wouldn’t worry about that, Dawn. I know exactly where and how to handle a girl like you."
-    mc ""
+    mc "Heh, I wouldn’t worry about that, Dawn. I know exactly where and how to handle a girl like you."
 
 # game/dawn.rpy#L2292
 translate chinese dawnv5ds_bc43774a:
 
     # dawn2 "Ohh! Well… From what I can feel, you’re certainly starting to feel ‘big’ down there…"
-    dawn2 ""
+    dawn2 "Ohh! Well… From what I can feel, you’re certainly starting to feel ‘big’ down there…"
 
 # game/dawn.rpy#L2293
 translate chinese dawnv5ds_335c8b1f:
 
     # mc "You haven't felt anything yet."
-    mc ""
+    mc "You haven't felt anything yet."
 
 # game/dawn.rpy#L2295
 translate chinese dawnv5ds_dfeafd40:
 
     # dawn2 "Fiiine, fiiine… If you’re so amazing, a lady like myself couldn’t possibly turn down such a kind offer."
-    dawn2 ""
+    dawn2 "Fiiine, fiiine… If you’re so amazing, a lady like myself couldn’t possibly turn down such a kind offer."
 
 # game/dawn.rpy#L2296
 translate chinese dawnv5ds_9dcd18a7:
 
     # dawn2 "Let’s see if you live up to the hype, hero…"
-    dawn2 ""
+    dawn2 "Let’s see if you live up to the hype, hero…"
 
 # game/dawn.rpy#L2297
 translate chinese dawnv5ds_0de0464c:
 
     # mc "I’m warning you, no man will ever feel as good after this."
-    mc ""
+    mc "I’m warning you, no man will ever feel as good after this."
 
 # game/dawn.rpy#L2299
 translate chinese dawnv5ds_6cf1bda2:
 
     # dawn2 "I dare you to make that happen, mmhehe…"
-    dawn2 ""
+    dawn2 "I dare you to make that happen, mmhehe…"
 
 # game/dawn.rpy#L2305
 translate chinese dawnv5ds_6524d164:
 
     # "She certainly made me work for it, but she finally gives in and presents herself on the sofa. Her gorgeous rear exposed, and all mine."
-    ""
+    "She certainly made me work for it, but she finally gives in and presents herself on the sofa. Her gorgeous rear exposed, and all mine."
 
 # game/dawn.rpy#L2306
 translate chinese dawnv5ds_3dda88a2:
 
     # dawn2 "A horny teacher, that’s one for the bucket list!"
-    dawn2 ""
+    dawn2 "A horny teacher, that’s one for the bucket list!"
 
 # game/dawn.rpy#L2307
 translate chinese dawnv5ds_d79f08e2:
 
     # mc "And a man of a unique species, should be a treat for both of us."
-    mc ""
+    mc "And a man of a unique species, should be a treat for both of us."
 
 # game/dawn.rpy#L2308
 translate chinese dawnv5ds_cc556776:
 
     # dawn2 "You’ve got that right…"
-    dawn2 ""
+    dawn2 "You’ve got that right…"
 
 # game/dawn.rpy#L2309
 translate chinese dawnv5ds_de6b723d:
 
     # dawn2 "I’m usually not this easy, but oh well… You seem to have made me all gooey."
-    dawn2 ""
+    dawn2 "I’m usually not this easy, but oh well… You seem to have made me all gooey."
 
 # game/dawn.rpy#L2310
 translate chinese dawnv5ds_b78a95e5:
 
     # dawn2 "I suppose I’ll let you claim your reward."
-    dawn2 ""
+    dawn2 "I suppose I’ll let you claim your reward."
 
 # game/dawn.rpy#L2311
 translate chinese dawnv5ds_ffdf6762:
 
     # "Her wide rear sways freely, and her tail purposely moves out of the side to give the best view possible."
-    ""
+    "Her wide rear sways freely, and her tail purposely moves out of the side to give the best view possible."
 
 # game/dawn.rpy#L2312
 translate chinese dawnv5ds_ee934f63:
 
     # "This invitation is all I need as I kneel into position behind her voluptuous ass."
-    ""
+    "This invitation is all I need as I kneel into position behind her voluptuous ass."
 
 # game/dawn.rpy#L2313
 translate chinese dawnv5ds_c5292e95:
 
     # "At this point I’m fully erect, and my lover’s labia has become fully soaked in anticipation of our rutting."
-    ""
+    "At this point I’m fully erect, and my lover’s labia has become fully soaked in anticipation of our rutting."
 
 # game/dawn.rpy#L2314
 translate chinese dawnv5ds_937e618c:
 
     # "Lust drips down her pussy as I grind my erect member against it, feeling around for her entrance with my tip."
-    ""
+    "Lust drips down her pussy as I grind my erect member against it, feeling around for her entrance with my tip."
 
 # game/dawn.rpy#L2317
 translate chinese dawnv5ds_4c00e071:
 
     # "I bring my hands to her hips and push forward. Her wet folds yield as they delightfully purse around my shaft as I plunge deeper."
-    ""
+    "I bring my hands to her hips and push forward. Her wet folds yield as they delightfully purse around my shaft as I plunge deeper."
 
 # game/dawn.rpy#L2319
 translate chinese dawnv5ds_e92e1b15:
 
     # "Her pussy grips tightly, intently squeezing my member to such deliberation that she infectiously giggles. The grip may be tight, but the obscene amount of lubricant allows me to easily begin fucking."
-    ""
+    "Her pussy grips tightly, intently squeezing my member to such deliberation that she infectiously giggles. The grip may be tight, but the obscene amount of lubricant allows me to easily begin fucking."
 
 # game/dawn.rpy#L2320
 translate chinese dawnv5ds_3cf9c378:
 
     # dawn2 "What a fat cock! You’re full of surprises, hehe."
-    dawn2 ""
+    dawn2 "What a fat cock! You’re full of surprises, hehe."
 
 # game/dawn.rpy#L2321
 translate chinese dawnv5ds_b349826d:
 
     # mc "Did you think it was small? Pfft."
-    mc ""
+    mc "Did you think it was small? Pfft."
 
 # game/dawn.rpy#L2322
 translate chinese dawnv5ds_f47e415b:
 
     # dawn2 "Not at all, dearie. I just didn’t think it’d be such a perfect fit, the lack of bumps and ridges is really nice."
-    dawn2 ""
+    dawn2 "Not at all, dearie. I just didn’t think it’d be such a perfect fit, the lack of bumps and ridges is really nice."
 
 # game/dawn.rpy#L2323
 translate chinese dawnv5ds_522635d5:
 
     # "Mares complimenting my cock will never get old. Sorry stallions, but I’m here to steal your girls."
-    ""
+    "Mares complimenting my cock will never get old. Sorry stallions, but I’m here to steal your girls."
 
 # game/dawn.rpy#L2324
 translate chinese dawnv5ds_a1706ce4:
 
     # "Moans occasionally slip from Dawn’s mouth as she’s slowly consumed with pleasure, my deep sensual thrusts overwhelming her most sensitive spots with repeated friction."
-    ""
+    "Moans occasionally slip from Dawn’s mouth as she’s slowly consumed with pleasure, my deep sensual thrusts overwhelming her most sensitive spots with repeated friction."
 
 # game/dawn.rpy#L2325
 translate chinese dawnv5ds_7ab9e4de:
 
     # "This type of deep fucking elicits substantial pleasure from Dawn, her body genuinely quivers and spasms as sparks of euphoria shoot through her nerves."
-    ""
+    "This type of deep fucking elicits substantial pleasure from Dawn, her body genuinely quivers and spasms as sparks of euphoria shoot through her nerves."
 
 # game/dawn.rpy#L2327
 translate chinese dawnv5ds_099e55d7:
 
     # dawn2 "Ahh, haaahh… Y-Yeah, you lived up to the hype, ahh…"
-    dawn2 ""
+    dawn2 "Ahh, haaahh… Y-Yeah, you lived up to the hype, ahh…"
 
 # game/dawn.rpy#L2328
 translate chinese dawnv5ds_f769dd30:
 
     # mc "It’s been sixty seconds, Dawn."
-    mc ""
+    mc "It’s been sixty seconds, Dawn."
 
 # game/dawn.rpy#L2329
 translate chinese dawnv5ds_8cec2502:
 
     # dawn2 "Ohh yesssss, then keep going, keep going! Ahhh-haaahhh…"
-    dawn2 ""
+    dawn2 "Ohh yesssss, then keep going, keep going! Ahhh-haaahhh…"
 
 # game/dawn.rpy#L2330
 translate chinese dawnv5ds_b06243b4:
 
     # "Keep going I shall… I grab her ass with both hands as leverage and start to pump faster, her rump occasionally pushing back into me, desperate for more pleasure."
-    ""
+    "Keep going I shall… I grab her ass with both hands as leverage and start to pump faster, her rump occasionally pushing back into me, desperate for more pleasure."
 
 # game/dawn.rpy#L2331
 translate chinese dawnv5ds_ce0a5ea0:
 
     # "The intensity of our sex escalates to such a position where her entire body rocks back and forth on the sofa, her breasts shamelessly swaying back and forth, and her tail lashing around excitedly."
-    ""
+    "The intensity of our sex escalates to such a position where her entire body rocks back and forth on the sofa, her breasts shamelessly swaying back and forth, and her tail lashing around excitedly."
 
 # game/dawn.rpy#L2332
 translate chinese dawnv5ds_918f4b04:
 
     # "Her pussy grips my cock with increasing tightness as she nears her orgasm and as I increase the pace of my rutting as I ready to time my own with hers."
-    ""
+    "Her pussy grips my cock with increasing tightness as she nears her orgasm and as I increase the pace of my rutting as I ready to time my own with hers."
 
 # game/dawn.rpy#L2334
 translate chinese dawnv5ds_acf90607:
 
     # dawn2 "Ahh, aaahhhaaa… I’m getting close! Right there, keep going just like that, ahh, aaahh, aaahhh!"
-    dawn2 ""
+    dawn2 "Ahh, aaahhhaaa… I’m getting close! Right there, keep going just like that, ahh, aaahh, aaahhh!"
 
 # game/dawn.rpy#L2335
 translate chinese dawnv5ds_074653a6:
 
     # "Lewd sounds constantly spill from her increasingly soaking wet folds, that combined with her increasingly verbose moans, and the light patting sound when my skin connects with her fur provide a sexual harmony to the ears."
-    ""
+    "Lewd sounds constantly spill from her increasingly soaking wet folds, that combined with her increasingly verbose moans, and the light patting sound when my skin connects with her fur provide a sexual harmony to the ears."
 
 # game/dawn.rpy#L2336
 translate chinese dawnv5ds_993fb573:
 
     # "After a few minutes at this frantic thrusting pace, I can soon feel the familiar pressure of an orgasm building up with me. Simultaneously, it seems my lover is approaching her limits too, as her thighs quiver and eyes roll back."
-    ""
+    "After a few minutes at this frantic thrusting pace, I can soon feel the familiar pressure of an orgasm building up with me. Simultaneously, it seems my lover is approaching her limits too, as her thighs quiver and eyes roll back."
 
 # game/dawn.rpy#L2337
 translate chinese dawnv5ds_303a80bf:
 
     # dawn2 "Ohhohhhhh-fuuuuck! C-Coming! Ahh aaahhh!"
-    dawn2 ""
+    dawn2 "Ohhohhhhh-fuuuuck! C-Coming! Ahh aaahhh!"
 
 # game/dawn.rpy#L2338
 translate chinese dawnv5ds_3794fc50:
 
     # "Powerfully, Dawn is consumed in what seems to be a full body orgasm. Her pussy starts to contract around my cock, intensifying the pleasure and accelerating my rising orgasm."
-    ""
+    "Powerfully, Dawn is consumed in what seems to be a full body orgasm. Her pussy starts to contract around my cock, intensifying the pleasure and accelerating my rising orgasm."
 
 # game/dawn.rpy#L2343
 translate chinese dawnv5ds_5451017c:
 
     # "I thrust until I can’t hold it back anymore, and as a brief sensation of euphoria washes over me, the cum begins go gush out, filling Dawn as much as I’m able."
-    ""
+    "I thrust until I can’t hold it back anymore, and as a brief sensation of euphoria washes over me, the cum begins go gush out, filling Dawn as much as I’m able."
 
 # game/dawn.rpy#L2348
 translate chinese dawnv5ds_9c8a893a:
 
     # dawn2 "Ahh, fill me up! Ahhh, yessshhh!"
-    dawn2 ""
+    dawn2 "Ahh, fill me up! Ahhh, yessshhh!"
 
 # game/dawn.rpy#L2352
 translate chinese dawnv5ds_19c92020:
 
     # "Only once I’ve completely finished the last of my climax, I pull my member out, along with some cum which haplessly drips down her yellow thigh."
-    ""
+    "Only once I’ve completely finished the last of my climax, I pull my member out, along with some cum which haplessly drips down her yellow thigh."
 
 # game/dawn.rpy#L2353
 translate chinese dawnv5ds_f6632cd0:
 
     # "Released from a bind, Dawn flops down onto the sofa and lets out a satisfied sigh, followed by a giggle."
-    ""
+    "Released from a bind, Dawn flops down onto the sofa and lets out a satisfied sigh, followed by a giggle."
 
 # game/dawn.rpy#L2363
 translate chinese dawnv5ds_efd6d5b3:
 
     # dawn2 "Hehe… I knew you’d be a good partner in bed, ah heck, we didn’t even make it to the bed, that’s just how good of a partner you are."
-    dawn2 ""
+    dawn2 "Hehe… I knew you’d be a good partner in bed, ah heck, we didn’t even make it to the bed, that’s just how good of a partner you are."
 
 # game/dawn.rpy#L2364
 translate chinese dawnv5ds_3211ac36:
 
     # mc "You knew? I guess you did say you have good intuition."
-    mc ""
+    mc "You knew? I guess you did say you have good intuition."
 
 # game/dawn.rpy#L2366
 translate chinese dawnv5ds_dff99f2e:
 
     # dawn2 "Ahaha, true! I suppose even a little part of me invited you here with the intention of doing this."
-    dawn2 ""
+    dawn2 "Ahaha, true! I suppose even a little part of me invited you here with the intention of doing this."
 
 # game/dawn.rpy#L2367
 translate chinese dawnv5ds_b54fed78:
 
     # mc "I’ll be honest, the interview about sightings of some other ‘Dawn’ really surprised me."
-    mc ""
+    mc "I’ll be honest, the interview about sightings of some other ‘Dawn’ really surprised me."
 
 # game/dawn.rpy#L2369
 translate chinese dawnv5ds_ceb6b228:
 
     # dawn2 "Ahh, yeah… Sorry about that! I guess I tricked you by luring you in here with the implication of sex… But I guess I made good on that unspoken promise, right Kitten?"
-    dawn2 ""
+    dawn2 "Ahh, yeah… Sorry about that! I guess I tricked you by luring you in here with the implication of sex… But I guess I made good on that unspoken promise, right Kitten?"
 
 # game/dawn.rpy#L2370
 translate chinese dawnv5ds_da875397:
 
     # mc "Hey, I’m just glad we had a good time togeth-"
-    mc ""
+    mc "Hey, I’m just glad we had a good time togeth-"
 
 # game/dawn.rpy#L2373
 translate chinese dawnv5ds_aebbc68b:
 
     # "*Knock knock… knockity knock knock."
-    ""
+    "*Knock knock… knockity knock knock."
 
 # game/dawn.rpy#L2375
 translate chinese dawnv5ds_47bbb613:
 
     # dawn2 "Oh sheesh, the door at a time like this?"
-    dawn2 ""
+    dawn2 "Oh sheesh, the door at a time like this?"
 
 # game/dawn.rpy#L2377
 translate chinese dawnv5ds_94dfc21d:
 
     # "Dawn plods upwards, she quickly grabs a tissue and tries to wipe as much cum away as she can."
-    ""
+    "Dawn plods upwards, she quickly grabs a tissue and tries to wipe as much cum away as she can."
 
 # game/dawn.rpy#L2378
 translate chinese dawnv5ds_f1d3c445:
 
     # "Once cleaned up, she quickly moves to answer the door."
-    ""
+    "Once cleaned up, she quickly moves to answer the door."
 
 # game/dawn.rpy#L2380
 translate chinese dawnv5ds_ea98ec8a:
 
     # "As the door is opened..."
-    ""
+    "As the door is opened..."
 
 # game/dawn.rpy#L2386
 translate chinese dawnv5ds_a401eda2:
 
     # dressdawn "Hello, is this-"
-    dressdawn ""
+    dressdawn "Hello, is this-"
 
 # game/dawn.rpy#L2387
 translate chinese dawnv5ds_dd766bea:
 
     # mc "Dawn?!"
-    mc ""
+    mc "Dawn?!"
 
 # game/dawn.rpy#L2389
 translate chinese dawnv5ds_a99e762b:
 
     # dressdawn "[playername]?!"
-    dressdawn ""
+    dressdawn "[playername]?!"
 
 # game/dawn.rpy#L2393
 translate chinese dawnv5ds_d2c51a67:
 
     # dawn2 "Me?!"
-    dawn2 ""
+    dawn2 "Me?!"
 
 # game/dawn.rpy#L2394
 translate chinese dawnv5ds_c3451ec5:
 
     # dressdawn "Dawn!"
-    dressdawn ""
+    dressdawn "Dawn!"
 
 # game/dawn.rpy#L2395
 translate chinese dawnv5ds_9d83a8e2:
 
     # mc "What are you doing here?"
-    mc ""
+    mc "What are you doing here?"
 
 # game/dawn.rpy#L2397
 translate chinese dawnv5ds_454d2915:
 
     # dawn2 "Awh damnit, I knew there was something going on! And you’re in on it too, [playername]!"
-    dawn2 ""
+    dawn2 "Awh damnit, I knew there was something going on! And you’re in on it too, [playername]!"
 
 # game/dawn.rpy#L2399
 translate chinese dawnv5ds_58f3c2f7:
 
     # dressdawn "Wait, wait! I can explain, in fact, I’m here to explain!"
-    dressdawn ""
+    dressdawn "Wait, wait! I can explain, in fact, I’m here to explain!"
 
 # game/dawn.rpy#L2401
 translate chinese dawnv5ds_4d3e7923:
 
     # dawn2 "Hmph, fine… What you have to say better be good… ‘Me’."
-    dawn2 ""
+    dawn2 "Hmph, fine… What you have to say better be good… ‘Me’."
 
 # game/dawn.rpy#L2403
 translate chinese dawnv5ds_ff2011e6:
 
     # dressdawn "May I come in? There’s a lot that needs to be said."
-    dressdawn ""
+    dressdawn "May I come in? There’s a lot that needs to be said."
 
 # game/dawn.rpy#L2405
 translate chinese dawnv5ds_41620e20:
 
     # dawn2 "Alright, if you must…"
-    dawn2 ""
+    dawn2 "Alright, if you must…"
 
 # game/dawn.rpy#L2410
 translate chinese dawnv5ds_e1c4ea6c:
 
     # dressdawn "It’s rather convenient that you’re here, [playername], you can vouch for my story."
-    dressdawn ""
+    dressdawn "It’s rather convenient that you’re here, [playername], you can vouch for my story."
 
 # game/dawn.rpy#L2411
 translate chinese dawnv5ds_305b31e6:
 
     # mc "I guess?!"
-    mc ""
+    mc "I guess?!"
 
 # game/dawn.rpy#L2415
 translate chinese dawnv5ds_b284ecab:
 
     # dawn2 "[playername], I trusted you! But you were hiding something from me that entire time!"
-    dawn2 ""
+    dawn2 "[playername], I trusted you! But you were hiding something from me that entire time!"
 
 # game/dawn.rpy#L2416
 translate chinese dawnv5ds_0ec21dda:
 
     # mc "Hey, why are you mad at me but not Dawn?"
-    mc ""
+    mc "Hey, why are you mad at me but not Dawn?"
 
 # game/dawn.rpy#L2418
 translate chinese dawnv5ds_7db7b50c:
 
     # dressdawn "Mmmhehe, I couldn’t possibility stay mad at myself, kitten."
-    dressdawn ""
+    dressdawn "Mmmhehe, I couldn’t possibility stay mad at myself, kitten."
 
 # game/dawn.rpy#L2419
 translate chinese dawnv5ds_fb5c01f0:
 
     # mc "She's not mad at herself, it's you!"
-    mc ""
+    mc "She's not mad at herself, it's you!"
 
 # game/dawn.rpy#L2420
 translate chinese dawnv5ds_e877f0a7:
 
     # dressdawn "Regardless... I’m here to settle this, it wasn’t [playername]’s place to reveal this classified information. Please redirect the blame to me, understood?"
-    dressdawn ""
+    dressdawn "Regardless... I’m here to settle this, it wasn’t [playername]’s place to reveal this classified information. Please redirect the blame to me, understood?"
 
 # game/dawn.rpy#L2422
 translate chinese dawnv5ds_7541de01:
 
     # dawn2 "Well, okay… Spit it out."
-    dawn2 ""
+    dawn2 "Well, okay… Spit it out."
 
 # game/dawn.rpy#L2424
 translate chinese dawnv5ds_2b69c8a1:
 
     # dressdawn "I am you, but from another universe, and I don’t think I need to spend too long dwelling on the circumstances of that. I simply took the job that you didn’t."
-    dressdawn ""
+    dressdawn "I am you, but from another universe, and I don’t think I need to spend too long dwelling on the circumstances of that. I simply took the job that you didn’t."
 
 # game/dawn.rpy#L2426
 translate chinese dawnv5ds_c36f970b:
 
     # dressdawn "I am an interuniversal scholar."
-    dressdawn ""
+    dressdawn "I am an interuniversal scholar."
 
 # game/dawn.rpy#L2427
 translate chinese dawnv5ds_27771e97:
 
     # "The dress clad Dawn nudges me."
-    ""
+    "The dress clad Dawn nudges me."
 
 # game/dawn.rpy#L2428
 translate chinese dawnv5ds_48def6a4:
 
     # mc "Oh! I can vouch for this."
-    mc ""
+    mc "Oh! I can vouch for this."
 
 # game/dawn.rpy#L2430
 translate chinese dawnv5ds_ffbb8d4c:
 
     # dawn2 "Fuck me… Seriously? That makes a lot of sense…"
-    dawn2 ""
+    dawn2 "Fuck me… Seriously? That makes a lot of sense…"
 
 # game/dawn.rpy#L2432
 translate chinese dawnv5ds_fc9cd5a2:
 
     # dressdawn "Yes… I’ve been spending a lot more time in this universe due to the appearance of a certain irresistible man, namely [playername]."
-    dressdawn ""
+    dressdawn "Yes… I’ve been spending a lot more time in this universe due to the appearance of a certain irresistible man, namely [playername]."
 
 # game/dawn.rpy#L2433
 translate chinese dawnv5ds_abe9302d:
 
     # dressdawn "And when I went to the spa and was mistaken for you, I knew I had to introduce myself and clear the air."
-    dressdawn ""
+    dressdawn "And when I went to the spa and was mistaken for you, I knew I had to introduce myself and clear the air."
 
 # game/dawn.rpy#L2435
 translate chinese dawnv5ds_f8c013af:
 
     # dawn2 "I appreciate that. I was starting to notice something ‘off’: rumours, sightings, and conversations I hadn’t had."
-    dawn2 ""
+    dawn2 "I appreciate that. I was starting to notice something ‘off’: rumours, sightings, and conversations I hadn’t had."
 
 # game/dawn.rpy#L2437
 translate chinese dawnv5ds_d4fddbfa:
 
     # dressdawn "Heh, yeah… It was getting a little awkward for me too."
-    dressdawn ""
+    dressdawn "Heh, yeah… It was getting a little awkward for me too."
 
 # game/dawn.rpy#L2439
 translate chinese dawnv5ds_c2afade9:
 
     # dawn2 "I have so many questions… Where to begin?"
-    dawn2 ""
+    dawn2 "I have so many questions… Where to begin?"
 
 # game/dawn.rpy#L2441
 translate chinese dawnv5ds_56fdc5f9:
 
     # dressdawn "I’ll get to each and every one, I’ve cleared my entire schedule for today just for you."
-    dressdawn ""
+    dressdawn "I’ll get to each and every one, I’ve cleared my entire schedule for today just for you."
 
 # game/dawn.rpy#L2442
 translate chinese dawnv5ds_bdab92c8:
 
     # dressdawn "But first, I had an idea to absolve our non-unique identity."
-    dressdawn ""
+    dressdawn "But first, I had an idea to absolve our non-unique identity."
 
 # game/dawn.rpy#L2444
 translate chinese dawnv5ds_8a6606b7:
 
     # dawn2 "That is quite important, your idea?"
-    dawn2 ""
+    dawn2 "That is quite important, your idea?"
 
 # game/dawn.rpy#L2446
 translate chinese dawnv5ds_ae339075:
 
     # dressdawn "As far as anybody else is concerned, we’re twins. Easily identifiable by my different hair and dress. If anyone asks, my new name shall be Sunset."
-    dressdawn ""
+    dressdawn "As far as anybody else is concerned, we’re twins. Easily identifiable by my different hair and dress. If anyone asks, my new name shall be Sunset."
 
 # game/dawn.rpy#L2448
 translate chinese dawnv5ds_442c2f5b:
 
     # dawn2 "I always thought it’d be fun to have a twin!"
-    dawn2 ""
+    dawn2 "I always thought it’d be fun to have a twin!"
 
 # game/dawn.rpy#L2450
 translate chinese dawnv5ds_2d203945:
 
     # dressdawn "Me too! Hehe."
-    dressdawn ""
+    dressdawn "Me too! Hehe."
 
 # game/dawn.rpy#L2452
 translate chinese dawnv5ds_d298850c:
 
     # dawn2 "I can tell we’re going to be great friends."
-    dawn2 ""
+    dawn2 "I can tell we’re going to be great friends."
 
 # game/dawn.rpy#L2454
 translate chinese dawnv5ds_0e53441f:
 
     # dressdawn "Let us not forget our good friend here, [playername], he’s the only one that’s allowed to know this little detail apart from the royal sisters themselves."
-    dressdawn ""
+    dressdawn "Let us not forget our good friend here, [playername], he’s the only one that’s allowed to know this little detail apart from the royal sisters themselves."
 
 # game/dawn.rpy#L2455
 translate chinese dawnv5ds_65c30fef:
 
     # mc "Yeah, I’m from a different universe too, actually."
-    mc ""
+    mc "Yeah, I’m from a different universe too, actually."
 
 # game/dawn.rpy#L2457
 translate chinese dawnv5ds_26caeffc:
 
     # dawn2 "Oh, holy shit… Who else is from a different universe?!"
-    dawn2 ""
+    dawn2 "Oh, holy shit… Who else is from a different universe?!"
 
 # game/dawn.rpy#L2459
 translate chinese dawnv5ds_fad354a4:
 
     # dressdawn "I think every single person from an alternative universe is in this room right now."
-    dressdawn ""
+    dressdawn "I think every single person from an alternative universe is in this room right now."
 
 # game/dawn.rpy#L2461
 translate chinese dawnv5ds_15f51d39:
 
     # dressdawn "Uhm, so… I have a question… What the hell are you doing here, [playername]?"
-    dressdawn ""
+    dressdawn "Uhm, so… I have a question… What the hell are you doing here, [playername]?"
 
 # game/dawn.rpy#L2462
 translate chinese dawnv5ds_1010e43f:
 
     # mc "I was actually tricked into coming here because Dawn was suspicious of me."
-    mc ""
+    mc "I was actually tricked into coming here because Dawn was suspicious of me."
 
 # game/dawn.rpy#L2464
 translate chinese dawnv5ds_e3f7fbd4:
 
     # dawn2 "Sorry! Although, I suppose it wasn’t much of a trick in the end…"
-    dawn2 ""
+    dawn2 "Sorry! Although, I suppose it wasn’t much of a trick in the end…"
 
 # game/dawn.rpy#L2466
 translate chinese dawnv5ds_a99ca186:
 
     # dawn2 "You lied to me, and then slept with me anyway! Sheesh, what an impudent man."
-    dawn2 ""
+    dawn2 "You lied to me, and then slept with me anyway! Sheesh, what an impudent man."
 
 # game/dawn.rpy#L2468
 translate chinese dawnv5ds_d206a006:
 
     # dressdawn "Whaaa?! My, my, Kitten… You really must adore me, all of me, mmhehe..."
-    dressdawn ""
+    dressdawn "Whaaa?! My, my, Kitten… You really must adore me, all of me, mmhehe..."
 
 # game/dawn.rpy#L2469
 translate chinese dawnv5ds_77a0cd07:
 
     # mc "Jeez, you would say that, Dawn. Why can't you be angry like a normal girl?"
-    mc ""
+    mc "Jeez, you would say that, Dawn. Why can't you be angry like a normal girl?"
 
 # game/dawn.rpy#L2471
 translate chinese dawnv5ds_8005548f:
 
     # dawn2 "And he’s involved with you too? I feel mildly cheated."
-    dawn2 ""
+    dawn2 "And he’s involved with you too? I feel mildly cheated."
 
 # game/dawn.rpy#L2472
 translate chinese dawnv5ds_b06da8e1:
 
     # mc "That's more like it!"
-    mc ""
+    mc "That's more like it!"
 
 # game/dawn.rpy#L2474
 translate chinese dawnv5ds_a967bb9d:
 
     # dressdawn "Hey, finders keepers, dearie!"
-    dressdawn ""
+    dressdawn "Hey, finders keepers, dearie!"
 
 # game/dawn.rpy#L2475
 translate chinese dawnv5ds_0c7e0bf1:
 
     # "They’re arguing over that? Phew, I guess I got off easier than I expected."
-    ""
+    "They’re arguing over that? Phew, I guess I got off easier than I expected."
 
 # game/dawn.rpy#L2477
 translate chinese dawnv5ds_efdc13aa:
 
     # dawn2 "Hey, I know what you’re thinking, [playername]."
-    dawn2 ""
+    dawn2 "Hey, I know what you’re thinking, [playername]."
 
 # game/dawn.rpy#L2478
 translate chinese dawnv5ds_bf9e1430:
 
     # mc "Oh? You do?"
-    mc ""
+    mc "Oh? You do?"
 
 # game/dawn.rpy#L2480
 translate chinese dawnv5ds_cad133b8:
 
     # dawn2 "Yep, and it’s a no. No double Dawn threesomes!"
-    dawn2 ""
+    dawn2 "Yep, and it’s a no. No double Dawn threesomes!"
 
 # game/dawn.rpy#L2481
 translate chinese dawnv5ds_c0b68b3d:
 
     # mc "I wasn’t thinki-"
-    mc ""
+    mc "I wasn’t thinki-"
 
 # game/dawn.rpy#L2483
 translate chinese dawnv5ds_62f969e3:
 
     # dawn2 "If the other Dawn is anything like me, I’m fairly certain you’re not into it either, are you?"
-    dawn2 ""
+    dawn2 "If the other Dawn is anything like me, I’m fairly certain you’re not into it either, are you?"
 
 # game/dawn.rpy#L2485
 translate chinese dawnv5ds_6a20d51d:
 
     # dressdawn "I couldn’t possibly say, mmhehe."
-    dressdawn ""
+    dressdawn "I couldn’t possibly say, mmhehe."
 
 # game/dawn.rpy#L2486
 translate chinese dawnv5ds_f019ba87:
 
     # dressdawn "I think two of us would be too overwhelming to the poor duckling, so how about we just take turns?"
-    dressdawn ""
+    dressdawn "I think two of us would be too overwhelming to the poor duckling, so how about we just take turns?"
 
 # game/dawn.rpy#L2488
 translate chinese dawnv5ds_46ed6bae:
 
     # dawn2 "Actually, I think I’ll pass. I got carried away earlier, but I think it’ll be too strange to sleep with [playername] again knowing all of this."
-    dawn2 ""
+    dawn2 "Actually, I think I’ll pass. I got carried away earlier, but I think it’ll be too strange to sleep with [playername] again knowing all of this."
 
 # game/dawn.rpy#L2489
 translate chinese dawnv5ds_6b5469fe:
 
     # "Oh? A girl is rejecting me? That’s oddly refreshing."
-    ""
+    "Oh? A girl is rejecting me? That’s oddly refreshing."
 
 # game/dawn.rpy#L2491
 translate chinese dawnv5ds_51aef315:
 
     # dressdawn "More for me then, right Kitten?"
-    dressdawn ""
+    dressdawn "More for me then, right Kitten?"
 
 # game/dawn.rpy#L2492
 translate chinese dawnv5ds_dd5094fc:
 
     # mc "Yeah, I think that’s a reasonable outcome."
-    mc ""
+    mc "Yeah, I think that’s a reasonable outcome."
 
 # game/dawn.rpy#L2494
 translate chinese dawnv5ds_d6a07c0b:
 
     # dawn2 "I think that’s all the immediate issues resolved, so onto questions!"
-    dawn2 ""
+    dawn2 "I think that’s all the immediate issues resolved, so onto questions!"
 
 # game/dawn.rpy#L2496
 translate chinese dawnv5ds_099bf745:
 
     # dressdawn "I have some for you too, dearie."
-    dressdawn ""
+    dressdawn "I have some for you too, dearie."
 
 # game/dawn.rpy#L2498
 translate chinese dawnv5ds_d5126007:
 
     # dawn2 "Let’s take turns, then. What’s the job like, and what do you actually do here?"
-    dawn2 ""
+    dawn2 "Let’s take turns, then. What’s the job like, and what do you actually do here?"
 
 # game/dawn.rpy#L2502
 translate chinese dawnv5ds_44ca25bb:
 
     # "The two Dawns talk it out, and I frequently join in on the conversations to add some levity."
-    ""
+    "The two Dawns talk it out, and I frequently join in on the conversations to add some levity."
 
 # game/dawn.rpy#L2503
 translate chinese dawnv5ds_98fcf6e2:
 
     # "They get along as well as two best friends that have known each other for years. Watching this certainly makes me wonder how I’d get along with my own alternate universe counterpart."
-    ""
+    "They get along as well as two best friends that have known each other for years. Watching this certainly makes me wonder how I’d get along with my own alternate universe counterpart."
 
 # game/dawn.rpy#L2504
 translate chinese dawnv5ds_2b44d22f:
 
     # "A few hours later, all is said and done. Pony Dawn and I return to her place, I’ll probably never see Anthro Dawn again, but I won’t soon be forgetting today's events."
-    ""
+    "A few hours later, all is said and done. Pony Dawn and I return to her place, I’ll probably never see Anthro Dawn again, but I won’t soon be forgetting today's events."
 
 # game/dawn.rpy#L2505
 translate chinese dawnv5ds_c02835a9:
 
     # "Back in the nightclub…"
-    ""
+    "Back in the nightclub…"
 
 # game/dawn.rpy#L2509
 translate chinese dawnv5ds_166a5c2f:
 
     # dawn "I really should reprimand for you sleeping with her, but I’m simultaneously flattered."
-    dawn ""
+    dawn "I really should reprimand for you sleeping with her, but I’m simultaneously flattered."
 
 # game/dawn.rpy#L2510
 translate chinese dawnv5ds_7dc6d52e:
 
     # mc "She made me work for it! Although she was flirty, it wasn’t quite as flirty as you."
-    mc ""
+    mc "She made me work for it! Although she was flirty, it wasn’t quite as flirty as you."
 
 # game/dawn.rpy#L2512
 translate chinese dawnv5ds_29f98fa6:
 
     # dawn "I was going to say, I wouldn’t have anticipated myself to be so… {i}easy{/i}, I guess?"
-    dawn ""
+    dawn "I was going to say, I wouldn’t have anticipated myself to be so… {i}easy{/i}, I guess?"
 
 # game/dawn.rpy#L2513
 translate chinese dawnv5ds_aa5f034b:
 
     # dawn "Although that might be the more prudish side of me speaking, a side that became prominent in my time at the colourful human universe."
-    dawn ""
+    dawn "Although that might be the more prudish side of me speaking, a side that became prominent in my time at the colourful human universe."
 
 # game/dawn.rpy#L2514
 translate chinese dawnv5ds_c31bf891:
 
     # mc "This Dawn seems to be a little more sexually experienced, having had boyfriends and what not."
-    mc ""
+    mc "This Dawn seems to be a little more sexually experienced, having had boyfriends and what not."
 
 # game/dawn.rpy#L2516
 translate chinese dawnv5ds_4c6155fe:
 
     # dawn "Ah, quite. She’s had six more years in this world to develop in that aspect, so she probably doesn’t hold the act of sex as highly as I do."
-    dawn ""
+    dawn "Ah, quite. She’s had six more years in this world to develop in that aspect, so she probably doesn’t hold the act of sex as highly as I do."
 
 # game/dawn.rpy#L2517
 translate chinese dawnv5ds_bcfc8657:
 
     # dawn "Is she as good in bed as I am? Mmmhehe."
-    dawn ""
+    dawn "Is she as good in bed as I am? Mmmhehe."
 
 # game/dawn.rpy#L2518
 translate chinese dawnv5ds_a555e3ad:
 
     # mc "The only way you’re finding an answer to that, is if you build up the courage for that double Dawn threesome."
-    mc ""
+    mc "The only way you’re finding an answer to that, is if you build up the courage for that double Dawn threesome."
 
 # game/dawn.rpy#L2520
 translate chinese dawnv5ds_42d71192:
 
     # dawn "Hehe, not going to happen, sorry kitten!"
-    dawn ""
+    dawn "Hehe, not going to happen, sorry kitten!"
 
 # game/dawn.rpy#L2521
 translate chinese dawnv5ds_d1a1587a:
 
     # dawn "But I’ll let you do me twice, would that satisfy you?"
-    dawn ""
+    dawn "But I’ll let you do me twice, would that satisfy you?"
 
 # game/dawn.rpy#L2522
 translate chinese dawnv5ds_00d4c688:
 
     # mc "It certainly would…"
-    mc ""
+    mc "It certainly would…"
 
 # game/dawn.rpy#L2523
 translate chinese dawnv5ds_a24cd7ef:
 
     # dawn "Well, that's enough trouble for one day, but what about the evening? Will you be joining me?"
-    dawn ""
+    dawn "Well, that's enough trouble for one day, but what about the evening? Will you be joining me?"
 
 # game/dawn.rpy#L2543
 translate chinese dawnshowersex_781aeb8e:
 
     # "You've unlocked a secret scene! Requirements met: Visit the nightclub during the day after having sex with Dawn."
-    ""
+    "You've unlocked a secret scene! Requirements met: Visit the nightclub during the day after having sex with Dawn."
 
 # game/dawn.rpy#L2544
 translate chinese dawnshowersex_83472c1f:
 
     # "I ring the buzzer, not expecting a reply since it’s the morning. However, to my surprise, I hear a dull buzz in response."
-    ""
+    "I ring the buzzer, not expecting a reply since it’s the morning. However, to my surprise, I hear a dull buzz in response."
 
 # game/dawn.rpy#L2546
 translate chinese dawnshowersex_9c41d020:
 
     # "I open the door, let myself into the back of the nightclub, and walk up to Dawn’s living area."
-    ""
+    "I open the door, let myself into the back of the nightclub, and walk up to Dawn’s living area."
 
 # game/dawn.rpy#L2547
 translate chinese dawnshowersex_ef7f9d69:
 
     # "Hm… Well, this is strange. There’s no one here!"
-    ""
+    "Hm… Well, this is strange. There’s no one here!"
 
 # game/dawn.rpy#L2548
 translate chinese dawnshowersex_613378ed:
 
     # "Who on earth let me in?"
-    ""
+    "Who on earth let me in?"
 
 # game/dawn.rpy#L2549
 translate chinese dawnshowersex_09d8de7f:
 
     # "I walk around her main room for a little while until my ears gently pick up the sound of a running shower."
-    ""
+    "I walk around her main room for a little while until my ears gently pick up the sound of a running shower."
 
 # game/dawn.rpy#L2550
 translate chinese dawnshowersex_8422d9c2:
 
     # "Ahh, I see. She let me in and immediately got into the shower…"
-    ""
+    "Ahh, I see. She let me in and immediately got into the shower…"
 
 # game/dawn.rpy#L2551
 translate chinese dawnshowersex_47439edc:
 
     # "Knowing Dawn, that’s probably a subtle invitation."
-    ""
+    "Knowing Dawn, that’s probably a subtle invitation."
 
 # game/dawn.rpy#L2552
 translate chinese dawnshowersex_190a81ce:
 
     # "I take the risk and peek into the bathroom. Lo and behold, there are two towels folded on the floor. Cheeky."
-    ""
+    "I take the risk and peek into the bathroom. Lo and behold, there are two towels folded on the floor. Cheeky."
 
 # game/dawn.rpy#L2556
 translate chinese dawnshowersex_c5568ff2:
 
     # dawn "Apologies for starting before you, but I had to make sure I washed my hair."
-    dawn ""
+    dawn "Apologies for starting before you, but I had to make sure I washed my hair."
 
 # game/dawn.rpy#L2557
 translate chinese dawnshowersex_4b1e15f8:
 
     # mc "While I’ve already showered this morning, I really feel like I could go for another."
-    mc ""
+    mc "While I’ve already showered this morning, I really feel like I could go for another."
 
 # game/dawn.rpy#L2558
 translate chinese dawnshowersex_dbbef8a9:
 
     # dawn "Do join me, little bunny rabbit. Maybe you can help clean some areas I can’t reach."
-    dawn ""
+    dawn "Do join me, little bunny rabbit. Maybe you can help clean some areas I can’t reach."
 
 # game/dawn.rpy#L2559
 translate chinese dawnshowersex_6bb535ab:
 
     # "As I step into the spacious shower cubical, I’ve pretty much already got an erection. It’s probably a Pavlovian response whenever I’m around Dawn at this point."
-    ""
+    "As I step into the spacious shower cubical, I’ve pretty much already got an erection. It’s probably a Pavlovian response whenever I’m around Dawn at this point."
 
 # game/dawn.rpy#L2560
 translate chinese dawnshowersex_f356438d:
 
     # dawn "Having you around really makes my kitten purr. Don’t be shy, give her a stroke."
-    dawn ""
+    dawn "Having you around really makes my kitten purr. Don’t be shy, give her a stroke."
 
 # game/dawn.rpy#L2561
 translate chinese dawnshowersex_692ca014:
 
     # "I wrap my hand around her hips and start to rub her pussy from the front, getting a good angle on her clit."
-    ""
+    "I wrap my hand around her hips and start to rub her pussy from the front, getting a good angle on her clit."
 
 # game/dawn.rpy#L2563
 translate chinese dawnshowersex_bccf7e9d:
 
     # dawn "Mmphh, that’s right… You know exactly how to make a woman yours, and, I’m all yours…"
-    dawn ""
+    dawn "Mmphh, that’s right… You know exactly how to make a woman yours, and, I’m all yours…"
 
 # game/dawn.rpy#L2564
 translate chinese dawnshowersex_8931e81c:
 
     # "Somewhat mimicking my own movements, her hand wraps around to my front and starts jerking off my cock."
-    ""
+    "Somewhat mimicking my own movements, her hand wraps around to my front and starts jerking off my cock."
 
 # game/dawn.rpy#L2565
 translate chinese dawnshowersex_5c85f13f:
 
     # "As blood starts to rush to my nether, my cock tightens and throbs. I make a second move; two of my fingers slip between her wet lips, and sink into her pussy."
-    ""
+    "As blood starts to rush to my nether, my cock tightens and throbs. I make a second move; two of my fingers slip between her wet lips, and sink into her pussy."
 
 # game/dawn.rpy#L2566
 translate chinese dawnshowersex_280be39f:
 
     # "Beyond the water from the shower, her pussy is starting to moisten with natural lubricants. Perhaps even enough to take me already."
-    ""
+    "Beyond the water from the shower, her pussy is starting to moisten with natural lubricants. Perhaps even enough to take me already."
 
 # game/dawn.rpy#L2567
 translate chinese dawnshowersex_ad1cc2d9:
 
     # "As I rub, her own rubbing hastens on my throbbing erection, causing a small amount of precum to drip from my tip."
-    ""
+    "As I rub, her own rubbing hastens on my throbbing erection, causing a small amount of precum to drip from my tip."
 
 # game/dawn.rpy#L2568
 translate chinese dawnshowersex_40e8942e:
 
     # "After some more teasing of her pussy, a few moans slip out between ragged breaths."
-    ""
+    "After some more teasing of her pussy, a few moans slip out between ragged breaths."
 
 # game/dawn.rpy#L2569
 translate chinese dawnshowersex_a0f80d0f:
 
     # dawn "Ahh, aahh… Move your hand out the way, and I’ll slide your cock in."
-    dawn ""
+    dawn "Ahh, aahh… Move your hand out the way, and I’ll slide your cock in."
 
 # game/dawn.rpy#L2570
 translate chinese dawnshowersex_4df63649:
 
     # "I do as she says without an ounce of reluctance, her hand pumping my cock back and forth in a tight grip the entire time."
-    ""
+    "I do as she says without an ounce of reluctance, her hand pumping my cock back and forth in a tight grip the entire time."
 
 # game/dawn.rpy#L2573
 translate chinese dawnshowersex_f53e1b73:
 
     # "While swaying her hips back and forth like a seductress, she guides me in with her hand and backs into me until I’m fully inserted, pressing me against one of the cubical walls in the process."
-    ""
+    "While swaying her hips back and forth like a seductress, she guides me in with her hand and backs into me until I’m fully inserted, pressing me against one of the cubical walls in the process."
 
 # game/dawn.rpy#L2574
 translate chinese dawnshowersex_47aa9646:
 
     # dawn "Mmmphh… Such a thick and long cock… I can feel it throbbing all over my sensitive pussy, mmmhh…"
-    dawn ""
+    dawn "Mmmphh… Such a thick and long cock… I can feel it throbbing all over my sensitive pussy, mmmhh…"
 
 # game/dawn.rpy#L2575
 translate chinese dawnshowersex_49d68a3a:
 
     # dawn "Keep your back steady against the wall, kitten. I’m going to ride your cock."
-    dawn ""
+    dawn "Keep your back steady against the wall, kitten. I’m going to ride your cock."
 
 # game/dawn.rpy#L2577
 translate chinese dawnshowersex_117fe0ef:
 
     # "Rolling her hips to perfection, Dawn’s pussy glides up and down my cock in perfectly smooth motions."
-    ""
+    "Rolling her hips to perfection, Dawn’s pussy glides up and down my cock in perfectly smooth motions."
 
 # game/dawn.rpy#L2578
 translate chinese dawnshowersex_f01118b0:
 
     # "Her lips do grip tight around my shaft, but my cock easily slides back in every time with a lewd schlick."
-    ""
+    "Her lips do grip tight around my shaft, but my cock easily slides back in every time with a lewd schlick."
 
 # game/dawn.rpy#L2579
 translate chinese dawnshowersex_d6b5edb0:
 
     # dawn "Yesss, that’s it, ohhhh my gosh…"
-    dawn ""
+    dawn "Yesss, that’s it, ohhhh my gosh…"
 
 # game/dawn.rpy#L2580
 translate chinese dawnshowersex_26b48a39:
 
     # "The more Dawn gets into it, the further her back arches against my chest, and the more moans spill freely from her mouth."
-    ""
+    "The more Dawn gets into it, the further her back arches against my chest, and the more moans spill freely from her mouth."
 
 # game/dawn.rpy#L2581
 translate chinese dawnshowersex_c8b8f69a:
 
     # "I start to slowly move my hips back and forth, fucking her gently and savouring the tightness of her vagina in response to her more vigorous bouncing"
-    ""
+    "I start to slowly move my hips back and forth, fucking her gently and savouring the tightness of her vagina in response to her more vigorous bouncing"
 
 # game/dawn.rpy#L2582
 translate chinese dawnshowersex_4f186f42:
 
     # "My cock was as hard as it could be, as every inch was squeezed and pleasured. Dawn was enjoying it just as much too, sweet moans escaping her lips with each thrust she made."
-    ""
+    "My cock was as hard as it could be, as every inch was squeezed and pleasured. Dawn was enjoying it just as much too, sweet moans escaping her lips with each thrust she made."
 
 # game/dawn.rpy#L2583
 translate chinese dawnshowersex_395fabac:
 
     # dawn "Ahaahh, aahhhh... I heard shower sex was overrated, but you know how to make everything amazing, don’t you, kitten?"
-    dawn ""
+    dawn "Ahaahh, aahhhh... I heard shower sex was overrated, but you know how to make everything amazing, don’t you, kitten?"
 
 # game/dawn.rpy#L2584
 translate chinese dawnshowersex_424b8ac9:
 
     # mc "I think I’ll have to give you all the credit for this one. You move your hips like a goddess."
-    mc ""
+    mc "I think I’ll have to give you all the credit for this one. You move your hips like a goddess."
 
 # game/dawn.rpy#L2585
 translate chinese dawnshowersex_1f24faf6:
 
     # dawn "I’ll take your word for it. You’d know how a goddess fucks after all, hehe."
-    dawn ""
+    dawn "I’ll take your word for it. You’d know how a goddess fucks after all, hehe."
 
 # game/dawn.rpy#L2586
 translate chinese dawnshowersex_e3f84f39:
 
     # "Since we were fucking while standing, her legs weren’t far apart making her even tighter around my throbbing shaft."
-    ""
+    "Since we were fucking while standing, her legs weren’t far apart making her even tighter around my throbbing shaft."
 
 # game/dawn.rpy#L2587
 translate chinese dawnshowersex_0e559c4d:
 
     # "The result was ecstasy, beyond amazing."
-    ""
+    "The result was ecstasy, beyond amazing."
 
 # game/dawn.rpy#L2588
 translate chinese dawnshowersex_f6c7a1cd:
 
     # "As I looked up at Dawn’s face I could tell by her elated expression that she is loving this even more than me."
-    ""
+    "As I looked up at Dawn’s face I could tell by her elated expression that she is loving this even more than me."
 
 # game/dawn.rpy#L2589
 translate chinese dawnshowersex_5eeef948:
 
     # dawn "Haaa, ahhh! Ohh, ahhh! *Pant, pant*"
-    dawn ""
+    dawn "Haaa, ahhh! Ohh, ahhh! *Pant, pant*"
 
 # game/dawn.rpy#L2590
 translate chinese dawnshowersex_69e44b67:
 
     # dawn "Ah- Ahhh! F-Fuck, I think I’m coming already!"
-    dawn ""
+    dawn "Ah- Ahhh! F-Fuck, I think I’m coming already!"
 
 # game/dawn.rpy#L2591
 translate chinese dawnshowersex_73f704fe:
 
     # "At her pounding pace, she managed to push herself over the edge. Her insides started to constrict in rhythmical waves, tightening around the base of my cock, squeezing, and sucking tightly."
-    ""
+    "At her pounding pace, she managed to push herself over the edge. Her insides started to constrict in rhythmical waves, tightening around the base of my cock, squeezing, and sucking tightly."
 
 # game/dawn.rpy#L2592
 translate chinese dawnshowersex_c1db8a46:
 
     # "Not only that, but she starts to fuck even faster in the moment. Her entire body reacting with elation to each thrust as she desperately moves her hips back and forth to derive as much pleasure as possible."
-    ""
+    "Not only that, but she starts to fuck even faster in the moment. Her entire body reacting with elation to each thrust as she desperately moves her hips back and forth to derive as much pleasure as possible."
 
 # game/dawn.rpy#L2593
 translate chinese dawnshowersex_2785c1e4:
 
     # "It was at this moment where I was entranced by the way her cute breasts bounced with each movement of her hips."
-    ""
+    "It was at this moment where I was entranced by the way her cute breasts bounced with each movement of her hips."
 
 # game/dawn.rpy#L2594
 translate chinese dawnshowersex_9d096e7a:
 
     # "With both my hands free, I started to massage them, caressing them and tweaking her sensitive nipples."
-    ""
+    "With both my hands free, I started to massage them, caressing them and tweaking her sensitive nipples."
 
 # game/dawn.rpy#L2595
 translate chinese dawnshowersex_212ab2bf:
 
     # dawn "Hahhh, haahh… Mmmphh, that’s right, baby. How about you rub my clit too?"
-    dawn ""
+    dawn "Hahhh, haahh… Mmmphh, that’s right, baby. How about you rub my clit too?"
 
 # game/dawn.rpy#L2596
 translate chinese dawnshowersex_fae38a2d:
 
     # "Although a little harder to rub, I bring my hand down to her rocking hips and try to lock-on to her clit. Rubbing around her while she rides me. Erratically at first, but eventually I get into the rhythm and keep my finger firmly on her clit."
-    ""
+    "Although a little harder to rub, I bring my hand down to her rocking hips and try to lock-on to her clit. Rubbing around her while she rides me. Erratically at first, but eventually I get into the rhythm and keep my finger firmly on her clit."
 
 # game/dawn.rpy#L2597
 translate chinese dawnshowersex_3200c1f1:
 
     # dawn "Ooohhh, aah… Aah, aaahh! Sex with you is {i}so{/i} much better than any of my previous partners. Ahh, ahhh…"
-    dawn ""
+    dawn "Ooohhh, aah… Aah, aaahh! Sex with you is {i}so{/i} much better than any of my previous partners. Ahh, ahhh…"
 
 # game/dawn.rpy#L2598
 translate chinese dawnshowersex_4b4b1268:
 
     # dawn "I think I know precisely the speed I need to get you off by now, so, here goes…"
-    dawn ""
+    dawn "I think I know precisely the speed I need to get you off by now, so, here goes…"
 
 # game/dawn.rpy#L2599
 translate chinese dawnshowersex_01c1703d:
 
     # "Her thrusts quickly accelerate. At this speed the slapping sound of our wet bodies colliding echoes throughout the cubical."
-    ""
+    "Her thrusts quickly accelerate. At this speed the slapping sound of our wet bodies colliding echoes throughout the cubical."
 
 # game/dawn.rpy#L2600
 translate chinese dawnshowersex_8ddc28fd:
 
     # "That combined with the lewd wet noises from our point of contact spurs me on even more."
-    ""
+    "That combined with the lewd wet noises from our point of contact spurs me on even more."
 
 # game/dawn.rpy#L2601
 translate chinese dawnshowersex_4af8af01:
 
     # "I kept my finger working her nipple and clit, hoping to squeeze another orgasm out of her before my impending climax is let loose."
-    ""
+    "I kept my finger working her nipple and clit, hoping to squeeze another orgasm out of her before my impending climax is let loose."
 
 # game/dawn.rpy#L2602
 translate chinese dawnshowersex_de247ad2:
 
     # dawn "Aahhh, oohhh… I’m getting close again!"
-    dawn ""
+    dawn "Aahhh, oohhh… I’m getting close again!"
 
 # game/dawn.rpy#L2603
 translate chinese dawnshowersex_d0c81715:
 
     # "I could also feel the pressure building as my cock throbbed and shaft tightened. I wouldn’t be able to hold it much longer."
-    ""
+    "I could also feel the pressure building as my cock throbbed and shaft tightened. I wouldn’t be able to hold it much longer."
 
 # game/dawn.rpy#L2604
 translate chinese dawnshowersex_815f8a84:
 
     # mc "I’m going to cum!"
-    mc ""
+    mc "I’m going to cum!"
 
 # game/dawn.rpy#L2605
 translate chinese dawnshowersex_cd98695b:
 
     # dawn "Yes, yes! Cum inside me, [playername]! Let’s come together! Ahh, ahhhh!"
-    dawn ""
+    dawn "Yes, yes! Cum inside me, [playername]! Let’s come together! Ahh, ahhhh!"
 
 # game/dawn.rpy#L2610
 translate chinese dawnshowersex_e30e22a5:
 
     # "Cum exploded out the tip of my cock as I relentlessly pounded her pussy."
-    ""
+    "Cum exploded out the tip of my cock as I relentlessly pounded her pussy."
 
 # game/dawn.rpy#L2617
 translate chinese dawnshowersex_e4db4247:
 
     # "She came too, shivering and moaning in ecstasy, while I kept pumping her insides with semen."
-    ""
+    "She came too, shivering and moaning in ecstasy, while I kept pumping her insides with semen."
 
 # game/dawn.rpy#L2619
 translate chinese dawnshowersex_f14dfd8d:
 
     # dawn "Haaa… Haaahh… *Pant* What a treat you are, duckling…"
-    dawn ""
+    dawn "Haaa… Haaahh… *Pant* What a treat you are, duckling…"
 
 # game/dawn.rpy#L2620
 translate chinese dawnshowersex_49f657af:
 
     # "My orgasm eventually faded, and my hips came to a stop. I didn’t immediately pull out, instead she leans back and we embrace for a few moments."
-    ""
+    "My orgasm eventually faded, and my hips came to a stop. I didn’t immediately pull out, instead she leans back and we embrace for a few moments."
 
 # game/dawn.rpy#L2621
 translate chinese dawnshowersex_7248327d:
 
     # dawn "Mmphh, you came a lot…"
-    dawn ""
+    dawn "Mmphh, you came a lot…"
 
 # game/dawn.rpy#L2622
 translate chinese dawnshowersex_e6c9e51c:
 
     # mc "Hard not to when it feels that good."
-    mc ""
+    mc "Hard not to when it feels that good."
 
 # game/dawn.rpy#L2623
 translate chinese dawnshowersex_c1103b3d:
 
     # dawn "Hehe, I’m glad I caught you early in the morning."
-    dawn ""
+    dawn "Hehe, I’m glad I caught you early in the morning."
 
 # game/dawn.rpy#L2624
 translate chinese dawnshowersex_643b9476:
 
     # dawn "Let’s finish up here, shall we?"
-    dawn ""
+    dawn "Let’s finish up here, shall we?"
 
 # game/dawn.rpy#L2626
 translate chinese dawnshowersex_41294e01:
 
     # "I step out the shower and begin to dry myself first, and then Dawn joins me a few moments later."
-    ""
+    "I step out the shower and begin to dry myself first, and then Dawn joins me a few moments later."
 
 # game/dawn.rpy#L2628
 translate chinese dawnshowersex_2ddc047b:
 
     # "Living with another mare, I’m used to it taking a while for them to dry after a shower. They sometimes resort to a blow-dryer."
-    ""
+    "Living with another mare, I’m used to it taking a while for them to dry after a shower. They sometimes resort to a blow-dryer."
 
 # game/dawn.rpy#L2629
 translate chinese dawnshowersex_97eced98:
 
     # "But Dawn impresses me yet again by using a spell to blow dry herself."
-    ""
+    "But Dawn impresses me yet again by using a spell to blow dry herself."
 
 # game/dawn.rpy#L2630
 translate chinese dawnshowersex_d8bb75b9:
 
     # "And with such efficiency too, she manages to dry herself around the same time I finish."
-    ""
+    "And with such efficiency too, she manages to dry herself around the same time I finish."
 
 # game/dawn.rpy#L2632
 translate chinese dawnshowersex_b9e18dae:
 
     # dawn "Ahh… I feel all fluffy and fuzzy. Come here, give me a hug before I get dressed."
-    dawn ""
+    dawn "Ahh… I feel all fluffy and fuzzy. Come here, give me a hug before I get dressed."
 
 # game/dawn.rpy#L2635
 translate chinese dawnshowersex_da21d2fa:
 
     # "Ahhh… She’s so soft and warm… I’ll never get bored of these soft fluffy waifus."
-    ""
+    "Ahhh… She’s so soft and warm… I’ll never get bored of these soft fluffy waifus."
 
 # game/dawn.rpy#L2637
 translate chinese dawnshowersex_d84b68fd:
 
     # dawn "Mmm… Such a shame that I must be off to work."
-    dawn ""
+    dawn "Mmm… Such a shame that I must be off to work."
 
 # game/dawn.rpy#L2640
 translate chinese dawnshowersex_facf70b1:
 
     # dawn "But it was a pleasure catching you before then, [playername]. I do hope to see you again sometime."
-    dawn ""
+    dawn "But it was a pleasure catching you before then, [playername]. I do hope to see you again sometime."
 
 # game/dawn.rpy#L2641
 translate chinese dawnshowersex_e954eba4:
 
     # mc "You can bet on it."
-    mc ""
+    mc "You can bet on it."
 
 # game/dawn.rpy#L2643
 translate chinese dawnshowersex_216c50d4:
 
     # dawn "Until then, I’ll be thinking about you."
-    dawn ""
+    dawn "Until then, I’ll be thinking about you."
 
 # game/dawn.rpy#L2645
 translate chinese dawnshowersex_299347bf:
 
     # "We leave the building, and she goes to the castle to work."
-    ""
+    "We leave the building, and she goes to the castle to work."
 
 translate chinese strings:
 
@@ -9039,7 +9039,7 @@ translate chinese strings:
 
     # game/dawn.rpy_L1587_1
     old "Everyone? What's your body count?"
-    new ""
+    new "Everyone? What's your body count?"
 
     # game/dawn.rpy_L1587_2
     old "I got that reference."
@@ -9047,7 +9047,7 @@ translate chinese strings:
 
     # game/dawn.rpy_L1587_3
     old "Oh yeah? Bold words coming from the the most clothed mare in the entire city."
-    new ""
+    new "Oh yeah? Bold words coming from the the most clothed mare in the entire city."
 
     # game/dawn.rpy_L1773_0
     old "What’s wrong Lily? Maybe Dawn can give you advice on your sex life."
@@ -9099,7 +9099,7 @@ translate chinese strings:
 
     # game/dawn.rpy_L2198_0
     old "What's with the suspicion? I'm just a dude that knows stuff."
-    new "什么叫“怀疑”？我只是个知道一些事的普通人罢了。"
+    new "什么叫怀疑？我只是个知道一些事的普通人罢了。"
 
     # game/dawn.rpy_L2198_1
     old "I'm a nobody, really. I've only been living here for [days] days."

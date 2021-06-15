@@ -1,4 +1,4 @@
-# Translation updated at Sun Jun 13 2021 10:42:31 GMT+0800 (香港标准时间)
+# Translation updated at Tue Jun 15 2021 19:43:44 GMT+0000 (Coordinated Universal Time)
 # game/3map.rpy#L57
 translate chinese mapmarket_91ae100c:
 
@@ -5199,7 +5199,7 @@ translate chinese strings:
 
     # game/3map.rpy_L278_0
     old "The ol' fuck and chuck. Alright, sure."
-    new ""
+    new "The ol' fuck and chuck. Alright, sure."
 
     # game/3map.rpy_L278_1
     old "Sounds like you're taking the idea of being a cum dumpster literally."
@@ -5531,7 +5531,7 @@ translate chinese strings:
 
     # game/3map.rpy_L1551_4
     old "Penelope Rubbing and Scissoring"
-    new ""
+    new "Penelope Rubbing and Scissoring"
 
     # game/3map.rpy_L1589_0
     old "Meeting Riku"
@@ -5691,7 +5691,7 @@ translate chinese strings:
 
     # game/3map.rpy_L1822_1
     old "Riku Climbing Sex"
-    new ""
+    new "Riku Climbing Sex"
 
     # game/3map.rpy_L1822_2
     old "Lily Splits Sex"

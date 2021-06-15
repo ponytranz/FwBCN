@@ -1,4 +1,4 @@
-# Translation updated at Sun Jun 13 2021 10:42:31 GMT+0800 (香港标准时间)
+# Translation updated at Tue Jun 15 2021 19:43:44 GMT+0000 (Coordinated Universal Time)
 # game/2morning.rpy#L14
 translate chinese morning_f5b564ef:
 
@@ -39,7 +39,7 @@ translate chinese morning_79dbd9ad:
 translate chinese altmorning_18ed8f77:
 
     # moxie "Good morning, I was just about to go for a nap. Selene's lessons were really tough!"
-    moxie "早上好，我刚才正想打个盹呢。Selene的“课”可真厉害啊！"
+    moxie "早上好，我刚才正想打个盹呢。Selene的'课'可真厉害啊！"
 
 # game/2morning.rpy#L36
 translate chinese altmorning_ffbd9fb1:
