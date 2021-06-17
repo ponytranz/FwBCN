@@ -407,14 +407,14 @@
   {
     "id": 79443688,
     "createdAt": "2021-05-30T19:47:48.000Z",
-    "updatedAt": "2021-06-02T15:57:46.000Z",
+    "updatedAt": "2021-06-16T03:16:47.000Z",
     "key": "game/deepforest.rpy_L634_0",
     "original": "Leg-up Sideways (NEW!)",
-    "translation": "腿，起侧身(新！)",
+    "translation": "抬腿后入式",
     "file": 272381,
-    "stage": 2,
+    "stage": 3,
     "project": 2414,
-    "uid": null,
+    "uid": 21858,
     "extra": null,
     "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/deepforest.rpy#L634",
     "words": 3

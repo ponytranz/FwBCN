@@ -1,4 +1,4 @@
-# Translation updated at Wed Jun 16 2021 00:51:28 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Thu Jun 17 2021 00:47:42 GMT+0000 (Coordinated Universal Time)
 # game/2morning.rpy#L14
 translate chinese morning_f5b564ef:
 

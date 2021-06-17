@@ -1,15 +1,15 @@
-# Translation updated at Wed Jun 16 2021 00:51:28 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Thu Jun 17 2021 00:47:42 GMT+0000 (Coordinated Universal Time)
 # game/2evening butters.rpy#L11
 translate chinese eveningbutters_ce840f9e:
 
     # "Sometime during the evening, Butters slowly turned into her succubus form. Does she really need to get undressed every time?."
-    "Sometime during the evening, Butters slowly turned into her succubus form. Does she really need to get undressed every time?."
+    "Butters的魅魔面会在夜间会时不时地慢慢现身。她每次都浑身赤裸，酱紫真的好吗？"
 
 # game/2evening butters.rpy#L12
 translate chinese eveningbutters_3cdf68fd:
 
     # butters "OH HOOONEYY! I'M HOOOOME!"
-    butters "OH HOOONEYY! I'M HOOOOME!"
+    butters "哦~小~可~耐~！我，回~来~了！"
 
 # game/2evening butters.rpy#L16
 translate chinese eveningbutters_43fffc42:
@@ -729,7 +729,7 @@ translate chinese eveningbutterssex_29782820:
 translate chinese eveningbutterssex_87d4151d:
 
     # butters "Mmm, I'm all yours, baby..."
-    butters "嗯，现在我是你的人儿了，小可爱......"
+    butters "嗯，现在我是你的人儿了，小可耐......"
 
 # game/2evening butters.rpy#L345
 translate chinese eveningbutterssex_1f8a7517:
@@ -1173,7 +1173,7 @@ translate chinese eveningbutterssex_152bbe9a:
 translate chinese eveningbutterssex_f9b6a4cf:
 
     # "I wonder if that got her pregnant? If this was a hentai game, I'd probably see one of those egg fertilisation cut-ins. Heh, what a ridiculous thought."
-    "我想知道她的药是不是真的能起效果，如果这是一个黄油的话，我肯定会在屏幕上看到精子钻入卵子完成受精。艹，我在想些啥。"
+    "我想知道她的药是不是真的能起效果，如果这是一个黄油的话，我肯定会在屏幕上看到精子钻入卵子完成受精的图像。艹，我在想些啥。"
 
 # game/2evening butters.rpy#L496
 translate chinese eveningbutterssex_035c36c7:
@@ -1209,7 +1209,7 @@ translate chinese eveningbutterssex_d8e3eaba:
 translate chinese eveningbutterssex_b6197791:
 
     # butters "Aha, I hope you’ll cum inside me a lot more regardless."
-    butters "嘛，不管怎么样，我都欢迎你在我体内多多高潮。"
+    butters "嘛，不管怎么样，我都欢迎你在我体内多多播种。"
 
 # game/2evening butters.rpy#L506
 translate chinese eveningbutterssex_54a16929:
@@ -1563,7 +1563,7 @@ translate chinese eveningbutterssex_9763a93b:
 translate chinese eveningbutterssex_d3581188:
 
     # butters "I really enjoy doing paizuri with you. Even though I'm usually too horny and just want it in my pussy, hehe…"
-    butters "早就想和你试试乳交。不过每次人家的下面都太想要了，呵呵......"
+    butters "每次人家的下面都潮水泛滥，不过和你乳交同样让我感到愉悦，呵呵......"
 
 # game/2evening butters.rpy#L606
 translate chinese eveningbutterssex_28b8933a:
@@ -1575,7 +1575,7 @@ translate chinese eveningbutterssex_28b8933a:
 translate chinese eveningbutterssex_e6f4dabd:
 
     # butters "But I think I'll have no problem getting you off..."
-    butters "不过让你爽上天还是不成问题的......"
+    butters "不过让你欲仙欲死还是不成问题的......"
 
 # game/2evening butters.rpy#L608
 translate chinese eveningbutterssex_0f77682e:
@@ -1623,7 +1623,7 @@ translate chinese eveningbutterssex_30c24c5d:
 translate chinese eveningbutterssex_f644af0e:
 
     # "And just like that, she’s moving even faster. The fur between her chest becoming not only damp, but slick and shiny, rubbing faster and faster."
-    "与此同时，她还提高了速度。深邃乳沟间的毛发不光是变得湿润，而且看起来也更加圆润有色泽，快速地摩擦着。"
+    "与此同时，她还提高了速度。深邃乳沟间的毛发不光是变得湿润，而且看起来也更加圆润有色泽，她更快速地摩擦着。"
 
 # game/2evening butters.rpy#L618
 translate chinese eveningbutterssex_ed1bed3e:
@@ -1659,7 +1659,7 @@ translate chinese eveningbutterssex_d1b044de:
 translate chinese eveningbutterssex_e8358f5a:
 
     # "The effectiveness of her movements makes it arguably even more pleasurable than a standard blowjob. The squeeze of her breasts combined with her tongue is immensely euphoric."
-    "她这个技巧比普通的口交更令人神魂颠倒。巨乳和舌头的侍奉真是马间的至高享受。"
+    "她的技巧效果比普通的口交更令人神魂颠倒。巨乳和舌头的双重侍奉真是马间的至高享受。"
 
 # game/2evening butters.rpy#L626
 translate chinese eveningbutterssex_ae5a0b65:
@@ -1719,13 +1719,13 @@ translate chinese eveningbutterssex_2c05f02a:
 translate chinese eveningbutterssex_1f7082b1:
 
     # "Butters sets to cleaning up all the cum and milk. Surprisingly efficiently, she enjoys each second."
-    "Butters开始清理四处的阳精和乳汁。没想到她还挺享受这个过程。"
+    "Butters开始快速清理四处的阳精和乳汁。没想到她还挺享受这个过程。"
 
 # game/2evening butters.rpy#L649
 translate chinese eveningbutterssex_4a17c672:
 
     # "Then she bends over, and I know what to do…"
-    "然后她弯下腰，我心神领会地摆好姿势......"
+    "然后她弯下腰，我心神领会地摆好架势......"
 
 # game/2evening butters.rpy#L653
 translate chinese eveningbutterssex_fb26ea0a:
@@ -1845,13 +1845,13 @@ translate chinese eveningbutterstalk_dacf6e0a:
 translate chinese eveningbutterstalk_8e3f1086:
 
     # butters "I've had many fun adventures, even when we were cave diving I would have protected us from any real danger."
-    butters "我的冒险故事多得能写几本书，在我们进入洞穴探险的时候如果遇到危险，我也会尽力保护我们自己。"
+    butters "我的冒险故事多得能写几本书，在我们进入洞穴探险的时候如果遇到危险，我也会尽力保护我们。"
 
 # game/2evening butters.rpy#L696
 translate chinese eveningbutterstalk_b163399a:
 
     # butters "I was just trying to be reserved because I didn't want you to know I was a succubus..."
-    butters "我曾想保守我的秘密，我不想让你知道我其实是只魅魔......"
+    butters "我曾想保守我的秘密，我不想让你知道我有魅魔面......"
 
 # game/2evening butters.rpy#L697
 translate chinese eveningbutterstalk_863c2e53:
@@ -1863,19 +1863,19 @@ translate chinese eveningbutterstalk_863c2e53:
 translate chinese eveningbutterstalk_ea33b3ab:
 
     # butters "Hehe, the slime got me fair and square. She was really agile and I wasn't expecting that."
-    butters "呵呵，史莱姆让我走出了自己的阴影，意识到自己不应该再躲躲藏藏地活着。她的身手矫健异常，出乎我的意料。"
+    butters "呵呵，史莱姆让我走出了自己的阴影，意识到自己不应该再躲躲藏藏地活着。她的动作矫健异常，出乎我的意料。"
 
 # game/2evening butters.rpy#L700
 translate chinese eveningbutterstalk_14eee151:
 
     # butters "And the Alraune? She exploited my biggest weakness."
-    butters "Alraune利用了我最大的弱点。"
+    butters "Alraune只是利用了我最大的弱点。"
 
 # game/2evening butters.rpy#L701
 translate chinese eveningbutterstalk_e7738a5b:
 
     # butters "Sometimes on my journeys I may run into colonies of various species, most are friendly but some are territorial and aggressive."
-    butters "在我的过去的旅途中偶尔会遇见一些生物聚落，大部分生物还是客客气气的，不过其他的就另说了，越雷池半步能把你骨灰都扬了。"
+    butters "在我的过去的旅途中偶尔会遇见一些生物聚落，大部分生物还是客客气气的，不过其他的就另说了，只越雷池半步就对你剑拔弩张。"
 
 # game/2evening butters.rpy#L703
 translate chinese eveningbutterstalk_ccd53511:
@@ -1887,13 +1887,13 @@ translate chinese eveningbutterstalk_ccd53511:
 translate chinese eveningbutterstalk_91c3adce:
 
     # butters "They all had their dicks out, planned on making a fun night out of me. My succubus side immediately went ballistic and terrified them away."
-    butters "它们都摩棒擦枪，鸡巴高高扬起，准备让我度过一个噩梦般的夜晚。我的魅魔面立马现身，把它们吓得屁滚尿流，草木皆兵，落荒而逃。"
+    butters "它们都摩棒擦枪，鸡巴高高扬起，准备让我度过一个噩梦般的夜晚。我的魅魔面突然现身，把它们吓得屁滚尿流，落荒而逃。"
 
 # game/2evening butters.rpy#L706
 translate chinese eveningbutterstalk_f60865bf:
 
     # butters "My succubus side is a good fail-safe, always rears when I'm in danger."
-    butters "我的魅魔面就像青霉素一样，屡屡救我性命于危难之中。"
+    butters "我的魅魔面就像青霉素之于医学一样，屡屡救我性命于危难之中。"
 
 # game/2evening butters.rpy#L707
 translate chinese eveningbutterstalk_907f18c5:
@@ -1923,7 +1923,7 @@ translate chinese eveningbutterstalk_dad91e81:
 translate chinese eveningbutterstalk_162301c7:
 
     # butters "I'm not sure, I've been living in limbo for so long, it's still hard to acknowledge that I'm 'normal' again."
-    butters "我不确定，我往昔如地狱般的日子过了许久，虽然很难承认，但我现在又回归“正常”了。"
+    butters "不造，我往昔惶惶不可终日，虽然很难承认，但我现在又回归“正常”了。"
 
 # game/2evening butters.rpy#L715
 translate chinese eveningbutterstalk_4763bc6f:
@@ -1947,7 +1947,7 @@ translate chinese eveningbutterstalk_8d7a015b:
 translate chinese eveningbutterstalk_76dec853:
 
     # butters "I know that, but it makes me so happy I could cry."
-    butters "我知道，不过我仍然很高兴，假如我哭泣，流下的都是幸福的泪水。"
+    butters "我知道，不过我仍然很高兴，假如我哭泣，流下的一定是幸福的泪水。"
 
 # game/2evening butters.rpy#L720
 translate chinese eveningbutterstalk_3bc58169:
@@ -1989,7 +1989,7 @@ translate chinese eveningbutterstalk_e5836cf8:
 translate chinese eveningbutterstalk_9cb0403e:
 
     # butters "The only commercial potion I can sell to the public is a lust-reducing potion, no one even realizes that's a potion, they just think it's a herbal remedy."
-    butters "我唯一可以向他人销售的是一种降低肉欲的药水，买主们甚至都没意识到这是种炼金药剂，他们只当是一种药草调和剂。"
+    butters "我唯一卖得好的是一种降低肉欲的药水，买主们甚至都没意识到这是种炼金制药剂，他们只当是一种药草调和剂。"
 
 # game/2evening butters.rpy#L729
 translate chinese eveningbutterstalk_405b29ad:
@@ -2319,7 +2319,7 @@ translate chinese succbuttersrcg_f9e96cff:
 translate chinese succbuttersrcg_741da26d:
 
     # butters "Heh, you flatter me... And I flatten you..."
-    butters "切，嘴巴还挺甜...作为回报，让你尝尝我的嘴有多甜......"
+    butters "切，嘴巴还挺甜...我的嘴比你更甜......"
 
 # game/2evening butters.rpy#L843
 translate chinese succbuttersrcg_34491483:
@@ -2421,7 +2421,7 @@ translate chinese succbuttersrcg_fd3eb630:
 translate chinese succbuttersrcg_166d5b5a:
 
     # "After the peak, she collapses backwards and cuddles into my chest. Her horn narrowly almost bashing me in the head with her carelessness."
-    "高潮过后，她顺势向后倒在我的怀中，由于粗心大意，也有可能是筋疲力尽，她的魅魔角差点给我的头来一下。"
+    "高潮过后，她顺势向后瘫倒在我的怀中，由于粗心大意，也有可能是筋疲力尽，她的魅魔犄角差点给我的头来上一下。"
 
 # game/2evening butters.rpy#L875
 translate chinese succbuttersrcg_ab09ffea:
@@ -2487,7 +2487,7 @@ translate chinese succbuttersrcg_1f8a7517:
 translate chinese succbuttersrcg_43109a2d:
 
     # butters "No teasing, fuck me hard!"
-    butters "不许挑逗，狠狠操我！"
+    butters "不许亵玩，使劲操我！"
 
 # game/2evening butters.rpy#L900
 translate chinese succbuttersrcg_977e5f36:
@@ -2553,7 +2553,7 @@ translate chinese succbuttersrcg_9d85150e:
 translate chinese succbuttersrcg_6ce68532:
 
     # butters "Mmphh... Don't think I'm satisfied with just one load... Keep going lady-killer."
-    butters "嗯...一发可满足不了我...再来啊，你个人形泰迪。"
+    butters "嗯...一发可满足不了我...再来啊，万马迷。"
 
 # game/2evening butters.rpy#L928
 translate chinese succbuttersrcg_0ec69565:
@@ -2691,7 +2691,7 @@ translate chinese eveningbutterssucctalk_0079aa4a:
 translate chinese eveningbutterssucctalk_66cf1b00:
 
     # butters "I know my place, if I act too wild Butters would be thrown in jail and I'd be stuck too."
-    butters "我知道，如果我行事太粗野，你就会占据Butters的身体，再来缠上我。"
+    butters "我什么样的人自己心里还是有B数的，只要我行事太过高调，Butters就会被逮捕下狱，我也跟着遭殃。"
 
 # game/2evening butters.rpy#L986
 translate chinese eveningbutterssucctalk_1c1c312b:
@@ -2709,7 +2709,7 @@ translate chinese eveningbutterssucctalk_e93f35c3:
 translate chinese eveningbutterssucctalk_31c3512c:
 
     # butters "But I told you I'd try to avoid killing you!"
-    butters "那是人家不小心嘛！这么小气干嘛！"
+    butters "最后不是没事嘛！这么小气？"
 
 # game/2evening butters.rpy#L990
 translate chinese eveningbutterssucctalk_7a556c05:
@@ -2733,7 +2733,7 @@ translate chinese eveningbutterssucctalk_9a4521b9:
 translate chinese eveningbutterssucctalk_982920f6:
 
     # mc "So... What's your end-goal here? How are you trying to live a fulfilling life?"
-    mc "那...你来这里到底想干嘛？你这日子过得有滋味吗？"
+    mc "那...你的出现到底有何意义？这种日子你过得有滋味吗？"
 
 # game/2evening butters.rpy#L996
 translate chinese eveningbutterssucctalk_31e2cfdc:
@@ -2769,7 +2769,7 @@ translate chinese eveningbutterssucctalk_f4123dd1:
 translate chinese eveningbutterssucctalk_1f5beb5c:
 
     # mc "That's quite sweet."
-    mc "好生甜蜜。"
+    mc "有点大橘已定的意思。"
 
 # game/2evening butters.rpy#L1004
 translate chinese eveningbutterssucctalk_794e8f02:
@@ -2787,19 +2787,19 @@ translate chinese eveningbutterssucctalk_24077516:
 translate chinese eveningbutterssucctalk_0f59492a:
 
     # butters "Guess so, I appreciate the company."
-    butters "可能是吧，我要谢谢我的伙伴。"
+    butters "可能是吧，多亏了我的另一面。"
 
 # game/2evening butters.rpy#L1008
 translate chinese eveningbutterssucctalk_80645cdf:
 
     # butters "Keep giving it to me, and we can make Butters double happy."
-    butters "别不要我啊，你不想给Butters双倍的欢愉吗？"
+    butters "别以后不要我啊，你不想给Butters双倍的欢愉吗？"
 
 # game/2evening butters.rpy#L1009
 translate chinese eveningbutterssucctalk_c8b6f590:
 
     # mc "I don't think it works like that. But I don't mind spending time with you to make {i}you{/i} happy."
-    mc "那样我觉得布星。但我很乐意与你在一起，让{i}你{/i}开心。"
+    mc "我还没办法相信你之前说的你能让她也开心。但我很乐意与你在一起，让{i}你{/i}开心。"
 
 # game/2evening butters.rpy#L1011
 translate chinese eveningbutterssucctalk_d28c529a:
@@ -2811,7 +2811,7 @@ translate chinese eveningbutterssucctalk_d28c529a:
 translate chinese eveningbutterssucctalk_d0415665:
 
     # mc "You're always observing Butters' actions, right?"
-    mc "你总是监视着Butters的日常，对吗？"
+    mc "你对Butters的一举一动了如指掌，对吗？"
 
 # game/2evening butters.rpy#L1014
 translate chinese eveningbutterssucctalk_2c15778e:
@@ -2823,7 +2823,7 @@ translate chinese eveningbutterssucctalk_2c15778e:
 translate chinese eveningbutterssucctalk_716dc420:
 
     # mc "That means she's observing your actions too?"
-    mc "也就是说她对你的一举一动也了如指掌？"
+    mc "也就是说她也知道你的一举一动？"
 
 # game/2evening butters.rpy#L1016
 translate chinese eveningbutterssucctalk_0ad1c250:
@@ -2877,7 +2877,7 @@ translate chinese eveningbutterssucctalk_eabc233e:
 translate chinese eveningbutterssucctalk_066ce959:
 
     # butters "I mean she offered to dedicate her life to you, you could practically ask her to marry you and she'd say yes."
-    butters "我的意思是她和你二位一体，你跟她求婚说不定她会答应呢。"
+    butters "你看，她肯把自己这辈子都托付于你，向她求婚的话，她肯定会答应的。"
 
 # game/2evening butters.rpy#L1028
 translate chinese eveningbutterssucctalk_4982bc2f:
@@ -2889,19 +2889,19 @@ translate chinese eveningbutterssucctalk_4982bc2f:
 translate chinese eveningbutterssucctalk_07eb2b16:
 
     # mc "Yeah, I'm not ready to settle quite yet."
-    mc "嗯，那是因为我还没准备好正式安顿下来。"
+    mc "嗯，那是因为我还没准备好正式安身过日子。"
 
 # game/2evening butters.rpy#L1031
 translate chinese eveningbutterssucctalk_31a9167f:
 
     # butters "Well, when you are ready, why settle for one personality when you can have two? Right?"
-    butters "那，你准备好真正开始过日子的时候，一个媳妇俩人格，双倍快乐它不香嘛？"
+    butters "那，你准备好安身立命的时候，一个媳妇俩人格，双倍快乐它不香嘛？"
 
 # game/2evening butters.rpy#L1032
 translate chinese eveningbutterssucctalk_3e991a75:
 
     # mc "One personality and one nuisance that begs for sex."
-    mc "白天贤妻良母，夜间床上魅魔，鱼与熊掌兼得。"
+    mc "白天贤妻良母，夜间床上魅魔，我有点难接受。"
 
 # game/2evening butters.rpy#L1034
 translate chinese eveningbutterssucctalk_469605fb:
@@ -3135,7 +3135,7 @@ translate chinese poyosex_920e3d6d:
 translate chinese poyosex_a5b6207b:
 
     # poyo "How about I suck you off?"
-    poyo "只能给你口。"
+    poyo "只能给你口哦。"
 
 # game/2evening butters.rpy#L1141
 translate chinese poyoblowjob_fc640f48:
@@ -3159,7 +3159,7 @@ translate chinese poyoblowjob_3af4f011:
 translate chinese poyoblowjob_ade9b120:
 
     # "I jack myself off until I get an erection and allow Poyo to take it in her hand and direct it into her gelatinous mouth."
-    "我套弄着自己的长枪，让它完全挺起身板，Poyo用手接过肉棒，将它含进凝胶一样的嘴里。"
+    "我套弄着自己的肉棒，让它完全挺起身板，Poyo用手接过肉棒，将它含进凝胶一样的嘴里。"
 
 # game/2evening butters.rpy#L1151
 translate chinese poyoblowjob_ced76661:
@@ -3381,7 +3381,7 @@ translate chinese buttersimpregintro_36938e12:
 translate chinese buttersimpregintro_db7b11fd:
 
     # mc "What’s that?"
-    mc "那是什么？"
+    mc "但说无妨。"
 
 # game/2evening butters.rpy#L1216
 translate chinese buttersimpregintro_17ac4e53:
@@ -3405,19 +3405,19 @@ translate chinese buttersimpregintro_b175cf2b:
 translate chinese buttersimpregintro_9fb88bb2:
 
     # butters "You may be the father, but I’ll look after the child… It’s a bit selfish, but this is more for me than you…"
-    butters "你只需要当父亲就行了，我会带孩子的...我知道这要求有点自私，毕竟主要还是为了我......"
+    butters "你只需要当生理上的父亲就行了，抚养孩子我会自己负责的...我知道这要求有点自私，毕竟主要还是为了我......"
 
 # game/2evening butters.rpy#L1221
 translate chinese buttersimpregintro_0c5ee3ff:
 
     # mc "I think I understand. You want a raise a child, alone or with a partner, and you want me to act as the sperm donor?"
-    mc "我懂你的意思。你想要自己或者和别人一起抚养一个孩子，我只是帮你受精代孕？"
+    mc "我懂你的意思。你想要自己或者和别人一起抚养一个孩子，我只是帮你受精？"
 
 # game/2evening butters.rpy#L1223
 translate chinese buttersimpregintro_1e615dd9:
 
     # butters "Yeah, I think so! I don’t want to push any responsibility onto you, you’ll be a surrogate."
-    butters "嗯，差不多！我不想你背任何责任和包袱，你只需要帮我怀孕就行啦。（ZS出来挨打）"
+    butters "嗯，差不多！我不想你背任何责任和包袱，你只需要帮我怀孕就行啦。"
 
 # game/2evening butters.rpy#L1224
 translate chinese buttersimpregintro_f4e0730e:
@@ -3453,7 +3453,7 @@ translate chinese buttersimpregintro_36fc30aa:
 translate chinese buttersimpregintro_4c46c915:
 
     # butters "So it’d be a regular ol’ earth pony. Maaaaybe with batwings, I’m not quite sure."
-    butters "肯定是一头陆马宝宝。不过嘛...可能跟我一样长得有蝙蝠翅膀，这个我就不清楚了。"
+    butters "肯定是一头陆马宝宝。不过嘛...可能跟我一样长得有蝙蝠翅膀，这方面细究下去我就不清楚了。"
 
 # game/2evening butters.rpy#L1232
 translate chinese buttersimpregintro_d6a44939:
@@ -3465,7 +3465,7 @@ translate chinese buttersimpregintro_d6a44939:
 translate chinese buttersimpregintro_b4b33177:
 
     # butters "I know… I’m sorry… What do you think?"
-    butters "我知道你压力很大...很抱歉...你意下如何？"
+    butters "我知道这个要求让你鸭梨山大...很抱歉...你意下如何？"
 
 # game/2evening butters.rpy#L1242
 translate chinese buttersimpregintro_db6f1c75:
@@ -3483,7 +3483,7 @@ translate chinese buttersimpregintro_fc5d9c0c:
 translate chinese buttersimpregintro_5a840860:
 
     # butters "Although, would you like to have sex regardless? I’ve been thinking about this a lot and it has made me insatiably horny lately, hehe."
-    butters "还有，你想不想做爱呢？我现在满脑子都是精虫，下面也痒得不行，嘿嘿。"
+    butters "还有，你想不想做爱呢？我现在脑子里浮想联翩，下面也洪水泛滥，嘿嘿。"
 
 # game/2evening butters.rpy#L1247
 translate chinese buttersimpregintro_010a712f:
@@ -3507,13 +3507,13 @@ translate chinese buttersimpregintro_7d7ebb84:
 translate chinese buttersimpregmissionary_2c70794a:
 
     # butters "Ooohh, thank you so much! This is really exciting."
-    butters "哦，谢谢你答应我！我高兴坏了。"
+    butters "哦，谢谢你答应我！可把我高兴坏了。"
 
 # game/2evening butters.rpy#L1270
 translate chinese buttersimpregmissionary_3cb37810:
 
     # butters "And arousing too! I mean… I do have a thing for impregnation…"
-    butters "而且能激起你的性趣！我的意思是...我确实有手段能妊娠..."
+    butters "我保证能激起你的性趣！我是说...我确实有手段能让我妊娠..."
 
 # game/2evening butters.rpy#L1271
 translate chinese buttersimpregmissionary_9e0fbafd:
@@ -3717,187 +3717,187 @@ translate chinese buttersimpregmissionary_b98f646c:
 translate chinese buttersimpregmissionary_da740a51:
 
     # "It would seem that the potion had some side effects beyond fertility, because I’m sure Butters isn’t usually this wet."
-    "It would seem that the potion had some side effects beyond fertility, because I’m sure Butters isn’t usually this wet."
+    "貌似这瓶药水不止起受孕作用，Butters平常不会湿成这样。"
 
 # game/2evening butters.rpy#L1320
 translate chinese buttersimpregmissionary_a4bce9d1:
 
     # "It’s also impossible to deny the pleasure she’s feeling, as she throws her arms and head back into the pillow, her tongue lolling slightly as her mind blanks from the powerful erotic sensations."
-    "It’s also impossible to deny the pleasure she’s feeling, as she throws her arms and head back into the pillow, her tongue lolling slightly as her mind blanks from the powerful erotic sensations."
+    "她的快感也甚于以往，她把手甩回枕头后时，舌头因为交合的快感让大脑一片空白，无力地下垂着。"
 
 # game/2evening butters.rpy#L1321
 translate chinese buttersimpregmissionary_69bf1a31:
 
     # butters "Ooohh, keep going… I’m getting close. Ahh, ahh…"
-    butters "Ooohh, keep going… I’m getting close. Ahh, ahh…"
+    butters "哦，继续...我要去了。啊，啊..."
 
 # game/2evening butters.rpy#L1322
 translate chinese buttersimpregmissionary_c5d01035:
 
     # "I continue my rutting, using her plump thighs as leverage in order to pump her deeply and hard. As she’s getting closer and closer, she wraps her legs around my hips and pull me deeper."
-    "I continue my rutting, using her plump thighs as leverage in order to pump her deeply and hard. As she’s getting closer and closer, she wraps her legs around my hips and pull me deeper."
+    "我继续着攻势，她丰腴的双腿是理想的杠杆，让我的每一击都更加有力，更加深入。她也临近高潮，双腿如八爪鱼一般缠住我的腰，努力地迎合我向更深处挺进。"
 
 # game/2evening butters.rpy#L1324
 translate chinese buttersimpregmissionary_4aa4b662:
 
     # butters "Yeahh, yesss… Oh, [playername], I’m going to come! Ahh, ahh!"
-    butters "Yeahh, yesss… Oh, [playername], I’m going to come! Ahh, ahh!"
+    butters "还要，还要..哦，[playername]，我要去了！啊，啊！"
 
 # game/2evening butters.rpy#L1325
 translate chinese buttersimpregmissionary_20500b8b:
 
     # "She moans aloud as her eyes roll back in the wake of a full body orgasm."
-    "She moans aloud as her eyes roll back in the wake of a full body orgasm."
+    "她大声呻吟着，全身性的高潮让她的眼睛翻白。"
 
 # game/2evening butters.rpy#L1326
 translate chinese buttersimpregmissionary_b1d501d8:
 
     # "As her pussy contracts and sucks around my shaft, I redouble my passion-filled fucking and pound her pussy with determination to fill it with my cum."
-    "As her pussy contracts and sucks around my shaft, I redouble my passion-filled fucking and pound her pussy with determination to fill it with my cum."
+    "她的小穴仍然紧缩吮吸着我的长枪，让我抽插和射精的欲望比之前更甚。"
 
 # game/2evening butters.rpy#L1327
 translate chinese buttersimpregmissionary_d751df48:
 
     # "Her sloppy cunt squeezes even tighter around my cock, causing me to throb and drip precum. It doesn’t take long for the familiar sense of impending orgasm to arrive."
-    "Her sloppy cunt squeezes even tighter around my cock, causing me to throb and drip precum. It doesn’t take long for the familiar sense of impending orgasm to arrive."
+    "小穴仍然越收越紧，让我的长枪不住地抽动，前列腺液被挤出。熟悉的性高潮总归还是会来的。"
 
 # game/2evening butters.rpy#L1328
 translate chinese buttersimpregmissionary_e8fec5b4:
 
     # "My muscles grow tense, and my cock stiffens as my climax swells up deep inside. The constant moaning and shifting of my partner pushing me over the edge as she beckons me to cum."
-    "My muscles grow tense, and my cock stiffens as my climax swells up deep inside. The constant moaning and shifting of my partner pushing me over the edge as she beckons me to cum."
+    "我的肌肉绷紧，爱侣不断的娇吟和抽动让我终于按耐不住，铁硬的长枪准备在她的体内一泄千里。"
 
 # game/2evening butters.rpy#L1329
 translate chinese buttersimpregmissionary_e8e7bfe1:
 
     # butters "Cum for me, cum for me [playername]! I want you to fill my womb, impregnate me!"
-    butters "Cum for me, cum for me [playername]! I want you to fill my womb, impregnate me!"
+    butters "都射出来，射给我吧[playername]!把人家的子宫填满，怀上小宝宝！"
 
 # game/2evening butters.rpy#L1334
 translate chinese buttersimpregmissionary_cdb40f9b:
 
     # "And just like an orgasm switch was pressed, the pressure reaches breaking point, my cock swells and I unload copious amounts of cum deep into my highly fertile lover."
-    "And just like an orgasm switch was pressed, the pressure reaches breaking point, my cock swells and I unload copious amounts of cum deep into my highly fertile lover."
+    "就像大坝泄洪一样，开关一按，我肿胀的长枪随即释放了大量的精液在我的爱侣深处，她一定会怀上孩子的。"
 
 # game/2evening butters.rpy#L1339
 translate chinese buttersimpregmissionary_7b54f311:
 
     # "Butters seems to orgasm a second time in a row, indulging in the euphoria of being filled with hot, thick semen."
-    "Butters seems to orgasm a second time in a row, indulging in the euphoria of being filled with hot, thick semen."
+    "算上被滚烫粘稠的精液填满子宫的快感的话，这次性交中Butters应该已经高潮两次了。"
 
 # game/2evening butters.rpy#L1344
 translate chinese buttersimpregmissionary_c094519d:
 
     # "My orgasm is more powerful than I anticipated, and the volume of cum her pussy wrings out is a far larger quantity than usual."
-    "My orgasm is more powerful than I anticipated, and the volume of cum her pussy wrings out is a far larger quantity than usual."
+    "我的射精量也远比平时大，大量的精液从她的蜜穴中溢出，比往常多上不少。"
 
 # game/2evening butters.rpy#L1349
 translate chinese buttersimpregmissionary_72ea4ef1:
 
     # "Three loads, six, nine, twelve?! The potion must have had a residual effect on my semen."
-    "Three loads, six, nine, twelve?! The potion must have had a residual effect on my semen."
+    "我射了几发来着，六发，九发还是十二发？！药剂肯定对我的精液也产生了影响。"
 
 # game/2evening butters.rpy#L1350
 translate chinese buttersimpregmissionary_51564e35:
 
     # "There’s so much that it drips and splatters outwards, splattering our point of connection."
-    "There’s so much that it drips and splatters outwards, splattering our point of connection."
+    "不少精液从我们的交合处喷射和飞溅而出。"
 
 # game/2evening butters.rpy#L1351
 translate chinese buttersimpregmissionary_c4fabfbd:
 
     # "Butters enjoys her orgasm and the moment so much, that she doesn’t unwrap her legs and let me stop fucking until my cock started to get sensitive."
-    "Butters enjoys her orgasm and the moment so much, that she doesn’t unwrap her legs and let me stop fucking until my cock started to get sensitive."
+    "Butters真的很享受性高潮，在我的长枪软下来之前都没有松开腿让我停止抽插。"
 
 # game/2evening butters.rpy#L1355
 translate chinese buttersimpregmissionary_d5d06851:
 
     # "We both pant as she unwraps her legs and I pull back, some more cum oozing over her pussy. There’s so much cum that you can’t even see her vulva."
-    "We both pant as she unwraps her legs and I pull back, some more cum oozing over her pussy. There’s so much cum that you can’t even see her vulva."
+    "我们二人都喘着粗气，她松开了双腿，我也顺势把肉棒抽出，没有了堵塞，更多的精液涌出她的小穴，连她的外阴都难以辨认。"
 
 # game/2evening butters.rpy#L1356
 translate chinese buttersimpregmissionary_152bbe9a:
 
     # "She looks up to me, seemingly exhausted, but smiling with glee."
-    "She looks up to me, seemingly exhausted, but smiling with glee."
+    "她抬头看向我，虽然神情筋疲力尽，但她的笑容和眼神告诉我，她很满足。"
 
 # game/2evening butters.rpy#L1357
 translate chinese buttersimpregmissionary_f9b6a4cf:
 
     # "I wonder if that got her pregnant? If this was a hentai game, I'd probably see one of those egg fertilisation cut-ins. Heh, what a ridiculous thought."
-    "I wonder if that got her pregnant? If this was a hentai game, I'd probably see one of those egg fertilisation cut-ins. Heh, what a ridiculous thought."
+    "我想知道她的药是不是真的能起效果，如果这是一个黄油的话，我肯定会在屏幕上看到精子钻入卵子完成受精的图像。艹，我在想些啥。"
 
 # game/2evening butters.rpy#L1362
 translate chinese buttersimpregmissionary_035c36c7:
 
     # mc "So, how’d I do?"
-    mc "So, how’d I do?"
+    mc "那么，药水有效果吗？"
 
 # game/2evening butters.rpy#L1363
 translate chinese buttersimpregmissionary_fb2eae8f:
 
     # butters "Haahhh… It’ll take a while, but I think you successfully put a bun in the oven, hehe! *Pant*"
-    butters "Haahhh… It’ll take a while, but I think you successfully put a bun in the oven, hehe! *Pant*"
+    butters "哈啊...还要观察一段时间才行，不过我想，你已经把我的生米煮成熟饭了，嘻嘻！*呼*"
 
 # game/2evening butters.rpy#L1365
 translate chinese buttersimpregmissionary_72307c3f:
 
     # mc "Hah, I’d expect that type of comment from Cream, not you!"
-    mc "Hah, I’d expect that type of comment from Cream, not you!"
+    mc "哈，这话听起来倒像是Cream说的！"
 
 # game/2evening butters.rpy#L1368
 translate chinese buttersimpregmissionary_d55790f6:
 
     # butters "I’m so excited. I’m finally going to be a mother, after all these years!"
-    butters "I’m so excited. I’m finally going to be a mother, after all these years!"
+    butters "我真是太兴奋了。熬了这么多年，我终于能当妈妈了！"
 
 # game/2evening butters.rpy#L1369
 translate chinese buttersimpregmissionary_d8e3eaba:
 
     # mc "Congratulations. If in a few months there’s no baby bump, be sure to gimmie a call."
-    mc "Congratulations. If in a few months there’s no baby bump, be sure to gimmie a call."
+    mc "恭喜恭喜。如果过了几个月肚子没隆起来的话，记得叫我，我来解决。"
 
 # game/2evening butters.rpy#L1370
 translate chinese buttersimpregmissionary_b6197791:
 
     # butters "Aha, I hope you’ll cum inside me a lot more regardless."
-    butters "Aha, I hope you’ll cum inside me a lot more regardless."
+    butters "嘛，不管怎么样，我都欢迎你在我体内多多播种。"
 
 # game/2evening butters.rpy#L1372
 translate chinese buttersimpregmissionary_54a16929:
 
     # "We cuddle lovingly for the next five minutes, just enjoying the feeling of each other’s softness. Her fur, contrasting against my supple skin."
-    "We cuddle lovingly for the next five minutes, just enjoying the feeling of each other’s softness. Her fur, contrasting against my supple skin."
+    "接下来的五分钟里，我们互相依偎着，只为互相的触感。她的皮毛摸起来和我光滑的皮肤大相径庭。"
 
 # game/2evening butters.rpy#L1378
 translate chinese buttersimpregmissionary_b7d4406a:
 
     # butters "Mmm… I really enjoyed this."
-    butters "Mmm… I really enjoyed this."
+    butters "嗯...我喜欢和你做爱。"
 
 # game/2evening butters.rpy#L1379
 translate chinese buttersimpregmissionary_c24fc18d:
 
     # butters "Maybe we can do this again later. You should definitely fuck me again tomorrow! I think I’ll take one more load of cum just in case."
-    butters "Maybe we can do this again later. You should definitely fuck me again tomorrow! I think I’ll take one more load of cum just in case."
+    butters "我们等会可以再多来几炮嘛。明天我也要！到时候给我多射几发进来。"
 
 # game/2evening butters.rpy#L1382
 translate chinese buttersimpregmissionary_aa1a43d9:
 
     # butters "Awhh, you’re such a perv!"
-    butters "Awhh, you’re such a perv!"
+    butters "啊，大猪蹄子！"
 
 # game/2evening butters.rpy#L1384
 translate chinese buttersimpregmissionary_88766cb0:
 
     # butters "You're such a sweetheart..."
-    butters "You're such a sweetheart..."
+    butters "你真是个绝美尤物......"
 
 # game/2evening butters.rpy#L1386
 translate chinese buttersimpregmissionary_a07a52bc:
 
     # butters "Well, we best get ready to face the day."
-    butters "Well, we best get ready to face the day."
+    butters "好了，还有正经活要做呢。"
 
 # game/2evening butters.rpy#L1388
 translate chinese buttersimpregmissionary_a20cefa7:
@@ -4203,55 +4203,55 @@ translate chinese buttersnonimpregmissionary_152bbe9a:
 translate chinese buttersnonimpregmissionary_54a16929:
 
     # "We cuddle lovingly for the next five minutes, just enjoying the feeling of each other’s softness. Her fur, contrasting against my supple skin."
-    "We cuddle lovingly for the next five minutes, just enjoying the feeling of each other’s softness. Her fur, contrasting against my supple skin."
+    "接下来的五分钟里，我们互相依偎着，只为互相的触感。她的皮毛摸起来和我光滑的皮肤大相径庭。"
 
 # game/2evening butters.rpy#L1487
 translate chinese buttersnonimpregmissionary_b7d4406a:
 
     # butters "Mmm… I really enjoyed this."
-    butters "Mmm… I really enjoyed this."
+    butters "嗯...我喜欢和你做爱。"
 
 # game/2evening butters.rpy#L1488
 translate chinese buttersnonimpregmissionary_d9730875:
 
     # butters "Every time with you is like my first, it’s truly special."
-    butters "Every time with you is like my first, it’s truly special."
+    butters "每次与君共度良宵，却都似初夜般销魂，煞是特别。"
 
 # game/2evening butters.rpy#L1489
 translate chinese buttersnonimpregmissionary_5526a022:
 
     # mc "I could say the same with you. You have some qualities that no mare in Arcadia can match."
-    mc "I could say the same with you. You have some qualities that no mare in Arcadia can match."
+    mc "彼此彼此，你的一些技巧整个Arcadia也找不出第二头雌驹能出其右。"
 
 # game/2evening butters.rpy#L1490
 translate chinese buttersnonimpregmissionary_fb85ca9c:
 
     # butters "Awhh, you’re such a flatterer."
-    butters "Awhh, you’re such a flatterer."
+    butters "啊，你净说好话。"
 
 # game/2evening butters.rpy#L1491
 translate chinese buttersnonimpregmissionary_66c32b13:
 
     # butters "If you ever make up your mind about impregnating me, just say the word."
-    butters "If you ever make up your mind about impregnating me, just say the word."
+    butters "如果你打算接受我的受孕邀请，务必告诉我一声。"
 
 # game/2evening butters.rpy#L1492
 translate chinese buttersnonimpregmissionary_7882cf4b:
 
     # mc "I'll think about it..."
-    mc "I'll think about it..."
+    mc "容我三思吧......"
 
 # game/2evening butters.rpy#L1493
 translate chinese buttersnonimpregmissionary_6e08d16c:
 
     # butters "I don’t think I’ll find a candidate as amazing as you for a long time, but please don’t feel pressured."
-    butters "I don’t think I’ll find a candidate as amazing as you for a long time, but please don’t feel pressured."
+    butters "我恐怕很长一段时间都没办法物色到你这样的人，不过别给自己太多压力，毕竟只是我的一面之求。"
 
 # game/2evening butters.rpy#L1494
 translate chinese buttersnonimpregmissionary_17bdd5f5:
 
     # mc "Yeah, I understand."
-    mc "Yeah, I understand."
+    mc "嗯，我明白。"
 
 # game/2evening butters.rpy#L1496
 translate chinese buttersnonimpregmissionary_a20cefa7:
@@ -4263,607 +4263,607 @@ translate chinese buttersnonimpregmissionary_a20cefa7:
 translate chinese buttersimpregpaizuri_44ac78ad:
 
     # butters "Good morning [playername]! I just got out the shower, and I have great news!"
-    butters "Good morning [playername]! I just got out the shower, and I have great news!"
+    butters "早上好啊[playername]！我刚洗完澡出来，有个好消息告诉你！"
 
 # game/2evening butters.rpy#L1513
 translate chinese buttersimpregpaizuri_3884f85d:
 
     # butters "Good morning [playername]! Ohh, I’m so happy to see you! I have great news!"
-    butters "Good morning [playername]! Ohh, I’m so happy to see you! I have great news!"
+    butters "早上好啊[playername]！哦，你在这里让我满心欢喜！我有些好消息要告诉你！"
 
 # game/2evening butters.rpy#L1514
 translate chinese buttersimpregpaizuri_db7b11fd:
 
     # mc "What’s that?"
-    mc "What’s that?"
+    mc "什么好消息？"
 
 # game/2evening butters.rpy#L1516
 translate chinese buttersimpregpaizuri_c20c87ce:
 
     # butters "I’m definitely pregnant! I think!"
-    butters "I’m definitely pregnant! I think!"
+    butters "我想我成功怀孕了！"
 
 # game/2evening butters.rpy#L1517
 translate chinese buttersimpregpaizuri_00c511ee:
 
     # "Huh? She confirmed that already? That didn’t even cross my mind as being the ‘great news’."
-    "Huh? She confirmed that already? That didn’t even cross my mind as being the ‘great news’."
+    "嗯？她真的验出来了？我甚至都没把它当作“好消息”。"
 
 # game/2evening butters.rpy#L1518
 translate chinese buttersimpregpaizuri_4a7de9fe:
 
     # mc "What figures?"
-    mc "What figures?"
+    mc "怎么验出来的？"
 
 # game/2evening butters.rpy#L1520
 translate chinese buttersimpregpaizuri_8ff2ef40:
 
     # butters "Well, ahh, uhmm… Well… Allow me to strip."
-    butters "Well, ahh, uhmm… Well… Allow me to strip."
+    butters "这个嘛，啊，唔...等下...我把衣服脱了。"
 
 # game/2evening butters.rpy#L1521
 translate chinese buttersimpregpaizuri_39fa5ab0:
 
     # mc "S-Strip?"
-    mc "S-Strip?"
+    mc "脱衣服干嘛？"
 
 # game/2evening butters.rpy#L1523
 translate chinese buttersimpregpaizuri_2a42f8c0:
 
     # "Before I can even protest, the mare humbly tosses her dress aside. I know nudity isn’t than unusual in Arcadia, but I’d be extremely surprised if her pregnancy was already showing."
-    "Before I can even protest, the mare humbly tosses her dress aside. I know nudity isn’t than unusual in Arcadia, but I’d be extremely surprised if her pregnancy was already showing."
+    "雌驹不等我发表任何意见，身上的裙子就已经褪下，轻轻地被丢在一旁。所谓裸马正统在Arcadia，这里不穿衣服早已司空见惯，但如果能看见她的妊娠反应，我还是挺惊讶的。"
 
 # game/2evening butters.rpy#L1524
 translate chinese buttersimpregpaizuri_f0298e9a:
 
     # "Oh, but it isn’t. In fact, her belly is completely normal. Her breasts on the other hand..."
-    "Oh, but it isn’t. In fact, her belly is completely normal. Her breasts on the other hand..."
+    "哦，我的期待落空了，但是没有完全落空。她的腹部看起来和平日无异。不过她的乳房有了明显变化......"
 
 # game/2evening butters.rpy#L1526
 translate chinese buttersimpregpaizuri_af841e6f:
 
     # butters "See? My breasts are milky!"
-    butters "See? My breasts are milky!"
+    butters "看见了吗？我的乳房在漏液！"
 
 # game/2evening butters.rpy#L1527
 translate chinese buttersimpregpaizuri_c88f1a79:
 
     # mc "They’re… leaking?"
-    mc "They’re… leaking?"
+    mc "它们在...漏奶？"
 
 # game/2evening butters.rpy#L1529
 translate chinese buttersimpregpaizuri_f4469c19:
 
     # butters "Hehe, they’re leaking…"
-    butters "Hehe, they’re leaking…"
+    butters "嘿嘿，没错......"
 
 # game/2evening butters.rpy#L1530
 translate chinese buttersimpregpaizuri_1b30f6aa:
 
     # mc "That doesn’t seem normal. It has been less than one percent of your pregancy, and you’re already producing milk?"
-    mc "That doesn’t seem normal. It has been less than one percent of your pregancy, and you’re already producing milk?"
+    mc "不太科学啊。你才刚受孕不久，就已经开始产奶了？"
 
 # game/2evening butters.rpy#L1532
 translate chinese buttersimpregpaizuri_c9ccbc37:
 
     # butters "This isn’t too unusual of a phenomenon… Alchemy potions can have a lot of side effects, particularly associated with their main effect."
-    butters "This isn’t too unusual of a phenomenon… Alchemy potions can have a lot of side effects, particularly associated with their main effect."
+    butters "这种情况其实比较常见...炼金药剂会伴随很多副作用，特别是和主作用挂钩的副作用。"
 
 # game/2evening butters.rpy#L1533
 translate chinese buttersimpregpaizuri_6709d753:
 
     # butters "It would seem that in addition to fertility, the potion also enabled me in other ‘areas’."
-    butters "It would seem that in addition to fertility, the potion also enabled me in other ‘areas’."
+    butters "似乎除了让我成功受孕之外，药剂还在其他“方面”起了效果。"
 
 # game/2evening butters.rpy#L1534
 translate chinese buttersimpregpaizuri_51e19200:
 
     # butters "In other words, my body is hyper-ready for a child."
-    butters "In other words, my body is hyper-ready for a child."
+    butters "换句话说，我已经是准妈妈体质了。"
 
 # game/2evening butters.rpy#L1535
 translate chinese buttersimpregpaizuri_aef1a34e:
 
     # mc "I… see…"
-    mc "I… see…"
+    mc "我...懂了......"
 
 # game/2evening butters.rpy#L1536
 translate chinese buttersimpregpaizuri_321ee38e:
 
     # mc "Nice…"
-    mc "Nice…"
+    mc "那就好......"
 
 # game/2evening butters.rpy#L1538
 translate chinese buttersimpregpaizuri_8fa532aa:
 
     # butters "There’s a small problem though! *Drip, drip*"
-    butters "There’s a small problem though! *Drip, drip*"
+    butters "不过，还有个小问题！*乳汁滴落*"
 
 # game/2evening butters.rpy#L1539
 translate chinese buttersimpregpaizuri_a45be5a5:
 
     # mc "Yeah, yeah. There might be."
-    mc "Yeah, yeah. There might be."
+    mc "嗯，可能有吧。"
 
 # game/2evening butters.rpy#L1541
 translate chinese buttersimpregpaizuri_fe8a5f37:
 
     # butters "Until the potion wears off, I’m going to be leaking rather excessively. Could I… possibly ask you to help me again?"
-    butters "Until the potion wears off, I’m going to be leaking rather excessively. Could I… possibly ask you to help me again?"
+    butters "在药效完全褪去之前，我应该会漏很多奶水出来。你...能不能再帮我解决这档子麻烦事呢？"
 
 # game/2evening butters.rpy#L1542
 translate chinese buttersimpregpaizuri_0bfb66e9:
 
     # mc "Oh? You want me to drink it?"
-    mc "Oh? You want me to drink it?"
+    mc "哦？你要我把它们都喝了？"
 
 # game/2evening butters.rpy#L1544
 translate chinese buttersimpregpaizuri_5f112e18:
 
     # butters "N-No! That’d be a terrible idea! If you drank this milk, you’d get the potion’s effects too."
-    butters "N-No! That’d be a terrible idea! If you drank this milk, you’d get the potion’s effects too."
+    butters "不，不是！你怎么转不过弯呢！如果你喝了这些奶水，你也会受药效影响的。"
 
 # game/2evening butters.rpy#L1546
 translate chinese buttersimpregpaizuri_00330324:
 
     # mc "Ohh, just like the mares I ‘came’ in were cured from Morrigan’s brainwashing?"
-    mc "Ohh, just like the mares I ‘came’ in were cured from Morrigan’s brainwashing?"
+    mc "哦，我懂了，就像被我“喂”过的雌驹都拜托了Morrigan的控制那样对吧。"
 
 # game/2evening butters.rpy#L1548
 translate chinese buttersimpregpaizuri_59338875:
 
     # mc "Really? The milk carries enough residual potion to do that?"
-    mc "Really? The milk carries enough residual potion to do that?"
+    mc "有点难以置信，这些乳汁奶水里残留的药效还能这么强？"
 
 # game/2evening butters.rpy#L1549
 translate chinese buttersimpregpaizuri_495bc5bb:
 
     # butters "Mhm… If you digest the milk, the effects will be strong enough for you to get any mare pregnant."
-    butters "Mhm… If you digest the milk, the effects will be strong enough for you to get any mare pregnant."
+    butters "嗯...如果你喝了这些奶水，再跟那些雌驹雨露均沾，你就等着被一堆幼驹抱着腿叫爸爸吧。"
 
 # game/2evening butters.rpy#L1550
 translate chinese buttersimpregpaizuri_596784ab:
 
     # mc "*Gulp*"
-    mc "*Gulp*"
+    mc "*倒吸一口凉气*"
 
 # game/2evening butters.rpy#L1551
 translate chinese buttersimpregpaizuri_b8527d33:
 
     # mc "What can I do then? Am I going to milk you like a cow... girl?"
-    mc "What can I do then? Am I going to milk you like a cow... girl?"
+    mc "那你是什么意思？你要我帮你...挤奶？"
 
 # game/2evening butters.rpy#L1553
 translate chinese buttersimpregpaizuri_ea982bbf:
 
     # butters "While that’s certainly an option, I had an idea that’d make it fun for you too."
-    butters "While that’s certainly an option, I had an idea that’d make it fun for you too."
+    butters "你想那样也行，不过我有个对我们二人都好的方法。"
 
 # game/2evening butters.rpy#L1554
 translate chinese buttersimpregpaizuri_b8200588:
 
     # butters "You see, if I’m aroused, the milk flows a little more freely when I squeeze my boobs."
-    butters "You see, if I’m aroused, the milk flows a little more freely when I squeeze my boobs."
+    butters "你看，每次我性奋过后挤压胸部，流出的奶水更多了。"
 
 # game/2evening butters.rpy#L1555
 translate chinese buttersimpregpaizuri_99712bcd:
 
     # butters "So, paizuri should be a fun way to empty my jugs. Want to give it a try? It’ll probably get quite milky and messy."
-    butters "So, paizuri should be a fun way to empty my jugs. Want to give it a try? It’ll probably get quite milky and messy."
+    butters "喏，乳交不是个很好的排奶方式吗。想不想试试看？想象下把房间弄得满地白浊的样子。"
 
 # game/2evening butters.rpy#L1561
 translate chinese buttersimpregpaizuri_47b7be80:
 
     # butters "*Sigh* Yeah… You’re right, I was thinking with my pussy and not my head."
-    butters "*Sigh* Yeah… You’re right, I was thinking with my pussy and not my head."
+    butters "*叹气*是...你是对的，我刚刚卵虫上脑了。"
 
 # game/2evening butters.rpy#L1562
 translate chinese buttersimpregpaizuri_634fcd93:
 
     # butters "I’ll go have a shower and milk myself there, I’ll be back in ten minutes."
-    butters "I’ll go have a shower and milk myself there, I’ll be back in ten minutes."
+    butters "我去冲个澡，顺便给自己挤下奶水，10分钟就好。"
 
 # game/2evening butters.rpy#L1564
 translate chinese buttersimpregpaizuri_9d49efd4:
 
     # "Hmm… I wonder how long she’ll have to struggle with excessive milk."
-    "Hmm… I wonder how long she’ll have to struggle with excessive milk."
+    "嗯...我在想她还要过多少天这种为自己奶水所困的日子。"
 
 # game/2evening butters.rpy#L1565
 translate chinese buttersimpregpaizuri_96b4a01a:
 
     # "I stick around for a few minutes chatting with Poyo and playing with Devil, eventually Butters returns."
-    "I stick around for a few minutes chatting with Poyo and playing with Devil, eventually Butters returns."
+    "我在四处晃悠了一会，和Poyo聊了会天，还和Devil玩了一会（正经的玩），Butters才姗姗来迟。"
 
 # game/2evening butters.rpy#L1567
 translate chinese buttersimpregpaizuri_162dca3a:
 
     # butters "Ahhh, my new diet is working great, I lost a few pounds! Ahaha."
-    butters "Ahhh, my new diet is working great, I lost a few pounds! Ahaha."
+    butters "啊，新减肥方法效果很好，我轻了好几斤了！啊哈哈。"
 
 # game/2evening butters.rpy#L1568
 translate chinese buttersimpregpaizuri_b24ed593:
 
     # mc "A few pounds of milk?! Jeez…"
-    mc "A few pounds of milk?! Jeez…"
+    mc "几斤的奶水！？卧槽......"
 
 # game/2evening butters.rpy#L1573
 translate chinese buttersimpregpaizuri_47b7be80_1:
 
     # butters "*Sigh* Yeah… You’re right, I was thinking with my pussy and not my head."
-    butters "*Sigh* Yeah… You’re right, I was thinking with my pussy and not my head."
+    butters "*叹气*是...你是对的，我刚刚卵虫上脑了。"
 
 # game/2evening butters.rpy#L1574
 translate chinese buttersimpregpaizuri_634fcd93_1:
 
     # butters "I’ll go have a shower and milk myself there, I’ll be back in ten minutes."
-    butters "I’ll go have a shower and milk myself there, I’ll be back in ten minutes."
+    butters "我去冲个澡，顺便给自己挤下奶水，10分钟就好。"
 
 # game/2evening butters.rpy#L1576
 translate chinese buttersimpregpaizuri_9d49efd4_1:
 
     # "Hmm… I wonder how long she’ll have to struggle with excessive milk."
-    "Hmm… I wonder how long she’ll have to struggle with excessive milk."
+    "嗯...我在想她还要过多少天这种为自己奶水所困的日子。"
 
 # game/2evening butters.rpy#L1577
 translate chinese buttersimpregpaizuri_96b4a01a_1:
 
     # "I stick around for a few minutes chatting with Poyo and playing with Devil, eventually Butters returns."
-    "I stick around for a few minutes chatting with Poyo and playing with Devil, eventually Butters returns."
+    "我在四处晃悠了一会，和Poyo聊了会天，还和Devil玩了一会（正经的玩），Butters才姗姗来迟。"
 
 # game/2evening butters.rpy#L1579
 translate chinese buttersimpregpaizuri_162dca3a_1:
 
     # butters "Ahhh, my new diet is working great, I lost a few pounds! Ahaha."
-    butters "Ahhh, my new diet is working great, I lost a few pounds! Ahaha."
+    butters "啊，新减肥方法效果很好，我轻了好几斤了！啊哈哈。"
 
 # game/2evening butters.rpy#L1580
 translate chinese buttersimpregpaizuri_b24ed593_1:
 
     # mc "A few pounds of milk?! Jeez…"
-    mc "A few pounds of milk?! Jeez…"
+    mc "几斤的奶水！？卧槽......"
 
 # game/2evening butters.rpy#L1584
 translate chinese buttersimpregpaizuri_8abcea01:
 
     # "The two of us move to the bedroom and splay a towel on the bed. And then another, for good measure."
-    "The two of us move to the bedroom and splay a towel on the bed. And then another, for good measure."
+    "我们二人来到卧室，在床上铺了一条毛毯，但觉得不够，又加了一条上去。"
 
 # game/2evening butters.rpy#L1587
 translate chinese buttersimpregpaizuri_afe555fb:
 
     # "Kneeling on the bed, Butters squishes her breasts together, and the milk already starts spitting and dripping."
-    "Kneeling on the bed, Butters squishes her breasts together, and the milk already starts spitting and dripping."
+    "Butters跪在床上，光是轻轻的挤压，乳汁和奶水就开始不断滴落，四处喷溅。"
 
 # game/2evening butters.rpy#L1588
 translate chinese buttersimpregpaizuri_da0f1368:
 
     # butters "See how bad it is? It gets even worse when I’m turned on."
-    butters "See how bad it is? It gets even worse when I’m turned on."
+    butters "你看吧，这太恼火了。这还只是轻轻挤压，我要是动真格的，会喷得更多。"
 
 # game/2evening butters.rpy#L1589
 translate chinese buttersimpregpaizuri_636d6155:
 
     # butters "Come here and let mommy milk you too."
-    butters "Come here and let mommy milk you too."
+    butters "来妈妈这里，让妈咪挤一挤你的肉棒牛奶吧。"
 
 # game/2evening butters.rpy#L1590
 translate chinese buttersimpregpaizuri_281eec7c:
 
     # "Oh god, is she going to be referring to herself as mommy a lot from now on?"
-    "Oh god, is she going to be referring to herself as mommy a lot from now on?"
+    "我天，她不会以后经常以妈咪自居了吧？"
 
 # game/2evening butters.rpy#L1593
 translate chinese buttersimpregpaizuri_5b9bf9bd:
 
     # butters "Oh? Do you want to call me mommy too?"
-    butters "Oh? Do you want to call me mommy too?"
+    butters "哦？你想不想称呼我为妈咪？"
 
 # game/2evening butters.rpy#L1596
 translate chinese buttersimpregpaizuri_c8b840f5:
 
     # butters "Oohh, I think I just got a new fetish…"
-    butters "Oohh, I think I just got a new fetish…"
+    butters "哦，从今往后我又多了个小迷弟......"
 
 # game/2evening butters.rpy#L1598
 translate chinese buttersimpregpaizuri_1b5f79fe:
 
     # butters "Hehe, yeah, you’re right. Sorry!"
-    butters "Hehe, yeah, you’re right. Sorry!"
+    butters "嘿嘿，没错，是挺怪的。抱歉啦！"
 
 # game/2evening butters.rpy#L1601
 translate chinese buttersimpregpaizuri_0009946d:
 
     # butters "Ohh, sorry! I didn’t mean it in a sexual context, I’m just very happy about my pregnancy."
-    butters "Ohh, sorry! I didn’t mean it in a sexual context, I’m just very happy about my pregnancy."
+    butters "哦，不是这样的！我不是说你非得在性爱过程中这么称呼我，只是我成功怀孕后实在太高兴了，有点得意忘形。"
 
 # game/2evening butters.rpy#L1603
 translate chinese buttersimpregpaizuri_8f44abbd:
 
     # "I position myself below her on the bed, and lay down between her thighs. Butters takes it upon herself to sit on my thighs, her nude figure arousing me to the point of erection."
-    "I position myself below her on the bed, and lay down between her thighs. Butters takes it upon herself to sit on my thighs, her nude figure arousing me to the point of erection."
+    "我来到床上，舒舒服服地在她两腿间躺好。Butters主动做到我的大腿上，美艳少妇入怀，我的肉棒竖起回应。"
 
 # game/2evening butters.rpy#L1604
 translate chinese buttersimpregpaizuri_20dc9c26:
 
     # "With little hesitation, she begins to stroke my shaft until my tip throbs and dribbles with precum. Some drops of milk splattering onto my skin."
-    "With little hesitation, she begins to stroke my shaft until my tip throbs and dribbles with precum. Some drops of milk splattering onto my skin."
+    "她毫不犹豫地开始侍奉着我的肉棒，几滴前列腺液从枪头渗下，几滴她的奶水也撒到了我身上。"
 
 # game/2evening butters.rpy#L1605
 translate chinese buttersimpregpaizuri_9763a93b:
 
     # "Once she’s satisfied, she lowers her entire body and prepares to put her pillowy bosom to good work."
-    "Once she’s satisfied, she lowers her entire body and prepares to put her pillowy bosom to good work."
+    "待她心满意足后，她随即俯下身子，一对凝脂般的丰胸，准备让我释放狂野的欲望。"
 
 # game/2evening butters.rpy#L1607
 translate chinese buttersimpregpaizuri_7d5c2285:
 
     # butters "I’ve always wanted to try paizuri, but usually I’m too horny and just want it in my pussy, hehe…"
-    butters "I’ve always wanted to try paizuri, but usually I’m too horny and just want it in my pussy, hehe…"
+    butters "早就想和你试试乳交。不过每次人家的下面都太想要了，呵呵......"
 
 # game/2evening butters.rpy#L1609
 translate chinese buttersimpregpaizuri_7478d9ae:
 
     # butters "My nipples and even my breasts are extra sensitive now though, so I’m excited to finally do it."
-    butters "My nipples and even my breasts are extra sensitive now though, so I’m excited to finally do it."
+    butters "我的乳头和乳房现在都变得极其敏感，仿佛又重拾当年的感觉。"
 
 # game/2evening butters.rpy#L1610
 translate chinese buttersimpregpaizuri_0f77682e:
 
     # "My cock throbs at her lewd words, prodding her boobs and causing her to giggle."
-    "My cock throbs at her lewd words, prodding her boobs and causing her to giggle."
+    "她挑逗的话语让我的阴茎开始跳动，搅动着她的双峰，她咯咯地笑了起来。"
 
 # game/2evening butters.rpy#L1612
 translate chinese buttersimpregpaizuri_59af2a17:
 
     # "She eases her breasts around my shaft, and then uses her arms to squish them together, squashing my member surprisingly effectively."
-    "She eases her breasts around my shaft, and then uses her arms to squish them together, squashing my member surprisingly effectively."
+    "她用深邃的乳沟把我的棒身团团围住，随后双手开始发力开始挤压乳房，她的速度很快，我的肉棒在她的侍奉下好不舒服。"
 
 # game/2evening butters.rpy#L1613
 translate chinese buttersimpregpaizuri_a1ca3ab5:
 
     # "There were already a few droplets of milk around my cock, creating a warmth and a wetness that lubricates us slightly."
-    "There were already a few droplets of milk around my cock, creating a warmth and a wetness that lubricates us slightly."
+    "我的肉棒周围沾上了她的少许奶水，虽然只是少许，但我仍然感到温暖和湿润，理想的润滑剂。"
 
 # game/2evening butters.rpy#L1614
 translate chinese buttersimpregpaizuri_4e5d7bc6:
 
     # "She begins to rise and fall, catching the skin of my shaft and pulling it back and forth over my glans eliciting pleasureful sensations despite the otherwise simple and slow motions."
-    "She begins to rise and fall, catching the skin of my shaft and pulling it back and forth over my glans eliciting pleasureful sensations despite the otherwise simple and slow motions."
+    "她双手抓着丰乳开始做起落摩擦运动，棒身上的皮被她来回在龟头上拉扯，虽然此时她的动作并不怎么快，但一股愉悦感在我内心悄然升起。"
 
 # game/2evening butters.rpy#L1615
 translate chinese buttersimpregpaizuri_fff53a41:
 
     # "Butters wasn’t joking, her breasts really are splaying more milk, her nipples now fully standing to attention as my pelvis dampens with a slight glisten of milk."
-    "Butters wasn’t joking, her breasts really are splaying more milk, her nipples now fully standing to attention as my pelvis dampens with a slight glisten of milk."
+    "Butters之前真的不是说说而已，她的乳房真的在向外倾泻更多乳汁，粉红色的小玉兔已经高高挺起，喷射而出的乳汁把我的腹部大片浸湿。"
 
 # game/2evening butters.rpy#L1617
 translate chinese buttersimpregpaizuri_5b32e814:
 
     # butters "Ahh, this is hot... Haha, I’m getting really wet, both up here and down there."
-    butters "Ahh, this is hot... Haha, I’m getting really wet, both up here and down there."
+    butters "啊，好烫哦...哈哈，人家的上面和下面都一样湿了，可能这次上面湿得多。"
 
 # game/2evening butters.rpy#L1618
 translate chinese buttersimpregpaizuri_30c24c5d:
 
     # "Suddenly I feel a warmth hit my cock, as a trail of drool slathers over the tip and wettens my entire member as it’s caught within the motion of the titfuck."
-    "Suddenly I feel a warmth hit my cock, as a trail of drool slathers over the tip and wettens my entire member as it’s caught within the motion of the titfuck."
+    "突然阴茎上传来一股温暖之气，原来是她的口涎流在了我的龟头上，将整根肉棒都打湿了，起到了更好的润滑作用。"
 
 # game/2evening butters.rpy#L1619
 translate chinese buttersimpregpaizuri_f644af0e:
 
     # "And just like that, she’s moving even faster. The fur between her chest becoming not only damp, but slick and shiny, rubbing faster and faster."
-    "And just like that, she’s moving even faster. The fur between her chest becoming not only damp, but slick and shiny, rubbing faster and faster."
+    "与此同时，她还提高了速度。深邃乳沟间的毛发不光变得湿润，并且看起来也更加圆润有色泽，她更快速地摩擦着。"
 
 # game/2evening butters.rpy#L1620
 translate chinese buttersimpregpaizuri_ed1bed3e:
 
     # "The feeling has slowly devolved from fluffy and cute to moist and erotic."
-    "The feeling has slowly devolved from fluffy and cute to moist and erotic."
+    "室内气息从刚刚的春意盎然，开始变得温润色情起来。"
 
 # game/2evening butters.rpy#L1622
 translate chinese buttersimpregpaizuri_62810540:
 
     # butters "*Drool* Haahh, it feels good when it slides against me."
-    butters "*Drool* Haahh, it feels good when it slides against me."
+    butters "*口涎继续流出*哈啊，你的长枪摩擦起来可真是舒服。"
 
 # game/2evening butters.rpy#L1623
 translate chinese buttersimpregpaizuri_caaff1f2:
 
     # mc "Wow, your breasts are that sensitive?"
-    mc "Wow, your breasts are that sensitive?"
+    mc "哇，你的乳房真有这么敏感？"
 
 # game/2evening butters.rpy#L1624
 translate chinese buttersimpregpaizuri_4bbfd4f0:
 
     # butters "Yeah, they’re like one big erogenous zone right now, I can even feel you throbbing."
-    butters "Yeah, they’re like one big erogenous zone right now, I can even feel you throbbing."
+    butters "嗯，它们现在就是我的超大性器，我能感觉到你很“鸡动”哦。"
 
 # game/2evening butters.rpy#L1625
 translate chinese buttersimpregpaizuri_d1b044de:
 
     # "As if she’d been saving a trick, her tongue slithers downwards and starts to tease the most sensitive area of my tip at the peak of each thrust."
-    "As if she’d been saving a trick, her tongue slithers downwards and starts to tease the most sensitive area of my tip at the peak of each thrust."
+    "我怀疑她还有什么坏招没使，每次将她的乳房推到最高处时，香蛇总是蜿蜒而出，精准地挑逗着我龟头的敏感带。"
 
 # game/2evening butters.rpy#L1626
 translate chinese buttersimpregpaizuri_e8358f5a:
 
     # "The effectiveness of her movements makes it arguably even more pleasurable than a standard blowjob. The squeeze of her breasts combined with her tongue is immensely euphoric."
-    "The effectiveness of her movements makes it arguably even more pleasurable than a standard blowjob. The squeeze of her breasts combined with her tongue is immensely euphoric."
+    "她的技巧效果比普通的口交更令人神魂颠倒。巨乳和舌头的双重侍奉真是马间的至高享受。"
 
 # game/2evening butters.rpy#L1628
 translate chinese buttersimpregpaizuri_ae5a0b65:
 
     # "And as she focuses more into the boobjob, the milk sputtering out of her nipples borders on excessive. The now rapid movements of her breasts causing it to splatter and splash everywhere."
-    "And as she focuses more into the boobjob, the milk sputtering out of her nipples borders on excessive. The now rapid movements of her breasts causing it to splatter and splash everywhere."
+    "她乳交的速度越来越快，乳头喷出的乳汁也已越来越多，已经到了一个非常夸张的程度了。而且随着她巨乳疯狂地起伏，乳汁被泼洒得四处都是。"
 
 # game/2evening butters.rpy#L1629
 translate chinese buttersimpregpaizuri_be620184:
 
     # "To the untrained eye, it’d appear as if I’d already ejaculated and coated her breasts with whiteness."
-    "To the untrained eye, it’d appear as if I’d already ejaculated and coated her breasts with whiteness."
+    "不知道的还以为我已经射了，在她的双峰上抹上了一层白浊。"
 
 # game/2evening butters.rpy#L1631
 translate chinese buttersimpregpaizuri_7eecd045:
 
     # "Oh fuck, she’s getting even faster, and clearly trying to make me cum. I can’t focus on anything except the immense pleasure anymore."
-    "Oh fuck, she’s getting even faster, and clearly trying to make me cum. I can’t focus on anything except the immense pleasure anymore."
+    "妈耶，她居然还在加速，很显然是在做最后的冲刺，好让我交货。我脑子里除了性快感以外再也容不下其他东西了。"
 
 # game/2evening butters.rpy#L1632
 translate chinese buttersimpregpaizuri_6572e7b3:
 
     # "I relax and give into the pleasure, not holding back my building orgasm a modicum. Before I know it, my cock throbs as a surge of euphoria ascends through my body."
-    "I relax and give into the pleasure, not holding back my building orgasm a modicum. Before I know it, my cock throbs as a surge of euphoria ascends through my body."
+    "最后我完全放松下来，沉浸在这份性福中，不再去忍受渐渐升高的射精冲动。我的肉棒也开始抽动，快感在体内高速堆积。"
 
 # game/2evening butters.rpy#L1637
 translate chinese buttersimpregpaizuri_e328db39:
 
     # "Butters keeps her tongue trained on my sensitive tip throughout my entire orgasm, creating a mess of cum that launches over her face, eyes and breasts."
-    "Butters keeps her tongue trained on my sensitive tip throughout my entire orgasm, creating a mess of cum that launches over her face, eyes and breasts."
+    "在我的精液蓬勃而出的时候，Butters也没有停下舌尖上的功夫，继续在我龟头的敏感带上游走跳动，她的俏脸，美目，香峰上都沾上了我的阳精。"
 
 # game/2evening butters.rpy#L1643
 translate chinese buttersimpregpaizuri_013ac144:
 
     # "I buck my hips against her tight warm breasts throughout my entire orgasm, until the very last load of my cum shoots out, this one landing at the roof of her mouth."
-    "I buck my hips against her tight warm breasts throughout my entire orgasm, until the very last load of my cum shoots out, this one landing at the roof of her mouth."
+    "整个射精期间我都挺高了腰，与她温暖的乳房肌肤相亲，最后一发干脆利落地落在了她的红唇边。"
 
 # game/2evening butters.rpy#L1645
 translate chinese buttersimpregpaizuri_f4c51678:
 
     # butters "Mmmphh… I… I think mommy came, hahah."
-    butters "Mmmphh… I… I think mommy came, hahah."
+    butters "嗯唔...看...看来妈咪也高潮了，哈哈。"
 
 # game/2evening butters.rpy#L1646
 translate chinese buttersimpregpaizuri_1f6aa72b:
 
     # mc "Really? From just that?"
-    mc "Really? From just that?"
+    mc "讲真？光是乳交就让你高潮了？"
 
 # game/2evening butters.rpy#L1647
 translate chinese buttersimpregpaizuri_3281c4a1:
 
     # butters "Eheh, it was only a little orgasm… I still kinda want a proper one."
-    butters "Eheh, it was only a little orgasm… I still kinda want a proper one."
+    butters "嗯哼，不过高潮不算太激烈...我下面泛滥的洪水还是需要一根大鸡巴插进去才能止住。"
 
 # game/2evening butters.rpy#L1648
 translate chinese buttersimpregpaizuri_23dd6f14:
 
     # mc "Hmm… Clean up all this milk and cum, and I’ll fuck you good enough for two orgasms."
-    mc "Hmm… Clean up all this milk and cum, and I’ll fuck you good enough for two orgasms."
+    mc "嗯...先把这些乳汁和精液收拾干净，然后我让你上两次天如何。"
 
 # game/2evening butters.rpy#L1649
 translate chinese buttersimpregpaizuri_2c05f02a:
 
     # butters "You have a deal… *Lick, lick*"
-    butters "You have a deal… *Lick, lick*"
+    butters "说到就要做到哦...*舔舐, 舔舐*"
 
 # game/2evening butters.rpy#L1651
 translate chinese buttersimpregpaizuri_83b16c9c:
 
     # "With surprising efficiency, Butters sets to cleaning up all the cum and milks, and she seems to enjoy each second."
-    "With surprising efficiency, Butters sets to cleaning up all the cum and milks, and she seems to enjoy each second."
+    "Butters以惊人的效率清理着四处的阳精和乳汁，而且非常享受这个过程。"
 
 # game/2evening butters.rpy#L1653
 translate chinese buttersimpregpaizuri_4a17c672:
 
     # "Then she bends over, and I know what to do…"
-    "Then she bends over, and I know what to do…"
+    "然后她弯下腰，我心神领会地摆好架势......"
 
 # game/2evening butters.rpy#L1657
 translate chinese buttersimpregpaizuri_fb26ea0a:
 
     # "I pound her pussy intensely until we’re both cumming again."
-    "I pound her pussy intensely until we’re both cumming again."
+    "阴茎再一次搅入肉环的环抱中。我们二人渐入性爱的高潮。"
 
 # game/2evening butters.rpy#L1661
 translate chinese buttersimpregpaizuri_97283ada:
 
     # "Afterwards, we spend some time cuddling together and catching our breath."
-    "Afterwards, we spend some time cuddling together and catching our breath."
+    "又是一阵翻云覆雨后，我们相拥在一起，激烈的运动把我俩累坏了，都喘着气。"
 
 # game/2evening butters.rpy#L1662
 translate chinese buttersimpregpaizuri_ce617998:
 
     # "…"
-    "…"
+    "..."
 
 # game/2evening butters.rpy#L1663
 translate chinese buttersimpregpaizuri_86483f9a:
 
     # butters "So… It’s true, you knocked me up?"
-    butters "So… It’s true, you knocked me up?"
+    butters "哎...是你叫醒我的嘛？"
 
 # game/2evening butters.rpy#L1665
 translate chinese buttersimpregpaizuri_74c021e3:
 
     # mc "Ahh… AH!?"
-    mc "Ahh… AH!?"
+    mc "啊...口阿！？"
 
 # game/2evening butters.rpy#L1668
 translate chinese buttersimpregpaizuri_979d042b:
 
     # mc "Don't transform while I have my eyes closed..."
-    mc "Don't transform while I have my eyes closed..."
+    mc "别在我睡觉的时候变身啊......"
 
 # game/2evening butters.rpy#L1669
 translate chinese buttersimpregpaizuri_20d8e202:
 
     # mc "But, yeah."
-    mc "But, yeah."
+    mc "但确实是我叫醒的。"
 
 # game/2evening butters.rpy#L1670
 translate chinese buttersimpregpaizuri_1365a680:
 
     # "She must have turned during our post-coital cuddling."
-    "She must have turned during our post-coital cuddling."
+    "她肯定是在我们交媾结束后现身的。"
 
 # game/2evening butters.rpy#L1672
 translate chinese buttersimpregpaizuri_632e77e7:
 
     # butters "That’s pretty lewd, I guess. Ahahaha, I didn’t know you had it in you, [playername]!"
-    butters "That’s pretty lewd, I guess. Ahahaha, I didn’t know you had it in you, [playername]!"
+    butters "真是一场风雨大战啊。啊哈哈哈，你还真答应她了，[playername]！"
 
 # game/2evening butters.rpy#L1673
 translate chinese buttersimpregpaizuri_320f4b80:
 
     # "Playfully toying with her nipples, she grins as they drip with milk."
-    "Playfully toying with her nipples, she grins as they drip with milk."
+    "她坏笑着，饶有兴致地摩挲着自己的乳头，乳汁仍然在滴滴落下。"
 
 # game/2evening butters.rpy#L1674
 translate chinese buttersimpregpaizuri_c281ccae:
 
     # mc "You’re not going to ask me to have sex with you again, are you?"
-    mc "You’re not going to ask me to have sex with you again, are you?"
+    mc "你不会还想和我再来一发吧？"
 
 # game/2evening butters.rpy#L1676
 translate chinese buttersimpregpaizuri_28099a12:
 
     # butters "Fear not, our libidos are connected, so I am quite satisfied indeed…"
-    butters "Fear not, our libidos are connected, so I am quite satisfied indeed…"
+    butters "不必，我们二人的性欲也是共通的，我已经如愿以偿了......"
 
 # game/2evening butters.rpy#L1678
 translate chinese buttersimpregpaizuri_b7cfef17:
 
     # butters "In fact, I have an overwhelming urge to be cuddled. Come on, wrap your arms around me."
-    butters "In fact, I have an overwhelming urge to be cuddled. Come on, wrap your arms around me."
+    butters "现在，我唯一想要的只是一个温暖的拥抱。来吧，用你强有力的怀抱紧紧搂住我。"
 
 # game/2evening butters.rpy#L1679
 translate chinese buttersimpregpaizuri_c34fd2d4:
 
     # mc "Alright, but only five more minutes. We’ve got work."
-    mc "Alright, but only five more minutes. We’ve got work."
+    mc "行啊，不过只能五分钟，马上天亮了，得起床工作呢。"
 
 # game/2evening butters.rpy#L1681
 translate chinese buttersimpregpaizuri_232d76d5:
 
     # butters "Fiiine…"
-    butters "Fiiine…"
+    butters "行吧......"
 
 # game/2evening butters.rpy#L1683
 translate chinese buttersimpregpaizuri_ce617998_1:
 
     # "…"
-    "…"
+    "..."
 
 # game/2evening butters.rpy#L1684
 translate chinese buttersimpregpaizuri_060560ec:
@@ -4875,85 +4875,85 @@ translate chinese buttersimpregpaizuri_060560ec:
 translate chinese butterspregnanteasteregg_f597802b:
 
     # butters "*Sigh*..."
-    butters "*Sigh*..."
+    butters "*叹气*......"
 
 # game/2evening butters.rpy#L1693
 translate chinese butterspregnanteasteregg_72b3a5e4:
 
     # butters "Morning [playername]..."
-    butters "Morning [playername]..."
+    butters "早安[playername]......"
 
 # game/2evening butters.rpy#L1694
 translate chinese butterspregnanteasteregg_1ced605f:
 
     # butters "Bad news. I don't think I'm pregnant at all."
-    butters "Bad news. I don't think I'm pregnant at all."
+    butters "坏消息。我觉得我可能根本没怀上孩子。"
 
 # game/2evening butters.rpy#L1695
 translate chinese butterspregnanteasteregg_f02c7f0e:
 
     # mc "No luck? Weren't you lactating a lot, though?"
-    mc "No luck? Weren't you lactating a lot, though?"
+    mc "没有？但你不是一直在分泌奶水吗？"
 
 # game/2evening butters.rpy#L1697
 translate chinese butterspregnanteasteregg_fce3c7b7:
 
     # butters "Yeah... I think I made a lactation potion, not a fertility potion."
-    butters "Yeah... I think I made a lactation potion, not a fertility potion."
+    butters "这就是问题所在...我好像错把受孕药水酿成泌乳药水了。"
 
 # game/2evening butters.rpy#L1698
 translate chinese butterspregnanteasteregg_d4dbc079:
 
     # mc "Hmm... Damn... Are you going to try again?"
-    mc "Hmm... Damn... Are you going to try again?"
+    mc "这...尴尬了...你会放弃吗？"
 
 # game/2evening butters.rpy#L1700
 translate chinese butterspregnanteasteregg_c6f4a457:
 
     # butters "I think so. It'll take a while to collect all the ingredients. Would you still be willing to be the sperm donor?"
-    butters "I think so. It'll take a while to collect all the ingredients. Would you still be willing to be the sperm donor?"
+    butters "不会。我会重新收集需要的原材料，要花点时间。你还愿意帮我受孕吗？"
 
 # game/2evening butters.rpy#L1704
 translate chinese butterspregnanteasteregg_2ae22dbe:
 
     # butters "Thanks [playername], I truly do adore you."
-    butters "Thanks [playername], I truly do adore you."
+    butters "我由衷地感谢你，[playername]。"
 
 # game/2evening butters.rpy#L1707
 translate chinese butterspregnanteasteregg_eb1e6dd3:
 
     # butters "Ohh, I could do that right now..."
-    butters "Ohh, I could do that right now..."
+    butters "哦，那当然可以......"
 
 # game/2evening butters.rpy#L1708
 translate chinese butterspregnanteasteregg_475907a8:
 
     # butters "But, eh-hem, work first."
-    butters "But, eh-hem, work first."
+    butters "不过呢，工作先。"
 
 # game/2evening butters.rpy#L1711
 translate chinese butterspregnanteasteregg_333865e4:
 
     # butters "I understand. Perhaps you could simply donate some sperm samples rather than input it manually."
-    butters "I understand. Perhaps you could simply donate some sperm samples rather than input it manually."
+    butters "我明白。也许你只需要给我一些你的精子，不用非要射在里面。"
 
 # game/2evening butters.rpy#L1712
 translate chinese butterspregnanteasteregg_99c6407a:
 
     # mc "I suppose that's an option too. Although at that point, why not just use another man?"
-    mc "I suppose that's an option too. Although at that point, why not just use another man?"
+    mc "那方法听起来也可行。不过为什么不找其他人提供精子呢？"
 
 # game/2evening butters.rpy#L1714
 translate chinese butterspregnanteasteregg_d59cd153:
 
     # butters "Heh... I dunno, I find it hard to fall in love..."
-    butters "Heh... I dunno, I find it hard to fall in love..."
+    butters "唉...我不知道，我的心里很难容下第二个伴侣了..."
 
 # game/2evening butters.rpy#L1715
 translate chinese butterspregnanteasteregg_c4159872:
 
     # "Mmm, so she fell in love with me? She probably wants me to marry her and raise the child together."
-    "Mmm, so she fell in love with me? She probably wants me to marry her and raise the child together."
+    "嗯，看来她是爱上我了？想执我之手，卵翼煦伏，白头偕老。"
 
 translate chinese strings:
 

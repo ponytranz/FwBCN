@@ -1,4 +1,4 @@
-# Translation updated at Wed Jun 16 2021 00:51:28 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Thu Jun 17 2021 00:47:42 GMT+0000 (Coordinated Universal Time)
 # game/bar.rpy#L13
 translate chinese barvisit1_d43fa519:
 
@@ -345,7 +345,7 @@ translate chinese barvisit1choice1_486df3a9:
 translate chinese barvisit1choice1_10e647c8:
 
     # riku "There’s other work outside of the bar, I’m sure Penny has been great, and given you a bunch of other leads."
-    riku "There’s other work outside of the bar, I’m sure Penny has been great, and given you a bunch of other leads."
+    riku "酒吧之外也有不少能干的活，我挺确定好马如Penny的她肯定给了你一堆备选项。"
 
 # game/bar.rpy#L112
 translate chinese barvisit1choice1_15f1d52a:
@@ -501,7 +501,7 @@ translate chinese barvisit1choice1_2dd3db7e:
 translate chinese barvisit1choice1_db8b1e3b:
 
     # mc "I have a nice physique? Are you sure you’re not just used to seeing this covered in fur?"
-    mc "I have a nice physique? Are you sure you’re not just used to seeing this covered in fur?"
+    mc "我身材看着好吗？你讲真不是因为平时看腻了满是毛发的皮肤吗？"
 
 # game/bar.rpy#L151
 translate chinese barvisit1choice1_891dc048:
@@ -513,163 +513,163 @@ translate chinese barvisit1choice1_891dc048:
 translate chinese barvisit1choice1_80e74ab5:
 
     # "I feel all fuzzy and warm inside now that she’s said that. I should go to the gym more often and become even hotter, hmm…"
-    "I feel all fuzzy and warm inside now that she’s said that. I should go to the gym more often and become even hotter, hmm…"
+    "她所说的话在我内心激起一阵波澜。我应该去几趟健身房然后练就一身性感身材，嗯......"
 
 # game/bar.rpy#L153
 translate chinese barvisit1choice1_179f899c:
 
     # "Wait, was that her plan?"
-    "Wait, was that her plan?"
+    "等下，她刚说要干啥来着？"
 
 # game/bar.rpy#L156
 translate chinese barvisit1choice1_472c7dbb:
 
     # "We head out and she begins a small tour of the village. She’s mainly pointing out the basics, there’s a market, a spa/brothel, a farm, a bakery, the library, the boutique…"
-    "We head out and she begins a small tour of the village. She’s mainly pointing out the basics, there’s a market, a spa/brothel, a farm, a bakery, the library, the boutique…"
+    "出发后，她带着我在村里做了次小小的参观。她主要给我展示了村子大致的构成，市场在这儿，水疗馆（或者说妓院）在那儿，这儿是农场，那儿是图书馆，还有时装店等等......"
 
 # game/bar.rpy#L158
 translate chinese barvisit1choice1_91f0eae5:
 
     # "Of course, this isn’t new to me at this point, but she adds a funny anecdote to each observation, it’s interesting to hear."
-    "Of course, this isn’t new to me at this point, but she adds a funny anecdote to each observation, it’s interesting to hear."
+    "当然，这些地方对我来说并不新鲜，但她在我们参观途中总能提到一些相关的逸闻趣事，听着还蛮有趣的。"
 
 # game/bar.rpy#L164
 translate chinese barvisit1choice1_60651576:
 
     # riku "Right away we can see the market here, and just next to it is the spa/brothel. Not unusual for them and the bar to have a close working relationship if you know what I mean."
-    riku "Right away we can see the market here, and just next to it is the spa/brothel. Not unusual for them and the bar to have a close working relationship if you know what I mean."
+    riku "马上我们就能看到这儿的市场，隔壁是水疗馆（妓院）。她们同酒吧维系着紧密的合作关系，对此只能说懂得都懂。"
 
 # game/bar.rpy#L165
 translate chinese barvisit1choice1_fd577d17:
 
     # mc "That I do. Is the brothel, I mean uh, spa any good?"
-    mc "That I do. Is the brothel, I mean uh, spa any good?"
+    mc "晓得了。那个妓院，呸，我是说，额，水疗馆哪里好的吗？"
 
 # game/bar.rpy#L167
 translate chinese barvisit1choice1_52ddc8f2:
 
     # riku "I used to get a few massages to relieve muscle tension, great for that. Can’t say what the other services are like though."
-    riku "I used to get a few massages to relieve muscle tension, great for that. Can’t say what the other services are like though."
+    riku "我以前常去那做按摩，这能让我紧绷的肌肉得到放松，巴适得很。至于其它的服务怎么样，我就不太晓得了。"
 
 # game/bar.rpy#L168
 translate chinese barvisit1choice1_7d1e20ec:
 
     # riku "There’s also the bakery, they make cakes you could die for. I wouldn’t eat more than one a week though unless you were going to put on the pounds."
-    riku "There’s also the bakery, they make cakes you could die for. I wouldn’t eat more than one a week though unless you were going to put on the pounds."
+    riku "这附近还有家烘焙房，你一定会超爱她们做的蛋糕。除非你想增重，不然换我的话，蛋糕一周最多吃一个。"
 
 # game/bar.rpy#L169
 translate chinese barvisit1choice1_403b4665:
 
     # mc "If I’m going to be become a regular customer, I’ll definitely need to visit the gym more."
-    mc "If I’m going to be become a regular customer, I’ll definitely need to visit the gym more."
+    mc "看来，要是我想做这儿的常客，跑几趟健身房是必不可少的了。"
 
 # game/bar.rpy#L171
 translate chinese barvisit1choice1_6870745c:
 
     # riku "I’m glad I’m not on a strict athlete diet anymore, I can balance the calories burnt at the gym with delicious cake."
-    riku "I’m glad I’m not on a strict athlete diet anymore, I can balance the calories burnt at the gym with delicious cake."
+    riku "我很庆幸自己没再按着运动员的饮食标准来，我在健身房燃烧的卡路里够平衡吃好吃的蛋糕的那份了。"
 
 # game/bar.rpy#L172
 translate chinese barvisit1choice1_383ffa9c:
 
     # mc "Always a great reason to go to the gym, guilt free luxuries."
-    mc "Always a great reason to go to the gym, guilt free luxuries."
+    mc "减肥总是去健身房的好理由，百益而无一害啊。"
 
 # game/bar.rpy#L175
 translate chinese barvisit1choice1_2f782a44:
 
     # riku "If you peek just to the left of the bakery, you can see Honey’s farmhouse in the distance."
-    riku "If you peek just to the left of the bakery, you can see Honey’s farmhouse in the distance."
+    riku "从烘焙坊的左手边望去，你能在不远处看见Honey的农舍。"
 
 # game/bar.rpy#L177
 translate chinese barvisit1choice1_e29a0155:
 
     # riku "Honey, now that’s one hot piece of ass. If the two of us were ever alone and drunk enough, I reckon I’d go for it."
-    riku "Honey, now that’s one hot piece of ass. If the two of us were ever alone and drunk enough, I reckon I’d go for it."
+    riku "Honey，这位更是重量级。如果哪天就咱俩还喝了个烂醉，那我说不定会向她表白。"
 
 # game/bar.rpy#L179
 translate chinese barvisit1choice1_8b79e7a6:
 
     # riku "Unfortunately I don’t think she’s into mares, oh well."
-    riku "Unfortunately I don’t think she’s into mares, oh well."
+    riku "不幸的是，我可不觉得她会同意搞百合，我勒个去。"
 
 # game/bar.rpy#L181
 translate chinese barvisit1choice1_c9fa61cc:
 
     # mc "Actually, you’re in luck, she is into mares."
-    mc "Actually, you’re in luck, she is into mares."
+    mc "实际上呢，你走好运了，她还真搞百合。"
 
 # game/bar.rpy#L183
 translate chinese barvisit1choice1_41118c20:
 
     # riku "You’re kidding?"
-    riku "You’re kidding?"
+    riku "你开玩笑呢吧？"
 
 # game/bar.rpy#L184
 translate chinese barvisit1choice1_ab491957:
 
     # riku "Wait, how do you even know that?"
-    riku "Wait, how do you even know that?"
+    riku "等下，你怎么可能知道这事？"
 
 # game/bar.rpy#L186
 translate chinese barvisit1choice1_4bbb0345:
 
     # riku "Ah, you know what, I’m not even gonna ask."
-    riku "Ah, you know what, I’m not even gonna ask."
+    riku "吼，你猜怎么着？我甚至都懒得问了。"
 
 # game/bar.rpy#L187
 translate chinese barvisit1choice1_878d97e0:
 
     # riku "Haven’t seen her since… well… moving on."
-    riku "Haven’t seen her since… well… moving on."
+    riku "自那之后就没见过她了......嗯......还是先继续吧。"
 
 # game/bar.rpy#L189
 translate chinese barvisit1choice1_bb5cef88:
 
     # riku "You probably already know about the library, right? We can skip that nerdy stuff."
-    riku "You probably already know about the library, right? We can skip that nerdy stuff."
+    riku "你大概有听说图书馆，对吧？书呆子气的破事就暂且跳过。"
 
 # game/bar.rpy#L190
 translate chinese barvisit1choice1_7683518a:
 
     # mc "Nerdy? I saw some books in your house."
-    mc "Nerdy? I saw some books in your house."
+    mc "书呆子气？我看你家不也有藏书。"
 
 # game/bar.rpy#L192
 translate chinese barvisit1choice1_360e4d21:
 
     # riku "Pfft, ya got me! I love myself a good book as much as those unicorns do."
-    riku "Pfft, ya got me! I love myself a good book as much as those unicorns do."
+    riku "噗，可给你逮到了！我对书的热爱可不亚于那些独角兽。"
 
 # game/bar.rpy#L194
 translate chinese barvisit1choice1_bac9e39f:
 
     # riku "They read boring sciency books though, I like reading actiony things."
-    riku "They read boring sciency books though, I like reading actiony things."
+    riku "但她们都去读无聊的科学书，我呢，则喜欢更刺激的玩意。"
 
 # game/bar.rpy#L195
 translate chinese barvisit1choice1_ce7b8b62:
 
     # mc "Any good suggestions?"
-    mc "Any good suggestions?"
+    mc "有什么好的推荐吗？"
 
 # game/bar.rpy#L197
 translate chinese barvisit1choice1_49c2feac:
 
     # riku "Brave Boo and the Orange Chicken is fantastic, I’m nearly at the third act and it’s riveting."
-    riku "Brave Boo and the Orange Chicken is fantastic, I’m nearly at the third act and it’s riveting."
+    riku "《Brave Boo》和《Orange Chicken》可是绝品，我差不多都读了三遍了，乐趣倒是一点也没少。"
 
 # game/bar.rpy#L198
 translate chinese barvisit1choice1_1fe4f0c7:
 
     # mc "I’m sorry, what?"
-    mc "I’m sorry, what?"
+    mc "抱歉，但是，啥？"
 
 # game/bar.rpy#L200
 translate chinese barvisit1choice1_3cc9c7f4:
 
     # riku "Brave Boo? How have you not heard of her? She’s a treasure hunter that goes to different historical locations and looks for ancient artifacts, in this latest epic she’s looking for a legendary orange chicken, however it turns out to be…"
-    riku "Brave Boo? How have you not heard of her? She’s a treasure hunter that goes to different historical locations and looks for ancient artifacts, in this latest epic she’s looking for a legendary orange chicken, however it turns out to be…"
+    riku "Brave Boo？你从未听说过她吗？她是一名辗转于各大古代遗迹的宝藏猎人，专门找历史文物的，她最近一次冒险是为了寻找传说中的Orange chicken，然而，最终的结果却是......"
 
 # game/bar.rpy#L201
 translate chinese barvisit1choice1_d892365c:

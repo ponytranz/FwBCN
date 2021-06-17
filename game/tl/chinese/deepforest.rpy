@@ -1,4 +1,4 @@
-# Translation updated at Wed Jun 16 2021 00:51:28 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Thu Jun 17 2021 00:47:42 GMT+0000 (Coordinated Universal Time)
 # game/deepforest.rpy#L13
 translate chinese deepforest_51a3a838:
 
@@ -1149,7 +1149,7 @@ translate chinese zoetalkmenu_d81b7ec3:
 translate chinese zoetalkmenu_7857d146:
 
     # butters "Plan? What are you trying to say? I took part in no scam."
-    butters "“计划”？你想说什么？坑蒙拐骗的事我可不干。"
+    butters "计划？你想说什么？坑蒙拐骗的事我可不干。"
 
 # game/deepforest.rpy#L361
 translate chinese zoetalkmenu_89783a83:
@@ -2277,7 +2277,7 @@ translate chinese zoelum_d0d08139:
 translate chinese zoelum_763321e7:
 
     # "With a spare hand entirely free, I find my thumb rubbing her clit intently, while my cock likely creates some friction on her g-spot."
-    "With a spare hand entirely free, I find my thumb rubbing her clit intently, while my cock likely creates some friction on her g-spot."
+    "我腾出一只手，并用拇指用力摩擦着她的阴蒂。与此同时，我的肉棒也在她的G点上剧烈摩擦着。"
 
 # game/deepforest.rpy#L740
 translate chinese zoelum_d45fe318:
@@ -2331,7 +2331,7 @@ translate chinese zoelum_834eaa6e:
 translate chinese zoelum_9042fa34:
 
     # mc "Ready for orgasm two? Don’t lose your mind."
-    mc "准备好再来一次高潮了吗？可别昏过去哟。"
+    mc "准备好再来一次高潮了吗？可别爽昏过去哟。"
 
 # game/deepforest.rpy#L756
 translate chinese zoelum_09408127:
@@ -2349,25 +2349,25 @@ translate chinese zoelum_64a9bc3d:
 translate chinese zoelum_3df624b0:
 
     # "Her lubricants are so plentiful that I’d barely be able to feel anything if it wasn’t for the incredible tightness of her insides. Tightness that she intentionally increases by tensing her muscles."
-    "Her lubricants are so plentiful that I’d barely be able to feel anything if it wasn’t for the incredible tightness of her insides. Tightness that she intentionally increases by tensing her muscles."
+    "她下体的淫液异常充沛，而且润滑无比。如果不是她紧致的小穴在不断挤压和摩擦的话，我几乎什么感觉都没有。随着她肌肉的不断收紧，这种挤压感变得愈发强烈了。"
 
 # game/deepforest.rpy#L759
 translate chinese zoelum_250e1e25:
 
     # "Kneading her own breasts, and tweaking her sensitive nipples, she lavishly indulges in the second assault of intense pleasure as my finger begins to focus on her clit again."
-    "Kneading her own breasts, and tweaking her sensitive nipples, she lavishly indulges in the second assault of intense pleasure as my finger begins to focus on her clit again."
+    "当我准备再次揉搓她的阴蒂时，她又开始揉捏起自己的双峰和敏感的乳头来。看来，她要沉浸到第二次狂轰滥炸的极致快感中去了。"
 
 # game/deepforest.rpy#L761
 translate chinese zoelum_d06a16b5:
 
     # "Her back arches and teeth grit together as she struggles to hold herself together. Her entire body wriggling and spasming with a lack of control."
-    "Her back arches and teeth grit together as she struggles to hold herself together. Her entire body wriggling and spasming with a lack of control."
+    "在调整状态的同时，她咬紧牙关，后背也弓了起来。此时，她的纤体开始不受控制地扭动和颤抖起来。"
 
 # game/deepforest.rpy#L762
 translate chinese zoelum_c5c5726d:
 
     # "At this speed and intensity, I could feel my orgasm begin to rise too. My cock grows tight as the familiar urge to unload rises."
-    "At this speed and intensity, I could feel my orgasm begin to rise too. My cock grows tight as the familiar urge to unload rises."
+    "在这种速度和强度的刺激下，我又一次产生了高潮的感觉，我的肉棒也再一次坚挺了起来。"
 
 # game/deepforest.rpy#L763
 translate chinese zoelum_f1f4b8bd:
@@ -4695,7 +4695,7 @@ translate chinese strings:
 
     # game/deepforest.rpy_L634_0
     old "Leg-up Sideways (NEW!)"
-    new "腿，起侧身(新！)"
+    new "抬腿后入式"
 
     # game/deepforest.rpy_L1100_0
     old "Watch Zoe and the werewolf for five minutes."

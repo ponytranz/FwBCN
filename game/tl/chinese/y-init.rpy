@@ -1,4 +1,4 @@
-# Translation updated at Wed Jun 16 2021 00:51:28 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Thu Jun 17 2021 00:47:42 GMT+0000 (Coordinated Universal Time)
 translate chinese strings:
 
     # game/y-init.rpy_L7_0
@@ -39,11 +39,11 @@ translate chinese strings:
 
     # game/y-init.rpy_L33_0
     old "Dress Dawn"
-    new "给Dawn穿上衣服"
+    new "着衣的Dawn"
 
     # game/y-init.rpy_L34_0
     old "Anthro Dawn"
-    new "变为人形的Dawn"
+    new "赤裸的Dawn"
 
     # game/y-init.rpy_L35_0
     old "???"

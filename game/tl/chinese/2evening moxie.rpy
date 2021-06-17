@@ -1,4 +1,4 @@
-# Translation updated at Wed Jun 16 2021 00:51:28 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Thu Jun 17 2021 00:47:42 GMT+0000 (Coordinated Universal Time)
 # game/2evening moxie.rpy#L11
 translate chinese eveningmoxie_80cb7a87:
 
@@ -1053,7 +1053,7 @@ translate chinese moxiecowgirl_fbf7153e:
 translate chinese moxiecowgirl_2d933299:
 
     # "I savour every motion as her pussy squeezes and her hips wriggle, her inner walls suck around my cock and stroke against my pleasure points in an irresistible manner."
-    "I savour every motion as her pussy squeezes and her hips wriggle, her inner walls suck around my cock and stroke against my pleasure points in an irresistible manner."
+    "我细细品味享受着她腰部的扭动和小穴的挤压，肉壁包裹在我阴茎的周围并不时触碰着龟头上的兴奋点，这种快感根本无法抗拒。"
 
 # game/2evening moxie.rpy#L539
 translate chinese moxiecowgirl_6923cc02:
@@ -1065,49 +1065,49 @@ translate chinese moxiecowgirl_6923cc02:
 translate chinese moxiecowgirl_a4c2d1ba:
 
     # "With each passing second the lust in Moxie's eyes grow, and she holds no resistance when she feels my hips begin to thrust to match her own."
-    "With each passing second the lust in Moxie's eyes grow, and she holds no resistance when she feels my hips begin to thrust to match her own."
+    "每一次抽插都会让Moxie眼中的欲望之火更加强烈，而当我腰部的抽动配合上她腰部的扭动时，她再也忍耐不住了。"
 
 # game/2evening moxie.rpy#L541
 translate chinese moxiecowgirl_e6e00bbd:
 
     # "Both our thrusting hips cause my cock to push even deeper inside of her, each thrust going from my glans to the hilt of my cock."
-    "Both our thrusting hips cause my cock to push even deeper inside of her, each thrust going from my glans to the hilt of my cock."
+    "随着我们的动作变得逐渐一致，我的肉棒插得越来越深，每次抽插的幅度也越来越大。"
 
 # game/2evening moxie.rpy#L546
 translate chinese moxiecowgirl_a1557614:
 
     # moxie "There it is, I'm coming, I'm coming!"
-    moxie "There it is, I'm coming, I'm coming!"
+    moxie "不行了，我要去了，要去了！"
 
 # game/2evening moxie.rpy#L547
 translate chinese moxiecowgirl_d6ec0dbe:
 
     # "Her eyes roll back and her body rattles with overwhelming pleasure as she experiences a full-body orgasm."
-    "Her eyes roll back and her body rattles with overwhelming pleasure as she experiences a full-body orgasm."
+    "在全身感受到性高潮的同时，她的双眼向后翻动着，身体也因这强烈的快感而颤抖了起来。"
 
 # game/2evening moxie.rpy#L548
 translate chinese moxiecowgirl_0737649a:
 
     # "Her already tight pussy constricts further with rhythmic convulsions which squeeze and suckle in an attempt to milk my throbbing member."
-    "Her already tight pussy constricts further with rhythmic convulsions which squeeze and suckle in an attempt to milk my throbbing member."
+    "随着身体的律动，她那紧致的小穴变得更加紧密了，似乎是想吮吸我那根颤抖的肉棒。"
 
 # game/2evening moxie.rpy#L549
 translate chinese moxiecowgirl_d6e2cead:
 
     # "This combined with her frantic fucking brings me closer, and soon I'm unable to hold back."
-    "This combined with her frantic fucking brings me closer, and soon I'm unable to hold back."
+    "由于她身体近乎疯狂的扭动，加之蜜穴紧致的挤压，我感觉自己马上就要高潮了，而且再也忍耐不住了。"
 
 # game/2evening moxie.rpy#L550
 translate chinese moxiecowgirl_5205166b:
 
     # moxie "Cum inside me [playername], fill me up!"
-    moxie "Cum inside me [playername], fill me up!"
+    moxie "都射进来吧，[playername]，射满我的小穴吧！"
 
 # game/2evening moxie.rpy#L561
 translate chinese moxiecowgirl_068f6472:
 
     # "My cock gushes its thick cum deep into her hungry womb."
-    "My cock gushes its thick cum deep into her hungry womb."
+    "浓稠的精液从肉棒顶端喷涌而出，灌满了她饥渴的子宫。"
 
 # game/2evening moxie.rpy#L572
 translate chinese moxiecowgirl_0be79d2f:
