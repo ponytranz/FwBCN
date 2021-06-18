@@ -2,27 +2,27 @@
   {
     "key": "artgallery_867fe6a7",
     "original": "It's just a regular art gallery. There are certainly a lot of beautiful works, but I have more important things to do right now.",
-    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L8"
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L8"
   },
   {
     "key": "artgallery_cf4d7c0e",
     "original": "Alright, where's that room Augusta was talking about...",
-    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L20"
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L20"
   },
   {
     "key": "artgallery_465c14f0",
     "original": "Oh, hold on... I may have a key, but that doesn't give me free entry... Damnit Augusta.",
-    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L21"
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L21"
   },
   {
     "key": "artgallery_a75c79ab",
     "original": "Entry Fee - 15 monies for the day.",
-    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L22"
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L22"
   },
   {
     "key": "artgallery_9e58b73d",
     "original": "150 for a year pass.",
-    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L23"
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L23"
   },
   {
     "key": "artgallery_1eeba032",
@@ -32,37 +32,37 @@
   {
     "key": "artgallery_1ab7a527",
     "original": "The pass works all day, and in the evening too.",
-    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L30"
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L30"
   },
   {
     "key": "artgallery_a1f3bc39",
     "original": "This will expire after 365 days. I'm serious.",
-    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L36"
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L36"
   },
   {
     "key": "artgallery_32d05dad",
     "original": "Alright, with that done... Where does this key fit?",
-    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L44"
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L44"
   },
   {
     "key": "artgallery_819a32df",
     "original": "Let's try the door with a giant loveheart around it, that's exceedingly unsubtle.",
-    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L45"
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L45"
   },
   {
     "key": "artgallery_0d43e6f8",
     "original": "Okay perfect. Let's find a canvas and see what happens.",
-    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L47"
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L47"
   },
   {
     "key": "artgallery_a75c79ab_1",
     "original": "Entry Fee - 15 monies for the day.",
-    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L50"
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L50"
   },
   {
     "key": "artgallery_9e58b73d_1",
     "original": "150 for a year pass.",
-    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L51"
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L51"
   },
   {
     "key": "artgallery_1eeba032_1",
@@ -72,16 +72,16 @@
   {
     "key": "artgallery_1ab7a527_1",
     "original": "The pass works all day, and in the evening too.",
-    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L58"
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L58"
   },
   {
     "key": "artgallery_a1f3bc39_1",
     "original": "This will expire after 365 days. I'm serious.",
-    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L64"
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L64"
   },
   {
     "key": "artgallerypostpass_64ed478a",
     "original": "I'll only be able to view art from girls I've spent a lot of time with...",
-    "context": "说话人: 无\n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L76"
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwBCN/blob/main/game/artgallery.rpy#L76"
   }
 ]
