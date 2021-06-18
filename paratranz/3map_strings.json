@@ -720,6 +720,11 @@
     "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/3map.rpy#L1822"
   },
   {
+    "key": "game/3map.rpy_L1848_0",
+    "original": "Enter Password",
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/3map.rpy#L1848"
+  },
+  {
     "key": "game/3map.rpy_L2038_0",
     "original": "Visit Cindy’s sister.",
     "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/3map.rpy#L2038"
