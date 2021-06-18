@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-28 06:19
+﻿# TODO: Translation updated at 2021-06-19 02:53
 
 # game/1prologue.rpy:25
 translate chinese prologueday1_c7b6965c:
@@ -6350,6 +6350,10 @@ translate chinese strings:
 
     # game/1prologue.rpy:10
     old "No, I want to play the first hour of story!"
+    new ""
+
+    # game/1prologue.rpy:14
+    old "What is your first name?"
     new ""
 
     # game/1prologue.rpy:65

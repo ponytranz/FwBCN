@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-28 06:19
+﻿# TODO: Translation updated at 2021-06-19 02:53
 
 # game/3map.rpy:57
 translate chinese mapmarket_91ae100c:
@@ -5712,6 +5712,10 @@ translate chinese strings:
 
     # game/3map.rpy:1822
     old "<- Previous Page"
+    new ""
+
+    # game/3map.rpy:1848
+    old "Enter Password"
     new ""
 
     # game/3map.rpy:2038
