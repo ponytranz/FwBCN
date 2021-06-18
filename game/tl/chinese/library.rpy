@@ -1,4 +1,4 @@
-# Translation updated at Thu Jun 17 2021 00:47:42 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Fri Jun 18 2021 00:49:20 GMT+0000 (Coordinated Universal Time)
 # game/library.rpy#L18
 translate chinese libraryvisit1_98593462:
 
@@ -3879,13 +3879,13 @@ translate chinese penelopecunnilingus_8ee05ce0:
 translate chinese penelopecunnilingus_fdcca796:
 
     # "Overall, the orgasm lasted far longer than a man's would. And while the peak of pleasure was relatively the same, the length of the female orgasm easily bested the two."
-    "总的来说，女性高潮持续时间比男人的要长得多。虽然快感的峰值相对相同，但女性高潮的时间长度很容易就超过了男性。"
+    "总的来说，女性高潮持续时间比男人的要持久得多。虽然快感的峰值相对相同，但女性高潮的时长很容易就超过了男性。"
 
 # game/library.rpy#L1116
 translate chinese penelopecunnilingus_ac2ce923:
 
     # "My head was in the clouds for a few seconds after the powerful orgasm. It took me a few seconds to notice Penny crawling over me like a cougar hunting her prey."
-    "在强烈的性高潮过后，我的头有几秒在飘飘然。过了几秒钟，我才注意到佩妮像一只猎杀猎物的美洲狮一样在我身上爬行。"
+    "在强烈的性高潮过后，我的头有点飘飘然。过了几秒钟，我才注意到佩妮像一只猎杀猎物的美洲狮在我身上爬行。"
 
 # game/library.rpy#L1119
 translate chinese penelopecunnilingus_465e6813:
@@ -3909,13 +3909,13 @@ translate chinese penelopecunnilingus_dad8485d:
 translate chinese penelopecunnilingus_c07bb284:
 
     # "As she slowly lowers herself, I resign myself to pleasure her as much as possible. I may not be as good at cunnilingus, but I want to wow her."
-    "当她慢慢低下自己的身子时，我只好让自己尽可能地取悦她。虽然我可能不擅长舔阴，但我想给她满足。"
+    "当她慢慢低下自己的身子时，我只好竭尽全力地来取悦她。尽管我并不擅长舔阴，但我想给她满足。"
 
 # game/library.rpy#L1125
 translate chinese penelopecunnilingus_a7cc053b:
 
     # "I know for a fact she needs no teasing, so I focus on her clit immediately and draw as much pleasure from her as possible."
-    "我知道她不需要任何挑逗，所以我立即专注于她的阴蒂，并尽可能多地从她身上汲取快乐。"
+    "我知道她不需要任何的挑逗，所以我立即专注于她的阴蒂，并尽可能多地从她身上汲取快感。"
 
 # game/library.rpy#L1126
 translate chinese penelopecunnilingus_a22349a6:
@@ -3993,85 +3993,85 @@ translate chinese penelopecunnilingus_bbad22c1:
 translate chinese penelopecunnilingus_f9c27e10:
 
     # penelope "C-Coming! Aaaahhhhh, aaaahhhhh!"
-    penelope "C-Coming! Aaaahhhhh, aaaahhhhh!"
+    penelope "要-来了！啊啊啊，啊啊啊！"
 
 # game/library.rpy#L1139
 translate chinese penelopecunnilingus_d24b7e37:
 
     # "She actually stops grinding and arches her back as she climaxes, allowing me to pleasure her throughout the entire duration."
-    "She actually stops grinding and arches her back as she climaxes, allowing me to pleasure her throughout the entire duration."
+    "当她高潮时，她停止了磨蹭并拱起了背，让我在整个过程中取悦她。"
 
 # game/library.rpy#L1143
 translate chinese penelopecunnilingus_5960762e:
 
     # "As she gradually comes to a halt, she lifts herself from my face and crumples down onto the sofa. Her legs seemingly weak as she catches her breath."
-    "As she gradually comes to a halt, she lifts herself from my face and crumples down onto the sofa. Her legs seemingly weak as she catches her breath."
+    "她慢慢地缓了下来，从我面前刚站起来不久便瘫倒在沙发上。她喘着气，双腿似乎很虚软。"
 
 # game/library.rpy#L1144
 translate chinese penelopecunnilingus_51e7d673:
 
     # penelope "*Pant* Damn… That was good."
-    penelope "*Pant* Damn… That was good."
+    penelope "*喘气*干…真是太棒了。"
 
 # game/library.rpy#L1146
 translate chinese penelopecunnilingus_74fc57e4:
 
     # "I sit up and she notices my face is covered in her wetness, so she graciously pats me down with a tissue."
-    "I sit up and she notices my face is covered in her wetness, so she graciously pats me down with a tissue."
+    "我坐了起来，她注意到我的脸沾满了她的液体，所以她温柔地用纸巾擦了擦我。"
 
 # game/library.rpy#L1151
 translate chinese penelopecunnilingus_5b02c089:
 
     # mc "Thank you, I must say it was extraordinary for me too. That orgasm was like nothing I’d ever experienced before."
-    mc "Thank you, I must say it was extraordinary for me too. That orgasm was like nothing I’d ever experienced before."
+    mc "谢谢，我得说这次经历对我来说非同寻常。这种高潮是我从未能感受到的。"
 
 # game/library.rpy#L1153
 translate chinese penelopecunnilingus_0114fe14:
 
     # penelope "You’re telling me. You also gave me an orgasm like nothing I’ve ever experienced too."
-    penelope "You’re telling me. You also gave me an orgasm like nothing I’ve ever experienced too."
+    penelope "我得说。你也给了我前所未有的高潮。"
 
 # game/library.rpy#L1155
 translate chinese penelopecunnilingus_5a206fb5:
 
     # penelope "Some odd combination of my heat, combined with your male pheromones and a newly awakened fetish just exponentially stacked on each other."
-    penelope "Some odd combination of my heat, combined with your male pheromones and a newly awakened fetish just exponentially stacked on each other."
+    penelope "我的发情，还有你的雄性信息素和我新觉醒的性癖的奇妙组合，成倍地叠加在一起。"
 
 # game/library.rpy#L1157
 translate chinese penelopecunnilingus_5ed855dc:
 
     # penelope "God damn, I wanna do it again, can we do it again? Right now?"
-    penelope "God damn, I wanna do it again, can we do it again? Right now?"
+    penelope "该死，我真想再来一次，我们能再来一次吗?现在你好些了吗?"
 
 # game/library.rpy#L1158
 translate chinese penelopecunnilingus_913d6987:
 
     # "B-But the film… Fine, okay, we can do it again…"
-    "B-But the film… Fine, okay, we can do it again…"
+    "但-但是电影…好吧，好吧，我们可以再来一次…"
 
 # game/library.rpy#L1159
 translate chinese penelopecunnilingus_9d9e2d08:
 
     # mc "I’d love to, how about a sixty nine this time?"
-    mc "I’d love to, how about a sixty nine this time?"
+    mc "我很乐意，这次玩69式怎么样?"
 
 # game/library.rpy#L1161
 translate chinese penelopecunnilingus_104c2d33:
 
     # penelope "I like your style [playername]. Lay down, I like to be on top."
-    penelope "I like your style [playername]. Lay down, I like to be on top."
+    penelope "我喜欢你的风格[playername]。躺下，我喜欢在上面。"
 
 # game/library.rpy#L1163
 translate chinese penelopecunnilingus_ce617998:
 
     # "…"
-    "…"
+    "……"
 
 # game/library.rpy#L1166
 translate chinese penelopecunnilingus_ce29b6cf:
 
     # "The two of us kept at it for a while, I can’t blame Penny either considering she was in heat."
-    "The two of us kept at it for a while, I can’t blame Penny either considering she was in heat."
+    "就这样我们俩继续做了一段时间，我也不能怪Penny，毕竟她正处于发情期。"
 
 # game/library.rpy#L1168
 translate chinese penelopecunnilingus_bb50c9aa:
@@ -4149,7 +4149,7 @@ translate chinese penelopecunnilingus_5145afd0:
 translate chinese penelopecunnilingus_ce617998_1:
 
     # "…"
-    "…"
+    "……"
 
 # game/library.rpy#L1190
 translate chinese penelopecunnilingus_04e740cc:

@@ -1,4 +1,4 @@
-# Translation updated at Thu Jun 17 2021 00:47:42 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Fri Jun 18 2021 00:49:19 GMT+0000 (Coordinated Universal Time)
 # game/bakery.rpy#L14
 translate chinese bakeryvisit1_2f4adbe4:
 
@@ -909,13 +909,13 @@ translate chinese creamquickie_4097ff29:
 translate chinese creamquickie_8986fa09:
 
     # cream "Fiiine, let's start icing the cakes... Although I really wish you iced me instead..."
-    cream "好了，咱们来给蛋糕降降温吧……其实我也想让你给我降降温的……"
+    cream "好了，咱们来给蛋糕洒糖粉吧……其实我也好想让你给我洒些糖粉的……"
 
 # game/bakery.rpy#L275
 translate chinese creamquickie_48b93c57:
 
     # "Ten minutes and some cake icing later!"
-    "蛋糕冷却了十分钟之后！"
+    "十分钟后，我已经在一些蛋糕上洒好了糖粉！"
 
 # game/bakery.rpy#L280
 translate chinese creamquickie_b2d82791:
@@ -939,7 +939,7 @@ translate chinese creamquickie_60df8625:
 translate chinese creamquickie_2c89954e:
 
     # "Just as I had finished icing my cupcakes, she finished jamming and creaming a sponge cake. Just like that, we have our first batch done."
-    "在我将杯糕完全晾凉，她给蛋糕涂好奶油和果酱后，我们的第一炉蛋糕就全部做好了。"
+    "在我刚刚给杯糕洒完糖粉时，她也给蛋糕涂好了奶油和果酱。我们的第一炉蛋糕已经全部做好了。"
 
 # game/bakery.rpy#L286
 translate chinese creamquickie_92e57a12:
@@ -1593,13 +1593,13 @@ translate chinese creamquickie_ac42e3b7:
 translate chinese creamquickie_5ef8014c:
 
     # cream "I told you earlier, the point is to live to have as much fun as possible."
-    cream "I told you earlier, the point is to live to have as much fun as possible."
+    cream "我之前已经告诉过你了，让生活尽可能变得快乐有趣才是最重要的。"
 
 # game/bakery.rpy#L452
 translate chinese creamquickie_a866138f:
 
     # cream "Live by day, and in the moment! Forget the past, forget the future, just have a fun present..."
-    cream "Live by day, and in the moment! Forget the past, forget the future, just have a fun present..."
+    cream "过好每一天，过好每一刻！不要在意过去和将来，只管过好当下就可以了……"
 
 # game/bakery.rpy#L453
 translate chinese creamquickie_6fbdb44e:
@@ -1617,7 +1617,7 @@ translate chinese creamquickie_1060b8a7:
 translate chinese creamquickie_338ae0c4:
 
     # cream "Let me sit on your lap and allow me to warm you up with my fur."
-    cream "Let me sit on your lap and allow me to warm you up with my fur."
+    cream "就让我坐在你腿上吧，我会用我温暖的毛让你好好暖和起来的。"
 
 # game/bakery.rpy#L457
 translate chinese creamquickie_20d8d67d:
@@ -1629,7 +1629,7 @@ translate chinese creamquickie_20d8d67d:
 translate chinese creamquickie_5086bd80:
 
     # mc "I think we should head back; the guests will be arriving soon."
-    mc "I think we should head back; the guests will be arriving soon."
+    mc "我觉得咱们还是先等等吧，客人马上就要到了。"
 
 # game/bakery.rpy#L460
 translate chinese creamquickie_cc46ee40:
@@ -1677,7 +1677,7 @@ translate chinese creamquickie_15384f38:
 translate chinese creamquickie_e126277f:
 
     # cream "Mmm, each other!"
-    cream "Mmm, each other!"
+    cream "嗯……当然是共度二人世界了！"
 
 # game/bakery.rpy#L472
 translate chinese creamquickie_ae4b9f56:

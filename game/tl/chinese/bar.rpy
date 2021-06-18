@@ -1,4 +1,4 @@
-# Translation updated at Thu Jun 17 2021 00:47:42 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Fri Jun 18 2021 00:49:19 GMT+0000 (Coordinated Universal Time)
 # game/bar.rpy#L13
 translate chinese barvisit1_d43fa519:
 
@@ -675,271 +675,271 @@ translate chinese barvisit1choice1_3cc9c7f4:
 translate chinese barvisit1choice1_d892365c:
 
     # "She’s even nerdier than the unicorns!"
-    "She’s even nerdier than the unicorns!"
+    "要论书呆子的程度，她可比那些独角兽高到不知道哪里去了！"
 
 # game/bar.rpy#L203
 translate chinese barvisit1choice1_ac1f9a2f:
 
     # riku "Ahh… I’m boring you, aren’t I?"
-    riku "Ahh… I’m boring you, aren’t I?"
+    riku "噢......我让你感到无聊了，对吧？"
 
 # game/bar.rpy#L204
 translate chinese barvisit1choice1_7d2322b6:
 
     # mc "Oh no, not at all, something about a chicken, right?"
-    mc "Oh no, not at all, something about a chicken, right?"
+    mc "不不不，一点也没，鸡什么什么玩意的，对吧？"
 
 # game/bar.rpy#L206
 translate chinese barvisit1choice1_0cafbd6d:
 
     # riku "Whatever man! Look, we’re nearly at the gym, there are two places to point out here."
-    riku "Whatever man! Look, we’re nearly at the gym, there are two places to point out here."
+    riku "算了亲，无所谓！我们快到健身房了，不过，这附近还有俩有趣的地方。"
 
 # game/bar.rpy#L208
 translate chinese barvisit1choice1_2100a997:
 
     # riku "There’s Moxie’s wagon, extremely charismatic and entertaining. I wish she’d perform in the market more often, I’d get to see her out of my window."
-    riku "There’s Moxie’s wagon, extremely charismatic and entertaining. I wish she’d perform in the market more often, I’d get to see her out of my window."
+    riku "那玩意是Moxie的篷车，可谓是有趣又好玩。我倒是希望她能多来市场进行一次表演，这样，我透过窗户就能看了。"
 
 # game/bar.rpy#L209
 translate chinese barvisit1choice1_4b3cb412:
 
     # mc "I'm glad you pointed out the wagon, that's one place I have no idea about."
-    mc "I'm glad you pointed out the wagon, that's one place I have no idea about."
+    mc "很高兴你能给我讲讲那辆篷车，我对它可是一无所知。"
 
 # game/bar.rpy#L211
 translate chinese barvisit1choice1_05af4a35:
 
     # riku "Pfft, your sarcasm is duly noted."
-    riku "Pfft, your sarcasm is duly noted."
+    riku "呸，你讽刺的意思已经很好的传达到了。"
 
 # game/bar.rpy#L213
 translate chinese barvisit1choice1_6ad93b82:
 
     # riku "Here's something you probably don't know about the wagon area though, that's actually a clearing for a travelling circus that comes once a year. You just missed it though."
-    riku "Here's something you probably don't know about the wagon area though, that's actually a clearing for a travelling circus that comes once a year. You just missed it though."
+    riku "不过，关于停篷车的那块空地，你可能还不太了解，那块空地实际上是为一年一度的旅行马戏团表演准备的。你刚好错过了表演。"
 
 # game/bar.rpy#L214
 translate chinese barvisit1choice1_8c17689c:
 
     # mc "Awh damn."
-    mc "Awh damn."
+    mc "啊，淦。"
 
 # game/bar.rpy#L215
 translate chinese barvisit1choice1_13eab8aa:
 
     # riku "Just past the wagon you have that big looming boutique, scary place! They make clothes!"
-    riku "Just past the wagon you have that big looming boutique, scary place! They make clothes!"
+    riku "从篷车往旁边望去，你能看到一个贼大还一闪一闪的时装精品店，恐怖的很！她们可是做衣服的！"
 
 # game/bar.rpy#L216
 translate chinese barvisit1choice1_442a28df:
 
     # riku "Who for? I don’t know, Ruby is a whimsical character indeed."
-    riku "Who for? I don’t know, Ruby is a whimsical character indeed."
+    riku "至于为了谁做？那我就不晓得了，要说捉摸不透，那非Ruby莫属。"
 
 # game/bar.rpy#L218
 translate chinese barvisit1choice1_f2429922:
 
     # riku "I know I certainly wouldn’t be caught dead wearing one of those frilly dresses, heh."
-    riku "I know I certainly wouldn’t be caught dead wearing one of those frilly dresses, heh."
+    riku "我就知道自己下辈子也不会穿那些带花边的破裙子，呕。"
 
 # game/bar.rpy#L220
 translate chinese barvisit1choice1_7cb2c900:
 
     # "I could tell her they make lingerie, but I’ll keep quiet."
-    "I could tell her they make lingerie, but I’ll keep quiet."
+    "我其实可以告诉她说精品店是做内衣的，但我并没有说的打算。"
 
 # game/bar.rpy#L223
 translate chinese barvisit1choice1_8a613c38:
 
     # riku "Alright, let’s head to the gym. Figured I’ll pay for your membership, my treat."
-    riku "Alright, let’s head to the gym. Figured I’ll pay for your membership, my treat."
+    riku "好吧，咱去健身房吧。你的会员费就我包了。"
 
 # game/bar.rpy#L224
 translate chinese barvisit1choice1_4506c471:
 
     # mc "Actually, I’m sharing Moxie’s membership, so you don’t need to worry about that."
-    mc "Actually, I’m sharing Moxie’s membership, so you don’t need to worry about that."
+    mc "实际上，我能同Moxie共享会员身份，所以费用就不劳你操心了。"
 
 # game/bar.rpy#L226
 translate chinese barvisit1choice1_d77e7325:
 
     # riku "Oh, you’re not supposed to do that! I’ll stay hush though."
-    riku "Oh, you’re not supposed to do that! I’ll stay hush though."
+    riku "啊，你那么做是不对的！但我不会说出去就是了。"
 
 # game/bar.rpy#L227
 translate chinese barvisit1choice1_2c35516b:
 
     # mc "Appreciate it, say, aren’t you worried about hanging around a male all day?"
-    mc "Appreciate it, say, aren’t you worried about hanging around a male all day?"
+    mc "太感谢了。不过话说回来，你就不担心整体跟一个男的乱晃会出什么事吗？"
 
 # game/bar.rpy#L229
 translate chinese barvisit1choice1_8f06f6e9:
 
     # riku "What, just because I’m in heat?"
-    riku "What, just because I’m in heat?"
+    riku "啥，就因为我到发情期了吗？"
 
 # game/bar.rpy#L230
 translate chinese barvisit1choice1_42b55c84:
 
     # mc "Well, yeah…"
-    mc "Well, yeah…"
+    mc "嗯，确实......"
 
 # game/bar.rpy#L231
 translate chinese barvisit1choice1_e2d997fe:
 
     # mc "That and working out together, hot, sweat, exercise and all that."
-    mc "That and working out together, hot, sweat, exercise and all that."
+    mc "除了那，还有一起工作，热身，挥洒汗水，健身以及别的什么。"
 
 # game/bar.rpy#L233
 translate chinese barvisit1choice1_2f197de9:
 
     # riku "You’re making me feel nostalgic. I used to work out with my last gym buddy, then we’d go home and cap it off with sex."
-    riku "You’re making me feel nostalgic. I used to work out with my last gym buddy, then we’d go home and cap it off with sex."
+    riku "你让我回想起了往事。我曾同我上一个健身伙伴一起工作，下班后我们会一起回家，然后用做爱结束一天。"
 
 # game/bar.rpy#L235
 translate chinese barvisit1choice1_07746988:
 
     # riku "Mmm... Hmph..."
-    riku "Mmm... Hmph..."
+    riku "唔姆......嗯......."
 
 # game/bar.rpy#L236
 translate chinese barvisit1choice1_3fd2d7c9:
 
     # "She soon snaps from daydreaming to anger."
-    "She soon snaps from daydreaming to anger."
+    "她迷离的双眼转瞬间充满了怒火。"
 
 # game/bar.rpy#L237
 translate chinese barvisit1choice1_5372ea91:
 
     # riku "Then the shithead ditches me for some slut."
-    riku "Then the shithead ditches me for some slut."
+    riku "然后那个白痴就为了个婊子甩了我。"
 
 # game/bar.rpy#L238
 translate chinese barvisit1choice1_5ee27b1b:
 
     # mc "Oh? What happened?"
-    mc "Oh? What happened?"
+    mc "蛤？到底发生了啥？"
 
 # game/bar.rpy#L240
 translate chinese barvisit1choice1_9e470280:
 
     # riku "I don’t know… She was some bimbo with big tits, it won’t last, guarantee it."
-    riku "I don’t know… She was some bimbo with big tits, it won’t last, guarantee it."
+    riku "我不太清楚......这婊子有对很大的奶子，但我可以向你保证，那玩意肯定有水分。"
 
 # game/bar.rpy#L241
 translate chinese barvisit1choice1_ff68a762:
 
     # "I wonder if she has a complex about her breasts."
-    "I wonder if she has a complex about her breasts."
+    "我突发奇想，那人的奶子或许是合成的。"
 
 # game/bar.rpy#L246
 translate chinese barvisit1choice1_13e6a269:
 
     # riku "Eugh, kinda? It’s not like he was special, he was just a guy."
-    riku "Eugh, kinda? It’s not like he was special, he was just a guy."
+    riku "呃，算是吧？他对我来说也不是什么特别的存在，就一男的。"
 
 # game/bar.rpy#L247
 translate chinese barvisit1choice1_6514fe6f:
 
     # riku "If anything he should have been grateful to be with me."
-    riku "If anything he should have been grateful to be with me."
+    riku "非要说的话，他应该对我们的这段关系心怀感激。"
 
 # game/bar.rpy#L248
 translate chinese barvisit1choice1_00fd2beb:
 
     # riku "Thin, attractive, good money, stable job, good in bed."
-    riku "Thin, attractive, good money, stable job, good in bed."
+    riku "我身材够苗条，有魅力，有钱，有稳定的工作，床上功夫还了得。"
 
 # game/bar.rpy#L249
 translate chinese barvisit1choice1_8fcd2e60:
 
     # riku "But you know sometimes that’s just not good enough for some people."
-    riku "But you know sometimes that’s just not good enough for some people."
+    riku "但你知道的，这些条件有时候就是满足不了某些人的需求。"
 
 # game/bar.rpy#L252
 translate chinese barvisit1choice1_5895b49d:
 
     # riku "Whaaat? No!"
-    riku "Whaaat? No!"
+    riku "啥子玩意？当然不了！"
 
 # game/bar.rpy#L254
 translate chinese barvisit1choice1_f38f6d76:
 
     # riku "I’m not like that bimbo that sleeps around with anything! You have to earn me."
-    riku "I’m not like that bimbo that sleeps around with anything! You have to earn me."
+    riku "我可跟那个水性杨花的婊子不同！你得先赢得我的心。"
 
 # game/bar.rpy#L255
 translate chinese barvisit1choice1_4981280e:
 
     # riku "I mean plenty of stallions come into my bar, you won't see me sleeping around with them."
-    riku "I mean plenty of stallions come into my bar, you won't see me sleeping around with them."
+    riku "我意思是，来我店里的狮鹫数都数不过来，但你可不会看见我跟他们上床。"
 
 # game/bar.rpy#L256
 translate chinese barvisit1choice1_992f9ed5:
 
     # riku "I need to get to know someone first. I’m not about that sleezy life, I’ve been at a bar and seen the worst of it."
-    riku "I need to get to know someone first. I’m not about that sleezy life, I’ve been at a bar and seen the worst of it."
+    riku "我得先跟这个人熟络起来才行。我可不想过酒池肉林的生活，我在这酒吧带得够久，像这样的破事，再怎么糟的也多少见过一点。"
 
 # game/bar.rpy#L257
 translate chinese barvisit1choice1_6b376565:
 
     # riku "And my old gym buddy and that bimbo was the worst of it."
-    riku "And my old gym buddy and that bimbo was the worst of it."
+    riku "而我那位老健身伙伴同他的小婊子就能算是最糟糕的了。"
 
 # game/bar.rpy#L259
 translate chinese barvisit1choice1_93f7893b:
 
     # mc "You sure there isn’t something you’re not telling me? I’m not sure why you would be this mad over a single friend with benefits."
-    mc "You sure there isn’t something you’re not telling me? I’m not sure why you would be this mad over a single friend with benefits."
+    mc "你确定你还没瞒着我些什么吗？我不太能理解你的怒火，毕竟那只是个建立在利益基础上的朋友。"
 
 # game/bar.rpy#L261
 translate chinese barvisit1choice1_3fc5063b:
 
     # riku "Hmph… You’re not just nodding and yes-manning me. I respect that."
-    riku "Hmph… You’re not just nodding and yes-manning me. I respect that."
+    riku "哼嗯......你对我不全是阿谀奉承。值得尊敬。"
 
 # game/bar.rpy#L262
 translate chinese barvisit1choice1_810590a3:
 
     # riku "A lot of guys, especially this time of year will do whatever a mare says to please and placate them."
-    riku "A lot of guys, especially this time of year will do whatever a mare says to please and placate them."
+    riku "很多男的，尤其是在这个时节下，无所不用其极，就是为了哄雌驹开心。"
 
 # game/bar.rpy#L263
 translate chinese barvisit1choice1_15d327fd:
 
     # riku "But yeah, you’re right... There is something else that I find a little harder to talk about."
-    riku "But yeah, you’re right... There is something else that I find a little harder to talk about."
+    riku "但是，是啊，你想的是对的......有些事情比较难开口。"
 
 # game/bar.rpy#L264
 translate chinese barvisit1choice1_6fba035a:
 
     # riku "Tch, you see… He wanted to start a relationship, but I was too reluctant to commit to anything."
-    riku "Tch, you see… He wanted to start a relationship, but I was too reluctant to commit to anything."
+    riku "哎，你瞧......他想开始一段感情，但我根本没有要投入进去的意思。"
 
 # game/bar.rpy#L265
 translate chinese barvisit1choice1_b61e57d5:
 
     # riku "We were friends, and the sex was good, but I just couldn’t see it going anywhere."
-    riku "We were friends, and the sex was good, but I just couldn’t see it going anywhere."
+    riku "我们曾是朋友，性爱质量也挺高的，但我就是不觉得这些事最终会开花结果。"
 
 # game/bar.rpy#L266
 translate chinese barvisit1choice1_2ca6e7bd:
 
     # mc "If that’s the case, why are you so hurt? You two were only friends."
-    mc "If that’s the case, why are you so hurt? You two were only friends."
+    mc "如果真是这样的话，你怎么会为情所伤呢？你们俩只是朋友罢了。"
 
 # game/bar.rpy#L267
 translate chinese barvisit1choice1_27217e7d:
 
     # riku "Yeah, yeah, I know… Let’s sit on this bench before we go into the gym, I can’t run while ranting."
-    riku "Yeah, yeah, I know… Let’s sit on this bench before we go into the gym, I can’t run while ranting."
+    riku "是啊，是啊，我晓得的......在进健身房前，我们先上长椅那儿坐会吧，我发泄情绪的时候跑不了步。"
 
 # game/bar.rpy#L272
 translate chinese barvisit1choice1_f6870771:
 
     # riku "So this dude is frustrated that I won’t date him, right?"
-    riku "So this dude is frustrated that I won’t date him, right?"
+    riku "所以，哈，这个逼，仅仅是因为我不愿意同他约会，就表现的跟丢了魂儿一样？"
 
 # game/bar.rpy#L273
 translate chinese barvisit1choice1_95a08fa3:

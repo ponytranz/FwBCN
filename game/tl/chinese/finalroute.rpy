@@ -1,4 +1,4 @@
-# Translation updated at Thu Jun 17 2021 00:47:42 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Fri Jun 18 2021 00:49:20 GMT+0000 (Coordinated Universal Time)
 # game/finalroute.rpy#L6
 translate chinese finalroute_240762c1:
 

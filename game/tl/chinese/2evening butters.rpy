@@ -1,4 +1,4 @@
-# Translation updated at Thu Jun 17 2021 00:47:42 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Fri Jun 18 2021 00:49:19 GMT+0000 (Coordinated Universal Time)
 # game/2evening butters.rpy#L11
 translate chinese eveningbutters_ce840f9e:
 
@@ -1983,7 +1983,7 @@ translate chinese eveningbutterstalk_42a32566:
 translate chinese eveningbutterstalk_e5836cf8:
 
     # butters "Potions that sell, since alchemy is still very hush-hush there aren't many customers, but they pay well."
-    butters "一些拿来卖的药，因为炼药规模不是很大，也没有几个主顾，不过他们价格很公道。"
+    butters "拿来赚W的药，因为炼药规模不是很大，也没有几个主顾，不过他们价格很公道。"
 
 # game/2evening butters.rpy#L728
 translate chinese eveningbutterstalk_9cb0403e:
@@ -4323,7 +4323,7 @@ translate chinese buttersimpregpaizuri_f0298e9a:
 translate chinese buttersimpregpaizuri_af841e6f:
 
     # butters "See? My breasts are milky!"
-    butters "看见了吗？我的乳房在漏液！"
+    butters "嗒哒~我的乳房在漏液！"
 
 # game/2evening butters.rpy#L1527
 translate chinese buttersimpregpaizuri_c88f1a79:
