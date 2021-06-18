@@ -1845,7 +1845,7 @@ label wagon:
                 "<- Page 1":
                     jump cbmenu2
         "Enter Cheat":
-                $ password = renpy.input("Enter Password")
+                $ password = renpy.input(_("Enter Password"))
                 if password == ("ibeat0.2"):
                     "This cheat will reset your money to 200, and the days to 6. It'll automatically complete the boutique and farm routes."
                     menu:
@@ -1936,7 +1936,7 @@ label wagon:
                             jump daywagonmenu
                 elif password == ("changemyname"):
                     python:
-                        playername = renpy.input("What is your first name?")
+                        playername = renpy.input(_("What is your first name?"))
                         playername = playername.strip()
                         if not playername:
                             playername = "Anon"
