@@ -11,7 +11,7 @@ label prologue:
                         "Are you sure?"
                         "Yeah, skip the prologue":
                             python:
-                                playername = renpy.input("What is your first name?")
+                                playername = renpy.input(_("What is your first name?"))
                                 playername = playername.strip()
                                 if not playername:
                                     playername = "Anon"
@@ -79,7 +79,7 @@ label prologue:
         moxie "I want to ask questions now. What's your name?"
         unnamedmc "My name is..."
         python:
-            playername = renpy.input("What is your first name?")
+            playername = renpy.input(_("What is your first name?"))
             playername = playername.strip()
 
             if not playername:
