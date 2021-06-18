@@ -17,12 +17,11 @@ try {
     match[7] : text translated
     */
     for (let match of content.matchAll(
-      /# (game\/.+\.rpym?):(\d+)\s+translate chinese (.+):\s+# (.+ )?"(.+)"\s+(.+ )?"(.+)?"/g
+      /# (game\/.+\.rpym?)#L(\d+)\s+translate chinese (.+):\s+# (.+ )?"(.+)"\s+(.+ )?"(.+)?"/g
     )) result.push({
       key: match[3],
       original: match[5],
-      translation: match[7],
-      context: `说话人: ${match[4] ?? '无 '}\n代码: https://github.com/ponytranz/FwBCN/blob/main/${match[1]}#L${match[2]}`
+      context: `说话人: ${match[4] ?? '无 '}\n代码: https://github.com/ponytranz/FwBCN/blob/main/${match[1].replace(/ /g, '%20')}#L${match[2]}`
     })
     if (result.length)
       fs.writeFileSync(
@@ -38,7 +37,7 @@ try {
     */
     let last = '', cnt
     for (let match of content.matchAll(
-      /# ((.+):(\d+))\s+old "(.+)"\s+new "(.+)?"/g
+      /# ((.+)_L(\d+)_\d+)\s+old "(.+)"\s+new "(.+)?"/g
     )) {
       if (match[1] !== last) {
         last = match[1]
@@ -47,8 +46,7 @@ try {
       result.push({
         key: `${match[2]}_L${match[3]}_${cnt++}`,
         original: match[4],
-        translation: match[5],
-        context: `代码: https://github.com/ponytranz/FwBCN/blob/main/${match[2]}#L${match[3]}`
+        context: `代码: https://github.com/ponytranz/FwBCN/blob/main/${match[2].replace(/ /g, '%20')}#L${match[3]}`
       })
     }
     if (result.length)
