@@ -1,4 +1,4 @@
-# Translation updated at Fri Jun 18 2021 00:49:19 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Sat Jun 19 2021 00:49:46 GMT+0000 (Coordinated Universal Time)
 translate chinese strings:
 
     # renpy/common/00accessibility.rpy_L28_0

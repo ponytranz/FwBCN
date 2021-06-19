@@ -257,14 +257,14 @@
   {
     "id": 79443708,
     "createdAt": "2021-05-30T19:47:48.000Z",
-    "updatedAt": "2021-06-04T01:52:39.000Z",
+    "updatedAt": "2021-06-18T18:06:27.000Z",
     "key": "game/farm.rpy_L447_1",
     "original": "I think a pegasus would be a lot of help.",
-    "translation": "我觉得雇一匹飞马会很有用。",
+    "translation": "我觉得雇一匹天马会很有用。",
     "file": 272382,
     "stage": 1,
     "project": 2414,
-    "uid": 19759,
+    "uid": 20927,
     "extra": null,
     "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L447",
     "words": 10

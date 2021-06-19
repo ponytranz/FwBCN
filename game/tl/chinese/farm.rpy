@@ -1,4 +1,4 @@
-# Translation updated at Fri Jun 18 2021 00:49:20 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Sat Jun 19 2021 00:49:49 GMT+0000 (Coordinated Universal Time)
 # game/farm.rpy#L20
 translate chinese farm_c5de936b:
 
@@ -13817,7 +13817,7 @@ translate chinese strings:
 
     # game/farm.rpy_L447_1
     old "I think a pegasus would be a lot of help."
-    new "我觉得雇一匹飞马会很有用。"
+    new "我觉得雇一匹天马会很有用。"
 
     # game/farm.rpy_L496_0
     old "Like a husband?"

@@ -1,4 +1,4 @@
-# Translation updated at Fri Jun 18 2021 00:49:20 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Sat Jun 19 2021 00:49:49 GMT+0000 (Coordinated Universal Time)
 # game/library.rpy#L18
 translate chinese libraryvisit1_98593462:
 
@@ -4077,73 +4077,73 @@ translate chinese penelopecunnilingus_ce29b6cf:
 translate chinese penelopecunnilingus_bb50c9aa:
 
     # "I did have the nagging feeling I’d spontaneously turn male at some point during the sex, but Penny kept a close eye on the time."
-    "I did have the nagging feeling I’d spontaneously turn male at some point during the sex, but Penny kept a close eye on the time."
+    "有一点让我耿耿于怀，那就是在做爱过程中的某个时刻我会很自然地变成男性，但Penny一直密切关注着时间。"
 
 # game/library.rpy#L1170
 translate chinese penelopecunnilingus_f105c86d:
 
     # "After we both enjoyed our second orgasms she sat back down on the sofa, shortly after I found myself reacquainted with my penis. I must admit, I was starting to miss it."
-    "After we both enjoyed our second orgasms she sat back down on the sofa, shortly after I found myself reacquainted with my penis. I must admit, I was starting to miss it."
+    "在我们都享受了第二次高潮后，她坐回了沙发上，不久后我发现我的阴茎恢复了。老实说，我都开始想念它了。"
 
 # game/library.rpy#L1172
 translate chinese penelopecunnilingus_66165720:
 
     # penelope "Mmphh, the spell finally faded... That felt like a long thirty minutes."
-    penelope "Mmphh, the spell finally faded... That felt like a long thirty minutes."
+    penelope "嗯，咒语终于消失了……这感觉真是漫长的30分钟。"
 
 # game/library.rpy#L1173
 translate chinese penelopecunnilingus_d2f3625c:
 
     # penelope "I can’t believe I just did something so crazy with a guy."
-    penelope "I can’t believe I just did something so crazy with a guy."
+    penelope "真不敢相信我刚和一个男人做了这么疯狂的事。"
 
 # game/library.rpy#L1174
 translate chinese penelopecunnilingus_485ef22a:
 
     # mc "Crazy is right. I'm a dude that just had lesbian sex."
-    mc "Crazy is right. I'm a dude that just had lesbian sex."
+    mc "确实。我也是个和女同做爱的男人。"
 
 # game/library.rpy#L1176
 translate chinese penelopecunnilingus_05cadfd9:
 
     # penelope "A wild experience for both of us, I’m sure you won’t soon be forgetting it."
-    penelope "A wild experience for both of us, I’m sure you won’t soon be forgetting it."
+    penelope "这对我们俩来说都是一次疯狂的经历，我相信你不会很快忘记的。"
 
 # game/library.rpy#L1177
 translate chinese penelopecunnilingus_b94c5c81:
 
     # mc "That’s for damn sure, the knowledge of how much better a female orgasm is compared to a male’s is burned into my mind."
-    mc "That’s for damn sure, the knowledge of how much better a female orgasm is compared to a male’s is burned into my mind."
+    mc "那当然，女性高潮比男性高潮要好得多的知识将一直烙在我的脑海中。"
 
 # game/library.rpy#L1178
 translate chinese penelopecunnilingus_9e01bee1:
 
     # mc "I feel like all my faps will be so empty and hollow from now on, as I always try to reach the high I had on this sofa."
-    mc "I feel like all my faps will be so empty and hollow from now on, as I always try to reach the high I had on this sofa."
+    mc "我觉得从现在开始，我所有的手冲都是空虚的，我总是试图在沙发上自嗨起来。"
 
 # game/library.rpy#L1180
 translate chinese penelopecunnilingus_258c0e6f:
 
     # penelope "Heheh, you could always reach that high just by visiting me."
-    penelope "Heheh, you could always reach that high just by visiting me."
+    penelope "哈哈，你只要常来看看我，我就能给你更刺激的高潮。"
 
 # game/library.rpy#L1181
 translate chinese penelopecunnilingus_8a449802:
 
     # mc "Are you proposing we do this again sometime?"
-    mc "Are you proposing we do this again sometime?"
+    mc "你建议我们在某个时候再做一次？"
 
 # game/library.rpy#L1183
 translate chinese penelopecunnilingus_33012534:
 
     # penelope "Mmm, maayybe! How about we finish that film before it gets too late?"
-    penelope "Mmm, maayybe! How about we finish that film before it gets too late?"
+    penelope "嗯,也许吧 !我们在太晚之前看完那部电影如何？"
 
 # game/library.rpy#L1184
 translate chinese penelopecunnilingus_5145afd0:
 
     # mc "Sure thing, it was starting to get really good."
-    mc "Sure thing, it was starting to get really good."
+    mc "当然，好日子还在后头呢。"
 
 # game/library.rpy#L1187
 translate chinese penelopecunnilingus_ce617998_1:
@@ -4155,55 +4155,55 @@ translate chinese penelopecunnilingus_ce617998_1:
 translate chinese penelopecunnilingus_04e740cc:
 
     # "What a day..."
-    "What a day..."
+    "多么美好的一天..."
 
 # game/library.rpy#L1191
 translate chinese penelopecunnilingus_ab6c961f:
 
     # "I finished watching the film and I went back to the wagon."
-    "I finished watching the film and I went back to the wagon."
+    "我看完了电影，回到了篷车上。"
 
 # game/library.rpy#L1192
 translate chinese penelopecunnilingus_9bdefe02:
 
     # "I feel like I can’t tell Moxie about anything I did today. Sleeping with a girl she suggested seemed like fair game, but she didn’t mention anything about Penelope or Lily."
-    "I feel like I can’t tell Moxie about anything I did today. Sleeping with a girl she suggested seemed like fair game, but she didn’t mention anything about Penelope or Lily."
+    "我觉得我不能告诉Moxie我今天的所作所为。虽然与她建议的女孩上床似乎是个合理游戏，但她并没有提起过有关于Penelope和Lily的事。"
 
 # game/library.rpy#L1193
 translate chinese penelopecunnilingus_caed72e0:
 
     # "Penelope is her best friend and a previous lover, how would she feel if she knew that I of all people managed to seduce her lesbian friend?"
-    "Penelope is her best friend and a previous lover, how would she feel if she knew that I of all people managed to seduce her lesbian friend?"
+    "Penelope是她最好的朋友，也是她曾经的情人，如果她知道我是所有人当中最成功勾引到她姬友的那位，她会作何感想?"
 
 # game/library.rpy#L1194
 translate chinese penelopecunnilingus_35234409:
 
     # "What about Lily? She and Moxie seem to resent each other in their stubbornness, and she specifically requested that I kept the sex a secret."
-    "What about Lily? She and Moxie seem to resent each other in their stubbornness, and she specifically requested that I kept the sex a secret."
+    "那Lily呢?她和Moxie还因为彼此间的倔强而不和，而且她还特别要求我保守住做爱的密秘。"
 
 # game/library.rpy#L1195
 translate chinese penelopecunnilingus_cd3a38bf:
 
     # "Yeah, I think I’ll keep all the sex secret. Both Lily and Penny will likely appreciate that."
-    "Yeah, I think I’ll keep all the sex secret. Both Lily and Penny will likely appreciate that."
+    "是的，我想我会保守住秘密。Lily和Penny都会欣赏这点的。"
 
 # game/library.rpy#L1199
 translate chinese penelopecunnilingus_f5b38f33:
 
     # "When I return it’s just past 5:00pm so Moxie is already back, relaxing on the sofa."
-    "When I return it’s just past 5:00pm so Moxie is already back, relaxing on the sofa."
+    "当我回来的时候，已是下午5点多了，所以Moxie也到家了，正躺在沙发上休息。"
 
 # game/library.rpy#L1201
 translate chinese penelopecunnilingus_ae2ba835:
 
     # moxie "Oh, hey [playername]! How was the booooring library shift?"
-    moxie "Oh, hey [playername]! How was the booooring library shift?"
+    moxie "噢，嘿[playername] !在图书馆工作的怎么样?"
 
 # game/library.rpy#L1202
 translate chinese penelopecunnilingus_42f006ee:
 
     # mc "Not bad at all, the tea and sophisticated talks were great."
-    mc "Not bad at all, the tea and sophisticated talks were great."
+    mc "挺好，三点几放工喝喝茶聊聊天。"
 
 # game/library.rpy#L1204
 translate chinese penelopecunnilingus_604ba663:

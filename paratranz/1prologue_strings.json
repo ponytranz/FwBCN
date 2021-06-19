@@ -647,14 +647,14 @@
   {
     "id": 79442629,
     "createdAt": "2021-05-30T19:47:44.000Z",
-    "updatedAt": "2021-06-02T16:21:40.000Z",
+    "updatedAt": "2021-06-18T15:52:17.000Z",
     "key": "game/1prologue.rpy_L964_1",
     "original": "(Say nothing)",
-    "translation": "（说点什么）",
+    "translation": "（什么都不说）",
     "file": 272365,
     "stage": 3,
     "project": 2414,
-    "uid": 21858,
+    "uid": 20927,
     "extra": null,
     "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/1prologue.rpy#L964",
     "words": 2

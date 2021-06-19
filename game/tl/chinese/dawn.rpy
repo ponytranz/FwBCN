@@ -1,4 +1,4 @@
-# Translation updated at Fri Jun 18 2021 00:49:19 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Sat Jun 19 2021 00:49:46 GMT+0000 (Coordinated Universal Time)
 # game/dawn.rpy#L5
 translate chinese dawntalksex_7eb30d83:
 
@@ -1719,7 +1719,7 @@ translate chinese dawnv2c1_2bdda0e4:
 translate chinese dawnv2c1_4638ddc2:
 
     # mc "Sheesh... I'd be so jealous if I was a regular pony in a world of flying and magic ponies."
-    mc "如果在一个有飞马和独角兽的世界我只是一匹普通小马，我一定会感到很嫉妒。"
+    mc "如果在一个有天马和独角兽的世界我只是一匹普通小马，我一定会感到很嫉妒。"
 
 # game/dawn.rpy#L541
 translate chinese dawnv2c1_9be1be14:
@@ -8999,15 +8999,15 @@ translate chinese strings:
 
     # game/dawn.rpy_L986_0
     old "Unfortunately, that world doesn’t have any girls as beautiful as you"
-    new "很不幸，那个世界可没有像你们这么漂亮的姑娘。"
+    new "很不幸，那个世界可没有像你这么漂亮的姑娘。"
 
     # game/dawn.rpy_L986_1
     old "Unfortunately, all my old family and friends aren’t in that world."
-    new "很不幸，我所有的家人和朋友都不在那个世界了。"
+    new "很不幸，我原来所有的家人和朋友都不在那个世界了。"
 
     # game/dawn.rpy_L997_0
     old "Sometimes I miss the feeling of a human, that’s one of the reasons I came here."
-    new "有时，我会忘记人的感受。所以，这也是我来到这里的原因之一。"
+    new "有时，我会想念人的感受。所以，这也是我来到这里的原因之一。"
 
     # game/dawn.rpy_L997_1
     old "Ponies are pretty nice; their fur is really soft."
@@ -9019,7 +9019,7 @@ translate chinese strings:
 
     # game/dawn.rpy_L1007_1
     old "About the same"
-    new "差不多"
+    new "差不多。"
 
     # game/dawn.rpy_L1556_0
     old "Huh?"
@@ -9031,11 +9031,11 @@ translate chinese strings:
 
     # game/dawn.rpy_L1556_2
     old "Can you take advantage of me too?"
-    new "你也能利用我吗？"
+    new "你能让我也爽吗？"
 
     # game/dawn.rpy_L1587_0
     old "But I thought what we had was special!"
-    new "但我觉得，我们所拥有的东西是很特殊的！"
+    new "但我以为我们之间发生的事是特别的！"
 
     # game/dawn.rpy_L1587_1
     old "Everyone? What's your body count?"
@@ -9043,7 +9043,7 @@ translate chinese strings:
 
     # game/dawn.rpy_L1587_2
     old "I got that reference."
-    new "我找到了资料。"
+    new "我懂你的意思。"
 
     # game/dawn.rpy_L1587_3
     old "Oh yeah? Bold words coming from the the most clothed mare in the entire city."
@@ -9059,7 +9059,7 @@ translate chinese strings:
 
     # game/dawn.rpy_L1773_2
     old "I don’t know where you got that idea from Dawn, Lily’s too innocent for that."
-    new "我不知道你是怎么从Dawn那儿得到的主意，可Lily实在是太无辜了。"
+    new "Dawn,我不知道你是从那儿得到的主意，这可不太适合纯洁的Lily。"
 
     # game/dawn.rpy_L2011_0
     old "Stay here with them for the night"
@@ -9067,7 +9067,7 @@ translate chinese strings:
 
     # game/dawn.rpy_L2011_1
     old "Leave them to it"
-    new "让她们负责吧。"
+    new "让她们享受二人时光。"
 
     # game/dawn.rpy_L2148_0
     old "Tea takes a long time to cool, think you can wait that long?"
@@ -9099,7 +9099,7 @@ translate chinese strings:
 
     # game/dawn.rpy_L2198_0
     old "What's with the suspicion? I'm just a dude that knows stuff."
-    new "什么叫怀疑？我只是个知道一些事的普通人罢了。"
+    new "干嘛怀疑我？我只是个知道一些事的普通人罢了。"
 
     # game/dawn.rpy_L2198_1
     old "I'm a nobody, really. I've only been living here for [days] days."
@@ -9107,7 +9107,7 @@ translate chinese strings:
 
     # game/dawn.rpy_L2198_2
     old "It's the truth! I'm close with Aurora, Lily and others!"
-    new "是真的！我和Aurora、Lily，还是其他人的关系都很亲密！"
+    new "是真的！我和Aurora、Lily，还有其他人的关系都很亲密！"
 
     # game/dawn.rpy_L2214_0
     old "Do you think there's a Morphling disguising themselves as you?"
@@ -9119,5 +9119,5 @@ translate chinese strings:
 
     # game/dawn.rpy_L2214_2
     old "That is weird, what do you think is going on?"
-    new "太奇怪了，你认为发生了什么事？"
+    new "那有些奇怪，你觉得是什么情况？"
 

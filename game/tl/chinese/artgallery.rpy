@@ -1,4 +1,4 @@
-# Translation updated at Fri Jun 18 2021 00:49:19 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Sat Jun 19 2021 00:49:46 GMT+0000 (Coordinated Universal Time)
 # game/artgallery.rpy#L8
 translate chinese artgallery_867fe6a7:
 
@@ -301,15 +301,15 @@ translate chinese strings:
 
     # game/artgallery.rpy_L706_2
     old "Cowgirl (Normal/Succubus)"
-    new "骑乘位（常规/梦淫妖）"
+    new "骑乘位（常规/魅魔）"
 
     # game/artgallery.rpy_L706_3
     old "Legup Doggy (Normal/Succubus)"
-    new "抬腿后入（常规/梦淫妖）"
+    new "抬腿后入（常规/魅魔）"
 
     # game/artgallery.rpy_L706_4
     old "Reverse Cowgirl (Normal/Succubus)"
-    new "逆骑乘位（常规/梦淫妖）"
+    new "逆骑乘位（常规/魅魔）"
 
     # game/artgallery.rpy_L706_5
     old "Poyo"

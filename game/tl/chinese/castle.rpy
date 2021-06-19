@@ -1,4 +1,4 @@
-# Translation updated at Fri Jun 18 2021 00:49:19 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Sat Jun 19 2021 00:49:46 GMT+0000 (Coordinated Universal Time)
 # game/castle.rpy#L6
 translate chinese castle_38f72bb5:
 
@@ -759,7 +759,7 @@ translate chinese auroravisit1_f5d4ad02:
 translate chinese auroravisit1_f5dcee5d:
 
     # "Masturbating, with a dildo! Effortlessly using telekinesis to piston it back and forth."
-    "她在用假阳具自慰!魔法毫不费力地让它来回抽插。"
+    "她在用假阳具自慰！意念移物术令其毫不费力地来回抽插。"
 
 # game/castle.rpy#L263
 translate chinese auroravisit1_40d6b4f5:
@@ -2541,73 +2541,73 @@ translate chinese selenemenu_f035e201:
 translate chinese selenemenu_150cd8bc:
 
     # selene "I think it's important for a princess to have a subject to engage in {i}copulation{/i} with for the purposes of relief, don't you agree?"
-    selene "I think it's important for a princess to have a subject to engage in {i}copulation{/i} with for the purposes of relief, don't you agree?"
+    selene "我认为对于一个公主来说，和某个对象{i}交配{/i}是一种重要的娱乐方式，你不同意吗?"
 
 # game/castle.rpy#L756
 translate chinese selenemenu_0a5b85d5:
 
     # mc "I'd say so, is this an interview?"
-    mc "I'd say so, is this an interview?"
+    mc "这么说，这是场面试吗?"
 
 # game/castle.rpy#L757
 translate chinese selenemenu_52975376:
 
     # selene "Hehe, no, you already have the position..."
-    selene "Hehe, no, you already have the position..."
+    selene "哈哈，不，你已经通过了……"
 
 # game/castle.rpy#L758
 translate chinese selenemenu_88205126:
 
     # "She reaches her hand over to my rapidly growing erection, and gracefully moves it up and down my cock, applying pressure perfectly to stimulate the neck of my glans. Within seconds I’m stiff solid."
-    "She reaches her hand over to my rapidly growing erection, and gracefully moves it up and down my cock, applying pressure perfectly to stimulate the neck of my glans. Within seconds I’m stiff solid."
+    "她把手伸到我迅速勃起的下体，优雅地上上下下撸我的阴茎，完美地刺激着我的龟头。我立刻硬了。"
 
 # game/castle.rpy#L760
 translate chinese selenemenu_1127b056:
 
     # "She lecherously muffles moans whilst her other hand begins to rub her cute puffy labia, the movements create lewd squelching sounds, causing my cock to throb in response."
-    "She lecherously muffles moans whilst her other hand begins to rub her cute puffy labia, the movements create lewd squelching sounds, causing my cock to throb in response."
+    "她顽皮地低声娇喘，另一只手开始摩擦她可爱的肿胀阴唇，这些动作演奏着下流的“音乐”，让我的阴茎“翩翩起舞”。"
 
 # game/castle.rpy#L762
 translate chinese selenemenu_76dfe1c9:
 
     # "She brushes her hair out of the way as she lowers her muzzle down to the same level as my cock and kisses the precum off the tip."
-    "She brushes her hair out of the way as she lowers her muzzle down to the same level as my cock and kisses the precum off the tip."
+    "她把她的头发拨到一旁，然后舌吻着我的龟头。"
 
 # game/castle.rpy#L763
 translate chinese selenemenu_34ec7556:
 
     # selene "What do you think of my royal blowjob?"
-    selene "What do you think of my royal blowjob?"
+    selene "喜欢我的皇家口交吗?"
 
 # game/castle.rpy#L764
 translate chinese selenemenu_9ddbb69b:
 
     # mc "You're almost too good, your highness, you'll make me ejaculate prematurely."
-    mc "You're almost too good, your highness, you'll make me ejaculate prematurely."
+    mc "你太厉害了，殿下，你会让我早泄的。"
 
 # game/castle.rpy#L765
 translate chinese selenemenu_e3bfa2fc:
 
     # selene "*Giggles*. That's no problem for my magic..."
-    selene "*Giggles*. That's no problem for my magic..."
+    selene "*笑*。这对我的魔法来说不成问题……"
 
 # game/castle.rpy#L767
 translate chinese selenemenu_79c315c8:
 
     # "Her long equine tongue starts to coil around the tip of my dick and swirl around, her finger grip is moving faster too, stimulating me towards an orgasm at a shocking rate."
-    "Her long equine tongue starts to coil around the tip of my dick and swirl around, her finger grip is moving faster too, stimulating me towards an orgasm at a shocking rate."
+    "她的长舌开始一圈圈舔着我的龟头，她的手指撸得也更快了，以惊人的速度让我达到高潮。"
 
 # game/castle.rpy#L768
 translate chinese selenemenu_4bde6d2c:
 
     # "Occasionally she pulls up to continue her saccharine dirty talk, all of my senses are being invaded simultaneously. Sex with Princess Selene is blissful."
-    "Occasionally she pulls up to continue her saccharine dirty talk, all of my senses are being invaded simultaneously. Sex with Princess Selene is blissful."
+    "她甚至偶尔还会停下来说她那谄媚似的情话，让我的五官同时被她”侵犯“。与Selene公主做爱真性福。"
 
 # game/castle.rpy#L769
 translate chinese selenemenu_0835da39:
 
     # selene "Mmphh, I don't know why but your cock turns me on so much..."
-    selene "Mmphh, I don't know why but your cock turns me on so much..."
+    selene "唔，我不知道为什么，但你的阴茎让我非常兴奋…"
 
 # game/castle.rpy#L771
 translate chinese selenemenu_4f2a9f9f:

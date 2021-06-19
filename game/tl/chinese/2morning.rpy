@@ -1,15 +1,15 @@
-# Translation updated at Fri Jun 18 2021 00:49:19 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Sat Jun 19 2021 00:49:46 GMT+0000 (Coordinated Universal Time)
 # game/2morning.rpy#L14
 translate chinese morning_f5b564ef:
 
     # "I awaken well rested."
-    "我休息得好极了。"
+    "我一觉睡醒，休息得好极了。"
 
 # game/2morning.rpy#L16
 translate chinese morning_cef3722e:
 
     # "Another wet dream, this place is getting to me."
-    "我又遗精了。这地方让我好伤心啊。"
+    "又是一场春梦，这地方让我好伤心啊。"
 
 # game/2morning.rpy#L18
 translate chinese morning_d4b70dc0:
@@ -39,7 +39,7 @@ translate chinese morning_79dbd9ad:
 translate chinese altmorning_18ed8f77:
 
     # moxie "Good morning, I was just about to go for a nap. Selene's lessons were really tough!"
-    moxie "早上好，我刚才正想打个盹呢。Selene的'课'可真厉害啊！"
+    moxie "早上好，我刚才正想打个盹呢。Selene上的课太难了！"
 
 # game/2morning.rpy#L36
 translate chinese altmorning_ffbd9fb1:
@@ -69,7 +69,7 @@ translate chinese altmorning_df253778:
 translate chinese altmorning_d9177f6c:
 
     # moxie "That's heckin' true! That's how you and I ended up rutting."
-    moxie "说的太对了！你和我就是要这样来一发"
+    moxie "说的太对了！你和我就是要这样来一发。"
 
 # game/2morning.rpy#L44
 translate chinese altmorning_8b375ae5:
@@ -87,7 +87,7 @@ translate chinese altmorning_20860e1b:
 translate chinese altmorning_a0d28882:
 
     # moxie "Oh hey! Glad I got to see you before I left for work, I was just leaving tho'."
-    moxie "哦，嘿！很高兴我上班之前还能见到你，我正准备动身呢。"
+    moxie "哦，嘿！很高兴我上班之前还能见到你，我刚刚正准备动身呢。"
 
 # game/2morning.rpy#L54
 translate chinese altmorning_9f72c9b6:
@@ -117,7 +117,7 @@ translate chinese altmorning_8a6b667c:
 translate chinese altmorning_16e7978c:
 
     # mc "Hey Moxie, what's up?"
-    mc "嘿，Moxie，你想说什么？"
+    mc "嘿，Moxie，你想干什么？"
 
 # game/2morning.rpy#L63
 translate chinese altmorning_448f754f:
@@ -129,7 +129,7 @@ translate chinese altmorning_448f754f:
 translate chinese altmorning_04f435ab:
 
     # mc "Sure am."
-    mc "当然了"
+    mc "当然了。"
 
 # game/2morning.rpy#L65
 translate chinese altmorning_9fbc170a:
@@ -141,7 +141,7 @@ translate chinese altmorning_9fbc170a:
 translate chinese altmorning_bbada846:
 
     # mc "Sounds efficient."
-    mc "听起来很高效的样子"
+    mc "听起来很高效的样子。"
 
 # game/2morning.rpy#L67
 translate chinese altmorning_bf541016:
@@ -153,19 +153,19 @@ translate chinese altmorning_bf541016:
 translate chinese altmorning_f8d61a2d:
 
     # "We fuck in the shower before she leaves for work."
-    "在她动身上班之前我们在浴室里来了一发"
+    "在她动身上班之前我们在浴室里来了一发。"
 
 # game/2morning.rpy#L72
 translate chinese altmorning_b93eaf0b:
 
     # "Looks like Moxie has already left."
-    "看起来Moxie已经离开了"
+    "看起来Moxie已经离开了。"
 
 # game/2morning.rpy#L79
 translate chinese altmorning_a8c41cfe:
 
     # butters "Good morning! Guess I better get used to Mr. Popular not appearing some nights."
-    butters "晚上好！我想我最好先适应一下马见马爱先生晚上不出现的生活。"
+    butters "早上好！我想我最好先适应一下马见马爱先生晚上不出现的生活。"
 
 # game/2morning.rpy#L80
 translate chinese altmorning_702b380d:
@@ -207,7 +207,7 @@ translate chinese morningvariables_a20cefa7:
 translate chinese morningvariables_2963f583:
 
     # "Damn, my gallery pass expired."
-    "我靠，我的美术馆通行证要过期了。"
+    "我靠，我的美术馆通行证过期了。"
 
 # game/2morning.rpy#L107
 translate chinese morningvariables_89f73c83:
@@ -303,7 +303,7 @@ translate chinese mail_71cb91fd:
 translate chinese mail_8561ca27:
 
     # "'Please behave yourself, I'm hoping to formally introduce myself to you soon. I apologize for the brief incident with Augusta."
-    "‘请自重，我希望能马上向你做个正式的自我介绍。而且，我要为刚才和Augusta发生的小矛盾向你道歉。"
+    "‘请自重，我希望能马上向你做个正式的自我介绍。而且，我要为刚才你和Augusta发生的小矛盾道歉。"
 
 # game/2morning.rpy#L189
 translate chinese mail_7ae810ca:
@@ -327,7 +327,7 @@ translate chinese mail_679247fb:
 translate chinese mail_6c4d9ecb:
 
     # "There's even a cookie in here, 'baked this morning just for you.'"
-    "这里面居然还有一块饼干。‘这是我今早特意为你做的。’"
+    "这里面居然还有一块饼干。'这是我今早特意为你做的。'"
 
 # game/2morning.rpy#L194
 translate chinese mail_29200b7e:
@@ -351,7 +351,7 @@ translate chinese mail_f986e85f:
 translate chinese mail_695c8bc9:
 
     # "Indeed, there are no days off in an old-fashioned locale like Arcadia, let's get to work."
-    "确实，像Arcadia这样古老的世界是没有休息日的。我们还是工作吧。"
+    "确实，像Arcadia这样守旧的世界是没有休息日的。我们还是工作吧。"
 
 # game/2morning.rpy#L200
 translate chinese mail_2f6f40ac:
@@ -363,13 +363,13 @@ translate chinese mail_2f6f40ac:
 translate chinese mail_9a9e7d96:
 
     # "I've spent almost every day doing something crazy and exciting."
-    "我每天基本上都会做一些疯狂和让人兴奋不已的事。"
+    "我基本上每天都会做一些疯狂和让人兴奋不已的事。"
 
 # game/2morning.rpy#L202
 translate chinese mail_8fe6aaa1:
 
     # "Here's to another wild day!"
-    "为了疯狂的明天干杯！"
+    "为了疯狂的一天干杯！"
 
 # game/2morning.rpy#L204
 translate chinese mail_533d8c0c:
@@ -381,7 +381,7 @@ translate chinese mail_533d8c0c:
 translate chinese mail_0525d34e:
 
     # "I wonder what exciting adventure I'll get up to today."
-    "我在考虑，今天要做些什么有意思的事呢。"
+    "我在考虑，今天会遇到什么有意思的事呢。"
 
 # game/2morning.rpy#L207
 translate chinese mail_11bfc07b:
@@ -411,7 +411,7 @@ translate chinese mail_3d7106c3:
 translate chinese mail_6c2b5ba2:
 
     # "Today's the day Anna gets milked at the barn, maybe I should go visit the farm for some fun."
-    "今天是给Anna挤奶的日子了。也许我应该去农场找找乐子。"
+    "今天是Anna在谷仓挤奶的日子。也许我应该去农场找找乐子。"
 
 # game/2morning.rpy#L215
 translate chinese mail_206e2c9c:
@@ -453,13 +453,13 @@ translate chinese mail_09effd0f:
 translate chinese mail_d203fa42:
 
     # dawn "’Please visit the Bed of Chaos when it suits you and I shall make it more than worth your while…’"
-    dawn "‘你有时间的话，就来无序之榻找我。我会让你物超所值的……’"
+    dawn "‘你有时间的话，就来无序之榻找我。我会让你感到物超所值……’"
 
 # game/2morning.rpy#L230
 translate chinese mail_be72e518:
 
     # "Despite the pretext, she obviously isn’t asking for sex, however, it feels like she’s using her sexuality to make me dance in her palm."
-    "尽管她没提到任何和性有关的词语，但还是能感觉到她在用自己的性欲引诱我。"
+    "尽管她没提到任何和性有关的词语，信的内容也明显与此无关，但我还是感觉她在用自己的性魅力在引诱我。"
 
 # game/2morning.rpy#L231
 translate chinese mail_1b53b1ec:
@@ -483,13 +483,13 @@ translate chinese mail_684a127b:
 translate chinese mail_7fa5a2b3:
 
     # "’Hello, my little kitten! I have a special labour of love that only a man of your abilities can accomplish. Come see me, any morning will do. TTFN, duckling!"
-    "‘你好啊，我的小猫咪！我准备了一次很特别的爱爱，只有像你这么经验丰富的帅哥才能做得来。每天早上都可以来哦。回头见，小鸭子！"
+    "‘你好啊，我的小猫咪！我准备了一次很特别的爱爱，只有像你这么经验丰富的帅哥才能做得来。快来找我，随便一个早上就行。回头见，小鸭子！"
 
 # game/2morning.rpy#L242
 translate chinese mail_9ddc3f0a:
 
     # "Oh hey, she called me kitten and duckling simultaneously this time. I wonder if she just uses both for variety."
-    "哦，嘿，她这次居然会同时叫我“小猫咪”和“小鸭子”。我在想，这两个词会不会全都是她对我的别称。"
+    "哦，嘿，她这次居然会同时叫我“小猫咪”和“小鸭子”。我很好奇她这么说是不是仅仅为了避免重复用词。"
 
 # game/2morning.rpy#L243
 translate chinese mail_fc536104:
@@ -501,7 +501,7 @@ translate chinese mail_fc536104:
 translate chinese events_9ec10fd5:
 
     # butters "Good morning. I got a magic mail from Lily inviting you and I to an outdoor sauna to have a break."
-    butters "早上好。我收到了一封Lily寄来的信，她邀请我们两个去做一次室外桑拿来好好放松一下。"
+    butters "早上好。我收到了一封Lily寄来的魔法信件，她邀请我们两个去做一次室外桑拿来好好放松一下。"
 
 # game/2morning.rpy#L258
 translate chinese events_ac325ee2:
@@ -549,7 +549,7 @@ translate chinese events_33ddde5d:
 translate chinese events_09ea0b35:
 
     # "(100%% completion bonus unlocked at the Castle.)"
-    "（于城堡解锁了100%完成度奖励。）"
+    "（于城堡解锁100%完成度奖励。）"
 
 # game/2morning.rpy#L270
 translate chinese events_f1b54ad9:
@@ -573,7 +573,7 @@ translate chinese events_d89c1634:
 translate chinese events_193243d0:
 
     # "Who has incidently turned into a succubus again."
-    "她又变成了梦淫妖。"
+    "她又变成了魅魔。"
 
 # game/2morning.rpy#L300
 translate chinese events_e3189b8d:
@@ -597,7 +597,7 @@ translate chinese events_9aedfcb4:
 translate chinese events_20f6707f:
 
     # butters "I'm leaving in a few minutes, let me know if you want to come spelunking with me."
-    butters "我马上就要走了。如果你想和我spelunking的话，就告诉我哦。"
+    butters "我马上就要走了。如果你想和我'探索洞穴'的话，就告诉我哦。"
 
 # game/2morning.rpy#L312
 translate chinese events_fc6eef56:

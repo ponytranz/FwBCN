@@ -1,4 +1,4 @@
-# Translation updated at Fri Jun 18 2021 00:49:19 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Sat Jun 19 2021 00:49:46 GMT+0000 (Coordinated Universal Time)
 # game/1prologue.rpy#L25
 translate chinese prologueday1_c7b6965c:
 
@@ -1233,7 +1233,7 @@ translate chinese intro69_b235c56e:
 translate chinese intro69_232f84ac:
 
     # "This is the first time I’ve ever seen something like this so close and in person. However, Moxie is no ordinary girl. Her outer labia has a coating of fur, with her vulva clearly sticking out giving easy access."
-    "这是我这辈子第一次这么近地亲眼看这样的东西。话虽如此，Moxie可不是什么普通的女孩。她阴唇的外侧覆了一层由皮毛组成的外衣，女阴本体很显眼，它凸出来了些许，使得插入更加便利。"
+    "这是我这辈子第一次这么近地亲眼看这样的东西。话虽如此，Moxie可不是什么普通的女孩。她阴唇的外侧覆了一层绒毛，女阴本体很显眼，它凸出来了些许，使得插入更加便利。"
 
 # game/1prologue.rpy#L385
 translate chinese intro69_c5c0ebd5:
@@ -1245,7 +1245,7 @@ translate chinese intro69_c5c0ebd5:
 translate chinese intro69_3953c597:
 
     # "I timidly bring my tongue closer and start to explore. It’s certainly a new experience and Moxie reacts favourably with each movement."
-    "我小心翼翼地伸出舌头并开始摸索。当然了，我是第一次做这种事，Moxie则以更加积极的动作回应。"
+    "我小心翼翼地伸出舌头并开始摸索。当然了，这是一种全新的体验，Moxie则以更加积极的动作回应。"
 
 # game/1prologue.rpy#L388
 translate chinese intro69_bb0c1eba:
@@ -1575,7 +1575,7 @@ translate chinese prologueday2_8f5d7af2:
 translate chinese prologueday2_e9cb2db8:
 
     # "Yep, Moxie is there, still. In fact, she’s looking directly at me. Her expression feels so delicate, her lips are slightly parted and there’s a dreamy look in her eyes. "
-    "嗯哼，Moxie还在那儿。事实上，她正直勾勾地看着我。她的神情给我一种很精致的感觉，她的嘴唇微微张开，眼珠子还在神游，一副没睡醒的样子。"
+    "嗯哼，Moxie还在那儿。事实上，她正直勾勾地看着我。她的神情给我一种很娇柔的感觉，嘴唇微微张开，眼珠子还在神游，一副没睡醒的样子。"
 
 # game/1prologue.rpy#L499
 translate chinese prologueday2_cebb164e:
@@ -1635,7 +1635,7 @@ translate chinese prologueday2_cab6121d:
 translate chinese prologueday2_f87b3ccd:
 
     # moxie "But if anyone asks, we never did anything sexual, or cute! I know I’ve been quite open and honest with you, but I have a cool persona I need to keep up when we go to meet my friends."
-    moxie "但如果有人问我，我们绝不做任何与性有关的事情，或者有性吸引的！我知道我已对你非常开放和诚实了，但当我们见我的朋友们时，我需要给他们展示一种很冷酷的...一种假象"
+    moxie "但如果有人问，那就是我们从未做过任何与性有关的事情，或者有性吸引的！我知道我已对你非常开放和诚实了，但当我们见我的朋友们时，我需要给她们展示一种很冷酷的...一种假象"
 
 # game/1prologue.rpy#L513
 translate chinese prologueday2_82c39198:
@@ -1845,7 +1845,7 @@ translate chinese prologueday2_a694e026:
 translate chinese prologueday2_617c6e24:
 
     # penelope "Heyy Mox, you brought a... familiar...? What the heck is that thing... I can already see that this one is mostly bad news, right?"
-    penelope "嘿，Mox，你带了...一个常客...？那到底是什么东西...我已经知道这是个坏消息了，对吧？"
+    penelope "嘿，Mox，你带了...一个随从...？那到底是什么东西...我已经知道这是个坏消息了，对吧？"
 
 # game/1prologue.rpy#L575
 translate chinese prologueday2_a698980a:
@@ -1863,13 +1863,13 @@ translate chinese prologueday2_8deb9520:
 translate chinese prologueday2_d088c911:
 
     # "I walked past many strange denizens on the way here too, it's all so alien to me."
-    "我在来这里的路上也遇到了许多陌生的居民，都和我格格不入。"
+    "我在来这里的路上也遇到了许多陌生的居民，这一切对我来说都很怪异。"
 
 # game/1prologue.rpy#L579
 translate chinese prologueday2_596d3327:
 
     # penelope "I have never seen something like that before in my entire life, did you accidentally defluff a stallion?"
-    penelope "I have never seen something like that before in my entire life, did you accidentally defluff a stallion?"
+    penelope "我这辈子都没见过那种东西，你是弄出什么意外，把一匹公马给全部脱毛了？"
 
 # game/1prologue.rpy#L581
 translate chinese prologueday2_1b9fa797:
@@ -1881,13 +1881,13 @@ translate chinese prologueday2_1b9fa797:
 translate chinese prologueday2_c49b9c9e:
 
     # penelope "Come on Moxie, you know that’s not how it works, that spell had limitations. We just wanted a temporary familiar, right?"
-    penelope "Moxie，算了吧。你知道不应该是这样的，这个咒语很大的限制，我们只是想要个临时傀儡，对吧？"
+    penelope "Moxie，算了吧。你知道不应该是这样的，这个咒语有自身的限制，我们只是想要个临时傀儡，对吧？"
 
 # game/1prologue.rpy#L585
 translate chinese prologueday2_aa265abc:
 
     # penelope "I don’t know what you ended up casting but I’m pretty sure familiars aren’t supposed to look like that. Between you and me, mine had boobs."
-    penelope "不知道你选的什么，但我确定傀儡不长这样。"
+    penelope "不知道你最后召唤出的什么，但我确定傀儡不长这样。在你我之间的傀儡做个比较，我的可是有乳房的。"
 
 # game/1prologue.rpy#L586
 translate chinese prologueday2_4f9916bb:
@@ -1911,13 +1911,13 @@ translate chinese prologueday2_b805c829:
 translate chinese prologueday2_f597253e:
 
     # moxie "Ahaha, ha… yeah, maybe... Look though, this is so much better than a familiar, I was serious when I said he can talk!"
-    moxie "啊哈哈，哈……是啊，也许吧……不过你看，这比熟人好多了，我说他会说话是认真的！"
+    moxie "啊哈哈，哈……是啊，也许吧……不过你看，这比可比一般的随从好多了，我说他会说话是认真的！"
 
 # game/1prologue.rpy#L593
 translate chinese prologueday2_819b4b19:
 
     # penelope "Talk? You said that earlier, but he hasn't said anything..."
-    penelope "说话？你刚刚说过，但我还什么都没说呢..."
+    penelope "说话？你刚刚说过，但他还什么都没说呢..."
 
 # game/1prologue.rpy#L594
 translate chinese prologueday2_4c191062:
@@ -1935,7 +1935,7 @@ translate chinese prologueday2_e50ab309:
 translate chinese prologueday2_36498350:
 
     # "I'm still not used to this, meeting people, being naked, being different."
-    "我还是不习惯这样，见了人，赤身裸体，与众不同。"
+    "去见别马，赤身裸体，与众不同，我还是不习惯这样。"
 
 # game/1prologue.rpy#L601
 translate chinese prologueday2_be2b2992:
@@ -1989,19 +1989,19 @@ translate chinese prologueday2_b0316cc5:
 translate chinese prologueday2_f927a6a6:
 
     # penelope "Why, yes, I have heard of this before, I believe Lily has dabbled in this field of magic."
-    penelope "为什么，是的，我以前听说过这个，我相信Lily已经涉足这个魔法领域了。"
+    penelope "为什么，的确，我以前是听说过这个，我相信Lily已经涉足这个魔法领域了。"
 
 # game/1prologue.rpy#L628
 translate chinese prologueday2_f23d831b:
 
     # moxie "Meh, it would be her."
-    moxie "嗯，肯定是她"
+    moxie "切，就知道她会这样。"
 
 # game/1prologue.rpy#L631
 translate chinese prologueday2_30480d72:
 
     # penelope "Familiars aren't supposed to be permanent, they're supposed to disappear after a while, but our friend here has stuck around."
-    penelope "家人不会永远存在，他们总有一天会离去，但是我们的朋友将会陪伴到永远"
+    penelope "随从不会永远存在，他们总有一天会离去，但是我们的朋友将会陪伴到永远"
 
 # game/1prologue.rpy#L632
 translate chinese prologueday2_7563db6c:
@@ -2025,7 +2025,7 @@ translate chinese prologueday2_ded50302:
 translate chinese prologueday2_26945287:
 
     # "Although both Moxie and I had already assumed that was the case, it doesn’t hurt to have a third opinion from an expert."
-    "虽然 moxie 和我都认为事实就是如此，不过听听第三方的专家意见倒也无妨。"
+    "虽然Moxie和我都认为事实就是如此，不过听听第三方的专家意见倒也无妨。"
 
 # game/1prologue.rpy#L638
 translate chinese prologueday2_83a30eb9:
@@ -2037,7 +2037,7 @@ translate chinese prologueday2_83a30eb9:
 translate chinese prologueday2_b3929a5d:
 
     # moxie "What makes you say that? Whether creating a familiar or a summoning a [playername], the end result totally has the same effect."
-    moxie "你为什么这么说？无论是创造魔宠还是召唤[playername]，最终的效果都是一样的。"
+    moxie "你为什么这么说？无论是创造随从还是召唤[playername]，最终的效果都是一样的。"
 
 # game/1prologue.rpy#L641
 translate chinese prologueday2_665a84c2:
@@ -2049,7 +2049,7 @@ translate chinese prologueday2_665a84c2:
 translate chinese prologueday2_23a98747:
 
     # penelope "If the spell had a time limit of say… a month instead of thirty minutes, it would be immensely more difficult to cast because it’d need exponentially more magical power."
-    penelope "如果这个咒语的时间限制是... 比方说一个月，而不是30分钟，那么施咒就会困难得多，因为它需要的魔力是几何增加的。"
+    penelope "如果这个咒语的时间限制是... 比方说一个月，而不是30分钟，那么施咒就会困难得多，因为它需要的魔力是指数增加的。"
 
 # game/1prologue.rpy#L643
 translate chinese prologueday2_9d2ae6be:
@@ -2061,7 +2061,7 @@ translate chinese prologueday2_9d2ae6be:
 translate chinese prologueday2_9932c7ce:
 
     # "Moxie waves her hand as if to say it doesn’t really matter."
-    "Moxie 挥了挥手，好像在说没什么大不了的。"
+    "Moxie挥了挥手，好像在说没什么大不了的。"
 
 # game/1prologue.rpy#L646
 translate chinese prologueday2_bbd7da68:
@@ -2121,7 +2121,7 @@ translate chinese prologueday2_3f687274:
 translate chinese prologueday2_3da758cd:
 
     # penelope "You know what, I think I’ve got it! I was reading about this and cosmic magic only a month ago."
-    penelope "你知道吗，我想我找到了！我一个月前还在读关于宇宙魔法的这玩意。"
+    penelope "你知道吗，我想我明白了！我一个月前还在读关于宇宙魔法的这玩意。"
 
 # game/1prologue.rpy#L662
 translate chinese prologueday2_0ab88731:
@@ -2289,7 +2289,7 @@ translate chinese prologueday2_23dcb94a:
 translate chinese prologueday2_50001b88:
 
     # penelope "It’s impossible to transport a living being faster than the speed of light, true teleportation is to re-create your body atom by atom."
-    penelope "以超光速转移一个活物是不可能的事情，真正的传送魔法会一颗原子一颗原子地重铸你的身体。"
+    penelope "以超光速转移一个活物是不可能的事情，真正的传送魔法会一颗原子一颗原子地重建你的身体。"
 
 # game/1prologue.rpy#L709
 translate chinese prologueday2_b12cefcb:
@@ -2517,7 +2517,7 @@ translate chinese librarynewlife_11fc065b:
 translate chinese librarynewlife_b7eed837:
 
     # moxie "What Penelope is saying is, you're full of alien bacteria, so you could infect us with something deadly!"
-    moxie "Penelope说，你充满了外来细菌，所以你可能会用致命的东西感染我们！"
+    moxie "Penelope说，你充满了外来细菌，所以你身上可能会有什么致命的东西感染我们！"
 
 # game/1prologue.rpy#L771
 translate chinese librarynewlife_fbb01737:
@@ -2529,25 +2529,25 @@ translate chinese librarynewlife_fbb01737:
 translate chinese librarynewlife_8ee809bb:
 
     # penelope "Moxie, can you do the honours?"
-    penelope "Moxie，要不你来说？"
+    penelope "Moxie，要不你来完成这个？"
 
 # game/1prologue.rpy#L774
 translate chinese librarynewlife_4e2f06e6:
 
     # moxie "No problem, don't move an inch, [playername]!"
-    moxie "没问题，一英尺都不要动，[playername]！"
+    moxie "没问题，一寸都不要动，[playername]！"
 
 # game/1prologue.rpy#L780
 translate chinese librarynewlife_d5c6947c:
 
     # "Moxie cast two spells on me, her horn encapsulating me in a magical glow each time."
-    "Moxie对我施了两个咒语，她的角每次都将我包裹在神奇的光芒中。"
+    "Moxie对我施了两个咒语，其中每次她的角都将我包裹在魔法的光芒中。"
 
 # game/1prologue.rpy#L781
 translate chinese librarynewlife_400338b9:
 
     # "My balls tingle slightly, as the light dissipates. I've never had magic cast on me before, it's weird."
-    "随着光线消散，我的球微微发麻。 我以前从来没有施过魔法，这确实挺奇怪的。"
+    "随着光线消散，我的蛋蛋微微发麻。 我以前从来没有施过魔法，这确实挺奇怪的。"
 
 # game/1prologue.rpy#L783
 translate chinese librarynewlife_00df3888:
@@ -2565,7 +2565,7 @@ translate chinese librarynewlife_3972a64a:
 translate chinese librarynewlife_f6306fd2:
 
     # mc "There's one more thing though, could I at least check to see if the original me is alive?"
-    mc "还有一件事，至少让我确认以前的我是否还活着？"
+    mc "还有一件事，至少让我确认下原本的我是否还活着？"
 
 # game/1prologue.rpy#L789
 translate chinese librarynewlife_25ce0570:
@@ -2613,13 +2613,13 @@ translate chinese librarynewlife_cbcd2271:
 translate chinese librarynewlife_37f6dd16:
 
     # mc "I'm a scientific study now?"
-    mc "我现在算是个科研项目了吗？"
+    mc "我现在算是个科学研究项目了吗？"
 
 # game/1prologue.rpy#L802
 translate chinese librarynewlife_c5cb7743:
 
     # moxie "You're a magical study! Once they find out about you, I'll get into college for sure."
-    moxie "你是个魔法的科研项目！只要他们能得知关于你的事，我的大学录取书就稳了。"
+    moxie "你是个魔法研究项目！只要他们能得知关于你的事，我的大学录取书就稳了。"
 
 # game/1prologue.rpy#L803
 translate chinese librarynewlife_cdb609a1:
@@ -2883,7 +2883,7 @@ translate chinese librarynewlife_2adf22ba:
 translate chinese librarynewlife_55919ff6:
 
     # moxie "Next to my wagon just slightly to the east you may have noticed a large round building."
-    moxie "从我的篷车那儿往东看，你应该你注意到一个巨大的园顶建筑。"
+    moxie "从我的篷车那儿往东看，你应该能注意到一个巨大的圆顶建筑。"
 
 # game/1prologue.rpy#L882
 translate chinese librarynewlife_6f5fd86e:
@@ -2919,7 +2919,7 @@ translate chinese librarynewlife_eed20ef4:
 translate chinese librarynewlife_d1be1535:
 
     # moxie "It’s a pretty flexible situation, you could probably work at the library too if you wanted."
-    moxie "你的档期拍的还是很灵活的，如果你想的话，你甚至可以在图书馆工作。"
+    moxie "情况还是非常灵活的，如果你想的话，你甚至可以在图书馆工作。"
 
 # game/1prologue.rpy#L902
 translate chinese librarynewlife_2e639115:
@@ -3051,7 +3051,7 @@ translate chinese librarynewlife_4b2177a5:
 translate chinese librarynewlife_33b45f81:
 
     # "The peculiarity of the taste causes me to take my time and savour each lick. It is delightful. A part of me was worried I’d have to eat hay-burgers."
-    "这种独特的味道鼓励我细嚼慢咽，细细品味每一口。现在我心情好多了。之前我还有点担心自己是不是得吃干草汉堡。"
+    "这种独特的味道引得我细嚼慢咽，细细品味每一口。现在我心情好多了。之前我还有点担心自己是不是得吃干草汉堡。"
 
 # game/1prologue.rpy#L940
 translate chinese librarynewlife_83fd5f62:
@@ -3111,7 +3111,7 @@ translate chinese day2label2choice1_0a28edd4:
 translate chinese day2label2choice1_9b48a079:
 
     # moxie "I adore Selene, she's this super powerful space-time alicorn and I've really gotten into some of her books."
-    moxie "我挺崇拜Selene的，她是一位实力非常强大且长寿的天角兽，由她撰写的几本书可是我的最爱。"
+    moxie "我挺崇拜Selene的，她是一位实力非常强大、掌握时空魔法的天角兽，由她撰写的几本书可是我的最爱。"
 
 # game/1prologue.rpy#L967
 translate chinese day2label2choice1_4f2c15dc:
@@ -3177,13 +3177,13 @@ translate chinese day2label2choice2_06f6cc17:
 translate chinese day2label2choice2_e2f56572:
 
     # moxie "I'm not entirely sure what it classifies as, they're both monarchy and government. However they take opinions of the public sector deeply into consideration."
-    moxie "我不太确定它属于哪一类，它既保有了君主制，也设立了政府。他们倒还挺在乎公共部门的。"
+    moxie "我不太确定它属于哪一类，她们既是君主，也是执政者。她们倒还挺在乎公众意见的。"
 
 # game/1prologue.rpy#L988
 translate chinese day2label2choice2_47a4ba2c:
 
     # mc "With these Royal Sisters having no opposition it sounds like autocratic authority."
-    mc "可由于不存在反对皇家姐妹的派别，这听起来更像是专制下的权威。"
+    mc "可由于不存在反对皇家姐妹的派别，这听起来更像是独裁政体。"
 
 # game/1prologue.rpy#L989
 translate chinese day2label2choice2_4b5000ad:
@@ -3243,7 +3243,7 @@ translate chinese day2label2choice3_04a7a4fb:
 translate chinese day2label2choice3_ba47c6e3:
 
     # moxie "No stealing, no killing, no horrible acts that cause harm or misfortune."
-    moxie "没有偷盗，没有杀害，也没有作奸犯科伤害他人或者造成不幸事件的。"
+    moxie "不得偷盗，杀害，也不准作奸犯科、伤害他人或者造成不幸事件。"
 
 # game/1prologue.rpy#L1010
 translate chinese day2label2choice3_89c85a92:
@@ -3285,7 +3285,7 @@ translate chinese day2label2choice3_2a67fcb3:
 translate chinese day2label2choice3_32d5832c:
 
     # moxie "I haven't been here long but the community is great."
-    moxie "我在这儿还没住多久，但这个社区真的很棒。"
+    moxie "我在这儿还没住多久，但这里真的很棒。"
 
 # game/1prologue.rpy#L1021
 translate chinese day2label2choice3_9f44ca0b:
@@ -3297,13 +3297,13 @@ translate chinese day2label2choice3_9f44ca0b:
 translate chinese day2label2choice3_0a923647:
 
     # moxie "Crime and disorder are barely existent and there’s tons of opportunity for everyone to flourish in the system, even someone like me."
-    moxie "犯罪和混乱几近消亡，在我们的体制下，每匹小马都有成就一番事业的大量机会，就算对我这种雌驹来说，也一样。"
+    moxie "犯罪和混乱几近消亡，在我们的体制下，每匹小马都有成就一番事业的大量机会，就算对我这种家伙来说，也一样。"
 
 # game/1prologue.rpy#L1023
 translate chinese day2label2choice3_a7610475:
 
     # moxie "Heck, even you, newbie! You can get a job and make a living as long as you pull your weight."
-    moxie "见鬼，就算对你来说也一样啊，老兄！只要你愿意尽一份力，就能找到一份够维持温饱的工作。"
+    moxie "见鬼，就算对你来说也一样啊，新来的！只要你愿意尽一份力，就能找到一份够维持生计的工作。"
 
 # game/1prologue.rpy#L1024
 translate chinese day2label2choice3_0f3a15c2:
@@ -3321,7 +3321,7 @@ translate chinese day2label2choice3_337aa0d7:
 translate chinese day2label2choice3_80d1b46a:
 
     # moxie "For example, Honeycrisp farms apples and processes them, sells the resulting booze to Riku at her bar, then we all go drink it."
-    moxie "举个例子，Honeycrisp会种植苹果，经由加工后，这些苹果酒会被贩卖至Riku的酒吧，然后大家都会上那儿享受美酒。"
+    moxie "举个例子，Honeycrisp会种植并处理加工苹果，生产的苹果酒会被贩卖至Riku的酒吧，然后大家都会上那儿享受美酒。"
 
 # game/1prologue.rpy#L1028
 translate chinese day2label2choice3_37df491d:
@@ -3333,7 +3333,7 @@ translate chinese day2label2choice3_37df491d:
 translate chinese day2label2choice3_e76008fb:
 
     # "Reminds me of how a village would run back in the olden days, everyone in the village would contribute so the village could run independently."
-    "这让我想起了古时候村庄的运作模式，村里的每个人都会尽自己的一份力，最后村子就能独自延续下去。"
+    "这让我想起了古时候村庄的运作模式，村里的每个人都会尽自己的一份力，这样村子就能靠自身延续下去。"
 
 # game/1prologue.rpy#L1034
 translate chinese day2label3_663a9aa7:
@@ -3375,7 +3375,7 @@ translate chinese day2label3_8b54eb7d:
 translate chinese day2label3_fa9477e9:
 
     # "A couple of female ponies walk past and take a peek at me."
-    "两只雌性小马走过，看了我一眼"
+    "三只雌性小马走过，看了我一眼"
 
 # game/1prologue.rpy#L1044
 translate chinese day2label3_ae8201a2:
@@ -3387,19 +3387,19 @@ translate chinese day2label3_ae8201a2:
 translate chinese day2label3_fb23b660:
 
     # "The stares feel different from this morning."
-    "你的眼神跟今天早上不一样了。"
+    "她们的眼神跟今天早上不一样了。"
 
 # game/1prologue.rpy#L1046
 translate chinese day2label3_1b42630b:
 
     # "Now that I’m more comfortable in my own skin, I know that they’re not judging or shocked, they’re genuinely curious."
-    "现在我对自己的皮肤感到更舒服了，我知道他们不是在评判或震惊，他们是真正的好奇。"
+    "现在我感觉更加舒服了，我知道她们不是在评判或受到惊吓，她们是真正的好奇。"
 
 # game/1prologue.rpy#L1047
 translate chinese day2label3_cf8e504a:
 
     # "The right most one isn't remotely interested though, she must be the tsundere of the bunch. As expected from a redhead with twin tails."
-    "不过，右边那位看上去倒一副漠不关心的样子，她肯定是这群雌驹中的傲娇元素了。从她那扎了两个马尾的红色鬃毛来看，这也是意料之中的事。"
+    "不过，右边那位看上去倒一副漠不关心的样子，她肯定是这群雌驹中的傲娇者了。从她那扎了两个马尾的红色鬃毛来看，这也是意料之中的事。"
 
 # game/1prologue.rpy#L1048
 translate chinese day2label3_c206b370:
@@ -3411,13 +3411,13 @@ translate chinese day2label3_c206b370:
 translate chinese day2label3_142375bc:
 
     # "Are they flirting with me?"
-    "他们在跟我调情吗?"
+    "她们在跟我调情吗?"
 
 # game/1prologue.rpy#L1052
 translate chinese day2label3_4d06bfe7:
 
     # "Moxie giggles, she caught me staring."
-    "Mosie咯咯地笑着，她发现我在盯着她看。"
+    "Moxie咯咯地笑着，她发现我在盯着她看。"
 
 # game/1prologue.rpy#L1053
 translate chinese day2label3_8fd4cbbe:
@@ -3525,13 +3525,13 @@ translate chinese day2label3_8e6a76aa:
 translate chinese day2label3_f1bc542a:
 
     # moxie "Yeah, you really wanted that blowjob, jerk."
-    moxie "是啊，你那会可老想要那破口交了，混蛋。"
+    moxie "是啊，你那会可老想要那口交了，混蛋。"
 
 # game/1prologue.rpy#L1076
 translate chinese day2label3_9d15b000:
 
     # mc "And I've had girlfriends before, being alone with a girl isn't new to me. Yet I could feel something new and powerful."
-    mc "我对情场有所涉猎，完全能应付得了和一个女孩独处一室。而且和过去完全不同，这段经历充满新鲜感，令我兴奋不已。"
+    mc "虽说我之前交过女朋友，和女孩子独处一室对我来说也不算新奇。然而和过去完全不同，这次经历充满新鲜感，令人兴奋不已。"
 
 # game/1prologue.rpy#L1077
 translate chinese day2label3_d53a2d57:
@@ -3597,7 +3597,7 @@ translate chinese day2label3_3858a44a:
 translate chinese day2label3_d9e62e9a:
 
     # moxie "I’m afraid you’ll be fetishized, perhaps even objectified to a degree. If anyone doesn’t treat you right, you’re well within your means to leave the situation."
-    moxie "你恐怕会被万众追捧，甚至在一定程度上被物化。如果有马对你不利，最好想进一切办法脱身。"
+    moxie "你恐怕会被万众追捧，甚至在一定程度上被物化。如果有马对你不利，最好想尽一切办法脱身。"
 
 # game/1prologue.rpy#L1095
 translate chinese day2label3_5c7f6872:
@@ -3609,7 +3609,7 @@ translate chinese day2label3_5c7f6872:
 translate chinese day2label3_f13af042:
 
     # mc "Heat simply isn’t a thing in my species."
-    mc "是的，人类确实不会发情。"
+    mc "人类是不会发情的。"
 
 # game/1prologue.rpy#L1098
 translate chinese day2label3_28efe3a7:
@@ -3705,7 +3705,7 @@ translate chinese day2label3_4bfa1ee5:
 translate chinese day2label3_27bee6d3:
 
     # moxie "Alright, so, males here are relatively a lot rarer. Maybe a 15/85 split, and that split varies between species apparently, I don’t know."
-    moxie "那我就告诉你吧，我们这个世界雄性数量相当稀少。大概是0.15：0.85的样子，不同物种性别比应该是不一样的，我之前没想到这一点。"
+    moxie "那我就告诉你吧，我们这个世界雄性数量相当稀少。大概是0.15：0.85的样子，不同物种性别比应该是不一样的，我不清楚。"
 
 # game/1prologue.rpy#L1119
 translate chinese day2label3_878d3045:
@@ -3717,13 +3717,13 @@ translate chinese day2label3_878d3045:
 translate chinese day2label3_fbdcf60c:
 
     # mc "That’s so weird… Why are the males so rare? That seems paradoxical from an evolutionary perspective."
-    mc "那也太抽象了...为什么雄性可以这么少？达尔文和进化论的脸都能被抽肿。"
+    mc "那也太奇怪了...为什么雄性可以这么少？这看起来违背了进化论啊。"
 
 # game/1prologue.rpy#L1122
 translate chinese day2label3_304df1d9:
 
     # moxie "Right? I was curious myself, so Penny lent me some books on the subject, and I’ve done some reading."
-    moxie "达什么？算了，我自己也参不透其中的奥秘，所以Penny借了我一些这方面的书供我研读。"
+    moxie "或许吧？算了，我自己也参不透其中的奥秘，所以Penny借了我一些这方面的书供我研读。"
 
 # game/1prologue.rpy#L1123
 translate chinese day2label3_54e253eb:
@@ -3747,7 +3747,7 @@ translate chinese day2label3_28b17b17:
 translate chinese day2label3_30c8bc95:
 
     # mc "Anyway, alpha male? Sounds kind of scary, does this suburb have an alpha male that impregnates all the mares?"
-    mc "不管怎么说，雄性头领听起来有点瘆人。这座城里难道也有一位能让所有雌驹都受孕的雄性头领吗？"
+    mc "不管怎么说，雄性头领（阿尔法男）听起来有点瘆人。这座城里难道也有一位能让所有雌驹都受孕的雄性头领吗？"
 
 # game/1prologue.rpy#L1128
 translate chinese day2label3_0a39a9fa:
@@ -3759,19 +3759,19 @@ translate chinese day2label3_0a39a9fa:
 translate chinese day2label3_2e1ff0f5:
 
     # moxie "A lot of mares actually have the dream of falling in love with their one and only. I must admit, I can see why the idea of being singled out among so many mares is appealing."
-    moxie "许多雌驹的毕生追求就是一位痴情的白马王子。我得承认，那些拥有一生挚爱的雌驹是不折不扣的幸运儿。"
+    moxie "许多雌驹的毕生追求就是与专属于她的唯一小马坠入爱河。我得承认，那些拥有一生挚爱的雌驹是不折不扣的幸运儿。"
 
 # game/1prologue.rpy#L1132
 translate chinese day2label3_758904e2:
 
     # moxie "Although the reality is that stallions are in such hot demand, they’re often the ones being swept off their feet by rich and attractive mares, because being married is seen as an extravagant status symbol."
-    moxie "理想很丰满，现实却很骨感，种马都是抢手货，总是落在那些有钱的贵妇手里，结婚更像是一种奢侈的象征。"
+    moxie "理想很丰满，现实却很骨感，种马都是抢手货，总是落在那些有钱有吸引力的贵妇手里，结婚更像是一种奢侈的象征。"
 
 # game/1prologue.rpy#L1133
 translate chinese day2label3_fc1de955:
 
     # moxie "I assure you all the richest mares have husbands."
-    moxie "每一只富有的贵妇都名花有主。"
+    moxie "我很确信，每一只富有的贵妇都是有丈夫的。"
 
 # game/1prologue.rpy#L1134
 translate chinese day2label3_53d996a4:
@@ -3813,7 +3813,7 @@ translate chinese day2label3_90349da0:
 translate chinese day2label3_393aaac2:
 
     # moxie "You also have to consider interspecies relationships, of which there is no stigma."
-    moxie "跨物种关系也是可以的，不过要名正言顺才行。"
+    moxie "跨物种关系也是可以的，这也不是什么丢脸的事情。"
 
 # game/1prologue.rpy#L1143
 translate chinese day2label3_66455540:
@@ -3855,7 +3855,7 @@ translate chinese day2label3_346cff2b:
 translate chinese day2label3_b7f5eb4b:
 
     # moxie "I know! I love magic, I'd love to show you a thing or two so you can see how wonderful it is."
-    moxie "我懂你的心情！魔法被我视作珍宝，我可以给你露一两手，开开你的眼界。"
+    moxie "我懂你的心情！我热爱魔法，可以给你露一两手，开开你的眼界。"
 
 # game/1prologue.rpy#L1153
 translate chinese day2label3_82ce0515:
@@ -3867,7 +3867,7 @@ translate chinese day2label3_82ce0515:
 translate chinese day2label3_cd23a63c:
 
     # moxie "Then what are we waiting for? My wagon is only across the river, let’s go!"
-    moxie "那我们还等什么呢？我的篷车才刚好过河，我们过去吧！"
+    moxie "那我们还等什么呢？我的篷车就在河对岸，我们过去吧！"
 
 # game/1prologue.rpy#L1157
 translate chinese day2label3_575e0edd:
@@ -3909,7 +3909,7 @@ translate chinese day2label3_edcc805d:
 translate chinese day2label3_549aaf72:
 
     # "Come to think of it, the book does seem rather juvenile, as if it's aimed at younger audiences."
-    "仔细观摩一番后，这本书更像是青年读物，专为初学者打造。"
+    "仔细观摩一番后，这本书更像是少儿读物，专为初学者打造。"
 
 # game/1prologue.rpy#L1171
 translate chinese day2label3_0671dce9:
@@ -4011,7 +4011,7 @@ translate chinese day2label3_f06eda53:
 translate chinese day2label3_bb8b91b9:
 
     # mc "Wow! Telekinesis, right? That’s awesome, I’ve always wanted to do that."
-    mc "哇！心灵传动！？真是不可思议，师父教教我。"
+    mc "哇！意念移物！？真是不可思议，师父教教我。"
 
 # game/1prologue.rpy#L1197
 translate chinese day2label3_b96bf60e:
@@ -4029,13 +4029,13 @@ translate chinese day2label3_47009c8e:
 translate chinese day2label3_a5b0f01f:
 
     # moxie "Still, you gotta love being able to write things down using telekinesis, it’s a dream when you’re doing a task that requires three hands. Or if you’re lazy and don’t want to reach for something!"
-    moxie "不过呢，在你里忙个不停的时候用心灵传动写字绝对是梦幻般的体验，你会爱上这种感觉的，当然，最主要的用途还是方便拿东西，懒马必备。"
+    moxie "不过呢，在你做需要三只手的任务时，用意念移物写字绝对是梦幻般的体验，你会爱上这种感觉的，当然，最主要的用途还是方便拿东西，懒马必备。"
 
 # game/1prologue.rpy#L1201
 translate chinese day2label3_e4243d6e:
 
     # mc "You’ll make me jealous, and we’re only on the first spell! What else is there?"
-    mc "可惜这种能力与我无缘，这还只是你给我展示的第一个法术呢！还有其他的呢？"
+    mc "这还只是你给我展示的第一个法术呢，你就让我嫉妒起来了！还有其他的呢？"
 
 # game/1prologue.rpy#L1203
 translate chinese day2label3_a5520704:
@@ -4047,7 +4047,7 @@ translate chinese day2label3_a5520704:
 translate chinese day2label3_0a651ce5:
 
     # moxie "They’re all temporary though, the laws around magic can be strict."
-    moxie "它们都只是暂时起效，魔法有着自己的规律可循。"
+    moxie "它们都只是暂时起效，与魔法相关的法律法规可严着呢。"
 
 # game/1prologue.rpy#L1205
 translate chinese day2label3_a98a72ea:
@@ -4125,7 +4125,7 @@ translate chinese day27_65adb5d1:
 translate chinese day27_47967573:
 
     # moxie "It's hard to say, but there are better ways to dye your hair than a spell."
-    moxie "这很难说清，不过你要是想染发的话，我有更简便的方法。"
+    moxie "这很难说清，不过你要是想染发的话，除去咒语还有更简便的方法。"
 
 # game/1prologue.rpy#L1234
 translate chinese day27_bd063728:
@@ -4245,7 +4245,7 @@ translate chinese day27_beaad66a:
 translate chinese day27_a6f86577:
 
     # "I looked down and I could indeed see a pair of breasts, and there was nothing inbetween my legs. But I could still feel my male genitalia, as if it was a phantom limb."
-    "我低头看去，映入眼帘的首先是一对乳房，两腿之间什么都没有。但我仍然感觉得到我的男性性器，只是此刻它像一个幻肢一样存在着。"
+    "我低头看去，映入眼帘的首先是一对乳房，两腿之间空空如也。但我仍然感觉得到我的男性性器，只是此刻它像一个幻肢一样存在着。"
 
 # game/1prologue.rpy#L1272
 translate chinese day27_2531e4a4:
@@ -4347,7 +4347,7 @@ translate chinese day28_7461940f:
 translate chinese day28_0de5c3fc:
 
     # moxie "Witness!"
-    moxie "你就是我的见证人！"
+    moxie "见证罢！"
 
 # game/1prologue.rpy#L1310
 translate chinese day28_18122d16:
@@ -4467,7 +4467,7 @@ translate chinese day28_7d010a14:
 translate chinese day28_8d6efa62:
 
     # moxie "I had a caged Ursa I wanted to show off in my performance, but I agitated it too much, and it escaped into the suburbs."
-    moxie "演出的一个环节里我向观众展示我圈养的熊，但我对它太凶残刻薄了，它在演出中逃进了镇子里。"
+    moxie "演出的一个环节里我向观众展示我圈养的星座熊，但我过分地刺激它了，它在演出中逃进了镇子里。"
 
 # game/1prologue.rpy#L1339
 translate chinese day28_7db4bafb:
@@ -4485,7 +4485,7 @@ translate chinese day28_0ee31930:
 translate chinese day28_4b5cd458:
 
     # moxie "Meh... I'd rather not go into detail."
-    moxie "嗯...求你了，我太想回忆那件事情的种种。"
+    moxie "嗯...求你了，我不太想回忆那件事情的种种。"
 
 # game/1prologue.rpy#L1342
 translate chinese day28_142771c6:
@@ -4521,7 +4521,7 @@ translate chinese day28_f34b06ee:
 translate chinese day28_6cfd2b3b:
 
     # moxie "I had spent all my life strutting around as if I was special, just because I was born with some shitty magical power."
-    moxie "我曾周游四方，以为凭着自己的角就可以傲视天下。"
+    moxie "我曾周游四方，以为凭着自己的那垃圾的魔法就可以傲视天下。"
 
 # game/1prologue.rpy#L1348
 translate chinese day28_b6aaf8e3:
@@ -4575,7 +4575,7 @@ translate chinese day28_5975a656:
 translate chinese day28_a1646295:
 
     # moxie "When I met Penny, I had a profound realisation; I didn’t need to show off, brag or one-up to be special. All I needed to do was make people happy and fill their day with cheer and excitement."
-    moxie "Penny是我的榜样，给我好好上了一课；我没必要四处炫耀，吹嘘自己或者压其他马才能实现自我的价值。只需要让马们开开心心地过日子就好。"
+    moxie "Penny是我的榜样，给我好好上了一课；我没必要四处炫耀，吹嘘自己或者压其他马一头才能实现自我的价值。只需要让马们开开心心地过日子就好。"
 
 # game/1prologue.rpy#L1358
 translate chinese day28_4627238f:
@@ -4971,7 +4971,7 @@ translate chinese introdoggystyle_aabd7b9e:
 translate chinese introdoggystyle_c1cd6ca2:
 
     # moxie "I feel really comfortable giving my first time to you. I know it doesn’t mean much, it’s just sex at the end of the day, but I know how important it is to feel comfortable with your mate."
-    moxie "我很荣幸把我的第一次献给你。可能对你来说没有什么特别的意义，只是一场夜深人静时的交媾而已，但对我来说，让你觉得满意也属于我人生意义的范畴之一，我想染所有人都开心，记得吗。"
+    moxie "我很荣幸把我的第一次献给你。可能对你来说没有什么特别的意义，只是一场夜深人静时的交媾而已，但对我来说，让你觉得满意也属于我人生意义的范畴之一，我想让所有人都开心，记得吗。"
 
 # game/1prologue.rpy#L1450
 translate chinese introdoggystyle_eb15d259:
@@ -5253,409 +5253,409 @@ translate chinese introdoggystyle_41b68ba9:
 translate chinese introdoggystyle_6d7369c2:
 
     # "The sensation of her pussy clinging to me was euphoric, her insides throbbed and squeezed my member, pleasing each inch."
-    "The sensation of her pussy clinging to me was euphoric, her insides throbbed and squeezed my member, pleasing each inch."
+    "阴道的肉壁紧紧吸附着我，欢愉的快感迅速传遍全身，我的肉棒在里面不断地被吮吸和挑动着，被伺候得面面俱到。"
 
 # game/1prologue.rpy#L1510
 translate chinese introdoggystyle_4675115e:
 
     # moxie "Ahh, mmm, this is better than I even imagined…"
-    moxie "Ahh, mmm, this is better than I even imagined…"
+    moxie "啊，呣呣，比我原先想的还要舒服......"
 
 # game/1prologue.rpy#L1511
 translate chinese introdoggystyle_a19f8eeb:
 
     # "I agreed, her pussy felt unbelievable, almost too good. So good that if I went too fast I might cum too soon, and I want to make sure I enjoy my first time for as long as I can."
-    "I agreed, her pussy felt unbelievable, almost too good. So good that if I went too fast I might cum too soon, and I want to make sure I enjoy my first time for as long as I can."
+    "她的里面也比我原先想得更舒服，远超预期。如果我攻势太猛，肯定坚持不了多久，谁不想自己的第一次好好享受一番呢。"
 
 # game/1prologue.rpy#L1512
 translate chinese introdoggystyle_8d26a634:
 
     # "I can’t forget that this is just as much for her as it is for me, perhaps even more for her since she’s in heat."
-    "I can’t forget that this is just as much for her as it is for me, perhaps even more for her since she’s in heat."
+    "我也不能忘了这是她的第一次，也许因为她发情了，她的第一次比我的第一次更重要。"
 
 # game/1prologue.rpy#L1513
 translate chinese introdoggystyle_32e991f6:
 
     # "I decided to pace myself and fuck her gently. My thrusts came slowly yet they went deep. I could feel her body react favourably, especially when I got deep inside her. I must be creating friction against some sensitive spots."
-    "I decided to pace myself and fuck her gently. My thrusts came slowly yet they went deep. I could feel her body react favourably, especially when I got deep inside her. I must be creating friction against some sensitive spots."
+    "我决定调整速度，轻柔地进行这次交合。我渐渐放缓了抽插的速度，但尽可能地插得更深。她的身体对此反应更为兴奋，尤其是每次我顶到最深处时，里面的敏感带肯定被我眷顾到了。"
 
 # game/1prologue.rpy#L1515
 translate chinese introdoggystyle_067a00dd:
 
     # moxie "Aaaaaaaaahhhhhhhhhh… Hahhh, hah… This is mind numbing."
-    moxie "Aaaaaaaaahhhhhhhhhh… Hahhh, hah… This is mind numbing."
+    moxie "啊啊啊啊啊啊...哈.哈...我快不能思考了。"
 
 # game/1prologue.rpy#L1516
 translate chinese introdoggystyle_c0938f9a:
 
     # "Her constant cute moans were arousing; I really want to get her off again, so I try to focus my thrusts deep within her where it’s most pleasurable."
-    "Her constant cute moans were arousing; I really want to get her off again, so I try to focus my thrusts deep within her where it’s most pleasurable."
+    "她的娇喘不断传入我的耳中，令我兴奋更甚；我想让她再次高潮，所以再每次插入深处时尽量顶到她的那些敏感带上。"
 
 # game/1prologue.rpy#L1517
 translate chinese introdoggystyle_f600cd54:
 
     # moxie "Mmm-mmm! Y-you’re! Ahh…"
-    moxie "Mmm-mmm! Y-you’re! Ahh…"
+    moxie "嗯，嗯！你，你快把人家！啊......"
 
 # game/1prologue.rpy#L1518
 translate chinese introdoggystyle_be0e5e5c:
 
     # "A sentence tries to escape Moxie’s mouth, yet it fails, replaced with her moans. Earlier it wasn’t hard to make her come with my tongue, I was sure she was already close again as her reactions started to mirror those from before."
-    "A sentence tries to escape Moxie’s mouth, yet it fails, replaced with her moans. Earlier it wasn’t hard to make her come with my tongue, I was sure she was already close again as her reactions started to mirror those from before."
+    "激烈的性快感让Moxie已经无法讲出一句完整的句子，喉咙里只能发出哦哦的呻吟。让她高潮应该不会太难，我之前用舌头就做到了，她的肢体语言与之前高潮前如出一辙，我很确定现在已经在第二次的边缘了。"
 
 # game/1prologue.rpy#L1519
 translate chinese introdoggystyle_0561c490:
 
     # moxie "Ahhh… Mmm.. I- ahhh… C-Coming!"
-    moxie "Ahhh… Mmm.. I- ahhh… C-Coming!"
+    moxie "啊啊...嗯...我，啊...去，去了！"
 
 # game/1prologue.rpy#L1520
 translate chinese introdoggystyle_fc130cef:
 
     # "I keep fucking her deeply as she climaxes, her insides tighten around my shaft and my cock throbs in response."
-    "I keep fucking her deeply as she climaxes, her insides tighten around my shaft and my cock throbs in response."
+    "在我持续地深插下她终于迎来了第二次高潮，小穴紧紧地咬着肉棒，让它蠢蠢欲动。"
 
 # game/1prologue.rpy#L1521
 translate chinese introdoggystyle_9eccde07:
 
     # moxie "Mmm, ahh… [playername]!"
-    moxie "Mmm, ahh… [playername]!"
+    moxie "嗯，啊...[playername]！"
 
 # game/1prologue.rpy#L1522
 translate chinese introdoggystyle_4414e312:
 
     # "I didn’t want to hold back anymore. I want to fuck her as hard and as fast as I can."
-    "I didn’t want to hold back anymore. I want to fuck her as hard and as fast as I can."
+    "我再也不想保持先前那份持重了。只想放开速度狠狠地操她。"
 
 # game/1prologue.rpy#L1523
 translate chinese introdoggystyle_047b2ec6:
 
     # "I began to lose myself in the moment, holding her hips firmly as I sped up my thrusts, slamming faster and harder into her soppy wet pussy."
-    "I began to lose myself in the moment, holding her hips firmly as I sped up my thrusts, slamming faster and harder into her soppy wet pussy."
+    "潮水般的快感让我不能自已，使劲地抓住她的屁股，用更快的速度，更强劲的力道，抽送着她那汁水横流的蜜穴。"
 
 # game/1prologue.rpy#L1524
 translate chinese introdoggystyle_fbe3476a:
 
     # moxie "Nn… Mmm… Faster! "
-    moxie "Nn… Mmm… Faster! "
+    moxie "咕...嗯...再快点！"
 
 # game/1prologue.rpy#L1525
 translate chinese introdoggystyle_ff4597db:
 
     # "I think her climax just ended, but she shows no signs of slowing down. She starts bouncing her ass into me, matching the rhythm of my thrusts, creating a satisfying slapping sound each time our bodies come together."
-    "I think her climax just ended, but she shows no signs of slowing down. She starts bouncing her ass into me, matching the rhythm of my thrusts, creating a satisfying slapping sound each time our bodies come together."
+    "她的第二次高潮刚过，应该放松下来才对，但她丝毫没有一点这样的意向。香臀主动迎上，配合着我的抽插的节奏，每次我们的身体碰在一起时都会发出悦耳的啪啪声。"
 
 # game/1prologue.rpy#L1526
 translate chinese introdoggystyle_5e936d3b:
 
     # "Her pussy felt immensely pleasurable and the faster I go the better it feels."
-    "Her pussy felt immensely pleasurable and the faster I go the better it feels."
+    "她的蜜穴舒适异常，我不禁又加快了速度。"
 
 # game/1prologue.rpy#L1527
 translate chinese introdoggystyle_3769d04f:
 
     # "Every individual sensation was better, I could feel pleasure surge through my body as her insides continued to squeeze around my shaft, massaging every inch. "
-    "Every individual sensation was better, I could feel pleasure surge through my body as her insides continued to squeeze around my shaft, massaging every inch. "
+    "每一次抽送后她的蜜穴都会把我的肉棒咬得更紧，天籁般的愉悦从肉棒的每一寸发散至全身。"
 
 # game/1prologue.rpy#L1528
 translate chinese introdoggystyle_05f10ce5:
 
     # "I could tell that my orgasm was inevitable, but even so I tensed my cock and held back exploding inside her so I could savour each second of this immense pleasure. "
-    "I could tell that my orgasm was inevitable, but even so I tensed my cock and held back exploding inside her so I could savour each second of this immense pleasure. "
+    "在她的步步“紧逼”下，我不射是不可能的，但我仍然强压着阴茎在她体内肆意倾泻的欲望，这样就能多享受一会她窄紧的阴道带来的巨大快感。"
 
 # game/1prologue.rpy#L1529
 translate chinese introdoggystyle_92e35a6d:
 
     # moxie "*Pant* I want… Ahh… I want you to come inside me!"
-    moxie "*Pant* I want… Ahh… I want you to come inside me!"
+    moxie "*喘气*我想...啊...我想要你射在里面！"
 
 # game/1prologue.rpy#L1530
 translate chinese introdoggystyle_2a43d5a9:
 
     # "Her lewd words spurred me on, the moment I let down my guard my orgasm rapidly welled up within me. My mind filled up with white and before I knew it, I reach the point of no return. "
-    "Her lewd words spurred me on, the moment I let down my guard my orgasm rapidly welled up within me. My mind filled up with white and before I knew it, I reach the point of no return. "
+    "她的叫床声不断地刺激着我，在我终于放弃的时候，一道道狂怒的岩浆喷涌而出，脑子里一片白茫，不知不觉得飞入了性福的云端。"
 
 # game/1prologue.rpy#L1535
 translate chinese introdoggystyle_faaaa962:
 
     # "My cock throbbed and my muscles tensed as I shot my thick, hot load deep inside of her tight pussy and I don’t stop fucking for a second throughout my entire orgasm."
-    "My cock throbbed and my muscles tensed as I shot my thick, hot load deep inside of her tight pussy and I don’t stop fucking for a second throughout my entire orgasm."
+    "我的肌肉紧绷，阴茎不断跳动着向她的阴道内播撒爱的种子，滚滚浓精冲入她窄紧的阴道内，我的抽插还在继续。"
 
 # game/1prologue.rpy#L1536
 translate chinese introdoggystyle_f916265c:
 
     # "It felt far too good, in fact it was the best thing I’d ever felt, and I wanted to savour each and every thrust. "
-    "It felt far too good, in fact it was the best thing I’d ever felt, and I wanted to savour each and every thrust. "
+    "这种感觉真是太棒了，我这辈子还没有体会过这么爽的事情，每一次抽插都值得我去细细回味。"
 
 # game/1prologue.rpy#L1541
 translate chinese introdoggystyle_3d463cc6:
 
     # "I kept cumming, three loads, six loads, nine loads, more than I knew possible, each and every drop firing deep inside her. "
-    "I kept cumming, three loads, six loads, nine loads, more than I knew possible, each and every drop firing deep inside her. "
+    "精液仍然在持续喷出，3发，6发，9发，我都不知道我能射这么多，每一发都浇在了花房的最深处。"
 
 # game/1prologue.rpy#L1543
 translate chinese introdoggystyle_e64da197:
 
     # "Some of the semen leaks out of her and drips down, contrasting against her cool blue thighs. "
-    "Some of the semen leaks out of her and drips down, contrasting against her cool blue thighs. "
+    "一些精液从她的穴口渗出，缓缓滴落，一双蓝色的玉腿上顿时添了几抹浊白。"
 
 # game/1prologue.rpy#L1548
 translate chinese introdoggystyle_bac163a4:
 
     # "As I pull out, more oozes out and as if suddenly released from a constraint, Moxie falls down onto the soft covers in a state of overexcited panting."
-    "As I pull out, more oozes out and as if suddenly released from a constraint, Moxie falls down onto the soft covers in a state of overexcited panting."
+    "当我把阴茎拔出时，更多的精液从小穴中涌出，Moxie就像是如释重负一般，气喘吁吁地瘫倒在床上。"
 
 # game/1prologue.rpy#L1550
 translate chinese introdoggystyle_18400912:
 
     # "She rolls over after a few seconds and gestures for me to come closer, so I crawl up to lay beside her."
-    "She rolls over after a few seconds and gestures for me to come closer, so I crawl up to lay beside her."
+    "几秒钟后她翻过身，示意我靠过去，我爬过去躺倒在她身边。"
 
 # game/1prologue.rpy#L1551
 translate chinese introdoggystyle_761c6eb9:
 
     # "I can feel her arm wrap itself around me as she pulls me closer into a cuddle. I indulge in her touch, her softness and warmth against my bare skin. It’s exactly what I need after sex."
-    "I can feel her arm wrap itself around me as she pulls me closer into a cuddle. I indulge in her touch, her softness and warmth against my bare skin. It’s exactly what I need after sex."
+    "我能感觉到她把我搂得更近了。我裸露的皮肤沉迷于她的抚摸以及她的身体的柔软和温暖。这正是我做爱后需要的。"
 
 # game/1prologue.rpy#L1564
 translate chinese introdoggystyle_faf973c6:
 
     # "I close my eyes and bring one of my arms around her furry back and embrace her too, we snuggle together silently as we recompose ourselves."
-    "I close my eyes and bring one of my arms around her furry back and embrace her too, we snuggle together silently as we recompose ourselves."
+    "我闭上眼睛，用一只胳膊搂住她毛茸茸的后背以拥抱她，我们静静地依偎在一起，就像我们重新组成了新的生命体。"
 
 # game/1prologue.rpy#L1565
 translate chinese introdoggystyle_b86f721c:
 
     # "Cuddling naked with someone so soft, so fluffy, this is almost as good as the sex."
-    "Cuddling naked with someone so soft, so fluffy, this is almost as good as the sex."
+    "这种裸着抱住一个如此柔软舒服的人的感觉，就和做爱一样棒。"
 
 # game/1prologue.rpy#L1566
 translate chinese introdoggystyle_c8e8452b:
 
     # "We lay together for quite some time, just enjoying each other’s company. Moxie is the first to break the silence."
-    "We lay together for quite some time, just enjoying each other’s company. Moxie is the first to break the silence."
+    "我们像这样躺在一起很久了，仅仅是为了享受彼此的陪伴。Moxie是第一个打破这宁静的马。"
 
 # game/1prologue.rpy#L1567
 translate chinese introdoggystyle_15c3119d:
 
     # moxie "How was it? Your first time?"
-    moxie "How was it? Your first time?"
+    moxie "怎么样？你的第一次吗？"
 
 # game/1prologue.rpy#L1568
 translate chinese introdoggystyle_c41708ed:
 
     # mc "It was amazing, I’ve never felt anything even close to that."
-    mc "It was amazing, I’ve never felt anything even close to that."
+    mc "太神奇了，我从来都没感觉到有什么比这更近的。"
 
 # game/1prologue.rpy#L1569
 translate chinese introdoggystyle_2ca63ce8:
 
     # mc "Being stuck in this world might not be so bad after all."
-    mc "Being stuck in this world might not be so bad after all."
+    mc "被困在这个世界貌似也没那么遭。"
 
 # game/1prologue.rpy#L1570
 translate chinese introdoggystyle_cb17464c:
 
     # moxie "Ohh… Being stuck? Yeah..."
-    moxie "Ohh… Being stuck? Yeah..."
+    moxie "哦...被困住？是啊..."
 
 # game/1prologue.rpy#L1574
 translate chinese introdoggystyle_36e6d313:
 
     # mc "How was it for you?"
-    mc "How was it for you?"
+    mc "对你来说怎么样？"
 
 # game/1prologue.rpy#L1576
 translate chinese introdoggystyle_0c8a7b88:
 
     # moxie "I’m still high in the clouds, floating, floating. My brain is scrambled, my toes are twitching. "
-    moxie "I’m still high in the clouds, floating, floating. My brain is scrambled, my toes are twitching. "
+    moxie "我仍然在高高的云层中漂浮。现在我脑子混乱，脚趾抽搐"
 
 # game/1prologue.rpy#L1577
 translate chinese introdoggystyle_0456fd01:
 
     # moxie "I’ve masturbated before, of course I have; I do that even when I’m not in heat."
-    moxie "I’ve masturbated before, of course I have; I do that even when I’m not in heat."
+    moxie "我以前当然自慰过；即便我没有处在发情期的时候我也会这么做。"
 
 # game/1prologue.rpy#L1578
 translate chinese introdoggystyle_65e2a8f8:
 
     # moxie "My usual orgasms are about five or six out of ten… It’s nice enough to warrant doing it at all, and my orgasms are a little more powerful during my heat, let’s say eight or nine out of ten."
-    moxie "My usual orgasms are about five or six out of ten… It’s nice enough to warrant doing it at all, and my orgasms are a little more powerful during my heat, let’s say eight or nine out of ten."
+    moxie "按十分制来算的话，我平常高潮的快感有个五六分吧...能随时随地自慰真是一种享受，发情期间自慰的话，高一点，有个八九分的样子。"
 
 # game/1prologue.rpy#L1579
 translate chinese introdoggystyle_88d8e2a1:
 
     # mc "A rating out of 10? What would you rate your orgasms just now?"
-    mc "A rating out of 10? What would you rate your orgasms just now?"
+    mc "十分制？那这次高潮你给几分呢？"
 
 # game/1prologue.rpy#L1581
 translate chinese introdoggystyle_c5799a05:
 
     # moxie "Honestly? About one hundred, especially the third one, all I could see was white, I think I blacked out, actually no, I think I whited out. I still feel tingly."
-    moxie "Honestly? About one hundred, especially the third one, all I could see was white, I think I blacked out, actually no, I think I whited out. I still feel tingly."
+    moxie "几分？我给一百分，特别是第三次，我的眼睛里只能看见一片空白，我本以为应该是只能看见一片黑，但其实是一片白。嗷唔~现在我的下面还有点刺痛感。"
 
 # game/1prologue.rpy#L1582
 translate chinese introdoggystyle_e3ac7541:
 
     # "Did she just say she came three times? I only counted two! Wait, she said third, not last… Did she come more than three times? "
-    "Did she just say she came three times? I only counted two! Wait, she said third, not last… Did she come more than three times? "
+    "她刚才是不是说她高潮了三次？我怎么记得只有两次！等下，她说的*第*三次，不是*最后*一次...也就是说她高潮也不止三次？"
 
 # game/1prologue.rpy#L1583
 translate chinese introdoggystyle_9f631c85:
 
     # mc "Even though that was the best I've ever felt, it sounds like your orgasm was transcendental. Maybe there's a spell that can make my orgasm feel that good."
-    mc "Even though that was the best I've ever felt, it sounds like your orgasm was transcendental. Maybe there's a spell that can make my orgasm feel that good."
+    mc "我承认这是我此生以来最好的一次高潮，不过听你的说辞，你的高潮更超然一些。有没有什么法术能让我的高潮快感也更强烈呢。"
 
 # game/1prologue.rpy#L1585
 translate chinese introdoggystyle_19da4347:
 
     # "She leans in and smooches me on the lips, there was a little bit of tongue from her too, but the kiss is short-lived. "
-    "She leans in and smooches me on the lips, there was a little bit of tongue from her too, but the kiss is short-lived. "
+    "她向我挪近，吻上了我的嘴唇，香舌蜿蜒而出，不过过一会就唇分了。"
 
 # game/1prologue.rpy#L1587
 translate chinese introdoggystyle_0888e31d:
 
     # moxie "You know what this means right?"
-    moxie "You know what this means right?"
+    moxie "你知道这是什么意思吗？"
 
 # game/1prologue.rpy#L1588
 translate chinese introdoggystyle_c17ef8ec:
 
     # mc "What's that?"
-    mc "What's that?"
+    mc "什么意思？"
 
 # game/1prologue.rpy#L1590
 translate chinese introdoggystyle_7d20c67f:
 
     # moxie "I'm gonna want more, lots more!"
-    moxie "I'm gonna want more, lots more!"
+    moxie "我还想要，要要要要！"
 
 # game/1prologue.rpy#L1591
 translate chinese introdoggystyle_17c4e14e:
 
     # mc "Hoh boy, easy there, bunny."
-    mc "Hoh boy, easy there, bunny."
+    mc "喔哦小姐，别激动嘛，小可爱。"
 
 # game/1prologue.rpy#L1593
 translate chinese introdoggystyle_8d97a0bc:
 
     # moxie "I could tell you put in a lot of effort to please me, thank you for that, you made my first time special, really special."
-    moxie "I could tell you put in a lot of effort to please me, thank you for that, you made my first time special, really special."
+    moxie "我能感觉到你很努力地在取悦我，真的很谢谢你，我的第一次非常难忘，镌骨铭心。"
 
 # game/1prologue.rpy#L1594
 translate chinese introdoggystyle_f455be68:
 
     # moxie "You didn’t have to do that; I would have been satisfied anyway because of the heat."
-    moxie "You didn’t have to do that; I would have been satisfied anyway because of the heat."
+    moxie "其实你没必要费那么大力气的；因为我处在发情期，很容易就能感到满足。"
 
 # game/1prologue.rpy#L1595
 translate chinese introdoggystyle_0d623448:
 
     # mc "I thought I’d try my best to please you, that helps satisfy your heat, right? That’s why you made the deal. I enjoyed it a lot too, it wasn’t an entirely selfless choice."
-    mc "I thought I’d try my best to please you, that helps satisfy your heat, right? That’s why you made the deal. I enjoyed it a lot too, it wasn’t an entirely selfless choice."
+    mc "我确实费了很多力气，你在发情期理应得到满足，不是吗？还记得我们当初做的交易吗。我也很享受，对我们双方都有好处。"
 
 # game/1prologue.rpy#L1597
 translate chinese introdoggystyle_544ff182:
 
     # moxie "The deal… Even so, I was surprised that you decided to go above and beyond…"
-    moxie "The deal… Even so, I was surprised that you decided to go above and beyond…"
+    moxie "我当然记得...就算是这样，你的主动和热情也远超我的预期......"
 
 # game/1prologue.rpy#L1598
 translate chinese introdoggystyle_ad2a76e5:
 
     # moxie "That was thoughtful of you…"
-    moxie "That was thoughtful of you…"
+    moxie "你真是体贴......"
 
 # game/1prologue.rpy#L1599
 translate chinese introdoggystyle_d0312200:
 
     # moxie "Next time I’ll be sure to return the favour."
-    moxie "Next time I’ll be sure to return the favour."
+    moxie "下次轮到我来主动和热情吧。"
 
 # game/1prologue.rpy#L1602
 translate chinese introdoggystyle_ad66959e:
 
     # "I can feel her fingers walking their way down my back, her voice had a seductive tone to it."
-    "I can feel her fingers walking their way down my back, her voice had a seductive tone to it."
+    "她的手指顺着我的背，从上往下游走，声音中带着几丝妩媚。"
 
 # game/1prologue.rpy#L1603
 translate chinese introdoggystyle_e5ca8d33:
 
     # "She’s already planting the seed of our next sexual encounter in my mind; I’m looking forward to it."
-    "She’s already planting the seed of our next sexual encounter in my mind; I’m looking forward to it."
+    "她已经准备好和我过以后的“日”子了，我不由得期待起来。"
 
 # game/1prologue.rpy#L1605
 translate chinese introdoggystyle_5d99c677:
 
     # "I keep a close eye on her expression, for a brief moment she seems conflicted."
-    "I keep a close eye on her expression, for a brief moment she seems conflicted."
+    "我密切地注视着她的表情,一道纠结从她的眉头间闪过。"
 
 # game/1prologue.rpy#L1606
 translate chinese introdoggystyle_c1b9a0e2:
 
     # moxie "Were you were just keeping your end of the bargain… Or was it something else?"
-    moxie "Were you were just keeping your end of the bargain… Or was it something else?"
+    moxie "你刚刚是在强调自己会信守诺言...还是有弦外之音？"
 
 # game/1prologue.rpy#L1607
 translate chinese introdoggystyle_a406681c:
 
     # mc "Hmm? Something… else?"
-    mc "Hmm? Something… else?"
+    mc "嗯？弦外...之音？"
 
 # game/1prologue.rpy#L1609
 translate chinese introdoggystyle_7f5a6dda:
 
     # moxie "Aha… No, it doesn’t matter."
-    moxie "Aha… No, it doesn’t matter."
+    moxie "啊...算了，当我没说。"
 
 # game/1prologue.rpy#L1611
 translate chinese introdoggystyle_a126dfb5:
 
     # moxie "Remember earlier when I said if a mare in heat is in close proximity to a male for long enough, she’ll start prospecting for sex?"
-    moxie "Remember earlier when I said if a mare in heat is in close proximity to a male for long enough, she’ll start prospecting for sex?"
+    moxie "还记得我之前提到过发情的雌驹如果和一位雄性长期相处，她会主动试图发生性行为吗？"
 
 # game/1prologue.rpy#L1612
 translate chinese introdoggystyle_25f17a77:
 
     # mc "Yeah, I was thinking about that earlier."
-    mc "Yeah, I was thinking about that earlier."
+    mc "记得，我刚刚还在思索来着。"
 
 # game/1prologue.rpy#L1613
 translate chinese introdoggystyle_bae1c753:
 
     # moxie "One of the reasons I wanted to tell you is because Penny suggested you get work, and that means you’ll be working close to some attractive mares…"
-    moxie "One of the reasons I wanted to tell you is because Penny suggested you get work, and that means you’ll be working close to some attractive mares…"
+    moxie "我告诉你这些是因为Penny建议你去找工作，那不得遇到不少发情的雌驹嘛......"
 
 # game/1prologue.rpy#L1614
 translate chinese introdoggystyle_d9584841:
 
     # mc "Ahh… I see what you mean."
-    mc "Ahh… I see what you mean."
+    mc "啊...我知道你在担心什么了。"
 
 # game/1prologue.rpy#L1616
 translate chinese introdoggystyle_0c5e8aea:
 
     # moxie "You gave me a damn good dicking, [playername], it'd be rude to keep that all to myself."
-    moxie "You gave me a damn good dicking, [playername], it'd be rude to keep that all to myself."
+    moxie "你的下面可是根大宝贝，[playername]，我如果独占鳌头，那就有点不厚道了。"
 
 # game/1prologue.rpy#L1618
 translate chinese introdoggystyle_b4779ef8:
 
     # moxie "I’m sure if you get close to one of them she’d be open to trying something sexy."
-    moxie "I’m sure if you get close to one of them she’d be open to trying something sexy."
+    moxie "我很肯定，只要你在她们的身边，她们就会想入非非，找你交媾。"
 
 # game/1prologue.rpy#L1620
 translate chinese introdoggystyle_22b24455:
 
     # moxie "Ahaha. I had a small idea, tell me if this is too much but…"
-    moxie "Ahaha. I had a small idea, tell me if this is too much but…"
+    moxie "啊哈哈。我忍不住去想......"
 
 # game/1prologue.rpy#L1623
 translate chinese introdoggystyle_c63a17ef:
 
     # moxie "It’d be kinda funny if you slept with them all."
-    moxie "It’d be kinda funny if you slept with them all."
+    moxie "你要是把所有雌驹睡个遍肯定会很有意思。"
 
 # game/1prologue.rpy#L1624
 translate chinese introdoggystyle_2b35b6fe:
@@ -5667,253 +5667,253 @@ translate chinese introdoggystyle_2b35b6fe:
 translate chinese introdoggystyle_1d49defa:
 
     # mc "WHAT?"
-    mc "WHAT?"
+    mc "口舍？"
 
 # game/1prologue.rpy#L1626
 translate chinese introdoggystyle_5f93a52f:
 
     # mc "Am I really allowed to do that? "
-    mc "Am I really allowed to do that? "
+    mc "我真能这么干？我真这么能干？"
 
 # game/1prologue.rpy#L1628
 translate chinese introdoggystyle_3b01eb5d:
 
     # moxie "Allowed? Are you kidding me? Of course you are, strut your stuff, you might as well while you’re here."
-    moxie "Allowed? Are you kidding me? Of course you are, strut your stuff, you might as well while you’re here."
+    moxie "干？你开什么玩笑？你当然能干，而且能到处干，你在我这里也能干。"
 
 # game/1prologue.rpy#L1629
 translate chinese introdoggystyle_5ec37044:
 
     # moxie "These ladies are all lovely, you’d be missing out if you just kept yourself to me. "
-    moxie "These ladies are all lovely, you’d be missing out if you just kept yourself to me. "
+    moxie "这些女孩们个个千娇百媚，只和我在一起你就遇不到她们啦。"
 
 # game/1prologue.rpy#L1630
 translate chinese introdoggystyle_c3e178a6:
 
     # mc "You’re okay with that?"
-    mc "You’re okay with that?"
+    mc "你不会觉得不妥吗？"
 
 # game/1prologue.rpy#L1632
 translate chinese introdoggystyle_7d5d00ce:
 
     # moxie "Pfft, why are you asking me? We’ve known each other less than 24 hours, you can do whatever you want."
-    moxie "Pfft, why are you asking me? We’ve known each other less than 24 hours, you can do whatever you want."
+    moxie "切，你还征询我的意见？我们见面还不到一天呢，你爱干嘛就干嘛啊。"
 
 # game/1prologue.rpy#L1634
 translate chinese introdoggystyle_0c7cd48a:
 
     # moxie "I feel bad for what happened, so I want to make sure you have as much fun as you can."
-    moxie "I feel bad for what happened, so I want to make sure you have as much fun as you can."
+    moxie "毕竟我可能让你在那个世界蒙受了一些损失，所以我想让你在这个世界里开开心心的过日子。"
 
 # game/1prologue.rpy#L1635
 translate chinese introdoggystyle_07024294:
 
     # mc "And the answer to that is sex?!"
-    mc "And the answer to that is sex?!"
+    mc "你说的开开心心过日子是用下面过吗！？"
 
 # game/1prologue.rpy#L1636
 translate chinese introdoggystyle_95dc900b:
 
     # moxie "At least one girl is going to try and ask you! I bet Riku will, she's horny!"
-    moxie "At least one girl is going to try and ask you! I bet Riku will, she's horny!"
+    moxie "至少有一个女孩会来向你“垂询”的！Riku最近饥渴得很！"
 
 # game/1prologue.rpy#L1638
 translate chinese introdoggystyle_f3a77663:
 
     # "She suddenly rolls right on top of me, so close her muzzle is booping my nose."
-    "She suddenly rolls right on top of me, so close her muzzle is booping my nose."
+    "她在我身上翻了个身，嘴唇刚好对上我的鼻子。"
 
 # game/1prologue.rpy#L1639
 translate chinese introdoggystyle_0b03baf9:
 
     # mc "Wha-?"
-    mc "Wha-?"
+    mc "搞啥？"
 
 # game/1prologue.rpy#L1640
 translate chinese introdoggystyle_3e869244:
 
     # moxie "Come on [playername], you’ll be stuck here a while, at least have some fun."
-    moxie "Come on [playername], you’ll be stuck here a while, at least have some fun."
+    moxie "别害羞嘛[playername]，既然你暂时离不了这个世界，可得好好玩玩。"
 
 # game/1prologue.rpy#L1642
 translate chinese introdoggystyle_801da876:
 
     # moxie "Don’t have too much fun though, you’ll still need to come back here for me, okay?"
-    moxie "Don’t have too much fun though, you’ll still need to come back here for me, okay?"
+    moxie "不过别玩得太过火，记得要回来看看我，好吗？"
 
 # game/1prologue.rpy#L1643
 translate chinese introdoggystyle_c28f181a:
 
     # mc "Mm… Okay."
-    mc "Mm… Okay."
+    mc "嗯...我答应你。"
 
 # game/1prologue.rpy#L1645
 translate chinese introdoggystyle_15de7374:
 
     # "We kiss briefly, and she rolls back to her spot and stretches out before closing her eyes. "
-    "We kiss briefly, and she rolls back to her spot and stretches out before closing her eyes. "
+    "我们短暂地相吻在一起，不一会唇分，她翻回自己先前的位置，伸了个懒腰，闭上眼睛沉沉睡去。"
 
 # game/1prologue.rpy#L1646
 translate chinese introdoggystyle_34be37a7:
 
     # "Moxie is right, new world, new me."
-    "Moxie is right, new world, new me."
+    "Moxie说得对，全新的世界，全新的生活。"
 
 # game/1prologue.rpy#L1647
 translate chinese introdoggystyle_651c3357:
 
     # "Damn, was she serious when she said I should sleep with ALL of them?"
-    "Damn, was she serious when she said I should sleep with ALL of them?"
+    "卧槽，她说我要把所有马睡一遍，不会是认真的吧？"
 
 # game/1prologue.rpy#L1650
 translate chinese introdoggystyle_cd59c234:
 
     # moxie "Ay, that's the right attitude!"
-    moxie "Ay, that's the right attitude!"
+    moxie "嗯哼，看起来你上道了！"
 
 # game/1prologue.rpy#L1651
 translate chinese introdoggystyle_be90b32c:
 
     # moxie "I could give you advice, hehehe."
-    moxie "I could give you advice, hehehe."
+    moxie "我可以为你指点一二，嘿嘿嘿。"
 
 # game/1prologue.rpy#L1653
 translate chinese introdoggystyle_95632e5b:
 
     # moxie "Should I be offended as someone that just slept with you?"
-    moxie "Should I be offended as someone that just slept with you?"
+    moxie "作为一个刚刚和你睡过的马儿，这么说不会有点突兀吧？"
 
 # game/1prologue.rpy#L1654
 translate chinese introdoggystyle_ee911c70:
 
     # moxie "Come on [playername], I already told you why someone would wanna sleep with you."
-    moxie "Come on [playername], I already told you why someone would wanna sleep with you."
+    moxie "来嘛[playername]，我已经告诉你为什么有人想和你在床上翻云覆雨了。"
 
 # game/1prologue.rpy#L1655
 translate chinese introdoggystyle_e243f46e:
 
     # moxie "You're cute anyway, you'll be a hit with the ladies."
-    moxie "You're cute anyway, you'll be a hit with the ladies."
+    moxie "你就像是头可爱的小鹿，能撞进所有女孩的心里。"
 
 # game/1prologue.rpy#L1657
 translate chinese introdoggystyle_31d7efd8:
 
     # moxie "Trust me tiger, the only complications you're going to have is picking which girl to fuck on which day."
-    moxie "Trust me tiger, the only complications you're going to have is picking which girl to fuck on which day."
+    moxie "相信我小鹿，你唯一该担心的就是哪天不知道该眷顾哪位后宫佳丽。"
 
 # game/1prologue.rpy#L1658
 translate chinese introdoggystyle_0d9306ef:
 
     # moxie "The time and place of fucking is going to be harder to organise than the how and why."
-    moxie "The time and place of fucking is going to be harder to organise than the how and why."
+    moxie "要择个翻云覆雨的良辰吉日和地儿可比解释原理困难多了。"
 
 # game/1prologue.rpy#L1659
 translate chinese introdoggystyle_df043822:
 
     # mc "Jeez Moxie, you're a riot."
-    mc "Jeez Moxie, you're a riot."
+    mc "我去，Moxie，你怎么这么腹黑。"
 
 # game/1prologue.rpy#L1660
 translate chinese introdoggystyle_75af8677:
 
     # moxie "Hehehe."
-    moxie "Hehehe."
+    moxie "嘿嘿嘿~"
 
 # game/1prologue.rpy#L1661
 translate chinese introdoggystyle_3d66da46:
 
     # "I lay on my back and stare up to the roof."
-    "I lay on my back and stare up to the roof."
+    "我向上躺好，望着天花板沉思起来。"
 
 # game/1prologue.rpy#L1663
 translate chinese introdoggystyle_888ad637:
 
     # "I still find her nonchalance about freely having sex with others unusual."
-    "I still find her nonchalance about freely having sex with others unusual."
+    "她觉得和其他雌驹发生性关系无关紧要，在我看来有点怪异。"
 
 # game/1prologue.rpy#L1664
 translate chinese introdoggystyle_d492cf16:
 
     # "Is it really that easy? I always thought sex was a big deal, ‘the most precious experience you can share with a person’."
-    "Is it really that easy? I always thought sex was a big deal, ‘the most precious experience you can share with a person’."
+    "真有她说得那么容易？我一直觉得发生性关系非同小可，是一段“你可以和另一半共度的最好时光”。"
 
 # game/1prologue.rpy#L1665
 translate chinese introdoggystyle_a9708e11:
 
     # "I always assumed it'd take a few weeks or months to build up to sex."
-    "I always assumed it'd take a few weeks or months to build up to sex."
+    "我总觉得性关系要在二人发展几周甚至几月后才能进行。"
 
 # game/1prologue.rpy#L1666
 translate chinese introdoggystyle_15661a1a:
 
     # "That’s not entirely true though, sex between non-lovers is common where I’m from too. And I did sleep with Moxie really quickly."
-    "That’s not entirely true though, sex between non-lovers is common where I’m from too. And I did sleep with Moxie really quickly."
+    "好像也不是那么回事儿，非情侣之间的性行为在我的世界里也普遍存在。想着想着，我就和Moxie一同进入了梦乡。"
 
 # game/1prologue.rpy#L1667
 translate chinese introdoggystyle_f281113d:
 
     # "Although... Moxie kinda came onto me, I didn’t do much."
-    "Although... Moxie kinda came onto me, I didn’t do much."
+    "虽然...我没做多少事情，Moxie向我示了不少好。"
 
 # game/1prologue.rpy#L1668
 translate chinese introdoggystyle_63cff4ee:
 
     # "Will the other girls make the first move too? That would make things far easier."
-    "Will the other girls make the first move too? That would make things far easier."
+    "其他女孩也会像她一样主动吗？真是那样的话，事情就好搞定多了。"
 
 # game/1prologue.rpy#L1669
 translate chinese introdoggystyle_b479cf76:
 
     # "Maybe it’s different in a society with such a scarcity of males. Maybe it’s like Moxie said, during mating season girls will seek out males more willingly and sex will just kinda fall on my lap."
-    "Maybe it’s different in a society with such a scarcity of males. Maybe it’s like Moxie said, during mating season girls will seek out males more willingly and sex will just kinda fall on my lap."
+    "也许是因为这个社会中缺乏男性，所以和我那边不同吧。亦或是如Moxie所言，交配季节里女性对男性会更加主动，到处都能来上一发。"
 
 # game/1prologue.rpy#L1670
 translate chinese introdoggystyle_dc9bccb3:
 
     # "That's what she said earlier, but... It sounds too ridiculous to be true. The women of this society are basically like the men of my society, how confusing..."
-    "That's what she said earlier, but... It sounds too ridiculous to be true. The women of this society are basically like the men of my society, how confusing..."
+    "她之前确实是这个意思，不过...在我听来总有些离谱。这个世界的雌性就像我那个世界的男性一样，真是奇怪。"
 
 # game/1prologue.rpy#L1672
 translate chinese introdoggystyle_4c0ec676:
 
     # mc "Hey Moxie, why did you have sex with me? Or rather, why so easily?"
-    mc "Hey Moxie, why did you have sex with me? Or rather, why so easily?"
+    mc "嘿Moxie，为什么你愿意和我发生性关系？或者我该问，为什么这么轻易地和我发生性关系？"
 
 # game/1prologue.rpy#L1674
 translate chinese introdoggystyle_8be89342:
 
     # moxie "Strange question... I'm not an easy slut if that's what you think! You're my first... Did we go too quickly?"
-    moxie "Strange question... I'm not an easy slut if that's what you think! You're my first... Did we go too quickly?"
+    moxie "古怪的问题...我可不是你想的那种下流婊砸！你是我的第一次...你嫌我们进展太快了吗？"
 
 # game/1prologue.rpy#L1675
 translate chinese introdoggystyle_6e7b1372:
 
     # mc "I don't think that at all, I'm just trying to better understand the cultural differences."
-    mc "I don't think that at all, I'm just trying to better understand the cultural differences."
+    mc "我不完全那么想，我只是想更多地了解我们之间的文化差异。"
 
 # game/1prologue.rpy#L1677
 translate chinese introdoggystyle_dca4ff0c:
 
     # moxie "Ooohh... I think I know what you’re alluding to; it’s usually not this easy outside of mating season."
-    moxie "Ooohh... I think I know what you’re alluding to; it’s usually not this easy outside of mating season."
+    moxie "哦哦...我听出来你的话外之音了；如果是非交配季节，进展不会这么快的。"
 
 # game/1prologue.rpy#L1678
 translate chinese introdoggystyle_7bbb8b99:
 
     # mc "Is that so? Could you tell me more about heat then? I know you mentioned it earlier, but I’m interested to hear how it affects you."
-    mc "Is that so? Could you tell me more about heat then? I know you mentioned it earlier, but I’m interested to hear how it affects you."
+    mc "真滴咩？那你能跟我多讲讲发情期吗？你之前只是提到过这个概念，我想知道它在你身上究竟是如何运作的。"
 
 # game/1prologue.rpy#L1680
 translate chinese introdoggystyle_a9bd7cda:
 
     # moxie "Heat is like… Heat is like a burning desire that plagues the mind. You feel empty, and I don't mean mentally, I mean physically empty, I want to be filled, by... You know, a cock."
-    moxie "Heat is like… Heat is like a burning desire that plagues the mind. You feel empty, and I don't mean mentally, I mean physically empty, I want to be filled, by... You know, a cock."
+    moxie "发情就像...就像让你的大脑陷入狂热的欲望之中一样。你会感觉空虚无比，不是精神上的空虚，而是肉体上的，我的肉体想要...你懂的，阴茎。"
 
 # game/1prologue.rpy#L1681
 translate chinese introdoggystyle_927cf825:
 
     # moxie "I can still work and do day to day activities just fine. But it’s worse at night when I have nothing to occupy my mind, all I can think about is sex."
-    moxie "I can still work and do day to day activities just fine. But it’s worse at night when I have nothing to occupy my mind, all I can think about is sex."
+    moxie "白天我还是能正常工作，正常生活。但到了晚上，脑子里除了性冲动就很难容下别的东西了。"
 
 # game/1prologue.rpy#L1682
 translate chinese introdoggystyle_ab893f44:
@@ -6321,7 +6321,7 @@ translate chinese introdoggystyle_711b0adf:
 translate chinese introdoggystyle_259eb5cc:
 
     # "Only question is where should I work today?"
-    "Only question is where should I work today?"
+    "唯一的问题是，今天我该去哪里工作？"
 
 translate chinese strings:
 
@@ -6499,7 +6499,7 @@ translate chinese strings:
 
     # game/1prologue.rpy_L964_1
     old "(Say nothing)"
-    new "（说点什么）"
+    new "（什么都不说）"
 
     # game/1prologue.rpy_L997_0
     old "Country? So there are other countries?"

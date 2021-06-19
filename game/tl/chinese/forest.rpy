@@ -1,4 +1,4 @@
-# Translation updated at Fri Jun 18 2021 00:49:20 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Sat Jun 19 2021 00:49:49 GMT+0000 (Coordinated Universal Time)
 # game/forest.rpy#L18
 translate chinese forestvisit1_8c224d17:
 
@@ -11071,7 +11071,7 @@ translate chinese strings:
 
     # game/forest.rpy_L1413_0
     old "What’s a succubus?"
-    new "梦淫妖是什么？"
+    new "魅魔是什么？"
 
     # game/forest.rpy_L1413_1
     old "Are you dangerous?"
@@ -11079,7 +11079,7 @@ translate chinese strings:
 
     # game/forest.rpy_L1460_0
     old "Do you like being a Succubus?"
-    new "你喜欢成为梦淫妖吗？"
+    new "你喜欢成为魅魔吗？"
 
     # game/forest.rpy_L1460_1
     old "Isn’t there a way to have sex without hurting someone?"
@@ -11111,7 +11111,7 @@ translate chinese strings:
 
     # game/forest.rpy_L1861_2
     old "Freeze"
-    new "冰冻"
+    new "呆在原地"
 
     # game/forest.rpy_L1914_0
     old "Yes!"

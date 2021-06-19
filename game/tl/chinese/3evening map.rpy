@@ -1,17 +1,17 @@
-# Translation updated at Fri Jun 18 2021 00:49:19 GMT+0000 (Coordinated Universal Time)
-# game/3evening map.rpy#L42
+# Translation updated at Sat Jun 19 2021 00:49:46 GMT+0000 (Coordinated Universal Time)
+# game/3evening%20map.rpy#L42
 translate chinese worldmapnight_212cd339:
 
     # "Maybe I should check out the bar or nightclub?"
     "也许我应该去酒吧或是夜总会转转？"
 
-# game/3evening map.rpy#L54
+# game/3evening%20map.rpy#L54
 translate chinese mapnightforest_592c1493:
 
     # "Visiting Butters in the evening is just a little too far of a walk, especially since I'm not yet familiar with the layout of the dark forest."
     "大晚上的就这么走着去拜访Butters未免有些太过，更何况我对这片黑暗森林的布局还不太熟悉。"
 
-# game/3evening map.rpy#L67
+# game/3evening%20map.rpy#L67
 translate chinese mapnightboutique_b89d78af:
 
     # "I knock on the boutique door and there's no response. This building is massive, so the girls probably can't hear my knocking from their bedrooms at all."
