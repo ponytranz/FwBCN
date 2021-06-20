@@ -1,4 +1,4 @@
-# Translation updated at Sat Jun 19 2021 00:49:46 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Sun Jun 20 2021 00:51:56 GMT+0000 (Coordinated Universal Time)
 # game/boutique.rpy#L20
 translate chinese boutiquevisit1_9babdb27:
 
@@ -1131,55 +1131,55 @@ translate chinese melodyhandjob2_85e9abe9:
 translate chinese melodyhandjob2_fc1c11f4:
 
     # unknown "That's a secret, all you need to do is agree… Hehe"
-    unknown "That's a secret, all you need to do is agree… Hehe"
+    unknown "这是一个秘密，你只需要同意就行......嘿嘿嘿。"
 
 # game/boutique.rpy#L340
 translate chinese melodyhandjob2_1387c463:
 
     # "I wait a few seconds before replying, not because I’m deliberating whether to go along with her or not, I’ve already decided. The wait is just in petty protest, the hand job doesn’t stop either, so that’s nice."
-    "I wait a few seconds before replying, not because I’m deliberating whether to go along with her or not, I’ve already decided. The wait is just in petty protest, the hand job doesn’t stop either, so that’s nice."
+    "我等了几秒钟才回话，不过不是因为我在考虑是否要和她一起去，我其实已经决定了。等待只是为了小小的抗议，手上的活儿也没停，这样就挺好的。"
 
 # game/boutique.rpy#L345
 translate chinese melodyhandjob2_7694242f:
 
     # unknown "Hehe, good boy..."
-    unknown "Hehe, good boy..."
+    unknown "嘿嘿，好孩子……"
 
 # game/boutique.rpy#L348
 translate chinese melodyhandjob2_e9340919:
 
     # unknown "Hehe, your cock doesn't deserve this virgin pussy."
-    unknown "Hehe, your cock doesn't deserve this virgin pussy."
+    unknown "呵呵，你的肉棒可有点配不上这个小穴。"
 
 # game/boutique.rpy#L349
 translate chinese melodyhandjob2_a5183d70:
 
     # unknown "Accept the deal however, and maybe I'll reconsider."
-    unknown "Accept the deal however, and maybe I'll reconsider."
+    unknown "不过，接受这个交易，说不定我能再考虑考虑呢。"
 
 # game/boutique.rpy#L350
 translate chinese melodyhandjob2_c81a9d16:
 
     # mc "Okay, I accept."
-    mc "Okay, I accept."
+    mc "好吧，我同意"
 
 # game/boutique.rpy#L351
 translate chinese melodyhandjob2_7694242f_1:
 
     # unknown "Hehe, good boy..."
-    unknown "Hehe, good boy..."
+    unknown "嘿嘿，好孩子……"
 
 # game/boutique.rpy#L354
 translate chinese melodyhandjob2_18824ad2:
 
     # unknown "Fufufu, we have a troublemaker."
-    unknown "Fufufu, we have a troublemaker."
+    unknown "吼吼，我们有一了个麻烦制造者。"
 
 # game/boutique.rpy#L355
 translate chinese melodyhandjob2_73ec9ec2:
 
     # unknown "Fine, do it your way, I'm excited to see the results."
-    unknown "Fine, do it your way, I'm excited to see the results."
+    unknown "好吧，就按你说的做，我还挺想看到结果的。"
 
 # game/boutique.rpy#L357
 translate chinese melodyhandjob2_b01935fd:

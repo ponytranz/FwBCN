@@ -1,4 +1,4 @@
-# Translation updated at Sat Jun 19 2021 00:49:49 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Sun Jun 20 2021 00:51:56 GMT+0000 (Coordinated Universal Time)
 # game/deepforest.rpy#L13
 translate chinese deepforest_51a3a838:
 

@@ -1,4 +1,4 @@
-# Translation updated at Sat Jun 19 2021 00:49:49 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Sun Jun 20 2021 00:51:56 GMT+0000 (Coordinated Universal Time)
 # game/library.rpy#L18
 translate chinese libraryvisit1_98593462:
 
@@ -4059,7 +4059,7 @@ translate chinese penelopecunnilingus_9d9e2d08:
 translate chinese penelopecunnilingus_104c2d33:
 
     # penelope "I like your style [playername]. Lay down, I like to be on top."
-    penelope "我喜欢你的风格[playername]。躺下，我喜欢在上面。"
+    penelope "[playername]，我喜欢你的风格。躺下，我喜欢在上面。"
 
 # game/library.rpy#L1163
 translate chinese penelopecunnilingus_ce617998:

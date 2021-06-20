@@ -1,4 +1,4 @@
-# Translation updated at Sat Jun 19 2021 00:49:46 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Sun Jun 20 2021 00:51:56 GMT+0000 (Coordinated Universal Time)
 # game/church.rpy#L15
 translate chinese augustapost_d42bf085:
 
@@ -57,43 +57,43 @@ translate chinese augustamenu_37f7e417:
 translate chinese augustamenu_df54dc51:
 
     # augusta "Let's not get caught up on the little things."
-    augusta "Let's not get caught up on the little things."
+    augusta "别去纠结那些小事情嘛。"
 
 # game/church.rpy#L35
 translate chinese augustamenu_c0333a58:
 
     # augusta "Thirdly, there was the reverse cowgirl incident, where we nearly fucked each other to death."
-    augusta "Thirdly, there was the reverse cowgirl incident, where we nearly fucked each other to death."
+    augusta "第三，上次出了个反骑乘位的事儿，我们差点把对方干到死。"
 
 # game/church.rpy#L36
 translate chinese augustamenu_7a18b603:
 
     # mc "Minor exaggeration."
-    mc "Minor exaggeration."
+    mc "有点夸张了。"
 
 # game/church.rpy#L37
 translate chinese augustamenu_d540dfe2:
 
     # mc "What's next?"
-    mc "What's next?"
+    mc "接下来做和安排？"
 
 # game/church.rpy#L39
 translate chinese augustamenu_e30bbcb0:
 
     # augusta "I'd like to see how you perform with some other mares. With that, I should have sufficient knowledge of your unique capacities as a sexual creature."
-    augusta "I'd like to see how you perform with some other mares. With that, I should have sufficient knowledge of your unique capacities as a sexual creature."
+    augusta "我想看看你和其他雌驹在一起的表现如何。这样的话，我就能对你这个物种的独特性功能有足够的了解了。"
 
 # game/church.rpy#L40
 translate chinese augustamenu_67344642:
 
     # mc "You got it, boss."
-    mc "You got it, boss."
+    mc "你是老板你说了算。"
 
 # game/church.rpy#L43
 translate chinese augustamenu_daf9495b:
 
     # augusta "Research complete! Now I know exactly what kind of spells and movements to make you squeal with pleasure."
-    augusta "Research complete! Now I know exactly what kind of spells and movements to make you squeal with pleasure."
+    augusta "研究完成！我现在知道什么法术能让你在床上爽得直呼过瘾了。"
 
 # game/church.rpy#L46
 translate chinese augustamenu_20a690e2:
@@ -105,325 +105,325 @@ translate chinese augustamenu_20a690e2:
 translate chinese augustamenu_8c858d6f:
 
     # augusta "Perfect... I have my own room at the back of the church, where customers pay highly to get the best services we can offer."
-    augusta "Perfect... I have my own room at the back of the church, where customers pay highly to get the best services we can offer."
+    augusta "很好...我在教堂后面有自己的房间，顾客们只要肯出大价钱，就能享受我们最极致的服务。"
 
 # game/church.rpy#L54
 translate chinese augustamenu_7ba64a7c:
 
     # augusta "I believe you're a perfect fit."
-    augusta "I believe you're a perfect fit."
+    augusta "我相信你是合适的人选。"
 
 # game/church.rpy#L55
 translate chinese augustamenu_244979f4:
 
     # augusta "After that, I’ll assign you to a few on your own to earn your pay."
-    augusta "After that, I’ll assign you to a few on your own to earn your pay."
+    augusta "完事之后，你会拿到合适的报酬。"
 
 # game/church.rpy#L56
 translate chinese augustamenu_f2125c25:
 
     # mc "Alright, let's get this done with."
-    mc "Alright, let's get this done with."
+    mc "好，说干就干。"
 
 # game/church.rpy#L66
 translate chinese augustamenu_e512606d:
 
     # unknown "Hello, uhmm... I'm here to have sex, yeah, heh... Who is it I'm fucking today?"
-    unknown "Hello, uhmm... I'm here to have sex, yeah, heh... Who is it I'm fucking today?"
+    unknown "你好，呃...我是来这里啪啪啪的，嘿...今天是谁来满足我？"
 
 # game/church.rpy#L67
 translate chinese augustamenu_daec090e:
 
     # augusta "Greetings, you have access to a wonderful combination today. The best priestess and priest in the entire church."
-    augusta "Greetings, you have access to a wonderful combination today. The best priestess and priest in the entire church."
+    augusta "欢迎，你今天有幸能得到两人的服侍。本教堂最好的女祭司和神父将为您竭诚服务。"
 
 # game/church.rpy#L68
 translate chinese augustamenu_6f5543b1:
 
     # unknown "O-Oh my, I hope that doesn't cost extra..."
-    unknown "O-Oh my, I hope that doesn't cost extra..."
+    unknown "哦，天，天啊，我不会得额外付钱吧......"
 
 # game/church.rpy#L69
 translate chinese augustamenu_81f1c7f4:
 
     # augusta "Not at all! *Spank*"
-    augusta "Not at all! *Spank*"
+    augusta "没有的事！*拍打臀部*"
 
 # game/church.rpy#L71
 translate chinese augustamenu_55fee909:
 
     # unknown "Eep!"
-    unknown "Eep!"
+    unknown "那就好！"
 
 # game/church.rpy#L74
 translate chinese augustamenu_ff6fac20:
 
     # unknown "Hey... I'm ready to have sex now..."
-    unknown "Hey... I'm ready to have sex now..."
+    unknown "嘿...我已经准备好迎接肉棒了......"
 
 # game/church.rpy#L75
 translate chinese augustamenu_2635f3b3:
 
     # augusta "You certainly are, just look at how wet you are!"
-    augusta "You certainly are, just look at how wet you are!"
+    augusta "那是当然，看你小穴湿成这样！"
 
 # game/church.rpy#L76
 translate chinese augustamenu_d5e4925d:
 
     # unknown "Mhm... I'm very wet... Can you do something about it?"
-    unknown "Mhm... I'm very wet... Can you do something about it?"
+    unknown "嗯...我下面湿得不行...能帮我解决下吗？"
 
 # game/church.rpy#L77
 translate chinese augustamenu_ffd9a746:
 
     # augusta "Absolutely, before you even know it, you'll have a cock sinking deeply into those tight lips."
-    augusta "Absolutely, before you even know it, you'll have a cock sinking deeply into those tight lips."
+    augusta "不成问题，一会就会有根大鸡巴将在你紧窄的小穴里挑动。"
 
 # game/church.rpy#L78
 translate chinese augustamenu_04b47b4f:
 
     # unknown "I like the sound of that..."
-    unknown "I like the sound of that..."
+    unknown "听起来真不错......"
 
 # game/church.rpy#L81
 translate chinese augustamenu_2a0d710c:
 
     # unknown "Is that two sets of footsteps I can hear, darlings?"
-    unknown "Is that two sets of footsteps I can hear, darlings?"
+    unknown "亲，我是不是听到了两匹马的蹄声？"
 
 # game/church.rpy#L82
 translate chinese augustamenu_e8eb5669:
 
     # augusta "Certainly is, for such a charming lady such as yourself we've decided to provide you with our best service."
-    augusta "Certainly is, for such a charming lady such as yourself we've decided to provide you with our best service."
+    augusta "是的，您这样美丽的雌驹配得上我们最顶尖的服务。"
 
 # game/church.rpy#L83
 translate chinese augustamenu_9e0b1751:
 
     # unknown "Ahh, the anticipation is palpable."
-    unknown "Ahh, the anticipation is palpable."
+    unknown "啊，我真是好期待啊。"
 
 # game/church.rpy#L84
 translate chinese augustamenu_d86d3341:
 
     # unknown "I am truly soaked, please go as hard as you'd like in any hole you want."
-    unknown "I am truly soaked, please go as hard as you'd like in any hole you want."
+    unknown "我下面已经湿透了，请你对我的肉洞为所欲为吧。"
 
 # game/church.rpy#L85
 translate chinese augustamenu_70786f38:
 
     # augusta "Hey, maybe we could take a hole each. Thoughts, [playername]?"
-    augusta "Hey, maybe we could take a hole each. Thoughts, [playername]?"
+    augusta "嘿，咱们可以一人一个洞，想不想，[playername]？"
 
 # game/church.rpy#L87
 translate chinese augustamenu_25f778b9:
 
     # augusta "What's your plan of attack?"
-    augusta "What's your plan of attack?"
+    augusta "你想怎么“干”？"
 
 # game/church.rpy#L92
 translate chinese augustamenu_6c6f6938:
 
     # augusta "I love it when I'm involved. Let us began."
-    augusta "I love it when I'm involved. Let us began."
+    augusta "我还是喜欢亲自出马。我们上吧。"
 
 # game/church.rpy#L93
 translate chinese augustamenu_e4bfd6c4:
 
     # "Removing her Nun's habit, Augusta positions herself in front of the customer."
-    "Removing her Nun's habit, Augusta positions herself in front of the customer."
+    "Augusta在顾客前摆好姿势，身上的修女服已经不知道哪里去了。"
 
 # game/church.rpy#L96
 translate chinese augustamenu_7c484c2f:
 
     # augusta "Alright, time to conjure a big ol' cock."
-    augusta "Alright, time to conjure a big ol' cock."
+    augusta "好啦，现在是大鸡巴时间。"
 
 # game/church.rpy#L99
 translate chinese augustamenu_be770070:
 
     # "With a magical glow, a glorious cock forms between Augusta’s legs and she quickly gets into position."
-    "With a magical glow, a glorious cock forms between Augusta’s legs and she quickly gets into position."
+    "一阵魔法炫光过后，一根粗壮的肉棒在Augusta的双腿间蠢蠢欲动，她很快摆好了进攻姿势。"
 
 # game/church.rpy#L100
 translate chinese augustamenu_a58ff1be:
 
     # "Her rapidly hardening horse-cock brushes against the awaiting mare's glistening and occasionally throbbing pussy."
-    "Her rapidly hardening horse-cock brushes against the awaiting mare's glistening and occasionally throbbing pussy."
+    "她飞速地撸动自己的雄驹性器，对准顾客被淫水打湿得水光阵阵，轻轻抽动的阴道。"
 
 # game/church.rpy#L103
 translate chinese augustamenu_f108040c:
 
     # "I can’t take my eyes off the sight as the flaring cock pushes against the mare’s nether lips, sliding them apart and eliciting several moans from both girls."
-    "I can’t take my eyes off the sight as the flaring cock pushes against the mare’s nether lips, sliding them apart and eliciting several moans from both girls."
+    "粗壮的鸡巴不断挑动着另一只雌驹的肉缝，随之拨开阴唇，渐渐深入，惹得两位女孩都怪叫连连，这幕场景让我都看直了。"
 
 # game/church.rpy#L104
 translate chinese augustamenu_27d3ee9f:
 
     # "And then with a boisterous thrust, Augusta plunges her cock to the hilt, straight past the ridge."
-    "And then with a boisterous thrust, Augusta plunges her cock to the hilt, straight past the ridge."
+    "然后Augusta猛地往前一挺，肉棒全根没入，直捣花心。"
 
 # game/church.rpy#L105
 translate chinese augustamenu_9f0a7186:
 
     # "The receiver squeals with pleasure, and maybe a little bit of pain. Her legs rattling the restraints as her hips shake."
-    "The receiver squeals with pleasure, and maybe a little bit of pain. Her legs rattling the restraints as her hips shake."
+    "被插入的雌驹发出了高声浪叫，应该还夹杂了一点痛苦在里面。腰止不住地扭动着，被绑缚固定的双脚也弄得绳子吱呀吱呀地响。"
 
 # game/church.rpy#L107
 translate chinese augustamenu_afed89d9:
 
     # "Pulling back slightly, Augusta pushes herself back in at an increasing pace. Repeatedly pounding every inch of her gigantic cock into the other mare."
-    "Pulling back slightly, Augusta pushes herself back in at an increasing pace. Repeatedly pounding every inch of her gigantic cock into the other mare."
+    "Augusta稍微往后抽出来一点，然后再以更快地速度插进去。将巨根的每一寸都插入另一匹雌驹的肉缝中。"
 
 # game/church.rpy#L108
 translate chinese augustamenu_01226ec3:
 
     # "The willing partner writhes with pleasure, getting fucked exactly as she wanted. Her hips constantly pushing back into Augusta’s hips, hungry for the full length of the cock."
-    "The willing partner writhes with pleasure, getting fucked exactly as she wanted. Her hips constantly pushing back into Augusta’s hips, hungry for the full length of the cock."
+    "想要肉棒的顾客终于如愿以偿，被操得扭来扭去。她的臀部不断来回摇晃以迎合Augusta的腰动，贪婪地将肉棒整根都吸进穴里。"
 
 # game/church.rpy#L109
 translate chinese augustamenu_8856a90e:
 
     # augusta "You’re not gonna just stand there and watch like a fuckin’ virgin, are ya? Aha!"
-    augusta "You’re not gonna just stand there and watch like a fuckin’ virgin, are ya? Aha!"
+    augusta "你就像个处男一样在那站着看，木头桩子？啊哈！"
 
 # game/church.rpy#L110
 translate chinese augustamenu_d05c49f7:
 
     # "She flashes me a smirk, she clearly noticed my erection. Although I’m not exactly sure what I should be doing in a situation like this."
-    "She flashes me a smirk, she clearly noticed my erection. Although I’m not exactly sure what I should be doing in a situation like this."
+    "她扭过头，看到我高高挺起的长枪坏笑着。我不是很确定此情此景我到底要干嘛。"
 
 # game/church.rpy#L114
 translate chinese augustamenu_23e1f5de:
 
     # "I smirk and position myself behind Augusta. Although slightly flustered, she takes the hint and bends over into the wall slightly."
-    "I smirk and position myself behind Augusta. Although slightly flustered, she takes the hint and bends over into the wall slightly."
+    "我也报以坏笑，站到Augusta背后。虽然她对我的这个举动有点意外，不过她还是乖乖弯下腰，靠在墙上摆好姿势。"
 
 # game/church.rpy#L119
 translate chinese augustamenu_b2af148b:
 
     # "She slows down slightly as I press the tip of my cock against her labia. Her pussy is already dripping wet allowing me to easily sink inside."
-    "She slows down slightly as I press the tip of my cock against her labia. Her pussy is already dripping wet allowing me to easily sink inside."
+    "在我的肉棒插入她的肉缝中时她不由得稍微放慢了自己抽插的速度。她的蜜穴早已是洪水泛滥，我轻松地长驱直入。"
 
 # game/church.rpy#L120
 translate chinese augustamenu_f69244b8:
 
     # augusta "Oohhh, this always feel crazy good!"
-    augusta "Oohhh, this always feel crazy good!"
+    augusta "哦哦，这感觉真他妈棒！"
 
 # game/church.rpy#L121
 translate chinese augustamenu_1c1ead1f:
 
     # "My cock plunges deep into Augusta’s pussy pushing her forward, and in turn she thrusts her hips."
-    "My cock plunges deep into Augusta’s pussy pushing her forward, and in turn she thrusts her hips."
+    "我的阴茎在Augusta的阴道中深深翻搅，把她往前推，她也在努力地挺动自己的柳腰。"
 
 # game/church.rpy#L122
 translate chinese augustamenu_4ff633e4:
 
     # "It takes us a few moments to perfect the rhythm, but before we know it, we’re both fucking in tandem with each other."
-    "It takes us a few moments to perfect the rhythm, but before we know it, we’re both fucking in tandem with each other."
+    "我俩的节奏一开始没搭上调，一人前一人后的，不过在意识到这个问题后，我们很快调整了自己抽插的速度，变得前后一致。"
 
 # game/church.rpy#L123
 translate chinese augustamenu_ec9980dd:
 
     # "Augusta is really loving it as she feels the double dosage of pleasure from her cock implement as well as the sensations from her pussy."
-    "Augusta is really loving it as she feels the double dosage of pleasure from her cock implement as well as the sensations from her pussy."
+    "Augusta对此乐此不疲，她的抽动的鸡巴和我在她小穴中翻搅的鸡巴给她带来了双倍的快感。"
 
 # game/church.rpy#L124
 translate chinese augustamenu_0cd90a38:
 
     # "She can barely contain herself as she literally moans more than the customer, whom she tightly grips the ass of just to stay standing."
-    "She can barely contain herself as she literally moans more than the customer, whom she tightly grips the ass of just to stay standing."
+    "她已经无法自已了，嘴里发出的哦哦声比顾客还要多，在双重快感下，她只能靠死死抓住顾客的屁股来保持平衡。"
 
 # game/church.rpy#L125
 translate chinese augustamenu_27301332:
 
     # "The movements become sloppy and primal, merely humping our hips back and forth to draw out as much pleasure as possible."
-    "The movements become sloppy and primal, merely humping our hips back and forth to draw out as much pleasure as possible."
+    "我们的抽插开始变得杂乱狂野起来，往前无脑地动腰，只为迎来更多的快感。"
 
 # game/church.rpy#L126
 translate chinese augustamenu_2489cb2e:
 
     # "The three of us manage to settle into a pretty intense rhythm of rutting. Each of us fucking at odd intervals."
-    "The three of us manage to settle into a pretty intense rhythm of rutting. Each of us fucking at odd intervals."
+    "三人都陷入了一种非常激快的抽插节奏。每个人的抽送间隔都变得有些奇怪。"
 
 # game/church.rpy#L127
 translate chinese augustamenu_53ef80cd:
 
     # "The soundproofed room still manages to echo slightly with moans and grunts of sexual pleasure from all three of us."
-    "The soundproofed room still manages to echo slightly with moans and grunts of sexual pleasure from all three of us."
+    "即使是隔音的房间也没办法完全阻挡我们三人发出的呻吟和交合的啪啪声传出。"
 
 # game/church.rpy#L128
 translate chinese augustamenu_cdad1d7d:
 
     # "Augusta bites her lips and her hips begin to move faster, I have to up my pace to keep up. She must be pushing for our orgasms."
-    "Augusta bites her lips and her hips begin to move faster, I have to up my pace to keep up. She must be pushing for our orgasms."
+    "Augusta紧咬嘴唇，腰动得比之前更快，导致我也不得不加速跟进。想必她已经到了高潮关头。"
 
 # game/church.rpy#L131
 translate chinese augustamenu_e7a372c3:
 
     # "Suddenly Augusta’s cock erupts, unloading a mighty amount of cum deep into the customer’s pussy. Her pussy simultaneously tightens around my cock, squeezing it mercilessly to the point where I find myself overwhelmed with the satisfaction of a powerful orgasm."
-    "Suddenly Augusta’s cock erupts, unloading a mighty amount of cum deep into the customer’s pussy. Her pussy simultaneously tightens around my cock, squeezing it mercilessly to the point where I find myself overwhelmed with the satisfaction of a powerful orgasm."
+    "Augusta的鸡巴突然开闸泄洪，海量的精液急射而出，将顾客的小穴塞得满满当当。而她的小穴也同时狠狠挤压着我的肉棒，在她肉壁无情的压榨下，我也很快高潮，极乐快感很快将我的思维吞没。"
 
 # game/church.rpy#L136
 translate chinese augustamenu_ab7e37b7:
 
     # "Explosively, the three of us orgasm almost concurrently as jets of cum unload deep into each of the mare’s wombs."
-    "Explosively, the three of us orgasm almost concurrently as jets of cum unload deep into each of the mare’s wombs."
+    "我们三人都沉浸在高潮的愉悦中，两根鸡巴狂怒地向两位雌驹的子宫最深处倾泻大量弄精。"
 
 # game/church.rpy#L145
 translate chinese augustamenu_c1a9e582:
 
     # "The two of us eagerly fuck through the duration of our climaxes, getting every droplet of pleasure as possible before the high wears off and our cocks begin to grow sensitive."
-    "The two of us eagerly fuck through the duration of our climaxes, getting every droplet of pleasure as possible before the high wears off and our cocks begin to grow sensitive."
+    "即使已经射精，我和Augusta也仍然没有停止抽插，在鸡巴软下来前贪婪地享受着每一毫秒的快感，性福的余韵。"
 
 # game/church.rpy#L147
 translate chinese augustamenu_b91371f8:
 
     # "Augusta and I pull out with a schlick leaving two sloppy, well-fucked pussies. Both of the mares are left satisfied and catching their breath."
-    "Augusta and I pull out with a schlick leaving two sloppy, well-fucked pussies. Both of the mares are left satisfied and catching their breath."
+    "我和Augusta恋恋不舍地抽出肉棒，两匹雌驹的蜜穴都被塞得满满当当，浓精横流，她俩都沉醉在心满意足当中，大口地喘着气。"
 
 # game/church.rpy#L150
 translate chinese augustamenu_e80097f4:
 
     # "I nod and position myself slightly to the side of Augusta. She takes the hint and gives me enough room to position my cock at the customer’s ass."
-    "I nod and position myself slightly to the side of Augusta. She takes the hint and gives me enough room to position my cock at the customer’s ass."
+    "我点了下头，慢慢走到Augusta身边摆好姿势。她很快了解我的意图，挪到旁边给我腾出足够的空间，我很快将肉棒对准顾客的后庭。"
 
 # game/church.rpy#L151
 translate chinese augustamenu_f04b74bb:
 
     # "The princess slows down slightly as I press the tip of my cock against the patron's pucker, which is soaking wet due to the drippings of vaginal lubricants from the passionate futa fuck."
-    "The princess slows down slightly as I press the tip of my cock against the patron's pucker, which is soaking wet due to the drippings of vaginal lubricants from the passionate futa fuck."
+    "当我将龟头抵在顾客的后庭入口上时，公主稍微放慢了自己抽插的速度，在激烈的扶她性交中顾客的小穴早已湿透，滑溜溜的淫水也覆盖了后庭。"
 
 # game/church.rpy#L154
 translate chinese augustamenu_ddc3660c:
 
     # "The tip of my cock slips in with surprising ease, and there’s no protest from the customer. She relaxes her ass, allowing me to sink all the way in."
-    "The tip of my cock slips in with surprising ease, and there’s no protest from the customer. She relaxes her ass, allowing me to sink all the way in."
+    "我的肉棒在淫水的作用下轻松嵌入后庭，顾客对此并无抵抗，没有收紧自己的屁股，让我得以继续长驱直入。"
 
 # game/church.rpy#L155
 translate chinese augustamenu_914e4405:
 
     # "Wasting no time, both Augusta and I resume thrusting, albeit slightly slower than before. The customer is fucking loving it though, each successful hilt of a cock causes her to squeak with pure ecstasy."
-    "Wasting no time, both Augusta and I resume thrusting, albeit slightly slower than before. The customer is fucking loving it though, each successful hilt of a cock causes her to squeak with pure ecstasy."
+    "在成功进入后我没有浪费任何时间，立刻和Augusta一起开始挺身抽插，只是速率会比先前慢一点。双龙入洞让顾客被操得欲仙欲死，每一根鸡巴的挑动都让能激发她最纯粹的欢愉，浪叫一声高过一声。"
 
 # game/church.rpy#L156
 translate chinese augustamenu_0028c30c:
 
     # "Since Augusta and I are both slightly at an angle to the genitals, instead of parallel to them, it’s slightly awkward at first, but the sheer wetness of her sexual lubricants allows the both of us to gradually speed up, and eventually freely pound both her ass and pussy."
-    "Since Augusta and I are both slightly at an angle to the genitals, instead of parallel to them, it’s slightly awkward at first, but the sheer wetness of her sexual lubricants allows the both of us to gradually speed up, and eventually freely pound both her ass and pussy."
+    "因为我和Augusta分别站在两边，所以性器之间并不是完全平行的。不能完全使上力，起初还有点尴尬，但顾客大量涌出的淫水是非常理想的润滑剂，在淫水的润滑下我和Augusta很快得以又用尽全力抽插。"
 
 # game/church.rpy#L157
 translate chinese augustamenu_c84c3bc5:
 
     # "The three of us manage to settle into a pretty intense rhythm of rutting. Each of us fucking the hole at odd intervals."
-    "The three of us manage to settle into a pretty intense rhythm of rutting. Each of us fucking the hole at odd intervals."
+    "三人都陷入了一种非常激快的抽插节奏。每个人的抽送间隔都变得有些奇怪。"
 
 # game/church.rpy#L158
 translate chinese augustamenu_53ef80cd_1:
 
     # "The soundproofed room still manages to echo slightly with moans and grunts of sexual pleasure from all three of us."
-    "The soundproofed room still manages to echo slightly with moans and grunts of sexual pleasure from all three of us."
+    "即使是隔音的房间也没办法完全阻挡我们三人发出的呻吟和交合的啪啪声传出。"
 
 # game/church.rpy#L159
 translate chinese augustamenu_edc0e308:
@@ -459,7 +459,7 @@ translate chinese augustamenu_9c5c902d:
 translate chinese augustamenu_c1a9e582_1:
 
     # "The two of us eagerly fuck through the duration of our climaxes, getting every droplet of pleasure as possible before the high wears off and our cocks begin to grow sensitive."
-    "The two of us eagerly fuck through the duration of our climaxes, getting every droplet of pleasure as possible before the high wears off and our cocks begin to grow sensitive."
+    "即使已经射精，我和Augusta也仍然没有停止抽插，在鸡巴软下来前贪婪地享受着每一毫秒的快感，性福的余韵。"
 
 # game/church.rpy#L174
 translate chinese augustamenu_4949c3ce:
@@ -4771,7 +4771,7 @@ translate chinese strings:
 
     # game/church.rpy_L437_0
     old "Who the hell are you?"
-    new "你到底是什么人？"
+    new "你到底是何方神圣？"
 
     # game/church.rpy_L437_1
     old "Why are you dressed like it's Halloween?"
@@ -4791,7 +4791,7 @@ translate chinese strings:
 
     # game/church.rpy_L457_2
     old "I hope you're one of those nuns that does the opposite of celibacy."
-    new "I hope you're one of those nuns that does the opposite of celibacy."
+    new "你最好是个反对禁欲的修女。"
 
     # game/church.rpy_L470_0
     old "I came here to chew bubblegum, and fuck."
@@ -4807,7 +4807,7 @@ translate chinese strings:
 
     # game/church.rpy_L485_0
     old "Experience the Church of Love."
-    new "Experience the Church of Love."
+    new "参观和体验爱之教堂。"
 
     # game/church.rpy_L485_1
     old "Pass for now"
@@ -4863,7 +4863,7 @@ translate chinese strings:
 
     # game/church.rpy_L752_4
     old "Your church is just a fancy brothel. I don't need that pretentious crap about jubilation."
-    new "Your church is just a fancy brothel. I don't need that pretentious crap about jubilation."
+    new "你们的教堂就是个高档妓院罢了，别拿什么高级欢愉当幌子。"
 
     # game/church.rpy_L800_0
     old "Become a Priest of Love?"

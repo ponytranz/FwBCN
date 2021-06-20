@@ -1,4 +1,4 @@
-# Translation updated at Sat Jun 19 2021 00:49:46 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Sun Jun 20 2021 00:51:55 GMT+0000 (Coordinated Universal Time)
 # game/1prologue.rpy#L25
 translate chinese prologueday1_c7b6965c:
 
@@ -3327,7 +3327,7 @@ translate chinese day2label2choice3_80d1b46a:
 translate chinese day2label2choice3_37df491d:
 
     # moxie "A good community is filled with these happy little cycles where the end result is a bunch of ponies with bellies full of food, drink and happiness."
-    moxie "一个优秀的社区充满了这样快乐的小循环，最终的产物往往是满腹美食美酒的快乐小马。"
+    moxie "一个优秀的社区充满了这样快乐的小循环，到最后，所有的小马们都能吃饱喝足，开开心心。"
 
 # game/1prologue.rpy#L1029
 translate chinese day2label2choice3_e76008fb:
@@ -3717,7 +3717,7 @@ translate chinese day2label3_878d3045:
 translate chinese day2label3_fbdcf60c:
 
     # mc "That’s so weird… Why are the males so rare? That seems paradoxical from an evolutionary perspective."
-    mc "那也太奇怪了...为什么雄性可以这么少？这看起来违背了进化论啊。"
+    mc "那也太奇怪了...为什么雄性可以这么少？达尔文和进化论脸都能被抽肿。"
 
 # game/1prologue.rpy#L1122
 translate chinese day2label3_304df1d9:
@@ -5919,397 +5919,397 @@ translate chinese introdoggystyle_927cf825:
 translate chinese introdoggystyle_ab893f44:
 
     # moxie "Apparently, it goes away with a good dicking, but that only satisfies for a few days, I’ll update you on whether that’s true or not."
-    moxie "Apparently, it goes away with a good dicking, but that only satisfies for a few days, I’ll update you on whether that’s true or not."
+    moxie "显然，一次高质量性爱就能驱散这份冲动，不过这份满足感也坚持不了几天，至于这是真是假，很快你就能体会到了。"
 
 # game/1prologue.rpy#L1684
 translate chinese introdoggystyle_09e5557d:
 
     # moxie "I masturbate 3-4 times a day during mating season, once in the morning, once after work and two before bed, that usually keeps me in check."
-    moxie "I masturbate 3-4 times a day during mating season, once in the morning, once after work and two before bed, that usually keeps me in check."
+    moxie "交配季节期间，我一天会自慰三到四次，早上一次，下班后一次，睡觉前再来两次，这通常能让我保持神志清醒。"
 
 # game/1prologue.rpy#L1685
 translate chinese introdoggystyle_6f59a6d3:
 
     # moxie "Outside of mating season I only need to do it once a night, so that’s quite a difference. "
-    moxie "Outside of mating season I only need to do it once a night, so that’s quite a difference. "
+    moxie "过了交配季节，我每天晚上自慰一次就够了，跟这会儿区别还是很大的。"
 
 # game/1prologue.rpy#L1686
 translate chinese introdoggystyle_6c6f56c6:
 
     # mc "Only 3 or 4? Sometimes I masturbate 3-4 times a day, I wonder if our libidos are similar."
-    mc "Only 3 or 4? Sometimes I masturbate 3-4 times a day, I wonder if our libidos are similar."
+    mc "就三到四次？我有时候一天也手冲个三四次，兴许咱们的需求还很门当户对。"
 
 # game/1prologue.rpy#L1688
 translate chinese introdoggystyle_9fb102c3:
 
     # moxie "Yeah well, maybe you're just a pervert."
-    moxie "Yeah well, maybe you're just a pervert."
+    moxie "额，其实，可能变态的只有你。"
 
 # game/1prologue.rpy#L1689
 translate chinese introdoggystyle_780624fa:
 
     # moxie "Season only lasts about a month mind you, and it’s the only time a mare can actually get pregnant. From an evolutionary perspective it’s very important."
-    moxie "Season only lasts about a month mind you, and it’s the only time a mare can actually get pregnant. From an evolutionary perspective it’s very important."
+    moxie "你要明白，交配季节只会持续一个月左右，而且雌驹仅可能在这段时间内受孕。从进化的角度来看，这份特性至关重要。"
 
 # game/1prologue.rpy#L1690
 translate chinese introdoggystyle_5851866c:
 
     # mc "These mares I’m going to work with, they’ll want to have sex with me then?"
-    mc "These mares I’m going to work with, they’ll want to have sex with me then?"
+    mc "所以，那些将要同我共事的雌驹也会想和我做爱？"
 
 # game/1prologue.rpy#L1692
 translate chinese introdoggystyle_f98ec6cd:
 
     # moxie "Yeah, they’ll want sex. Whether they want to do it with you, well, that depends on the kind of relationship you form with the lovely ladies."
-    moxie "Yeah, they’ll want sex. Whether they want to do it with you, well, that depends on the kind of relationship you form with the lovely ladies."
+    moxie "是的，她们肯定会想做爱的。至于是不是和你，哈，那就得看你能不能和这几位可爱的女士搞好关系了。"
 
 # game/1prologue.rpy#L1693
 translate chinese introdoggystyle_88030faf:
 
     # mc "Are there seriously no other males around? This seems far too good to be true."
-    mc "Are there seriously no other males around? This seems far too good to be true."
+    mc "难道这附近就没有别的男的了吗？这局势可理想过头了。"
 
 # game/1prologue.rpy#L1695
 translate chinese introdoggystyle_0da2caf3:
 
     # moxie "You’re still hesitant? Come on, you're just projecting insecurities at this point."
-    moxie "You’re still hesitant? Come on, you're just projecting insecurities at this point."
+    moxie "你还没下定决心吗？拜托，你不过就是感到内心不安罢了。"
 
 # game/1prologue.rpy#L1696
 translate chinese introdoggystyle_e6be3e3d:
 
     # moxie "There are few males in the Arcadian Suburbs and 99 percent of them are likely in a relationship with a very horny mare that’s ridden that dick dry."
-    moxie "There are few males in the Arcadian Suburbs and 99 percent of them are likely in a relationship with a very horny mare that’s ridden that dick dry."
+    moxie "Acradia可没多少男性，而且他们之中的百分之九十九都多少同某匹饥渴的雌驹有过一段能把他们榨的一干二净的关系。"
 
 # game/1prologue.rpy#L1698
 translate chinese introdoggystyle_ddabd1d7:
 
     # moxie "Trust me, by the end of this month you'll be crawling back to this wagon with empty balls and a lifetime of sexual experience."
-    moxie "Trust me, by the end of this month you'll be crawling back to this wagon with empty balls and a lifetime of sexual experience."
+    moxie "相信我，等到了月底，你会带着被榨得一干二净的蛋蛋和一辈子那么多的性爱经历爬回我的篷车。"
 
 # game/1prologue.rpy#L1699
 translate chinese introdoggystyle_1ccbf7ee:
 
     # mc "It’ll take me a while to wrap my head around that; girls approaching me, asking me on dates, wanting to have a fling with me."
-    mc "It’ll take me a while to wrap my head around that; girls approaching me, asking me on dates, wanting to have a fling with me."
+    mc "我得花点时间好好寻思寻思这情况；女孩们居然会接近我，找我约会，然后还想跟我快活快活。"
 
 # game/1prologue.rpy#L1700
 translate chinese introdoggystyle_61f0157f:
 
     # moxie " Ah don’t sweat it, cultural differences and all that."
-    moxie " Ah don’t sweat it, cultural differences and all that."
+    moxie "这你就不用寻思了，文化差异啥的都是浮云。"
 
 # game/1prologue.rpy#L1701
 translate chinese introdoggystyle_65fb87da:
 
     # moxie "You’re lucky you’re not a stallion, you’d honestly not get nearly as much sex, maybe from some wannabe MILFs, but from younger ladies? No way, no one wants to get pregnant."
-    moxie "You’re lucky you’re not a stallion, you’d honestly not get nearly as much sex, maybe from some wannabe MILFs, but from younger ladies? No way, no one wants to get pregnant."
+    moxie "还好你不是匹公马，不会有那么多马主动找你交媾的，最多也就是些风韵犹存的少妇找上门，那些刚出淤泥的小姑娘们就不会了，那么早把肚子搞大可没好处。"
 
 # game/1prologue.rpy#L1703
 translate chinese introdoggystyle_ad191afc:
 
     # moxie "With that all said, I’m going to let you in on a secret of how to get the sex you want."
-    moxie "With that all said, I’m going to let you in on a secret of how to get the sex you want."
+    moxie "说了这么多，是时候回到点子上了，我来教你一人干翻花花世界的诀窍。"
 
 # game/1prologue.rpy#L1704
 translate chinese introdoggystyle_40fbc1e6:
 
     # mc "There’s a secret?"
-    mc "There’s a secret?"
+    mc "这里面还有诀窍？"
 
 # game/1prologue.rpy#L1706
 translate chinese introdoggystyle_6061c590:
 
     # moxie "Yuuup, kinda!"
-    moxie "Yuuup, kinda!"
+    moxie "嗯哼，算是有！"
 
 # game/1prologue.rpy#L1708
 translate chinese introdoggystyle_93bcfc7b:
 
     # moxie "If you’re genuinely interested in a certain girl, I recommend sticking around after you’ve both finished working, just for drinks and conversation."
-    moxie "If you’re genuinely interested in a certain girl, I recommend sticking around after you’ve both finished working, just for drinks and conversation."
+    moxie "如果你真的对某位女孩感性趣，你可以在完成工作后和她共处一室，几杯小酒下肚，拉拉家常，就成了。"
 
 # game/1prologue.rpy#L1709
 translate chinese introdoggystyle_b1839130:
 
     # moxie "Trust me, your presence throughout the day will make their hormones weep, so once you two are alone they’ll probably ask you to satisfy them. As if it was a favour, no less, no more."
-    moxie "Trust me, your presence throughout the day will make their hormones weep, so once you two are alone they’ll probably ask you to satisfy them. As if it was a favour, no less, no more."
+    moxie "相信我，如果你一整天都和她们形影不离，她们的荷尔蒙会急速飙升，只要逮到二人私密相处的机会，她们多半会要求你满足她们。就像求你帮她个忙一样自然，没什么包袱在里面。"
 
 # game/1prologue.rpy#L1710
 translate chinese introdoggystyle_42e7879d:
 
     # mc "That sounds sinister, I think I would feel guilty doing that."
-    mc "That sounds sinister, I think I would feel guilty doing that."
+    mc "听起来不太正经，我肯定会后悔那么干的。"
 
 # game/1prologue.rpy#L1712
 translate chinese introdoggystyle_9cb9f6e3:
 
     # moxie "Guilty?"
-    moxie "Guilty?"
+    moxie "后悔？"
 
 # game/1prologue.rpy#L1713
 translate chinese introdoggystyle_942ab5ed:
 
     # moxie "Ah don't be. At the end of the day, everyone’s having fun. That’s what matters in the end."
-    moxie "Ah don't be. At the end of the day, everyone’s having fun. That’s what matters in the end."
+    moxie "后悔个鸡尔。一天劳累之后，她爽了你也爽了，何乐而不为。"
 
 # game/1prologue.rpy#L1715
 translate chinese introdoggystyle_db4ec0cc:
 
     # moxie "If one of the girls doesn’t want to have sex with you, she won’t, I’m confident of that."
-    moxie "If one of the girls doesn’t want to have sex with you, she won’t, I’m confident of that."
+    moxie "如果有女孩不想和你发生关系的话，那么她肯定不会，我很确定。"
 
 # game/1prologue.rpy#L1716
 translate chinese introdoggystyle_f150ff57:
 
     # moxie "It’s not like we completely lack self-control, else incest would be a serious problem, but it isn’t."
-    moxie "It’s not like we completely lack self-control, else incest would be a serious problem, but it isn’t."
+    moxie "倒不是说我们的自控能力很差劲，不然乱伦之风到处盛行，但事实并不完全如此。"
 
 # game/1prologue.rpy#L1717
 translate chinese introdoggystyle_319aa700:
 
     # moxie "Don’t forget that we enjoy sex just as much as you, and we’re being equally selfish in our wanton primal fuckery."
-    moxie "Don’t forget that we enjoy sex just as much as you, and we’re being equally selfish in our wanton primal fuckery."
+    moxie "别忘了我们和你的种族一样能享受性爱的快感，所以对于沉溺在狂野性行为中带来的快感我们同样非常痴迷。"
 
 # game/1prologue.rpy#L1718
 translate chinese introdoggystyle_60646aae:
 
     # mc "Well, when you put it like that… Guess I’ll go with the flow and see how this world plays around with me."
-    mc "Well, when you put it like that… Guess I’ll go with the flow and see how this world plays around with me."
+    mc "好吧，你既然都这么煞费苦心地解释了...那我就照你说的试试，看看这花花世界我如何一人干翻。"
 
 # game/1prologue.rpy#L1720
 translate chinese introdoggystyle_5a06053f:
 
     # moxie "Now you’re getting it."
-    moxie "Now you’re getting it."
+    moxie "这才像话。"
 
 # game/1prologue.rpy#L1721
 translate chinese introdoggystyle_12fd7b4e:
 
     # "She stretches outwards and then sits up beside me."
-    "She stretches outwards and then sits up beside me."
+    "她好好伸了个懒腰。坐到我身边。"
 
 # game/1prologue.rpy#L1723
 translate chinese introdoggystyle_5a81217e:
 
     # moxie "Hm, can you believe that it’s only early afternoon after all that? That means we have plenty of time before we go to sleep."
-    moxie "Hm, can you believe that it’s only early afternoon after all that? That means we have plenty of time before we go to sleep."
+    moxie "嗯，我们干了那么多事情，现在才刚过下午，你信吗？距离晚上睡觉还有一大把时光可供消磨呢。"
 
 # game/1prologue.rpy#L1724
 translate chinese introdoggystyle_990d8ba7:
 
     # mc "Early afternoon? Got any plans?"
-    mc "Early afternoon? Got any plans?"
+    mc "现在刚过中午？你有什么好消遣吗？"
 
 # game/1prologue.rpy#L1726
 translate chinese introdoggystyle_d76ed39f:
 
     # moxie "To be honest, I may be waiting for your refractory period to end."
-    moxie "To be honest, I may be waiting for your refractory period to end."
+    moxie "有啊，我就等着你的贤者时间过去。"
 
 # game/1prologue.rpy#L1727
 translate chinese introdoggystyle_42bd829d:
 
     # mc "Wait, what?"
-    mc "Wait, what?"
+    mc "你说啥？"
 
 # game/1prologue.rpy#L1728
 translate chinese introdoggystyle_06078059:
 
     # moxie "Ahaha, you didn’t think I was done with fucking you just once, did you?"
-    moxie "Ahaha, you didn’t think I was done with fucking you just once, did you?"
+    moxie "啊哈哈，你不会天真的以为一炮就能满足我吧。"
 
 # game/1prologue.rpy#L1729
 translate chinese introdoggystyle_ea363b11:
 
     # moxie "This time… I’ll be on top; you lay right there for me babe."
-    moxie "This time… I’ll be on top; you lay right there for me babe."
+    moxie "只是今晚...我来主攻；你只需乖乖躺好，小可爱。"
 
 # game/1prologue.rpy#L1731
 translate chinese introdoggystyle_5d952eae:
 
     # "Damn, she wasn’t kidding about how horny she was."
-    "Damn, she wasn’t kidding about how horny she was."
+    "WDNMD，她说还想要的时候明显是认真的。"
 
 # game/1prologue.rpy#L1734
 translate chinese introdoggystyle_ce617998:
 
     # "…"
-    "…"
+    "..."
 
 # game/1prologue.rpy#L1738
 translate chinese introdoggystyle_373cd900:
 
     # "Moxie and I rut long into the afternoon, and then into the evening. We did take a break to eat pizza before we just kept going."
-    "Moxie and I rut long into the afternoon, and then into the evening. We did take a break to eat pizza before we just kept going."
+    "Moxie和我从中午一直干到晚上，当然我们中途花了点时间休息，吃了些披萨。"
 
 # game/1prologue.rpy#L1739
 translate chinese introdoggystyle_cc10efcc:
 
     # "And then back to cuddling, to kissing, to sex, then back to snuggling and the cycle repeats itself like we're two horny rabbits."
-    "And then back to cuddling, to kissing, to sex, then back to snuggling and the cycle repeats itself like we're two horny rabbits."
+    "我们拥抱，亲吻，交合，然后又拥抱，我们不断重复这几个步骤，就像两个性爱机器一样。"
 
 # game/1prologue.rpy#L1740
 translate chinese introdoggystyle_c7ef5e00:
 
     # "We experimented with plenty of positions and even introduced some magic! There’re some spells that help men keep going after they’ve ejaculated a few times."
-    "We experimented with plenty of positions and even introduced some magic! There’re some spells that help men keep going after they’ve ejaculated a few times."
+    "我们尝试了很多体位，她还对我施展了一些法术！有些法术能让我在多次射精后继续生龙活虎地战斗。"
 
 # game/1prologue.rpy#L1741
 translate chinese introdoggystyle_59e3be28:
 
     # "I keep finding out new and exciting things about the world; they have takeaways, pizza, music and radio."
-    "I keep finding out new and exciting things about the world; they have takeaways, pizza, music and radio."
+    "这个世界原来也有些东西和我的世界是共同的，她们也有外卖，披萨，音乐和收音机，着实令我兴奋。"
 
 # game/1prologue.rpy#L1742
 translate chinese introdoggystyle_88a0b5cc:
 
     # "We listened to sweet classical pony music as we made love long into the night."
-    "We listened to sweet classical pony music as we made love long into the night."
+    "一整晚，我们都在甜蜜古典的小马音乐中一深一浅地交合着。"
 
 # game/1prologue.rpy#L1743
 translate chinese introdoggystyle_e476246c:
 
     # "I enjoyed Moxie’s company a lot, she’s fascinating to talk to, and provides a lot of insight and perspective."
-    "I enjoyed Moxie’s company a lot, she’s fascinating to talk to, and provides a lot of insight and perspective."
+    "和Moxie在一起的时光真是快乐，她很健谈，给我讲了不少事情。"
 
 # game/1prologue.rpy#L1744
 translate chinese introdoggystyle_5aeb8235:
 
     # "Tonight was one of the best nights of my life."
-    "Tonight was one of the best nights of my life."
+    "今晚定是我此生最棒的一夜之一。"
 
 # game/1prologue.rpy#L1745
 translate chinese introdoggystyle_621588bd:
 
     # "If this is just the beginning of my new life, then I can't wait to see what else this world has to offer."
-    "If this is just the beginning of my new life, then I can't wait to see what else this world has to offer."
+    "我的新生活伊始尚且如此，我真是迫不及待地开始期待以后的日子了。"
 
 # game/1prologue.rpy#L1746
 translate chinese introdoggystyle_b11f063b:
 
     # "But all nights come to an end, and as I sit here cuddling Moxie under the blankets, my mind stirred with the events of the day, eventually coming to a stop as I slept."
-    "But all nights come to an end, and as I sit here cuddling Moxie under the blankets, my mind stirred with the events of the day, eventually coming to a stop as I slept."
+    "在通宵彻昼的狂欢结束后，我和Moxie依偎在一起，盖上被子，白天的种种事情又涌上我的心头，但终究敌不过强烈的睡意，我合上了眼睛。"
 
 # game/1prologue.rpy#L1752
 translate chinese introdoggystyle_ce617998_1:
 
     # "…"
-    "…"
+    "..."
 
 # game/1prologue.rpy#L1754
 translate chinese introdoggystyle_27e56f1b:
 
     # "My eyes open, it takes a few seconds to readjust but I can soon make out the star constellation above the bed. I've seen it before but hadn't really paid attention to it."
-    "My eyes open, it takes a few seconds to readjust but I can soon make out the star constellation above the bed. I've seen it before but hadn't really paid attention to it."
+    "我睁开眼，花了几秒钟调整了下自己的状态，从床向天上望去，星河灿烂，但过去的我却从未在意过这片美景。"
 
 # game/1prologue.rpy#L1755
 translate chinese introdoggystyle_dbb5c591:
 
     # "I wonder what kind of interest Moxie has in space and stars."
-    "I wonder what kind of interest Moxie has in space and stars."
+    "不知道Moxie对宇宙和星星有没有兴趣。"
 
 # game/1prologue.rpy#L1757
 translate chinese introdoggystyle_67c4607e:
 
     # "I roll over to my side to look at Moxie."
-    "I roll over to my side to look at Moxie."
+    "我又回过头看着Moxie。"
 
 # game/1prologue.rpy#L1758
 translate chinese introdoggystyle_33a2614c:
 
     # "But she’s not there."
-    "But she’s not there."
+    "咦，她人呢？"
 
 # game/1prologue.rpy#L1759
 translate chinese introdoggystyle_3952a620:
 
     # "I sit up, daylight is seeping into the room through the closed blinds."
-    "I sit up, daylight is seeping into the room through the closed blinds."
+    "我坐了起来，关闭的百叶窗也阻挡不住窗外的阳光。"
 
 # game/1prologue.rpy#L1760
 translate chinese introdoggystyle_e48ca1df:
 
     # "I’m not sure what time it is, but I can hear a distant bustle outside."
-    "I’m not sure what time it is, but I can hear a distant bustle outside."
+    "不知道现在几点，但我已经能听到街上车水马龙了。"
 
 # game/1prologue.rpy#L1762
 translate chinese introdoggystyle_d492ee5a:
 
     # "I crawl out of the bed and step into the main room. It’s definitely empty, I spot a note clearly presented on the table though."
-    "I crawl out of the bed and step into the main room. It’s definitely empty, I spot a note clearly presented on the table though."
+    "我从床上爬起来，走进客厅。她也没有在，桌子上有张字条引起了我的注意。"
 
 # game/1prologue.rpy#L1764
 translate chinese introdoggystyle_f20d7091:
 
     # "'Hey sleepyhead, figured I’d leave you to nap while I head off to do some performances. I got mail from Penny and you have the go ahead for working in all the places I mentioned.'"
-    "'Hey sleepyhead, figured I’d leave you to nap while I head off to do some performances. I got mail from Penny and you have the go ahead for working in all the places I mentioned.'"
+    "“大懒虫，你睡得真死，我得出去表演了。Penny给我寄了封邮件，你记得要去我说过的地方找点活干。”"
 
 # game/1prologue.rpy#L1765
 translate chinese introdoggystyle_ad3ffb93:
 
     # "'Also, Penny wrote that you can work with her too if you want.'"
-    "'Also, Penny wrote that you can work with her too if you want.'"
+    "“还有，Penny说你去她那里工作也可以。”"
 
 # game/1prologue.rpy#L1766
 translate chinese introdoggystyle_c9c9ee43:
 
     # "'I’ll see you in the evening, be back around five, I’ll cook us something delicious."
-    "'I’ll see you in the evening, be back around five, I’ll cook us something delicious."
+    "“咱们晚上见，我五点钟左右回家，到时候有香喷喷的晚饭等着你哦。”"
 
 # game/1prologue.rpy#L1767
 translate chinese introdoggystyle_4d1643fb:
 
     # "There are some directions to various places scrawled on the note, humourously listed 'to-do', the innuendo not lost on me."
-    "There are some directions to various places scrawled on the note, humourously listed 'to-do', the innuendo not lost on me."
+    "纸上还有一些寥寥草草的指示，要我去哪些地方，还很幽默地列出了“待办事项”，看来是怕我不干活啊。"
 
 # game/1prologue.rpy#L1768
 translate chinese introdoggystyle_919ef212:
 
     # "I fold it up and place it in a satchel Moxie had given me, so I don’t get lost."
-    "I fold it up and place it in a satchel Moxie had given me, so I don’t get lost."
+    "我把纸条叠起来放进Moxie给我的书包里，免得丢了。"
 
 # game/1prologue.rpy#L1769
 translate chinese introdoggystyle_afd42227:
 
     # "Upon reading the letter I’m initially concerned that I might be late for my first day of work, although I see the clock and it’s surprisingly only 8:10am."
-    "Upon reading the letter I’m initially concerned that I might be late for my first day of work, although I see the clock and it’s surprisingly only 8:10am."
+    "在看到这条字条后我很怕现在是不是太晚了，毕竟第一天上班就迟到不太好，然后我看了下钟，才早上8点10分而已。"
 
 # game/1prologue.rpy#L1770
 translate chinese introdoggystyle_8d6fc152:
 
     # "I even have enough time to shower, I used her shower yesterday and the water pressure feels great. For a wagon this place is surprisingly kitted out."
-    "I even have enough time to shower, I used her shower yesterday and the water pressure feels great. For a wagon this place is surprisingly kitted out."
+    "我还有足够的时间洗个热水澡，我昨天洗了一次，水压很充足。篷车虽小，五脏俱全啊。"
 
 # game/1prologue.rpy#L1771
 translate chinese introdoggystyle_93f4f449:
 
     # "I should eat too, there’s some leftover pizza, perfect."
-    "I should eat too, there’s some leftover pizza, perfect."
+    "早上也不能空腹上班，索性还有些披萨，好耶。"
 
 # game/1prologue.rpy#L1772
 translate chinese introdoggystyle_5d001fa8:
 
     # "After my morning routine I grab the satchel with the to-do list, there's plenty of room in here to store the world's currency and various items."
-    "After my morning routine I grab the satchel with the to-do list, there's plenty of room in here to store the world's currency and various items."
+    "待我洗漱用餐完毕后，我拿起了书包，只塞了张代办事项的纸条在里面，还有很多空间能用来放这个世界的钱和其他东西。"
 
 # game/1prologue.rpy#L1773
 translate chinese introdoggystyle_6bdf891d:
 
     # "And with that, I'm ready."
-    "And with that, I'm ready."
+    "整装待发。"
 
 # game/1prologue.rpy#L1774
 translate chinese introdoggystyle_4b2b7389:
 
     # "It’s intimidating to walk out to that brand new world on my own, to meet new people."
-    "It’s intimidating to walk out to that brand new world on my own, to meet new people."
+    "想想自己就要在今天独自踏上这片全新的土地，体会这里的风土人情，心里还有点小怕。"
 
 # game/1prologue.rpy#L1775
 translate chinese introdoggystyle_08821fce:
 
     # "Intimidating, but I can’t help but feel excited too. I hope everyone is as pleasant as Moxie and Penelope."
-    "Intimidating, but I can’t help but feel excited too. I hope everyone is as pleasant as Moxie and Penelope."
+    "怕归怕，更多的还是激动。但愿每匹马都像Moxie和Penelope一样和蔼可亲吧。"
 
 # game/1prologue.rpy#L1776
 translate chinese introdoggystyle_711b0adf:

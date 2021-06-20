@@ -10142,14 +10142,14 @@
   {
     "id": 79440243,
     "createdAt": "2021-05-30T17:55:41.000Z",
-    "updatedAt": "2021-06-17T11:01:09.000Z",
+    "updatedAt": "2021-06-19T06:35:14.000Z",
     "key": "penelopecunnilingus_104c2d33",
     "original": "I like your style [playername]. Lay down, I like to be on top.",
-    "translation": "我喜欢你的风格[playername]。躺下，我喜欢在上面。",
+    "translation": "[playername]，我喜欢你的风格。躺下，我喜欢在上面。",
     "file": 272350,
     "stage": 1,
     "project": 2414,
-    "uid": 21833,
+    "uid": 20927,
     "extra": null,
     "context": "说话人: penelope \n代码: https://github.com/ponytranz/FwBCN/blob/main/game/library.rpy#L1161",
     "words": 13
