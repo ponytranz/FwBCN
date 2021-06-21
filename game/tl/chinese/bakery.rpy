@@ -1,4 +1,4 @@
-# Translation updated at Sun Jun 20 2021 00:51:56 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Mon Jun 21 2021 00:51:46 GMT+0000 (Coordinated Universal Time)
 # game/bakery.rpy#L14
 translate chinese bakeryvisit1_2f4adbe4:
 
@@ -3021,13 +3021,13 @@ translate chinese creamvmissionary_f1f0404f:
 translate chinese creamvmissionary_3d5117a1:
 
     # cream "Hey everyone, I wanna do a cheers!"
-    cream "Hey everyone, I wanna do a cheers!"
+    cream "嘿，各位，我想和大家干个杯！"
 
 # game/bakery.rpy#L929
 translate chinese creamvmissionary_16de72d8:
 
     # cream "I'm so glad the entire old crew is here! It really warms my heart!"
-    cream "I'm so glad the entire old crew is here! It really warms my heart!"
+    cream "老朋友相聚一堂，真的让我很高兴！也让我的心暖暖的！"
 
 # game/bakery.rpy#L931
 translate chinese creamvmissionary_d2452cab:
@@ -3045,13 +3045,13 @@ translate chinese creamvmissionary_386d4493:
 translate chinese creamvmissionary_a388bb31:
 
     # cream "I want everyone to have a super duper amazing party! Cheers!"
-    cream "I want everyone to have a super duper amazing party! Cheers!"
+    cream "所以，我希望各位都能在这次聚会上玩得尽兴！干杯！"
 
 # game/bakery.rpy#L934
 translate chinese creamvmissionary_f65a325b:
 
     # everyone "Cheers!"
-    everyone "Cheers!"
+    everyone "干杯！"
 
 # game/bakery.rpy#L938
 translate chinese creamvmissionary_07afa660:

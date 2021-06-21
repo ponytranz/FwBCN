@@ -1,4 +1,4 @@
-# Translation updated at Sun Jun 20 2021 00:51:55 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Mon Jun 21 2021 00:51:46 GMT+0000 (Coordinated Universal Time)
 # game/1prologue.rpy#L25
 translate chinese prologueday1_c7b6965c:
 
@@ -81,13 +81,13 @@ translate chinese prologueday1_b57994d0:
 translate chinese prologueday1_744e5944:
 
     # "This mysterious figure had a female voice, and for whatever reason she was ecstatic."
-    "这个可疑生物有女性化的声音，不知为何她好像很激动"
+    "这个可疑生物有女性化的声音，不知为何她好像很激动。"
 
 # game/1prologue.rpy#L45
 translate chinese prologueday1_66f71ab6:
 
     # "She couldn't contain her pure excitement as she bounced up towards me, leaning in for a closer look, in turn giving me a good look at her."
-    "她情不自禁向我蹦跳过来，想要凑近点观察，这也让我能好好看看她"
+    "她情不自禁向我蹦跳过来，想要凑近点观察，这也让我能好好的看看她。"
 
 # game/1prologue.rpy#L47
 translate chinese prologueday1_42890a75:
@@ -273,7 +273,7 @@ translate chinese prologueday1_6e5b5f0b:
 translate chinese prologueday1_982af9d8:
 
     # "Under the illumination of the lamp, there's an unashamed nude creature, breasts and more, I can even see a tail, and a unicorn horn."
-    "在灯光下，一个毫无顾忌的裸体生物，我甚至能看见她的尾巴和独角"
+    "在灯光下，有着一个毫无顾忌的裸体生物，我甚至能看见她的尾巴和独角。"
 
 # game/1prologue.rpy#L109
 translate chinese prologueday1_ee89402a:
@@ -369,7 +369,7 @@ translate chinese prologueday1_5a40b387:
 translate chinese prologueday1_88b35aeb:
 
     # moxie "You really think so? I cast the right spell and just made a 'super familiar'? Maybe Penelope was onto something."
-    moxie "你真这么觉得？我施了正确的咒语，然后做出了一个‘超级随从’？也许Penelope发现了什么"
+    moxie "你真这么觉得？我施了正确的咒语，然后做出了一个‘超级随从’？也许Penelope发现了什么。"
 
 # game/1prologue.rpy#L140
 translate chinese prologueday1_736a18cb:
@@ -531,7 +531,7 @@ translate chinese prologueday1_15184479:
 translate chinese prologueday1_9047a4d1:
 
     # moxie "It can follow orders and stuff."
-    moxie "它就可以服从命令或者其他什么"
+    moxie "它就可以服从命令和其他东西。"
 
 # game/1prologue.rpy#L188
 translate chinese prologueday1_69f66b7d:
@@ -549,7 +549,7 @@ translate chinese prologueday1_e9cf91ad:
 translate chinese prologueday1_74f941db:
 
     # "She puffs her chest out and goes to sit down on her sofa and pats the cushions as if to encourage me to sit with her."
-    "她挺起胸部，坐到沙发上。拍了拍垫子，像是鼓励我过去"
+    "她挺起胸部，坐在沙发上，拍了拍垫子，仿佛在鼓励我和她坐在一起。"
 
 # game/1prologue.rpy#L193
 translate chinese prologueday1_07d0557d:
@@ -1461,7 +1461,7 @@ translate chinese intro69_de84a0ca:
 translate chinese intro69_7164f5f2:
 
     # "We both get up off the couch and she leads me through the dainty wagon into a separate room."
-    "我们从沙发上站起，她带着我穿过精致的蓬车，来到一个独立的房间"
+    "我们从沙发上站起，她带着我穿过精致的蓬车，来到一个独立的房间。"
 
 # game/1prologue.rpy#L464
 translate chinese intro69_80d192d2:
@@ -1959,7 +1959,7 @@ translate chinese prologueday2_087b9cdc:
 translate chinese prologueday2_ab60e6db:
 
     # "Penelope was truly shocked when she heard me speak."
-    "听到我说话，Penelope真的感到很震惊"
+    "听到我说话，Penelope真的感到很震惊。"
 
 # game/1prologue.rpy#L609
 translate chinese prologueday2_303a0c7a:
@@ -2001,7 +2001,7 @@ translate chinese prologueday2_f23d831b:
 translate chinese prologueday2_30480d72:
 
     # penelope "Familiars aren't supposed to be permanent, they're supposed to disappear after a while, but our friend here has stuck around."
-    penelope "随从不会永远存在，他们总有一天会离去，但是我们的朋友将会陪伴到永远"
+    penelope "随从不会永远存在，他们总有一天会离去，但是我们的朋友将会陪伴到永远。"
 
 # game/1prologue.rpy#L632
 translate chinese prologueday2_7563db6c:
@@ -4971,7 +4971,7 @@ translate chinese introdoggystyle_aabd7b9e:
 translate chinese introdoggystyle_c1cd6ca2:
 
     # moxie "I feel really comfortable giving my first time to you. I know it doesn’t mean much, it’s just sex at the end of the day, but I know how important it is to feel comfortable with your mate."
-    moxie "我很荣幸把我的第一次献给你。可能对你来说没有什么特别的意义，只是一场夜深人静时的交媾而已，但对我来说，让你觉得满意也属于我人生意义的范畴之一，我想让所有人都开心，记得吗。"
+    moxie "很荣幸能把第一次献给你。可能对你来说没有什么特别的意义，只是一场夜深人静时的交媾而已，但对我来说，让你觉得满意也属于我人生意义的范畴之一，我想让所有人都开心，记得吗。"
 
 # game/1prologue.rpy#L1450
 translate chinese introdoggystyle_eb15d259:
@@ -5469,7 +5469,7 @@ translate chinese introdoggystyle_36e6d313:
 translate chinese introdoggystyle_0c8a7b88:
 
     # moxie "I’m still high in the clouds, floating, floating. My brain is scrambled, my toes are twitching. "
-    moxie "我仍然在高高的云层中漂浮。现在我脑子混乱，脚趾抽搐"
+    moxie "我仍然在高高的云层中漂浮。现在我脑子混乱，脚趾抽搐。"
 
 # game/1prologue.rpy#L1577
 translate chinese introdoggystyle_0456fd01:

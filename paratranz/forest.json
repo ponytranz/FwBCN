@@ -887,14 +887,14 @@
   {
     "id": 79437818,
     "createdAt": "2021-05-30T17:55:41.000Z",
-    "updatedAt": "2021-06-18T17:45:17.000Z",
+    "updatedAt": "2021-06-20T11:20:43.000Z",
     "key": "forestvisit1_d6903e8a",
     "original": "The clothed mare breathes a sigh of relief, once again closing the distance between us as she looks over my nude body while smiling.",
-    "translation": "",
+    "translation": "这匹穿衣服的雌驹松了一口气，当她微笑着看着我的裸体时，我们之间的距离又一次缩小了。",
     "file": 272349,
-    "stage": 0,
+    "stage": 1,
     "project": 2414,
-    "uid": null,
+    "uid": 21929,
     "extra": null,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwBCN/blob/main/game/forest.rpy#L104",
     "words": 24

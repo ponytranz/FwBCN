@@ -1,4 +1,4 @@
-# Translation updated at Sun Jun 20 2021 00:51:56 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Mon Jun 21 2021 00:51:46 GMT+0000 (Coordinated Universal Time)
 # game/city.rpy#L6
 translate chinese city_12914194:
 
@@ -9,31 +9,31 @@ translate chinese city_12914194:
 translate chinese city_f3de7700:
 
     # "It's far more commercial and urban than the village-like suburbs."
-    "It's far more commercial and urban than the village-like suburbs."
+    "它比乡村般的郊区更商业化、更都市化。"
 
 # game/city.rpy#L19
 translate chinese castlecm_a95e6007:
 
     # "While in the city, the castle ever looms above."
-    "While in the city, the castle ever looms above."
+    "在城市里的时候，城堡耸立在上面。"
 
 # game/city.rpy#L20
 translate chinese castlecm_4b4b9894:
 
     # "However, the guards won't let me in without a permit."
-    "However, the guards won't let me in without a permit."
+    "但是，如果没有许可证，卫兵是不会让我进去的。"
 
 # game/city.rpy#L22
 translate chinese castlecm_89cfcbc8:
 
     # "Maybe I could ask Lily to get me one."
-    "Maybe I could ask Lily to get me one."
+    "也许我可以问问Lily 给我一张。"
 
 # game/city.rpy#L24
 translate chinese castlecm_9c35e7c2:
 
     # "Who could help me get a permit?"
-    "Who could help me get a permit?"
+    "谁能帮我弄到许可证？"
 
 # game/city.rpy#L30
 translate chinese castlecm_26c96b57:
@@ -51,7 +51,7 @@ translate chinese nightclubcm_a4887f92:
 translate chinese nightclubcm_38b6d0cc:
 
     # "Ringing the buzzer behind the nightclub, I get no response."
-    "Ringing the buzzer behind the nightclub, I get no response."
+    "按下夜总会后面的蜂鸣器，我没得到任何回应。"
 
 # game/city.rpy#L53
 translate chinese nightclubcm_fbfe5f55:
@@ -1017,7 +1017,7 @@ translate chinese musicstudio_d52be1b7:
 translate chinese musicstudio_9c227d7d:
 
     # claire "Well, it's just... Have you had sex with my sister before? L-Like, purchased her services?"
-    claire "Well, it's just... Have you had sex with my sister before? L-Like, purchased her services?"
+    claire "嗯，只是... 你以前和我妹妹上过床吗？像-像是，买了她的服务？"
 
 # game/city.rpy#L355
 translate chinese musicstudio_ba10778b:
@@ -1029,19 +1029,19 @@ translate chinese musicstudio_ba10778b:
 translate chinese musicstudio_f9d143c2:
 
     # claire "Sorry, sorry! I realize that question is very inappropriate. I shouldn't be sticking my nose into your affairs like that."
-    claire "Sorry, sorry! I realize that question is very inappropriate. I shouldn't be sticking my nose into your affairs like that."
+    claire "对不起,对不起!我知道这个问题很不合适。我不应该那样干涉你的事情。"
 
 # game/city.rpy#L357
 translate chinese musicstudio_82b8386a:
 
     # claire "It's just so strange to think that my twin sister is out there doing vulgar things like that."
-    claire "It's just so strange to think that my twin sister is out there doing vulgar things like that."
+    claire "想到我的孪生妹妹在外面做这种粗俗的事情，真是太奇怪了。"
 
 # game/city.rpy#L358
 translate chinese musicstudio_03a1a70e:
 
     # claire "She never used to be like that... Well, that was until she met Ivy."
-    claire "She never used to be like that... Well, that was until she met Ivy."
+    claire "她以前从来没有那样过... 好吧，直到她遇见Ivy。"
 
 # game/city.rpy#L360
 translate chinese musicstudio_b43dd787:
@@ -1059,7 +1059,7 @@ translate chinese musicstudio_64332176:
 translate chinese musicstudio_d434f92c:
 
     # claire "It has been one heck of a day. Thank you so much for your help."
-    claire "It has been one heck of a day. Thank you so much for your help."
+    claire "这真是糟糕的一天。非常感谢你的帮助。"
 
 # game/city.rpy#L367
 translate chinese musicstudio_4ee80670:
@@ -1077,7 +1077,7 @@ translate chinese musicstudio_384d6268:
 translate chinese musicstudio_4a32bb03:
 
     # claire "Uhm, [playername] helped me with a small favour."
-    claire "Uhm, [playername] helped me with a small favour."
+    claire "嗯，[playername]帮了我一个小忙。"
 
 # game/city.rpy#L374
 translate chinese musicstudio_f4245d33:
@@ -1107,7 +1107,7 @@ translate chinese musicstudio_6c6c5c73:
 translate chinese musicstudio_c21c7dc3:
 
     # blossom "Sounds like fun! I want to get the orange speakers this time!"
-    blossom "Sounds like fun! I want to get the orange speakers this time!"
+    blossom "那一定很有意思！这次我想要橙色的扬声器！"
 
 # game/city.rpy#L383
 translate chinese musicstudio_5fca4469:
@@ -1119,7 +1119,7 @@ translate chinese musicstudio_5fca4469:
 translate chinese musicstudio_700aff3e:
 
     # claire "Can't we just get the grey ones again?"
-    claire "Can't we just get the grey ones again?"
+    claire "我们就不能再选一次灰色的吗？"
 
 # game/city.rpy#L386
 translate chinese musicstudio_ffe85b17:
@@ -1137,115 +1137,115 @@ translate chinese musicstudio_01edf018:
 translate chinese musicstudio_b842891e:
 
     # melody "One more thing, [playername]! My laptop was corrupted during the short circuit, and all my music is on there! Could you help me repair it?"
-    melody "One more thing, [playername]! My laptop was corrupted during the short circuit, and all my music is on there! Could you help me repair it?"
+    melody "还有一件事，[playername]！我的笔记本电脑在短路时被损坏了，我所有的音乐都在那里！你能帮我修一下吗？"
 
 # game/city.rpy#L391
 translate chinese musicstudio_5cdb5a29:
 
     # mc "Help you? What can I do for it, Mel?"
-    mc "Help you? What can I do for it, Mel?"
+    mc "帮你？我能为它做些什么，Mel？"
 
 # game/city.rpy#L393
 translate chinese musicstudio_3e479b4a:
 
     # melody "Nothing, you'd definitely make it worse if you tried to fix it! But if you gave me some monies I could get it repaired."
-    melody "Nothing, you'd definitely make it worse if you tried to fix it! But if you gave me some monies I could get it repaired."
+    melody "没什么，如果你想修好它，那肯定会使事情变得更糟！但如果你肯给我点钱的话，我可以把它修好。"
 
 # game/city.rpy#L394
 translate chinese musicstudio_90d4d855:
 
     # mc "I feel like I'm repairing a lot of your things lately... How much?"
-    mc "I feel like I'm repairing a lot of your things lately... How much?"
+    mc "我觉得我最近在修理你的很多东西... 这要多少钱？"
 
 # game/city.rpy#L396
 translate chinese musicstudio_1d7ffd6c:
 
     # melody "I checked this place on the way to lunch, they quoted me for 150 monies!"
-    melody "I checked this place on the way to lunch, they quoted me for 150 monies!"
+    melody "我在去吃午饭的路上检查过这个地方，他们向我报价150块钱！"
 
 # game/city.rpy#L397
 translate chinese musicstudio_f70e97f1:
 
     # mc "ONE HUNDRED AND FIFTY?! That's almost a week's wages!"
-    mc "ONE HUNDRED AND FIFTY?! That's almost a week's wages!"
+    mc "一百五十块钱？！那几乎是一个星期的工资！"
 
 # game/city.rpy#L399
 translate chinese musicstudio_98a2aa2f:
 
     # melody "Pfft, sorry, I didn't realize you were so poor! You know bouquets of roses are 80 monies at the market, right?"
-    melody "Pfft, sorry, I didn't realize you were so poor! You know bouquets of roses are 80 monies at the market, right?"
+    melody "啐，对不起，我没想到你会这么穷！你知道市场上有卖80块的玫瑰花，对吧？"
 
 # game/city.rpy#L400
 translate chinese musicstudio_45f40ec6:
 
     # mc "You didn't realize the guy living out of other people's homes and working basic minimum wage jobs wasn't poor?"
-    mc "You didn't realize the guy living out of other people's homes and working basic minimum wage jobs wasn't poor?"
+    mc "你没意识到一个住在别人家干着最低工资工作的人并不穷吗?"
 
 # game/city.rpy#L401
 translate chinese musicstudio_965823f8:
 
     # mc "Can't you ask Ruby about this?"
-    mc "Can't you ask Ruby about this?"
+    mc "你不能问问Ruby吗？"
 
 # game/city.rpy#L403
 translate chinese musicstudio_3e303e9e:
 
     # melody "Well, I was kinda hoping you and Ruby would do more of that cam stuff to earn more money."
-    melody "Well, I was kinda hoping you and Ruby would do more of that cam stuff to earn more money."
+    melody "嗯，我有点希望你和Ruby能通过做更多的摄像工作来赚更多的钱。"
 
 # game/city.rpy#L404
 translate chinese musicstudio_2d715019:
 
     # mc "And I have to be the one to pay up?"
-    mc "And I have to be the one to pay up?"
+    mc "而我必须是那个付钱的人？"
 
 # game/city.rpy#L406
 translate chinese musicstudio_193a4234:
 
     # melody "I want to recover my files, and I have some things I don't want Ruby to see if she were hypothetically in the shop with me."
-    melody "I want to recover my files, and I have some things I don't want Ruby to see if she were hypothetically in the shop with me."
+    melody "我想找回我的档案，以及我有一些我不想要Ruby看到的东西，如果她和我一起在店里的话。"
 
 # game/city.rpy#L407
 translate chinese musicstudio_3702d347:
 
     # mc "I'll consider it. But don't rely on me, alright?"
-    mc "I'll consider it. But don't rely on me, alright?"
+    mc "我会考虑的。但是不要过于依赖我，好吗?"
 
 # game/city.rpy#L409
 translate chinese musicstudio_94657709:
 
     # melody "If you can do it, we'll be able to listen to some awesome tunes right here, okay? And I'll totally let you frick me!"
-    melody "If you can do it, we'll be able to listen to some awesome tunes right here, okay? And I'll totally let you frick me!"
+    melody "如果你能做到的话，我们就能在这里听一些很棒的音乐了，行吧？我绝对会让你来干我！"
 
 # game/city.rpy#L410
 translate chinese musicstudio_4a83323e:
 
     # mc "You let me do that anyway..."
-    mc "You let me do that anyway..."
+    mc "反正是你让我这么做的…"
 
 # game/city.rpy#L411
 translate chinese musicstudio_08f8d1d6:
 
     # melody "Just come back to the music studio when you have the fat stacks, I'll make it worth your while."
-    melody "Just come back to the music studio when you have the fat stacks, I'll make it worth your while."
+    melody "只管等你有了钱之后再回到音乐工作室，我会让你觉得物有所值的。"
 
 # game/city.rpy#L412
 translate chinese musicstudio_a6ecc038:
 
     # melody "Here, take a spare key card to get in, just in case."
-    melody "Here, take a spare key card to get in, just in case."
+    melody "这里，拿一张备用钥匙卡进去，以防万一。"
 
 # game/city.rpy#L413
 translate chinese musicstudio_b0113926:
 
     # mc "Ah, that's pretty useful, thanks."
-    mc "Ah, that's pretty useful, thanks."
+    mc "啊，这很有用，谢谢。"
 
 # game/city.rpy#L415
 translate chinese musicstudio_f85f14b2:
 
     # melody "See? I'm not all bad."
-    melody "See? I'm not all bad."
+    melody "看见了吧？我也不全是坏的。"
 
 # game/city.rpy#L417
 translate chinese musicstudio_a20cefa7_1:
@@ -1263,49 +1263,49 @@ translate chinese musicstudio_6e0c2ade:
 translate chinese musicstudio_266d87a2:
 
     # "The front door requires a student key card. The only way to get in would be to befriend a local student, I guess."
-    "The front door requires a student key card. The only way to get in would be to befriend a local student, I guess."
+    "前门需要一张学生钥匙卡。我想，唯一能进去的办法就是和当地的学生交朋友。"
 
 # game/city.rpy#L434
 translate chinese musicstudio_29dd7a39:
 
     # "You've unlocked a secret scene! Requirements met: Visit the music studio. 50%% chance."
-    "You've unlocked a secret scene! Requirements met: Visit the music studio. 50%% chance."
+    "你解开了一个秘密场景！满足要求：参观音乐工作室。50%% chance."
 
 # game/city.rpy#L446
 translate chinese musicstudio_b2698c31:
 
     # claire "Oh, [playername]! Could I have a minute to talk with you?"
-    claire "Oh, [playername]! Could I have a minute to talk with you?"
+    claire "噢，[playername]！我能和你谈谈吗？"
 
 # game/city.rpy#L447
 translate chinese musicstudio_03d78238:
 
     # mc "Of course, Claire."
-    mc "Of course, Claire."
+    mc "当然，Claire。"
 
 # game/city.rpy#L450
 translate chinese musicstudio_b1c3fec0:
 
     # "You found a secret scene! Requirements met: Visit the now cured werewolf."
-    "You found a secret scene! Requirements met: Visit the now cured werewolf."
+    "你发现了一个秘密场景！满足要求：与现在被治愈的狼人闲谈。"
 
 # game/city.rpy#L452
 translate chinese musicstudio_e0134fc0:
 
     # claire "Could we, uh... Not talk about that werewolf incident? I'd rather forget about that whole thing."
-    claire "Could we, uh... Not talk about that werewolf incident? I'd rather forget about that whole thing."
+    claire "我们能，呃... 别谈那件关于狼人的事？我宁愿忘掉那件事。"
 
 # game/city.rpy#L453
 translate chinese musicstudio_2f7c367d:
 
     # mc "Yeah, of course. I wasn't going to say anything."
-    mc "Yeah, of course. I wasn't going to say anything."
+    mc "是啊，当然。我什么也不想说。"
 
 # game/city.rpy#L454
 translate chinese musicstudio_5d4a639e:
 
     # claire "Thanks, [playername]."
-    claire "Thanks, [playername]."
+    claire "谢了，[playername]。"
 
 # game/city.rpy#L455
 translate chinese musicstudio_e8a12226:
@@ -1377,37 +1377,37 @@ translate chinese musicstudio_703d3a18:
 translate chinese musicstudio_a0f890b0:
 
     # claire "Hey [playername], what can I do for ya?"
-    claire "Hey [playername], what can I do for ya?"
+    claire "嘿 [playername]，我能为你做什么？"
 
 # game/city.rpy#L490
 translate chinese musicstudiomenub_2b84ef6e:
 
     # claire "Unfortunately we don't have a lot of music available..."
-    claire "Unfortunately we don't have a lot of music available..."
+    claire "不幸的是我们没有很多音乐可供选择..."
 
 # game/city.rpy#L491
 translate chinese musicstudiomenub_482a3fb6:
 
     # melody "If you fixed my laptop you'd have a lot more!"
-    melody "If you fixed my laptop you'd have a lot more!"
+    melody "如果你把我的笔记本电脑修好了，你就能得到更多音乐了！"
 
 # game/city.rpy#L493
 translate chinese musicstudiomenub_39a999f1:
 
     # melody "Check it out, we've got everything!"
-    melody "Check it out, we've got everything!"
+    melody "快看，我们什么都有了！"
 
 # game/city.rpy#L499
 translate chinese musicstudiomenub_5b45d8fd:
 
     # mc "Hey Claire, how did you get into music?"
-    mc "Hey Claire, how did you get into music?"
+    mc "嘿 Claire，你是怎么开始学音乐的？"
 
 # game/city.rpy#L500
 translate chinese musicstudiomenub_94a8b40f:
 
     # claire "I picked up a guitar when I was younger and transitioned from there. It became 'my thing' that distinguished me from my sister."
-    claire "I picked up a guitar when I was younger and transitioned from there. It became 'my thing' that distinguished me from my sister."
+    claire "我很小的时候就开始弹吉他，事情就是从那里开始转变的。它逐渐的变成了“我的东西”，把我和我姐姐区分开来。"
 
 # game/city.rpy#L501
 translate chinese musicstudiomenub_fd8d00cb:
@@ -1431,19 +1431,19 @@ translate chinese musicstudiomenub_07cbec37:
 translate chinese musicstudiomenub_cebfd763:
 
     # mc "That's a great outlook. Do you have any other hobbies?"
-    mc "That's a great outlook. Do you have any other hobbies?"
+    mc "这是一个很好的前景。你还有其他的爱好吗?"
 
 # game/city.rpy#L505
 translate chinese musicstudiomenub_db845d63:
 
     # claire "Yeah, actually. I enjoy hiking through the forests and mountains with my boyfriend."
-    claire "Yeah, actually. I enjoy hiking through the forests and mountains with my boyfriend."
+    claire "是的。实际上，我享受和男朋友一起徒步穿越森林和山脉的感觉。"
 
 # game/city.rpy#L507
 translate chinese musicstudiomenub_07aa34c4:
 
     # mc "Oh really? I bet you need to come prepared in case you encounter any dangerous flora and fauna."
-    mc "Oh really? I bet you need to come prepared in case you encounter any dangerous flora and fauna."
+    mc "哦，真的吗？我敢说你需要做好准备，以防遇到任何危险的动植物。"
 
 # game/city.rpy#L509
 translate chinese musicstudiomenub_4b5c8c53:
@@ -1455,13 +1455,13 @@ translate chinese musicstudiomenub_4b5c8c53:
 translate chinese musicstudiomenub_ebfd3077:
 
     # claire "Well, there can be a few encounters with creatures in the forest, but most things ignore you if they're not provoked."
-    claire "Well, there can be a few encounters with creatures in the forest, but most things ignore you if they're not provoked."
+    claire "嗯，在森林里是可能会遇到一些生物，但如果它们没有被激怒的话，它们中的大多都会忽略你。"
 
 # game/city.rpy#L511
 translate chinese musicstudiomenub_fe6da61d:
 
     # claire "It's thrilling to get to the top of those mountains and overlook the city, the journey is worth every step."
-    claire "It's thrilling to get to the top of those mountains and overlook the city, the journey is worth every step."
+    claire "登上山顶俯瞰整个城市是一件激动人心的事，旅程的每一步都是值得的。"
 
 # game/city.rpy#L513
 translate chinese musicstudiomenub_8ba350f8:
@@ -1479,7 +1479,7 @@ translate chinese musicstudiomenub_7bc2dfdc:
 translate chinese musicstudiomenub_4a17d4f8:
 
     # mc "Sure, I might consider it if we get some time off."
-    mc "Sure, I might consider it if we get some time off."
+    mc "当然，如果我们有时间休息的话，我会考虑的。"
 
 # game/city.rpy#L519
 translate chinese musicstudiomenub_f79c570e:
@@ -2805,7 +2805,7 @@ translate chinese melodycunnilingus_4d37efc4:
 translate chinese melodycunnilingus_73cff8db:
 
     # melody "Hmph. I want you to do that to me again sometime."
-    melody "Hmph. I want you to do that to me again sometime."
+    melody "哼。我希望你以后再这样对我。"
 
 # game/city.rpy#L1276
 translate chinese melodycunnilingus_a7a92e8f:
@@ -2817,7 +2817,7 @@ translate chinese melodycunnilingus_a7a92e8f:
 translate chinese melodycunnilingus_628d0322:
 
     # melody "Hey, stand up, quickly!"
-    melody "Hey, stand up, quickly!"
+    melody "嘿，站起来，快点！"
 
 # game/city.rpy#L1287
 translate chinese melodycunnilingus_5ce1e9f0:
@@ -2907,7 +2907,7 @@ translate chinese musicstudiomenunight_5a10e0bb:
 translate chinese musicstudiomenunight_e2e9253f:
 
     # "If I fixed Melody's laptop there'd be a lot more."
-    "If I fixed Melody's laptop there'd be a lot more."
+    "如果我修好了 Melody 的笔记本电脑，这里会有更多音乐的。"
 
 # game/city.rpy#L1364
 translate chinese nightclubncm_fad9f1bf:
@@ -2943,7 +2943,7 @@ translate chinese nightclub_b38f1855:
 translate chinese nightclub_87e373ad:
 
     # "Lots of people drinking, dancing and having an overall great time."
-    "Lots of people drinking, dancing and having an overall great time."
+    "很多人正在喝酒、跳舞、玩得很开心。"
 
 # game/city.rpy#L1391
 translate chinese nightclub_7924bd39:
@@ -2955,7 +2955,7 @@ translate chinese nightclub_7924bd39:
 translate chinese nightclub_4a6256f8:
 
     # "Although I’d bet that everyone here came with friends, I must look pretty lonely."
-    "Although I’d bet that everyone here came with friends, I must look pretty lonely."
+    "虽然我敢打赌这里的每个人都是和朋友一起来的，但我看上去一定很孤独。"
 
 # game/city.rpy#L1394
 translate chinese nightclub_f978b1a1:
@@ -3819,7 +3819,7 @@ translate chinese agathasoniathreesome2_704d6aa4:
 translate chinese agathasoniathreesome2_92294321:
 
     # mc "Uhh... Wha...?"
-    mc "Uhh... Wha...?"
+    mc "呃... 什么 ...？"
 
 # game/city.rpy#L1677
 translate chinese agathasoniathreesome2_b757bcdc:

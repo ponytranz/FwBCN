@@ -1,4 +1,4 @@
-# Translation updated at Sun Jun 20 2021 00:51:56 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Mon Jun 21 2021 00:51:46 GMT+0000 (Coordinated Universal Time)
 # game/farm.rpy#L20
 translate chinese farm_c5de936b:
 
@@ -2133,7 +2133,7 @@ translate chinese farmvisit1_d4c84a8f:
 translate chinese farmvisit1_67557245:
 
     # mc "Are you sure you want to do this right now?"
-    mc "Are you sure you want to do this right now?"
+    mc "你确定你现在就想这么做吗？"
 
 # game/farm.rpy#L676
 translate chinese farmvisit1_8bb7f789:
@@ -2145,7 +2145,7 @@ translate chinese farmvisit1_8bb7f789:
 translate chinese farmvisit1_9de22f0f:
 
     # mc "We can always do that another day, there’s no rush."
-    mc "We can always do that another day, there’s no rush."
+    mc "总有一天我们可以这么做，先不着急。"
 
 # game/farm.rpy#L680
 translate chinese farmvisit1_959b7fe2:
@@ -9627,7 +9627,7 @@ translate chinese farmvisit3honeydialogue_f46b9c0b:
 translate chinese farmvisit3honeydialogue_02bd305d:
 
     # "Moxie isn't around, but she soon manages to sneak up on me."
-    "Moxie isn't around, but she soon manages to sneak up on me."
+    "Moxie 不在，但她很快就溜到我身边了。"
 
 # game/farm.rpy#L2867
 translate chinese farmvisit3honeydialogue_7949e589:
@@ -9639,7 +9639,7 @@ translate chinese farmvisit3honeydialogue_7949e589:
 translate chinese farmvisit3honeydialogue_166f7c1a:
 
     # mc "Hey Mox, not quite, I was just enjoying some tea with Blossom."
-    mc "Hey Mox, not quite, I was just enjoying some tea with Blossom."
+    mc "嘿Mox，不完全是，我只是在和Blossom一起喝点茶。"
 
 # game/farm.rpy#L2870
 translate chinese farmvisit3honeydialogue_fd941a64:

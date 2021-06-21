@@ -1,4 +1,4 @@
-# Translation updated at Sun Jun 20 2021 00:51:56 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Mon Jun 21 2021 00:51:46 GMT+0000 (Coordinated Universal Time)
 # game/forest.rpy#L18
 translate chinese forestvisit1_8c224d17:
 
@@ -357,7 +357,7 @@ translate chinese forestvisit1_f60dec79:
 translate chinese forestvisit1_d6903e8a:
 
     # "The clothed mare breathes a sigh of relief, once again closing the distance between us as she looks over my nude body while smiling."
-    "The clothed mare breathes a sigh of relief, once again closing the distance between us as she looks over my nude body while smiling."
+    "这匹穿衣服的雌驹松了一口气，当她微笑着看着我的裸体时，我们之间的距离又一次缩小了。"
 
 # game/forest.rpy#L106
 translate chinese forestvisit1_6bc37ed8:

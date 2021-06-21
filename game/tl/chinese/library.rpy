@@ -1,4 +1,4 @@
-# Translation updated at Sun Jun 20 2021 00:51:56 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Mon Jun 21 2021 00:51:46 GMT+0000 (Coordinated Universal Time)
 # game/library.rpy#L18
 translate chinese libraryvisit1_98593462:
 
@@ -99,7 +99,7 @@ translate chinese libraryvisit1_2feaf4e6:
 translate chinese libraryvisit1_b13a8180:
 
     # "Catching me off guard, a quiet unicorn is behind me. The purple mare from the window."
-    "突然一只独角兽在我身后静悄悄的抱住了我。似乎是之前那只窗外的紫色母马。"
+    "突然我发现一只独角兽静悄悄的来在我身后。似乎是之前那只窗外的紫色雌驹。"
 
 # game/library.rpy#L44
 translate chinese libraryvisit1_4f341007:
@@ -153,13 +153,13 @@ translate chinese libraryvisit1_834a2461:
 translate chinese libraryvisit1_bd5b727b:
 
     # mc "Actually, I came to work, but I’ll happily kill two birds."
-    mc "事实上，我是来工作的，但我很乐意多做一点。"
+    mc "事实上，我是来找工作的，但我很乐意多做一点。"
 
 # game/library.rpy#L57
 translate chinese libraryvisit1_01f64275:
 
     # lily "Kill birds? Unfortunately the library doesn't open to the public until 10:00am."
-    lily "想一石一鸟？不幸的是，图书馆要到上午10点才向公众开放"
+    lily "想一石二鸟？不过，图书馆要到上午10点才向公众开放。"
 
 # game/library.rpy#L58
 translate chinese libraryvisit1_0207ad1a:
@@ -171,7 +171,7 @@ translate chinese libraryvisit1_0207ad1a:
 translate chinese libraryvisit1_bb7b07df:
 
     # lily "Personally I have a great interest in studying you, I’ve always been fascinated by new creatures, and potential aliens! I want to know everything I can about you."
-    lily "我对研究你很有兴趣，我向来对新生物和潜在的外星人着迷!我想知道关于你的所有秘密。"
+    lily "我对研究你很有兴趣，我向来对新生物和潜在的外星人着迷!我想知道所有关于你的秘密。"
 
 # game/library.rpy#L61
 translate chinese libraryvisit1_182400b7:
@@ -195,13 +195,13 @@ translate chinese libraryvisit1_0a03e7b0:
 translate chinese libraryvisit1_e992a542:
 
     # lily "Perfect. Let's go to my room upstairs, I wasn't expecting any visitors, so don't mind the mess."
-    lily "好。到我楼上的房间去吧，平常不会有人来的，所以不要介意这里乱糟糟的。"
+    lily "完美。到我楼上的房间去吧，平常不会有人来的，所以不要介意这里乱糟糟的。"
 
 # game/library.rpy#L66
 translate chinese libraryvisit1_df7ee913:
 
     # mc "Lead the way."
-    mc "带路。"
+    mc "那么带路吧。"
 
 # game/library.rpy#L70
 translate chinese libraryvisit1_a84b43e3:
@@ -213,7 +213,7 @@ translate chinese libraryvisit1_a84b43e3:
 translate chinese libraryvisit1_ddd96f3e:
 
     # "At the end of the hallway there’s something quite remarkable, it’s a strange laboratory-library hybrid simply labelled 'lab'."
-    "但在走廊的尽头有一间非常显眼的房间，这个房间似乎是实验室和图书馆的混合，但门上只是被简单地贴上了“实验室”的标签。"
+    "但在走廊的尽头有一间非常显眼的房间，这个房间似乎是实验室和图书馆的混合，门上只是被简单地贴上了“实验室”的标签。"
 
 # game/library.rpy#L72
 translate chinese libraryvisit1_78d09a6d:
@@ -231,7 +231,7 @@ translate chinese libraryvisit1_f438b9f0:
 translate chinese libraryvisit1_f6cc5977:
 
     # lily "Get comfy for a moment [playername], I’ll make you a drink. Would you like tea, or juice?"
-    lily "放松一会儿[playername]，我去给你弄杯喝的。你要茶还是果汁?"
+    lily "放松一会儿[playername]，我去给你弄杯喝的。你是要茶还是果汁?"
 
 # game/library.rpy#L79
 translate chinese libraryvisit1_09c0e842:
@@ -261,7 +261,7 @@ translate chinese libraryvisit1_0bf77041:
 translate chinese libraryvisit1_7908cfcb:
 
     # "Wait, is it moist or am I imagining it?"
-    "等等，这上面还是湿的？难道我看错了？"
+    "等等，这上面还是湿的？我没看错吧？"
 
 # game/library.rpy#L91
 translate chinese libraryvisit1_3d94c433:
@@ -279,7 +279,7 @@ translate chinese libraryvisit1_6e27ee6a:
 translate chinese libraryvisit1_c9b08a36:
 
     # "She seems like a cool person, she does a lot of exceptional things, yet remains remarkably humble."
-    "她看起来是一位非常历害的人，做了很多不得了的事情，但依然保持谦虚。"
+    "她看起来是一位非常历害的小马，做了很多不得了的事情，但依然保持谦虚。"
 
 # game/library.rpy#L97
 translate chinese libraryvisit1_3f3d4bcb:
@@ -303,7 +303,7 @@ translate chinese libraryvisit1_3ea59ee2:
 translate chinese libraryvisit1_18f2866b:
 
     # lily "It can be somewhat of a burden, I'm quite introverted so it can be especially exhausting for me."
-    lily "这可能是一种负担，我一直内向，所以这份责任对我来说特别累。"
+    lily "这也许是一种负担吧，我的性格一直比较内向，所以这对我来说特别累。"
 
 # game/library.rpy#L102
 translate chinese libraryvisit1_09b995a2:
@@ -315,37 +315,37 @@ translate chinese libraryvisit1_09b995a2:
 translate chinese libraryvisit1_88e1a276:
 
     # lily "That's why she made me the ambassasdor, now I have no choice but to socialise."
-    lily "所以她才让我当大使，现在我别无选择，只能去进行各种社交。"
+    lily "所以她才让我当大使，我别无选择，只能去进行各种社交。"
 
 # game/library.rpy#L105
 translate chinese libraryvisit1_4378b228:
 
     # lily "I always thought practice makes perfect, and I thought I'd improve, just like studying! But for me, it never gets any easier..."
-    lily "我一直认为这会熟能生巧，我的社交水平会逐渐提高，就像学习一样!但是，这似乎从未变得更容易……"
+    lily "我一直认为这会熟能生巧，我的社交水平会因此逐渐提高，就像学习一样!但是，这似乎从未变得更容易……"
 
 # game/library.rpy#L106
 translate chinese libraryvisit1_7c6d2167:
 
     # mc "I must admit, I wouldn't have assumed you were bad at socialising, you're doing a great job talking to me."
-    mc "老实说，我并不觉得你不擅长社交，你和我聊天就聊的很好。"
+    mc "老实说，我并不觉得你不擅长社交，你和我聊天就聊的很好嘛。"
 
 # game/library.rpy#L108
 translate chinese libraryvisit1_f4177cd3:
 
     # lily "I think you and I managed to click quite well."
-    lily "我觉得你和我相处得很好。"
+    lily "我是觉得你和我相处得很好。"
 
 # game/library.rpy#L109
 translate chinese libraryvisit1_4632fcfd:
 
     # lily "And I’m better at talking once I’ve built some rapport... It's just that I don’t know how to meet new people, or reconnect with old friends."
-    lily "一旦建立了一些融洽的关系，我就会更善于交流一些……只是我不知道该怎么认识新朋友，或和老朋友重新联系。"
+    lily "一旦建立了一些融洽的关系，我就会更善于交流一些……我只是不知道该怎么认识新朋友，或和老朋友重新联系。"
 
 # game/library.rpy#L111
 translate chinese libraryvisit1_53eaa722:
 
     # lily "I just never seem to have the energy for it, I'd always prefer to be alone yet simultaneously feel lonely..."
-    lily "我只是从来没有精力去做这方面的事，我总是喜欢独处，但又感到了孤独……"
+    lily "我只是从来没有精力去做这方面的事，我喜欢独处，但又感到了孤独……"
 
 # game/library.rpy#L112
 translate chinese libraryvisit1_313a5c74:
@@ -363,7 +363,7 @@ translate chinese libraryvisit1_af0cc584:
 translate chinese libraryvisit1_d7a524c7:
 
     # lily "You're right, it's easy when you're in a social situation, like when you came in earlier for work. I kinda had no choice but to talk to you and things went okay."
-    lily "你说的对，在某些社交场合，比如我最早上班时，与其他人交谈还算容易些。我虽然别无选择，但我们现在聊得还挺顺利的。"
+    lily "你说的对，在某些社交场合，比如我上班时，那时与其他人交谈还算容易些。虽然我现在只能与你说话，但我们还挺聊得来的。"
 
 # game/library.rpy#L116
 translate chinese libraryvisit1_d38cd4f4:
@@ -381,37 +381,37 @@ translate chinese libraryvisit1_8fdbbd1a:
 translate chinese libraryvisit1_0d181026:
 
     # lily "I just have this barrier of shyness that prevents me from talking to people I don’t know, even people I do know sometimes."
-    lily "我总是有一种害羞的障碍，使我无法与不认识的人交谈，甚至有时与我认识的去交谈。"
+    lily "我总是有一种害羞的障碍，使我无法与陌生人去交谈，甚至有时熟人也如此。"
 
 # game/library.rpy#L120
 translate chinese libraryvisit1_7a65d016:
 
     # lily "Sometimes if I see someone I know on the street, I’ll avoid them. I don’t know why, it makes me feel pathetic."
-    lily "有时候如果我在街上看到我认识的人，我会避开他们。我不知道这是为什么，这让我觉得我很可悲。"
+    lily "有时候我在街上碰到我认识的，我都会悄悄地避开她们。我不知道这是为什么，这让我觉得我很可悲。"
 
 # game/library.rpy#L121
 translate chinese libraryvisit1_e820ce2d:
 
     # mc "It's strange because you seem fine once you get talking."
-    mc "很奇怪，我跟你说话的时候就没有这些情况。"
+    mc "很奇怪，你跟我说话的时候就没有这些情况。"
 
 # game/library.rpy#L123
 translate chinese libraryvisit1_9a15e3ac:
 
     # lily "Yeah... It’s strange how easy socialising can be once that ice is broken, and it can break in wonderful and unexpected ways."
-    lily "是啊…有趣的是，一旦冰被打破，社交会变得多么容易，它可以以奇妙和意想不到的方式被打破。"
+    lily "是啊…一旦人际间的坚冰被打破，社交会变得多么容易啊，而且还会以意想不到的方式被打破。"
 
 # game/library.rpy#L124
 translate chinese libraryvisit1_f84b5831:
 
     # mc "I think I know what you mean. It’s easy to talk to a cashier at a store because you have to, but it’s extremely hard to just talk to a stranger on the street, even if they're the same person."
-    mc "我想我明白你的意思。在商店里和收银员交谈很容易，因为你必须这样做，但和街上的陌生人交谈却极其困难，即使他们是同一个人。"
+    mc "我想我明白你的意思。在商店里和收银员交谈很容易，是因为你必须这么做，但和街上的陌生人交谈却很困难，即便他们是同一个人。"
 
 # game/library.rpy#L126
 translate chinese libraryvisit1_648ae6e5:
 
     # lily "That’s a succinct analogy. I'm glad you understand me…"
-    lily "这是一个简洁的类比。我很高兴你能理解我……"
+    lily "这是一个类比。我很高兴你能理解我……"
 
 # game/library.rpy#L127
 translate chinese libraryvisit1_1f7cacc8:
@@ -423,7 +423,7 @@ translate chinese libraryvisit1_1f7cacc8:
 translate chinese libraryvisit1_1c1f0e80:
 
     # lily "I'm really sorry for that tangent, it was inappropriate of me to vent to a stranger like that."
-    lily "我很抱歉扯到这些话题，我这样对一个陌生人倾诉实在是不合适。"
+    lily "我很抱歉谈这些话题，我这样对一个陌生人倾诉实在是有些不合适。"
 
 # game/library.rpy#L130
 translate chinese libraryvisit1_b83a5a97:
@@ -453,7 +453,7 @@ translate chinese libraryvisit1_95dc9938:
 translate chinese libraryvisit1_e2f8265e:
 
     # lily "I'm interested in helping you. I want to turn you from a stranger in the community, to a citizen and friend."
-    lily "我很乐意帮你。我想把你在社区里见到的陌生人，都变成你的公民和朋友。"
+    lily "我很乐意帮助你。我想把你从社区的一个陌生人，变成一位公民和大家的好朋友。"
 
 # game/library.rpy#L137
 translate chinese libraryvisit1_841a556a:
@@ -477,19 +477,19 @@ translate chinese libraryvisit1_d7db4452:
 translate chinese libraryvisit1_eaf8158a:
 
     # mc "Overworked? I hope I’m not asking too much of you."
-    mc "累吗?我希望我没有对你要求太多。"
+    mc "麻烦吗?我希望我没有对你要求太多。"
 
 # game/library.rpy#L143
 translate chinese libraryvisit1_530b5314:
 
     # lily "On the contrary. I’ve been woefully bored lately. A personal project like you may be the fresh air to this stale 9-5 I’ve been trapped in for the past few years."
-    lily "唉，恰恰相反。我最近烦透了。像你这样的人可能是我过去几年被困在这个陈腐的朝九晚五生活中的一股新鲜空气。"
+    lily "唉，恰恰相反。我最近烦透了。像你这样的人可能是我过去几年里这个陈腐的朝九晚五生活中的一股新鲜空气吧。"
 
 # game/library.rpy#L144
 translate chinese libraryvisit1_c126c571:
 
     # lily "Could you start by telling me a bit about yourself? Actually, everything you can."
-    lily "你能先介绍一下你自己吗?所有你能做的。"
+    lily "你能先介绍一下你自己吗?所有你清楚的。"
 
 # game/library.rpy#L145
 translate chinese libraryvisit1_2998050b:
@@ -501,25 +501,25 @@ translate chinese libraryvisit1_2998050b:
 translate chinese libraryvisit1_124f091e:
 
     # mc "I’m [playername], I’m a human. I’m from a planet called earth where the only sentient bipedal creatures are humans."
-    mc "我是[playername]，我是一个人类。我来自一个叫地球的星球，那里唯一有智商的两足动物是人类。"
+    mc "我叫[playername]，是一名人类。我来自一个叫地球的星球，那里唯一有高等智商的生物是人类。"
 
 # game/library.rpy#L147
 translate chinese libraryvisit1_efdf6399:
 
     # mc "However my planet earth is different to this one, so it's potentially in a different universe according to Penny."
-    mc "但是我的地球和这个可不一样，也许这就是Penny所说的平行宇宙。"
+    mc "但是我的地球可和这里的不一样，也许这就是Penny所说的平行宇宙。"
 
 # game/library.rpy#L148
 translate chinese libraryvisit1_f58f6b35:
 
     # mc "It was Moxie that accidentally cloned and teleported me to her wagon [days] days ago"
-    mc "几天前，是Moxie意外地召唤了我，并将我传送到了她的马车上"
+    mc "几天前，是Moxie意外地召唤了我，并将我传送到了她的篷车上"
 
 # game/library.rpy#L150
 translate chinese libraryvisit1_a1811073:
 
     # lily "Hmph, Moxie… I don’t believe it, she wouldn’t be able to teleport you interuniversally... Only Princess Selene could do such a thing."
-    lily "嗯？Moxie……我可不相信，她可不可能瞬间传送你到另一个世界……只有Selene公主能做到这种事。"
+    lily "嗯？Moxie……我可不信，她可不能瞬间传送你到另一个世界……只有Selene公主有能力做到这种事。"
 
 # game/library.rpy#L151
 translate chinese libraryvisit1_d951de3f:
@@ -567,19 +567,19 @@ translate chinese libraryvisit1_07712a5e:
 translate chinese libraryvisit1_03d1b27d:
 
     # lily "Hmm... My current three ideas are:"
-    lily "嗯…我目前的三个想法是:"
+    lily "嗯…我目前有三个设想:"
 
 # game/library.rpy#L162
 translate chinese libraryvisit1_71dbf9ca:
 
     # lily "1. You’re either from this world and didn’t realize it, maybe your memories were tampered with and you're actually from a faraway country... Although I think your species would be documented if that were the case."
-    lily "1. 你其实就来自这个世界，但你没有意识到，你的记忆被篡改过了，你实际上来自一个遥远的国家……不过我觉得如果真是这样的话你们的物种应该会被记录下来才是。"
+    lily "1. 你其实就来自这个世界，你的记忆被篡改，你实际上来自一个遥远的国度，只是你没有意识到……不过我觉得如果真这样的话你们的物种应该会被记录下来才是。"
 
 # game/library.rpy#L163
 translate chinese libraryvisit1_9ea3aa24:
 
     # lily "2. Our worlds co-exist, but they can’t see each other. You merely crossed a barrier of senses or perception. Like a different plane of existence."
-    lily "2. 我们的世界共存，但它们互相之间看不见对方。而你突破了感官和知觉的障碍。就像一个不同存在的平行位面。"
+    lily "2. 我们的世界并存，但它们之间并不能互相认识。就像一个不同存在的平行位面。而你突破了感官和知觉上的障碍。"
 
 # game/library.rpy#L164
 translate chinese libraryvisit1_6d18ab05:
@@ -591,13 +591,13 @@ translate chinese libraryvisit1_6d18ab05:
 translate chinese libraryvisit1_5b456c65:
 
     # mc "If your third theory is true, wouldn’t that make me a permanent familiar? I thought that was impossible."
-    mc "如果你的第三个理论是正确的，那我不就是个使魔了吗?我认为这是不可能的。"
+    mc "如果你的第三个理论是正确的，那我不就是个“使魔”了吗?我认为这是不可能的。"
 
 # game/library.rpy#L167
 translate chinese libraryvisit1_49d06234:
 
     # lily "It’s actually possible to create a permanent familiar. It involves dragging a creature from another plane of existence, and if you’re lucky you won’t need to cast an obedience spell on it every 24 hours."
-    lily "实际上创造一个使魔是可能的。它包括把一个生物从另一个世界拖出来，如果你够幸运，就不需要每24小时对它施一个服从咒。"
+    lily "实际上创造一个“使魔”是可能的。它包括把一个生物从另一个世界拽出来，如果够幸运，就不需要每24小时对它施一个服从咒。"
 
 # game/library.rpy#L168
 translate chinese libraryvisit1_bb68c200:
@@ -645,7 +645,7 @@ translate chinese libraryvisit1_952a65db:
 translate chinese libraryvisit1_4da63f8d:
 
     # mc "Ah, I see where this is going. A swab from my cheek not enough?"
-    mc "我知道你想说什么了。从我脸颊上取个棉签还不够吗?"
+    mc "我知道你想说什么。从我脸颊口腔里取个棉签样本不就行了?"
 
 # game/library.rpy#L179
 translate chinese libraryvisit1_ed956040:
@@ -663,7 +663,7 @@ translate chinese libraryvisit1_14759ea5:
 translate chinese libraryvisit1_c3dec685:
 
     # lily "I thought girls would try to sleep with you. I was worried that you might be able to get mares pregnant, and I don’t want a mutant baby crisis."
-    lily "我认为会有女孩会试着和你上床的。但我担心你可能会让母马怀孕，我可不想出现宝宝危机。"
+    lily "我认为会有女孩试着和你上床。但我担心你有可能会让雌驹怀上，我可不想看到出现宝宝危机。"
 
 # game/library.rpy#L189
 translate chinese libraryvisit1_6a9f8565:
@@ -675,13 +675,13 @@ translate chinese libraryvisit1_6a9f8565:
 translate chinese libraryvisit1_c8501d38:
 
     # lily "A mare like her probably can’t control her base desires."
-    lily "像她这样的lsp可能无法控制住自己的欲望。"
+    lily "像她这样的lsp可把持不住自己的欲望。"
 
 # game/library.rpy#L191
 translate chinese libraryvisit1_4a3220c9:
 
     # mc "That seems kinda rude…"
-    mc "这似乎有点粗鲁……"
+    mc "这似乎有点不尊重……"
 
 # game/library.rpy#L192
 translate chinese libraryvisit1_d16f0fe0:
@@ -699,7 +699,7 @@ translate chinese libraryvisit1_0b067e32:
 translate chinese libraryvisit1_39a541df:
 
     # mc "Why? What's wrong?"
-    mc "为什么?怎么了?"
+    mc "啥?咋了?"
 
 # game/library.rpy#L197
 translate chinese libraryvisit1_61cb203b:
@@ -717,19 +717,19 @@ translate chinese libraryvisit1_d133c4a0:
 translate chinese libraryvisit1_a4c46eb9:
 
     # lily "Oh sheesh, I guess you’re here for me next..."
-    lily "哦，天啊，我猜你是下一个来找我的…"
+    lily "哦天啊，我猜我是下一位……"
 
 # game/library.rpy#L202
 translate chinese libraryvisit1_96de8fb1:
 
     # lily "Eh-hem, we have an urgent problem, I need to test your DNA in case you got any of them pregnant."
-    lily "额，我现在有个紧急的问题，我需要测试你的DNA以确保你能让她们中的任何一个怀上了。"
+    lily "额，我们现在有个紧急的问题，我需要测试你的DNA以确保你能让她们中的任何一个怀上了。"
 
 # game/library.rpy#L204
 translate chinese libraryvisit1_63271df9:
 
     # "Didn't I already get Butters pregnant? I thought I needed a potion for that."
-    "我不是已经让Butters怀上了吗。我想我需要一种药水。"
+    "我不是已经让Butters怀上了吗。我想这需要一种药水。"
 
 # game/library.rpy#L205
 translate chinese libraryvisit1_514428f1:
@@ -741,25 +741,25 @@ translate chinese libraryvisit1_514428f1:
 translate chinese libraryvisit1_a6633209:
 
     # mc "Pregnant? Shit, you’re right. Moxie said we were incompatible, so I always just assumed…"
-    mc "怀上了?狗屎,你说的对。Moxie说我们不合适，因为我总是喜欢假设…"
+    mc "怀上了?卧槽，你说的对。Moxie说我们不合适，因为我总是喜欢假设…"
 
 # game/library.rpy#L209
 translate chinese libraryvisit1_9a60e2a5:
 
     # lily "Assumed? Moxie said that, so you assumed? Don’t be ridiculous, that girl doesn’t know anything."
-    lily "假设?Moxie说的，所以你认为是这样的?别傻了，那女孩什么都不知道。"
+    lily "臆想?因为是Moxie说的，所以你就信是这样的?别傻了，那女孩什么都不知道。"
 
 # game/library.rpy#L210
 translate chinese libraryvisit1_3aaade6b:
 
     # mc "That was mean."
-    mc "正是如此。"
+    mc "这很刻薄。"
 
 # game/library.rpy#L212
 translate chinese libraryvisit1_76b86584:
 
     # lily "That was me being generous, there’s a lot I could say about that girl, she’s trouble."
-    lily "那是我宽宏大量，关于那个女孩我有很多话可以说，她可真是个小麻烦鬼。"
+    lily "那还是我宽宏大量，关于那个女孩我有很多话可以说，她可真是个小麻烦鬼。"
 
 # game/library.rpy#L214
 translate chinese libraryvisit1_e4378c4b:
@@ -795,7 +795,7 @@ translate chinese library12_d03a9d8d:
 translate chinese library12_d53c5d4e:
 
     # lily "Ohoh, I see what you're doing here..."
-    lily "哦，我知道你在做什么了……"
+    lily "哦哦，我懂你意思了……"
 
 # game/library.rpy#L228
 translate chinese library12_f18c215f:
@@ -807,7 +807,7 @@ translate chinese library12_f18c215f:
 translate chinese library12_911839af:
 
     # mc "Hmm, I think Moxie could figure it out."
-    mc "嗯…我觉得Moxie能搞清楚。"
+    mc "额…我觉得Moxie能搞清楚。"
 
 # game/library.rpy#L231
 translate chinese library12_494c4eef:
@@ -819,25 +819,25 @@ translate chinese library12_494c4eef:
 translate chinese library12_9577d4cd:
 
     # lily "*Sigh* I am a virgin, but not because I want to be."
-    lily "*叹气*我是处女，但不是因为我想要。"
+    lily "*叹气*我是处女，但不是因为我不想做。"
 
 # game/library.rpy#L233
 translate chinese library12_1fe761e8:
 
     # lily "I'm just, y'know... Boys never like me, they like other hotter mares instead..."
-    lily "我只是,你知道吧……男孩子们从来都不喜欢我，他们更喜欢其他更性感火辣的母马……"
+    lily "我只是,你知道吧……男孩子们从来都不喜欢我，他们喜欢其他更性感火辣的雌驹……"
 
 # game/library.rpy#L234
 translate chinese library12_9c4817d2:
 
     # lily "An awkward mare like me isn't very popular with the stallions."
-    lily "像我这样笨拙的母马可不太受种马欢迎。"
+    lily "像我这样笨拙的小马可不太受种马欢迎。"
 
 # game/library.rpy#L235
 translate chinese library12_a017cc09:
 
     # mc "Bless your sweet heart, darling."
-    mc "祝福你的心上人，亲爱的。"
+    mc "祝福你有心上人，亲爱的。"
 
 # game/library.rpy#L237
 translate chinese library12_e7dc5aca:
@@ -981,7 +981,7 @@ translate chinese library12_39e87601:
 translate chinese library12_1fbdf4a8:
 
     # "I think I broke her."
-    "我想我把她弄垮了。"
+    "我想我打动了她。"
 
 # game/library.rpy#L272
 translate chinese library12_95c7633a:
@@ -1023,7 +1023,7 @@ translate chinese library12_13d223f6:
 translate chinese library12_27f50b84:
 
     # lily "I don’t know. It really depends on how you got here."
-    lily "我不知道。这得看你是怎么来的。"
+    lily "我不清楚。这得看你是怎么来的。"
 
 # game/library.rpy#L282
 translate chinese library12_8fcbf1db:
