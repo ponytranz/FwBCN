@@ -15662,14 +15662,14 @@
   {
     "id": 79432887,
     "createdAt": "2021-05-30T17:55:38.000Z",
-    "updatedAt": "2021-06-02T15:57:43.000Z",
+    "updatedAt": "2021-06-21T02:03:25.000Z",
     "key": "dawnv4threesome_58a086c7",
     "original": "Come here, [playername]...",
-    "translation": "",
+    "translation": "过来，[playername]...",
     "file": 272345,
-    "stage": 0,
+    "stage": 1,
     "project": 2414,
-    "uid": null,
+    "uid": 21929,
     "extra": null,
     "context": "说话人: dawn \n代码: https://github.com/ponytranz/FwBCN/blob/main/game/dawn.rpy#L1862",
     "words": 3

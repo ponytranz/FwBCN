@@ -1,4 +1,4 @@
-# Translation updated at Mon Jun 21 2021 00:51:46 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Tue Jun 22 2021 00:46:17 GMT+0000 (Coordinated Universal Time)
 # game/2evening%20butters.rpy#L11
 translate chinese eveningbutters_ce840f9e:
 
@@ -51,7 +51,7 @@ translate chinese eveningbutterssuccmenu_dfe5bb85:
 translate chinese eveningbutterssuccmenu_f393e755:
 
     # "You ask SuccuButters if she wants to do anything naughty, she nods eagerly and mounts you."
-    "你问SuccuButters是否想做一些“顽皮”的事情，她饥渴地点了点头并骑在了你的身上。"
+    "你问魅魔Butters能不能去她的洞穴里“探探险”，她饥渴地点了点头并骑在了你的身上。"
 
 # game/2evening%20butters.rpy#L51
 translate chinese eveningbutterssuccmenu_191e1772:
@@ -93,7 +93,7 @@ translate chinese eveningbutterssuccmenu_87c54ec3:
 translate chinese eveningbuttersmenu_ba847baa:
 
     # "You ask Butters if she wants to do something naughty, she nods eagerly and flashes you a tiddy."
-    "你问Butters是否想做一些“顽皮”的事情，她饥渴地点了点头并骑在了你的身上。"
+    "你问Butters能不能去她的洞穴里“探探险”，她饥渴地点了点头并骑在了你的身上。"
 
 # game/2evening%20butters.rpy#L81
 translate chinese eveningbuttersmenu_b1bb12e5:
@@ -159,7 +159,7 @@ translate chinese eveningbuttersmenu_fe1bf9c8:
 translate chinese eveningbuttersmenu_8c467860:
 
     # butters "I'll get them water straight away."
-    butters "我马上就把水给它们。"
+    butters "我这就把它们插在水里。"
 
 # game/2evening%20butters.rpy#L103
 translate chinese eveningbuttersmenu_933595ea:

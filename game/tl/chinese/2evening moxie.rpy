@@ -1,4 +1,4 @@
-# Translation updated at Mon Jun 21 2021 00:51:46 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Tue Jun 22 2021 00:46:17 GMT+0000 (Coordinated Universal Time)
 # game/2evening%20moxie.rpy#L11
 translate chinese eveningmoxie_80cb7a87:
 
@@ -141,7 +141,7 @@ translate chinese eveningmoxie2menu_41e125f3:
 translate chinese moxiesexoptions_fccb7c23:
 
     # moxie "Changed your mind already?"
-    moxie "你已经改主意了吗？"
+    moxie "你已经改变主意了吗？"
 
 # game/2evening%20moxie.rpy#L140
 translate chinese moxieblowjob_59c92ed8:
@@ -903,13 +903,13 @@ translate chinese moxiedoggystyle_7db648c5:
 translate chinese moxiedoggystyle_99d8005f:
 
     # "Even though she says that, she does sink from her all fours position to one of laying on her belly, seemingly exhausted in a melodramatic manner, even though she didn’t actually move."
-    "Even though she says that, she does sink from her all fours position to one of laying on her belly, seemingly exhausted in a melodramatic manner, even though she didn’t actually move."
+    "尽管她这么说，她却从四肢着地慢慢调整为腹部着地的姿势。虽然她实际上并没有怎么运动身体，但她看起来似乎已经筋疲力尽了。"
 
 # game/2evening%20moxie.rpy#L474
 translate chinese moxiedoggystyle_45d55708:
 
     # "I join her side and she soon embraces me tightly with a goofy grin stuck on her lips."
-    "我凑到他身旁。随后，她立刻紧紧地抱住了我，同时露出了痴痴的笑容。"
+    "我凑到她身旁。随后，她立刻紧紧地抱住了我，同时露出了痴痴的笑容。"
 
 # game/2evening%20moxie.rpy#L475
 translate chinese moxiedoggystyle_17c71ff5:

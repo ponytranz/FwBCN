@@ -1,4 +1,4 @@
-# Translation updated at Mon Jun 21 2021 00:51:46 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Tue Jun 22 2021 00:46:17 GMT+0000 (Coordinated Universal Time)
 # game/church.rpy#L15
 translate chinese augustapost_d42bf085:
 
@@ -879,85 +879,85 @@ translate chinese augustamenu_dc5db139:
 translate chinese augustamenu_fba2ac32:
 
     # mc "Got it! I'm actually very impressed by this one."
-    mc "Got it! I'm actually very impressed by this one."
+    mc "我懂了！犹如醍醐灌顶。"
 
 # game/church.rpy#L307
 translate chinese augustamenu_e387a749:
 
     # augusta "Thank you, I am pretty amazing aren't I?"
-    augusta "Thank you, I am pretty amazing aren't I?"
+    augusta "谢谢夸，人家是不是很了不起吖？"
 
 # game/church.rpy#L311
 translate chinese augustamenu_4254bcde:
 
     # augusta "Well, I think I've learnt just about everything I'll be able to just from watching you, and I don't think it'd be overly worth investigating much more."
-    augusta "Well, I think I've learnt just about everything I'll be able to just from watching you, and I don't think it'd be overly worth investigating much more."
+    augusta "好了，我应该再也没办法从观察你的性行为中看出什么新东西了，而且我觉得我得出刚刚那些结论就够了。"
 
 # game/church.rpy#L312
 translate chinese augustamenu_73050b11:
 
     # mc "What you've found already has been quite impressive. I've enjoyed working with you, Augusta."
-    mc "What you've found already has been quite impressive. I've enjoyed working with you, Augusta."
+    mc "你能得出这些结论已经很了不起了。我不会忘记和你共事的这段美好时光，Augusta。"
 
 # game/church.rpy#L313
 translate chinese augustamenu_4d05766e:
 
     # augusta "And I with yourself."
-    augusta "And I with yourself."
+    augusta "我也是。"
 
 # game/church.rpy#L314
 translate chinese augustamenu_c4dd82f3:
 
     # augusta "Overall, it would seem that your penis has been evolved with the partner's pleasure more in mind than the average species. Count yourself lucky, or rather the girls you find yourself with."
-    augusta "Overall, it would seem that your penis has been evolved with the partner's pleasure more in mind than the average species. Count yourself lucky, or rather the girls you find yourself with."
+    augusta "总的来说，你阴茎的进化方向比起其他普通物种来说，更注重取悦性伴侣。你真是个幸运儿，或者说那些被你眷顾的女孩们才是。"
 
 # game/church.rpy#L315
 translate chinese augustamenu_c09b0200:
 
     # mc "Ahh, as if I needed another reason to be popular."
-    mc "Ahh, as if I needed another reason to be popular."
+    mc "啊，难道我就只有靠下面讨马喜欢吗。"
 
 # game/church.rpy#L316
 translate chinese augustamenu_5cb83790:
 
     # augusta "Ah-ha, quite the Arcadian heart-throb, aren't you?"
-    augusta "Ah-ha, quite the Arcadian heart-throb, aren't you?"
+    augusta "啊哈~你以后就是Arcadia的大明星咯，嗯？"
 
 # game/church.rpy#L317
 translate chinese augustamenu_4a4ec01b:
 
     # augusta "I guess I mentioned a reward of some kind, and I think I finally figured out something worth your time."
-    augusta "I guess I mentioned a reward of some kind, and I think I finally figured out something worth your time."
+    augusta "我不是之前说过会给你点奖励嘛，你花了不少时间参与实验，我想我有合适的东西给你。"
 
 # game/church.rpy#L318
 translate chinese augustamenu_d621159d:
 
     # augusta "Take this key and keep it safe in your satchel. It lets you into a special room in the art gallery with canvas that I have personally blessed."
-    augusta "Take this key and keep it safe in your satchel. It lets you into a special room in the art gallery with canvas that I have personally blessed."
+    augusta "喏，拿好这把钥匙，好好放包里别丢了。它能打开艺术画廊的一个特殊的房间，里面有一面被我祝福过的画布。"
 
 # game/church.rpy#L319
 translate chinese augustamenu_19345959:
 
     # augusta "When you look into the canvas, you'll be able to see past sexual encounters perfectly form."
-    augusta "When you look into the canvas, you'll be able to see past sexual encounters perfectly form."
+    augusta "只要你看向画布，你过去的性行为过程都会清晰地呈现在你眼前。"
 
 # game/church.rpy#L321
 translate chinese augustamenu_f8a5d9c2:
 
     # augusta "It's a private room too, there are tissues, ah-ha!"
-    augusta "It's a private room too, there are tissues, ah-ha!"
+    augusta "放心，是个专用房间，不会有马来打搅你的，里面还有纸巾哦，啊哈~"
 
 # game/church.rpy#L322
 translate chinese augustamenu_278a36aa:
 
     # mc "Thank you, Augusta. That's an awesome reward, I knew you wouldn't let me down."
-    mc "Thank you, Augusta. That's an awesome reward, I knew you wouldn't let me down."
+    mc "蟹蟹你，Augusta。这可是份厚礼，我就知道你不会随便拿东西来搪塞我。"
 
 # game/church.rpy#L325
 translate chinese augustamenu_0d8a19e9:
 
     # augusta "Another job well done earlier, and thanks for the fun, [playername]."
-    augusta "Another job well done earlier, and thanks for the fun, [playername]."
+    augusta "小小心意而已啦，你也带给我不少快乐，[playername]。"
 
 # game/church.rpy#L326
 translate chinese augustamenu_db5c72e3:
@@ -969,241 +969,241 @@ translate chinese augustamenu_db5c72e3:
 translate chinese augustamenu_0ad2fb1f:
 
     # mc "Got it. See you later, boss."
-    mc "Got it. See you later, boss."
+    mc "懂了，待会见，老大。"
 
 # game/church.rpy#L330
 translate chinese augustamenu_dc9c3899:
 
     # "One short work day later..."
-    "One short work day later..."
+    "短暂的一天很快在工作中度过......"
 
 # game/church.rpy#L334
 translate chinese augustamenu_7e072825:
 
     # augusta "Ah, sure! I'm always lookin' for a good fuckin'!"
-    augusta "Ah, sure! I'm always lookin' for a good fuckin'!"
+    augusta "啊，当然可以！我可不会错过任何一炮！"
 
 # game/church.rpy#L335
 translate chinese augustamenu_6a30cacf:
 
     # augusta "Same as before? I'll drive you wild."
-    augusta "Same as before? I'll drive you wild."
+    augusta "老规矩？你躺下我来动。"
 
 # game/church.rpy#L336
 translate chinese augustamenu_74c498aa:
 
     # mc "Sounds good to me."
-    mc "Sounds good to me."
+    mc "我没意见。"
 
 # game/church.rpy#L341
 translate chinese augustareversecowgirl_4d05d029:
 
     # "She twirls around and sits her cushiony ass on my thighs, her tail excitedly swishing back and forth."
-    "She twirls around and sits her cushiony ass on my thighs, her tail excitedly swishing back and forth."
+    "她背过身去，丰腴如簧的翘臀坐在了我的大腿上，尾巴激动地摇来摇去，期待着接下来的交合。"
 
 # game/church.rpy#L342
 translate chinese augustareversecowgirl_567be5c0:
 
     # "Gently she backs into me, until my cock is cushioned between her ass cheeks, some slight contact on her genitals."
-    "Gently she backs into me, until my cock is cushioned between her ass cheeks, some slight contact on her genitals."
+    "她再缓缓地向后挪，直到刚好把我的肉棒夹在两个臀瓣之间的柔软沟壑中，棒身也和她的小穴亲密接触多次。"
 
 # game/church.rpy#L343
 translate chinese augustareversecowgirl_fc0b84a2:
 
     # "With expert circular hip movements, she then massages my cock with her ass until it’s throbbingly erect."
-    "With expert circular hip movements, she then massages my cock with her ass until it’s throbbingly erect."
+    "她熟练自如地扭动着柳腰，我的肉棒在两个肥美臀瓣地夹击下胀到最大，阵阵跳动。"
 
 # game/church.rpy#L344
 translate chinese augustareversecowgirl_bc35b614:
 
     # augusta "Ooohhh… I like your cock, bro…"
-    augusta "Ooohhh… I like your cock, bro…"
+    augusta "哦哦...你的鸡巴真是粗伟雄壮，老铁......"
 
 # game/church.rpy#L345
 translate chinese augustareversecowgirl_83a0199b:
 
     # "Satisfied with her work, she lifts her butt even further so the tip of my cock is mushed up against her vulva."
-    "Satisfied with her work, she lifts her butt even further so the tip of my cock is mushed up against her vulva."
+    "轻轻松松地就让我完全勃起，她对此自得非常，翘臀紧接着继续向后推，我的龟头直抵外阴。"
 
 # game/church.rpy#L346
 translate chinese augustareversecowgirl_65d9f498:
 
     # "Swaying her bubble butt back and forth seductively, she uses her right hand to hold my throbbing member steady as she guides it inside."
-    "Swaying her bubble butt back and forth seductively, she uses her right hand to hold my throbbing member steady as she guides it inside."
+    "她诱人地前后推进着自己的圆臀，右手执住我跃跃欲试的鸡巴，引导它顺利嵌入她的肉缝当中。"
 
 # game/church.rpy#L349
 translate chinese augustareversecowgirl_4e705ac9:
 
     # "Pushing her rear down, she keeps going until I’m completely submerged in her wet and ready pussy. Did she have that buttplug in the entire time? Sneaky."
-    "Pushing her rear down, she keeps going until I’m completely submerged in her wet and ready pussy. Did she have that buttplug in the entire time? Sneaky."
+    "屁股也开始亵慢地下沉，直到鸡巴整根没入她早已浸湿的蜜穴当中。我不禁心生疑问，她的臀部对接一直都这么准吗？"
 
 # game/church.rpy#L350
 translate chinese augustareversecowgirl_5ae85cf2:
 
     # augusta "Ah-ha, I knew your juicy cock couldn’t resist such an amazing pussy like mine… With just a little zap of magic, I’m going to make you feel so, so, so good…"
-    augusta "Ah-ha, I knew your juicy cock couldn’t resist such an amazing pussy like mine… With just a little zap of magic, I’m going to make you feel so, so, so good…"
+    augusta "啊哈~就算是你这样的巨炮也对抗不了我这样的名器...现在只要我再伴以少许魔法，就能让你欲，仙，欲，死......"
 
 # game/church.rpy#L353
 translate chinese augustareversecowgirl_27dc7cbb:
 
     # "She winks as she casts a subtle spell. I don’t feel anything at first, but I’m sure the effects will soon become apparent."
-    "She winks as she casts a subtle spell. I don’t feel anything at first, but I’m sure the effects will soon become apparent."
+    "她顽皮地眨了眨眼，口中念念有词，释放法术。我最开始感觉没什么明显变化，不过我相信法术的效力不久就会浮出水面。"
 
 # game/church.rpy#L354
 translate chinese augustareversecowgirl_d22a23c4:
 
     # "Her pussy squeezes slightly, reminding me of how amazing her warm insides feel. A few drops of pre-cum escape my tip as she begins to work her hips like a true goddess of sex."
-    "Her pussy squeezes slightly, reminding me of how amazing her warm insides feel. A few drops of pre-cum escape my tip as she begins to work her hips like a true goddess of sex."
+    "她并不心急，肉壁缓缓地挤压着我的长枪，让我充分体会她温暖无暇的名器。接着她开始像真正的爱之神一样施展自己的腰力技巧，我完全招架不住，几滴前列腺液从龟头不争气地被挤出。"
 
 # game/church.rpy#L355
 translate chinese augustareversecowgirl_65cb0bf5:
 
     # "It’s all in the hips with this mare as she begins to swing them in little circles with the grace of a dancer."
-    "It’s all in the hips with this mare as she begins to swing them in little circles with the grace of a dancer."
+    "雌驹的丰臀开始像一位优雅的舞者一样转圈。"
 
 # game/church.rpy#L356
 translate chinese augustareversecowgirl_e968b02e:
 
     # "Her circular movements gradually become elliptical as her tight lips slide up and down the base of my shaft with increasingly long thrusts."
-    "Her circular movements gradually become elliptical as her tight lips slide up and down the base of my shaft with increasingly long thrusts."
+    "随着她的蜜穴开始上下起伏抽插，她臀部完美的圆周运动也逐渐变成了椭圆运动。"
 
 # game/church.rpy#L357
 translate chinese augustareversecowgirl_15f2dc4f:
 
     # "Each thrust gaining intensity and vigour… *Thwap… thwap… thwap… thwap, thwap, thwap! *"
-    "Each thrust gaining intensity and vigour… *Thwap… thwap… thwap… thwap, thwap, thwap! *"
+    "而且每一次起伏的力道都那么精准和高昂...*啪… 啪… 啪… 啪, 啪, 啪! *"
 
 # game/church.rpy#L359
 translate chinese augustareversecowgirl_237f78bd:
 
     # "As a lover of pleasure herself, her movements are expertly hitting all the pleasure points deep within her pussy while also creating some friction on her clit."
-    "As a lover of pleasure herself, her movements are expertly hitting all the pleasure points deep within her pussy while also creating some friction on her clit."
+    "她抽插的每一下都能让我的肉棒击到她小穴里的每一处敏感点，同时还能让棒身摩擦到她的阴蒂，如此极上的愉悦她非常受用。"
 
 # game/church.rpy#L360
 translate chinese augustareversecowgirl_1671a244:
 
     # augusta "Haahh, haahh… How is it? This will always be the best sex you’ll ever feel, dearie…"
-    augusta "Haahh, haahh… How is it? This will always be the best sex you’ll ever feel, dearie…"
+    augusta "哈啊，哈啊...我的技术怎么样？只有我才能让你打上这辈子最酸爽的一炮，小可爱......"
 
 # game/church.rpy#L361
 translate chinese augustareversecowgirl_d6eb38b9:
 
     # "She may be right, although her technique is slow right now, her purposeful movements are maximising and heightening the pleasure I feel… It’s really fucking good."
-    "She may be right, although her technique is slow right now, her purposeful movements are maximising and heightening the pleasure I feel… It’s really fucking good."
+    "她可能是对的，虽然现在她的节奏稍有放缓，但每一个动作都能最大限度地放大我的快感...真特么的劲爆。"
 
 # game/church.rpy#L362
 translate chinese augustareversecowgirl_2f2ab5c3:
 
     # augusta "Of course, this is just the starter… But I think it’s time for the main course, don’t you?"
-    augusta "Of course, this is just the starter… But I think it’s time for the main course, don’t you?"
+    augusta "不过，好戏还在后头呢...现在是时候上重头戏了，对吧？"
 
 # game/church.rpy#L363
 translate chinese augustareversecowgirl_b863e4c8:
 
     # "Augusta drops her weight down and lets out a satisfying moan as she sinks all the way down my cock again. She then shimmies around in place for a few seconds as she gets into a comfortable position… A comfortable position for what?"
-    "Augusta drops her weight down and lets out a satisfying moan as she sinks all the way down my cock again. She then shimmies around in place for a few seconds as she gets into a comfortable position… A comfortable position for what?"
+    "Augusta终于完全放开姿态，完全蹲下，整个身子的体重毫无保留地压在我身上，肉棒插至最深处又激起了她满足的浪叫。每当她插到一个舒服的位置时就会稍作停顿并晃动腰部...这节奏有点奇怪。"
 
 # game/church.rpy#L364
 translate chinese augustareversecowgirl_d6c39eb2:
 
     # augusta "Ready, babe? This is how a goddess of love fucks, there’s no shame in cumming prematurely, ah-ha!"
-    augusta "Ready, babe? This is how a goddess of love fucks, there’s no shame in cumming prematurely, ah-ha!"
+    augusta "准备好了吗，小可爱？见证爱之神是怎么交合的吧，在我面前早泄可一点也不丢人哦，啊哈~"
 
 # game/church.rpy#L367
 translate chinese augustareversecowgirl_2e1be573:
 
     # "Augusta doesn’t wait for an answer, her bubble butt begins bouncing up and down rapidly, her tight wet pussy squeezing and clenching the entire time."
-    "Augusta doesn’t wait for an answer, her bubble butt begins bouncing up and down rapidly, her tight wet pussy squeezing and clenching the entire time."
+    "Augusta不给我做出任何回应的机会，她浑圆的翘臀随即开始疯狂地上下抽动，湿润窄紧的淫穴一刻也不停地吸噬着我的肉棒。"
 
 # game/church.rpy#L368
 translate chinese augustareversecowgirl_65d32f9b:
 
     # "*Thwapthwapthwapthwapthwapthwap!!!*"
-    "*Thwapthwapthwapthwapthwapthwap!!!*"
+    "*啪啪啪啪啪啪!!!*"
 
 # game/church.rpy#L369
 translate chinese augustareversecowgirl_4160d6fa:
 
     # augusta "Ahhh, yess, yeeessss! Stuff me full of your cum!"
-    augusta "Ahhh, yess, yeeessss! Stuff me full of your cum!"
+    augusta "啊啊，还要，继续！用你的精液把我填满吧！"
 
 # game/church.rpy#L370
 translate chinese augustareversecowgirl_0c2ff315:
 
     # "My teeth grit and muscles grow tense as an explosive wave of pleasure consumes my body. The feeling borders on overwhelming, the sheer ecstasy numbing my brain to such heights I could even faint."
-    "My teeth grit and muscles grow tense as an explosive wave of pleasure consumes my body. The feeling borders on overwhelming, the sheer ecstasy numbing my brain to such heights I could even faint."
+    "一股潮水般的快感很快将我淹没，不知所措，本能地咬紧牙关，绷紧肌肉。几乎令我窒息，纯粹的欢愉侵占了我的每一个脑细胞，随时随地都能让我陷入昏迷。"
 
 # game/church.rpy#L371
 translate chinese augustareversecowgirl_20fa8b28:
 
     # "I can feel a wave of heat running through my groin as my orgasm builds aggressively quick, I’m barely able to hold back for thirty seconds of her rutting."
-    "I can feel a wave of heat running through my groin as my orgasm builds aggressively quick, I’m barely able to hold back for thirty seconds of her rutting."
+    "我的高潮很快来临，阵阵灼热感向我的两腿间袭来，在她的挺动下，我连半分钟都坚持不了。"
 
 # game/church.rpy#L372
 translate chinese augustareversecowgirl_4a5f79fb:
 
     # "Ah?! I’m cumming already! The pleasure I feel is consistently orgasmic, so I barely noticed the difference when I began to ejaculate."
-    "Ah?! I’m cumming already! The pleasure I feel is consistently orgasmic, so I barely noticed the difference when I began to ejaculate."
+    "卧槽！？我都已经射了！在她高超的技术下，被她骑在身上抽插的快感跟射精的快感几乎没有区别，所以我根本没注意到自己居然已经射了。"
 
 # game/church.rpy#L377
 translate chinese augustareversecowgirl_95f43fed:
 
     # augusta "Ahhhahhh! That’s it! Ooohhh, mmmhhphhh! Let it all out, ahhhh, let it all out! *Thwap, thwap, thwap!"
-    augusta "Ahhhahhh! That’s it! Ooohhh, mmmhhphhh! Let it all out, ahhhh, let it all out! *Thwap, thwap, thwap!"
+    augusta "啊啊啊哈！射吧！哦哦，嗯嗯嗯啊！都射出来，啊啊，都射出来！*啪, 啪, 啪!*"
 
 # game/church.rpy#L382
 translate chinese augustareversecowgirl_c65c8801:
 
     # "Cum begins pouring into her womb, almost excessively. Augusta’s eyes roll back as she experiences an equally powerful orgasm, her body twisting so much that even her riding falters."
-    "Cum begins pouring into her womb, almost excessively. Augusta’s eyes roll back as she experiences an equally powerful orgasm, her body twisting so much that even her riding falters."
+    "热烫的浓精在她的子宫中横突乱窜。同样刺激的高潮也让Augusta眼睛翻白，身体无法控制地摇摇晃晃起来，打乱了原本完美的起伏节奏。"
 
 # game/church.rpy#L387
 translate chinese augustareversecowgirl_a2fff8f8:
 
     # "She babbles almost incoherently with each blast of cum, her pussy squeezing tighter and tighter, milking my throbbing cock the entire time."
-    "She babbles almost incoherently with each blast of cum, her pussy squeezing tighter and tighter, milking my throbbing cock the entire time."
+    "每一发精液地灌注都让她的嘴里闪烁着含糊不清的言语，淫穴越夹越紧，誓要挤出我的每一滴肉棒牛奶才肯罢休。"
 
 # game/church.rpy#L392
 translate chinese augustareversecowgirl_b64a76a9:
 
     # "She and my orgasm keep going far past the point I knew possible; it feels like she’s borderline showing off as she wrings my cock for the most messy and powerful orgasm she possibly can."
-    "She and my orgasm keep going far past the point I knew possible; it feels like she’s borderline showing off as she wrings my cock for the most messy and powerful orgasm she possibly can."
+    "我和她的高潮持续了很久，比我过去的任何高潮都要久；感觉她是在刻意炫耀，我的肉棒在她名器的挤压和榨取之下不住地射精，彻底臣服。"
 
 # game/church.rpy#L393
 translate chinese augustareversecowgirl_3dcd7275:
 
     # "I could swear her toned belly almost distends from the amount of cum unloaded inside her; if anything, my balls feel lighter, that’s for sure."
-    "I could swear her toned belly almost distends from the amount of cum unloaded inside her; if anything, my balls feel lighter, that’s for sure."
+    "我敢说如此多的精液肯定让她的香腹微微隆起；你要是问我为什么这么肯定的话，因为我的睾丸感觉变轻了。"
 
 # game/church.rpy#L397
 translate chinese augustareversecowgirl_f6163583:
 
     # "Eventually she slows down, only letting my cock go at the moment the discomfort from sensitivity overrides the feeling of pleasure."
-    "Eventually she slows down, only letting my cock go at the moment the discomfort from sensitivity overrides the feeling of pleasure."
+    "终于她的速度开始放缓，当鸡巴开始软下来，没办法再刺激她的敏感带的时候，她才肯放过我的小弟弟。"
 
 # game/church.rpy#L398
 translate chinese augustareversecowgirl_d9f791e4:
 
     # augusta "Mmphh… And here’s the dessert, dearie…"
-    augusta "Mmphh… And here’s the dessert, dearie…"
+    augusta "嗯嗯...这其实只是开胃小菜哦，小可爱......"
 
 # game/church.rpy#L399
 translate chinese augustareversecowgirl_3786052c:
 
     # "Even now, Augusta is a stickler for the obscene as she rises her rear slightly and allows me to watch the waterfall of whiteness drip from her thigh-gap."
-    "Even now, Augusta is a stickler for the obscene as she rises her rear slightly and allows me to watch the waterfall of whiteness drip from her thigh-gap."
+    "接下来，Augusta抬起了自己的翘臀，没有了肉棒的阻碍，海量的浓精从她的小穴中飞流直下，像一条瀑布一般，我欣赏着这副春意盎然的画卷，不禁感叹她真的是这块料。"
 
 # game/church.rpy#L403
 translate chinese augustareversecowgirl_533bd094:
 
     # augusta "Alright, lovely. The morning is still young, we best return downstairs."
-    augusta "Alright, lovely. The morning is still young, we best return downstairs."
+    augusta "完事了，亲。现在还早呢，我们最好下楼去。"
 
 # game/church.rpy#L408
 translate chinese augustareversecowgirl_a6435200:
 
     # augusta "Later, ya virgin."
-    augusta "Later, ya virgin."
+    augusta "晚点，你个处男。"
 
 # game/church.rpy#L413
 translate chinese augustavisit1_f641300a:
@@ -1215,31 +1215,31 @@ translate chinese augustavisit1_f641300a:
 translate chinese augustavisit1_44cc06fe:
 
     # "Naturally I'm curious, I haven't heard anyone mention much of religion."
-    "Naturally I'm curious, I haven't heard anyone mention much of religion."
+    "我自然很好奇，我还没听人提起过很多关于宗教的事。"
 
 # game/church.rpy#L415
 translate chinese augustavisit1_35f244b3:
 
     # "I doubt it’s anything like a church that I’m used to. In Arcadia there are god-like beings walking among everyday people like myself."
-    "I doubt it’s anything like a church that I’m used to. In Arcadia there are god-like beings walking among everyday people like myself."
+    "我怀疑这和我世界里的教堂根本不是一类东西。毕竟在Arcadia，像我这样不凡的存在就和其他普通的小马生活在一起，共同行走在这片土地上。"
 
 # game/church.rpy#L420
 translate chinese augustavisit1_ec8781dd:
 
     # "Out of curiosity, I step inside the building and notice several statues of alicorns and a few people dotted around chatting, praying or appreciating the architecture."
-    "Out of curiosity, I step inside the building and notice several statues of alicorns and a few people dotted around chatting, praying or appreciating the architecture."
+    "出于好奇，我走进建筑中，注意到几尊天角兽的雕像和一些在周围聊天、祈祷或欣赏建筑的人。"
 
 # game/church.rpy#L421
 translate chinese augustavisit1_88297839:
 
     # "That makes sense to me. It seems like a place of remembrance and respect, although it doesn't seem like there are any statues of the royal sisters here. Is that because they're still alive?"
-    "That makes sense to me. It seems like a place of remembrance and respect, although it doesn't seem like there are any statues of the royal sisters here. Is that because they're still alive?"
+    "这对我来说是有道理的。它似乎是一个值得纪念和尊敬的地方，尽管它似乎没有任何雕是像皇家姐妹的。是因为她们还活着吗？"
 
 # game/church.rpy#L422
 translate chinese augustavisit1_cfeef42c:
 
     # "There is one outlying statue in the centre, just before a grand altar…"
-    "There is one outlying statue in the centre, just before a grand altar…"
+    "在中心有一尊孤立的雕像，就在一座大祭坛前边 ..."
 
 # game/church.rpy#L423
 translate chinese augustavisit1_020a11fb:
@@ -1251,67 +1251,67 @@ translate chinese augustavisit1_020a11fb:
 translate chinese augustavisit1_65089be9:
 
     # "A plaque on the alter reads, ‘Augusta, Goddess of Love’."
-    "A plaque on the alter reads, ‘Augusta, Goddess of Love’."
+    "圣坛上的牌匾上写着， ‘Augusta, 爱的女神’."
 
 # game/church.rpy#L425
 translate chinese augustavisit1_18a41680:
 
     # "As I’m prospecting the centre statue, someone surprises me from behind."
-    "As I’m prospecting the centre statue, someone surprises me from behind."
+    "当我正在端详中间的雕像时，有人从后面吓了我一跳。"
 
 # game/church.rpy#L427
 translate chinese augustavisit1_52cc268b:
 
     # unknown "Greetings, you are…"
-    unknown "Greetings, you are…"
+    unknown "你好，请问你是..."
 
 # game/church.rpy#L430
 translate chinese augustavisit1_2381dff1:
 
     # unknown "Aahh-ha! [playername]! I’ve heard great things about you."
-    unknown "Aahh-ha! [playername]! I’ve heard great things about you."
+    unknown "啊-哈！ [playername]！我听说过很多关于你的事。"
 
 # game/church.rpy#L433
 translate chinese augustavisit1_550c1991:
 
     # unknown "I believe you’re [playername], correct?"
-    unknown "I believe you’re [playername], correct?"
+    unknown "我相信你是[playername]，对吗？"
 
 # game/church.rpy#L435
 translate chinese augustavisit1_4c6c9a75:
 
     # "This unicorn… she looks like she's cosplaying a slutty catholic nun. That’s certainly bizarre."
-    "This unicorn… she looks like she's cosplaying a slutty catholic nun. That’s certainly bizarre."
+    "这只独角兽... 她看起来像是在扮演一个放荡的天主教修女。这当然很奇怪。"
 
 # game/church.rpy#L436
 translate chinese augustavisit1_1a7b1410:
 
     # "I’m curious to find out more about this mare, but first, how does she know me?"
-    "I’m curious to find out more about this mare, but first, how does she know me?"
+    "我很想知道更多关于这只雌驹的事，但首先，她是怎么认识我的？"
 
 # game/church.rpy#L440
 translate chinese augustavisit1_dca32ee3:
 
     # unknown "Sorry for not introducing myself properly, I was a little excited."
-    unknown "Sorry for not introducing myself properly, I was a little excited."
+    unknown "原谅我的无礼，我还没做自我介绍呢，心里有点小激动，一时忘了。"
 
 # game/church.rpy#L441
 translate chinese augustavisit1_8b141119:
 
     # amora "I am a priestess of love, Amora; it is my pleasure to make your acquaintance."
-    amora "I am a priestess of love, Amora; it is my pleasure to make your acquaintance."
+    amora "我是一名爱之女祭司——Amora；很高兴认识你。"
 
 # game/church.rpy#L444
 translate chinese augustavisit1_541192e6:
 
     # unknown "Why, this is ordinary attire for a priestess of love. It is built with certain fuctions in mind."
-    unknown "Why, this is ordinary attire for a priestess of love. It is built with certain fuctions in mind."
+    unknown "你怎么这么问呢，这就是爱之女祭司的普通衣袍。为了某些特定场合设计的。"
 
 # game/church.rpy#L445
 translate chinese augustavisit1_0844b1b2:
 
     # "I'll bet..."
-    "I'll bet..."
+    "就当她说的是真的吧......"
 
 # game/church.rpy#L447
 translate chinese augustavisit1_26d56d76:
@@ -1323,451 +1323,451 @@ translate chinese augustavisit1_26d56d76:
 translate chinese augustavisit1_0d160108:
 
     # unknown "It would seem your accolades proceed you. I’d like to thank you for saving Arcadia."
-    unknown "It would seem your accolades proceed you. I’d like to thank you for saving Arcadia."
+    unknown "这位施主，我看你印堂发光，日后必大有作为。我要感谢阁下拯救了Arcadia。"
 
 # game/church.rpy#L452
 translate chinese augustavisit1_78068c3c:
 
     # unknown "Sorry, it’s a little rude, but there has been some gossip about a strange humanoid called [playername]."
-    unknown "Sorry, it’s a little rude, but there has been some gossip about a strange humanoid called [playername]."
+    unknown "唔，抱歉，讲这么多很突兀，但我听到了有关不少一个叫[playername]奇特人形生物的闲言碎语。"
 
 # game/church.rpy#L455
 translate chinese augustavisit1_dca32ee3_1:
 
     # unknown "Sorry for not introducing myself properly, I was a little excited."
-    unknown "Sorry for not introducing myself properly, I was a little excited."
+    unknown "原谅我的无礼，我还没做自我介绍呢，心里有点小激动，一时忘了。"
 
 # game/church.rpy#L456
 translate chinese augustavisit1_8b141119_1:
 
     # amora "I am a priestess of love, Amora; it is my pleasure to make your acquaintance."
-    amora "I am a priestess of love, Amora; it is my pleasure to make your acquaintance."
+    amora "我是一名爱之女祭司——Amora；很高兴认识你。"
 
 # game/church.rpy#L459
 translate chinese augustavisit1_632cfeb7:
 
     # mc "It’s nice to meet you too. So, you work here?"
-    mc "It’s nice to meet you too. So, you work here?"
+    mc "也很高兴认识你。这么说，你在这里工作？"
 
 # game/church.rpy#L460
 translate chinese augustavisit1_52cdf9a7:
 
     # amora "I perform rites and duties within the church, it’s one of my many responsibilities. Have you come to pay your respects?"
-    amora "I perform rites and duties within the church, it’s one of my many responsibilities. Have you come to pay your respects?"
+    amora "我在教堂内负责主持司仪，履行相应的职责，这些只是我工作的一部分。请问阁下是来瞻仰祭拜的吗？"
 
 # game/church.rpy#L463
 translate chinese augustavisit1_88c77920:
 
     # amora "As is intended... Sorry, it would seem my nipples like to poke through the fabric quite often."
-    amora "As is intended... Sorry, it would seem my nipples like to poke through the fabric quite often."
+    amora "可不是嘛...不好意思，好像这身衣服总是没办法老老实实束缚住我的乳头。"
 
 # game/church.rpy#L466
 translate chinese augustavisit1_0f98da74:
 
     # amora "Are there any other types?"
-    amora "Are there any other types?"
+    amora "怎么，还有反对禁欲的修女？"
 
 # game/church.rpy#L467
 translate chinese augustavisit1_d16422e9:
 
     # "Best universe ever!"
-    "Best universe ever!"
+    "这他妈就是最好的宇宙！"
 
 # game/church.rpy#L469
 translate chinese augustavisit1_c46116c5:
 
     # amora "May I ask, why is it that you've come here, young one?"
-    amora "May I ask, why is it that you've come here, young one?"
+    amora "恕我冒昧，请问这位小羔羊阁下何故来此呢？"
 
 # game/church.rpy#L472
 translate chinese augustavisit1_4ebe629e:
 
     # mc "And your pink fur is exactly the flavour I need."
-    mc "And your pink fur is exactly the flavour I need."
+    mc "你的粉红色毛皮也很是吸引我的眼球。"
 
 # game/church.rpy#L474
 translate chinese augustavisit1_8e9545ac:
 
     # amora "I... see... In that case, I think it's only fair that I show you more about this church..."
-    amora "I... see... In that case, I think it's only fair that I show you more about this church..."
+    amora "我...明白了...既然阁下初来乍到，那么吾自然该向您好好介绍这座教堂才是......"
 
 # game/church.rpy#L476
 translate chinese augustavisit1_0c1f3ed8:
 
     # mc "To tell you the truth, I was just stricken with curiosity and awe. I don’t know much about Arcadia so I’m interested in the culture and religion."
-    mc "To tell you the truth, I was just stricken with curiosity and awe. I don’t know much about Arcadia so I’m interested in the culture and religion."
+    mc "我直说吧，我来这儿纯粹是因为好奇和敬仰。我不太了解Arcadia的风土民俗，所以有机会能了解这里的文化和宗教信仰我自然不会错过。"
 
 # game/church.rpy#L478
 translate chinese augustavisit1_6ed07578:
 
     # amora "Ahh, of course you don’t. In that case..."
-    amora "Ahh, of course you don’t. In that case..."
+    amora "啊，阁下自然不知。即是如此......"
 
 # game/church.rpy#L481
 translate chinese augustavisit1_6029f3b4:
 
     # amora "Ah, there's no need to be hasty. There is a lot of fun to be had at the church."
-    amora "Ah, there's no need to be hasty. There is a lot of fun to be had at the church."
+    amora "啊，不必着急。教堂里有不少乐子可寻呢。"
 
 # game/church.rpy#L482
 translate chinese augustavisit1_5e15fc4a:
 
     # mc "Pfft... That's something I thought I'd never hear in my lifetime."
-    mc "Pfft... That's something I thought I'd never hear in my lifetime."
+    mc "啊这...我活这么大第一次听到这种说法。"
 
 # game/church.rpy#L484
 translate chinese augustavisit1_ff88f14f:
 
     # amora "Allow me to be your guide for this religion of love. With your consent, I can immerse you in the full experience this church has to offer."
-    amora "Allow me to be your guide for this religion of love. With your consent, I can immerse you in the full experience this church has to offer."
+    amora "就让吾为您揭开此爱之宗教的面纱吧。只要阁下应允，吾这就带您浏览和体会这座教堂的方方面面。"
 
 # game/church.rpy#L490
 translate chinese augustavisit1_7b34f7d7:
 
     # amora "Ahh… That is a shame, I did feel a strong connection with you."
-    amora "Ahh… That is a shame, I did feel a strong connection with you."
+    amora "啊...实乃可惜啊，吾能觉察，阁下与吾之间心有灵犀呢。"
 
 # game/church.rpy#L491
 translate chinese augustavisit1_9ca77ead:
 
     # "She shakes her head, smiles and bows to me."
-    "She shakes her head, smiles and bows to me."
+    "她摇了摇头，微笑着朝我鞠了一躬。"
 
 # game/church.rpy#L493
 translate chinese augustavisit1_c48f2f82:
 
     # amora "Thank you for coming here today. Do seek me again if you'd like to see what a priestess of love can do."
-    amora "Thank you for coming here today. Do seek me again if you'd like to see what a priestess of love can do."
+    amora "感谢阁下今日驾临。如果欲知爱之女祭司为何物，改日来此处寻吾便可。"
 
 # game/church.rpy#L495
 translate chinese augustavisit1_9861657c:
 
     # "Well, that was weird. What exactly would a 'full experience' from a priest of love be like anyway?"
-    "Well, that was weird. What exactly would a 'full experience' from a priest of love be like anyway?"
+    "嗯，好奇怪的一匹马。爱之祭司是什么？教堂除了用来参拜还能用来“体会”的？"
 
 # game/church.rpy#L496
 translate chinese augustavisit1_ed9a5fca:
 
     # "I think I'm just being beyond idealistic if I assume it's sex... But, maybe..."
-    "I think I'm just being beyond idealistic if I assume it's sex... But, maybe..."
+    "这座教堂不可能和性有关吧...不过凡事也没有绝对......"
 
 # game/church.rpy#L504
 translate chinese augustavisit1b_8f00c409:
 
     # amora "Greetings [playername], have you decided join our church?"
-    amora "Greetings [playername], have you decided join our church?"
+    amora "您好[playername]，阁下决定进入敝教堂一瞥吗？"
 
 # game/church.rpy#L505
 translate chinese augustavisit1b_18eb3bb4:
 
     # mc "Well... I don't know about that, I barely know anything about your religion."
-    mc "Well... I don't know about that, I barely know anything about your religion."
+    mc "emmmm...我尚不能确定，我目前对贵宗还一无所知。"
 
 # game/church.rpy#L507
 translate chinese augustavisit1b_f3bb842d:
 
     # amora "Worry not, young one. I can show you the full experience, all you need to do is ask."
-    amora "Worry not, young one. I can show you the full experience, all you need to do is ask."
+    amora "不必担心，迷途的小羔羊。我会带你体会所有东西，阁下如有问题问便是。"
 
 # game/church.rpy#L513
 translate chinese augustavisit1b_7b34f7d7:
 
     # amora "Ahh… That is a shame, I did feel a strong connection with you."
-    amora "Ahh… That is a shame, I did feel a strong connection with you."
+    amora "啊...实乃可惜啊，吾能觉察，阁下与吾之间心有灵犀呢。"
 
 # game/church.rpy#L514
 translate chinese augustavisit1b_9ca77ead:
 
     # "She shakes her head, smiles and bows to me."
-    "She shakes her head, smiles and bows to me."
+    "她摇了摇头，微笑着朝我鞠了一躬。"
 
 # game/church.rpy#L516
 translate chinese augustavisit1b_c48f2f82:
 
     # amora "Thank you for coming here today. Do seek me again if you'd like to see what a priestess of love can do."
-    amora "Thank you for coming here today. Do seek me again if you'd like to see what a priestess of love can do."
+    amora "感谢阁下今日驾临。如果欲知爱之女祭司为何物，改日来此处寻吾便可。"
 
 # game/church.rpy#L518
 translate chinese augustavisit1b_9861657c:
 
     # "Well, that was weird. What exactly would a 'full experience' from a priest of love be like anyway?"
-    "Well, that was weird. What exactly would a 'full experience' from a priest of love be like anyway?"
+    "嗯，好奇怪的一匹马。爱之祭司是什么？教堂除了用来参拜还能用来“体会”的？"
 
 # game/church.rpy#L525
 translate chinese augustavisit1c_f15b7336:
 
     # "Hmm… This is either going to be really sexy, or really boring… And I really can’t figure out which one it’ll be yet."
-    "Hmm… This is either going to be really sexy, or really boring… And I really can’t figure out which one it’ll be yet."
+    "嗯...看起来没什么好“鸡”动，也不会太无聊的亚子...说不准。"
 
 # game/church.rpy#L526
 translate chinese augustavisit1c_fa163d3e:
 
     # mc "Very well, I’d love a miniature crash course in this area of Arcadian culture."
-    mc "Very well, I’d love a miniature crash course in this area of Arcadian culture."
+    mc "那好吧，就当我报了个Arcadia文化速成班。"
 
 # game/church.rpy#L528
 translate chinese augustavisit1c_2f809911:
 
     # amora "Lovely! [playername] please don’t take this request lightly, however, I would like to extend an invitation to pray to Augusta together, do you accept?"
-    amora "Lovely! [playername] please don’t take this request lightly, however, I would like to extend an invitation to pray to Augusta together, do you accept?"
+    amora "明智之举！[playername]，请您不要以轻浮的眼光看待这一切，现在，吾想诚挚地邀请阁下与吾共同参拜Augusta，您意下如何？"
 
 # game/church.rpy#L529
 translate chinese augustavisit1c_920ce978:
 
     # mc "Umm… Sure?"
-    mc "Umm… Sure?"
+    mc "呃...我也没理由拒绝吧？"
 
 # game/church.rpy#L530
 translate chinese augustavisit1c_fb8092af:
 
     # amora "Very well. Follow my lead."
-    amora "Very well. Follow my lead."
+    amora "甚善。请跟我来。"
 
 # game/church.rpy#L534
 translate chinese augustavisit1c_1cfee5d2:
 
     # "Amora and I kneel together before a grand altar in the centre. I’m not sure what I should do, but I’ve committed."
-    "Amora and I kneel together before a grand altar in the centre. I’m not sure what I should do, but I’ve committed."
+    "我和Amora一起跪拜在中央的大祭坛前。我不知道接下来该干嘛，不过既然都答应人家了，也只好硬着头皮参拜了。"
 
 # game/church.rpy#L535
 translate chinese augustavisit1c_193fa905:
 
     # "I follow her lead, but she doesn’t do anything other than kneel in such a way that her butt and heels touch, then she closes her eyes."
-    "I follow her lead, but she doesn’t do anything other than kneel in such a way that her butt and heels touch, then she closes her eyes."
+    "我想看她接下来的行动，但她貌似除了双膝跪地，臀部贴小腿以外什么也没做，接着闭上了眼睛。"
 
 # game/church.rpy#L536
 translate chinese augustavisit1c_cbd9ef53:
 
     # "Her expression is one of pure meditation, as if she resigned all thought and spread her consciousness to her physical being to live wholly in the moment."
-    "Her expression is one of pure meditation, as if she resigned all thought and spread her consciousness to her physical being to live wholly in the moment."
+    "她的表情肃穆，看起来像是心无旁骛地在冥想，仿佛放弃了所有思动，将自己的意念从肉体上发散，完成精神上的升华。"
 
 # game/church.rpy#L537
 translate chinese augustavisit1c_f8308c60:
 
     # "Alright, here I go… I close my eyes and repeatedly tell myself to relax."
-    "Alright, here I go… I close my eyes and repeatedly tell myself to relax."
+    "那就有样学样吧...我也闭上眼睛，乞求内心的放松。"
 
 # game/church.rpy#L538
 translate chinese augustavisit1c_fd135fb6:
 
     # "Relax, relax, relax… relax… relax… relax…"
-    "Relax, relax, relax… relax… relax… relax…"
+    "放松，放松，放松...放松...放松...放松......"
 
 # game/church.rpy#L539
 translate chinese augustavisit1c_cdb0ce14:
 
     # "Tension within my body gently eases and melts away as I tune into the world around me."
-    "Tension within my body gently eases and melts away as I tune into the world around me."
+    "当我像她那样把自己的思维发散到周围的世界时，身体明显轻松多了。"
 
 # game/church.rpy#L540
 translate chinese augustavisit1c_d09f989c:
 
     # "After around thirty seconds we finish and she turns around to me smiling."
-    "After around thirty seconds we finish and she turns around to me smiling."
+    "在大约半分钟的参拜后，她看向我，笑了起来。"
 
 # game/church.rpy#L544
 translate chinese augustavisit1c_c236c586:
 
     # amora "Ahh… I felt it, didn’t you? Our connection… Thank you for coming here today [playername]…"
-    amora "Ahh… I felt it, didn’t you? Our connection… Thank you for coming here today [playername]…"
+    amora "啊...吾感觉到了，不知阁下如何？心有灵犀...感谢阁下今日光临[playername]......"
 
 # game/church.rpy#L545
 translate chinese augustavisit1c_10cd2e08:
 
     # "Uh... What is she talking about?"
-    "Uh... What is she talking about?"
+    "呃...她说什么呢？"
 
 # game/church.rpy#L549
 translate chinese augustavisit1c_0aeaa90d:
 
     # amora "I absolutely agree... Ohh, that fills me with such elation, [playername]"
-    amora "I absolutely agree... Ohh, that fills me with such elation, [playername]"
+    amora "绝对如此...哦，吾真是由衷地高兴呢，[playername]。"
 
 # game/church.rpy#L550
 translate chinese augustavisit1c_29720313:
 
     # "Woops, that felt a little manipulative."
-    "Woops, that felt a little manipulative."
+    "怎么感觉有点强行。"
 
 # game/church.rpy#L553
 translate chinese augustavisit1c_7fd3a831:
 
     # amora "Yah well, your posture was pretty shit! Ah-ha!"
-    amora "Yah well, your posture was pretty shit! Ah-ha!"
+    amora "嗯，阁下的姿势可不怎么标准！啊哈~"
 
 # game/church.rpy#L554
 translate chinese augustavisit1c_3d5b8a86:
 
     # mc "E-Excuse me?"
-    mc "E-Excuse me?"
+    mc "你，你什么意思？"
 
 # game/church.rpy#L556
 translate chinese augustavisit1c_990c9c67:
 
     # amora "My apologies [playername]... That was very unprofessional of me. Allow me to make it up to you."
-    amora "My apologies [playername]... That was very unprofessional of me. Allow me to make it up to you."
+    amora "抱歉，[playername]...吾是受过专业训练的，一般情况下不会笑，除非忍不住。就让吾好好补偿你吧。"
 
 # game/church.rpy#L559
 translate chinese augustavisit1c_9c49de34:
 
     # amora "Actually, yes! Many males claim such a phenomena. I can only assume that means you were attuned well to my vibrational levels."
-    amora "Actually, yes! Many males claim such a phenomena. I can only assume that means you were attuned well to my vibrational levels."
+    amora "放心，是正常的！许多男性来这里过后都有同样的感觉。吾只能猜测阁下的电波与吾的暗合。"
 
 # game/church.rpy#L560
 translate chinese augustavisit1c_06f1d7df:
 
     # "Ehh...?"
-    "Ehh...?"
+    "额...？"
 
 # game/church.rpy#L562
 translate chinese augustavisit1c_f73cde1d:
 
     # amora "I like you [playername], and I’d like to perform a proper ritual with you, for the Goddess of Love."
-    amora "I like you [playername], and I’d like to perform a proper ritual with you, for the Goddess of Love."
+    amora "吾很欣赏你，[playername]，吾愿以爱之女神之名，为阁下举办一场恰当的仪式。"
 
 # game/church.rpy#L563
 translate chinese augustavisit1c_1d52a251:
 
     # amora "That is, if you’d like."
-    amora "That is, if you’d like."
+    amora "只要阁下愿意的话。"
 
 # game/church.rpy#L564
 translate chinese augustavisit1c_6c785339:
 
     # mc "Hmm, a proper ritual? Sure, I’m curious."
-    mc "Hmm, a proper ritual? Sure, I’m curious."
+    mc "嗯？恰当的仪式？好啊，何乐而不为，我想见识见识。"
 
 # game/church.rpy#L566
 translate chinese augustavisit1c_6c5d951e:
 
     # amora "Very well, please come with me."
-    amora "Very well, please come with me."
+    amora "甚善，请随我而来。"
 
 # game/church.rpy#L569
 translate chinese augustavisit1c_ea66a385:
 
     # "Without even really considering the situation, I find myself somewhat allured by the nun figure as I follow her deeper into the cathedral, to a room at the back."
-    "Without even really considering the situation, I find myself somewhat allured by the nun figure as I follow her deeper into the cathedral, to a room at the back."
+    "我没有多想，只是默默跟随着修女的脚步，走过了大教堂，来到后方的一个小房间内。"
 
 # game/church.rpy#L570
 translate chinese augustavisit1c_5f9d5219:
 
     # "I’m not sure where she’s taking me, but I’m hoping that the nun outfit is just for show because I’m eager to get acquainted with her body."
-    "I’m not sure where she’s taking me, but I’m hoping that the nun outfit is just for show because I’m eager to get acquainted with her body."
+    "我不知道她要领我去哪里，但我真心希望那套修女服就是套摆设，哎~就是馋她身子。"
 
 # game/church.rpy#L571
 translate chinese augustavisit1c_0c88c9cc:
 
     # "As we pass multiple doorways covered in black curtains, I can hear vague voices on the way… I try to make them out, but each room seems to be well sound proofed."
-    "As we pass multiple doorways covered in black curtains, I can hear vague voices on the way… I try to make them out, but each room seems to be well sound proofed."
+    "当我们徐徐穿过几道用黑色幕布盖住的门口时，一些难以辨别的声音不断传入我的耳中...我想仔细听清，不过似乎每个房间都做了很好的隔音。"
 
 # game/church.rpy#L574
 translate chinese augustavisit1c_97964617:
 
     # "Before I know it, she leads me into one of those very rooms. It’s strange, yet cozy…?"
-    "Before I know it, she leads me into one of those very rooms. It’s strange, yet cozy…?"
+    "在我沉思期间，她已经领我进了其中一个这样的小房间。真奇怪，不过房间里感觉异常的温馨......吗？"
 
 # game/church.rpy#L575
 translate chinese augustavisit1c_f47d3dd0:
 
     # "Actually, I take that back, this is far from cozy."
-    "Actually, I take that back, this is far from cozy."
+    "算了，当我没说，这房间跟温馨二字八竿子打不着。"
 
 # game/church.rpy#L576
 translate chinese augustavisit1c_6c6e7483:
 
     # "It's just a wooden box."
-    "It's just a wooden box."
+    "就是个木制小房间而已。"
 
 # game/church.rpy#L577
 translate chinese augustavisit1c_7d655475:
 
     # "It’s unmistakably still a religious room by design."
-    "It’s unmistakably still a religious room by design."
+    "无疑是转为这个宗教设计的。"
 
 # game/church.rpy#L578
 translate chinese augustavisit1c_ad3fdc07:
 
     # "There's something that stands out to me though, one part of the wall has a random hole with a black curtain draped over it as to obscure the other side."
-    "There's something that stands out to me though, one part of the wall has a random hole with a black curtain draped over it as to obscure the other side."
+    "不过这并不只是简单的小房间而已，一面墙上开了一个洞，上面又盖了一层黑布，没办法看到洞的另一侧。"
 
 # game/church.rpy#L579
 translate chinese augustavisit1c_ca94c469:
 
     # mc "Just what kind of ritual is this?"
-    mc "Just what kind of ritual is this?"
+    mc "这到底是哪门子仪式？"
 
 # game/church.rpy#L581
 translate chinese augustavisit1c_3cd71dc3:
 
     # amora "Stay here, and allow me to show you…"
-    amora "Stay here, and allow me to show you…"
+    amora "阁下稍候片刻，待吾向您展示......"
 
 # game/church.rpy#L583
 translate chinese augustavisit1c_e13defe3:
 
     # "I watch as the mare disappears behind a fairly subtle door in the wall. I hadn't even noticed!"
-    "I watch as the mare disappears behind a fairly subtle door in the wall. I hadn't even noticed!"
+    "我目送着雌驹走进墙上一道很隐蔽的门里。这里还有道门的！"
 
 # game/church.rpy#L584
 translate chinese augustavisit1c_276448e7:
 
     # "Hmm... Seems like she went to the other side of the hole."
-    "Hmm... Seems like she went to the other side of the hole."
+    "嗯...她应该是走到墙上那个洞的另外一面去了。"
 
 # game/church.rpy#L585
 translate chinese augustavisit1c_f690792f:
 
     # "I can hear some dull echoing knocks against wood as Amora fumbles around the other side of the seemingly hollow wall."
-    "I can hear some dull echoing knocks against wood as Amora fumbles around the other side of the seemingly hollow wall."
+    "Amora在木墙的另外一面缓慢摸索的时候，我能听到她碰上木板的咚咚声，这房间还有回音。"
 
 # game/church.rpy#L586
 translate chinese augustavisit1c_0892946f:
 
     # "And then… I realize exactly what this room is for."
-    "And then… I realize exactly what this room is for."
+    "突然...我知道这个小房间是用来干嘛的了。"
 
 # game/church.rpy#L587
 translate chinese augustavisit1c_3f4d7da2:
 
     # "She shimmies through the hole, and hoists her feet onto some comfortable hangers."
-    "She shimmies through the hole, and hoists her feet onto some comfortable hangers."
+    "她在墙上的洞里来回窥探校对，把双脚放在一些支撑用的架子上。"
 
 # game/church.rpy#L589
 translate chinese augustavisit1c_863abb8a:
 
     # "Immediately her pussy is spread and available, somewhat shimmering from a lustful display of grool and juice."
-    "Immediately her pussy is spread and available, somewhat shimmering from a lustful display of grool and juice."
+    "她的双腿随即张开，一张湿漉漉的肉缝呈现在我的眼前，横流淫水泛起的粼粼微光增添了几分淫靡的气息。"
 
 # game/church.rpy#L590
 translate chinese augustavisit1c_dacfe012:
 
     # "Oh my god, holy shit, Jesus Christ, this is certainly enough to make me religious."
-    "Oh my god, holy shit, Jesus Christ, this is certainly enough to make me religious."
+    "尼玛，卧槽，妈耶，我现在就TM入教。"
 
 # game/church.rpy#L591
 translate chinese augustavisit1c_c28024ee:
 
     # mc "So, this is what a ‘priestess of love’ does?"
-    mc "So, this is what a ‘priestess of love’ does?"
+    mc "所以，这就是“爱之女祭司”要干的事情吗？"
 
 # game/church.rpy#L592
 translate chinese augustavisit1c_a9c477e2:
 
     # "She’s like a reverse nun, then."
-    "She’s like a reverse nun, then."
+    "她压根就不像个修女。"
 
 # game/church.rpy#L593
 translate chinese augustavisit1c_61e20394:
 
     # amora "We make love as a sign of worship and prayer to Augusta, the Goddess of Love, Lust and Fertility."
-    amora "We make love as a sign of worship and prayer to Augusta, the Goddess of Love, Lust and Fertility."
+    amora "我们用做爱来参拜和向Augusta祈祷，我们的爱之女神，代表着欲望和生育。"
 
 # game/church.rpy#L594
 translate chinese augustavisit1c_32ae8cee:
 
     # amora "We worship and share in feelings of pleasure and arousal."
-    amora "We worship and share in feelings of pleasure and arousal."
+    amora "我们参拜她，彼此分享快感和激发欲望。"
 
 # game/church.rpy#L595
 translate chinese augustavisit1c_170988f6:
@@ -2187,7 +2187,7 @@ translate chinese augustareview_ff4377b8:
 translate chinese augustareview_cc761816:
 
     # mc "No..."
-    mc "No..."
+    mc "不..."
 
 # game/church.rpy#L705
 translate chinese augustareview_84ffeb62:
@@ -2721,7 +2721,7 @@ translate chinese bapol_bc95c67e:
 translate chinese bapol_ece63c8d:
 
     # mc "…"
-    mc "…"
+    mc "..."
 
 # game/church.rpy#L882
 translate chinese bapol_4973c846:
@@ -4807,7 +4807,7 @@ translate chinese strings:
 
     # game/church.rpy_L485_0
     old "Experience the Church of Love."
-    new "参观和体验爱之教堂。"
+    new "参观和体会爱之教堂。"
 
     # game/church.rpy_L485_1
     old "Pass for now"

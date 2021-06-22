@@ -1,4 +1,4 @@
-# Translation updated at Mon Jun 21 2021 00:51:46 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Tue Jun 22 2021 00:46:17 GMT+0000 (Coordinated Universal Time)
 # game/castle.rpy#L6
 translate chinese castle_38f72bb5:
 
@@ -2613,73 +2613,73 @@ translate chinese selenemenu_0835da39:
 translate chinese selenemenu_4f2a9f9f:
 
     # "She had begun to escalate, her mouth now wrapping around the tip. While her tongue continued to twirl around the head, her lips tightly gripped the base of the glans, moving back and forth, sucking and squeezing with each movement."
-    "She had begun to escalate, her mouth now wrapping around the tip. While her tongue continued to twirl around the head, her lips tightly gripped the base of the glans, moving back and forth, sucking and squeezing with each movement."
+    "她张开嘴吞噬着我阴茎更深的部位，嘴唇紧紧贴在龟头上。她的舌头绕着它旋转，不停地吮吸并挤压。"
 
 # game/castle.rpy#L772
 translate chinese selenemenu_b98c32c7:
 
     # "As ridiculous as it sounds, I was already at my limit. Because of her experienced movements, I could feel cum building up at a terrifyingly quick rate."
-    "As ridiculous as it sounds, I was already at my limit. Because of her experienced movements, I could feel cum building up at a terrifyingly quick rate."
+    "虽然听起来很荒谬，但我已经快撑不住了。她过于熟练的动作让我感到精液正以惊人的速度积聚着。"
 
 # game/castle.rpy#L774
 translate chinese selenemenu_c179c2a3:
 
     # "But then milliseconds before my peak, she releases my cock and moves back, wiping the drool from her coy smile."
-    "But then milliseconds before my peak, she releases my cock and moves back, wiping the drool from her coy smile."
+    "但在我达到高潮前的几毫秒，她突然松开了我的阴茎，向后退去，擦去口水，腼腆微笑着。"
 
 # game/castle.rpy#L776
 translate chinese selenemenu_6824a799:
 
     # selene "Not quite yet little boy, it’d be no fun to waste this cum in my mouth."
-    selene "Not quite yet little boy, it’d be no fun to waste this cum in my mouth."
+    selene "还没到时候呢，小子，把精液浪费在我嘴里可没意思。"
 
 # game/castle.rpy#L777
 translate chinese selenemenu_40f0b09d:
 
     # "Her index finger and thumb continue to tease at my cock, keeping the blood flow going yet delicately preventing any potential build-up of pleasure."
-    "Her index finger and thumb continue to tease at my cock, keeping the blood flow going yet delicately preventing any potential build-up of pleasure."
+    "她用食指和拇指继续挑逗我的阴茎，保持坚挺的同时又微妙地阻止任何潜在的快感。"
 
 # game/castle.rpy#L781
 translate chinese selenemenu_7df6eb16:
 
     # "She finally lifted herself up and straddled my hips. The view of her pussy was beautiful as it dripped onto my twitching cock."
-    "She finally lifted herself up and straddled my hips. The view of her pussy was beautiful as it dripped onto my twitching cock."
+    "最后她抬起身子，跨坐在我臀部上。她的外阴似星空一样壮丽，淫液像流星一般落到我颤动的阴茎上。"
 
 # game/castle.rpy#L782
 translate chinese selenemenu_11359b70:
 
     # selene "Oohh, I love how your cock twitches and throbs in anticipation."
-    selene "Oohh, I love how your cock twitches and throbs in anticipation."
+    selene "喔，我喜欢你阴茎期待的样子。"
 
 # game/castle.rpy#L783
 translate chinese selenemenu_dbd53220:
 
     # "She lavishly lowered herself into a frottage position as she began to grind up and down against my cock."
-    "She lavishly lowered herself into a frottage position as she began to grind up and down against my cock."
+    "她开始上上下下扭动腰肢，在我的阴茎上蹭来蹭去。"
 
 # game/castle.rpy#L784
 translate chinese selenemenu_56f2aaeb:
 
     # "The pressure and pleasure of her grinding was immense, but frustratingly not enough to rile up the urge to orgasm. Just like her index finger and thumb, it was a continuous yet safe pleasure. I could tell that she was teasing me to drag out the pleasure."
-    "The pressure and pleasure of her grinding was immense, but frustratingly not enough to rile up the urge to orgasm. Just like her index finger and thumb, it was a continuous yet safe pleasure. I could tell that she was teasing me to drag out the pleasure."
+    "磨蹭带来的压力和快感是巨大的，但依旧令我沮丧，因为这还不足以激起我的高潮。这种快感很像之前她食指和拇指所做的，持续而又平缓，只是在逗我开心。"
 
 # game/castle.rpy#L785
 translate chinese selenemenu_d7fcef83:
 
     # "She was so wet, her grinding left a glistening sheen on my shaft, and each additional grind expels a lewd, satisfying wet sound, leaving me wanting more."
-    "She was so wet, her grinding left a glistening sheen on my shaft, and each additional grind expels a lewd, satisfying wet sound, leaving me wanting more."
+    "她太湿了，淫水在我阴茎上莹莹发光，她每一次起伏都会发出一种淫荡的、令人满足的娇喘，让我想得到更多。"
 
 # game/castle.rpy#L787
 translate chinese selenemenu_567a0c15:
 
     # "She grinds to the tip of my cock, and slowly releases the pressure, causing my tip to press against her pussy. Then she allows my cock to sink deep into her, until I’m fully inside."
-    "She grinds to the tip of my cock, and slowly releases the pressure, causing my tip to press against her pussy. Then she allows my cock to sink deep into her, until I’m fully inside."
+    "她摩挲着我的龟头，慢慢放下身，使龟头插在她的阴道口，逐渐深入，直到完全包裹。"
 
 # game/castle.rpy#L788
 translate chinese selenemenu_0cd7b343:
 
     # "It’s tight, I can feel her insides squeezing and sucking, as if she was deliberately trying to pleasure me by rhythmically clenching."
-    "It’s tight, I can feel her insides squeezing and sucking, as if she was deliberately trying to pleasure me by rhythmically clenching."
+    "阴道很紧，我能感觉到她内脏的挤压和吮吸，她好像在特意有节奏地取悦我。"
 
 # game/castle.rpy#L790
 translate chinese selenemenu_f06bc39f:

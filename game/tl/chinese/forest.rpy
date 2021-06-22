@@ -1,4 +1,4 @@
-# Translation updated at Mon Jun 21 2021 00:51:46 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Tue Jun 22 2021 00:46:17 GMT+0000 (Coordinated Universal Time)
 # game/forest.rpy#L18
 translate chinese forestvisit1_8c224d17:
 
@@ -411,19 +411,19 @@ translate chinese forestvisit1_940805e4:
 translate chinese forestvisit1_546bab52:
 
     # butters "Hehe, I was starting to think you didn’t have a name. I'm Butters."
-    butters "Hehe, I was starting to think you didn’t have a name. I'm Butters."
+    butters "呵呵，我开始觉得你没有名字了。我是Butters。"
 
 # game/forest.rpy#L118
 translate chinese forestvisit1_d24a4819:
 
     # mc "So, you have a cute bunny that hops around on all fours... I was wondering if there were anthropomorphic bunnies in this world too?"
-    mc "So, you have a cute bunny that hops around on all fours... I was wondering if there were anthropomorphic bunnies in this world too?"
+    mc "所以，你有一只可爱的兔子，可以用四肢跳来跳去... 我想知道这个世界上是否也有拟人化的兔子？"
 
 # game/forest.rpy#L119
 translate chinese forestvisit1_370adc40:
 
     # butters "Indeed there are, the path of evolution split somewhere along the line."
-    butters "Indeed there are, the path of evolution split somewhere along the line."
+    butters "的确存在，进化的道路在这条线上的某个地方分裂了。"
 
 # game/forest.rpy#L120
 translate chinese forestvisit1_a71e2704:

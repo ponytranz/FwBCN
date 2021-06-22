@@ -1,4 +1,4 @@
-# Translation updated at Mon Jun 21 2021 00:51:46 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Tue Jun 22 2021 00:46:17 GMT+0000 (Coordinated Universal Time)
 # game/farm.rpy#L20
 translate chinese farm_c5de936b:
 
@@ -8001,7 +8001,7 @@ translate chinese blossomcowgirl_ce7d0119:
 translate chinese blossomcowgirl_4474e80d:
 
     # "Oh, shit..."
-    "Oh, shit..."
+    "噢，妈的..."
 
 # game/farm.rpy#L2396
 translate chinese blossomcowgirl_06e0ee46:

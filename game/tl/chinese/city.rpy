@@ -1,9 +1,9 @@
-# Translation updated at Mon Jun 21 2021 00:51:46 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Tue Jun 22 2021 00:46:17 GMT+0000 (Coordinated Universal Time)
 # game/city.rpy#L6
 translate chinese city_12914194:
 
     # "Wow, the city is as typical as I would have expected. Crowds of people wandering from finely decorated shop to shop."
-    "Wow, the city is as typical as I would have expected. Crowds of people wandering from finely decorated shop to shop."
+    "哇喔，这个城市和我想象的一样典型。人群从一家精心装饰的商店逛到另一家商店。"
 
 # game/city.rpy#L7
 translate chinese city_f3de7700:
@@ -15,7 +15,7 @@ translate chinese city_f3de7700:
 translate chinese castlecm_a95e6007:
 
     # "While in the city, the castle ever looms above."
-    "在城市里的时候，城堡耸立在上面。"
+    "在城市里的时候，城堡隐约的耸立在上面。"
 
 # game/city.rpy#L20
 translate chinese castlecm_4b4b9894:
@@ -27,7 +27,7 @@ translate chinese castlecm_4b4b9894:
 translate chinese castlecm_89cfcbc8:
 
     # "Maybe I could ask Lily to get me one."
-    "也许我可以问问Lily 给我一张。"
+    "也许我可以问问 Lily 给我弄到一张。"
 
 # game/city.rpy#L24
 translate chinese castlecm_9c35e7c2:
@@ -39,7 +39,7 @@ translate chinese castlecm_9c35e7c2:
 translate chinese castlecm_26c96b57:
 
     # "I probably shouldn't bother Aurora twice in a day"
-    "I probably shouldn't bother Aurora twice in a day"
+    "我也许不该在一天内打扰Aurora两次"
 
 # game/city.rpy#L46
 translate chinese nightclubcm_a4887f92:
@@ -999,7 +999,7 @@ translate chinese musicstudio_01d48ab9:
 translate chinese musicstudio_594e45db:
 
     # claire "Still, I've been thinking... You already knew my sister before you met me."
-    claire "不过我一直在想....在你遇见我之前你已经认识我妹妹了"
+    claire "不过我一直在想....在你遇见我之前你已经认识我妹妹了。"
 
 # game/city.rpy#L352
 translate chinese musicstudio_72bd8116:
@@ -1053,7 +1053,7 @@ translate chinese musicstudio_b43dd787:
 translate chinese musicstudio_64332176:
 
     # claire "Mhm, Ivy was the original masseuse... Ah! Sorry, I'm going to stop rambling now."
-    claire "Mhm, Ivy was the original masseuse... Ah! Sorry, I'm going to stop rambling now."
+    claire "嗯，最开始Ivy才是按摩师......啊！抱歉，我多嘴了。"
 
 # game/city.rpy#L363
 translate chinese musicstudio_d434f92c:
@@ -1317,7 +1317,7 @@ translate chinese musicstudio_e8a12226:
 translate chinese musicstudio_a2d50bc0:
 
     # mc "Thanks, I think?"
-    mc "Thanks, I think?"
+    mc "谢了，我想？"
 
 # game/city.rpy#L457
 translate chinese musicstudio_402ed282:
@@ -1413,19 +1413,19 @@ translate chinese musicstudiomenub_94a8b40f:
 translate chinese musicstudiomenub_fd8d00cb:
 
     # melody "And she studied here too!"
-    melody "And she studied here too!"
+    melody "而且她也在这里学习！"
 
 # game/city.rpy#L502
 translate chinese musicstudiomenub_1851916b:
 
     # claire "Yep, right here, only a few years ago. I guess the only reason I'm back is because it's a reliable career as a musician."
-    claire "Yep, right here, only a few years ago. I guess the only reason I'm back is because it's a reliable career as a musician."
+    claire "是的，就在这里，就在几年前。我想我回来的唯一原因是这是作为一名音乐家的可靠职业。"
 
 # game/city.rpy#L503
 translate chinese musicstudiomenub_07cbec37:
 
     # claire "But don't misunderstand, I enjoy teaching. I might not have much of an impact on the industry myself, but I'm sure the hundreds of students I'll teach will go on to do amazing things."
-    claire "But don't misunderstand, I enjoy teaching. I might not have much of an impact on the industry myself, but I'm sure the hundreds of students I'll teach will go on to do amazing things."
+    claire "但别误会，我喜欢教书。我自己可能对这个行业没有太大的影响，但我确信，我将要教的数百名学生将继续做出令人惊艳的事情。"
 
 # game/city.rpy#L504
 translate chinese musicstudiomenub_cebfd763:
@@ -3795,7 +3795,7 @@ translate chinese agathasoniathreesome2_23ca60fc:
 translate chinese agathasoniathreesome2_076f9ba3:
 
     # "By the time it was morning..."
-    "等到早上的时候。。。"
+    "等到早上的时候..."
 
 # game/city.rpy#L1673
 translate chinese agathasoniathreesome2_869e1961:
@@ -4851,7 +4851,7 @@ translate chinese honeycrisprubythreesome_8e16c7c1:
 translate chinese honeycrisprubythreesome_16c90a97:
 
     # "In the morning..."
-    "In the morning..."
+    "到了早上之后..."
 
 # game/city.rpy#L1949
 translate chinese honeycrisprubythreesome_d7587e91:

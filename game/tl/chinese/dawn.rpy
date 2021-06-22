@@ -1,4 +1,4 @@
-# Translation updated at Mon Jun 21 2021 00:51:46 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Tue Jun 22 2021 00:46:17 GMT+0000 (Coordinated Universal Time)
 # game/dawn.rpy#L5
 translate chinese dawntalksex_7eb30d83:
 
@@ -6267,7 +6267,7 @@ translate chinese dawnv4threesome_2c780a5f:
 translate chinese dawnv4threesome_58a086c7:
 
     # dawn "Come here, [playername]..."
-    dawn "Come here, [playername]..."
+    dawn "过来，[playername]..."
 
 # game/dawn.rpy#L1866
 translate chinese dawnv4threesome_d8f82a1f:

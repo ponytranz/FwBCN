@@ -1,4 +1,4 @@
-# Translation updated at Mon Jun 21 2021 00:51:46 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Tue Jun 22 2021 00:46:16 GMT+0000 (Coordinated Universal Time)
 # game/1prologue.rpy#L25
 translate chinese prologueday1_c7b6965c:
 
@@ -9,19 +9,19 @@ translate chinese prologueday1_c7b6965c:
 translate chinese prologueday1_99d01963:
 
     # unknown "Summon... familiar!"
-    unknown "召唤... 随从！"
+    unknown "召唤... 傀儡！"
 
 # game/1prologue.rpy#L30
 translate chinese prologueday1_20bffb1a:
 
     # "A spark hits my body and the jolt splays out to each and every nerve ending, racking me with a sudden awareness."
-    "一束火花击中我的身体，疼痛瞬间传遍每个神经。这使我意识到"
+    "一束火花击中我的身体，疼痛瞬间传遍全身。这使我瞬间清醒。"
 
 # game/1prologue.rpy#L31
 translate chinese prologueday1_f3347d3f:
 
     # "Despite feeling lethargic and groggy, my feet manage to stay grounded, I even feel strangely calm."
-    "尽管头晕眼花，但我还是努力站稳了脚跟，突然我感受到一种奇妙的平静。"
+    "尽管头晕眼花，但我还是站稳了脚跟。突然，我感受到一种奇妙的安静。"
 
 # game/1prologue.rpy#L32
 translate chinese prologueday1_59103963:
@@ -33,7 +33,7 @@ translate chinese prologueday1_59103963:
 translate chinese prologueday1_aa2ed9ea:
 
     # "A silence, until I hear an unknown voice splutter through the darkness..."
-    "..........直到我听到一个陌生的声音在黑暗中咆哮……"
+    "..........直到我听到一个陌生的声音在黑暗中大喊……"
 
 # game/1prologue.rpy#L34
 translate chinese prologueday1_2110565b:
@@ -45,13 +45,13 @@ translate chinese prologueday1_2110565b:
 translate chinese prologueday1_a581935a:
 
     # unknown "Illuminate!"
-    unknown "荧光闪烁！"
+    unknown "照明术！"
 
 # game/1prologue.rpy#L37
 translate chinese prologueday1_4fae99d2:
 
     # "Upon hearing those words, a dim purple light begins to radiate a few feet ahead of where I stand."
-    "在听到这些话的时候，我所站的前方几英尺处开始发出暗淡的紫色光辉"
+    "听到这些话的同时，我所站的前方几英尺处开始发出暗淡的紫色光辉"
 
 # game/1prologue.rpy#L38
 translate chinese prologueday1_e3aab2e6:
@@ -69,19 +69,19 @@ translate chinese prologueday1_3e46b655:
 translate chinese prologueday1_87fbafca:
 
     # unknown "Unbelievable! This spell actually worked! I finally summoned a male familiar."
-    unknown "难以置信！这个咒语真的有用！我终于召唤出了一只雄性随从。"
+    unknown "难以置信！这个咒语真的有用！我终于召唤出了一个雄性傀儡。"
 
 # game/1prologue.rpy#L43
 translate chinese prologueday1_b57994d0:
 
     # unknown "Aha, of course it worked! Ahaha, awesome!"
-    unknown "啊哈，这当然有用！太棒了！"
+    unknown "啊哈，这当然会成功！太棒了！"
 
 # game/1prologue.rpy#L44
 translate chinese prologueday1_744e5944:
 
     # "This mysterious figure had a female voice, and for whatever reason she was ecstatic."
-    "这个可疑生物有女性化的声音，不知为何她好像很激动。"
+    "这个未知生物有女性的声音，不知为何她好像很激动。"
 
 # game/1prologue.rpy#L45
 translate chinese prologueday1_66f71ab6:
@@ -123,13 +123,13 @@ translate chinese prologueday1_88f38ceb:
 translate chinese prologueday1_380b11f9:
 
     # "I lean in slightly, only for her to recoil back with wide eyes; she's so shocked it's like she just discovered a spider crawling on me."
-    "我微微向她倾斜过去，结果她瞪大了眼睛向后躲。她惊讶的就像发现一只蜘蛛在我身上。"
+    "我微微向她倾斜过去，结果她瞪大了眼睛向后躲。她惊讶得就像发现一只蜘蛛在我身上。"
 
 # game/1prologue.rpy#L58
 translate chinese prologueday1_e206bec2:
 
     # unknown "Y-You just talked! You're not supposed to do that! Bad slave!"
-    unknown "你，你刚刚是不是开口说话了！你不应该这么做的！坏奴隶！"
+    unknown "你，你刚刚是不是开口说话了！你没有被允许说话！坏奴隶！"
 
 # game/1prologue.rpy#L59
 translate chinese prologueday1_71dfaefb:
@@ -153,7 +153,7 @@ translate chinese prologueday1_4c26dec4:
 translate chinese prologueday1_c70ad4fb:
 
     # unnamedmc "Trust me, I'm just as confused as you are."
-    unnamedmc "相信我，我就跟你一样感到困惑。"
+    unnamedmc "相信我，我就跟你一样困惑。"
 
 # game/1prologue.rpy#L64
 translate chinese prologueday1_b90e3ed7:
@@ -165,7 +165,7 @@ translate chinese prologueday1_b90e3ed7:
 translate chinese prologueday1_a13510eb:
 
     # unknown "Yeah, well, a unicorn actually..."
-    unknown "好，额，其实是“独角兽”。"
+    unknown "好，额，一个“独角兽”......"
 
 # game/1prologue.rpy#L70
 translate chinese prologueday1_32854b67:
@@ -195,7 +195,7 @@ translate chinese prologueday1_5d34f131:
 translate chinese prologueday1_994141a9:
 
     # moxie "You're in my home, my wagon, in the city of Arcadia."
-    moxie "你在我家里，我的篷车，Arcadia上的一座城中。"
+    moxie "你在我家里，我的篷车，在Arcadia城中。"
 
 # game/1prologue.rpy#L76
 translate chinese prologueday1_aa008701:
@@ -213,7 +213,7 @@ translate chinese prologueday1_b8c6c9bb:
 translate chinese prologueday1_04bbfd0e:
 
     # "What I'm feeling is visceral and I'm experiencing every little detail. This is definitely not a dream, this is real."
-    "我所感受到的点点滴滴都是发自肺腑的，加上我还体验了每一丝细节。这肯定不是梦，这是真实存在的。"
+    "我现在所感受到的点点滴滴都是发自灵魂的，而且我还能体会到每一丝细节。这肯定不是梦，这是真实存在的。"
 
 # game/1prologue.rpy#L79
 translate chinese prologueday1_9ef37d53:
@@ -225,7 +225,7 @@ translate chinese prologueday1_9ef37d53:
 translate chinese prologueday1_e84e8c50:
 
     # unnamedmc "My name is..."
-    unnamedmc "我的名字是......"
+    unnamedmc "我的名字是..."
 
 # game/1prologue.rpy#L87
 translate chinese prologueday1_808ba2c5:
@@ -261,7 +261,7 @@ translate chinese prologueday1_f459b7f8:
 translate chinese prologueday1_03f1f4d2:
 
     # "Moxie turns around and places the book back on the table. Her horn briefly glows a magnificent purple, and a lamp in the corner of the room spontaneously switches on."
-    "Moxie转身把书放回桌上，她的角闪出紫色光芒，房间角落的灯自己亮了起来。"
+    "Moxie转身把书放回桌上，她的角闪出紫色光芒，同时房间角落的灯自己亮了起来。"
 
 # game/1prologue.rpy#L103
 translate chinese prologueday1_6e5b5f0b:
@@ -3201,7 +3201,7 @@ translate chinese day2label2choice2_6933c1f8:
 translate chinese day2label2choice2_6ebd73de:
 
     # moxie "It seems we haven't a need for any political pluralism. These sisters do such a damn good job no one has bothered to rally an opposing party."
-    moxie "我们似乎不需要任何政治多元化。这对姐妹干得真不错，没人费心去召集反对党。"
+    moxie "我们似乎不需要任何政治多元化。这对姐妹干得真不错，没人费心去召集反对派。"
 
 # game/1prologue.rpy#L992
 translate chinese day2label2choice2_030d969d:

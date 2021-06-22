@@ -1,4 +1,4 @@
-# Translation updated at Mon Jun 21 2021 00:51:46 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Tue Jun 22 2021 00:46:17 GMT+0000 (Coordinated Universal Time)
 # game/bakery.rpy#L14
 translate chinese bakeryvisit1_2f4adbe4:
 
@@ -201,7 +201,7 @@ translate chinese bakeryvisit1_07887284:
 translate chinese bakeryvisit1_6a29090a:
 
     # cream "And that’s saying a lot! What do you say, do you like me?"
-    cream "And that’s saying a lot! What do you say, do you like me?"
+    cream "那么说了这么多，你怎么说，你喜欢我吗？"
 
 # game/bakery.rpy#L68
 translate chinese bakeryvisit1_ae8549d1:
@@ -549,7 +549,7 @@ translate chinese bakeryvisit1_58df1d03:
 translate chinese bakeryvisit1_a33f8af5:
 
     # "She’s not pulling any punches, she’s horny and knows what she wants."
-    "She’s not pulling any punches, she’s horny and knows what she wants."
+    "她一点都没在意，她很饥渴，并且知道自己想要什么。"
 
 # game/bakery.rpy#L160
 translate chinese bakeryvisit1_b59c198c:
