@@ -1,4 +1,4 @@
-# Translation updated at Tue Jun 22 2021 00:46:17 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Wed Jun 23 2021 00:43:47 GMT+0000 (Coordinated Universal Time)
 # game/2evening%20moxie.rpy#L11
 translate chinese eveningmoxie_80cb7a87:
 
@@ -15,7 +15,7 @@ translate chinese eveningmoxie1_4c6a561b:
 translate chinese eveningmoxie1_783c0a05:
 
     # moxie "Ohh boy, it's my favourite visitor! Staying a while? I'll break out the booze."
-    moxie "Ohh boy, it's my favourite visitor! Staying a while? I'll break out the booze."
+    moxie "哦，亲爱的，那是我最爱的访客！要在这里待一会儿？我去拿酒。"
 
 # game/2evening%20moxie.rpy#L38
 translate chinese eveningmoxie2menu_cd7fccc0:
@@ -933,7 +933,7 @@ translate chinese moxiedoggystyle_2affdf22:
 translate chinese moxiedoggystyle_f4ce18f8:
 
     # moxie "Ohh yes… That one really hit the spot and put my heat back in its place. I’ll be full of energy come tomorrow morning, and by the evening, I’ll be ready for another."
-    moxie "Ohh yes… That one really hit the spot and put my heat back in its place. I’ll be full of energy come tomorrow morning, and by the evening, I’ll be ready for another."
+    moxie "哦~真棒，你直击了我的爽点，我明天早上会精神饱满的，不过今晚，我还准备再来一次"
 
 # game/2evening%20moxie.rpy#L487
 translate chinese moxiedoggystyle_5ebfe654:
@@ -993,7 +993,7 @@ translate chinese moxiecowgirl_3fa8b981:
 translate chinese moxiecowgirl_e90a0858:
 
     # "The two of us climb into bed, then she playfully rolls me on my back before mounting me. She wastes no time sinking her puffy mare pussy over my endowment."
-    "The two of us climb into bed, then she playfully rolls me on my back before mounting me. She wastes no time sinking her puffy mare pussy over my endowment."
+    "我们两个钻进了床，然后她开始上我之前开玩笑地把我背上了她的背。并不失时机的把她那只属于母马的蓬松的阴蒂压在我的身上"
 
 # game/2evening%20moxie.rpy#L524
 translate chinese moxiecowgirl_936e41db:
@@ -1113,7 +1113,7 @@ translate chinese moxiecowgirl_068f6472:
 translate chinese moxiecowgirl_0be79d2f:
 
     # "All whilst a euphoric Moxie continues her climactic riding, seeming to have yet another orgasm immediately after the first."
-    "All whilst a euphoric Moxie continues her climactic riding, seeming to have yet another orgasm immediately after the first."
+    "全程中，兴奋的Moxie继续她的高潮骑乘，似乎在一次高潮之后紧接着又是一次"
 
 # game/2evening%20moxie.rpy#L573
 translate chinese moxiecowgirl_37d071fa:
@@ -1131,13 +1131,13 @@ translate chinese moxiecowgirl_3f04d740:
 translate chinese moxiecowgirl_f8663d93:
 
     # "Moxie slumps on top of me and embraces my chest, all whilst my softening cock is still inside her."
-    "Moxie slumps on top of me and embraces my chest, all whilst my softening cock is still inside her."
+    "Moxie趴伏在我的拥抱着我的胸膛，我那柔软的肉棒仍然停留在她的体内"
 
 # game/2evening%20moxie.rpy#L589
 translate chinese moxiecowgirl_5daf74c2:
 
     # "I reciprocate her post-coital cuddle and kiss her on the forehead causing her to giggle."
-    "I reciprocate her post-coital cuddle and kiss her on the forehead causing her to giggle."
+    "我回应与她交欢之后的拥抱，轻轻吻了吻她的额头，使她咯咯笑了起来"
 
 # game/2evening%20moxie.rpy#L590
 translate chinese moxiecowgirl_aa9b15a9:
@@ -1461,7 +1461,7 @@ translate chinese moxieanal_a20cefa7_1:
 translate chinese moxiemissionary_ac457808:
 
     # "The two of us go to the bedroom for funky times."
-    "The two of us go to the bedroom for funky times."
+    "为了交欢，我们两个进入了卧室"
 
 # game/2evening%20moxie.rpy#L743
 translate chinese moxiemissionary_f4c9c1c8:
@@ -1857,13 +1857,13 @@ translate chinese moxietalk_940b56cd:
 translate chinese moxietalk_5ff83277:
 
     # moxie "There's a saying though. 'It's always the quiet ones'."
-    moxie "There's a saying though. 'It's always the quiet ones'."
+    moxie "有句俗语叫：“沉默是金”"
 
 # game/2evening%20moxie.rpy#L901
 translate chinese moxietalk_334b4355:
 
     # moxie "Not to mention she's a lonely bugger, so she's sexually repressed for sure."
-    moxie "Not to mention she's a lonely bugger, so she's sexually repressed for sure."
+    moxie "更不用说她是个孤独的家伙，所以她肯定压抑着自己的性冲动"
 
 # game/2evening%20moxie.rpy#L902
 translate chinese moxietalk_0a3e8ba8:
@@ -1905,7 +1905,7 @@ translate chinese moxietalk_7fba80a7:
 translate chinese moxietalk_4522bf32:
 
     # moxie "I won't hold it against you in our little challenge though, hehe."
-    moxie "I won't hold it against you in our little challenge though, hehe."
+    moxie "不过我不会在我们的小挑战中针对你的，呵呵"
 
 # game/2evening%20moxie.rpy#L913
 translate chinese moxietalk_c139ccb3:
@@ -1935,13 +1935,13 @@ translate chinese moxietalkmenu_038af6d7:
 translate chinese moxietalkmenu_39a0b590:
 
     # mc "I guess you're going to continue performing while you study?"
-    mc "I guess you're going to continue performing while you study?"
+    mc "我想你也许将会在学习时会继续表演？"
 
 # game/2evening%20moxie.rpy#L929
 translate chinese moxietalkmenu_704e58d0:
 
     # moxie "Actually I think I'll stop soon. Studying will be a full-time commitment after all, especially in the later years."
-    moxie "Actually I think I'll stop soon. Studying will be a full-time commitment after all, especially in the later years."
+    moxie "事实上我想我很快就会停下来。学习毕竟是终身的，尤其是晚年"
 
 # game/2evening%20moxie.rpy#L930
 translate chinese moxietalkmenu_12281ae7:
@@ -1959,7 +1959,7 @@ translate chinese moxietalkmenu_df152ec3:
 translate chinese moxietalkmenu_43d2d716:
 
     # moxie "I think you're doing great, keep working and making connections. Eventually good opportunities will arise for you."
-    moxie "I think you're doing great, keep working and making connections. Eventually good opportunities will arise for you."
+    moxie "我想你做对了，继续工作，维系感情，最后会有好的机会诞生的"
 
 # game/2evening%20moxie.rpy#L938
 translate chinese moxietalkmenu_53f35bf3:
@@ -2019,7 +2019,7 @@ translate chinese moxietalkmenu_82349e7b:
 translate chinese moxietalkmenu_f216ab94:
 
     # moxie "Only problem is that a tiny, tiny amount of the unicorn population can tap into that."
-    moxie "Only problem is that a tiny, tiny amount of the unicorn population can tap into that."
+    moxie "唯一的问题是这几乎不可能，只有极少数的独角兽能做到这一点"
 
 # game/2evening%20moxie.rpy#L956
 translate chinese moxietalkmenu_5cf1faeb:
@@ -2031,7 +2031,7 @@ translate chinese moxietalkmenu_5cf1faeb:
 translate chinese moxietalkmenu_f8daf37a:
 
     # moxie "Hehe, yup, that's how I do the invisibility spell really well."
-    moxie "Hehe, yup, that's how I do the invisibility spell really well."
+    moxie "哈哈，当然，这就是为什么我把隐身魔法学得这么好"
 
 # game/2evening%20moxie.rpy#L966
 translate chinese moxietalkmenu_6f7d1349:
@@ -2049,7 +2049,7 @@ translate chinese moxietalkmenu_98b6d6d4:
 translate chinese moxietalkmenu_b0006e45:
 
     # mc "What other types of magic are there?"
-    mc "What other types of magic are there?"
+    mc "这里有哪些类型的魔法？"
 
 # game/2evening%20moxie.rpy#L973
 translate chinese moxietalkmenu_8e477014:
@@ -2067,7 +2067,7 @@ translate chinese moxietalkmenu_7c474cf7:
 translate chinese moxietalkmenu_2cbae864:
 
     # moxie "There's also black magic which you can't study, that focuses on using magic to cause pain and destruction, bad!"
-    moxie "There's also black magic which you can't study, that focuses on using magic to cause pain and destruction, bad!"
+    moxie "这里也有你无法学习的黑魔法，这是一种专注于造成痛苦与毁灭的魔法，十分恶心。"
 
 # game/2evening%20moxie.rpy#L984
 translate chinese moxietalkmenu_bd2b93d5:
@@ -2079,7 +2079,7 @@ translate chinese moxietalkmenu_bd2b93d5:
 translate chinese moxietalkmenu_30ad2789:
 
     # moxie "Fairly sure most buildings in Arcadia are made using that, apart from the suburbs that is."
-    moxie "Fairly sure most buildings in Arcadia are made using that, apart from the suburbs that is."
+    moxie "可以肯定的是，Arcadia的大多数建筑都是用这种方式建造的，除了郊区。"
 
 # game/2evening%20moxie.rpy#L986
 translate chinese moxietalkmenu_1e6ef6ab:
@@ -2097,19 +2097,19 @@ translate chinese moxietalkmenu_684199c3:
 translate chinese moxietalkmenu_b257a607:
 
     # moxie "Of course, I think it's awesome to have someone new to talk to about this stuff."
-    moxie "Of course, I think it's awesome to have someone new to talk to about this stuff."
+    moxie "当然，我觉得找一个陌生人讨论这些事是十分“酷”的"
 
 # game/2evening%20moxie.rpy#L989
 translate chinese moxietalkmenu_5ef3ecc1:
 
     # moxie "Lily is doing a science of magic extended course, that's a special course which is far beyond me."
-    moxie "Lily is doing a science of magic extended course, that's a special course which is far beyond me."
+    moxie "Lily正在做一个关于魔法延伸的学术课题，那是一个特殊的课题，我无法理解"
 
 # game/2evening%20moxie.rpy#L990
 translate chinese moxietalkmenu_fb555cda:
 
     # moxie "And Penelope is studying mysticism, with some extra modules in alteration."
-    moxie "And Penelope is studying mysticism, with some extra modules in alteration."
+    moxie "然后Penelope正在通过改动一些额外的模块学习神秘主义。"
 
 # game/2evening%20moxie.rpy#L991
 translate chinese moxietalkmenu_4399af8d:
@@ -2247,7 +2247,7 @@ translate chinese moxiemagictalk_5a86bd51:
 translate chinese moxiemagictalk_c90f636a:
 
     # moxie "Afraid not kiddo."
-    moxie "Afraid not kiddo."
+    moxie "别担心，小伙子"
 
 # game/2evening%20moxie.rpy#L1040
 translate chinese moxiemagictalk_b66de143:
@@ -2283,7 +2283,7 @@ translate chinese moxiemagictalk_63fd0ef4:
 translate chinese moxiemagictalk_0c486739:
 
     # mc "Sounds... complicated..."
-    mc "Sounds... complicated..."
+    mc "听起来...有点复杂"
 
 # game/2evening%20moxie.rpy#L1054
 translate chinese moxiemagictalk_404a7a33:
@@ -2361,7 +2361,7 @@ translate chinese moxiemagictalk_8df5565a:
 translate chinese moxiemagictalk_664f962a:
 
     # moxie "I lived in Sylvania and grew up with a single mother. There was no father, I was born through magic, so I guess that means I'm a clone of my mom."
-    moxie "I lived in Sylvania and grew up with a single mother. There was no father, I was born through magic, so I guess that means I'm a clone of my mom."
+    moxie "我和我的单亲母亲住在Sylvania并从那里长大，我没有父亲，我是通过魔法出生的\n所以，我猜这意味着我是一个和我母亲基因相同的克隆马"
 
 # game/2evening%20moxie.rpy#L1095
 translate chinese moxiemagictalk_a065a0bf:
@@ -2373,7 +2373,7 @@ translate chinese moxiemagictalk_a065a0bf:
 translate chinese moxiemagictalk_2f3c6671:
 
     # moxie "Oh sheesh, I was a spoilt child, it brings a tear to my eye."
-    moxie "Oh sheesh, I was a spoilt child, it brings a tear to my eye."
+    moxie "哦，我是个被宠坏的孩子，呜......我止不住泪。"
 
 # game/2evening%20moxie.rpy#L1105
 translate chinese moxiemagictalk_fcaf367a:
@@ -2427,7 +2427,7 @@ translate chinese moxiemagictalk_9891dd89:
 translate chinese moxiemagictalk_61d3bb88:
 
     # mc "Haha, come on, answer my question from before."
-    mc "Haha, come on, answer my question from before."
+    mc "哈哈，来吧，在这之前先回答我的问题"
 
 # game/2evening%20moxie.rpy#L1127
 translate chinese moxiemagictalk_49ee13f3:
@@ -2451,7 +2451,7 @@ translate chinese moxiemagictalk_31d4a31b:
 translate chinese moxiemagictalk_4a14fbc8:
 
     # moxie "Before I knew it, I had a gang of friends including all those that you're working for."
-    moxie "Before I knew it, I had a gang of friends including all those that you're working for."
+    moxie "在我知道这之前，我有一帮朋友包括你服务的所有马"
 
 # game/2evening%20moxie.rpy#L1131
 translate chinese moxiemagictalk_06d7903d:

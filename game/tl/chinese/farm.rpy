@@ -1,4 +1,4 @@
-# Translation updated at Tue Jun 22 2021 00:46:17 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Wed Jun 23 2021 00:43:47 GMT+0000 (Coordinated Universal Time)
 # game/farm.rpy#L20
 translate chinese farm_c5de936b:
 
@@ -27,13 +27,13 @@ translate chinese farm_82598137:
 translate chinese farm_f24c53ba:
 
     # honeycrisp "Well stud, I could always use an extra set of hands around the farm."
-    honeycrisp "Well stud, I could always use an extra set of hands around the farm."
+    honeycrisp "嗳呀老兄，我总是需要一双额外的手在农场里帮忙。"
 
 # game/farm.rpy#L27
 translate chinese farm_ebb0fef4:
 
     # honeycrisp "With three able bodied workers, this place is gonna glow!"
-    honeycrisp "With three able bodied workers, this place is gonna glow!"
+    honeycrisp "有仨健壮的劳力在，这地方就要红火起来啦！"
 
 # game/farm.rpy#L29
 translate chinese farm_66e5ae99:
@@ -51,7 +51,7 @@ translate chinese prefarmmenu_050eefef:
 translate chinese prefarmmenu_ea9b5061:
 
     # honeycrisp "I'd tell y'all to use protection, but I guess I don't need to worry about that."
-    honeycrisp "I'd tell y'all to use protection, but I guess I don't need to worry about that."
+    honeycrisp "我已经跟你讲过要做好防护了啊，不过我想我已经用不着为此担忧了。"
 
 # game/farm.rpy#L46
 translate chinese prefarmmenu_8e205bd4:
@@ -63,13 +63,13 @@ translate chinese prefarmmenu_8e205bd4:
 translate chinese prefarmmenu_47c9e943:
 
     # honeycrisp "Howdy stud, here for work?"
-    honeycrisp "Howdy stud, here for work?"
+    honeycrisp "你好哇伙计，来这干活的？"
 
 # game/farm.rpy#L55
 translate chinese farmmenu_bd640da2:
 
     # "I work all day and earn 25 monies."
-    "I work all day and earn 25 monies."
+    "我干一整天的活，挣25块钱。"
 
 # game/farm.rpy#L64
 translate chinese farmmenu_df03ca50:
@@ -87,7 +87,7 @@ translate chinese honeycrispmenu_1f6535ae:
 translate chinese honeycrispmenu_0772d563:
 
     # honeycrisp "Wha wha?!?!"
-    honeycrisp "Wha wha?!?!"
+    honeycrisp "什..啥？！"
 
 # game/farm.rpy#L79
 translate chinese honeycrispmenu_0d09a1ea:
@@ -99,7 +99,7 @@ translate chinese honeycrispmenu_0d09a1ea:
 translate chinese honeycrispmenu_d2a5fe11:
 
     # blossom "Wha wha?!?!"
-    blossom "Wha wha?!?!"
+    blossom "什..啥？！"
 
 # game/farm.rpy#L84
 translate chinese honeycrispmenu_5303db8e:
@@ -13777,11 +13777,11 @@ translate chinese strings:
 
     # game/farm.rpy_L106_0
     old "Doing something with your sister? You don't have to do anything with her at all."
-    new "Doing something with your sister? You don't have to do anything with her at all."
+    new "跟你妹妹做些事情？你根本不必和她做任何事。"
 
     # game/farm.rpy_L106_1
     old "You're sharing me anyway, what's wrong with cutting the middleman?"
-    new "You're sharing me anyway, what's wrong with cutting the middleman?"
+    new "无论如何，你正在分享我。我把第三者处理掉有错吗？"
 
     # game/farm.rpy_L130_0
     old "Talk about recent events"
@@ -13821,7 +13821,7 @@ translate chinese strings:
 
     # game/farm.rpy_L496_0
     old "Like a husband?"
-    new "Like a husband?"
+    new "像一个丈夫一样？"
 
     # game/farm.rpy_L496_1
     old "I’m strong and capable in other areas too."
@@ -13869,7 +13869,7 @@ translate chinese strings:
 
     # game/farm.rpy_L907_0
     old "You’ve set me up to have sex with a cow girl?"
-    new "You’ve set me up to have sex with a cow girl?"
+    new "你让我和一头小母牛做爱？"
 
     # game/farm.rpy_L907_1
     old "I’d much rather you join in."

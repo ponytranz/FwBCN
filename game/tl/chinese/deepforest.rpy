@@ -1,4 +1,4 @@
-# Translation updated at Tue Jun 22 2021 00:46:17 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Wed Jun 23 2021 00:43:47 GMT+0000 (Coordinated Universal Time)
 # game/deepforest.rpy#L13
 translate chinese deepforest_51a3a838:
 
@@ -2451,7 +2451,7 @@ translate chinese zoelum_83abe488:
 translate chinese zoelum_dcb5bb12:
 
     # zo "I told her I’d never turn anyone into a werewolf just to sate my own desires, and that remains true."
-    zo "I told her I’d never turn anyone into a werewolf just to sate my own desires, and that remains true."
+    zo "我和她说过，我从来就没有因为想满足自己的欲望而让任何一个人变成过狼人，这是真的。"
 
 # game/deepforest.rpy#L796
 translate chinese zoelum_9c416e25:
@@ -2469,7 +2469,7 @@ translate chinese zoelum_c3dc4cb0:
 translate chinese zoelum_2cc9561c:
 
     # mc "Is that so? Maybe I’ve misinterpreted what kind of person you are because of your falling out with Butters."
-    mc "Is that so? Maybe I’ve misinterpreted what kind of person you are because of your falling out with Butters."
+    mc "是吗？我可能是因为看到你和Butters闹掰了，所以才对你产生了误会。"
 
 # game/deepforest.rpy#L800
 translate chinese zoelum_13e68868:

@@ -497,14 +497,14 @@
   {
     "id": 79443640,
     "createdAt": "2021-05-30T19:47:48.000Z",
-    "updatedAt": "2021-06-02T15:57:44.000Z",
+    "updatedAt": "2021-06-22T16:08:10.000Z",
     "key": "game/dawn.rpy_L1587_1",
     "original": "Everyone? What's your body count?",
-    "translation": "",
+    "translation": "每个人？你的身体可以吗？",
     "file": 272380,
-    "stage": 0,
+    "stage": 1,
     "project": 2414,
-    "uid": null,
+    "uid": 22178,
     "extra": null,
     "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/dawn.rpy#L1587",
     "words": 5

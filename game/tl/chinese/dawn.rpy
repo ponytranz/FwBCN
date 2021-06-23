@@ -1,4 +1,4 @@
-# Translation updated at Tue Jun 22 2021 00:46:17 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Wed Jun 23 2021 00:43:47 GMT+0000 (Coordinated Universal Time)
 # game/dawn.rpy#L5
 translate chinese dawntalksex_7eb30d83:
 
@@ -9039,7 +9039,7 @@ translate chinese strings:
 
     # game/dawn.rpy_L1587_1
     old "Everyone? What's your body count?"
-    new "Everyone? What's your body count?"
+    new "每个人？你的身体可以吗？"
 
     # game/dawn.rpy_L1587_2
     old "I got that reference."

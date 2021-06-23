@@ -1,4 +1,4 @@
-# Translation updated at Tue Jun 22 2021 00:46:17 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Wed Jun 23 2021 00:43:47 GMT+0000 (Coordinated Universal Time)
 # game/bakery.rpy#L14
 translate chinese bakeryvisit1_2f4adbe4:
 
@@ -7981,7 +7981,7 @@ translate chinese strings:
 
     # game/bakery.rpy_L1714_2
     old "The Player?"
-    new "The Player?"
+    new "玩家？"
 
     # game/bakery.rpy_L1731_0
     old "This is insane, why did you bring me here?"
@@ -7989,7 +7989,7 @@ translate chinese strings:
 
     # game/bakery.rpy_L1731_1
     old "Are all these Creams horny too?"
-    new "Are all these Creams horny too?"
+    new "那些Cream也是热爱交合的吗？"
 
     # game/bakery.rpy_L1761_0
     old "You did an excellent job"

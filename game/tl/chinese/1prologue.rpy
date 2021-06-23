@@ -1,4 +1,4 @@
-# Translation updated at Tue Jun 22 2021 00:46:16 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Wed Jun 23 2021 00:43:46 GMT+0000 (Coordinated Universal Time)
 # game/1prologue.rpy#L25
 translate chinese prologueday1_c7b6965c:
 
@@ -273,13 +273,13 @@ translate chinese prologueday1_6e5b5f0b:
 translate chinese prologueday1_982af9d8:
 
     # "Under the illumination of the lamp, there's an unashamed nude creature, breasts and more, I can even see a tail, and a unicorn horn."
-    "在灯光下，有着一个毫无顾忌的裸体生物，我甚至能看见她的尾巴和独角。"
+    "在灯光下，有着一个毫无顾忌裸体的生物，我甚至能看见她的尾巴和独角。"
 
 # game/1prologue.rpy#L109
 translate chinese prologueday1_ee89402a:
 
     # "Where do I even begin to analyse this impossible situation?"
-    "我该从哪开始分析这种不可思议的事情？"
+    "我该从哪开始分析这不可思议的事情？"
 
 # game/1prologue.rpy#L110
 translate chinese prologueday1_a6577fa2:
@@ -291,13 +291,13 @@ translate chinese prologueday1_a6577fa2:
 translate chinese prologueday1_5a7016c6:
 
     # moxie "Well, you were the product of a spell I cast. I summoned a temporary familiar to do my bidding."
-    moxie "你是我咒语的产物，我召唤了一个临时听命于我的随从。"
+    moxie "你是我咒语的产物，我召唤了一个临时听命于我的傀儡。"
 
 # game/1prologue.rpy#L117
 translate chinese prologueday1_66c1ceb4:
 
     # moxie "This spell book says 'doesn't talk, no sentience, just follows orders'!"
-    moxie "这本魔法书上说‘不会说话，没有知觉，只是服从命令’！"
+    moxie "这本魔法书上说傀儡‘不会说话，没有知觉，只是服从命令’！"
 
 # game/1prologue.rpy#L118
 translate chinese prologueday1_fbd55562:
@@ -309,13 +309,13 @@ translate chinese prologueday1_fbd55562:
 translate chinese prologueday1_7aa6e695:
 
     # moxie "Sorry! You're not my slave, that was just my hubris talking, we can be equals if you want!"
-    moxie "对不起！你不是我的奴隶，这只是我的狂妄自大，只要你愿意我们可以平等相处！"
+    moxie "对不起！你不是我的奴隶，这只是我狂妄自大，只要你愿意我们可以平等相处！"
 
 # game/1prologue.rpy#L122
 translate chinese prologueday1_b6e1096a:
 
     # moxie "I-I was just trying to cast the spell 'summon familiar' which summons a temporary familiar to do my bidding."
-    moxie "我只是想施一个‘召唤随从’的咒语，召唤一个任我使唤的临时跟班。"
+    moxie "我只是想施一个‘召唤傀儡’的咒语，召唤一个任我使唤的临时跟班。"
 
 # game/1prologue.rpy#L123
 translate chinese prologueday1_66c1ceb4_1:
@@ -345,7 +345,7 @@ translate chinese prologueday1_d6a909b3:
 translate chinese prologueday1_dae54887:
 
     # moxie "Yup, the spell was 'Summon Familiar', it's from a book Penelope let me borrow from the library."
-    moxie "是的，咒语就是‘召唤随从’，这是Penelope从图书馆借来的给我的"
+    moxie "是的，咒语就是‘召唤傀儡’，这是Penelope从图书馆借来的给我的"
 
 # game/1prologue.rpy#L133
 translate chinese prologueday1_f71d4202:
@@ -357,19 +357,19 @@ translate chinese prologueday1_f71d4202:
 translate chinese prologueday1_ccd80ac2:
 
     # mc "I'm not your familiar."
-    mc "我不是你的随从。"
+    mc "我不是你的奴仆。"
 
 # game/1prologue.rpy#L136
 translate chinese prologueday1_5a40b387:
 
     # mc "I have memories, and a life, I can't be."
-    mc "我有记忆，有生活。我不可能。"
+    mc "我有记忆，有生活。我不能..."
 
 # game/1prologue.rpy#L139
 translate chinese prologueday1_88b35aeb:
 
     # moxie "You really think so? I cast the right spell and just made a 'super familiar'? Maybe Penelope was onto something."
-    moxie "你真这么觉得？我施了正确的咒语，然后做出了一个‘超级随从’？也许Penelope发现了什么。"
+    moxie "你真这么觉得？我施了正确的咒语，然后做出了一个‘超级随从’？也许Penelope在书里加了什么。"
 
 # game/1prologue.rpy#L140
 translate chinese prologueday1_736a18cb:
@@ -393,13 +393,13 @@ translate chinese prologueday1_ec20fa3b:
 translate chinese prologueday1_3969a1a3:
 
     # mc "Last thing I remember, I was snoozing in bed, so your magical spell must have moved me from there to here."
-    mc "我所记得的最后一件事就是在床上打盹儿，所以，你的魔法咒语一定是把我从那里转移到了这儿。"
+    mc "我所记得的最后一件事就是在床上打盹儿，所以，你的魔法咒语一定是把我从那里传送到了这儿。"
 
 # game/1prologue.rpy#L146
 translate chinese prologueday1_66876262:
 
     # moxie "Woah... You have memories, and stuff?"
-    moxie "哇哦......你有记忆，还有财产？"
+    moxie "哇哦......你有记忆，还有别的东西？"
 
 # game/1prologue.rpy#L147
 translate chinese prologueday1_ca357dae:
@@ -447,7 +447,7 @@ translate chinese prologueday1_d930a4b1:
 translate chinese prologueday1_f2c0eaf3:
 
     # moxie "Kidding, kidding! Yeah, I've probably committed a magic crime."
-    moxie "开玩笑的，开玩笑的！是，我可能刚刚犯下了魔法罪行。"
+    moxie "开玩笑的，开玩笑的！是，我有可能刚刚犯下了魔法罪行。"
 
 # game/1prologue.rpy#L160
 translate chinese prologueday1_f2f9b194:
@@ -489,7 +489,7 @@ translate chinese prologueday1_afbda620:
 translate chinese prologueday1_7af31dd0:
 
     # moxie "I already told you, I tried to summon a familiar but I think I messed up the spell and summoned you instead."
-    moxie "我已经告诉过你了，我试图召唤一只随从，但我把咒语搞砸了，不小心召唤了你。"
+    moxie "我已经告诉过你了，我试图召唤一个傀儡，但我把咒语搞砸了，不小心召唤了你。"
 
 # game/1prologue.rpy#L177
 translate chinese prologueday1_ae7d0d8f:
@@ -507,13 +507,13 @@ translate chinese prologueday1_35ea38a8:
 translate chinese prologueday1_c0f57ab0:
 
     # moxie "Oohh, hehe, dirty talk... I bet a familiar can't do that."
-    moxie "哦哦，嘻嘻，荤话......我敢打赌一只随从做不到这一点。"
+    moxie "哦哦，嘻嘻，荤话......我敢打赌一个傀儡做不到这一点。"
 
 # game/1prologue.rpy#L182
 translate chinese prologueday1_cbe3133a:
 
     # mc "What is a familiar anyway?"
-    mc "这个所谓的随从到底是个什么玩意？"
+    mc "这个所谓的傀儡到底是个什么玩意？"
 
 # game/1prologue.rpy#L184
 translate chinese prologueday1_13ea609e:
@@ -531,7 +531,7 @@ translate chinese prologueday1_15184479:
 translate chinese prologueday1_9047a4d1:
 
     # moxie "It can follow orders and stuff."
-    moxie "它就可以服从命令和其他东西。"
+    moxie "它就可以服从命令和其他东西..."
 
 # game/1prologue.rpy#L188
 translate chinese prologueday1_69f66b7d:
@@ -549,7 +549,7 @@ translate chinese prologueday1_e9cf91ad:
 translate chinese prologueday1_74f941db:
 
     # "She puffs her chest out and goes to sit down on her sofa and pats the cushions as if to encourage me to sit with her."
-    "她挺起胸部，坐在沙发上，拍了拍垫子，仿佛在鼓励我和她坐在一起。"
+    "她挺起胸部，坐在沙发上，拍了拍垫子，好像在鼓励我和她坐在一起。"
 
 # game/1prologue.rpy#L193
 translate chinese prologueday1_07d0557d:
@@ -591,7 +591,7 @@ translate chinese prologueday1_3368225e:
 translate chinese prologueday1_d4c219f9:
 
     # "As I sit, some of her fur grazes my thigh, it's incredibly soft and pleasant to the touch."
-    "在我坐下后，她的皮毛摩挲着我的大腿，这些皮毛出乎意料的柔软，摸起来手感也很好。"
+    "在我坐下后，她的皮毛摩挲着我的大腿，这些皮毛出乎意料的柔软，触及起来感觉也很好。"
 
 # game/1prologue.rpy#L204
 translate chinese prologueday1_a6703839:
@@ -609,7 +609,7 @@ translate chinese prologueday1_63ea6240:
 translate chinese prologueday1_9fd81498:
 
     # moxie "Really? Ohhh sheesh... Actually, that feeds directly into what I was just about to say..."
-    moxie "讲真的？哦这太不可思议了......实际上，我刚才就是打算要说这个，一模一样。"
+    moxie "讲真的？哦这太不可思议了......实际上，我刚才就是打算要说这个，同一个话题..."
 
 # game/1prologue.rpy#L213
 translate chinese prologueday1_a7b4e462:
@@ -639,13 +639,13 @@ translate chinese prologueday1_0a1c0b3c:
 translate chinese prologueday1_96f922aa:
 
     # "Really? She summoned me for sex?"
-    "讲真的？她召唤你就为了做爱？"
+    "讲真的？她召唤我就为了做爱？"
 
 # game/1prologue.rpy#L221
 translate chinese prologueday1_daa48198:
 
     # "And she's telling me that she's horny?"
-    "然后她正在告诉我说她很好色？"
+    "然后她正在告诉我说，她很好色？"
 
 # game/1prologue.rpy#L222
 translate chinese prologueday1_5a818969:
@@ -681,7 +681,7 @@ translate chinese prologueday1_b1693f89:
 translate chinese prologueday1_20daf96d:
 
     # moxie "Objectified? But I didn't summon you specifically... That was an accident."
-    moxie "被物化了？但我没有点名召唤你......那只是个意外。"
+    moxie "觉得自己被物化了？但我没有点名召唤你......那只是个意外。"
 
 # game/1prologue.rpy#L234
 translate chinese prologueday1_6d76cb87:
@@ -747,7 +747,7 @@ translate chinese prologueday1_f2316b97:
 translate chinese prologueday1_13986c93:
 
     # moxie "I didn't expect you to be able to talk, and have a personality."
-    moxie "我都没指望你能讲话，或者有人性。"
+    moxie "我都没设想你能讲话，或者有人性。"
 
 # game/1prologue.rpy#L251
 translate chinese prologueday1_0741b3ca:
@@ -873,7 +873,7 @@ translate chinese prologueday1_b32b921e:
 translate chinese prologueday1_c0f1629e:
 
     # "Horny wouldn't even be able to describe how I feel right now. I'm fully erect, it's like my cock just couldn't control itself. She's even looking at it."
-    "“有感觉”甚至都不能描述清楚我现在内心的感受。我彻底是勃起了，就好像我没法控制自己的cock一样。她甚至在盯着我的那玩意。"
+    "“有感觉”甚至都不能描述清楚我现在内心的感受。我彻底是勃起了，就好像我没法控制自己的二弟一样。她甚至在盯着我的那玩意。"
 
 # game/1prologue.rpy#L284
 translate chinese prologueday1_d8ea064f:
@@ -915,7 +915,7 @@ translate chinese prologueday1_ad4c90d4:
 translate chinese prologueday1_2ac4f77b:
 
     # mc "I can eat you out too."
-    mc "我还可以舔你。"
+    mc "我也可以舔你。"
 
 # game/1prologue.rpy#L294
 translate chinese prologueday1_f5629310:
@@ -1089,7 +1089,7 @@ translate chinese intro69_a319be96:
 translate chinese intro69_571ce56c:
 
     # "It's clearly her first time as she's predominantly experimenting and getting a feel for my cock."
-    "很显然，她是第一次这么做，因为她主要是在尝试感受我的cock。"
+    "很显然，她是第一次这么做，因为她主要是在尝试感受我的下体。"
 
 # game/1prologue.rpy#L343
 translate chinese intro69_4a5f67d0:
@@ -1179,7 +1179,7 @@ translate chinese intro69_397619d1:
 translate chinese intro69_5c656a76:
 
     # "I allow myself to sink back into Moxie’s comfy sofa, I was a little on edge at first, but this isn’t so bad. I’ve only had one blowjob before, but this one is already better, her longer, warmer and wetter tongue feels fantastic. "
-    "我让自己躺倒在了Moxie舒服的沙发上，一开始我感到有些紧张，但这其实不算太差。我以前就试过一次口交，这次可要好太多太多了，Moxie的手要更加修长，更加温暖，她还有着更潮湿的舌头，这一切都好极了。"
+    "我让自己躺倒在了Moxie舒服的沙发上，一开始我感到有些紧张，但这其实不算太差。我以前就试过一次口交，但这次可要好太多太多了，Moxie的手要更加修长，更加温暖，她还有着更潮湿的舌头，这一切都好极了。"
 
 # game/1prologue.rpy#L371
 translate chinese intro69_e54d196f:
@@ -1341,7 +1341,7 @@ translate chinese intro69_247dd332:
 translate chinese intro69_cde8ad2e:
 
     # "My entire body rocked with overwhelming sensation and passion. I could feel my orgasm start to rapidly well up."
-    "我的整个身体都在猛烈的快感和激情中抽搐。我能感受到自己已经达到了高潮的临界点。"
+    "我整个身体都在猛烈的快感和激情中抽搐。我能感受到自己已经达到了高潮的临界点。"
 
 # game/1prologue.rpy#L415
 translate chinese intro69_111a2fe5:
@@ -1353,7 +1353,7 @@ translate chinese intro69_111a2fe5:
 translate chinese intro69_23edcef1:
 
     # "Her orgasmic moans and incredible blowjob easily pushed me over the edge, finally causing my cock to erupt several loads of hot seed directly into the roof of her mouth."
-    "她伴随着高潮的呻吟声和高超技艺的口交轻易地把我推到了高潮的边缘，最终导致数波炙热的精子从我的肉棒中喷涌而出，直接射入了她的喉咙深处。"
+    "伴随着高潮的呻吟声和高超技艺的口交，她轻易地把我推到了高潮的边缘，最终导致数波炙热的精子从我的肉棒中喷涌而出，直接射入了她的喉咙深处。"
 
 # game/1prologue.rpy#L424
 translate chinese intro69_6605e862:
@@ -1467,7 +1467,7 @@ translate chinese intro69_7164f5f2:
 translate chinese intro69_80d192d2:
 
     # "You could say her wagon is concise, although not necessarily small. There’s enough room to live here with a bedroom, bathroom, kitchen and living room."
-    "你可以说她的马车比较简陋，但不能说它小。这儿有足够的空间以容纳一间卧室，厕所，厨房乃至客厅。"
+    "可以说她的篷车比较简陋，但不能说它小。这儿有足够的空间以容纳一间卧室，厕所，厨房乃至客厅。"
 
 # game/1prologue.rpy#L467
 translate chinese intro69_806fdb1d:
@@ -1635,7 +1635,7 @@ translate chinese prologueday2_cab6121d:
 translate chinese prologueday2_f87b3ccd:
 
     # moxie "But if anyone asks, we never did anything sexual, or cute! I know I’ve been quite open and honest with you, but I have a cool persona I need to keep up when we go to meet my friends."
-    moxie "但如果有人问，那就是我们从未做过任何与性有关的事情，或者有性吸引的！我知道我已对你非常开放和诚实了，但当我们见我的朋友们时，我需要给她们展示一种很冷酷的...一种假象"
+    moxie "但如果有人问，那就是我们从未做过任何与性有关的事情，或者有性吸引的！我知道我已对你非常开放和诚实了，但当我们见我的朋友们时，我需要给她们展示一种很冷酷的...假象"
 
 # game/1prologue.rpy#L513
 translate chinese prologueday2_82c39198:
@@ -1779,7 +1779,7 @@ translate chinese prologueday2_c065b870:
 translate chinese prologueday2_687c382b:
 
     # mc "What's up with this big tree?"
-    mc "这棵大树怎么了"
+    mc "这棵大树怎么了？"
 
 # game/1prologue.rpy#L552
 translate chinese prologueday2_a803ed30:
@@ -1821,7 +1821,7 @@ translate chinese prologueday2_ebc5c164:
 translate chinese prologueday2_84d45c30:
 
     # "Not only was the entire interior finely decorated but there were books as far as the eye could see."
-    "不仅整个室内装饰得很好，而且这儿至少还有能用肉眼能看到的书。"
+    "不仅整个室内装饰得很好，而且这儿还有能填满肉眼所及的书。"
 
 # game/1prologue.rpy#L564
 translate chinese prologueday2_be869fc9:
@@ -1875,7 +1875,7 @@ translate chinese prologueday2_596d3327:
 translate chinese prologueday2_1b9fa797:
 
     # moxie "Oh, he’s not so bad, he’s my familiar! From that spell you told me about, remember? I totally nailed it, I blew that spell’s expectations out of the water, he can talk!"
-    moxie "哦，他没那么糟，他是我的傀儡！就你告诉我的那个咒语，记得吗？我完美的成功了，这个咒语完全超出了我的预期，他能说话！"
+    moxie "哦，他没那么糟，他是我的随从！就你告诉我的那个咒语，记得吗？我完美的成功了，这个咒语完全超出了我的预期，他能说话！"
 
 # game/1prologue.rpy#L583
 translate chinese prologueday2_c49b9c9e:
@@ -1941,7 +1941,7 @@ translate chinese prologueday2_36498350:
 translate chinese prologueday2_be2b2992:
 
     # penelope "Oh... It talks, hello."
-    penelope "哦...我说了，你好。"
+    penelope "哦...说了...你好。"
 
 # game/1prologue.rpy#L604
 translate chinese prologueday2_cc596f3c:
@@ -2043,7 +2043,7 @@ translate chinese prologueday2_b3929a5d:
 translate chinese prologueday2_665a84c2:
 
     # penelope "Complicated creation spells always have a time limit, always, it’s simply a law of magic, you can’t conjure a being longer than your magical powers permit."
-    penelope "复杂的造物咒语总是有时间限制的，总是，这只是魔法法则，你不能召唤一个超过你魔法力量允许的存在。"
+    penelope "复杂的造物咒语总是有时间限制的，总是，这只是魔法法则，你不能召唤一个超过你魔法力量所允许的存在。"
 
 # game/1prologue.rpy#L642
 translate chinese prologueday2_23a98747:
@@ -2427,7 +2427,7 @@ translate chinese librarynewlife_83880f8d:
 translate chinese librarynewlife_3f881b68:
 
     # moxie "I-I'm not!"
-    moxie "我！我不是！"
+    moxie "我？我不是！"
 
 # game/1prologue.rpy#L750
 translate chinese librarynewlife_ef3a51bf:
@@ -3375,7 +3375,7 @@ translate chinese day2label3_8b54eb7d:
 translate chinese day2label3_fa9477e9:
 
     # "A couple of female ponies walk past and take a peek at me."
-    "三只雌性小马走过，看了我一眼"
+    "三个雌性小马走过，看了我一眼"
 
 # game/1prologue.rpy#L1044
 translate chinese day2label3_ae8201a2:
@@ -3705,7 +3705,7 @@ translate chinese day2label3_4bfa1ee5:
 translate chinese day2label3_27bee6d3:
 
     # moxie "Alright, so, males here are relatively a lot rarer. Maybe a 15/85 split, and that split varies between species apparently, I don’t know."
-    moxie "那我就告诉你吧，我们这个世界雄性数量相当稀少。大概是0.15：0.85的样子，不同物种性别比应该是不一样的，我不清楚。"
+    moxie "那我就告诉你吧，我们这个世界雄性数量相当稀少。大概是15：85的样子，不同物种性别比应该是不一样的，我不清楚。"
 
 # game/1prologue.rpy#L1119
 translate chinese day2label3_878d3045:
@@ -3747,7 +3747,7 @@ translate chinese day2label3_28b17b17:
 translate chinese day2label3_30c8bc95:
 
     # mc "Anyway, alpha male? Sounds kind of scary, does this suburb have an alpha male that impregnates all the mares?"
-    mc "不管怎么说，雄性头领（阿尔法男）听起来有点瘆人。这座城里难道也有一位能让所有雌驹都受孕的雄性头领吗？"
+    mc "不管怎么说，雄性头领听起来有点瘆人。这座城里难道也有一位能让所有雌驹都受孕的雄性头领吗？"
 
 # game/1prologue.rpy#L1128
 translate chinese day2label3_0a39a9fa:
@@ -3963,7 +3963,7 @@ translate chinese day2label3_20ba0857:
 translate chinese day2label3_38a051c3:
 
     # "I know Moxie has a radio, and I think she has a laptop too."
-    "Moxie有一台收音机，她应该会有一台笔记本电脑。"
+    "Moxie有一台收音机，我觉得她好像也有一台笔记本电脑。"
 
 # game/1prologue.rpy#L1182
 translate chinese day2label3_443b5bd3:
