@@ -1,4 +1,4 @@
-# Translation updated at Wed Jun 23 2021 00:43:47 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Thu Jun 24 2021 00:39:04 GMT+0000 (Coordinated Universal Time)
 # game/2evening%20butters.rpy#L11
 translate chinese eveningbutters_ce840f9e:
 
@@ -15,7 +15,7 @@ translate chinese eveningbutters_3cdf68fd:
 translate chinese eveningbutters_43fffc42:
 
     # "Me and Butters get cozy as we spend the evening together."
-    "我和Butters在一起度过了一晚，这感觉很舒服。"
+    "我和Butters在一起度过了一晚，感觉很舒服。"
 
 # game/2evening%20butters.rpy#L25
 translate chinese eveningbutters1_afdb24b7:
@@ -327,7 +327,7 @@ translate chinese poyomenu_e0336e6d:
 translate chinese poyomenu_87961b00:
 
     # moxie "Oh yeah, yeah, yeah! I'll always be your number one bad bitch, aahh haaah!"
-    moxie "哦耶，耶，耶！我永远是你第一个操你的坏女人，啊哈哈哈！"
+    moxie "哦耶，耶，耶！我永远是第一个干你的坏女人，啊哈哈哈！"
 
 # game/2evening%20butters.rpy#L202
 translate chinese poyomenu_2c445130:
@@ -399,7 +399,7 @@ translate chinese eveningbutterssex_3bc9a1e8:
 translate chinese eveningbutterssex_5f729eef:
 
     # "But Butters doesn't waste any time with foreplay, she arches her back while sliding her plush pussy onto my cock."
-    "但Butters是不会把时间浪费在前戏上。在她用那长着绒毛的阴部在我的cock上来回滑动的同时，又弓起了自己的背。"
+    "但Butters是不会把时间浪费在前戏上。在她用那长着绒毛的阴部在我的阴茎上来回滑动的同时，又弓起了背"
 
 # game/2evening%20butters.rpy#L239
 translate chinese eveningbutterssex_86ab2e4c:
@@ -411,7 +411,7 @@ translate chinese eveningbutterssex_86ab2e4c:
 translate chinese eveningbutterssex_d467921f:
 
     # "Her insides squeeze as her pussy spreads until she's finally at the hilt, fully impaled by every inch of my length."
-    "随着我长枪的愈发深入，她的肉壁也愈发收紧，直至锋芒抵达花心，被长枪完全贯穿。"
+    "随着我阴茎的愈发深入，她的肉壁也愈发收紧，直至锋芒抵达花心，被阴茎完全贯穿。"
 
 # game/2evening%20butters.rpy#L241
 translate chinese eveningbutterssex_dd2013af:
@@ -4563,7 +4563,7 @@ translate chinese buttersimpregpaizuri_5b9bf9bd:
 translate chinese buttersimpregpaizuri_c8b840f5:
 
     # butters "Oohh, I think I just got a new fetish…"
-    butters "哦，从今往后我又多了个小迷弟......"
+    butters "哦，看来我又有个新癖好了......"
 
 # game/2evening%20butters.rpy#L1598
 translate chinese buttersimpregpaizuri_1b5f79fe:
@@ -5003,7 +5003,7 @@ translate chinese strings:
 
     # game/2evening butters.rpy_L139_0
     old "Sure thing."
-    new "妥妥的。"
+    new "当然。"
 
     # game/2evening butters.rpy_L139_1
     old "I'll pass, but thanks for your offer."

@@ -1,4 +1,4 @@
-# Translation updated at Wed Jun 23 2021 00:43:47 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Thu Jun 24 2021 00:39:04 GMT+0000 (Coordinated Universal Time)
 # game/castle.rpy#L6
 translate chinese castle_38f72bb5:
 
@@ -8105,11 +8105,11 @@ translate chinese strings:
 
     # game/castle.rpy_L270_3
     old "Call out to her"
-    new "向她大吼"
+    new "向她大喊"
 
     # game/castle.rpy_L346_0
     old "Sorry, I should remember my place."
-    new "对不起，我应该记住自己的位置。"
+    new "对不起，我应该知道分寸的。"
 
     # game/castle.rpy_L346_1
     old "I was really enjoying the view; you can keep going if you want."
@@ -8117,7 +8117,7 @@ translate chinese strings:
 
     # game/castle.rpy_L658_0
     old "What kind of dreams are most common?"
-    new "什么类型的梦是最常见的？"
+    new "什么样的梦是最常见的？"
 
     # game/castle.rpy_L658_1
     old "Have any interesting stories from your work?"
@@ -8125,7 +8125,7 @@ translate chinese strings:
 
     # game/castle.rpy_L658_2
     old "Craziest bucket list story?"
-    new "Craziest bucket list story?"
+    new "遗愿清单上最疯狂的故事？"
 
     # game/castle.rpy_L739_0
     old "Blowjob into Cowgirl"
@@ -8137,7 +8137,7 @@ translate chinese strings:
 
     # game/castle.rpy_L1028_0
     old "It’s okay, I’m ready to perform, just lay down on the bed."
-    new "好了，我做好展示的准备了。躺到床上去吧。"
+    new "好了，我准备好做爱了。躺到床上去吧。"
 
     # game/castle.rpy_L1028_1
     old "What do you need of me, Princess Selene?"
@@ -8173,7 +8173,7 @@ translate chinese strings:
 
     # game/castle.rpy_L1258_1
     old "Get back into athletics in different ways."
-    new "Get back into athletics in different ways."
+    new "参与各种体育运动。"
 
     # game/castle.rpy_L1258_2
     old "Learn to love yourself and your decisions."
@@ -8185,7 +8185,7 @@ translate chinese strings:
 
     # game/castle.rpy_L1357_1
     old "Are these figures representations of the people that judge you for your work?"
-    new "Are these figures representations of the people that judge you for your work?"
+    new "这些形象是代表了裁判你作品的人吗？"
 
     # game/castle.rpy_L1394_0
     old "Ghosts aren’t real, you don’t have to worry about it."
@@ -8209,7 +8209,7 @@ translate chinese strings:
 
     # game/castle.rpy_L1835_1
     old "I have to treat you as an equal if I want to become your lover"
-    new "如果我想成为你的情人，我就要一视同仁。"
+    new "如果我想成为你的情人，我们就要平等相处。"
 
     # game/castle.rpy_L1981_0
     old "What is your sex life like?"

@@ -1,4 +1,4 @@
-# Translation updated at Wed Jun 23 2021 00:43:47 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Thu Jun 24 2021 00:39:04 GMT+0000 (Coordinated Universal Time)
 # game/deepforest.rpy#L13
 translate chinese deepforest_51a3a838:
 
@@ -4607,7 +4607,7 @@ translate chinese strings:
 
     # game/deepforest.rpy_L198_0
     old "Alright, get ready for a poundin'"
-    new "好吧，准备好Poundin"
+    new "行，准备好受到撞击吧"
 
     # game/deepforest.rpy_L198_1
     old "Once you go Zebra, you'll never go back."
@@ -4659,15 +4659,15 @@ translate chinese strings:
 
     # game/deepforest.rpy_L501_0
     old "If you want my advice, it’s time to act real fucking humble, listen to Butters and get this done right."
-    new "如果你想听我的建议，是时候他妈的表现出他妈的谦虚，听Butters的，还有，把事情做好。"
+    new "如果你想听我的建议，是时候他妈的表现出他妈的谦虚，听Butters的，然后把事情做好。"
 
     # game/deepforest.rpy_L501_1
     old "Whatever man, you deserve this for your carelessness."
-    new "不管是什么人，你该为你的粗心大意付出代价。"
+    new "无论如何，你该为你的粗心大意付出代价。"
 
     # game/deepforest.rpy_L501_2
     old "Enough about fucking werewolves, how about fucking me instead?"
-    new "操够了狼人，不如操我？"
+    new "操够了狼人，来操我如何？"
 
     # game/deepforest.rpy_L501_3
     old "Can’t I have a go at a female werewolf if you find one?"
@@ -4691,15 +4691,15 @@ translate chinese strings:
 
     # game/deepforest.rpy_L624_2
     old "Hunt Werewolves"
-    new "猎杀狼人"
+    new "追猎狼人"
 
     # game/deepforest.rpy_L634_0
     old "Leg-up Sideways (NEW!)"
-    new "抬腿后入式"
+    new "抬腿后入式（全新！）"
 
     # game/deepforest.rpy_L1100_0
     old "Watch Zoe and the werewolf for five minutes."
-    new "观察Zoe和狼人五分钟。"
+    new "观看Zoe和狼人五分钟。"
 
     # game/deepforest.rpy_L1100_1
     old "No way."

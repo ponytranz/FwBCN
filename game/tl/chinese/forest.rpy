@@ -1,4 +1,4 @@
-# Translation updated at Wed Jun 23 2021 00:43:47 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Thu Jun 24 2021 00:39:04 GMT+0000 (Coordinated Universal Time)
 # game/forest.rpy#L18
 translate chinese forestvisit1_8c224d17:
 
@@ -153,13 +153,13 @@ translate chinese forestvisit1_ae1d2826:
 translate chinese forestvisit1_94ccc080:
 
     # mc "Pesky pony? Nah, I’m a full-blooded human."
-    mc "让你烦的小马？不，我是个彻头彻尾的人。"
+    mc "让你烦的小马？不，我是个彻头彻尾的人类。"
 
 # game/forest.rpy#L54
 translate chinese forestvisit1_d94ca9a5:
 
     # butters "Ohhh, a hue-man!"
-    butters "哦哈哈哈哈哈，一个色--人！"
+    butters "哦哈哈哈哈哈，一个银-类！"
 
 # game/forest.rpy#L55
 translate chinese forestvisit1_deb97e71:
@@ -171,91 +171,91 @@ translate chinese forestvisit1_deb97e71:
 translate chinese forestvisit1_09c0afcb:
 
     # butters "Is it like the word hue, and man combined? Are there different coloured hue-men?"
-    butters "Is it like the word hue, and man combined? Are there different coloured hue-men?"
+    butters "就是把银子的银，分类的类组合起来啊？银类不都应该长得白花花的吗，你好像不够白哎？"
 
 # game/forest.rpy#L58
 translate chinese forestvisit1_f4fcd483:
 
     # mc "I’ll praise your intuition, but I’m afraid it’s H U man, not H U E man."
-    mc "I’ll praise your intuition, but I’m afraid it’s H U man, not H U E man."
+    mc "你的热情令我印象深刻，不过我是人-类，不是什么银-类。"
 
 # game/forest.rpy#L59
 translate chinese forestvisit1_0993620b:
 
     # mc "Anyway, what’s so pesky about ponies? Aren't you a pony?"
-    mc "Anyway, what’s so pesky about ponies? Aren't you a pony?"
+    mc "好了打住，你刚才说你很烦小马？你自己不就是小马吗？"
 
 # game/forest.rpy#L61
 translate chinese forestvisit1_2bcc3865:
 
     # butters "Hehe, I guess I am? I dunno mister, ponies overwhelm me."
-    butters "Hehe, I guess I am? I dunno mister, ponies overwhelm me."
+    butters "呵呵，你猜我是不是？我自己都不知道呢，先生，这儿到处都是小马。"
 
 # game/forest.rpy#L63
 translate chinese forestvisit1_95862b7b:
 
     # butters "I don't really like them, I prefer to be around animals."
-    butters "I don't really like them, I prefer to be around animals."
+    butters "我不喜欢和她们相处，我宁愿和动物打交道。"
 
 # game/forest.rpy#L64
 translate chinese forestvisit1_74f0e8e3:
 
     # "She taps the tips of her index fingers together; I wonder if this is the shyness that Moxie mentioned."
-    "She taps the tips of her index fingers together; I wonder if this is the shyness that Moxie mentioned."
+    "她的两根食指对在一起，不安地相互拍打着；想必她就是Moxie提到的那位害羞的女孩。"
 
 # game/forest.rpy#L65
 translate chinese forestvisit1_86032506:
 
     # "Shyness turned into loneliness, turned into resentment perhaps. Not an unlikely situation."
-    "Shyness turned into loneliness, turned into resentment perhaps. Not an unlikely situation."
+    "可能长期的害羞让她变得形单影只，充得她满腹怨气。这不是不可能的。"
 
 # game/forest.rpy#L66
 translate chinese forestvisit1_609d94f6:
 
     # mc "I’ll be honest, I’m not a woodland animal, I live with the ponies in the suburbs."
-    mc "I’ll be honest, I’m not a woodland animal, I live with the ponies in the suburbs."
+    mc "我就开门见山了，我不是什么森林里的奇葩动物，我和其他小马一样住在镇子里。"
 
 # game/forest.rpy#L68
 translate chinese forestvisit1_968e4571:
 
     # butters "Oh blue skies! You’re one of them too?"
-    butters "Oh blue skies! You’re one of them too?"
+    butters "哦我去！你跟她们是一伙的？"
 
 # game/forest.rpy#L70
 translate chinese forestvisit1_303e6799:
 
     # "She shrinks into herself, her body language becoming defensive and timid."
-    "She shrinks into herself, her body language becoming defensive and timid."
+    "她有些害怕地往后缩，防御和胆怯的肢体语言表示她感觉自己受到了威胁。"
 
 # game/forest.rpy#L71
 translate chinese forestvisit1_4d027b30:
 
     # "Maybe I should have kept up the animal charade."
-    "Maybe I should have kept up the animal charade."
+    "我还是继续聊动物的话题比较好。"
 
 # game/forest.rpy#L74
 translate chinese forestvisit1_dc4ea6c2:
 
     # butters "Oh? I mean we’re all animals I guess…"
-    butters "Oh? I mean we’re all animals I guess…"
+    butters "哦？我的意思是你我和她们本质上都应该是动物......"
 
 # game/forest.rpy#L75
 translate chinese forestvisit1_86b9e914:
 
     # "Crap, she’s onto me."
-    "Crap, she’s onto me."
+    "哦豁，主动权落她手里了。"
 
 # game/forest.rpy#L77
 translate chinese forestvisit1_bb2620a3:
 
     # butters "I was just hoping you wouldn’t associate with those pony types."
-    butters "I was just hoping you wouldn’t associate with those pony types."
+    butters "我刚刚只是期望你没有和那些小马整天厮混。"
 
 # game/forest.rpy#L78
 translate chinese forestvisit1_6a9a75e1:
 
     # mc "I wouldn’t say I particularly associate with them, I barely know them."
-    mc "I wouldn’t say I particularly associate with them, I barely know them."
+    mc "我没有跟她们整体厮混，我还不是很了解她们。"
 
 # game/forest.rpy#L79
 translate chinese forestvisit1_40e63180:
@@ -273,25 +273,25 @@ translate chinese forestvisit1_949b4241:
 translate chinese forestvisit1_ed15f9e0:
 
     # butters "I’m different too! People like you and me need to look after each other."
-    butters "我也不一样！像你我这样的人需要互相照顾。"
+    butters "我也不一样！像你我这样的马需要互相照顾。"
 
 # game/forest.rpy#L85
 translate chinese forestvisit1_a6180d1b:
 
     # butters "Ohh, so you’re not like them?"
-    butters "哦，所以你不喜欢她们？"
+    butters "哦，所以你跟她们不一样？"
 
 # game/forest.rpy#L86
 translate chinese forestvisit1_8ade9011:
 
     # mc "I am in some ways, but different in others, you’ll have to get to know me."
-    mc "我在某些方面是不同的，但在其他方面，你必须了解我。"
+    mc "我有些地方和她们一样，但有些地方又不一样，不知道你能不能懂我的意思。"
 
 # game/forest.rpy#L88
 translate chinese forestvisit1_891e39ab:
 
     # butters "Hmm, I see… This poses some interesting possibilities."
-    butters "Hmm, I see… This poses some interesting possibilities."
+    butters "嗯，我了解了...那还算好说。"
 
 # game/forest.rpy#L90
 translate chinese forestvisit1_909614b5:
@@ -303,13 +303,13 @@ translate chinese forestvisit1_909614b5:
 translate chinese forestvisit1_1edd9a9c:
 
     # mc "Magic? I’m afraid not, I didn’t even know it existed until I got to Arcadia."
-    mc "魔法？我恐怕不行，在我到Arcadia之前我甚至都不知道魔法是什么"
+    mc "魔法？我恐怕不行，在我到Arcadia之前我甚至都不知道魔法是什么。"
 
 # game/forest.rpy#L93
 translate chinese forestvisit1_62789de9:
 
     # butters "Fiddlesticks, just my luck."
-    butters "Fiddlesticks, just my luck."
+    butters "哦，当我提好了。"
 
 # game/forest.rpy#L94
 translate chinese forestvisit1_3e5f723c:
@@ -339,13 +339,13 @@ translate chinese forestvisit1_672e4fb4:
 translate chinese forestvisit1_6457a690:
 
     # mc "I don’t have any fur, my species has a 50/50 gender split, we don’t go into heat, and there are subtle anatomy differences here and there."
-    mc "I don’t have any fur, my species has a 50/50 gender split, we don’t go into heat, and there are subtle anatomy differences here and there."
+    mc "我不像你们一样长了毛发，我的物种男女比例是1：1，不会发情，并且在生理结构上存在一些差异。"
 
 # game/forest.rpy#L101
 translate chinese forestvisit1_bf17a899:
 
     # mc "If Riku is any comparison, humans are definitely not as strong as ponies are."
-    mc "If Riku is any comparison, humans are definitely not as strong as ponies are."
+    mc "按Riku的话说，人类没有小马强壮。"
 
 # game/forest.rpy#L102
 translate chinese forestvisit1_f60dec79:
@@ -363,43 +363,43 @@ translate chinese forestvisit1_d6903e8a:
 translate chinese forestvisit1_6bc37ed8:
 
     # butters "Ohh, nature is fascinating, I wonder what evolutionary niche you have."
-    butters "Ohh, nature is fascinating, I wonder what evolutionary niche you have."
+    butters "哦，大自然总是很奇妙，你们物种进化出了什么有利性状登顶食物链呢？"
 
 # game/forest.rpy#L107
 translate chinese forestvisit1_fc23c113:
 
     # mc "Niche? What like?"
-    mc "Niche? What like?"
+    mc "有利性状？你举个例子？"
 
 # game/forest.rpy#L109
 translate chinese forestvisit1_79c59745:
 
     # butters "All ponies are strong, unicorns can cast magic, pegasi and dragons can fly, neko have incredible agility, et cetera."
-    butters "All ponies are strong, unicorns can cast magic, pegasi and dragons can fly, neko have incredible agility, et cetera."
+    butters "比如所有的小马都很强壮，独角兽能用魔法，天马和龙可以翱翔天际，猫咪的动作很矫健，等等等等。"
 
 # game/forest.rpy#L110
 translate chinese forestvisit1_88d8a434:
 
     # "I guess the niche of human’s would be intelligence, but that is more or less lost in a world of anthropomorphs."
-    "I guess the niche of human’s would be intelligence, but that is more or less lost in a world of anthropomorphs."
+    "至少在我的认知里，人类的有利性状是高智力，不过既然这个世界存在很多拟人生物，高智力性状的优势应该不及我自己世界那么明显。"
 
 # game/forest.rpy#L111
 translate chinese forestvisit1_d167961b:
 
     # "Even if humans are more intelligent, I am far from the pinnacle of that mantra."
-    "Even if humans are more intelligent, I am far from the pinnacle of that mantra."
+    "就算高智力是人类的优势，我也不在那些真正聪明的人之列。"
 
 # game/forest.rpy#L112
 translate chinese forestvisit1_9b5806a8:
 
     # mc "Can I ask you a question? You seem quite knowledgeable"
-    mc "Can I ask you a question? You seem quite knowledgeable"
+    mc "我能请教你一个问题吗？你看起来很博学。"
 
 # game/forest.rpy#L114
 translate chinese forestvisit1_98bcdc30:
 
     # butters "Ask away, my little human companion."
-    butters "Ask away, my little human companion."
+    butters "问吧，人类小伙伴。"
 
 # game/forest.rpy#L115
 translate chinese forestvisit1_940805e4:
@@ -429,379 +429,379 @@ translate chinese forestvisit1_370adc40:
 translate chinese forestvisit1_a71e2704:
 
     # "Interesting, I think chimpanzees fulfill that role for humans."
-    "Interesting, I think chimpanzees fulfill that role for humans."
+    "有意思，就像我世界里的黑猩猩和人类的区别一样。"
 
 # game/forest.rpy#L121
 translate chinese forestvisit1_da775c32:
 
     # mc "Does that mean there are four legged ponies too? I haven’t seen any."
-    mc "那是否意味着在这里也有四条腿的小马？我从未见过任何一只。"
+    mc "那是否意味着在这里也有四脚着地行走的小马？我从未见过任何一只。"
 
 # game/forest.rpy#L123
 translate chinese forestvisit1_ad0ebf08:
 
     # butters "You mean a horse?"
-    butters "你是在说马吗？"
+    butters "你是指矮种马吗？"
 
 # game/forest.rpy#L124
 translate chinese forestvisit1_daa6787c:
 
     # mc "A horse? Oooohhhh… That's what you call them? Explains why Moxie got offended when I called her a horse."
-    mc "一匹马？噢喔 … 你就是这么叫它们的？这便能解释为什么当我将 Moxie 称为马的时候她会感觉被冒犯了。"
+    mc "矮种马？噢喔 … 你就是这么叫它们的？这便能解释为什么当我将 Moxie 称为矮种马的时候她会感觉被冒犯了。"
 
 # game/forest.rpy#L126
 translate chinese forestvisit1_5a5ab4cc:
 
     # butters "Heheh, duhh."
-    butters "Heheh, duhh."
+    butters "噗哈哈哈。"
 
 # game/forest.rpy#L127
 translate chinese forestvisit1_490e6477:
 
     # mc "Anyway, enough expository banter, I came here to work."
-    mc "Anyway, enough expository banter, I came here to work."
+    mc "好了，玩笑就此打住，我是来找工作的。"
 
 # game/forest.rpy#L129
 translate chinese forestvisit1_00ce4470:
 
     # butters "You sure you don’t want tummy rubs and treats?"
-    butters "You sure you don’t want tummy rubs and treats?"
+    butters "你肚子饿了吗，想不想吃点东西，我还可以给你做些腹部按摩？"
 
 # game/forest.rpy#L130
 translate chinese forestvisit1_4134f528:
 
     # mc "Is that an option?"
-    mc "Is that an option?"
+    mc "如果你方便的话？"
 
 # game/forest.rpy#L132
 translate chinese forestvisit1_559a7ade:
 
     # butters "I was just about to give Devil hers; you can join in if you’d like."
-    butters "I was just about to give Devil hers; you can join in if you’d like."
+    butters "我正在给Devil准备食物呢；你要是想吃的话请便。"
 
 # game/forest.rpy#L135
 translate chinese forestvisitmenu1_a006ba5b:
 
     # "Butters takes out a bag of mixed leafy greens. My disappointment grows as I realize I probably won’t enjoy the same kind of treats as a bunny."
-    "Butters takes out a bag of mixed leafy greens. My disappointment grows as I realize I probably won’t enjoy the same kind of treats as a bunny."
+    "Butters拿出了一袋蔬菜和叶子的混合物。我心情还是蛮失望的，难道我要跟兔子吃一样的东西吗。"
 
 # game/forest.rpy#L137
 translate chinese forestvisitmenu1_e9e714c4:
 
     # butters "Here you go, tasty leaves!"
-    butters "Here you go, tasty leaves!"
+    butters "哒嗒~，营养又好吃的树叶！"
 
 # game/forest.rpy#L138
 translate chinese forestvisitmenu1_3dd36a2a:
 
     # mc "Actually, I think I’ll pass on the greens."
-    mc "Actually, I think I’ll pass on the greens."
+    mc "那个，我想我平常不吃这种东西。"
 
 # game/forest.rpy#L140
 translate chinese forestvisitmenu1_80461750:
 
     # butters "Ohh, okay. Sorry mister, I don't know what humans like to eat."
-    butters "Ohh, okay. Sorry mister, I don't know what humans like to eat."
+    butters "哦哦，好吧。抱歉先生，我对人类的饮食习惯还一无所知。"
 
 # game/forest.rpy#L141
 translate chinese forestvisitmenu1_12055aaa:
 
     # "She nibbles on the leaf she was just offering to me, before placing some in a bowl which Devil readily starts to munch."
-    "She nibbles on the leaf she was just offering to me, before placing some in a bowl which Devil readily starts to munch."
+    "她把一些树叶下放在碗里，Devil很快端起碗大快朵颐，她则把刚刚递给我的树叶塞进了自己嘴里咀嚼起来。"
 
 # game/forest.rpy#L143
 translate chinese forestvisitmenu1_91d0ca61:
 
     # butters "Time for tummy rubs."
-    butters "Time for tummy rubs."
+    butters "让我给你做腹部按摩吧。"
 
 # game/forest.rpy#L144
 translate chinese forestvisitmenu1_9628cea1:
 
     # "Her hand starts to innocently wave up and down on my tummy."
-    "Her hand starts to innocently wave up and down on my tummy."
+    "她的双手开始在我的腹部上下游离，轻轻地按摩。"
 
 # game/forest.rpy#L145
 translate chinese forestvisitmenu1_07b91140:
 
     # butters "Is this good?"
-    butters "Is this good?"
+    butters "感觉舒服吗？"
 
 # game/forest.rpy#L146
 translate chinese forestvisitmenu1_5148f7af:
 
     # "She wears soft fabric gloves, and her touch is delicate, resulting in a comfortable sensation."
-    "She wears soft fabric gloves, and her touch is delicate, resulting in a comfortable sensation."
+    "她戴着一副布料手套，给人的触感很细腻，感觉舒适异常。"
 
 # game/forest.rpy#L147
 translate chinese forestvisitmenu1_bfe8d8f9:
 
     # mc "That feels really nice."
-    mc "That feels really nice."
+    mc "感觉很不错。"
 
 # game/forest.rpy#L148
 translate chinese forestvisitmenu1_12e521d5:
 
     # "She speeds up and adds some gentle scratches into the mix."
-    "She speeds up and adds some gentle scratches into the mix."
+    "她稍稍加快了速度，并且偶尔也用指尖轻轻在我的皮肤上划一下。"
 
 # game/forest.rpy#L150
 translate chinese forestvisitmenu1_80cfecea:
 
     # butters "There we go, good boy."
-    butters "There we go, good boy."
+    butters "好了，朋友。"
 
 # game/forest.rpy#L151
 translate chinese forestvisitmenu1_31887bee:
 
     # mc "Ohhh, that's the stuff. I can see why pets love this."
-    mc "Ohhh, that's the stuff. I can see why pets love this."
+    mc "哦，你的按摩真舒服。怪不得你的宠物都喜欢。"
 
 # game/forest.rpy#L152
 translate chinese forestvisitmenu1_e067c399:
 
     # "She then moves onto Devil who readily nuzzles into her hand."
-    "She then moves onto Devil who readily nuzzles into her hand."
+    "然后她又开始给Devil做按摩，Devil亲昵地用鼻子蹭了蹭她的手。"
 
 # game/forest.rpy#L153
 translate chinese forestvisitmenu1_377b2809:
 
     # "I could get used to being coddled here."
-    "I could get used to being coddled here."
+    "要是能天天被她按摩，岂不美哉？"
 
 # game/forest.rpy#L157
 translate chinese forestvisitmenu1_c7181250:
 
     # butters "Ohh me oh my, you’re that guy."
-    butters "Ohh me oh my, you’re that guy."
+    butters "哦恕我愚钝，原来你就是她提到的那个人。"
 
 # game/forest.rpy#L159
 translate chinese forestvisitmenu1_a28761d8:
 
     # butters "I'm lucky to have the perfect worker show up at a time like this."
-    butters "I'm lucky to have the perfect worker show up at a time like this."
+    butters "你来的正是时候，我最近正好缺把手。"
 
 # game/forest.rpy#L160
 translate chinese forestvisitmenu1_8e3e1449:
 
     # butters "I'm sorry I mistook you for an animal at first."
-    butters "I'm sorry I mistook you for an animal at first."
+    butters "抱歉最开始把你当成动物了。"
 
 # game/forest.rpy#L164
 translate chinese forestvisitmenu2_84344686:
 
     # butters "Okay, mister, you’ll be a good boy and work for me then?"
-    butters "Okay, mister, you’ll be a good boy and work for me then?"
+    butters "行啊，先生，你也会在我这里好生帮忙吧？"
 
 # game/forest.rpy#L165
 translate chinese forestvisitmenu2_ff178eab:
 
     # mc "Yeah, I sure will, what do you have in store for me?"
-    mc "Yeah, I sure will, what do you have in store for me?"
+    mc "我当然会，你要分配给我什么活干呢？"
 
 # game/forest.rpy#L169
 translate chinese forestvisitmenu2_b3676605:
 
     # butters "I’m an alchemist, and I’m searching for some essential ingredients for my most important potion yet."
-    butters "I’m an alchemist, and I’m searching for some essential ingredients for my most important potion yet."
+    butters "我是一名炼金术士，正为凑齐我最重要的药剂原料而发愁。"
 
 # game/forest.rpy#L170
 translate chinese forestvisitmenu2_cce9980b:
 
     # butters "I've been waiting to hire someone special for a while, and you seem like the right man for the job."
-    butters "I've been waiting to hire someone special for a while, and you seem like the right man for the job."
+    butters "所以我一直想雇一个助手，不过一直没有勇士上门应聘，现在嘛，总算有人揭榜了。"
 
 # game/forest.rpy#L171
 translate chinese forestvisitmenu2_a5be4adf:
 
     # "She probably means she's been waiting to hire someone that isn't a pony."
-    "She probably means she's been waiting to hire someone that isn't a pony."
+    "她的用词是“助手”和“人”，看起来她并不想雇她的同类。"
 
 # game/forest.rpy#L172
 translate chinese forestvisitmenu2_ccb6f054:
 
     # butters "There are several ingredients I require that we can only get by exploring hazardous caves."
-    butters "There are several ingredients I require that we can only get by exploring hazardous caves."
+    butters "有几样材料只有进危险的洞穴里探险才能找到。"
 
 # game/forest.rpy#L173
 translate chinese forestvisitmenu2_df033464:
 
     # mc "What are those?"
-    mc "What are those?"
+    mc "什么样的材料呢？"
 
 # game/forest.rpy#L175
 translate chinese forestvisitmenu2_4569a52f:
 
     # "She walks over to a pinboard full of writings and notes. It's enough that you'd assume she's writing a thesis, it's almost manic."
-    "She walks over to a pinboard full of writings and notes. It's enough that you'd assume she's writing a thesis, it's almost manic."
+    "她在一处牌板前站定，牌板上密密麻麻地写满了字和标注。像在写一篇论文一样，这太疯狂了。"
 
 # game/forest.rpy#L176
 translate chinese forestvisitmenu2_0d40ac3f:
 
     # butters "I need gelatine from a slime monster for a transmorphation potion, leaf clippings from a folium polypus, and a full Dewblossom."
-    butters "I need gelatine from a slime monster for a transmorphation potion, leaf clippings from a folium polypus, and a full Dewblossom."
+    butters "我需要史莱姆的凝胶制作变形药剂，瘤叶的一部分，还有一整株朝露绽放。"
 
 # game/forest.rpy#L180
 translate chinese forestvisit1choice1_1934f57b:
 
     # mc "Sounds scary, are they dangerous?"
-    mc "Sounds scary, are they dangerous?"
+    mc "史莱姆听起来不是什么善茬，它们危险吗？"
 
 # game/forest.rpy#L181
 translate chinese forestvisit1choice1_561c28dc:
 
     # butters "Not particularly, although it can be problematic if they try to put slime inside you."
-    butters "Not particularly, although it can be problematic if they try to put slime inside you."
+    butters "不是特别危险，不过它们有可能会想办法把自己的粘液注进你的身体里。"
 
 # game/forest.rpy#L182
 translate chinese forestvisit1choice1_23631f24:
 
     # mc "Inside you? What?"
-    mc "Inside you? What?"
+    mc "注进身体？听着怎么这么怪？"
 
 # game/forest.rpy#L184
 translate chinese forestvisit1choice1_14a4506c:
 
     # butters "That’s one of the best ways to get gelatine though, keep an eye out for me."
-    butters "That’s one of the best ways to get gelatine though, keep an eye out for me."
+    butters "但这确实是获取凝胶的最好方法了，到时候别看我就行。"
 
 # game/forest.rpy#L185
 translate chinese forestvisit1choice1_1408eb8b:
 
     # mc "Uhh, okay?"
-    mc "Uhh, okay?"
+    mc "呃，我懂了？"
 
 # game/forest.rpy#L189
 translate chinese forestvisit1choice1_fc03e844:
 
     # butters "Spooky living plants with many writhing, wriggling vines."
-    butters "Spooky living plants with many writhing, wriggling vines."
+    butters "它们是很可怕的蔓生植物，有很多扭曲缠绕的藤曼。"
 
 # game/forest.rpy#L190
 translate chinese forestvisit1choice1_f380a10b:
 
     # butters "In scary books, they allegedly trap creatures with the vines until they rot and turn into nutrients for the plant."
-    butters "In scary books, they allegedly trap creatures with the vines until they rot and turn into nutrients for the plant."
+    butters "我们这里的恐怖小说里是这么描写它们的，它们会用藤曼困住猎物，直至其腐烂为植物养份为止。"
 
 # game/forest.rpy#L191
 translate chinese forestvisit1choice1_0a273b45:
 
     # mc "That’s utterly terrifying."
-    mc "That’s utterly terrifying."
+    mc "这也太吓人了吧。"
 
 # game/forest.rpy#L193
 translate chinese forestvisit1choice1_572b2189:
 
     # butters "Hehe, it is, isn’t it?"
-    butters "Hehe, it is, isn’t it?"
+    butters "嘿嘿，确实。"
 
 # game/forest.rpy#L194
 translate chinese forestvisit1choice1_4d152da2:
 
     # butters "Fortunately, these plants are just that, plants! You can easily snap the vines and walk away. The only ‘nutrients’ it’ll ever get is from tiny bugs."
-    butters "Fortunately, these plants are just that, plants! You can easily snap the vines and walk away. The only ‘nutrients’ it’ll ever get is from tiny bugs."
+    butters "但小说只是小说，现实情况是，它们只是植物而已！要想挣脱藤曼逃之夭夭不过是小菜一碟。它们唯一的“养份”来源只有靠捕猎小虫子。"
 
 # game/forest.rpy#L195
 translate chinese forestvisit1choice1_49129dde:
 
     # mc "Oooohhhh, it’s like a Venus fly trap."
-    mc "Oooohhhh, it’s like a Venus fly trap."
+    mc "哦哦哦，我懂了，跟捕蝇草差不多。"
 
 # game/forest.rpy#L197
 translate chinese forestvisit1choice1_45bf5b55:
 
     # butters "Yeah! Penis fly traps, you're right! "
-    butters "Yeah! Penis fly traps, you're right! "
+    butters "没错！跟捕液草差不多！"
 
 # game/forest.rpy#L198
 translate chinese forestvisit1choice1_0ad25b8b:
 
     # "What."
-    "What."
+    "啥玩意啊。"
 
 # game/forest.rpy#L200
 translate chinese forestvisit1choice1_01d24f73:
 
     # butters "The Folium Polypus tries to suck fluid out of larger creatures, so it may try to force its vines into your orifices."
-    butters "The Folium Polypus tries to suck fluid out of larger creatures, so it may try to force its vines into your orifices."
+    butters "瘤叶会试图吸取大型生物的体液，它们可能会找寻你身上可能的孔洞，把藤曼插进去吸取养份。"
 
 # game/forest.rpy#L201
 translate chinese forestvisit1choice1_bed23ec5:
 
     # mc "Okay, it just got terrifying again."
-    mc "Okay, it just got terrifying again."
+    mc "我去，你又把我吓到了。"
 
 # game/forest.rpy#L202
 translate chinese forestvisit1choice1_5d1ad9f1:
 
     # butters "It’s okay [playername], it’s just a plant!"
-    butters "It’s okay [playername], it’s just a plant!"
+    butters "没事的[playername]，终归只是植物而已！"
 
 # game/forest.rpy#L206
 translate chinese forestvisit1choice1_61557745:
 
     # butters "They’re a unique flower that wards off evil, they only grow in cold and moist locations, as long as the sun shines on it."
-    butters "They’re a unique flower that wards off evil, they only grow in cold and moist locations, as long as the sun shines on it."
+    butters "朝露绽放是一种奇特的辟邪花，只有在寒冷和潮湿的地方才能生长，还需要阳光照射。"
 
 # game/forest.rpy#L207
 translate chinese forestvisit1choice1_94dd6b31:
 
     # mc "Doesn’t seem too bad."
-    mc "看起来不算太糟。"
+    mc "总算有个听起来还算安全的了。"
 
 # game/forest.rpy#L208
 translate chinese forestvisit1choice1_460dc1ea:
 
     # mc "I’ve never been spelunking before, but it should be okay if we’re prepared, right?"
-    mc "I’ve never been spelunking before, but it should be okay if we’re prepared, right?"
+    mc "我没有过任何洞穴探险经历，但只要我们两个做好充足准备，应该问题不大，对吧？"
 
 # game/forest.rpy#L210
 translate chinese forestvisit1choice1_7c583acd:
 
     # butters "Of course, everything will be just fine. I’ll look after you."
-    butters "Of course, everything will be just fine. I’ll look after you."
+    butters "没错，不会有事的，我罩着你吖。"
 
 # game/forest.rpy#L214
 translate chinese forestvisit1choice1_35a89537:
 
     # butters "You know that unicorns can cast magic, right?"
-    butters "You know that unicorns can cast magic, right?"
+    butters "你知道只有独角兽才能施法对吧？"
 
 # game/forest.rpy#L215
 translate chinese forestvisit1choice1_bccc284a:
 
     # mc "Yeah, not quite sure how or why though."
-    mc "Yeah, not quite sure how or why though."
+    mc "嗯，不过我不知道过程和原理。"
 
 # game/forest.rpy#L216
 translate chinese forestvisit1choice1_a6f1db84:
 
     # butters "Wouldn’t it be exciting if you could do magic without having a horn?"
-    butters "Wouldn’t it be exciting if you could do magic without having a horn?"
+    butters "如果没有独角就能施法，你会不会高兴坏呢？"
 
 # game/forest.rpy#L217
 translate chinese forestvisit1choice1_8c1b399a:
 
     # mc "That would be dope."
-    mc "That would be dope."
+    mc "那样的话有点蠢。"
 
 # game/forest.rpy#L219
 translate chinese forestvisit1choice1_e8080985:
 
     # butters "D-Dope…?"
-    butters "D-Dope…?"
+    butters "有，有点蠢...？"
 
 # game/forest.rpy#L220
 translate chinese forestvisit1choice1_2093991a:
 
     # mc "I meant to say delightful, my bad."
-    mc "I meant to say delightful, my bad."
+    mc "啊，我是说那样很棒，嘴瓢了。"
 
 # game/forest.rpy#L222
 translate chinese forestvisit1choice1_97a26e52:
 
     # butters "Delightful!"
-    butters "Delightful!"
+    butters "没错，很棒！"
 
 # game/forest.rpy#L223
 translate chinese forestvisit1choice1_c386e0a6:

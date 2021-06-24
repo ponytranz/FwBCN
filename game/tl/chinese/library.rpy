@@ -1,4 +1,4 @@
-# Translation updated at Wed Jun 23 2021 00:43:47 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Thu Jun 24 2021 00:39:04 GMT+0000 (Coordinated Universal Time)
 # game/library.rpy#L18
 translate chinese libraryvisit1_98593462:
 
@@ -3333,7 +3333,7 @@ translate chinese lilytj_196ee984:
 translate chinese lilytj_3cb65010:
 
     # penelope "*Sigh*, yeah… Easy to forget that she’s the Queen’s student, she must have one of the biggest workloads of any mare in the country."
-    penelope "唉，是啊，很容易忘记她可是女王的学生，她肯定是这个国家工作量最大的马之一。"
+    penelope "唉，是啊，很容易就忘记她可是女皇陛下的学生，她肯定是这个国家工作量最大的马之一。"
 
 # game/library.rpy#L979
 translate chinese lilytj_04b5dbf4:
@@ -3351,13 +3351,13 @@ translate chinese lilytj_d4b2f060:
 translate chinese lilytj_8ae40760:
 
     # mc "Wow, that explains how she can give me an audience."
-    mc "哇，这就解释了她为什么能给我当一位阅听人。"
+    mc "哇，这就解释了她为什么能让我当一位倾听者。"
 
 # game/library.rpy#L984
 translate chinese lilytj_c9795851:
 
     # penelope "Could you pay close attention to her the next time you two meet up? I don’t mean to poke my nose where it doesn’t belong, but I am slightly concerned about her sometimes."
-    penelope "下次你们俩见面的时候，你能不多仔细关心她一下？虽然我不想多管闲事，但我有时还是担心她。"
+    penelope "下次你们俩见面的时候，你能不能多仔细关心她一下？不是我想多管闲事，但我真的有时还是担心她。"
 
 # game/library.rpy#L985
 translate chinese lilytj_e5cf360c:
@@ -3369,25 +3369,25 @@ translate chinese lilytj_e5cf360c:
 translate chinese lilytj_b8d83951:
 
     # penelope "Cheers [playername]. I wasn’t sure about you at first, but you’re pretty cool. I can see why Moxie likes you, you two are a match for sure."
-    penelope "谢啦[playername]。你确实很酷。我现在理解Moxie为什么喜欢你了，你俩真是般配。"
+    penelope "谢啦[playername]。你真的很帅。我现在理解Moxie为什么喜欢你了，你俩真是般配。"
 
 # game/library.rpy#L989
 translate chinese lilytj_314fdc6d:
 
     # penelope "Pardon me, I’ve been asking you too many questions. I hope I’m not making you uncomfortable, I did invite you here for a movie."
-    penelope "抱歉，刚刚我问的问题太多了，希望没让你不太舒服。我确实是邀请你来看电影的。"
+    penelope "抱歉，刚刚我问的问题有点多了，希望没让你不舒服。我确实是来邀请你看电影的。"
 
 # game/library.rpy#L991
 translate chinese lilytj_6d9cf3d2:
 
     # penelope "I bet you haven’t seen a pony film before, there are so many great ones I could show you."
-    penelope "我打赌你以前没有看过小马的电影，有很多很棒的电影我可以推荐给你看。"
+    penelope "我打赌你还没有看过小马的电影，我这有很多很棒的电影可以推荐给你看。"
 
 # game/library.rpy#L992
 translate chinese lilytj_5f009837:
 
     # mc "I’m excited to see what a film from another world is like."
-    mc "我对另一个世界的电影是个什么样感到非常有兴趣。"
+    mc "我对另一个世界的电影是什么样感到非常有兴趣。"
 
 # game/library.rpy#L993
 translate chinese lilytj_16b6e808:
@@ -3405,7 +3405,7 @@ translate chinese lilytj_10a7a424:
 translate chinese lilytj_6f2fdf6e:
 
     # "Me and Penny start watching one of her favourite pony films. It's extremely high quality, it seems the inclusion of magic in this world has given filmmakers tons of freedom in effects and cinematography."
-    "我和Penny开始看她最喜欢的一部小马电影。它的质量非常高，似乎是因为这个世界拥有魔法，这给予了电影制作者在视觉效果和摄影方面上大量的自由。"
+    "我和Penny开始看她最喜欢的一部小马电影。似乎是因为这个世界拥有魔法，所以这给予了电影制作者在视觉效果和摄影方面上大量自由，它的质量非常高。"
 
 # game/library.rpy#L998
 translate chinese lilytj_2674aab9:
@@ -3417,7 +3417,7 @@ translate chinese lilytj_2674aab9:
 translate chinese lilytj_6fb9407e:
 
     # "Penny seems distracted and fidgety though."
-    "Penny似乎有点心烦意乱，坐立不安。"
+    "而Penny似乎有点心烦意乱，坐立不安。"
 
 # game/library.rpy#L1001
 translate chinese lilytj_4d44207c:
@@ -3435,55 +3435,55 @@ translate chinese lilytj_f28b3ab9:
 translate chinese lilytj_a1924e97:
 
     # penelope "Yeah, yeah… I’m fine, let’s keep watching."
-    penelope "是，我没事，我们接着看吧。"
+    penelope "是的，我没事，我们接着看吧。"
 
 # game/library.rpy#L1005
 translate chinese lilytj_ec639b12:
 
     # "As we continue to watch, Penny is clearly troubled by something. It gets to the point where she stands up and starts pacing around the room. I can’t help but ask her what’s wrong."
-    "随着我们继续观看，Penny显然是被什么东西困扰着。最终她站了起来，开始在房间里走来走去。我忍不住问她怎么了。"
+    "随着我们继续观看，Penny显然是被什么东西困扰着。最终她站了起来，开始在房间里走来走去。我不禁问她怎么了。"
 
 # game/library.rpy#L1006
 translate chinese lilytj_aceb7e36:
 
     # mc "Really, Penny, is everything okay?"
-    mc "告诉我，Penny，一切都好吗?"
+    mc "跟我说，Penny，你不舒服吗?"
 
 # game/library.rpy#L1008
 translate chinese lilytj_097dee06:
 
     # penelope "Uhm, yes and no. Hang on, let me pause the film."
-    penelope "嗯，可以说是也不是。等一下，让我暂停一下电影。"
+    penelope "嗯，说是也不是。等一下，让我先暂停下电影。"
 
 # game/library.rpy#L1011
 translate chinese lilytj_dab4db5a:
 
     # "Aw damnit, it was just getting exciting."
-    "哦干，只是越来越兴奋了。"
+    "哦干，我只是越来越性奋了。"
 
 # game/library.rpy#L1013
 translate chinese lilytj_e843fff8:
 
     # "She sits down beside me again."
-    "她又在我身边坐下了。"
+    "她在我身边坐下了。"
 
 # game/library.rpy#L1014
 translate chinese lilytj_38f62ff5:
 
     # penelope "I was a little naïve, but I didn’t realize my estrus would be this bad."
-    penelope "我有点幼稚，我没意识到我的发情会如此严糟糕。"
+    penelope "我有点小瞧了，我没意识到我的发情会如此严重。"
 
 # game/library.rpy#L1015
 translate chinese lilytj_86c33819:
 
     # penelope "Since you’re a ‘human’, and not a stallion I thought we could just chill out together."
-    penelope "既然你是“人类”，而不是种马，我想我们可以一起放松一下。"
+    penelope "既然你是“人类”，又不是种马，我想我们可以在一起放松一下。"
 
 # game/library.rpy#L1017
 translate chinese lilytj_3fd1aa36:
 
     # penelope "But these feelings are overwhelming, I can barely see or think straight."
-    penelope "这些感觉太强烈了，我几乎无法保持清醒。"
+    penelope "这些感觉太强烈了，我几乎无法保持理智。"
 
 # game/library.rpy#L1018
 translate chinese lilytj_dfbb86e7:
@@ -3501,13 +3501,13 @@ translate chinese lilytj_9e5f3f20:
 translate chinese lilytj_1fa7dcb3:
 
     # "Every mare in heat I’ve met so far has been happy to do something sexual with me, but Penelope doesn’t seem to be like that."
-    "到目前为止，我遇到的每匹发情母马都很乐意和我做爱，但Penelope不是那样。"
+    "到目前为止，我遇到的每匹发情母马都很乐意和我做爱，但Penelope不是那样的。"
 
 # game/library.rpy#L1022
 translate chinese lilytj_be2303ac:
 
     # penelope "I don’t want you to leave, I’d feel terrible if I made you do that."
-    penelope "我不想让你离开，如果你离开我会很难过的。"
+    penelope "我可不想让你离开，如果你离开我会很难受的。"
 
 # game/library.rpy#L1023
 translate chinese lilytj_6a426349:
@@ -3519,7 +3519,7 @@ translate chinese lilytj_6a426349:
 translate chinese lilytj_34a0b38c:
 
     # mc "Is it really that bad? It sounds awful."
-    mc "那么糟吗?这听起来确实很难受。"
+    mc "有那么糟吗?听起来很难受。"
 
 # game/library.rpy#L1026
 translate chinese lilytj_d1a06569:
@@ -3531,7 +3531,7 @@ translate chinese lilytj_d1a06569:
 translate chinese lilytj_ad1b4df5:
 
     # penelope "The sexual urges may be annoying, but I can mostly ignore them… However, I start feeling extremely lethargic."
-    penelope "性冲动有时很烦人，但我基本可以做到忽略它们......然而，只到我开始感觉非常昏昏欲睡。"
+    penelope "性冲动有时很烦人，但我基本平尸兄可以做到忽略它......然而，现在我开始感觉非常昏昏欲睡。"
 
 # game/library.rpy#L1028
 translate chinese lilytj_fdeda7ee:
@@ -3627,7 +3627,7 @@ translate chinese lilytj_4f8a600f:
 translate chinese lilytj_1eb77cd4:
 
     # mc "Well, with another girl anyway, I don’t think I could do that with a man."
-    mc "不管怎样说，至少也是和另一个女孩子做，我不认为我可以和男人做。"
+    mc "不管怎样说，至少也是在和另一位女孩子做，我不认为我可以和男人做。"
 
 # game/library.rpy#L1053
 translate chinese penelopecunnilingus_ecd6ee50:
@@ -3639,7 +3639,7 @@ translate chinese penelopecunnilingus_ecd6ee50:
 translate chinese penelopecunnilingus_c3f1cdcc:
 
     # "Penny excitedly checks through her shelves for a specific book, ‘big book of sex spells’, that’s certainly an interesting title..."
-    "Penny兴奋地从书架上翻到一本特别的书，名为《性咒语大全》。嗯…这标题确实很有趣……"
+    "Penny兴奋地从书架上翻到一本特别的书，名为《性咒语大全》。嗯…这标题确实挺有趣……"
 
 # game/library.rpy#L1057
 translate chinese penelopecunnilingus_1ca22820:
@@ -3657,13 +3657,13 @@ translate chinese penelopecunnilingus_91a35a28:
 translate chinese penelopecunnilingus_ed840b1f:
 
     # mc "Is that as high as it’ll go? You wouldn’t want me to change half-way through."
-    mc "就这么兴奋吗?你不会希望我半途而废的。"
+    mc "就这么兴奋吗?你不会希望我半途而废吧。"
 
 # game/library.rpy#L1061
 translate chinese penelopecunnilingus_6d441681:
 
     # penelope "Hm… That’s a scary thought. Oddly exciting, but scary."
-    penelope "嗯……这是一个大胆的想法。既让人觉得兴奋，又感到担心。"
+    penelope "嗯……这可是一个大胆的想法。既让人觉得兴奋，又感到担心。"
 
 # game/library.rpy#L1063
 translate chinese penelopecunnilingus_966bec19:
@@ -3681,25 +3681,25 @@ translate chinese penelopecunnilingus_c385cb9b:
 translate chinese penelopecunnilingus_74b6e9d5:
 
     # "Almost catching me off guard, Penny’s horn flashes, and I feel a surge of magic surround me. Within a painless instant, I find myself miraculously possessing a female body."
-    "Penny魔光一闪，一股魔力突然包围着我，这让我有些措手不及。在一个无痛的瞬间后，我奇迹般地拥有了一个女性的身体。"
+    "Penny魔光一闪，一股魔力突然包围住了我，这让我有些措手不及。在一个无痛的瞬间之后，我奇迹般地拥有了一个女性的身体。"
 
 # game/library.rpy#L1068
 translate chinese penelopecunnilingus_f73e61a2:
 
     # "It takes my mind a while to adjust to the changes."
-    "我的大脑需要一段时间来适应这些变化。"
+    "我的大脑还需要一段时间来适应这些变化。"
 
 # game/library.rpy#L1069
 translate chinese penelopecunnilingus_2a3ce814:
 
     # "My senses don’t immediately register the addition of breasts or the loss of my male genitalia, but gradually my senses realign."
-    "我的感官并没有立即意识到乳房的增加和男性生殖器的消失，但感官正逐渐重新调整。"
+    "乳房的增加和男性生殖器的消失并没有被我的感官立即意识到，现在感官正逐渐重新调整。"
 
 # game/library.rpy#L1071
 translate chinese penelopecunnilingus_e5007db7:
 
     # penelope "Theory is, this is the body you’d have if you were born a girl. Your hair is still short though, that’s fine, I like it short."
-    penelope "从理论上讲，如果你生为女孩子，这就会是你的身体。不过你的头发还是短，没关系，我喜欢短头发。"
+    penelope "从理论上讲，如果你生为女孩，你的身体就会是这样的。你的头发还是短，不过没关系，我喜欢短头发。"
 
 # game/library.rpy#L1072
 translate chinese penelopecunnilingus_c699fb41:
@@ -3717,13 +3717,13 @@ translate chinese penelopecunnilingus_666294da:
 translate chinese penelopecunnilingus_5314b703:
 
     # penelope "I’ve never used a spell like this before... I can’t believe it’s turning me on this much."
-    penelope "我还从来没用过这样的咒语……真不敢相信这会让我这么兴奋。"
+    penelope "我还从来没用过这样的咒语……我太兴奋了。"
 
 # game/library.rpy#L1077
 translate chinese penelopecunnilingus_79f24898:
 
     # mc "Is this your fetish, or something?"
-    mc "这是你的性癖吗?"
+    mc "所以这是你的性癖吗?"
 
 # game/library.rpy#L1079
 translate chinese penelopecunnilingus_8fcd076a:
@@ -3759,25 +3759,25 @@ translate chinese penelopecunnilingus_5eb5eeca:
 translate chinese penelopecunnilingus_85ab69b3:
 
     # "Feeling all tension drift away from my body, I sink back into the sofa, completely captivated by her kiss."
-    "感觉身体里所有的紧张感都消失了，我倒在沙发上，完全被她的吻迷住了。"
+    "感觉身体里所有的紧张感都消失了，我倒在沙发上，被她的吻完全迷住了。"
 
 # game/library.rpy#L1089
 translate chinese penelopecunnilingus_93a919e7:
 
     # "I can feel myself getting aroused in a new and unusual way. I feel a warmth in my pelvis and a tingling sensation."
-    "我能感觉到身体以一种新的方式被唤醒。我感到骨盆在发热，还带有一种刺痛感。"
+    "我能感觉到我的身体以一种新的方式被唤醒。我感到骨盆在发热，还带有一种刺痛感。"
 
 # game/library.rpy#L1090
 translate chinese penelopecunnilingus_c8f4d9a8:
 
     # "It’s hard to describe these different feelings, all I know is that I want more."
-    "很难描述这些不同感受的细节，我只想要更多。"
+    "很难描述这些不同感受的细节，现在我只想要更多。"
 
 # game/library.rpy#L1092
 translate chinese penelopecunnilingus_b6267163:
 
     # penelope "Mmphh, ah… How’s your new body?"
-    penelope "么么，哈……感觉你的新身体怎么样？"
+    penelope "呣呣，哈……感觉你的新身体怎么样？"
 
 # game/library.rpy#L1093
 translate chinese penelopecunnilingus_4e3f8af3:
@@ -3807,7 +3807,7 @@ translate chinese penelopecunnilingus_804df073:
 translate chinese penelopecunnilingus_aab0e353:
 
     # "Penny swaps her mouth to the other nipple and continues to tease me. I rub my thighs together slightly resulting in a tiny pleasurable sensation, but it only increases my desire to be touched."
-    "Penny把她的嘴换到另一个乳头上，继续挑逗着我。我轻轻摩擦大腿，产生了微小的愉悦感，但这会增加我被抚摸的欲望。"
+    "Penny把她的嘴换到另一个乳头上，继续挑逗着我。我轻轻摩擦大腿，产生了微小的愉悦感，而我想被爱抚的欲望增加了。"
 
 # game/library.rpy#L1102
 translate chinese penelopecunnilingus_e77cfc56:
@@ -3819,7 +3819,7 @@ translate chinese penelopecunnilingus_e77cfc56:
 translate chinese penelopecunnilingus_15d047fc:
 
     # "It feels so wet and sloppy, but when she focuses on my clit my body is racked with a powerful sensation that causes my back to arch and my eyes to roll back."
-    "我感觉阴蒂湿漉漉的，当她专注于我的阴蒂时，我的身体被一种强烈的感觉折磨着，我的背拱了起来，眼睛向后翻动。"
+    "我感觉阴蒂湿漉漉的，当她专注于我的阴蒂时，我的身体被一种强烈的感觉折磨着，我的背拱了起来，眼珠向后翻动。"
 
 # game/library.rpy#L1104
 translate chinese penelopecunnilingus_a879fce2:
@@ -3837,49 +3837,49 @@ translate chinese penelopecunnilingus_2d0ad636:
 translate chinese penelopecunnilingus_83134baa:
 
     # "This is fucking awesome. Penny’s tongue skillfully pleasures my clit over and over. I have to hold back a few moans with the worry that Lily might hear me."
-    "这他妈的太棒了。Penny巧妙的舌头一遍又一遍地取悦我的阴蒂。我不得不忍住几声呻吟，生怕Lily会听到。"
+    "这太他妈棒了。Penny巧妙的舌头一遍又一遍地取悦我的阴蒂。我不得不忍住几声呻吟，生怕Lily会听到。"
 
 # game/library.rpy#L1107
 translate chinese penelopecunnilingus_a8108bdd:
 
     # "Occasionally I can feel her lips purse around my clit, sucking. Simultaneously I can feel a pressure from her tongue. The combination of sensations drives me wild, my fingers gripping tightly into the sofa cushions."
-    "同时我能感觉到她用嘴唇夹住我的阴蒂周围吮吸，我能感觉到她舌头上的压力。这种混合的感觉让我疯狂，我的手指紧紧地攥在沙发垫上。"
+    "同时我能感受到她用嘴唇夹住我的阴蒂周围进行吮吸，还有来自她舌头上的压力。这种混合的快感让我欲罢不能，我的手紧紧地攥在沙发垫上。"
 
 # game/library.rpy#L1108
 translate chinese penelopecunnilingus_0ca762ba:
 
     # "I can’t help but squirm and moan. It feels amazing, and the pleasure keeps rising."
-    "我忍不住扭动和呻吟。这种感觉很奇妙，而且快感在不断上升。"
+    "我忍不住扭动和呻吟。这感觉太好了，快感在不断上升。"
 
 # game/library.rpy#L1109
 translate chinese penelopecunnilingus_4f30831f:
 
     # "It doesn’t just feel like she’s licking my clit, it feels like she’s making out with my pussy."
-    "这不只是感觉她在舔我的阴蒂，感觉她在和我的阴部亲热。"
+    "这不只是感觉她在舔我的阴蒂，感觉她在和我的小妹妹亲热。"
 
 # game/library.rpy#L1111
 translate chinese penelopecunnilingus_17f8fd47:
 
     # "Finally, her skillful tongue work on my pussy pushes me to the edge and I climax."
-    "最后，她用熟练的舌头将我的阴部推到边缘，我达到了高潮。"
+    "最后，她用熟练的舌头将我的小穴推到快感的边缘，我达到了高潮。"
 
 # game/library.rpy#L1113
 translate chinese penelopecunnilingus_5b9a6ddd:
 
     # "The initial climax is powerful, similar to a male orgasm, however the peak of euphoria drags on for far longer."
-    "最初的高潮是强大的，类似于男性的射精，但是快感持续的时间更长。"
+    "一开始高潮快感是强烈的，类似于男性的射精，不过这持续的时间要更为长久。"
 
 # game/library.rpy#L1114
 translate chinese penelopecunnilingus_8ee05ce0:
 
     # "The euphoria dissipates but the climax continues with heightened sensitivity, each movement of Penny’s tongue fills my entire body with potent pleasure."
-    "兴奋消散了，但高潮仍在继续，敏感度加剧，现在佩妮舌头的每一个动作都使我的身体充满了强烈的快感。"
+    "兴奋消散了，但高潮仍在继续，敏感度加剧，现在Penny舌头的每一个动作都使我的身体充满了快乐。"
 
 # game/library.rpy#L1115
 translate chinese penelopecunnilingus_fdcca796:
 
     # "Overall, the orgasm lasted far longer than a man's would. And while the peak of pleasure was relatively the same, the length of the female orgasm easily bested the two."
-    "总的来说，女性高潮持续时间比男人的要持久得多。虽然快感的峰值相对相同，但女性高潮的时长很容易就超过了男性。"
+    "总的来说，女性高潮的持续时间要比男性持久得多。尽管快感的峰值相对平等，但女性高潮的时长很容易就超过了男性。"
 
 # game/library.rpy#L1116
 translate chinese penelopecunnilingus_ac2ce923:
@@ -3897,7 +3897,7 @@ translate chinese penelopecunnilingus_465e6813:
 translate chinese penelopecunnilingus_3ca397f6:
 
     # penelope "However, it’s time for you to explore a different body now."
-    penelope "但，现在是时候让你探索另一幅身体了。"
+    penelope "不过，现在是时候让你探索另一幅身体了。"
 
 # game/library.rpy#L1122
 translate chinese penelopecunnilingus_dad8485d:
@@ -3909,7 +3909,7 @@ translate chinese penelopecunnilingus_dad8485d:
 translate chinese penelopecunnilingus_c07bb284:
 
     # "As she slowly lowers herself, I resign myself to pleasure her as much as possible. I may not be as good at cunnilingus, but I want to wow her."
-    "当她慢慢低下自己的身子时，我只好竭尽全力地来取悦她。尽管我并不擅长舔阴，但我想给她满足。"
+    "当她慢慢低下身子时，我只好竭尽全力地来取悦她。尽管我并不擅长舔穴，但我想给她满足。"
 
 # game/library.rpy#L1125
 translate chinese penelopecunnilingus_a7cc053b:
@@ -3945,7 +3945,7 @@ translate chinese penelopecunnilingus_ce0d2d16:
 translate chinese penelopecunnilingus_43cfdefa:
 
     # penelope "Ahh, ah… Don’t hold back though, it feels so amazing! Even better than normal!"
-    penelope "啊，啊……不要停，这感觉太棒了!甚至比平常还要好!"
+    penelope "啊，啊……不要停，这感觉太棒了!甚至比平常做还要好!"
 
 # game/library.rpy#L1131
 translate chinese penelopecunnilingus_12a1818b:
@@ -3957,7 +3957,7 @@ translate chinese penelopecunnilingus_12a1818b:
 translate chinese penelopecunnilingus_fe920b08:
 
     # "As her hips move the fur of her thighs pleasantly brush against my cheek, and the grool from her sex drips onto my lips and tongue."
-    "当她的臀部移动时，她大腿上的皮毛愉快地拂过我的脸颊，她的汁液伴随着呻吟声滴落在我的嘴唇和舌头上。"
+    "当她的臀部移动时，大腿上的皮毛愉悦地的拂过我的脸颊，汁液也伴随着呻吟声滴落在我的嘴唇和舌头上。"
 
 # game/library.rpy#L1133
 translate chinese penelopecunnilingus_22121089:
@@ -3969,13 +3969,13 @@ translate chinese penelopecunnilingus_22121089:
 translate chinese penelopecunnilingus_59e4badf:
 
     # "As my tongue persists, continuously keeping up the pleasure on her sweet spot, her grinding gradually becomes more needy and vigorous."
-    "随着我的舌头持续不断地在她的甜蜜处保持愉悦，她逐渐磨的得更加有力。"
+    "随着我的舌头持续不断地在她的蜜穴保持着动作，她也逐渐磨的得更加有力了。"
 
 # game/library.rpy#L1135
 translate chinese penelopecunnilingus_d259eb52:
 
     # "She applies more pressure onto my face as she drags herself back and forth. Her gasps from earlier dissolving into complete passionate moans."
-    "她来回拖动着身体，在我脸上施加了更大的压力。她先前的喘息声已是激情的呻吟了。"
+    "她来回拖动着身体，在我脸上施加了更大的压力。她先前的喘息声现已是激情的呻吟了。"
 
 # game/library.rpy#L1136
 translate chinese penelopecunnilingus_73118253:
@@ -3987,25 +3987,25 @@ translate chinese penelopecunnilingus_73118253:
 translate chinese penelopecunnilingus_bbad22c1:
 
     # "I have to hold her thighs in place as I tactfully suck and lick her moving clit to the best of my ability, even as she wriggles and writhes above me."
-    "我必须把她的大腿固定在合适的位置，我用我最好的技巧吮吸她的阴蒂，即使她在我上面扭动。"
+    "我必须把她的大腿固定在合适的位置，即便她在我上面扭动，我也要用我最好的技巧吮吸她的阴蒂。"
 
 # game/library.rpy#L1138
 translate chinese penelopecunnilingus_f9c27e10:
 
     # penelope "C-Coming! Aaaahhhhh, aaaahhhhh!"
-    penelope "要-来了！啊啊啊，啊啊啊！"
+    penelope "要-要来了！啊啊啊，啊啊啊！"
 
 # game/library.rpy#L1139
 translate chinese penelopecunnilingus_d24b7e37:
 
     # "She actually stops grinding and arches her back as she climaxes, allowing me to pleasure her throughout the entire duration."
-    "当她高潮时，她停止了磨蹭并拱起了背，让我在整个过程中取悦她。"
+    "当她高潮时，她停止了磨蹭并拱起了背，让我自始至终的取悦了她。"
 
 # game/library.rpy#L1143
 translate chinese penelopecunnilingus_5960762e:
 
     # "As she gradually comes to a halt, she lifts herself from my face and crumples down onto the sofa. Her legs seemingly weak as she catches her breath."
-    "她慢慢地缓了下来，从我面前刚站起来不久便瘫倒在沙发上。她喘着气，双腿似乎很虚软。"
+    "她慢慢地缓了下来，从我面前刚站起来还不久便瘫倒在沙发上。她喘着气，双腿似乎很无力。"
 
 # game/library.rpy#L1144
 translate chinese penelopecunnilingus_51e7d673:
@@ -4017,7 +4017,7 @@ translate chinese penelopecunnilingus_51e7d673:
 translate chinese penelopecunnilingus_74fc57e4:
 
     # "I sit up and she notices my face is covered in her wetness, so she graciously pats me down with a tissue."
-    "我坐了起来，她注意到我的脸沾满了她的液体，所以她温柔地用纸巾擦了擦我。"
+    "我坐了起来，她注意到我的脸上沾满了她的液体，所以她温柔地用纸巾擦了擦我。"
 
 # game/library.rpy#L1151
 translate chinese penelopecunnilingus_5b02c089:
@@ -4029,25 +4029,25 @@ translate chinese penelopecunnilingus_5b02c089:
 translate chinese penelopecunnilingus_0114fe14:
 
     # penelope "You’re telling me. You also gave me an orgasm like nothing I’ve ever experienced too."
-    penelope "我得说。你也给了我前所未有的高潮。"
+    penelope "我得说，你也给了我前所未有的高潮。"
 
 # game/library.rpy#L1155
 translate chinese penelopecunnilingus_5a206fb5:
 
     # penelope "Some odd combination of my heat, combined with your male pheromones and a newly awakened fetish just exponentially stacked on each other."
-    penelope "我的发情，还有你的雄性信息素和我新觉醒的性癖的奇妙组合，成倍地叠加在一起。"
+    penelope "我的发情，你的雄性信息素还有我新觉醒性癖组成的奇妙组合，快感成倍地叠加在一起。"
 
 # game/library.rpy#L1157
 translate chinese penelopecunnilingus_5ed855dc:
 
     # penelope "God damn, I wanna do it again, can we do it again? Right now?"
-    penelope "该死，我真想再来一次，我们能再来一次吗?现在你好些了吗?"
+    penelope "该死，我真想再来一次，我们能再来一次吗?你现在好些了吗?"
 
 # game/library.rpy#L1158
 translate chinese penelopecunnilingus_913d6987:
 
     # "B-But the film… Fine, okay, we can do it again…"
-    "但-但是电影…好吧，好吧，我们可以再来一次…"
+    "但-但是电影…算了，再来一次…"
 
 # game/library.rpy#L1159
 translate chinese penelopecunnilingus_9d9e2d08:
@@ -4077,19 +4077,19 @@ translate chinese penelopecunnilingus_ce29b6cf:
 translate chinese penelopecunnilingus_bb50c9aa:
 
     # "I did have the nagging feeling I’d spontaneously turn male at some point during the sex, but Penny kept a close eye on the time."
-    "有一点让我耿耿于怀，那就是在做爱过程中的某个时刻我会很自然地变成男性，但Penny一直密切关注着时间。"
+    "有一点让我耿耿于怀，那就是在做爱过程中的某些时刻我会很自然地以为自己还是男性，不过Penny一直在密切关注着时间。"
 
 # game/library.rpy#L1170
 translate chinese penelopecunnilingus_f105c86d:
 
     # "After we both enjoyed our second orgasms she sat back down on the sofa, shortly after I found myself reacquainted with my penis. I must admit, I was starting to miss it."
-    "在我们都享受了第二次高潮后，她坐回了沙发上，不久后我发现我的阴茎恢复了。老实说，我都开始想念它了。"
+    "在我们都享受了第二次高潮后，她坐回了沙发上，不久后我发现我的阴茎回来了。老实说，我都开始想念它了。"
 
 # game/library.rpy#L1172
 translate chinese penelopecunnilingus_66165720:
 
     # penelope "Mmphh, the spell finally faded... That felt like a long thirty minutes."
-    penelope "嗯，咒语终于消失了……这感觉真是漫长的30分钟。"
+    penelope "嗯，咒语终于消失了……真是漫长的30分钟啊。"
 
 # game/library.rpy#L1173
 translate chinese penelopecunnilingus_d2f3625c:
@@ -4101,7 +4101,7 @@ translate chinese penelopecunnilingus_d2f3625c:
 translate chinese penelopecunnilingus_485ef22a:
 
     # mc "Crazy is right. I'm a dude that just had lesbian sex."
-    mc "确实。我也是个和女同做爱的男人。"
+    mc "确实。现在我也是个和女同做爱过的男人了。"
 
 # game/library.rpy#L1176
 translate chinese penelopecunnilingus_05cadfd9:
@@ -4191,7 +4191,7 @@ translate chinese penelopecunnilingus_cd3a38bf:
 translate chinese penelopecunnilingus_f5b38f33:
 
     # "When I return it’s just past 5:00pm so Moxie is already back, relaxing on the sofa."
-    "当我回来的时候，已是下午5点多了，所以Moxie也到家了，正躺在沙发上休息。"
+    "当我回来的时候，已是下午5点多了，所以Moxie也到家了，她正躺在沙发上休息。"
 
 # game/library.rpy#L1201
 translate chinese penelopecunnilingus_ae2ba835:
@@ -4209,55 +4209,55 @@ translate chinese penelopecunnilingus_42f006ee:
 translate chinese penelopecunnilingus_604ba663:
 
     # moxie "Ahaha, sure it was! But I bet it can't match our talks."
-    moxie "Ahaha, sure it was! But I bet it can't match our talks."
+    moxie "哈哈，那是!但我打赌肯定比不上我们说的。"
 
 # game/library.rpy#L1206
 translate chinese penelopecunnilingus_c6e8e7e5:
 
     # moxie "Speaking of talks, Lily, right? Any news on that DNA stuff?"
-    moxie "Speaking of talks, Lily, right? Any news on that DNA stuff?"
+    moxie "对了，说到谈话…Lily那个DAN的事进展的怎么样了？"
 
 # game/library.rpy#L1207
 translate chinese penelopecunnilingus_133e0987:
 
     # mc "Not really, although Lily did reveal that there are no alternate universe versions of me in the surrounding area."
-    mc "Not really, although Lily did reveal that there are no alternate universe versions of me in the surrounding area."
+    mc "不知道，不过Lily确实说过这附近并没有另一个平行宇宙版本的我。"
 
 # game/library.rpy#L1209
 translate chinese penelopecunnilingus_b0418f3c:
 
     # moxie "Jeez, all by herself? I can't even comprehend how she did that, I have to admit that’s immensely impressive."
-    moxie "Jeez, all by herself? I can't even comprehend how she did that, I have to admit that’s immensely impressive."
+    moxie "不会吧，真没有请其他人?我甚至不能理解她是如何做到的，我现在得承认这确实是今人印象深刻。"
 
 # game/library.rpy#L1211
 translate chinese penelopecunnilingus_baf6b578:
 
     # moxie "No other versions of you... Well, now I’m just confused, does this mean you're not from another universe like Penny said?"
-    moxie "No other versions of you... Well, now I’m just confused, does this mean you're not from another universe like Penny said?"
+    moxie "没有其他版本的你…我有点糊涂了，等等，这是不是说明你不是Penny所说的来自另一个宇宙?"
 
 # game/library.rpy#L1212
 translate chinese penelopecunnilingus_a190c590:
 
     # mc "Yeah, I’ll be honest, I’m equally confused."
-    mc "Yeah, I’ll be honest, I’m equally confused."
+    mc "是啊，说实话，我也很困惑。"
 
 # game/library.rpy#L1213
 translate chinese penelopecunnilingus_1e0d5b49:
 
     # mc "Although Lily doesn't think I'm from another universe, she thinks the answer is much more 'simple'."
-    mc "Although Lily doesn't think I'm from another universe, she thinks the answer is much more 'simple'."
+    mc "虽然Lily不认为我来自另一个宇宙，但她认为其实答案要“简单得多”。"
 
 # game/library.rpy#L1214
 translate chinese penelopecunnilingus_c82dc8ce:
 
     # mc "Lily suggested that if I wanted to make any real progress in the investigation I’ll have to meet with the Royal Sisters."
-    mc "Lily suggested that if I wanted to make any real progress in the investigation I’ll have to meet with the Royal Sisters."
+    mc "Lily说如果我想在调查中取得实质性的进展就得去见皇家姐妹。"
 
 # game/library.rpy#L1215
 translate chinese penelopecunnilingus_4d2b46db:
 
     # mc "Specifically someone called Selene?"
-    mc "Specifically someone called Selene?"
+    mc "确切地说是一个叫Selene的人?"
 
 # game/library.rpy#L1217
 translate chinese penelopecunnilingus_c2279c89:
@@ -4269,25 +4269,25 @@ translate chinese penelopecunnilingus_c2279c89:
 translate chinese penelopecunnilingus_e350f074:
 
     # moxie "You’re kidding? I-I need to come with you if that happens!"
-    moxie "You’re kidding? I-I need to come with you if that happens!"
+    moxie "你在开玩笑吧?如果发生这种事，我-我得跟你一起去!"
 
 # game/library.rpy#L1219
 translate chinese penelopecunnilingus_d8f39ea0:
 
     # mc "I’m sure you’d be welcome to come."
-    mc "I’m sure you’d be welcome to come."
+    mc "我欢迎你的到来。"
 
 # game/library.rpy#L1221
 translate chinese penelopecunnilingus_00ae68d1:
 
     # moxie "Meeting Selene would be a dream come true! I've always adored her and her works."
-    moxie "Meeting Selene would be a dream come true! I've always adored her and her works."
+    moxie "去见Selene一直以来是我的梦想！我一直很喜欢她和她的作品。"
 
 # game/library.rpy#L1222
 translate chinese penelopecunnilingus_051adbba:
 
     # mc "It’s not just a celebrity visit, Lily genuinely thinks that could provide some insight on the situation."
-    mc "It’s not just a celebrity visit, Lily genuinely thinks that could provide some insight on the situation."
+    mc "这可不仅仅是一次仰慕名人之旅，Lily真的认为这次见面可以提供一些有关于这些情况的见解。"
 
 # game/library.rpy#L1224
 translate chinese penelopecunnilingus_c2bf8394:

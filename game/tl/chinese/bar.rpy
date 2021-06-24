@@ -1,4 +1,4 @@
-# Translation updated at Wed Jun 23 2021 00:43:47 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Thu Jun 24 2021 00:39:04 GMT+0000 (Coordinated Universal Time)
 # game/bar.rpy#L13
 translate chinese barvisit1_d43fa519:
 
@@ -63,7 +63,7 @@ translate chinese barvisit1_bf492569:
 translate chinese barvisit1_6052d358:
 
     # riku "Glad you decided to come work here. It's on a reduced wage but sometimes when you’re new you need a little something to get you off your feet, I get that."
-    riku "很高兴你决定来这里工作。虽然工资很低，但现在你初来乍到，还是需要一些东西来帮自己渡过困境的，我很清楚这一点。"
+    riku "很高兴你决定来这里工作。虽然工资很低，但现在你初来乍到，还是需要一些东西来帮自己渡过困境的，我懂的。"
 
 # game/bar.rpy#L38
 translate chinese barvisit1_78c8188b:

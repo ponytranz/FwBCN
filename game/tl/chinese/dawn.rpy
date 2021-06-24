@@ -1,4 +1,4 @@
-# Translation updated at Wed Jun 23 2021 00:43:47 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Thu Jun 24 2021 00:39:04 GMT+0000 (Coordinated Universal Time)
 # game/dawn.rpy#L5
 translate chinese dawntalksex_7eb30d83:
 
@@ -9047,7 +9047,7 @@ translate chinese strings:
 
     # game/dawn.rpy_L1587_3
     old "Oh yeah? Bold words coming from the the most clothed mare in the entire city."
-    new "Oh yeah? Bold words coming from the the most clothed mare in the entire city."
+    new "是吗？这话大胆到不像从Arcadia里着衣最多的雌驹口中说出的。"
 
     # game/dawn.rpy_L1773_0
     old "What’s wrong Lily? Maybe Dawn can give you advice on your sex life."

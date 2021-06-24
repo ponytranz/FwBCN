@@ -1,9 +1,9 @@
-# Translation updated at Wed Jun 23 2021 00:43:47 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Thu Jun 24 2021 00:39:04 GMT+0000 (Coordinated Universal Time)
 translate chinese strings:
 
     # game/y-init.rpy_L7_0
     old "Male Familiar?"
-    new "雄性傀儡？"
+    new "Male Familiar?"
 
     # game/y-init.rpy_L9_0
     old "[playername]"
@@ -15,7 +15,7 @@ translate chinese strings:
 
     # game/y-init.rpy_L23_0
     old "Blueberry"
-    new "蓝莓"
+    new "Blueberry"
 
     # game/y-init.rpy_L24_0
     old "Blackcurrant"

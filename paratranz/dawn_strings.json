@@ -527,14 +527,14 @@
   {
     "id": 79443642,
     "createdAt": "2021-05-30T19:47:48.000Z",
-    "updatedAt": "2021-06-02T15:57:44.000Z",
+    "updatedAt": "2021-06-23T15:29:29.000Z",
     "key": "game/dawn.rpy_L1587_3",
     "original": "Oh yeah? Bold words coming from the the most clothed mare in the entire city.",
-    "translation": "",
+    "translation": "是吗？这话大胆到不像从Arcadia里着衣最多的雌驹口中说出的。",
     "file": 272380,
-    "stage": 0,
+    "stage": 1,
     "project": 2414,
-    "uid": null,
+    "uid": 21832,
     "extra": null,
     "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/dawn.rpy#L1587",
     "words": 15

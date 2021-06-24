@@ -527,14 +527,14 @@
   {
     "id": 79443191,
     "createdAt": "2021-05-30T19:47:47.000Z",
-    "updatedAt": "2021-06-05T10:15:05.000Z",
+    "updatedAt": "2021-06-23T06:32:04.000Z",
     "key": "game/church.rpy_L800_1",
     "original": "Wait, interview? ARE YOU SCOUTING ME RIGHT NOW?",
-    "translation": "等等，“测试”？你现在是在调查我吗？",
+    "translation": "等等，“面试”？你是在评估我吗？",
     "file": 272377,
     "stage": 1,
     "project": 2414,
-    "uid": 19759,
+    "uid": 22062,
     "extra": null,
     "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/church.rpy#L800",
     "words": 8

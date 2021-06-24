@@ -1,4 +1,4 @@
-# Translation updated at Wed Jun 23 2021 00:43:47 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Thu Jun 24 2021 00:39:04 GMT+0000 (Coordinated Universal Time)
 # game/bakery.rpy#L14
 translate chinese bakeryvisit1_2f4adbe4:
 
@@ -7925,11 +7925,11 @@ translate chinese strings:
 
     # game/bakery.rpy_L171_1
     old "Are you like this with everyone?"
-    new "你和每个人都喜欢这样吗？"
+    new "你在每个人面前都这样吗？"
 
     # game/bakery.rpy_L215_0
     old "Yeah, it's a nice butt"
-    new "的确，这屁股可真不错。"
+    new "哈，这屁股可真不错。"
 
     # game/bakery.rpy_L215_1
     old "Maybe, what's it to you?"
@@ -7941,11 +7941,11 @@ translate chinese strings:
 
     # game/bakery.rpy_L225_0
     old "Fuck her"
-    new "干她"
+    new "干她。"
 
     # game/bakery.rpy_L225_1
     old "Not right now"
-    new "现在不行"
+    new "现在不行。"
 
     # game/bakery.rpy_L1439_0
     old "To be happy."
@@ -7957,7 +7957,7 @@ translate chinese strings:
 
     # game/bakery.rpy_L1439_2
     old "To advance and improve society."
-    new "改变和建设社会。"
+    new "改良和建设社会。"
 
     # game/bakery.rpy_L1439_3
     old "To fuck and breed."
@@ -7965,7 +7965,7 @@ translate chinese strings:
 
     # game/bakery.rpy_L1518_0
     old "I get it, let’s keep going."
-    new "我知道了，咱们继续走吧。"
+    new "我知道了，继续讲下去。"
 
     # game/bakery.rpy_L1518_1
     old "Explain it like I’m five?"
@@ -7989,11 +7989,11 @@ translate chinese strings:
 
     # game/bakery.rpy_L1731_1
     old "Are all these Creams horny too?"
-    new "那些Cream也是热爱交合的吗？"
+    new "这些Cream也是热爱交合的吗？"
 
     # game/bakery.rpy_L1761_0
     old "You did an excellent job"
-    new "你干得很好"
+    new "你干得很好。"
 
     # game/bakery.rpy_L1761_1
     old "Too much deep conversation, not enough sex!"
@@ -8001,7 +8001,7 @@ translate chinese strings:
 
     # game/bakery.rpy_L1761_2
     old "I have so many questions right now!"
-    new "我现在有很多问题！"
+    new "我现在有太多问题想问了！"
 
     # game/bakery.rpy_L1782_0
     old "Yeah! Let's have some fun"
@@ -8021,7 +8021,7 @@ translate chinese strings:
 
     # game/bakery.rpy_L2070_1
     old "Talk about the bakery and her ownership of it"
-    new "聊聊关于面包房和面包房所有权的事。"
+    new "聊聊关于面包房和她的所有权的事。"
 
     # game/bakery.rpy_L2107_0
     old "Quickie Doggystyle"
@@ -8029,7 +8029,7 @@ translate chinese strings:
 
     # game/bakery.rpy_L2107_1
     old "Nevermind"
-    new "别介意"
+    new "别在意"
 
     # game/bakery.rpy_L2360_0
     old "Fuck?"

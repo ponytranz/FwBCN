@@ -1,9 +1,9 @@
-# Translation updated at Wed Jun 23 2021 00:43:46 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Thu Jun 24 2021 00:39:04 GMT+0000 (Coordinated Universal Time)
 # game/1prologue.rpy#L25
 translate chinese prologueday1_c7b6965c:
 
     # unknown "Alright... Third time's the charm..."
-    unknown "好……三次出奇迹……"
+    unknown "好……事不过三……"
 
 # game/1prologue.rpy#L26
 translate chinese prologueday1_99d01963:
@@ -3657,7 +3657,7 @@ translate chinese day2label3_6f8347b8:
 translate chinese day2label3_1593b953:
 
     # moxie "It’ll keep going until you’re both unbearably aroused. And trust me, these girls are already unbearably aroused, because there’s not a whole lot to go around…"
-    moxie "空间比较小的话，信号会来回一直传递到你们两个都没办法抑制住性冲动为止。"
+    moxie "空间比较小的话，信号会来回一直传递到你们两个都没办法抑制住性冲动为止。相信我，这些女孩已经无法抑制住性冲动了，就是因为没有足够的公马。"
 
 # game/1prologue.rpy#L1108
 translate chinese day2label3_e45226db:
@@ -5433,13 +5433,13 @@ translate chinese introdoggystyle_b86f721c:
 translate chinese introdoggystyle_c8e8452b:
 
     # "We lay together for quite some time, just enjoying each other’s company. Moxie is the first to break the silence."
-    "我们像这样躺在一起很久了，仅仅是为了享受彼此的陪伴。Moxie是第一个打破这宁静的马。"
+    "我们像这样躺在一起很久了，仅仅是为了享受彼此的陪伴。Moxie首先打破了这宁静。"
 
 # game/1prologue.rpy#L1567
 translate chinese introdoggystyle_15c3119d:
 
     # moxie "How was it? Your first time?"
-    moxie "怎么样？你的第一次吗？"
+    moxie "怎么样？你的第一次？"
 
 # game/1prologue.rpy#L1568
 translate chinese introdoggystyle_c41708ed:
@@ -5469,7 +5469,7 @@ translate chinese introdoggystyle_36e6d313:
 translate chinese introdoggystyle_0c8a7b88:
 
     # moxie "I’m still high in the clouds, floating, floating. My brain is scrambled, my toes are twitching. "
-    moxie "我仍然在高高的云层中漂浮。现在我脑子混乱，脚趾抽搐。"
+    moxie "我的思绪仍然像在高高的云层中漂浮。现在我脑子混乱，脚趾抽搐。"
 
 # game/1prologue.rpy#L1577
 translate chinese introdoggystyle_0456fd01:
@@ -5673,7 +5673,7 @@ translate chinese introdoggystyle_1d49defa:
 translate chinese introdoggystyle_5f93a52f:
 
     # mc "Am I really allowed to do that? "
-    mc "我真能这么干？我真这么能干？"
+    mc "我真能这么干？我真这么能干？？"
 
 # game/1prologue.rpy#L1628
 translate chinese introdoggystyle_3b01eb5d:
@@ -5709,7 +5709,7 @@ translate chinese introdoggystyle_0c7cd48a:
 translate chinese introdoggystyle_07024294:
 
     # mc "And the answer to that is sex?!"
-    mc "你说的开开心心过日子是用下面过吗！？"
+    mc "你说的开开心心过日子是用下面过吗？！"
 
 # game/1prologue.rpy#L1636
 translate chinese introdoggystyle_95dc900b:
@@ -6105,7 +6105,7 @@ translate chinese introdoggystyle_990d8ba7:
 translate chinese introdoggystyle_d76ed39f:
 
     # moxie "To be honest, I may be waiting for your refractory period to end."
-    moxie "有啊，我就等着你的贤者时间过去。"
+    moxie "有啊，我就在等着你的贤者时间过去。"
 
 # game/1prologue.rpy#L1727
 translate chinese introdoggystyle_42bd829d:
@@ -6297,7 +6297,7 @@ translate chinese introdoggystyle_5d001fa8:
 translate chinese introdoggystyle_6bdf891d:
 
     # "And with that, I'm ready."
-    "整装待发。"
+    "我已经整装待发。"
 
 # game/1prologue.rpy#L1774
 translate chinese introdoggystyle_4b2b7389:
@@ -6343,7 +6343,7 @@ translate chinese strings:
 
     # game/1prologue.rpy_L10_1
     old "No, I want to play the first hour of story!"
-    new "不！俺想要玩一个小时的故事！"
+    new "不！俺想要玩一个小时的序言故事！"
 
     # game/1prologue.rpy_L65_0
     old "This could be a dream, but it feels far too real."

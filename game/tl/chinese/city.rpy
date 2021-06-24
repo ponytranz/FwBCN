@@ -1,4 +1,4 @@
-# Translation updated at Wed Jun 23 2021 00:43:47 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Thu Jun 24 2021 00:39:04 GMT+0000 (Coordinated Universal Time)
 # game/city.rpy#L6
 translate chinese city_12914194:
 
@@ -1065,7 +1065,7 @@ translate chinese musicstudio_d434f92c:
 translate chinese musicstudio_4ee80670:
 
     # melody "Oi! Wormy boy where'd you disappear earlier?"
-    melody "Oi! Wormy boy where'd you disappear earlier?"
+    melody "哦 !小牛郎，你之前在哪消失的?"
 
 # game/city.rpy#L371
 translate chinese musicstudio_384d6268:
@@ -1083,7 +1083,7 @@ translate chinese musicstudio_4a32bb03:
 translate chinese musicstudio_f4245d33:
 
     # blossom "I could have done that miss, no need to send [playername], he's very busy."
-    blossom "I could have done that miss, no need to send [playername], he's very busy."
+    blossom "我本来可以做到的，小姐，不需要派[playername]，他很忙。"
 
 # game/city.rpy#L375
 translate chinese musicstudio_68c413d2:
@@ -1101,7 +1101,7 @@ translate chinese musicstudio_3dfc3ecc:
 translate chinese musicstudio_6c6c5c73:
 
     # claire "Now that I've got some monies, I'm going to order some new equipment, do you girls want to help me?"
-    claire "Now that I've got some monies, I'm going to order some new equipment, do you girls want to help me?"
+    claire "我现在有了一些钱，要订购一些新设备，你想帮我吗？"
 
 # game/city.rpy#L382
 translate chinese musicstudio_c21c7dc3:
@@ -1311,7 +1311,7 @@ translate chinese musicstudio_5d4a639e:
 translate chinese musicstudio_e8a12226:
 
     # claire "And uhm... Nice dick... Sex with my boyfriend feels a bit lame now."
-    claire "And uhm... Nice dick... Sex with my boyfriend feels a bit lame now."
+    claire "还有，嗯……好鸡巴……和我男朋友做爱现在感觉有不爽。"
 
 # game/city.rpy#L456
 translate chinese musicstudio_a2d50bc0:
@@ -1323,55 +1323,55 @@ translate chinese musicstudio_a2d50bc0:
 translate chinese musicstudio_402ed282:
 
     # claire "You wanna, maybe...?"
-    claire "You wanna, maybe...?"
+    claire "或者，你想要……？"
 
 # game/city.rpy#L458
 translate chinese musicstudio_2aa0773a:
 
     # mc "Is that not cheating?"
-    mc "Is that not cheating?"
+    mc "你逗我玩呢？"
 
 # game/city.rpy#L459
 translate chinese musicstudio_628651a5:
 
     # claire "It's okay. Ever since Lee {i}actually{/i} cheated on me by having sex with the Zebra as a pony, we decided to open up our relationship anyway..."
-    claire "It's okay. Ever since Lee {i}actually{/i} cheated on me by having sex with the Zebra as a pony, we decided to open up our relationship anyway..."
+    claire "没事的。自从lee{i}真的{/i}欺骗了我，像和小马一样和一匹斑马做爱，我就决定无论如何都要公开我们的关系。"
 
 # game/city.rpy#L460
 translate chinese musicstudio_2cf63371:
 
     # claire "I kinda did it because I knew I'd see you again, and... and..."
-    claire "I kinda did it because I knew I'd see you again, and... and..."
+    claire "我这么做是因为我知道我还会再见到你，而且……还有……"
 
 # game/city.rpy#L461
 translate chinese musicstudio_86f536fb:
 
     # mc "You want to have sex with me again?"
-    mc "You want to have sex with me again?"
+    mc "你想和我再做一次吗？"
 
 # game/city.rpy#L462
 translate chinese musicstudio_1f8e4b2f:
 
     # claire "Mhm. For some reason, I can't get you out of my head."
-    claire "Mhm. For some reason, I can't get you out of my head."
+    claire "嘛。因为一些原因，我没法把你从我的脑海里清除。"
 
 # game/city.rpy#L463
 translate chinese musicstudio_1f500bf7:
 
     # claire "It's like my brain thinks you're my 'mate', or something. I know it sounds weird; the werewolf thing must have messed with my head."
-    claire "It's like my brain thinks you're my 'mate', or something. I know it sounds weird; the werewolf thing must have messed with my head."
+    claire "就像我的大脑认为你是我的“伴侣”，或者别的什么。我知道这听起来很奇怪；狼人那玩意一定把我的脑袋弄乱了。"
 
 # game/city.rpy#L467
 translate chinese musicstudio_6058daaa:
 
     # claire "Please lay down. I think after your excellent job last time, I should return the favour."
-    claire "Please lay down. I think after your excellent job last time, I should return the favour."
+    claire "请躺下。我想在你上次出色的工作之后，我应该好好报答你。"
 
 # game/city.rpy#L470
 translate chinese musicstudio_703d3a18:
 
     # claire "Awhhh... Feel free to ask me whenever..."
-    claire "Awhhh... Feel free to ask me whenever..."
+    claire "啊啊……随时都可以问我……"
 
 # game/city.rpy#L482
 translate chinese musicstudio_a0f890b0:
@@ -1449,7 +1449,7 @@ translate chinese musicstudiomenub_07aa34c4:
 translate chinese musicstudiomenub_4b5c8c53:
 
     # mc "It's so beautiful around here, what's that like?"
-    mc "It's so beautiful around here, what's that like?"
+    mc "这周围太美了，你看那个像什么？"
 
 # game/city.rpy#L510
 translate chinese musicstudiomenub_ebfd3077:
@@ -1467,13 +1467,13 @@ translate chinese musicstudiomenub_fe6da61d:
 translate chinese musicstudiomenub_8ba350f8:
 
     # blossom "I wanna go hiking too sometime, you should take us [playername]!"
-    blossom "I wanna go hiking too sometime, you should take us [playername]!"
+    blossom "我也想遛遛弯儿了，你应该带我们去玩 [playername]!"
 
 # game/city.rpy#L515
 translate chinese musicstudiomenub_7bc2dfdc:
 
     # melody "I wanna go hiking too sometime, how about it wormy boy?"
-    melody "I wanna go hiking too sometime, how about it wormy boy?"
+    melody "我也想去遛弯儿，怎么样，小牛郎？"
 
 # game/city.rpy#L516
 translate chinese musicstudiomenub_4a17d4f8:
@@ -1485,25 +1485,25 @@ translate chinese musicstudiomenub_4a17d4f8:
 translate chinese musicstudiomenub_f79c570e:
 
     # mc "How are Melody and Blossom as students? Not causing trouble I hope."
-    mc "How are Melody and Blossom as students? Not causing trouble I hope."
+    mc "作为学生，Melody和Blossom怎么样？希望不会惹麻烦。"
 
 # game/city.rpy#L520
 translate chinese musicstudiomenub_90b6bb05:
 
     # claire "They're unique to say the least, particularly you Melody, you have lots of unique ideas when it comes to music."
-    claire "They're unique to say the least, particularly you Melody, you have lots of unique ideas when it comes to music."
+    claire "至少可以说，他们是独一无二的，尤其是你Melody，你在音乐方面有很多独特的想法。"
 
 # game/city.rpy#L522
 translate chinese musicstudiomenub_6a191d82:
 
     # melody "That's because I don't let what sounds 'right' or 'wrong' hold me down."
-    melody "That's because I don't let what sounds 'right' or 'wrong' hold me down."
+    melody "那是因为我不让那些听起来“对”或“错”的东西束缚我。"
 
 # game/city.rpy#L523
 translate chinese musicstudiomenub_a0fad71b:
 
     # claire "Melody tries to capture energy and adrenaline in her music with drums and bass that you can't help but groove to."
-    claire "Melody tries to capture energy and adrenaline in her music with drums and bass that you can't help but groove to."
+    claire "Melody试着在她的音乐中用鼓和低音在激发听者的能量和肾上腺素，你会情不自禁地去感受。"
 
 # game/city.rpy#L524
 translate chinese musicstudiomenub_00565838:

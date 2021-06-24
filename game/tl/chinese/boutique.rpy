@@ -1,4 +1,4 @@
-# Translation updated at Wed Jun 23 2021 00:43:47 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Thu Jun 24 2021 00:39:04 GMT+0000 (Coordinated Universal Time)
 # game/boutique.rpy#L20
 translate chinese boutiquevisit1_9babdb27:
 
@@ -1761,103 +1761,103 @@ translate chinese melodyhandjob2_df8ff42c:
 translate chinese melodyhandjob2_ed8ec253:
 
     # mc "Uhm… Thank you, that's really kind, Melody."
-    mc "Uhm… Thank you, that's really kind, Melody."
+    mc "呃......谢谢你，你真大方，Melody。"
 
 # game/boutique.rpy#L515
 translate chinese melodyhandjob2_f5c0adf9:
 
     # melody "Don’t thank me, this is a bribe to get you to come back. I heard what you said to Ruby."
-    melody "Don’t thank me, this is a bribe to get you to come back. I heard what you said to Ruby."
+    melody "不要谢我，这是把你贿赂回来用的。你跟Ruby说的话我都听到了。"
 
 # game/boutique.rpy#L517
 translate chinese melodyhandjob2_1c3bff0e:
 
     # melody "You will come back and play, won’t you?"
-    melody "You will come back and play, won’t you?"
+    melody "你会回来跟我一起的，对吗？"
 
 # game/boutique.rpy#L518
 translate chinese melodyhandjob2_f5e3b982:
 
     # mc "Yeah, I’ll be back, any idea what will happen? I'm assuming I'll be helping Ruby with her stream."
-    mc "Yeah, I’ll be back, any idea what will happen? I'm assuming I'll be helping Ruby with her stream."
+    mc "当然，我会回来的，知道吗？我估计还得帮助Ruby搞她的直播呢"
 
 # game/boutique.rpy#L520
 translate chinese melodyhandjob2_d08262d7:
 
     # melody "Shh, that’s the secret, be a good boy and just come."
-    melody "Shh, that’s the secret, be a good boy and just come."
+    melody "嘘，这是个秘密，做个好孩子，只管来就行。"
 
 # game/boutique.rpy#L521
 translate chinese melodyhandjob2_d3c3a236:
 
     # "She’s making me nervous, yet I have 25 monies in my hand right now, I’m in a situation where I can’t refuse, can I?"
-    "She’s making me nervous, yet I have 25 monies in my hand right now, I’m in a situation where I can’t refuse, can I?"
+    "她让我很紧张，但我现在手里只有25元，而且瞧这个情况还没办法拒绝，是吧？"
 
 # game/boutique.rpy#L523
 translate chinese melodyhandjob2_bf987315:
 
     # melody "What’s the matter, cat got your tongue?"
-    melody "What’s the matter, cat got your tongue?"
+    melody "咋了？你怎么不说话了？"
 
 # game/boutique.rpy#L524
 translate chinese melodyhandjob2_7578a91f:
 
     # mc "Sorry, I was just thinking."
-    mc "Sorry, I was just thinking."
+    mc "对不起，我刚才在想东西。"
 
 # game/boutique.rpy#L526
 translate chinese melodyhandjob2_a8e7b47f:
 
     # melody "Want me to come over and sit on your lap? Would that get the blood flowing into your brain?"
-    melody "Want me to come over and sit on your lap? Would that get the blood flowing into your brain?"
+    melody "需要我坐到你腿上来吗？说不定能让血液多往脑子里流一些？"
 
 # game/boutique.rpy#L527
 translate chinese melodyhandjob2_fb082607:
 
     # "I can’t help but peek at her butt and imagine what it’d be like if her soft cute ass was nestled against me. As evil as she is, she’s extremely attractive like her sister. She keeps her legs crossed though, so I don’t see much else."
-    "I can’t help but peek at her butt and imagine what it’d be like if her soft cute ass was nestled against me. As evil as she is, she’s extremely attractive like her sister. She keeps her legs crossed though, so I don’t see much else."
+    "我忍不住偷看她的臀部，想象着柔软可爱的屁股坐在我身上会是什么感觉。尽管她很邪恶，但跟她姐姐一样都人见人爱。不过她一直交叉着双腿，所以我也没有看到别的什么东西。"
 
 # game/boutique.rpy#L529
 translate chinese melodyhandjob2_51c568d1:
 
     # melody "Oh Aurora, I can feel your lecherous gaze all over my body, so gross, gross!"
-    melody "Oh Aurora, I can feel your lecherous gaze all over my body, so gross, gross!"
+    melody "哦，大公主在上，我都能感觉到你在色眯眯地看着我，恶心，好恶心！"
 
 # game/boutique.rpy#L531
 translate chinese melodyhandjob2_09bb040f:
 
     # melody "It is a nice butt though, isn't it?"
-    melody "It is a nice butt though, isn't it?"
+    melody "我的屁股超美，是不是？"
 
 # game/boutique.rpy#L532
 translate chinese melodyhandjob2_e188d9df:
 
     # "I wonder what would happen if I actually called this girl’s bluff."
-    "I wonder what would happen if I actually called this girl’s bluff."
+    "我不知道如果我跟这姑娘虚张声势一下会咋样。"
 
 # game/boutique.rpy#L533
 translate chinese melodyhandjob2_e0723cbd:
 
     # mc "Does that mean you’re not going to sit on my lap?"
-    mc "Does that mean you’re not going to sit on my lap?"
+    mc "你到底要不要坐到我腿上来？"
 
 # game/boutique.rpy#L534
 translate chinese melodyhandjob2_d3a27371:
 
     # melody "Do you want me to?"
-    melody "Do you want me to?"
+    melody "那你想让我坐上去吗？"
 
 # game/boutique.rpy#L535
 translate chinese melodyhandjob2_606e2d02:
 
     # mc "Sure."
-    mc "当然。"
+    mc "当然了。"
 
 # game/boutique.rpy#L537
 translate chinese melodyhandjob2_6b72a91c:
 
     # melody "Heheh… So disgusting! I can’t believe you’d think I’d do something like that, I can even see your gross little worm getting bigger, there’s no way I’m sitting on that!"
-    melody "Heheh… So disgusting! I can’t believe you’d think I’d do something like that, I can even see your gross little worm getting bigger, there’s no way I’m sitting on that!"
+    melody "呃呃呃……太恶心了！我不敢信你居然真的想让我这么做，我甚至都能看到你那条恶心的小虫子在变大，才不要坐到那上面！"
 
 # game/boutique.rpy#L538
 translate chinese melodyhandjob2_c5932031:
