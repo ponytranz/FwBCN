@@ -1,4 +1,4 @@
-# Translation updated at Thu Jun 24 2021 00:39:04 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Fri Jun 25 2021 00:54:04 GMT+0000 (Coordinated Universal Time)
 # game/1prologue.rpy#L25
 translate chinese prologueday1_c7b6965c:
 
@@ -3225,7 +3225,7 @@ translate chinese day2label2choice2_0eb0fb2f:
 translate chinese day2label2choice2_d87dd914:
 
     # moxie "The two sisters are practically idolised, they seem to run a damn good country..."
-    moxie "人们真切地崇拜着这对姐妹，因为她们把这个国家管的真的很他妈好......."
+    moxie "人们真切地崇拜着这对姐妹，因为她们治理国家是真有一手......."
 
 # game/1prologue.rpy#L1000
 translate chinese day2label2choice2_5600796a:

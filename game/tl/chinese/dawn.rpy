@@ -1,4 +1,4 @@
-# Translation updated at Thu Jun 24 2021 00:39:04 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Fri Jun 25 2021 00:54:04 GMT+0000 (Coordinated Universal Time)
 # game/dawn.rpy#L5
 translate chinese dawntalksex_7eb30d83:
 

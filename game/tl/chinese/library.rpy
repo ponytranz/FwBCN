@@ -1,4 +1,4 @@
-# Translation updated at Thu Jun 24 2021 00:39:04 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Fri Jun 25 2021 00:54:04 GMT+0000 (Coordinated Universal Time)
 # game/library.rpy#L18
 translate chinese libraryvisit1_98593462:
 
@@ -1239,7 +1239,7 @@ translate chinese library12_a00b2280:
 translate chinese library12_7916dadc:
 
     # mc "Do you want me to spit?"
-    mc "你想让我吐唾液吗?"
+    mc "是要让我吐唾液吗?"
 
 # game/library.rpy#L364
 translate chinese library12_0fd37311:
@@ -4287,109 +4287,109 @@ translate chinese penelopecunnilingus_00ae68d1:
 translate chinese penelopecunnilingus_051adbba:
 
     # mc "It’s not just a celebrity visit, Lily genuinely thinks that could provide some insight on the situation."
-    mc "这可不仅仅是一次仰慕名人之旅，Lily真的认为这次见面可以提供一些有关于这些情况的见解。"
+    mc "这可不仅仅是一次仰慕之旅，Lily真的认为这次见面可以提供一些关于这些情况的见解。"
 
 # game/library.rpy#L1224
 translate chinese penelopecunnilingus_c2bf8394:
 
     # moxie "Meh, I know… Do you think you could convince Lily to let me join you two?"
-    moxie "Meh, I know… Do you think you could convince Lily to let me join you two?"
+    moxie "嗯，我知道...那你能说服Lily让我加入你们俩吗？"
 
 # game/library.rpy#L1225
 translate chinese penelopecunnilingus_f2684ca5:
 
     # mc "I’m not sure, I figured you’d ask her yourself."
-    mc "I’m not sure, I figured you’d ask her yourself."
+    mc "我不太确定，你得自己去问。"
 
 # game/library.rpy#L1227
 translate chinese penelopecunnilingus_851bba19:
 
     # moxie "Nah, she’d ignore me outright…"
-    moxie "Nah, she’d ignore me outright…"
+    moxie "呃，她肯定不会理我的..."
 
 # game/library.rpy#L1229
 translate chinese penelopecunnilingus_7e16ee82:
 
     # moxie "Come on [playername], I’d appreciate it if you convinced her. Pleeeaase?"
-    moxie "Come on [playername], I’d appreciate it if you convinced her. Pleeeaase?"
+    moxie "拜托了[playername]，如果你能说服她，我会很感激你的。好不好嘛～"
 
 # game/library.rpy#L1230
 translate chinese penelopecunnilingus_0d3a43fe:
 
     # mc "I'll try... I mean, I perfectly understand why you want to be there. After all, it was your spell that started it all."
-    mc "I'll try... I mean, I perfectly understand why you want to be there. After all, it was your spell that started it all."
+    mc "我会努力的…我是说，我完全理解你为什么想去那。毕竟，可是你的咒语导致了这一切。"
 
 # game/library.rpy#L1232
 translate chinese penelopecunnilingus_a73eaa6b:
 
     # moxie "Certainly was, and they’ll see that! They’ll see I created a fully sentient lifeform, or I teleported you from another universe."
-    moxie "Certainly was, and they’ll see that! They’ll see I created a fully sentient lifeform, or I teleported you from another universe."
+    moxie "那当然，他们会见识到的!他们会认为我创造了一个有知觉的生命，或是我把你从另一个宇宙里传送了过来。"
 
 # game/library.rpy#L1233
 translate chinese penelopecunnilingus_cbce5578:
 
     # moxie "Oh boy, this could be my big break as the great and powerful Moxie!"
-    moxie "Oh boy, this could be my big break as the great and powerful Moxie!"
+    moxie "哇咔咔，这可是伟大而又全能的Moxie的重大突破!"
 
 # game/library.rpy#L1234
 translate chinese penelopecunnilingus_cd0fec91:
 
     # mc "Ah sheesh..."
-    mc "Ah sheesh..."
+    mc "啊，唉…"
 
 # game/library.rpy#L1239
 translate chinese penelopecunnilingus_0eab217f:
 
     # mc "I'm gonna head over to Butters's place for dinner, I'll see you later Moxie."
-    mc "I'm gonna head over to Butters's place for dinner, I'll see you later Moxie."
+    mc "我要去Butters家吃晚饭了，回头见，Moxie。"
 
 # game/library.rpy#L1241
 translate chinese penelopecunnilingus_2480be20:
 
     # moxie "See ya!"
-    moxie "See ya!"
+    moxie "再见！"
 
 # game/library.rpy#L1243
 translate chinese penelopecunnilingus_ce617998_2:
 
     # "…"
-    "…"
+    "……"
 
 # game/library.rpy#L1247
 translate chinese libraryvisit2_1713c425:
 
     # "Time for another day of work at the library. It seems like the easiest job out of all of them."
-    "Time for another day of work at the library. It seems like the easiest job out of all of them."
+    "又到了图书馆工作时间了。这似乎是所有工作中最简单的。"
 
 # game/library.rpy#L1248
 translate chinese libraryvisit2_b4f29b31:
 
     # "I barely did anything last time; I honestly wonder how they’re even paying me."
-    "I barely did anything last time; I honestly wonder how they’re even paying me."
+    "上次干我几乎就是在摸鱼，真不知道他们怎么付我钱的。"
 
 # game/library.rpy#L1250
 translate chinese libraryvisit2_efe311af:
 
     # "As before, I have to knock on the door and wait for a reply."
-    "As before, I have to knock on the door and wait for a reply."
+    "像往常一样，我先敲敲了门，然后等待着回应。"
 
 # game/library.rpy#L1252
 translate chinese libraryvisit2_8c6fe4df:
 
     # "I get a reply from a window above."
-    "I get a reply from a window above."
+    "上面的一个窗口传来了声音。"
 
 # game/library.rpy#L1253
 translate chinese libraryvisit2_16bc6a01:
 
     # lily "Hang on, let me just magic the lock."
-    lily "Hang on, let me just magic the lock."
+    lily "请稍等下，让我先给锁施个咒。"
 
 # game/library.rpy#L1255
 translate chinese libraryvisit2_48f09462:
 
     # "I step in and close the door behind me, re-locking it with the latch."
-    "I step in and close the door behind me, re-locking it with the latch."
+    "我走了进去，随手关上门，然后锁上门闩。"
 
 # game/library.rpy#L1257
 translate chinese libraryvisit2_79241636:
@@ -4473,7 +4473,7 @@ translate chinese libraryvisit2_01be3df0:
 translate chinese libraryvisit2_ce617998:
 
     # "…"
-    "…"
+    "……"
 
 # game/library.rpy#L1297
 translate chinese libraryvisit2_a145e2e2:

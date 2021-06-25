@@ -1,4 +1,4 @@
-# Translation updated at Thu Jun 24 2021 00:39:04 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Fri Jun 25 2021 00:54:04 GMT+0000 (Coordinated Universal Time)
 # game/farm.rpy#L20
 translate chinese farm_c5de936b:
 
@@ -45,7 +45,7 @@ translate chinese farm_66e5ae99:
 translate chinese prefarmmenu_050eefef:
 
     # honeycrisp "Howdy again, I hope you and Blossom are behaving up there."
-    honeycrisp "Howdy again, I hope you and Blossom are behaving up there."
+    honeycrisp "又见面咯，希望你和Blossom没惹什么麻烦"
 
 # game/farm.rpy#L45
 translate chinese prefarmmenu_ea9b5061:
@@ -75,13 +75,13 @@ translate chinese farmmenu_bd640da2:
 translate chinese farmmenu_df03ca50:
 
     # "As the afternoon lulls on, I spend my time with Honey which eventually leads us into the kitchen."
-    "As the afternoon lulls on, I spend my time with Honey which eventually leads us into the kitchen."
+    "我和 Honey 一起度过了下午平静的时光，最后我们一起来到了厨房。"
 
 # game/farm.rpy#L69
 translate chinese honeycrispmenu_1f6535ae:
 
     # "I decide to strike up a conversation with Honeycrisp, I'm sure she's full of interesting stories."
-    "I decide to strike up a conversation with Honeycrisp, I'm sure she's full of interesting stories."
+    "我决定和 Honeycrisp 聊聊天，我想她肯定有不少有趣的见闻。"
 
 # game/farm.rpy#L78
 translate chinese honeycrispmenu_0772d563:
@@ -105,25 +105,25 @@ translate chinese honeycrispmenu_d2a5fe11:
 translate chinese honeycrispmenu_5303db8e:
 
     # mc "Well, we don't need to play games where we take turns doing it behind everyone else's back anymore."
-    mc "Well, we don't need to play games where we take turns doing it behind everyone else's back anymore."
+    mc "好呢，我们再也不需要再遮遮掩掩地背地做这种事了"
 
 # game/farm.rpy#L85
 translate chinese honeycrispmenu_1a639f72:
 
     # mc "So why not kick back and have some fun?"
-    mc "So why not kick back and have some fun?"
+    mc "为什么不放松一下，来找点乐子呢？"
 
 # game/farm.rpy#L87
 translate chinese honeycrispmenu_bf4562df:
 
     # honeycrisp "Jeeeeeeeeeeezzzzzzz... Ya got some nerve [playername]..."
-    honeycrisp "Jeeeeeeeeeeezzzzzzz... Ya got some nerve [playername]..."
+    honeycrisp "我的老天......我得说你有点过于神经质了[playername]..."
 
 # game/farm.rpy#L89
 translate chinese honeycrispmenu_1b134b41:
 
     # blossom "I'll do it! If that's what you want..."
-    blossom "I'll do it! If that's what you want..."
+    blossom "我会去做的！如果你非要那样的话..."
 
 # game/farm.rpy#L90
 translate chinese honeycrispmenu_e66b4cad:
@@ -135,19 +135,19 @@ translate chinese honeycrispmenu_e66b4cad:
 translate chinese honeycrispmenu_a3fd52c5:
 
     # "Looks like I'll have to convince Honeycrisp, like a boss battle?"
-    "Looks like I'll have to convince Honeycrisp, like a boss battle?"
+    "看来我得像打一场boss战一样说服Honeycrisp？"
 
 # game/farm.rpy#L92
 translate chinese honeycrispmenu_14daf169:
 
     # "If I pick the wrong choices, she'll refuse and I'll have to try again another day."
-    "If I pick the wrong choices, she'll refuse and I'll have to try again another day."
+    "如果我选错了，她就会拒绝，我就只能改日再试了"
 
 # game/farm.rpy#L96
 translate chinese honeycrispmenu_4c7436c3:
 
     # blossom "That's right! You're not embarrassed to play around are you?"
-    blossom "That's right! You're not embarrassed to play around are you?"
+    blossom "太棒了！就在周边玩一下下你并不会害羞对吧，对吗？"
 
 # game/farm.rpy#L97
 translate chinese honeycrispmenu_596af88e:
@@ -159,7 +159,7 @@ translate chinese honeycrispmenu_596af88e:
 translate chinese honeycrispmenu_b1852cc9:
 
     # honeycrisp "Tch, that's your convincing argument? I did it when I was brainwashed so I'll do it now?"
-    honeycrisp "Tch, that's your convincing argument? I did it when I was brainwashed so I'll do it now?"
+    honeycrisp "我被洗脑的时候做过所以我现在还会继续做，这就是你所谓令人信服的论点？切。"
 
 # game/farm.rpy#L100
 translate chinese honeycrispmenu_a59e41ab:
@@ -177,25 +177,25 @@ translate chinese honeycrispmenu_a0c2e176:
 translate chinese honeycrispmenu_bbc1e3a6:
 
     # honeycrisp "But doing something with my sister? That's inexcusable... I can't..."
-    honeycrisp "But doing something with my sister? That's inexcusable... I can't..."
+    honeycrisp "但是和我妹妹做那种事？ 那不是被禁止吗……我不能……"
 
 # game/farm.rpy#L109
 translate chinese honeycrispmenu_13f4aecb:
 
     # honeycrisp "Mmm... That's true enough..."
-    honeycrisp "Mmm... That's true enough..."
+    honeycrisp "嗯...确实"
 
 # game/farm.rpy#L110
 translate chinese honeycrispmenu_384bc5b3:
 
     # honeycrisp "And you didn't make us do anything with each other when we were brainwashed..."
-    honeycrisp "And you didn't make us do anything with each other when we were brainwashed..."
+    honeycrisp "我们当时被洗脑的时候你也没让我们做什么..."
 
 # game/farm.rpy#L112
 translate chinese honeycrispmenu_eb61377f:
 
     # honeycrisp "This isn't some game where you can play around with everyone..."
-    honeycrisp "This isn't some game where you can play around with everyone..."
+    honeycrisp "这可不是什么可以和大家一起玩的游戏..."
 
 # game/farm.rpy#L113
 translate chinese honeycrispmenu_06616a9e:
@@ -213,19 +213,19 @@ translate chinese honeycrispmenu_a0c2e176_1:
 translate chinese honeycrispmenu_39025a6f:
 
     # blossom "Yeah, yeah! We're only gonna be next to each other! It's easier for all three of us!"
-    blossom "Yeah, yeah! We're only gonna be next to each other! It's easier for all three of us!"
+    blossom "对啊！互相挨着对我们三个都有好处！"
 
 # game/farm.rpy#L118
 translate chinese honeycrispmenu_cb2db28f:
 
     # honeycrisp "Siiighhh, fine!"
-    honeycrisp "Siiighhh, fine!"
+    honeycrisp "咳咳, 好吧！"
 
 # game/farm.rpy#L122
 translate chinese honeycrispmenu_6c08b4d4:
 
     # "She grins at my proposition and leads me up to her bedroom."
-    "She grins at my proposition and leads me up to her bedroom."
+    "她对我的提议咧嘴一笑，把我带到了她的卧室。"
 
 # game/farm.rpy#L127
 translate chinese honeycrispmenu_062a96f5:

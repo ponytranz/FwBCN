@@ -1,4 +1,4 @@
-# Translation updated at Thu Jun 24 2021 00:39:04 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Fri Jun 25 2021 00:54:04 GMT+0000 (Coordinated Universal Time)
 # game/bakery.rpy#L14
 translate chinese bakeryvisit1_2f4adbe4:
 
@@ -465,7 +465,7 @@ translate chinese bakeryvisit1_91e84357:
 translate chinese bakeryvisit1_fdc68f94:
 
     # cream "I can’t be too repetitive with my flirts, even if repetitive motion is how I plan to get you off."
-    cream "I can’t be too repetitive with my flirts, even if repetitive motion is how I plan to get you off."
+    cream "我的调情不能一直重复，即使这重复的动作是我想让你爽的方式。"
 
 # game/bakery.rpy#L135
 translate chinese bakeryvisit1_4455571b:
@@ -561,19 +561,19 @@ translate chinese bakeryvisit1_b59c198c:
 translate chinese bakeryvisit1_80826e5e:
 
     # mc "Heat must be getting to you right?"
-    mc "Heat must be getting to you right?"
+    mc "热度一定会影响到你，对吧？"
 
 # game/bakery.rpy#L163
 translate chinese bakeryvisit1_3a86ec85:
 
     # cream "Getting to me? Nah, these are party vibes my dude, aren’t you feeling my wavelength?"
-    cream "Getting to me? Nah, these are party vibes my dude, aren’t you feeling my wavelength?"
+    cream "想到我了？不，这是聚会的氛围，朋友，你没有感觉到我的波长吗？"
 
 # game/bakery.rpy#L164
 translate chinese bakeryvisit1_40dd033d:
 
     # mc "Your wav-"
-    mc "Your wav-"
+    mc "你的波cha——"
 
 # game/bakery.rpy#L166
 translate chinese bakeryvisit1_44b775bf:
@@ -711,7 +711,7 @@ translate chinese creamquickie_ad4ef00b:
 translate chinese creamquickie_0c6d3558:
 
     # "Her flirting is so over the top it seems comical, yet I’m completely helpless to her erotic advances."
-    "Her flirting is so over the top it seems comical, yet I’m completely helpless to her erotic advances."
+    "她的调情是如此夸张，似乎很滑稽，然而我对她的挑逗完全无能为力。"
 
 # game/bakery.rpy#L206
 translate chinese creamquickie_8206499c:
@@ -819,7 +819,7 @@ translate chinese creamquickie_54a7c7d8:
 translate chinese creamquickie_ff055c6a:
 
     # "She squeals with delight as I sink deeper, and those squeals gently shift into moans, as her pussy contracts and squeezes around the girth of my shaft."
-    "She squeals with delight as I sink deeper, and those squeals gently shift into moans, as her pussy contracts and squeezes around the girth of my shaft."
+    "当我更进一步时，她高兴地尖叫起来，尖叫声慢慢地转变成呻吟声，因为她的小穴收缩并挤压着我的小兄弟。"
 
 # game/bakery.rpy#L239
 translate chinese creamquickie_dca27217:
@@ -855,7 +855,7 @@ translate chinese creamquickie_ea5b6b02:
 translate chinese creamquickie_8e5af752:
 
     # "Before long we're both fucking each other equally, her ass connecting to my pelvis with a satisfying thwap, as she forces my throbbing cock deeper into her tight cunt."
-    "Before long we're both fucking each other equally, her ass connecting to my pelvis with a satisfying thwap, as she forces my throbbing cock deeper into her tight cunt."
+    "没过多久，我们都在平等地干着对方，她的屁股与我的盆骨相连合，发出令人满意的啪啪声，她迫使我悸动的牛子更深入她紧窄的肉穴。"
 
 # game/bakery.rpy#L246
 translate chinese creamquickie_31f3ba57:
@@ -951,7 +951,7 @@ translate chinese creamquickie_92e57a12:
 translate chinese creamquickie_7498d775:
 
     # mc "Didn’t see that one coming."
-    mc "Didn’t see that one coming."
+    mc "我没想到会变成这样。"
 
 # game/bakery.rpy#L289
 translate chinese creamquickie_6dedaa33:
@@ -1005,7 +1005,7 @@ translate chinese creamquickie_9b1d53a2:
 translate chinese creamquickie_cc0a9673:
 
     # cream "And you picked the best possible host!"
-    cream "And you picked the best possible host!"
+    cream "而且你还选择了最好的主人！"
 
 # game/bakery.rpy#L304
 translate chinese creamquickie_c0c8d2c3:
@@ -1215,7 +1215,7 @@ translate chinese creamquickie_50598653:
 translate chinese creamquickie_82c39e83:
 
     # mc "If ‘alien’ is paying attention in school, sure!"
-    mc "If ‘alien’ is paying attention in school, sure!"
+    mc "如果“外星人”愿意把注意力集中在学业上，当然可以！"
 
 # game/bakery.rpy#L368
 translate chinese creamquickie_79fe0590:
@@ -1257,13 +1257,13 @@ translate chinese creamquickie_2c63c8b1:
 translate chinese creamquickie_50431264:
 
     # mc "I think if I was in that situation it would be morbid at first, but eventually you’ll adapt and just seek new and wonderful experiences."
-    mc "I think if I was in that situation it would be morbid at first, but eventually you’ll adapt and just seek new and wonderful experiences."
+    mc "我想如果我处于这种情况，一开始会很病态，但最终你会适应，只是寻求新的和美妙的体验。"
 
 # game/bakery.rpy#L378
 translate chinese creamquickie_ef4f4bc0:
 
     # cream "And you’ll outlive those experiences, your new friends and your new girlfriend."
-    cream "And you’ll outlive those experiences, your new friends and your new girlfriend."
+    cream "而且你会比你的经历、新朋友和你的新女友都活得更久。"
 
 # game/bakery.rpy#L379
 translate chinese creamquickie_8f9c4334:
@@ -1287,7 +1287,7 @@ translate chinese creamquickie_b205700b:
 translate chinese creamquickie_2c990b40:
 
     # cream "Eventually you’ll grow sick and tired of this happy lifestyle, you’ll kill your girlfriend, your friends and you’ll try to finally end that eternal life of yours."
-    cream "Eventually you’ll grow sick and tired of this happy lifestyle, you’ll kill your girlfriend, your friends and you’ll try to finally end that eternal life of yours."
+    cream "最终你会厌倦这种快乐的生活方式，你会杀死你的女朋友，你的朋友，你会试图结束你这种永恒的生活。"
 
 # game/bakery.rpy#L384
 translate chinese creamquickie_57846888:
@@ -1299,25 +1299,25 @@ translate chinese creamquickie_57846888:
 translate chinese creamquickie_afd65e81:
 
     # mc "I get what you’re saying, but I don’t think I’m capable of that, especially people I love."
-    mc "I get what you’re saying, but I don’t think I’m capable of that, especially people I love."
+    mc "我明白你的意思，但我不认为我有这个能力，尤其是我爱的人。"
 
 # game/bakery.rpy#L387
 translate chinese creamquickie_7d266fc3:
 
     # cream "Ever play a video game that gives you freedom?"
-    cream "Ever play a video game that gives you freedom?"
+    cream "你有没有玩过一种给你带来自由的游戏？"
 
 # game/bakery.rpy#L388
 translate chinese creamquickie_6b618ea9:
 
     # cream "Sometimes you ask yourself, what if I stole from this person? What if I killed this person?"
-    cream "Sometimes you ask yourself, what if I stole from this person? What if I killed this person?"
+    cream "有时候你扪心自问，如果我从那个人身上偷东西，或者我杀了那个人？"
 
 # game/bakery.rpy#L389
 translate chinese creamquickie_12332aba:
 
     # cream "The friends and girlfriend you outlive, eventually you’ll kill them, just to see what it’s like."
-    cream "The friends and girlfriend you outlive, eventually you’ll kill them, just to see what it’s like."
+    cream "假如你的朋友和女朋友比你活得长，最终你会杀了他们，就只为了想看看那是什么感觉。"
 
 # game/bakery.rpy#L390
 translate chinese creamquickie_f5b4e8ed:

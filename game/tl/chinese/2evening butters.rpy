@@ -1,4 +1,4 @@
-# Translation updated at Thu Jun 24 2021 00:39:04 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Fri Jun 25 2021 00:54:04 GMT+0000 (Coordinated Universal Time)
 # game/2evening%20butters.rpy#L11
 translate chinese eveningbutters_ce840f9e:
 
@@ -15,7 +15,7 @@ translate chinese eveningbutters_3cdf68fd:
 translate chinese eveningbutters_43fffc42:
 
     # "Me and Butters get cozy as we spend the evening together."
-    "我和Butters在一起度过了一晚，感觉很舒服。"
+    "我和Butters在一起度过了舒服的一晚。"
 
 # game/2evening%20butters.rpy#L25
 translate chinese eveningbutters1_afdb24b7:
@@ -441,13 +441,13 @@ translate chinese eveningbutterssex_0de78f5a:
 translate chinese eveningbutterssex_a432075e:
 
     # "She bites her lip when she notices my hips rocking to match her own pace, bouncing her up and down and making her large pillowy tits jiggle as the intensity increases."
-    "我也开始动起自己的腰以迎合她的速度，越来越激烈的起伏交合让她的酥胸激起了阵阵乳浪。她也注意到我加快了速度，咬紧了自己的嘴唇。"
+    "我也开始动起自己的腰以迎合她的速度，越来越激烈的起伏交合让她的酥胸激起了阵阵乳浪。她也注意到我加快了速度，咬紧起自己的嘴唇。"
 
 # game/2evening%20butters.rpy#L247
 translate chinese eveningbutterssex_5a1efdc4:
 
     # butters "Haahh, this feels really good, I want to feel your thick load inside me..."
-    butters "啊啊，我快要成仙了，把你的浓稠的精液射出来吧......"
+    butters "啊啊，我快要去了，把你的浓稠的精液射出来吧......"
 
 # game/2evening%20butters.rpy#L248
 translate chinese eveningbutterssex_faf635aa:
@@ -459,19 +459,19 @@ translate chinese eveningbutterssex_faf635aa:
 translate chinese eveningbutterssex_6884692e:
 
     # "In no time at all, my cock is feeling tight and full, almost ready to burst into Butters's dribbling cunt."
-    "很快，我的长枪在Butters的攻势的下被肿胀感吞没，准备在她淫水横流的小穴中一泻千里。"
+    "很快，我的肉棒在Butters的攻势的下被肿胀感吞没，准备在她淫水横流的小穴中一泻千里。"
 
 # game/2evening%20butters.rpy#L250
 translate chinese eveningbutterssex_6648188a:
 
     # "She strokes my cheek knowingly and smiles."
-    "她仿佛知道我已千钧一发，会意地抚摸着我的脸颊，脸上洋溢着笑容。"
+    "她会意地抚摸着我的脸颊，脸上洋溢着笑容。"
 
 # game/2evening%20butters.rpy#L251
 translate chinese eveningbutterssex_4362c47b:
 
     # butters "It's okay if you cum prematurely darling, my succubus side will always make it so you'll have to cum for me."
-    butters "小可爱如果提前射了也没关系哦，毕竟人家的魅魔面总让你提前变软，我可不输她呀。"
+    butters "小可爱，如果提前射了也没关系哦，毕竟人家的魅魔面总让你提前变软。"
 
 # game/2evening%20butters.rpy#L253
 translate chinese eveningbutterssex_85f83bea:
@@ -555,7 +555,7 @@ translate chinese eveningbutterssex_35dd959c:
 translate chinese eveningbutterssex_e5bea1c3:
 
     # "She begins to stroke my cock with one hand with a lecherous grin."
-    "她一脸淫笑地抚摸着我的巨龙。"
+    "她一脸淫笑地抚摸着我的肉棒"
 
 # game/2evening%20butters.rpy#L291
 translate chinese eveningbutterssex_e807a417:
@@ -573,7 +573,7 @@ translate chinese eveningbutterssex_421c87f5:
 translate chinese eveningbutterssex_c58062dc:
 
     # "She coos as she kisses the tip of my cock, before straddling me and slowly lowering herself, sliding down my cock until hilt in one smooth motion."
-    "她亲吻着我的龟头，发出咕咕咕的声音，然后跨坐在我的身上，缓缓地蹲下身体，用流畅又娴熟动作将我的粉红鱼雷整根吞没。"
+    "她亲吻着我的龟头，发出咕咕咕的声音，然后跨坐在我的身上，缓缓地蹲下身体，用流畅又娴熟动作将我的肉棒整根吞没。"
 
 # game/2evening%20butters.rpy#L295
 translate chinese eveningbutterssex_24d0d915:
@@ -735,7 +735,7 @@ translate chinese eveningbutterssex_87d4151d:
 translate chinese eveningbutterssex_1f8a7517:
 
     # "I bring one hand under her raised leg, and another to her hip as I brush the tip of my cock against the lips of her vulva."
-    "我握住她抬起的腿，另一只手搭在她的雪股上，长枪业已抵住阴唇，随时准备直捣黄龙。"
+    "我握住她抬起的腿，另一只手搭在她的雪股上，肉棒已抵住阴唇，随时准备直捣黄龙。"
 
 # game/2evening%20butters.rpy#L346
 translate chinese eveningbutterssex_43109a2d:
@@ -747,7 +747,7 @@ translate chinese eveningbutterssex_43109a2d:
 translate chinese eveningbutterssex_977e5f36:
 
     # "Her rump pushes back into me slightly and I respond by pushing into her even harder, pushing my cock all the way into her warm, inviting pussy in one smooth motion."
-    "她自主地向后轻盈挺臀，我也稍加用力，长枪流畅顺滑地进入了她幽幽可爱的小穴中。"
+    "她自主地向后轻盈挺臀，我也顺势用力，肉棒流畅顺滑地进入了她心急火燎的小穴中。"
 
 # game/2evening%20butters.rpy#L350
 translate chinese eveningbutterssex_b0dd0f06:
@@ -807,7 +807,7 @@ translate chinese eveningbutterssex_f1087f5d:
 translate chinese eveningbutterssex_73055862:
 
     # "I grit my teeth and with one last, mighty thrust, my cock swells and begins to launch several blasts of thick cum into her."
-    "我咬紧牙关，全力使出最后一击，肿胀的长枪终于开始向她倾泻几发精液。"
+    "我咬紧牙关，全力使出最后一击，肿胀的肉棒终于开始向她倾泻几发精液。"
 
 # game/2evening%20butters.rpy#L386
 translate chinese eveningbutterssex_79282219:
@@ -819,7 +819,7 @@ translate chinese eveningbutterssex_79282219:
 translate chinese eveningbutterssex_dd25ea26:
 
     # "Exhausted, I pull out my cock, along with a glop of sex fluids."
-    "我筋疲力竭地拔出长枪，性器之间的爱液仍然藕断丝连。"
+    "我筋疲力竭地拔出肉棒，性器之间的爱液仍然藕断丝连。"
 
 # game/2evening%20butters.rpy#L391
 translate chinese eveningbutterssex_234474bc:
@@ -855,7 +855,7 @@ translate chinese eveningbutterssex_a20cefa7_5:
 translate chinese eveningbutterssex_2c70794a:
 
     # butters "Ooohh, thank you so much! This is really exciting."
-    butters "哦，真心谢谢你，我很期待。"
+    butters "唔~太谢谢你了，我太兴奋了！！"
 
 # game/2evening%20butters.rpy#L408
 translate chinese eveningbutterssex_71351311:
@@ -1047,7 +1047,7 @@ translate chinese eveningbutterssex_e4d48f69:
 translate chinese eveningbutterssex_a478ed02:
 
     # "I groan and she moans with pleasure as I slide back out, and push back deeply into the hilt of her inviting insides."
-    "每次拔出她都发出满意的嗯哼声，我则喘着气，再次深入她那深邃的沟壑中。"
+    "每次拔出她都发出满意的呻吟声，我则喘着气，再次深深地插入她的身体中。"
 
 # game/2evening%20butters.rpy#L454
 translate chinese eveningbutterssex_52e13625:
@@ -1107,13 +1107,13 @@ translate chinese eveningbutterssex_b1d501d8:
 translate chinese eveningbutterssex_d751df48:
 
     # "Her sloppy cunt squeezes even tighter around my cock, causing me to throb and drip precum. It doesn’t take long for the familiar sense of impending orgasm to arrive."
-    "小穴仍然越收越紧，让我的长枪不住地抽动，前列腺液被挤出。熟悉的性高潮总归还是会来的。"
+    "小穴仍然越收越紧，让我的肉棒不住地抽动，前列腺液被挤出。熟悉的性高潮总归还是会来的。"
 
 # game/2evening%20butters.rpy#L465
 translate chinese eveningbutterssex_e8fec5b4:
 
     # "My muscles grow tense, and my cock stiffens as my climax swells up deep inside. The constant moaning and shifting of my partner pushing me over the edge as she beckons me to cum."
-    "我的肌肉绷紧，爱侣不断的娇吟和抽动让我终于按耐不住，铁硬的长枪准备在她的体内一泄千里。"
+    "我的肌肉绷紧，爱侣不断的娇吟和抽动让我终于按耐不住，铁硬的肉棒准备在她的体内一泄千里。"
 
 # game/2evening%20butters.rpy#L466
 translate chinese eveningbutterssex_e8e7bfe1:
@@ -1125,7 +1125,7 @@ translate chinese eveningbutterssex_e8e7bfe1:
 translate chinese eveningbutterssex_cdb40f9b:
 
     # "And just like an orgasm switch was pressed, the pressure reaches breaking point, my cock swells and I unload copious amounts of cum deep into my highly fertile lover."
-    "就像大坝泄洪一样，开关一按，我肿胀的长枪随即释放了大量的精液在我的爱侣深处，她一定会怀上孩子的。"
+    "就像大坝泄洪一样，开关一按，我肿胀的肉棒随即释放了大量的精液在我的爱侣深处，她一定会怀上孩子的。"
 
 # game/2evening%20butters.rpy#L476
 translate chinese eveningbutterssex_7b54f311:
@@ -1155,13 +1155,13 @@ translate chinese eveningbutterssex_51564e35:
 translate chinese eveningbutterssex_c4fabfbd:
 
     # "Butters enjoys her orgasm and the moment so much, that she doesn’t unwrap her legs and let me stop fucking until my cock started to get sensitive."
-    "Butters真的很喜欢性高潮，直到我的长枪开始变软之前都没有松开腿让我停止抽插。"
+    "Butters真的很喜欢性高潮，直到我的肉棒开始变软之前都没有松开腿让我停止抽插。"
 
 # game/2evening%20butters.rpy#L492
 translate chinese eveningbutterssex_d5d06851:
 
     # "We both pant as she unwraps her legs and I pull back, some more cum oozing over her pussy. There’s so much cum that you can’t even see her vulva."
-    "我们二人都喘着粗气，她松开了双腿，我也顺势把肉棒抽出，没有了堵塞，更多的精液涌出她的小穴，连她的外阴都难以辨认。"
+    "我们二人都喘着粗气，她松开了双腿，我也顺势把肉棒抽出，没有了堵塞，更多的精液涌出她的小穴，连她的阴唇都难以辨认。"
 
 # game/2evening%20butters.rpy#L493
 translate chinese eveningbutterssex_152bbe9a:
@@ -1221,7 +1221,7 @@ translate chinese eveningbutterssex_54a16929:
 translate chinese eveningbutterssex_b7d4406a:
 
     # butters "Mmm… I really enjoyed this."
-    butters "嗯...我喜欢和你做爱。"
+    butters "嗯~我很享受这样呢。"
 
 # game/2evening%20butters.rpy#L509
 translate chinese eveningbutterssex_80ffaf6d:
@@ -1497,7 +1497,7 @@ translate chinese eveningbutterssex_54a16929_1:
 translate chinese eveningbutterssex_b7d4406a_1:
 
     # butters "Mmm… I really enjoyed this."
-    butters "嗯...我喜欢和你做爱。"
+    butters "嗯~我很享受这样呢。"
 
 # game/2evening%20butters.rpy#L584
 translate chinese eveningbutterssex_d9730875:

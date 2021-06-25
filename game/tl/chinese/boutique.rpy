@@ -1,4 +1,4 @@
-# Translation updated at Thu Jun 24 2021 00:39:04 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Fri Jun 25 2021 00:54:04 GMT+0000 (Coordinated Universal Time)
 # game/boutique.rpy#L20
 translate chinese boutiquevisit1_9babdb27:
 
@@ -1863,163 +1863,163 @@ translate chinese melodyhandjob2_6b72a91c:
 translate chinese melodyhandjob2_c5932031:
 
     # "So, she definitely bluffs, for the first time all day her insults fall rather flat and feel somewhat forced. Even a girl like this is fallible."
-    "So, she definitely bluffs, for the first time all day her insults fall rather flat and feel somewhat forced. Even a girl like this is fallible."
+    "所以，她刚才那会铁定是在虚张声势，她对我的侮辱居然显得平淡了许多，甚至还有点夺回主动权的味道，这还是今天第一回。就算是她这样的女孩也是会失误的。"
 
 # game/boutique.rpy#L539
 translate chinese melodyhandjob2_1c8e5efa:
 
     # "She was right about one thing though, I’m annoyingly getting erect again. I can't stop thinking of that handjob she gave me, that was hot."
-    "She was right about one thing though, I’m annoyingly getting erect again. I can't stop thinking of that handjob she gave me, that was hot."
+    "不过有一件事倒是给她所对了，那就我真要勃起了。我一直在想她给我打的那次飞机，实在是太爽了。"
 
 # game/boutique.rpy#L541
 translate chinese melodyhandjob2_53e0c199:
 
     # melody "You should leave but… If you leave now everyone will see your pathetic little worm in its half erect state…"
-    melody "You should leave but… If you leave now everyone will see your pathetic little worm in its half erect state…"
+    melody "你应该走了......可你要是现在走了，所有人都会看见你那可怜的小虫子半勃半不勃的样子。"
 
 # game/boutique.rpy#L542
 translate chinese melodyhandjob2_f039dcee:
 
     # mc "Oh yeah, are you going to do something about it?"
-    mc "Oh yeah, are you going to do something about it?"
+    mc "哦，是啊，那你打算对此做点什么吗？"
 
 # game/boutique.rpy#L544
 translate chinese melodyhandjob2_03687314:
 
     # melody "I think I’d prefer to just watch you squirm honestly, in a perpetual state of being unable to get soft and leave but unable to get off either."
-    melody "I think I’d prefer to just watch you squirm honestly, in a perpetual state of being unable to get soft and leave but unable to get off either."
+    melody "我想我还是喜欢看你跟条蛆虫似的挣扎，最好能一直处于一种软不下来见不了人，硬不起来浑身难受的状态。"
 
 # game/boutique.rpy#L545
 translate chinese melodyhandjob2_c2834190:
 
     # mc "That’s rather sadistic, are you just gonna sit there and bully me this entire time while browsing the internet?"
-    mc "That’s rather sadistic, are you just gonna sit there and bully me this entire time while browsing the internet?"
+    mc "这可太残忍了，你就打算坐在那儿看着啥也不干，一边网上冲浪一边看我受尽折磨吗？"
 
 # game/boutique.rpy#L547
 translate chinese melodyhandjob2_6c187042:
 
     # melody "I just like the cute ways you squirm. You’re so pitiful."
-    melody "I just like the cute ways you squirm. You’re so pitiful."
+    melody "我只是很喜欢你受折磨的样子。可怜的小家伙。"
 
 # game/boutique.rpy#L549
 translate chinese melodyhandjob2_505ee5c9:
 
     # melody "I bet you’re only here hoping you can sleep with some mares in heat, I know your type."
-    melody "I bet you’re only here hoping you can sleep with some mares in heat, I know your type."
+    melody "我打赌你来这儿的唯一原因就是指望着跟几匹发情的雌驹上床，你这种人我清楚得很。"
 
 # game/boutique.rpy#L550
 translate chinese melodyhandjob2_d04f3bc2:
 
     # mc "That’s not true, I’m trapped here from another world. Anyway, you’re being a hypocrite."
-    mc "That’s not true, I’m trapped here from another world. Anyway, you’re being a hypocrite."
+    mc "不是这样的，我来自另一个世界，机缘巧合之下被困在了这里。这不重要，你的所作所为仅仅是让你显得像是个伪君子。"
 
 # game/boutique.rpy#L552
 translate chinese melodyhandjob2_83b59c5c:
 
     # melody "Trapped? Another world? Don’t tell me you’re crazy too."
-    melody "Trapped? Another world? Don’t tell me you’re crazy too."
+    melody "被困住？另一个世界？别告诉我你连脑子都有问题。"
 
 # game/boutique.rpy#L553
 translate chinese melodyhandjob2_93d4e54f:
 
     # mc "You’re a unicorn, you tell me. I was teleported here from a faraway place by Moxie."
-    mc "You’re a unicorn, you tell me. I was teleported here from a faraway place by Moxie."
+    mc "你说呢，你不是匹独角兽吗。我从很远的地方被Moxie传送了过来。"
 
 # game/boutique.rpy#L555
 translate chinese melodyhandjob2_83ebdb51:
 
     # melody "Hmm, don’t care."
-    melody "Hmm, don’t care."
+    melody "哼嗯，无关心。"
 
 # game/boutique.rpy#L556
 translate chinese melodyhandjob2_4a2515f7:
 
     # mc "… Well, what about the fact you’re a hypocrite, letting me sleep with your sister?"
-    mc "… Well, what about the fact you’re a hypocrite, letting me sleep with your sister?"
+    mc ".......算了，那你为什么要假装你马很好，让我跟你姐姐上床呢？"
 
 # game/boutique.rpy#L558
 translate chinese melodyhandjob2_8791f926:
 
     # melody "Pfft… Is that the only thing you can keep talking about? Sleep with my sister, sex this, sex that. You’re kind of disgusting."
-    melody "Pfft… Is that the only thing you can keep talking about? Sleep with my sister, sex this, sex that. You’re kind of disgusting."
+    melody "呸......你喋喋不休的能不能换个话题？跟我姐姐上床，操这里，干那里。有点恶心了诶。"
 
 # game/boutique.rpy#L559
 translate chinese melodyhandjob2_4a71793f:
 
     # mc "I just mentioned something else and you told me you don't care."
-    mc "I just mentioned something else and you told me you don't care."
+    mc "我刚说了别的啊，可你是自己说的不在乎。"
 
 # game/boutique.rpy#L560
 translate chinese melodyhandjob2_03874656:
 
     # mc "I don’t get you at all."
-    mc "I don’t get you at all."
+    mc "我完全理解不了你。"
 
 # game/boutique.rpy#L562
 translate chinese melodyhandjob2_afe48b28:
 
     # melody "No, and you will never get me, I’m way out of your league, wormy boy."
-    melody "No, and you will never get me, I’m way out of your league, wormy boy."
+    melody "的确不能，而且你也永远得不到我，我的水平比你高到不知道哪里去了，阳痿男。"
 
 # game/boutique.rpy#L563
 translate chinese melodyhandjob2_44933149:
 
     # "In my frustration I seem to have gone totally flaccid, so I’ll take this opportunity to dip out and go back home."
-    "In my frustration I seem to have gone totally flaccid, so I’ll take this opportunity to dip out and go back home."
+    "感到挫折之余，我意识到自己是落了下风，因而我认为也是时候抓住机会并溜之大吉了。"
 
 # game/boutique.rpy#L564
 translate chinese melodyhandjob2_cfb19244:
 
     # mc "I’m leaving."
-    mc "I’m leaving."
+    mc "那我先走了。"
 
 # game/boutique.rpy#L566
 translate chinese melodyhandjob2_ff2f2700:
 
     # melody "Do come back…"
-    melody "Do come back…"
+    melody "可别忘了再来......"
 
 # game/boutique.rpy#L571
 translate chinese melodyhandjob2_469fa7f5:
 
     # "I head out of the boutique in a huff."
-    "I head out of the boutique in a huff."
+    "我一肚子火地走出了精品店。"
 
 # game/boutique.rpy#L572
 translate chinese melodyhandjob2_1ee9e07a:
 
     # "This was not the experience I was expecting when I decided to work there. It felt pointless, humiliating and frustrating."
-    "This was not the experience I was expecting when I decided to work there. It felt pointless, humiliating and frustrating."
+    "这跟我最开始决定上这儿来上班时所期待的工作体验大相径庭。现在我只感到浪费了宝贵的生命，惨遭羞辱，可谓是身心俱疲。"
 
 # game/boutique.rpy#L573
 translate chinese melodyhandjob2_43802e5d:
 
     # "The serene princess-like beauty and politeness of Ruby contrasted with that she-devil. Well, actually Ruby wasn’t that polite, but in contrast to Melody anyone can seem polite."
-    "The serene princess-like beauty and politeness of Ruby contrasted with that she-devil. Well, actually Ruby wasn’t that polite, but in contrast to Melody anyone can seem polite."
+    "平和得就像是位小公主且温和有礼的Ruby跟她邪恶的妹妹形成了鲜明对比。不过话说回来，Ruby也不是特别有礼貌，但跟Melody比起来任何人都能是礼节大师了。"
 
 # game/boutique.rpy#L574
 translate chinese melodyhandjob2_2f4f2281:
 
     # "Yet… I grasp in my right hand, 25 monies. Why in that brief moment was Melody so generous? And why did she give me a handjob?"
-    "Yet… I grasp in my right hand, 25 monies. Why in that brief moment was Melody so generous? And why did she give me a handjob?"
+    "然而......我手上可还握着那二十五块钱咧。虽然就短短一瞬间，可Melody为何突然变得那么慷慨？而且她给我打飞机到底是为了什么？"
 
 # game/boutique.rpy#L575
 translate chinese melodyhandjob2_51a4b356:
 
     # "She seems like someone that always has an ulterior motive, so despite this generosity I can’t take it as genuine good grace."
-    "She seems like someone that always has an ulterior motive, so despite this generosity I can’t take it as genuine good grace."
+    "她看起来就像是那种干什么都别有用心的马，因此，就算她表现的慷慨了片刻，我可不能因此就把她当好马看了。"
 
 # game/boutique.rpy#L576
 translate chinese melodyhandjob2_1c0bca7e:
 
     # "Even so, just for a moment, the look in her eyes and her voice was so sincere..."
-    "Even so, just for a moment, the look in her eyes and her voice was so sincere..."
+    "即便如此，在事情发生的那一刹那，无论是她的眼神，还是声音中流露出的那份情感，都显得是那么的真诚......"
 
 # game/boutique.rpy#L577
 translate chinese melodyhandjob2_958169bf:
 
     # "I need to talk to someone about this, clear my head."
-    "I need to talk to someone about this, clear my head."
+    "我得找个人谈谈，脑子太乱了。"
 
 # game/boutique.rpy#L582
 translate chinese melodyhandjob2_ce617998:
@@ -2031,91 +2031,91 @@ translate chinese melodyhandjob2_ce617998:
 translate chinese melodyhandjob2_2b4f75c9:
 
     # "Turns out I have hours and hours before Moxie gets back, so I decide to fill the time by going on a walk."
-    "Turns out I have hours and hours before Moxie gets back, so I decide to fill the time by going on a walk."
+    "结果一看，在Moxie回来前，我还有好几个小时的空余，于是为了打发时间，我决定出门晃悠两圈。"
 
 # game/boutique.rpy#L587
 translate chinese melodyhandjob2_15b7a010:
 
     # "Moxie wasn’t lying when I said I might get approached by girls, I've had a few passing conversations with curious strangers and even been asked on a date."
-    "Moxie wasn’t lying when I said I might get approached by girls, I've had a few passing conversations with curious strangers and even been asked on a date."
+    "关于我会被各类女孩接近这事，Moxie倒是没骗我，我连着好几次让怀着好奇心理的陌生人搭了讪，甚至有几个喊我去约会的。"
 
 # game/boutique.rpy#L588
 translate chinese melodyhandjob2_8b08d4b3:
 
     # "But I’m not particularly in the mood for a fling with a random mare... At least not right now."
-    "But I’m not particularly in the mood for a fling with a random mare... At least not right now."
+    "可我没那个跟路边的雌驹乱搞的心情......至少现在没有。"
 
 # game/boutique.rpy#L590
 translate chinese melodyhandjob2_346b7e9d:
 
     # "I just want a relaxing walk to clear my head, so I step out of the suburbs and take a walk around the surrounding fields and wooded areas."
-    "I just want a relaxing walk to clear my head, so I step out of the suburbs and take a walk around the surrounding fields and wooded areas."
+    "我只是想出门散散步，放放松而已，于是，我把城镇抛之身后，把散步地点转移到了郊外的田野和树林中去。"
 
 # game/boutique.rpy#L599
 translate chinese melodyhandjob2_2e89c4dc:
 
     # "When I return to the wagon, I’m feeling much better."
-    "When I return to the wagon, I’m feeling much better."
+    "之后我回到篷车那儿时，我心情好多了。"
 
 # game/boutique.rpy#L600
 translate chinese melodyhandjob2_8818a385:
 
     # "When Moxie returns, I have to take a moment to really consider whether or not I should tell her about the oddity that was today."
-    "When Moxie returns, I have to take a moment to really consider whether or not I should tell her about the oddity that was today."
+    "等Moxie回来了，我得好好想想到底应不应该告诉她今天发生的怪事。"
 
 # game/boutique.rpy#L602
 translate chinese melodyhandjob2_f14899ff:
 
     # moxie "Hey tiger, how was work today?"
-    moxie "Hey tiger, how was work today?"
+    moxie "嘿，小伙子，今天工作咋样啦？"
 
 # game/boutique.rpy#L603
 translate chinese melodyhandjob2_43ee9d0b:
 
     # "If I can’t be honest with her, I can’t be honest with anyone."
-    "If I can’t be honest with her, I can’t be honest with anyone."
+    "如果我连向她坦白都做不到，那也就没什么人是值得我坦白的了。"
 
 # game/boutique.rpy#L604
 translate chinese melodyhandjob2_768dfbed:
 
     # mc "Today was strange, I went to the boutique but Ruby ended up telling me to go home because there was no work to do."
-    mc "Today was strange, I went to the boutique but Ruby ended up telling me to go home because there was no work to do."
+    mc "今天过得有点怪，我去了精品店，可Ruby最后只是叫我回家，因为店里头也没有需要我做的工作。"
 
 # game/boutique.rpy#L606
 translate chinese melodyhandjob2_4057caf6:
 
     # moxie "Ah… So, you didn’t get paid?"
-    moxie "Ah… So, you didn’t get paid?"
+    moxie "啊这......所以，你是空手而归喽？"
 
 # game/boutique.rpy#L607
 translate chinese melodyhandjob2_02722e24:
 
     # mc "That’s the weird thing; I did get paid, but not by Ruby, by her little sister."
-    mc "That’s the weird thing; I did get paid, but not by Ruby, by her little sister."
+    mc "怪事到这才真正开始；我确实拿到了工钱，但那不是Ruby给的，是她妹妹给的。"
 
 # game/boutique.rpy#L609
 translate chinese melodyhandjob2_3aaa1b4b:
 
     # moxie "Little sister, hmm... Her name escapes me, I know she goes to the college I’m trying to apply for."
-    moxie "Little sister, hmm... Her name escapes me, I know she goes to the college I’m trying to apply for."
+    moxie "额，妹妹的话......我记不清她的名字了，不过我知道她就在我希望申请上的那所大学里读书。"
 
 # game/boutique.rpy#L611
 translate chinese melodyhandjob2_3789f08b:
 
     # moxie "That's weird though, what happened?"
-    moxie "That's weird though, what happened?"
+    moxie "这就很奇怪了，到底发生什么了？"
 
 # game/boutique.rpy#L612
 translate chinese melodyhandjob2_f615b9eb:
 
     # mc "Her name is Melody and yeah it’s weird because… I didn’t do anything. She just gave me the money and told me to come back, even though Ruby has no work for me."
-    mc "Her name is Melody and yeah it’s weird because… I didn’t do anything. She just gave me the money and told me to come back, even though Ruby has no work for me."
+    mc "她的名字是Melody，而且你说的没错，她就是奇怪的那个......因为我一点活也没干。她只是把钱给了我，还让我常过去看看，哪怕是Ruby那儿完全没有我能参与的工作。"
 
 # game/boutique.rpy#L614
 translate chinese melodyhandjob2_ced48688:
 
     # moxie "Heh, the way I see it, money is money! Mares can get weird around guys sometimes, I act pretty weird when I’m around you too, got me thinking."
-    moxie "Heh, the way I see it, money is money! Mares can get weird around guys sometimes, I act pretty weird when I’m around you too, got me thinking."
+    moxie "噗，在我看来啊，钱就是钱！碰上男性的雌驹行为古怪点也正常，跟你待在一起的时候，我的行为也会变得有点奇怪，这事之前还搞得我很疑惑咧。"
 
 # game/boutique.rpy#L616
 translate chinese melodyhandjob2_9ba4495d:

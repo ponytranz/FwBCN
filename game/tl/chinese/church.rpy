@@ -1,4 +1,4 @@
-# Translation updated at Thu Jun 24 2021 00:39:04 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Fri Jun 25 2021 00:54:04 GMT+0000 (Coordinated Universal Time)
 # game/church.rpy#L15
 translate chinese augustapost_d42bf085:
 
@@ -1017,7 +1017,7 @@ translate chinese augustareversecowgirl_fc0b84a2:
 translate chinese augustareversecowgirl_bc35b614:
 
     # augusta "Ooohhh… I like your cock, bro…"
-    augusta "哦哦...你的鸡巴真是粗伟雄壮，老铁......"
+    augusta "哦哦...你的鸡巴真是粗伟雄壮，铁汁......"
 
 # game/church.rpy#L345
 translate chinese augustareversecowgirl_83a0199b:
@@ -2229,7 +2229,7 @@ translate chinese augustareview_99efb6b9:
 translate chinese augustareview_e2e54c39:
 
     # amora "Sigh... Whatever, man..."
-    amora "哎...随便你吧，老铁......"
+    amora "哎...随便你吧，兄dei......"
 
 # game/church.rpy#L719
 translate chinese augustareview_1e868abd:

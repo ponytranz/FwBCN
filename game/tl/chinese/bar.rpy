@@ -1,4 +1,4 @@
-# Translation updated at Thu Jun 24 2021 00:39:04 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Fri Jun 25 2021 00:54:04 GMT+0000 (Coordinated Universal Time)
 # game/bar.rpy#L13
 translate chinese barvisit1_d43fa519:
 
@@ -153,7 +153,7 @@ translate chinese barvisit1_14507e7d:
 translate chinese barvisit1_3d7806d3:
 
     # riku "But first... Take a seat, don't stand around awkwardly hehe."
-    riku "但是……你先找地儿坐下吧，别在这儿尬站着了，嘿嘿。"
+    riku "但是……你先找地儿坐下吧，别在这儿傻站着了，嘿嘿。"
 
 # game/bar.rpy#L61
 translate chinese barvisit1_2d55f17f:
@@ -1473,7 +1473,7 @@ translate chinese barvisit1choice1_d2b9c7fe:
 translate chinese barvisit1choice1_dbc148b2:
 
     # "I should have figured that out, it’s the same stuff Honeycrisp makes."
-    "我应该弄明白的，这就是Honeycrisp酿造的东西。"
+    "我应该意识到的，这就是Honeycrisp酿造的东西。"
 
 # game/bar.rpy#L412
 translate chinese barvisit1choice1_b0f97c0c:
@@ -1599,7 +1599,7 @@ translate chinese barvisit1choice1_bd5343a7:
 translate chinese barvisit1choice1_12dbf3b7:
 
     # "I take another sip of my cider. Mmm, this stuff is really moreish."
-    "我有喝了一口果酒。嗯，这东西喝了还想喝。"
+    "我又喝了一口果酒。嗯，这东西喝了还想喝。"
 
 # game/bar.rpy#L445
 translate chinese barvisit1choice1_c849054f:
@@ -1767,7 +1767,7 @@ translate chinese cbrikutod_d7c5b3ae:
 translate chinese cbrikutod_3a8799b6:
 
     # "She crosses her arms and pouts, thinking of a way to get me back no doubt."
-    "她双手叉腰，撅着嘴，无疑是在想办法让我回去。"
+    "她双手叉腰，撅着嘴，无疑是在想办法让我把话题拐回去。"
 
 # game/bar.rpy#L499
 translate chinese cbrikutod_4e996fb5:
@@ -1995,7 +1995,7 @@ translate chinese cbrikutod_ce617998:
 translate chinese cbrikutod_af59c070:
 
     # riku "Uh, I don’t know what to do, I don’t know any serenades…"
-    riku "呃，我不知道该怎么弄，我可不知道什么小夜曲……"
+    riku "呃，我不知道该怎么唱，我可不知道什么小夜曲……"
 
 # game/bar.rpy#L559
 translate chinese cbrikutod_ae18c0f5:
@@ -2559,7 +2559,7 @@ translate chinese cbrikutod_88a0b59f:
 translate chinese cbrikutod_f13b8cfd:
 
     # "She brings her knees together and lifts her feet, her toes wiggling as she does so."
-    "She brings her knees together and lifts her feet, her toes wiggling as she does so."
+    "她把膝盖并拢，抬起脚，脚趾在扭动着。"
 
 # game/bar.rpy#L713
 translate chinese cbrikutod_e707f955:
@@ -2601,25 +2601,25 @@ translate chinese cbrikutod_6b9bdacb:
 translate chinese cbrikutod_ecee95d2:
 
     # "Her toes are bright red and fluffy, no odour at all thankfully, you can tell she’s washed recently."
-    "Her toes are bright red and fluffy, no odour at all thankfully, you can tell she’s washed recently."
+    "她的脚趾亮红色，毛茸茸的，没有味道真是谢天谢地。你可以判断出她刚刚洗过的。"
 
 # game/bar.rpy#L720
 translate chinese cbrikutod_22f06543:
 
     # "I take a deep breath before placing her big toe in my mouth and starting to suckle on it."
-    "I take a deep breath before placing her big toe in my mouth and starting to suckle on it."
+    "我深吸了一口气，然后把她的脚趾放入嘴中，开始吮吸。"
 
 # game/bar.rpy#L721
 translate chinese cbrikutod_3a5108d6:
 
     # riku "Ewwiee, you were supposed to refuse this one! You’re actually doing it!"
-    riku "Ewwiee, you were supposed to refuse this one! You’re actually doing it!"
+    riku "噫噫噫，我想着你会拒绝的！但是你居然真的做了！"
 
 # game/bar.rpy#L722
 translate chinese cbrikutod_18338305:
 
     # "I can’t help but giggle internally as Riku squirms."
-    "I can’t help but giggle internally as Riku squirms."
+    "在Riku忸怩的时候，我不禁在心中笑了起来。"
 
 # game/bar.rpy#L723
 translate chinese cbrikutod_862bb009:
@@ -2631,19 +2631,19 @@ translate chinese cbrikutod_862bb009:
 translate chinese cbrikutod_a33bf90e:
 
     # riku "Uwaahh, it’s like a wet slug sliding up and down!"
-    riku "Uwaahh, it’s like a wet slug sliding up and down!"
+    riku "呜啊啊，这就像是个湿乎乎的鼻涕虫在上下蠕动！"
 
 # game/bar.rpy#L726
 translate chinese cbrikutod_61c43cd2:
 
     # "Fortunately, no hair gets in my mouth, but I’m still looking forward to washing this down with a lot of cider."
-    "Fortunately, no hair gets in my mouth, but I’m still looking forward to washing this down with a lot of cider."
+    "还好，我的嘴里没有进毛，但是我还是想用大量的果酒把嘴里好好洗洗。"
 
 # game/bar.rpy#L727
 translate chinese cbrikutod_90b27566:
 
     # riku "Ahhh, okay, okay, that’s enough!"
-    riku "Ahhh, okay, okay, that’s enough!"
+    riku "行了，好了，好了，这就够了！"
 
 # game/bar.rpy#L729
 translate chinese cbrikutod_6e1722f8:
@@ -2655,43 +2655,43 @@ translate chinese cbrikutod_6e1722f8:
 translate chinese cbrikutod_ead38d87:
 
     # "The dare that was supposed to torment me ended up having the opposite effect."
-    "The dare that was supposed to torment me ended up having the opposite effect."
+    "这个原本打算是折磨我的大冒险，到最后却起了反作用。"
 
 # game/bar.rpy#L731
 translate chinese cbrikutod_8a7a2ed8:
 
     # "Although I admit that one hurt my ego, a little cider can wash away the hurt."
-    "Although I admit that one hurt my ego, a little cider can wash away the hurt."
+    "尽管我承认这伤我自尊，但是喝点果酒就能洗掉那种感觉。"
 
 # game/bar.rpy#L733
 translate chinese cbrikutod_863cddc8:
 
     # "It’s becoming apparent that either Riku is bad at giving me difficult truths or dares, or I’m just a psychopath that’ll do anything to torment the poor girl."
-    "It’s becoming apparent that either Riku is bad at giving me difficult truths or dares, or I’m just a psychopath that’ll do anything to torment the poor girl."
+    "显然，要么是Riku不精通怎么给我提出困难的真心话大冒险，要么我就是个为了折磨这个可怜女孩做出任何事情的精神变态狂。"
 
 # game/bar.rpy#L734
 translate chinese cbrikutod_71f71bcd:
 
     # riku "Mmm shit, it’s my turn again? It feels like I just had a turn."
-    riku "Mmm shit, it’s my turn again? It feels like I just had a turn."
+    riku "嗯，见鬼，又轮到我了？感觉我刚来过一轮。"
 
 # game/bar.rpy#L735
 translate chinese cbrikutod_df95a18d:
 
     # mc "Certainly is, truth or dare?"
-    mc "Certainly is, truth or dare?"
+    mc "那确实，真心话还是大冒险？"
 
 # game/bar.rpy#L736
 translate chinese cbrikutod_7421e0e8:
 
     # riku "Ahh damnit, uh, dare?"
-    riku "Ahh damnit, uh, dare?"
+    riku "操，那就，大冒险？"
 
 # game/bar.rpy#L739
 translate chinese cbrikutod_27fe57f5:
 
     # "She gulps and her eyes scan all around my body as she tries to think of the least harmless place to do it."
-    "She gulps and her eyes scan all around my body as she tries to think of the least harmless place to do it."
+    "她吞了一口口水，眼睛在我周身扫视着，她要找出危害最小的部位来舌吻。"
 
 # game/bar.rpy#L741
 translate chinese cbrikutod_71ba790c:
@@ -2709,7 +2709,7 @@ translate chinese cbrikutod_86595b14:
 translate chinese cbrikutod_89f59185:
 
     # riku "Mm, maybe I should keep it above the chest, that way it’s not too lewd, hehe…"
-    riku "Mm, maybe I should keep it above the chest, that way it’s not too lewd, hehe…"
+    riku "嗯，或许应该在胸部以上的部位，这样就不会太涩，呵呵……"
 
 # game/bar.rpy#L745
 translate chinese cbrikutod_f70c511a:
@@ -2721,7 +2721,7 @@ translate chinese cbrikutod_f70c511a:
 translate chinese cbrikutod_a63f6206:
 
     # "In my peripheral vision I can see her lean in and then suddenly against my neck I can feel her soft lips pursed."
-    "In my peripheral vision I can see her lean in and then suddenly against my neck I can feel her soft lips pursed."
+    "我的余光可以看到她靠到近旁，然后突然贴紧了我的脖子，我能感到她柔软的嘴唇。"
 
 # game/bar.rpy#L748
 translate chinese cbrikutod_c9829a10:

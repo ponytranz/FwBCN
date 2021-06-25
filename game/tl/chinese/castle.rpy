@@ -1,4 +1,4 @@
-# Translation updated at Thu Jun 24 2021 00:39:04 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Fri Jun 25 2021 00:54:04 GMT+0000 (Coordinated Universal Time)
 # game/castle.rpy#L6
 translate chinese castle_38f72bb5:
 
@@ -2685,19 +2685,19 @@ translate chinese selenemenu_0cd7b343:
 translate chinese selenemenu_f06bc39f:
 
     # "Her hips gyrate softly around my cock, I don’t think she realizes it, but she’s so horny her body is causing her to move subconsciously."
-    "Her hips gyrate softly around my cock, I don’t think she realizes it, but she’s so horny her body is causing her to move subconsciously."
+    "她的臀部贴着我的肉棒轻轻地旋转起来，我估计她自己都没有意识到这点，但她太饥渴了，所以身体不由自主地动了起来。"
 
 # game/castle.rpy#L791
 translate chinese selenemenu_775d106e:
 
     # "She raises herself up and down repeatedly, fucking me gently."
-    "She raises herself up and down repeatedly, fucking me gently."
+    "她上上下下，轻柔地揉虐我。"
 
 # game/castle.rpy#L793
 translate chinese selenemenu_2d26f380:
 
     # selene "Aahhh, you’re so thick too, and you don’t immediately cum like a stallion, you’re such a gem."
-    selene "Aahhh, you’re so thick too, and you don’t immediately cum like a stallion, you’re such a gem."
+    selene "哈，你也太“迟钝”了，不会像种马一样秒射，你真是太赞了！"
 
 # game/castle.rpy#L794
 translate chinese selenemenu_29e00358:

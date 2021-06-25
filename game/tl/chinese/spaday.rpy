@@ -1,4 +1,4 @@
-# Translation updated at Thu Jun 24 2021 00:39:04 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Fri Jun 25 2021 00:54:04 GMT+0000 (Coordinated Universal Time)
 # game/spaday.rpy#L3
 translate chinese spaday_04fdf40f:
 
@@ -213,7 +213,7 @@ translate chinese spaday_98f9d9bb:
 translate chinese spaday_5ad83669:
 
     # "Surrounded by all the dependable and lovable friends I’ve made in my new life, here in this new and exciting world of Arcadia."
-    "在阿卡狄亚这个崭新而又让人无比兴奋的世界里，陪在我身边的全都是值得信赖、迷人可爱的好朋友。"
+    "在Arcadia这个崭新而又让人无比兴奋的世界里，陪在我身边的全都是值得信赖、迷人可爱的好朋友。"
 
 # game/spaday.rpy#L134
 translate chinese spaday_42105601:
@@ -237,7 +237,7 @@ translate chinese spaday_3272f51f:
 translate chinese spaday_c159a84e:
 
     # "I’m infatuated with the beauty that is Ruby, a princess-like girl of a high class, with a deep lust hidden within her, and perhaps the craziest sister I’ve ever met."
-    "我迷恋着鲁比这个女孩，一个公主般的上流女孩，内心隐藏着深深的欲望，也许是我见过的最疯狂的姐妹。"
+    "我迷恋着Ruby这匹美马，一个公主般的上流女孩，内心隐藏着深深的欲望，也许是我见过的最疯狂的姐妹。"
 
 # game/spaday.rpy#L138
 translate chinese spaday_57d0ba80:
@@ -261,7 +261,7 @@ translate chinese spaday_bb625a75:
 translate chinese spaday_9e3c2494:
 
     # "I have immense amounts of respect for Lily, who managed to come out of her shell, and really spread her wings! When I first met her, she barely wanted to leave the house, and now she was the first person waiting for everyone at the castle."
-    "我对莉莉深表敬意，她成功地脱壳而出，展翅高飞！当我第一次见到她时，她几乎不想出门，现在她是第一个在城堡里等大家的人。"
+    "我对Lily深表敬意，她成功地脱壳而出，展翅高飞！当我第一次见到她时，她几乎不想出门，现在她是第一个在城堡里等大家的人。"
 
 # game/spaday.rpy#L142
 translate chinese spaday_4cb79f4b:
