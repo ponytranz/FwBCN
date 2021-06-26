@@ -1,4 +1,4 @@
-# Translation updated at Fri Jun 25 2021 00:54:04 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Sat Jun 26 2021 00:48:03 GMT+0000 (Coordinated Universal Time)
 # game/3map.rpy#L57
 translate chinese mapmarket_91ae100c:
 

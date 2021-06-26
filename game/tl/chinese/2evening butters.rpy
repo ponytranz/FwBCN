@@ -1,4 +1,4 @@
-# Translation updated at Fri Jun 25 2021 00:54:04 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Sat Jun 26 2021 00:48:03 GMT+0000 (Coordinated Universal Time)
 # game/2evening%20butters.rpy#L11
 translate chinese eveningbutters_ce840f9e:
 
@@ -1329,13 +1329,13 @@ translate chinese eveningbutterssex_db12a963_1:
 translate chinese eveningbutterssex_a00cc919_1:
 
     # "With one hand I massage her large soft breasts, while I masturbate my growing erection with the other."
-    "我一只手爱抚着她的香峰，另一只手则套弄自己的长枪，让它准备好战斗。"
+    "我一只手爱抚着她的香峰，另一只手则套弄自己的肉棒，让它准备好战斗。"
 
 # game/2evening%20butters.rpy#L538
 translate chinese eveningbutterssex_bfe1976e_1:
 
     # "Once fully erect and ready to go, I bring myself back upright with my eyes on the prize."
-    "待长枪完全挺起，我重新直起身子，准备一番干柴烈火。"
+    "待其完全挺起，我重新直起身子，准备一番干柴烈火。"
 
 # game/2evening%20butters.rpy#L539
 translate chinese eveningbutterssex_e3850100_1:

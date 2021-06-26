@@ -1,4 +1,4 @@
-# Translation updated at Fri Jun 25 2021 00:54:04 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Sat Jun 26 2021 00:48:03 GMT+0000 (Coordinated Universal Time)
 # game/forest.rpy#L18
 translate chinese forestvisit1_8c224d17:
 
@@ -2301,283 +2301,283 @@ translate chinese forestvisit1slimesex_c3b5c19d:
 translate chinese forestvisit1slimesex_e61524f8:
 
     # "I press the tip of my cock against her lips and it looks like she’s just about to lick it, but then she turns her head away and suddenly her hand reaches for my cock instead, and starts to jack it off."
-    "I press the tip of my cock against her lips and it looks like she’s just about to lick it, but then she turns her head away and suddenly her hand reaches for my cock instead, and starts to jack it off."
+    "她本应是打算伸出舌头舔我的龟头，但突然又把头别了过去，转而用手握住我的棒身，开始套弄起来。"
 
 # game/forest.rpy#L653
 translate chinese forestvisit1slimesex_a17d344f:
 
     # butters "Eugh, there's no way I'm sucking your cock you damn perv... Ahhh..."
-    butters "Eugh, there's no way I'm sucking your cock you damn perv... Ahhh..."
+    butters "恶，我可不会给你口，你个死变...啊......"
 
 # game/forest.rpy#L654
 translate chinese forestvisit1slimesex_abd0684a:
 
     # butters "This is all you’re getting, human."
-    butters "This is all you’re getting, human."
+    butters "你只配让我帮你撸，人类。"
 
 # game/forest.rpy#L655
 translate chinese forestvisit1slimesex_cddc5bb6:
 
     # "She gives me a great hand job; her hand is fast! The technique is fantastic too!"
-    "She gives me a great hand job; her hand is fast! The technique is fantastic too!"
+    "但她的手活仍然很好；速度很快！技巧堪称完美！"
 
 # game/forest.rpy#L656
 translate chinese forestvisit1slimesex_7fd05314:
 
     # "It feels just as good as jacking myself off."
-    "It feels just as good as jacking myself off."
+    "不输我自己的“亲手操作”。"
 
 # game/forest.rpy#L658
 translate chinese forestvisit1slimesex_8fbe0f64:
 
     # butters "Aahh, the slime is throbbing, ahhh!"
-    butters "Aahh, the slime is throbbing, ahhh!"
+    butters "啊，史莱姆的那个开始抽动了，啊啊！"
 
 # game/forest.rpy#L659
 translate chinese forestvisit1slimesex_183fda02:
 
     # "Meanwhile the slime watches Butters jack me off eagerly while continuing to pound away at Butters’s pussy."
-    "Meanwhile the slime watches Butters jack me off eagerly while continuing to pound away at Butters’s pussy."
+    "史莱姆痴情地望着Butters撸动着我的肉棒，随后更用力地抽插着Butters的小穴。"
 
 # game/forest.rpy#L660
 translate chinese forestvisit1slimesex_726aa78d:
 
     # "Somehow throughout the entire intense fuck, Butters continues to give me this excellent handjob."
-    "Somehow throughout the entire intense fuck, Butters continues to give me this excellent handjob."
+    "虽然Butters正在被史莱姆激烈地抽送着，但她手上的套动功夫仍然卓越无比。"
 
 # game/forest.rpy#L661
 translate chinese forestvisit1slimesex_01143f0c:
 
     # "I think I’m going to cum after only a minute of this. I can feel a pressure in my loins and it’s building up extremely quickly."
-    "I think I’m going to cum after only a minute of this. I can feel a pressure in my loins and it’s building up extremely quickly."
+    "在她的“手艺”下我估计坚持不了几分钟。我能感觉到压力在我的腰部渐渐沉淀，而且越堆越快。"
 
 # game/forest.rpy#L662
 translate chinese forestvisit1slimesex_54932321:
 
     # "She opens her mouth and her tongue splays outwards expectantly as she prepares to receive my cum."
-    "She opens her mouth and her tongue splays outwards expectantly as she prepares to receive my cum."
+    "她朱唇张开，香舌吐出，准备把我的精液全盘接收。"
 
 # game/forest.rpy#L663
 translate chinese forestvisit1slimesex_d4578065:
 
     # butters "Cum all over my dirty face!"
-    butters "Cum all over my dirty face!"
+    butters "都射在我脏兮兮的脸上吧！"
 
 # game/forest.rpy#L664
 translate chinese forestvisit1slimesex_8a466ae0:
 
     # slime "Mmm, give me your baby juice!"
-    slime "Mmm, give me your baby juice!"
+    slime "呣呣，把你美味的种子都射出来吧！"
 
 # game/forest.rpy#L665
 translate chinese forestvisit1slimesex_3fb7e157:
 
     # "Both the girls waggle their tongues in preparation for my load."
-    "Both the girls waggle their tongues in preparation for my load."
+    "二女都摇晃着舌头，期待着我蓬勃的精液。"
 
 # game/forest.rpy#L671
 translate chinese forestvisit1slimesex_7c53694a:
 
     # "She milks my cock like a professional and before a minute of jacking is even up, I’m cumming loads all over them."
-    "She milks my cock like a professional and before a minute of jacking is even up, I’m cumming loads all over them."
+    "她套弄的手法娴熟异常，精液喷薄而出，在随后的一分钟内肆意向二女的身上喷洒。"
 
 # game/forest.rpy#L672
 translate chinese forestvisit1slimesex_8ff43031:
 
     # butters "Ahh, ahh… Mmmm, tasty! Ahhhh! *Pant*."
-    butters "Ahh, ahh… Mmmm, tasty! Ahhhh! *Pant*."
+    butters "啊，啊...嗯嗯，美味的牛奶！啊啊！*喘气*。"
 
 # game/forest.rpy#L673
 translate chinese forestvisit1slimesex_3e94b8fa:
 
     # "She lets go of my cock after I finish giving her a facial, then licks all the cum up around her mouth and swallows it. The slime also makes sure not a single drop goes to waste as it absorbs any remnants it can."
-    "She lets go of my cock after I finish giving her a facial, then licks all the cum up around her mouth and swallows it. The slime also makes sure not a single drop goes to waste as it absorbs any remnants it can."
+    "在我给她敷了一张乳白色的面膜后，她总算放开了我的肉棒，然后开始舔舐着嘴边的精液吞下去。史莱姆则完全没有浪费任何一滴，任何落在表面的精液都被尽数吸收。"
 
 # game/forest.rpy#L675
 translate chinese forestvisit1slimesex_1842d339:
 
     # "And seconds after I've cum all over their faces, it's been absorbed clean by the slime. I could use something like that at home."
-    "And seconds after I've cum all over their faces, it's been absorbed clean by the slime. I could use something like that at home."
+    "在我射在史莱姆脸上后的几秒内，她就把精液吸得干干净净。我家里吸尘器要是有这德行就好了。"
 
 # game/forest.rpy#L676
 translate chinese forestvisit1slimesex_f21372b1:
 
     # "I take a step back, the slime is starting to fuck her even faster right now, seemingly spurred on by my involvement. Is it about to finish?"
-    "I take a step back, the slime is starting to fuck her even faster right now, seemingly spurred on by my involvement. Is it about to finish?"
+    "我完事了，随即后退一步，史莱姆则开始更用力地抽插着Butters，似乎是受到了我的鼓舞。她也快完事了？"
 
 # game/forest.rpy#L679
 translate chinese forestvisit1slimesex_67dbb8c8:
 
     # "Am I really going to do this?"
-    "Am I really going to do this?"
+    "我真要这么干吗？"
 
 # game/forest.rpy#L680
 translate chinese forestvisit1slimesex_006ceae8:
 
     # "The lengths a man will go to get some."
-    "The lengths a man will go to get some."
+    "就当长长见识吧。"
 
 # game/forest.rpy#L681
 translate chinese forestvisit1slimesex_92c732dd:
 
     # butters "Ohh, you’re going to do it, what a brave lil’ human!"
-    butters "Ohh, you’re going to do it, what a brave lil’ human!"
+    butters "哦，你迈出这一步了，勇敢的小人类！"
 
 # game/forest.rpy#L682
 translate chinese forestvisit1slimesex_291beac1:
 
     # "The slime opens its mouth and waggles its tongue back and forth in a way I must assume is flirtatious, but it comes across as silly."
-    "The slime opens its mouth and waggles its tongue back and forth in a way I must assume is flirtatious, but it comes across as silly."
+    "史莱姆张开自己的小嘴，来回摆动着她的舌头，应该是在调情。不过说实话，看起来有点憨。"
 
 # game/forest.rpy#L686
 translate chinese forestvisit1slimesex_49013f7a:
 
     # "I press the tip of my cock against it, it’s not exactly a real mouth, it’s more a fake mouth to give the illusion, only one inch inside there’s a thick barrier of slime that I have to push through."
-    "I press the tip of my cock against it, it’s not exactly a real mouth, it’s more a fake mouth to give the illusion, only one inch inside there’s a thick barrier of slime that I have to push through."
+    "我把龟头塞进了她的嘴里，她的嘴给我的感觉像是一个只有3厘米深的假嘴巴，再往里面是一层史莱姆粘液膜，我想试试能不能顶得更深一点。"
 
 # game/forest.rpy#L687
 translate chinese forestvisit1slimesex_1f573885:
 
     # "Regardless, my cock sinks in deeper, and a makeshift tongue starts to coil and drool over my shaft."
-    "Regardless, my cock sinks in deeper, and a makeshift tongue starts to coil and drool over my shaft."
+    "不管怎么样，我成功了，肉棒得以插得更深，一个同样感觉像是假的舌头开始在我的棒身上摆弄，留下黏糊糊的口水。"
 
 # game/forest.rpy#L688
 translate chinese forestvisit1slimesex_d420687d:
 
     # "Thankfully the inside of the slimy pseudo-mouth is warm, and due to the fact it's simply slime constricting around my shaft; it's very tight, although very different from a pussy."
-    "Thankfully the inside of the slimy pseudo-mouth is warm, and due to the fact it's simply slime constricting around my shaft; it's very tight, although very different from a pussy."
+    "谢天谢地，史莱姆的粘液假嘴吸噬住我的长枪，里面是温暖的；同时也非常紧致，和插进阴道的感觉还是有很大不同的。"
 
 # game/forest.rpy#L689
 translate chinese forestvisit1slimesex_2605aa1f:
 
     # butters "Mmphhh, show him how it’s done, slime!"
-    butters "Mmphhh, show him how it’s done, slime!"
+    butters "嗯嗯，让他见识见识什么是世界上最棒的口交，史莱姆！"
 
 # game/forest.rpy#L690
 translate chinese forestvisit1slimesex_02ba285f:
 
     # "She wasn’t wrong. From the slime's blowjob there are three overwhelmingly pleasureful sensations attacking my senses."
-    "She wasn’t wrong. From the slime's blowjob there are three overwhelmingly pleasureful sensations attacking my senses."
+    "她所言极是。史莱姆的口活非常好，三种压倒性的快感对我的感官发起轮番冲击。"
 
 # game/forest.rpy#L691
 translate chinese forestvisit1slimesex_ffd61acb:
 
     # "First, her lips wrap around my cock and slide up and down my shaft, then the warm slime inside squeezes tightly against my glans, and finally there is also a constant sucking sensation across my whole member."
-    "First, her lips wrap around my cock and slide up and down my shaft, then the warm slime inside squeezes tightly against my glans, and finally there is also a constant sucking sensation across my whole member."
+    "第一种快感，环绕我肉棒的嘴唇正在不断吞吐着棒身，第二种，她嘴里的温和粘液使劲地吮吸着我的龟头，最后一种，整根肉棒都能感觉到持续地挤压和吸噬感。"
 
 # game/forest.rpy#L692
 translate chinese forestvisit1slimesex_ec12beee:
 
     # butters "It’s good, isn’t it?"
-    butters "It’s good, isn’t it?"
+    butters "很舒服吧？我说的有没有错？"
 
 # game/forest.rpy#L693
 translate chinese forestvisit1slimesex_6cc1d794:
 
     # "Surprisingly good, but I’m still remaining cautious. I don’t want this thing to overstep its boundaries."
-    "Surprisingly good, but I’m still remaining cautious. I don’t want this thing to overstep its boundaries."
+    "出乎意料的爽，不过我仍然在努力保持克制。我不想太过火。"
 
 # game/forest.rpy#L694
 translate chinese forestvisit1slimesex_4b69f71d:
 
     # "Woah, it’s starting to speed up, it’s milking me just as fast as it’s fucking Butters! It’s inhumanly fast, but for a slime I bet this is no problem at all."
-    "Woah, it’s starting to speed up, it’s milking me just as fast as it’s fucking Butters! It’s inhumanly fast, but for a slime I bet this is no problem at all."
+    "哇啊，她开始加速了，嘴里吮吸的力度丝毫不输下体抽插Butters的力度！完全是非人的速度，不过毕竟她是只史莱姆，这跟废话差不多。"
 
 # game/forest.rpy#L695
 translate chinese forestvisit1slimesex_49c3be2a:
 
     # "The technique is fantastic too! It feels just as good as sex."
-    "The technique is fantastic too! It feels just as good as sex."
+    "技巧也无可挑剔！就跟正常位性交一样舒服。"
 
 # game/forest.rpy#L696
 translate chinese forestvisit1slimesex_73f75057:
 
     # "It's like the slime has full control over every inch of her body, so she can expertly massage, and focus on my shaft with precision."
-    "It's like the slime has full control over every inch of her body, so she can expertly massage, and focus on my shaft with precision."
+    "史莱姆好像可以控制好身体每一处的力道，所以她可以一边熟练地抽插，一边专注地服侍我的长枪。"
 
 # game/forest.rpy#L697
 translate chinese forestvisit1slimesex_a1f2cbdf:
 
     # butters "Aahh, the slime inside me is throbbing, ahhh!"
-    butters "Aahh, the slime inside me is throbbing, ahhh!"
+    butters "啊，史莱姆插进来的那个开始抽动了，啊啊！"
 
 # game/forest.rpy#L698
 translate chinese forestvisit1slimesex_a37c2c0d:
 
     # "I think I’m throbbing too; I can see why she didn’t mind having sex with this thing."
-    "I think I’m throbbing too; I can see why she didn’t mind having sex with this thing."
+    "我的肉棒也开始悸动了；我总算知道为什么她不排斥和这玩意XXOO了。"
 
 # game/forest.rpy#L699
 translate chinese forestvisit1slimesex_f5aad613:
 
     # "The slime continues to pound away at her pussy while she continues to give me this excellent blowjob."
-    "The slime continues to pound away at her pussy while she continues to give me this excellent blowjob."
+    "史莱姆仍然使劲地抽插着Butters的小穴，小嘴的极致口活也丝毫不见耽误。"
 
 # game/forest.rpy#L700
 translate chinese forestvisit1slimesex_9cc4c286:
 
     # "I think I’m going to cum, I can feel a pressure in my loins and it’s building up extremely quickly."
-    "I think I’m going to cum, I can feel a pressure in my loins and it’s building up extremely quickly."
+    "估计坚持不了几分钟了。我能感觉到压力在我的腰部渐渐沉淀，而且越堆越快。"
 
 # game/forest.rpy#L701
 translate chinese forestvisit1slimesex_07c73f8a:
 
     # "The slime also adapts unexpectedly, it responds to my body language and focuses its pleasure around the neck of my glans and other sensitive areas. It’s like having a blowjob and sex simultaneously."
-    "The slime also adapts unexpectedly, it responds to my body language and focuses its pleasure around the neck of my glans and other sensitive areas. It’s like having a blowjob and sex simultaneously."
+    "史莱姆可以根据我的肢体语言及时做出调整，在我的龟头和其他敏感带上轮番刺激。就像同时在口交和抽插一样舒服。"
 
 # game/forest.rpy#L702
 translate chinese forestvisit1slimesex_d25ad015:
 
     # butters "Ohhh, I’m getting close!"
-    butters "Ohhh, I’m getting close!"
+    butters "哦哦，我要去了！"
 
 # game/forest.rpy#L703
 translate chinese forestvisit1slimesex_3766fb99:
 
     # "I’m also extremely close, my orgasm has managed to sneak up on me. This would definitely be a premature ejaculation if it was with anyone else, but this slime girl evolved to make people cum is pushing me to my limit."
-    "I’m also extremely close, my orgasm has managed to sneak up on me. This would definitely be a premature ejaculation if it was with anyone else, but this slime girl evolved to make people cum is pushing me to my limit."
+    "我也快射了，快感陡然升起，高潮临近。如果平常我射这么快，肯定会被人说这是早泄，但在一个基因突变目的就是榨精的史莱姆女孩面前，真的撑不了多久。"
 
 # game/forest.rpy#L709
 translate chinese forestvisit1slimesex_60c17274:
 
     # "The slime milks my cock like a pro, and before a minute of sucking is even up, I’m cumming loads into this amorphous sex blob."
-    "The slime milks my cock like a pro, and before a minute of sucking is even up, I’m cumming loads into this amorphous sex blob."
+    "这个史莱姆吸我肉棒的口活真乃一绝，仅仅几分钟的时间，我的精液就被她榨出，注入这块身形无常的性爱泡团中。"
 
 # game/forest.rpy#L710
 translate chinese forestvisit1slimesex_2d409ea8:
 
     # "It’s a strange sensation to see my cum drift through this see-through slime creature, I guess there’s no question on whether or not she swallows."
-    "It’s a strange sensation to see my cum drift through this see-through slime creature, I guess there’s no question on whether or not she swallows."
+    "不过看着我的精液在透明的史莱姆体内做着布朗运动，内心有些许发毛，至少，她把我的精液都吞下去了，这点可以确定。"
 
 # game/forest.rpy#L712
 translate chinese forestvisit1slimesex_bbe78fa9:
 
     # "After I cum, I’m fortunately able to pull out and back away as it continues to fuck Butters. I don’t know why she’s stuck and I get to go free."
-    "After I cum, I’m fortunately able to pull out and back away as it continues to fuck Butters. I don’t know why she’s stuck and I get to go free."
+    "在我彻底射完后，我总算抽出自己的阴茎退到一旁，继续观赏着史莱姆和Butters的风雨大战。她怎么能坚持那么久。"
 
 # game/forest.rpy#L713
 translate chinese forestvisit1slimesex_1ff26b27:
 
     # "Is she actually stuck or is she just being melodramatic?"
-    "Is she actually stuck or is she just being melodramatic?"
+    "她是在故意忍耐，还是只是在戏玩而已？"
 
 # game/forest.rpy#L715
 translate chinese forestvisit1slimesex_e3cc2452:
 
     # butters "Mmphh, it’s so thick and fast, I-I’m gonna come!"
-    butters "Mmphh, it’s so thick and fast, I-I’m gonna come!"
+    butters "嗯呼，好粗，好快，我，我不行了！"
 
 # game/forest.rpy#L716
 translate chinese forestvisit1slimesex_1ba62b59:
 
     # "Her hips buckle as her body is overwhelmed with pleasure, she throws her head back, her loud moans echoing throughout the cavern."
-    "Her hips buckle as her body is overwhelmed with pleasure, she throws her head back, her loud moans echoing throughout the cavern."
+    "无上的快感彻底吞没了她，腰高高向后弓起，头也向后甩去，高声的呻吟在小小的洞厅内久久回荡。"
 
 # game/forest.rpy#L717
 translate chinese forestvisit1slimesex_775dd196:
 
     # butters "Kyaahhh, cooomiinnnggg!!"
-    butters "Kyaahhh, cooomiinnnggg!!"
+    butters "唔呀呀啊，去，去了，去了！！"
 
 # game/forest.rpy#L727
 translate chinese forestvisit1slimesex_ce617998:
@@ -2589,145 +2589,145 @@ translate chinese forestvisit1slimesex_ce617998:
 translate chinese forestvisit1slimesex_34620785:
 
     # mc "Wow your belly is so inflated…"
-    mc "Wow your belly is so inflated…"
+    mc "哇你的腹部隆好大......"
 
 # game/forest.rpy#L732
 translate chinese forestvisit1slimesex_2413fa9a:
 
     # butters "My womb is full of slimy cum…"
-    butters "My womb is full of slimy cum…"
+    butters "我子宫里都是史莱姆射的精液......"
 
 # game/forest.rpy#L733
 translate chinese forestvisit1slimesex_60651c99:
 
     # butters "I’ve never seen a slime so excitable before, nor have I had one cum that much."
-    butters "I’ve never seen a slime so excitable before, nor have I had one cum that much."
+    butters "我还没遇到过如此能“干”和能射的史莱姆。"
 
 # game/forest.rpy#L735
 translate chinese forestvisit1slimesex_d425c309:
 
     # butters "Aahh! It’s because you’re here [playername], it got excited because there’s a male."
-    butters "Aahh! It’s because you’re here [playername], it got excited because there’s a male."
+    butters "啊我知道了！因为你在旁边[playername]，有雄性在附近它会很性奋的。"
 
 # game/forest.rpy#L736
 translate chinese forestvisit1slimesex_c2346164:
 
     # butters "W-Wait! Your cum went into the slime! That means… You fertilised it!"
-    butters "W-Wait! Your cum went into the slime! That means… You fertilised it!"
+    butters "等，等下！你的精液射进史莱姆身体里了！也就是说...你让它受精了！"
 
 # game/forest.rpy#L737
 translate chinese forestvisit1slimesex_829dc84e:
 
     # mc "Wha?"
-    mc "Wha?"
+    mc "口舍？"
 
 # game/forest.rpy#L741
 translate chinese forestvisit1slimesex_d2976237:
 
     # slime "Hehehe."
-    slime "Hehehe."
+    slime "嘿嘿嘿~"
 
 # game/forest.rpy#L742
 translate chinese forestvisit1slimesex_1a0bc715:
 
     # mc "Why are you even still here?"
-    mc "Why are you even still here?"
+    mc "你怎么还在这儿？"
 
 # game/forest.rpy#L743
 translate chinese forestvisit1slimesex_707931d4:
 
     # butters "That means I-I’m pregnant!"
-    butters "That means I-I’m pregnant!"
+    butters "换句话说，我，我怀孕了！"
 
 # game/forest.rpy#L744
 translate chinese forestvisit1slimesex_ac83edea:
 
     # mc "PREGNANT?"
-    mc "PREGNANT?"
+    mc "怀，孕？"
 
 # game/forest.rpy#L745
 translate chinese forestvisit1slimesex_23f2f047:
 
     # slime "Totally pregnant! I put the man's cum in your womb, kehehe."
-    slime "Totally pregnant! I put the man's cum in your womb, kehehe."
+    slime "当然怀上啦！我把那个男人的精液射进你的子宫里了，呼呵呵。"
 
 # game/forest.rpy#L746
 translate chinese forestvisit1slimesex_1231427e:
 
     # mc "But how?"
-    mc "But how?"
+    mc "怎么会呢？"
 
 # game/forest.rpy#L748
 translate chinese forestvisit1slimesex_0447157e:
 
     # butters "Yeah… The slime inside me will use the semen to develop into new slime…"
-    butters "Yeah… The slime inside me will use the semen to develop into new slime…"
+    butters "它说的没错...现在我身体里的粘液会利用你的精液发育出新史莱姆......"
 
 # game/forest.rpy#L749
 translate chinese forestvisit1slimesex_c7e19977:
 
     # butters "What a day... I need a shower."
-    butters "What a day... I need a shower."
+    butters "今天真是糟透了...我得好好洗个热水澡。"
 
 # game/forest.rpy#L750
 translate chinese forestvisit1slimesex_4fed5999:
 
     # slime "You can bathe with me if you want."
-    slime "You can bathe with me if you want."
+    slime "你可以跟我一同沐浴啊。"
 
 # game/forest.rpy#L752
 translate chinese forestvisit1slimesex_f4a050a1:
 
     # butters "Shut the hell up you dumb slime, we're leaving."
-    butters "Shut the hell up you dumb slime, we're leaving."
+    butters "闭上尼玛的臭嘴史莱姆，我们要走了。"
 
 # game/forest.rpy#L753
 translate chinese forestvisit1slimesex_86f3d39c:
 
     # "Woah, she has a temper. The genuine anger spitting from Butters caused my skin to shiver."
-    "Woah, she has a temper. The genuine anger spitting from Butters caused my skin to shiver."
+    "Butters看来是真的生气了，有点可怕。"
 
 # game/forest.rpy#L754
 translate chinese forestvisit1slimesex_88c6a74b:
 
     # slime "Awh... Fine. Here, take a free sample, least I could do."
-    slime "Awh... Fine. Here, take a free sample, least I could do."
+    slime "啊呀呀...好啦。喏，我送你一份凝胶，还算有情有义吧。"
 
 # game/forest.rpy#L755
 translate chinese forestvisit1slimesex_558863e6:
 
     # "The slime lets us take some of its gelatine, and kisses us both on the cheek before it slides away into the darkness."
-    "The slime lets us take some of its gelatine, and kisses us both on the cheek before it slides away into the darkness."
+    "史莱姆让我们从它身上抓了些凝胶走，跑路前还不忘在我俩脸上亲一口。"
 
 # game/forest.rpy#L757
 translate chinese forestvisit1slimesex_e1adc32a:
 
     # butters "On the bright side, one item down, two more to go, right?"
-    butters "On the bright side, one item down, two more to go, right?"
+    butters "至少，我们搞定其中一个原材料了，还剩两个，对吧？"
 
 # game/forest.rpy#L758
 translate chinese forestvisit1slimesex_893b6f6c:
 
     # mc "I don’t think it would be responsible for a pregnant mare to spelunk any further."
-    mc "I don’t think it would be responsible for a pregnant mare to spelunk any further."
+    mc "我觉得一匹怀孕的雌驹最好别再进行洞穴探险了。"
 
 # game/forest.rpy#L759
 translate chinese forestvisit1slimesex_dd90d103:
 
     # butters "Yeah but, it's not like a proper pregnancy..."
-    butters "Yeah but, it's not like a proper pregnancy..."
+    butters "我确实怀孕了，但没完全怀，不是真正意义上的怀孕......"
 
 # game/forest.rpy#L760
 translate chinese forestvisit1slimesex_588be220:
 
     # "Butters wipes some of her slimy hair out of her eyes, and adjusts her dishevelled clothing, I can still see her nipples though."
-    "Butters wipes some of her slimy hair out of her eyes, and adjusts her dishevelled clothing, I can still see her nipples though."
+    "Butters把眼前一些被粘液弄得黏糊糊的头发拨开，重新整理了下凌乱的穿着，不过两个粉嫩的乳头仍然若隐若现。"
 
 # game/forest.rpy#L761
 translate chinese forestvisit1slimesex_00e05e73:
 
     # butters "Let's go back home, I'm exhausted and I have post-orgasm jelly legs."
-    butters "Let's go back home, I'm exhausted and I have post-orgasm jelly legs."
+    butters "我们回家吧，我身心俱疲，高潮过后腿都有点使不上力。"
 
 # game/forest.rpy#L770
 translate chinese forestvisit1slimesex_ce617998_1:
@@ -2739,97 +2739,97 @@ translate chinese forestvisit1slimesex_ce617998_1:
 translate chinese forestvisit1slimesex_b3508bfe:
 
     # "Drearily we return to the cottage,and Butters hurriedly makes her way to the shower."
-    "Drearily we return to the cottage,and Butters hurriedly makes her way to the shower."
+    "我俩回到了小屋，一路无话，Butters匆匆忙忙地跑进了浴室。"
 
 # game/forest.rpy#L776
 translate chinese forestvisit1slimesex_54b26606:
 
     # "I decide to stick around to make sure she’s okay. She pops out of the bathroom fully clothed and looking cheerful."
-    "I decide to stick around to make sure she’s okay. She pops out of the bathroom fully clothed and looking cheerful."
+    "我决定留下来照看她，确保她一切安好。她穿好衣服后从浴室里蹦蹦跳跳地出来了，精气神看上去好了不少。"
 
 # game/forest.rpy#L777
 translate chinese forestvisit1slimesex_9f2d39b2:
 
     # butters "Ahhh, a hot shower is just what you need after being molested by slime monsters."
-    butters "Ahhh, a hot shower is just what you need after being molested by slime monsters."
+    butters "啊啊~在被史莱姆蹂躏过后冲个热水澡总是令马惬意。"
 
 # game/forest.rpy#L778
 translate chinese forestvisit1slimesex_8925d345:
 
     # mc "I've been wondering, are you really going to be pregnant for the next nine months?"
-    mc "I've been wondering, are you really going to be pregnant for the next nine months?"
+    mc "我关心的是，你在接下来的九个月里是不是都得挺着个大肚子？"
 
 # game/forest.rpy#L780
 translate chinese forestvisit1slimesex_869c1d66:
 
     # butters "Nine months? Thank heavens not, the slime will be born by tomorrow morning."
-    butters "Nine months? Thank heavens not, the slime will be born by tomorrow morning."
+    butters "九个月？老天啊你想多了，史莱姆幼崽明天就能分娩了。"
 
 # game/forest.rpy#L781
 translate chinese forestvisit1slimesex_c0bb32f5:
 
     # mc "Seriously, a day? That's an insane turnover. It's a relief though."
-    mc "Seriously, a day? That's an insane turnover. It's a relief though."
+    mc "这么快，一天？这发育也太快了吧。不过对你来说也好。"
 
 # game/forest.rpy#L782
 translate chinese forestvisit1slimesex_0584864f:
 
     # mc "Are you going to be okay?"
-    mc "Are you going to be okay?"
+    mc "你不会有事的吧？"
 
 # game/forest.rpy#L784
 translate chinese forestvisit1slimesex_8e837918:
 
     # butters "Of course, I’m looking forward to seeing what happens."
-    butters "Of course, I’m looking forward to seeing what happens."
+    butters "不会有事的，我还有点小期待呢。"
 
 # game/forest.rpy#L786
 translate chinese forestvisit1slimesex_dbd52fa6:
 
     # butters "With any luck, I’ll have a constant supply of gelatine! Nature is so fascinating."
-    butters "With any luck, I’ll have a constant supply of gelatine! Nature is so fascinating."
+    butters "运气好的话，这个小史莱姆以后能成为我的凝胶来源呢！大自然就是这么迷人。"
 
 # game/forest.rpy#L788
 translate chinese forestvisit1slimesex_68da51ce:
 
     # butters "Here’s your pay mister human. Sure you managed to completely screw everything up, but at least we got some gelatine."
-    butters "Here’s your pay mister human. Sure you managed to completely screw everything up, but at least we got some gelatine."
+    butters "人类先生，这是你的工钱。虽然你煞费苦心地把所有事情都搞砸了，不过至少我拿到了所需的凝胶。"
 
 # game/forest.rpy#L789
 translate chinese forestvisit1slimesex_5c6a02e2:
 
     # butters "Will you come back for more adventures? I might need someone as useless as you to act as bait when getting leaves."
-    butters "Will you come back for more adventures? I might need someone as useless as you to act as bait when getting leaves."
+    butters "你还会找我一起进行洞穴探险吗？找树叶的时候你这种挂机狗是理想的诱饵哦。"
 
 # game/forest.rpy#L790
 translate chinese forestvisit1slimesex_70a3b3d4:
 
     # "I'm rendered somewhat speechless by her admonishment, but I laugh it off as a joke since she said it in such a positive tone."
-    "I'm rendered somewhat speechless by her admonishment, but I laugh it off as a joke since she said it in such a positive tone."
+    "她的训斥让我一时语塞，无言以对，不过她语气很是轻快，想必是在开玩笑吧。"
 
 # game/forest.rpy#L791
 translate chinese forestvisit1slimesex_43c58eaf:
 
     # "And without skipping a beat, she gives me 35 monies. Sweet! Alchemy must pay well."
-    "And without skipping a beat, she gives me 35 monies. Sweet! Alchemy must pay well."
+    "她毫不犹豫地给了我35块。好耶！炼金术一定很能挣W吧。"
 
 # game/forest.rpy#L792
 translate chinese forestvisit1slimesex_5d6964f8:
 
     # mc "Sure, I'll be back for more adventures. Especially when you pay me this well."
-    mc "Sure, I'll be back for more adventures. Especially when you pay me this well."
+    mc "我答应你，我还会和你一起去洞穴里找那些材料的。而且你的报酬很公道嘛。"
 
 # game/forest.rpy#L793
 translate chinese forestvisit1slimesex_a64c9600:
 
     # butters "Any time! I’ll see you soon. I can already feel it, my tummy's about to get really big, so I'm going to need to stay inside for the rest of the day."
-    butters "Any time! I’ll see you soon. I can already feel it, my tummy's about to get really big, so I'm going to need to stay inside for the rest of the day."
+    butters "那我随时欢迎！我们待会见吧，我现在感觉腹部越涨越大，所以今天一整天都没办法再出门了。"
 
 # game/forest.rpy#L795
 translate chinese forestvisit1slimesex_a562d21a:
 
     # butters "It’s too embarrassing to walk around and have everyone think I’m really, really pregnant, ehehe…"
-    butters "It’s too embarrassing to walk around and have everyone think I’m really, really pregnant, ehehe…"
+    butters "不然走在街上让别的马瞧见我的大肚子，都会以为我怀孕了，那就尴尬死了，诶嘿嘿~"
 
 # game/forest.rpy#L802
 translate chinese forestvisit1slimesex_ce617998_2:

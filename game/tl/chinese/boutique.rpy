@@ -1,4 +1,4 @@
-# Translation updated at Fri Jun 25 2021 00:54:04 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Sat Jun 26 2021 00:48:03 GMT+0000 (Coordinated Universal Time)
 # game/boutique.rpy#L20
 translate chinese boutiquevisit1_9babdb27:
 
@@ -2121,37 +2121,37 @@ translate chinese melodyhandjob2_ced48688:
 translate chinese melodyhandjob2_9ba4495d:
 
     # moxie "The way I act around you doesn’t obey my usual personality or the self-image of myself, yet naturally I act differently around you, more open and honest than I ever have been before."
-    moxie "The way I act around you doesn’t obey my usual personality or the self-image of myself, yet naturally I act differently around you, more open and honest than I ever have been before."
+    moxie "在你身旁时，我感觉自己不再是自己，行为方式和个人形象都跟平日里的样子大相径庭，我感觉自己的性格要直白了许多，甚至是变得更加开放了。"
 
 # game/boutique.rpy#L617
 translate chinese melodyhandjob2_b384f249:
 
     # "Usual personality… That’s right, there was a brief moment Melody seemed kind and sympathetic earlier today; if Moxie naturally acts differently around me, maybe Melody does too."
-    "Usual personality… That’s right, there was a brief moment Melody seemed kind and sympathetic earlier today; if Moxie naturally acts differently around me, maybe Melody does too."
+    "平日里的形象......对了，今天早些时候，有那么一会儿，Melody表现的很善良，甚至还带点同情心；如果Moxie在我身边很自然地就会表现出不同之处，兴许Melody也是碰上了一样的问题。"
 
 # game/boutique.rpy#L618
 translate chinese melodyhandjob2_9f7123a0:
 
     # "After all, Ruby gave me no cause for concern in regards to Melody’s behaviour, it seemed to be a wholly unique treatment towards me. There’s only one way to find out though."
-    "After all, Ruby gave me no cause for concern in regards to Melody’s behaviour, it seemed to be a wholly unique treatment towards me. There’s only one way to find out though."
+    "毕竟，Ruby完全没有预先警告过我关于Melody的奇特习惯的事情，看起来我才是被特殊对待的那个家伙。无论如何，想探明真相，只有一个方法。"
 
 # game/boutique.rpy#L619
 translate chinese melodyhandjob2_2f0ddc46:
 
     # mc "What do you know about Melody, like, everything?"
-    mc "What do you know about Melody, like, everything?"
+    mc "关于Melody，你都知道些什么？啥都行。"
 
 # game/boutique.rpy#L621
 translate chinese melodyhandjob2_7f483cfe:
 
     # moxie "Uhm, what I know is residues from conversation with Honeycrisp and Riku. I know she studies music, I think she’s quite sweet too, gets along with everyone, has plenty of friends."
-    moxie "Uhm, what I know is residues from conversation with Honeycrisp and Riku. I know she studies music, I think she’s quite sweet too, gets along with everyone, has plenty of friends."
+    moxie "呃，我所知道的都是从Honeycrisp或者Riku那儿听剩下来的边角料。我知道她是学音乐的，也感觉她挺可爱的，她同大家都相处得很好，有不少朋友。"
 
 # game/boutique.rpy#L623
 translate chinese melodyhandjob2_0880a0a7:
 
     # moxie "If she’s at that college then there’s no doubt she’s talented in some way."
-    moxie "If she’s at that college then there’s no doubt she’s talented in some way."
+    moxie "既然她在那所大学里读书，那么毫无疑问的是，她肯定有一技之长。"
 
 # game/boutique.rpy#L624
 translate chinese melodyhandjob2_8717748e:
@@ -2343,7 +2343,7 @@ translate chinese melodyhandjob2_610da454:
 translate chinese melodyhandjob2_2f0ddc46_1:
 
     # mc "What do you know about Melody, like, everything?"
-    mc "What do you know about Melody, like, everything?"
+    mc "关于Melody，你都知道些什么？啥都行。"
 
 # game/boutique.rpy#L679
 translate chinese melodyhandjob2_633fd17e:
@@ -2355,7 +2355,7 @@ translate chinese melodyhandjob2_633fd17e:
 translate chinese melodyhandjob2_04cb7aa1:
 
     # butters "If she’s at that college then there’s no doubt she’s talented in some way."
-    butters "If she’s at that college then there’s no doubt she’s talented in some way."
+    butters "既然她在那所大学里读书，那么毫无疑问的是，她肯定有一技之长。"
 
 # game/boutique.rpy#L682
 translate chinese melodyhandjob2_96853ca7:

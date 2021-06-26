@@ -1,4 +1,4 @@
-# Translation updated at Fri Jun 25 2021 00:54:04 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Sat Jun 26 2021 00:48:03 GMT+0000 (Coordinated Universal Time)
 # game/2evening%20moxie.rpy#L11
 translate chinese eveningmoxie_80cb7a87:
 
@@ -2013,7 +2013,7 @@ translate chinese moxietalkmenu_d5b93ef5:
 translate chinese moxietalkmenu_82349e7b:
 
     # moxie "It's a school of magic that utilises the power of your surroundings to cast magic that is otherwise more powerful than you'd be able to use by yourself."
-    moxie "It's a school of magic that utilises the power of your surroundings to cast magic that is otherwise more powerful than you'd be able to use by yourself."
+    moxie "这是一个学校，利用你周围的能量来铸造一种你自己能使用的更加强大的魔法。"
 
 # game/2evening%20moxie.rpy#L955
 translate chinese moxietalkmenu_f216ab94:
@@ -2043,7 +2043,7 @@ translate chinese moxietalkmenu_6f7d1349:
 translate chinese moxietalkmenu_98b6d6d4:
 
     # moxie "Fortunately, that's what study is for! The entry exam doesn't require any actual experience with cosmic magic."
-    moxie "Fortunately, that's what study is for! The entry exam doesn't require any actual experience with cosmic magic."
+    moxie "幸运的是，那就是学习所要的！入门考试不要求任何实际的使用宇宙魔法的经验。"
 
 # game/2evening%20moxie.rpy#L968
 translate chinese moxietalkmenu_b0006e45:
@@ -2055,7 +2055,7 @@ translate chinese moxietalkmenu_b0006e45:
 translate chinese moxietalkmenu_8e477014:
 
     # moxie "Oh plenty, the actual categories are vague because there are so many different overlapping types."
-    moxie "Oh plenty, the actual categories are vague because there are so many different overlapping types."
+    moxie "哦，很多，由于有如此多的不同的重叠的类型，实际的类别是模糊不清的。"
 
 # game/2evening%20moxie.rpy#L974
 translate chinese moxietalkmenu_7c474cf7:
