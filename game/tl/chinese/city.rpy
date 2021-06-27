@@ -1,4 +1,4 @@
-# Translation updated at Sat Jun 26 2021 00:48:03 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Sun Jun 27 2021 00:55:09 GMT+0000 (Coordinated Universal Time)
 # game/city.rpy#L6
 translate chinese city_12914194:
 
@@ -1533,7 +1533,7 @@ translate chinese musicstudiomenub_efb85316:
 translate chinese musicstudiomenub_b6a5fca0:
 
     # claire "And thus anyone can become a musician if they know what they're doing these days."
-    claire "And thus anyone can become a musician if they know what they're doing these days."
+    claire "因此，任何人都可以成为音乐家，只要他们知道他们现在在做什么。"
 
 # game/city.rpy#L530
 translate chinese musicstudiomenub_97e71155:
@@ -1545,13 +1545,13 @@ translate chinese musicstudiomenub_97e71155:
 translate chinese musicstudiomenub_bcfde4d3:
 
     # claire "True, we're living in a golden age of creativity!"
-    claire "True, we're living in a golden age of creativity!"
+    claire "没错，我们正生活在一个充满创造力的黄金时代！"
 
 # game/city.rpy#L533
 translate chinese musicstudiomenub_145ffe6a:
 
     # melody "Yeah but, that doesn't mean everyone is going to be successful. Talent alone isn't enough to succeed."
-    melody "Yeah but, that doesn't mean everyone is going to be successful. Talent alone isn't enough to succeed."
+    melody "是的，但这并不意味着每个人都会成功。光靠天赋是不足以成功的。"
 
 # game/city.rpy#L534
 translate chinese musicstudiomenub_ce60637a:
@@ -1563,37 +1563,37 @@ translate chinese musicstudiomenub_ce60637a:
 translate chinese musicstudiomenub_73109823:
 
     # mc "Do you think you'll be a success?"
-    mc "Do you think you'll be a success?"
+    mc "你认为你会成功吗？"
 
 # game/city.rpy#L537
 translate chinese musicstudiomenub_14fd26c3:
 
     # melody "Yeah, I will be."
-    melody "Yeah, I will be."
+    melody "是的，我会的。"
 
 # game/city.rpy#L539
 translate chinese musicstudiomenub_8d9f5e52:
 
     # mc "I noticed that you give the girls a lot of freedom while teaching. How do you manage to teach music while also allowing students the creative freedom to play the music they want to play?"
-    mc "I noticed that you give the girls a lot of freedom while teaching. How do you manage to teach music while also allowing students the creative freedom to play the music they want to play?"
+    mc "我注意到你在教学时给了女孩们很多自由。你是如何在教授音乐的同时也让学生有创作的自由，来演奏他们想演奏的音乐的?"
 
 # game/city.rpy#L541
 translate chinese musicstudiomenub_2f4cf322:
 
     # claire "That's a question I've often mulled over. I know of a lot of institutions that try to push an agenda onto their students and show them the 'right way to play', or do whatever for that matter."
-    claire "That's a question I've often mulled over. I know of a lot of institutions that try to push an agenda onto their students and show them the 'right way to play', or do whatever for that matter."
+    claire "这是我经常思考的问题。据我所知，很多学校都试图给学生们制定一个议程，向他们展示“正确的演奏方式”，或者做任何与之相关的事情。"
 
 # game/city.rpy#L543
 translate chinese musicstudiomenub_5a0568fe:
 
     # claire "The way I teach is by giving every student a hypothetical 'toolbox' and adding useful tools, tips and ideas to that toolbox that they can utilize however they want."
-    claire "The way I teach is by giving every student a hypothetical 'toolbox' and adding useful tools, tips and ideas to that toolbox that they can utilize however they want."
+    claire "我的教学方法是给每个学生一个假想的“工具箱”，并在这个“工具箱”中添加有用的工具、技巧和想法，让他们可以随心所欲地利用它们。"
 
 # game/city.rpy#L544
 translate chinese musicstudiomenub_90a12416:
 
     # claire "This way my teaching is malleable and can suit an entire lecture hall of students that play different genres and instruments."
-    claire "This way my teaching is malleable and can suit an entire lecture hall of students that play different genres and instruments."
+    claire "这样，我的教学就具有可塑性，可以适合整个讲堂中演奏不同流派和乐器的学生。"
 
 # game/city.rpy#L545
 translate chinese musicstudiomenub_0e4cfdbc:
@@ -1617,13 +1617,13 @@ translate chinese musicstudiomenub_9db35817:
 translate chinese musicstudiomenub_72ba22cc:
 
     # claire "That's perhaps why some institutions streamline the system by enforcing 'rights' and 'wrongs', simply because it's easier to teach and test that."
-    claire "That's perhaps why some institutions streamline the system by enforcing 'rights' and 'wrongs', simply because it's easier to teach and test that."
+    claire "这也许就是为什么一些机构通过强制“对”和“错”来简化教育系统的原因，仅仅是因为它会使教育和测试更容易。"
 
 # game/city.rpy#L550
 translate chinese musicstudiomenub_df34f611:
 
     # claire "But a system like that would abandon a musician like Melody, who creates experimental content that isn't following traditional music trends."
-    claire "But a system like that would abandon a musician like Melody, who creates experimental content that isn't following traditional music trends."
+    claire "但这样的系统会抛弃像Melody这样的音乐家，她创造的是与传统音乐潮流不相适应的内容。"
 
 # game/city.rpy#L551
 translate chinese musicstudiomenub_a110e9cf:
@@ -1635,7 +1635,7 @@ translate chinese musicstudiomenub_a110e9cf:
 translate chinese musicstudiomenub_c4a311cb:
 
     # melody "And I know that not everyone is going to like my music, but the people that do like it are going to love it even more because of the extreme lengths I go."
-    melody "And I know that not everyone is going to like my music, but the people that do like it are going to love it even more because of the extreme lengths I go."
+    melody "我知道不是每个人都会喜欢我的音乐，但喜欢我的人会因为我的努力而更喜欢我的音乐。"
 
 # game/city.rpy#L553
 translate chinese musicstudiomenub_952a58e5:
@@ -1647,7 +1647,7 @@ translate chinese musicstudiomenub_952a58e5:
 translate chinese musicstudiomenub_a16af6d5:
 
     # claire "I like to nurture that creativity, because that very creativity is one of the reasons I fell in love with music."
-    claire "I like to nurture that creativity, because that very creativity is one of the reasons I fell in love with music."
+    claire "我喜欢培养这种创造力，因为这种创造力是我爱上音乐的原因之一。"
 
 # game/city.rpy#L559
 translate chinese musicstudiomenub_bffa6cb7:
@@ -2055,7 +2055,7 @@ translate chinese clairesex_ad751274:
 translate chinese clairesex_dce23913:
 
     # "I don't have enough monies!"
-    "I don't have enough monies!"
+    "我没有足够的钱！"
 
 # game/city.rpy#L1058
 translate chinese melodylaptop_67d56f52:
@@ -2139,7 +2139,7 @@ translate chinese melodylaptop_f770b6d5:
 translate chinese melodylaptop_084a77ea:
 
     # "It takes about an hour, but the laptop is eventually fixed. On the walk back my satchel feels notably lighter after losing 150 monies."
-    "It takes about an hour, but the laptop is eventually fixed. On the walk back my satchel feels notably lighter after losing 150 monies."
+    "这大约需要一个小时，但笔记本电脑终于修好了。在回去的路上，我的背包在损失了150块之后，感觉特别的轻。"
 
 # game/city.rpy#L1084
 translate chinese melodylaptop_fb3beaac:

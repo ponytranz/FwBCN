@@ -1,4 +1,4 @@
-# Translation updated at Sat Jun 26 2021 00:48:03 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Sun Jun 27 2021 00:55:09 GMT+0000 (Coordinated Universal Time)
 # game/church.rpy#L15
 translate chinese augustapost_d42bf085:
 
@@ -1233,7 +1233,7 @@ translate chinese augustavisit1_ec8781dd:
 translate chinese augustavisit1_88297839:
 
     # "That makes sense to me. It seems like a place of remembrance and respect, although it doesn't seem like there are any statues of the royal sisters here. Is that because they're still alive?"
-    "这对我来说是有道理的。它似乎是一个值得纪念和尊敬的地方，尽管它似乎没有任何雕是像皇家姐妹的。是因为她们还活着吗？"
+    "这对我来说是有道理的。它看起来像是一个值得纪念和尊敬的地方，尽管这里似乎没有任何皇家姐妹的雕像。是因为她们还活着吗？"
 
 # game/church.rpy#L422
 translate chinese augustavisit1_cfeef42c:
@@ -1257,7 +1257,7 @@ translate chinese augustavisit1_65089be9:
 translate chinese augustavisit1_18a41680:
 
     # "As I’m prospecting the centre statue, someone surprises me from behind."
-    "当我正在端详中间的雕像时，有人从后面吓了我一跳。"
+    "当我正在端详中间的雕像时，有马从后面吓了我一跳。"
 
 # game/church.rpy#L427
 translate chinese augustavisit1_52cc268b:
@@ -1281,7 +1281,7 @@ translate chinese augustavisit1_550c1991:
 translate chinese augustavisit1_4c6c9a75:
 
     # "This unicorn… she looks like she's cosplaying a slutty catholic nun. That’s certainly bizarre."
-    "这只独角兽... 她看起来像是在扮演一个放荡的天主教修女。这当然很奇怪。"
+    "这只独角兽... 她看起来像是在COS一个放荡的天主教修女。这当然很奇怪。"
 
 # game/church.rpy#L436
 translate chinese augustavisit1_1a7b1410:
@@ -1365,7 +1365,7 @@ translate chinese augustavisit1_88c77920:
 translate chinese augustavisit1_0f98da74:
 
     # amora "Are there any other types?"
-    amora "怎么，这世上还有反对禁欲的修女？"
+    amora "怎么，这世上还有禁欲的修女？"
 
 # game/church.rpy#L467
 translate chinese augustavisit1_d16422e9:
@@ -1389,7 +1389,7 @@ translate chinese augustavisit1_4ebe629e:
 translate chinese augustavisit1_8e9545ac:
 
     # amora "I... see... In that case, I think it's only fair that I show you more about this church..."
-    amora "吾...知晓了...既然阁下初来乍到，那么吾自然该向您好好介绍这座教堂才是......"
+    amora "吾...知晓了...既然阁下初来乍到，那么吾自然该向您好好介绍这座教堂才是，吾等的教堂还蛮大的......"
 
 # game/church.rpy#L476
 translate chinese augustavisit1_0c1f3ed8:
@@ -1401,7 +1401,7 @@ translate chinese augustavisit1_0c1f3ed8:
 translate chinese augustavisit1_6ed07578:
 
     # amora "Ahh, of course you don’t. In that case..."
-    amora "啊，阁下自然不知。既是如此......"
+    amora "啊，阁下初来乍到自然不知。既是如此......"
 
 # game/church.rpy#L481
 translate chinese augustavisit1_6029f3b4:
@@ -1683,7 +1683,7 @@ translate chinese augustavisit1c_6c6e7483:
 translate chinese augustavisit1c_7d655475:
 
     # "It’s unmistakably still a religious room by design."
-    "无疑是转为这个宗教设计的。"
+    "无疑是专为这个宗教设计的。"
 
 # game/church.rpy#L578
 translate chinese augustavisit1c_ad3fdc07:
@@ -2193,7 +2193,7 @@ translate chinese augustareview_cc761816:
 translate chinese augustareview_84ffeb62:
 
     # amora "... Well... I'm good at sex! So... If you think it's a 2, that must be your fault."
-    amora "...那啥...吾床活特别炒鸡好！如果...只给两分，那肯定是阁下故意刁难。"
+    amora "...那啥...吾床活特别炒鸡棒！如果...只给两分，那肯定是阁下故意刁难。"
 
 # game/church.rpy#L706
 translate chinese augustareview_7d75af02:
@@ -2211,19 +2211,19 @@ translate chinese augustareview_f9338e95:
 translate chinese augustareview_f889afea:
 
     # amora "I need to hear more about this... Come, join me at the bar and we'll discuss some stratgies to improve the church's service. I'll pay!"
-    amora "既然如此，我还想多听听阁下的意见...请随我来酒吧一叙，吾想多听听阁下对教堂服务的意见。我请客！"
+    amora "既然如此，我还想多听听阁下的意见...请随吾来酒吧一叙，吾想多听听阁下对教堂服务的意见。吾来请客！"
 
 # game/church.rpy#L713
 translate chinese augustareview_c77bfa16:
 
     # amora "Fuck you too, buddy. I ain't gotta put up with that kind of bullshit."
-    amora "甘霖娘，你个闸种。你简直是在胡说八道。"
+    amora "甘霖娘，闸种。你简直是在胡说八道。"
 
 # game/church.rpy#L714
 translate chinese augustareview_99efb6b9:
 
     # amora "Give me an honest review!"
-    amora "给我老实打分！"
+    amora "给老娘好好打分！"
 
 # game/church.rpy#L718
 translate chinese augustareview_e2e54c39:
@@ -2325,7 +2325,7 @@ translate chinese augustareview_3366c7fe:
 translate chinese augustareview_e9a67d84:
 
     # amora "However, we dressed the place with terms like ‘priestess’, and made it fancy. It helped with the social stigma."
-    amora "不过我们也对那里悉心装饰，把那里变得富丽堂皇。“女祭司”这种幌子可比“妓院”等字眼好听多了吧。"
+    amora "不过吾等也对那里悉心装饰，把那里变得富丽堂皇。“女祭司”这种幌子可比“妓院”等字眼好听多了吧。"
 
 # game/church.rpy#L744
 translate chinese augustareview_5c09cd91:
@@ -2475,7 +2475,7 @@ translate chinese augustajubilation_265e932d:
 translate chinese augustajubilation_0c7a57fa:
 
     # amora "A lot of our female customers expressed a desire to remain anonymous while paying for sex, and there’s nowhere else that provides such a service in Arcadia."
-    amora "吾等的许多女性客户都希望在性交易时保持个马隐私，这种业务全Arcadia仅吾一家，过了这个村可没这个店。"
+    amora "吾等的许多女性客户都希望在性交易时保持个马隐私，这种业务全Arcadia仅吾一家，过了这个村可没这个店喽。"
 
 # game/church.rpy#L791
 translate chinese augustajubilation_df66eb92:
@@ -2553,13 +2553,13 @@ translate chinese bapol_22921ed7:
 translate chinese bapol_4a58f27f:
 
     # amora "Eep! It’s my boss!"
-    amora "哎吖，我老板驾到！"
+    amora "哎吖！我老板驾到！"
 
 # game/church.rpy#L833
 translate chinese bapol_c0192c86:
 
     # aurora "Tsk, I am disappointed in you Augusta. Why are you grooming [playername] into joining your church?"
-    aurora "唔，Augusta，你真是令本宫汗颜。你为什么要忽悠[playername]进你的教堂工作？"
+    aurora "唔，Augusta，你真是令本宫汗颜。你为什么要忽悠[playername]进你的教会工作？"
 
 # game/church.rpy#L835
 translate chinese bapol_4aac5aae:
@@ -2601,13 +2601,13 @@ translate chinese bapol_958c490a:
 translate chinese bapol_46f0e3e4:
 
     # aurora "You must understand that [playername] is new to this world and needs to be treated with respect and care."
-    aurora "[playername]刚来这个世界不久，是我们的客人，你应该抱着尊重和关爱的态度和他相处。"
+    aurora "[playername]刚来这个世界不久，当以上宾款待，你应该抱着尊重和关爱的态度和他相处。"
 
 # game/church.rpy#L846
 translate chinese bapol_b18f0ccb:
 
     # aurora "He is not yours to play around with…"
-    aurora "你怎么能戏弄人家呢......"
+    aurora "怎么能戏弄人家呢......"
 
 # game/church.rpy#L848
 translate chinese bapol_bed76e7b:
@@ -2847,7 +2847,7 @@ translate chinese bapol_a682a1aa:
 translate chinese augustavisit2_7dc6ec83:
 
     # "I return to the church. There’s a light bustle of people as before. There must be some people here to pray, for luck in their lovelife, or something."
-    "我又来到了教堂。和上次一样人头攒动。不少马为自己的爱情或者别的什么祈祷。"
+    "我又来到了教堂。和上次一样马头攒动。不少马为自己的爱情或者别的什么祈祷。"
 
 # game/church.rpy#L920
 translate chinese augustavisit2_2116a6d1:

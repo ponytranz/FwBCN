@@ -1,4 +1,4 @@
-# Translation updated at Sat Jun 26 2021 00:48:03 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Sun Jun 27 2021 00:55:08 GMT+0000 (Coordinated Universal Time)
 # game/2evening%20butters.rpy#L11
 translate chinese eveningbutters_ce840f9e:
 
@@ -1545,13 +1545,13 @@ translate chinese eveningbutterssex_bb86ddd3:
 translate chinese eveningbutterssex_8f44abbd:
 
     # "I position myself below her on the bed, and lay down between her thighs. Butters takes it upon herself to sit on my thighs, her nude figure arousing me to the point of erection."
-    "我来到床上，舒舒服服地在她两腿间躺好。Butters主动做到我的大腿上，温香软玉入怀，我的长枪挺起回应。"
+    "我来到床上，舒舒服服地在她两腿间躺好。Butters主动做到我的大腿上，温香软玉入怀，我的肉棒挺起回应。"
 
 # game/2evening%20butters.rpy#L601
 translate chinese eveningbutterssex_20dc9c26:
 
     # "With little hesitation, she begins to stroke my shaft until my tip throbs and dribbles with precum. Some drops of milk splattering onto my skin."
-    "她毫不犹豫地开始侍奉着我的长枪，几滴前列腺液从枪头渗下，几滴她的奶水也撒到了我身上。"
+    "她毫不犹豫地开始侍奉着我的肉棒，几滴前列腺液从枪头渗下，几滴她的奶水也撒到了我身上。"
 
 # game/2evening%20butters.rpy#L602
 translate chinese eveningbutterssex_9763a93b:
@@ -1593,7 +1593,7 @@ translate chinese eveningbutterssex_59af2a17:
 translate chinese eveningbutterssex_a1ca3ab5:
 
     # "There were already a few droplets of milk around my cock, creating a warmth and a wetness that lubricates us slightly."
-    "我的长枪周围沾上了她的少许奶水，虽然只是少许，但我仍然感到温暖和湿润，理想的润滑剂。"
+    "我的肉棒周围沾上了她的少许奶水，虽然只是少许，但我仍然感到温暖和湿润，理想的润滑剂。"
 
 # game/2evening%20butters.rpy#L612
 translate chinese eveningbutterssex_4e5d7bc6:

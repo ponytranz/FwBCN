@@ -1,51 +1,51 @@
-# Translation updated at Sat Jun 26 2021 00:48:03 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Sun Jun 27 2021 00:55:09 GMT+0000 (Coordinated Universal Time)
 # game/library.rpy#L18
 translate chinese libraryvisit1_98593462:
 
     # "The library will be a nice place to work, I already know someone that works there after all."
-    "The library will be a nice place to work, I already know someone that works there after all."
+    "图书馆将是一个很好的工作场所，毕竟我已经认识一个在那里工作的人了。"
 
 # game/library.rpy#L19
 translate chinese libraryvisit1_e35e9402:
 
     # "It might even give me the opportunity to learn more about that sciency stuff Penelope was talking about."
-    "It might even give me the opportunity to learn more about that sciency stuff Penelope was talking about."
+    "它甚至可能让我有机会更多地了解 Penelope 所说的科学知识。"
 
 # game/library.rpy#L20
 translate chinese libraryvisit1_302ce07c:
 
     # "Maybe I can borrow a good book too, reading will be a good source of information to learn about this new world."
-    "Maybe I can borrow a good book too, reading will be a good source of information to learn about this new world."
+    "也许我也可以去借一本好书，阅读将是了解这个新世界的一个很好的信息来源。"
 
 # game/library.rpy#L22
 translate chinese libraryvisit1_849eb348:
 
     # "I walk to the tree library and as I go to let myself in, the door appears to be locked."
-    "I walk to the tree library and as I go to let myself in, the door appears to be locked."
+    "我走到图书馆前。当我想要进去的时候，门似乎是锁着的。"
 
 # game/library.rpy#L24
 translate chinese libraryvisit1_4d04c32d:
 
     # "Ah, it's before 9:00am, so the library is closed. I can't even get in to tell Penelope I'm here."
-    "Ah, it's before 9:00am, so the library is closed. I can't even get in to tell Penelope I'm here."
+    "啊，还不到上午9点，所以图书馆还是关着的。我甚至不能进去告诉Penelope我来了。"
 
 # game/library.rpy#L25
 translate chinese libraryvisit1_d694af1a:
 
     # "I knock on the door, but I get no response."
-    "I knock on the door, but I get no response."
+    "我敲了敲门，但没有得到回应。"
 
 # game/library.rpy#L26
 translate chinese libraryvisit1_dc5ab278:
 
     # "This is somewhat concerning; the library is huge so it’s unlikely anyone would hear me."
-    "This is somewhat concerning; the library is huge so it’s unlikely anyone would hear me."
+    "这有点令人担心；图书馆很大，所以不太可能有人会听到我的话。"
 
 # game/library.rpy#L27
 translate chinese libraryvisit1_54b9254e:
 
     # "Just as I’m about to knock on the door again, I hear an unknown voice from a window above."
-    "Just as I’m about to knock on the door again, I hear an unknown voice from a window above."
+    "正当我要再去敲门时，我听到从楼上的窗户里传来一个未知的声音。"
 
 # game/library.rpy#L29
 translate chinese libraryvisit1_04f71f89:
@@ -2985,7 +2985,7 @@ translate chinese lilytj_2c8d70d9:
 translate chinese lilytj_8c167d04:
 
     # "She takes a deep breath and takes a few steps backwards before closing her eyes."
-    "她深吸一口气，后退几步，然后闭上眼睛"
+    "她深吸一口气，后退几步，然后闭上眼睛。"
 
 # game/library.rpy#L879
 translate chinese lilytj_e625298c:
@@ -3111,7 +3111,7 @@ translate chinese lilytj_b7e3df49:
 translate chinese lilytj_13526780:
 
     # mc "The Queen? Seems intimidating."
-    mc "女皇？似乎有点吓人"
+    mc "女皇？似乎有点吓人。"
 
 # game/library.rpy#L924
 translate chinese lilytj_91124132:
@@ -3165,7 +3165,7 @@ translate chinese lilytj_2f4ad1a7:
 translate chinese lilytj_49003ff5:
 
     # lily "I can tell you’re hiding something, but I’ll let it pass."
-    lily "我知道你在隐藏什么...我就当不知道算了"
+    lily "我知道你在隐藏什么...我就当不知道算了。"
 
 # game/library.rpy#L939
 translate chinese lilytj_b4ef1058:
@@ -3567,7 +3567,7 @@ translate chinese lilytj_f5b76c03:
 translate chinese lilytj_b1357216:
 
     # mc "I can see why, considering how sparse men are."
-    mc "我想，也许是我们这雄的太少了吧"
+    mc "我想，也许是我们这雄的太少了吧。"
 
 # game/library.rpy#L1036
 translate chinese lilytj_24b3e00f:

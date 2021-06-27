@@ -1,27 +1,27 @@
-# Translation updated at Sat Jun 26 2021 00:48:03 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Sun Jun 27 2021 00:55:08 GMT+0000 (Coordinated Universal Time)
 # game/boutique.rpy#L20
 translate chinese boutiquevisit1_9babdb27:
 
     # "Ah, the boutique. I’m not exactly sure what I’ll be doing there, but I’m curious. I've heard that the girl running this boutique is beautiful."
-    "Ah, the boutique. I’m not exactly sure what I’ll be doing there, but I’m curious. I've heard that the girl running this boutique is beautiful."
+    "啊，那家精品店。我不太确定我会在那里做什么，但我很好奇。我听说经营这家精品店的雌驹很漂亮。"
 
 # game/boutique.rpy#L21
 translate chinese boutiquevisit1_90998bdf:
 
     # "It's practically the closest building to the wagon so it's really hard to miss."
-    "It's practically the closest building to the wagon so it's really hard to miss."
+    "它几乎是离马车最近的建筑，所以很难错过。"
 
 # game/boutique.rpy#L22
 translate chinese boutiquevisit1_36b2275a:
 
     # "Even the directions Moxie left for me are just 'walk forward'."
-    "Even the directions Moxie left for me are just 'walk forward'."
+    "就连Moxie留给我的指示也只是“向前走”。"
 
 # game/boutique.rpy#L23
 translate chinese boutiquevisit1_cfc8f217:
 
     # "Additionally, this building is one of the largest in the suburbs. Combining both the shop-like ground floor with the living quarters of a regular house, it towers over the traditional homes."
-    "Additionally, this building is one of the largest in the suburbs. Combining both the shop-like ground floor with the living quarters of a regular house, it towers over the traditional homes."
+    "此外，该建筑是郊区最大的建筑之一。它将像商店一样的一层与普通住宅的生活区结合起来，远远超过了传统住宅。"
 
 # game/boutique.rpy#L25
 translate chinese boutiquevisit1_15aa3381:

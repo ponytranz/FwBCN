@@ -1,4 +1,4 @@
-# Translation updated at Sat Jun 26 2021 00:48:03 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Sun Jun 27 2021 00:55:08 GMT+0000 (Coordinated Universal Time)
 # game/2evening%20moxie.rpy#L11
 translate chinese eveningmoxie_80cb7a87:
 
@@ -933,7 +933,7 @@ translate chinese moxiedoggystyle_2affdf22:
 translate chinese moxiedoggystyle_f4ce18f8:
 
     # moxie "Ohh yes… That one really hit the spot and put my heat back in its place. I’ll be full of energy come tomorrow morning, and by the evening, I’ll be ready for another."
-    moxie "哦~真棒，你直击了我的爽点，我明天早上会精神饱满的，不过今晚，我还准备再来一次"
+    moxie "哦~真棒，你直击了我的爽点，我明天早上会精神饱满的，不过今晚，我还准备再来一次。"
 
 # game/2evening%20moxie.rpy#L487
 translate chinese moxiedoggystyle_5ebfe654:
@@ -993,7 +993,7 @@ translate chinese moxiecowgirl_3fa8b981:
 translate chinese moxiecowgirl_e90a0858:
 
     # "The two of us climb into bed, then she playfully rolls me on my back before mounting me. She wastes no time sinking her puffy mare pussy over my endowment."
-    "我们两个钻进了床，然后她开始上我之前开玩笑地把我背上了她的背。并不失时机的把她那只属于母马的蓬松的阴蒂压在我的身上"
+    "我们两个钻进了床，然后她开始上我之前开玩笑地把我背上了她的背。并不失时机的把她那只属于母马的蓬松的阴蒂压在我的身上。"
 
 # game/2evening%20moxie.rpy#L524
 translate chinese moxiecowgirl_936e41db:
@@ -1113,7 +1113,7 @@ translate chinese moxiecowgirl_068f6472:
 translate chinese moxiecowgirl_0be79d2f:
 
     # "All whilst a euphoric Moxie continues her climactic riding, seeming to have yet another orgasm immediately after the first."
-    "全程中，兴奋的Moxie继续她的高潮骑乘，似乎在一次高潮之后紧接着又是一次"
+    "全程中，兴奋的Moxie继续她的高潮骑乘，似乎在一次高潮之后紧接着又是一次。"
 
 # game/2evening%20moxie.rpy#L573
 translate chinese moxiecowgirl_37d071fa:
@@ -1131,13 +1131,13 @@ translate chinese moxiecowgirl_3f04d740:
 translate chinese moxiecowgirl_f8663d93:
 
     # "Moxie slumps on top of me and embraces my chest, all whilst my softening cock is still inside her."
-    "Moxie趴伏在我的拥抱着我的胸膛，我那柔软的肉棒仍然停留在她的体内"
+    "Moxie趴伏在我的拥抱着我的胸膛，我那柔软的肉棒仍然停留在她的体内。"
 
 # game/2evening%20moxie.rpy#L589
 translate chinese moxiecowgirl_5daf74c2:
 
     # "I reciprocate her post-coital cuddle and kiss her on the forehead causing her to giggle."
-    "我回应与她交欢之后的拥抱，轻轻吻了吻她的额头，使她咯咯笑了起来"
+    "我回应与她交欢之后的拥抱，轻轻吻了吻她的额头，使她咯咯笑了起来。"
 
 # game/2evening%20moxie.rpy#L590
 translate chinese moxiecowgirl_aa9b15a9:
@@ -1461,7 +1461,7 @@ translate chinese moxieanal_a20cefa7_1:
 translate chinese moxiemissionary_ac457808:
 
     # "The two of us go to the bedroom for funky times."
-    "为了交欢，我们两个进入了卧室"
+    "为了交欢，我们两个进入了卧室。"
 
 # game/2evening%20moxie.rpy#L743
 translate chinese moxiemissionary_f4c9c1c8:
@@ -1857,13 +1857,13 @@ translate chinese moxietalk_940b56cd:
 translate chinese moxietalk_5ff83277:
 
     # moxie "There's a saying though. 'It's always the quiet ones'."
-    moxie "有句俗语叫：“沉默是金”"
+    moxie "有句俗语叫：“沉默是金”。"
 
 # game/2evening%20moxie.rpy#L901
 translate chinese moxietalk_334b4355:
 
     # moxie "Not to mention she's a lonely bugger, so she's sexually repressed for sure."
-    moxie "更不用说她是个孤独的家伙，所以她肯定压抑着自己的性冲动"
+    moxie "更不用说她是个孤独的家伙，所以她肯定压抑着自己的性冲动。"
 
 # game/2evening%20moxie.rpy#L902
 translate chinese moxietalk_0a3e8ba8:
@@ -1905,7 +1905,7 @@ translate chinese moxietalk_7fba80a7:
 translate chinese moxietalk_4522bf32:
 
     # moxie "I won't hold it against you in our little challenge though, hehe."
-    moxie "不过我不会在我们的小挑战中针对你的，呵呵"
+    moxie "不过我不会在我们的小挑战中针对你的，呵呵。"
 
 # game/2evening%20moxie.rpy#L913
 translate chinese moxietalk_c139ccb3:
@@ -2019,7 +2019,7 @@ translate chinese moxietalkmenu_82349e7b:
 translate chinese moxietalkmenu_f216ab94:
 
     # moxie "Only problem is that a tiny, tiny amount of the unicorn population can tap into that."
-    moxie "唯一的问题是这几乎不可能，只有极少数的独角兽能做到这一点"
+    moxie "唯一的问题是这几乎不可能，只有极少数的独角兽能做到这一点。"
 
 # game/2evening%20moxie.rpy#L956
 translate chinese moxietalkmenu_5cf1faeb:
@@ -2031,7 +2031,7 @@ translate chinese moxietalkmenu_5cf1faeb:
 translate chinese moxietalkmenu_f8daf37a:
 
     # moxie "Hehe, yup, that's how I do the invisibility spell really well."
-    moxie "哈哈，当然，这就是为什么我把隐身魔法学得这么好"
+    moxie "哈哈，当然，这就是为什么我把隐身魔法学得这么好。"
 
 # game/2evening%20moxie.rpy#L966
 translate chinese moxietalkmenu_6f7d1349:
@@ -2061,7 +2061,7 @@ translate chinese moxietalkmenu_8e477014:
 translate chinese moxietalkmenu_7c474cf7:
 
     # moxie "At the Arcadian college you can study cosmic magic, mystical magic, alteration magic, and white magic."
-    moxie "At the Arcadian college you can study cosmic magic, mystical magic, alteration magic, and white magic."
+    moxie "在Arcadia学院，你可以学习宇宙魔法，神秘魔法，变化魔法和白魔法。"
 
 # game/2evening%20moxie.rpy#L979
 translate chinese moxietalkmenu_2cbae864:
@@ -2073,7 +2073,7 @@ translate chinese moxietalkmenu_2cbae864:
 translate chinese moxietalkmenu_bd2b93d5:
 
     # moxie "I bet there are other types too, but alteration is the most common form of magic, as you can imagine the uses for that are quite extreme."
-    moxie "I bet there are other types too, but alteration is the most common form of magic, as you can imagine the uses for that are quite extreme."
+    moxie "我希望也有其他的种类，但是变形是的最常见的魔法形态，因为你可以想象那个魔法的用途是十分极端的。"
 
 # game/2evening%20moxie.rpy#L985
 translate chinese moxietalkmenu_30ad2789:
@@ -2085,19 +2085,19 @@ translate chinese moxietalkmenu_30ad2789:
 translate chinese moxietalkmenu_1e6ef6ab:
 
     # moxie "The suburbs are actually older than the castle because they're remnants of pre-unicorn society."
-    moxie "The suburbs are actually older than the castle because they're remnants of pre-unicorn society."
+    moxie "郊区其实比城堡更古老，因为郊区是上古独角兽社会的残存。"
 
 # game/2evening%20moxie.rpy#L987
 translate chinese moxietalkmenu_684199c3:
 
     # mc "This is all incredibly interesting. Could you tell me what Lily and Penelope are studying?"
-    mc "This is all incredibly interesting. Could you tell me what Lily and Penelope are studying?"
+    mc "这一切真的是太奇妙了。你能告诉我Lily和Penelope正在研究什么吗？"
 
 # game/2evening%20moxie.rpy#L988
 translate chinese moxietalkmenu_b257a607:
 
     # moxie "Of course, I think it's awesome to have someone new to talk to about this stuff."
-    moxie "当然，我觉得找一个陌生人讨论这些事是十分“酷”的"
+    moxie "当然，我觉得找一个陌生人讨论这些事是十分“酷”的。"
 
 # game/2evening%20moxie.rpy#L989
 translate chinese moxietalkmenu_5ef3ecc1:
@@ -2115,13 +2115,13 @@ translate chinese moxietalkmenu_fb555cda:
 translate chinese moxietalkmenu_4399af8d:
 
     # "We spend a surprising amount of time talking about magic. I still can't get over how awesome it is to be living in a world where magic is real."
-    "We spend a surprising amount of time talking about magic. I still can't get over how awesome it is to be living in a world where magic is real."
+    "我们接下来用了大把有趣的时间谈论关于魔法的很多东西。我久久不能平复那种知道居然身处一个魔法是真的的一个世界的那种欣喜感。"
 
 # game/2evening%20moxie.rpy#L992
 translate chinese moxietalkmenu_8c8cf652:
 
     # "I'm really interested to see all the faucets of how a modern society is affected by magic."
-    "I'm really interested to see all the faucets of how a modern society is affected by magic."
+    "我倒是很有兴趣康康一个被魔法影响着的现代社会的水龙头是什么样子的。"
 
 # game/2evening%20moxie.rpy#L994
 translate chinese moxietalkmenu_a36d77de:
@@ -2151,25 +2151,25 @@ translate chinese moxietalkmenu_7986470a:
 translate chinese moxiemagictalk_eb2a4531:
 
     # moxie "I think mysticism is just generally a catch-all for fancy magic stuff that doesn't fit into the other categories."
-    moxie "I think mysticism is just generally a catch-all for fancy magic stuff that doesn't fit into the other categories."
+    moxie "我觉得“神秘主义”就是对那些没有划分到任何种类的复杂魔法玩意儿的一个总体上全方位的概括。"
 
 # game/2evening%20moxie.rpy#L1006
 translate chinese moxiemagictalk_e08fd0dc:
 
     # moxie "Mysticism is to use magic to manipulate the rules of nature."
-    moxie "Mysticism is to use magic to manipulate the rules of nature."
+    moxie "“神秘主义”本质就是使用魔法操控自然法则。"
 
 # game/2evening%20moxie.rpy#L1007
 translate chinese moxiemagictalk_9a01b5ec:
 
     # moxie "It's the ability to reflect spells, raise the undead, telekinesis and even levitation."
-    moxie "It's the ability to reflect spells, raise the undead, telekinesis and even levitation."
+    moxie "这是反弹咒语、召唤亡者、心灵遥感甚至悬浮的能力。"
 
 # game/2evening%20moxie.rpy#L1008
 translate chinese moxiemagictalk_9f65350d:
 
     # moxie "It's essentially doing things with magic that are otherwise impossible, and have no real standing in science."
-    moxie "It's essentially doing things with magic that are otherwise impossible, and have no real standing in science."
+    moxie "用魔法去做本不可能的事情很重要的，而且这在科学中并没有站得住脚的说法"
 
 # game/2evening%20moxie.rpy#L1009
 translate chinese moxiemagictalk_8e4251e3:
@@ -2193,19 +2193,19 @@ translate chinese moxiemagictalk_f5c11326:
 translate chinese moxiemagictalk_b0e48fff:
 
     # moxie "This is arguably the most useful school of magic. It can be used to change the fundamental chemistry of objects."
-    moxie "This is arguably the most useful school of magic. It can be used to change the fundamental chemistry of objects."
+    moxie "这可以说是学校里学到的最实用的魔法了。它可以用来改变物体的基本化学结构。"
 
 # game/2evening%20moxie.rpy#L1019
 translate chinese moxiemagictalk_fbeffe08:
 
     # moxie "You could use it to say, turn clay into bricks, or sand into glass."
-    moxie "You could use it to say, turn clay into bricks, or sand into glass."
+    moxie "可以这样说，你可以用它把粘土变成砖块，或者把沙子变成玻璃。"
 
 # game/2evening%20moxie.rpy#L1020
 translate chinese moxiemagictalk_59767ccc:
 
     # moxie "It's useful for food production, health and safety, construction. Just depends on where you specialise I guess."
-    moxie "It's useful for food production, health and safety, construction. Just depends on where you specialise I guess."
+    moxie "在食物生产，健康和安全业，建筑方面很实用。这要看你在哪方面比较擅长了，我猜大概就是这样。"
 
 # game/2evening%20moxie.rpy#L1021
 translate chinese moxiemagictalk_1085f6ea:
@@ -2235,19 +2235,19 @@ translate chinese moxiemagictalk_87436e00:
 translate chinese moxiemagictalk_c032d0f3:
 
     # moxie "You can't just cast a healing spell on someone and assume everything will be okay, a profound understanding of biology and medicine is required to be effective."
-    moxie "You can't just cast a healing spell on someone and assume everything will be okay, a profound understanding of biology and medicine is required to be effective."
+    moxie "你不能随便仅仅施一个治疗魔法然后就以为万事大吉了，对生物学和医学知识的精通才是最有效的。"
 
 # game/2evening%20moxie.rpy#L1028
 translate chinese moxiemagictalk_5a86bd51:
 
     # mc "Awh, nothing is ever as simple as the games."
-    mc "Awh, nothing is ever as simple as the games."
+    mc "啊哈，再也没什么能和玩游戏一样简单了。"
 
 # game/2evening%20moxie.rpy#L1033
 translate chinese moxiemagictalk_c90f636a:
 
     # moxie "Afraid not kiddo."
-    moxie "别担心，小伙子"
+    moxie "别担心，小伙子。"
 
 # game/2evening%20moxie.rpy#L1040
 translate chinese moxiemagictalk_b66de143:
@@ -2259,7 +2259,7 @@ translate chinese moxiemagictalk_b66de143:
 translate chinese moxiemagictalk_11884d6d:
 
     # moxie "Most of these spells require you to utilize external energies, because they're beyond basic magical ability."
-    moxie "Most of these spells require you to utilize external energies, because they're beyond basic magical ability."
+    moxie "这大部分的咒语都需要借助外部的能量，因为它们在基础魔法能力范围以外了。"
 
 # game/2evening%20moxie.rpy#L1042
 translate chinese moxiemagictalk_0dd93717:
@@ -2271,25 +2271,25 @@ translate chinese moxiemagictalk_0dd93717:
 translate chinese moxiemagictalk_12bb91ac:
 
     # moxie "Well, basically... If you're creating a portal for example, you'll need to cast magic to create a portal in front of you. You can do that on your own."
-    moxie "Well, basically... If you're creating a portal for example, you'll need to cast magic to create a portal in front of you. You can do that on your own."
+    moxie "嗯，基本上来说的话......如果你想创造一个传送点，你只需释放魔法就行了。这是你自己就可以做到的。"
 
 # game/2evening%20moxie.rpy#L1048
 translate chinese moxiemagictalk_63fd0ef4:
 
     # moxie "But the only way to get a portal to link to somewhere else, is to use cosmic energy to form that portal on the other side."
-    moxie "But the only way to get a portal to link to somewhere else, is to use cosmic energy to form that portal on the other side."
+    moxie "但将这个传送点连接到某处的唯一办法就是，得使用宇宙能量在另一端形成传送点。"
 
 # game/2evening%20moxie.rpy#L1049
 translate chinese moxiemagictalk_0c486739:
 
     # mc "Sounds... complicated..."
-    mc "听起来...有点复杂"
+    mc "听起来...有点复杂..."
 
 # game/2evening%20moxie.rpy#L1054
 translate chinese moxiemagictalk_404a7a33:
 
     # moxie "Yeah, if time travel magic ever becomes a thing, it'll definitely be under this school."
-    moxie "Yeah, if time travel magic ever becomes a thing, it'll definitely be under this school."
+    moxie "Yeah，如果时间旅行魔法成真了，这所学校肯定会教的。"
 
 # game/2evening%20moxie.rpy#L1055
 translate chinese moxiemagictalk_e52ecf8c:
@@ -2427,7 +2427,7 @@ translate chinese moxiemagictalk_9891dd89:
 translate chinese moxiemagictalk_61d3bb88:
 
     # mc "Haha, come on, answer my question from before."
-    mc "哈哈，来吧，在这之前先回答我的问题"
+    mc "哈哈，来吧，在这之前先回答我的问题。"
 
 # game/2evening%20moxie.rpy#L1127
 translate chinese moxiemagictalk_49ee13f3:

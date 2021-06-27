@@ -1,4 +1,4 @@
-# Translation updated at Sat Jun 26 2021 00:48:03 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Sun Jun 27 2021 00:55:08 GMT+0000 (Coordinated Universal Time)
 # game/artgallery.rpy#L8
 translate chinese artgallery_867fe6a7:
 

@@ -1,4 +1,4 @@
-# Translation updated at Sat Jun 26 2021 00:48:03 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Sun Jun 27 2021 00:55:09 GMT+0000 (Coordinated Universal Time)
 # game/finalroute.rpy#L6
 translate chinese finalroute_240762c1:
 
@@ -8067,7 +8067,7 @@ translate chinese badend_a20cefa7:
 translate chinese badend_f39a9279:
 
     # "Two years later…"
-    "Two years later…"
+    "两年之后..."
 
 # game/finalroute.rpy#L3583
 translate chinese badend_a20cefa7_1:

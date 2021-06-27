@@ -20162,14 +20162,14 @@
   {
     "id": 79437715,
     "createdAt": "2021-05-30T17:55:40.000Z",
-    "updatedAt": "2021-06-18T17:45:16.000Z",
+    "updatedAt": "2021-06-26T11:54:49.000Z",
     "key": "badend_f39a9279",
     "original": "Two years later…",
-    "translation": "",
+    "translation": "两年之后...",
     "file": 272348,
-    "stage": 0,
+    "stage": 1,
     "project": 2414,
-    "uid": null,
+    "uid": 21929,
     "extra": null,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwBCN/blob/main/game/finalroute.rpy#L3582",
     "words": 3

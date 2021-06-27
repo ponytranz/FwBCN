@@ -1,4 +1,4 @@
-# Translation updated at Sat Jun 26 2021 00:48:03 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Sun Jun 27 2021 00:55:08 GMT+0000 (Coordinated Universal Time)
 # game/bakery.rpy#L14
 translate chinese bakeryvisit1_2f4adbe4:
 
@@ -1323,7 +1323,7 @@ translate chinese creamquickie_12332aba:
 translate chinese creamquickie_f5b4e8ed:
 
     # mc "I mean… I’d never do that, right? You can’t act like that’s inevitable just because I’ve been mean to a character in a game that called me a milk-drinker."
-    mc "I mean… I’d never do that, right? You can’t act like that’s inevitable just because I’ve been mean to a character in a game that called me a milk-drinker."
+    mc "我的意思是… 我从没那么做过，对吧？你不能做得好像仅仅因为我对一个游戏的一个叫我饮奶者的角色刻薄，所以那是不可避免的。"
 
 # game/bakery.rpy#L392
 translate chinese creamquickie_1453854e:
@@ -1359,7 +1359,7 @@ translate chinese creamquickie_e0e82e85:
 translate chinese creamquickie_ad236520:
 
     # mc "… That’s terrifying, I don’t like to think about it."
-    mc "… That’s terrifying, I don’t like to think about it."
+    mc "… 那太吓人，我不喜欢去对此想象。"
 
 # game/bakery.rpy#L401
 translate chinese creamquickie_4b4a32eb:

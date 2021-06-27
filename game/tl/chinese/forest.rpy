@@ -1,4 +1,4 @@
-# Translation updated at Sat Jun 26 2021 00:48:03 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Sun Jun 27 2021 00:55:09 GMT+0000 (Coordinated Universal Time)
 # game/forest.rpy#L18
 translate chinese forestvisit1_8c224d17:
 
@@ -351,7 +351,7 @@ translate chinese forestvisit1_bf17a899:
 translate chinese forestvisit1_f60dec79:
 
     # "Makes sense considering how strong horses and ponies are in my world."
-    "Makes sense considering how strong horses and ponies are in my world."
+    "有道理，毕竟我原来的世界里，马和小马们也是很强壮的。"
 
 # game/forest.rpy#L104
 translate chinese forestvisit1_d6903e8a:
@@ -411,7 +411,7 @@ translate chinese forestvisit1_940805e4:
 translate chinese forestvisit1_546bab52:
 
     # butters "Hehe, I was starting to think you didn’t have a name. I'm Butters."
-    butters "呵呵，我开始觉得你没有名字了。我是Butters。"
+    butters "呵呵，我之前是觉得你没有名字。我是Butters。"
 
 # game/forest.rpy#L118
 translate chinese forestvisit1_d24a4819:
@@ -1815,13 +1815,13 @@ translate chinese forestvisit1choice3_9a4a7380:
 translate chinese forestvisit1choice3_92c1178a:
 
     # "Butters tackles me, causing me to fall back, my hand released."
-    "Butters狠拉了我一把，人往后一个酿跄，不过手成功挣脱了。"
+    "Butters狠拉了我一把，我人往后一个酿跄，不过手成功挣脱了。"
 
 # game/forest.rpy#L522
 translate chinese forestvisit1choice3_a63cae9d:
 
     # "We did it, I have some gelatine in my fist, but as I regain my composure and look back…"
-    "可以了，我手里攥着一些凝胶，但我恢复镇定往回看时......"
+    "可以了，我手里攥有一些凝胶，但我恢复镇定往回看时......"
 
 # game/forest.rpy#L523
 translate chinese forestvisit1choice3_e6c5476e:
@@ -2841,199 +2841,199 @@ translate chinese forestvisit1slimesex_ce617998_2:
 translate chinese forestvisit1slimesex_75402a58:
 
     # "I return to the wagon and spend the rest of the day relaxing, despite the ordeal, the mood was notably lightened by Butters's happy attitude."
-    "I return to the wagon and spend the rest of the day relaxing, despite the ordeal, the mood was notably lightened by Butters's happy attitude."
+    "我回到了篷车，花了一整天的时间好好休息，折腾了大半天真受不了，不过Butters的乐观情绪也鼓舞了我，我身疲心不疲。"
 
 # game/forest.rpy#L806
 translate chinese forestvisit1slimesex_5a2dc4d8:
 
     # "Around 5:00pm Moxie returns."
-    "Around 5:00pm Moxie returns."
+    "Moxie在下午5点左右回了家。"
 
 # game/forest.rpy#L809
 translate chinese forestvisit1slimesex_76a44457:
 
     # moxie "Evening! I am zonked, had some great performances today, how about you?"
-    moxie "Evening! I am zonked, had some great performances today, how about you?"
+    moxie "晚上好！可把我累坏了，今天表演可不轻松，你今天过得怎么样？"
 
 # game/forest.rpy#L810
 translate chinese forestvisit1slimesex_9abf825a:
 
     # mc "I can’t say I had great performances, but they sure were unique."
-    mc "I can’t say I had great performances, but they sure were unique."
+    mc "今天过得不算太轻松，但有些很独特的经历我能细细品味。"
 
 # game/forest.rpy#L811
 translate chinese forestvisit1slimesex_0b7b3eb2:
 
     # mc "I went to work with Butters in the forest today."
-    mc "I went to work with Butters in the forest today."
+    mc "我和Butters去森林里干活了。"
 
 # game/forest.rpy#L813
 translate chinese forestvisit1slimesex_c4863424:
 
     # moxie "Oh dear, did she even talk to you?"
-    moxie "Oh dear, did she even talk to you?"
+    moxie "哦呀，她不会羞得不怎么说话吧？"
 
 # game/forest.rpy#L814
 translate chinese forestvisit1slimesex_d33bc46f:
 
     # mc "She sure did, she mistook me for a woodland animal at first."
-    mc "She sure did, she mistook me for a woodland animal at first."
+    mc "有点吧，她一开始把我当成了一只林地动物。"
 
 # game/forest.rpy#L816
 translate chinese forestvisit1slimesex_f24e9a0f:
 
     # moxie "Oh yeah? Pfft, that completely hairless body, and your totally threatening features. A true wild animal at heart."
-    moxie "Oh yeah? Pfft, that completely hairless body, and your totally threatening features. A true wild animal at heart."
+    moxie "噗，你没有身体毛发，还有不少极富威胁的特征，难怪被她当成危险的野生动物。"
 
 # game/forest.rpy#L817
 translate chinese forestvisit1slimesex_904603f5:
 
     # "I think Butters’s point was that I wasn’t a pony; she’d probably treat a cow girl, or a wolf girl the same way she'd treat me."
-    "I think Butters’s point was that I wasn’t a pony; she’d probably treat a cow girl, or a wolf girl the same way she'd treat me."
+    "Butters对我的芥蒂应该并非来自我不是小马；她是像个牧工或者狼女那般对待我的。"
 
 # game/forest.rpy#L818
 translate chinese forestvisit1slimesex_e0b086c5:
 
     # "She doesn’t seem to like ponies very much. I’ll keep that to myself though."
-    "She doesn’t seem to like ponies very much. I’ll keep that to myself though."
+    "她看起来不太喜欢和其他小马相处。不过我还是暂时别告诉其他马的好。"
 
 # game/forest.rpy#L819
 translate chinese forestvisit1slimesex_13218d84:
 
     # mc "I don’t think she gets out much, she was very kind though."
-    mc "I don’t think she gets out much, she was very kind though."
+    mc "她不怎么出门，但待马不错。"
 
 # game/forest.rpy#L820
 translate chinese forestvisit1slimesex_82389311:
 
     # mc "Either way I had to collect ingredients so we could make potions together."
-    mc "Either way I had to collect ingredients so we could make potions together."
+    mc "我们一起出去搜集做药剂的原材料。"
 
 # game/forest.rpy#L822
 translate chinese forestvisit1slimesex_a8b4b64e:
 
     # moxie "Pfft, potions are only a myth, but that girl can do whatever she wants as long as she’s paying you."
-    moxie "Pfft, potions are only a myth, but that girl can do whatever she wants as long as she’s paying you."
+    moxie "哧，药剂那玩意你也信？不过只要你能拿到工钱，和她干些什么也无所谓。"
 
 # game/forest.rpy#L823
 translate chinese forestvisit1slimesex_6397cb97:
 
     # mc "Considering I recently found out magic is real, I’m not in a position where I can doubt the existence of potions."
-    mc "Considering I recently found out magic is real, I’m not in a position where I can doubt the existence of potions."
+    mc "我最近发现魔法在这个世界真实存在，所以对炼金药剂的作用我目前持保留态度。"
 
 # game/forest.rpy#L825
 translate chinese forestvisit1slimesex_44961cda:
 
     # moxie "Well you see, alchemy is just throwing a bunch of ingredients together, boiling them, and hoping something interesting happens. The process just doesn’t have that magical oomph required."
-    moxie "Well you see, alchemy is just throwing a bunch of ingredients together, boiling them, and hoping something interesting happens. The process just doesn’t have that magical oomph required."
+    moxie "你听我给你讲啊，炼金不过就是把一堆乱七八糟的原料混在一起，蒸煮，然后再看看有什么效果而已。完全不像魔法那样简单直白。"
 
 # game/forest.rpy#L827
 translate chinese forestvisit1slimesex_fd04e677:
 
     # moxie "It's just like astrology, it isn't real!"
-    moxie "It's just like astrology, it isn't real!"
+    moxie "跟占卜差不多，离谱！"
 
 # game/forest.rpy#L828
 translate chinese forestvisit1slimesex_f787cdd4:
 
     # moxie "The only potions I need are the apple ones Honeycrisp makes if you know what I mean, hahah."
-    moxie "The only potions I need are the apple ones Honeycrisp makes if you know what I mean, hahah."
+    moxie "我唯一需要的炼金药剂就是Honeycrisp酿造的苹果味的，哈哈。"
 
 # game/forest.rpy#L829
 translate chinese forestvisit1slimesex_2aebafa6:
 
     # mc "Haha, yeah, yeah…"
-    mc "Haha, yeah, yeah…"
+    mc "哈哈，你说是，那就是吧......"
 
 # game/forest.rpy#L830
 translate chinese forestvisit1slimesex_f277d9f3:
 
     # "Does she not know about unicorn dust? Or am I the naïve one by believing potions exist?"
-    "Does she not know about unicorn dust? Or am I the naïve one by believing potions exist?"
+    "她知道独角兽粉尘这档子事儿吗？还是说我不该相信炼金药剂能有作用？"
 
 # game/forest.rpy#L831
 translate chinese forestvisit1slimesex_23d7a21f:
 
     # "I'm compelled to trust Moxie over Butters, but I'm extremely tempted to test something."
-    "I'm compelled to trust Moxie over Butters, but I'm extremely tempted to test something."
+    "目前现在还是相信Moxie说的比较好，Butters的理论，我可以测试一下。"
 
 # game/forest.rpy#L832
 translate chinese forestvisit1slimesex_da6da2e9:
 
     # mc "Moxie, can you cast a spell for me?"
-    mc "Moxie, can you cast a spell for me?"
+    mc "Moxie，你能施个法给我康康吗？"
 
 # game/forest.rpy#L834
 translate chinese forestvisit1slimesex_41c06527:
 
     # moxie "I’m not a spell slut, but for you? I can make an exception."
-    moxie "I’m not a spell slut, but for you? I can make an exception."
+    moxie "你想看？随时可以哦，其他马就不一定了。"
 
 # game/forest.rpy#L835
 translate chinese forestvisit1slimesex_a21f4c69:
 
     # mc "Hang on a second, I want to place my hands around your horn and feel what happens."
-    mc "Hang on a second, I want to place my hands around your horn and feel what happens."
+    mc "别急啊，我想摸着你的角看看会不会发生什么特别的事儿。"
 
 # game/forest.rpy#L837
 translate chinese forestvisit1slimesex_ae66c32f:
 
     # moxie "Oh? Getting curious about magic? I can see why, go ahead."
-    moxie "Oh? Getting curious about magic? I can see why, go ahead."
+    moxie "哦？开始对魔法的原理好奇了？行啊，你摸吧。"
 
 # game/forest.rpy#L838
 translate chinese forestvisit1slimesex_8173732a:
 
     # "I place my hands around her horn. This is the first time I’ve ever done it, it’s hard like you’d expect a mammal’s horn to be, yet it has a sheen to it, probably from showering."
-    "I place my hands around her horn. This is the first time I’ve ever done it, it’s hard like you’d expect a mammal’s horn to be, yet it has a sheen to it, probably from showering."
+    "我握住她的角，这也是我第一次摸独角兽的角，很难相信哺乳动物能有这样一根泛着光泽的角，不过反光可能是因为她洗了澡的缘故。"
 
 # game/forest.rpy#L840
 translate chinese forestvisit1slimesex_498a8d42:
 
     # moxie "Lemme think of a good spell… How about a perfume spell to make the wagon smell nice?"
-    moxie "Lemme think of a good spell… How about a perfume spell to make the wagon smell nice?"
+    moxie "我想想放什么法术好呢...施个香水魔法让篷车清新一点怎么样？"
 
 # game/forest.rpy#L843
 translate chinese forestvisit1slimesex_5225f661:
 
     # "She starts to cast a spell and her horn lights up around my hands, there’s a very slight heat combined with a puff."
-    "She starts to cast a spell and her horn lights up around my hands, there’s a very slight heat combined with a puff."
+    "她说干就干，我手里的角旋即开始闪闪发光，角摸起来有一点发烫，并有些许青烟腾起。"
 
 # game/forest.rpy#L844
 translate chinese forestvisit1slimesex_471c6838:
 
     # "Oh, and there’s a pleasant aroma, lavender, I believe that’s her favourite flower."
-    "Oh, and there’s a pleasant aroma, lavender, I believe that’s her favourite flower."
+    "哦，薰衣草的香气也跟着扑来，她肯定很喜欢这种花儿。"
 
 # game/forest.rpy#L846
 translate chinese forestvisit1slimesex_3c71c37a:
 
     # moxie "It’s nice having you holding my shaft, and this close proximity is turning me on."
-    moxie "It’s nice having you holding my shaft, and this close proximity is turning me on."
+    moxie "你握着人家的角感觉还有点兴奋，我喜欢这个样子。"
 
 # game/forest.rpy#L848
 translate chinese forestvisit1slimesex_b1cc00cd:
 
     # moxie "Maybe you could jack off my horn, ehehaha!"
-    moxie "Maybe you could jack off my horn, ehehaha!"
+    moxie "也许你该用手撸撸人家的角，啊哈哈哈！"
 
 # game/forest.rpy#L850
 translate chinese forestvisit1slimesex_df140052:
 
     # moxie "But I’m too hungry to have sex right now, how about I go start dinner?"
-    moxie "But I’m too hungry to have sex right now, how about I go start dinner?"
+    moxie "不过现在人家的下面更想要你的手或者别的东西进去，我们先去吃完饭吧？"
 
 # game/forest.rpy#L851
 translate chinese forestvisit1slimesex_cfd41710:
 
     # mc "Sure, thanks for humouring me."
-    mc "Sure, thanks for humouring me."
+    mc "走吧，你还真是幽默。"
 
 # game/forest.rpy#L853
 translate chinese forestvisit1slimesex_fd6ea85d:
 
     # "I back away and look at my hands, there is indeed miniscule amounts of pink granules on the palms of my hands, is this unicorn dust?"
-    "I back away and look at my hands, there is indeed miniscule amounts of pink granules on the palms of my hands, is this unicorn dust?"
+    "我回过头看着自己的掌心，里面确实有少许粉红色的颗粒物，难不成就是Butters说的独角兽粉尘？"
 
 # game/forest.rpy#L856
 translate chinese forestvisit1slimesex_ce617998_3:
@@ -3045,1159 +3045,1159 @@ translate chinese forestvisit1slimesex_ce617998_3:
 translate chinese forestvisit2_1786da78:
 
     # "Best check up on Butters and see how she’s doing after that slime 'incident'."
-    "Best check up on Butters and see how she’s doing after that slime 'incident'."
+    "最好去看看Butters怎么样了，自从上次的史莱姆“遭遇战”后我就不太放心她。"
 
 # game/forest.rpy#L862
 translate chinese forestvisit2_319a5870:
 
     # "I make my way to her cottage in the forest clearing and knock on the door."
-    "I make my way to her cottage in the forest clearing and knock on the door."
+    "我来到她森林外的小屋前，敲了敲门。"
 
 # game/forest.rpy#L863
 translate chinese forestvisit2_49d74c07:
 
     # "This time I can definitely tell she’s peeking through the curtains before opening the door."
-    "This time I can definitely tell she’s peeking through the curtains before opening the door."
+    "我敢肯定她在开门之前一直偷偷在窗帘后往外边看。"
 
 # game/forest.rpy#L864
 translate chinese forestvisit2_1bd45581:
 
     # "She likes me though, so she happily opens the door and welcomes me inside."
-    "She likes me though, so she happily opens the door and welcomes me inside."
+    "她对我印象应该不错，很高兴地开了门，亲切地把我请了进去。"
 
 # game/forest.rpy#L868
 translate chinese forestvisit2_996551a1:
 
     # mc "You're looking good, Butters."
-    mc "You're looking good, Butters."
+    mc "Butters，你看起来好多了。"
 
 # game/forest.rpy#L869
 translate chinese forestvisit2_269aba73:
 
     # butters "Thank you! I’m glad you came; I have a surprise for you."
-    butters "Thank you! I’m glad you came; I have a surprise for you."
+    butters "谢谢关心！真高兴你能来看人家；人家有个惊喜给你。"
 
 # game/forest.rpy#L870
 translate chinese forestvisit2_d618fbee:
 
     # mc "A surprise? Other than what I’m already expecting?"
-    mc "A surprise? Other than what I’m already expecting?"
+    mc "惊喜？你给翻译翻译什么是惊喜？"
 
 # game/forest.rpy#L872
 translate chinese forestvisit2_3c88161f:
 
     # butters "What are you expecting?"
-    butters "What are you expecting?"
+    butters "惊喜就是惊喜啊？"
 
 # game/forest.rpy#L876
 translate chinese forestvisit2_7f27cce7:
 
     # "As I step inside, I immediately see a slime girl on the sofa watching cartoons on the TV. She doesn’t even react to me, but she does talk."
-    "As I step inside, I immediately see a slime girl on the sofa watching cartoons on the TV. She doesn’t even react to me, but she does talk."
+    "当我走进小屋后，就看见一个史莱姆女孩舒舒服服地蜷在沙发里看着电视里的动画片。她对我的来访没有肢体反应，但她开口说话了。"
 
 # game/forest.rpy#L877
 translate chinese forestvisit2_fa38fa83:
 
     # slime "Sup."
-    slime "Sup."
+    slime "怎么。"
 
 # game/forest.rpy#L878
 translate chinese forestvisit2_0316fdc6:
 
     # butters "She 'arrived' early this morning, turns out her name is Poyo."
-    butters "She 'arrived' early this morning, turns out her name is Poyo."
+    butters "她是在今早“到”家里的，我给她取了个名字叫Poyo。"
 
 # game/forest.rpy#L879
 translate chinese forestvisit2_25af380d:
 
     # mc "Ohh, 'arrived'... That’s great…"
-    mc "Ohh, 'arrived'... That’s great…"
+    mc "哦，“到”家里的...还行......"
 
 # game/forest.rpy#L881
 translate chinese forestvisit2_a92deea6:
 
     # butters "She’s too young to reform her slime at the moment, so I’ve been feeding her lots of greens."
-    butters "She’s too young to reform her slime at the moment, so I’ve been feeding her lots of greens."
+    butters "她还处在幼年期，不能自由操纵身上的粘液，我喂了她不少树叶。"
 
 # game/forest.rpy#L882
 translate chinese forestvisit2_01efb072:
 
     # "As much as the situation discomforts me, the slime girl is kinda adorable."
-    "As much as the situation discomforts me, the slime girl is kinda adorable."
+    "虽然这副场景让我有些后背发凉，不过史莱姆女孩看起来还蛮可爱的。"
 
 # game/forest.rpy#L884
 translate chinese forestvisit2_735174d5:
 
     # butters "Ohhh, and my belly is finally small again! A small price to pay for all the gelatine I could ever use."
-    butters "Ohhh, and my belly is finally small again! A small price to pay for all the gelatine I could ever use."
+    butters "哦哦，我的腹部也回归正常大小了！花了点小代价就能有充足的凝胶用。"
 
 # game/forest.rpy#L886
 translate chinese forestvisit2_7ef0960d:
 
     # butters "Poyo and I are going to have a great symbiotic relationship!"
-    butters "Poyo and I are going to have a great symbiotic relationship!"
+    butters "我和Poyo一定可以互惠互利的！"
 
 # game/forest.rpy#L887
 translate chinese forestvisit2_f9627866:
 
     # mc "Is this thing technically my child? It’s pretty weird to think about."
-    mc "Is this thing technically my child? It’s pretty weird to think about."
+    mc "所以她算不算我的孩子呢？这么想好生奇怪。"
 
 # game/forest.rpy#L888
 translate chinese forestvisit2_3c606e68:
 
     # poyo "If I'm your child, that'd make me one ugly son-of-a-bitch."
-    poyo "If I'm your child, that'd make me one ugly son-of-a-bitch."
+    poyo "如果我是你的孩子，肯定是一个超级丑八怪。"
 
 # game/forest.rpy#L890
 translate chinese forestvisit2_52b98246:
 
     # butters "Poyo, watch your language!"
-    butters "Poyo, watch your language!"
+    butters "Poyo，怎么说话呢！"
 
 # game/forest.rpy#L891
 translate chinese forestvisit2_1897d3d0:
 
     # poyo "You're not my mom."
-    poyo "You're not my mom."
+    poyo "你又不是我妈，你管我。"
 
 # game/forest.rpy#L893
 translate chinese forestvisit2_67a32c2e:
 
     # butters "Eugh, don't mind her, she's going through her angsty teenage rebellion phase."
-    butters "Eugh, don't mind her, she's going through her angsty teenage rebellion phase."
+    butters "阿巴阿巴，别管她，这孩子应该还在青春叛逆期。"
 
 # game/forest.rpy#L894
 translate chinese forestvisit2_a8363ac0:
 
     # mc "So what's the deal with her biology?"
-    mc "So what's the deal with her biology?"
+    mc "史莱姆究竟是怎么繁殖的？"
 
 # game/forest.rpy#L896
 translate chinese forestvisit2_9b3920b8:
 
     # butters "Well, slimes produce asexually, your cum didn’t fertilise the slime the same way as us mammals, it just provided enough nutrients for the separated slime to develop."
-    butters "Well, slimes produce asexually, your cum didn’t fertilise the slime the same way as us mammals, it just provided enough nutrients for the separated slime to develop."
+    butters "emmm，史莱姆是无性繁殖，和我们这些哺乳动物不一样，你的精液不会让它们受精，只是为分裂新个体提供足够的养份而已。"
 
 # game/forest.rpy#L897
 translate chinese forestvisit2_3b721b58:
 
     # mc "What? I have no idea what you just said."
-    mc "What? I have no idea what you just said."
+    mc "啥啊？你说的每个字我都明白，连成话我硬是不懂。"
 
 # game/forest.rpy#L898
 translate chinese forestvisit2_7bf408ff:
 
     # butters "When a slime breaks off a part of itself, it’s like a flower; if it gets enough nutrients it'll grow into a new flower, or it'll wilt."
-    butters "When a slime breaks off a part of itself, it’s like a flower; if it gets enough nutrients it'll grow into a new flower, or it'll wilt."
+    butters "史莱姆在产生新个体的时候跟花儿差不多；如果有足够的养份就能长出一朵新花，没有的话就只能凋谢作泥。"
 
 # game/forest.rpy#L899
 translate chinese forestvisit2_241abd44:
 
     # mc "Ooohhhh, right, I getcha."
-    mc "Ooohhhh, right, I getcha."
+    mc "哦哦，这下我懂了。"
 
 # game/forest.rpy#L901
 translate chinese forestvisit2_59587ae8:
 
     # butters "I think semen just happens to be particularly potent at it."
-    butters "I think semen just happens to be particularly potent at it."
+    butters "我的精液算是充足的养份，对吧。"
 
 # game/forest.rpy#L902
 translate chinese forestvisit2_a5e0e980:
 
     # butters "Poyo is more accurately the same slime girl we played with in the cave, with a lot less 'kehehe' thankfully."
-    butters "Poyo is more accurately the same slime girl we played with in the cave, with a lot less 'kehehe' thankfully."
+    butters "Poyo准确地来说就是和我们在山洞里遇到的那只史莱姆，只是她不会一直“呼呵呵”“呼呵呵”的。"
 
 # game/forest.rpy#L903
 translate chinese forestvisit2_1ef414ba:
 
     # "'Played' is a friendly way to put it, molested perhaps."
-    "'Played' is a friendly way to put it, molested perhaps."
+    "“遇到”算是很克制的说法，准确地来说应该是“骚扰”。"
 
 # game/forest.rpy#L904
 translate chinese forestvisit2_906590ed:
 
     # "It seems Butters's bunny, Devil, is terrified of the slime girl."
-    "It seems Butters's bunny, Devil, is terrified of the slime girl."
+    "Butters养的兔子Devil好像很怕史莱姆女孩的样子。"
 
 # game/forest.rpy#L905
 translate chinese forestvisit2_d12c40fd:
 
     # mc "Hey Poyo, aren't you going back home?"
-    mc "Hey Poyo, aren't you going back home?"
+    mc "嘿Poyo，你不想回家吗？"
 
 # game/forest.rpy#L906
 translate chinese forestvisit2_a43bb640:
 
     # poyo "No way man, that cave is a shit-hole. I dunno how my mom puts up with it."
-    poyo "No way man, that cave is a shit-hole. I dunno how my mom puts up with it."
+    poyo "别想了，那山洞就是个破地方。真不知道我妈怎么受得了那里。"
 
 # game/forest.rpy#L907
 translate chinese forestvisit2_05a15f0f:
 
     # poyo "And Butters spoils me here, I got everything I need."
-    poyo "And Butters spoils me here, I got everything I need."
+    poyo "Butters这里舒舒服服的，给我吃给我住。"
 
 # game/forest.rpy#L909
 translate chinese forestvisit2_ee4aec9d:
 
     # butters "Ehehe, maybe... I just do the best with what I have..."
-    butters "Ehehe, maybe... I just do the best with what I have..."
+    butters "嘿嘿，还算舒服吧...我只是尽我所能......"
 
 # game/forest.rpy#L910
 translate chinese forestvisit2_905eb630:
 
     # butters "But please watch your profanity..."
-    butters "But please watch your profanity..."
+    butters "但你的嘴巴也要放干净啊......"
 
 # game/forest.rpy#L911
 translate chinese forestvisit2_b9a083d1:
 
     # poyo "Meh... I'm going to my room, don't bother me."
-    poyo "Meh... I'm going to my room, don't bother me."
+    poyo "嘛...我要回我自己房间了，别管我。"
 
 # game/forest.rpy#L913
 translate chinese forestvisit2_ce71b91c:
 
     # butters "Anyway... [playername], it’s great for you to join me again, would you like any breakfast before we head out?"
-    butters "Anyway... [playername], it’s great for you to join me again, would you like any breakfast before we head out?"
+    butters "别管她了...[playername]，你又来找我，我真是满心欢喜，出去工作前要不要一起用早餐啊？"
 
 # game/forest.rpy#L914
 translate chinese forestvisit2_5240c2cc:
 
     # mc "No thanks; I’ve already eaten. Before we do head out though, I wanted to know a bit more about potions."
-    mc "No thanks; I’ve already eaten. Before we do head out though, I wanted to know a bit more about potions."
+    mc "谢谢好意，但不必了；我已经吃过早饭了，倒是想聊聊炼金药剂的事儿。"
 
 # game/forest.rpy#L916
 translate chinese forestvisit2_4ab65378:
 
     # butters "Ask away, [playername]."
-    butters "Ask away, [playername]."
+    butters "随便问吧，[playername]。"
 
 # game/forest.rpy#L917
 translate chinese forestvisit2_d6d3826a:
 
     # mc "Tell me if this is too vague, but how does it work?"
-    mc "Tell me if this is too vague, but how does it work?"
+    mc "炼金术并不算很精密，它到底是怎么起效果的？"
 
 # game/forest.rpy#L919
 translate chinese forestvisit2_2012f284:
 
     # butters "Not vague at all, it's as easy as breathing for me."
-    butters "Not vague at all, it's as easy as breathing for me."
+    butters "对我来说很精密，做起来就像呼吸一样自然。"
 
 # game/forest.rpy#L921
 translate chinese forestvisit2_fccb8c55:
 
     # butters "First, mix the ingredients in solvent, then overcome the energy barrier via heating."
-    butters "First, mix the ingredients in solvent, then overcome the energy barrier via heating."
+    butters "首先把原料加进溶剂中，再通过加热打破能垒，让分子能互相反应。"
 
 # game/forest.rpy#L922
 translate chinese forestvisit2_9b16a158:
 
     # butters "Add unicorn dust to turn the liquid concoction into a magical brew. Wait for it to cool, then bottle it up!"
-    butters "Add unicorn dust to turn the liquid concoction into a magical brew. Wait for it to cool, then bottle it up!"
+    butters "再加入独角兽粉尘，把它变成魔药。最后静置冷却，装瓶搞定！"
 
 # game/forest.rpy#L923
 translate chinese forestvisit2_ec406a80:
 
     # butters "Like I said before, a lot of meticulous trial and error is required. Pour the potion onto something and see what happens; if you’re feeling brave, drink it!"
-    butters "Like I said before, a lot of meticulous trial and error is required. Pour the potion onto something and see what happens; if you’re feeling brave, drink it!"
+    butters "我之前就说过，这个需要大量的反复实验。可以把药剂倒在某些物品上观察反应，当然你要是够勇的话，喝下去也行！"
 
 # game/forest.rpy#L924
 translate chinese forestvisit2_1009b215:
 
     # mc "I'd love to hear some examples of potions. I'm always interested in magical things."
-    mc "I'd love to hear some examples of potions. I'm always interested in magical things."
+    mc "那有没有几种具体的已炼成药剂呢。和魔法有关的这块儿我很感兴趣。"
 
 # game/forest.rpy#L926
 translate chinese forestvisit2_5c706db8:
 
     # butters "Oh goodie! I’m so happy that you’re interested in alchemy. It's always good to know what you're working towards too."
-    butters "Oh goodie! I’m so happy that you’re interested in alchemy. It's always good to know what you're working towards too."
+    butters "哦太好了！很高兴能觅到一位对炼金术感兴趣的知音。明确自己想要的效果也会让炼金过程轻松许多。"
 
 # game/forest.rpy#L928
 translate chinese forestvisit2_be7f7b7c:
 
     # butters "But you absolutely can’t tell any of those pesky unicorns though!"
-    butters "But you absolutely can’t tell any of those pesky unicorns though!"
+    butters "但是你绝对不能告诉任何一只讨厌的独角兽！"
 
 # game/forest.rpy#L929
 translate chinese forestvisit2_2499cb41:
 
     # mc "Understood, I’ll keep it to myself."
-    mc "Understood, I’ll keep it to myself."
+    mc "明白，我会保密的。"
 
 # game/forest.rpy#L930
 translate chinese forestvisit2_3c106342:
 
     # "Woops I accidentally told Moxie about the potions, at least she didn’t believe me."
-    "Woops I accidentally told Moxie about the potions, at least she didn’t believe me."
+    "但没有完全保密，我对Moxie说漏嘴了，不过她对此不屑一顾。"
 
 # game/forest.rpy#L931
 translate chinese forestvisit2_a9073494:
 
     # butters "Well, here's my special trick. I have an ancient relic here, a crystal that collects unicorn dust from the area."
-    butters "Well, here's my special trick. I have an ancient relic here, a crystal that collects unicorn dust from the area."
+    butters "而且，我还有个小法宝——一个古代水晶遗物，它能自动搜集一定区域内的独角兽粉尘。"
 
 # game/forest.rpy#L932
 translate chinese forestvisit2_1ea6cdd9:
 
     # "She lifts up a strange crystalline rock, cut like a gem. It was adjacent to a small, perpetually open window."
-    "She lifts up a strange crystalline rock, cut like a gem. It was adjacent to a small, perpetually open window."
+    "她拿起一块奇怪的水晶质石头给我看，这块水晶像宝石一样被切割加工过，上面还雕得有一个小孔。"
 
 # game/forest.rpy#L933
 translate chinese forestvisit2_1d22c517:
 
     # mc "How does it do that?"
-    mc "它是怎么做到的？"
+    mc "它是怎么搜集粉尘的？"
 
 # game/forest.rpy#L935
 translate chinese forestvisit2_b22afc01:
 
     # butters "It acts as a magnet for magic and dust."
-    butters "It acts as a magnet for magic and dust."
+    butters "你可以把它理解为一种专门吸附魔法和粉尘的磁铁。"
 
 # game/forest.rpy#L937
 translate chinese forestvisit2_e0cfb512:
 
     # butters "I adore magic imbued relics, the potential is limitless."
-    butters "I adore magic imbued relics, the potential is limitless."
+    butters "这些满是魔力的上古遗物潜力无穷，好钢要用在刀刃上，令我爱不释手。"
 
 # game/forest.rpy#L939
 translate chinese forestvisit2_0319b290:
 
     # butters "I think Princess Selene collects them, they're probably safer in her hands."
-    butters "I think Princess Selene collects them, they're probably safer in her hands."
+    butters "听说Selene公主也在搜集这些遗物，她应该会好好保管这些东西的吧。"
 
 # game/forest.rpy#L940
 translate chinese forestvisit2_d62db56c:
 
     # "Next to her cauldron is a shelf full of varying concoctions, each labelled, but the handwriting is too hard to read."
-    "Next to her cauldron is a shelf full of varying concoctions, each labelled, but the handwriting is too hard to read."
+    "在她的炼金大锅旁边有一个架子，上面摆满了各式各样的混合物，并且都贴得有标签，标签上的字迹我有些难以辨认。"
 
 # game/forest.rpy#L941
 translate chinese forestvisit2_75f9345f:
 
     # mc "What are all these?"
-    mc "What are all these?"
+    mc "这些都是什么？"
 
 # game/forest.rpy#L943
 translate chinese forestvisit2_94535ad8:
 
     # butters "That is a selection of my mastered potions, no touchies mister human!"
-    butters "That is a selection of my mastered potions, no touchies mister human!"
+    butters "这些都是我强效魔药的材料，管好你自己的手哦，人类先生！"
 
 # game/forest.rpy#L945
 translate chinese forestvisit2_fa0b1f91:
 
     # butters "This first one is a Dreamweaver potion, it lets me turn any dream I want into a lucid dream, it’s a ton of fun."
-    butters "This first one is a Dreamweaver potion, it lets me turn any dream I want into a lucid dream, it’s a ton of fun."
+    butters "第一种是梦境编织药剂，它能让我的任何梦境都变成清醒梦，很有意思的。"
 
 # game/forest.rpy#L946
 translate chinese forestvisit2_11422934:
 
     # butters "The next one is a Libido Suppressant. It’s far more powerful than any magic a pony could conjure and lasts over time unlike an instant-one-time spell."
-    butters "The next one is a Libido Suppressant. It’s far more powerful than any magic a pony could conjure and lasts over time unlike an instant-one-time spell."
+    butters "第二种是性欲抑制药剂。药效可比一般的小马魔法强多了，而且效果能持续很长时间。"
 
 # game/forest.rpy#L947
 translate chinese forestvisit2_aec7028b:
 
     # "The Libido Suppressant potion is notably half empty."
-    "The Libido Suppressant potion is notably half empty."
+    "那瓶性欲抑制药剂只剩半瓶了。"
 
 # game/forest.rpy#L948
 translate chinese forestvisit2_e947ef8f:
 
     # mc "Interesting, I can think of a few ponies that need that, you could make a business out of it."
-    mc "Interesting, I can think of a few ponies that need that, you could make a business out of it."
+    mc "这药有意思啊，肯定有些小马会用到这种药的，你能靠这个挣不少钱呢。"
 
 # game/forest.rpy#L950
 translate chinese forestvisit2_949c9261:
 
     # butters "My potions are too good for them. But if you'd like to buy a potion, I'd be more than happy to give you a discount rate."
-    butters "My potions are too good for them. But if you'd like to buy a potion, I'd be more than happy to give you a discount rate."
+    butters "确实能挣不少钱。但如果你想从我这里买药水的话，我可以给你特价优惠哦。"
 
 # game/forest.rpy#L951
 translate chinese forestvisit2_32486faf:
 
     # mc "Oohh, I just might take you up on that offer another time."
-    mc "Oohh, I just might take you up on that offer another time."
+    mc "哦，也许有一天我会买上那么一两瓶的。"
 
 # game/forest.rpy#L953
 translate chinese forestvisit2_d7d1c61e:
 
     # butters "Ohh, here’s one that’s similar to what I’m trying to make now."
-    butters "Ohh, here’s one that’s similar to what I’m trying to make now."
+    butters "哦，这瓶药和我现在正在尝试做的药效差不多。"
 
 # game/forest.rpy#L954
 translate chinese forestvisit2_0d001ad3:
 
     # butters "This here is an anti-lycanthropy potion made using slime gelatine. I have no use for it personally, but isn’t that cool?"
-    butters "This here is an anti-lycanthropy potion made using slime gelatine. I have no use for it personally, but isn’t that cool?"
+    butters "这瓶药使用史莱姆凝胶酿制的，可以抵抗狼人化。我自己拿这玩意没用，但这药效很拉风，对吧？"
 
 # game/forest.rpy#L955
 translate chinese forestvisit2_409432d7:
 
     # mc "Lycanthropy? That’s a thing in this world?"
-    mc "Lycanthropy? That’s a thing in this world?"
+    mc "狼人化？这世界还有狼人？"
 
 # game/forest.rpy#L956
 translate chinese forestvisit2_7f155800:
 
     # butters "Yeah, it's a really bad sexually transmitted curse, or STC for short. If a werewolf does the naughties with you, you’ll become one too!"
-    butters "Yeah, it's a really bad sexually transmitted curse, or STC for short. If a werewolf does the naughties with you, you’ll become one too!"
+    butters "没错，这种恶毒的诅咒可以通过性行为传播，简称为STC。如果一个狼人和你发生了不可描述的事情，那你也会变成狼人的！"
 
 # game/forest.rpy#L957
 translate chinese forestvisit2_85d20c60:
 
     # mc "Sounds scary, next you’ll be telling me there are vampires."
-    mc "Sounds scary, next you’ll be telling me there are vampires."
+    mc "听着发毛，你别告诉我你们这个世界还有吸血鬼。"
 
 # game/forest.rpy#L959
 translate chinese forestvisit2_faccde75:
 
     # butters "Don’t be ridiculous! That’s utterly absurd folklore."
-    butters "Don’t be ridiculous! That’s utterly absurd folklore."
+    butters "别发散思维了！那只是都市传说而已。"
 
 # game/forest.rpy#L960
 translate chinese forestvisit2_0033536d:
 
     # "She snapped at me. She clearly takes this stuff seriously."
-    "She snapped at me. She clearly takes this stuff seriously."
+    "她的语气有些重。看来是在向我认真讲解这些东西。"
 
 # game/forest.rpy#L961
 translate chinese forestvisit2_b7a99e39:
 
     # mc "Oh, okay…"
-    mc "Oh, okay…"
+    mc "哦，我懂了......"
 
 # game/forest.rpy#L963
 translate chinese forestvisit2_8cbdfdd9:
 
     # butters "*Sigh* Sorry. We need to find a folium polypus and a dewblossom, are you ready?"
-    butters "*Sigh* Sorry. We need to find a folium polypus and a dewblossom, are you ready?"
+    butters "*叹气*抱歉刚刚语气有点重。我们马上要出发去找瘤叶和朝露绽放，准备好没有？"
 
 # game/forest.rpy#L964
 translate chinese forestvisit2_f25caf19:
 
     # mc "I think we should gear up and be more prepared if we’re going into the same cave. We might run into some more slimes."
-    mc "I think we should gear up and be more prepared if we’re going into the same cave. We might run into some more slimes."
+    mc "我觉着吧，咱们下那个洞探险还得多搞点装备。要是又碰到一群史莱姆怎么办。"
 
 # game/forest.rpy#L965
 translate chinese forestvisit2_94856f52:
 
     # mc "I'd rather not trade sex for alchemy ingredients again."
-    mc "I'd rather not trade sex for alchemy ingredients again."
+    mc "XXOO才能获得原材料，我不想再来第二次了。"
 
 # game/forest.rpy#L967
 translate chinese forestvisit2_a7a98ad0:
 
     # butters "Trading sex for alchemy ingredients isn’t so bad. Sometimes that's just the way of the wild."
-    butters "Trading sex for alchemy ingredients isn’t so bad. Sometimes that's just the way of the wild."
+    butters "通过XXOO换炼金原材料没那么坏。这也算是自然规律的一环吧。"
 
 # game/forest.rpy#L971
 translate chinese forestvisit2_6b7aeb9c:
 
     # butters "Not all the time! Gosh, what do you take me as, mister?"
-    butters "Not all the time! Gosh, what do you take me as, mister?"
+    butters "只是一环而已！我天，你把我想成什么马了，先生？"
 
 # game/forest.rpy#L972
 translate chinese forestvisit2_9149bf57:
 
     # butters "The way I see it: You give a little, you get a little, that’s basic economics."
-    butters "The way I see it: You give a little, you get a little, that’s basic economics."
+    butters "我是这么想的：要想索取就得先有付出，很简单的经济学道理嘛。"
 
 # game/forest.rpy#L973
 translate chinese forestvisit2_a13877c6:
 
     # mc "That’s not economics at all! That’s not even in the same ballpark!"
-    mc "That’s not economics at all! That’s not even in the same ballpark!"
+    mc "这和经济学八竿子打不着一块！完全不是一丘之貉！"
 
 # game/forest.rpy#L974
 translate chinese forestvisit2_c802f253:
 
     # butters "Ball… park?"
-    butters "Ball… park?"
+    butters "什么是...貉？"
 
 # game/forest.rpy#L975
 translate chinese forestvisit2_27bd4c4c:
 
     # mc "Nevermind…"
-    mc "Nevermind…"
+    mc "当我没说......"
 
 # game/forest.rpy#L978
 translate chinese forestvisit2_d12a154b:
 
     # butters "Mister plant deserves a reward for letting us have its leaves."
-    butters "Mister plant deserves a reward for letting us have its leaves."
+    butters "植物既然给我了我们自己的叶子，我们也该好好奖励下它们嘛。"
 
 # game/forest.rpy#L979
 translate chinese forestvisit2_aeda45c2:
 
     # butters "You give a little, and you get a little, such is the way of nature."
-    butters "You give a little, and you get a little, such is the way of nature."
+    butters "要想索取就得先有付出，大自然就是如此。"
 
 # game/forest.rpy#L980
 translate chinese forestvisit2_e2b16dc2:
 
     # mc "Do you actually enjoy doing it?"
-    mc "Do you actually enjoy doing it?"
+    mc "你不会很享受吧？"
 
 # game/forest.rpy#L981
 translate chinese forestvisit2_d5ccd90a:
 
     # butters "Eheh, I don’t want to say. A girl has to keep her secrets."
-    butters "Eheh, I don’t want to say. A girl has to keep her secrets."
+    butters "呃呃，我并不想告诉你。一位女士应该有自己的隐私。"
 
 # game/forest.rpy#L982
 translate chinese forestvisit2_666f6762:
 
     # "That's a yes."
-    "That's a yes."
+    "这个回答在我看来等于“是”。"
 
 # game/forest.rpy#L985
 translate chinese forestvisit2_c440c777:
 
     # butters "But why? There’s no risk associated with it."
-    butters "But why? There’s no risk associated with it."
+    butters "你为什么这么想呢？和它交合又没风险。"
 
 # game/forest.rpy#L986
 translate chinese forestvisit2_b1c1abaa:
 
     # mc "How do you know? You just mentioned lycanthropy, what other mythical STDs could you catch by sleeping around with nature?"
-    mc "How do you know? You just mentioned lycanthropy, what other mythical STDs could you catch by sleeping around with nature?"
+    mc "你怎么知道没风险？你刚刚还跟我讲有狼人，你和这些野外的生物XXOO不会染上什么其他性传播奇葩病吗？"
 
 # game/forest.rpy#L987
 translate chinese forestvisit2_37b0f1f2:
 
     # butters "Ohhh… Don’t judge me, it's always a last resort for me!"
-    butters "Ohhh… Don’t judge me, it's always a last resort for me!"
+    butters "哦...别给我贴标签啊，很多时候我只是不得已而为之！"
 
 # game/forest.rpy#L988
 translate chinese forestvisit2_10fca22d:
 
     # "She seems genuinely saddened, maybe I was too harsh."
-    "She seems genuinely saddened, maybe I was too harsh."
+    "我好像真的把她伤到了，可能我言过了。"
 
 # game/forest.rpy#L989
 translate chinese forestvisit2_9bae9383:
 
     # mc "Just try to be more careful in the future, alright?"
-    mc "Just try to be more careful in the future, alright?"
+    mc "我只是想让你在以后多加小心，可能我刚刚言重了？"
 
 # game/forest.rpy#L990
 translate chinese forestvisit2_61b86565:
 
     # "This girl is somewhat eager to do things with animals and plants but shows absolutely no interest in doing anything with me, ain’t that a kick in the head."
-    "This girl is somewhat eager to do things with animals and plants but shows absolutely no interest in doing anything with me, ain’t that a kick in the head."
+    "这位女孩对动植物真的相当热情，但一和我相处就冷漠多了，我裂开。"
 
 # game/forest.rpy#L995
 translate chinese forestvisit2_4a610701:
 
     # butters "No, I don’t think so..."
-    butters "No, I don’t think so..."
+    butters "不，不可能的......"
 
 # game/forest.rpy#L997
 translate chinese forestvisit2_b0d46df2:
 
     # butters "Maybe if you help me make the potion super well, I can give you a little reward!"
-    butters "Maybe if you help me make the potion super well, I can give you a little reward!"
+    butters "但要是你帮我好好炼制药剂，我能给你一点奖励！"
 
 # game/forest.rpy#L998
 translate chinese forestvisit2_aa79db7b:
 
     # mc "Okay, I won’t pry, I was just curious."
-    mc "Okay, I won’t pry, I was just curious."
+    mc "好吧，我只是好奇问问，不会有第二次了。"
 
 # game/forest.rpy#L1001
 translate chinese forestvisit2_4127496e:
 
     # mc "I definitely think we need to gear up better, maybe a weapon? I’d rather not get into a weird situation again."
-    mc "I definitely think we need to gear up better, maybe a weapon? I’d rather not get into a weird situation again."
+    mc "我还是觉得我们该好好准备些工具装备，比如武器之类的？要是又遇到些迷魅魍魉不好对付。"
 
 # game/forest.rpy#L1003
 translate chinese forestvisit2_d78e0ad9:
 
     # butters "All we're doing is getting leaves from a plant... You’re silly for wanting weapons. What’s the worst a plant can do?"
-    butters "All we're doing is getting leaves from a plant... You’re silly for wanting weapons. What’s the worst a plant can do?"
+    butters "我们只是从植物上面剪叶子下来而已...哪用得着武器啊。一株植物能奈你何？"
 
 # game/forest.rpy#L1004
 translate chinese forestvisit2_d6069a42:
 
     # mc "Okay, I admit you're right. But what if we run into another slime?"
-    mc "Okay, I admit you're right. But what if we run into another slime?"
+    mc "行嗷，你说是那就是。那要是咱们又遇到史莱姆怎么办？"
 
 # game/forest.rpy#L1006
 translate chinese forestvisit2_d1fa36b0:
 
     # butters "Now that we have the gelatine we could just walk away from the miss slimeys."
-    butters "Now that we have the gelatine we could just walk away from the miss slimeys."
+    butters "现在我们已经有了凝胶，遇到那些史莱姆小姐绕道走就是了。"
 
 # game/forest.rpy#L1007
 translate chinese forestvisit2_f45eb85b:
 
     # mc "Yeah they were pretty slow... What if there are any other monsters?"
-    mc "Yeah they were pretty slow... What if there are any other monsters?"
+    mc "确实它们动作不快，能避开...那如果遇到其他怪物又怎么办？"
 
 # game/forest.rpy#L1009
 translate chinese forestvisit2_8c7ead84:
 
     # butters "We'll be fine, [playername]. Do you really think there are dangerous monsters next to Arcadia city?"
-    butters "We'll be fine, [playername]. Do you really think there are dangerous monsters next to Arcadia city?"
+    butters "会没事儿的，[playername]。Arcadia的城市附近是不会有很危险的怪物游荡的。"
 
 # game/forest.rpy#L1010
 translate chinese forestvisit2_13278ec5:
 
     # mc "Fine, fine... I concede, no weapons."
-    mc "Fine, fine... I concede, no weapons."
+    mc "行吧，行吧...依你，不要武器了。"
 
 # game/forest.rpy#L1012
 translate chinese forestvisit2_acc235b8:
 
     # butters "Pacifist route, let’s go!"
-    butters "Pacifist route, let’s go!"
+    butters "我们可是和平大使，走吧！"
 
 # game/forest.rpy#L1019
 translate chinese forestvisit2_2cd59b19:
 
     # "We head off to the same cave as before, our route lit by a lantern."
-    "We head off to the same cave as before, our route lit by a lantern."
+    "我们又来到上次的洞穴入口前，在灯笼的照明下进入洞穴。"
 
 # game/forest.rpy#L1021
 translate chinese forestvisit2_f314b33d:
 
     # "We end up getting a fair bit deeper this time and we still don’t find anything."
-    "We end up getting a fair bit deeper this time and we still don’t find anything."
+    "我们走的远比上次更深，但还是一无所获。"
 
 # game/forest.rpy#L1022
 translate chinese forestvisit2_17f89e92:
 
     # mc "No slimes this time..."
-    mc "No slimes this time..."
+    mc "所幸这次没碰上史莱姆......"
 
 # game/forest.rpy#L1023
 translate chinese forestvisit2_7773a5e2:
 
     # butters "We’re close to the plants we need. Over here."
-    butters "We’re close to the plants we need. Over here."
+    butters "我们快到那种植物附近了。来这里。"
 
 # game/forest.rpy#L1024
 translate chinese forestvisit2_4dc719e0:
 
     # "She walks to a tight crevice in the side of one of the walls and points inside."
-    "She walks to a tight crevice in the side of one of the walls and points inside."
+    "她走到洞壁的一处狭窄裂缝前，往里面指着。"
 
 # game/forest.rpy#L1027
 translate chinese forestvisit2_00dc71a1:
 
     # butters "When I came here over a year ago, there was a small bloom of what we need on the other side of this hole."
-    butters "When I came here over a year ago, there was a small bloom of what we need on the other side of this hole."
+    butters "我一年前来过这里，有一株我们所需的植物的幼苗就在这个裂缝的另一边。"
 
 # game/forest.rpy#L1028
 translate chinese forestvisit2_70f00e7e:
 
     # butters "You ready to crawl through?"
-    butters "You ready to crawl through?"
+    butters "我们得爬过去，准备好了吗？"
 
 # game/forest.rpy#L1029
 translate chinese forestvisit2_199d40f8:
 
     # mc "Seems uncomfortably claustrophobic, but if that's what we gotta do. Let's leave the lantern here."
-    mc "Seems uncomfortably claustrophobic, but if that's what we gotta do. Let's leave the lantern here."
+    mc "我要是有幽闭恐惧症爬进里面肯定当场暴毙，不过我并没有，爬就爬吧。这些灯笼可带不进去，得把它们放这儿。"
 
 # game/forest.rpy#L1032
 translate chinese buttersandalraune_dc37227a:
 
     # "Butters goes first, laying on her belly and starting to crawl."
-    "Butters goes first, laying on her belly and starting to crawl."
+    "Butters真·一马当先，弯下身子向裂缝里爬取。"
 
 # game/forest.rpy#L1034
 translate chinese buttersandalraune_cfabe0ce:
 
     # "And yeah, I can see up her skirt, it’s hot."
-    "And yeah, I can see up her skirt, it’s hot."
+    "而且，裙下春光一览无余，让我猛吞口水。"
 
 # game/forest.rpy#L1035
 translate chinese buttersandalraune_2818c9d4:
 
     # butters "Crawl with me human, let's go."
-    butters "Crawl with me human, let's go."
+    butters "跟我爬进来，人类，我们走。"
 
 # game/forest.rpy#L1036
 translate chinese buttersandalraune_e3538dc2:
 
     # "I’d be lying if I said I wasn’t staring; she has a great ass."
-    "I’d be lying if I said I wasn’t staring; she has a great ass."
+    "我没办法把目光从她后面移开，她的臀部煞是好看。"
 
 # game/forest.rpy#L1037
 translate chinese buttersandalraune_12d2b154:
 
     # butters "Wait... Can you see my butt?"
-    butters "Wait... Can you see my butt?"
+    butters "等下...你是不是能看见人家的屁股？"
 
 # game/forest.rpy#L1038
 translate chinese buttersandalraune_c7b60df2:
 
     # "She says with a muffled voice."
-    "She says with a muffled voice."
+    "她的语气里有杀气。"
 
 # game/forest.rpy#L1039
 translate chinese buttersandalraune_c3299256:
 
     # mc "Uhh, no don't worry, your skirt is covering it."
-    mc "Uhh, no don't worry, your skirt is covering it."
+    mc "呃，没有的事，你的裙子遮住的。"
 
 # game/forest.rpy#L1040
 translate chinese buttersandalraune_80c73544:
 
     # butters "N-No it isn't! I can feel a breeze!"
-    butters "N-No it isn't! I can feel a breeze!"
+    butters "没，没有遮住！我能感觉到有微风在后面吹！"
 
 # game/forest.rpy#L1041
 translate chinese buttersandalraune_3e120dda:
 
     # butters "Hmph. You can stare, but no touchies!"
-    butters "Hmph. You can stare, but no touchies!"
+    butters "哼，只准看，不准摸！"
 
 # game/forest.rpy#L1042
 translate chinese buttersandalraune_fa38da53:
 
     # "Her ass would be easier to enjoy if it wasn't for the moist and mossy surroundings."
-    "Her ass would be easier to enjoy if it wasn't for the moist and mossy surroundings."
+    "洞穴内潮湿和到处长满苔藓的环境非常破坏我欣赏她美臀的雅致。"
 
 # game/forest.rpy#L1043
 translate chinese buttersandalraune_dc7d6297:
 
     # "Crawling through this frankly gross and damp passage makes me definitely want to get a shower after this trip."
-    "Crawling through this frankly gross and damp passage makes me definitely want to get a shower after this trip."
+    "这条裂缝里又磕又潮，爬得我浑身难受，回家了肯定要冲个热水澡好好洗洗。"
 
 # game/forest.rpy#L1044
 translate chinese buttersandalraune_776a3c3b:
 
     # "Eventually she slips through the other end and drops down into a new cavern, I shortly follow."
-    "Eventually she slips through the other end and drops down into a new cavern, I shortly follow."
+    "最终她爬到了裂缝的出口，顺着出口的坡往下滑，下面是一个新的洞厅，我紧随其后。"
 
 # game/forest.rpy#L1047
 translate chinese buttersandalraune_4315ebb0:
 
     # "The passage leads us to a completely overgrown cavern, only lit by a few stray beams of light radiating through gaps in the ceiling."
-    "The passage leads us to a completely overgrown cavern, only lit by a few stray beams of light radiating through gaps in the ceiling."
+    "这个新洞厅里面疯长了不少植物，仅有几束微光从洞顶的缝隙中渗下。"
 
 # game/forest.rpy#L1048
 translate chinese buttersandalraune_fe011825:
 
     # "The gaps in the ceiling seem to have been created by vines slowly pushing through and eroding the stone."
-    "The gaps in the ceiling seem to have been created by vines slowly pushing through and eroding the stone."
+    "洞顶的缝隙应该是由这些植物的生长侵蚀岩石造成的。"
 
 # game/forest.rpy#L1049
 translate chinese buttersandalraune_53528924:
 
     # "Everything is covered in vines; the roof, walls and even the ground. Occasionally dotted around the vines are massive reddish pink bulbs which ooze pink mist."
-    "Everything is covered in vines; the roof, walls and even the ground. Occasionally dotted around the vines are massive reddish pink bulbs which ooze pink mist."
+    "放眼望去目光所及全是藤曼；洞顶，洞壁，地上全是。有些藤曼上长得有巨大的粉色球茎，往外散播着一种粉色的雾气。"
 
 # game/forest.rpy#L1051
 translate chinese buttersandalraune_f4c19af2:
 
     # butters "It may have been over a year since I’ve been in here, but I don’t remember it being this bad..."
-    butters "It may have been over a year since I’ve been in here, but I don’t remember it being this bad..."
+    butters "虽然我只是一年没来这儿，但这儿的植物居然疯长成这个样子......"
 
 # game/forest.rpy#L1052
 translate chinese buttersandalraune_aeff2784:
 
     # "The pink mist fogs and moistens the air making it damp and hazy. I almost want to go back into the damp crawlspace, this cave feels tainted."
-    "The pink mist fogs and moistens the air making it damp and hazy. I almost want to go back into the damp crawlspace, this cave feels tainted."
+    "粉色的雾气让这里的空气变得潮湿，能见度也降低了。这种恶心的环境我巴不得又爬回去。"
 
 # game/forest.rpy#L1053
 translate chinese buttersandalraune_ed9051eb:
 
     # mc "Eugh, what’s with this pink mist?"
-    mc "Eugh, what’s with this pink mist?"
+    mc "呃，这些粉色的雾是怎么回事？"
 
 # game/forest.rpy#L1055
 translate chinese buttersandalraune_ce113222:
 
     # butters "I don’t even know... I feel kinda weird, [playername]..."
-    butters "I don’t even know... I feel kinda weird, [playername]..."
+    butters "我也不知道...好奇怪啊，[playername]......"
 
 # game/forest.rpy#L1056
 translate chinese buttersandalraune_486f3f5e:
 
     # "The strange pink mist is accompanied by an unfathomable smell; it’s not an unpleasant smell, but it’s so unfamiliar I don’t even know how to process it."
-    "The strange pink mist is accompanied by an unfathomable smell; it’s not an unpleasant smell, but it’s so unfamiliar I don’t even know how to process it."
+    "诡异的粉雾夹杂着一种难以描述的味道；闻起来并不会让人觉得不适，但就是很奇怪，我不知道该说好闻还是不好闻。"
 
 # game/forest.rpy#L1057
 translate chinese buttersandalraune_2d16eed1:
 
     # "The claustrophobic nature of the cave and poor ventiliation due to lack of a draft only make it worse."
-    "The claustrophobic nature of the cave and poor ventiliation due to lack of a draft only make it worse."
+    "本来这里就相对封闭，没什么通风，雾气只会越来越重。"
 
 # game/forest.rpy#L1058
 translate chinese buttersandalraune_6ca88db9:
 
     # butters "I don't like it here."
-    butters "I don't like it here."
+    butters "我不喜欢这儿。"
 
 # game/forest.rpy#L1059
 translate chinese buttersandalraune_d86bacf5:
 
     # mc "Let’s just get the leaf clippings and go."
-    mc "Let’s just get the leaf clippings and go."
+    mc "我们采些叶子然后赶紧走为上。"
 
 # game/forest.rpy#L1060
 translate chinese buttersandalraune_027182f4:
 
     # "Butters reaches into her knapsack and looks for her small knife that she brought to cut some leaves off."
-    "Butters reaches into her knapsack and looks for her small knife that she brought to cut some leaves off."
+    "Butters从背包里拿出她专门用来剪叶子的小刀。"
 
 # game/forest.rpy#L1061
 translate chinese buttersandalraune_6a265b15:
 
     # "For some bizarre reason I’m starting to become hot and slightly erect, but why?"
-    "For some bizarre reason I’m starting to become hot and slightly erect, but why?"
+    "不知道是什么原因一股性奋的感觉开始在我的心头萦绕，怎么回事？"
 
 # game/forest.rpy#L1062
 translate chinese buttersandalraune_27a21a53:
 
     # mc "Is... is this thick mist turning me on?"
-    mc "Is... is this thick mist turning me on?"
+    mc "这...这浓雾让我硬了？"
 
 # game/forest.rpy#L1063
 translate chinese buttersandalraune_0491ecfc:
 
     # "It's like my brain was just immediately stimulated with something erotic, and not just Butters's underskirt earlier."
-    "It's like my brain was just immediately stimulated with something erotic, and not just Butters's underskirt earlier."
+    "我的大脑像是突然受到什么新的色情内容的刺激，跟先前看Butters的裙下风光没有关系。"
 
 # game/forest.rpy#L1065
 translate chinese buttersandalraune_f218569d:
 
     # butters "It’s not just you, my clit feels all tingly."
-    butters "It’s not just you, my clit feels all tingly."
+    butters "我也是，我的阴蒂有些刺痛感。"
 
 # game/forest.rpy#L1066
 translate chinese buttersandalraune_507a111d:
 
     # butters "I-I'm getting wet, but I don't know why."
-    butters "I-I'm getting wet, but I don't know why."
+    butters "我，我下面湿了，完全不知道为什么。"
 
 # game/forest.rpy#L1067
 translate chinese buttersandalraune_6b62e9a7:
 
     # "We may be getting horny, but we’re not braindead; something's wrong."
-    "We may be getting horny, but we’re not braindead; something's wrong."
+    "我们现在虽说精/卵虫上脑，但还没到失去理智的地步；这儿肯定有地方不对劲。"
 
 # game/forest.rpy#L1070
 translate chinese buttersandalraune_6d07d6a1:
 
     # mc "What’s going on, Butters?"
-    mc "What’s going on, Butters?"
+    mc "到底发生什么事儿了，Butters？"
 
 # game/forest.rpy#L1071
 translate chinese buttersandalraune_433bef89:
 
     # butters "I think the mist in this cavern is pheromones sprayed by those bulbs, and now we’re covered in it. It’s probably going to last a while."
-    butters "I think the mist in this cavern is pheromones sprayed by those bulbs, and now we’re covered in it. It’s probably going to last a while."
+    butters "我想那些球茎释放出的雾是一种信息素，我们已经被影响了，可能一时半会没办法脱身。"
 
 # game/forest.rpy#L1072
 translate chinese buttersandalraune_b8d01c81:
 
     # mc "Just pheromones? Could be worse, I can work with an erection."
-    mc "Just pheromones? Could be worse, I can work with an erection."
+    mc "只是信息素的影响吗？可能有其他的东西掺在里面，我就算硬了也能正常行事工作。"
 
 # game/forest.rpy#L1074
 translate chinese buttersandalraune_2ee653f6:
 
     # butters "*Sigh*, I hope I can work while horny too..."
-    butters "*Sigh*, I hope I can work while horny too..."
+    butters "*叹气*，我希望我也能在性奋的时候正常做事情......"
 
 # game/forest.rpy#L1075
 translate chinese buttersandalraune_823d45e0:
 
     # butters "If I misbehave, just gimme a swift whack on the head please."
-    butters "If I misbehave, just gimme a swift whack on the head please."
+    butters "如果我的行为失控了，务必给我的头来一下。"
 
 # game/forest.rpy#L1076
 translate chinese buttersandalraune_93dfa314:
 
     # mc "Will do."
-    mc "Will do."
+    mc "我会的。"
 
 # game/forest.rpy#L1078
 translate chinese buttersandalraune_986cb9c6:
 
     # "Both me and Butters are suddenly rather horny, it must be because of this folium polypus."
-    "Both me and Butters are suddenly rather horny, it must be because of this folium polypus."
+    "我和Butters都突然陷入了性奋当中，肯定是瘤叶搞的鬼。"
 
 # game/forest.rpy#L1079
 translate chinese buttersandalraune_2e99c60b:
 
     # mc "If this plant collects nutrients from the juices of animals, then using pheromones to make them excrete fluid seems like a natural evolutionary progression."
-    mc "If this plant collects nutrients from the juices of animals, then using pheromones to make them excrete fluid seems like a natural evolutionary progression."
+    mc "如果这种植物靠汲取其他动物的体液为生，进化出这种靠信息素让其他生物主动排出体液的手段也不奇怪。"
 
 # game/forest.rpy#L1080
 translate chinese buttersandalraune_c0272a3e:
 
     # butters "Yeah... It's making me drip."
-    butters "Yeah... It's making me drip."
+    butters "嗯...我下面已经洪水泛滥了。"
 
 # game/forest.rpy#L1081
 translate chinese buttersandalraune_0c7278e0:
 
     # "It probably tries to arouse creatures with pheromones, but what does it do then?"
-    "It probably tries to arouse creatures with pheromones, but what does it do then?"
+    "它可能就靠信息素让其他生物性奋，但它怎么汲取这些体液呢？"
 
 # game/forest.rpy#L1082
 translate chinese buttersandalraune_6c3d5d1e:
 
     # mc "I bet it has a collection method, we need to stay vigilant."
-    mc "I bet it has a collection method, we need to stay vigilant."
+    mc "它肯定有收集这些体液的方法，我们得保持警惕。"
 
 # game/forest.rpy#L1083
 translate chinese buttersandalraune_bc8fc6b9:
 
     # "I definitely have an erection now as the two of us step over an obnoxious amount of vines in search of some specific leaves in the mist and darkness."
-    "I definitely have an erection now as the two of us step over an obnoxious amount of vines in search of some specific leaves in the mist and darkness."
+    "我们跨过了许多恶心的藤曼，在迷雾和黑暗中摸索需要的叶子，在信息素的刺激下我的下体已经完全勃起了。"
 
 # game/forest.rpy#L1084
 translate chinese buttersandalraune_529c595f:
 
     # "With each step, the vines writhe and react. I know it's just a plant, but I feel like it's aware of me."
-    "With each step, the vines writhe and react. I know it's just a plant, but I feel like it's aware of me."
+    "我每走一步，藤曼都会有所反应，扭动翻腾着。我知道这只是株植物而已，但感觉它像是活生生的动物，对我的到来十分警惕。"
 
 # game/forest.rpy#L1086
 translate chinese buttersandalraune_b1e994cd:
 
     # butters "Eugh, where is it? All I see are vines and no leaves."
-    butters "Eugh, where is it? All I see are vines and no leaves."
+    butters "唔，到底哪有呢？这儿全都是藤曼，不见半片叶子。"
 
 # game/forest.rpy#L1087
 translate chinese buttersandalraune_e1eb3e65:
 
     # mc "Do we need leaves specifically?"
-    mc "Do we need leaves specifically?"
+    mc "非要那些叶子不可？"
 
 # game/forest.rpy#L1088
 translate chinese buttersandalraune_c94f9e98:
 
     # butters "Yes! The potion needs to be perfect."
-    butters "Yes! The potion needs to be perfect."
+    butters "嗯！药材好，药才好。"
 
 # game/forest.rpy#L1089
 translate chinese buttersandalraune_3d99e925:
 
     # "As Butters and I check the underside of a pink bud for the leaves we want, it suddenly sprays a thick load of pink mist in our faces causing us both to cough and splutter."
-    "As Butters and I check the underside of a pink bud for the leaves we want, it suddenly sprays a thick load of pink mist in our faces causing us both to cough and splutter."
+    "我和Butters弯下腰检查粉红色花蕾底下是否有叶子时，它突然喷出一阵粉色浓雾把我俩弄得咳嗽喷嚏连连。"
 
 # game/forest.rpy#L1091
 translate chinese buttersandalraune_e50b6bd6:
 
     # butters "Eck, *cough*! It went in my, *cough*, mouth!"
-    butters "Eck, *cough*! It went in my, *cough*, mouth!"
+    butters "咕呃，*咳嗽*！雾进到我的，*咳嗽*，嘴里了！"
 
 # game/forest.rpy#L1092
 translate chinese buttersandalraune_a58dd63c:
 
     # mc "*Cough*! It's not just this bud that's spraying, they all are now!"
-    mc "*Cough*! It's not just this bud that's spraying, they all are now!"
+    mc "*咳嗽*！不止是这个花蕾，其他的花蕾都在散播这种烟雾！"
 
 # game/forest.rpy#L1096
 translate chinese buttersandalraune_55e734dd:
 
     # "All throughout the room, the buds spew out more erotic pink mist."
-    "All throughout the room, the buds spew out more erotic pink mist."
+    "整个洞厅内的花蕾都开始散播更多令人性奋的粉色雾气。"
 
 # game/forest.rpy#L1097
 translate chinese buttersandalraune_ba79e11a:
 
     # "What's worse is the writhing vines beneath us are starting to rise, slowly trying to coil around our feet and ankles."
-    "What's worse is the writhing vines beneath us are starting to rise, slowly trying to coil around our feet and ankles."
+    "更糟糕的是我俩脚下的藤曼开始蠕动起来，笨拙地试图缠住我们的脚和脚踝。"
 
 # game/forest.rpy#L1098
 translate chinese buttersandalraune_7f686e76:
 
     # mc "Uhm, the plant is trying to hold me in place!"
-    mc "Uhm, the plant is trying to hold me in place!"
+    mc "啊，这些植物想把我困在这儿！"
 
 # game/forest.rpy#L1100
 translate chinese buttersandalraune_e34ec39f:
 
     # butters "Mmmph, stupid plant! I don't wanna have sex with you! Break the vines, [playername]!"
-    butters "Mmmph, stupid plant! I don't wanna have sex with you! Break the vines, [playername]!"
+    butters "嗯呼，笨植物！我才不想被你强暴！把这些藤曼都弄开，[playername]！"
 
 # game/forest.rpy#L1101
 translate chinese buttersandalraune_a5b08e99:
 
     # "She’s right, if I just lift my leg with a bit more force, the vines rip and tear."
-    "She’s right, if I just lift my leg with a bit more force, the vines rip and tear."
+    "她说得对，只要我轻轻一抬脚的力度就足以把藤曼撕裂扯断。"
 
 # game/forest.rpy#L1102
 translate chinese buttersandalraune_57723f8a:
 
     # "The vines are concerning, however that's not what's on my mind right now..."
-    "The vines are concerning, however that's not what's on my mind right now..."
+    "藤曼虽然令我身处险境，但这不是我现在最该担心的东西......"
 
 # game/forest.rpy#L1103
 translate chinese buttersandalraune_4fa4c72a:
 
     # "It's the pheromones... My cock is tight and throbbing, and Butters is starting to look sexier by the second."
-    "It's the pheromones... My cock is tight and throbbing, and Butters is starting to look sexier by the second."
+    "我最该担心的是信息素...我的肉棒在信息素的刺激下变得胀痛无比，轻轻悸动起来，眼前Butters也越来越让我没办法保持理智。"
 
 # game/forest.rpy#L1104
 translate chinese buttersandalraune_d8b77e05:
 
     # "This room isn’t very well ventilated and it’s clearly starting to go to our heads."
-    "This room isn’t very well ventilated and it’s clearly starting to go to our heads."
+    "这个洞厅通风极差，我俩逃离险境的机会越来越渺茫。"
 
 # game/forest.rpy#L1106
 translate chinese buttersandalraune_27687983:
 
     # butters "Ahh gosh... M-Maybe I do want to have sex... My pussy feels so empty right now..."
-    butters "Ahh gosh... M-Maybe I do want to have sex... My pussy feels so empty right now..."
+    butters "啊天哪...我，我可能确实想要...小穴空空如也，好难受......"
 
 # game/forest.rpy#L1107
 translate chinese buttersandalraune_859ebc68:
 
     # "From behind, I can see Butters's hips sway back and forth, I can just imagine pushing her against the wall of this cave and sliding my cock deep inside her."
-    "From behind, I can see Butters's hips sway back and forth, I can just imagine pushing her against the wall of this cave and sliding my cock deep inside her."
+    "我在Butters的身后，她开始躁动地扭起自己的柳腰，我只想把她推在洞壁上，再把自己的火热的鸡巴插进她的小穴，狠狠地操她。"
 
 # game/forest.rpy#L1108
 translate chinese buttersandalraune_ad51ba04:
 
     # "All I need to do is lift up her dress, I know she doesn't wear panties..."
-    "All I need to do is lift up her dress, I know she doesn't wear panties..."
+    "现在唯一碍我好事儿的只有她的裙子，她没有穿内裤，只要把裙子撩开......"
 
 # game/forest.rpy#L1116
 translate chinese buttersandalraune_2ebf6330:
 
     # "I can’t help it; she just looks so sexy right now."
-    "I can’t help it; she just looks so sexy right now."
+    "我受不了了；真想把她按在身下狠干一顿。"
 
 # game/forest.rpy#L1117
 translate chinese buttersandalraune_891b5e23:
 
     # "With my right hand I start to jack myself off, while using my left to lift up Butters’s dress, peeking at her dripping pussy."
-    "With my right hand I start to jack myself off, while using my left to lift up Butters’s dress, peeking at her dripping pussy."
+    "我右手撸动着自己的肉棒，左手出击，掀开了Butters的裙子，一张淫水泛滥的小穴欣然露出。"
 
 # game/forest.rpy#L1119
 translate chinese buttersandalraune_593f5146:
 
     # butters "Eep! What are you doing?"
-    butters "Eep! What are you doing?"
+    butters "欸！你干什么呢？"
 
 # game/forest.rpy#L1120
 translate chinese buttersandalraune_d9b8e431:
 
     # mc "I’m going to fuck you."
-    mc "I’m going to fuck you."
+    mc "我想和你鼓掌。"
 
 # game/forest.rpy#L1122
 translate chinese buttersandalraune_2836cdc8:
 
     # butters "N-No, you can’t! We need to get the leaves and run away!"
-    butters "N-No, you can’t! We need to get the leaves and run away!"
+    butters "不，不行！我们得搜集叶子，然后马上走！"
 
 # game/forest.rpy#L1123
 translate chinese buttersandalraune_5a2d159d:
 
     # "Eugh, fuck, she’s right. What’s wrong with my head right now?"
-    "Eugh, fuck, she’s right. What’s wrong with my head right now?"
+    "呃，卧槽，她三言两语把我点醒了。我刚刚脑子是瓦特了？"
 
 # game/forest.rpy#L1126
 translate chinese buttersandalraune_374687fb:
 
     # "Stop thinking lewd thoughts, I need to focus."
-    "Stop thinking lewd thoughts, I need to focus."
+    "把那些乱七八糟的思绪都抛诸脑后，我得集中精神。"
 
 # game/forest.rpy#L1127
 translate chinese buttersandalraune_f691d6ac:
 
     # "I push forward, trying to avoid letting the vines hold me back."
-    "I push forward, trying to avoid letting the vines hold me back."
+    "我向前挪动着，试图挣脱藤曼的束缚。"
 
 # game/forest.rpy#L1132
 translate chinese forestfuckbutters_2ebf6330:
 
     # "I can’t help it; she just looks so sexy right now."
-    "I can’t help it; she just looks so sexy right now."
+    "我受不了了；真想把她按在身下狠干一顿。"
 
 # game/forest.rpy#L1133
 translate chinese forestfuckbutters_891b5e23:
 
     # "With my right hand I start to jack myself off, while using my left to lift up Butters’s dress, peeking at her dripping pussy."
-    "With my right hand I start to jack myself off, while using my left to lift up Butters’s dress, peeking at her dripping pussy."
+    "我右手撸动着自己的肉棒，左手出击，掀开了Butters的裙子，一张淫水泛滥的小穴欣然露出。"
 
 # game/forest.rpy#L1135
 translate chinese forestfuckbutters_593f5146:
 
     # butters "Eep! What are you doing?"
-    butters "Eep! What are you doing?"
+    butters "欸！你干什么呢？"
 
 # game/forest.rpy#L1136
 translate chinese forestfuckbutters_d9b8e431:
 
     # mc "I’m going to fuck you."
-    mc "I’m going to fuck you."
+    mc "我想和你鼓掌。"
 
 # game/forest.rpy#L1138
 translate chinese forestfuckbutters_2836cdc8:
 
     # butters "N-No, you can’t! We need to get the leaves and run away!"
-    butters "N-No, you can’t! We need to get the leaves and run away!"
+    butters "不，不行！我们得搜集叶子，然后马上走！"
 
 # game/forest.rpy#L1139
 translate chinese forestfuckbutters_9721a200:
 
     # "Eugh, fuck, she’s right, what’s wrong with my head right now."
-    "Eugh, fuck, she’s right, what’s wrong with my head right now."
+    "呃，卧槽，她三言两语把我点醒了。我刚刚脑子一定是出问题了。"
 
 # game/forest.rpy#L1142
 translate chinese forestfuckbutters_2ebf6330_1:
 
     # "I can’t help it; she just looks so sexy right now."
-    "I can’t help it; she just looks so sexy right now."
+    "我受不了了；真想把她按在身下狠干一顿。"
 
 # game/forest.rpy#L1143
 translate chinese forestfuckbutters_891b5e23_1:
 
     # "With my right hand I start to jack myself off, while using my left to lift up Butters’s dress, peeking at her dripping pussy."
-    "With my right hand I start to jack myself off, while using my left to lift up Butters’s dress, peeking at her dripping pussy."
+    "我右手撸动着自己的肉棒，左手出击，掀开了Butters的裙子，一张淫水泛滥的小穴欣然露出。"
 
 # game/forest.rpy#L1145
 translate chinese forestfuckbutters_593f5146_1:
 
     # butters "Eep! What are you doing?"
-    butters "Eep! What are you doing?"
+    butters "欸！你干什么呢？"
 
 # game/forest.rpy#L1146
 translate chinese forestfuckbutters_d9b8e431_1:
 
     # mc "I’m going to fuck you."
-    mc "I’m going to fuck you."
+    mc "我想和你鼓掌。"
 
 # game/forest.rpy#L1148
 translate chinese forestfuckbutters_2836cdc8_1:
 
     # butters "N-No, you can’t! We need to get the leaves and run away!"
-    butters "N-No, you can’t! We need to get the leaves and run away!"
+    butters "不，不行！我们得搜集叶子，然后马上走！"
 
 # game/forest.rpy#L1149
 translate chinese forestfuckbutters_9721a200_1:
 
     # "Eugh, fuck, she’s right, what’s wrong with my head right now."
-    "Eugh, fuck, she’s right, what’s wrong with my head right now."
+    "呃，卧槽，她三言两语把我点醒了。我刚刚脑子一定是出问题了。"
 
 # game/forest.rpy#L1150
 translate chinese forestfuckbutters_67a02a44:
 
     # "These aphrodisiacs are rotting my mind, we need to hurry."
-    "These aphrodisiacs are rotting my mind, we need to hurry."
+    "春意正在我的脑中不断蔓延，我得加快速度才行。"
 
 # game/forest.rpy#L1152
 translate chinese forestfuckbutters_06be402a:
 
     # butters "Aahhh, I finally found the leaves!"
-    butters "Aahhh, I finally found the leaves!"
+    butters "啊啊，我终于找到叶子了！"
 
 # game/forest.rpy#L1153
 translate chinese forestfuckbutters_510eb813:
@@ -10991,7 +10991,7 @@ translate chinese strings:
 
     # game/forest.rpy_L497_0
     old "Try and grab some gelatine quickly."
-    new "试着快速获得一些胶质。"
+    new "试着快速抓到一些凝胶。"
 
     # game/forest.rpy_L497_1
     old "Try to trap it in the knapsack."
@@ -11043,7 +11043,7 @@ translate chinese strings:
 
     # game/forest.rpy_L1113_0
     old "Fuck Butters"
-    new "干Butters。"
+    new "后入Butters。"
 
     # game/forest.rpy_L1113_1
     old "Just get the damn leaves, I’m not going to let a plant win over me."
@@ -11051,7 +11051,7 @@ translate chinese strings:
 
     # game/forest.rpy_L1113_2
     old "Fuck Butters, you know you want to"
-    new "干Butters，你知道自己想这么干。"
+    new "后入Butters，你知道自己想这么干。"
 
     # game/forest.rpy_L1113_3
     old "Just imagine your cock in her plump ass, I bet it feels amazing."
