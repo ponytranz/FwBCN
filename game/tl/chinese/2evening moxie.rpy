@@ -1,4 +1,4 @@
-# Translation updated at Sun Jun 27 2021 00:55:08 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Mon Jun 28 2021 00:51:27 GMT+0000 (Coordinated Universal Time)
 # game/2evening%20moxie.rpy#L11
 translate chinese eveningmoxie_80cb7a87:
 
@@ -2175,19 +2175,19 @@ translate chinese moxiemagictalk_9f65350d:
 translate chinese moxiemagictalk_8e4251e3:
 
     # moxie "You can also use spells to manipulate your physics, perception or abilities."
-    moxie "You can also use spells to manipulate your physics, perception or abilities."
+    moxie "你也能用咒语来操纵你的物理、感知或者能力。"
 
 # game/2evening%20moxie.rpy#L1010
 translate chinese moxiemagictalk_287bdb9e:
 
     # mc "Kinda like a buff in a video game?"
-    mc "Kinda like a buff in a video game?"
+    mc "Kinda喜欢一个电子游戏爱好者？"
 
 # game/2evening%20moxie.rpy#L1011
 translate chinese moxiemagictalk_f5c11326:
 
     # moxie "Yeah, most video game buffs are mystical spells."
-    moxie "Yeah, most video game buffs are mystical spells."
+    moxie "是啊，大多数的电子游戏是神秘的咒语。"
 
 # game/2evening%20moxie.rpy#L1018
 translate chinese moxiemagictalk_b0e48fff:
@@ -2211,25 +2211,25 @@ translate chinese moxiemagictalk_59767ccc:
 translate chinese moxiemagictalk_1085f6ea:
 
     # mc "I guess that's the reason fancy architecture is the standard."
-    mc "I guess that's the reason fancy architecture is the standard."
+    mc "我猜那是花哨建筑是标准的原因。"
 
 # game/2evening%20moxie.rpy#L1022
 translate chinese moxiemagictalk_7161d0f8:
 
     # moxie "Yep, heck, the tree library was made entirely from alteration magic."
-    moxie "Yep, heck, the tree library was made entirely from alteration magic."
+    moxie "好吧，真见鬼，这个书图书馆曾整个由变形魔法建成。"
 
 # game/2evening%20moxie.rpy#L1025
 translate chinese moxiemagictalk_4a6f706b:
 
     # moxie "This is an incredibly challenging school of magic that is closely linked to medical courses."
-    moxie "This is an incredibly challenging school of magic that is closely linked to medical courses."
+    moxie "这是一所很厉害的魔法学校，和医学靠的很近。"
 
 # game/2evening%20moxie.rpy#L1026
 translate chinese moxiemagictalk_87436e00:
 
     # moxie "In a nutshell, it's healing magic. But the long of it is that healing is incredibly complicated."
-    moxie "In a nutshell, it's healing magic. But the long of it is that healing is incredibly complicated."
+    moxie "简单来说，就是治疗魔法。但如果往长了说，治疗真的是很复杂的一门学问。"
 
 # game/2evening%20moxie.rpy#L1027
 translate chinese moxiemagictalk_c032d0f3:
@@ -2253,7 +2253,7 @@ translate chinese moxiemagictalk_c90f636a:
 translate chinese moxiemagictalk_b66de143:
 
     # moxie "This is magic like teleportation, invisibility, detecting creatures around you, absorbing spells and creating portals."
-    moxie "This is magic like teleportation, invisibility, detecting creatures around you, absorbing spells and creating portals."
+    moxie "魔法就是，像有传送、隐身、探测出你周围的生物、吸收咒语、施放传送门什么的。"
 
 # game/2evening%20moxie.rpy#L1041
 translate chinese moxiemagictalk_11884d6d:
@@ -2295,7 +2295,7 @@ translate chinese moxiemagictalk_404a7a33:
 translate chinese moxiemagictalk_e52ecf8c:
 
     # mc "Wait, so why is invisiblity cosmic? Surely that's mysticism?"
-    mc "Wait, so why is invisiblity cosmic? Surely that's mysticism?"
+    mc "等一下，为什么隐身要牵扯到宇宙？那也是“神秘主义”吗？"
 
 # game/2evening%20moxie.rpy#L1060
 translate chinese moxiemagictalk_c821ef5f:
@@ -2307,13 +2307,13 @@ translate chinese moxiemagictalk_c821ef5f:
 translate chinese moxiemagictalk_38331b18:
 
     # moxie "Invisibility is not what it appears to be. It's not an optical illusion, true invisibility is the act of casting away your physical form and replacing it with an ethereal one."
-    moxie "Invisibility is not what it appears to be. It's not an optical illusion, true invisibility is the act of casting away your physical form and replacing it with an ethereal one."
+    moxie "隐身并不是表面看起来的那样。这并不是光学错觉，真正的隐身是隐匿掉你的物理形态然后用以太的形式替代。"
 
 # game/2evening%20moxie.rpy#L1066
 translate chinese moxiemagictalk_49a2e526:
 
     # moxie "The physical form has to go somewhere during that time, you know?"
-    moxie "The physical form has to go somewhere during that time, you know?"
+    moxie "物理组成形态在隐身时候去了别的地方，你知道吗？"
 
 # game/2evening%20moxie.rpy#L1067
 translate chinese moxiemagictalk_124bef6c:
@@ -2337,25 +2337,25 @@ translate chinese moxiemagictalk_6f1f26bb:
 translate chinese moxiemagictalk_d4ce57f1:
 
     # moxie "Sure thing. I come from a village far to the east. I was travelling and performing all across the country on my way to Arcadia, where I wanted to settle."
-    moxie "Sure thing. I come from a village far to the east. I was travelling and performing all across the country on my way to Arcadia, where I wanted to settle."
+    moxie "当然。我来自东部的一个村庄。我在前往Arcadia的旅途上不断表演，我想到那里定居。"
 
 # game/2evening%20moxie.rpy#L1083
 translate chinese moxiemagictalk_096569cf:
 
     # moxie "It was genius in retrospect; I'd perform my shows and live off the road using the money."
-    moxie "It was genius in retrospect; I'd perform my shows and live off the road using the money."
+    moxie "现在再想想过去，我一直进行着我的表演秀，靠赚来的钱就直接住在路边。"
 
 # game/2evening%20moxie.rpy#L1084
 translate chinese moxiemagictalk_d000a6ef:
 
     # moxie "Performing in new places is always lucrative, even these days sometimes I travel outside of Arcadia to perform. I'll be back in the evenings though, so no need to worry."
-    moxie "Performing in new places is always lucrative, even these days sometimes I travel outside of Arcadia to perform. I'll be back in the evenings though, so no need to worry."
+    moxie "在一个新地方表演通常蛮赚钱的，在这些天里有时我会离开Arcadia去进行表演，晚上就可以回来了，根本不用担心。"
 
 # game/2evening%20moxie.rpy#L1085
 translate chinese moxiemagictalk_8df5565a:
 
     # moxie "Before that I was at school, I'm only just nineteen I'll have you know."
-    moxie "Before that I was at school, I'm only just nineteen I'll have you know."
+    moxie "在那之前我一直在学校，我这次要让你知道我才19岁呢。"
 
 # game/2evening%20moxie.rpy#L1090
 translate chinese moxiemagictalk_664f962a:
@@ -2367,7 +2367,7 @@ translate chinese moxiemagictalk_664f962a:
 translate chinese moxiemagictalk_a065a0bf:
 
     # moxie "Life in the village was surprisingly similar to the Arcadian suburbs; I however, was different!"
-    moxie "Life in the village was surprisingly similar to the Arcadian suburbs; I however, was different!"
+    moxie "住在村子里的生活和Arcadia的郊区出人意外地相似；我嘛，不管怎么样总是与众不同的！"
 
 # game/2evening%20moxie.rpy#L1100
 translate chinese moxiemagictalk_2f3c6671:
@@ -2385,7 +2385,7 @@ translate chinese moxiemagictalk_fcaf367a:
 translate chinese moxiemagictalk_f1761e7f:
 
     # mc "Fair enough, we haven't talked about that since the day after I arrived."
-    mc "Fair enough, we haven't talked about that since the day after I arrived."
+    mc "好嘛，自从我来到后我们还没有好好地谈过。"
 
 # game/2evening%20moxie.rpy#L1107
 translate chinese moxiemagictalk_36f9e4c0:
@@ -2415,7 +2415,7 @@ translate chinese moxiemagictalk_d58ec144:
 translate chinese moxiemagictalk_ee452145:
 
     # mc "It's fine, I'm over that stuff now. I've come to terms with the fact you somehow cloned me."
-    mc "It's fine, I'm over that stuff now. I've come to terms with the fact you somehow cloned me."
+    mc "没关系，我已经不介意了。我已经接受了你克隆我的事实。"
 
 # game/2evening%20moxie.rpy#L1121
 translate chinese moxiemagictalk_9891dd89:

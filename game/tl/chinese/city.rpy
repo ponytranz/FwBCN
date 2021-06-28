@@ -1,4 +1,4 @@
-# Translation updated at Sun Jun 27 2021 00:55:09 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Mon Jun 28 2021 00:51:27 GMT+0000 (Coordinated Universal Time)
 # game/city.rpy#L6
 translate chinese city_12914194:
 
@@ -2889,7 +2889,7 @@ translate chinese castlencm_4aeee34b:
 translate chinese musicstudioncm_6159c496:
 
     # "I can't get in without a key card."
-    "没有钥匙卡我无法进去。"
+    "在没有钥匙卡的情况下我无法进去。"
 
 # game/city.rpy#L1345
 translate chinese musicstudioncm_5242f070:

@@ -1,4 +1,4 @@
-# Translation updated at Sun Jun 27 2021 00:55:09 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Mon Jun 28 2021 00:51:28 GMT+0000 (Coordinated Universal Time)
 # game/finalroute.rpy#L6
 translate chinese finalroute_240762c1:
 
@@ -33,7 +33,7 @@ translate chinese finalroute_85b74289:
 translate chinese finalroute_38ae87ac:
 
     # "I pop my head into the main room of the wagon to spot Moxie staring outside of the window and towards the castle."
-    "I pop my head into the main room of the wagon to spot Moxie staring outside of the window and towards the castle."
+    "我把头伸进马车的主房间，看到Moxie正盯着窗外的城堡看。"
 
 # game/finalroute.rpy#L19
 translate chinese finalroute_de4ee743:

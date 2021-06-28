@@ -7217,14 +7217,14 @@
   {
     "id": 79431109,
     "createdAt": "2021-05-30T17:55:37.000Z",
-    "updatedAt": "2021-06-18T17:45:08.000Z",
+    "updatedAt": "2021-06-27T02:12:29.000Z",
     "key": "musicstudioncm_6159c496",
     "original": "I can't get in without a key card.",
-    "translation": "没有钥匙卡我无法进去。",
+    "translation": "在没有钥匙卡的情况下我无法进去。",
     "file": 272344,
     "stage": 1,
     "project": 2414,
-    "uid": null,
+    "uid": 21929,
     "extra": null,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwBCN/blob/main/game/city.rpy#L1341",
     "words": 8

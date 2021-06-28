@@ -77,14 +77,14 @@
   {
     "id": 79436376,
     "createdAt": "2021-05-30T17:55:40.000Z",
-    "updatedAt": "2021-06-18T17:45:15.000Z",
+    "updatedAt": "2021-06-27T07:19:33.000Z",
     "key": "finalroute_38ae87ac",
     "original": "I pop my head into the main room of the wagon to spot Moxie staring outside of the window and towards the castle.",
-    "translation": "",
+    "translation": "我把头伸进马车的主房间，看到Moxie正盯着窗外的城堡看。",
     "file": 272348,
-    "stage": 0,
+    "stage": 1,
     "project": 2414,
-    "uid": null,
+    "uid": 21929,
     "extra": null,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwBCN/blob/main/game/finalroute.rpy#L16",
     "words": 23

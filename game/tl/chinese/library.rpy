@@ -1,4 +1,4 @@
-# Translation updated at Sun Jun 27 2021 00:55:09 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Mon Jun 28 2021 00:51:28 GMT+0000 (Coordinated Universal Time)
 # game/library.rpy#L18
 translate chinese libraryvisit1_98593462:
 
@@ -3045,13 +3045,13 @@ translate chinese lilytj_527f054a:
 translate chinese lilytj_e4e07499:
 
     # "Not with a flash but with a fizzle, she finishes and takes a moment to catch her breath."
-    "不是一闪而过，而是一阵嘶嘶声，完事她就花了点时间来喘口气。"
+    "不是一闪而过，而是一阵嘶嘶声后，她就花了点时间来喘息。"
 
 # game/library.rpy#L906
 translate chinese lilytj_fed748de:
 
     # lily "Phew... Haahh... I got one DNA match!"
-    lily "唷……哈哈……我发现有一个DNA匹配!"
+    lily "呼……哈哈……我发现有一个DNA匹配!"
 
 # game/library.rpy#L907
 translate chinese lilytj_1ba85766:
@@ -3063,7 +3063,7 @@ translate chinese lilytj_1ba85766:
 translate chinese lilytj_d60f2191:
 
     # lily "Ohh… I just realized that one match was probably you."
-    lily "噢…我刚意识到其中那一个就是你。"
+    lily "噢…我刚意识到其实那一个就是你。"
 
 # game/library.rpy#L911
 translate chinese lilytj_0f5f3839:
@@ -3075,7 +3075,7 @@ translate chinese lilytj_0f5f3839:
 translate chinese lilytj_61a597f9:
 
     # lily "Either way, that goes to show that there isn’t another you in the suburbs at least. I’m afraid if you want a more conclusive search, you’d need to ask the Queen."
-    lily "无论如何这都表明，至少在该地区没有另一个版本的你存在。如果你想要更有说服力的调查，恐怕你得去问女皇陛下。"
+    lily "无论如何这都表明，至少在该地区并没有另一个版本的你存在。如果你想要更有说服力的调查，恐怕你得去找女皇陛下。"
 
 # game/library.rpy#L916
 translate chinese lilytj_864e8835:
@@ -3087,7 +3087,7 @@ translate chinese lilytj_864e8835:
 translate chinese lilytj_56a41d65:
 
     # lily "Really? I suppose it'd only make sense for her to seek you out for questions."
-    lily "真的吗?我想你找她问问情况会说得通。"
+    lily "真的吗?我想她应该会找你问问情况才是。"
 
 # game/library.rpy#L919
 translate chinese lilytj_c8659aae:
@@ -3171,7 +3171,7 @@ translate chinese lilytj_49003ff5:
 translate chinese lilytj_b4ef1058:
 
     # "She can tell? She's extremely sharp."
-    "她能看出来？真是敏锐。"
+    "她这能看出来？真是敏锐。"
 
 # game/library.rpy#L940
 translate chinese lilytj_a61fdc55:
@@ -3195,37 +3195,37 @@ translate chinese lilytj_802dadbe:
 translate chinese lilytj_622b48b6:
 
     # lily "If that is the case, I’m afraid it’s way out of my pay grade."
-    lily "如果是这样的话，恐怕这已经超出了我的能力范围。"
+    lily "如果是这样的话，恐怕早已超出了我的水平范围。"
 
 # game/library.rpy#L946
 translate chinese lilytj_a68b043e:
 
     # lily "If you genuinely believe that, you should send a letter to Princess Selene, that’s her expertise."
-    lily "如果你真的这样认为，那你应该给Selene公主写封信，她擅长这些。"
+    lily "如果你真的这样认为，那你最好给Selene公主写封信，她擅长这些。"
 
 # game/library.rpy#L947
 translate chinese lilytj_220367fa:
 
     # mc "Princesses and Queens huh? Sounds like it's a little out of my reach as a newbie in these parts, do you think you could help me do that?"
-    mc "公主和女皇啊？这听上去已经超出我这个新来的能力范围了，可以帮帮我吗？"
+    mc "公主和女皇啊？这听上去已经超出我这个新来的能力范围了啊，你可以帮帮我吗？"
 
 # game/library.rpy#L948
 translate chinese lilytj_b757c4a2:
 
     # lily "Yeah, I think I probably could. What do I get in return for that though?"
-    lily "嗯，我想我应该可以。那我能得到什么回报呢？"
+    lily "嗯，我想我应该可以。那么我能得到什么回报呢？"
 
 # game/library.rpy#L949
 translate chinese lilytj_7d076320:
 
     # mc "Oh, I don’t know, I don’t have a lot to offer."
-    mc "噢，我不知道。我没什么东西能给你"
+    mc "噢，我不知道。我没什么东西能给你的。"
 
 # game/library.rpy#L951
 translate chinese lilytj_c2c2ffc6:
 
     # lily "Ehehe, I’m just teasing you. Visiting me again will be enough, can you do that for me?"
-    lily "哈哈，逗你呢。多来看看我就行了，这个你能帮我吗?"
+    lily "哈哈，逗你呢。只要你多来看看我就行了，这个你能为我做到吗?"
 
 # game/library.rpy#L952
 translate chinese lilytj_05d54d61:
@@ -3237,13 +3237,13 @@ translate chinese lilytj_05d54d61:
 translate chinese lilytj_d018f601:
 
     # lily "Ehehe, you’re making me all giddy. I can’t believe myself today."
-    lily "哈哈，你快把我搞晕了。今天我简直不敢相信自己。"
+    lily "哈哈，你快把我搞糊涂了。今天我简直不敢相信自己。"
 
 # game/library.rpy#L955
 translate chinese lilytj_bb407659:
 
     # lily "Next time you see me, I’ll have a permit to let you in the castle and we’ll go together."
-    lily "下次你见到我时，我会给你一张许可证，可以让你进出城堡，到时我们一块去。"
+    lily "下次见面时，我会给你一张许可证，可以让你进出城堡，到时候我们一块去。"
 
 # game/library.rpy#L958
 translate chinese lilytj_94d708b0:
@@ -3255,7 +3255,7 @@ translate chinese lilytj_94d708b0:
 translate chinese lilytj_d01a5adb:
 
     # "I take a peek into Penny’s room and spot her lounging around on a quaint sofa setup. It looks comfortable, pretty similar to Moxie’s room."
-    "我朝Penny的房间瞥了一眼，发现她正懒洋洋地躺在一个古色古香的沙发上。看起来很舒适，和Moxie的房间很像。"
+    "我朝Penny的房间瞥了一眼，发现她正懒洋洋地躺在一个古色古香的沙发上。这里看起来很舒适，和Moxie的房间很像。"
 
 # game/library.rpy#L962
 translate chinese lilytj_111ed8a8:
@@ -3273,13 +3273,13 @@ translate chinese lilytj_b215e0b1:
 translate chinese lilytj_f3005d1c:
 
     # penelope "You’re kidding…"
-    penelope "开玩笑吧……"
+    penelope "你没开玩笑吧……"
 
 # game/library.rpy#L966
 translate chinese lilytj_6e06efa1:
 
     # penelope "I guess it makes sense though... Your appearance is within Lily's jurisdiction. She probably feels responsible for you."
-    penelope "我想这是有道理的，虽然... 表面上你是在Lily的管辖范围内。可能她觉得要对你负责。"
+    penelope "我想这是有道理的，虽然... 你只是表面上是在Lily的管辖范围内。但可能她觉得要对你负责。"
 
 # game/library.rpy#L967
 translate chinese lilytj_c8af7e90:
@@ -3291,7 +3291,7 @@ translate chinese lilytj_c8af7e90:
 translate chinese lilytj_3e775e10:
 
     # penelope "Reluctantly perhaps, that girl never leaves the house. Even I barely see her."
-    penelope "也许很不情愿吧，那女孩从未离开过家。连我都很难见到她。"
+    penelope "也许她很不情愿吧，那女孩从未离开过家。连我都很难见到她。"
 
 # game/library.rpy#L970
 translate chinese lilytj_d6f50260:

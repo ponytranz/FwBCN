@@ -1,4 +1,4 @@
-# Translation updated at Sun Jun 27 2021 00:55:09 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Mon Jun 28 2021 00:51:28 GMT+0000 (Coordinated Universal Time)
 # game/farm.rpy#L20
 translate chinese farm_c5de936b:
 
@@ -93,7 +93,7 @@ translate chinese honeycrispmenu_0772d563:
 translate chinese honeycrispmenu_0d09a1ea:
 
     # "Blossom who overheard us while pouring herself a drink also reacts."
-    "Blossom who overheard us while pouring herself a drink also reacts."
+    "喝饮料时偷听到我们的Blossom也反应过来了。"
 
 # game/farm.rpy#L83
 translate chinese honeycrispmenu_d2a5fe11:
@@ -153,7 +153,7 @@ translate chinese honeycrispmenu_4c7436c3:
 translate chinese honeycrispmenu_596af88e:
 
     # honeycrisp "Ehh... My lil Blossom is getting tough lately."
-    honeycrisp "Ehh... My lil Blossom is getting tough lately."
+    honeycrisp "额...我的小Blossom最近变得蛮横起来。"
 
 # game/farm.rpy#L99
 translate chinese honeycrispmenu_b1852cc9:
@@ -201,13 +201,13 @@ translate chinese honeycrispmenu_eb61377f:
 translate chinese honeycrispmenu_06616a9e:
 
     # honeycrisp "Stop taking my opinions so lightly..."
-    honeycrisp "Stop taking my opinions so lightly..."
+    honeycrisp "可别把我的观点不当一回事..."
 
 # game/farm.rpy#L114
 translate chinese honeycrispmenu_a0c2e176_1:
 
     # blossom "Awhh man..."
-    blossom "Awhh man..."
+    blossom "哇 ，伙计..."
 
 # game/farm.rpy#L117
 translate chinese honeycrispmenu_39025a6f:
@@ -231,283 +231,283 @@ translate chinese honeycrispmenu_6c08b4d4:
 translate chinese honeycrispmenu_062a96f5:
 
     # "I bid Honeycrisp farewell and return home."
-    "I bid Honeycrisp farewell and return home."
+    "我和Honeycrisp道了别，回到了自己家。"
 
 # game/farm.rpy#L132
 translate chinese honeycrispmenu_c29bdbc0:
 
     # honeycrisp "Ever since you came along things have been going so well lately."
-    honeycrisp "Ever since you came along things have been going so well lately."
+    honeycrisp "自从你来了以后，最近啥事都顺利得很。"
 
 # game/farm.rpy#L133
 translate chinese honeycrispmenu_478e5449:
 
     # mc "Don't forget the work your sister and Anna did, I was only a small part of that."
-    mc "Don't forget the work your sister and Anna did, I was only a small part of that."
+    mc "别忘了你妹妹和Anna的付出，我只贡献了其中小小的一部分。"
 
 # game/farm.rpy#L134
 translate chinese honeycrispmenu_270a277b:
 
     # honeycrisp "Ay, but sometimes the smallest cog is required to make the machine run."
-    honeycrisp "Ay, but sometimes the smallest cog is required to make the machine run."
+    honeycrisp "没错，但有时候为了让机器隆隆运转，一颗最小的齿轮也是必不可少的。"
 
 # game/farm.rpy#L135
 translate chinese honeycrispmenu_b3f5e087:
 
     # honeycrisp "I think you were the exact knock back to reality I required."
-    honeycrisp "I think you were the exact knock back to reality I required."
+    honeycrisp "正如我需要的那样，我想你就是对现实精准的回击。"
 
 # game/farm.rpy#L136
 translate chinese honeycrispmenu_9ad2b2a4:
 
     # honeycrisp "Sometimes you're so alone, and you work so hard you forget what the outside world is like."
-    honeycrisp "Sometimes you're so alone, and you work so hard you forget what the outside world is like."
+    honeycrisp "有时候，你是如此的孤独——你工作得过分努力，甚至忘了外面的世界是什么样的。"
 
 # game/farm.rpy#L137
 translate chinese honeycrispmenu_27b311ae:
 
     # mc "It's good to reach out and reconnect with friends and family every so often."
-    mc "It's good to reach out and reconnect with friends and family every so often."
+    mc "跟亲朋好友重获联系并常常往来是件好事。"
 
 # game/farm.rpy#L138
 translate chinese honeycrispmenu_c8831af2:
 
     # mc "You need to remember that you're not alone, and you can get the support you need."
-    mc "You need to remember that you're not alone, and you can get the support you need."
+    mc "你得记住你并非孤身一马，你总能得到你需要的支持。"
 
 # game/farm.rpy#L139
 translate chinese honeycrispmenu_b9b47848:
 
     # honeycrisp "You're right stud, but you forget that one of the hardest steps sometimes is reaching out and accepting that support."
-    honeycrisp "You're right stud, but you forget that one of the hardest steps sometimes is reaching out and accepting that support."
+    honeycrisp "老兄，你说的不错。但你可别忘了，向他马求援并接受帮助，有时候恰恰是最困难的那一步。"
 
 # game/farm.rpy#L140
 translate chinese honeycrispmenu_1515dec5:
 
     # honeycrisp "For that, the solution is a little more cloudy. I'm just fortunate that you decided to show up when ya did."
-    honeycrisp "For that, the solution is a little more cloudy. I'm just fortunate that you decided to show up when ya did."
+    honeycrisp "要想迈出这一步多少有些蹒跚。我只是有幸让你挺身而出。"
 
 # game/farm.rpy#L142
 translate chinese honeycrispmenu_2748889b:
 
     # mc "Now you're working closely with Anna and have an employee, what are your plans for the future?"
-    mc "Now you're working closely with Anna and have an employee, what are your plans for the future?"
+    mc "你现在已经和Anna紧密合作并且拥有一个雇员了。你对未来有什么打算吗？"
 
 # game/farm.rpy#L143
 translate chinese honeycrispmenu_d28ab7c7:
 
     # honeycrisp "Hmm, good question stud."
-    honeycrisp "Hmm, good question stud."
+    honeycrisp "嗯，好问题啊老兄。"
 
 # game/farm.rpy#L144
 translate chinese honeycrispmenu_3178dc76:
 
     # honeycrisp "Ya see, I was never the planner in the farm, that was always paps. He always had a plan and ambition."
-    honeycrisp "Ya see, I was never the planner in the farm, that was always paps. He always had a plan and ambition."
+    honeycrisp "要知道，过去我从来不是农场里搞决策的那个，那是老爹干的。以前他总会制定计划，也一直很有抱负。"
 
 # game/farm.rpy#L146
 translate chinese honeycrispmenu_dcf3088d:
 
     # honeycrisp "Which is why it felt so icky for him to pass in his prime, he had so much spirit in him."
-    honeycrisp "Which is why it felt so icky for him to pass in his prime, he had so much spirit in him."
+    honeycrisp "也正因如此，他逝于盛年令马万分惋惜——他还有那么多的雄心壮志啊！"
 
 # game/farm.rpy#L147
 translate chinese honeycrispmenu_e828c7c6:
 
     # honeycrisp "Never got to see the fruit of his work, or even the opportunity to have grandkids."
-    honeycrisp "Never got to see the fruit of his work, or even the opportunity to have grandkids."
+    honeycrisp "再也不能看到他努力的果实，甚至都没有机会抱抱孙子。"
 
 # game/farm.rpy#L148
 translate chinese honeycrispmenu_6fe16401:
 
     # "See sighs and tears up slightly, it's clear that the memories are still painful."
-    "See sighs and tears up slightly, it's clear that the memories are still painful."
+    "她发出一声轻轻的叹息，泪花也微微泛起。很显然，这段记忆依然痛心切骨。"
 
 # game/farm.rpy#L149
 translate chinese honeycrispmenu_40ce2210:
 
     # mc "I've never actually asked because it felt like a sensitive topic, but how did he pass?"
-    mc "I've never actually asked because it felt like a sensitive topic, but how did he pass?"
+    mc "出于对敏感话题的担忧，实际上我从未问过这件事。不过，他老人家是怎么过世的呢？"
 
 # game/farm.rpy#L150
 translate chinese honeycrispmenu_38df6292:
 
     # honeycrisp "He didn't even get to die in an interesting way, it was a disease that caused him to deteriorate so fast."
-    honeycrisp "He didn't even get to die in an interesting way, it was a disease that caused him to deteriorate so fast."
+    honeycrisp "他甚至没有一个精彩的死法，一场重病让他的身体状况迅速恶化了。"
 
 # game/farm.rpy#L151
 translate chinese honeycrispmenu_a1047ff6:
 
     # honeycrisp "Paps was healthy one moment, and in the next week he was immobilised in hospital, and then in a month..."
-    honeycrisp "Paps was healthy one moment, and in the next week he was immobilised in hospital, and then in a month..."
+    honeycrisp "老爹曾经很健康，但过了一个礼拜，他就离不开医院的病床了。然后在一个月之内..."
 
 # game/farm.rpy#L152
 translate chinese honeycrispmenu_b755efd8:
 
     # mc "It's shocking how fast it can happen sometimes."
-    mc "It's shocking how fast it can happen sometimes."
+    mc "真是病来如山倒啊。"
 
 # game/farm.rpy#L153
 translate chinese honeycrispmenu_a2e08a2d:
 
     # mc "What about your mother, is she not around?"
-    mc "What about your mother, is she not around?"
+    mc "那你妈妈呢？她不住在附近吗？"
 
 # game/farm.rpy#L154
 translate chinese honeycrispmenu_6308f9eb:
 
     # honeycrisp "Nah, we're estranged from her. I have no idea where she is, or what she's doing."
-    honeycrisp "Nah, we're estranged from her. I have no idea where she is, or what she's doing."
+    honeycrisp "没，我们已经和她分家了。我不清楚她在哪也不知道她现在在干啥。"
 
 # game/farm.rpy#L155
 translate chinese honeycrispmenu_8f23da94:
 
     # honeycrisp "My paps was a single father for years, quite a rare case in Arcadia. After mother left, he didn't care much for dating, Blossom and I were always his priority."
-    honeycrisp "My paps was a single father for years, quite a rare case in Arcadia. After mother left, he didn't care much for dating, Blossom and I were always his priority."
+    honeycrisp "咱老爹做了这么多年的单身父亲，在Arcadia可稀罕得很。我妈离开之后，他就不再找其他母马，一心一意地养育我和Blossom。"
 
 # game/farm.rpy#L157
 translate chinese honeycrispmenu_9665e56c:
 
     # honeycrisp "Gosh, anyway... Sorry to bore you with that tangent, you asked me if I had any plans for the future."
-    honeycrisp "Gosh, anyway... Sorry to bore you with that tangent, you asked me if I had any plans for the future."
+    honeycrisp "天哪，无论如何...我为我用那个话题而抱歉，你问过我有没有任何未来的计划。"
 
 # game/farm.rpy#L159
 translate chinese honeycrispmenu_1b24cf62:
 
     # honeycrisp "Guess I'll have to think about it more now, thanks stud."
-    honeycrisp "Guess I'll have to think about it more now, thanks stud."
+    honeycrisp "我想我现在得多多考虑这个问题，谢了，老兄。"
 
 # game/farm.rpy#L161
 translate chinese honeycrispmenu_dcd5dfe4:
 
     # mc "How did you become a farmer?"
-    mc "How did you become a farmer?"
+    mc "你是如何成为一位农场主的？"
 
 # game/farm.rpy#L162
 translate chinese honeycrispmenu_a629f95d:
 
     # honeycrisp "It has always been in my blood, stud. Hey, that rhymed!"
-    honeycrisp "It has always been in my blood, stud. Hey, that rhymed!"
+    honeycrisp "农场主的血流淌在我身体中，老兄。嘿，这押韵了！"
 
 # game/farm.rpy#L163
 translate chinese honeycrispmenu_5e8243cc:
 
     # honeycrisp "I helped out paps ever since I was a tiny girl."
-    honeycrisp "I helped out paps ever since I was a tiny girl."
+    honeycrisp "自从我是个小女孩，我就去帮助我爹了。"
 
 # game/farm.rpy#L164
 translate chinese honeycrispmenu_5c135b08:
 
     # honeycrisp "Back then he'd give me small 'made up' jobs for fun, like uh, raking the leaves!"
-    honeycrisp "Back then he'd give me small 'made up' jobs for fun, like uh, raking the leaves!"
+    honeycrisp "那时候他会给我一些很有趣的“助兴”的小活儿，比如耙树叶！"
 
 # game/farm.rpy#L165
 translate chinese honeycrispmenu_425dd5a2:
 
     # mc "You've never considered any other work?"
-    mc "You've never considered any other work?"
+    mc "你从来没考虑过做其他工作吗？"
 
 # game/farm.rpy#L166
 translate chinese honeycrispmenu_62129e5a:
 
     # honeycrisp "I mean it's a farce ain't it. I'd probably have to sell the farm, and that's been in our family for longer than I know."
-    honeycrisp "I mean it's a farce ain't it. I'd probably have to sell the farm, and that's been in our family for longer than I know."
+    honeycrisp "你说这荒不荒谬——这个农场陪伴我家族的时间久远得超乎我想象，而某一天我可能将不得不卖了它。"
 
 # game/farm.rpy#L167
 translate chinese honeycrispmenu_a863d095:
 
     # honeycrisp "But I don't mind being a farmer for the rest of mah days, it's incredibly satisfying work, and every evening is free time so I never burn out."
-    honeycrisp "But I don't mind being a farmer for the rest of mah days, it's incredibly satisfying work, and every evening is free time so I never burn out."
+    honeycrisp "但我并不介意余生都致力于当一名农场主。这份工作令马满意得难以置信，而且每天晚上都是休息时间，因此我绝不会筋疲力尽。"
 
 # game/farm.rpy#L168
 translate chinese honeycrispmenu_e8579f29:
 
     # mc "You reckon your children will run the farm then?"
-    mc "You reckon your children will run the farm then?"
+    mc "那你还期望你的子孙也经营这个农场咯？"
 
 # game/farm.rpy#L169
 translate chinese honeycrispmenu_3f03d75c:
 
     # honeycrisp "Hah, I don't tend to think that far forward in mah life, I just meander mah way through each day."
-    honeycrisp "Hah, I don't tend to think that far forward in mah life, I just meander mah way through each day."
+    honeycrisp "哈，我不打算考虑我生命中这么遥远的事，只想每天走好前行路上的每一步。"
 
 # game/farm.rpy#L170
 translate chinese honeycrispmenu_25f60082:
 
     # honeycrisp "What about you? Are you ever going to settle down with a permanent job?"
-    honeycrisp "What about you? Are you ever going to settle down with a permanent job?"
+    honeycrisp "那你呢？你打算安顿下来，找份固定工作吗？"
 
 # game/farm.rpy#L171
 translate chinese honeycrispmenu_65c3b38c:
 
     # mc "That's a great question, it would probably pay more if I specialised into one career."
-    mc "That's a great question, it would probably pay more if I specialised into one career."
+    mc "好问题，如果我专精一个职业，可能会有更高的报酬。"
 
 # game/farm.rpy#L173
 translate chinese honeycrispmenu_3cafb849:
 
     # honeycrisp "Y'all always welcome to make working here your career, although if you do we won't be able to have children to run the place after us, ahaha!"
-    honeycrisp "Y'all always welcome to make working here your career, although if you do we won't be able to have children to run the place after us, ahaha!"
+    honeycrisp "这里总是欢迎你把这里的工作当成一份事业。虽然你要是这么干，咱可没有孩子在咱们之后经营这个地方啦，哈哈。"
 
 # game/farm.rpy#L174
 translate chinese honeycrispmenu_8dd1e262:
 
     # mc "That's very cheeky of you to presume, haha."
-    mc "That's very cheeky of you to presume, haha."
+    mc "你这假想也太奔放了吧，哈哈。"
 
 # game/farm.rpy#L176
 translate chinese honeycrispmenu_7e3ff788:
 
     # honeycrisp "Now that I've actually got free time, I've been getting out more and visiting friends."
-    honeycrisp "Now that I've actually got free time, I've been getting out more and visiting friends."
+    honeycrisp "现在我确实有更多的闲暇时光了。我已经多出了几趟门，拜访了些朋友。"
 
 # game/farm.rpy#L177
 translate chinese honeycrispmenu_26255370:
 
     # mc "Anyone in particular?"
-    mc "Anyone in particular?"
+    mc "有什么特别的马么？"
 
 # game/farm.rpy#L178
 translate chinese honeycrispmenu_fac7153e:
 
     # honeycrisp "I like to pop down to the Riding Mare for a pint of cider and Ruby often visits."
-    honeycrisp "I like to pop down to the Riding Mare for a pint of cider and Ruby often visits."
+    honeycrisp "我喜欢顺路去雌驹善堕酒吧来一品脱苹果酒，Ruby也经常去。"
 
 # game/farm.rpy#L179
 translate chinese honeycrispmenu_601c5e29:
 
     # honeycrisp "It may be the cider I make, but it's even more satisfying drinking with friends."
-    honeycrisp "It may be the cider I make, but it's even more satisfying drinking with friends."
+    honeycrisp "这可能正是我自己酿的苹果酒，但是和朋友一起享用就更令马满意了。"
 
 # game/farm.rpy#L180
 translate chinese honeycrispmenu_869009a3:
 
     # honeycrisp "Sometimes me and Ruby go to a nearby nightclub too, that's always a great night out."
-    honeycrisp "Sometimes me and Ruby go to a nearby nightclub too, that's always a great night out."
+    honeycrisp "有时候我和Ruby也回去附近的夜店，总能享受一个美好的夜晚。"
 
 # game/farm.rpy#L181
 translate chinese honeycrispmenu_bc3b4b2f:
 
     # mc "I should join you sometime."
-    mc "I should join you sometime."
+    mc "看来我有空可以跟你一起去。"
 
 # game/farm.rpy#L182
 translate chinese honeycrispmenu_2217ff4c:
 
     # honeycrisp "Absolutely! Three's a crowd!"
-    honeycrisp "Absolutely! Three's a crowd!"
+    honeycrisp "当然咯！三人行，必有灯泡啊!"
 
 # game/farm.rpy#L183
 translate chinese honeycrispmenu_db474d7b:
 
     # honeycrisp "I'd give you a specific time and date, but the fun of visiting the nightclub and bar is just seeing who's there!"
-    honeycrisp "I'd give you a specific time and date, but the fun of visiting the nightclub and bar is just seeing who's there!"
+    honeycrisp "我本来打算给你个具体的日期和时间的，可是去夜店玩的乐趣不就是跑去康康谁在里头么！"
 
 # game/farm.rpy#L190
 translate chinese honeycrispmenu_007ed673:
 
     # honeycrisp "Hmm, not right now, stud. I need to make the most of today's sun."
-    honeycrisp "Hmm, not right now, stud. I need to make the most of today's sun."
+    honeycrisp "唔，现在不行啊老兄。我得充分利用今天的阳光。"
 
 # game/farm.rpy#L191
 translate chinese honeycrispmenu_06a7eae8:
@@ -519,13 +519,13 @@ translate chinese honeycrispmenu_06a7eae8:
 translate chinese honeycrispmenu_bd9f0282:
 
     # "Looks like Honeycrisp will only have sex with me after work."
-    "Looks like Honeycrisp will only have sex with me after work."
+    "看来Honeycrisp只会在干完活之后和我做爱。"
 
 # game/farm.rpy#L198
 translate chinese honeycrispmenu_c0196875:
 
     # "I go into the farmhouse and visit Blossom, she seems to be lazing around in her bedroom and hasn't left for college yet. I should have an hour to talk or play with her."
-    "I go into the farmhouse and visit Blossom, she seems to be lazing around in her bedroom and hasn't left for college yet. I should have an hour to talk or play with her."
+    "我走进农舍去看望Blossom，看起来她懒洋洋地呆在卧室里，还没动身去大学。我应该还有一个小时和她聊天玩闹。"
 
 # game/farm.rpy#L221
 translate chinese farmvisit1_d6efd0e1:
@@ -597,13 +597,13 @@ translate chinese farmvisit1_aa3f9171:
 translate chinese farmvisit1_eeee4ef2:
 
     # honeycrisp "Howdy stranger! I believe you were the 'hairless stallion' at Cream's party right? But ain't you something, you ain't much of a stallion at all."
-    honeycrisp "Howdy stranger! I believe you were the 'hairless stallion' at Cream's party right? But ain't you something, you ain't much of a stallion at all."
+    honeycrisp "你好哇，你好哇，陌生...马？我猜你是Cream派对上的“无毛种马”，对吧？但你不是那啥，你根本不是什么种马。"
 
 # game/farm.rpy#L239
 translate chinese farmvisit1_917f330a:
 
     # honeycrisp "Howdy stranger, I was told to expect someone that looks like a hairless stallion, but ain’t you something, ain’t much of a stallion at all."
-    honeycrisp "Howdy stranger, I was told to expect someone that looks like a hairless stallion, but ain’t you something, ain’t much of a stallion at all."
+    honeycrisp "你好哇，陌生...马？有人跟我说会有一个看起来像无毛种马的家伙过来，但你不是那啥，你根本不是什么种马。"
 
 # game/farm.rpy#L240
 translate chinese farmvisit1_6d4ad9c7:
@@ -9999,7 +9999,7 @@ translate chinese honeycrisptalk_8f23da94:
 translate chinese honeycrisptalk_9665e56c:
 
     # honeycrisp "Gosh, anyway... Sorry to bore you with that tangent, you asked me if I had any plans for the future."
-    honeycrisp "Gosh, anyway... Sorry to bore you with that tangent, you asked me if I had any plans for the future."
+    honeycrisp "天哪，无论如何...我为我用那个话题而抱歉，你问过我有没有任何未来的计划。"
 
 # game/farm.rpy#L2960
 translate chinese honeycrisptalk_1b24cf62:

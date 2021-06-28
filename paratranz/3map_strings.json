@@ -2072,14 +2072,14 @@
   {
     "id": 79442857,
     "createdAt": "2021-05-30T19:47:46.000Z",
-    "updatedAt": "2021-06-02T15:57:21.000Z",
+    "updatedAt": "2021-06-27T10:09:38.000Z",
     "key": "game/3map.rpy_L1822_1",
     "original": "Riku Climbing Sex",
-    "translation": "",
+    "translation": "与Riku的攀岩位",
     "file": 272371,
-    "stage": 0,
+    "stage": 1,
     "project": 2414,
-    "uid": null,
+    "uid": 22250,
     "extra": null,
     "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/3map.rpy#L1822",
     "words": 3

@@ -1,4 +1,4 @@
-# Translation updated at Sun Jun 27 2021 00:55:08 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Mon Jun 28 2021 00:51:27 GMT+0000 (Coordinated Universal Time)
 # game/bakery.rpy#L14
 translate chinese bakeryvisit1_2f4adbe4:
 
@@ -1329,31 +1329,31 @@ translate chinese creamquickie_f5b4e8ed:
 translate chinese creamquickie_1453854e:
 
     # cream "The nature of immortality implies an infinite existence, no one could really say what that experience entails."
-    cream "The nature of immortality implies an infinite existence, no one could really say what that experience entails."
+    cream "不朽的自然述说着无限的经验，没有人能真正说出这种经验是什么。"
 
 # game/bakery.rpy#L393
 translate chinese creamquickie_9e2e0dba:
 
     # mc "I’d like to think there’s enough experience and stimulation in the world to keep me mentally healthy."
-    mc "I’d like to think there’s enough experience and stimulation in the world to keep me mentally healthy."
+    mc "我觉得这世界上有足够的经验和刺激来让我保持理智清醒。"
 
 # game/bakery.rpy#L395
 translate chinese creamquickie_b76e0291:
 
     # cream "Even if you could live forever, you wouldn’t just lose your friends, family and loved ones, humanity will die out eventually."
-    cream "Even if you could live forever, you wouldn’t just lose your friends, family and loved ones, humanity will die out eventually."
+    cream "即使你能够长生不老，你也会失去你的朋友，亲人，还有你所爱之人，终将都会走向消亡。"
 
 # game/bakery.rpy#L396
 translate chinese creamquickie_8298dd39:
 
     # mc "Ahh… Humanity would die out, but I’d still be immortal, everyone would die, then I’d go insane, is what you’re getting at?"
-    mc "Ahh… Humanity would die out, but I’d still be immortal, everyone would die, then I’d go insane, is what you’re getting at?"
+    mc "啊......人类会灭亡，但我仍然是不朽的，每个人都会死，然后我就会疯掉，这就是你要表达的意思？"
 
 # game/bakery.rpy#L398
 translate chinese creamquickie_e0e82e85:
 
     # cream "More than you know, you’ll be living in perpetuity, an inky blackness. First humanity will die out, then your planet earth, and then the heat death of the universe. You’ll get to see if that’s really how it’ll end, once you do, you can come back and tell me."
-    cream "More than you know, you’ll be living in perpetuity, an inky blackness. First humanity will die out, then your planet earth, and then the heat death of the universe. You’ll get to see if that’s really how it’ll end, once you do, you can come back and tell me."
+    cream "比你所了解的更多，你将生活在永久的、漆黑的虚空中。首先人类会灭亡，然后是你们的地球，然后是宇宙的热死亡。你会看到它是否真的会这样结束，一旦你做到了，你可以回来告诉我。"
 
 # game/bakery.rpy#L399
 translate chinese creamquickie_ad236520:
@@ -1365,127 +1365,127 @@ translate chinese creamquickie_ad236520:
 translate chinese creamquickie_4b4a32eb:
 
     # cream "Well, how long is an hour to you? It can be quite a long time with no stimulation."
-    cream "Well, how long is an hour to you? It can be quite a long time with no stimulation."
+    cream "那么，一个小时对你来说是多长？在没有刺激的情况下，这可能是相当长的时间。"
 
 # game/bakery.rpy#L402
 translate chinese creamquickie_9f730523:
 
     # cream "Now imagine that inky blackness as you drift through space for an hour, then a day, then a year…"
-    cream "Now imagine that inky blackness as you drift through space for an hour, then a day, then a year…"
+    cream "现在想象一下，当你在太空中漂移一小时，然后是一天，然后是一年时，那种一片虚无的感觉。"
 
 # game/bakery.rpy#L403
 translate chinese creamquickie_5f2bead2:
 
     # cream "A million years, a billion years, a trillion years…"
-    cream "A million years, a billion years, a trillion years…"
+    cream "一百万年、十亿年、一万亿年......"
 
 # game/bakery.rpy#L404
 translate chinese creamquickie_fe3d423c:
 
     # cream "Even then, you wouldn’t die, you’re still at the beginning of your eternity."
-    cream "Even then, you wouldn’t die, you’re still at the beginning of your eternity."
+    cream "就算这样，你也不会死，你仍然处于永恒的开始。"
 
 # game/bakery.rpy#L405
 translate chinese creamquickie_ae9f6a3a:
 
     # mc "Eugh I get it, I wouldn’t just go insane, my mind would be completely shattered."
-    mc "Eugh I get it, I wouldn’t just go insane, my mind would be completely shattered."
+    mc "行吧，我明白了，我不只是疯了，我的思想还会被完全打碎。"
 
 # game/bakery.rpy#L407
 translate chinese creamquickie_e8d1942a:
 
     # cream "In a sense, immortality like that is an infinite hell."
-    cream "In a sense, immortality like that is an infinite hell."
+    cream "从某种意义上来说，不死的感觉就像一个无限地狱"
 
 # game/bakery.rpy#L408
 translate chinese creamquickie_58ea2581:
 
     # mc "Immortality is a curse then. I just want to live a happy life in the fleeting time I have on this speck of dust."
-    mc "Immortality is a curse then. I just want to live a happy life in the fleeting time I have on this speck of dust."
+    mc "那长生就是一种诅咒了。可我只想在这短暂的像尘灰一般的时间里过幸福的生活。"
 
 # game/bakery.rpy#L410
 translate chinese creamquickie_98a4163b:
 
     # cream "A curse? Interesting… You were so eager to call going insane a curse."
-    cream "A curse? Interesting… You were so eager to call going insane a curse."
+    cream "诅咒？真有趣......你如此急切地称发疯为诅咒？"
 
 # game/bakery.rpy#L411
 translate chinese creamquickie_b3563e6e:
 
     # cream "But did you consider what it’s like to lose your mind?"
-    cream "But did you consider what it’s like to lose your mind?"
+    cream "那你考虑过失去理智是什么感觉吗？"
 
 # game/bakery.rpy#L412
 translate chinese creamquickie_8eb37b47:
 
     # mc "I can’t say I’ve put much thought into it."
-    mc "I can’t say I’ve put much thought into it."
+    mc "我不能说我花了很多心思在上面。"
 
 # game/bakery.rpy#L414
 translate chinese creamquickie_37cfdaf8:
 
     # cream "How do you know you haven’t already lost it?"
-    cream "How do you know you haven’t already lost it?"
+    cream "你怎么知道你还没有失去它？"
 
 # game/bakery.rpy#L415
 translate chinese creamquickie_f1f2e08f:
 
     # mc "I suppose I don’t have a definite answer for that, I am living in a brand-new world full of talking ponies."
-    mc "I suppose I don’t have a definite answer for that, I am living in a brand-new world full of talking ponies."
+    mc "我想我没有一个明确的答案，我生活在一个充满了会说话的小马的全新的世界里"
 
 # game/bakery.rpy#L417
 translate chinese creamquickie_b4e6ab27:
 
     # cream "Maybe you’ve already gone insane, and you’ve lost your mind."
-    cream "Maybe you’ve already gone insane, and you’ve lost your mind."
+    cream "也许你已经疯了，你已经失去了理智。"
 
 # game/bakery.rpy#L418
 translate chinese creamquickie_e9e2a9b3:
 
     # cream "Drifting through deep space for all infinity? One great big fantastic party in your head!"
-    cream "Drifting through deep space for all infinity? One great big fantastic party in your head!"
+    cream "漂流在无限的深空里？你的脑海里像有一个巨大的梦幻般的派对一样！"
 
 # game/bakery.rpy#L419
 translate chinese creamquickie_6b5e936a:
 
     # mc "You’ve managed to put a positive spin on it, impressive. You really are a bundle of joy."
-    mc "You’ve managed to put a positive spin on it, impressive. You really are a bundle of joy."
+    mc "你设法把它变成积极的一面，真令人印象深刻。你是真的非常乐观。"
 
 # game/bakery.rpy#L420
 translate chinese creamquickie_44981d57:
 
     # mc "I think you’re banking on a lot hoping that your mind goes insane in a positive way though."
-    mc "I think you’re banking on a lot hoping that your mind goes insane in a positive way though."
+    mc "我觉得你这是寄希望于你疯掉的后果不会太糟。"
 
 # game/bakery.rpy#L422
 translate chinese creamquickie_e1b97dd3:
 
     # cream "Isn’t that what insanity is for? When reality is so abhorrent that the brain needs to delude itself into a better world?"
-    cream "Isn’t that what insanity is for? When reality is so abhorrent that the brain needs to delude itself into a better world?"
+    cream "这不就是精神错乱的原因吗？现实如此恶心，所以思想要把自己骗去幻想中的世外桃源。"
 
 # game/bakery.rpy#L423
 translate chinese creamquickie_60da6998:
 
     # cream "A world where you’ll have a great girlfriend, friends, and a fun life."
-    cream "A world where you’ll have a great girlfriend, friends, and a fun life."
+    cream "在这个世界上，你会有一个很棒的女票，一些好朋友，还有有趣的生活。"
 
 # game/bakery.rpy#L424
 translate chinese creamquickie_aa16cd15:
 
     # mc "I’ve heard of that before, to be stuck in the delusions of your imagination forever."
-    mc "I’ve heard of that before, to be stuck in the delusions of your imagination forever."
+    mc "我以前听说过这种事，有人永远陷在自己脑中的妄想。"
 
 # game/bakery.rpy#L425
 translate chinese creamquickie_bde2dab4:
 
     # "This idea still seems too crazy to me, Cream is a little daydreamy, but I can’t relate to this at all."
-    "This idea still seems too crazy to me, Cream is a little daydreamy, but I can’t relate to this at all."
+    "这个想法在我看来还是太疯狂了，Cream有点白日做梦的感觉，我根本无法理解她在想什么。"
 
 # game/bakery.rpy#L427
 translate chinese creamquickie_1d5419f2:
 
     # cream "A world where you meet a blue pony, who loves you, and you make friends with more ponies. What a fun life."
-    cream "A world where you meet a blue pony, who loves you, and you make friends with more ponies. What a fun life."
+    cream "在这个世界上，你遇到了一只忧郁的小马，她深爱着你，然后你又交了更多的小马朋友。多么有趣的生活。"
 
 # game/bakery.rpy#L428
 translate chinese creamquickie_55ea1bb4:
@@ -1497,55 +1497,55 @@ translate chinese creamquickie_55ea1bb4:
 translate chinese creamquickie_e535e2d0:
 
     # cream "It’s okay, my point is that it doesn’t matter if you are."
-    cream "It’s okay, my point is that it doesn’t matter if you are."
+    cream "没事，我的观点是无论你是什么样的人都没有关系。"
 
 # game/bakery.rpy#L431
 translate chinese creamquickie_31d25807:
 
     # cream "Your brain will keep you looping in your beautiful fantasy for a quadrillion years, and even after all that, you still have an infinite eternity left."
-    cream "Your brain will keep you looping in your beautiful fantasy for a quadrillion years, and even after all that, you still have an infinite eternity left."
+    cream "意识会在在你美丽的妄想中畅游数百万年，就算轮回结束，你依然身永不朽。"
 
 # game/bakery.rpy#L432
 translate chinese creamquickie_1ba8af3b:
 
     # cream "To you, it’ll all pass in the blink of an eye."
-    cream "To you, it’ll all pass in the blink of an eye."
+    cream "对你来说，桑海苍田不过眨眼之间。"
 
 # game/bakery.rpy#L433
 translate chinese creamquickie_e3fd7ca7:
 
     # mc "I’m losing track of what you’re saying, what do you mean?"
-    mc "I’m losing track of what you’re saying, what do you mean?"
+    mc "我根本没听懂，你都在说些啥啊？"
 
 # game/bakery.rpy#L435
 translate chinese creamquickie_535307a2:
 
     # cream "The insanity and morbid nature of infinite existence is conceptually impossible, due to the idea of being alive for an infinite amount of time."
-    cream "The insanity and morbid nature of infinite existence is conceptually impossible, due to the idea of being alive for an infinite amount of time."
+    cream "无限的生命是永恒的幻想，在这个基础上疯狂与病态的不朽都不再拥有任何意义。"
 
 # game/bakery.rpy#L436
 translate chinese creamquickie_87f88c21:
 
     # cream "The key word is ‘infinite,’ it means an immortal being cannot exist alongside time but must exist outside of it."
-    cream "The key word is ‘infinite,’ it means an immortal being cannot exist alongside time but must exist outside of it."
+    cream "关键词是“无限”，它意味着不朽的生命不能与时间并存，它必须游离在时间之外。"
 
 # game/bakery.rpy#L437
 translate chinese creamquickie_a3edbb97:
 
     # cream "At a certain point there will be no difference between 10 seconds and 100 years."
-    cream "At a certain point there will be no difference between 10 seconds and 100 years."
+    cream "在更高的尺度下，10秒和100年并没区别。"
 
 # game/bakery.rpy#L438
 translate chinese creamquickie_71005300:
 
     # cream "10 seconds and 100 trillion years."
-    cream "十秒钟和一百万亿年。"
+    cream "十秒钟和一百万亿年也是这样。"
 
 # game/bakery.rpy#L439
 translate chinese creamquickie_7b6b2941:
 
     # cream "To you, the immortal being, the 10 second lifespan of a baby is the same blip in the universe as the 100-year lifespan of the old woman. One and the same relatively."
-    cream "To you, the immortal being, the 10 second lifespan of a baby is the same blip in the universe as the 100-year lifespan of the old woman. One and the same relatively."
+    cream "对你这个不朽的生命来说，婴儿10秒的寿命和老太的百年历程在宇宙中并无差别。与无穷相比，他们两者是完全一样的。"
 
 # game/bakery.rpy#L440
 translate chinese creamquickie_dce4239a:
@@ -1557,7 +1557,7 @@ translate chinese creamquickie_dce4239a:
 translate chinese creamquickie_5674afdb:
 
     # cream "Nah nah nah, party boy, I’m not thinking literally, I’m thinking conceptually."
-    cream "Nah nah nah, party boy, I’m not thinking literally, I’m thinking conceptually."
+    cream "不不不，社交脑，我不是按照字面意思思考，我这是从概念上思考。"
 
 # game/bakery.rpy#L443
 translate chinese creamquickie_858f1677:

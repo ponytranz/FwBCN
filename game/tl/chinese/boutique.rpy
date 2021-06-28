@@ -1,4 +1,4 @@
-# Translation updated at Sun Jun 27 2021 00:55:08 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Mon Jun 28 2021 00:51:27 GMT+0000 (Coordinated Universal Time)
 # game/boutique.rpy#L20
 translate chinese boutiquevisit1_9babdb27:
 
@@ -2127,7 +2127,7 @@ translate chinese melodyhandjob2_9ba4495d:
 translate chinese melodyhandjob2_b384f249:
 
     # "Usual personality… That’s right, there was a brief moment Melody seemed kind and sympathetic earlier today; if Moxie naturally acts differently around me, maybe Melody does too."
-    "平日里的形象......对了，今天早些时候，有那么一会儿，Melody表现的很善良，甚至还带点同情心；如果Moxie在我身边很自然地就会表现出不同之处，兴许Melody也是碰上了一样的问题。"
+    "平日里的形象......对了，今天早些时候，有那么一会儿，Melody表现的很善良，甚至还带点同情心；如果Moxie在我身边，她很自然地就会表现出不同之处，兴许Melody也是碰上了一样的问题。"
 
 # game/boutique.rpy#L618
 translate chinese melodyhandjob2_9f7123a0:
@@ -2157,67 +2157,67 @@ translate chinese melodyhandjob2_0880a0a7:
 translate chinese melodyhandjob2_8717748e:
 
     # mc "Ohh, I see, that’s quite inspiring."
-    mc "Ohh, I see, that’s quite inspiring."
+    mc "哦，我明白了，你说的很有用。"
 
 # game/boutique.rpy#L625
 translate chinese melodyhandjob2_26a0048e:
 
     # "It’s clear I’m not getting the full picture. Obviously Melody has a motive, but I doubt it’s a malicious supervillain motive, she’s just frustrating to be around."
-    "It’s clear I’m not getting the full picture. Obviously Melody has a motive, but I doubt it’s a malicious supervillain motive, she’s just frustrating to be around."
+    "不过很明显，我得到的信息还不够全面。Melody犯事肯定是有个动机的，但我开始怀疑是不是她就是单纯的坏，想当那个反派，毕竟光是站在她身旁就让人感到毛骨悚然。"
 
 # game/boutique.rpy#L626
 translate chinese melodyhandjob2_dad214bc:
 
     # "I feel like I’ve overlooked one crucial detail for a while now just because it was so alien to me, but the hand job she gave me was perhaps the strangest experience in my life."
-    "I feel like I’ve overlooked one crucial detail for a while now just because it was so alien to me, but the hand job she gave me was perhaps the strangest experience in my life."
+    "我觉得自己好像忽略了某个关键的细节，因为这事对我而言很没有真实感，而她给我打的那次飞机当属我这辈子最奇怪的体验了。"
 
 # game/boutique.rpy#L627
 translate chinese melodyhandjob2_53464940:
 
     # mc "You mentioned you get woozy around me earlier, and you said some mares do get weak at the knees when around a man during this season, but have you ever heard of girls getting aggressive?"
-    mc "You mentioned you get woozy around me earlier, and you said some mares do get weak at the knees when around a man during this season, but have you ever heard of girls getting aggressive?"
+    mc "你刚才有提到在我身边待着会状态不好，而且你也提了说在这个季节，在男性身旁的雌驹普遍容易因为情感而两腿发软，但你听说过变的更具有侵略性的例子吗？"
 
 # game/boutique.rpy#L629
 translate chinese melodyhandjob2_d8d168b4:
 
     # moxie "Aggressive? Is Melody causing you trouble? I’ll kick her ass."
-    moxie "Aggressive? Is Melody causing you trouble? I’ll kick her ass."
+    moxie "侵略性？Melody给你惹麻烦了吗？你会收拾她一顿的。"
 
 # game/boutique.rpy#L630
 translate chinese melodyhandjob2_5be41823:
 
     # mc "No, no trouble, she’s just behaving in an unusual way."
-    mc "No, no trouble, she’s just behaving in an unusual way."
+    mc "不，不算麻烦，她只是表现的有些不寻常。"
 
 # game/boutique.rpy#L632
 translate chinese melodyhandjob2_ffe19e1e:
 
     # moxie "Uhm, well I don’t know, arousal and horniness aren’t really emotions, they may influence emotions, perhaps make certain ones stronger or weaker."
-    moxie "Uhm, well I don’t know, arousal and horniness aren’t really emotions, they may influence emotions, perhaps make certain ones stronger or weaker."
+    moxie "额。这我就不知道了，兴奋和发情并不算严格意义上的情感，他们只会影响情感，使之变得更加强烈或者微弱。"
 
 # game/boutique.rpy#L633
 translate chinese melodyhandjob2_b23303e3:
 
     # mc "I think Melody wants me back for some kind of scheme of hers, should I be careful?"
-    mc "I think Melody wants me back for some kind of scheme of hers, should I be careful?"
+    mc "我想，Melody似乎希望我回去参与她的某种阴谋，我该小心点吗？"
 
 # game/boutique.rpy#L635
 translate chinese melodyhandjob2_13da1b04:
 
     # moxie "Nah, if she’s messing around with you it’s probably just in harmless jest, I haven’t heard anything bad about those two. At most she’s horny and wants a cute boy like you around again, I’d say go for it."
-    moxie "Nah, if she’s messing around with you it’s probably just in harmless jest, I haven’t heard anything bad about those two. At most she’s horny and wants a cute boy like you around again, I’d say go for it."
+    moxie "应该不用，如果她想跟你搞事，那她可能只是开了个无害的玩笑，我从未听说过关于她们俩姐妹的坏话。她最多就是发情了然后希望有你这么个男的跟在一旁，换我的话肯定会去的。"
 
 # game/boutique.rpy#L636
 translate chinese melodyhandjob2_d159f8af:
 
     # mc "Hmm, maybe she’s horny, but she’ll just tease and mess me around."
-    mc "Hmm, maybe she’s horny, but she’ll just tease and mess me around."
+    mc "哼嗯，或许她真的只是发情了，只不过我出现时，她顺带上了惹是生非这一特性。"
 
 # game/boutique.rpy#L638
 translate chinese melodyhandjob2_47b067e6:
 
     # moxie "It’s up to you whether you want to go down that rabbit hole, I know for a fact that my curiosity would get the best of me in a situation like that, I say go for it."
-    moxie "It’s up to you whether you want to go down that rabbit hole, I know for a fact that my curiosity would get the best of me in a situation like that, I say go for it."
+    moxie "这还是取决于你到底想不想跳那个兔子洞，不过我倒是很明白一点，你要是去了，我的好奇心可以得到充分的满足，因此我建议你还是去吧。"
 
 # game/boutique.rpy#L640
 translate chinese melodyhandjob2_ce617998_1:
@@ -2235,13 +2235,13 @@ translate chinese melodyhandjob2_2b4f75c9_1:
 translate chinese melodyhandjob2_15b7a010_1:
 
     # "Moxie wasn’t lying when I said I might get approached by girls, I've had a few passing conversations with curious strangers and even been asked on a date."
-    "Moxie wasn’t lying when I said I might get approached by girls, I've had a few passing conversations with curious strangers and even been asked on a date."
+    "关于我会被各类女孩接近这事，Moxie倒是没骗我，我连着好几次让怀着好奇心理的陌生人搭了讪，甚至有几个喊我去约会的。"
 
 # game/boutique.rpy#L647
 translate chinese melodyhandjob2_768b9ec4:
 
     # "But I’m not particularly in the mood for a fling with a random mare."
-    "But I’m not particularly in the mood for a fling with a random mare."
+    "可我没那个跟路边的雌驹乱搞的心情......至少现在没有。"
 
 # game/boutique.rpy#L649
 translate chinese melodyhandjob2_346b7e9d_1:
@@ -2325,19 +2325,19 @@ translate chinese melodyhandjob2_b1257bb4:
 translate chinese melodyhandjob2_bffd364e:
 
     # butters "The way I act around you in heat isn't always 'me'. I can't help but act differently around you, less shy than ever before.."
-    butters "The way I act around you in heat isn't always 'me'. I can't help but act differently around you, less shy than ever before.."
+    butters "在你身旁时，我感觉自己不再是自己，行为方式和个人形象都跟平日里的样子大相径庭，我感觉自己的性格要直白了许多，甚至是变得更加开放了。"
 
 # game/boutique.rpy#L675
 translate chinese melodyhandjob2_14113f4e:
 
     # "That’s right, there was a brief moment Melody seemed kind and sympathetic earlier today; if Butters naturally acts differently around me, maybe Melody does too."
-    "That’s right, there was a brief moment Melody seemed kind and sympathetic earlier today; if Butters naturally acts differently around me, maybe Melody does too."
+    "对了，今天早些时候，有那么一会儿，Melody表现的很善良，甚至还带点同情心；如果Butters在我身边，她很自然地就会表现出不同之处，兴许Melody也是碰上了一样的问题。"
 
 # game/boutique.rpy#L676
 translate chinese melodyhandjob2_610da454:
 
     # "After all, Ruby gave me no cause for concern in regards for Melody’s behaviour, it seemed to be a wholly unique treatment towards me. There’s only one way to find out though."
-    "After all, Ruby gave me no cause for concern in regards for Melody’s behaviour, it seemed to be a wholly unique treatment towards me. There’s only one way to find out though."
+    "毕竟，Ruby完全没有预先警告过我关于Melody的奇特习惯的事情，看起来我才是被特殊对待的那个家伙。无论如何，想探明真相，只有一个方法。"
 
 # game/boutique.rpy#L677
 translate chinese melodyhandjob2_2f0ddc46_1:
@@ -2349,7 +2349,7 @@ translate chinese melodyhandjob2_2f0ddc46_1:
 translate chinese melodyhandjob2_633fd17e:
 
     # butters "Uhm, I don't know much, even though I was quite close friends with Ruby. I know she studies music, I think she’s quite sweet too, and has plenty of friends."
-    butters "Uhm, I don't know much, even though I was quite close friends with Ruby. I know she studies music, I think she’s quite sweet too, and has plenty of friends."
+    butters "呃，我知道的并不多，尽管Ruby和我是很好的朋友就是了。我知道她有在学习音乐，也感觉她挺可爱的，她还有不少朋友呢。"
 
 # game/boutique.rpy#L681
 translate chinese melodyhandjob2_04cb7aa1:
@@ -2361,49 +2361,49 @@ translate chinese melodyhandjob2_04cb7aa1:
 translate chinese melodyhandjob2_96853ca7:
 
     # mc "Ohh, I see, that’s quite aspiring."
-    mc "Ohh, I see, that’s quite aspiring."
+    mc "哦，我明白了，你说的很有用。"
 
 # game/boutique.rpy#L683
 translate chinese melodyhandjob2_26a0048e_1:
 
     # "It’s clear I’m not getting the full picture. Obviously Melody has a motive, but I doubt it’s a malicious supervillain motive, she’s just frustrating to be around."
-    "It’s clear I’m not getting the full picture. Obviously Melody has a motive, but I doubt it’s a malicious supervillain motive, she’s just frustrating to be around."
+    "不过很明显，我得到的信息还不够全面。Melody犯事肯定是有个动机的，但我开始怀疑是不是她就是单纯的坏，想当那个反派，毕竟光是站在她身旁就让人感到毛骨悚然。"
 
 # game/boutique.rpy#L684
 translate chinese melodyhandjob2_dad214bc_1:
 
     # "I feel like I’ve overlooked one crucial detail for a while now just because it was so alien to me, but the hand job she gave me was perhaps the strangest experience in my life."
-    "I feel like I’ve overlooked one crucial detail for a while now just because it was so alien to me, but the hand job she gave me was perhaps the strangest experience in my life."
+    "我觉得自己好像忽略了某个关键的细节，因为这事对我而言很没有真实感，而她给我打的那次飞机当属我这辈子最奇怪的体验了。"
 
 # game/boutique.rpy#L685
 translate chinese melodyhandjob2_53464940_1:
 
     # mc "You mentioned you get woozy around me earlier, and you said some mares do get weak at the knees when around a man during this season, but have you ever heard of girls getting aggressive?"
-    mc "You mentioned you get woozy around me earlier, and you said some mares do get weak at the knees when around a man during this season, but have you ever heard of girls getting aggressive?"
+    mc "你刚才有提到在我身边待着会状态不好，而且你也提了说在这个季节，在男性身旁的雌驹普遍容易因为情感而两腿发软，但你听说过变的更具有侵略性的例子吗？"
 
 # game/boutique.rpy#L687
 translate chinese melodyhandjob2_f7bea944:
 
     # butters "Aggressive? Was Melody aggressive?"
-    butters "Aggressive? Was Melody aggressive?"
+    butters "侵略性？Melody很有侵略性吗？"
 
 # game/boutique.rpy#L688
 translate chinese melodyhandjob2_047dd512:
 
     # mc "No, not aggressive, she’s just behaving in an unusual way."
-    mc "No, not aggressive, she’s just behaving in an unusual way."
+    mc "不，不算那么具有侵略性，她只是表现的有些不同寻常。"
 
 # game/boutique.rpy#L690
 translate chinese melodyhandjob2_a492c1c4:
 
     # butters "Uhm, well I don’t know, arousal and horniness aren’t really emotions. But I know they can certainnly influence emotions, perhaps make certain ones stronger or weaker."
-    butters "Uhm, well I don’t know, arousal and horniness aren’t really emotions. But I know they can certainnly influence emotions, perhaps make certain ones stronger or weaker."
+    butters "额，这我就不知道了，因为兴奋和发情并不算严格意义上的情感。我只知道它们会影响情感，可能使之变得更加强烈或者微弱吧。"
 
 # game/boutique.rpy#L691
 translate chinese melodyhandjob2_b23303e3_1:
 
     # mc "I think Melody wants me back for some kind of scheme of hers, should I be careful?"
-    mc "I think Melody wants me back for some kind of scheme of hers, should I be careful?"
+    mc "我想，Melody似乎希望我回去参与她的某种阴谋，我该悠着点吗？"
 
 # game/boutique.rpy#L693
 translate chinese melodyhandjob2_9f723206:

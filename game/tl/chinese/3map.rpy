@@ -1,4 +1,4 @@
-# Translation updated at Sun Jun 27 2021 00:55:08 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Mon Jun 28 2021 00:51:27 GMT+0000 (Coordinated Universal Time)
 # game/3map.rpy#L57
 translate chinese mapmarket_91ae100c:
 
@@ -5691,7 +5691,7 @@ translate chinese strings:
 
     # game/3map.rpy_L1822_1
     old "Riku Climbing Sex"
-    new "Riku Climbing Sex"
+    new "与Riku的攀岩位"
 
     # game/3map.rpy_L1822_2
     old "Lily Splits Sex"
