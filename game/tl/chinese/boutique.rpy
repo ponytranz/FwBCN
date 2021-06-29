@@ -1,4 +1,4 @@
-# Translation updated at Mon Jun 28 2021 00:51:27 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Tue Jun 29 2021 00:47:36 GMT+0000 (Coordinated Universal Time)
 # game/boutique.rpy#L20
 translate chinese boutiquevisit1_9babdb27:
 
@@ -2409,25 +2409,25 @@ translate chinese melodyhandjob2_b23303e3_1:
 translate chinese melodyhandjob2_9f723206:
 
     # butters "If she’s messing around with you it’s probably harmless, I haven’t heard anything bad about those two. At most she’s horny and wants a cute boy like you around again, I’d say go for it."
-    butters "If she’s messing around with you it’s probably harmless, I haven’t heard anything bad about those two. At most she’s horny and wants a cute boy like you around again, I’d say go for it."
+    butters "如果她想跟你搞事，那她可能只是开了个无害的玩笑，我从未听说过关于她们俩姐妹的坏话。她最多就是发情了然后希望有你这么个男的跟在一旁，换我的话肯定会去的。"
 
 # game/boutique.rpy#L694
 translate chinese melodyhandjob2_450df921:
 
     # mc "It can't be any more dangerous than cave diving with you."
-    mc "It can't be any more dangerous than cave diving with you."
+    mc "反正不可能比跟你一起下洞穴潜水还危险。"
 
 # game/boutique.rpy#L695
 translate chinese melodyhandjob2_f9e6880d:
 
     # butters "Heh, I told you that's not dangerous!"
-    butters "Heh, I told you that's not dangerous!"
+    butters "哦，我告诉过你那不危险的！"
 
 # game/boutique.rpy#L696
 translate chinese melodyhandjob2_e9ea92f3:
 
     # mc "Yeah, yeah..."
-    mc "Yeah, yeah..."
+    mc "彳亍，彳亍......"
 
 # game/boutique.rpy#L698
 translate chinese melodyhandjob2_ce617998_2:
@@ -2439,49 +2439,49 @@ translate chinese melodyhandjob2_ce617998_2:
 translate chinese boutiquevisit2_edd5f502:
 
     # "Down the rabbit hole, let’s see what Melody and Ruby are up to at the boutique."
-    "Down the rabbit hole, let’s see what Melody and Ruby are up to at the boutique."
+    "兔子洞就兔子洞，让我们看看Melody和Ruby到底在她们的精品店搞了个什么花招。"
 
 # game/boutique.rpy#L704
 translate chinese boutiquevisit2_3c3fb4a8:
 
     # "They live right next to the wagon, so it’d be nice to become good friends with them."
-    "They live right next to the wagon, so it’d be nice to become good friends with them."
+    "她们就住在篷车对面，因此同她们打好关系也挺不错的。"
 
 # game/boutique.rpy#L705
 translate chinese boutiquevisit2_1558d14e:
 
     # "I honestly have no idea what to expect."
-    "I honestly have no idea what to expect."
+    "不过说实话，我完全不知道该期待些什么。"
 
 # game/boutique.rpy#L708
 translate chinese boutiquevisit2_c5f76467:
 
     # "As I go to knock on the door, I dread Ruby opening the door and asking me what I’m doing back. Worst case scenario I go somewhere else with my non-existent tail tucked between my legs. I wonder if that saying works in this world."
-    "As I go to knock on the door, I dread Ruby opening the door and asking me what I’m doing back. Worst case scenario I go somewhere else with my non-existent tail tucked between my legs. I wonder if that saying works in this world."
+    "当我敲门的时候，我有点担心会不会是Ruby开的门，然后她会质问我为什么回来。最坏的情况就是我夹着那根本不存在的尾巴落荒而逃到了别的不知道什么地方。我都不知道夹着尾巴逃这个说法存不存在于这个世界上。"
 
 # game/boutique.rpy#L709
 translate chinese boutiquevisit2_3402e2d0:
 
     # "It sounds ridiculous, but right now I’d much rather talk to Melody and figure out what she wants."
-    "It sounds ridiculous, but right now I’d much rather talk to Melody and figure out what she wants."
+    "虽然听起来很扯，但我现在的确是更想和Melody谈谈，顺便弄清楚她到底想干什么。"
 
 # game/boutique.rpy#L713
 translate chinese boutiquevisit2_3ad3ff21:
 
     # "I knock on the door and Ruby is the one that greets me rather cheerfully."
-    "I knock on the door and Ruby is the one that greets me rather cheerfully."
+    "我敲了敲门，笑面相迎的是Ruby。"
 
 # game/boutique.rpy#L716
 translate chinese boutiquevisit2_97a0e9f6:
 
     # ruby "Oh goodness, it’s you. Darling, I’m so glad you came."
-    ruby "Oh goodness, it’s you. Darling, I’m so glad you came."
+    ruby "公主在上啊，原来是你。亲爱的，很高兴你能来。"
 
 # game/boutique.rpy#L718
 translate chinese boutiquevisit2_3c119c20:
 
     # ruby "We got off to such a bad start, I’m so sorry. Come on in! Allow me to make you a drink."
-    ruby "We got off to such a bad start, I’m so sorry. Come on in! Allow me to make you a drink."
+    ruby "抱歉，我们第一次见面就闹出了幺蛾子。快进来吧！我给你来杯好喝的。"
 
 # game/boutique.rpy#L719
 translate chinese boutiquevisit2_fc6dd8b3:
@@ -2493,19 +2493,19 @@ translate chinese boutiquevisit2_fc6dd8b3:
 translate chinese boutiquevisit2_7dcfb9d6:
 
     # "And again, just like last time, I can tell there’s something wrong here."
-    "And again, just like last time, I can tell there’s something wrong here."
+    "不过还是一样，就跟上次一样，我很肯定这儿有问题。"
 
 # game/boutique.rpy#L721
 translate chinese boutiquevisit2_195a903d:
 
     # mc "Hello Ruby, I uh…"
-    mc "Hello Ruby, I uh…"
+    mc "你好，Ruby，我，额......"
 
 # game/boutique.rpy#L722
 translate chinese boutiquevisit2_ceccee93:
 
     # "Crap, I didn’t even prepare anything to say, I cut myself short just before I said I’m here to work for the day. I can’t just admit I’m here because Melody told me."
-    "Crap, I didn’t even prepare anything to say, I cut myself short just before I said I’m here to work for the day. I can’t just admit I’m here because Melody told me."
+    "糟了，我还没准备好说辞，就在我差点脱口而出说自己是来工作时，我及时地打断了自己。我可不能直接承认自己是听了Melody的话才过来的。"
 
 # game/boutique.rpy#L723
 translate chinese boutiquevisit2_958afc47:

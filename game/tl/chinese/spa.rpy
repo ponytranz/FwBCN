@@ -1,4 +1,4 @@
-# Translation updated at Mon Jun 28 2021 00:51:28 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Tue Jun 29 2021 00:47:36 GMT+0000 (Coordinated Universal Time)
 # game/spa.rpy#L3
 translate chinese mapspa_a07ff8e2:
 

@@ -1,4 +1,4 @@
-# Translation updated at Mon Jun 28 2021 00:51:28 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Tue Jun 29 2021 00:47:36 GMT+0000 (Coordinated Universal Time)
 # game/library.rpy#L18
 translate chinese libraryvisit1_98593462:
 
@@ -1311,7 +1311,7 @@ translate chinese lilytj_d8efbe6b:
 translate chinese lilytj_61459984:
 
     # mc "I guess you are nude, that does help a tiny bit."
-    mc "你是裸体的，我认为这确实有一点帮助。"
+    mc "你是裸体的，我想这会有一点帮助。"
 
 # game/library.rpy#L383
 translate chinese lilytj_3696403f:
@@ -1419,13 +1419,13 @@ translate chinese lilytj_93dab07d:
 translate chinese lilytj_d4549783:
 
     # mc "Yeah, they tend to do that. Is this your first time seeing one in person, or something?"
-    mc "没错，我倾向于这样做。 这是你第一次亲眼看见到一个人在冲，还是什么？"
+    mc "没错，我倾向于这样做。 这是你第一次看见到一个人在冲吗？还是什么？"
 
 # game/library.rpy#L421
 translate chinese lilytj_93c1c2b1:
 
     # lily "M-Maybe... It's kinda making me feel hot."
-    lily "也许吧......这让我感到有点热。"
+    lily "也-也许吧......这让我感到有些兴奋。"
 
 # game/library.rpy#L422
 translate chinese lilytj_5faf71a0:
@@ -1455,7 +1455,7 @@ translate chinese lilytj_ddd22ea3:
 translate chinese lilytj_9ca11457:
 
     # "To my surprise, she closes the distance and gives me an even better view."
-    "令我惊讶的是，她靠近了距离，让我看得更清楚了。"
+    "令我惊讶的是，她靠近了距离，这让我看得更清楚了。"
 
 # game/library.rpy#L427
 translate chinese lilytj_f6fda442:
@@ -1467,13 +1467,13 @@ translate chinese lilytj_f6fda442:
 translate chinese lilytj_ef2c77bc:
 
     # mc "To make sure you won't get pregnant?"
-    mc "确保你不会怀孕吗?"
+    mc "为了确保你不会怀孕吗?"
 
 # game/library.rpy#L429
 translate chinese lilytj_c008ad8f:
 
     # lily "M-Me? I mean, yes technically I'm a mare, b-but..."
-    lily "我-我吗?严格来说我确实是雌驹，但是…"
+    lily "我-我吗?我当然是雌驹，不过…"
 
 # game/library.rpy#L430
 translate chinese lilytj_8b403733:
@@ -1539,25 +1539,25 @@ translate chinese lilytj_e03a1f95:
 translate chinese lilytj_83c22b16:
 
     # "Her movements are hot and arousing, it honestly does feel a little better than when I do it."
-    "她的动作很火辣，让人兴奋，真的比我自已动手感觉要好。"
+    "她的动作很实在，让人性奋，真感觉比我自已动手要好多了。"
 
 # game/library.rpy#L458
 translate chinese lilytj_609c9871:
 
     # lily "I hope I'm not coming onto you too quickly."
-    lily "我希望我没有过早地让你去了。"
+    lily "我希望我没有让你过早地射了。"
 
 # game/library.rpy#L459
 translate chinese lilytj_60995f85:
 
     # mc "This is good, I hope I won't cum too quickly either."
-    mc "这很好，我也希望我不会射得太快。"
+    mc "很好，我也希望我不会射得太快。"
 
 # game/library.rpy#L461
 translate chinese lilytj_c97ffc5e:
 
     # lily "I really do want to study you, maybe you’re a new species. Kinda makes me feel all fuzzy thinking about it."
-    lily "我真的很想研究你，因为你是一个新物种。我一想这点，我就感觉浑身发毛。"
+    lily "我真的很想研究你，因为你可是一个新物种。我一想这点，我就感觉浑身发毛。"
 
 # game/library.rpy#L462
 translate chinese lilytj_288e1fc3:
@@ -1815,7 +1815,7 @@ translate chinese lilytj_b7b2a0c6:
 translate chinese lilytj_2a603043:
 
     # lily "I can't help myself, I need this dick more than I need anything right now..."
-    lily "我控制不了自己，我现在最需要的就是这个小弟弟…"
+    lily "我控制不了自己了，我现在最需要的就是这个小弟弟…"
 
 # game/library.rpy#L546
 translate chinese lilytj_07c41b22:
@@ -3045,7 +3045,7 @@ translate chinese lilytj_527f054a:
 translate chinese lilytj_e4e07499:
 
     # "Not with a flash but with a fizzle, she finishes and takes a moment to catch her breath."
-    "不是一闪而过，而是一阵嘶嘶声后，她就花了点时间来喘息。"
+    "不是一闪而过，而是一阵嘶嘶声后，她就开始在喘息了。"
 
 # game/library.rpy#L906
 translate chinese lilytj_fed748de:
@@ -4401,25 +4401,25 @@ translate chinese libraryvisit2_79241636:
 translate chinese libraryvisit2_41fb55b6:
 
     # "As I do, I catch them both talking in the hall."
-    "As I do, I catch them both talking in the hall."
+    "此时，我正看见他们俩在大厅里谈话。"
 
 # game/library.rpy#L1270
 translate chinese libraryvisit2_4d5112b7:
 
     # penelope "[playername]? Yeah, they’re here for- Oh, hello!"
-    penelope "[playername]? Yeah, they’re here for- Oh, hello!"
+    penelope "[playername] ?好啊，他到这里了，噢-你好!"
 
 # game/library.rpy#L1271
 translate chinese libraryvisit2_e20610f9:
 
     # mc "Good morning, how are you two?"
-    mc "Good morning, how are you two?"
+    mc "早上好各位，感觉如何？"
 
 # game/library.rpy#L1273
 translate chinese libraryvisit2_84bbdc44:
 
     # lily "It was a good morning, now it’s a great one!"
-    lily "It was a good morning, now it’s a great one!"
+    lily "这是一个美好的早晨，马上它是一个伟大的早晨了!"
 
 # game/library.rpy#L1275
 translate chinese libraryvisit2_de7b83ac:

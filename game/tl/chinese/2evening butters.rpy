@@ -1,4 +1,4 @@
-# Translation updated at Mon Jun 28 2021 00:51:27 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Tue Jun 29 2021 00:47:36 GMT+0000 (Coordinated Universal Time)
 # game/2evening%20butters.rpy#L11
 translate chinese eveningbutters_ce840f9e:
 
@@ -1119,7 +1119,7 @@ translate chinese eveningbutterssex_e8fec5b4:
 translate chinese eveningbutterssex_e8e7bfe1:
 
     # butters "Cum for me, cum for me [playername]! I want you to fill my womb, impregnate me!"
-    butters "都射出来，射给我吧[playername]!把人家的子宫填满，怀上小宝宝！"
+    butters "都射出来，射给我吧[playername]!把子宫填满，怀上宝宝！"
 
 # game/2evening%20butters.rpy#L471
 translate chinese eveningbutterssex_cdb40f9b:
@@ -1617,7 +1617,7 @@ translate chinese eveningbutterssex_5b32e814:
 translate chinese eveningbutterssex_30c24c5d:
 
     # "Suddenly I feel a warmth hit my cock, as a trail of drool slathers over the tip and wettens my entire member as it’s caught within the motion of the titfuck."
-    "突然长枪上传来一股温暖之气，原来是她的口涎流在了我的龟头上，将整根肉棒都打湿了，起到了更好的润滑作用。"
+    "突然肉棒上传来一股温暖之气，原来是她的口涎流在了我的龟头上，将整根肉棒都打湿了，起到了更好的润滑作用。"
 
 # game/2evening%20butters.rpy#L617
 translate chinese eveningbutterssex_f644af0e:
@@ -1707,7 +1707,7 @@ translate chinese eveningbutterssex_51235bed:
 translate chinese eveningbutterssex_23dd6f14:
 
     # mc "Hmm… Clean up all this milk and cum, and I’ll fuck you good enough for two orgasms."
-    mc "嗯...先把这些乳汁和精液收拾干净，然后我让你上两次天如何。"
+    mc "嗯...先把这些乳汁和精液收拾干净，然后我让你上两次/天如何。"
 
 # game/2evening%20butters.rpy#L645
 translate chinese eveningbutterssex_2c05f02a:
@@ -1731,7 +1731,7 @@ translate chinese eveningbutterssex_4a17c672:
 translate chinese eveningbutterssex_fb26ea0a:
 
     # "I pound her pussy intensely until we’re both cumming again."
-    "尖直长枪再显锋芒，搅得深坑天翻地覆。我们二人再次步入性爱的高潮。"
+    "长枪再显锋芒，搅得深坑天翻地覆。我们二人再次步入性爱的高潮。"
 
 # game/2evening%20butters.rpy#L657
 translate chinese eveningbutterssex_97283ada:
@@ -1911,7 +1911,7 @@ translate chinese eveningbutterstalk_0599c517:
 translate chinese eveningbutterstalk_61e4661f:
 
     # butters "Far, far away from here, in wilder and untamed lands."
-    butters "在很远很远的地方，那些荒凉荆棘之地。"
+    butters "在很远很远的地方，那些荒凉之地。"
 
 # game/2evening%20butters.rpy#L712
 translate chinese eveningbutterstalk_dad91e81:
@@ -1923,7 +1923,7 @@ translate chinese eveningbutterstalk_dad91e81:
 translate chinese eveningbutterstalk_162301c7:
 
     # butters "I'm not sure, I've been living in limbo for so long, it's still hard to acknowledge that I'm 'normal' again."
-    butters "不造，我往昔惶惶不可终日，虽然很难承认，但我现在又回归“正常”了。"
+    butters "不确定，我往昔惶惶不可终日，虽然很难承认，但我现在又回归“正常”了。"
 
 # game/2evening%20butters.rpy#L715
 translate chinese eveningbutterstalk_4763bc6f:
@@ -2025,7 +2025,7 @@ translate chinese eveningbutterstalk_3e0558f8:
 translate chinese eveningbutterstalk_6eab0fac:
 
     # butters "I don't think we should have any though."
-    butters "我觉得吧，咱两不需要那种东西。"
+    butters "我觉得吧，咱俩不需要那种东西。"
 
 # game/2evening%20butters.rpy#L737
 translate chinese eveningbutterstalk_0dd93717:
@@ -2637,7 +2637,7 @@ translate chinese eveningbutterssucctalk_bcc14786:
 translate chinese eveningbutterssucctalk_9199dcb6:
 
     # butters "Hard to say. I've asked myself that question a few times too."
-    butters "我自己也不知道。我自己都因为这个问题伤脑筋呢。"
+    butters "很难说。我自己都因为这个问题伤脑筋呢。"
 
 # game/2evening%20butters.rpy#L973
 translate chinese eveningbutterssucctalk_a073a8a7:
@@ -3771,7 +3771,7 @@ translate chinese buttersimpregmissionary_e8fec5b4:
 translate chinese buttersimpregmissionary_e8e7bfe1:
 
     # butters "Cum for me, cum for me [playername]! I want you to fill my womb, impregnate me!"
-    butters "都射出来，射给我吧[playername]!把人家的子宫填满，怀上小宝宝！"
+    butters "都射出来，射给我吧[playername]!把子宫填满，怀上宝宝！"
 
 # game/2evening%20butters.rpy#L1334
 translate chinese buttersimpregmissionary_cdb40f9b:
@@ -4647,7 +4647,7 @@ translate chinese buttersimpregpaizuri_5b32e814:
 translate chinese buttersimpregpaizuri_30c24c5d:
 
     # "Suddenly I feel a warmth hit my cock, as a trail of drool slathers over the tip and wettens my entire member as it’s caught within the motion of the titfuck."
-    "突然阴茎上传来一股温暖之气，原来是她的口涎流在了我的龟头上，将整根肉棒都打湿了，起到了更好的润滑作用。"
+    "突然肉棒上传来一股温暖之气，原来是她的口涎流在了我的龟头上，将整根肉棒都打湿了，起到了更好的润滑作用。"
 
 # game/2evening%20butters.rpy#L1619
 translate chinese buttersimpregpaizuri_f644af0e:
@@ -4749,7 +4749,7 @@ translate chinese buttersimpregpaizuri_3281c4a1:
 translate chinese buttersimpregpaizuri_23dd6f14:
 
     # mc "Hmm… Clean up all this milk and cum, and I’ll fuck you good enough for two orgasms."
-    mc "嗯...先把这些乳汁和精液收拾干净，然后我让你上两次天如何。"
+    mc "嗯...先把这些乳汁和精液收拾干净，然后我让你上两次/天如何。"
 
 # game/2evening%20butters.rpy#L1649
 translate chinese buttersimpregpaizuri_2c05f02a:
@@ -4773,7 +4773,7 @@ translate chinese buttersimpregpaizuri_4a17c672:
 translate chinese buttersimpregpaizuri_fb26ea0a:
 
     # "I pound her pussy intensely until we’re both cumming again."
-    "阴茎再一次搅入肉环的环抱中。我们二人渐入性爱的高潮。"
+    "长枪再显锋芒，搅得深坑天翻地覆。我们二人再次步入性爱的高潮。"
 
 # game/2evening%20butters.rpy#L1661
 translate chinese buttersimpregpaizuri_97283ada:
