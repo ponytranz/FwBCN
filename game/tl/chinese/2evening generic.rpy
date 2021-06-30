@@ -1,4 +1,4 @@
-# Translation updated at Tue Jun 29 2021 00:47:36 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Wed Jun 30 2021 00:52:47 GMT+0000 (Coordinated Universal Time)
 # game/2evening%20generic.rpy#L16
 translate chinese evening_f9a4bca4:
 
@@ -153,9 +153,9 @@ translate chinese strings:
 
     # game/2evening generic.rpy_L54_0
     old "Go tonight"
-    new "今晚去。"
+    new "今晚去"
 
     # game/2evening generic.rpy_L54_1
     old "Visit another night"
-    new "另一个晚上吧。"
+    new "另一个晚上"
 

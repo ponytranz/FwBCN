@@ -1,4 +1,4 @@
-# Translation updated at Tue Jun 29 2021 00:47:36 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Wed Jun 30 2021 00:52:47 GMT+0000 (Coordinated Universal Time)
 # game/farm.rpy#L20
 translate chinese farm_c5de936b:
 
@@ -615,13 +615,13 @@ translate chinese farmvisit1_6d4ad9c7:
 translate chinese farmvisit1_ca7faf73:
 
     # honeycrisp "That’s fantastic news sugar, really appreciate ya coming here"
-    honeycrisp "That’s fantastic news sugar, really appreciate ya coming here"
+    honeycrisp "这真是个绝顶好消息啊，宝贝儿，非常欢迎你来到这里。"
 
 # game/farm.rpy#L244
 translate chinese farmvisit1_d666f417:
 
     # honeycrisp "You came just in time, I’ve been struggling to keep up the farm alone with mah dang cast and I'm running behind on apple deliveries."
-    honeycrisp "You came just in time, I’ve been struggling to keep up the farm alone with mah dang cast and I'm running behind on apple deliveries."
+    honeycrisp "你来的正是时候，老娘一个人打着他妈的石膏拼命运营这个农场，现在都快赶不上苹果的供货时间了。"
 
 # game/farm.rpy#L245
 translate chinese farmvisit1_063e0fdd:
@@ -633,13 +633,13 @@ translate chinese farmvisit1_063e0fdd:
 translate chinese farmvisit1_f965f90b:
 
     # honeycrisp "Yup, it’s more of a recent thing unfortunately, things around ‘ere have halted and the injury certainly hasn’t helped."
-    honeycrisp "Yup, it’s more of a recent thing unfortunately, things around ‘ere have halted and the injury certainly hasn’t helped."
+    honeycrisp "是啊，很不幸，这正是最近发生的事情。这里的一切都陷入了停滞，这个伤也实在是没马来帮我治。"
 
 # game/farm.rpy#L249
 translate chinese farmvisit1_4574ddb8:
 
     # honeycrisp "Big issue is, I have some early varieties of apples that need picking and I just can’t do it... No matter how hard I try... I can’t use a ladder and pluck apples with this darn cast slowing me down."
-    honeycrisp "Big issue is, I have some early varieties of apples that need picking and I just can’t do it... No matter how hard I try... I can’t use a ladder and pluck apples with this darn cast slowing me down."
+    honeycrisp "主要的问题是，我有些早熟品种的苹果要摘，但是老娘根本干不了...不管我多努力地尝试..打着这个他娘的拖我后腿的石膏，我实在没办法拎着把梯子然后苹果摘下来。"
 
 # game/farm.rpy#L250
 translate chinese farmvisit1_9978e619:

@@ -1,4 +1,4 @@
-# Translation updated at Tue Jun 29 2021 00:47:36 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Wed Jun 30 2021 00:52:47 GMT+0000 (Coordinated Universal Time)
 # game/2evening%20moxie.rpy#L11
 translate chinese eveningmoxie_80cb7a87:
 
@@ -33,7 +33,7 @@ translate chinese eveningmoxie2menu_b1bb12e5:
 translate chinese eveningmoxie2menu_9211ecec:
 
     # moxie "Hah, wow, here I thought someone else got you those. I was jealous, no one has gotten me chocolates before."
-    moxie "哇偶，我以为是别人给你买的。我很嫉妒，以前没人给我买过巧克力。"
+    moxie "哇偶，我还以为是别人给你买的。我刚刚还嫉妒你来着，以前没人给我买过巧克力嘛。"
 
 # game/2evening%20moxie.rpy#L48
 translate chinese eveningmoxie2menu_d0b735c9:
@@ -159,13 +159,13 @@ translate chinese moxieblowjob_e85c45b8:
 translate chinese moxieblowjob_f3895493:
 
     # moxie "Yeah yeah, you're lucky I like sucking your cock anyway, let me at it."
-    moxie "是的是的，你很幸运我喜欢吃你的cock，不管怎样，让我来吧。"
+    moxie "是的是的，你很幸运我喜欢吃你的肉棒，不管怎样，让我来吧。"
 
 # game/2evening%20moxie.rpy#L156
 translate chinese moxieblowjob_ebf6f653:
 
     # "I lay back and get comfortable as Moxie kneels between my legs, starting to jack off my cock to get it hard before she begins licking the tip."
-    "我躺下，舒服地看着Moxie.跪在我的两腿之间，在她开始舔我的龟头之前，我开始撸自己的cock，让它变得坚硬。"
+    "我躺下，舒服地看着Moxie.跪在我的两腿之间，在她开始舔我的龟头之前，我开始撸自己的肉棒，让它变得坚硬。"
 
 # game/2evening%20moxie.rpy#L158
 translate chinese moxieblowjob_8f75f08e:
@@ -213,13 +213,13 @@ translate chinese moxieblowjob_34a0c379:
 translate chinese moxieblowjob_ee47a462:
 
     # "She starts to rub herself faster and it won't take much to get her off when she’s this aroused."
-    "她摩擦的速度开始加快。当她有了快感，就会开始缠在我身上。"
+    "她摩擦的速度开始加快。当她有了快感，就会开始缠在我身上"
 
 # game/2evening%20moxie.rpy#L170
 translate chinese moxieblowjob_407bb269:
 
     # "She lowers her head up and down against my cock in short unfocused motions."
-    "她的头上下起伏，同时快速吮吸着我的cock。"
+    "她的头上下起伏，同时快速吮吸着我的cock"
 
 # game/2evening%20moxie.rpy#L172
 translate chinese moxieblowjob_b7bb1901:
@@ -237,13 +237,13 @@ translate chinese moxieblowjob_b9773bd0:
 translate chinese moxieblowjob_a99f6055:
 
     # moxie "Ahh… I’m nearly… *Slurp* Mmpph."
-    moxie "啊……我要……*呲溜* 嗯。"
+    moxie "啊……我要……*呲溜* 嗯"
 
 # game/2evening%20moxie.rpy#L176
 translate chinese moxieblowjob_c7753ac8:
 
     # "I can see her visibly tense up as she appears to climax, her expression is one of bliss as she lazily wiggles her tongue on my erection, enjoying the moment to the fullest."
-    "我可以看出来，在她达到高潮时，她的肌肉开始紧绷起来。在她慵懒地舔舐着我的肉棒，沉浸在高潮的快感中时，她的表情也变得十分陶醉。"
+    "我可以看出来，在她达到高潮时，她的肌肉开始紧绷起来。在她慵懒地舔舐着我的肉棒，沉浸在高潮的快感中时，她的表情也变得十分陶醉"
 
 # game/2evening%20moxie.rpy#L178
 translate chinese moxieblowjob_df0b7b70:
@@ -255,7 +255,7 @@ translate chinese moxieblowjob_df0b7b70:
 translate chinese moxieblowjob_9b86f9e3:
 
     # mc "Sure thing, I’m pretty close anyway, your tongue works wonders."
-    mc "当然对了，我马上就要射了，你的口活可真厉害。"
+    mc "当然对了，我马上就要射了，你的口活可真厉害"
 
 # game/2evening%20moxie.rpy#L182
 translate chinese moxieblowjob_f89f3b89:

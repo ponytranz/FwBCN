@@ -1,4 +1,4 @@
-# Translation updated at Tue Jun 29 2021 00:47:36 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Wed Jun 30 2021 00:52:47 GMT+0000 (Coordinated Universal Time)
 # game/library.rpy#L18
 translate chinese libraryvisit1_98593462:
 
@@ -1827,13 +1827,13 @@ translate chinese lilytj_07c41b22:
 translate chinese lilytj_2c41850e:
 
     # lily "Haahh, this feels so good... Does it feel good for you too?"
-    lily "哈，这感觉太好了…你也感觉好吗?"
+    lily "哈，这感觉太棒了…你也感觉好吗?"
 
 # game/library.rpy#L548
 translate chinese lilytj_36719015:
 
     # mc "Yeah, much better than just your hand. Tighten your thighs a little more for me."
-    mc "是啊，比你的手强多了。给我把你的大腿收紧一点。"
+    mc "是啊，比你动手强多了。来把你的大腿收紧一点。"
 
 # game/library.rpy#L549
 translate chinese lilytj_413b0033:
@@ -1851,7 +1851,7 @@ translate chinese lilytj_5965127d:
 translate chinese lilytj_b1de3b64:
 
     # lily "Why don’t I feel shy around you? Why do I feel like I can do anything with you? It’s so weird…"
-    lily "我在你身边怎么感觉不害羞呢?为什么我觉得我可以和你一起做任何事?真奇怪……"
+    lily "为什么我在你身边感觉不到害羞呢?为何我觉得我可以和你一起做任何事？真奇怪……"
 
 # game/library.rpy#L552
 translate chinese lilytj_20d53f80:
@@ -1863,7 +1863,7 @@ translate chinese lilytj_20d53f80:
 translate chinese lilytj_66cf21d6:
 
     # lily "I dunno… I usually avoid men while I’m in heat..."
-    lily "我不清楚，我发情的时候通常会避开男人。"
+    lily "我不清楚…我发情的时候通常会避开男人。"
 
 # game/library.rpy#L554
 translate chinese lilytj_07b0244d:
@@ -1875,7 +1875,7 @@ translate chinese lilytj_07b0244d:
 translate chinese lilytj_d5b0fbe0:
 
     # "She starts rocking back and forth quite fast now, seems she’s getting into it."
-    "她开始前后摇晃的相当快，似乎她进入了状态。"
+    "她开始加快前后晃动的速度，似乎她进入了状态。"
 
 # game/library.rpy#L556
 translate chinese lilytj_afa9181e:
@@ -1893,7 +1893,7 @@ translate chinese lilytj_7d5cbd0c:
 translate chinese lilytj_6b68ef58:
 
     # "Her movements are silky smooth as her hips gyrate up and down my shaft. She’s getting faster too."
-    "她的动作如丝绸般顺滑，她的臀部在我的轴上回旋。她也越来越快了。"
+    "她的动作如丝绸般顺滑，她的臀部在我的轴上回旋。速度也越来越快了。"
 
 # game/library.rpy#L559
 translate chinese lilytj_88e9afcb:
@@ -4395,7 +4395,7 @@ translate chinese libraryvisit2_48f09462:
 translate chinese libraryvisit2_79241636:
 
     # "Feeling comfortable with the environment, I step through the library and make my way upstairs to where Penny and Lily live."
-    "Feeling comfortable with the environment, I step through the library and make my way upstairs to where Penny and Lily live."
+    "这儿的环境非常舒适，我穿过图书馆，上楼来到Penny和Lily住的地方。"
 
 # game/library.rpy#L1258
 translate chinese libraryvisit2_41fb55b6:
@@ -4407,7 +4407,7 @@ translate chinese libraryvisit2_41fb55b6:
 translate chinese libraryvisit2_4d5112b7:
 
     # penelope "[playername]? Yeah, they’re here for- Oh, hello!"
-    penelope "[playername] ?好啊，他到这里了，噢-你好!"
+    penelope "[playername] ?好啊，他到这里了。嘿，早上好!"
 
 # game/library.rpy#L1271
 translate chinese libraryvisit2_e20610f9:
@@ -4419,37 +4419,37 @@ translate chinese libraryvisit2_e20610f9:
 translate chinese libraryvisit2_84bbdc44:
 
     # lily "It was a good morning, now it’s a great one!"
-    lily "这是一个美好的早晨，马上它是一个伟大的早晨了!"
+    lily "这是一个美好的早晨，马上它将是一个伟大的早晨了!"
 
 # game/library.rpy#L1275
 translate chinese libraryvisit2_de7b83ac:
 
     # penelope "It’s great to see you [playername], you must be here to see me, right?"
-    penelope "It’s great to see you [playername], you must be here to see me, right?"
+    penelope "很高兴见到你[playername]，你一定是过来看我的吧?"
 
 # game/library.rpy#L1277
 translate chinese libraryvisit2_269f3bb2:
 
     # lily "N-No way, he came here to see me! We have important tests to do."
-    lily "N-No way, he came here to see me! We have important tests to do."
+    lily "才-才不是呢，他是过来见我的!我们有重要的测试要做。"
 
 # game/library.rpy#L1279
 translate chinese libraryvisit2_5803ba84:
 
     # penelope "Tests? I think you’re misunderstanding, he’s here to work at the library."
-    penelope "Tests? I think you’re misunderstanding, he’s here to work at the library."
+    penelope "测试?我想你误会了，他是到图书馆打工的。"
 
 # game/library.rpy#L1281
 translate chinese libraryvisit2_7ed259aa:
 
     # lily "If he wanted to work at the library, he wouldn’t have come an hour early. Come on Penelope, figure it out."
-    lily "If he wanted to work at the library, he wouldn’t have come an hour early. Come on Penelope, figure it out."
+    lily "如果他想到图书馆工作，他就不会早来一小时。拜托，Penelope，动动脑子。"
 
 # game/library.rpy#L1282
 translate chinese libraryvisit2_c4c400ee:
 
     # "Hour early? God damnit, I accidentally came early again."
-    "Hour early? God damnit, I accidentally came early again."
+    "早到一个小时?该死，我又不小心来早了。"
 
 # game/library.rpy#L1283
 translate chinese libraryvisit2_ba90f42e:

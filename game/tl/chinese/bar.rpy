@@ -1,4 +1,4 @@
-# Translation updated at Tue Jun 29 2021 00:47:36 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Wed Jun 30 2021 00:52:47 GMT+0000 (Coordinated Universal Time)
 # game/bar.rpy#L13
 translate chinese barvisit1_d43fa519:
 
@@ -2523,19 +2523,19 @@ translate chinese cbrikutod_93e9c03c:
 translate chinese cbrikutod_e24f7ee1:
 
     # mc "You’re an attractive mare, and a catch on top of that, I’d be lucky."
-    mc "You’re an attractive mare, and a catch on top of that, I’d be lucky."
+    mc "你是个很吸引人的母马，更别说，要是我和你搞在一起，那就很幸运了。"
 
 # game/bar.rpy#L703
 translate chinese cbrikutod_07b39090:
 
     # riku "In the… Hmph."
-    riku "In the… Hmph."
+    riku "就在……哼。"
 
 # game/bar.rpy#L704
 translate chinese cbrikutod_dda17501:
 
     # "She’s blushing, somehow despite the fact she was trying to embarrass me, the opposite ended up happening and now she’s flustered."
-    "She’s blushing, somehow despite the fact she was trying to embarrass me, the opposite ended up happening and now she’s flustered."
+    "她正在脸红。虽说她本来是想要让我感到尴尬，但却适得其反，她自己开始慌乱起来了。"
 
 # game/bar.rpy#L707
 translate chinese cbrikutod_9154f54d:
@@ -2589,7 +2589,7 @@ translate chinese cbrikutod_ca3535b2:
 translate chinese cbrikutod_d128f170:
 
     # "I shuffle around to orientate myself with her toes on the sofa."
-    "I shuffle around to orientate myself with her toes on the sofa."
+    "我挪动身子，让自己面朝她沙发上的脚趾头。"
 
 # game/bar.rpy#L718
 translate chinese cbrikutod_6b9bdacb:
@@ -2625,7 +2625,7 @@ translate chinese cbrikutod_18338305:
 translate chinese cbrikutod_862bb009:
 
     # "I pop her toe out of my mouth and do the licking part of the dare, across all five of her fluffy bean toes."
-    "I pop her toe out of my mouth and do the licking part of the dare, across all five of her fluffy bean toes."
+    "我啵地一声将她的趾头从我嘴中拿开，开始做舔的那部分，在她全部五根毛茸茸的脚趾上都舔了起来。"
 
 # game/bar.rpy#L725
 translate chinese cbrikutod_a33bf90e:
@@ -2649,7 +2649,7 @@ translate chinese cbrikutod_90b27566:
 translate chinese cbrikutod_6e1722f8:
 
     # "With only five of ten toes serviced, she’s too embarrassed to go on and pushes me back."
-    "With only five of ten toes serviced, she’s too embarrassed to go on and pushes me back."
+    "我仅仅服侍了十根趾头中的一半，她就过于尴尬，撑不下去，叫我停下来。"
 
 # game/bar.rpy#L730
 translate chinese cbrikutod_ead38d87:
@@ -2697,13 +2697,13 @@ translate chinese cbrikutod_27fe57f5:
 translate chinese cbrikutod_71ba790c:
 
     # riku "I guess this is my just desserts for that previous round."
-    riku "I guess this is my just desserts for that previous round."
+    riku "我想这是先前的回合之后，我应得的报偿。"
 
 # game/bar.rpy#L742
 translate chinese cbrikutod_86595b14:
 
     # mc "You bet it is, where are you going to do it?"
-    mc "You bet it is, where are you going to do it?"
+    mc "你就当它是吧，你要去吻哪里呢？"
 
 # game/bar.rpy#L744
 translate chinese cbrikutod_89f59185:
@@ -2715,7 +2715,7 @@ translate chinese cbrikutod_89f59185:
 translate chinese cbrikutod_f70c511a:
 
     # "Silently I shuffle closer and look away in an expectant manner."
-    "Silently I shuffle closer and look away in an expectant manner."
+    "我默默地移近，以一种期待的态度看着别处。"
 
 # game/bar.rpy#L747
 translate chinese cbrikutod_a63f6206:
@@ -2727,127 +2727,127 @@ translate chinese cbrikutod_a63f6206:
 translate chinese cbrikutod_c9829a10:
 
     # "And then, the hot tongue swirls outwards followed by her lips sucking against my neck."
-    "And then, the hot tongue swirls outwards followed by her lips sucking against my neck."
+    "然后，她的舌头便从嘴唇中伸出，吮吸着我的脖子。"
 
 # game/bar.rpy#L749
 translate chinese cbrikutod_c35adece:
 
     # mc "Don’t leave a mark."
-    mc "Don’t leave a mark."
+    mc "别留下印了。"
 
 # game/bar.rpy#L750
 translate chinese cbrikutod_64cfcfe1:
 
     # riku "Mmphh… Yeah…"
-    riku "Mmphh… Yeah…"
+    riku "嗯嗯……是啊……"
 
 # game/bar.rpy#L751
 translate chinese cbrikutod_91d3c7bf:
 
     # "She stops sucking and just licks my neck from now on. She does in fact stray away from the original position, starting to lick up and down the length of my neck. Over eagerness, or perhaps misinterpreting the dare."
-    "She stops sucking and just licks my neck from now on. She does in fact stray away from the original position, starting to lick up and down the length of my neck. Over eagerness, or perhaps misinterpreting the dare."
+    "然后，她不再吮吸，就只是舔着我的脖子。她事实上开始偏离原来的位置，开始沿着脖子上下舔舐。她相当地期待，或者说她可能误解了大冒险的意味。"
 
 # game/bar.rpy#L753
 translate chinese cbrikutod_c07b8f83:
 
     # riku "Mmm, hash it bween thwirty sethonds?"
-    riku "Mmm, hash it bween thwirty sethonds?"
+    riku "嗯，窝舔了有山十秒宗吗？"
 
 # game/bar.rpy#L754
 translate chinese cbrikutod_8890c32e:
 
     # "She mutters with her tongue awkwardly shimmying up and down my neck."
-    "She mutters with her tongue awkwardly shimmying up and down my neck."
+    "她一边用舌头贴着我的脖子上下摆动，一边喃喃低语。"
 
 # game/bar.rpy#L755
 translate chinese cbrikutod_59393570:
 
     # "She then gives my neck one last kiss before leaning back and winking at me."
-    "She then gives my neck one last kiss before leaning back and winking at me."
+    "在最后亲了一下之后，她就靠到后面，向我眨眼。"
 
 # game/bar.rpy#L757
 translate chinese cbrikutod_277df75d:
 
     # riku "Too easy!"
-    riku "Too easy!"
+    riku "太简单了！"
 
 # game/bar.rpy#L759
 translate chinese cbrikutod_7b57da42:
 
     # "She gulps and her eyes look down at my hand which I then raise before pointing my index finger at her."
-    "She gulps and her eyes look down at my hand which I then raise before pointing my index finger at her."
+    "她咽了咽口水，双眼盯着我的手，然后我举起食指指着她。"
 
 # game/bar.rpy#L761
 translate chinese cbrikutod_71ba790c_1:
 
     # riku "I guess this is my just desserts for that previous round."
-    riku "I guess this is my just desserts for that previous round."
+    riku "我想这只是上一轮大冒险的开胃小菜。"
 
 # game/bar.rpy#L762
 translate chinese cbrikutod_43569ea0:
 
     # mc "You bet it is. Don’t half ass it, my finger is tough to please."
-    mc "You bet it is. Don’t half ass it, my finger is tough to please."
+    mc "你猜对了，赶紧的，我的手指都快等着急了。"
 
 # game/bar.rpy#L764
 translate chinese cbrikutod_b44d5cc1:
 
     # riku "Hmph, yeah right, let me at him. He won’t last 30 seconds with my technique."
-    riku "Hmph, yeah right, let me at him. He won’t last 30 seconds with my technique."
+    riku "哼，好吧，让我来对付他。以我的技术他肯定撑不过30秒。"
 
 # game/bar.rpy#L766
 translate chinese cbrikutod_105dfde5:
 
     # "She leans forward and takes the full length of my index finger in her mouth. I can immediately feel her tongue at the tip playing around as her lips move back and forth."
-    "She leans forward and takes the full length of my index finger in her mouth. I can immediately feel her tongue at the tip playing around as her lips move back and forth."
+    "她身体前倾，把我的食指全部吮在嘴里。我很快就感觉到她的舌头缠着我的指尖，嘴唇一缩一收。"
 
 # game/bar.rpy#L767
 translate chinese cbrikutod_3098b15e:
 
     # "Obviously it doesn’t feel pleasureful at all, but it’s so erotic."
-    "Obviously it doesn’t feel pleasureful at all, but it’s so erotic."
+    "说实话，快感确实没多少，不过我的性欲可是被挑起来了。"
 
 # game/bar.rpy#L768
 translate chinese cbrikutod_f8cdc3be:
 
     # "Her eyes are closed, and she’s completely in the zone. I can’t help but imagine how good it would feel if she were doing this to my actual cock right now."
-    "Her eyes are closed, and she’s completely in the zone. I can’t help but imagine how good it would feel if she were doing this to my actual cock right now."
+    "她闭着眼睛，完全进入状态。我不禁幻想，如果她现在是对我的大根这样吸，那绝对爽飞天了。"
 
 # game/bar.rpy#L769
 translate chinese cbrikutod_59beedfc:
 
     # "For the last few seconds she pulls out, and pretends to jerk my finger off while she sticks her tongue out. As if pretending she’s getting a facial."
-    "For the last few seconds she pulls out, and pretends to jerk my finger off while she sticks her tongue out. As if pretending she’s getting a facial."
+    "到最后几秒钟，她把我的手指吐了出来，一边伸出舌头一边假装要给我的手指打飞机。装得像真的一样。"
 
 # game/bar.rpy#L770
 translate chinese cbrikutod_99a758b5:
 
     # "This would be the part where I’d laugh, but I’m too turned on to see the funny side."
-    "This would be the part where I’d laugh, but I’m too turned on to see the funny side."
+    "本来我看到这里还挺想笑的，不过因为太性奋，结果没笑出来。"
 
 # game/bar.rpy#L772
 translate chinese cbrikutod_c224cc97:
 
     # riku "All done, way too easy."
-    riku "All done, way too easy."
+    riku "完成，太简单了。"
 
 # game/bar.rpy#L773
 translate chinese cbrikutod_6228db10:
 
     # mc "Good job, I could definitely feel that you were an expert with your tongue."
-    mc "Good job, I could definitely feel that you were an expert with your tongue."
+    mc "好样的，我能感觉到你舌头上的活儿不错。"
 
 # game/bar.rpy#L775
 translate chinese cbrikutod_5c616c91:
 
     # riku "I don’t like to brag; but my tongue does that for me."
-    riku "I don’t like to brag; but my tongue does that for me."
+    riku "不是我吹，我的舌头简直就是为此而长的。"
 
 # game/bar.rpy#L777
 translate chinese cbrikutod_7e5c79cc:
 
     # riku "Truth or dare?"
-    riku "Truth or dare?"
+    riku "真心话还是大冒险？"
 
 # game/bar.rpy#L778
 translate chinese cbrikutod_68d1e318:

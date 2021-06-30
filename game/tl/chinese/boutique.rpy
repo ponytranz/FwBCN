@@ -1,4 +1,4 @@
-# Translation updated at Tue Jun 29 2021 00:47:36 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Wed Jun 30 2021 00:52:47 GMT+0000 (Coordinated Universal Time)
 # game/boutique.rpy#L20
 translate chinese boutiquevisit1_9babdb27:
 
@@ -123,7 +123,7 @@ translate chinese boutiquevisit1_ec895afb:
 translate chinese boutiquevisit1_3ac8445f:
 
     # mc "I'm looking for a maid dress."
-    mc "我在找一件女仆装。"
+    mc "我在找一套女仆装。"
 
 # game/boutique.rpy#L53
 translate chinese boutiquevisit1_e43a4c85:
@@ -141,13 +141,13 @@ translate chinese boutiquevisit1_7919381d:
 translate chinese boutiquevisit1_37844fab:
 
     # "She walks over to a rack and takes one out to show me, it's perfect."
-    "她走到一个架子上，拿出一个展示给我看，它很完美"
+    "她走到一个架子旁，拿起衣服展示给我看；它可谓是完美。"
 
 # game/boutique.rpy#L57
 translate chinese boutiquevisit1_454d2d18:
 
     # ruby "Naturally this dress fits Melody's small figure and bosom, is that okay?"
-    ruby "这条裙子很适合Melody娇小的身材和胸部，可以吗?"
+    ruby "这条裙子倒是很适合Melody娇小的身材和胸部，你没问题吗？"
 
 # game/boutique.rpy#L58
 translate chinese boutiquevisit1_bf868f11:
@@ -2487,7 +2487,7 @@ translate chinese boutiquevisit2_3c119c20:
 translate chinese boutiquevisit2_fc6dd8b3:
 
     # "Woah, okay... I haven’t even said anything yet and I’m having admiration and positivity thrown my way. This is the direct opposite to her dreary attitude last time."
-    "Woah, okay... I haven’t even said anything yet and I’m having admiration and positivity thrown my way. This is the direct opposite to her dreary attitude last time."
+    "哇哦，好吧......我还什么都没说，就已经受到这般程度的接待了。这与她上次的冷漠态度形成了鲜明的对比。"
 
 # game/boutique.rpy#L720
 translate chinese boutiquevisit2_7dcfb9d6:
@@ -2511,205 +2511,205 @@ translate chinese boutiquevisit2_ceccee93:
 translate chinese boutiquevisit2_958afc47:
 
     # mc "Uh… I’d love some tea, thank you so much."
-    mc "Uh… I’d love some tea, thank you so much."
+    mc "呃......茶很好啊，太感谢你了。"
 
 # game/boutique.rpy#L726
 translate chinese boutiquevisit2_4d469ed1:
 
     # "I head through the main room which has basically been untouched, I can’t discern a single change since the last time I was here."
-    "I head through the main room which has basically been untouched, I can’t discern a single change since the last time I was here."
+    "我穿过了主厅，我发现这里跟我上次来相比几乎没有变化，完全没有被动过。"
 
 # game/boutique.rpy#L728
 translate chinese boutiquevisit2_d59f4c55:
 
     # mc "Hey Ruby, before get any tea, I'm looking to buy something."
-    mc "Hey Ruby, before get any tea, I'm looking to buy something."
+    mc "嘿，Ruby，在我们喝茶前，我想买点东西先。"
 
 # game/boutique.rpy#L729
 translate chinese boutiquevisit2_67b49aca:
 
     # "I need to get a 'slave' outfit for Riku's truth or dare punishment."
-    "I need to get a 'slave' outfit for Riku's truth or dare punishment."
+    "我得买套“奴隶”专用的服装，我跟Riku玩真心话大冒险玩输了，这是惩罚。"
 
 # game/boutique.rpy#L731
 translate chinese boutiquevisit2_1523ae01:
 
     # ruby "Oh! You're here as a customer, I didn't realize."
-    ruby "Oh! You're here as a customer, I didn't realize."
+    ruby "哦！原来你是以顾客的身份来的，我都没注意到。"
 
 # game/boutique.rpy#L732
 translate chinese boutiquevisit2_9d309a27:
 
     # mc "Well uh, what else would I be here for?"
-    mc "Well uh, what else would I be here for?"
+    mc "好吧，呃，除此之外我还能在这干啥？"
 
 # game/boutique.rpy#L734
 translate chinese boutiquevisit2_1be8a8cb:
 
     # ruby "Ahah, of course darling! I may even throw in a discount for a dear such as yourself. What would you like to buy?"
-    ruby "Ahah, of course darling! I may even throw in a discount for a dear such as yourself. What would you like to buy?"
+    ruby "额，哈，当然了，亲！我甚至可以为想你这样的贵客提供折扣。你想买什么？"
 
 # game/boutique.rpy#L735
 translate chinese boutiquevisit2_3ac8445f:
 
     # mc "I'm looking for a maid dress."
-    mc "I'm looking for a maid dress."
+    mc "我在找一套女仆装。"
 
 # game/boutique.rpy#L737
 translate chinese boutiquevisit2_721b83ef:
 
     # ruby "Of course darling... Hmm, Melody had a maid dress for halloween once, ah, here it is."
-    ruby "Of course darling... Hmm, Melody had a maid dress for halloween once, ah, here it is."
+    ruby "当然，亲爱的......嗯，Melody有一套万圣节穿过一次的女仆装，啊，在这儿。"
 
 # game/boutique.rpy#L738
 translate chinese boutiquevisit2_37844fab:
 
     # "She walks over to a rack and takes one out to show me, it's perfect."
-    "She walks over to a rack and takes one out to show me, it's perfect."
+    "她走到一个架子旁，拿起衣服展示给我看；它可谓是完美。"
 
 # game/boutique.rpy#L739
 translate chinese boutiquevisit2_454d2d18:
 
     # ruby "Naturally this dress fits Melody's small figure and bosom, is that okay?"
-    ruby "Naturally this dress fits Melody's small figure and bosom, is that okay?"
+    ruby "这条裙子倒是很适合Melody娇小的身材和胸部，你没问题吗？"
 
 # game/boutique.rpy#L740
 translate chinese boutiquevisit2_bf868f11:
 
     # mc "Yeah that's perfect, how much is it?"
-    mc "Yeah that's perfect, how much is it?"
+    mc "太好了，这正是我要的，多少钱？"
 
 # game/boutique.rpy#L741
 translate chinese boutiquevisit2_a60fc6e8:
 
     # ruby "Second hand? 50 monies should cover it."
-    ruby "Second hand? 50 monies should cover it."
+    ruby "这件二手货吗？50块钱就够了。"
 
 # game/boutique.rpy#L746
 translate chinese rubymaidmenu2_105f5958:
 
     # "I can't afford it."
-    "I can't afford it."
+    "我买不起。"
 
 # game/boutique.rpy#L749
 translate chinese rubymaidmenu2_97a22c68:
 
     # ruby "Pleasure doing business with you darling."
-    ruby "Pleasure doing business with you darling."
+    ruby "很高兴和你做生意，亲爱的。"
 
 # game/boutique.rpy#L750
 translate chinese rubymaidmenu2_a79e984d:
 
     # mc "By the way, can you leave the dress here?"
-    mc "By the way, can you leave the dress here?"
+    mc "顺便问一下，能把裙子先寄放在这里吗?"
 
 # game/boutique.rpy#L751
 translate chinese rubymaidmenu2_62cccc3e:
 
     # ruby "Here? Do you want to pick it up at a later time?"
-    ruby "Here? Do you want to pick it up at a later time?"
+    ruby "这儿？你打算晚点再来取吗？"
 
 # game/boutique.rpy#L752
 translate chinese rubymaidmenu2_b7d2a020:
 
     # mc "Yes, you'll see."
-    mc "Yes, you'll see."
+    mc "是的，晚点你就明白了。"
 
 # game/boutique.rpy#L754
 translate chinese rubymaidmenu2_eaba9c5f:
 
     # ruby "Okay darling, maybe another time."
-    ruby "Okay darling, maybe another time."
+    ruby "好的，亲爱的，那下次再说吧。"
 
 # game/boutique.rpy#L756
 translate chinese rubymaidmenu2_40b57d04:
 
     # "With that matter sorted, the two of us make our way to the kitchen."
-    "With that matter sorted, the two of us make our way to the kitchen."
+    "事情解决后，我们俩一道去了厨房。"
 
 # game/boutique.rpy#L760
 translate chinese rubymaidmenu2_f2661c11:
 
     # "In the kitchen, Ruby begins making a pot of tea. Before she had only made cups, so I can only assume she plans to talk to me for a little longer than before."
-    "In the kitchen, Ruby begins making a pot of tea. Before she had only made cups, so I can only assume she plans to talk to me for a little longer than before."
+    "进厨房后，鲁比泡了一壶茶。之前她只就泡了杯茶，因此，我只能假设说她是做好了促膝长谈的准备。"
 
 # game/boutique.rpy#L761
 translate chinese rubymaidmenu2_7dde7e17:
 
     # "That being said, I truly have prepared nothing to say."
-    "That being said, I truly have prepared nothing to say."
+    "虽是如此，我真没准备什么可说的。"
 
 # game/boutique.rpy#L763
 translate chinese rubymaidmenu2_7b17e916:
 
     # ruby "Make yourself at home darling, you did a wonderful job tidying up, it was shameful of me to not even notice and thank you properly last time."
-    ruby "Make yourself at home darling, you did a wonderful job tidying up, it was shameful of me to not even notice and thank you properly last time."
+    ruby "别客气了，亲爱的，之前你整理得很好，很抱歉上次没能注意到这一点，也没好好说句谢谢。"
 
 # game/boutique.rpy#L765
 translate chinese rubymaidmenu2_92d3d9b5:
 
     # ruby "I was so preoccupied with my stupid cam show that I wasn’t focusing on what was right in front of me all along."
-    ruby "I was so preoccupied with my stupid cam show that I wasn’t focusing on what was right in front of me all along."
+    ruby "我一心想着我那愚蠢的节目，以至于我完全没能把注意力放在从始至终都近在咫尺的东西上。"
 
 # game/boutique.rpy#L766
 translate chinese rubymaidmenu2_8b0c1205:
 
     # mc "It's okay, you don't need to worry yourself over my well-being."
-    mc "It's okay, you don't need to worry yourself over my well-being."
+    mc "没关系的，你没必要因为我而操那个心。"
 
 # game/boutique.rpy#L768
 translate chinese rubymaidmenu2_05b2959e:
 
     # ruby "Oh dear, look at me getting ahead of myself."
-    ruby "Oh dear, look at me getting ahead of myself."
+    ruby "哦，我的天，看看我都干了些什么。"
 
 # game/boutique.rpy#L770
 translate chinese rubymaidmenu2_ca50770a:
 
     # ruby "My friend, you stepped into my boutique, offered yourself to me. And yet I refused, sending you home."
-    ruby "My friend, you stepped into my boutique, offered yourself to me. And yet I refused, sending you home."
+    ruby "我的朋友，你走进精品店，把自己献给我。可我却拒绝了，还把你赶回了家。"
 
 # game/boutique.rpy#L772
 translate chinese rubymaidmenu2_ee926c94:
 
     # ruby "I realize that was a mistake."
-    ruby "I realize that was a mistake."
+    ruby "我意识到那是个错误。"
 
 # game/boutique.rpy#L773
 translate chinese rubymaidmenu2_56073885:
 
     # "I didn’t really offer myself to her, but I’ll play along."
-    "I didn’t really offer myself to her, but I’ll play along."
+    "我可没把自己献给她，不过先听她的吧。"
 
 # game/boutique.rpy#L774
 translate chinese rubymaidmenu2_1eeb68c2:
 
     # mc "What are you getting at, Ruby? What do you want me to do?"
-    mc "What are you getting at, Ruby? What do you want me to do?"
+    mc "Ruby，你到底想说什么？你到底想让我做什么？"
 
 # game/boutique.rpy#L775
 translate chinese rubymaidmenu2_99296cbd:
 
     # "She takes a sip of her tea, she has a smug yet regal aura, although simultaneously she seems fidgety."
-    "She takes a sip of her tea, she has a smug yet regal aura, although simultaneously she seems fidgety."
+    "她抿了一口茶，她身上带有一种自鸣得意而又威严的气质，尽管同时她又显得焦躁不安。"
 
 # game/boutique.rpy#L777
 translate chinese rubymaidmenu2_213457a8:
 
     # ruby "I need a photographer, to take pictures of me while I’m modelling, it’s something I can’t do effectively myself."
-    ruby "I need a photographer, to take pictures of me while I’m modelling, it’s something I can’t do effectively myself."
+    ruby "我需要一名摄影师，在我当模特时给我拍照，这种事我一个人搞不好。"
 
 # game/boutique.rpy#L778
 translate chinese rubymaidmenu2_5c82d0f9:
 
     # mc "That sounds easy enough, why didn’t you ask me to do that last time?"
-    mc "That sounds easy enough, why didn’t you ask me to do that last time?"
+    mc "那听起来倒是挺简单的，你为什么上次不叫我做这个？"
 
 # game/boutique.rpy#L780
 translate chinese rubymaidmenu2_7f4e222d:
 
     # ruby "I was too nervous darling; my modelling and cam-show are closely held secrets."
-    ruby "I was too nervous darling; my modelling and cam-show are closely held secrets."
+    ruby "亲爱的，我上次太紧张了；做模特和那个福利节目的事都是我藏得很深的秘密。"
 
 # game/boutique.rpy#L782
 translate chinese rubymaidmenu2_f6214dd9:

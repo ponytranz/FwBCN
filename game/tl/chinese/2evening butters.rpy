@@ -1,4 +1,4 @@
-# Translation updated at Tue Jun 29 2021 00:47:36 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Wed Jun 30 2021 00:52:47 GMT+0000 (Coordinated Universal Time)
 # game/2evening%20butters.rpy#L11
 translate chinese eveningbutters_ce840f9e:
 
@@ -9,7 +9,7 @@ translate chinese eveningbutters_ce840f9e:
 translate chinese eveningbutters_3cdf68fd:
 
     # butters "OH HOOONEYY! I'M HOOOOME!"
-    butters "哦~小~可~耐~！我，回~来~了！"
+    butters "哦~小~可~爱~！我，回~来~了！"
 
 # game/2evening%20butters.rpy#L16
 translate chinese eveningbutters_43fffc42:
@@ -477,7 +477,7 @@ translate chinese eveningbutterssex_4362c47b:
 translate chinese eveningbutterssex_85f83bea:
 
     # butters "Are you ready, baby? My womb is waiting..."
-    butters "准备好了吗，小宝贝？我的子宫已经准备好了。"
+    butters "准备好了吗，小可爱？我的子宫已经准备好了。"
 
 # game/2evening%20butters.rpy#L258
 translate chinese eveningbutterssex_c30909a2:
@@ -729,7 +729,7 @@ translate chinese eveningbutterssex_29782820:
 translate chinese eveningbutterssex_87d4151d:
 
     # butters "Mmm, I'm all yours, baby..."
-    butters "嗯，现在我是你的人儿了，小可耐......"
+    butters "嗯，尽情地蹂躏我吧，小可爱......"
 
 # game/2evening%20butters.rpy#L345
 translate chinese eveningbutterssex_1f8a7517:
@@ -783,7 +783,7 @@ translate chinese eveningbutterssex_0c03c59b:
 translate chinese eveningbutterssex_1237a2a2:
 
     # "Her back arches, and her tits mash against the bed sheets below as her body quivers in response to the overpowering sensations."
-    "强烈的快感很快接管了身体的控制权，背部高高弓起，身体剧烈地颤抖让她两颗诱人的脂肪球在床单上磨来磨去。"
+    "强烈的快感很快接管了她身体的控制权，背部高高弓起，身体剧烈地颤抖让她两颗诱人的乳房在床单上磨来蹭去。"
 
 # game/2evening%20butters.rpy#L368
 translate chinese eveningbutterssex_753372f3:
@@ -1821,7 +1821,7 @@ translate chinese eveningbutterstalk_42239c80:
 translate chinese eveningbutterstalk_0bf4d77a:
 
     # butters "You see, I live in Arcadia due to its safety and ideal ingredients, particularly the ones you helped me get."
-    butters "Arcadia里安全又奇特的种种物质孕育了我们，你也帮我采集了不少，马存原理嘛。"
+    butters "如你所见，我定居Arcadia是因为这里即安全又理想，特别是还有你在这。"
 
 # game/2evening%20butters.rpy#L690
 translate chinese eveningbutterstalk_8a235d77:
@@ -2223,7 +2223,7 @@ translate chinese eveningbutterssuccsexmenu_def2647a:
 translate chinese eveningbutterssuccsexmenu_85f83bea:
 
     # butters "Are you ready, baby? My womb is waiting..."
-    butters "准备好了吗，小可耐？我的子宫已经准备好了。"
+    butters "准备好了吗，小可爱？我的子宫已经准备好了。"
 
 # game/2evening%20butters.rpy#L804
 translate chinese eveningbutterssuccsexmenu_75bb05c1:
@@ -2475,7 +2475,7 @@ translate chinese succbuttersrcg_1f1734a7:
 translate chinese succbuttersrcg_87d4151d:
 
     # butters "Mmm, I'm all yours, baby..."
-    butters "嗯，尽情地蹂躏我吧，小可耐......"
+    butters "嗯，尽情地蹂躏我吧，小可爱......"
 
 # game/2evening%20butters.rpy#L897
 translate chinese succbuttersrcg_1f8a7517:
@@ -2535,7 +2535,7 @@ translate chinese succbuttersrcg_0c03c59b:
 translate chinese succbuttersrcg_1237a2a2:
 
     # "Her back arches, and her tits mash against the bed sheets below as her body quivers in response to the overpowering sensations."
-    "强烈的快感很快接管了她身体的控制权，背部高高弓起，身体剧烈地颤抖让她两颗诱人的脂肪球在床单上磨来蹭去。"
+    "强烈的快感很快接管了她身体的控制权，背部高高弓起，身体剧烈地颤抖让她两颗诱人的乳房在床单上磨来蹭去。"
 
 # game/2evening%20butters.rpy#L921
 translate chinese succbuttersrcg_632b7233:
@@ -2883,7 +2883,7 @@ translate chinese eveningbutterssucctalk_066ce959:
 translate chinese eveningbutterssucctalk_4982bc2f:
 
     # butters "Don't you dare break her heart though, I know you have 'business' with other mares."
-    butters "你要是敢伤她的心，我非宰了你不可，别以为我不知道你在外面“沾马惹句”。"
+    butters "你要是敢伤她的心，我非宰了你不可，别以为我不知道你在外面“沾马惹驹”。"
 
 # game/2evening%20butters.rpy#L1029
 translate chinese eveningbutterssucctalk_07eb2b16:
@@ -4329,7 +4329,7 @@ translate chinese buttersimpregpaizuri_af841e6f:
 translate chinese buttersimpregpaizuri_c88f1a79:
 
     # mc "They’re… leaking?"
-    mc "它们在...漏奶？"
+    mc "它们在...漏奶？llll"
 
 # game/2evening%20butters.rpy#L1529
 translate chinese buttersimpregpaizuri_f4469c19:
@@ -4845,7 +4845,7 @@ translate chinese buttersimpregpaizuri_28099a12:
 translate chinese buttersimpregpaizuri_b7cfef17:
 
     # butters "In fact, I have an overwhelming urge to be cuddled. Come on, wrap your arms around me."
-    butters "现在，我唯一想要的只是一个温暖的拥抱。来吧，用你强有力的怀抱紧紧搂住我。"
+    butters "现在，我只想要一个给力的XOXO，不要XXOO。来吧，用你强有力的怀抱紧紧搂住我。"
 
 # game/2evening%20butters.rpy#L1679
 translate chinese buttersimpregpaizuri_c34fd2d4:
