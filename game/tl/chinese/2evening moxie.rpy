@@ -1,4 +1,4 @@
-# Translation updated at Wed Jun 30 2021 00:52:47 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Thu Jul 01 2021 00:52:40 GMT+0000 (Coordinated Universal Time)
 # game/2evening%20moxie.rpy#L11
 translate chinese eveningmoxie_80cb7a87:
 
@@ -273,7 +273,7 @@ translate chinese moxieblowjob_3ee60b49:
 translate chinese moxieblowjob_71472a60:
 
     # moxie "Mmmphh, I love your cock… *Pant, pant*"
-    moxie "嗯……我太爱你的cock了…… *喘气 喘气*"
+    moxie "嗯……我太爱你的肉棒了…… *喘气 喘气*"
 
 # game/2evening%20moxie.rpy#L187
 translate chinese moxieblowjob_9fa6ad41:
@@ -417,7 +417,7 @@ translate chinese moxieblowjob_a20cefa7:
 translate chinese moxiesixtynine_96c15695:
 
     # moxie "Ooh, a 69? I love it when you lick me out, and I love your cock deep in my throat, sounds perfect."
-    moxie "哦？要来一次六九式吗？我太喜欢你舔我和深喉的感觉了。听起来棒极了。"
+    moxie "哦？要来一次六九式吗？我太喜欢你舔我和深喉的感觉了，听起来棒极了。"
 
 # game/2evening%20moxie.rpy#L253
 translate chinese moxiesixtynine_c1d4987c:
@@ -441,13 +441,13 @@ translate chinese moxiesixtynine_40520391:
 translate chinese moxiesixtynine_ccb716b2:
 
     # moxie "Watching it grow is fun, it’s so weird."
-    moxie "看着它慢慢长大虽然很好玩，但也感觉怪怪的。"
+    moxie "看着它慢慢长大虽然很好玩，但也感觉怪怪的"
 
 # game/2evening%20moxie.rpy#L269
 translate chinese moxiesixtynine_e2d8f077:
 
     # "She clearly couldn’t hold back much longer as she leans over and begins inspecting my cock."
-    "显然，在观察我肉棒的同时，她应该已经按捺不住了。"
+    "显然，在观察我肉棒的同时，她应该已经按捺不住了"
 
 # game/2evening%20moxie.rpy#L270
 translate chinese moxiesixtynine_2733c58f:
@@ -459,7 +459,7 @@ translate chinese moxiesixtynine_2733c58f:
 translate chinese moxiesixtynine_a5382056:
 
     # mc "That means it wants you to lick it."
-    mc "这说明它想让你舔舔它了。"
+    mc "这说明它想让你舔舔它了"
 
 # game/2evening%20moxie.rpy#L272
 translate chinese moxiesixtynine_aff4f340:
@@ -513,7 +513,7 @@ translate chinese moxiesixtynine_327663aa:
 translate chinese moxiesixtynine_bfa17d76:
 
     # "With every couple of licks to her clit, she’d muffle a cute moan into the blowjob."
-    "我每舔她阴蒂两次，她就会发出一声甜美的娇喘声，然后进行一次口交。"
+    "我每舔她阴蒂两次，她就会发出一声甜美的娇喘声，然后进行口交一下"
 
 # game/2evening%20moxie.rpy#L286
 translate chinese moxiesixtynine_4104a547:
@@ -561,7 +561,7 @@ translate chinese moxiesixtynine_b3ac5be5:
 translate chinese moxiesixtynine_5babfc50:
 
     # "It's almost like we were both holding back to let the other cum first."
-    "我们像是在比赛，看谁会先坚持不住，达到高潮。"
+    "我们像是在比赛，看谁会先坚持不住，达到高潮"
 
 # game/2evening%20moxie.rpy#L298
 translate chinese moxiesixtynine_1d63656b:
@@ -573,13 +573,13 @@ translate chinese moxiesixtynine_1d63656b:
 translate chinese moxiesixtynine_43b76365:
 
     # "She frantically bobbed her head up and down against my dick, creating lewd noises as she stroked my shaft with her lips and tongue."
-    "她的头上下起伏，疯狂地舔舐吸吮着我的肉棒。于是，从她的嘴里发出了嘴唇和舌头与湿润的阴茎摩擦时的咕噜声。"
+    "她的头上下起伏，疯狂地舔舐吸吮着我的肉棒。于是，从她的嘴里发出了嘴唇和舌头与湿润的阴茎摩擦时的咕噜声"
 
 # game/2evening%20moxie.rpy#L301
 translate chinese moxiesixtynine_c9d2d38c:
 
     # "If she keeps going this fast, she’ll bring me to my limits and make me cum, fortunately it seems she’s about to orgasm any second too."
-    "如果她再以这么快的速度口交的话，我很快就会射出来的。不过我很幸运，她或许也快要高潮了。"
+    "如果她再以这么快的速度口交的话，我很快就会射出来的。不过我很幸运，她或许也快要高潮了"
 
 # game/2evening%20moxie.rpy#L302
 translate chinese moxiesixtynine_beccec25:
@@ -591,7 +591,7 @@ translate chinese moxiesixtynine_beccec25:
 translate chinese moxiesixtynine_5ffdae04:
 
     # "I can’t hold back, a torrent of cum shoots into her mouth and she seems to climax as well, she grinds on my face as her pussy contracts."
-    "我实在是忍不住了。于是，我将精液全部射进了她的嘴里。她用小穴在我的脸上摩擦着。看来，她似乎也到达了高潮。"
+    "我实在是忍不住了。于是，我将精液全部射进了她的嘴里。她用小穴在我的脸上摩擦着。看来，她似乎也到达了高潮"
 
 # game/2evening%20moxie.rpy#L312
 translate chinese moxiesixtynine_7661c4ac:
@@ -603,13 +603,13 @@ translate chinese moxiesixtynine_7661c4ac:
 translate chinese moxiesixtynine_5dbdf09c:
 
     # "Moxie gulped down the semen, choking on it slightly and having some of it seep out from the side of her lips. Fortunately, Moxie isn’t a squirter so it’s much easier to handle her orgasm."
-    "Moxie一口吞下精液，微微哽咽，有一部分精液从唇边渗出。幸好，Moxie不是一个喷射器，所以这让她更容易控制她的高潮。"
+    "Moxie一口吞下精液，微微哽咽，有一部分精液从唇边渗出。幸好，Moxie不是一个喷射器，所以这让她更容易控制她的高潮"
 
 # game/2evening%20moxie.rpy#L316
 translate chinese moxiesixtynine_b84eb1af:
 
     # "As my orgasm dissipates and I finally stop cumming. Moxie’s orgasm keeps going for almost twice the duration."
-    "我逐渐停止高潮，最后停止射精。但Moxie的高潮差不多持续了我两倍的时间。"
+    "我逐渐停止高潮，最后停止射精。但Moxie的高潮差不多持续了我两倍的时间"
 
 # game/2evening%20moxie.rpy#L317
 translate chinese moxiesixtynine_4de9f9e7:
@@ -645,19 +645,19 @@ translate chinese moxiesixtynine_ee6a1118:
 translate chinese moxiesixtynine_13542125:
 
     # moxie "Yeah, I could, but it’s not really the same without your cock stuffed in my mouth."
-    moxie "是的，我可以，但是没有你的cock塞在我嘴里那可就不一样了。"
+    moxie "是的，我可以，但是没有你的肉棒塞在我嘴里那可就不一样了"
 
 # game/2evening%20moxie.rpy#L338
 translate chinese moxiesixtynine_af8c3e95:
 
     # moxie "Surprisingly, one orgasm is enough to satisfy my heat for the night anyway, you’re pretty good with your tongue."
-    moxie "令人惊讶的是，一次高潮就足以满足我晚上的热度了，不管怎样，你的舌头还不错。"
+    moxie "令人惊讶的是，一次高潮就足以满足我晚上的热度了，不管怎样，你的舌头还不错"
 
 # game/2evening%20moxie.rpy#L339
 translate chinese moxiesixtynine_92359dcf:
 
     # mc "You too, you’re almost too good. I have to hold myself back so I don’t cum too soon."
-    mc "你也是，你已经很棒了。但我得控制住自己，这样我就不会射得太早了。"
+    mc "你也是，你已经很棒了。但我得控制住自己，这样我就不会射得太早了"
 
 # game/2evening%20moxie.rpy#L344
 translate chinese moxiesixtynine_27db5728:
@@ -687,7 +687,7 @@ translate chinese moxiesixtynine_ce617998:
 translate chinese moxiesixtynine_00bbbd45:
 
     # "In the morning I kiss Moxie goodbye and return home."
-    "早上，我和Moxie吻别后便回了家。"
+    "早上，我和Moxie吻别后便回了家"
 
 # game/2evening%20moxie.rpy#L360
 translate chinese moxiesixtynine_a20cefa7:
@@ -711,7 +711,7 @@ translate chinese moxiedoggystyle_a4afdfac:
 translate chinese moxiedoggystyle_e56a578d:
 
     # "On my knees, I shuffle closer and start to rub her pussy: spreading her lips, teasing her clit, all the motions that’ll get her ready to take my cock."
-    "我跪在地上，拖着脚步走近她，开始揉她的阴部：张开她的嘴唇，逗她的阴蒂，所有这些动作都会让她做好好抓住我cock的准备。"
+    "我跪在地上，拖着脚步走近她，开始揉她的阴部：张开她的嘴唇，逗她的阴蒂，所有这些动作都会让她做好好抓住我肉棒的准备。"
 
 # game/2evening%20moxie.rpy#L378
 translate chinese moxiedoggystyle_e27f2d9a:
@@ -729,7 +729,7 @@ translate chinese moxiedoggystyle_d37d806b:
 translate chinese moxiedoggystyle_132e6e31:
 
     # moxie "You’re kinda mean continuing to tease me like this."
-    moxie "你要是再这样取笑我的话...你对我就有点刻薄了。"
+    moxie "你要是再这样取笑我的话...就有点刻薄了。"
 
 # game/2evening%20moxie.rpy#L381
 translate chinese moxiedoggystyle_eb4f3374:
@@ -747,25 +747,25 @@ translate chinese moxiedoggystyle_08e8b3e4:
 translate chinese moxiedoggystyle_51e8444a:
 
     # moxie "Mmphh… Come on... Teasing me like that is evil! I want it inside me…"
-    moxie "嗯…来吧....这样戏弄我真是太坏了！快进入我的体内！"
+    moxie "嗯…来吧....这样戏弄我真是太坏了！快插入我！"
 
 # game/2evening%20moxie.rpy#L392
 translate chinese moxiedoggystyle_fd9c3c1b:
 
     # "As I slowly glided in Moxie let off a cute moan, her insides were soaking wet allowing me to slide all the way in."
-    "当我慢慢地用肉棒在Moxie体内上下滑动时，她发出了一声可爱的呻吟，她的阴内已经湿透了，这使我像这样一路滑了进去。"
+    "当我慢慢地用肉棒在Moxie体内上下滑动时，她发出了一声可爱的呻吟，她的阴内已经湿透了，这使我能一路顺滑进去。"
 
 # game/2evening%20moxie.rpy#L398
 translate chinese moxiedoggystyle_46cee809:
 
     # "I took my time to penetrate her, slowly pushing inwards until her entrance was tightly wrapped around the base of my cock."
-    "我慢慢地进入她的身体，慢慢地往里推，直到她的阴部入口完全紧紧地缠绕在我的cock底部。"
+    "我慢慢地进入她的身体，慢慢地往里推，直到她的阴部入口完全紧紧地缠绕在我的肉棒底部"
 
 # game/2evening%20moxie.rpy#L399
 translate chinese moxiedoggystyle_3c60c1b0:
 
     # "Once at the hilt, Moxie lets out a soft sigh that's reminiscent of pure bliss."
-    "直到她的阴道入口紧紧地缠绕在我的cock上。Moxie轻轻地叹了口气，这应该就是纯粹的幸福吧。"
+    "直到她的阴道入口紧紧地缠绕在我的cock上。Moxie轻轻地叹了口气，这应该就是纯粹的幸福吧"
 
 # game/2evening%20moxie.rpy#L400
 translate chinese moxiedoggystyle_60f2ec1e:
@@ -777,7 +777,7 @@ translate chinese moxiedoggystyle_60f2ec1e:
 translate chinese moxiedoggystyle_951a963c:
 
     # "I begin thrusting, back and forth, slowly sliding my cock almost all the way out, before allowing it to sink back all the way."
-    "我开始来回猛操，接着在它一路沉下去前慢慢地把我的cock滑出。"
+    "我开始来回猛操，接着在它射出去前慢慢地把我的肉棒滑出"
 
 # game/2evening%20moxie.rpy#L403
 translate chinese moxiedoggystyle_0971492b:
@@ -813,7 +813,7 @@ translate chinese moxiedoggystyle_a3124418:
 translate chinese moxiedoggystyle_29069f2c:
 
     # "I want to make her feel even better, so I begin to thrust faster."
-    "我想让她感觉更爽，所以我开始加快速度。"
+    "我想让她感觉更爽，所以我开始加快速度"
 
 # game/2evening%20moxie.rpy#L417
 translate chinese moxiedoggystyle_027ca899:
@@ -825,13 +825,13 @@ translate chinese moxiedoggystyle_027ca899:
 translate chinese moxiedoggystyle_2c2dfc5b:
 
     # "Her moans echo throughout the wooden walls of the wagon while lewd wet noises escape from the sex."
-    "她的呻吟声在篷车的木质墙壁上回荡，而淫秽潮湿的声音从性爱中消失。"
+    "她的呻吟声在篷车的木质墙壁上回荡，而淫秽潮湿的声音从性爱中隐匿"
 
 # game/2evening%20moxie.rpy#L421
 translate chinese moxiedoggystyle_21619ae1:
 
     # "I kept going, thrusting deep inside her and soon I could feel her vagina tremble and tighten around my throbbing shaft, she must be close, I just have to keep going."
-    "我不停地向她身体来回插，很快我就能感觉到她的阴道在颤抖，紧紧地缠绕着我抽搐的身体，她一定离我很近了 ，我只能继续向前。"
+    "我不停地向她身体来回插，很快我就能感觉到她的阴道在颤抖，紧紧地缠绕着我抽搐的身体，我们都快要去了 ，我只能继续"
 
 # game/2evening%20moxie.rpy#L423
 translate chinese moxiedoggystyle_033b5633:
@@ -849,25 +849,25 @@ translate chinese moxiedoggystyle_b7c6641c:
 translate chinese moxiedoggystyle_48a7837c:
 
     # "As she climaxes, I can see her tightly grip the sheets, and feel her insides vigorously contract around my penis in an effort to make me cum."
-    "当她达到高潮时，我能看到她紧紧地抓住床单，感觉到她的阴道在我的阴茎周围有力地收缩，努力让我高潮。"
+    "当她达到高潮时，我能看到她紧紧地抓住床单，感觉到她的阴道在有力地收缩，努力让我高潮"
 
 # game/2evening%20moxie.rpy#L429
 translate chinese moxiedoggystyle_a2080d0f:
 
     # "I roughly thrust into Moxie’s pussy as she writhed in pleasure below me, getting closer and closer to climax with each push."
-    "我粗暴地插入Moxie的阴部，她在我下面高兴地扭动着，每推一下就越来越接近高潮。"
+    "我粗暴地插入Moxie，她在我下面高兴地扭动着，每推一下都越来越接近高潮"
 
 # game/2evening%20moxie.rpy#L431
 translate chinese moxiedoggystyle_155725a7:
 
     # "I can't hold back much longer, and Moxie’s moaning is only driving me further to my limits."
-    "我再也忍不了了，Moxie的呻吟只会把我逼到极限。"
+    "我再也忍不了了，Moxie的呻吟只会把我逼到极限"
 
 # game/2evening%20moxie.rpy#L433
 translate chinese moxiedoggystyle_88413ca8:
 
     # moxie "Cum for me! I want you… *Pant* to fill my pussy up with your cum… Ahhh!"
-    moxie "快让我！高潮....我要你… *喘气* 用你的精液填满我的阴部…啊！"
+    moxie "快，我要！高潮....我要你… *喘气* 用你的精液填满我…啊！"
 
 # game/2evening%20moxie.rpy#L444
 translate chinese moxiedoggystyle_24f37668:

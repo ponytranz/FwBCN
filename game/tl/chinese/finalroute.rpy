@@ -1,4 +1,4 @@
-# Translation updated at Wed Jun 30 2021 00:52:47 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Thu Jul 01 2021 00:52:41 GMT+0000 (Coordinated Universal Time)
 # game/finalroute.rpy#L6
 translate chinese finalroute_240762c1:
 
@@ -45,79 +45,79 @@ translate chinese finalroute_de4ee743:
 translate chinese finalroute_6111b6d1:
 
     # mc "Observant as ever, Mox!"
-    mc "Observant as ever, Mox!"
+    mc "一如既往的敏锐，Mox！"
 
 # game/finalroute.rpy#L22
 translate chinese finalroute_99456aef:
 
     # moxie "There’s something weird going on. I don’t know how to describe it, but lately I’ve been feeling myself less and less."
-    moxie "There’s something weird going on. I don’t know how to describe it, but lately I’ve been feeling myself less and less."
+    moxie "总觉得有啥不对劲的。不知道该怎么说好,可我最近越来越不在状态了。"
 
 # game/finalroute.rpy#L23
 translate chinese finalroute_c4466a12:
 
     # mc "Is the stress of the interview getting you down? I bet it’s not easy to find out how powerful you are, and what those responsibilities entail."
-    mc "Is the stress of the interview getting you down? I bet it’s not easy to find out how powerful you are, and what those responsibilities entail."
+    mc "是采访的压力拉跨你了么?估计找到自己能力所在和责任所在一定不容易吧"
 
 # game/finalroute.rpy#L25
 translate chinese finalroute_ae2ee9cd:
 
     # moxie "Perhaps, but… something doesn’t quite feel right… I feel like there’s more to this hidden power inside me, something that feels sinister and dangerous..."
-    moxie "Perhaps, but… something doesn’t quite feel right… I feel like there’s more to this hidden power inside me, something that feels sinister and dangerous..."
+    moxie "也许吧，但是…有些东西感觉不太对…我觉得我内心隐藏着更多的力量，一些感觉邪恶和危险的东西。。。"
 
 # game/finalroute.rpy#L26
 translate chinese finalroute_58744d4d:
 
     # mc "That’s why Selene is going to tutor you, so you can control your power, right?"
-    mc "That’s why Selene is going to tutor you, so you can control your power, right?"
+    mc "这就是为什么Selene要指导你，所以你可以控制你的力量了，对吗？"
 
 # game/finalroute.rpy#L30
 translate chinese finalroute_47abcd90:
 
     # moxie "Selene… Did you have sex with her?"
-    moxie "Selene… Did you have sex with her?"
+    moxie "Selene…你是和她做爱了吗？"
 
 # game/finalroute.rpy#L31
 translate chinese finalroute_eb56273f:
 
     # mc "Uhh, wow Moxie, that’s quite the question."
-    mc "Uhh, wow Moxie, that’s quite the question."
+    mc "嗯，哇，莫西，这是个很好的问题。"
 
 # game/finalroute.rpy#L32
 translate chinese finalroute_fb38223c:
 
     # mc "I’ve only seen her twice… I’m not that much of a stud, y’know."
-    mc "I’ve only seen her twice… I’m not that much of a stud, y’know."
+    mc "我只见过她两次…你知道的，我不是个好男人。"
 
 # game/finalroute.rpy#L34
 translate chinese finalroute_3e3a4abe:
 
     # moxie "{b}[playername]!{/b} Did you or did you not have sex with Selene?"
-    moxie "{b}[playername]!{/b} Did you or did you not have sex with Selene?"
+    moxie "{b} [playername]！{/b} 你有没有和Selene搞过？"
 
 # game/finalroute.rpy#L35
 translate chinese finalroute_7fc9283a:
 
     # mc "I really shouldn’t say… I mean she’s a princess, I don’t want to create a controversy."
-    mc "I really shouldn’t say… I mean she’s a princess, I don’t want to create a controversy."
+    mc "我真的不应该说的...她是个公主，我不想和她吵。"
 
 # game/finalroute.rpy#L37
 translate chinese finalroute_3823a6a5:
 
     # moxie "Oh my goodness, and you’ve also fucked Lily and the other ‘elements’…"
-    moxie "Oh my goodness, and you’ve also fucked Lily and the other ‘elements’…"
+    moxie "我的天哪，你都已经搞了Lily和其他“元素”了..."
 
 # game/finalroute.rpy#L38
 translate chinese finalroute_a5bb42e8:
 
     # moxie "Lily, Honeycrisp, Ruby, Riku, Cream and Butters… And now Selene, they’re all taken care of."
-    moxie "Lily, Honeycrisp, Ruby, Riku, Cream and Butters… And now Selene, they’re all taken care of."
+    moxie "Lily，Honeycrisp，Ruby，Riku，Cream和Butters...现在再加上Selene，她们都被照顾好了。"
 
 # game/finalroute.rpy#L40
 translate chinese finalroute_47c8c6ac:
 
     # moxie "So that just leaves Aurora… Is that enough? No… She’s probably too powerful…"
-    moxie "So that just leaves Aurora… Is that enough? No… She’s probably too powerful…"
+    moxie "所以只剩下Aurora了...那样就够了吗？不...她可能太强大了..."
 
 # game/finalroute.rpy#L41
 translate chinese finalroute_0320e818:

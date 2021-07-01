@@ -1,4 +1,4 @@
-# Translation updated at Wed Jun 30 2021 00:52:47 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Thu Jul 01 2021 00:52:41 GMT+0000 (Coordinated Universal Time)
 translate chinese strings:
 
     # renpy/common/00accessibility.rpy_L28_0
@@ -167,99 +167,99 @@ translate chinese strings:
 
     # renpy/common/00action_file.rpy_L47_0
     old "{#month}January"
-    new "{#month}一月份"
+    new "{#month}一月"
 
     # renpy/common/00action_file.rpy_L47_1
     old "{#month}February"
-    new "{#month}二月份"
+    new "{#month}二月"
 
     # renpy/common/00action_file.rpy_L47_2
     old "{#month}March"
-    new "{#month}三月份"
+    new "{#month}三月"
 
     # renpy/common/00action_file.rpy_L47_3
     old "{#month}April"
-    new "{#month}四月份"
+    new "{#month}四月"
 
     # renpy/common/00action_file.rpy_L47_4
     old "{#month}May"
-    new "{#month}五月份"
+    new "{#month}五月"
 
     # renpy/common/00action_file.rpy_L47_5
     old "{#month}June"
-    new "{#month}六月份"
+    new "{#month}六月"
 
     # renpy/common/00action_file.rpy_L47_6
     old "{#month}July"
-    new "{#month}七月份"
+    new "{#month}七月"
 
     # renpy/common/00action_file.rpy_L47_7
     old "{#month}August"
-    new "{#month}八月份"
+    new "{#month}八月"
 
     # renpy/common/00action_file.rpy_L47_8
     old "{#month}September"
-    new "{#month}九月份"
+    new "{#month}九月"
 
     # renpy/common/00action_file.rpy_L47_9
     old "{#month}October"
-    new "{#month}十月份"
+    new "{#month}十月"
 
     # renpy/common/00action_file.rpy_L47_10
     old "{#month}November"
-    new "{#month}十一月份"
+    new "{#month}十一月"
 
     # renpy/common/00action_file.rpy_L47_11
     old "{#month}December"
-    new "{#month}十二月份"
+    new "{#month}十二月"
 
     # renpy/common/00action_file.rpy_L63_0
     old "{#month_short}Jan"
-    new "{#month_short}一月份"
+    new "{#month_short}一月"
 
     # renpy/common/00action_file.rpy_L63_1
     old "{#month_short}Feb"
-    new "{#month_short}二月份"
+    new "{#month_short}二月"
 
     # renpy/common/00action_file.rpy_L63_2
     old "{#month_short}Mar"
-    new "{#month_short}三月份"
+    new "{#month_short}三月"
 
     # renpy/common/00action_file.rpy_L63_3
     old "{#month_short}Apr"
-    new "{#month_short}四月份"
+    new "{#month_short}四月"
 
     # renpy/common/00action_file.rpy_L63_4
     old "{#month_short}May"
-    new "{#month_short}五月份"
+    new "{#month_short}五月"
 
     # renpy/common/00action_file.rpy_L63_5
     old "{#month_short}Jun"
-    new "{#month_short}六月份"
+    new "{#month_short}六月"
 
     # renpy/common/00action_file.rpy_L63_6
     old "{#month_short}Jul"
-    new "{#month_short}七月份"
+    new "{#month_short}七月"
 
     # renpy/common/00action_file.rpy_L63_7
     old "{#month_short}Aug"
-    new "{#month_short}八月份"
+    new "{#month_short}八月"
 
     # renpy/common/00action_file.rpy_L63_8
     old "{#month_short}Sep"
-    new "{#month_short}九月份"
+    new "{#month_short}九月"
 
     # renpy/common/00action_file.rpy_L63_9
     old "{#month_short}Oct"
-    new "{#month_short}十月份"
+    new "{#month_short}十月"
 
     # renpy/common/00action_file.rpy_L63_10
     old "{#month_short}Nov"
-    new "{#month_short}十一月份"
+    new "{#month_short}十一月"
 
     # renpy/common/00action_file.rpy_L63_11
     old "{#month_short}Dec"
-    new "{#month_short}十二月份"
+    new "{#month_short}十二月"
 
     # renpy/common/00action_file.rpy_L240_0
     old "%b %d, %H:%M"

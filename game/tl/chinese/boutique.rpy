@@ -1,4 +1,4 @@
-# Translation updated at Wed Jun 30 2021 00:52:47 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Thu Jul 01 2021 00:52:40 GMT+0000 (Coordinated Universal Time)
 # game/boutique.rpy#L20
 translate chinese boutiquevisit1_9babdb27:
 
@@ -2715,151 +2715,151 @@ translate chinese rubymaidmenu2_7f4e222d:
 translate chinese rubymaidmenu2_f6214dd9:
 
     # ruby "But you already discovered my little secret, so I have nothing to lose."
-    ruby "But you already discovered my little secret, so I have nothing to lose."
+    ruby "不过你也已经发现了我的小秘密，所以我也没什么好藏着掖着的了。"
 
 # game/boutique.rpy#L783
 translate chinese rubymaidmenu2_8836209e:
 
     # mc "Makes sense to me. I recall you mentioned you were tight on cash, so I hope I can earn you some money."
-    mc "Makes sense to me. I recall you mentioned you were tight on cash, so I hope I can earn you some money."
+    mc "有道理。我记得你有提到说手头紧，所以我之前是希望给你增加点收入。"
 
 # game/boutique.rpy#L785
 translate chinese rubymaidmenu2_24288053:
 
     # ruby "I’m sure you will, darling."
-    ruby "I’m sure you will, darling."
+    ruby "我很确信你会的，亲爱的。"
 
 # game/boutique.rpy#L786
 translate chinese rubymaidmenu2_0a65eb4b:
 
     # "I take a sip of tea and ponder the situation. This change of heart must be Melody’s influence."
-    "I take a sip of tea and ponder the situation. This change of heart must be Melody’s influence."
+    "我抿了口茶，思索着当下的情形。她心态的改变肯定是Melody在暗中作祟的结果。"
 
 # game/boutique.rpy#L787
 translate chinese rubymaidmenu2_94003420:
 
     # "Never thought I’d do something like photographing a model. Seems easy enough."
-    "Never thought I’d do something like photographing a model. Seems easy enough."
+    "从未想过自己竟会做给模特拍摄的工作。看上去倒是挺轻松的。"
 
 # game/boutique.rpy#L788
 translate chinese rubymaidmenu2_86b7f0ff:
 
     # "Has Melody really done it? Is Ruby really going to have sex with me?"
-    "Has Melody really done it? Is Ruby really going to have sex with me?"
+    "不过Melody真的做到了吗？Ruby真的会跟我做爱吗？"
 
 # game/boutique.rpy#L790
 translate chinese rubymaidmenu2_6e373825:
 
     # ruby "Okay dearie, lets take our tea upstairs and prepare the set."
-    ruby "Okay dearie, lets take our tea upstairs and prepare the set."
+    ruby "好了，亲爱的，上去再继续喝茶吧，还要把场景布置了。"
 
 # game/boutique.rpy#L791
 translate chinese rubymaidmenu2_239fa149:
 
     # "Oh my gosh, this is really happening."
-    "Oh my gosh, this is really happening."
+    "我的老天，这事居然成真了。"
 
 # game/boutique.rpy#L799
 translate chinese rubymaidmenu2_638e3af3:
 
     # "We go upstairs and settle in her bedroom, she doesn’t bother turning on the lights, there’s just a blue glow coming from her laptop."
-    "We go upstairs and settle in her bedroom, she doesn’t bother turning on the lights, there’s just a blue glow coming from her laptop."
+    "我们上了楼，在她的卧室里找了个地方坐下，她没开灯，唯一的光源来自她那闪着蓝色微光的笔记本电脑。"
 
 # game/boutique.rpy#L800
 translate chinese rubymaidmenu2_996fec2f:
 
     # "She starts moving some cushions around and generally tidying up. Surprisingly it’s not that messy in here compared to the state the ground floor was when I first arrived."
-    "She starts moving some cushions around and generally tidying up. Surprisingly it’s not that messy in here compared to the state the ground floor was when I first arrived."
+    "她挪了挪坐垫，大体上整理了下这个房间。出乎意料的是，比起我初来乍到时一楼的惨状，这里还真是整齐的很。"
 
 # game/boutique.rpy#L801
 translate chinese rubymaidmenu2_56180e39:
 
     # "I spot a camera on a desk, I’m guessing this must be the one I’ll be using, so I fiddle around with it and get a feel for its controls."
-    "I spot a camera on a desk, I’m guessing this must be the one I’ll be using, so I fiddle around with it and get a feel for its controls."
+    "我看到桌子上有台摄影机，想必这就是我将要用的那台。所以我简单摆弄了下这玩意，试图找到拍摄的感觉。"
 
 # game/boutique.rpy#L802
 translate chinese rubymaidmenu2_1a19162f:
 
     # "I watch through the lens as Ruby dresses herself in some lingerie stockings and evening gloves. Despite the fact she’s now wearing clothes, it’s admittedly sexier."
-    "I watch through the lens as Ruby dresses herself in some lingerie stockings and evening gloves. Despite the fact she’s now wearing clothes, it’s admittedly sexier."
+    "透过镜头，我看着Ruby穿上了内衣丝袜之类的服装并戴上了丝绸手套。尽管她现在还穿着衣服，但我不得不承认这真的很性感。"
 
 # game/boutique.rpy#L804
 translate chinese rubymaidmenu2_dfcc0566:
 
     # ruby "Ah, perfect, you already have the camera. Uhm, hmm…"
-    ruby "Ah, perfect, you already have the camera. Uhm, hmm…"
+    ruby "呼，完美，你也拿到摄像机了。嗯，嗯......"
 
 # game/boutique.rpy#L805
 translate chinese rubymaidmenu2_d2fae345:
 
     # mc "Wow, I love your lingerie, Ruby."
-    mc "Wow, I love your lingerie, Ruby."
+    mc "哇哦，我喜欢你那套内衣，Ruby。"
 
 # game/boutique.rpy#L807
 translate chinese rubymaidmenu2_02355051:
 
     # ruby "Thank you darling, this is my own design."
-    ruby "Thank you darling, this is my own design."
+    ruby "谢谢你，亲爱的，这套衣服是我自己设计的。"
 
 # game/boutique.rpy#L808
 translate chinese rubymaidmenu2_c438ee6c:
 
     # mc "Are these photos for modelling your clothing, or for your… well, more vulgar purposes?"
-    mc "Are these photos for modelling your clothing, or for your… well, more vulgar purposes?"
+    mc "这些照片是为了用模特来给你的设计做宣传，还是为了你的......额，某些更下流的目的？"
 
 # game/boutique.rpy#L810
 translate chinese rubymaidmenu2_f694ee65:
 
     # ruby "Modelling and vulgar purposes darling, I’m going to sell naughty pictures of myself to try and earn some more money while showing off some clothes I made myself."
-    ruby "Modelling and vulgar purposes darling, I’m going to sell naughty pictures of myself to try and earn some more money while showing off some clothes I made myself."
+    ruby "模特和下流的目的都有，亲爱的，我打算把这些打擦边球的照片卖出去，多赚一些钱，同时还能给我设计的服装做宣传。"
 
 # game/boutique.rpy#L812
 translate chinese rubymaidmenu2_95289068:
 
     # ruby "Ohoho, delightfully devilish Ruby, killing two birds with one stone, they’re sure to eat this one up."
-    ruby "Ohoho, delightfully devilish Ruby, killing two birds with one stone, they’re sure to eat this one up."
+    ruby "哈哈，天才如我小恶魔Ruby，能想出一石二鸟的点子，那些观众肯定吃这一套。"
 
 # game/boutique.rpy#L813
 translate chinese rubymaidmenu2_46502bfd:
 
     # mc "I’m not really sure what to do, but I’ll try to take some artsy shots. Ready?"
-    mc "I’m not really sure what to do, but I’ll try to take some artsy shots. Ready?"
+    mc "我还是不太清楚怎么做才好，但我会尽量拍一些具有艺术气息的照片。准备好了吗？"
 
 # game/boutique.rpy#L815
 translate chinese rubymaidmenu2_e9557ecd:
 
     # ruby "Ah, yes. Sorry, I don't have much experience with lewd photography, other than silly selfies for my ex. I’m not really sure how I should pose."
-    ruby "Ah, yes. Sorry, I don't have much experience with lewd photography, other than silly selfies for my ex. I’m not really sure how I should pose."
+    ruby "啊，对了。很抱歉，我对拍色情照片没有什么经验，除了为我的前任拍过的那些愚蠢的自拍照。我不太确定自己该摆什么姿势。"
 
 # game/boutique.rpy#L816
 translate chinese rubymaidmenu2_a493afb5:
 
     # ruby "Why not take a picture now?"
-    ruby "Why not take a picture now?"
+    ruby "总之现在先拍一张吧？"
 
 # game/boutique.rpy#L817
 translate chinese rubymaidmenu2_c9f4a296:
 
     # mc "Of you standing? Alright."
-    mc "Of you standing? Alright."
+    mc "你摆好姿势了？行。"
 
 # game/boutique.rpy#L820
 translate chinese rubymaidmenu2_4a034e50:
 
     # "Ruby doesn’t move much while I take a few pictures of her."
-    "Ruby doesn’t move much while I take a few pictures of her."
+    "在我给Ruby拍照片时，她几乎没怎么动。"
 
 # game/boutique.rpy#L821
 translate chinese rubymaidmenu2_b0120cb2:
 
     # "The result is a few simple shots that show off her lingerie."
-    "The result is a few simple shots that show off her lingerie."
+    "结果就拍出来了一组展示了她内衣的简单镜头。"
 
 # game/boutique.rpy#L830
 translate chinese rubyphotoshoot2_0ab6a012:
 
     # ruby "Okay, uhm… How about my boobs, can you get a close up?"
-    ruby "Okay, uhm… How about my boobs, can you get a close up?"
+    ruby "好的，呃......我的胸部如何，你能给它拍个近照吗？"
 
 # game/boutique.rpy#L831
 translate chinese rubyphotoshoot2_d97ade4e:

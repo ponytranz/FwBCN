@@ -1,4 +1,4 @@
-# Translation updated at Wed Jun 30 2021 00:52:47 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Thu Jul 01 2021 00:52:40 GMT+0000 (Coordinated Universal Time)
 # game/bar.rpy#L13
 translate chinese barvisit1_d43fa519:
 
@@ -2853,127 +2853,127 @@ translate chinese cbrikutod_7e5c79cc:
 translate chinese cbrikutod_68d1e318:
 
     # "I’m pretty turned on right now, I can’t think of anything I want to do other than a dare. If I’m lucky, it’ll be erotic, I have almost no doubt it will be at this point."
-    "I’m pretty turned on right now, I can’t think of anything I want to do other than a dare. If I’m lucky, it’ll be erotic, I have almost no doubt it will be at this point."
+    "我现在很性奋，除了大冒险，我真不觉得我还想干别的。如果够幸运，肯定会变色情，我觉得这波一定能大饱色福。"
 
 # game/bar.rpy#L779
 translate chinese cbrikutod_2bb47e33:
 
     # mc "Dare, gimme your best."
-    mc "Dare, gimme your best."
+    mc "大冒险，让我看看你的全力。"
 
 # game/bar.rpy#L781
 translate chinese cbrikutod_f410b3e0:
 
     # riku "There’s nothing to give other than my best, especially after your last dare."
-    riku "There’s nothing to give other than my best, especially after your last dare."
+    riku "我只能尽力喽，特别是在你最后一次大冒险之后。"
 
 # game/bar.rpy#L782
 translate chinese cbrikutod_3f439ed5:
 
     # mc "You can talk, I was going easy on you after what you just put me through."
-    mc "You can talk, I was going easy on you after what you just put me through."
+    mc "这个倒是还有商量余地，你刚才弄得我很舒服，没什么是不能谈的嘛。"
 
 # game/bar.rpy#L784
 translate chinese cbrikutod_19396880:
 
     # riku "Is that so? Then you’re going to love this next one."
-    riku "Is that so? Then you’re going to love this next one."
+    riku "是这样吗？那你就瞧好吧。"
 
 # game/bar.rpy#L786
 translate chinese cbrikutod_cc2f167a:
 
     # riku "I dare you to lick my nipples, both of them until they’re erect"
-    riku "I dare you to lick my nipples, both of them until they’re erect"
+    riku "我允许你舔舐我的乳头，两个都可以，来把它们舔硬吧。"
 
 # game/bar.rpy#L787
 translate chinese cbrikutod_e76da3c1:
 
     # mc "That’s easy, gimme the tiddy."
-    mc "That’s easy, gimme the tiddy."
+    mc "简单，交给我的舌头便是。"
 
 # game/bar.rpy#L789
 translate chinese cbrikutod_72d4284d:
 
     # riku "Not so fast, there’s a catch, you are absolutely not allowed to get erect."
-    riku "Not so fast, there’s a catch, you are absolutely not allowed to get erect."
+    riku "等一下，没那么简单，你必须得保证你自己不能勃起。"
 
 # game/bar.rpy#L790
 translate chinese cbrikutod_b04df2c7:
 
     # mc "Pfft, a failure state?"
-    mc "Pfft, a failure state?"
+    mc "噗，不能勃起？"
 
 # game/bar.rpy#L791
 translate chinese cbrikutod_c85cdd8b:
 
     # mc "So I have to get you erect, but I’m not allowed to get erect myself?"
-    mc "So I have to get you erect, but I’m not allowed to get erect myself?"
+    mc "所以我得让你勃起，但是我自己不能？"
 
 # game/bar.rpy#L793
 translate chinese cbrikutod_fd044985:
 
     # riku "Exactly! Muhahaha!"
-    riku "Exactly! Muhahaha!"
+    riku "没错！啊哈哈哈哈！"
 
 # game/bar.rpy#L795
 translate chinese cbrikutod_3af0bc86:
 
     # "She does a cute, fake evil laugh before pushing forward her tiny chest along with her tiny nipples."
-    "She does a cute, fake evil laugh before pushing forward her tiny chest along with her tiny nipples."
+    "她做了一个可爱的、邪魅的假笑，然后把自己的小胸脯和小乳头一起往我脸前推过来。"
 
 # game/bar.rpy#L796
 translate chinese cbrikutod_248c72d7:
 
     # mc "Alright, should be easy, right?"
-    mc "Alright, should be easy, right?"
+    mc "好吧，应该还是挺容易的，是不是？"
 
 # game/bar.rpy#L797
 translate chinese cbrikutod_3e50397c:
 
     # "Since mares don’t wear clothes and their breasts are always on display. I should be desensitised enough by now."
-    "Since mares don’t wear clothes and their breasts are always on display. I should be desensitised enough by now."
+    "因为雌驹都不穿衣服，总是能看到她们的胸部。我现在已经对这个脱敏了。"
 
 # game/bar.rpy#L798
 translate chinese cbrikutod_38b52c88:
 
     # "That knowledge doesn’t make this dare any easier though, I feel like I genuinely would start getting erect if I didn’t mentally prepare myself."
-    "That knowledge doesn’t make this dare any easier though, I feel like I genuinely would start getting erect if I didn’t mentally prepare myself."
+    "知道这一点并不能让这大冒险变得简单起来，我感觉我要是不做好精神准备，那绝对会开始勃起的。"
 
 # game/bar.rpy#L799
 translate chinese cbrikutod_9db454fd:
 
     # "Slightly drunk, definitely feeling some pheromones, slightly horny."
-    "Slightly drunk, definitely feeling some pheromones, slightly horny."
+    "我略微喝醉，绝对感觉到信息素的存在，也有点起了性致。"
 
 # game/bar.rpy#L800
 translate chinese cbrikutod_4931f59c:
 
     # "Licking the nipples of a cute nude girl."
-    "Licking the nipples of a cute nude girl."
+    "舔着一个可爱裸女的乳头。"
 
 # game/bar.rpy#L801
 translate chinese cbrikutod_734c9268:
 
     # "But I am absolutely not allowed to get a boner."
-    "But I am absolutely not allowed to get a boner."
+    "而我自己却不得勃起。"
 
 # game/bar.rpy#L802
 translate chinese cbrikutod_168fb240:
 
     # "Riku is giggling to herself as she notices me mentally preparing, her breasts still pushed out towards me."
-    "Riku is giggling to herself as she notices me mentally preparing, her breasts still pushed out towards me."
+    "Riku注意到我正在做着精神准备，她窃笑了起来，她的胸部依旧紧紧挤压着我。"
 
 # game/bar.rpy#L803
 translate chinese cbrikutod_61b42a54:
 
     # "I bring my mouth to one of her nipples and start to lick, just licking it."
-    "I bring my mouth to one of her nipples and start to lick, just licking it."
+    "我把嘴巴挪到她的一处乳头上，开始舔舐，仅仅是舔而已。"
 
 # game/bar.rpy#L804
 translate chinese cbrikutod_cdbe1b7c:
 
     # "It takes approximately seven seconds to get a nipple erect, and I’m sure boners can take longer than that."
-    "It takes approximately seven seconds to get a nipple erect, and I’m sure boners can take longer than that."
+    "想要让乳头硬起来大概需要七秒钟，我确信勃起用的时间要比它长。"
 
 # game/bar.rpy#L805
 translate chinese cbrikutod_c4f0d2ae:

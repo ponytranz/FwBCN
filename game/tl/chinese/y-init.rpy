@@ -1,4 +1,4 @@
-# Translation updated at Wed Jun 30 2021 00:52:47 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Thu Jul 01 2021 00:52:41 GMT+0000 (Coordinated Universal Time)
 translate chinese strings:
 
     # game/y-init.rpy_L7_0

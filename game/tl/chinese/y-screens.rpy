@@ -1,4 +1,4 @@
-# Translation updated at Wed Jun 30 2021 00:52:47 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Thu Jul 01 2021 00:52:41 GMT+0000 (Coordinated Universal Time)
 # game/y-screens.rpy#L1551
 translate chinese todolist_5a4038dc:
 
@@ -113,7 +113,7 @@ translate chinese strings:
 
     # game/y-screens.rpy_L682_0
     old "{#file_time}%A, %B %d %Y, %H:%M"
-    new "{#file_time}%A, %B %d %Y, %H:%M"
+    new "{#file_time} %Y年%B%d日,%A,%H:%M"
 
     # game/y-screens.rpy_L682_1
     old "empty slot"
@@ -149,7 +149,7 @@ translate chinese strings:
 
     # game/y-screens.rpy_L774_0
     old "Rollback Side"
-    new "Rollback Side"
+    new "单击回滚"
 
     # game/y-screens.rpy_L775_0
     old "Disable"
@@ -157,23 +157,23 @@ translate chinese strings:
 
     # game/y-screens.rpy_L776_0
     old "Left"
-    new "左"
+    new "对话框左侧"
 
     # game/y-screens.rpy_L777_0
     old "Right"
-    new "右"
+    new "对话框右侧"
 
     # game/y-screens.rpy_L782_0
     old "Unseen Text"
-    new "隐藏文本"
+    new "跳过未读文本"
 
     # game/y-screens.rpy_L783_0
     old "After Choices"
-    new "选择之后"
+    new "选项后继续跳过"
 
     # game/y-screens.rpy_L784_0
     old "Transitions"
-    new "过渡特效"
+    new "跳过转场"
 
     # game/y-screens.rpy_L797_0
     old "Text Speed"
@@ -289,7 +289,7 @@ translate chinese strings:
 
     # game/y-screens.rpy_L1072_0
     old "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
-    new "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
+    new "启用辅助{a=https://www.renpy.org/l/voicing}发音{/a}（请勿启用，否则会导致游戏错误）"
 
     # game/y-screens.rpy_L1078_0
     old "Left Click"
@@ -305,7 +305,7 @@ translate chinese strings:
 
     # game/y-screens.rpy_L1090_0
     old "Mouse Wheel Up\nClick Rollback Side"
-    new "Mouse Wheel Up\nClick Rollback Side"
+    new "鼠标滚轮上滚\n单击对话框一侧（需启用单击回滚）"
 
     # game/y-screens.rpy_L1094_0
     old "Mouse Wheel Down"
