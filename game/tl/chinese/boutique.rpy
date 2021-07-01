@@ -1,4 +1,4 @@
-# Translation updated at Thu Jul 01 2021 00:52:40 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Thu Jul 01 2021 15:56:27 GMT+0000 (Coordinated Universal Time)
 # game/boutique.rpy#L20
 translate chinese boutiquevisit1_9babdb27:
 
@@ -2865,151 +2865,151 @@ translate chinese rubyphotoshoot2_0ab6a012:
 translate chinese rubyphotoshoot2_d97ade4e:
 
     # mc "Sure, just let me figure out which button zooms in…"
-    mc "Sure, just let me figure out which button zooms in…"
+    mc "没问题，等我先找找按哪里放大......"
 
 # game/boutique.rpy#L833
 translate chinese rubyphotoshoot2_6ee57fbf:
 
     # ruby "No, don’t zoom in, come closer dearie."
-    ruby "No, don’t zoom in, come closer dearie."
+    ruby "不用放大，靠过来就行。"
 
 # game/boutique.rpy#L836
 translate chinese rubyphotoshoot2_8f31c5de:
 
     # "I get much closer to her and look directly at her breasts, her nipples are erect, but I imagine that’s fairly normal."
-    "I get much closer to her and look directly at her breasts, her nipples are erect, but I imagine that’s fairly normal."
+    "我离她更近了，直勾勾地盯着她的乳房看，她的乳头都勃起了，但我猜那可能是正常现象。"
 
 # game/boutique.rpy#L837
 translate chinese rubyphotoshoot2_e832a1f2:
 
     # "Up close she smells pleasantly sweet and fruity."
-    "Up close she smells pleasantly sweet and fruity."
+    "靠近后，她身上闻起来有股令人愉快的甜味和水果味。"
 
 # game/boutique.rpy#L840
 translate chinese rubyphotoshoot2_e731e03d:
 
     # "*Snap*, some more pictures of her breasts, simple enough. I guess this isn’t too different from erotic modelling in my world."
-    "*Snap*, some more pictures of her breasts, simple enough. I guess this isn’t too different from erotic modelling in my world."
+    "*拍照* 又拍了几张她胸部的照片，挺简单的。我想这跟我世界那边的色情模特没太大区别。"
 
 # game/boutique.rpy#L841
 translate chinese rubyphotoshoot2_ad51d3f8:
 
     # ruby "Okay, you’ll have to get lower too, to take a picture of my… you know, lady parts."
-    ruby "Okay, you’ll have to get lower too, to take a picture of my… you know, lady parts."
+    ruby "这下就行了，然后你也得再蹲低一点，给我的......女士特有的地方拍照。"
 
 # game/boutique.rpy#L842
 translate chinese rubyphotoshoot2_0837d7e9:
 
     # mc "A close up down here too? Sure thing."
-    mc "A close up down here too? Sure thing."
+    mc "给下面也来几张特写？当然了。"
 
 # game/boutique.rpy#L845
 translate chinese rubyphotoshoot2_cd314f7f:
 
     # "I kneel down and start taking pictures of her pelvic area. Being so close to her pussy is rather intoxicating but I stay professional."
-    "I kneel down and start taking pictures of her pelvic area. Being so close to her pussy is rather intoxicating but I stay professional."
+    "我跪下来给她的骨盆附近拍照。离她的阴部这么近搞得我内心激荡，但我尽可能保持专业。"
 
 # game/boutique.rpy#L848
 translate chinese rubyphotoshoot2_f02a7047:
 
     # "It takes some willpower to not get an erection."
-    "It takes some willpower to not get an erection."
+    "要想不勃起，真需要一定意志力。"
 
 # game/boutique.rpy#L851
 translate chinese rubyphotoshoot2_c38ed497:
 
     # mc "There we go. Now we’ve had some closeups, are you going to do some poses now?"
-    mc "There we go. Now we’ve had some closeups, are you going to do some poses now?"
+    mc "搞定了。现在我们把特写都拍完了，你下一步准备摆点姿势什么的吗？"
 
 # game/boutique.rpy#L853
 translate chinese rubyphotoshoot2_755a7bad:
 
     # ruby "Wonderful idea, [playername]! I don’t know many poses, I haven’t prepared but, I think… Ah, come over here darling, on my bed."
-    ruby "Wonderful idea, [playername]! I don’t know many poses, I haven’t prepared but, I think… Ah, come over here darling, on my bed."
+    ruby "[playername]，这点子棒极了！不过我不知道该摆什么姿势好，没准备过，不过，我想......额，先过来吧亲爱的，上床先。"
 
 # game/boutique.rpy#L855
 translate chinese rubyphotoshoot2_17f397b6:
 
     # "Despite the fact she told me she was penny pinching; her bed is ridiculously nice."
-    "Despite the fact she told me she was penny pinching; her bed is ridiculously nice."
+    "尽管她告诉过我她是位很节俭的人；她的床真是好到离谱。"
 
 # game/boutique.rpy#L856
 translate chinese rubyphotoshoot2_b4d7788c:
 
     # "I’ve never seen a bed with curtains before, seems cosy. It’s the kind of bed I’d assume you’d see in a castle."
-    "I’ve never seen a bed with curtains before, seems cosy. It’s the kind of bed I’d assume you’d see in a castle."
+    "我从未见过这样带帘子的床，看起来舒服得很。这种床我还以为只能在城堡里见到。"
 
 # game/boutique.rpy#L859
 translate chinese rubyphotoshoot2_f8bf415a:
 
     # "I’m somewhat distracted by her bed, when I return my view to Ruby she’s posing most erotically, her legs spread with her pussy on full display."
-    "I’m somewhat distracted by her bed, when I return my view to Ruby she’s posing most erotically, her legs spread with her pussy on full display."
+    "我彻底让她的床吸引了注意力，当我把视线放回到Ruby身上时，她正摆出最色情的姿势，双腿张开，阴部完全暴露在了外面。"
 
 # game/boutique.rpy#L860
 translate chinese rubyphotoshoot2_af527217:
 
     # "I’d be lying if I said I didn’t feel aroused."
-    "I’d be lying if I said I didn’t feel aroused."
+    "这怎么说我也该来感觉了。"
 
 # game/boutique.rpy#L861
 translate chinese rubyphotoshoot2_cd2f311f:
 
     # ruby "How’s this pose? All my naughty bits are on display, perfect for turning on any men watching me."
-    ruby "How’s this pose? All my naughty bits are on display, perfect for turning on any men watching me."
+    ruby "这个姿势如何？该露的不该露的都露出来了，肯定够让所有看我视频的男性硬起来。"
 
 # game/boutique.rpy#L862
 translate chinese rubyphotoshoot2_6a3002b3:
 
     # mc "Just lift your right leg up a bit more… "
-    mc "Just lift your right leg up a bit more… "
+    mc "只要把你的右腿再抬起来一点....."
 
 # game/boutique.rpy#L863
 translate chinese rubyphotoshoot2_7234aa91:
 
     # ruby "Ohoho, I feel so exposed right now darling... How's this?"
-    ruby "Ohoho, I feel so exposed right now darling... How's this?"
+    ruby "哦，亲爱的，我感觉露出的程度大了些......这样如何？"
 
 # game/boutique.rpy#L864
 translate chinese rubyphotoshoot2_85785fdb:
 
     # mc "Perfect."
-    mc "Perfect."
+    mc "完美。"
 
 # game/boutique.rpy#L867
 translate chinese rubyphotoshoot2_dd960746:
 
     # "*Snap*, *Snap* I take a few pictures, capturing a few angles."
-    "*Snap*, *Snap* I take a few pictures, capturing a few angles."
+    "*嚓* *嚓* 我从不同的角度又拍了几张照片。"
 
 # game/boutique.rpy#L868
 translate chinese rubyphotoshoot2_083be623:
 
     # ruby "Ahh… Make sure you get a good shot of my vulva darling; I don’t mind if you get up close and personal."
-    ruby "Ahh… Make sure you get a good shot of my vulva darling; I don’t mind if you get up close and personal."
+    ruby "啊......确保你能把外阴也拍到，亲爱的；我不介意你再靠近一点。"
 
 # game/boutique.rpy#L870
 translate chinese rubyphotoshoot2_a18cad93:
 
     # "I’m tempted to get remarkably close and personal. It’s dark but it’s rather apparent that she’s wet."
-    "I’m tempted to get remarkably close and personal. It’s dark but it’s rather apparent that she’s wet."
+    "我想再多靠近一些。她的那里漆黑一片，不过湿哒哒的我都能看出来了。"
 
 # game/boutique.rpy#L871
 translate chinese rubyphotoshoot2_8c82934e:
 
     # mc "If I get too close, I won’t be able to pull myself away."
-    mc "If I get too close, I won’t be able to pull myself away."
+    mc "如果靠得太近，我可能就控制不住自己了。"
 
 # game/boutique.rpy#L874
 translate chinese rubyphotoshoot2_cea0e727:
 
     # "Giving in, I take some close ups of her naughtiest parts. While taking a close up shot of her vulva I can definitely feel the blood pumping in my nethers. If this kept going, I’ll become uncontrollably erect."
-    "Giving in, I take some close ups of her naughtiest parts. While taking a close up shot of her vulva I can definitely feel the blood pumping in my nethers. If this kept going, I’ll become uncontrollably erect."
+    "我还是屈服了。我给她最色情的部分拍了些特写。在拍摄她外阴那部分的特写时，我绝对能感觉到血液在我那玩意中奔涌。如果再这样下去，我将无法控制地勃起。"
 
 # game/boutique.rpy#L875
 translate chinese rubyphotoshoot2_ba5ef1e8:
 
     # ruby "Don’t worry if this turns you on darling, it's perfectly normal for a man such as yourself to feel that way near a lady such as myself..."
-    ruby "Don’t worry if this turns you on darling, it's perfectly normal for a man such as yourself to feel that way near a lady such as myself..."
+    ruby "如果这让你有感觉了，不必担心，像你这样的男士在接近像我这样的女士时有这种感觉是完全正常的......"
 
 # game/boutique.rpy#L876
 translate chinese rubyphotoshoot2_c63d52e7:

@@ -1,4 +1,4 @@
-# Translation updated at Thu Jul 01 2021 00:52:40 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Thu Jul 01 2021 15:56:27 GMT+0000 (Coordinated Universal Time)
 # game/bar.rpy#L13
 translate chinese barvisit1_d43fa519:
 
@@ -2595,7 +2595,7 @@ translate chinese cbrikutod_d128f170:
 translate chinese cbrikutod_6b9bdacb:
 
     # mc "I am so getting you back for this one."
-    mc "I am so getting you back for this one."
+    mc "我真想让你回来"
 
 # game/bar.rpy#L719
 translate chinese cbrikutod_ecee95d2:
@@ -2979,199 +2979,199 @@ translate chinese cbrikutod_cdbe1b7c:
 translate chinese cbrikutod_c4f0d2ae:
 
     # "As I lick the first nipple something terrifying and unexpected happens though, she moans."
-    "As I lick the first nipple something terrifying and unexpected happens though, she moans."
+    "在我舔第一个乳头的时候，发生了一些可怕且我未曾设想的事情——她呻吟了。"
 
 # game/bar.rpy#L806
 translate chinese cbrikutod_109e141d:
 
     # "Hot, erotic, moaning."
-    "Hot, erotic, moaning."
+    "火辣而性感的呻吟。"
 
 # game/bar.rpy#L807
 translate chinese cbrikutod_f8636357:
 
     # "I can feel a heat in my loins, blood responding immediately, and precum dribbling."
-    "I can feel a heat in my loins, blood responding immediately, and precum dribbling."
+    "我能感到我的下体一热，血脉也立刻贲张起来，前列腺液也开始滴出。"
 
 # game/bar.rpy#L808
 translate chinese cbrikutod_7eb13311:
 
     # "If I’m going to win this round, I’ll need some strategy."
-    "If I’m going to win this round, I’ll need some strategy."
+    "如果我想要在这轮当中胜出，我需要一些策略。"
 
 # game/bar.rpy#L809
 translate chinese cbrikutod_8ef40d54:
 
     # "Fuck it, I’m going to move to the second nipple early, the first should get erect in a few seconds even without my tongue touching it, that way I can turn this dare from 14 seconds to only about 8."
-    "Fuck it, I’m going to move to the second nipple early, the first should get erect in a few seconds even without my tongue touching it, that way I can turn this dare from 14 seconds to only about 8."
+    "见鬼，我要提前去吸第二个乳头了。第一个乳头就算没有我的舌头触碰，也能在几秒之内勃起。这样，我就能让这大冒险的时间从14秒减到8秒。"
 
 # game/bar.rpy#L810
 translate chinese cbrikutod_1569fa39:
 
     # "Every second counts."
-    "Every second counts."
+    "而每一秒都很重要。"
 
 # game/bar.rpy#L811
 translate chinese cbrikutod_3311a011:
 
     # "After licking her second nipple for a few seconds I pull away, and Riku giggles."
-    "After licking her second nipple for a few seconds I pull away, and Riku giggles."
+    "在舔了第二个乳头几秒钟之后，我离开了。Riku窃笑着。"
 
 # game/bar.rpy#L813
 translate chinese cbrikutod_c40c4b85:
 
     # riku "That didn’t take you long at all, there’s no way they can be erect already!"
-    riku "That didn’t take you long at all, there’s no way they can be erect already!"
+    riku "你根本就没有花多长时间，它们是不可能勃起来的！"
 
 # game/bar.rpy#L814
 translate chinese cbrikutod_3f9fbf32:
 
     # "She says that and goes to check, to her surprise they’re both erect."
-    "She says that and goes to check, to her surprise they’re both erect."
+    "她一边这样说道一边检查她的乳头，不过让她惊讶的是它们都硬了起来。"
 
 # game/bar.rpy#L816
 translate chinese cbrikutod_14e9f1b3:
 
     # riku "Oh shit, you actually did it? I had no idea nipples could get erect that fast!"
-    riku "Oh shit, you actually did it? I had no idea nipples could get erect that fast!"
+    riku "天哪，你真的做到了？我不敢相信乳头可以硬的那么快！"
 
 # game/bar.rpy#L817
 translate chinese cbrikutod_9ce05394:
 
     # "She then averts her gaze from her pink erect nubs to my pink unerect nub."
-    "She then averts her gaze from her pink erect nubs to my pink unerect nub."
+    "她随后把目光从自己硬起来的粉色乳头，移向我没有硬起来的粉色下体。"
 
 # game/bar.rpy#L819
 translate chinese cbrikutod_4de83097:
 
     # riku "It… grew a tiny bit…"
-    riku "It… grew a tiny bit…"
+    riku "它……变大了一点……"
 
 # game/bar.rpy#L820
 translate chinese cbrikutod_837eeaae:
 
     # mc "Yeah, but it’s not an erection."
-    mc "Yeah, but it’s not an erection."
+    mc "是啊，但这不是勃起。"
 
 # game/bar.rpy#L822
 translate chinese cbrikutod_9b15fe28:
 
     # riku "Damn, I guess you showed me on that lil’ erection race."
-    riku "Damn, I guess you showed me on that lil’ erection race."
+    riku "操，我觉着你在刚才的小小勃起比赛里把我给赢了。"
 
 # game/bar.rpy#L824
 translate chinese cbrikutod_16076279:
 
     # riku "Guess that makes it my turn, I pick dare- hey wait a minute, your dick, it’s still growing!"
-    riku "Guess that makes it my turn, I pick dare- hey wait a minute, your dick, it’s still growing!"
+    riku "那就是说到了我的回合了，我选大冒险——等下，你的鸡巴，它还在继续变长！"
 
 # game/bar.rpy#L825
 translate chinese cbrikutod_509787bb:
 
     # mc "Hey, it’s rude to stare!"
-    mc "Hey, it’s rude to stare!"
+    mc "嘿，你这么盯着真是野蛮，，，"
 
 # game/bar.rpy#L826
 translate chinese cbrikutod_92c1588a:
 
     # riku "Hmph, if you were a stallion, you’d be rock hard by now. Maybe mare pheromones aren’t as strong on your species."
-    riku "Hmph, if you were a stallion, you’d be rock hard by now. Maybe mare pheromones aren’t as strong on your species."
+    riku "哼，你要是个雄驹，这时候你肉棒就跟石头一样硬喽。或许雌驹的信息素对你们物种的效果没有那么强。"
 
 # game/bar.rpy#L827
 translate chinese cbrikutod_fb5e262a:
 
     # mc "It’s too late now, I’m thinking of a dare for you."
-    mc "It’s too late now, I’m thinking of a dare for you."
+    mc "现在再说已经迟了，我正在给你想个大冒险。"
 
 # game/bar.rpy#L828
 translate chinese cbrikutod_20d5b960:
 
     # riku "Ohh, a male with an erection is thinking of a dare for me? I can already predict the perverted result, hahaha."
-    riku "Ohh, a male with an erection is thinking of a dare for me? I can already predict the perverted result, hahaha."
+    riku "哦嚯，一个勃起的雄性，在给我想大冒险？我已经能预料到你提的绝对是变态的要求，蛤蛤蛤。"
 
 # game/bar.rpy#L829
 translate chinese cbrikutod_8b3e4578:
 
     # mc "Hey, I’m still not erect, only semi. Don’t get too eager now."
-    mc "Hey, I’m still not erect, only semi. Don’t get too eager now."
+    mc "嘿，我不是纯勃起，也就一半。别太期待喽。"
 
 # game/bar.rpy#L831
 translate chinese cbrikutod_d853c5a9:
 
     # riku "Pfft, me, eager? Yeah, right!"
-    riku "Pfft, me, eager? Yeah, right!"
+    riku "切，我，期待？当然啦！"
 
 # game/bar.rpy#L834
 translate chinese cbrikutod_fd76a703:
 
     # riku "Gonna need another cider for this one."
-    riku "Gonna need another cider for this one."
+    riku "这下我得再喝一瓶果酒了。"
 
 # game/bar.rpy#L835
 translate chinese cbrikutod_e53222c5:
 
     # "She heads off to the kitchen to prep us another drink."
-    "She heads off to the kitchen to prep us another drink."
+    "她前往厨房，去准备另一瓶饮料。"
 
 # game/bar.rpy#L837
 translate chinese cbrikutod_13b55497:
 
     # riku "Yo, we’re out of cider, want me to mix up a spirit with soda?"
-    riku "Yo, we’re out of cider, want me to mix up a spirit with soda?"
+    riku "呦，果酒喝完了，要不拿点烈酒和苏打水混着喝？"
 
 # game/bar.rpy#L838
 translate chinese cbrikutod_bcc074e3:
 
     # mc "That sounds very alcoholic, but hit me up."
-    mc "That sounds very alcoholic, but hit me up."
+    mc "听起来度数怪高的，不过还是喝吧。"
 
 # game/bar.rpy#L839
 translate chinese cbrikutod_4596b7fc:
 
     # "She comes back with two glasses of some kind of pony derivative of cola, it’s so sweet I can barely taste the alcohol."
-    "She comes back with two glasses of some kind of pony derivative of cola, it’s so sweet I can barely taste the alcohol."
+    "她端着两杯似乎是小马版的可乐回来了，很甜，我几乎尝不到酒精。"
 
 # game/bar.rpy#L840
 translate chinese cbrikutod_92a6519f:
 
     # "But! I can still taste the alcohol, and I can tell that this is some strong stuff."
-    "But! I can still taste the alcohol, and I can tell that this is some strong stuff."
+    "但是！我还是能尝到酒精味，而且能分辨出这玩意劲怪大的。"
 
 # game/bar.rpy#L841
 translate chinese cbrikutod_90390d91:
 
     # "Riku has a really small frame, I wonder how drunk exactly she is? She has been getting notably gigglier as the night as gone on."
-    "Riku has a really small frame, I wonder how drunk exactly she is? She has been getting notably gigglier as the night as gone on."
+    "Riku的身形真的很小，我纳闷她到底能灌多醉？随着晚上时间的推移，能看出她的傻笑是越来越多了。"
 
 # game/bar.rpy#L843
 translate chinese cbrikutod_8e4703c8:
 
     # riku "Alright nipple-licker, what’s my dare?"
-    riku "Alright nipple-licker, what’s my dare?"
+    riku "好了，吸奶子的，我的大冒险呢？"
 
 # game/bar.rpy#L844
 translate chinese cbrikutod_b4af4edc:
 
     # mc "Nipple-licker? This is coming from the self-proclaimed licking expert."
-    mc "Nipple-licker? This is coming from the self-proclaimed licking expert."
+    mc "吸奶子的？从你这自封的舌技专家嘴里，也能说出这话来？"
 
 # game/bar.rpy#L846
 translate chinese cbrikutod_032270c7:
 
     # riku "Oh yeah? You wanna test me again on my licking skills?"
-    riku "Oh yeah? You wanna test me again on my licking skills?"
+    riku "哦，是吗？你还想再来测测我的舌技吗？"
 
 # game/bar.rpy#L847
 translate chinese cbrikutod_6a3ea500:
 
     # riku "I can lick your nipples too, hehe."
-    riku "I can lick your nipples too, hehe."
+    riku "嘿嘿，我当然也能舔你的奶子。"
 
 # game/bar.rpy#L848
 translate chinese cbrikutod_44bf80ae:
 
     # mc "Actually I have something else you can help erect."
-    mc "Actually I have something else you can help erect."
+    mc "事实上我还要别的东西要你帮忙弄起来呢。"
 
 # game/bar.rpy#L850
 translate chinese cbrikutod_38134d6f:

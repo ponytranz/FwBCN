@@ -1,4 +1,4 @@
-# Translation updated at Thu Jul 01 2021 00:52:40 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Thu Jul 01 2021 15:56:27 GMT+0000 (Coordinated Universal Time)
 # game/castle.rpy#L6
 translate chinese castle_38f72bb5:
 
@@ -2703,13 +2703,13 @@ translate chinese selenemenu_2d26f380:
 translate chinese selenemenu_29e00358:
 
     # "She arches her back and visibly shudders as pleasure surges through her. The genuine catharsis she’s feeling in this moment is rubbing off on me, giving me goose bumps."
-    "She arches her back and visibly shudders as pleasure surges through her. The genuine catharsis she’s feeling in this moment is rubbing off on me, giving me goose bumps."
+    "当高潮到来时她拱起了她的背和肩膀。此刻她真正宣泄出来的情绪在我身上不断蔓延，让我全身都起了鸡皮疙瘩。"
 
 # game/castle.rpy#L795
 translate chinese selenemenu_9a3d8f63:
 
     # selene "Mmm, it feels so much better than doing it with a familiar..."
-    selene "Mmm, it feels so much better than doing it with a familiar..."
+    selene "emmmmm，这感觉比和一个熟马做更棒。"
 
 # game/castle.rpy#L796
 translate chinese selenemenu_d1dbb412:
@@ -2721,7 +2721,7 @@ translate chinese selenemenu_d1dbb412:
 translate chinese selenemenu_07298110:
 
     # selene "Well, they feel good, but it’s akin to masturbation, it still leaves a lingering desire."
-    selene "Well, they feel good, but it’s akin to masturbation, it still leaves a lingering desire."
+    selene "好吧，它们感觉很不错，但正如同手淫一般，它仍然会留下挥之不去的欲望。"
 
 # game/castle.rpy#L799
 translate chinese selenemenu_08c59674:

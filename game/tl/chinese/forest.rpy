@@ -1,4 +1,4 @@
-# Translation updated at Thu Jul 01 2021 00:52:41 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Thu Jul 01 2021 15:56:28 GMT+0000 (Coordinated Universal Time)
 # game/forest.rpy#L18
 translate chinese forestvisit1_8c224d17:
 
@@ -5463,7 +5463,7 @@ translate chinese forestrelax_fb8b4422:
 translate chinese forestrelax_12dd8c68:
 
     # butters "Exactly, those two combined could transform you into a nymph, just a theory, not tested! But it's the Dewblossom that changes everything."
-    butters "其实这两个东西混在一起应该能让你变成一个蛇蝎美马，不过目前还只是我未经检验的理论！而朝露绽放可以改变药效。"
+    butters "其实这两个东西混在一起应该能让你变成一个女妖，不过目前还只是我未经检验的理论！而朝露绽放可以改变药效。"
 
 # game/forest.rpy#L1517
 translate chinese forestrelax_274c23ac:
@@ -6423,7 +6423,7 @@ translate chinese forestvisit3_1201dcb9:
 translate chinese forestvisit3_a9c08ade:
 
     # mc "It’s kinda hot, yeah."
-    mc "是的，你让我血脉喷张。"
+    mc "是的，你让我血脉贲张。"
 
 # game/forest.rpy#L1778
 translate chinese forestvisit3_52b78bfb:
@@ -7683,7 +7683,7 @@ translate chinese forestfreeze_8de93d80:
 translate chinese forestfreeze_b6fb37cf:
 
     # butters "I’m like a forest nymph, I wanna do it to everyone all the time."
-    butters "我就像只林地小精灵，一直都想和大家一起开心玩耍。"
+    butters "我就像只森林小妖，一直都想和大家一起开心玩耍。"
 
 # game/forest.rpy#L2095
 translate chinese forestfreeze_770b7a13:
@@ -8307,7 +8307,7 @@ translate chinese buttersnormal_4b67f69f:
 translate chinese buttersnormal_97d1053e:
 
     # butters "Ahh, what's on your mind then?"
-    butters "Ahh, what's on your mind then?"
+    butters "啊，那你在想些什么呢？"
 
 # game/forest.rpy#L2292
 translate chinese buttersnormalmenu_8487078e:
@@ -8319,13 +8319,13 @@ translate chinese buttersnormalmenu_8487078e:
 translate chinese buttersnormalmenu_a4e70f10:
 
     # butters "I don't really have a shop setup, so... Just browse a few items and tell me if anything catches your eye."
-    butters "I don't really have a shop setup, so... Just browse a few items and tell me if anything catches your eye."
+    butters "我这儿并不算真正的商店，你要是...看到自己想要的物品告诉我一声就行了。"
 
 # game/forest.rpy#L2294
 translate chinese buttersnormalmenu_41810e7e:
 
     # butters "Then maybe we can haggle a good price for you."
-    butters "Then maybe we can haggle a good price for you."
+    butters "我还可以给你打点折哦。"
 
 # game/forest.rpy#L2297
 translate chinese buttersshopmenu_876fda9d:
@@ -8337,73 +8337,73 @@ translate chinese buttersshopmenu_876fda9d:
 translate chinese buttersshopmenu_3eed63d4:
 
     # butters "The crystal ball caught your eye? It's an orb that shows you previous memories in vivid detail."
-    butters "The crystal ball caught your eye? It's an orb that shows you previous memories in vivid detail."
+    butters "你看上那个水晶球了？这个球体可以让你详细回溯之前的记忆。"
 
 # game/forest.rpy#L2299
 translate chinese buttersshopmenu_cfc965d5:
 
     # mc "So I could like... Watch myself having sex with a girl?"
-    mc "So I could like... Watch myself having sex with a girl?"
+    mc "也就是说...我可以用它重温我过去和某个女孩的床上时光？"
 
 # game/forest.rpy#L2300
 translate chinese buttersshopmenu_66bd6626:
 
     # butters "Yup, in first person too. It's quite spectacular to re-experience events again."
-    butters "Yup, in first person too. It's quite spectacular to re-experience events again."
+    butters "嗯哼，而且是第一人称。用它来回味过去的事件效果很不错。"
 
 # game/forest.rpy#L2301
 translate chinese buttersshopmenu_74867072:
 
     # mc "You sure you want to sell this?"
-    mc "You sure you want to sell this?"
+    mc "这么稀奇的东西你舍得卖？"
 
 # game/forest.rpy#L2302
 translate chinese buttersshopmenu_08886fe7:
 
     # butters "I owe you remember? And, anyway, I have another in my bedroom."
-    butters "I owe you remember? And, anyway, I have another in my bedroom."
+    butters "人家欠你一条命，你忘了？而且，反正我卧室里还有一个。"
 
 # game/forest.rpy#L2303
 translate chinese buttersshopmenu_fa7cdc9b:
 
     # mc "How much?"
-    mc "How much?"
+    mc "多少钱？"
 
 # game/forest.rpy#L2304
 translate chinese buttersshopmenu_f0f1c7f8:
 
     # butters "Let's say 200 monies?"
-    butters "Let's say 200 monies?"
+    butters "200块成交？"
 
 # game/forest.rpy#L2305
 translate chinese buttersshopmenu_18a03368:
 
     # mc "That sounds like a good price."
-    mc "That sounds like a good price."
+    mc "这价格公道。"
 
 # game/forest.rpy#L2309
 translate chinese buttersshopmenu_4f2ebd03:
 
     # butters "Perfect! I'll wrap it up for you."
-    butters "Perfect! I'll wrap it up for you."
+    butters "好耶！我帮你把它包起来吧。"
 
 # game/forest.rpy#L2312
 translate chinese buttersshopmenu_8cfc7aef:
 
     # "From now on you'll be able to access 'memories' during the day at Moxie's wagon."
-    "From now on you'll be able to access 'memories' during the day at Moxie's wagon."
+    "现在开始你，白天在Moxie的篷车里可以回溯之前的“记忆”了。"
 
 # game/forest.rpy#L2317
 translate chinese buttersshopmenu_e431a979:
 
     # "I really have no reason to buy this. Mares are horny enough anyway."
-    "I really have no reason to buy this. Mares are horny enough anyway."
+    "我没必要买这个。雌驹发起情来已经够主动了。"
 
 # game/forest.rpy#L2318
 translate chinese buttersshopmenu_6e4ea3b3:
 
     # "Butters notices me looking at it and comments."
-    "Butters notices me looking at it and comments."
+    "Butters也注意到了我正盯着催情药水看，随即说道。"
 
 # game/forest.rpy#L2319
 translate chinese buttersshopmenu_3cb8e239:
@@ -8415,43 +8415,43 @@ translate chinese buttersshopmenu_3cb8e239:
 translate chinese buttersshopmenu_97d7f811:
 
     # "See? I don't need it."
-    "看到了吗？我不需要它。"
+    "看到了吗？我没必要买这个。"
 
 # game/forest.rpy#L2323
 translate chinese buttersshopmenu_b646f504:
 
     # mc "Hey Butters, why do you have this?"
-    mc "Hey Butters, why do you have this?"
+    mc "嘿Butters，你怎么还卖这种东西？"
 
 # game/forest.rpy#L2325
 translate chinese buttersshopmenu_ed6fab84:
 
     # butters "Hmm? Why are you looking at me like that? You don't think I turned into a werewolf do you?"
-    butters "Hmm? Why are you looking at me like that? You don't think I turned into a werewolf do you?"
+    butters "嗯？你怎么这样盯着人家啊？你不会觉得人家是头狼人吧？"
 
 # game/forest.rpy#L2326
 translate chinese buttersshopmenu_3c8a6902:
 
     # mc "Uhh, I couldn't possibly say."
-    mc "Uhh, I couldn't possibly say."
+    mc "呃，我肯定不会这么想的。"
 
 # game/forest.rpy#L2328
 translate chinese buttersshopmenu_f3422c7d:
 
     # butters "I was a succubus, I wouldn't want to hurt any Mr. Wolfies out there."
-    butters "I was a succubus, I wouldn't want to hurt any Mr. Wolfies out there."
+    butters "我曾是一只魅魔，如果伤到狼人先生，那可就不好了。"
 
 # game/forest.rpy#L2330
 translate chinese buttersshopmenu_6116b322:
 
     # butters "This is one of my commissioned potions, it was a lot easier to make compared to the succubus potion."
-    butters "This is one of my commissioned potions, it was a lot easier to make compared to the succubus potion."
+    butters "这瓶药是我受其他马委托而酿造的，工艺比起魅魔药剂要简单不少。"
 
 # game/forest.rpy#L2331
 translate chinese buttersshopmenu_3d02ed7b:
 
     # butters "I keep one available, just in case that same female friend feels like having another werewolf gangbang and needs me again."
-    butters "I keep one available, just in case that same female friend feels like having another werewolf gangbang and needs me again."
+    butters "如果那位委托我的雌驹朋友哪天不小心又被狼人XXOO了，临时再酿一瓶可能来不及，所以我留了一瓶以备不时之需。"
 
 # game/forest.rpy#L2332
 translate chinese buttersshopmenu_5693a819:
@@ -8463,43 +8463,43 @@ translate chinese buttersshopmenu_5693a819:
 translate chinese buttersshopmenu_9095264d:
 
     # mc "What's this ambiguous red fluid?"
-    mc "What's this ambiguous red fluid?"
+    mc "这瓶糊状的红色药剂是什么？"
 
 # game/forest.rpy#L2336
 translate chinese buttersshopmenu_366b62a9:
 
     # butters "One of my early attempts at a succubus cure."
-    butters "One of my early attempts at a succubus cure."
+    butters "我对魅魔解药的众多早期成品之一。"
 
 # game/forest.rpy#L2337
 translate chinese buttersshopmenu_85bcf599:
 
     # butters "Remember when we talked about a potion that would turn you into a nymph without a dewblossom to reverse the effects? This is similar."
-    butters "Remember when we talked about a potion that would turn you into a nymph without a dewblossom to reverse the effects? This is similar."
+    butters "还记得我告诉过你没有朝露绽放驱邪的药剂可以让马变成女妖吗？跟这个药差不多。"
 
 # game/forest.rpy#L2338
 translate chinese buttersshopmenu_d39ef29b:
 
     # butters "While this potion doesn't turn you into a succubus or nymph, it exhibits a corrupting influence, making you more evil and lustful."
-    butters "While this potion doesn't turn you into a succubus or nymph, it exhibits a corrupting influence, making you more evil and lustful."
+    butters "这个药并不会把马变成魅魔或者女妖，它的药效是腐化作用，让你变得更邪恶和淫荡。"
 
 # game/forest.rpy#L2339
 translate chinese buttersshopmenu_9cd454a5:
 
     # butters "I was only keeping this around as a control for tests, but I guess I don't need it anymore."
-    butters "I was only keeping this around as a control for tests, but I guess I don't need it anymore."
+    butters "我留着这瓶药只是为了把它当作炼金实验的对照组，现在看来不需要了。"
 
 # game/forest.rpy#L2340
 translate chinese buttersshopmenu_1171185d:
 
     # butters "I could even turn this into a purity potion with a touch of dewblossom."
-    butters "I could even turn this into a purity potion with a touch of dewblossom."
+    butters "只需加点朝露绽放，它就能变成净化药剂。"
 
 # game/forest.rpy#L2343
 translate chinese buttersshopmenu_bd7d4152:
 
     # mc "What’s this potion here?"
-    mc "What’s this potion here?"
+    mc "那这瓶药呢？"
 
 # game/forest.rpy#L2345
 translate chinese buttersshopmenu_2dee53a2:

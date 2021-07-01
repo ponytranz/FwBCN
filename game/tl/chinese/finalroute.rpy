@@ -1,4 +1,4 @@
-# Translation updated at Thu Jul 01 2021 00:52:41 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Thu Jul 01 2021 15:56:28 GMT+0000 (Coordinated Universal Time)
 # game/finalroute.rpy#L6
 translate chinese finalroute_240762c1:
 
@@ -81,7 +81,7 @@ translate chinese finalroute_47abcd90:
 translate chinese finalroute_eb56273f:
 
     # mc "Uhh, wow Moxie, that’s quite the question."
-    mc "嗯，哇，莫西，这是个很好的问题。"
+    mc "嗯，哇，Moxie，这是个很好的问题。"
 
 # game/finalroute.rpy#L32
 translate chinese finalroute_fb38223c:
@@ -123,61 +123,61 @@ translate chinese finalroute_47c8c6ac:
 translate chinese finalroute_0320e818:
 
     # moxie "I can’t believe this happened. You were mine and Penelope’s little pet project, but I never anticipated you going and fucking one of the princesses."
-    moxie "I can’t believe this happened. You were mine and Penelope’s little pet project, but I never anticipated you going and fucking one of the princesses."
+    moxie "简直难以置信。你属于我和Penelope那小小的宠物计划,可我万万没想到你居然去干了一位公主。"
 
 # game/finalroute.rpy#L42
 translate chinese finalroute_83d473ad:
 
     # moxie "You’ve single-handedly made my job a billion times easier."
-    moxie "You’ve single-handedly made my job a billion times easier."
+    moxie "你只身一人，就把我的活变轻松了十亿，甚至九亿倍。"
 
 # game/finalroute.rpy#L43
 translate chinese finalroute_c634686b:
 
     # mc "What are you talking about? Why are you acting so weird, Moxie?"
-    mc "What are you talking about? Why are you acting so weird, Moxie?"
+    mc "你说啥呢?干嘛表现得怪怪的,Moxie?"
 
 # game/finalroute.rpy#L45
 translate chinese finalroute_74001af2:
 
     # moxie "Hmm… I’ve been a little irate all day, I’ve been sensing a strange magic from both the royal sisters."
-    moxie "Hmm… I’ve been a little irate all day, I’ve been sensing a strange magic from both the royal sisters."
+    moxie "额...我整天都感觉气闷闷的,感觉得到公主姐妹两个的那股神秘魔法。"
 
 # game/finalroute.rpy#L46
 translate chinese finalroute_7800bc92:
 
     # moxie "I guess it’s because you’ve fucked Selene, but… I’m feeling that same magic from Aurora too…"
-    moxie "I guess it’s because you’ve fucked Selene, but… I’m feeling that same magic from Aurora too…"
+    moxie "估计是你上了Selence的缘故,可...我同样能感觉到来自Aurora的魔力..."
 
 # game/finalroute.rpy#L49
 translate chinese finalroute_8d82d6bd:
 
     # moxie "No… Don’t tell me…"
-    moxie "No… Don’t tell me…"
+    moxie "噢...别跟我说..."
 
 # game/finalroute.rpy#L50
 translate chinese finalroute_97bd32db:
 
     # moxie "[playername], have you had sex with {i}AURORA?{/i}"
-    moxie "[playername], have you had sex with {i}AURORA?{/i}"
+    moxie "[playername],你和 {i}AURORA?{/i}做过了么?"
 
 # game/finalroute.rpy#L51
 translate chinese finalroute_7bf6012e:
 
     # "I try to feign an answer, or even an excuse, but Aurora’s spell prevents anything related to the event from escaping my mouth."
-    "I try to feign an answer, or even an excuse, but Aurora’s spell prevents anything related to the event from escaping my mouth."
+    "我尽力圆出一个答复,甚至是一个借口,但Aurora的魔咒让我对这事的一厘一毫都禁口了。"
 
 # game/finalroute.rpy#L63
 translate chinese finalroute_922d55b5:
 
     # moxie "You can’t talk about it…? You DID fuck her!"
-    moxie "You can’t talk about it…? You DID fuck her!"
+    moxie "你无法谈及这事...？就是说你*真的是*上了她啊!"
 
 # game/finalroute.rpy#L64
 translate chinese finalroute_0539f829:
 
     # mc "It doesn’t matter…"
-    mc "It doesn’t matter…"
+    mc "不要紧的吧..."
 
 # game/finalroute.rpy#L66
 translate chinese finalroute_d382a0c9:
@@ -189,37 +189,37 @@ translate chinese finalroute_d382a0c9:
 translate chinese finalroute_343ec96f:
 
     # moxie "I’ve won…"
-    moxie "I’ve won…"
+    moxie "我赢了..."
 
 # game/finalroute.rpy#L70
 translate chinese finalroute_1b0a1c47:
 
     # moxie "I’ve {b}WON{/b}!"
-    moxie "I’ve {b}WON{/b}!"
+    moxie "是我{b}赢{/b}了!"
 
 # game/finalroute.rpy#L73
 translate chinese finalroute_82b07c70:
 
     # moxie "Ahahaah, ahhahahaa, it was so easy! I can’t believe it!"
-    moxie "Ahahaah, ahhahahaa, it was so easy! I can’t believe it!"
+    moxie "啊哈哈啊,啊哈哈哈哈啊,EZ!简直不敢相信"
 
 # game/finalroute.rpy#L90
 translate chinese finalroute_42223814:
 
     # moxie "You were designed to be nothing more than a pawn to create some loyal underlings, but you ended up winning the game by yourself!"
-    moxie "You were designed to be nothing more than a pawn to create some loyal underlings, but you ended up winning the game by yourself!"
+    moxie "原本只是想让你当个制造几个忠仆的卒子，没想到今儿个却单枪匹马帮我赢了这场游戏！"
 
 # game/finalroute.rpy#L91
 translate chinese finalroute_228d2783:
 
     # mc "What are you talking about Moxie? What game?"
-    mc "What are you talking about Moxie? What game?"
+    mc "你说啥呢Moxie?啥游戏?"
 
 # game/finalroute.rpy#L108
 translate chinese finalroute_828570e4:
 
     # moxie "Enough with this Moxie bullshit, it’s time for me to reveal my true form!"
-    moxie "Enough with this Moxie bullshit, it’s time for me to reveal my true form!"
+    moxie "别管啥屎Moxie了,是时候揭晓我的真面目了。"
 
 # game/finalroute.rpy#L126
 translate chinese finalroute_a20cefa7:
@@ -231,133 +231,133 @@ translate chinese finalroute_a20cefa7:
 translate chinese finalroute_cde8e5c8:
 
     # unknown "I’m the new Queen of Arcadia!"
-    unknown "I’m the new Queen of Arcadia!"
+    unknown "吾乃Arcadia之新后。"
 
 # game/finalroute.rpy#L136
 translate chinese finalroute_2e404239:
 
     # morrigan "You can call me, Morrigan!"
-    morrigan "You can call me, Morrigan!"
+    morrigan "你该称我,Morrigan!"
 
 # game/finalroute.rpy#L137
 translate chinese finalroute_5eb58b89:
 
     # morrigan "Ahh, this form is so much more fitting of a Queen, unlike that sickly blue mare."
-    morrigan "Ahh, this form is so much more fitting of a Queen, unlike that sickly blue mare."
+    morrigan "啊,这个形态才是一个女王该有的,可不像那只蓝不垃圾的雌驹。"
 
 # game/finalroute.rpy#L138
 translate chinese finalroute_018b7e51:
 
     # mc "W-What, Moxie? What’s going on?"
-    mc "W-What, Moxie? What’s going on?"
+    mc "哈-哈?Moxie?发生什么了?"
 
 # game/finalroute.rpy#L140
 translate chinese finalroute_76b24c80:
 
     # morrigan "Ohh, I am so much more than your ‘Moxie’, my underling."
-    morrigan "Ohh, I am so much more than your ‘Moxie’, my underling."
+    morrigan "哦~我可比你的‘Moxie’好得多,我的奴才。"
 
 # game/finalroute.rpy#L141
 translate chinese finalroute_e0bcda02:
 
     # mc "Are you the same person? Or is this some kind of magical trickery?"
-    mc "Are you the same person? Or is this some kind of magical trickery?"
+    mc "你还是同一马么?还是说这是某种魔术把戏?"
 
 # game/finalroute.rpy#L143
 translate chinese finalroute_6a3d8120:
 
     # morrigan "Darling, do calm down. She and I are one and the same. I just had to don dear ‘Moxie’ as a disguise."
-    morrigan "Darling, do calm down. She and I are one and the same. I just had to don dear ‘Moxie’ as a disguise."
+    morrigan "冷静,亲。她和我同为一马。我只是必须把‘Moxie’亲亲的身份作为伪装。"
 
 # game/finalroute.rpy#L144
 translate chinese finalroute_0a5c5f58:
 
     # mc "I don’t understand, what’s going on?"
-    mc "I don’t understand, what’s going on?"
+    mc "我不明白,到底咋回事?"
 
 # game/finalroute.rpy#L146
 translate chinese finalroute_59e59a44:
 
     # morrigan "My faithful servant, bear witness to my ascendency to the throne!"
-    morrigan "My faithful servant, bear witness to my ascendency to the throne!"
+    morrigan "我忠实的奴仆啊,见证我君临王座吧!"
 
 # game/finalroute.rpy#L148
 translate chinese finalroute_6776eebd:
 
     # morrigan "With this spell, I shall activate the seed of obedience you planted into each and every mare you’ve slept with!"
-    morrigan "With this spell, I shall activate the seed of obedience you planted into each and every mare you’ve slept with!"
+    morrigan "以此咒,我将唤醒你睡过的每只雌驹体内种下的奴役之种!"
 
 # game/finalroute.rpy#L149
 translate chinese finalroute_fa70f2dd:
 
     # morrigan "Follow me and obey, loyal pets! You’re now under the rule of Queen Morrigan, Penelope, and [playername] until further notice!"
-    morrigan "Follow me and obey, loyal pets! You’re now under the rule of Queen Morrigan, Penelope, and [playername] until further notice!"
+    morrigan "从我,尊我吧,忠诚的贱宠们!你们将臣服于Morrigan女王,Penelope,和[playername]的统治之下,直到下步听令!"
 
 # game/finalroute.rpy#L181
 translate chinese finalroute_b4c09f26:
 
     # "Harrowingly the atmosphere in Arcadia changes almost immediately, rain starts dribbling down from increasingly grey clouds."
-    "Harrowingly the atmosphere in Arcadia changes almost immediately, rain starts dribbling down from increasingly grey clouds."
+    "Arcadia的气场瞬间惊变了,绵绵淫雨从渐涨的阴云里靡落"
 
 # game/finalroute.rpy#L183
 translate chinese finalroute_db6c073b:
 
     # morrigan "Oh my, it started raining… Usually Aurora controls the weather, so that means you really did fuck her, impressive!"
-    morrigan "Oh my, it started raining… Usually Aurora controls the weather, so that means you really did fuck her, impressive!"
+    morrigan "哦,天哪,下雨了...Aurora一般管天气的,那就是说你确实上了她,干的好啊!"
 
 # game/finalroute.rpy#L184
 translate chinese finalroute_b444aa19:
 
     # mc "What are you talking about? What does this have to do with the mares I’ve slept with?"
-    mc "What are you talking about? What does this have to do with the mares I’ve slept with?"
+    mc "你到底说啥呢?这跟我睡过的雌驹又有什么关系啊?"
 
 # game/finalroute.rpy#L186
 translate chinese finalroute_c8ced877:
 
     # morrigan "Isn’t it obvious? When you arrived in Arcadia via my spell, I cast several powerful beguilement spells on you."
-    morrigan "Isn’t it obvious? When you arrived in Arcadia via my spell, I cast several powerful beguilement spells on you."
+    morrigan "还不明显么?你通过我魔咒到Arcadia时,我在你身上施了几道强大的欺骗性的幻术。"
 
 # game/finalroute.rpy#L187
 translate chinese finalroute_2e7bf8a6:
 
     # morrigan "The first was to make you almost irresistibly attractive and overwhelmingly arousing to many a mare."
-    morrigan "The first was to make you almost irresistibly attractive and overwhelmingly arousing to many a mare."
+    morrigan "第一道是让你魅力大到抵抗不了,大到让雌驹们性奋来潮。"
 
 # game/finalroute.rpy#L188
 translate chinese finalroute_da57d79d:
 
     # mc "Hmph, that certainly explains my absurd luck…"
-    mc "Hmph, that certainly explains my absurd luck…"
+    mc "额嗯，那确实说明了我简直了的好运..."
 
 # game/finalroute.rpy#L190
 translate chinese finalroute_e11853ee:
 
     # morrigan "The second spell… any mare you sleep with becomes {i}my slave{/i}."
-    morrigan "The second spell… any mare you sleep with becomes {i}my slave{/i}."
+    morrigan "第二道咒...任何你睡过的雌驹都会成为{i}我的奴仆{/i}。"
 
 # game/finalroute.rpy#L195
 translate chinese finalroute_570051b3:
 
     # morrigan "Oh it’s not so bad, because they hopelessly enjoy each and every moment they serve under me."
-    morrigan "Oh it’s not so bad, because they hopelessly enjoy each and every moment they serve under me."
+    morrigan "噢，当然可没那么糟，因为他们可以绝望地享受侍奉我的每时每刻。"
 
 # game/finalroute.rpy#L196
 translate chinese finalroute_c29ec358:
 
     # morrigan "They’ll absolutely beg to be under my command, and would actively fight against any attempts to break those shackles."
-    morrigan "They’ll absolutely beg to be under my command, and would actively fight against any attempts to break those shackles."
+    morrigan "他们会全心地求做我的蹄下贱旨，并且会主动地镇压任何反叛之举。"
 
 # game/finalroute.rpy#L199
 translate chinese finalroute_2ad6712b:
 
     # morrigan "I would never have achieved this power so soon without you, my loyal servant."
-    morrigan "I would never have achieved this power so soon without you, my loyal servant."
+    morrigan "没有你我可走不到这般权霸，我忠实的奴仆。"
 
 # game/finalroute.rpy#L201
 translate chinese finalroute_b1fd48fe:
 
     # morrigan "You were never supposed to sleep with royalty, my plan was to infiltrate Arcadia from the inside as Moxie. But I’d say there’s been a change of plan."
-    morrigan "You were never supposed to sleep with royalty, my plan was to infiltrate Arcadia from the inside as Moxie. But I’d say there’s been a change of plan."
+    morrigan "可没料到你会睡皇室，我原本计划以Moxie之身渗入Arcadia中央。可看来计划有变了。"
 
 # game/finalroute.rpy#L204
 translate chinese finalroute_d9937da3:
@@ -441,7 +441,7 @@ translate chinese finalroute_51c1e613:
 translate chinese finalroute_fc9fa0ca:
 
     # penelope "Good job newbie, you’ll be rewarded greatly under servitude of our new Queen."
-    penelope "Good job newbie, you’ll be rewarded greatly under servitude of our new Queen."
+    penelope "好啊，新手蛋子，好好滴服务，女王有赏啊！"
 
 # game/finalroute.rpy#L249
 translate chinese finalroute_f7f04e22:
@@ -519,7 +519,7 @@ translate chinese finalroute_51c1e613_1:
 translate chinese finalroute_fc9fa0ca_1:
 
     # penelope "Good job newbie, you’ll be rewarded greatly under servitude of our new Queen."
-    penelope "Good job newbie, you’ll be rewarded greatly under servitude of our new Queen."
+    penelope "好啊，新手蛋子，好好滴服务，女王有赏啊！"
 
 # game/finalroute.rpy#L300
 translate chinese finalroute_f7f04e22_1:

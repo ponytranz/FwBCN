@@ -1,4 +1,4 @@
-# Translation updated at Thu Jul 01 2021 00:52:40 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Thu Jul 01 2021 15:56:27 GMT+0000 (Coordinated Universal Time)
 # game/bakery.rpy#L14
 translate chinese bakeryvisit1_2f4adbe4:
 
@@ -1689,7 +1689,7 @@ translate chinese creamquickie_ae4b9f56:
 translate chinese creamquickie_e4118908:
 
     # "She bites her lip and one of her hand starts to softly trail from my chest down my tummy and to my pelvis, I can feel blood rushing."
-    "她一边轻咬着嘴唇，一边用手自上而下，轻柔地抚摸着我的胸部、腹部和腰部。这让我瞬间血脉喷张。"
+    "她一边轻咬着嘴唇，一边用手自上而下，轻柔地抚摸着我的胸部、腹部和腰部。这让我瞬间血脉贲张。"
 
 # game/bakery.rpy#L474
 translate chinese creamquickie_a5365125:
@@ -2073,25 +2073,25 @@ translate chinese creamvmissionary_88fd0e63:
 translate chinese creamvmissionary_41886090:
 
     # "Cream reacted by pushing her hips against me as we both fucked each other in unison."
-    "Cream reacted by pushing her hips against me as we both fucked each other in unison."
+    "我们两人交合的动作十分协调统一。每当Cream的腰身与我的下体相接触时，她都会做出回应。"
 
 # game/bakery.rpy#L559
 translate chinese creamvmissionary_6e7a6ddf:
 
     # "I cherished the warmth of our bodies as my skin and her fur pressed together."
-    "I cherished the warmth of our bodies as my skin and her fur pressed together."
+    "当她的毛发与我的皮肤互相摩擦挤压时，我都会感受到一丝久违而享受的温暖。"
 
 # game/bakery.rpy#L560
 translate chinese creamvmissionary_4871b7e4:
 
     # "I started to fuck faster, my cock was sliding in and out of her pussy with ease and the sensations caused her to dig her fingers into the bed sheets."
-    "I started to fuck faster, my cock was sliding in and out of her pussy with ease and the sensations caused her to dig her fingers into the bed sheets."
+    "于是，我加快了抽插的速度。肉棒在她的蜜穴中进退自如，而她则用双手紧紧抓着面前的床单，完全沉浸在了这无比的快感之中。"
 
 # game/bakery.rpy#L561
 translate chinese creamvmissionary_ddf13c1e:
 
     # "We kept rutting, getting closer and closer to our respective orgasms, not stopping for a second in that pursuit."
-    "We kept rutting, getting closer and closer to our respective orgasms, not stopping for a second in that pursuit."
+    "我们依旧忘情地享受着性爱的欢悦。不久，我们两人便到达了高潮的边缘。此时，我们已经迫不及待地想要迎接那最后的一刻了。"
 
 # game/bakery.rpy#L562
 translate chinese creamvmissionary_0f955931:
@@ -2115,13 +2115,13 @@ translate chinese creamvmissionary_54a4af66:
 translate chinese creamvmissionary_98db46d4:
 
     # "My orgasm was rapidly approaching; my body grew tense and before I realized, I had hit the point of no return."
-    "My orgasm was rapidly approaching; my body grew tense and before I realized, I had hit the point of no return."
+    "我马上就要高潮了。在我还未有所察觉时，我的身体就早已紧绷起来。看来，我已经别无选择了。"
 
 # game/bakery.rpy#L566
 translate chinese creamvmissionary_bb096291:
 
     # cream "Haaahh, I’m coming!"
-    cream "哈啊啊……我要射了！"
+    cream "哈啊啊……我要去了！"
 
 # game/bakery.rpy#L571
 translate chinese creamvmissionary_83a5b684:
@@ -2133,7 +2133,7 @@ translate chinese creamvmissionary_83a5b684:
 translate chinese creamvmissionary_709f733d:
 
     # cream "Mmmhnnnggg…"
-    cream "Mmmhnnnggg…"
+    cream "嗯嗯嗯……"
 
 # game/bakery.rpy#L582
 translate chinese creamvmissionary_ce617998:
@@ -2145,13 +2145,13 @@ translate chinese creamvmissionary_ce617998:
 translate chinese creamvmissionary_483e9a67:
 
     # "The two of us cuddled for a while, although it was starting to get late, it was almost time for the guests of the party to arrive!"
-    "The two of us cuddled for a while, although it was starting to get late, it was almost time for the guests of the party to arrive!"
+    "尽管天色已晚，但我们两人仍旧相互依偎在一起。而参加聚会的客人马上就要到了！"
 
 # game/bakery.rpy#L587
 translate chinese creamvmissionary_f32bd7b2:
 
     # "Ding-dong! Thirty minutes after having sex with Cream, the first guest arrives!"
-    "Ding-dong! Thirty minutes after having sex with Cream, the first guest arrives!"
+    "叮咚！在和Cream交欢后，又过去了三十分钟，第一位客人终于到场了！"
 
 # game/bakery.rpy#L590
 translate chinese creamvmissionary_1e340f5c:
@@ -2175,7 +2175,7 @@ translate chinese creamvmissionary_78ce5756:
 translate chinese creamvmissionary_a8fa24f0:
 
     # cream "Honey! Blossom! It's so great to see you two!"
-    cream "Honey! Blossom! It's so great to see you two!"
+    cream "Honey！Blossom！能见到你们俩真是太棒了！"
 
 # game/bakery.rpy#L603
 translate chinese creamvmissionary_80daeb90:
