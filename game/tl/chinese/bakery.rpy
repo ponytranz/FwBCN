@@ -1,4 +1,4 @@
-# Translation updated at Thu Jul 01 2021 15:56:27 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Fri Jul 02 2021 00:48:53 GMT+0000 (Coordinated Universal Time)
 # game/bakery.rpy#L14
 translate chinese bakeryvisit1_2f4adbe4:
 
@@ -2127,7 +2127,7 @@ translate chinese creamvmissionary_bb096291:
 translate chinese creamvmissionary_83a5b684:
 
     # "My climax hit and sent sparks of pleasure through my body while I ejaculated deep inside Cream, filling her pussy with my thick, hot cum."
-    "My climax hit and sent sparks of pleasure through my body while I ejaculated deep inside Cream, filling her pussy with my thick, hot cum."
+    "在滚烫浓稠的精液射入Cream体内的瞬间，我感受到了一种极致的喜悦和快感。"
 
 # game/bakery.rpy#L577
 translate chinese creamvmissionary_709f733d:
@@ -2157,19 +2157,19 @@ translate chinese creamvmissionary_f32bd7b2:
 translate chinese creamvmissionary_1e340f5c:
 
     # "Upon opening the door, Honeycrisp is the first to arrive. 8:00pm on the dot, I'd expect no less from Honey."
-    "Upon opening the door, Honeycrisp is the first to arrive. 8:00pm on the dot, I'd expect no less from Honey."
+    "晚上八点整，大门被推开了。当让我感到意外的是，第一个走进来的居然是Honeycrisp。"
 
 # game/bakery.rpy#L594
 translate chinese creamvmissionary_c7a63d53:
 
     # honeycrisp "Howdy! When I heard [playername] and Cream were throwing a party, I knew it wasn't one to be missed!"
-    honeycrisp "Howdy! When I heard [playername] and Cream were throwing a party, I knew it wasn't one to be missed!"
+    honeycrisp "你们好啊！我听说[playername]和Cream正在筹办一场聚会。听了这个消息，我就知道，这次的聚会一定不能错过！"
 
 # game/bakery.rpy#L598
 translate chinese creamvmissionary_78ce5756:
 
     # blossom "Y'all really gone all out, this place looks awesome!"
-    blossom "我们真的竭尽所能了，这地方看起来棒极了"
+    blossom "你们真的是竭尽所能了，这地方看起来棒极了！"
 
 # game/bakery.rpy#L602
 translate chinese creamvmissionary_a8fa24f0:
@@ -2181,7 +2181,7 @@ translate chinese creamvmissionary_a8fa24f0:
 translate chinese creamvmissionary_80daeb90:
 
     # honeycrisp "I brought a pack of some homebrew cider, let's have a great one!"
-    honeycrisp "I brought a pack of some homebrew cider, let's have a great one!"
+    honeycrisp "我带了一箱自己酿的苹果酒。这次咱们一定要尽兴而归才行啊！"
 
 # game/bakery.rpy#L604
 translate chinese creamvmissionary_ac497ae2:
@@ -2193,37 +2193,37 @@ translate chinese creamvmissionary_ac497ae2:
 translate chinese creamvmissionary_e2626a85:
 
     # blossom "Hey [playername], it's always nice to see you."
-    blossom "Hey [playername], it's always nice to see you."
+    blossom "嘿，[playername]，见到你真高兴。"
 
 # game/bakery.rpy#L608
 translate chinese creamvmissionary_c1262112:
 
     # mc "I've been getting around lately, what have you been up to?"
-    mc "I've been getting around lately, what have you been up to?"
+    mc "我这段时间一直都在这儿。你怎么样？"
 
 # game/bakery.rpy#L610
 translate chinese creamvmissionary_ba4489ae:
 
     # blossom "Really well, thank you again for the help at the farm, Anna and Honey are working closer than ever."
-    blossom "Really well, thank you again for the help at the farm, Anna and Honey are working closer than ever."
+    blossom "我很好。你在农场帮过我很多忙，所以我要再次谢谢你。Anna和Honey的关系也好了很多。"
 
 # game/bakery.rpy#L611
 translate chinese creamvmissionary_d8234197:
 
     # blossom "They're considering becoming business partners, the future for the farm is really promising."
-    blossom "They're considering becoming business partners, the future for the farm is really promising."
+    blossom "她们俩还在考虑成为商业伙伴的事呢。看来农场的未来很有希望呢。"
 
 # game/bakery.rpy#L612
 translate chinese creamvmissionary_ee68869c:
 
     # mc "Anna does seem like a cunning business woman, she might be the perfect partner for Honey."
-    mc "Anna does seem like a cunning business woman, she might be the perfect partner for Honey."
+    mc "Anna确实像个精明的商人。如果她能成为Honey的合作伙伴就太完美了。"
 
 # game/bakery.rpy#L614
 translate chinese creamvmissionary_29d397c5:
 
     # blossom "Hmm, partner... Do you think they make a cute couple?"
-    blossom "Hmm, partner... Do you think they make a cute couple?"
+    blossom "嗯，伙伴……你是觉得她们俩可以组一对CP吗？"
 
 # game/bakery.rpy#L615
 translate chinese creamvmissionary_3707861e:
@@ -2247,31 +2247,31 @@ translate chinese creamvmissionary_dbede1c5:
 translate chinese creamvmissionary_dc80f1ef:
 
     # "Just as I move to leave with Blossom the doorbell rings again."
-    "Just as I move to leave with Blossom the doorbell rings again."
+    "就在我准备去帮Blossom的时候，门铃又一次响了起来。"
 
 # game/bakery.rpy#L621
 translate chinese creamvmissionary_ade59058:
 
     # cream "Ohh, get that for me [playername]!"
-    cream "Ohh, get that for me [playername]!"
+    cream "哦，[playername]，帮我开一下门吧！"
 
 # game/bakery.rpy#L622
 translate chinese creamvmissionary_d580891f:
 
     # mc "I got it!"
-    mc "I got it!"
+    mc "知道了！"
 
 # game/bakery.rpy#L623
 translate chinese creamvmissionary_beb120c5:
 
     # "Guess those cakes will have to wait."
-    "Guess those cakes will have to wait."
+    "看来蛋糕的事要先等一等了。"
 
 # game/bakery.rpy#L625
 translate chinese creamvmissionary_88613ce8:
 
     # "The first guest is a mare I haven't seen before, I think it's the owner of the farm Honeycrisp."
-    "The first guest is a mare I haven't seen before, I think it's the owner of the farm Honeycrisp."
+    "我并不认识这第一位到场的客人。不过我感觉，她有可能是农场的主人Honeycrisp。"
 
 # game/bakery.rpy#L630
 translate chinese creamvmissionary_e3e588f7:
@@ -2289,13 +2289,13 @@ translate chinese creamvmissionary_6fb6bb91:
 translate chinese creamvmissionary_cc43ba2e:
 
     # honeycrisp "Ah-ha, and it's the incredibly useful [playername]! Helping out a lot of people, eh?"
-    honeycrisp "Ah-ha, and it's the incredibly useful [playername]! Helping out a lot of people, eh?"
+    honeycrisp "啊哈，[playername]，看来你真是个多面手啊！你已经帮过不少人了，对不对？"
 
 # game/bakery.rpy#L637
 translate chinese creamvmissionary_fe33d0f0:
 
     # mc "Yeah, I'm definitely getting around. Trying to meet a lot of people in my early days staying in Arcadia."
-    mc "Yeah, I'm definitely getting around. Trying to meet a lot of people in my early days staying in Arcadia."
+    mc "没错，我总会到各处去逛一逛。在我刚来Arcadia的那段时间，我认识了很多人。"
 
 # game/bakery.rpy#L639
 translate chinese creamvmissionary_2c0c1f9c:
@@ -2325,25 +2325,25 @@ translate chinese creamvmissionary_6fb6bb91_1:
 translate chinese creamvmissionary_f74182ce:
 
     # honeycrisp "Hello new face, is this the young man from Penelope's letter?"
-    honeycrisp "Hello new face, is this the young man from Penelope's letter?"
+    honeycrisp "你好啊，你就是Penelope信里提到的那个新来的帅小伙吗？"
 
 # game/bakery.rpy#L654
 translate chinese creamvmissionary_706ed739:
 
     # mc "That'll be me, nice to meet you Honeycrisp."
-    mc "That'll be me, nice to meet you Honeycrisp."
+    mc "没错，那就是我。很高兴认识你，Honeycrisp。"
 
 # game/bakery.rpy#L655
 translate chinese creamvmissionary_3cf68f5d:
 
     # honeycrisp "It's my pleasure, stud!"
-    honeycrisp "It's my pleasure, stud!"
+    honeycrisp "我也很高兴认识你，小帅哥！"
 
 # game/bakery.rpy#L657
 translate chinese creamvmissionary_80daeb90_1:
 
     # honeycrisp "I brought a pack of some homebrew cider, let's have a great one!"
-    honeycrisp "I brought a pack of some homebrew cider, let's have a great one!"
+    honeycrisp "我带了一箱自己酿的苹果酒。这次咱们一定要尽兴而归才行啊！"
 
 # game/bakery.rpy#L659
 translate chinese creamvmissionary_9fd90093:
@@ -2361,25 +2361,25 @@ translate chinese creamvmissionary_e3189209:
 translate chinese creamvmissionary_023d44a0:
 
     # honeycrisp "Y'all ain't gotta worry about me! Just show me to the fridge."
-    honeycrisp "Y'all ain't gotta worry about me! Just show me to the fridge."
+    honeycrisp "你们用不着替我操心！只需要告诉我冰箱在哪儿就行。"
 
 # game/bakery.rpy#L666
 translate chinese creamvmissionary_577bdfab:
 
     # "Just as I move to go to the kitchen with the girls, the doorbell rings again."
-    "Just as I move to go to the kitchen with the girls, the doorbell rings again."
+    "在我准备和几个姑娘一起进厨房时，门铃又响了起来。"
 
 # game/bakery.rpy#L667
 translate chinese creamvmissionary_ade59058_1:
 
     # cream "Ohh, get that for me [playername]!"
-    cream "Ohh, get that for me [playername]!"
+    cream "哦，[playername]，帮我开一下门！"
 
 # game/bakery.rpy#L668
 translate chinese creamvmissionary_d580891f_1:
 
     # mc "I got it!"
-    mc "I got it!"
+    mc "知道了！"
 
 # game/bakery.rpy#L670
 translate chinese creamvmissionary_23919bcc:
@@ -2433,31 +2433,31 @@ translate chinese creamvmissionary_66621132:
 translate chinese creamvmissionary_fa9a954c:
 
     # mc "Don't worry about it, I know she's only playing around with me."
-    mc "Don't worry about it, I know she's only playing around with me."
+    mc "别担心，她只是在和我闹着玩呢，这我知道。"
 
 # game/bakery.rpy#L692
 translate chinese creamvmissionary_a9494b5e:
 
     # ruby "When I was younger I was the same in some ways, whenever I had a crush on a boy I'd tease him."
-    ruby "When I was younger I was the same in some ways, whenever I had a crush on a boy I'd tease him."
+    ruby "我年轻的时候也会这样。喜欢上某个小男生之后，我也会故意逗逗他的。"
 
 # game/bakery.rpy#L693
 translate chinese creamvmissionary_f9de92e6:
 
     # mc "You grew out of it?"
-    mc "You grew out of it?"
+    mc "你现在还有这个毛病吗？"
 
 # game/bakery.rpy#L695
 translate chinese creamvmissionary_13cb76a2:
 
     # ruby "*Giggles*, partially! I still tease Hon- ahhh..."
-    ruby "*Giggles*, partially! I still tease Hon- ahhh..."
+    ruby "*咯咯*，有时还会有！我还是会时不时地逗一逗Hon……啊……"
 
 # game/bakery.rpy#L696
 translate chinese creamvmissionary_9b753a22:
 
     # mc "Awh, you have a {i}crush{/i} on her?"
-    mc "Awh, you have a {i}crush{/i} on her?"
+    mc "噢，难道你也{i}喜欢{/i}她吗？"
 
 # game/bakery.rpy#L698
 translate chinese creamvmissionary_46a96140:
@@ -2475,7 +2475,7 @@ translate chinese creamvmissionary_786ff0a4:
 translate chinese creamvmissionary_44412783:
 
     # ruby "I guess it's not all bad I suppose. Just like you and I, she and I can have 'fun'."
-    ruby "I guess it's not all bad I suppose. Just like you and I, she and I can have 'fun'."
+    ruby "不过，我感觉这也不全是坏事。就像你和我一样，我和她也可以找到'乐子'嘛。"
 
 # game/bakery.rpy#L702
 translate chinese creamvmissionary_eabac095:
@@ -2499,43 +2499,43 @@ translate chinese creamvmissionary_4319f8c9:
 translate chinese creamvmissionary_0bd7b478:
 
     # mc "You're kinda making me feel guilty!"
-    mc "You're kinda making me feel guilty!"
+    mc "你这话说的让我很有罪恶感啊！"
 
 # game/bakery.rpy#L710
 translate chinese creamvmissionary_7a52d565:
 
     # "As I open the door, it's a white mare with pink hair, I don't believe I've met her before."
-    "As I open the door, it's a white mare with pink hair, I don't believe I've met her before."
+    "当我打开门时，我看见了一匹长着粉色头发的白色雌驹。可我以前并没有见过她。"
 
 # game/bakery.rpy#L714
 translate chinese creamvmissionary_dd55c0ee:
 
     # ruby "Oh! Hello darling. Moxie's friend, correct? We haven't been properly introduced yet, although I've seen you roaming around."
-    ruby "Oh! Hello darling. Moxie's friend, correct? We haven't been properly introduced yet, although I've seen you roaming around."
+    ruby "哦！你好啊，亲爱的。你是Moxie的朋友，对吗？虽然我经常能在这附近看到你，但我们还没有互相介绍过自己呢。"
 
 # game/bakery.rpy#L715
 translate chinese creamvmissionary_b7cdb49b:
 
     # mc "Indeed, you're the boutique owner, right?"
-    mc "Indeed, you're the boutique owner, right?"
+    mc "确实如此。你是精品店的店主，对吗？"
 
 # game/bakery.rpy#L717
 translate chinese creamvmissionary_100678db:
 
     # ruby "Ah yes, it's truly my passion! I design dresses, clothes and the such."
-    ruby "Ah yes, it's truly my passion! I design dresses, clothes and the such."
+    ruby "啊，对。我特别喜欢做衣服！裙子、衣服这类的东西都是我亲自设计的。"
 
 # game/bakery.rpy#L718
 translate chinese creamvmissionary_10456239:
 
     # mc "Pardon my ignorance, since I'm not from around here, but who buys your clothes?"
-    mc "Pardon my ignorance, since I'm not from around here, but who buys your clothes?"
+    mc "是我孤陋寡闻了，请原谅，因为我不是本地人。但我想问一下，你的衣服都卖给谁了？"
 
 # game/bakery.rpy#L720
 translate chinese creamvmissionary_5a7714e6:
 
     # ruby "That's a perfectly natural question to ask darling, I sell clothes to, uhh..."
-    ruby "That's a perfectly natural question to ask darling, I sell clothes to, uhh..."
+    ruby "亲爱的，这个问题很普通嘛。我的衣服都卖给了……啊……"
 
 # game/bakery.rpy#L721
 translate chinese creamvmissionary_e50a0f88:
@@ -2547,7 +2547,7 @@ translate chinese creamvmissionary_e50a0f88:
 translate chinese creamvmissionary_068739a8:
 
     # ruby "Some ponies like myself occasionally wear bathrobes too."
-    ruby "Some ponies like myself occasionally wear bathrobes too."
+    ruby "有些小马也会像我一样，会偶尔穿穿浴衣的。"
 
 # game/bakery.rpy#L723
 translate chinese creamvmissionary_6fe43a8c:
@@ -2583,7 +2583,7 @@ translate chinese creamvmissionary_6639e3b6:
 translate chinese creamvmissionary_3c3783d2:
 
     # ruby "Ahh Riku, it's been too long!"
-    ruby "Ahh Riku, it's been too long!"
+    ruby "啊，Riku，好久不见啊！"
 
 # game/bakery.rpy#L741
 translate chinese creamvmissionary_03a70687:
@@ -6021,7 +6021,7 @@ translate chinese creamgangbang_f9929350:
 translate chinese creamgangbang_25a78209:
 
     # cream "Oh trust me, this cock's as good as it looks."
-    cream "哦，相信我吧，我这cock可是又中看又中用。"
+    cream "哦，相信我吧，他这根大棒棒可是又中看又中用呢。"
 
 # game/bakery.rpy#L1840
 translate chinese creamgangbang_5d7ee8ca:
@@ -6033,13 +6033,13 @@ translate chinese creamgangbang_5d7ee8ca:
 translate chinese creamgangbang_2e074e48:
 
     # "The first girl is Carrot, the most eager and slutty it would seem. Her rear is oozing with her lustful desire."
-    "The first girl is Carrot, the most eager and slutty it would seem. Her rear is oozing with her lustful desire."
+    "第一个上场的是Carrot。看样子，她是几个姑娘里性欲最强，同时也是最淫荡的那个。她的下体早已因为满满的情欲而变得湿漉漉的了。"
 
 # game/bakery.rpy#L1842
 translate chinese creamgangbang_5492c0b7:
 
     # "She's clearly desperate to be pumped full of cum, and I have every intention of making that a reality."
-    "She's clearly desperate to be pumped full of cum, and I have every intention of making that a reality."
+    "很显然，她渴望着被精液淹没的那一刻。为此，我一定要尽自己所能让她梦想成真。"
 
 # game/bakery.rpy#L1843
 translate chinese creamgangbang_4a2d12f1:
@@ -6051,7 +6051,7 @@ translate chinese creamgangbang_4a2d12f1:
 translate chinese creamgangbang_7c712103:
 
     # carrot "Mmphh, no need for foreplay, sexy. Ravish me..."
-    carrot "Mmphh, no need for foreplay, sexy. Ravish me..."
+    carrot "嗯嗯嗯，帅哥，我不需要前戏的。直接来蹂躏我吧……"
 
 # game/bakery.rpy#L1847
 translate chinese creamgangbang_9ca424ae:
@@ -6117,7 +6117,7 @@ translate chinese creamgangbang_27b21789:
 translate chinese creamgangbang_08d83211:
 
     # blue "Ahh! It feels so big! Mmmmphh..."
-    blue "Ahh! It feels so big! Mmmmphh..."
+    blue "啊！好大哦！嗯嗯嗯……"
 
 # game/bakery.rpy#L1866
 translate chinese creamgangbang_c2192f20:
@@ -6939,31 +6939,31 @@ translate chinese bakerydaymenu_896ad8a3:
 translate chinese bakerydaymenu_5d6f890f:
 
     # cream "Mmm, I love your big and juicy cock..."
-    cream "Mmm, I love your big and juicy cock..."
+    cream "嗯，我好喜欢你这根又大又多汁的大棒棒哦……"
 
 # game/bakery.rpy#L2119
 translate chinese bakerydaymenu_54a7c7d8:
 
     # "I push forward, aided by Cream pushing back, sliding my long cock into the soft folds of her pussy."
-    "I push forward, aided by Cream pushing back, sliding my long cock into the soft folds of her pussy."
+    "在Cream的配合下，我们两人的身体一进一退。随后，我将长长的肉棒缓缓塞进了她那柔软的小穴里。"
 
 # game/bakery.rpy#L2120
 translate chinese bakerydaymenu_ff055c6a:
 
     # "She squeals with delight as I sink deeper, and those squeals gently shift into moans, as her pussy contracts and squeezes around the girth of my shaft."
-    "She squeals with delight as I sink deeper, and those squeals gently shift into moans, as her pussy contracts and squeezes around the girth of my shaft."
+    "随着肉棒的不断深入，她也发出了欢快而满足的尖叫声。而当她的小穴开始与我的肉棒相互摩擦和挤压时，她原先的尖叫声又逐渐变为了呻吟声。"
 
 # game/bakery.rpy#L2122
 translate chinese bakerydaymenu_dca27217:
 
     # "I begin to fuck her. Her pussy continues to tighten around my member, but thanks to how absurdly wet the heated mare is, my cock becomes slick with her juices and easily slides back and forth."
-    "I begin to fuck her. Her pussy continues to tighten around my member, but thanks to how absurdly wet the heated mare is, my cock becomes slick with her juices and easily slides back and forth."
+    "于是，我开始了抽插。同时，她的蜜穴仍紧紧包裹在我肉棒的四周。不过，好在她分泌的蜜汁极其丰沛，所以我可以毫不费力地在小穴中前后抽插。"
 
 # game/bakery.rpy#L2123
 translate chinese bakerydaymenu_71f1857f:
 
     # cream "Aahhh! Your cock always feel so good, ahhh, mmmm!"
-    cream "Aahhh! Your cock always feel so good, ahhh, mmmm!"
+    cream "啊啊！你大棒棒的感觉好爽好舒服啊，啊，嗯嗯嗯！"
 
 # game/bakery.rpy#L2125
 translate chinese bakerydaymenu_39952c3f:
@@ -6981,7 +6981,7 @@ translate chinese bakerydaymenu_32f28c9c:
 translate chinese bakerydaymenu_cfa9bfc1:
 
     # cream "Aaahh, ahh! Hehehe, I'm so glad you- ahhh, decided to fuck me [playername]! Ahhh! Isn't this so much fun? Aahhhaahh!"
-    cream "Aaahh, ahh! Hehehe, I'm so glad you- ahhh, decided to fuck me [playername]! Ahhh! Isn't this so much fun? Aahhhaahh!"
+    cream "啊，啊！嘿嘿嘿，[playername]，你能决定干我，啊，我实在是太开心了！啊！这是不是很有意思呢？啊啊啊……！"
 
 # game/bakery.rpy#L2128
 translate chinese bakerydaymenu_8e5af752:
@@ -6999,7 +6999,7 @@ translate chinese bakerydaymenu_31f3ba57:
 translate chinese bakerydaymenu_8c9c38a0:
 
     # cream "Ahh, I-I'm gonna come! Gonna come so hard! Fill my pussy [playername]!"
-    cream "Ahh, I-I'm gonna come! Gonna come so hard! Fill my pussy [playername]!"
+    cream "啊，我……我要去了！忍不住了，要去了！全都射出来吧，[playername]！"
 
 # game/bakery.rpy#L2135
 translate chinese bakerydaymenu_e350a798:
@@ -7023,25 +7023,25 @@ translate chinese bakerydaymenu_6113125f:
 translate chinese bakerydaymenu_04e9cff2:
 
     # cream "O-Oh my goody goodness, quickies are so exhilarating, aren't they? Hehehe!"
-    cream "O-Oh my goody goodness, quickies are so exhilarating, aren't they? Hehehe!"
+    cream "哦……哦，我的老天，速战速决真是太让人兴奋了，是不是啊？嘻嘻嘻！"
 
 # game/bakery.rpy#L2146
 translate chinese bakerydaymenu_b2733261:
 
     # mc "Heh, yeah that was pretty fun. Here's a paper towel, for the uhm, cum."
-    mc "Heh, yeah that was pretty fun. Here's a paper towel, for the uhm, cum."
+    mc "嘿嘿，是啊，确实很有意思。给你卫生纸，擦一擦，额，身上的精液吧。"
 
 # game/bakery.rpy#L2149
 translate chinese bakerydaymenu_8a6cf31b:
 
     # cream "Thank you! Hygiene is very important, so let's make sure we wash our hands before we touch anything else!"
-    cream "Thank you! Hygiene is very important, so let's make sure we wash our hands before we touch anything else!"
+    cream "谢谢了！注意卫生可是相当重要的。所以一定要先把手洗干净，然后才能动其他东西！"
 
 # game/bakery.rpy#L2156
 translate chinese bakerydaymenu_d4c0a85b:
 
     # cream "Okie dokie, see you later!"
-    cream "Okie dokie, see you later!"
+    cream "好滴，好滴，再见了！"
 
 # game/bakery.rpy#L2163
 translate chinese bakeryevening_ec97a047:
@@ -7053,7 +7053,7 @@ translate chinese bakeryevening_ec97a047:
 translate chinese bakeryeveningmenu_0462df55:
 
     # mc "How come you're always flirting with me?"
-    mc "How come you're always flirting with me?"
+    mc "话说，你为什么总是勾引我呢？"
 
 # game/bakery.rpy#L2171
 translate chinese bakeryeveningmenu_3938fb5b:
@@ -7161,7 +7161,7 @@ translate chinese bakeryeveningmenu_22312599:
 translate chinese bakeryeveningmenu_dbc5d175:
 
     # cream "Yeessss! Woohoo!"
-    cream "Yeessss! Woohoo!"
+    cream "没错！呜呼！"
 
 # game/bakery.rpy#L2207
 translate chinese bakeryeveningmenu_89408811:
@@ -7173,7 +7173,7 @@ translate chinese bakeryeveningmenu_89408811:
 translate chinese bakeryeveningmenu_3d810b72:
 
     # cream "Mmm, let's play..."
-    cream "Mmm, let's play..."
+    cream "嗯，咱们来玩玩吧……"
 
 # game/bakery.rpy#L2211
 translate chinese bakeryeveningmenu_ae5c6bed:
@@ -7191,13 +7191,13 @@ translate chinese bakeryeveningmenu_ee66d2da:
 translate chinese bakeryeveningmenu_0e34cd95:
 
     # cream "Ahh… [playername]…"
-    cream "Ahh… [playername]…"
+    cream "啊……[playername]……"
 
 # game/bakery.rpy#L2214
 translate chinese bakeryeveningmenu_62368dec:
 
     # "Her nipples must be pretty sensitive; she’s softly moaning already."
-    "Her nipples must be pretty sensitive; she’s softly moaning already."
+    "她的乳头一定非常敏感，因为她已经开始发出轻柔的呻吟声了。"
 
 # game/bakery.rpy#L2216
 translate chinese bakeryeveningmenu_e280670f:
