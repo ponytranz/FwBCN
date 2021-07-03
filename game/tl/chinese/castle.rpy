@@ -1,4 +1,5 @@
-# Translation updated at Sat Jul 03 2021 10:39:29 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Sat Jul 03 2021 11:44:28 GMT+0000 (Coordinated Universal Time)
+
 # game/castle.rpy#L6
 translate chinese castle_38f72bb5:
 

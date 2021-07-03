@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2021-06-19 02:53
+# Translation updated at Sat Jul 03 2021 11:44:28 GMT+0000 (Coordinated Universal Time)
 
 # game/1prologue.rpy#L25
 translate chinese prologueday1_c7b6965c:
@@ -6348,7 +6348,7 @@ translate chinese strings:
 
     # game/1prologue.rpy_L14_0
     old "What is your first name?"
-    new ""
+    new "你的姓名？"
 
     # game/1prologue.rpy_L65_0
     old "This could be a dream, but it feels far too real."
