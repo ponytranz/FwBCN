@@ -1,5 +1,3 @@
-# Translation updated at Sat Jul 03 2021 11:44:28 GMT+0000 (Coordinated Universal Time)
-
 # game/1prologue.rpy#L25
 translate chinese prologueday1_c7b6965c:
 

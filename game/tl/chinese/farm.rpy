@@ -1,5 +1,3 @@
-# Translation updated at Sat Jul 03 2021 11:44:28 GMT+0000 (Coordinated Universal Time)
-
 # game/farm.rpy#L20
 translate chinese farm_c5de936b:
 

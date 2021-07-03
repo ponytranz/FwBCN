@@ -1,5 +1,3 @@
-# Translation updated at Sat Jul 03 2021 11:44:28 GMT+0000 (Coordinated Universal Time)
-
 # game/2evening%20butters.rpy#L11
 translate chinese eveningbutters_ce840f9e:
 

@@ -1,5 +1,3 @@
-# Translation updated at Sat Jul 03 2021 11:44:28 GMT+0000 (Coordinated Universal Time)
-
 # game/bar.rpy#L13
 translate chinese barvisit1_d43fa519:
 
