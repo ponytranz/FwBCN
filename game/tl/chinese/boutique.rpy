@@ -1,4 +1,4 @@
-# Translation updated at Fri Jul 02 2021 00:48:53 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Sat Jul 03 2021 00:48:43 GMT+0000 (Coordinated Universal Time)
 # game/boutique.rpy#L20
 translate chinese boutiquevisit1_9babdb27:
 
@@ -615,13 +615,13 @@ translate chinese rubymaidmenu1_f3361725:
 translate chinese rubymaidmenu1_a946ef82:
 
     # "From behind I can see her legs spread open before a laptop, it seems she’s streaming herself masturbating."
-    "从后面我可以看到她的腿展开在笔记本电脑前，似乎她在的手淫。"
+    "从后面我可以看到她的腿展开在笔记本电脑前，似乎她在直播手淫。"
 
 # game/boutique.rpy#L173
 translate chinese rubymaidmenu1_ba704d2e:
 
     # "She's a camgirl!"
-    "她是位"福利姬" !"
+    "她是位“福利姬”!"
 
 # game/boutique.rpy#L174
 translate chinese rubymaidmenu1_66ffc4fb:
@@ -3015,187 +3015,187 @@ translate chinese rubyphotoshoot2_ba5ef1e8:
 translate chinese rubyphotoshoot2_c63d52e7:
 
     # mc "Looks like you’re getting turned on too."
-    mc "Looks like you’re getting turned on too."
+    mc "看起来你也有感觉了。"
 
 # game/boutique.rpy#L878
 translate chinese rubyphotoshoot2_63d1ee12:
 
     # ruby "A lady doesn’t tell!"
-    ruby "A lady doesn’t tell!"
+    ruby "一位淑女可不会承认这一点！"
 
 # game/boutique.rpy#L880
 translate chinese rubyphotoshoot2_d5e26853:
 
     # ruby "Let’s keep going, another pose."
-    ruby "Let’s keep going, another pose."
+    ruby "总之先继续吧，换个姿势。"
 
 # game/boutique.rpy#L883
 translate chinese rubyphotoshoot2_60326c5f:
 
     # "Ruby energetically bounces off the bed and up to a mirror. She looks back and spreads her rear as I walk over to join her."
-    "Ruby energetically bounces off the bed and up to a mirror. She looks back and spreads her rear as I walk over to join her."
+    "Ruby精力满满地从床上一跃而起，走到镜子旁。当我准备过去同她一道时，她转过身来把屁股翘了起来。"
 
 # game/boutique.rpy#L884
 translate chinese rubyphotoshoot2_138a67c9:
 
     # ruby "Backside picture this time, could you kneel down and get a good shot from below? It’ll make my derrière look even bigger."
-    ruby "Backside picture this time, could you kneel down and get a good shot from below? It’ll make my derrière look even bigger."
+    ruby "这回拍背面照，你能不能跪下来再从下头拍？这能让我的臀部看着再大些。"
 
 # game/boutique.rpy#L885
 translate chinese rubyphotoshoot2_67c6a6b5:
 
     # mc "Your ass looks great either way."
-    mc "Your ass looks great either way."
+    mc "你的屁股怎么看都好看。"
 
 # game/boutique.rpy#L888
 translate chinese rubyphotoshoot2_e5284adb:
 
     # "I kneel down to get a dynamic shot from below, her ass looks amazing from this angle."
-    "I kneel down to get a dynamic shot from below, her ass looks amazing from this angle."
+    "我跪下身，从下面连着拍了好几张不同角度的镜头，从这个角度来看，她的臀部美极了。"
 
 # game/boutique.rpy#L889
 translate chinese rubyphotoshoot2_8ac4102e:
 
     # "Her pussy is so wet; it's dripping."
-    "Her pussy is so wet; it's dripping."
+    "她的小穴湿透了；甚至在往下滴水。"
 
 # game/boutique.rpy#L890
 translate chinese rubyphotoshoot2_cff107e7:
 
     # "It looks so tight too. I can't even imagine how good it'd feel to sink my cock deep into her."
-    "It looks so tight too. I can't even imagine how good it'd feel to sink my cock deep into her."
+    "它看起来紧实得很。我甚至无法想象将鸡巴深深地插进去会有多么爽。"
 
 # game/boutique.rpy#L891
 translate chinese rubyphotoshoot2_09d9e644:
 
     # ruby "Come on sweetie, take the picture."
-    ruby "Come on sweetie, take the picture."
+    ruby "快来，亲爱的，拍照。"
 
 # game/boutique.rpy#L892
 translate chinese rubyphotoshoot2_e0c47639:
 
     # mc "Sorry, you caught me admiring."
-    mc "Sorry, you caught me admiring."
+    mc "抱歉了，这下你抓到我偷看你那里了。"
 
 # game/boutique.rpy#L896
 translate chinese rubyphotoshoot2_874508a5:
 
     # ruby "Oh, you flatter me, darling."
-    ruby "Oh, you flatter me, darling."
+    ruby "哦，你嘴好甜，亲爱的。"
 
 # game/boutique.rpy#L897
 translate chinese rubyphotoshoot2_82535837:
 
     # "As I take a few more pictures, it’s apparent that I’ve become erect, and she’s aroused too. Sex is certainly inevitable."
-    "As I take a few more pictures, it’s apparent that I’ve become erect, and she’s aroused too. Sex is certainly inevitable."
+    "随着我又拍了几张照片，很显然我已经不可避免的勃起了，而且她显然也是来感觉了。性爱怕是不可避免的了。"
 
 # game/boutique.rpy#L898
 translate chinese rubyphotoshoot2_978176dc:
 
     # "I catch her trying to take a sneaky peek at my erection, she bites her lip as she does."
-    "I catch her trying to take a sneaky peek at my erection, she bites her lip as she does."
+    "我发现她偷偷盯着我勃起的那玩意看，一边还咬咬嘴唇。"
 
 # game/boutique.rpy#L899
 translate chinese rubyphotoshoot2_f32c1fdd:
 
     # ruby "You really like my ass… Don’t you?"
-    ruby "You really like my ass… Don’t you?"
+    ruby "我看我屁股看入迷了......是吧？"
 
 # game/boutique.rpy#L900
 translate chinese rubyphotoshoot2_6da7d902:
 
     # mc "I think you see something you like too."
-    mc "I think you see something you like too."
+    mc "我想，你也看上什么东西了，对吧。"
 
 # game/boutique.rpy#L901
 translate chinese rubyphotoshoot2_8c7cef88:
 
     # ruby "Mmm, ‘like’ would be an understatement, darling."
-    ruby "Mmm, ‘like’ would be an understatement, darling."
+    ruby "额，‘看上’一词未免过于轻描淡写了，亲爱的。"
 
 # game/boutique.rpy#L902
 translate chinese rubyphotoshoot2_b3a5cd45:
 
     # ruby "I love it when people get turned on looking at my body."
-    ruby "I love it when people get turned on looking at my body."
+    ruby "我很喜欢有别人看着我的身体兴奋的这种感觉。"
 
 # game/boutique.rpy#L903
 translate chinese rubyphotoshoot2_aeb6d32c:
 
     # ruby "Don’t you want to rub your cock while you watch? I bet you do; this must be torture…"
-    ruby "Don’t you want to rub your cock while you watch? I bet you do; this must be torture…"
+    ruby "你不想边看边撸管吗？我打赌你肯定想；这真是太折磨人了......"
 
 # game/boutique.rpy#L904
 translate chinese rubyphotoshoot2_1eb5648e:
 
     # "She’s right, I really do. I bring my hand to my shaft and start masturbating while Ruby seductively jiggles her butt right in front of me."
-    "She’s right, I really do. I bring my hand to my shaft and start masturbating while Ruby seductively jiggles her butt right in front of me."
+    "她说的没错，我确实想冲。我把我的手放到肉棒上开始撸管，而Ruby则在我面前妖娆地摆动着她的屁股。"
 
 # game/boutique.rpy#L905
 translate chinese rubyphotoshoot2_d521729d:
 
     # ruby "I feel the same way too, you know... I want to touch myself while you watch."
-    ruby "I feel the same way too, you know... I want to touch myself while you watch."
+    ruby "我也有同样的感觉，你知道的......你看的时候，其实我也想摸一摸那里。"
 
 # game/boutique.rpy#L906
 translate chinese rubyphotoshoot2_b407a009:
 
     # ruby "Everyone thinks I’m an innocent mare, but really I’m just a dirty slut that gets off on being watched."
-    ruby "Everyone thinks I’m an innocent mare, but really I’m just a dirty slut that gets off on being watched."
+    ruby "大家都认为我是匹纯洁的雌驹，可事实上，我只是个肮脏的婊子，让人看着就要高潮。"
 
 # game/boutique.rpy#L907
 translate chinese rubyphotoshoot2_6f91a011:
 
     # ruby "I know you heard and saw me while I was doing my cam show."
-    ruby "I know you heard and saw me while I was doing my cam show."
+    ruby "你知道，在我直播自慰的时候，你听到了，甚至是看到了我这么干。"
 
 # game/boutique.rpy#L908
 translate chinese rubyphotoshoot2_b4de97aa:
 
     # ruby "The idea that a man was in my house watching me masturbate… It turned me on so much, I needed you back so I could play with you."
-    ruby "The idea that a man was in my house watching me masturbate… It turned me on so much, I needed you back so I could play with you."
+    ruby "光是想到一个男人在我的房子里看着我自慰......我就兴奋的不能自己了，我需要你回来，这样我就可以和你做了。"
 
 # game/boutique.rpy#L909
 translate chinese rubyphotoshoot2_18c3ccfc:
 
     # mc "Oh yeah? Show me what you’ve got."
-    mc "Oh yeah? Show me what you’ve got."
+    mc "哦，是吗？那就让我看看你都有什么本事吧。"
 
 # game/boutique.rpy#L910
 translate chinese rubyphotoshoot2_ccb2fb2c:
 
     # ruby "Oh I will darling, we're not done yet."
-    ruby "Oh I will darling, we're not done yet."
+    ruby "哦，亲爱的，我会让你好好见识一下我的本事的，咱们可还没完事呢。"
 
 # game/boutique.rpy#L911
 translate chinese rubyphotoshoot2_8aedec36:
 
     # ruby "Lay down on my bed with the camera."
-    ruby "Lay down on my bed with the camera."
+    ruby "拿着相机到我床上来。"
 
 # game/boutique.rpy#L913
 translate chinese rubyphotoshoot2_4b9e6ac2:
 
     # "I follow her instructions and she brings her laptop with her as she seductively catwalks to the bed."
-    "I follow her instructions and she brings her laptop with her as she seductively catwalks to the bed."
+    "我按照她的指示拿起了相机。而她则一边拿着电脑，一边迈着诱人的猫步走到了床边。"
 
 # game/boutique.rpy#L916
 translate chinese rubyphotoshoot2_aa47ac27:
 
     # ruby "Truth is, when Penelope told me there was a man that wanted work, I was filled with lustful thoughts."
-    ruby "Truth is, when Penelope told me there was a man that wanted work, I was filled with lustful thoughts."
+    ruby "说真的，在Penelope告诉我有个小男生在找工作的时候，我脑子里立刻闪现出了各种色色的想法。"
 
 # game/boutique.rpy#L917
 translate chinese rubyphotoshoot2_03513aad:
 
     # ruby "I want you to record me while I ride your cock, can you do that for me, [playername]?"
-    ruby "I want you to record me while I ride your cock, can you do that for me, [playername]?"
+    ruby "我骑在你大屌上的时候，我想让你帮我把这个场景都拍下来。[playername]，你能帮我这个忙吗？"
 
 # game/boutique.rpy#L918
 translate chinese rubyphotoshoot2_db0266f4:
 
     # mc "Absolutely…"
-    mc "Absolutely…"
+    mc "当然可以了……"
 
 # game/boutique.rpy#L921
 translate chinese rubyphotoshoot2_a20cefa7:
@@ -3207,43 +3207,43 @@ translate chinese rubyphotoshoot2_a20cefa7:
 translate chinese rubyphotoshoot2_8c25252a:
 
     # "As she sinks that tight pussy over my cock, it feels as good as I imagined."
-    "As she sinks that tight pussy over my cock, it feels as good as I imagined."
+    "当她将紧致的蜜穴移到我肉棒上方时，我感受到了一种和想象中完全相同的舒适感。"
 
 # game/boutique.rpy#L925
 translate chinese rubyphotoshoot2_5fa54f35:
 
     # ruby "Hit record now, love."
-    ruby "Hit record now, love."
+    ruby "小可爱，开拍吧。"
 
 # game/boutique.rpy#L926
 translate chinese rubyphotoshoot2_d0319c7e:
 
     # "I lay down comfortably with a pillow on my head and point the camera at our point of contact."
-    "I lay down comfortably with a pillow on my head and point the camera at our point of contact."
+    "我十分惬意地躺在枕头上，然后用手中的相机对准了我们两人身体的交汇处。"
 
 # game/boutique.rpy#L927
 translate chinese rubyphotoshoot2_64453216:
 
     # ruby "Just sit back and relax dear, I’ll be teasing you a lot, try not to cum prematurely."
-    ruby "Just sit back and relax dear, I’ll be teasing you a lot, try not to cum prematurely."
+    ruby "亲爱的，你只需要躺好放松就行了，我会让你好好舒服舒服的。但千万不要早泄哦。"
 
 # game/boutique.rpy#L931
 translate chinese rubyphotoshoot2_e16890e4:
 
     # "Ruby rides my cock up and down slowly, it’s more teasing than pleasureful."
-    "Ruby rides my cock up and down slowly, it’s more teasing than pleasureful."
+    "Ruby骑在我的肉棒上，随后，她的身体便开始了缓缓地上下扭动起来。这动作更像是在挑逗，而非是单纯想要寻求快感。"
 
 # game/boutique.rpy#L932
 translate chinese rubyphotoshoot2_1b83d749:
 
     # ruby "Oh gosh, this is making me horny."
-    ruby "Oh gosh, this is making me horny."
+    ruby "哦，老天，这让我感觉自己好淫荡啊。"
 
 # game/boutique.rpy#L933
 translate chinese rubyphotoshoot2_7bc19ebd:
 
     # ruby "Hornier than I already was… *Pant*"
-    ruby "Hornier than I already was… *Pant*"
+    ruby "感觉我比以往所有时候还要淫荡啊……*喘息*"
 
 # game/boutique.rpy#L938
 translate chinese rubyphotoshoot2_6b4279b4:
@@ -3255,13 +3255,13 @@ translate chinese rubyphotoshoot2_6b4279b4:
 translate chinese rubyphotoshoot2_84ca6492:
 
     # "I can tell she has some experience. However, she still feels remarkably tight, her inner walls squeezing and sucking around my throbbing shaft."
-    "I can tell she has some experience. However, she still feels remarkably tight, her inner walls squeezing and sucking around my throbbing shaft."
+    "我敢说，在这方面，她一定是有一些经验的。但她的小穴却依旧十分紧致，内壁的挤压感和吸附感也非常明显。"
 
 # game/boutique.rpy#L944
 translate chinese rubyphotoshoot2_edbe894a:
 
     # ruby "Ohoh gosh, I-I forgot how… Ahhh, I forgot how good this is!"
-    ruby "Ohoh gosh, I-I forgot how… Ahhh, I forgot how good this is!"
+    ruby "哦哦，我的天，我……我都忘了……啊，我都忘了这感觉是多么美妙了！"
 
 # game/boutique.rpy#L947
 translate chinese rubyphotoshoot2_0c1fe249:

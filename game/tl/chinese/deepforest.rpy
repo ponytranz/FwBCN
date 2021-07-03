@@ -1,4 +1,4 @@
-# Translation updated at Fri Jul 02 2021 00:48:54 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Sat Jul 03 2021 00:48:43 GMT+0000 (Coordinated Universal Time)
 # game/deepforest.rpy#L13
 translate chinese deepforest_51a3a838:
 
@@ -2469,19 +2469,19 @@ translate chinese zoelum_c3dc4cb0:
 translate chinese zoelum_2cc9561c:
 
     # mc "Is that so? Maybe I’ve misinterpreted what kind of person you are because of your falling out with Butters."
-    mc "是吗？我可能是因为看到你和Butters闹掰了，所以才对你产生了误会。"
+    mc "是吗？我可能是因为看到你和Butters闹掰了，所以才对你产生了些误会。"
 
 # game/deepforest.rpy#L800
 translate chinese zoelum_13e68868:
 
     # zo "Mmm… Is that so? If you were going to interpret me as anything, can it be a sexy mommy?"
-    zo "Mmm… Is that so? If you were going to interpret me as anything, can it be a sexy mommy?"
+    zo "嗯……是这样吗？既然你可以把我想象或者误解成任何人，那为什么不把我想象成一个性感妖娆的妈咪呢？"
 
 # game/deepforest.rpy#L801
 translate chinese zoelum_84262f13:
 
     # mc "Hm, maybe…"
-    mc "嗯，应该行吧……"
+    mc "嗯，这点应该还是能做到的……"
 
 # game/deepforest.rpy#L802
 translate chinese zoelum_8040df80:
@@ -2505,7 +2505,7 @@ translate chinese zoelum_79ea8090:
 translate chinese zoelum_bb9bd13f:
 
     # zo "That’s fine with me. After a good nap I shall be able to rhyme."
-    zo "That’s fine with me. After a good nap I shall be able to rhyme."
+    zo "同意。好好睡一觉之后，我就能继续押着韵说话了。"
 
 # game/deepforest.rpy#L809
 translate chinese zoelum_cc438ad4:
@@ -2517,7 +2517,7 @@ translate chinese zoelum_cc438ad4:
 translate chinese zoelum_8a412f67:
 
     # "Zoe slumps from her side to her back and spreads out like a starfish."
-    "Zoe slumps from her side to her back and spreads out like a starfish."
+    "Zoe的睡姿由侧躺变成了仰卧。她仰面朝上，四肢展开的样子就如同海星一般。"
 
 # game/deepforest.rpy#L812
 translate chinese zoelum_ae1d4e44:
@@ -2547,13 +2547,13 @@ translate chinese zoelum_7c1ed83b:
 translate chinese zoelum_441deeff:
 
     # "The two of us snooze while snuggled together."
-    "The two of us snooze while snuggled together."
+    "我们两人依偎在一起进入了梦乡。"
 
 # game/deepforest.rpy#L821
 translate chinese zoelum_ed75a392:
 
     # "I return home early in the morning."
-    "I return home early in the morning."
+    "早上起床后，我便回了家。"
 
 # game/deepforest.rpy#L827
 translate chinese zoelum_80f10cc5:
@@ -2565,7 +2565,7 @@ translate chinese zoelum_80f10cc5:
 translate chinese zoelum_a55a51f8:
 
     # alraune "Come on then, let’s go to my room."
-    alraune "Come on then, let’s go to my room."
+    alraune "快过来，到我房间去吧。"
 
 # game/deepforest.rpy#L830
 translate chinese zoelum_24641a9e:

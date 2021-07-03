@@ -1,39 +1,39 @@
-# Translation updated at Fri Jul 02 2021 00:48:54 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Sat Jul 03 2021 00:48:43 GMT+0000 (Coordinated Universal Time)
 # game/forest.rpy#L18
 translate chinese forestvisit1_8c224d17:
 
     # "There’s a mysterious girl living in the forest, and I can go work with her."
-    "There’s a mysterious girl living in the forest, and I can go work with her."
+    "有一个深居简出的女孩住在森林里，我可以去她那儿工作。"
 
 # game/forest.rpy#L19
 translate chinese forestvisit1_6250ce56:
 
     # "What could possibly go wrong? Other than the fact I might get lost on the way there."
-    "What could possibly go wrong? Other than the fact I might get lost on the way there."
+    "除了我可能找不到路外，还能出什么岔子？"
 
 # game/forest.rpy#L21
 translate chinese forestvisit1_6ae10cbb:
 
     # "Thankfully, there’s a fairly explicit path that leads me surprisingly deep through the woods, and straight to a clearing with a beautiful cottage in the middle."
-    "Thankfully, there’s a fairly explicit path that leads me surprisingly deep through the woods, and straight to a clearing with a beautiful cottage in the middle."
+    "还好，有一条通透的小路能让我穿过层层密林，直抵一座漂亮的林中小屋处。"
 
 # game/forest.rpy#L22
 translate chinese forestvisit1_ea2c1403:
 
     # "As I make my way up to the cottage’s door, I scout out the surroundings and see nothing out of the ordinary. And nothing that would suggest what kind of work I’ll be doing here."
-    "As I make my way up to the cottage’s door, I scout out the surroundings and see nothing out of the ordinary. And nothing that would suggest what kind of work I’ll be doing here."
+    "当我走到小屋门口的时候，我观摩了一下四周，没发现什么异常。看不出这里的马能给我派出什么样的工作。"
 
 # game/forest.rpy#L23
 translate chinese forestvisit1_6f16affc:
 
     # "There's just a lot of plants, flowers and foliage. Am I going to be gardening?"
-    "There's just a lot of plants, flowers and foliage. Am I going to be gardening?"
+    "这里种得有不少植物，花儿和枝叶。我要干园艺工作不成？"
 
 # game/forest.rpy#L24
 translate chinese forestvisit1_85ba3115:
 
     # "I knock on the door of the cottage and I can momentarily hear some footsteps inside getting closer, but then all goes quiet."
-    "I knock on the door of the cottage and I can momentarily hear some footsteps inside getting closer, but then all goes quiet."
+    "我敲了敲小屋的门，而且听到里面传来越来越近的脚步声，但随后就安静了下来。"
 
 # game/forest.rpy#L25
 translate chinese forestvisit1_5ba92952:
@@ -3711,7 +3711,7 @@ translate chinese forestvisit2_199d40f8:
 translate chinese buttersandalraune_dc37227a:
 
     # "Butters goes first, laying on her belly and starting to crawl."
-    "Butters真·一马当先，弯下身子向裂缝里爬取。"
+    "Butters真·一马当先，弯下身子向裂缝里爬去。"
 
 # game/forest.rpy#L1034
 translate chinese buttersandalraune_cfabe0ce:
@@ -4749,7 +4749,7 @@ translate chinese forestrelax_6265837c:
 translate chinese forestrelax_ba097a6d:
 
     # "The aggressive fucking from the vines is causing her robes to rip and tear, by the time she's done she'll have nothing left."
-    "触手霸道的抽插把她的衣服撕得四分五裂，事后她身上注定五一丝可挂。"
+    "触手霸道的抽插把她的衣服撕得四分五裂，事后她身上注定无一丝可挂。"
 
 # game/forest.rpy#L1316
 translate chinese forestrelax_892e94f7:
@@ -4851,7 +4851,7 @@ translate chinese forestrelax_006c1339:
 translate chinese forestrelax_f23f4705:
 
     # "Butters and I both nibble the leaf as fast as we can, and soon our clouded minds slowly begin to return to reality."
-    "我和Butters都尽快塞了一片叶子在最终，完全不顾细嚼慢咽吞了下去，很快我们云里雾里的思绪一个自由落体又恢复到了正常水平。"
+    "我和Butters都尽快塞了一片叶子在嘴里，完全不顾细嚼慢咽吞了下去，很快我们云里雾里的思绪一个自由落体又恢复到了正常水平。"
 
 # game/forest.rpy#L1371
 translate chinese forestrelax_0f8f8299:
@@ -5949,7 +5949,7 @@ translate chinese forestrelax_b491a136:
 translate chinese forestrelax_cd2162cc:
 
     # butters "This is borosilicate glass, I've been doing this for years, I know my stuff."
-    butters "只是高硼硅玻璃杯，我炼了这么多年金，怎么会不知道这个。"
+    butters "这是高硼硅玻璃杯，我炼了这么多年金，怎么会不知道这个。"
 
 # game/forest.rpy#L1644
 translate chinese forestrelax_e395fc45:
@@ -7599,7 +7599,7 @@ translate chinese forestfreeze_b9008382:
 translate chinese forestfreeze_15f32946:
 
     # butters "I’m serious, I’ll dedicate my life to you as a maid or servant if you’d like, I’ll let you live with me!"
-    butters "别搪塞人家嘛，你要是原意的话，人家这辈子都给你做女仆，好好服侍你，我可以让你和我同居！"
+    butters "别搪塞人家嘛，你要是愿意的话，人家这辈子都给你做女仆，好好服侍你，我可以让你和我同居！"
 
 # game/forest.rpy#L2077
 translate chinese forestfreeze_8a5a50b6:
@@ -10155,253 +10155,253 @@ translate chinese devilsex_615c9e2d:
 translate chinese devilsex_435820cb:
 
     # "Devil falls down on her back and shows me what she means. I can recognize what she’s referring to: legs-up missionary."
-    "Devil falls down on her back and shows me what she means. I can recognize what she’s referring to: legs-up missionary."
+    "Devil很快躺好并且做好自己先前说的姿势。我懂她说的是什么体位了：抬腿正常位。"
 
 # game/forest.rpy#L2962
 translate chinese devilsex_aa01a6cc:
 
     # "She looks up to me with heated captivation, while her hand slyly moves to her privates, and begins to rub her supple folds."
-    "She looks up to me with heated captivation, while her hand slyly moves to her privates, and begins to rub her supple folds."
+    "她抬起头，魅惑迷离的眼神直勾勾地盯着我，她的小手也乖巧地放到自己的私处，开始摩擦自己柔软的肉缝。"
 
 # game/forest.rpy#L2963
 translate chinese devilsex_7573ee04:
 
     # "And they really are supple. I'd dare say this Bunny's body is unquestionably perfect. Is this perhaps a consequence of the potion and transformation associated with it?"
-    "And they really are supple. I'd dare say this Bunny's body is unquestionably perfect. Is this perhaps a consequence of the potion and transformation associated with it?"
+    "她的私处非常柔软。我敢说这只兔子拥有绝对完美的胴体。有可能是药水的变形效果导致的？"
 
 # game/forest.rpy#L2964
 translate chinese devilsex_6d46fd4f:
 
     # devil "Is this good? I am making myself wet and ready to take you."
-    devil "Is this good? I am making myself wet and ready to take you."
+    devil "这样行了嘛？我在让我下面更湿，好让你放进来。"
 
 # game/forest.rpy#L2965
 translate chinese devilsex_2e72f14b:
 
     # mc "Very good, keep going."
-    mc "Very good, keep going."
+    mc "很好，继续。"
 
 # game/forest.rpy#L2967
 translate chinese devilsex_4fb9ddd3:
 
     # devil "It’ll be my first time, so I want to make sure I’m ready."
-    devil "It’ll be my first time, so I want to make sure I’m ready."
+    devil "这是我的第一次，我可不想毫无准备地把一血交了。"
 
 # game/forest.rpy#L2969
 translate chinese devilsex_cde0c87c:
 
     # devil "It's easy to get wet with you. You are very sexy."
-    devil "It's easy to get wet with you. You are very sexy."
+    devil "不过有你这样性感的大帅哥在，下面洪水泛滥还是挺容易的。"
 
 # game/forest.rpy#L2971
 translate chinese devilsex_e10a8c62:
 
     # "My cock rapidly stiffens as the two us watch each other masturbate. The pleasure seems rather new to Devil as she fidgets and squirms in reaction to the pleasure."
-    "My cock rapidly stiffens as the two us watch each other masturbate. The pleasure seems rather new to Devil as she fidgets and squirms in reaction to the pleasure."
+    "看着对方自慰，肉棒欣然勃起。Devil应该是第一次体会到这种性快感，她的娇躯在快感的作用下不安地忸怩着。"
 
 # game/forest.rpy#L2972
 translate chinese devilsex_83a0b40b:
 
     # "Her wide eyes are intensely locked onto my erection; she really enjoys watching the way it moves."
-    "Her wide eyes are intensely locked onto my erection; she really enjoys watching the way it moves."
+    "她水汪汪的大眼睛又把目光落在我的肉棒上；她很喜欢看肉棒渐渐勃起挺动的样子。"
 
 # game/forest.rpy#L2973
 translate chinese devilsex_b450607a:
 
     # "Her pussy gradually gets wetter as her fingers rub up and down its length. Soon, and almost impatiently, her hand withdraws. A trail of wetness connects her fingers signalling that she's wet enough."
-    "Her pussy gradually gets wetter as her fingers rub up and down its length. Soon, and almost impatiently, her hand withdraws. A trail of wetness connects her fingers signalling that she's wet enough."
+    "小穴在她手指的摩挲下渐渐变得足够湿润。她很不耐烦地把手抽回，黏糊糊的爱液在她的小穴和手指上连成了一根丝线，显然她已经准备好了。"
 
 # game/forest.rpy#L2974
 translate chinese devilsex_d27878ea:
 
     # devil "Okay… Put it in me! I want to feel really good."
-    devil "Okay… Put it in me! I want to feel really good."
+    devil "好了...插进来吧！我也想体验下雌驹的快感。"
 
 # game/forest.rpy#L2975
 translate chinese devilsex_af8b30e8:
 
     # "She lays back further into the bedding, raising her rump a little further. Her tail twitches with anticipation."
-    "She lays back further into the bedding, raising her rump a little further. Her tail twitches with anticipation."
+    "她缩进被褥里，把臀部抬得高了一点。期待的尾巴用极高的频率摇晃着。"
 
 # game/forest.rpy#L2976
 translate chinese devilsex_deb82cbb:
 
     # "I nod and get into position, my cock fully erect and prepared to give this bunny the fuck of a lifetime."
-    "I nod and get into position, my cock fully erect and prepared to give this bunny the fuck of a lifetime."
+    "我点点头，迅速趴好就位，铁硬的鸡巴已经完全勃起，准备好让这只兔子品尝她的第一次了。"
 
 # game/forest.rpy#L2977
 translate chinese devilsex_190e2599:
 
     # "Shuffling closer, I align my shaft with her tight fluffy labia and gently press the tip forward."
-    "Shuffling closer, I align my shaft with her tight fluffy labia and gently press the tip forward."
+    "我慢慢向她靠近，把长枪对准她紧致，爱液横流的穴口，再缓缓将龟头挺入其中。"
 
 # game/forest.rpy#L2978
 translate chinese devilsex_5fa584c2:
 
     # "She’s incredibly wet, wetter than I’d expect considering we haven’t been going long, but regardless she’s still immensely tight."
-    "She’s incredibly wet, wetter than I’d expect considering we haven’t been going long, but regardless she’s still immensely tight."
+    "爱液分泌得出奇的多，我们两个刚开始没多久，但还是比我想的要多得多，而且里面也很紧。"
 
 # game/forest.rpy#L2980
 translate chinese devilsex_112b27f2:
 
     # "My first push inwards is met with some slight resistance, and because of the wetness I slip off and grind against her clit."
-    "My first push inwards is met with some slight resistance, and because of the wetness I slip off and grind against her clit."
+    "我第一次往里插的时候遇到了一点阻碍，而且因为她的爱液太多，我的第一击偏离了方向，插到她的阴蒂上去了。"
 
 # game/forest.rpy#L2981
 translate chinese devilsex_38a92bb0:
 
     # devil "Oohh… Did it start? That felt good!"
-    devil "Oohh… Did it start? That felt good!"
+    devil "哦...这算插进去了？感觉真美妙！"
 
 # game/forest.rpy#L2982
 translate chinese devilsex_ba2daa09:
 
     # mc "Not quite yet. You’re really tight, Devil."
-    mc "Not quite yet. You’re really tight, Devil."
+    mc "还没呢。你里面真紧，Devil。"
 
 # game/forest.rpy#L2983
 translate chinese devilsex_df08d9ba:
 
     # devil "Mmm, well, I’m only a small little bunny."
-    devil "Mmm, well, I’m only a small little bunny."
+    devil "嗯，那个，我只是只小兔纸而已嘛。"
 
 # game/forest.rpy#L2986
 translate chinese devilsex_5433097d:
 
     # "With a second, more carefully aligned push, I manage to pop inside and sink in with relative ease. But the intense tightness remains like a fist's grip around my cock."
-    "With a second, more carefully aligned push, I manage to pop inside and sink in with relative ease. But the intense tightness remains like a fist's grip around my cock."
+    "第二次我好好调整了一番，再往里插进去，终于噗地一声顺利插入穴中。但里面的肉壁紧得就像我的鸡巴被一个拳头使劲握住一样。"
 
 # game/forest.rpy#L2987
 translate chinese devilsex_76d43255:
 
     # "Her hands desperately grasp the bedsheets for support. Initially you suspect she may be in pain, but her face is showing absolute pleasure as she throws her head back and moans."
-    "Her hands desperately grasp the bedsheets for support. Initially you suspect she may be in pain, but her face is showing absolute pleasure as she throws her head back and moans."
+    "她的手开始胡乱地在床上摆动寻找支撑。我还以为我把她弄得很痛，但她的头向后仰去，嘴里发出高声的呻吟，脸上洋溢着的愉悦表情告诉我，我没有。"
 
 # game/forest.rpy#L2988
 translate chinese devilsex_059c75d4:
 
     # devil "I want it, I want more! Please give me more!"
-    devil "I want it, I want more! Please give me more!"
+    devil "我还要，我还要！请继续插我！"
 
 # game/forest.rpy#L2990
 translate chinese devilsex_6e25030d:
 
     # "Her pussy twitches as I pull out, and as I thrust forwards it almost feels like I’m sucked back in by the tightness."
-    "Her pussy twitches as I pull out, and as I thrust forwards it almost feels like I’m sucked back in by the tightness."
+    "我抽出肉棒时她的小穴不住地颤抖着，我又插进去时里面又像一个吸盘一样把我吸了回去。"
 
 # game/forest.rpy#L2991
 translate chinese devilsex_38fdc430:
 
     # "And again, and again, she gently eases around my girth and it becomes even more pleasureful for the two of us."
-    "And again, and again, she gently eases around my girth and it becomes even more pleasureful for the two of us."
+    "抽出，插入，抽出，再插入，她的腿轻柔地缠上了我的腰，将我们的快感推上新高。"
 
 # game/forest.rpy#L2992
 translate chinese devilsex_cc9405ae:
 
     # "The hilt of each thrust is so comfortable as well; her soft fur feels fantastic as it brushes against my skin. I’ve never wanted to treat something so soft so rough."
-    "The hilt of each thrust is so comfortable as well; her soft fur feels fantastic as it brushes against my skin. I’ve never wanted to treat something so soft so rough."
+    "根部在每次抽插中同样也受着绝佳的刺激；她柔软的毛发擦过我皮肤的感觉尤其舒适。我从来没想过我能干上一个里面如此之紧，外面又如此柔软的生物。"
 
 # game/forest.rpy#L2993
 translate chinese devilsex_758034f8:
 
     # "The lust gradually takes control of me as I begin pounding into her bunny butt at a steady pace. Her squelching, wet pussy is so tight it threatens to make me cum if I were to ever speed up."
-    "The lust gradually takes control of me as I begin pounding into her bunny butt at a steady pace. Her squelching, wet pussy is so tight it threatens to make me cum if I were to ever speed up."
+    "抽插的速度开始趋近于稳定，欲望渐渐占据上风。她窄紧又潮湿的蜜穴实在是太舒服了，如果我加速的话会马上一泻千里的。"
 
 # game/forest.rpy#L2994
 translate chinese devilsex_960bacda:
 
     # devil "Haaahhh… This’s sooo good… Rub my tummy too!"
-    devil "Haaahhh… This’s sooo good… Rub my tummy too!"
+    devil "哈啊啊啊...好舒服啊...也摸摸我的肚子！"
 
 # game/forest.rpy#L2995
 translate chinese devilsex_ec8c33f7:
 
     # "While that may be the strangest request I’ve ever had during sex, my one-track mind doesn’t even double take as one of my hands begins to caress her sensitive tummy, while I pump in and out of her pussy."
-    "While that may be the strangest request I’ve ever had during sex, my one-track mind doesn’t even double take as one of my hands begins to caress her sensitive tummy, while I pump in and out of her pussy."
+    "这是我在交媾中听过最奇怪的要求了，不过我还是没有迟疑，抽插小穴之余腾出一只手去揉摸她敏感的腹部。"
 
 # game/forest.rpy#L2996
 translate chinese devilsex_ac637dbf:
 
     # "She trembles at the sensation of sex and rubbing, her insides gripping particularly tightly as if she just achieved an orgasm."
-    "She trembles at the sensation of sex and rubbing, her insides gripping particularly tightly as if she just achieved an orgasm."
+    "她在下体抽送和肚子按摩的双重快感下激烈地颤抖着，肉壁狠狠地挤压着我，她是不是刚刚高潮了。"
 
 # game/forest.rpy#L2997
 translate chinese devilsex_8830c103:
 
     # devil "Haahhh, yesss… I looove youuu, soooo muuuuch…"
-    devil "Haahhh, yesss… I looove youuu, soooo muuuuch…"
+    devil "哈啊啊，好束缚...爱死你了，爱死了......"
 
 # game/forest.rpy#L2998
 translate chinese devilsex_f3ac77bb:
 
     # "Her pussy feels so good right now, it’s like I’m in heaven. A heaven full of anthropomorphic girls I can fuck to my heart’s content."
-    "Her pussy feels so good right now, it’s like I’m in heaven. A heaven full of anthropomorphic girls I can fuck to my heart’s content."
+    "她的小穴也在紧压的肉壁下感觉更束缚了，就像我升入天堂一般。一个满是性感女孩，我能随意奸淫的天堂。"
 
 # game/forest.rpy#L2999
 translate chinese devilsex_d97ac57d:
 
     # "The pressure of my orgasm signals its imminence. I grunt and try to hold back a little longer to relish each and every second with my lover."
-    "The pressure of my orgasm signals its imminence. I grunt and try to hold back a little longer to relish each and every second with my lover."
+    "我的高潮也迫在眉睫。我尽自己最大的努力强忍着，好多享受那怕一秒和爱侣之间的性福时光。"
 
 # game/forest.rpy#L3000
 translate chinese devilsex_da543aaf:
 
     # "But eventually, her pussy is just too pleasureful, and as my body gives in, I decide to push to my limit and rut her as fast as I can."
-    "But eventually, her pussy is just too pleasureful, and as my body gives in, I decide to push to my limit and rut her as fast as I can."
+    "但她名器般的小穴还是让我乖乖投降了，身体就快支撑不住，我决定以最快的速度抽插下去。"
 
 # game/forest.rpy#L3001
 translate chinese devilsex_8c054981:
 
     # devil "Hooohh my gosh, oh my gosh! Aaaahhh!"
-    devil "Hooohh my gosh, oh my gosh! Aaaahhh!"
+    devil "噢噢噢噢天啊，天啊！啊啊啊啊啊！"
 
 # game/forest.rpy#L3006
 translate chinese devilsex_390259b5:
 
     # "An eruption of cum launches from my tip filling up the tiny bunny’s pussy and womb almost entirely."
-    "An eruption of cum launches from my tip filling up the tiny bunny’s pussy and womb almost entirely."
+    "阳精终于从马眼处开始喷发，倾泻进小兔子的蜜穴和子宫当中，把它们塞得满满当当。"
 
 # game/forest.rpy#L3011
 translate chinese devilsex_62810400:
 
     # "The two of us continue to fuck passionately throughout the duration of my orgasm. Shivers of pleasure running down my spine with each deep thrust in my hyper-sensitive state."
-    "The two of us continue to fuck passionately throughout the duration of my orgasm. Shivers of pleasure running down my spine with each deep thrust in my hyper-sensitive state."
+    "在高潮期间我们两个也没消停，继续充满激情地抽插和迎合。在我极度敏感的状况下，每一次抽插都能激起我极致的快感。"
 
 # game/forest.rpy#L3012
 translate chinese devilsex_75e142c6:
 
     # devil "Haaahhh… My eyes are swimming, haahhh… Everything went all white and fuzzy, aheh…"
-    devil "Haaahhh… My eyes are swimming, haahhh… Everything went all white and fuzzy, aheh…"
+    devil "哈啊啊...我的眼睛金星直冒，哈啊啊...所有东西看起来都是白的和糊的，啊呼......"
 
 # game/forest.rpy#L3013
 translate chinese devilsex_c78029ab:
 
     # mc "Me too, Bun, me too…"
-    mc "Me too, Bun, me too…"
+    mc "我也是，小兔纸，我也是......"
 
 # game/forest.rpy#L3017
 translate chinese devilsex_24ff83f9:
 
     # "After filling her to the brim, I gradually come to a stop and pull out."
-    "After filling her to the brim, I gradually come to a stop and pull out."
+    "在把她里面塞得满满当当后，我把鸡巴拔了出来。"
 
 # game/forest.rpy#L3018
 translate chinese devilsex_b7885517:
 
     # "A few droplets of cum ooze down her pristine white fur, almost entirely camouflaged if it weren’t for her cute pink pussy serving as contrast."
-    "A few droplets of cum ooze down her pristine white fur, almost entirely camouflaged if it weren’t for her cute pink pussy serving as contrast."
+    "几滴精液从穴口渗出，留在她白花花的毛上，要不是她粉红色的肉缝，我都看不见流出来的精液。"
 
 # game/forest.rpy#L3019
 translate chinese devilsex_b3fe1e78:
 
     # "With a deep breath, I drag myself to her side and my bunny lover takes the initiative to cradle me close in a cozy embrace."
-    "With a deep breath, I drag myself to her side and my bunny lover takes the initiative to cradle me close in a cozy embrace."
+    "我深吸了一口气，把她拽到我身边，我的兔子爱侣主动将我抱入怀中。"
 
 # game/forest.rpy#L3020
 translate chinese devilsex_bcaf5549:
 
     # devil "When can you go again? I think I’m totally ready for a second round!"
-    devil "When can you go again? I think I’m totally ready for a second round!"
+    devil "什么时候能再来一次？我已经准备好来第二轮了！"
 
 # game/forest.rpy#L3022
 translate chinese devilsex_93dfc1ec:
@@ -10413,121 +10413,121 @@ translate chinese devilsex_93dfc1ec:
 translate chinese devilsex_52ebf3c6:
 
     # "And with that, my entire day disappeared."
-    "And with that, my entire day disappeared."
+    "我的一天就这样被一只兔子消磨殆尽。"
 
 # game/forest.rpy#L3030
 translate chinese devilsex_3b33e2e6:
 
     # "I felt like I was somewhat obligated to have sex with Devil. Especially considering that she technically doesn’t exist in that capacity for long."
-    "I felt like I was somewhat obligated to have sex with Devil. Especially considering that she technically doesn’t exist in that capacity for long."
+    "我觉我有点像是被逼着和Devil发生性关系。毕竟她在药效上不能维持这种新形态太久。"
 
 # game/forest.rpy#L3031
 translate chinese devilsex_2240907d:
 
     # "But I managed to distract her with some other musings about the world as we went on a walk around Arcadia."
-    "But I managed to distract her with some other musings about the world as we went on a walk around Arcadia."
+    "不过我还是在我们去Arcadia散步的路上找了些其他话题和她拉了拉家常，分散一下她对那方面的注意力。"
 
 # game/forest.rpy#L3032
 translate chinese devilsex_de5b1bb9:
 
     # "Eventually Devil returns to her usual form, vowing that one day she’d like to be ‘like you and Butters forever’."
-    "Eventually Devil returns to her usual form, vowing that one day she’d like to be ‘like you and Butters forever’."
+    "Devil最终还是逃不过变回一只小兔子的命运，临变前还发誓说总有一天会“永远像Butters那样维持人形”。"
 
 # game/forest.rpy#L3033
 translate chinese devilsex_d84c7cf2:
 
     # "Later in the evening..."
-    "Later in the evening..."
+    "天色渐晚......"
 
 # game/forest.rpy#L3038
 translate chinese devilsex_425b329a:
 
     # butters "I’ll do it one day. I’ll make a potion that turns her into an anthropomorph permanently."
-    butters "I’ll do it one day. I’ll make a potion that turns her into an anthropomorph permanently."
+    butters "我可以的，总有天我能让她一直维持人形态。"
 
 # game/forest.rpy#L3039
 translate chinese devilsex_4c5f3747:
 
     # mc "Why doesn’t the current one work?"
-    mc "Why doesn’t the current one work?"
+    mc "那现在这个药为什么有时限呢？"
 
 # game/forest.rpy#L3041
 translate chinese devilsex_968ec673:
 
     # butters "I’m not entirely sure… I’m still yet to fully understand the full intricacies of potion effect permanence."
-    butters "I’m not entirely sure… I’m still yet to fully understand the full intricacies of potion effect permanence."
+    butters "我也不是很清楚...我还没参透永久性药剂原理的全部秘辛。"
 
 # game/forest.rpy#L3042
 translate chinese devilsex_69a9a247:
 
     # butters "It seems that the larger in magical magnitude the 'effect', the harder it is to be made permanent."
-    butters "It seems that the larger in magical magnitude the 'effect', the harder it is to be made permanent."
+    butters "好像药效的魔力“效果”越强，就越难长时间维持。"
 
 # game/forest.rpy#L3043
 translate chinese devilsex_3ed04fb5:
 
     # butters "But one day, I’ll definitely make Devil’s dream come true."
-    butters "But one day, I’ll definitely make Devil’s dream come true."
+    butters "不过终有一天，我会实现Devil的梦想的。"
 
 # game/forest.rpy#L3044
 translate chinese devilsex_5b16d671:
 
     # mc "You let me know when you do. She said she wants to have more sex to celebrate, and... I guess I kinda offered myself."
-    mc "You let me know when you do. She said she wants to have more sex to celebrate, and... I guess I kinda offered myself."
+    mc "那你搞定的时候记得告诉我一声。她说她到时候想好好XXOO一番来庆祝，好像...也只有我能满足她这个要求。"
 
 # game/forest.rpy#L3046
 translate chinese devilsex_8d65a804:
 
     # butters "You can’t just spoil her and give her everything she asks for, silly!"
-    butters "You can’t just spoil her and give her everything she asks for, silly!"
+    butters "你可不能光宠着她，她要什么就给什么，小傻瓜！"
 
 # game/forest.rpy#L3047
 translate chinese devilsex_5436a386:
 
     # mc "But she’s so darn cute…"
-    mc "But she’s so darn cute…"
+    mc "但她确实太可爱了......"
 
 # game/forest.rpy#L3049
 translate chinese devilsex_ca765930:
 
     # butters "You know how Devil operates; she’ll always ask for more treats if you give her one. But you have to say no, otherwise she’ll get too greedy!"
-    butters "You know how Devil operates; she’ll always ask for more treats if you give her one. But you have to say no, otherwise she’ll get too greedy!"
+    butters "你应该知道Devil的德行；你要是给了她一次，她就会要更多次。所以有时候得拒绝她的要求，不然她会没完没了的！"
 
 # game/forest.rpy#L3050
 translate chinese devilsex_af8f9590:
 
     # mc "I feel like that shouldn’t apply to her anthropomorphic form, but I see the logic."
-    mc "I feel like that shouldn’t apply to her anthropomorphic form, but I see the logic."
+    mc "这个原则对她变成人形生物不适用吧，不过还是有其逻辑和道理的。"
 
 # game/forest.rpy#L3052
 translate chinese devilsex_eedd73d4:
 
     # butters "Hehe, I will have a lot to teach that girl."
-    butters "Hehe, I will have a lot to teach that girl."
+    butters "呵呵，我还得教会她不少东西才行。"
 
 # game/forest.rpy#L3056
 translate chinese succworksex_ac804be5:
 
     # "Sometime during work…"
-    "Sometime during work…"
+    "有时候在外出工作时......"
 
 # game/forest.rpy#L3058
 translate chinese succworksex_efe9ebad:
 
     # "Hmm... It's this cave again."
-    "Hmm... It's this cave again."
+    "嗯...又是这洞穴。"
 
 # game/forest.rpy#L3059
 translate chinese succworksex_91128fcf:
 
     # "Not too bad without the Alraune though."
-    "Not too bad without the Alraune though."
+    "不过没遇到Alraune就是万幸了。"
 
 # game/forest.rpy#L3060
 translate chinese succworksex_e54cfcbc:
 
     # "Unfortunately, my companion seems a little distracted."
-    "Unfortunately, my companion seems a little distracted."
+    "然而我的工作伙伴就没我这么怡然自得了。"
 
 # game/forest.rpy#L3061
 translate chinese succworksex_96235f48:
@@ -10539,301 +10539,301 @@ translate chinese succworksex_96235f48:
 translate chinese succworksex_7ec809b5:
 
     # butters "Mmphh… As a succubus, it’s not easy working with a man."
-    butters "Mmphh… As a succubus, it’s not easy working with a man."
+    butters "嗯呼...人家是个魅魔哎，你知道要和一个男性一起干正经活儿有多困难吗。"
 
 # game/forest.rpy#L3064
 translate chinese succworksex_3b5d007d:
 
     # butters "I have needs too, you know?"
-    butters "I have needs too, you know?"
+    butters "我有那方面的需求，懂？"
 
 # game/forest.rpy#L3065
 translate chinese succworksex_4630112b:
 
     # mc "I told you that I’d have sex after work."
-    mc "I told you that I’d have sex after work."
+    mc "可我们说好工作完了再满足你啊。"
 
 # game/forest.rpy#L3067
 translate chinese succworksex_1fdbc30b:
 
     # butters "Yeah, I know but…"
-    butters "Yeah, I know but…"
+    butters "是，我知道，可是......"
 
 # game/forest.rpy#L3068
 translate chinese succworksex_90cb7e5e:
 
     # butters "For a Succubus, that’s like telling a starving worker that you’ll feed them after they’ve slaved away for the next eight hours."
-    butters "For a Succubus, that’s like telling a starving worker that you’ll feed them after they’ve slaved away for the next eight hours."
+    butters "你跟一个魅魔讲这些，就像告诉一个晚饭都没来得及吃的996打工人，再加班到明天早上一样煎熬，我想把你挂路灯上。"
 
 # game/forest.rpy#L3069
 translate chinese succworksex_626d362c:
 
     # "Hmm, she does seem a little more lethargic and submissive than usual."
-    "Hmm, she does seem a little more lethargic and submissive than usual."
+    "嗯，她看起来确实比平时更心不在焉和唯命是从。"
 
 # game/forest.rpy#L3070
 translate chinese succworksex_bb7e8d27:
 
     # mc "Hm… Alright, do you want a blowjob as a quick fuel stop?"
-    mc "Hm… Alright, do you want a blowjob as a quick fuel stop?"
+    mc "嗯...既然如此，一个口交就可以让你活力焕发，你觉得怎么样？"
 
 # game/forest.rpy#L3072
 translate chinese succworksex_d0392f9b:
 
     # butters "I was thinking… Could you have sex with me?"
-    butters "I was thinking… Could you have sex with me?"
+    butters "可我想的是...下面想要一根鸡巴，可以吗？"
 
 # game/forest.rpy#L3073
 translate chinese succworksex_32cb7990:
 
     # mc "I suppose we have time. You do tend to be rather efficient after all."
-    mc "I suppose we have time. You do tend to be rather efficient after all."
+    mc "我想时间应该充足。毕竟你干活效率不是一般的足。"
 
 # game/forest.rpy#L3075
 translate chinese succworksex_8ed127cb:
 
     # butters "Ah, you noticed my effort. I put in that effort to make you happy, so you’ll have sex with me, you know?"
-    butters "Ah, you noticed my effort. I put in that effort to make you happy, so you’ll have sex with me, you know?"
+    butters "啊，你也注意到啦。人家花了不少心思讨你欢心，只为勃君一啸，明白吗？"
 
 # game/forest.rpy#L3076
 translate chinese succworksex_9becc841:
 
     # mc "You really are one track minded. But I suppose you’re rather cute in that aspect."
-    mc "You really are one track minded. But I suppose you’re rather cute in that aspect."
+    mc "你对那方面还真是热衷。不过这个样子也挺可爱的。"
 
 # game/forest.rpy#L3080
 translate chinese succworksex_33e98a83:
 
     # "The succubus lays down on the rocky ground and raises her legs, presenting both her plump pussy and bubble butt."
-    "The succubus lays down on the rocky ground and raises her legs, presenting both her plump pussy and bubble butt."
+    "魅魔随即躺在满是岩石的地面上，一对玉腿高高抬起，毫无保留地展示出自己肉嘟嘟的蜜穴和丰腴的翘臀。"
 
 # game/forest.rpy#L3081
 translate chinese succworksex_ae78ee6c:
 
     # butters "We can be quick, if you want."
-    butters "We can be quick, if you want."
+    butters "你要是想的话，速战速决也行。"
 
 # game/forest.rpy#L3082
 translate chinese succworksex_cadbeb2b:
 
     # mc "It’s not every day you put yourself in a submissive position. So, I think I’ll take my time."
-    mc "It’s not every day you put yourself in a submissive position. So, I think I’ll take my time."
+    mc "你现在这般掇乖弄俏的样子可不多见，我得好好品味一番才行。"
 
 # game/forest.rpy#L3083
 translate chinese succworksex_8aab0a24:
 
     # butters "Mmphh…"
-    butters "Mmphh…"
+    butters "嗯......"
 
 # game/forest.rpy#L3084
 translate chinese succworksex_cca10250:
 
     # "I’m sure she’d pout if she wasn’t so eagerly anticipating sex."
-    "I’m sure she’d pout if she wasn’t so eagerly anticipating sex."
+    "要不是她急着想要，肯定都生气了。"
 
 # game/forest.rpy#L3085
 translate chinese succworksex_bc6310af:
 
     # "As shy and occasionally timid as both of Butters’ personalities can be, it is rare for her succubus side to not be on top."
-    "As shy and occasionally timid as both of Butters’ personalities can be, it is rare for her succubus side to not be on top."
+    "虽然Butters的两个人格都比较害羞，有时候还有些胆怯，但魅魔面表现得如此顺从还是相当难得的。"
 
 # game/forest.rpy#L3086
 translate chinese succworksex_bdc779cb:
 
     # "To present herself submissively like this… She must be quite serious."
-    "To present herself submissively like this… She must be quite serious."
+    "看着她乖巧顺从的样子...想必是真的想要。"
 
 # game/forest.rpy#L3087
 translate chinese succworksex_025da53d:
 
     # "It’s pretty dark in here, but with her legs lifted up I have quite a clear view of her beautiful pussy."
-    "It’s pretty dark in here, but with her legs lifted up I have quite a clear view of her beautiful pussy."
+    "虽然洞里照明不好，但她玉腿间那道美艳绝伦的肉缝我还是看得清清楚楚。"
 
 # game/forest.rpy#L3088
 translate chinese succworksex_e08081d2:
 
     # butters "Like what you see? Come on, don’t keep a girl waiting!"
-    butters "Like what you see? Come on, don’t keep a girl waiting!"
+    butters "你看呆了？快动起来啊，绅士可不会让一位女士久等！"
 
 # game/forest.rpy#L3089
 translate chinese succworksex_4af18cbd:
 
     # mc "Easy up, I’m not even erect yet."
-    mc "Easy up, I’m not even erect yet."
+    mc "别急啊，我还没硬起来呢。"
 
 # game/forest.rpy#L3090
 translate chinese succworksex_193e5458:
 
     # "I begin to fondle my cock into an erection... When I'm ready, I grab the succubus’s hips and pull her towards me."
-    "I begin to fondle my cock into an erection... When I'm ready, I grab the succubus’s hips and pull her towards me."
+    "我开始撸动自己的长枪，让它做好战斗准备...待完全勃起后，我抓住她的柳腰，把她拉近了点。"
 
 # game/forest.rpy#L3091
 translate chinese succworksex_916c7f70:
 
     # butters "Eep! Easy on the goods!"
-    butters "Eep! Easy on the goods!"
+    butters "欸！硬得还挺快的嘛！"
 
 # game/forest.rpy#L3092
 translate chinese succworksex_d9b3b244:
 
     # "I tap my cock on her bubble butt; enjoying the soft feeling as Butters keenly awaits my next move. However, I choose to tease her a little longer, playing with her pussy and engaging in extra foreplay."
-    "I tap my cock on her bubble butt; enjoying the soft feeling as Butters keenly awaits my next move. However, I choose to tease her a little longer, playing with her pussy and engaging in extra foreplay."
+    "我的鸡巴在她富有弹性的翘臀上拍打了几下，好好享受这松软棉弹的感觉，Butters则对我接下来的行动满怀期待。 不过嘛，我可不想这么快就进入正题，能玩弄魅魔的机会可没几个，我还在她的蜜穴上蹭来蹭去挑逗着她，把前戏做足。"
 
 # game/forest.rpy#L3093
 translate chinese succworksex_373b89c9:
 
     # "As I expected, she’s extremely wet already. She might be ready, but the cold of the cave has somewhat diminished my own sexual appetite, so I’ll take my time building it back up."
-    "As I expected, she’s extremely wet already. She might be ready, but the cold of the cave has somewhat diminished my own sexual appetite, so I’ll take my time building it back up."
+    "不出我所料，她的下体早已洪水泛滥。她应该是准备好被插入了，但这湿寒阴森的洞穴多多少少有点败我的性欲，我得多花点时间重新提起性欲才行。"
 
 # game/forest.rpy#L3094
 translate chinese succworksex_3d3def4d:
 
     # "She slowly grows impatient as I tease and massage her cute butt, her attempts at grinding against me do not go unnoticed."
-    "She slowly grows impatient as I tease and massage her cute butt, her attempts at grinding against me do not go unnoticed."
+    "她的耐心在我对她丰臀的玩弄和揉搓中渐渐丧失殆尽，娇躯开始不耐烦地扭来扭去，我也注意到她开始焦躁了。"
 
 # game/forest.rpy#L3095
 translate chinese succworksex_8587c4df:
 
     # butters "Come on! Butters will get mad if we slack off!"
-    butters "Come on! Butters will get mad if we slack off!"
+    butters "你还在摸什么啊！你再这么磨磨蹭蹭，Butters可是会生气的哦！"
 
 # game/forest.rpy#L3096
 translate chinese succworksex_a44fb33f:
 
     # "Oh yeah, I did tell her that, didn’t I? In reality, Butters probably doesn’t mind."
-    "Oh yeah, I did tell her that, didn’t I? In reality, Butters probably doesn’t mind."
+    "哦对哦，我是不是跟她讲过的？其实Butters多半不会在意的。"
 
 # game/forest.rpy#L3099
 translate chinese succworksex_21852944:
 
     # "I giggle and give her ass a playful slap as I position my cock at the lips of her hot pussy, and with one thrust I plunge my cock into the warmth and wetness."
-    "I giggle and give her ass a playful slap as I position my cock at the lips of her hot pussy, and with one thrust I plunge my cock into the warmth and wetness."
+    "我坏笑着，给了她丰臀俏皮的一巴掌，肉棒也直抵她燥热难耐的穴口，只轻轻一推，肉棒顺利锲入她温馨又潮湿的蜜穴当中。"
 
 # game/forest.rpy#L3100
 translate chinese succworksex_a033016e:
 
     # "Immediately my body is attacked with sharp succubus beguilement. I’m pretty used to this by now. I know I won’t be able to stop fucking her for a while, even if I wanted to."
-    "Immediately my body is attacked with sharp succubus beguilement. I’m pretty used to this by now. I know I won’t be able to stop fucking her for a while, even if I wanted to."
+    "我的身体立刻受到魅魔蛊惑的强烈感召。不过我已经习惯了，不管我想不想，只要插进去不射几发是拔不出来的。"
 
 # game/forest.rpy#L3101
 translate chinese succworksex_5380fb60:
 
     # butters "Haaahh, finally! Now I want you to go wild, don’t hold back!"
-    butters "Haaahh, finally! Now I want you to go wild, don’t hold back!"
+    butters "哈啊啊，终于进来了！现在我想你狠狠地干我，不要留情！"
 
 # game/forest.rpy#L3103
 translate chinese succworksex_a6d19e04:
 
     # "I roughly pound the Succubutters’ pussy. While I maintain a firm grip on her thighs, she keeps her legs raised for the duration making it feel even tighter."
-    "I roughly pound the Succubutters’ pussy. While I maintain a firm grip on her thighs, she keeps her legs raised for the duration making it feel even tighter."
+    "我粗暴地抽插着魅魔的小穴。我死抓住她高高抬起的双腿，这个体位下她的小穴更加紧致。"
 
 # game/forest.rpy#L3104
 translate chinese succworksex_5e5a195c:
 
     # "The sound of our sexes slapping against each other mix and echo through the cave with her moans of delight. It truly is an erotic symphony to the ears."
-    "The sound of our sexes slapping against each other mix and echo through the cave with her moans of delight. It truly is an erotic symphony to the ears."
+    "我们交合的啪啪声伴随着她欢快的呻吟声在错综的洞穴里来回飘荡，好似一首淫靡的交响乐。"
 
 # game/forest.rpy#L3105
 translate chinese succworksex_e5b43bf1:
 
     # "We’re not exactly being subtle, and I’m sure any cave dwelling denizens within 100 meters can hear us loud and clear. However, I know that no one here would dare approach someone with the appearance of a succubus."
-    "We’re not exactly being subtle, and I’m sure any cave dwelling denizens within 100 meters can hear us loud and clear. However, I know that no one here would dare approach someone with the appearance of a succubus."
+    "我们两个应该并不孤单，我很肯定任何在我们100米以内的洞穴生物都能听到我俩的交合声。不过应该没有哪个活得不耐烦的敢来叨扰一个魅魔吧。"
 
 # game/forest.rpy#L3106
 translate chinese succworksex_bcea6cf6:
 
     # butters "Mmphh, mmm… Keep going. I’m going to need at least one load of cum to last the rest of the nine to five."
-    butters "Mmphh, mmm… Keep going. I’m going to need at least one load of cum to last the rest of the nine to five."
+    butters "嗯嗯呼，嗯...继续。你起码得射一发给我，不然我可没力气干接下来的活儿。"
 
 # game/forest.rpy#L3107
 translate chinese succworksex_ae843849:
 
     # "Under her beguilement I find it hard to resist her orders, so I continue to pound her fluffy butt as aggressively as I can. My cock twitching and swelling as an orgasm builds within me, albeit very slowly."
-    "Under her beguilement I find it hard to resist her orders, so I continue to pound her fluffy butt as aggressively as I can. My cock twitching and swelling as an orgasm builds within me, albeit very slowly."
+    "她勾魂夺魄的词句让我很难抗拒她的命令，继续努力地在她松软的美臀上抽插拍打。虽然我的快感堆积并不算快，但鸡巴已经开始发胀悸动了。"
 
 # game/forest.rpy#L3108
 translate chinese succworksex_f8190da8:
 
     # "I keep up for a minute, fucking her while occasionally slapping her ass and playing with her tits. I can feel her orgasm starting to come."
-    "I keep up for a minute, fucking her while occasionally slapping her ass and playing with her tits. I can feel her orgasm starting to come."
+    "我又继续了一分钟，手时而给她的肥臀来一下，时而揉捏她的双峰。她应该快高潮了。"
 
 # game/forest.rpy#L3109
 translate chinese succworksex_4fe06cdc:
 
     # butters "Mmpmhh… That’s it, I-I’m gonna come soon! Haahh, ahhh…"
-    butters "Mmpmhh… That’s it, I-I’m gonna come soon! Haahh, ahhh…"
+    butters "嗯嗯嗯呼...干得好，我，我要去了！哈啊啊，啊......"
 
 # game/forest.rpy#L3110
 translate chinese succworksex_e43710b9:
 
     # "She climaxes, her pussy clenches around my member as she squeals with pleasure. I can feel myself getting closer too as strange succubus energies sharpen my nerves."
-    "She climaxes, her pussy clenches around my member as she squeals with pleasure. I can feel myself getting closer too as strange succubus energies sharpen my nerves."
+    "她高潮了，小穴里的肉壁紧噬着我的长枪，满足的呼嚎从嘴里送出。奇怪的魅魔能量开始撩动我的每根神经，我也高潮将临了。"
 
 # game/forest.rpy#L3111
 translate chinese succworksex_c7ff9784:
 
     # "I grit my teeth and continue to pulverize her pussy, driving my cock deeper and faster than before, causing Butters’ pillowy body to jiggle back and forth along the floor."
-    "I grit my teeth and continue to pulverize her pussy, driving my cock deeper and faster than before, causing Butters’ pillowy body to jiggle back and forth along the floor."
+    "我咬紧牙关继续狠捣着她的蜜穴，鸡巴更快地抽插，同时也插得更深，强大的动能让Butters柔嫩的娇躯在地板上来回挺动。"
 
 # game/forest.rpy#L3112
 translate chinese succworksex_63d0c089:
 
     # butters "Haaaahhh, yesss, this is exactly what I needed! *Squish, squelch!*"
-    butters "Haaaahhh, yesss, this is exactly what I needed! *Squish, squelch!*"
+    butters "哈啊啊啊，干啊，我要的就是这个！*啪唧，扑哧！*"
 
 # game/forest.rpy#L3113
 translate chinese succworksex_c5953ce9:
 
     # "Still in an orgasmic daze, her quivering thighs struggle to remain upright."
-    "Still in an orgasmic daze, her quivering thighs struggle to remain upright."
+    "虽然她仍然处在高潮的余波当中，颤抖的大腿依然能保持抬起。"
 
 # game/forest.rpy#L3114
 translate chinese succworksex_b735977f:
 
     # "I can feel my orgasm finally begin to boil up, and no doubt my companion has already been racked to the core by a second orgasm; judging by her hysteric movements and moans."
-    "I can feel my orgasm finally begin to boil up, and no doubt my companion has already been racked to the core by a second orgasm; judging by her hysteric movements and moans."
+    "我感觉自己的高潮迫在眉睫了，我的爱侣也毫无疑问地被她的第二次高潮冲得欣喜若狂，从她不着边际的肢体动作和疯狂的浪叫可见一斑。"
 
 # game/forest.rpy#L3119
 translate chinese succworksex_71863bc0:
 
     # "My orgasm finally arrives and overwhelms me with its glory. My vision briefly turns white as a torrent of thick jism spews into Butters's pussy and womb."
-    "My orgasm finally arrives and overwhelms me with its glory. My vision briefly turns white as a torrent of thick jism spews into Butters's pussy and womb."
+    "我的高潮终于到来，庞大的精液喷薄而出，量多得我都有点手足无措。当浓浓的精液浇满Butters的小穴和子宫时，我的视野彻底翻白。"
 
 # game/forest.rpy#L3125
 translate chinese succworksex_7938ab66:
 
     # "Three loads, six, then nine. The pony’s pussy is filled to the brim, so much that it readily oozes and spills out."
-    "Three loads, six, then nine. The pony’s pussy is filled to the brim, so much that it readily oozes and spills out."
+    "三发，六发，还在射，九发精液。小马的蜜穴被塞得除了精液之外已经没有其他东西了，多余的精液开始喷溅流出。"
 
 # game/forest.rpy#L3126
 translate chinese succworksex_236512ee:
 
     # "She doesn’t absorb it because she no longer has the ability to drain, but she’s still tremendously satisfied."
-    "She doesn’t absorb it because she no longer has the ability to drain, but she’s still tremendously satisfied."
+    "因为她已经没有榨取生命的能力，所以不能把这些精液都吸收掉，不过她脸上仍然洋溢着满意的表情。"
 
 # game/forest.rpy#L3128
 translate chinese succworksex_1137a22a:
 
     # "The beguilement seems to steadily wear off, bringing me to my senses and enabling me to pull out. Lucky I did, otherwise I’d be stuck for another orgasm or two."
-    "The beguilement seems to steadily wear off, bringing me to my senses and enabling me to pull out. Lucky I did, otherwise I’d be stuck for another orgasm or two."
+    "她对我的蛊惑作用也减弱了，我得以把肉棒从她的体内抽出。还好能及时拔出来，不然还要和她来上一两发才能罢休。"
 
 # game/forest.rpy#L3130
 translate chinese succworksex_7202d355:
 
     # butters "Haahh, that was perfect, [playername]..."
-    butters "Haahh, that was perfect, [playername]..."
+    butters "哈啊啊，你“干”得很好，[playername]......"
 
 # game/forest.rpy#L3131
 translate chinese succworksex_774aeab7:
 
     # mc "Hey… you let me go after a single orgasm. You told me that the beguilement lasts at least thirty minutes after penetration!"
-    mc "Hey… you let me go after a single orgasm. You told me that the beguilement lasts at least thirty minutes after penetration!"
+    mc "嘿...我只射了一次你就放过我了。我记得你告诉我就算在性行为后，魅魔蛊惑还能持续半小时的！"
 
 # game/forest.rpy#L3132
 translate chinese succworksex_7473b0ec:
 
     # butters "Ohh, I did? I must have lied. Hehehe."
-    butters "Ohh, I did? I must have lied. Hehehe."
+    butters "哦，我这么讲过？我肯定撒谎了。嘿嘿嘿。"
 
 # game/forest.rpy#L3137
 translate chinese succworksex_ce617998:
@@ -10851,7 +10851,7 @@ translate chinese succworksex_00d3970e:
 translate chinese succworksex_54e5e55e:
 
     # "And due to the sexual intercourse I had with her succubus side, she gradually shifted back to normal."
-    "And due to the sexual intercourse I had with her succubus side, she gradually shifted back to normal."
+    "由于我和魅魔面爱爱过，她逐渐变回了正常面。"
 
 # game/forest.rpy#L3144
 translate chinese succworksex_09a24341:
@@ -11015,7 +11015,7 @@ translate chinese strings:
 
     # game/forest.rpy_L968_1
     old "Seems fair, let’s go fuck a folium polypus, what could go wrong?"
-    new "Seems fair, let’s go fuck a folium polypus, what could go wrong?"
+    new "听起来不错，我们去和瘤叶操一通，还能出什么岔子不成？"
 
     # game/forest.rpy_L968_2
     old "I think that’s a terrible idea."
@@ -11023,7 +11023,7 @@ translate chinese strings:
 
     # game/forest.rpy_L991_0
     old "I could ask her if it was bothering me this much."
-    new "我可以问她，是否它很打扰我做这个"
+    new "我可以问问她，不知道她会不会拒绝。"
 
     # game/forest.rpy_L991_1
     old "Would you sleep with me?"

@@ -1,4 +1,4 @@
-# Translation updated at Fri Jul 02 2021 00:48:53 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Sat Jul 03 2021 00:48:43 GMT+0000 (Coordinated Universal Time)
 # game/1prologue.rpy#L25
 translate chinese prologueday1_c7b6965c:
 
@@ -1821,7 +1821,7 @@ translate chinese prologueday2_ebc5c164:
 translate chinese prologueday2_84d45c30:
 
     # "Not only was the entire interior finely decorated but there were books as far as the eye could see."
-    "不仅整个室内装饰得很好，而且这儿还有能填满肉眼所及的书。"
+    "不仅整个室内装饰得很好，而且这里目所能及之处尽是书本。"
 
 # game/1prologue.rpy#L564
 translate chinese prologueday2_be869fc9:

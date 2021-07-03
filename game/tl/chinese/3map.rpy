@@ -1,4 +1,4 @@
-# Translation updated at Fri Jul 02 2021 00:48:53 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Sat Jul 03 2021 00:48:43 GMT+0000 (Coordinated Universal Time)
 # game/3map.rpy#L57
 translate chinese mapmarket_91ae100c:
 
@@ -291,7 +291,7 @@ translate chinese discountmenu_116e4394:
 translate chinese discountmenu_e6ece72e:
 
     # merchant "For a punk like you? Cave diving isn't a leisurely walk in the park, even around 'Cadia."
-    merchant "凭你这样的混混?洞穴探险可不是在公园里悠闲地散步，即便是在Cadia附近的也是如此。"
+    merchant "凭你这样的混混?洞穴探险可不是在公园里悠闲地散步，即便是在Acadia附近的也是如此。"
 
 # game/3map.rpy#L165
 translate chinese discountmenu_38275807:
@@ -3537,7 +3537,7 @@ translate chinese cindylum_07cf3d78:
 translate chinese cindylum_1e90f006:
 
     # "Fucking missionary with her legs up like this makes her ass feel even tighter, and her insides squishing against my cock with every deep thrust immensely adds to the elicited pleasure."
-    "该死的传教士姿势！她腿像这样的抬起让她的肛门感觉更紧，温暖的内脏紧压在我cock上，我每一次冲刺都极大地增加她的快感。"
+    "该死的男上位姿势！她腿像这样的抬起让她的肛门感觉更紧，温暖的肉壁紧压在我cock上，我每一次冲刺都极大地增加她的快感。"
 
 # game/3map.rpy#L1220
 translate chinese cindylum_7bd05df4:

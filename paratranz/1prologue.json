@@ -4547,14 +4547,14 @@
   {
     "id": 79420203,
     "createdAt": "2021-05-30T17:55:32.000Z",
-    "updatedAt": "2021-06-22T23:12:44.000Z",
+    "updatedAt": "2021-07-02T02:55:19.000Z",
     "key": "prologueday2_84d45c30",
     "original": "Not only was the entire interior finely decorated but there were books as far as the eye could see.",
-    "translation": "不仅整个室内装饰得很好，而且这儿还有能填满肉眼所及的书。",
+    "translation": "不仅整个室内装饰得很好，而且这里目所能及之处尽是书本。",
     "file": 272331,
     "stage": 3,
     "project": 2414,
-    "uid": 21396,
+    "uid": 20927,
     "extra": null,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwBCN/blob/main/game/1prologue.rpy#L562",
     "words": 19

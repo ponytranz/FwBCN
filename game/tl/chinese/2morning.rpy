@@ -1,4 +1,4 @@
-# Translation updated at Fri Jul 02 2021 00:48:53 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Sat Jul 03 2021 00:48:43 GMT+0000 (Coordinated Universal Time)
 # game/2morning.rpy#L14
 translate chinese morning_f5b564ef:
 
@@ -549,7 +549,7 @@ translate chinese events_33ddde5d:
 translate chinese events_09ea0b35:
 
     # "(100%% completion bonus unlocked at the Castle.)"
-    "（于城堡解锁100%完成度奖励。）"
+    "（于城堡完成100%%时解锁奖励。）"
 
 # game/2morning.rpy#L270
 translate chinese events_f1b54ad9:

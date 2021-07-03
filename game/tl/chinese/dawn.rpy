@@ -1,4 +1,4 @@
-# Translation updated at Fri Jul 02 2021 00:48:54 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Sat Jul 03 2021 00:48:43 GMT+0000 (Coordinated Universal Time)
 # game/dawn.rpy#L5
 translate chinese dawntalksex_7eb30d83:
 
@@ -729,7 +729,7 @@ translate chinese dawnrcg_367a454b:
 translate chinese dawnrcg_98351e5e:
 
     # "Backing her hips slightly, my throbbing cock is slotted between her ass cheeks."
-    "稍稍抬起她的臀部，我把抽动的鸡巴夹到那两瓣屁股之间。"
+    "稍稍抬起她的臀部，我把雄起的阴茎夹到那两瓣屁股之间。"
 
 # game/dawn.rpy#L275
 translate chinese dawnrcg_40104e9c:
@@ -891,7 +891,7 @@ translate chinese dawnrcg_86f43605:
 translate chinese dawnrcg_0df293f3:
 
     # "She squeaks and shivers, her back arches and my cock pushes against her g-spot. She can barely contain herself; her mind slowly eroding due to the pleasure."
-    "她呻吟并颤抖着，屁股高耸，同时我的阴茎直插她的g点。她快控制不住自己了；她因性快感已经渐渐飘飘欲仙了。"
+    "她呻吟并颤抖着，屁股高耸，同时我的阴茎直插她的g点。她快控制不住自己了；她因性快感已经飘飘欲仙了。"
 
 # game/dawn.rpy#L311
 translate chinese dawnrcg_746b8e60:
@@ -915,7 +915,7 @@ translate chinese dawnrcg_422fff1a:
 translate chinese dawnrcg_ed51f68a:
 
     # "My cock reacts almost immediately as it thickens and throbs, my muscles growing tense with the building force of my orgasm as it surges through my body."
-    "我的阳具几乎立刻起了反应，变粗且抽动起来，肌肉紧绷起来，难以抑制的性快感在我体内涌动。"
+    "我的阳具几乎立刻起了反应，变粗且抽动起来，肌肉紧绷，难以抑制的性快感在我体内涌动。"
 
 # game/dawn.rpy#L319
 translate chinese dawnrcg_655ac0bc:
@@ -4605,259 +4605,259 @@ translate chinese ppclsex_0a9e6b80:
 translate chinese ppclsex_70518fdb:
 
     # dawn "Now we’ve handpicked the universes, I’d like to observe how they change over time."
-    dawn "Now we’ve handpicked the universes, I’d like to observe how they change over time."
+    dawn "现在我们已经选出了一些宇宙，需要观察它们是如何随时间演变的。"
 
 # game/dawn.rpy#L1363
 translate chinese ppclsex_e9403902:
 
     # dawn "If the boundary of a universe is fixed, that means a universe will always keep a consistent amount of similarities, exactly like the ‘rubber banding’ you described."
-    dawn "If the boundary of a universe is fixed, that means a universe will always keep a consistent amount of similarities, exactly like the ‘rubber banding’ you described."
+    dawn "如果一个宇宙的边界是不变的，那就意味着它里面相似事物的总量是固定的，就像你描述的'橡皮筋'那样。"
 
 # game/dawn.rpy#L1364
 translate chinese ppclsex_bc2813c7:
 
     # dawn "If the boundary constantly rises as some may surmise, it’ll be like my two infinitely long intersecting lines idea."
-    dawn "If the boundary constantly rises as some may surmise, it’ll be like my two infinitely long intersecting lines idea."
+    dawn "如果边界会不停地扩张，就像某些人可能的猜测，那就是我的'两条无限长且不平行的线相交'理论了。"
 
 # game/dawn.rpy#L1365
 translate chinese ppclsex_748c912f:
 
     # dawn "But it’s also possible that the boundary merely fluctuates, like a 2D double helix."
-    dawn "But it’s also possible that the boundary merely fluctuates, like a 2D double helix."
+    dawn "不过可能边界只是经历着起伏，就像平面里的双螺旋。"
 
 # game/dawn.rpy#L1366
 translate chinese ppclsex_89d7cc4e:
 
     # dawn "Or perhaps we’re just thinking about this the wrong way, who knows. That’s the fun of science!"
-    dawn "Or perhaps we’re just thinking about this the wrong way, who knows. That’s the fun of science!"
+    dawn "有或许我们的想法都是错的，谁知道呢。这正是科学的乐趣所在！"
 
 # game/dawn.rpy#L1367
 translate chinese ppclsex_2e2d489d:
 
     # mc "That’s really amazing, Dawn."
-    mc "That’s really amazing, Dawn."
+    mc "真的太棒了，Dawn。"
 
 # game/dawn.rpy#L1369
 translate chinese ppclsex_f4bc04a0:
 
     # dawn "Ahhh, it’s not so crazy, the studying is in such an infancy I barely feel like I’m doing anything productive at all."
-    dawn "Ahhh, it’s not so crazy, the studying is in such an infancy I barely feel like I’m doing anything productive at all."
+    dawn "啊，没有很夸张啦，这项研究还处于初始阶段，我感觉我还几乎没干出什么成果。"
 
 # game/dawn.rpy#L1371
 translate chinese ppclsex_455e2ced:
 
     # dawn "I’ll probably pass away before any of my research bears fruit, simply because most of the universal similarities are generational."
-    dawn "I’ll probably pass away before any of my research bears fruit, simply because most of the universal similarities are generational."
+    dawn "可能在我研究出成果前，我就先离开马世了，因为关于宇宙之相似的研究具有时代局限性。"
 
 # game/dawn.rpy#L1373
 translate chinese ppclsex_2c6b41ac:
 
     # dawn "In one hundred years, it's completely possible that not a single person will exists in all the mirror portal universes simultaneously. Except pony and anthro alicorns."
-    dawn "In one hundred years, it's completely possible that not a single person will exists in all the mirror portal universes simultaneously. Except pony and anthro alicorns."
+    dawn "在一百年内，在所有被魔镜传送门连通的宇宙中完全有可能没有一个人存在，除了小马和半人天角兽。"
 
 # game/dawn.rpy#L1374
 translate chinese ppclsex_5d17844d:
 
     # dawn "Ohhh well…"
-    dawn "Ohhh well…"
+    dawn "哦，这样啊……"
 
 # game/dawn.rpy#L1375
 translate chinese ppclsex_a2689033:
 
     # dawn "All this talk is making me horny."
-    dawn "All this talk is making me horny."
+    dawn "这些话题让我性欲大发。"
 
 # game/dawn.rpy#L1376
 translate chinese ppclsex_1aa87531:
 
     # mc "H-Horny?! No one but you would make such a drastic conversational shift."
-    mc "H-Horny?! No one but you would make such a drastic conversational shift."
+    mc "性，性欲？只有你能使交谈来这么一个180度大转弯。"
 
 # game/dawn.rpy#L1378
 translate chinese ppclsex_d89bbf79:
 
     # dawn "Hey, it’s not my fault there’s a naked dude sat next to me. You could have kept your new clothes on, but noooooooo, you just had to embrace your nudity."
-    dawn "Hey, it’s not my fault there’s a naked dude sat next to me. You could have kept your new clothes on, but noooooooo, you just had to embrace your nudity."
+    dawn "嘿，有个赤裸的小伙坐在我身边可不是我的错。你可以穿上新衣服，但别-那-么-做，习惯赤裸就好了。"
 
 # game/dawn.rpy#L1379
 translate chinese ppclsex_0d11f1db:
 
     # dawn "How do you think I feel having your penis in my peripheral vision the entire time and being forced to imagine incredibly naughty acts?"
-    dawn "How do you think I feel having your penis in my peripheral vision the entire time and being forced to imagine incredibly naughty acts?"
+    dawn "你猜，我在余光里无时无刻看着你的阴茎，因而不得不想象无比淘气的举止，是什么感受？"
 
 # game/dawn.rpy#L1380
 translate chinese ppclsex_257a3030:
 
     # mc "N-Naughty, huh? Haven’t you gotten used to nudity yet?"
-    mc "N-Naughty, huh? Haven’t you gotten used to nudity yet?"
+    mc "淘，淘气，蛤？你还没有习惯赤裸吗？"
 
 # game/dawn.rpy#L1382
 translate chinese ppclsex_53173792:
 
     # dawn "Mmm, perhaps you’re right. Maybe I should remove my dress…"
-    dawn "Mmm, perhaps you’re right. Maybe I should remove my dress…"
+    dawn "Mmm，或许你是对的。或许我该褪下裙子……"
 
 # game/dawn.rpy#L1383
 translate chinese ppclsex_9e39b7ec:
 
     # dawn "At least, I could do you the courtesy of removing her, mmheheh."
-    dawn "At least, I could do you the courtesy of removing her, mmheheh."
+    dawn "至少，我可以为了你脱掉它，mmheheh。"
 
 # game/dawn.rpy#L1384
 translate chinese ppclsex_3b16556b:
 
     # dawn "Stand to attention big boy, you’re about to witness a miracle…"
-    dawn "Stand to attention big boy, you’re about to witness a miracle…"
+    dawn "立正稍息，大男孩，你将看到的是人间奇迹……"
 
 # game/dawn.rpy#L1387
 translate chinese ppclsex_54e4da7b:
 
     # "Is she talking to me, my dick, or both of us simultaneously?"
-    "Is she talking to me, my dick, or both of us simultaneously?"
+    "她是在对我讲话，还是我的老二，抑或是我们两个？"
 
 # game/dawn.rpy#L1389
 translate chinese ppclsex_68e0d763:
 
     # "Oh! She’s actually doing it; she’s removing her dress…"
-    "Oh! She’s actually doing it; she’s removing her dress…"
+    "哦！她说到做到；她正在解开裙带……"
 
 # game/dawn.rpy#L1392
 translate chinese ppclsex_0a8448ff:
 
     # mc "I knew it, no panties at all!"
-    mc "I knew it, no panties at all!"
+    mc "我就】知道，没有胖次！"
 
 # game/dawn.rpy#L1394
 translate chinese ppclsex_ca180d3a:
 
     # dawn "Oohh, I am wearing panties! They’re just invisible, here, come pat your hand between my legs to check!"
-    dawn "Oohh, I am wearing panties! They’re just invisible, here, come pat your hand between my legs to check!"
+    dawn "哦哦，我穿了内裤！只是隐形了，来，用手拍拍我的腿，检查检查！"
 
 # game/dawn.rpy#L1395
 translate chinese ppclsex_305f3507:
 
     # "Pat, pat… She’s lying… Nice…"
-    "Pat, pat… She’s lying… Nice…"
+    "拍，拍……她撒谎……爽……"
 
 # game/dawn.rpy#L1397
 translate chinese ppclsex_5d2e2175:
 
     # dawn "Oh my, you’re getting an erection so easily. Well, if I had a cock, I’d probably already have been creating a tent in my dress, so I guess I’m even worse than you, hehe!"
-    dawn "Oh my, you’re getting an erection so easily. Well, if I had a cock, I’d probably already have been creating a tent in my dress, so I guess I’m even worse than you, hehe!"
+    dawn "天呐，你这么容易就勃起了。好吧，如果我有阳物，我可能已经在裙子里支起'小帐篷'了，所以我还不如你，嘻嘻！"
 
 # game/dawn.rpy#L1398
 translate chinese ppclsex_3a330ffd:
 
     # mc "I'll admit, I was starting to think you had a surprise underneath the dress."
-    mc "I'll admit, I was starting to think you had a surprise underneath the dress."
+    mc "我得承认，我开始思考你的裙下有没有大家伙了。"
 
 # game/dawn.rpy#L1400
 translate chinese ppclsex_0709f5d5:
 
     # dawn "Is this not a marvellous surprise?"
-    dawn "Is this not a marvellous surprise?"
+    dawn "这不是一个美妙的惊喜吗？"
 
 # game/dawn.rpy#L1401
 translate chinese ppclsex_4d13f64b:
 
     # mc "Well... It is, but you know what I mean."
-    mc "Well... It is, but you know what I mean."
+    mc "好吧……是，但你明白我什么意思。"
 
 # game/dawn.rpy#L1403
 translate chinese ppclsex_66159ffc:
 
     # dawn "I do, but it's just an ordinary female body. Like any of the other thousands of mares in Arcadia!"
-    dawn "I do, but it's just an ordinary female body. Like any of the other thousands of mares in Arcadia!"
+    dawn "我知道，但这只是一副女性的娇躯哦，和Arcadia其他几千匹雌驹一样！"
 
 # game/dawn.rpy#L1404
 translate chinese ppclsex_7e6f8a47:
 
     # dawn "But you got the chance to see me unwrapped like a present after days of anticipation, it’s no wonder you’re so stiff over basic nudity."
-    dawn "But you got the chance to see me unwrapped like a present after days of anticipation, it’s no wonder you’re so stiff over basic nudity."
+    dawn "但仿佛一件期盼了数日的礼物，我的'包装'被打开了，难怪仅仅是裸体就能让你发硬。"
 
 # game/dawn.rpy#L1405
 translate chinese ppclsex_50720a1c:
 
     # mc "That’s a good point, there’s really no excuse to get an erection over only seeing a nude woman anymore. But… you’re no average woman, that’s for sure."
-    mc "That’s a good point, there’s really no excuse to get an erection over only seeing a nude woman anymore. But… you’re no average woman, that’s for sure."
+    mc "很有说服力的论点，仅仅看到女性的裸体就勃起确实说不过去。但……你美若天仙，这点千真万确。"
 
 # game/dawn.rpy#L1409
 translate chinese dawnv3sex_23a5f69d:
 
     # dawn "Well, aren’t you glad I wore a dress now? Mmmhehe!"
-    dawn "Well, aren’t you glad I wore a dress now? Mmmhehe!"
+    dawn "行，那我穿裙子你会开心吗？Mmmhehe！"
 
 # game/dawn.rpy#L1410
 translate chinese dawnv3sex_515a5479:
 
     # dawn "You know, as a pony, my ass was always exposed… Like so…"
-    dawn "You know, as a pony, my ass was always exposed… Like so…"
+    dawn "你知道，作为小马，我的臀部总是暴露着的……就像这样……"
 
 # game/dawn.rpy#L1412
 translate chinese dawnv3sex_eae8e2f0:
 
     # "Dawn swings around on the sofa and seductively bends at the hips to reveal her ass. My member stands to attention almost immediately at the erotic sight."
-    "Dawn swings around on the sofa and seductively bends at the hips to reveal her ass. My member stands to attention almost immediately at the erotic sight."
+    "Dawn绕着沙发，魅惑地撅起臀部来展现臀部。看到这番迷醉的美景，我的小伙伴立即稍息立正了。"
 
 # game/dawn.rpy#L1413
 translate chinese dawnv3sex_59e56280:
 
     # dawn "All we had was our tails for decency… Like so..."
-    dawn "All we had was our tails for decency… Like so..."
+    dawn "小马会用尾巴来表示礼仪……就像这样……"
 
 # game/dawn.rpy#L1414
 translate chinese dawnv3sex_5238c977:
 
     # "Swish, swish… Her tail flicks back and forth, making little attempt to hide her wet labia."
-    "Swish, swish… Her tail flicks back and forth, making little attempt to hide her wet labia."
+    "噗，噗……她的尾巴来回摇晃，没有一点要遮蔽湿润阴唇的意思。"
 
 # game/dawn.rpy#L1415
 translate chinese dawnv3sex_ee64ebff:
 
     # dawn "All the stallions would notice, and get excited. A little like how you’re getting excited now."
-    dawn "All the stallions would notice, and get excited. A little like how you’re getting excited now."
+    dawn "所有的雄驹都会注意到，然后变得兴奋。有点像你现在变得兴奋这样。"
 
 # game/dawn.rpy#L1416
 translate chinese dawnv3sex_1b4e0bbc:
 
     # dawn "And during heat, it’d be so easy to just give in to those primal, biological urges for sex…"
-    dawn "And during heat, it’d be so easy to just give in to those primal, biological urges for sex…"
+    dawn "躯体发烫，向原始，生物本能的性冲动屈服太容易了。"
 
 # game/dawn.rpy#L1417
 translate chinese dawnv3sex_4a2b8352:
 
     # dawn "To just… close your eyes, lay your tail aside and… Mmhehe…"
-    dawn "To just… close your eyes, lay your tail aside and… Mmhehe…"
+    dawn "仅仅是……闭上眼，尾巴摆到一边，然后……Mmhehe……"
 
 # game/dawn.rpy#L1419
 translate chinese dawnv3sex_85ca7153:
 
     # dawn "I wanna feel that thick cock sliding inside of me…"
-    dawn "I wanna feel that thick cock sliding inside of me…"
+    dawn "我想感受到这个大鸡巴滑进我的身体……"
 
 # game/dawn.rpy#L1420
 translate chinese dawnv3sex_effb0382:
 
     # mc "… You’re such a tease."
-    mc "… You’re such a tease."
+    mc "……你太会挑逗了。"
 
 # game/dawn.rpy#L1422
 translate chinese dawnv3sex_9095d89c:
 
     # dawn "I know, my little duckling… At this point, I can’t contain myself…"
-    dawn "I know, my little duckling… At this point, I can’t contain myself…"
+    dawn "是呀，我的小鸭子……现在，我可忍不住了……"
 
 # game/dawn.rpy#L1424
 translate chinese dawnv3sex_367a454b:
 
     # "She suddenly crawls over me and drops her weight onto my thighs, her ass and tits jiggling alluringly."
-    "She suddenly crawls over me and drops her weight onto my thighs, her ass and tits jiggling alluringly."
+    "她突然爬到我的身上，压在我的大腿上。那微颤的臀部与乳房真是太诱人了。"
 
 # game/dawn.rpy#L1429
 translate chinese dawnv3sex_98351e5e:
 
     # "Backing her hips slightly, my throbbing cock is slotted between her ass cheeks."
-    "Backing her hips slightly, my throbbing cock is slotted between her ass cheeks."
+    "稍稍抬起她的臀部，我把雄起的阴茎夹到那两瓣屁股之间。"
 
 # game/dawn.rpy#L1430
 translate chinese dawnv3sex_40104e9c:
@@ -4869,307 +4869,307 @@ translate chinese dawnv3sex_40104e9c:
 translate chinese dawnv3sex_28f96b31:
 
     # "Her dripping wet labia dragging back and forth against my stiff member repeatedly, all whilst she looks deeply into my eyes."
-    "Her dripping wet labia dragging back and forth against my stiff member repeatedly, all whilst she looks deeply into my eyes."
+    "她那湿润的阴唇在我的小弟弟上来回摩擦，一双美眸直勾勾地盯着我。"
 
 # game/dawn.rpy#L1433
 translate chinese dawnv3sex_6dc02f74:
 
     # "She starts to press her slightly parted pussy lips against the tip of my cock, moaning more and more as she becomes increasingly aroused."
-    "She starts to press her slightly parted pussy lips against the tip of my cock, moaning more and more as she becomes increasingly aroused."
+    "她用稍稍敞开的阴唇摩擦我的龟头，在获得性快感的同时呻吟。"
 
 # game/dawn.rpy#L1434
 translate chinese dawnv3sex_cb1c9f6f:
 
     # dawn "This is it, kitten. Welcome to a new universe of pleasure…"
-    dawn "This is it, kitten. Welcome to a new universe of pleasure…"
+    dawn "就是这样，小猫咪。欢迎来到全新的欢愉世界……"
 
 # game/dawn.rpy#L1437
 translate chinese dawnv3sex_94ccf41d:
 
     # "She pushes down, spreading her vulva around my shaft as she sinks further and further down. Biting her glossy lips as she reaches the hilt, a slight shiver encompassing her body."
-    "She pushes down, spreading her vulva around my shaft as she sinks further and further down. Biting her glossy lips as she reaches the hilt, a slight shiver encompassing her body."
+    "她向我的阳具敞开门户，渐渐的深入，交融。紧抿着亮丽的美唇，她的身躯轻轻地颤抖着。"
 
 # game/dawn.rpy#L1438
 translate chinese dawnv3sex_36c06e4f:
 
     # dawn "Aahhh...."
-    dawn "Aahhh...."
+    dawn "啊……"
 
 # game/dawn.rpy#L1439
 translate chinese dawnv3sex_3589b3c9:
 
     # "It’s tight, warm, and wet. Even motionless, her pussy squeezes and sucks around my member, eliciting pleasure from each and every nerve ending."
-    "It’s tight, warm, and wet. Even motionless, her pussy squeezes and sucks around my member, eliciting pleasure from each and every nerve ending."
+    "紧致，温暖，湿润。即使一动不动，她的阴道也不停地榨着我的阴茎，将快感传到每一根神经。"
 
 # game/dawn.rpy#L1440
 translate chinese dawnv3sex_995c438f:
 
     # "Through constant flirting and playing hard to get, the pure satisfaction of finally penetrating the alluring Dawn significantly adds to the pleasure. I’ll definitely have to hold myself back so I don’t cum prematurely like I did earlier with Aurora."
-    "Through constant flirting and playing hard to get, the pure satisfaction of finally penetrating the alluring Dawn significantly adds to the pleasure. I’ll definitely have to hold myself back so I don’t cum prematurely like I did earlier with Aurora."
+    "因为之前常常发生的调情与装作高冷，透到诱人的Dawn的满足感让我极乐无比。我得克制住，不然就会像之前和Aurora做时那样早泄了。"
 
 # game/dawn.rpy#L1441
 translate chinese dawnv3sex_cac971d0:
 
     # "Cooing slightly, she adjusts to my girth, arching her back and rubbing her clit in the meantime; her nipples fully erect."
-    "Cooing slightly, she adjusts to my girth, arching her back and rubbing her clit in the meantime; her nipples fully erect."
+    "轻声娇喘着，她迎向我的腰部，挺起屁股并摩擦着阴蒂。她的乳头也硬硬地挺了起来。"
 
 # game/dawn.rpy#L1443
 translate chinese dawnv3sex_93050d80:
 
     # dawn "Mmmm… What a perfect fit, truly like a key in lock."
-    dawn "Mmmm… What a perfect fit, truly like a key in lock."
+    dawn "Mmmm……完美的结合，仿佛一对钥匙和锁。"
 
 # game/dawn.rpy#L1445
 translate chinese dawnv3sex_fe51f881:
 
     # "She closes her eyes tightly for a moment as she begins to grind her hips up and down."
-    "She closes her eyes tightly for a moment as she begins to grind her hips up and down."
+    "她紧紧地合上美目，开始上下摩擦她的臀部。"
 
 # game/dawn.rpy#L1446
 translate chinese dawnv3sex_0535c397:
 
     # "Dawn is taking this quite slowly, perhaps she’s not as experienced as one would assume. If she’s had sex with a stallion before, size shouldn’t be a problem for her, perhaps she’s only had sex with humans."
-    "Dawn is taking this quite slowly, perhaps she’s not as experienced as one would assume. If she’s had sex with a stallion before, size shouldn’t be a problem for her, perhaps she’s only had sex with humans."
+    "Dawn慢慢地享受这一切，或许她不像看上去那样有经验。如果她之前和雄驹做过爱，尺寸应该不成问题。或许她之和人类做过？"
 
 # game/dawn.rpy#L1448
 translate chinese dawnv3sex_d16f03b0:
 
     # dawn "Ahh, oohhh, don’t you dare cum until I’ve had my own, mmhehe…"
-    dawn "Ahh, oohhh, don’t you dare cum until I’ve had my own, mmhehe…"
+    dawn "啊~哦~在我爽翻之前你可不准射，哼哼~"
 
 # game/dawn.rpy#L1449
 translate chinese dawnv3sex_ef1b4afd:
 
     # mc "That’s quite the challenge after your slew of seduction."
-    mc "That’s quite the challenge after your slew of seduction."
+    mc "面对Arcadia最诱人的雌驹，我可按耐不住。"
 
 # game/dawn.rpy#L1450
 translate chinese dawnv3sex_3ac3ad5e:
 
     # dawn "Hehe, I’ll keep my fingers on my clit in that case."
-    dawn "Hehe, I’ll keep my fingers on my clit in that case."
+    dawn "呵呵，这样的话，我会把手指放在阴蒂上准备好。"
 
 # game/dawn.rpy#L1452
 translate chinese dawnv3sex_b5eed335:
 
     # "She accelerates to an average and pleasurable pace, her ample yellow ass practically hypnotising me as I drink in every detail."
-    "She accelerates to an average and pleasurable pace, her ample yellow ass practically hypnotising me as I drink in every detail."
+    "她加大了力度，不紧不慢，享受地骑着我。 我忍不住沉醉在那丰满的黄屁股的每一寸细节里。"
 
 # game/dawn.rpy#L1453
 translate chinese dawnv3sex_65b8e060:
 
     # "The tightness of her pussy, the lips that grip against my shaft, and her cute butthole that I’d totally want to put a thumb in if this was doggystyle."
-    "The tightness of her pussy, the lips that grip against my shaft, and her cute butthole that I’d totally want to put a thumb in if this was doggystyle."
+    "那紧致的阴道，包裹住阳具的阴唇，还有那可爱的肛门，如果现在是我骑着她，真想把大拇指都塞进去。"
 
 # game/dawn.rpy#L1455
 translate chinese dawnv3sex_5d592fc5:
 
     # "My lover’s pussy constantly squeezes and clenches around me, similar to how Ruby performs in bed, squeezing and milking in rhythmic motions as if she’s truly trying to make me blow my load."
-    "My lover’s pussy constantly squeezes and clenches around me, similar to how Ruby performs in bed, squeezing and milking in rhythmic motions as if she’s truly trying to make me blow my load."
+    "我爱人的阴道不断地缩放，挤压着我，和Ruby的床戏类似，有节奏地榨取着我，仿佛是一心一意要让我射爆似的。"
 
 # game/dawn.rpy#L1457
 translate chinese dawnv3sex_c65940ec:
 
     # "My lover’s pussy constantly squeezes and clenches around me, squeezing and milking in rhythmic motions as if she’s truly trying to make me blow my load."
-    "My lover’s pussy constantly squeezes and clenches around me, squeezing and milking in rhythmic motions as if she’s truly trying to make me blow my load."
+    "我爱人的阴道不断地缩放，挤压着我，有节奏地榨取着我，仿佛是一心一意要让我射爆似的。"
 
 # game/dawn.rpy#L1458
 translate chinese dawnv3sex_d6293f7d:
 
     # "Dawn giggles almost knowingly of this fact, letting her orgasm first may be quite the challenge indeed. You can trust Dawn to make sex a flirtatious back and forth game."
-    "Dawn giggles almost knowingly of this fact, letting her orgasm first may be quite the challenge indeed. You can trust Dawn to make sex a flirtatious back and forth game."
+    "Dawn因此咯咯地笑了，让她先高潮真是太困难了。我有信心Dawn能搞好一场来回调情的床戏。"
 
 # game/dawn.rpy#L1459
 translate chinese dawnv3sex_420f30d5:
 
     # "Gritting my teeth slightly, I start to grind my own hips back and forth against her, bouncing her up and down, causing her ass and tits to bounce."
-    "Gritting my teeth slightly, I start to grind my own hips back and forth against her, bouncing her up and down, causing her ass and tits to bounce."
+    "轻轻咬住牙关，我对着她前后抽插，使她上下起伏，臀部和乳房不停地抖动起来。"
 
 # game/dawn.rpy#L1460
 translate chinese dawnv3sex_6d314de8:
 
     # "Taking initiative like this allows me to pace myself, while still pleasuring her deeply."
-    "Taking initiative like this allows me to pace myself, while still pleasuring her deeply."
+    "拥有主动权让我能按自己的步伐来，同时也能让她感觉无上的欢悦。"
 
 # game/dawn.rpy#L1462
 translate chinese dawnv3sex_c685cb93:
 
     # dawn "Oohhh, such an impatient man! Mmmhehe, oohhh, keep doing it like that, nice and deep! Ahh, yeahh!"
-    dawn "Oohhh, such an impatient man! Mmmhehe, oohhh, keep doing it like that, nice and deep! Ahh, yeahh!"
+    dawn "哦，你可真急躁！Mmm~呵呵~哦~请继续用力，深入的爱我吧！啊~yeahh！"
 
 # game/dawn.rpy#L1463
 translate chinese dawnv3sex_be96ee74:
 
     # "Perfect, she reacts with pure euphoria to each of my deep thrusts, while she constantly rubs her clit."
-    "Perfect, she reacts with pure euphoria to each of my deep thrusts, while she constantly rubs her clit."
+    "简直完美，她因我的深入抽插感到了极乐，同时她不住地摩擦着自己的阴蒂。"
 
 # game/dawn.rpy#L1464
 translate chinese dawnv3sex_43511493:
 
     # "Bending my knees and tensing my thighs, I overwhelm any attempt she has to grind against me. Turning her into a willing participant of the act as I pound her pussy from below."
-    "Bending my knees and tensing my thighs, I overwhelm any attempt she has to grind against me. Turning her into a willing participant of the act as I pound her pussy from below."
+    "我弯下膝盖，绷紧大腿，克服了她想要上我的尝试。掌握着主动权，我用力地操着她的阴道。"
 
 # game/dawn.rpy#L1466
 translate chinese dawnv3sex_86f43605:
 
     # dawn "Ahh, ahh, ohh, ahhh! Y-You’re g-gonna-! Ahhhh!"
-    dawn "Ahh, ahh, ohh, ahhh! Y-You’re g-gonna-! Ahhhh!"
+    dawn "啊，啊，哦，啊！你~你要~！啊啊啊！"
 
 # game/dawn.rpy#L1467
 translate chinese dawnv3sex_0df293f3:
 
     # "She squeaks and shivers, her back arches and my cock pushes against her g-spot. She can barely contain herself; her mind slowly eroding due to the pleasure."
-    "She squeaks and shivers, her back arches and my cock pushes against her g-spot. She can barely contain herself; her mind slowly eroding due to the pleasure."
+    "她呻吟并颤抖着，屁股高耸，同时我的阴茎直插她的g点。她快控制不住自己了；她因性快感已经飘飘欲仙了。"
 
 # game/dawn.rpy#L1468
 translate chinese dawnv3sex_746b8e60:
 
     # "Any attempt at speech failing as moans escape her mouth and her body is consumed in pleasure."
-    "Any attempt at speech failing as moans escape her mouth and her body is consumed in pleasure."
+    "任何脱口的言语都化作了娇喘，快感充斥了她全身上下。"
 
 # game/dawn.rpy#L1469
 translate chinese dawnv3sex_5ac6d796:
 
     # dawn "Ahhh, ahhh, y-yes! Ahhh, c-com-ahhh, ahhhhh!"
-    dawn "Ahhh, ahhh, y-yes! Ahhh, c-com-ahhh, ahhhhh!"
+    dawn "啊，啊，好~棒！啊，来~吧~啊，啊啊啊！"
 
 # game/dawn.rpy#L1470
 translate chinese dawnv3sex_422fff1a:
 
     # "Internal contractions around my cock signal her climax, allowing me to lower my guard to my own orgasm."
-    "Internal contractions around my cock signal her climax, allowing me to lower my guard to my own orgasm."
+    "对我鸡巴的摩梭标志了她的高潮，让我得以专注于自己的性快感。"
 
 # game/dawn.rpy#L1471
 translate chinese dawnv3sex_ed51f68a:
 
     # "My cock reacts almost immediately as it thickens and throbs, my muscles growing tense with the building force of my orgasm as it surges through my body."
-    "My cock reacts almost immediately as it thickens and throbs, my muscles growing tense with the building force of my orgasm as it surges through my body."
+    "我的阳具几乎立刻起了反应，变粗且抽动起来，肌肉紧绷，难以抑制的性快感在我体内涌动。"
 
 # game/dawn.rpy#L1476
 translate chinese dawnv3sex_249ec72b:
 
     # "Dawn almost gives way as she feels the first torrent of cum unload inside of her, the warm thick cum filling her womb and vagina."
-    "Dawn almost gives way as she feels the first torrent of cum unload inside of her, the warm thick cum filling her womb and vagina."
+    "当Dawn感到第一股精液在她体内奔涌而出时，几乎就要退缩了。温暖粘稠的乳白色液体填满了她的子宫与阴道。"
 
 # game/dawn.rpy#L1481
 translate chinese dawnv3sex_7faf771b:
 
     # "My lover pants, her tongue hanging lewdly from her mouth as I pump my final few loads of cum into her womb."
-    "My lover pants, her tongue hanging lewdly from her mouth as I pump my final few loads of cum into her womb."
+    "我的爱人喘息着，舌头淫荡地挂在嘴边，与此同时我将余下的精液都射入了她的子宫。"
 
 # game/dawn.rpy#L1484
 translate chinese dawnv3sex_3e979fa5:
 
     # "At this point, she falls back onto me, no longer reverse cowgirl anymore. The rutting however, does not let up until our orgasms finally fade."
-    "At this point, she falls back onto me, no longer reverse cowgirl anymore. The rutting however, does not let up until our orgasms finally fade."
+    "此时此刻，她倒向了我，不再是反转牛仔式了。但是性爱直到高潮完全退去才结束。"
 
 # game/dawn.rpy#L1486
 translate chinese dawnv3sex_7ad3f5b8:
 
     # "For a while she continues to lay on top of me, recovering in post-orgasmic glow. I take advantage by cuddling her, and soon she turns around and reciprocates."
-    "For a while she continues to lay on top of me, recovering in post-orgasmic glow. I take advantage by cuddling her, and soon she turns around and reciprocates."
+    "开始她躺在我的上半身上，从性高潮中恢复。我趁机抱紧了她。很快她转过了身，继续'运动'."
 
 # game/dawn.rpy#L1491
 translate chinese dawnv3sex_cd4a820f:
 
     # "I don’t remember when, but at some point, we must have fallen asleep."
-    "I don’t remember when, but at some point, we must have fallen asleep."
+    "不知何时，我们都陷入了梦乡。"
 
 # game/dawn.rpy#L1493
 translate chinese dawnv3sex_be8deea2:
 
     # "When I woke up, it was completely night time."
-    "When I woke up, it was completely night time."
+    "当我醒来时，已经是半夜了。"
 
 # game/dawn.rpy#L1494
 translate chinese dawnv3sex_594a302c:
 
     # "I probably woke up because it’s cold, one of the windows has been open this entire time. Dawn’s still happily snoozing though, her fur coat keeping her warm."
-    "I probably woke up because it’s cold, one of the windows has been open this entire time. Dawn’s still happily snoozing though, her fur coat keeping her warm."
+    "或许是被冻醒的，一扇未关窗户让冷风都进来了。Dawn仍然香甜地打着盹儿，马驹的皮毛保持着温暖。"
 
 # game/dawn.rpy#L1495
 translate chinese dawnv3sex_2bd7622b:
 
     # "Deciding to move from the sofa to the bedroom, I lift her up and carry her there. She’s shockingly light, not to be rude, but I don’t struggle at all."
-    "Deciding to move from the sofa to the bedroom, I lift her up and carry her there. She’s shockingly light, not to be rude, but I don’t struggle at all."
+    "我给她来了个公主抱，从沙发移到了卧室。她是惊人的轻盈，几乎没费我任何力气。"
 
 # game/dawn.rpy#L1496
 translate chinese dawnv3sex_c090b230:
 
     # "I don’t even think she stirs from her sleep as I tuck us both into her unfortunately small single bed."
-    "I don’t even think she stirs from her sleep as I tuck us both into her unfortunately small single bed."
+    "两人挤在Dawn的小床上，不过Dawn睡得很死，连翻身都没有。"
 
 # game/dawn.rpy#L1499
 translate chinese dawnv3sex_ce617998:
 
     # "…"
-    "…"
+    "……"
 
 # game/dawn.rpy#L1505
 translate chinese dawnv3sex_cba88e32:
 
     # dawn "Mmm… If you’re gonna make this a regular occurrence, I’ll need a bigger bed…"
-    dawn "Mmm… If you’re gonna make this a regular occurrence, I’ll need a bigger bed…"
+    dawn "Mmm……如果我们要经常这么玩的话，一张大床不可或缺……"
 
 # game/dawn.rpy#L1506
 translate chinese dawnv3sex_1f0cab23:
 
     # mc "Ah... What time is it?"
-    mc "Ah... What time is it?"
+    mc "啊……现在几点了？"
 
 # game/dawn.rpy#L1508
 translate chinese dawnv3sex_c900130b:
 
     # dawn "Uhhmm… 7:30am, and as much as I’d love to spend the rest of the day here by your side, I really need a shower."
-    dawn "Uhhmm… 7:30am, and as much as I’d love to spend the rest of the day here by your side, I really need a shower."
+    dawn "Uhhmm……早晨七点半。虽然我很乐意陪伴你一整天，但我得先洗个澡。"
 
 # game/dawn.rpy#L1509
 translate chinese dawnv3sex_155889fd:
 
     # mc "No worries... *Yawn* I wonder what I’ll do today."
-    mc "No worries... *Yawn* I wonder what I’ll do today."
+    mc "没关系……*哈欠*让我想想今天该做什么。"
 
 # game/dawn.rpy#L1511
 translate chinese dawnv3sex_0b329d28:
 
     # dawn "Ahh, you should have said that earlier, I could have made an innuendo about ‘doing’ me… She’s purring just at the thought of it."
-    dawn "Ahh, you should have said that earlier, I could have made an innuendo about ‘doing’ me… She’s purring just at the thought of it."
+    dawn "啊，早该讲讲了，我本来可以对‘做’这个词来一点暗示……仅仅是提到，她便呜呜的反对。"
 
 # game/dawn.rpy#L1512
 translate chinese dawnv3sex_08398cb5:
 
     # mc "I’m a little too sleepy for that."
-    mc "I’m a little too sleepy for that."
+    mc "不行，我现在太困了。"
 
 # game/dawn.rpy#L1514
 translate chinese dawnv3sex_764c36fb:
 
     # dawn "And here I thought you were an unstoppable force of sex… What exactly are you planning to do in this new world anyway? You’re certainly in a peculiar position, kitten."
-    dawn "And here I thought you were an unstoppable force of sex… What exactly are you planning to do in this new world anyway? You’re certainly in a peculiar position, kitten."
+    dawn "我还以为你的性欲是永无止境的……你打算在这个新世界做些什么呢？毋庸置疑，你是特别的，小猫咪。"
 
 # game/dawn.rpy#L1515
 translate chinese dawnv3sex_ad2d7787:
 
     # dawn "I can’t imagine you’ll be spending your entire life wooing bachelorettes, well… I can..."
-    dawn "I can’t imagine you’ll be spending your entire life wooing bachelorettes, well… I can..."
+    dawn "我不认为你会把一生的时光都用在性爱上。好吧，其实很有可能……"
 
 # game/dawn.rpy#L1516
 translate chinese dawnv3sex_11784a3c:
 
     # mc "Hmm…"
-    mc "Hmm…"
+    mc "Hmm……"
 
 # game/dawn.rpy#L1518
 translate chinese dawnv3sex_851564e9:
 
     # dawn "Maybe you should hook up with one of the royal sisters so you’d be set for life, or perhaps you’re more of a harem ending guy, pfft, such a greedy man…"
-    dawn "Maybe you should hook up with one of the royal sisters so you’d be set for life, or perhaps you’re more of a harem ending guy, pfft, such a greedy man…"
+    dawn "或许你能勾搭上一位皇家女王，一生衣食无忧；又或许你会开后宫，噗，贪婪的男人。"
 
 # game/dawn.rpy#L1519
 translate chinese dawnv3sex_a6aa445a:
 
     # mc "Heyy, I didn’t say anything. I’m just trying to get a career, so I’m trying out a lot of jobs and meeting a lot of people to see what fits me the best."
-    mc "Heyy, I didn’t say anything. I’m just trying to get a career, so I’m trying out a lot of jobs and meeting a lot of people to see what fits me the best."
+    mc "嘿，我可啥也没说。我只是想寻找一份适合的职业，所以我正在会面许多马，尝试一些工作，来寻找最适合我的。"
 
 # game/dawn.rpy#L1521
 translate chinese dawnv3sex_575afb17:

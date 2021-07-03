@@ -1,4 +1,4 @@
-# Translation updated at Fri Jul 02 2021 00:48:54 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Sat Jul 03 2021 00:48:43 GMT+0000 (Coordinated Universal Time)
 # game/finalroute.rpy#L6
 translate chinese finalroute_240762c1:
 
@@ -363,79 +363,79 @@ translate chinese finalroute_b1fd48fe:
 translate chinese finalroute_d9937da3:
 
     # "Sprinting with urgency, Penelope pushes the wagon door open and stumbles in panting and dripping wet from the rain."
-    "Sprinting with urgency, Penelope pushes the wagon door open and stumbles in panting and dripping wet from the rain."
+    "Penelope急急忙忙地冲刺着，她推开篷车门，并气喘吁吁跌跌撞撞地摔在了地上，雨水淋湿了她。"
 
 # game/finalroute.rpy#L208
 translate chinese finalroute_080afa16:
 
     # penelope "Your majesty! I came as soon as I saw the rain! Has It happened? Have we done it?!"
-    penelope "Your majesty! I came as soon as I saw the rain! Has It happened? Have we done it?!"
+    penelope "陛下！我一看到雨就来了！它发生了吗？我们做到了吗？！"
 
 # game/finalroute.rpy#L210
 translate chinese finalroute_430d71ce:
 
     # morrigan "Calm down Penelope, thanks to the success of [playername], we have all the time in the world to take over the city."
-    morrigan "Calm down Penelope, thanks to the success of [playername], we have all the time in the world to take over the city."
+    morrigan "冷静点，Penelope，感谢[playername]的成功，我们有全部的时间来接管这座城市。"
 
 # game/finalroute.rpy#L212
 translate chinese finalroute_7ee28deb:
 
     # penelope "Oh my goodness, I told you that using Mox- uhh… How much does [playername] know?"
-    penelope "Oh my goodness, I told you that using Mox- uhh… How much does [playername] know?"
+    penelope "哦，天哪，我告诉过你使用Mox-呃…[playername]知道多少？"
 
 # game/finalroute.rpy#L213
 translate chinese finalroute_55894e3f:
 
     # mc "What’s going on? Penelope? Mox- Morrigan? You two are both in on this?"
-    mc "What’s going on? Penelope? Mox- Morrigan? You two are both in on this?"
+    mc "发生什么事了？Penelope？Mox-Morrigan？你们两个都参与了？"
 
 # game/finalroute.rpy#L215
 translate chinese finalroute_0e764b90:
 
     # morrigan "[playername], meet Penelope my loyal spymaster, and current second in command of the Morrigan empire."
-    morrigan "[playername], meet Penelope my loyal spymaster, and current second in command of the Morrigan empire."
+    morrigan "[playername]，见见Penelope，我忠诚的间谍头目，Morrigan国的现任二把手。"
 
 # game/finalroute.rpy#L218
 translate chinese finalroute_ccdb85ee:
 
     # penelope "Pleasure to finally meet you, [playername]."
-    penelope "Pleasure to finally meet you, [playername]."
+    penelope "我很高兴终于能见到你了，[playername]。"
 
 # game/finalroute.rpy#L219
 translate chinese finalroute_65f46714:
 
     # penelope "Phew, feels good to finally break that disguise."
-    penelope "Phew, feels good to finally break that disguise."
+    penelope "呼，把伪装破坏掉的感觉真好。"
 
 # game/finalroute.rpy#L221
 translate chinese finalroute_84660f35:
 
     # morrigan "Even with my pride, I’ll admit that the majority of the success in this plan can be attributed to both you and her."
-    morrigan "Even with my pride, I’ll admit that the majority of the success in this plan can be attributed to both you and her."
+    morrigan "尽管我很自豪，但我承认这个计划的大部分成功都归功于你和她。"
 
 # game/finalroute.rpy#L223
 translate chinese finalroute_27a7e220:
 
     # penelope "Anything for you, your majesty."
-    penelope "Anything for you, your majesty."
+    penelope "我愿意为您做任何事，陛下。"
 
 # game/finalroute.rpy#L236
 translate chinese finalroute_c5f232d6:
 
     # morrigan "So, [playername]. I still have use for someone such as yourself."
-    morrigan "So, [playername]. I still have use for someone such as yourself."
+    morrigan "所以，[playername]。像你这样的人对我来说还是有用处的。"
 
 # game/finalroute.rpy#L240
 translate chinese finalroute_2a778599:
 
     # morrigan "I am offering you a position as the third in my command, do you accept?"
-    morrigan "I am offering you a position as the third in my command, do you accept?"
+    morrigan "如果我给你一个职位，做我的第三个指挥官，你接受吗？"
 
 # game/finalroute.rpy#L244
 translate chinese finalroute_51c1e613:
 
     # morrigan "Wonderful, with everything settled, I believe we have a meeting with the Royal Sisters."
-    morrigan "Wonderful, with everything settled, I believe we have a meeting with the Royal Sisters."
+    morrigan "太好了，一切都解决了，我相信我们会和皇家姐妹见面的。"
 
 # game/finalroute.rpy#L248
 translate chinese finalroute_fc9fa0ca:
@@ -447,73 +447,73 @@ translate chinese finalroute_fc9fa0ca:
 translate chinese finalroute_f7f04e22:
 
     # mc "I sure hope so…"
-    mc "I sure hope so…"
+    mc "我希望如此...."
 
 # game/finalroute.rpy#L261
 translate chinese finalroute_0cd84f49:
 
     # penelope "Refuse? How dare you, that’s our Queen you’re talking to!"
-    penelope "Refuse? How dare you, that’s our Queen you’re talking to!"
+    penelope "拒绝？你怎么敢这样，你可是在跟我们的女王说话！"
 
 # game/finalroute.rpy#L262
 translate chinese finalroute_a98b39fc:
 
     # mc "I don’t know who you are Morrigan, but you’re definitely not the Moxie I know…"
-    mc "I don’t know who you are Morrigan, but you’re definitely not the Moxie I know…"
+    mc "我不知道你究竟是谁Morrigan，但你绝对不是我认识的那个Moxie…"
 
 # game/finalroute.rpy#L263
 translate chinese finalroute_724b5aab:
 
     # mc "There’s no way I’ll be part of this enslavement and entrapment of society!"
-    mc "There’s no way I’ll be part of this enslavement and entrapment of society!"
+    mc "我可不想参与这场社会奴化和社会权控啥的！"
 
 # game/finalroute.rpy#L282
 translate chinese finalroute_5df67007:
 
     # morrigan "*Giggles* And what are you going to do about it, human?"
-    morrigan "*Giggles* And what are you going to do about it, human?"
+    morrigan "*笑*那你又能怎样呢，人类？"
 
 # game/finalroute.rpy#L283
 translate chinese finalroute_e43cdfcc:
 
     # morrigan "You truly are powerless, why don’t you behave yourself and listen to the woman that brought you into this world?"
-    morrigan "You truly are powerless, why don’t you behave yourself and listen to the woman that brought you into this world?"
+    morrigan "你弱小无助，为何不识相点，听从于带你来这世界的神女呢。"
 
 # game/finalroute.rpy#L284
 translate chinese finalroute_99067dcd:
 
     # mc "No… I couldn’t… Knowing I’ve done this to all my friends, all the people that have trusted me…"
-    mc "No… I couldn’t… Knowing I’ve done this to all my friends, all the people that have trusted me…"
+    mc "不...我不能这么做...特别是在知道我对朋友们做出了这糟事后，那些信任我的朋友们..."
 
 # game/finalroute.rpy#L285
 translate chinese finalroute_26774822:
 
     # mc "And you two, I trusted you! You were my first friends, and you both lied to me!"
-    mc "And you two, I trusted you! You were my first friends, and you both lied to me!"
+    mc "而你俩，我信任你们！你们是我最初的朋友，却都骗了我！"
 
 # game/finalroute.rpy#L287
 translate chinese finalroute_4e8747b8:
 
     # morrigan "*Giggle* Friends? If you join me, you’ll have a harem of every mare you could possibly want, including your so called ‘friends’."
-    morrigan "*Giggle* Friends? If you join me, you’ll have a harem of every mare you could possibly want, including your so called ‘friends’."
+    morrigan "*笑*朋友？如果你加入我，你会享有整个你所渴望的雌驹的后宫团，包括你所谓的朋友们。"
 
 # game/finalroute.rpy#L288
 translate chinese finalroute_81dff142:
 
     # morrigan "They’ll even act just as before; you’ll get to live your absolute dream."
-    morrigan "They’ll even act just as before; you’ll get to live your absolute dream."
+    morrigan "他们会贴服得一如既往；而你将会活如仙梦。"
 
 # game/finalroute.rpy#L290
 translate chinese finalroute_24b1a96e:
 
     # morrigan "All you have to do is join me!"
-    morrigan "All you have to do is join me!"
+    morrigan "加入我们，就唾手可得了！"
 
 # game/finalroute.rpy#L297
 translate chinese finalroute_51c1e613_1:
 
     # morrigan "Wonderful, with everything settled, I believe we have a meeting with the Royal Sisters."
-    morrigan "Wonderful, with everything settled, I believe we have a meeting with the Royal Sisters."
+    morrigan "完美啊，现在万事就绪，我们是时候见见两姐妹了。"
 
 # game/finalroute.rpy#L299
 translate chinese finalroute_fc9fa0ca_1:
@@ -525,13 +525,13 @@ translate chinese finalroute_fc9fa0ca_1:
 translate chinese finalroute_f7f04e22_1:
 
     # mc "I sure hope so…"
-    mc "I sure hope so…"
+    mc "但愿如此吧..."
 
 # game/finalroute.rpy#L304
 translate chinese finalroute_1e64f1ab:
 
     # mc "Enough of this, I’m leaving!"
-    mc "Enough of this, I’m leaving!"
+    mc "够了，我走了！"
 
 # game/finalroute.rpy#L307
 translate chinese finalroute_ff40f88a:

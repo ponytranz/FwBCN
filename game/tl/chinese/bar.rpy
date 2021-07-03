@@ -1,4 +1,4 @@
-# Translation updated at Fri Jul 02 2021 00:48:53 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Sat Jul 03 2021 00:48:43 GMT+0000 (Coordinated Universal Time)
 # game/bar.rpy#L13
 translate chinese barvisit1_d43fa519:
 
@@ -1095,13 +1095,13 @@ translate chinese barvisit1choice1_b84b1d9a:
 translate chinese barvisit1choice1_f39a588f:
 
     # riku "Long story short, yeah I will get horny hanging around a male all day. But I can control myself, don’t worry your furry feet, [playername]."
-    riku "长话短说，是啊，我和一个男的呆一整天就会很饥渴。不过我能控制自己，不用担心你的长毛脚，[playername]。"
+    riku "长话短说，是啊，我和一个男的呆一整天就会很饥渴。不过我能控制自己，不用担心你的第三条腿，[playername]。"
 
 # game/bar.rpy#L308
 translate chinese barvisit1choice1_5337248a:
 
     # riku "Oh right, that saying doesn’t work for you and your furless feet."
-    riku "哦，对了，这句话对你和你的无毛脚不起作用。"
+    riku "哦，对了，这句话对你和你的另外两条腿脚可不起作用。"
 
 # game/bar.rpy#L310
 translate chinese barvisit1choice1_98dfb008:
@@ -1239,13 +1239,13 @@ translate chinese barvisit1choice1_30368f9c:
 translate chinese barvisit1choice1_118f35cd:
 
     # "Lost in thought and here comes my first customer, a cute mare! Heck yeah, although 85 percent of the population in Arcadia are cute mares."
-    "迷迷糊糊中，我的第一个顾客来了，是一匹可爱的母马！我想这是我的第一个顾客。哎呀，不过Arcadia85%的人口都是可爱的母马。"
+    "迷迷糊糊中，我的第一个顾客来了，是一匹可爱的母马！我想这是我的第一个顾客。哎呀，不过Arcadia85%% 的人口都是可爱的母马。"
 
 # game/bar.rpy#L350
 translate chinese barvisit1choice1_d378e197:
 
     # "The next one seems a little older, almost MILF-y. I’ve noticed that the fur causes ponies to age immensely well, wrinkles are far less noticeable."
-    "下一个看起来有点老，几乎是那种半老徐娘类型的。我注意到，皮毛让衰老的小马看起来相当好看，皱纹远没有那么明显。"
+    "下一个看起来有点老，几乎是那种熟女类型的。我注意到，皮毛让衰老的小马看起来相当好看，皱纹远没有那么明显。"
 
 # game/bar.rpy#L351
 translate chinese barvisit1choice1_34eaa5ab:
@@ -1839,7 +1839,7 @@ translate chinese cbrikutod_ff0590d6:
 translate chinese cbrikutod_3f50b747:
 
     # riku "Alright, my turn, I pick dare to start with."
-    riku "好了，到我的回合了，毕竟是我选大冒险的。"
+    riku "好了，到我的回合了，第一轮我选大冒险。"
 
 # game/bar.rpy#L515
 translate chinese cbrikutod_85bb6583:
@@ -2055,7 +2055,7 @@ translate chinese cbrikutod_f0e15f6a:
 translate chinese cbrikutod_f7c53b6e:
 
     # "I imagine the truths and dares are going to get pretty brutal from here on."
-    "我想，从这里开始，真心话大冒险会变得非常残酷。"
+    "我想，从此刻开始，真心话大冒险会变得非常残酷。"
 
 # game/bar.rpy#L582
 translate chinese cbrikutod_2bb6289d:
@@ -2301,7 +2301,7 @@ translate chinese cbrikutod_c39f94e1:
 translate chinese cbrikutod_70896319:
 
     # riku "Alright, hit me with one of those spicy truths."
-    riku "好啊，来整点劲爆的活。"
+    riku "好啊，那就扯点劲爆的真心话。"
 
 # game/bar.rpy#L647
 translate chinese cbrikutod_2d3f6f8b:
@@ -2595,7 +2595,7 @@ translate chinese cbrikutod_d128f170:
 translate chinese cbrikutod_6b9bdacb:
 
     # mc "I am so getting you back for this one."
-    mc "我真想让你回来"
+    mc "我也会为此报复你的。"
 
 # game/bar.rpy#L719
 translate chinese cbrikutod_ecee95d2:
@@ -2697,7 +2697,7 @@ translate chinese cbrikutod_27fe57f5:
 translate chinese cbrikutod_71ba790c:
 
     # riku "I guess this is my just desserts for that previous round."
-    riku "我想这是先前的回合之后，我应得的报偿。"
+    riku "我想这是先前的回合之后，我该得的报应。"
 
 # game/bar.rpy#L742
 translate chinese cbrikutod_86595b14:
@@ -2781,7 +2781,7 @@ translate chinese cbrikutod_7b57da42:
 translate chinese cbrikutod_71ba790c_1:
 
     # riku "I guess this is my just desserts for that previous round."
-    riku "我想这只是上一轮大冒险的开胃小菜。"
+    riku "我想这是先前的回合之后，我该得的报应。"
 
 # game/bar.rpy#L762
 translate chinese cbrikutod_43569ea0:
@@ -3177,1195 +3177,1195 @@ translate chinese cbrikutod_44bf80ae:
 translate chinese cbrikutod_38134d6f:
 
     # riku "Ooooooooohhhhhhh…"
-    riku "Ooooooooohhhhhhh…"
+    riku "哦哦哦哦哦哦哦哦哦……"
 
 # game/bar.rpy#L851
 translate chinese cbrikutod_c7800296:
 
     # "She’s surprised and wide eyed, but notably not embarrassed. She remains composed and takes a sip of her soda."
-    "She’s surprised and wide eyed, but notably not embarrassed. She remains composed and takes a sip of her soda."
+    "她十分惊讶，瞪大了眼睛，但是显然没有感觉到尴尬。她依旧很镇定，喝了口她的苏打水。"
 
 # game/bar.rpy#L852
 translate chinese cbrikutod_9fa9a51c:
 
     # mc "I don’t even need to say it, do I?"
-    mc "I don’t even need to say it, do I?"
+    mc "我觉着我已经不用说那是啥了，对吧？"
 
 # game/bar.rpy#L853
 translate chinese cbrikutod_42ae60a6:
 
     # "She looks down in between my legs and nods"
-    "She looks down in between my legs and nods"
+    "她低头看向我的两腿之间，点了点头。"
 
 # game/bar.rpy#L855
 translate chinese cbrikutod_e7840797:
 
     # riku "That thing? Erect? Sure, easy peasy."
-    riku "That thing? Erect? Sure, easy peasy."
+    riku "那玩意？勃起？当然，简单的要死。"
 
 # game/bar.rpy#L856
 translate chinese cbrikutod_c1488bc8:
 
     # riku "I could probably get it erect just by staring at it."
-    riku "I could probably get it erect just by staring at it."
+    riku "我光是盯着它，都可能让它性奋呢。"
 
 # game/bar.rpy#L857
 translate chinese cbrikutod_71bec9b7:
 
     # mc "You probably cou- ooh…"
-    mc "You probably cou- ooh…"
+    mc "你或许能——哦……"
 
 # game/bar.rpy#L863
 translate chinese cbrikutod_56bdd6a7:
 
     # "She cuts me off by laying down on the couch and positioning her head just above my thighs. She uses one of her hands to redirect my currently half-limp shaft towards her mouth and hence tongue where she begins to lick."
-    "She cuts me off by laying down on the couch and positioning her head just above my thighs. She uses one of her hands to redirect my currently half-limp shaft towards her mouth and hence tongue where she begins to lick."
+    "她伏在沙发上，将她的头紧靠着我的股间，打断了我的发言。她用一只手将我半软的肉棒引向她的口中，然后就身处舌头开始舔。"
 
 # game/bar.rpy#L864
 translate chinese cbrikutod_83718e82:
 
     # "Her tongue wriggles up, down and around the tip of my cock. Her pleasureful assault on the most sensitive area causes me to get fully erect in almost seven seconds."
-    "Her tongue wriggles up, down and around the tip of my cock. Her pleasureful assault on the most sensitive area causes me to get fully erect in almost seven seconds."
+    "她的舌头在我的肉棒尖端上、下和周围蠕动着。她对最敏感区域充满愉悦的攻击使我在约七秒钟内完全勃起。"
 
 # game/bar.rpy#L866
 translate chinese cbrikutod_15f4d010:
 
     # "She closes her eyes and licks all around the growing shaft."
-    "She closes her eyes and licks all around the growing shaft."
+    "她闭上眼睛，开始在肿胀的肉棒上下舔弄。"
 
 # game/bar.rpy#L867
 translate chinese cbrikutod_6e8103be:
 
     # "She doesn’t move her head back as it grows, causing it to grow into her mouth in an erotic display."
-    "She doesn’t move her head back as it grows, causing it to grow into her mouth in an erotic display."
+    "在肉棒变得粗大的时候，她并没有向后移动自己的头，令其以一种色情的方式深入到她的口中。"
 
 # game/bar.rpy#L868
 translate chinese cbrikutod_733d20b3:
 
     # "Her lips wrap around my shaft, and she slowly pulls herself back, leaving the area that was in her mouth glisteningly wet."
-    "Her lips wrap around my shaft, and she slowly pulls herself back, leaving the area that was in her mouth glisteningly wet."
+    "她的嘴唇包裹着我的阴茎，慢慢地后退，进入她嘴里的地方湿乎乎地反着光。"
 
 # game/bar.rpy#L875
 translate chinese cbrikutod_bb3dca69:
 
     # "She lays there for a few seconds admiring her work, watching as my erection throbs."
-    "She lays there for a few seconds admiring her work, watching as my erection throbs."
+    "随后她在那里躺了几秒钟，欣赏着她的成就，看着我不停抽搐的肉棒。"
 
 # game/bar.rpy#L876
 translate chinese cbrikutod_554007d6:
 
     # "I can see her tail swishing in the corner of my eye. I’ve noticed mares do that when they’re really horny. Their tails swish off to the side, as they subconsciously flash their ass and present themselves."
-    "I can see her tail swishing in the corner of my eye. I’ve noticed mares do that when they’re really horny. Their tails swish off to the side, as they subconsciously flash their ass and present themselves."
+    "我的余光能看到她的尾巴在摇摆。我已经注意到，母马在真的很性奋的时候就会这样。它们的尾巴嗖嗖地甩到一边，下意识地亮着屁股，展示自己。"
 
 # game/bar.rpy#L877
 translate chinese cbrikutod_972d29df:
 
     # riku "Could you imagine me sitting on your lap now? Hehe, you shouldn’t, you shouldn’t…"
-    riku "Could you imagine me sitting on your lap now? Hehe, you shouldn’t, you shouldn’t…"
+    riku "你能想象我坐在你膝盖上的感觉吗？呵呵，最好别，最好别……"
 
 # game/bar.rpy#L878
 translate chinese cbrikutod_a274d4f4:
 
     # "She sits back up, and then sinks down lazily into the sofa with a smug expression, and then takes another sip of her soda."
-    "She sits back up, and then sinks down lazily into the sofa with a smug expression, and then takes another sip of her soda."
+    "她坐了起来，然后懒洋洋地没入沙发中，露出得意的表情，然后又喝了一口苏打水。"
 
 # game/bar.rpy#L879
 translate chinese cbrikutod_ef5d72fe:
 
     # "I follow it up with another sip too. As I put my glass down, she leans forward and lays against me shoulder to shoulder."
-    "I follow it up with another sip too. As I put my glass down, she leans forward and lays against me shoulder to shoulder."
+    "我也跟着再喝了一口。当我放下杯子时，她向前倾着，肩并肩地贴着我。"
 
 # game/bar.rpy#L880
 translate chinese cbrikutod_98ef3ceb:
 
     # "She’s officially in the horny mare stage, her eyes are slightly glossed over and she’s trying to touch me every chance she gets."
-    "She’s officially in the horny mare stage, her eyes are slightly glossed over and she’s trying to touch me every chance she gets."
+    "现在她彻底进入了欲火焚身的阶段，眼睛微微发亮，一有机会就想摸我。"
 
 # game/bar.rpy#L881
 translate chinese cbrikutod_11a76411:
 
     # riku "Uuhmm, truth or dare?"
-    riku "Uuhmm, truth or dare?"
+    riku "嗯嗯，真心话还是大冒险？"
 
 # game/bar.rpy#L882
 translate chinese cbrikutod_7b771115:
 
     # mc "Got another dare for me?"
-    mc "Got another dare for me?"
+    mc "想到另一个大冒险了吗？"
 
 # game/bar.rpy#L884
 translate chinese cbrikutod_806d51d4:
 
     # riku "Yesh *Nod, nod*, I want you to…"
-    riku "Yesh *Nod, nod*, I want you to…"
+    riku "是啊 *点头* ，我要你……"
 
 # game/bar.rpy#L885
 translate chinese cbrikutod_dc6e4ef0:
 
     # "She looks at my shaft, it’s starting to soften, albeit slightly."
-    "She looks at my shaft, it’s starting to soften, albeit slightly."
+    "她看着我的肉棒，已经开始软下来了，虽说只是有一点点。"
 
 # game/bar.rpy#L887
 translate chinese cbrikutod_f1ee91df:
 
     # riku "Hahaha, it looks so sad sagging over."
-    riku "Hahaha, it looks so sad sagging over."
+    riku "哈哈，看起来它很伤心，垂了下来呢。"
 
 # game/bar.rpy#L891
 translate chinese cbrikutod_98f7fee1:
 
     # riku "It’s kinda cute when it’s sad, I like watching it move around and throb."
-    riku "It’s kinda cute when it’s sad, I like watching it move around and throb."
+    riku "它伤心的时候是很可爱的，不过我想看着它动起来，跳起来。"
 
 # game/bar.rpy#L893
 translate chinese cbrikutod_f82ba8c2:
 
     # riku "Maybe I can cheer it up indirectly, hehe."
-    riku "Maybe I can cheer it up indirectly, hehe."
+    riku "呵呵，或许我能间接地让它高兴起来呢。"
 
 # game/bar.rpy#L896
 translate chinese cbrikutod_3494946a:
 
     # riku "Hehe, it’s sad because it knows it won’t have a chance."
-    riku "Hehe, it’s sad because it knows it won’t have a chance."
+    riku "呵呵，它伤心的原因是它知道自己不会有机会了。"
 
 # game/bar.rpy#L898
 translate chinese cbrikutod_2c9f6eed:
 
     # riku "If I’m going to make you lose this game of truth or dare, I can’t give you a dare you’re gonna enjoy, stupid penis!"
-    riku "If I’m going to make you lose this game of truth or dare, I can’t give you a dare you’re gonna enjoy, stupid penis!"
+    riku "如果我让你输了这真心话大冒险的游戏，我就不能给你一个喜欢的大冒险了，蠢肉棒！"
 
 # game/bar.rpy#L900
 translate chinese cbrikutod_86b19108:
 
     # riku "I dare you to... Uhm, be my pillow for this and the next dare!"
-    riku "I dare you to... Uhm, be my pillow for this and the next dare!"
+    riku "我要叫你……嗯，在这次和下次大冒险期间当我的“枕头”！"
 
 # game/bar.rpy#L901
 translate chinese cbrikutod_0ec941ca:
 
     # mc "What are you implying Riku? You can sit on my lap if you want."
-    mc "What are you implying Riku? You can sit on my lap if you want."
+    mc "Riku，你在说什么？你愿意的话可以坐我腿上。"
 
 # game/bar.rpy#L902
 translate chinese cbrikutod_5d945975:
 
     # riku "Nooo, no!"
-    riku "Nooo, no!"
+    riku "不，不！"
 
 # game/bar.rpy#L904
 translate chinese cbrikutod_1522220f:
 
     # riku "I’m gonna sit on your face dummie, I wanna watch to see if your thingy gets bigger or not."
-    riku "I’m gonna sit on your face dummie, I wanna watch to see if your thingy gets bigger or not."
+    riku "蠢货，我要坐到你的脸上，我想看看你那玩意能不能变得更大。"
 
 # game/bar.rpy#L906
 translate chinese cbrikutod_9cc6ab5b:
 
     # "She takes a sip of her soda before pushing me down, I haven’t even accepted the dare yet, she isn’t even giving me a chance to fail and she’s already halfway through straddling me."
-    "She takes a sip of her soda before pushing me down, I haven’t even accepted the dare yet, she isn’t even giving me a chance to fail and she’s already halfway through straddling me."
+    "她喝了一口苏打水，然后就把我按倒，我甚至还没有接受这个大冒险。她不打算给我失败的机会，已经半骑在我的身上了。"
 
 # game/bar.rpy#L908
 translate chinese cbrikutod_11de8ce7:
 
     # "Before I know it, the small red mare’s pussy is pushed right in my face, without a care in the world."
-    "Before I know it, the small red mare’s pussy is pushed right in my face, without a care in the world."
+    "在我弄清楚之前，这娇小红色母马的小穴就毫无顾忌地正对着我的脸。"
 
 # game/bar.rpy#L909
 translate chinese cbrikutod_3cf88ab7:
 
     # "She’s absolutely drunk."
-    "She’s absolutely drunk."
+    "她绝对喝醉了。"
 
 # game/bar.rpy#L910
 translate chinese cbrikutod_cd72b678:
 
     # "Her hips kinda swag back and forth playfully in a half-hearted grind on my face."
-    "Her hips kinda swag back and forth playfully in a half-hearted grind on my face."
+    "她的臀部玩弄般地前后挪动，心不在焉地在我的脸上研磨。"
 
 # game/bar.rpy#L911
 translate chinese cbrikutod_885abfb4:
 
     # riku "Oh my gosh, your penis is getting harder again! It’s so cool how it does that."
-    riku "Oh my gosh, your penis is getting harder again! It’s so cool how it does that."
+    riku "哦，我天，你的大屌又挺起来了！太酷了，怎么做到的？"
 
 # game/bar.rpy#L912
 translate chinese cbrikutod_62ad546c:
 
     # riku "I think it’d be cool to have one of those for a day, just a day! Hahah."
-    riku "I think it’d be cool to have one of those for a day, just a day! Hahah."
+    riku "如果把那个东西给我一天，就一天，那都酷毙了！哈哈哈。"
 
 # game/bar.rpy#L913
 translate chinese cbrikutod_eb7a47f3:
 
     # riku "Oi, why aren’t you licking?"
-    riku "Oi, why aren’t you licking?"
+    riku "喂，你怎么不舔啊？"
 
 # game/bar.rpy#L914
 translate chinese cbrikutod_af789100:
 
     # mc "You never asked me to lick!"
-    mc "You never asked me to lick!"
+    mc "你可没说让我舔啊！"
 
 # game/bar.rpy#L915
 translate chinese cbrikutod_68e9cfcb:
 
     # "My reply is muffled from between her thighs."
-    "My reply is muffled from between her thighs."
+    "我的回答从她两条大腿的缝里模糊地传了出来。"
 
 # game/bar.rpy#L916
 translate chinese cbrikutod_d22a6372:
 
     # riku "Oh what, how did I mess that up? I meant to... Oh man, I really screwed that up."
-    riku "Oh what, how did I mess that up? I meant to... Oh man, I really screwed that up."
+    riku "哦，什么，我怎么搞的？我本来是想……哦，伙计，我真的搞砸了。"
 
 # game/bar.rpy#L917
 translate chinese cbrikutod_724bfaea:
 
     # riku "Stupid heat, it’s so hot…"
-    riku "Stupid heat, it’s so hot…"
+    riku "该死的发情，这可真是火辣啊……"
 
 # game/bar.rpy#L918
 translate chinese cbrikutod_c7c117a3:
 
     # "Looks like her heat was worse than she initially expected, hanging around a guy all day, and playing dumb games has gotten her really riled up."
-    "Looks like her heat was worse than she initially expected, hanging around a guy all day, and playing dumb games has gotten her really riled up."
+    "看来她的发情比预想的还要糟糕，她整天都和一个小伙晃悠，又在玩那些愚蠢的游戏，真是把她的开关给打开了啊。"
 
 # game/bar.rpy#L919
 translate chinese cbrikutod_952f1b01:
 
     # "Her pussy is wet with a sheen of her lubricant; she is more than ready to fuck, and her arousal is only going to increase from here on."
-    "Her pussy is wet with a sheen of her lubricant; she is more than ready to fuck, and her arousal is only going to increase from here on."
+    "她的小穴潮湿不堪，闪着爱液的光泽，她早就准备好做爱了，性致更是只增不减。"
 
 # game/bar.rpy#L920
 translate chinese cbrikutod_1ad34235:
 
     # riku "Waaait a minute, how did this happen?"
-    riku "Waaait a minute, how did this happen?"
+    riku "等——一下，这究竟是怎么回事啊？"
 
 # game/bar.rpy#L921
 translate chinese cbrikutod_94ab2414:
 
     # riku "How did I end up sitting on your face while you have an erection, this is so lewd!"
-    riku "How did I end up sitting on your face while you have an erection, this is so lewd!"
+    riku "我怎么会在你勃起的时候往你脸上坐，这太淫荡了！"
 
 # game/bar.rpy#L922
 translate chinese cbrikutod_b9154510:
 
     # mc "This was your dare!"
-    mc "This was your dare!"
+    mc "大冒险，还是你选的！"
 
 # game/bar.rpy#L923
 translate chinese cbrikutod_7027633a:
 
     # riku "Ohh, right…"
-    riku "Ohh, right…"
+    riku "哦，对了……"
 
 # game/bar.rpy#L924
 translate chinese cbrikutod_f8fa365f:
 
     # riku "I’m not a slut you know, I’m not usually this forward, it’s just… it’s just, you’re really nice…"
-    riku "I’m not a slut you know, I’m not usually this forward, it’s just… it’s just, you’re really nice…"
+    riku "你得记住我可不是荡妇，我通常不会这么主动的，这次只是……只是，你太香了……"
 
 # game/bar.rpy#L925
 translate chinese cbrikutod_c82d9c95:
 
     # mc "It’s just a game, right? You don’t want to lose."
-    mc "It’s just a game, right? You don’t want to lose."
+    mc "只是个游戏嘛，对不对？可不要说你想输。"
 
 # game/bar.rpy#L926
 translate chinese cbrikutod_4759e632:
 
     # riku "Haha, but I also really want that cock inside me right now."
-    riku "Haha, but I also really want that cock inside me right now."
+    riku "哈哈，但现在我好想让那根鸡巴插进我的肉体。"
 
 # game/bar.rpy#L927
 translate chinese cbrikutod_db305510:
 
     # riku "No Riku, no, these are the tactics of the enemy."
-    riku "No Riku, no, these are the tactics of the enemy."
+    riku "不行Riku，撑住，这些都是敌人的战术。"
 
 # game/bar.rpy#L928
 translate chinese cbrikutod_662d7fc5:
 
     # riku "Gotta focus! I’m not a slut."
-    riku "Gotta focus! I’m not a slut."
+    riku "集中精力！我绝不是荡妇。"
 
 # game/bar.rpy#L929
 translate chinese cbrikutod_ed054c4e:
 
     # "While she’s having her internal struggle with logic and heat, her hips are gyrating back and forth, thankfully not mushing against my face, but it’s a fun sight from down here."
-    "While she’s having her internal struggle with logic and heat, her hips are gyrating back and forth, thankfully not mushing against my face, but it’s a fun sight from down here."
+    "当她在那里天人交战的时候，她的臀部扭来扭去，幸好没贴我脸上，不过从这个角度看，还挺滑稽的。"
 
 # game/bar.rpy#L930
 translate chinese cbrikutod_d21f212f:
 
     # "I decide to break the silence in the best way."
-    "I decide to break the silence in the best way."
+    "我决定用一个妙办法打破沉默。"
 
 # game/bar.rpy#L931
 translate chinese cbrikutod_8faf5b8c:
 
     # mc "Truth or dare, Riku?"
-    mc "Truth or dare, Riku?"
+    mc "Riku，真心话还是大冒险？"
 
 # game/bar.rpy#L932
 translate chinese cbrikutod_e98bd61b:
 
     # riku "Dare, duh! You gotta stay down there for this one."
-    riku "Dare, duh! You gotta stay down there for this one."
+    riku "大冒险，哼！必须得让你呆在下面好好看看这个。"
 
 # game/bar.rpy#L933
 translate chinese cbrikutod_236cab03:
 
     # riku "Unless you dare me to move… Or something… That’d be lame though."
-    riku "Unless you dare me to move… Or something… That’d be lame though."
+    riku "除非你选让我移开……或者别的乱七八糟的……那你就太逊啦。"
 
 # game/bar.rpy#L934
 translate chinese cbrikutod_7c7ba1eb:
 
     # "What should I dare her now? It’s hard to think straight when she’s sitting on my face."
-    "What should I dare her now? It’s hard to think straight when she’s sitting on my face."
+    "我大冒险应该让她干什么？她坐我脸上连思考都好费劲。"
 
 # game/bar.rpy#L935
 translate chinese cbrikutod_1d2432dc:
 
     # "Am I just trying to have sex with her, or am I trying to get her to be my slave? Surely there’s a dare or two that can give me the best of both worlds."
-    "Am I just trying to have sex with her, or am I trying to get her to be my slave? Surely there’s a dare or two that can give me the best of both worlds."
+    "我是要上她吗，还是要让她成为我的奴隶？当然绝对有一两个大冒险能做到两全其美。"
 
 # game/bar.rpy#L936
 translate chinese cbrikutod_976a7de7:
 
     # riku "It’s throbbing, are you having lewd thoughts?"
-    riku "It’s throbbing, are you having lewd thoughts?"
+    riku "它又动了，你是不是在想啥色色的东西？"
 
 # game/bar.rpy#L937
 translate chinese cbrikutod_d78fd541:
 
     # mc "I’m thinking of all the dares I could give you."
-    mc "I’m thinking of all the dares I could give you."
+    mc "我在想能出给你的大冒险呢。"
 
 # game/bar.rpy#L938
 translate chinese cbrikutod_94e9c4ab:
 
     # mc "How am I supposed to escalate from here, if feels like if I asked you for sex, you’d do it."
-    mc "How am I supposed to escalate from here, if feels like if I asked you for sex, you’d do it."
+    mc "我要怎样才能加大难度呢，我感觉如果说要上你，你会二话不说地同意了。"
 
 # game/bar.rpy#L939
 translate chinese cbrikutod_2159d42c:
 
     # riku "Pfft, no!"
-    riku "Pfft, no!"
+    riku "切，没门儿！"
 
 # game/bar.rpy#L940
 translate chinese cbrikutod_ee404944:
 
     # riku "Okay, actually I would, but only for the game."
-    riku "Okay, actually I would, but only for the game."
+    riku "好吧，确实会，但那是为了游戏。"
 
 # game/bar.rpy#L941
 translate chinese cbrikutod_f3e299cf:
 
     # mc "Exactly, so I need to make you feel weird."
-    mc "Exactly, so I need to make you feel weird."
+    mc "正是如此，所以我得让你难堪。"
 
 # game/bar.rpy#L942
 translate chinese cbrikutod_e0a76962:
 
     # riku "I’d like to see you try!"
-    riku "I’d like to see you try!"
+    riku "我倒想看你试试！"
 
 # game/bar.rpy#L943
 translate chinese cbrikutod_a59374f1:
 
     # mc "Alright. I dare you to call me daddy, and roleplay that your heat is so bad you’re trying to seduce your dad."
-    mc "Alright. I dare you to call me daddy, and roleplay that your heat is so bad you’re trying to seduce your dad."
+    mc "行。我要你喊我爸爸，然后角色扮演成因为发情上头所以只能勾引自己亲爹。"
 
 # game/bar.rpy#L944
 translate chinese cbrikutod_4c3b3c1a:
 
     # riku "Aw for fucks sake, that’s weird."
-    riku "Aw for fucks sake, that’s weird."
+    riku "我去你妈的，这也太怪了。"
 
 # game/bar.rpy#L946
 translate chinese cbrikutod_d8e12c49:
 
     # "She gets up off my face and sits back down on the sofa pouting, I sit back up also."
-    "She gets up off my face and sits back down on the sofa pouting, I sit back up also."
+    "她撅着嘴从我脸上起身并坐回了沙发上，我也重新坐好。"
 
 # game/bar.rpy#L947
 translate chinese cbrikutod_40617d7b:
 
     # riku "Hmm… Daddy, right?"
-    riku "Hmm… Daddy, right?"
+    riku "嗯…爸爸，是吧？"
 
 # game/bar.rpy#L948
 translate chinese cbrikutod_473f6d41:
 
     # mc "Yup."
-    mc "Yup."
+    mc "对。"
 
 # game/bar.rpy#L949
 translate chinese cbrikutod_f1f69e1f:
 
     # "She takes a final sip of her soda; it’s all gone now. I’m only halfway through mine."
-    "She takes a final sip of her soda; it’s all gone now. I’m only halfway through mine."
+    "她最后喝了一口她的汽水；这次全喝完了。而我的才喝了半杯。"
 
 # game/bar.rpy#L951
 translate chinese cbrikutod_ddfbdeaa:
 
     # riku "I’m gonna make you one hell of a slave when I get my chance, ‘daddy’."
-    riku "I’m gonna make you one hell of a slave when I get my chance, ‘daddy’."
+    riku "我要是有机会得让你好好见识一下做我的奴隶是什么下场，‘爸爸’。"
 
 # game/bar.rpy#L952
 translate chinese cbrikutod_862ae57d:
 
     # mc "Don’t forget the roleplay!"
-    mc "Don’t forget the roleplay!"
+    mc "可别忘了角色扮演哦！"
 
 # game/bar.rpy#L954
 translate chinese cbrikutod_e6ea48a7:
 
     # riku "Eugh, you’re making me choke up."
-    riku "Eugh, you’re making me choke up."
+    riku "呃，你弄得我无言以对了。"
 
 # game/bar.rpy#L955
 translate chinese cbrikutod_ccc757b2:
 
     # riku "Eh-hem… Ahhh, ehhh…"
-    riku "Eh-hem… Ahhh, ehhh…"
+    riku "嗯哼…啊，嗯…"
 
 # game/bar.rpy#L957
 translate chinese cbrikutod_94a04948:
 
     # riku "EH-HEM, daddy, I’m so hot and horny. I need daddy’s big cock…"
-    riku "EH-HEM, daddy, I’m so hot and horny. I need daddy’s big cock…"
+    riku "嗯哼，爸爸，我现在欲火焚身啊。我好想要爸爸的大鸡巴啊……"
 
 # game/bar.rpy#L958
 translate chinese cbrikutod_d24ac15d:
 
     # mc "You can always dare me for it."
-    mc "You can always dare me for it."
+    mc "你可以用大冒险逼我这么干。"
 
 # game/bar.rpy#L960
 translate chinese cbrikutod_c32cd5d9:
 
     # riku "No way daddy, I’m going to make you suffer!"
-    riku "No way daddy, I’m going to make you suffer!"
+    riku "没门爸爸，我得让你生不如死！"
 
 # game/bar.rpy#L961
 translate chinese cbrikutod_e5beb0bf:
 
     # riku "You’re going to pick dare, right?"
-    riku "You’re going to pick dare, right?"
+    riku "你肯定会选大冒险，对吗？"
 
 # game/bar.rpy#L962
 translate chinese cbrikutod_13bd4a4b:
 
     # mc "Yeah, a truth would be too boring to pick right now."
-    mc "Yeah, a truth would be too boring to pick right now."
+    mc "对啊，现在选真心话也太无聊了。"
 
 # game/bar.rpy#L964
 translate chinese cbrikutod_fb322a08:
 
     # riku "As usual, I like your style- eh, daddy."
-    riku "As usual, I like your style- eh, daddy."
+    riku "和往常一样，我还挺喜欢你——呃，爸爸您的风格的。"
 
 # game/bar.rpy#L965
 translate chinese cbrikutod_5693964e:
 
     # "Her legs spread slightly; her pussy is nearly running."
-    "Her legs spread slightly; her pussy is nearly running."
+    "她双腿微微张开；她的阴部几乎要流水了。"
 
 # game/bar.rpy#L966
 translate chinese cbrikutod_a76a5234:
 
     # "I think this girl has a daddy fetish, actually, most modern girls do. In retrospect that dare wasn’t as effective as I thought."
-    "I think this girl has a daddy fetish, actually, most modern girls do. In retrospect that dare wasn’t as effective as I thought."
+    "我感觉这个女孩子有恋父的癖好，实际上，大多数现代女孩都有。这么看来刚才那个大冒险没我以为的那么给劲儿。"
 
 # game/bar.rpy#L968
 translate chinese cbrikutod_4b27a9d5:
 
     # riku "Euuuuugghhhhh…"
-    riku "Euuuuugghhhhh…"
+    riku "呃呃呃……"
 
 # game/bar.rpy#L969
 translate chinese cbrikutod_4bfcce60:
 
     # riku "I can’t stand this any longer daddy, I don’t even care about winning right now, I just wanna get fucked."
-    riku "I can’t stand this any longer daddy, I don’t even care about winning right now, I just wanna get fucked."
+    riku "我受不了了，爸爸，我现在已经不在乎输赢了，我只想被干。"
 
 # game/bar.rpy#L970
 translate chinese cbrikutod_c33e526e:
 
     # mc "What’s my dare going to be then?"
-    mc "What’s my dare going to be then?"
+    mc "那我的大冒险是啥呢？"
 
 # game/bar.rpy#L971
 translate chinese cbrikutod_657db4cb:
 
     # riku "I dare yooouuu, to get over here, between my legs and fuck me! --- daddy!"
-    riku "I dare yooouuu, to get over here, between my legs and fuck me! --- daddy!"
+    riku "我要你——，到这儿来，到我两腿之间操我！——爸爸！"
 
 # game/bar.rpy#L972
 translate chinese cbrikutod_165d12ae:
 
     # riku "BUT! You’re not allowed to cum until I’ve had two orgasms. I’ll play fair and tell you when I’ve had them."
-    riku "BUT! You’re not allowed to cum until I’ve had two orgasms. I’ll play fair and tell you when I’ve had them."
+    riku "但是！直到我高潮两次之前你都不许射。我不会耍赖的等我好了之后会告诉你的。"
 
 # game/bar.rpy#L973
 translate chinese cbrikutod_8351fb01:
 
     # riku "Daddy needs to take loving care of his daughter in heat after all."
-    riku "Daddy needs to take loving care of his daughter in heat after all."
+    riku "到头来爸爸还是要满怀爱心地照顾他那发情的女儿。"
 
 # game/bar.rpy#L977
 translate chinese cbrikutod_3ae638c3:
 
     # "She lays forward on the sofa, presenting her ass. Her eyes glossed over and expectant."
-    "She lays forward on the sofa, presenting her ass. Her eyes glossed over and expectant."
+    "她向前躺在沙发上，露出自己的臀部。她的眼睛闪烁着期待的光芒。"
 
 # game/bar.rpy#L978
 translate chinese cbrikutod_0df7d6a9:
 
     # "I’m still partially erect, horny as fuck too. I waste no time crawling behind her and positioning my shaft against her entrance."
-    "I’m still partially erect, horny as fuck too. I waste no time crawling behind her and positioning my shaft against her entrance."
+    "我的勃起状态还没平复，同样淫荡得不行。我二话不说爬到她身后把我的阴茎对准她的小洞。"
 
 # game/bar.rpy#L979
 translate chinese cbrikutod_2aaf8c1e:
 
     # riku "Mmm, fucking finally, haven’t had a good dicking all heat."
-    riku "Mmm, fucking finally, haven’t had a good dicking all heat."
+    riku "嗯，终于能做爱了，我一整个发情期都没尝过一根好屌。"
 
 # game/bar.rpy#L980
 translate chinese cbrikutod_865098f9:
 
     # mc "One more slip up like that, and you’ll fail your dare!"
-    mc "One more slip up like that, and you’ll fail your dare!"
+    mc "要是再说错话，你的大冒险可就输了！"
 
 # game/bar.rpy#L981
 translate chinese cbrikutod_b24ded87:
 
     # riku "I mean… Oh gosh, daddy, your cock is so big, I want it inside me!"
-    riku "I mean… Oh gosh, daddy, your cock is so big, I want it inside me!"
+    riku "我是说……天哪，爸爸，你的鸡巴好大哦，快塞进来！"
 
 # game/bar.rpy#L982
 translate chinese cbrikutod_419b9022:
 
     # "Her actual personality contrasts pretty heavily with her cheesy daddy roleplay, both lines are hot though."
-    "Her actual personality contrasts pretty heavily with her cheesy daddy roleplay, both lines are hot though."
+    "她的真实性格与她扮演的俗套恋父性格简直是天壤之别，不过两句词都挺性感的。"
 
 # game/bar.rpy#L985
 translate chinese cbrikutod_40ee8862:
 
     # "I push myself inside of her and immediately start moving my hips back and forth."
-    "I push myself inside of her and immediately start moving my hips back and forth."
+    "我立刻把鸡巴塞进她身体并且开始前后移动我的腰部。"
 
 # game/bar.rpy#L987
 translate chinese cbrikutod_b925250c:
 
     # riku "Aahhh, ahhh, don’t you dare cum!"
-    riku "Aahhh, ahhh, don’t you dare cum!"
+    riku "啊，啊，你要是敢给我射了！"
 
 # game/bar.rpy#L989
 translate chinese cbrikutod_fc0e14e8:
 
     # "She’s right, I need to restrain myself slightly, I slow down a little and fuck her gently."
-    "She’s right, I need to restrain myself slightly, I slow down a little and fuck her gently."
+    "她说的对，我得稍微克制点自己，我稍稍降低速度温柔地操她。"
 
 # game/bar.rpy#L990
 translate chinese cbrikutod_452366dd:
 
     # "The long hard thrusts drive her wild, despite her small tits, her rump is thick and juicy."
-    "The long hard thrusts drive her wild, despite her small tits, her rump is thick and juicy."
+    "那深入而有力冲击让她欲仙欲死，尽管她的胸小，但她的臀部依然肥硕多汁"
 
 # game/bar.rpy#L992
 translate chinese cbrikutod_688e7deb:
 
     # riku "Mmm daddy- Aahhh, that’s good…"
-    riku "Mmm daddy- Aahhh, that’s good…"
+    riku "嗯爸爸~啊，好爽啊……"
 
 # game/bar.rpy#L993
 translate chinese cbrikutod_2a10faa4:
 
     # "She’s so soaking wet, every time I sink deep inside of her it’s accompanied by a saccharine squelching sound."
-    "She’s so soaking wet, every time I sink deep inside of her it’s accompanied by a saccharine squelching sound."
+    "她已经湿透了，每次我深深地进入她都伴随着甜蜜的挤压声"
 
 # game/bar.rpy#L996
 translate chinese cbrikutod_e28c6ada:
 
     # riku "I’m such a horny bitch for you, Daddy!"
-    riku "I’m such a horny bitch for you, Daddy!"
+    riku "我是你的小骚货，爸爸！"
 
 # game/bar.rpy#L997
 translate chinese cbrikutod_326c1908:
 
     # riku "Ahh, I’ve been wet and wanting to spread my legs for you ever since we left the gym, I really am such a nasty slut."
-    riku "Ahh, I’ve been wet and wanting to spread my legs for you ever since we left the gym, I really am such a nasty slut."
+    riku "啊，从我们刚离开体育馆时起我就已经湿得迫不及待的想要向你张开我的双腿，我可真是个肮脏的母狗啊。"
 
 # game/bar.rpy#L998
 translate chinese cbrikutod_ed73094d:
 
     # "I can’t tell what’s roleplay and not anymore, she’s probably just rambling through the pleasure."
-    "I can’t tell what’s roleplay and not anymore, she’s probably just rambling through the pleasure."
+    "我已经分不清这是不是角色扮演的一部分了，她八成已经爽得胡言乱语了。"
 
 # game/bar.rpy#L999
 translate chinese cbrikutod_fb8090d8:
 
     # riku "Spank me daddy, spank your little slut."
-    riku "Spank me daddy, spank your little slut."
+    riku "抽我吧爸爸，抽你的小母狗。"
 
 # game/bar.rpy#L1000
 translate chinese cbrikutod_8cd41d76:
 
     # "She guides my dominant hand and brings it to her ass, I know exactly what to do."
-    "She guides my dominant hand and brings it to her ass, I know exactly what to do."
+    "她抓起我的手放到自己屁股上，我立马知道要做什么。"
 
 # game/bar.rpy#L1003
 translate chinese cbrikutod_c205fb37:
 
     # riku "I like it hard daddy, aahhh…"
-    riku "I like it hard daddy, aahhh…"
+    riku "我喜欢你用力点爸爸，啊……"
 
 # game/bar.rpy#L1004
 translate chinese cbrikutod_10b2efd9:
 
     # "I raise my dominant hand and bring it down powerfully causing a slap sound, this seems to hit the spot as her eyes roll back and she lets out a satisfied moan."
-    "I raise my dominant hand and bring it down powerfully causing a slap sound, this seems to hit the spot as her eyes roll back and she lets out a satisfied moan."
+    "我扬起我的手然后猛地一巴掌拍出巨响，看来是正中靶心引得她翻起白眼并发出满足的呻吟。"
 
 # game/bar.rpy#L1006
 translate chinese cbrikutod_048fcb05:
 
     # riku "Ohh phuck yesh…"
-    riku "Ohh phuck yesh…"
+    riku "哦干，好爽啊……"
 
 # game/bar.rpy#L1007
 translate chinese cbrikutod_b9cbd43f:
 
     # "I can’t help but fuck a little faster, her hips are rocking in response to each thrust too, and her pussy squeezing even tighter around my cock."
-    "I can’t help but fuck a little faster, her hips are rocking in response to each thrust too, and her pussy squeezing even tighter around my cock."
+    "我不禁加快了速度，她的腰腹也跟着我的每次冲击摇摆起来，并且她的阴部也把我的鸡巴包得更紧了。"
 
 # game/bar.rpy#L1009
 translate chinese cbrikutod_33b1efc1:
 
     # riku "Aaahhh, aahhh, ah, ahhh! Daaahhhdddyy, I’m coming!!!"
-    riku "Aaahhh, aahhh, ah, ahhh! Daaahhhdddyy, I’m coming!!!"
+    riku "啊~~啊~~啊~啊！爸爸，我要去了！！！"
 
 # game/bar.rpy#L1011
 translate chinese cbrikutod_de2d558c:
 
     # "Spanking her out pushed her over the edge, and she starts to have a strong first orgasm, her hips bucking and her whole body squirming as the pleasure overwhelms her."
-    "Spanking her out pushed her over the edge, and she starts to have a strong first orgasm, her hips bucking and her whole body squirming as the pleasure overwhelms her."
+    "对她的抽打让她爽出了天际，就这样她的一次高潮开始了，她的臀部在瑟瑟发抖而她的身体则伴随着完全征服她的欢愉止不住地蠕动。"
 
 # game/bar.rpy#L1013
 translate chinese cbrikutod_cfca6119:
 
     # "I can feel my cock throbbing in response to her pussy contracting around it, I really could come any second if I let my guard down."
-    "I can feel my cock throbbing in response to her pussy contracting around it, I really could come any second if I let my guard down."
+    "我能感受到我的鸡巴正在用悸动回应那包裹住它的小穴，只要我一不留神随时都会射出来。"
 
 # game/bar.rpy#L1015
 translate chinese cbrikutod_45d33f16:
 
     # riku "Faster Daddy, faster! Ahhh, ahh! *Pant, pant*."
-    riku "Faster Daddy, faster! Ahhh, ahh! *Pant, pant*."
+    riku "再快点爸爸，再快点！啊~啊！*喘气*。"
 
 # game/bar.rpy#L1017
 translate chinese cbrikutod_f7605d18:
 
     # "It doesn’t help that she’s rocking her hips into me, practically fucking me just as hard as I’m fucking her, and damn it feels amazing."
-    "It doesn’t help that she’s rocking her hips into me, practically fucking me just as hard as I’m fucking her, and damn it feels amazing."
+    "她不停向我摆动臀部使得情况变得更糟，尤其是她操我和我操她一样用力，而且还真他妈爽啊。"
 
 # game/bar.rpy#L1019
 translate chinese cbrikutod_04a6a15e:
 
     # riku "Mmphh fuck! Spank me harder! *Pant, pant*."
-    riku "Mmphh fuck! Spank me harder! *Pant, pant*."
+    riku "嗯~操！拍得用力点！*喘气*。"
 
 # game/bar.rpy#L1024
 translate chinese cbrikutod_c33a0c57:
 
     # "I spank harder, while her pussy squeezes and sucks tighter around my shaft as if it’s trying to milk my cock. All whilst Riku moans and squeaks with erotic delight."
-    "I spank harder, while her pussy squeezes and sucks tighter around my shaft as if it’s trying to milk my cock. All whilst Riku moans and squeaks with erotic delight."
+    "我抽得更使劲了，而她的小穴也把我的肉棒包得更紧吸得更牢了。同时还伴随着Riku淫荡欢愉的呻吟与尖叫。"
 
 # game/bar.rpy#L1026
 translate chinese cbrikutod_662e6b3d:
 
     # "My orgasm keeps swelling up, I can’t hold back much longer, I’m going to lose…"
-    "My orgasm keeps swelling up, I can’t hold back much longer, I’m going to lose…"
+    "我的兴奋正在高涨，我已经憋不住了，我快不行了……"
 
 # game/bar.rpy#L1028
 translate chinese cbrikutod_4114e5f3:
 
     # "Just when I think all hope is lost, Riku arches her back, her eyes roll back and she lets out a sensational moan, is she having an orgasm?"
-    "Just when I think all hope is lost, Riku arches her back, her eyes roll back and she lets out a sensational moan, is she having an orgasm?"
+    "正当我放弃希望之时， Riku撅起了屁股，翻起了眼白并且发出了一声震耳的呻吟，难道她又高潮了？"
 
 # game/bar.rpy#L1031
 translate chinese cbrikutod_fe7757f4:
 
     # riku "Mmm, coming daddy!"
-    riku "Mmm, coming daddy!"
+    riku "嗯~要来了爸爸！"
 
 # game/bar.rpy#L1034
 translate chinese cbrikutod_a0c90c45:
 
     # "Yes! Immediately I feel myself climaxing as well, my cock throbs and swells as my vision turns cloudy and my mind fogs up."
-    "Yes! Immediately I feel myself climaxing as well, my cock throbs and swells as my vision turns cloudy and my mind fogs up."
+    "没错！此时此刻我感觉自己也已经到达了顶峰，我的鸡巴抽搐着膨胀着的同时我的视线也变得模糊意识也开始恍惚。"
 
 # game/bar.rpy#L1039
 translate chinese cbrikutod_c02c6933:
 
     # "The two of us orgasm together, my cock unloading copious amounts of cum deep inside Riku’s pussy all whilst we fuck each other passionately."
-    "The two of us orgasm together, my cock unloading copious amounts of cum deep inside Riku’s pussy all whilst we fuck each other passionately."
+    "我们俩同时达到了顶点，就在我们兴奋地翻云覆雨时，我的巨根已经倾泻出海量的精液深深灌入Riku的嫩穴。"
 
 # game/bar.rpy#L1044
 translate chinese cbrikutod_bbf29c3d:
 
     # riku "Mmphhh, yeeeesss! Ahh!"
-    riku "Mmphhh, yeeeesss! Ahh!"
+    riku "嗯……爽啊！啊！"
 
 # game/bar.rpy#L1047
 translate chinese cbrikutod_16e4bc96:
 
     # "As I pull out, a trail of cum still connects us, before it collapses down her thigh."
-    "As I pull out, a trail of cum still connects us, before it collapses down her thigh."
+    "当我抽出鸡巴后，一根精液连成的细线依旧连着那一头，不一会儿又滴落到了她的大腿上。"
 
 # game/bar.rpy#L1049
 translate chinese cbrikutod_7215d096:
 
     # riku "Haah, I-I can barely feel my butt, hahaa. *Pant, pant*."
-    riku "Haah, I-I can barely feel my butt, hahaa. *Pant, pant*."
+    riku "啊哈，我…我的屁股都快没感觉了，哈哈。*喘气*。"
 
 # game/bar.rpy#L1054
 translate chinese cbrikutod_080692a7:
 
     # mc "Oh shit, did I overdo the spanking?"
-    mc "Oh shit, did I overdo the spanking?"
+    mc "哦糟糕，我是不是下手太狠了？"
 
 # game/bar.rpy#L1055
 translate chinese cbrikutod_94f347ee:
 
     # "I say as I pull away, although before I can escape she pulls me in close for a cuddle."
-    "I say as I pull away, although before I can escape she pulls me in close for a cuddle."
+    "我说着就想抽身，谁知还没走远就被她拉着靠了上去。"
 
 # game/bar.rpy#L1059
 translate chinese cbrikutod_27b84835:
 
     # riku "Haahh, that was awesome, you came around the same time as me, so I don’t know who won, but… I think we’re both winners tonight."
-    riku "Haahh, that was awesome, you came around the same time as me, so I don’t know who won, but… I think we’re both winners tonight."
+    riku "哈，刚才真是太爽了，你和我差不多同时高潮的，所以我也不知道谁赢了，不过嘛……我想我们俩今晚都是赢家。"
 
 # game/bar.rpy#L1060
 translate chinese cbrikutod_8fd76f16:
 
     # mc "It’s a draw?"
-    mc "It’s a draw?"
+    mc "那是平手咯？"
 
 # game/bar.rpy#L1062
 translate chinese cbrikutod_38f4d416:
 
     # riku "Naahh, nahh... I’m going to forfeit and let you win, you deserve it."
-    riku "Naahh, nahh... I’m going to forfeit and let you win, you deserve it."
+    riku "算了，算了……我打算弃权让你赢，这是你应得的。"
 
 # game/bar.rpy#L1063
 translate chinese cbrikutod_c8586f7d:
 
     # mc "You’re giving up after everything you said? Are you sure?"
-    mc "You’re giving up after everything you said? Are you sure?"
+    mc "你都已经说了那么多东西了还要认输？你确定吗？"
 
 # game/bar.rpy#L1065
 translate chinese cbrikutod_a9fbf590:
 
     # riku "Mhhmm, I don’t wanna play anymore, I need a nap."
-    riku "Mhhmm, I don’t wanna play anymore, I need a nap."
+    riku "嗯嗯，我不想玩了，我想打个盹儿。"
 
 # game/bar.rpy#L1066
 translate chinese cbrikutod_b539409e:
 
     # "I think the combination of alcohol and sex has exhausted the poor girl; she’s practically falling asleep as we’re cuddling."
-    "I think the combination of alcohol and sex has exhausted the poor girl; she’s practically falling asleep as we’re cuddling."
+    "我想酒精与性爱的结合已经令这可怜的小姑娘精疲力尽了；她靠在我身边已经悄然入睡了。"
 
 # game/bar.rpy#L1067
 translate chinese cbrikutod_a4b1c895:
 
     # mc "I need to head home, I’ll see you again another day, okay?"
-    mc "I need to head home, I’ll see you again another day, okay?"
+    mc "我得回家了，我改天再来见你，行吗？"
 
 # game/bar.rpy#L1069
 translate chinese cbrikutod_aa1b2489:
 
     # riku "Mehhh meh, you could stay… but… buh-bye."
-    riku "Mehhh meh, you could stay… but… buh-bye."
+    riku "嗯嗯，你也可以留下来的……但是……拜…拜。"
 
 # game/bar.rpy#L1070
 translate chinese cbrikutod_d071e5e9:
 
     # "I give her a quick kiss on the cheek, leaving her with a blush, and a smile. I clean up and then slip out the back door of the bar, making my way back home."
-    "I give her a quick kiss on the cheek, leaving her with a blush, and a smile. I clean up and then slip out the back door of the bar, making my way back home."
+    "我飞快地在她脸颊上亲了一下，留下满脸红晕满嘴微笑的她。我洗净之后从酒吧的后门溜了出去，往家的方向走去。"
 
 # game/bar.rpy#L1073
 translate chinese cbrikutod_ce617998_1:
 
     # "…"
-    "…"
+    "……"
 
 # game/bar.rpy#L1080
 translate chinese cbrikutod_053ee2f6:
 
     # "It’s a little later than usual at 6:00pm, but I should still be in time for dinner."
-    "It’s a little later than usual at 6:00pm, but I should still be in time for dinner."
+    "下午6:00比平时稍微晚了点，但我应该还来得及吃晚餐。"
 
 # game/bar.rpy#L1081
 translate chinese cbrikutod_84e150d9:
 
     # mc "Good evening Mox."
-    mc "Good evening Mox."
+    mc "晚上好Mox。"
 
 # game/bar.rpy#L1083
 translate chinese cbrikutod_2c9f8a10:
 
     # moxie "Hello, you’re a little late [playername]!"
-    moxie "Hello, you’re a little late [playername]!"
+    moxie "你好啊，你今天有点晚哦[playername]！"
 
 # game/bar.rpy#L1084
 translate chinese cbrikutod_5d608326:
 
     # mc "Yeah, I was working in the bar. It gets a little hectic around this time."
-    mc "Yeah, I was working in the bar. It gets a little hectic around this time."
+    mc "是呀，我在酒吧工作呢。这个时间段比较忙一点。"
 
 # game/bar.rpy#L1086
 translate chinese cbrikutod_e70ee3be:
 
     # moxie "Ooohh, I can imagine. Did Riku keep you for a little longer in exchange for more pay?"
-    moxie "Ooohh, I can imagine. Did Riku keep you for a little longer in exchange for more pay?"
+    moxie "哦~我想象的到。Riku有没有为了让你持久一点多付你钱呀？"
 
 # game/bar.rpy#L1087
 translate chinese cbrikutod_e334e13f:
 
     # mc "Something like that."
-    mc "Something like that."
+    mc "差不多吧。"
 
 # game/bar.rpy#L1089
 translate chinese cbrikutod_cb5ab083:
 
     # "Moxie’s smug all-knowing look is all the confirmation I need to realize she knows exactly what might have happened."
-    "Moxie’s smug all-knowing look is all the confirmation I need to realize she knows exactly what might have happened."
+    "Moxie脸上那看透一切自信面容告诉我，她可能早就对刚刚发生的事了如指掌了。"
 
 # game/bar.rpy#L1090
 translate chinese cbrikutod_79b7cbeb:
 
     # "I’m gonna take the opportunity to ask Moxie a question, another dose of her wisdom never hurt."
-    "I’m gonna take the opportunity to ask Moxie a question, another dose of her wisdom never hurt."
+    "我打算抓住机会再问Moxie一个问题，多了解点她的知识又没啥坏处。"
 
 # game/bar.rpy#L1091
 translate chinese cbrikutod_8cafd057:
 
     # mc "Will any mares get mad at me for sleeping around?"
-    mc "Will any mares get mad at me for sleeping around?"
+    mc "雌驹们会对我沾花惹草的行为感到愤怒吗？"
 
 # game/bar.rpy#L1093
 translate chinese cbrikutod_12090ed1:
 
     # moxie "Hm? Of course. Ponies can get mad at you for anything."
-    moxie "Hm? Of course. Ponies can get mad at you for anything."
+    moxie "嗯？当然会了。小马们会因为各种原因生你的气。"
 
 # game/bar.rpy#L1094
 translate chinese cbrikutod_e77bbd7f:
 
     # mc "I mean more specifically."
-    mc "I mean more specifically."
+    mc "能不能说得具体点。"
 
 # game/bar.rpy#L1096
 translate chinese cbrikutod_34985059:
 
     # moxie "Heh, of course. There are indeed some mares that get a little pissed off at stallions that throw their weight around."
-    moxie "Heh, of course. There are indeed some mares that get a little pissed off at stallions that throw their weight around."
+    moxie "呵，当然了。确实有些雌驹对自我放纵的雄驹看不太惯。"
 
 # game/bar.rpy#L1098
 translate chinese cbrikutod_d80eaaa0:
 
     # moxie "It is easy for a stallion to get sex, or a girlfriend, and that does annoy some mares."
-    moxie "It is easy for a stallion to get sex, or a girlfriend, and that does annoy some mares."
+    moxie "对于一只公马来说，约个炮，交个女友非常简单，这确实令某些雌驹恼火。"
 
 # game/bar.rpy#L1099
 translate chinese cbrikutod_b629d157:
 
     # mc "Yeah, I can empathise with that."
-    mc "Yeah, I can empathise with that."
+    mc "是的，我对此感同身受。"
 
 # game/bar.rpy#L1100
 translate chinese cbrikutod_8f210748:
 
     # moxie "Even though that’s the case, if you’re just respectful and as you say, empathetic about it, you shouldn’t have any problems."
-    moxie "Even though that’s the case, if you’re just respectful and as you say, empathetic about it, you shouldn’t have any problems."
+    moxie "即便如此，只要你足够守规矩并且正如你所说——感同身受，那你就不会惹上麻烦。"
 
 # game/bar.rpy#L1102
 translate chinese cbrikutod_f272fd7c:
 
     # moxie "Also, sometimes the best scenario is simply to seal your lips."
-    moxie "Also, sometimes the best scenario is simply to seal your lips."
+    moxie "还有，有时最好的办法就是做到守口如瓶。"
 
 # game/bar.rpy#L1103
 translate chinese cbrikutod_42506f59:
 
     # mc "Keep it to myself?"
-    mc "Keep it to myself?"
+    mc "向他人隐瞒？"
 
 # game/bar.rpy#L1104
 translate chinese cbrikutod_314bd3c0:
 
     # moxie "Yeah, what people don’t know won’t hurt them. As long as you’re not maliciously withholding something important."
-    moxie "Yeah, what people don’t know won’t hurt them. As long as you’re not maliciously withholding something important."
+    moxie "对，她们如果不知道就啥事都没有了。只要你别恶意隐瞒重要的事就行。"
 
 # game/bar.rpy#L1105
 translate chinese cbrikutod_77d410c9:
 
     # mc "Riku was pissed at an old friend she used to sleep with, because he slept around, but not pissed at all on the implication that I might be doing the same thing."
-    mc "Riku was pissed at an old friend she used to sleep with, because he slept around, but not pissed at all on the implication that I might be doing the same thing."
+    mc "Riku对于一个曾经和她睡过的朋友很生气，就是因为他沾花惹草；而我有可能做过同样的事，她却丝毫不觉得生气。"
 
 # game/bar.rpy#L1107
 translate chinese cbrikutod_2bd5c828:
 
     # moxie "I guess sleeping around wasn’t the thing that pissed her off, it was something else."
-    moxie "I guess sleeping around wasn’t the thing that pissed her off, it was something else."
+    moxie "我想沾花惹草不是她生气的真正原因，而是其他事情。"
 
 # game/bar.rpy#L1108
 translate chinese cbrikutod_f6845b5e:
 
     # moxie "But I guess it's easy for me to say that, since I don't mind our loose relationship. Would you get annoyed if I slept with another?"
-    moxie "But I guess it's easy for me to say that, since I don't mind our loose relationship. Would you get annoyed if I slept with another?"
+    moxie "不过我想我完全可以说，既然我不介意我们之间松散关系。如果我和别人睡了你会生气吗？"
 
 # game/bar.rpy#L1109
 translate chinese cbrikutod_843f42b5:
 
     # mc "I couldn’t justifiably be annoyed, but…"
-    mc "I couldn’t justifiably be annoyed, but…"
+    mc "我肯定没资格生气，但是……"
 
 # game/bar.rpy#L1111
 translate chinese cbrikutod_490e4310:
 
     # moxie "There’s always a tinge of jealousy, isn’t there?"
-    moxie "There’s always a tinge of jealousy, isn’t there?"
+    moxie "不论如何还是会有点妒嫉的，不是吗？"
 
 # game/bar.rpy#L1112
 translate chinese cbrikutod_64351742:
 
     # mc "If someone like Riku did that, I wouldn’t mind at all."
-    mc "If someone like Riku did that, I wouldn’t mind at all."
+    mc "要是Riku那样的马这么做，我倒是完全不会生气。"
 
 # game/bar.rpy#L1113
 translate chinese cbrikutod_18729240:
 
     # mc "But, then I think about you."
-    mc "But, then I think about you."
+    mc "但是，我想到了你。"
 
 # game/bar.rpy#L1115
 translate chinese cbrikutod_0b87e0f8:
 
     # moxie "Heh, I’m not sleeping around."
-    moxie "Heh, I’m not sleeping around."
+    moxie "呵，我才没沾花惹草呢。"
 
 # game/bar.rpy#L1116
 translate chinese cbrikutod_e19dbe07:
 
     # mc "I am though, doesn’t that hurt?"
-    mc "I am though, doesn’t that hurt?"
+    mc "但是我有啊，你伤心吗？"
 
 # game/bar.rpy#L1117
 translate chinese cbrikutod_8391f124:
 
     # moxie "It’s okay, you know I don’t mind."
-    moxie "It’s okay, you know I don’t mind."
+    moxie "没事的，你知道我不介意的。"
 
 # game/bar.rpy#L1118
 translate chinese cbrikutod_00304e09:
 
     # "She says that steadfast, it’s just like her to stay strong when faced with a question like that."
-    "She says that steadfast, it’s just like her to stay strong when faced with a question like that."
+    "她坚定地说道，坚强地面对那种问题实在是太像她会做的事情了。"
 
 # game/bar.rpy#L1122
 translate chinese cbrikutod_053ee2f6_1:
 
     # "It’s a little later than usual at 6:00pm, but I should still be in time for dinner."
-    "It’s a little later than usual at 6:00pm, but I should still be in time for dinner."
+    "下午6:00比平时稍微晚了点，但我应该还来得及吃晚餐。"
 
 # game/bar.rpy#L1123
 translate chinese cbrikutod_d35c9f97:
 
     # mc "Hey Butters."
-    mc "Hey Butters."
+    mc "嘿Butters。"
 
 # game/bar.rpy#L1125
 translate chinese cbrikutod_3ab205ca:
 
     # butters "Good evening Master!"
-    butters "Good evening Master!"
+    butters "晚上好主人！"
 
 # game/bar.rpy#L1126
 translate chinese cbrikutod_5cda7e2d:
 
     # mc "Master? That’s a new one. Between that and daddy I seem to be building a harem of submissive girls."
-    mc "Master? That’s a new one. Between that and daddy I seem to be building a harem of submissive girls."
+    mc "主人？这可新鲜了。又是叫那个又是叫爸爸的，感觉我已经在收集抖M后宫了。"
 
 # game/bar.rpy#L1128
 translate chinese cbrikutod_6ac46ec1:
 
     # butters "What do you mean?"
-    butters "What do you mean?"
+    butters "你在说什么呢？"
 
 # game/bar.rpy#L1129
 translate chinese cbrikutod_52ac4896:
 
     # mc "Oh well, I was just at the bar and Riku seems to like calling me daddy."
-    mc "Oh well, I was just at the bar and Riku seems to like calling me daddy."
+    mc "哦这个啊，刚刚在酒吧那Riku好像喜欢管我叫爸爸。"
 
 # game/bar.rpy#L1131
 translate chinese cbrikutod_151c31d1:
 
     # butters "Ooohh my, how lewd…"
-    butters "Ooohh my, how lewd…"
+    butters "哦天哪，太淫荡了……"
 
 # game/bar.rpy#L1132
 translate chinese cbrikutod_08f1c994:
 
     # mc "What do you think about me sleeping around?"
-    mc "What do you think about me sleeping around?"
+    mc "你对我到处沾花惹草怎么看？"
 
 # game/bar.rpy#L1134
 translate chinese cbrikutod_f7d13a22:
 
     # butters "Hm? I don’t mind, I think sharing partners is partially biological for mares. Although not that common."
-    butters "Hm? I don’t mind, I think sharing partners is partially biological for mares. Although not that common."
+    butters "嗯？我没事的，我觉得共享自己的伴侣部分来自于雌驹的生理本能。虽然没有那么常见。"
 
 # game/bar.rpy#L1135
 translate chinese cbrikutod_b707520e:
 
     # mc "What if we were to take things more seriously?"
-    mc "What if we were to take things more seriously?"
+    mc "那要是我们真的走到一起呢？"
 
 # game/bar.rpy#L1137
 translate chinese cbrikutod_16f6754e:
 
     # butters "Heh, of course if we got married, I wouldn’t want you to sleep around."
-    butters "Heh, of course if we got married, I wouldn’t want you to sleep around."
+    butters "呵，如果我们结婚了，那我当然不愿看你沾花惹草了。"
 
 # game/bar.rpy#L1139
 translate chinese cbrikutod_7717b50a:
 
     # butters "Sure, there are some mares that would be okay with that. But most? Probably not."
-    butters "Sure, there are some mares that would be okay with that. But most? Probably not."
+    butters "确实，有些雌驹是不会介意那些的。但是大多数嘛？可能还是会的。"
 
 # game/bar.rpy#L1140
 translate chinese cbrikutod_0453c450:
 
     # mc "Riku was pissed with an ex-friend with benefits, because he slept around, but not pissed at all on the implication that I was doing the same thing."
-    mc "Riku was pissed with an ex-friend with benefits, because he slept around, but not pissed at all on the implication that I was doing the same thing."
+    mc "Riku对于一个曾经和她睡过的前男友很生气，就是因为他沾花惹草；而我有可能做过同样的事，她却丝毫不觉得生气。"
 
 # game/bar.rpy#L1142
 translate chinese cbrikutod_ea51be13:
 
     # butters "Hmm… Is there anything else that may have annoyed her?"
-    butters "Hmm… Is there anything else that may have annoyed her?"
+    butters "嗯……有没有可能是别的事惹她生气了呢？"
 
 # game/bar.rpy#L1143
 translate chinese cbrikutod_8b4e0f34:
 
     # mc "I guess sleeping around wasn’t the thing that pissed her off, it was the approach and events surrounding the sleeping around."
-    mc "I guess sleeping around wasn’t the thing that pissed her off, it was the approach and events surrounding the sleeping around."
+    mc "我想沾花惹草不是她生气的真正原因，而是其方法以及期间发生的事情。"
 
 # game/bar.rpy#L1144
 translate chinese cbrikutod_9033e4cf:
 
     # butters "Would you be particularly annoyed if any of the mares you’ve been with slept with a stallion?"
-    butters "Would you be particularly annoyed if any of the mares you’ve been with slept with a stallion?"
+    butters "如果和你睡过的某匹小马和其他雄驹睡了，你会不会特别生气呢？"
 
 # game/bar.rpy#L1145
 translate chinese cbrikutod_26428566:
 
     # mc "I couldn’t justifiably be annoyed, but I can see how it’s be a touchy subject."
-    mc "I couldn’t justifiably be annoyed, but I can see how it’s be a touchy subject."
+    mc "我肯定没资格生气，但是我能体会到这是个敏感的话题。"
 
 # game/bar.rpy#L1146
 translate chinese cbrikutod_7fec5cd7:
 
     # butters "Ohh yeah…"
-    butters "Ohh yeah…"
+    butters "对呀……"
 
 # game/bar.rpy#L1148
 translate chinese cbrikutod_a364762c:
 
     # butters "You’re kinda naughty, you know? Sleeping around with lots of mares, you’re putting us in a difficult situation!"
-    butters "You’re kinda naughty, you know? Sleeping around with lots of mares, you’re putting us in a difficult situation!"
+    butters "你有点调皮，你知道吗？与各种雌驹滥交，你正陷我们于棘手的境地里！"
 
 # game/bar.rpy#L1149
 translate chinese cbrikutod_b740aec9:
 
     # mc "Sorry about that. You’re welcome to sleep around too."
-    mc "Sorry about that. You’re welcome to sleep around too."
+    mc "抱歉啦。你也可以随便沾花惹草的。"
 
 # game/bar.rpy#L1151
 translate chinese cbrikutod_01df1de2:
 
     # butters "Me? I couldn’t risk the succubus emerging, don’t worry about it [playername], you’re doing me a great favour."
-    butters "Me? I couldn’t risk the succubus emerging, don’t worry about it [playername], you’re doing me a great favour."
+    butters "我？我可不想冒险沦入魅魔的一面，别担心了[playername]，你可帮了我的大忙了。"
 
 # game/bar.rpy#L1152
 translate chinese cbrikutod_24e28055:
 
     # mc "I’m glad you see it that way."
-    mc "I’m glad you see it that way."
+    mc "我很高兴你这么想。"
 
 # game/bar.rpy#L1154
 translate chinese cbrikutod_ce617998_2:
 
     # "…"
-    "…"
+    "……"
 
 # game/bar.rpy#L1158
 translate chinese barvisit2_82bdc989:
 
     # "I can’t resist going back to the bar again today. I set off early, a long time before the bar opens, because Riku insisted we spend the mornings hanging out as friends."
-    "I can’t resist going back to the bar again today. I set off early, a long time before the bar opens, because Riku insisted we spend the mornings hanging out as friends."
+    "我今天耐不住性子，又去了酒吧。由于Riku坚持要求我们如朋友一般在早上出去逛街，我早早就出发了，远比酒吧开门的时间要早、"
 
 # game/bar.rpy#L1159
 translate chinese barvisit2_aae50336:
 
     # "She forfeited the truth or dare game meaning today she has to be my slave."
-    "She forfeited the truth or dare game meaning today she has to be my slave."
+    "她输掉了真心话大冒险，意味着今天她是我的奴隶。"
 
 # game/bar.rpy#L1160
 translate chinese barvisit2_9adeb485:
 
     # "I can feel a tingling in my loins at the mere thought of all the degenerate stuff I’m going to make her do today."
-    "I can feel a tingling in my loins at the mere thought of all the degenerate stuff I’m going to make her do today."
+    "单单是想到我今天要叫她做的那些下流的事情，我的两股中间便躁动了起来。"
 
 # game/bar.rpy#L1162
 translate chinese barvisit2_dcd129a0:
 
     # "I arrive and knock on the door, Riku soon opens up and welcomes me in, she seems cheerful."
-    "I arrive and knock on the door, Riku soon opens up and welcomes me in, she seems cheerful."
+    "我到了，敲了敲门，Riku很快就开门欢迎我进来，看来她很高兴。"
 
 # game/bar.rpy#L1168
 translate chinese barvisit2_e34198e6:
 
     # riku "Wassup [playername]?"
-    riku "Wassup [playername]?"
+    riku "啥事啊，[playername]？"
 
 # game/bar.rpy#L1169
 translate chinese barvisit2_62c48cc1:
 
     # mc "Same old, same old, how about you Riku?"
-    mc "Same old, same old, how about you Riku?"
+    mc "没啥，没啥，Riku你呢？"
 
 # game/bar.rpy#L1171
 translate chinese barvisit2_ee0e08fe:
 
     # riku "I’m heckin’ good. My memory is a little fuzzy from that game… I passed out on the sofa, but I can’t remember when."
-    riku "I’m heckin’ good. My memory is a little fuzzy from that game… I passed out on the sofa, but I can’t remember when."
+    riku "我可好得很呐。那个游戏之后我的记忆有点混乱……我在沙发上昏倒了，但是我记不清啥时候了。"
 
 # game/bar.rpy#L1173
 translate chinese barvisit2_d55bb09f:
 
     # riku "We fucked, right? My heat is sorted out, and… Uh…I’ve been feeling more myself and energetic."
-    riku "We fucked, right? My heat is sorted out, and… Uh…I’ve been feeling more myself and energetic."
+    riku "我们做了，对吗？我的发情消退了，以及……呃……感觉自己更在状态，能量更充沛了。"
 
 # game/bar.rpy#L1174
 translate chinese barvisit2_788c907d:

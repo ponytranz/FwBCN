@@ -1,4 +1,4 @@
-# Translation updated at Fri Jul 02 2021 00:48:53 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Sat Jul 03 2021 00:48:43 GMT+0000 (Coordinated Universal Time)
 # game/bakery.rpy#L14
 translate chinese bakeryvisit1_2f4adbe4:
 
@@ -2187,7 +2187,7 @@ translate chinese creamvmissionary_80daeb90:
 translate chinese creamvmissionary_ac497ae2:
 
     # cream "Awwhh, you shouldn't have, let's pop them in the fridge."
-    cream "Awwhh, you shouldn't have, let's pop them in the fridge."
+    cream "哎呀，你这么客气干嘛呀，快把它们放进冰箱里吧。"
 
 # game/bakery.rpy#L607
 translate chinese creamvmissionary_e2626a85:
@@ -2277,7 +2277,7 @@ translate chinese creamvmissionary_88613ce8:
 translate chinese creamvmissionary_e3e588f7:
 
     # honeycrisp "Howdy! When I heard Cream was throwing a party, I knew it wasn't one to be missed!"
-    honeycrisp "Howdy! When I heard Cream was throwing a party, I knew it wasn't one to be missed!"
+    honeycrisp "你好呀！当我听说Cream要办派对的时候，我就知道肯定不容错过！"
 
 # game/bakery.rpy#L634
 translate chinese creamvmissionary_6fb6bb91:
@@ -2301,7 +2301,7 @@ translate chinese creamvmissionary_fe33d0f0:
 translate chinese creamvmissionary_2c0c1f9c:
 
     # honeycrisp "If you're trying to make friends, ya picked the right person to hang around with, this is gonna be a great party to mingle!"
-    honeycrisp "If you're trying to make friends, ya picked the right person to hang around with, this is gonna be a great party to mingle!"
+    honeycrisp "你要是想交朋友的话，那你可找对相处的人了，这个派对绝对会嗨翻天的！"
 
 # game/bakery.rpy#L641
 translate chinese creamvmissionary_ff07cd8b:
@@ -2313,7 +2313,7 @@ translate chinese creamvmissionary_ff07cd8b:
 translate chinese creamvmissionary_e3e588f7_1:
 
     # honeycrisp "Howdy! When I heard Cream was throwing a party, I knew it wasn't one to be missed!"
-    honeycrisp "Howdy! When I heard Cream was throwing a party, I knew it wasn't one to be missed!"
+    honeycrisp "你好呀！当我听说Cream要办派对的时候，我就知道肯定不容错过！"
 
 # game/bakery.rpy#L651
 translate chinese creamvmissionary_6fb6bb91_1:
@@ -2349,13 +2349,13 @@ translate chinese creamvmissionary_80daeb90_1:
 translate chinese creamvmissionary_9fd90093:
 
     # cream "Oh goodness, you shouldn't have."
-    cream "Oh goodness, you shouldn't have."
+    cream "哦天哪，你太客气了。"
 
 # game/bakery.rpy#L660
 translate chinese creamvmissionary_e3189209:
 
     # cream "You shouldn't be carrying that around with your injury, here, let me take it to the kitchen."
-    cream "You shouldn't be carrying that around with your injury, here, let me take it to the kitchen."
+    cream "你都受伤了，就别搬着这个到处晃了，来，让我来把它放进厨房。"
 
 # game/bakery.rpy#L661
 translate chinese creamvmissionary_023d44a0:
@@ -2403,7 +2403,7 @@ translate chinese creamvmissionary_f33744b2:
 translate chinese creamvmissionary_f4c8d327:
 
     # melody "Helllooo wormy boi!"
-    melody "Helllooo wormy boi!"
+    melody "你好呀阳痿男！"
 
 # game/bakery.rpy#L682
 translate chinese creamvmissionary_58975010:
@@ -2421,13 +2421,13 @@ translate chinese creamvmissionary_5069caf3:
 translate chinese creamvmissionary_20df17e9:
 
     # melody "Oh, Blossom and booze is in the kitchen, see ya chumps."
-    melody "Oh, Blossom and booze is in the kitchen, see ya chumps."
+    melody "哦，Blossom还有酒都在厨房里，再见了蠢蛋。"
 
 # game/bakery.rpy#L689
 translate chinese creamvmissionary_66621132:
 
     # ruby "My, my, don't take Melody's troublesome behaviour too personally."
-    ruby "My, my, don't take Melody's troublesome behaviour too personally."
+    ruby "天哪，千万别把Melody的那些麻烦事放在心上。"
 
 # game/bakery.rpy#L690
 translate chinese creamvmissionary_fa9a954c:
@@ -2469,7 +2469,7 @@ translate chinese creamvmissionary_46a96140:
 translate chinese creamvmissionary_786ff0a4:
 
     # mc "Anna? That's rough."
-    mc "Anna? That's rough."
+    mc "Anna？你可真重口啊。"
 
 # game/bakery.rpy#L701
 translate chinese creamvmissionary_44412783:
@@ -2541,7 +2541,7 @@ translate chinese creamvmissionary_5a7714e6:
 translate chinese creamvmissionary_e50a0f88:
 
     # ruby "Well, business is somewhat limited. I sell sexy lingerie for the bedroom, and wedding dresses."
-    ruby "Well, business is somewhat limited. I sell sexy lingerie for the bedroom, and wedding dresses."
+    ruby "好吧，这些衣服的销路其实也不怎么广。一般情况下，能卖出去的衣服也就只有情趣内衣和婚纱了。"
 
 # game/bakery.rpy#L722
 translate chinese creamvmissionary_068739a8:
@@ -2553,19 +2553,19 @@ translate chinese creamvmissionary_068739a8:
 translate chinese creamvmissionary_6fe43a8c:
 
     # mc "Where I'm from, everyone wears clothes, so I feel quite naked around here."
-    mc "Where I'm from, everyone wears clothes, so I feel quite naked around here."
+    mc "在我原先的那个世界，所有人都是穿着衣服的。所以在这里我总是觉得周围的人都是一丝不挂的。"
 
 # game/bakery.rpy#L725
 translate chinese creamvmissionary_a9973189:
 
     # ruby "Ohh? Perhaps I should relocate my business there! *Giggles*!"
-    ruby "Ohh? Perhaps I should relocate my business there! *Giggles*!"
+    ruby "哦？看来我应该把生意做到你那个世界去啊！*咯咯*！"
 
 # game/bakery.rpy#L727
 translate chinese creamvmissionary_1a4d49ec:
 
     # "The door rings again! These mares are far better at arriving on time than I'm used to."
-    "The door rings again! These mares are far better at arriving on time than I'm used to."
+    "说着，门铃又响了起来！看来这些小母马可都比我准时啊。"
 
 # game/bakery.rpy#L736
 translate chinese creamvmissionary_336afbc0:
@@ -2595,43 +2595,43 @@ translate chinese creamvmissionary_03a70687:
 translate chinese creamvmissionary_a46ab8b9:
 
     # riku "You been busy lately Rubes? You used to come to the bar all the time."
-    riku "You been busy lately Rubes? You used to come to the bar all the time."
+    riku "你最近是不是很忙啊，Rubes？你平时可是酒吧的常客啊。"
 
 # game/bakery.rpy#L755
 translate chinese creamvmissionary_ec1905ec:
 
     # ruby "Well, business has simply been fantastic as more and more dresses are being accepted! I'm really starting to make a name for myself."
-    ruby "Well, business has simply been fantastic as more and more dresses are being accepted! I'm really starting to make a name for myself."
+    ruby "是啊，最近生意确实是太好了，越来越多的人开始接受我做的衣服了！我现在已经是小有名气了。"
 
 # game/bakery.rpy#L756
 translate chinese creamvmissionary_2a886465:
 
     # riku "That's great news! Here, I brought some drinks, let's go and celebrate instead of mooting around the door."
-    riku "That's great news! Here, I brought some drinks, let's go and celebrate instead of mooting around the door."
+    riku "真是个好消息啊！来来来，我带了点酒和饮料，咱们赶快庆祝庆祝去吧，别在门口聊个没完了。"
 
 # game/bakery.rpy#L759
 translate chinese creamvmissionary_7ab694ec:
 
     # ruby "Well, business has been a little tight, I've been trying to get my name out to keep cash flow going."
-    ruby "Well, business has been a little tight, I've been trying to get my name out to keep cash flow going."
+    ruby "嗯，最近生意有点忙。我一直都在提升自己的名气，好让生意能做继续做下去。"
 
 # game/bakery.rpy#L760
 translate chinese creamvmissionary_0a1e1da8:
 
     # riku "Keep trying Rubes, I know your designs are amazing!"
-    riku "Keep trying Rubes, I know your designs are amazing!"
+    riku "那就继续努力吧，Rubes，我知道你的设计都很厉害的！"
 
 # game/bakery.rpy#L761
 translate chinese creamvmissionary_69a729b4:
 
     # riku "Say, I brought some drinks, let's go and forget about work and drink for the future."
-    riku "Say, I brought some drinks, let's go and forget about work and drink for the future."
+    riku "话说，我带了点酒和饮料，咱们快点去庆祝庆祝，为美好的明天喝个痛快吧。"
 
 # game/bakery.rpy#L763
 translate chinese creamvmissionary_3f2632fd:
 
     # ruby "Good idea, I could use a few drinks."
-    ruby "Good idea, I could use a few drinks."
+    ruby "这主意不错，我也要喝几杯。"
 
 # game/bakery.rpy#L772
 translate chinese creamvmissionary_31fb0e22:
@@ -2643,19 +2643,19 @@ translate chinese creamvmissionary_31fb0e22:
 translate chinese creamvmissionary_30fc1dde:
 
     # ruby "G-Girlfriend? I don't know what you mean!"
-    ruby "G-Girlfriend? I don't know what you mean!"
+    ruby "女……女朋友？我不知道你这话是什么意思！"
 
 # game/bakery.rpy#L776
 translate chinese creamvmissionary_50ebdad2:
 
     # riku "Ahaha, I'm kidding Rubes! You're way too easy to wind up."
-    riku "Ahaha, I'm kidding Rubes! You're way too easy to wind up."
+    riku "啊哈哈，Rubes，我是在开玩笑的了！你也太好骗了吧。"
 
 # game/bakery.rpy#L778
 translate chinese creamvmissionary_f08b1535:
 
     # ruby "Oh Riku! I've not missed your teasing at all!"
-    ruby "Oh Riku! I've not missed your teasing at all!"
+    ruby "哦，Riku！我可不想让你来戏弄我！"
 
 # game/bakery.rpy#L780
 translate chinese creamvmissionary_03a70687_1:
@@ -2667,7 +2667,7 @@ translate chinese creamvmissionary_03a70687_1:
 translate chinese creamvmissionary_64f07c76:
 
     # riku "Nice to meet you new guy, hope you're settling in well. Swing round the bar any morning if you're looking for work."
-    riku "Nice to meet you new guy, hope you're settling in well. Swing round the bar any morning if you're looking for work."
+    riku "你是新来的吧，很高兴认识你。希望你已经适应这儿的生活了。你要是想找工作的话，就每天早上到酒吧附近逛逛去吧。"
 
 # game/bakery.rpy#L792
 translate chinese creamvmissionary_c7782bd1:
@@ -2679,49 +2679,49 @@ translate chinese creamvmissionary_c7782bd1:
 translate chinese creamvmissionary_a46ab8b9_1:
 
     # riku "You been busy lately Rubes? You used to come to the bar all the time."
-    riku "You been busy lately Rubes? You used to come to the bar all the time."
+    riku "你最近是不是很忙啊，Rubes？你平时可是酒吧的常客啊。"
 
 # game/bakery.rpy#L796
 translate chinese creamvmissionary_ec1905ec_1:
 
     # ruby "Well, business has simply been fantastic as more and more dresses are being accepted! I'm really starting to make a name for myself."
-    ruby "Well, business has simply been fantastic as more and more dresses are being accepted! I'm really starting to make a name for myself."
+    ruby "是啊，最近生意确实是太好了，越来越多的人开始接受我做的衣服了！我现在已经是小有名气了。"
 
 # game/bakery.rpy#L797
 translate chinese creamvmissionary_2a886465_1:
 
     # riku "That's great news! Here, I brought some drinks, let's go and celebrate instead of mooting around the door."
-    riku "That's great news! Here, I brought some drinks, let's go and celebrate instead of mooting around the door."
+    riku "真是个好消息啊！来来来，我带了点酒和饮料，咱们赶快庆祝庆祝去吧，别在门口聊个没完了。"
 
 # game/bakery.rpy#L800
 translate chinese creamvmissionary_7ab694ec_1:
 
     # ruby "Well, business has been a little tight, I've been trying to get my name out to keep cash flow going."
-    ruby "Well, business has been a little tight, I've been trying to get my name out to keep cash flow going."
+    ruby "嗯，最近生意有点忙。我一直都在提升自己的名气，好让生意能做继续做下去。"
 
 # game/bakery.rpy#L801
 translate chinese creamvmissionary_0a1e1da8_1:
 
     # riku "Keep trying Rubes, I know your designs are amazing!"
-    riku "Keep trying Rubes, I know your designs are amazing!"
+    riku "那就继续努力吧，Rubes，我知道你的设计都很厉害的！"
 
 # game/bakery.rpy#L802
 translate chinese creamvmissionary_69a729b4_1:
 
     # riku "Say, I brought some drinks, let's go and forget about work and drink for the future."
-    riku "Say, I brought some drinks, let's go and forget about work and drink for the future."
+    riku "话说，我带了点酒和饮料，咱们快点去庆祝庆祝，为美好的明天喝个痛快吧。"
 
 # game/bakery.rpy#L804
 translate chinese creamvmissionary_3f2632fd_1:
 
     # ruby "Good idea, I could use a few drinks."
-    ruby "Good idea, I could use a few drinks."
+    ruby "这主意不错，我也要喝几杯。"
 
 # game/bakery.rpy#L828
 translate chinese creamvmissionary_769e2d38:
 
     # "Wow, there's so many people here now! They're all such great friends, they talk as if they've known each other for years, and they probably have."
-    "Wow, there's so many people here now! They're all such great friends, they talk as if they've known each other for years, and they probably have."
+    "哇哦，此时，屋子里已经聚了很多人了！看来她们彼此应该都是很要好的朋友。在她们聊天的时候，我感觉她们彼此早就已经熟识了。"
 
 # game/bakery.rpy#L829
 translate chinese creamvmissionary_9c091efe:
@@ -2733,19 +2733,19 @@ translate chinese creamvmissionary_9c091efe:
 translate chinese creamvmissionary_6e7dbce9:
 
     # ruby "Ohh, but what about Sqiggles?"
-    ruby "Ohh, but what about Sqiggles?"
+    ruby "哦，可Sqiggles怎么样了？"
 
 # game/bakery.rpy#L831
 translate chinese creamvmissionary_572d1380:
 
     # honeycrisp "Fancy a cider, Riku?"
-    honeycrisp "Fancy a cider, Riku?"
+    honeycrisp "Riku，你是不是很喜欢苹果酒啊？"
 
 # game/bakery.rpy#L833
 translate chinese creamvmissionary_30f4bc29:
 
     # riku "I could use a couple if I'm gonna follow that conversation."
-    riku "I could use a couple if I'm gonna follow that conversation."
+    riku "如果我想跟上她们聊天的节奏，我就必须要全神贯注地仔细听才行。"
 
 # game/bakery.rpy#L834
 translate chinese creamvmissionary_e0fd61cd:
@@ -2763,13 +2763,13 @@ translate chinese creamvmissionary_c95e2654:
 translate chinese creamvmissionary_20b687aa:
 
     # "Oh, there's the door again!"
-    "Oh, there's the door again!"
+    "哦，门铃又响了！"
 
 # game/bakery.rpy#L838
 translate chinese creamvmissionary_27dfa6ed:
 
     # mc "I'll get it!"
-    mc "I'll get it!"
+    mc "来了！"
 
 # game/bakery.rpy#L840
 translate chinese creamvmissionary_012ad45f:
@@ -2781,43 +2781,43 @@ translate chinese creamvmissionary_012ad45f:
 translate chinese creamvmissionary_c8259711:
 
     # moxie "Heyy! Sorry I'm a little late, I know it's not BYOB but I brought some drinks anyway!"
-    moxie "Heyy! Sorry I'm a little late, I know it's not BYOB but I brought some drinks anyway!"
+    moxie "嘿！抱歉，我来晚了。虽然我知道这个聚会不用自带酒水，可我还是拿了一些过来！"
 
 # game/bakery.rpy#L845
 translate chinese creamvmissionary_0f150f86:
 
     # mc "Ahaha, that explains why one of the mares that lives the closest ended up being one of the last to arrive!"
-    mc "Ahaha, that explains why one of the mares that lives the closest ended up being one of the last to arrive!"
+    mc "啊哈哈，怪不得你离得这么近，结果却来得这么晚呢！"
 
 # game/bakery.rpy#L847
 translate chinese creamvmissionary_73a7ee33:
 
     # moxie "Heh, you know what they say, those the closest are always the last to arrive."
-    moxie "Heh, you know what they say, those the closest are always the last to arrive."
+    moxie "嘿嘿，你听过这句话吗，离得近的总是最后到。"
 
 # game/bakery.rpy#L850
 translate chinese creamvmissionary_298027b0:
 
     # moxie "But there's another reason I'm late, look who I ran into!"
-    moxie "But there's another reason I'm late, look who I ran into!"
+    moxie "不过我迟到还有其他的原因。看看我还遇到了谁！"
 
 # game/bakery.rpy#L858
 translate chinese creamvmissionary_49074424:
 
     # lily "Uhm, hey! The party's here, right?"
-    lily "Uhm, hey! The party's here, right?"
+    lily "额，嗨！这里是在开聚会吗？"
 
 # game/bakery.rpy#L860
 translate chinese creamvmissionary_d58f7d85:
 
     # moxie "She won't admit it, but I saw her outside building the courage to come in."
-    moxie "She won't admit it, but I saw her outside building the courage to come in."
+    moxie "她虽然嘴上说不想参加聚会，可我看见她就在屋外面给自己加油鼓劲呢。"
 
 # game/bakery.rpy#L861
 translate chinese creamvmissionary_48a247fe:
 
     # lily "It's just that I haven't seen some of these girls for months..."
-    lily "It's just that I haven't seen some of these girls for months..."
+    lily "我只是因为有好几个月没见到她们了……"
 
 # game/bakery.rpy#L862
 translate chinese creamvmissionary_64277977:
@@ -2829,49 +2829,49 @@ translate chinese creamvmissionary_64277977:
 translate chinese creamvmissionary_14c04ca2:
 
     # mc "Awh, let's get her some booze!"
-    mc "Awh, let's get her some booze!"
+    mc "噢，咱们还是让她喝点酒吧！"
 
 # game/bakery.rpy#L865
 translate chinese creamvmissionary_6d85732b:
 
     # moxie "Great idea! Your genius is showing!"
-    moxie "Great idea! Your genius is showing!"
+    moxie "好主意！你终于变聪明了！"
 
 # game/bakery.rpy#L866
 translate chinese creamvmissionary_bff1cc8b:
 
     # lily "Mmm, okay, I do like Honey's cider."
-    lily "Mmm, okay, I do like Honey's cider."
+    lily "嗯，好吧。我很喜欢喝Honey酿的苹果酒。"
 
 # game/bakery.rpy#L868
 translate chinese creamvmissionary_92beb930:
 
     # "As we enter the kitchen, Lily manages to find some confidence and make some light conversation with her friends. Before she knows it, she's completely back to her usual self."
-    "As we enter the kitchen, Lily manages to find some confidence and make some light conversation with her friends. Before she knows it, she's completely back to her usual self."
+    "在我们几个走进厨房时，Lily也在为自己找信心。然后，她便和自己的朋友简单聊了几句。虽然她自己不知道，可此时的她已经完全恢复到平时的正常状态了。"
 
 # game/bakery.rpy#L872
 translate chinese creamvmissionary_af0e9961:
 
     # moxie "Really goes to show ya, most of that shyness is in the mind."
-    moxie "Really goes to show ya, most of that shyness is in the mind."
+    moxie "真该告诉你真相了，其实大多数的腼腆和不自信都是自己想象出来的。"
 
 # game/bakery.rpy#L873
 translate chinese creamvmissionary_cdc46f70:
 
     # mc "That's true, but it can still be very hard to overcome."
-    mc "That's true, but it can still be very hard to overcome."
+    mc "这话是真的，但想要克服这种心理却不容易。"
 
 # game/bakery.rpy#L874
 translate chinese creamvmissionary_93edd4e3:
 
     # moxie "She'll definitely break out of it though, anyone can feel shy after not talking for months."
-    moxie "She'll definitely break out of it though, anyone can feel shy after not talking for months."
+    moxie "她肯定会没问题的。任何一个人如果几个月都不说话，肯定是会变内向的。"
 
 # game/bakery.rpy#L880
 translate chinese creamvmissionary_3c07391e:
 
     # moxie "Phew, this party is really good! It's actually my first party with Cream. For once, we're both strangers in this new world."
-    moxie "Phew, this party is really good! It's actually my first party with Cream. For once, we're both strangers in this new world."
+    moxie "啊，这次的聚会办得可真好啊！而且，这也是我第一次和Cream一起开派对。当时，我们俩都是刚刚来到这个世界的，互相还都不认识。"
 
 # game/bakery.rpy#L881
 translate chinese creamvmissionary_bbdc81fc:
@@ -2883,19 +2883,19 @@ translate chinese creamvmissionary_bbdc81fc:
 translate chinese creamvmissionary_2bfba08b:
 
     # moxie "Mm, a little, but these are all lovely mares, and I'm quite close with some of them, like Riku."
-    moxie "Mm, a little, but these are all lovely mares, and I'm quite close with some of them, like Riku."
+    moxie "嗯，会有一点害羞吧。不过这里的小马都很热情很友好。而且我还交到了不少朋友呢，就比如说Riku吧。"
 
 # game/bakery.rpy#L884
 translate chinese creamvmissionary_06af0125:
 
     # mc "Heh, we both know how close you are with Riku."
-    mc "Heh, we both know how close you are with Riku."
+    mc "嘿嘿，我们都知道你和Riku的关系很好。"
 
 # game/bakery.rpy#L885
 translate chinese creamvmissionary_1824e4fe:
 
     # moxie "Ahh, shush you, someone might hear."
-    moxie "Ahh, shush you, someone might hear."
+    moxie "啊，闭嘴吧你，有人会听到这话的。"
 
 # game/bakery.rpy#L888
 translate chinese creamvmissionary_c7cda1f3:
@@ -2919,61 +2919,61 @@ translate chinese creamvmissionary_e7659c52:
 translate chinese creamvmissionary_91d09239:
 
     # moxie "What about you? Are you close friends with anyone yet?"
-    moxie "What about you? Are you close friends with anyone yet?"
+    moxie "你怎么样啊？交到好朋友了没？"
 
 # game/bakery.rpy#L893
 translate chinese creamvmissionary_a1d1762d:
 
     # mc "I'm settling in well, me and Cream clicked pretty good."
-    mc "I'm settling in well, me and Cream clicked pretty good."
+    mc "我现在已经适应这里的生活了，而且我和Cream的关系也挺不错的。"
 
 # game/bakery.rpy#L895
 translate chinese creamvmissionary_8e99d3a9:
 
     # moxie "Have you, y'know, done the business with Cream yet?"
-    moxie "Have you, y'know, done the business with Cream yet?"
+    moxie "那你……你懂得……和Cream的"生意"做得怎么样了？"
 
 # game/bakery.rpy#L896
 translate chinese creamvmissionary_8ac421bf:
 
     # mc "Oh my gosh, you are so nosy!"
-    mc "Oh my gosh, you are so nosy!"
+    mc "哦，我的天哪，你可真喜欢多管闲事啊！"
 
 # game/bakery.rpy#L900
 translate chinese creamvmissionary_9f8f96c1:
 
     # ruby "Did someone say nosy, darlings? I'd like to be nosy and ask where darling Penelope is."
-    ruby "Did someone say nosy, darlings? I'd like to be nosy and ask where darling Penelope is."
+    ruby "各位，刚才是谁说了一句"爱多管闲事"啊？我就很喜欢多管闲事。你们谁知道亲爱的Penelope去哪儿了吗？"
 
 # game/bakery.rpy#L902
 translate chinese creamvmissionary_6d28d5ac:
 
     # moxie "Hmm, good question, doesn't look like she's coming though."
-    moxie "Hmm, good question, doesn't look like she's coming though."
+    moxie "嗯，说得是啊。看样子，她可能不会来了吧。"
 
 # game/bakery.rpy#L903
 translate chinese creamvmissionary_0423cc4a:
 
     # mc "Really? I thought she'd quite enjoy a party."
-    mc "Really? I thought she'd quite enjoy a party."
+    mc "是吗？我还以为她很喜欢参加聚会呢。"
 
 # game/bakery.rpy#L905
 translate chinese creamvmissionary_b01fc020:
 
     # moxie "Seems like she's preoccupied with her work, she's a busy gal after all."
-    moxie "Seems like she's preoccupied with her work, she's a busy gal after all."
+    moxie "看来她是在忙自己的工作呢，真是够忙的。"
 
 # game/bakery.rpy#L908
 translate chinese creamvmissionary_d1479fae:
 
     # ruby "That's a shame, I would have liked to see Lily and Butters as well."
-    ruby "That's a shame, I would have liked to see Lily and Butters as well."
+    ruby "太糟了，我应该去见见Lily和Butters的。"
 
 # game/bakery.rpy#L910
 translate chinese creamvmissionary_36122974:
 
     # ruby "That's a shame, I would have liked to see Butters as well."
-    ruby "That's a shame, I would have liked to see Butters as well."
+    ruby "太糟了，我应该去见见Butters的。"
 
 # game/bakery.rpy#L911
 translate chinese creamvmissionary_dbc7553f:
@@ -2985,7 +2985,7 @@ translate chinese creamvmissionary_dbc7553f:
 translate chinese creamvmissionary_3ca4626e:
 
     # mc "Oh? Someone else?"
-    mc "Oh? Someone else?"
+    mc "哦？还有其他客人吗？"
 
 # game/bakery.rpy#L915
 translate chinese creamvmissionary_06458830:
@@ -2997,25 +2997,25 @@ translate chinese creamvmissionary_06458830:
 translate chinese creamvmissionary_bb082be6:
 
     # butters "Parties aren't really my style, but I thought I should come for old time's sake."
-    butters "Parties aren't really my style, but I thought I should come for old time's sake."
+    butters "我不太喜欢开派对，不过看在能和老朋友叙叙旧的份上，我还是决定过来了。"
 
 # game/bakery.rpy#L921
 translate chinese creamvmissionary_f97f7e10:
 
     # ruby "I really respect that darling, would you like me to make you a drink?"
-    ruby "I really respect that darling, would you like me to make you a drink?"
+    ruby "亲爱的，我真是太感动了。你想喝点什么？我来帮你倒。"
 
 # game/bakery.rpy#L922
 translate chinese creamvmissionary_0bb0663b:
 
     # butters "Do you have anything sweet?"
-    butters "Do you have anything sweet?"
+    butters "有没有甜一点的酒和饮料呢？"
 
 # game/bakery.rpy#L923
 translate chinese creamvmissionary_f1f0404f:
 
     # moxie "You like sweet drinks too? Try some of the stuff I brought, it's great."
-    moxie "You like sweet drinks too? Try some of the stuff I brought, it's great."
+    moxie "你也喜欢喝有甜味的饮料？你可以尝尝我带过来的好东西，很好喝哟。"
 
 # game/bakery.rpy#L927
 translate chinese creamvmissionary_3d5117a1:

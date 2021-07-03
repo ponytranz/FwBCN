@@ -1,4 +1,4 @@
-# Translation updated at Fri Jul 02 2021 00:48:53 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Sat Jul 03 2021 00:48:43 GMT+0000 (Coordinated Universal Time)
 # game/castle.rpy#L6
 translate chinese castle_38f72bb5:
 
@@ -201,7 +201,7 @@ translate chinese auroramenu_8a1cf40b:
 translate chinese auroramenu_c1a992e3:
 
     # "I started to thrust faster into her tight vagina, her insides gripped tightly around my shaft, as if it were trying to bring me over the edge."
-    "我开始更快地抽插她的阴道，她的内脏紧紧压迫着我的cock，试图把我挤回边缘。"
+    "我开始更快地抽插她的阴道，她的肉壁紧紧压迫着我的cock，试图把我挤回边缘。"
 
 # game/castle.rpy#L84
 translate chinese auroramenu_c4fd5487:
@@ -237,13 +237,13 @@ translate chinese auroramenu_8ca1d51c:
 translate chinese auroramenu_4c34dd7e:
 
     # "Her entire body started to shiver as I shot my cum deep within her, her already tight insides clung to my penis over and over, especially due to the way her hips buckled and spasmed as she climaxed."
-    "当我把精液射入她的身体深处时，她的整个身体开始高兴地颤抖，应该是出于她高潮时的臀部痉挛，她已经很紧的内脏仍在一次又一次地挤压我的cock。"
+    "当我把精液射入她的身体深处时，她的整个身体开始高兴地颤抖，应该是出于她高潮时的臀部痉挛，她已经很紧的肉壁仍在一次又一次地挤压我的cock。"
 
 # game/castle.rpy#L109
 translate chinese auroramenu_ef8d2bbb:
 
     # "I slowly pull my cock outside of her trembling insides, causing a glob of cum to drip down her pelvis and ass."
-    "我慢慢地把我的阴茎从她颤抖的内脏里拉出来，一团精液从她的阴道口和丰硕的臀部上垂下。"
+    "我慢慢地把我的阴茎从她颤抖的肉环里拉出来，一团精液从她的阴道口和丰硕的臀部上垂下。"
 
 # game/castle.rpy#L111
 translate chinese auroramenu_2ff72e28:
@@ -309,7 +309,7 @@ translate chinese auroramenu_2045c4b1:
 translate chinese auroramenu_30b43cc5:
 
     # aurora "Ohh! I know! Melody, you like the bad bitches, yes?"
-    aurora "哦!我知道!你想找Melody，你喜欢那些坏婊子，没错吧?"
+    aurora "哦!本宫知道!你想找Melody，你喜欢那些坏婊子，没错吧?"
 
 # game/castle.rpy#L133
 translate chinese auroramenu_7411d476:
@@ -1581,7 +1581,7 @@ translate chinese auroravsex_a86cb0fd:
 translate chinese auroravsex_c1a992e3:
 
     # "I started to thrust faster into her tight vagina, her insides gripped tightly around my shaft, as if it were trying to bring me over the edge."
-    "我开始更快地抽插她的阴道，她的内脏紧紧压迫着我的肉棒，试图把我挤回边缘。"
+    "我开始更快地抽插她的阴道，她的肉壁紧紧压迫着我的cock，试图把我挤回边缘。"
 
 # game/castle.rpy#L472
 translate chinese auroravsex_c4fd5487:
@@ -1617,13 +1617,13 @@ translate chinese auroravsex_8ca1d51c:
 translate chinese auroravsex_4c34dd7e:
 
     # "Her entire body started to shiver as I shot my cum deep within her, her already tight insides clung to my penis over and over, especially due to the way her hips buckled and spasmed as she climaxed."
-    "当我把精液射入她的身体深处时，她的整个身体开始高兴地颤抖，应该是出于她高潮时的臀部痉挛，她已经很紧的内脏仍在一次又一次地挤压我鸡巴。"
+    "当我把精液射入她的身体深处时，她的整个身体开始高兴地颤抖，应该是出于她高潮时的臀部痉挛，她已经很紧的肉壁仍在一次又一次地挤压我的cock。"
 
 # game/castle.rpy#L493
 translate chinese auroravsex_ef8d2bbb:
 
     # "I slowly pull my cock outside of her trembling insides, causing a glob of cum to drip down her pelvis and ass."
-    "我慢慢地把我的阴茎从她颤抖的内脏里拉出来，一团精液从她的阴道口和丰硕的臀部上垂下。"
+    "我慢慢地把我的阴茎从她颤抖的肉环里拉出来，一团精液从她的阴道口和丰硕的臀部上垂下。"
 
 # game/castle.rpy#L495
 translate chinese auroravsex_2ff72e28:
@@ -2679,7 +2679,7 @@ translate chinese selenemenu_567a0c15:
 translate chinese selenemenu_0cd7b343:
 
     # "It’s tight, I can feel her insides squeezing and sucking, as if she was deliberately trying to pleasure me by rhythmically clenching."
-    "阴道很紧，我能感觉到她内脏的挤压和吮吸，她好像在特意有节奏地取悦我。"
+    "阴道很紧，我能感觉到她肉壁的挤压和吮吸，她好像在特意有节奏地取悦我。"
 
 # game/castle.rpy#L790
 translate chinese selenemenu_f06bc39f:
@@ -2715,7 +2715,7 @@ translate chinese selenemenu_9a3d8f63:
 translate chinese selenemenu_d1dbb412:
 
     # mc "What's wrong with familiars?"
-    mc "What's wrong with familiars?"
+    mc "和亲戚做怎么了？"
 
 # game/castle.rpy#L798
 translate chinese selenemenu_07298110:
@@ -2727,631 +2727,631 @@ translate chinese selenemenu_07298110:
 translate chinese selenemenu_08c59674:
 
     # "Faster, she begins to bounce her hips up and down, the orgasmic waves that were denied before come crashing into me at full-force, faster than I could even anticipate."
-    "Faster, she begins to bounce her hips up and down, the orgasmic waves that were denied before come crashing into me at full-force, faster than I could even anticipate."
+    "她很快开始在我的鸡巴上上下下，新一轮的高潮来的比我预想的还要早。"
 
 # game/castle.rpy#L804
 translate chinese selenemenu_00a798d9:
 
     # "I cum already, starting to fill the princess’s pussy with my thick, hot cum. I couldn’t help it, her lustful whispers and her practiced movements pushed me to the edge faster than I would have liked."
-    "I cum already, starting to fill the princess’s pussy with my thick, hot cum. I couldn’t help it, her lustful whispers and her practiced movements pushed me to the edge faster than I would have liked."
+    "我已经射了，浓厚滚烫的精液开始倾注进公主的皇家名器中。她淫靡下流的梦呓让我无法把持，很快将我推上了摇摇欲坠的高潮边缘。"
 
 # game/castle.rpy#L808
 translate chinese selenemenu_ceea7bbf:
 
     # "But as my formidable orgasm gradually fades, Selene is smirking."
-    "But as my formidable orgasm gradually fades, Selene is smirking."
+    "Selene脸上挂着一丝微笑，看着我狂野的高潮逐渐退去。"
 
 # game/castle.rpy#L809
 translate chinese selenemenu_a5895786:
 
     # mc "You’re too good at this, sorry I came before you finished."
-    mc "You’re too good at this, sorry I came before you finished."
+    mc "你的床上功夫真是了得，抱歉我这么快就射了。"
 
 # game/castle.rpy#L811
 translate chinese selenemenu_0a66032e:
 
     # selene "Don’t worry young one, I pushed you over the edge on purpose. Just like last time, we’ll both be cumming a few times tonight."
-    selene "Don’t worry young one, I pushed you over the edge on purpose. Just like last time, we’ll both be cumming a few times tonight."
+    selene "别担心年轻人，我是故意让你这么快射的。就像上次那样，我们两个今晚都能快活上好几次。"
 
 # game/castle.rpy#L813
 translate chinese selenemenu_a78ff64b:
 
     # "With an effortless, quick glow of her horn, I can feel my balls tingling, the heightened sensitivity of my refractory period disappears, and my erection returns."
-    "With an effortless, quick glow of her horn, I can feel my balls tingling, the heightened sensitivity of my refractory period disappears, and my erection returns."
+    "她的角上掠过一阵轻柔又短暂的闪光，睾丸只觉阵阵刺痛，贤者时间瞬间消失，下体又重新高高昂起。"
 
 # game/castle.rpy#L814
 translate chinese selenemenu_115b6d89:
 
     # selene "Once I've started, I struggle stopping! *Giggle*"
-    selene "Once I've started, I struggle stopping! *Giggle*"
+    selene "只要我开始了，就很难刹住车！*咯咯笑*"
 
 # game/castle.rpy#L817
 translate chinese selenemenu_4624f94d:
 
     # "I’m already ready to continue fucking, and Selene wastes absolutely no time riding at a quicker pace than before."
-    "I’m already ready to continue fucking, and Selene wastes absolutely no time riding at a quicker pace than before."
+    "我已经准备好又来一番翻云覆雨了，Selene是绝对不会浪费时间的，她开始用比之前更快的速度上下起伏着。"
 
 # game/castle.rpy#L818
 translate chinese selenemenu_7010abd5:
 
     # selene "Now it’s my turn to come… Mm… Mmphh, mm."
-    selene "Now it’s my turn to come… Mm… Mmphh, mm."
+    selene "你刚刚爽过了，现在轮到本宫了...嗯...嗯呼，嗯。"
 
 # game/castle.rpy#L819
 translate chinese selenemenu_b92186f8:
 
     # "It feels like I have a fresh erection, every pleasure and every sensation is just as satisfying as the first time."
-    "It feels like I have a fresh erection, every pleasure and every sensation is just as satisfying as the first time."
+    "这感觉和我刚硬起来没什么区别，一点都不像才射过一次，每一种快感和感觉都像第一次一样新鲜。"
 
 # game/castle.rpy#L820
 translate chinese selenemenu_9f662535:
 
     # selene "Mmphh, you’re throbbing, are you close already? I’m close too! Ahhh, ahhh…"
-    selene "Mmphh, you’re throbbing, are you close already? I’m close too! Ahhh, ahhh…"
+    selene "嗯嗯，你的鸡巴又在悸动了哦，又快射了？我也快高潮了！啊，啊......"
 
 # game/castle.rpy#L821
 translate chinese selenemenu_cffb0f79:
 
     # "Although that doesn’t change the thick cum oozing out of her pussy, bubbling up and mixing with her juices as she continuously thrusts into me, her pace ever increasing."
-    "Although that doesn’t change the thick cum oozing out of her pussy, bubbling up and mixing with her juices as she continuously thrusts into me, her pace ever increasing."
+    "尽管我之前射出的浓稠精液还在从她的穴口缓缓流出，和她的淫水爱液混成了一些糊状泡泡，她对此并不在意，继续挺动身躯，速度还在加快。"
 
 # game/castle.rpy#L822
 translate chinese selenemenu_4d25ff7d:
 
     # selene "Aaahhhhh, ahhh, I-I’m coming!"
-    selene "Aaahhhhh, ahhh, I-I’m coming!"
+    selene "啊啊啊啊，啊，我，我去了！"
 
 # game/castle.rpy#L823
 translate chinese selenemenu_5ff0b664:
 
     # "She speeds up as she uses magic to stimulate her clit, her hips bucking as she squirts and orgasms powerfully."
-    "She speeds up as she uses magic to stimulate her clit, her hips bucking as she squirts and orgasms powerfully."
+    "她在加快挺动速度的同时还不忘用魔法刺激自己的阴蒂，当她高潮的时候背部高高地弓起。"
 
 # game/castle.rpy#L826
 translate chinese selenemenu_637b7e7c:
 
     # "The magic aura around her clit grows and encompasses both our genitalia, suddenly heightening my own pleasure, to twice as pleasurable… Thrice as pleasurable… No, ten times more pleasurable."
-    "The magic aura around her clit grows and encompasses both our genitalia, suddenly heightening my own pleasure, to twice as pleasurable… Thrice as pleasurable… No, ten times more pleasurable."
+    "本来只环绕在她阴蒂附近的魔法光环逐步扩大至覆盖我们两个的性器，我的快感突然增加了一倍，不对，两倍...三倍...不，应该是十倍。"
 
 # game/castle.rpy#L849
 translate chinese selenemenu_8dfac045:
 
     # "My climax comes so immediately, shocking, and powerful that it’s almost an out of body experience. My vision goes completely white and for a moment I can’t feel anything but euphoria."
-    "My climax comes so immediately, shocking, and powerful that it’s almost an out of body experience. My vision goes completely white and for a moment I can’t feel anything but euphoria."
+    "我马上又高潮了，如此强大，如此震撼，完全是灵魂出窍般的销魂。我的视野完全沉浸在一片雪白之中，有那么一瞬，我能感知到的事务只有快感。"
 
 # game/castle.rpy#L852
 translate chinese selenemenu_c029cdb5:
 
     # "When I recover from the pleasureful shock to the system, Selene is resting hazily on my damp chest. She’s panting too."
-    "When I recover from the pleasureful shock to the system, Selene is resting hazily on my damp chest. She’s panting too."
+    "当我从愉悦的冲击中回过神来时，Selene也疲惫地靠在我布满汗珠的胸膛上，她也累得气喘吁吁的。"
 
 # game/castle.rpy#L854
 translate chinese selenemenu_41f1a8c9:
 
     # selene "Hahh, haaah… I think I wore myself out. Can you be a sweetie and go on top this time?"
-    selene "Hahh, haaah… I think I wore myself out. Can you be a sweetie and go on top this time?"
+    selene "哈，哈啊...本宫应该已经筋疲力竭了。劳驾你做个绅士，这次自己动怎么样？"
 
 # game/castle.rpy#L855
 translate chinese selenemenu_9f82279a:
 
     # mc "Again? But I’m not- "
-    mc "Again? But I’m not- "
+    mc "还来？但我才-"
 
 # game/castle.rpy#L857
 translate chinese selenemenu_18483506:
 
     # "A whimsical glow of the horn and I feel my balls shiver… The heightened sensitivity is soothed, my cock stiffens. Yeah, I do want to fuck her again."
-    "A whimsical glow of the horn and I feel my balls shiver… The heightened sensitivity is soothed, my cock stiffens. Yeah, I do want to fuck her again."
+    "又是一阵耀眼的光芒从她的角上闪过，我的睾丸颤抖起来...刚刚疲软下来的阴茎又挺直了身板。好耶，我确实还想和她再来上那么一发。"
 
 # game/castle.rpy#L860
 translate chinese selenemenu_fbdc5a36:
 
     # "She lets me sleep in her living quarters until it's early morning."
-    "She lets me sleep in her living quarters until it's early morning."
+    "我在她的寝宫里睡到阳光初上。"
 
 # game/castle.rpy#L861
 translate chinese selenemenu_d68a043e:
 
     # "When it's time for me to wake up, it's time for her to go to sleep. I kiss the princess goodbye, leave the castle and return home."
-    "When it's time for me to wake up, it's time for her to go to sleep. I kiss the princess goodbye, leave the castle and return home."
+    "我起床的时候也是她该睡觉休息的时候。我向公主吻别，离开城堡，踏上了回家的路。"
 
 # game/castle.rpy#L866
 translate chinese selenemenu_6716d685:
 
     # mc "Hey Selene, you know you said you could 'nudge' something I desired and make it happen?"
-    mc "Hey Selene, you know you said you could 'nudge' something I desired and make it happen?"
+    mc "嘿Selene殿下，还记得你告诉过我有什么“要求”可以尽管提吗？"
 
 # game/castle.rpy#L867
 translate chinese selenemenu_5237e3d2:
 
     # selene "I believe I did offer such a thing, have you finally decided what you'd like?"
-    selene "I believe I did offer such a thing, have you finally decided what you'd like?"
+    selene "我是说过这样的话，怎么，你最后作何打算？"
 
 # game/castle.rpy#L868
 translate chinese selenemenu_0a67acb9:
 
     # mc "Mhm, I'd like to enjoy something no one else in the world could possibly taste."
-    mc "Mhm, I'd like to enjoy something no one else in the world could possibly taste."
+    mc "嗯，我想试试这个世界上没有哪一匹马试过的事情。"
 
 # game/castle.rpy#L869
 translate chinese selenemenu_01edb537:
 
     # mc "I want a threesome with you and your sister."
-    mc "I want a threesome with you and your sister."
+    mc "我想和你还有你的姐姐玩一次3P。"
 
 # game/castle.rpy#L871
 translate chinese selenemenu_6639e42a:
 
     # selene "Super lewd! Super lewd! I'm totally digging it!"
-    selene "Super lewd! Super lewd! I'm totally digging it!"
+    selene "真下流！真下贱！不过本宫喜欢！"
 
 # game/castle.rpy#L872
 translate chinese selenemenu_f93fd5d7:
 
     # selene "Okay, come with me! We're gonna go pester Aurora."
-    selene "Okay, come with me! We're gonna go pester Aurora."
+    selene "本宫答应你，跟我来吧！咱们去找Aurora。"
 
 # game/castle.rpy#L874
 translate chinese selenemenu_4439bb08:
 
     # "And with that, we go to Aurora's bedroom to find her doing some last-minute paperwork before bed."
-    "And with that, we go to Aurora's bedroom to find her doing some last-minute paperwork before bed."
+    "我们就这样去了Aurora的寝宫，她还在处理一些睡前的政务工作。"
 
 # game/castle.rpy#L882
 translate chinese selenemenu_3d8d1f5e:
 
     # aurora "Oh my, [playername] and Selene? What could you two be here for at this time?"
-    aurora "Oh my, [playername] and Selene? What could you two be here for at this time?"
+    aurora "哦怎么了，[playername]和Selene？什么风把你们两个吹来了？"
 
 # game/castle.rpy#L886
 translate chinese selenemenu_ea47ebea:
 
     # selene "Hey Aura, let us all fuck!"
-    selene "Hey Aura, let us all fuck!"
+    selene "嘿Aura，我们玩3P吧！"
 
 # game/castle.rpy#L888
 translate chinese selenemenu_a22be24b:
 
     # aurora "Ahh, you must be merely jesting, Sele..."
-    aurora "Ahh, you must be merely jesting, Sele..."
+    aurora "啊，你跟我开玩笑的吧，Sele......"
 
 # game/castle.rpy#L889
 translate chinese selenemenu_cb3ad151:
 
     # "Aura and Sele? Hmm..."
-    "Aura and Sele? Hmm..."
+    "Aura和Sele，她俩之间就这么称呼？嗯......"
 
 # game/castle.rpy#L890
 translate chinese selenemenu_56427028:
 
     # "Wait, that's not important right now! Why was Selene so upfront?!"
-    "Wait, that's not important right now! Why was Selene so upfront?!"
+    "等下，这点现在不重要！为什么Selene这么直接啊！？"
 
 # game/castle.rpy#L891
 translate chinese selenemenu_9d829f82:
 
     # selene "I offered [playername] a reward for saving Arcadia, and this was his request! Honest!"
-    selene "I offered [playername] a reward for saving Arcadia, and this was his request! Honest!"
+    selene "我答应过[playername]，要兑现他的一个愿望，作为拯救Arcadia的奖励，这就是他的要求！我亲爱的姐姐！"
 
 # game/castle.rpy#L892
 translate chinese selenemenu_2390c608:
 
     # aurora "What a stupid request..."
-    aurora "What a stupid request..."
+    aurora "这种要求只有傻子才会满足吧......"
 
 # game/castle.rpy#L894
 translate chinese selenemenu_b781b043:
 
     # selene "Yup, a really stupid request!"
-    selene "Yup, a really stupid request!"
+    selene "是啊，只有傻子才会满足！"
 
 # game/castle.rpy#L896
 translate chinese selenemenu_9432f891:
 
     # aurora "Well... Let's get dumbeeerrrr!"
-    aurora "Well... Let's get dumbeeerrrr!"
+    aurora "那...就让本宫当一回傻子吧！"
 
 # game/castle.rpy#L900
 translate chinese selenemenu_53f7ab4b:
 
     # "The two girls playfully jump on the sun coloured bed and roll around until Selene is on top of Aurora."
-    "The two girls playfully jump on the sun coloured bed and roll around until Selene is on top of Aurora."
+    "两位公主顽皮地蹦到太阳颜色的床上滚来滚去，最后Selene把Aurora压在身下。"
 
 # game/castle.rpy#L901
 translate chinese selenemenu_8f4846a8:
 
     # aurora "Well? Are you just gotta sit there and stare? If you do not separate our pussies with your dick, this'll just be incest!"
-    aurora "Well? Are you just gotta sit there and stare? If you do not separate our pussies with your dick, this'll just be incest!"
+    aurora "喂？你就坐在那儿干瞪眼啊？如果不用你的肉棒把我俩的小穴挑开的话，就算公主之间乱伦了哦！"
 
 # game/castle.rpy#L902
 translate chinese selenemenu_6f67b344:
 
     # selene "Yeah, and there's no way we'd ever do anything incestuous, ain't that right sis?"
-    selene "Yeah, and there's no way we'd ever do anything incestuous, ain't that right sis?"
+    selene "没错，公主之间是绝对不能乱伦的，对吧姐姐？"
 
 # game/castle.rpy#L903
 translate chinese selenemenu_fa3a298a:
 
     # aurora "Absolutely, how unregal!"
-    aurora "Absolutely, how unregal!"
+    aurora "那是，多败坏风俗啊！"
 
 # game/castle.rpy#L904
 translate chinese selenemenu_43cc7818:
 
     # selene "Come save us [playername], we need your help!"
-    selene "Come save us [playername], we need your help!"
+    selene "快来救救我们吖[playername]，搭把手，或者别的什么硬硬的东西！"
 
 # game/castle.rpy#L905
 translate chinese selenemenu_7e0a6b88:
 
     # "What the hell?!"
-    "What the hell?!"
+    "搞什么灰机啊！？"
 
 # game/castle.rpy#L907
 translate chinese selenemenu_aa50efee:
 
     # "They wiggle their butts and flick their tails with lustful enthusiasm. I wasn't expecting this enthusiasm."
-    "They wiggle their butts and flick their tails with lustful enthusiasm. I wasn't expecting this enthusiasm."
+    "她们淫靡地摇晃着自己的丰臀和尾巴。这种盛情让我有点难却。"
 
 # game/castle.rpy#L908
 translate chinese selenemenu_a0c2ec32:
 
     # "Separate their pussies with my dick? They're probably referring to how I did it last time."
-    "Separate their pussies with my dick? They're probably referring to how I did it last time."
+    "用鸡巴把她们的小穴分开？她们应该指的是我以前的做法。"
 
 # game/castle.rpy#L912
 translate chinese selenemenu_64578401:
 
     # "Rather than penetrate either one of them, I slide my cock between their labia."
-    "Rather than penetrate either one of them, I slide my cock between their labia."
+    "我没有插进她们中的任何一个，只是把肉棒伸进了她俩的蜜穴之间。"
 
 # game/castle.rpy#L913
 translate chinese selenemenu_555afc3d:
 
     # "They’re both wet enough to easily let my cock slide back and forth."
-    "They’re both wet enough to easily let my cock slide back and forth."
+    "她俩的淫穴早已飞流直下三千尺，我的肉棒可以穴间来去自如。"
 
 # game/castle.rpy#L914
 translate chinese selenemenu_50891dd5:
 
     # selene "Ohhh, I can feel your cock throbbing against my clit! It kinda tickles!"
-    selene "Ohhh, I can feel your cock throbbing against my clit! It kinda tickles!"
+    selene "哦，我的阴蒂能感觉到你肉棒在挑动！有点痒呢！"
 
 # game/castle.rpy#L915
 translate chinese selenemenu_dd3c35d3:
 
     # "As I push my cock forward, their labia and vulva squish against my shaft providing a suitable tightness concentrated in one area."
-    "As I push my cock forward, their labia and vulva squish against my shaft providing a suitable tightness concentrated in one area."
+    "当我的肉棒向前推动时，她俩的外阴和阴唇都挤压着我的棒身，形成了一个舒适的肉环挤压区域。"
 
 # game/castle.rpy#L916
 translate chinese selenemenu_b7e1554a:
 
     # aurora "You could have asked for a house in the castle, but instead you wanted a threesome. Pfft, men never change!"
-    aurora "You could have asked for a house in the castle, but instead you wanted a threesome. Pfft, men never change!"
+    aurora "本宫本以为你会在城堡里要一套房子住，没想到你只想要3P。切，男人都一个样儿！"
 
 # game/castle.rpy#L917
 translate chinese selenemenu_507b248f:
 
     # mc "Well, since this is my wish, you should put all the effort in. Come on, get to it!"
-    mc "Well, since this is my wish, you should put all the effort in. Come on, get to it!"
+    mc "嘛，既然我都这么要求了，您应当努力帮我实现才是。来嘛，动起来！"
 
 # game/castle.rpy#L918
 translate chinese selenemenu_d7b1d6ed:
 
     # "With that, I'll barely have to budge."
-    "With that, I'll barely have to budge."
+    "有了她们的承诺兜底，我完全不用拘谨。"
 
 # game/castle.rpy#L919
 translate chinese selenemenu_6ba03b5d:
 
     # aurora "As you say! I'm counting on you Selene!"
-    aurora "As you say! I'm counting on you Selene!"
+    aurora "你说了算！Selene你也得给本宫好好侍奉他！"
 
 # game/castle.rpy#L920
 translate chinese selenemenu_beb92f88:
 
     # selene "Oi, don't slack off!"
-    selene "Oi, don't slack off!"
+    selene "喂，你也别放松摸鱼啊！"
 
 # game/castle.rpy#L921
 translate chinese selenemenu_53a8796c:
 
     # "The horny mares grind their hips back and forth. Their technique is sloppy at first, but they soon find a rhythm which compliments each other’s movements."
-    "The horny mares grind their hips back and forth. Their technique is sloppy at first, but they soon find a rhythm which compliments each other’s movements."
+    "两只淫乱的雌驹来回摩擦着彼此的丰臀。她们一开始的动作还很慢，但她们很快就找到了一种能契合彼此的摩擦节奏。"
 
 # game/castle.rpy#L922
 translate chinese selenemenu_fbc73b33:
 
     # "Both mares apply pressure as their pussies slip back and forth, the sensation perfectly pleasuring my glans; sucking and squishing like penetration."
-    "Both mares apply pressure as their pussies slip back and forth, the sensation perfectly pleasuring my glans; sucking and squishing like penetration."
+    "两只雌驹互相发力，来回滑动自己的小穴，舒适的感觉从我的龟头蔓延至全身；快感丝毫不亚于插进小穴当中。"
 
 # game/castle.rpy#L923
 translate chinese selenemenu_044d3244:
 
     # selene "Ahhh, ahh, why can’t you just put it inside? *Squish, squish*"
-    selene "Ahhh, ahh, why can’t you just put it inside? *Squish, squish*"
+    selene "啊，啊，你怎么就不能插进去呢？*啪唧，啪唧*"
 
 # game/castle.rpy#L924
 translate chinese selenemenu_fc28d711:
 
     # aurora "Maybe [playername] likes doing it like this, it's pretty fuckin' lewd."
-    aurora "Maybe [playername] likes doing it like this, it's pretty fuckin' lewd."
+    aurora "或许[playername]就好这口呢，好淫荡啊。"
 
 # game/castle.rpy#L925
 translate chinese selenemenu_ce7809b1:
 
     # "With overwhelming desire, their pussies drip and squirt all over my cock and each other, leaving my cock with a glistening sheen which allows them to move even faster."
-    "With overwhelming desire, their pussies drip and squirt all over my cock and each other, leaving my cock with a glistening sheen which allows them to move even faster."
+    "她们的蜜穴在强烈的欲望下，不断地向彼此和我的肉棒上滴落爱液，让我肉棒的棒身上泛起黏滑的水光，可以更加顺畅地来回抽插。"
 
 # game/castle.rpy#L926
 translate chinese selenemenu_c343c6c7:
 
     # "As amazing as the pressure from their scissoring feels, I’ll never be able to cum from just this."
-    "As amazing as the pressure from their scissoring feels, I’ll never be able to cum from just this."
+    "虽然她们“夹逼”的力度不小，但仅仅靠着是没办法让我交货的。"
 
 # game/castle.rpy#L927
 translate chinese selenemenu_59f7c6b2:
 
     # "Straining myself slightly, I begin to thrust back and forth, squishing and indenting their labia as they try to keep up."
-    "Straining myself slightly, I begin to thrust back and forth, squishing and indenting their labia as they try to keep up."
+    "我开始慢慢调整起自己的动作，主动在穴间抽拉起来，在二女的阴唇上来回摩擦，她们也尽力配合着我的节奏。"
 
 # game/castle.rpy#L928
 translate chinese selenemenu_1d488038:
 
     # selene "Ohh, ohhhh, yes! Keep pushing my clit like that!"
-    selene "Ohh, ohhhh, yes! Keep pushing my clit like that!"
+    selene "哦，哦哦，没错！把人家的阴蒂擦得好舒服！"
 
 # game/castle.rpy#L929
 translate chinese selenemenu_f0caabc5:
 
     # aurora "Be sure to give us both a creampie! *Squish, grind, squelch*"
-    aurora "Be sure to give us both a creampie! *Squish, grind, squelch*"
+    aurora "一定要把美味的肉棒牛奶都射进我们两个的里面哦！*啪唧，摩擦，扑哧*"
 
 # game/castle.rpy#L930
 translate chinese selenemenu_8c675be9:
 
     # "With all three of us grinding against each other, the sensations are increased and I get ever closer to my important climax."
-    "With all three of us grinding against each other, the sensations are increased and I get ever closer to my important climax."
+    "我们三个彼此间的相互摩擦让我的快感告诉攀升，我的高潮已近。"
 
 # game/castle.rpy#L931
 translate chinese selenemenu_c372e828:
 
     # "The sisters hump like rabbits as they try to steal as much pleasure as they can, fortunately that serves my purposes too."
-    "The sisters hump like rabbits as they try to steal as much pleasure as they can, fortunately that serves my purposes too."
+    "两姐妹像兔子一样弓起身试图贪得更多的快感，这个姿势也让我的快感倍增。"
 
 # game/castle.rpy#L933
 translate chinese selenemenu_16f5cf67:
 
     # aurora "Ahh, ohhh, harder sis, grind harder! It’s too hard on the bottom, aaahhhh!"
-    aurora "Ahh, ohhh, harder sis, grind harder! It’s too hard on the bottom, aaahhhh!"
+    aurora "啊，哦，再用点力摩擦啊妹妹！我的屁股快动不了了，啊啊啊啊！"
 
 # game/castle.rpy#L934
 translate chinese selenemenu_fbc02749:
 
     # selene "Ohh f-fuuuck! I-I’m gonna come, I’m coming from just grinding on this cock! Ahh, ahh! *Squish, grind*"
-    selene "Ohh f-fuuuck! I-I’m gonna come, I’m coming from just grinding on this cock! Ahh, ahh! *Squish, grind*"
+    selene "哦妹，妹的！我，我要去了，就一根鸡巴在下面摩擦，我居然就要这么去了！啊，啊！*啪唧，摩擦*"
 
 # game/castle.rpy#L935
 translate chinese selenemenu_e3f179b8:
 
     # "Selene’s pussy contracts and squirts slightly as she orgasms, her hips bucking and applying more pressure to my cock."
-    "Selene’s pussy contracts and squirts slightly as she orgasms, her hips bucking and applying more pressure to my cock."
+    "Selene的小穴在高潮中慢慢收紧，丰臀死死地往下压，把我的肉棒挤得更紧。"
 
 # game/castle.rpy#L936
 translate chinese selenemenu_1c94fc9c:
 
     # "Aurora, frustrated that she hasn’t achieved orgasm from her more awkward position, irately pushes back with more vigour."
-    "Aurora, frustrated that she hasn’t achieved orgasm from her more awkward position, irately pushes back with more vigour."
+    "Aurora因为处于不利姿势，所以没能高潮，恼火的她开始拼命地来回摩擦起来。"
 
 # game/castle.rpy#L937
 translate chinese selenemenu_1ebc8ccb:
 
     # "The increase of intensity from both sides rapidly begins to overwhelm my cock, finally I can feel that familiar tension in my taint."
-    "The increase of intensity from both sides rapidly begins to overwhelm my cock, finally I can feel that familiar tension in my taint."
+    "两姐妹的下体以庞大的压力疯狂挤压着我的肉棒，熟悉的感觉又涌上心头。"
 
 # game/castle.rpy#L938
 translate chinese selenemenu_68fdd4e3:
 
     # "My cock stiffens and my muscles grow tense, my mind clouds up as a potent orgasm rises throughout my core."
-    "My cock stiffens and my muscles grow tense, my mind clouds up as a potent orgasm rises throughout my core."
+    "我的鸡巴开始胀痛，身体紧绷，当滚烫的岩浆即将喷涌而出时，我的思绪早已飘入了性福的云端。"
 
 # game/castle.rpy#L939
 translate chinese selenemenu_ab90d37f:
 
     # selene "Ahhhaa, ghhaahh! *Pant, pant* *Squish, squirt*"
-    selene "Ahhhaa, ghhaahh! *Pant, pant* *Squish, squirt*"
+    selene "啊啊啊，嘎啊啊！*喘气，喘气* *啪唧，扑哧*"
 
 # game/castle.rpy#L940
 translate chinese selenemenu_1bff5cc8:
 
     # aurora "F-Finally, I-I’m gonna come, yesshh! I’m coming for you [playername], gimme your cummies too!"
-    aurora "F-Finally, I-I’m gonna come, yesshh! I’m coming for you [playername], gimme your cummies too!"
+    aurora "终，终于，我，我要去了，爽，爽啊！[playername]让我去了，把你的肉棒牛奶也喂给人家啊！"
 
 # game/castle.rpy#L941
 translate chinese selenemenu_ce75e65e:
 
     # "This is it! Instantly I pull back from the sisters to their immediate dismay, as I deny them pleasure from their orgasms."
-    "This is it! Instantly I pull back from the sisters to their immediate dismay, as I deny them pleasure from their orgasms."
+    "是时候了，我立马将肉棒从俩姐妹的穴间抽出，肉缝间突然的真空把她们两个弄得有点不高兴，我不想让她们俩觉得我不想射出来。"
 
 # game/castle.rpy#L946
 translate chinese selenemenu_fbf4d548:
 
     # "However as if to rectify that problem, with one thrust I plunge my cock into Selene’s pussy, just as my cock erupts, and launches several loads deep into her womb."
-    "However as if to rectify that problem, with one thrust I plunge my cock into Selene’s pussy, just as my cock erupts, and launches several loads deep into her womb."
+    "为了安抚她们的情绪，我在高潮前的千钧一发之际，把鸡巴使劲地插进了Selene的蜜穴中，几发滚烫的精液奔涌而出，灌进她的子宫。"
 
 # game/castle.rpy#L951
 translate chinese selenemenu_58c49e71:
 
     # "Less than a second after, I pull back and lunge my shaft deep into Aurora’s pussy, a stray dollop of cum escaping and splattering her vulva."
-    "Less than a second after, I pull back and lunge my shaft deep into Aurora’s pussy, a stray dollop of cum escaping and splattering her vulva."
+    "在一秒钟都不到的时间里我又拔出鸡巴，立即向Aurora的蜜穴里狠狠挺去，浓厚的一团精液从我们的交合处飞溅溢出。"
 
 # game/castle.rpy#L958
 translate chinese selenemenu_9fdb7262:
 
     # "Sinking into the white mare, I breathe a sigh of relief as I unload the second half of my orgasm into her womb."
-    "Sinking into the white mare, I breathe a sigh of relief as I unload the second half of my orgasm into her womb."
+    "在插进白色雌驹，将我后半部分高潮的精液也倾泻进她的子宫后，我总算松了口气，这下算雨露均沾了吧。"
 
 # game/castle.rpy#L960
 translate chinese selenemenu_9e77185f:
 
     # "Phew..."
-    "Phew..."
+    "呼......"
 
 # game/castle.rpy#L962
 translate chinese selenemenu_c3af3beb:
 
     # aurora "Mehehe, this is always a lot of fun!"
-    aurora "Mehehe, this is always a lot of fun!"
+    aurora "嗯呵呵，真是好玩，回味无穷！"
 
 # game/castle.rpy#L963
 translate chinese selenemenu_ca646f7f:
 
     # selene "Let's do this again!"
-    selene "Let's do this again!"
+    selene "再来一次嘛！"
 
 # game/castle.rpy#L964
 translate chinese selenemenu_2089cfcf:
 
     # aurora "W-Wha?!"
-    aurora "W-Wha?!"
+    aurora "还，还来！？"
 
 # game/castle.rpy#L965
 translate chinese selenemenu_6b6765ae:
 
     # selene "Come on, this dude saved our lives with that dick."
-    selene "Come on, this dude saved our lives with that dick."
+    selene "别在这装不好意思，他的鸡巴可救了咱两的命呢。"
 
 # game/castle.rpy#L966
 translate chinese selenemenu_06b1aafa:
 
     # selene "We're gonna outlive him anyway, let's make his life bliss in return."
-    selene "We're gonna outlive him anyway, let's make his life bliss in return."
+    selene "反正咱两的寿命比他长多了，尽可能地让他生活性福点不好吗。"
 
 # game/castle.rpy#L967
 translate chinese selenemenu_ff5a6e49:
 
     # aurora "True, he is kinda stuck in another world..."
-    aurora "True, he is kinda stuck in another world..."
+    aurora "有道理，他算是被困在这个世界里了......"
 
 # game/castle.rpy#L968
 translate chinese selenemenu_369a31c1:
 
     # "Damn, they just convinced themselves to give me infinite threesomes. Hell yes!"
-    "Damn, they just convinced themselves to give me infinite threesomes. Hell yes!"
+    "卧槽，她们刚刚同意了只要我上门随时可以找她们3P。真他妈绝了！"
 
 # game/castle.rpy#L970
 translate chinese selenemenu_04ce32b8:
 
     # "The three of us clean up, enjoy some more banter, and then Selene and I return to her quarters."
-    "The three of us clean up, enjoy some more banter, and then Selene and I return to her quarters."
+    "我们三个把身上的秽物都打理干净，开了一会玩笑，然后我和Selene就回到了她的住处。"
 
 # game/castle.rpy#L975
 translate chinese selenemenu_d5b407ef:
 
     # mc "Hmm... Did that really just happen?"
-    mc "Hmm... Did that really just happen?"
+    mc "嗯...我还有点不敢相信刚刚发生的事情？"
 
 # game/castle.rpy#L977
 translate chinese selenemenu_9e71b748:
 
     # selene "What, did you think I used a spell to make you dream it?"
-    selene "What, did you think I used a spell to make you dream it?"
+    selene "怎么，本宫还能施法让你做了场春梦不成？"
 
 # game/castle.rpy#L978
 translate chinese selenemenu_4a2ef417:
 
     # mc "I don't know..."
-    mc "I don't know..."
+    mc "我不确定......"
 
 # game/castle.rpy#L980
 translate chinese selenemenu_ce7f5561:
 
     # selene "Hehe."
-    selene "Hehe."
+    selene "呵呵。"
 
 # game/castle.rpy#L993
 translate chinese selenevisit_15547bd9:
 
     # "There’s a soft breeze accompanying the starry night while I make the long trek to the castle."
-    "There’s a soft breeze accompanying the starry night while I make the long trek to the castle."
+    "去城堡的路有些长，不过路上微风吹拂，繁星相伴，倒也不寂寞。"
 
 # game/castle.rpy#L994
 translate chinese selenevisit_eb2f0289:
 
     # "I wonder what Selene wants that’s so important she couldn’t tell me by mail?"
-    "I wonder what Selene wants that’s so important she couldn’t tell me by mail?"
+    "不知道Selene能有什么急事找我，发邮件给我不就行了？"
 
 # game/castle.rpy#L996
 translate chinese selenevisit_ce617998:
 
     # "…"
-    "…"
+    "..."
 
 # game/castle.rpy#L998
 translate chinese selenevisit_389bc4de:
 
     # "I’m escorted to Selene’s palace quarters, a small home-like setup in her palace that has all the functions of an ordinary home."
-    "I’m escorted to Selene’s palace quarters, a small home-like setup in her palace that has all the functions of an ordinary home."
+    "我在侍卫的护送下到了Selene在皇宫里的住处，房间不大，只是她宫殿中的一小处而已，但各种家具一应俱全。"
 
 # game/castle.rpy#L1000
 translate chinese selenevisit_a1e24b00:
 
     # "As before, I’m told to go to her bedroom."
-    "As before, I’m told to go to her bedroom."
+    "同之前一样，她要我去卧室觐见。"
 
 # game/castle.rpy#L1001
 translate chinese selenevisit_78f47044:
 
     # "Why her bedroom? Surely with such a large living quarters she doesn’t work from here."
-    "Why her bedroom? Surely with such a large living quarters she doesn’t work from here."
+    "为什么要去卧室？她的宫殿不算小，如果是公事的话可以在其他地方办的吧。"
 
 # game/castle.rpy#L1003
 translate chinese selenevisit_3198d039:
 
     # "Crap, maybe this is just like what happened with Aurora..."
-    "Crap, maybe this is just like what happened with Aurora..."
+    "擦，她不会跟Aurora一样吧......"
 
 # game/castle.rpy#L1004
 translate chinese selenevisit_b9fd8e71:
 
     # "Maybe she wants to have sex with me... Has she been watching me, seen me sleeping with everyone, and wants to see what all the excitement is about?"
-    "Maybe she wants to have sex with me... Has she been watching me, seen me sleeping with everyone, and wants to see what all the excitement is about?"
+    "可能她是想见识见识我的床上功夫...她一直有关注我，我和其他马的床上时光都逃不过她的法眼，也想品品交媾的欢愉？"
 
 # game/castle.rpy#L1006
 translate chinese selenevisit_764867d5:
 
     # "Crap, does she really want to have sex with me? Has she been watching me, seen me sleeping with everyone, and wants to see what all the excitement is about?"
-    "Crap, does she really want to have sex with me? Has she been watching me, seen me sleeping with everyone, and wants to see what all the excitement is about?"
+    "擦，她不是想见识见识我的床上功夫吧？她是不是一直在关注我，看着我和其他马的床上风云，也想品品交媾的欢愉？"
 
 # game/castle.rpy#L1007
 translate chinese selenevisit_f5f339b1:
 
     # "As I step into her bedroom, I meekly walk through the large interior towards Selene, who is sat facing away from me."
-    "As I step into her bedroom, I meekly walk through the large interior towards Selene, who is sat facing away from me."
+    "当我步入她的卧室时，里面很是宽敞，我径直走向背对着我坐着的Selene。"
 
 # game/castle.rpy#L1008
 translate chinese selenevisit_62fde824:
 
     # mc "Good evening, your highness."
-    mc "Good evening, your highness."
+    mc "晚上好，殿下。"
 
 # game/castle.rpy#L1010
 translate chinese selenevisit_c17fc807:
 
     # "Selene is currently writing down some notes with telekinesis whilst simultaneously reading before she puts them both down and jumps up to welcome me."
-    "Selene is currently writing down some notes with telekinesis whilst simultaneously reading before she puts them both down and jumps up to welcome me."
+    "Selene正在用心灵传动写东西，并且仔细斟酌品读，当我的声音在背后响起之后，她立马跳起来迎接我。"
 
 # game/castle.rpy#L1011
 translate chinese selenevisit_e2f86053:
 
     # selene "Good evening [playername], so gracious for you to join me tonight."
-    selene "Good evening [playername], so gracious for you to join me tonight."
+    selene "晚好啊[playername]，今宵有君是为良宵。"
 
 # game/castle.rpy#L1012
 translate chinese selenevisit_833b209a:
 
     # mc "The pleasure is mine Princess; can I call you Selene?"
-    mc "The pleasure is mine Princess; can I call you Selene?"
+    mc "公主过奖了；我能直接叫您Selene吗？"
 
 # game/castle.rpy#L1014
 translate chinese selenevisit_2d5f50da:

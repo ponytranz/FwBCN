@@ -317,14 +317,14 @@
   {
     "id": 79443857,
     "createdAt": "2021-05-30T19:47:49.000Z",
-    "updatedAt": "2021-06-02T16:38:03.000Z",
+    "updatedAt": "2021-07-02T08:50:25.000Z",
     "key": "game/library.rpy_L786_2",
     "original": "Hopefully go back and forth.",
-    "translation": "满怀希望地走来走去。",
+    "translation": "或许我希望能来回穿梭。",
     "file": 272385,
     "stage": 3,
     "project": 2414,
-    "uid": 21858,
+    "uid": 20927,
     "extra": null,
     "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/library.rpy#L786",
     "words": 5

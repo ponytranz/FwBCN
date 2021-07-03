@@ -1,4 +1,4 @@
-# Translation updated at Fri Jul 02 2021 00:48:53 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Sat Jul 03 2021 00:48:43 GMT+0000 (Coordinated Universal Time)
 # game/artgallery.rpy#L8
 translate chinese artgallery_867fe6a7:
 
@@ -293,11 +293,11 @@ translate chinese strings:
 
     # game/artgallery.rpy_L706_0
     old "Slime'd"
-    new "Slime'd"
+    new "抹粘液"
 
     # game/artgallery.rpy_L706_1
     old "Plant'd"
-    new "Plant'd"
+    new "种植式"
 
     # game/artgallery.rpy_L706_2
     old "Cowgirl (Normal/Succubus)"
@@ -365,7 +365,7 @@ translate chinese strings:
 
     # game/artgallery.rpy_L1029_4
     old "Random Cow Girls Threesome"
-    new "Random Cow Girls Threesome"
+    new "随机3P骑乘位"
 
     # game/artgallery.rpy_L1117_0
     old "Ari, Sonia and Agatha"
