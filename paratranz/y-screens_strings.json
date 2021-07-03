@@ -380,6 +380,211 @@
     "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1460"
   },
   {
+    "key": "game/y-screens.rpy_L1563_0",
+    "original": "{color=#00000000}Secret Scenes: [secretsunlocked]/13{/color}",
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1563"
+  },
+  {
+    "key": "game/y-screens.rpy_L1568_0",
+    "original": "{color=#00000000}I should buy Moxie some gifts {p}to increase her affection.{/color}",
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1568"
+  },
+  {
+    "key": "game/y-screens.rpy_L1576_0",
+    "original": "{color=#00000000}Complete!{/color}",
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1576"
+  },
+  {
+    "key": "game/y-screens.rpy_L1581_0",
+    "original": "{color=#00000000}I should help Honeycrisp at {p}the farm.{/color}",
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1581"
+  },
+  {
+    "key": "game/y-screens.rpy_L1585_0",
+    "original": "{color=#00000000}Complete Ruby's route and {p}visit the nightclub.{/color}",
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1585"
+  },
+  {
+    "key": "game/y-screens.rpy_L1595_0",
+    "original": "{color=#00000000}I should visit Riku at {p}her bar.{/color}",
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1595"
+  },
+  {
+    "key": "game/y-screens.rpy_L1599_0",
+    "original": "{color=#00000000}I should buy a dress for {p}Riku from the boutique.{/color}",
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1599"
+  },
+  {
+    "key": "game/y-screens.rpy_L1613_0",
+    "original": "{color=#00000000}I should help Ruby at {p}her boutique.{/color}",
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1613"
+  },
+  {
+    "key": "game/y-screens.rpy_L1625_0",
+    "original": "{color=#00000000}I should visit the {p}boutique at night.{/color}",
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1625"
+  },
+  {
+    "key": "game/y-screens.rpy_L1629_0",
+    "original": "{color=#00000000}I should complete Blossom's {p}route.{/color}",
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1629"
+  },
+  {
+    "key": "game/y-screens.rpy_L1633_0",
+    "original": "{color=#00000000}I should visit the spa at {p}least once, then visit the {p}music studio.{/color}",
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1633"
+  },
+  {
+    "key": "game/y-screens.rpy_L1637_0",
+    "original": "{color=#00000000}It'll cost 150 monies {p}to fix her laptop.{/color}",
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1637"
+  },
+  {
+    "key": "game/y-screens.rpy_L1651_0",
+    "original": "{color=#00000000}You can meet four unique girls {p}at the bar or nightclub{p} in the evening.{/color}",
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1651"
+  },
+  {
+    "key": "game/y-screens.rpy_L1657_0",
+    "original": "{color=#00000000}$20 Patron or Steam version{p}only. Note: Steam version{p} isn't out yet.{/color}",
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1657"
+  },
+  {
+    "key": "game/y-screens.rpy_L1665_0",
+    "original": "{color=#00000000}Visit the Church in the {p}City.{/color}",
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1665"
+  },
+  {
+    "key": "game/y-screens.rpy_L1673_0",
+    "original": "{color=#00000000}Finish Augusta's research.{/color}",
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1673"
+  },
+  {
+    "key": "game/y-screens.rpy_L1681_0",
+    "original": "{color=#00000000}I should go work at the {p}library.{/color}",
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1681"
+  },
+  {
+    "key": "game/y-screens.rpy_L1685_0",
+    "original": "{color=#00000000}Secret, find out later.{/color}",
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1685"
+  },
+  {
+    "key": "game/y-screens.rpy_L1689_0",
+    "original": "{color=#00000000}Work at the library and{p} take her offer.{/color}",
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1689"
+  },
+  {
+    "key": "game/y-screens.rpy_L1702_0",
+    "original": "{color=#00000000}Complete Honey's route {p}and visit the nightclub.{/color}",
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1702"
+  },
+  {
+    "key": "game/y-screens.rpy_L1711_0",
+    "original": "{color=#00000000}I should visit the cottage{p} in the forest.{/color}",
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1711"
+  },
+  {
+    "key": "game/y-screens.rpy_L1715_0",
+    "original": "{color=#00000000}I should buy Butters some {p}gifts to raise her affection.{/color}",
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1715"
+  },
+  {
+    "key": "game/y-screens.rpy_L1728_0",
+    "original": "{color=#00000000}I should visit the muffin {p}stall in the market.{/color}",
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1728"
+  },
+  {
+    "key": "game/y-screens.rpy_L1736_0",
+    "original": "{color=#00000000}I should buy Cindy's {p}'services'!{/color}",
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1736"
+  },
+  {
+    "key": "game/y-screens.rpy_L1741_0",
+    "original": "{color=#00000000}Available at the Spa during {p}the day.{/color}",
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1741"
+  },
+  {
+    "key": "game/y-screens.rpy_L1755_0",
+    "original": "{color=#00000000}I should visit Selene at {p}night.{/color}",
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1755"
+  },
+  {
+    "key": "game/y-screens.rpy_L1759_0",
+    "original": "{color=#00000000}Complete Library, Forest {p}and Bar.{/color}",
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1759"
+  },
+  {
+    "key": "game/y-screens.rpy_L1774_0",
+    "original": "{color=#00000000}I should work at the bakery.{/color}",
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1774"
+  },
+  {
+    "key": "game/y-screens.rpy_L1783_0",
+    "original": "{color=#00000000}Complete Butters' Route.{/color}",
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1783"
+  },
+  {
+    "key": "game/y-screens.rpy_L1791_0",
+    "original": "{color=#00000000}Visit Zoe at night.{/color}",
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1791"
+  },
+  {
+    "key": "game/y-screens.rpy_L1795_0",
+    "original": "{color=#00000000}Visit the deep forest at {p}night.{/color}",
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1795"
+  },
+  {
+    "key": "game/y-screens.rpy_L1799_0",
+    "original": "{color=#00000000}Buy all of the equipment {p}for Butters.{/color}",
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1799"
+  },
+  {
+    "key": "game/y-screens.rpy_L1810_0",
+    "original": "{color=#00000000}Visit the market place and {p}flirt with the orange mare a{p} few times.{/color}",
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1810"
+  },
+  {
+    "key": "game/y-screens.rpy_L1814_0",
+    "original": "{color=#00000000}Visit Sonia and Agatha at {p} the nightclub.{/color}",
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1814"
+  },
+  {
+    "key": "game/y-screens.rpy_L1818_0",
+    "original": "{color=#00000000}Visit Ari at the market.{/color}",
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1818"
+  },
+  {
+    "key": "game/y-screens.rpy_L1829_0",
+    "original": "{color=#00000000}Visit the Nightclub.{/color}",
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1829"
+  },
+  {
+    "key": "game/y-screens.rpy_L1833_0",
+    "original": "{color=#00000000}Complete the Library route,{p} then visit the nightclub.{/color}",
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1833"
+  },
+  {
+    "key": "game/y-screens.rpy_L1837_0",
+    "original": "{color=#00000000}Visit the nightclub in the {p} morning.{/color}",
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1837"
+  },
+  {
+    "key": "game/y-screens.rpy_L1841_0",
+    "original": "{color=#00000000}Complete both Princess routes,{p} then visit the nightclub{p} after the final route.{/color}",
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1841"
+  },
+  {
+    "key": "game/y-screens.rpy_L1845_0",
+    "original": "{color=#00000000}Visit the market.{/color}",
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1845"
+  },
+  {
+    "key": "game/y-screens.rpy_L1859_0",
+    "original": "{color=#00000000}Visit the castle during the {p}day.{/color}",
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1859"
+  },
+  {
     "key": "game/y-screens.rpy_L1883_0",
     "original": "Moxie's Satchel:",
     "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1883"
