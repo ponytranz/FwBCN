@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-07-03 18:26
+# TODO: Translation updated at 2021-07-03 18:26
 
 # game/y-screens.rpy#L1551
 translate chinese todolist_5a4038dc:
@@ -348,171 +348,171 @@ translate chinese strings:
     old "Menu"
     new "菜单"
 
-    # game/y-screens.rpy_L1883_0
-    # game/y-screens.rpy:1563
+    # game/y-screens.rpy_L1563_0
     old "{color=#00000000}Secret Scenes: [secretsunlocked]/13{/color}"
     new ""
 
-    # game/y-screens.rpy:1568
+    # game/y-screens.rpy_L1568_0
     old "{color=#00000000}I should buy Moxie some gifts {p}to increase her affection.{/color}"
     new ""
 
-    # game/y-screens.rpy:1576
+    # game/y-screens.rpy_L1576_0
     old "{color=#00000000}Complete!{/color}"
     new ""
 
-    # game/y-screens.rpy:1581
+    # game/y-screens.rpy_L1581_0
     old "{color=#00000000}I should help Honeycrisp at {p}the farm.{/color}"
     new ""
 
-    # game/y-screens.rpy:1585
+    # game/y-screens.rpy_L1585_0
     old "{color=#00000000}Complete Ruby's route and {p}visit the nightclub.{/color}"
     new ""
 
-    # game/y-screens.rpy:1595
+    # game/y-screens.rpy_L1595_0
     old "{color=#00000000}I should visit Riku at {p}her bar.{/color}"
     new ""
 
-    # game/y-screens.rpy:1599
+    # game/y-screens.rpy_L1599_0
     old "{color=#00000000}I should buy a dress for {p}Riku from the boutique.{/color}"
     new ""
 
-    # game/y-screens.rpy:1613
+    # game/y-screens.rpy_L1613_0
     old "{color=#00000000}I should help Ruby at {p}her boutique.{/color}"
     new ""
 
-    # game/y-screens.rpy:1625
+    # game/y-screens.rpy_L1625_0
     old "{color=#00000000}I should visit the {p}boutique at night.{/color}"
     new ""
 
-    # game/y-screens.rpy:1629
+    # game/y-screens.rpy_L1629_0
     old "{color=#00000000}I should complete Blossom's {p}route.{/color}"
     new ""
 
-    # game/y-screens.rpy:1633
+    # game/y-screens.rpy_L1633_0
     old "{color=#00000000}I should visit the spa at {p}least once, then visit the {p}music studio.{/color}"
     new ""
 
-    # game/y-screens.rpy:1637
+    # game/y-screens.rpy_L1637_0
     old "{color=#00000000}It'll cost 150 monies {p}to fix her laptop.{/color}"
     new ""
 
-    # game/y-screens.rpy:1651
+    # game/y-screens.rpy_L1651_0
     old "{color=#00000000}You can meet four unique girls {p}at the bar or nightclub{p} in the evening.{/color}"
     new ""
 
-    # game/y-screens.rpy:1657
+    # game/y-screens.rpy_L1657_0
     old "{color=#00000000}$20 Patron or Steam version{p}only. Note: Steam version{p} isn't out yet.{/color}"
     new ""
 
-    # game/y-screens.rpy:1665
+    # game/y-screens.rpy_L1665_0
     old "{color=#00000000}Visit the Church in the {p}City.{/color}"
     new ""
 
-    # game/y-screens.rpy:1673
+    # game/y-screens.rpy_L1673_0
     old "{color=#00000000}Finish Augusta's research.{/color}"
     new ""
 
-    # game/y-screens.rpy:1681
+    # game/y-screens.rpy_L1681_0
     old "{color=#00000000}I should go work at the {p}library.{/color}"
     new ""
 
-    # game/y-screens.rpy:1685
+    # game/y-screens.rpy_L1685_0
     old "{color=#00000000}Secret, find out later.{/color}"
     new ""
 
-    # game/y-screens.rpy:1689
+    # game/y-screens.rpy_L1689_0
     old "{color=#00000000}Work at the library and{p} take her offer.{/color}"
     new ""
 
-    # game/y-screens.rpy:1702
+    # game/y-screens.rpy_L1702_0
     old "{color=#00000000}Complete Honey's route {p}and visit the nightclub.{/color}"
     new ""
 
-    # game/y-screens.rpy:1711
+    # game/y-screens.rpy_L1711_0
     old "{color=#00000000}I should visit the cottage{p} in the forest.{/color}"
     new ""
 
-    # game/y-screens.rpy:1715
+    # game/y-screens.rpy_L1715_0
     old "{color=#00000000}I should buy Butters some {p}gifts to raise her affection.{/color}"
     new ""
 
-    # game/y-screens.rpy:1728
+    # game/y-screens.rpy_L1728_0
     old "{color=#00000000}I should visit the muffin {p}stall in the market.{/color}"
     new ""
 
-    # game/y-screens.rpy:1736
+    # game/y-screens.rpy_L1736_0
     old "{color=#00000000}I should buy Cindy's {p}'services'!{/color}"
     new ""
 
-    # game/y-screens.rpy:1741
+    # game/y-screens.rpy_L1741_0
     old "{color=#00000000}Available at the Spa during {p}the day.{/color}"
     new ""
 
-    # game/y-screens.rpy:1755
+    # game/y-screens.rpy_L1755_0
     old "{color=#00000000}I should visit Selene at {p}night.{/color}"
     new ""
 
-    # game/y-screens.rpy:1759
+    # game/y-screens.rpy_L1759_0
     old "{color=#00000000}Complete Library, Forest {p}and Bar.{/color}"
     new ""
 
-    # game/y-screens.rpy:1774
+    # game/y-screens.rpy_L1774_0
     old "{color=#00000000}I should work at the bakery.{/color}"
     new ""
 
-    # game/y-screens.rpy:1783
+    # game/y-screens.rpy_L1783_0
     old "{color=#00000000}Complete Butters' Route.{/color}"
     new ""
 
-    # game/y-screens.rpy:1791
+    # game/y-screens.rpy_L1791_0
     old "{color=#00000000}Visit Zoe at night.{/color}"
     new ""
 
-    # game/y-screens.rpy:1795
+    # game/y-screens.rpy_L1795_0
     old "{color=#00000000}Visit the deep forest at {p}night.{/color}"
     new ""
 
-    # game/y-screens.rpy:1799
+    # game/y-screens.rpy_L1799_0
     old "{color=#00000000}Buy all of the equipment {p}for Butters.{/color}"
     new ""
 
-    # game/y-screens.rpy:1810
+    # game/y-screens.rpy_L1810_0
     old "{color=#00000000}Visit the market place and {p}flirt with the orange mare a{p} few times.{/color}"
     new ""
 
-    # game/y-screens.rpy:1814
+    # game/y-screens.rpy_L1814_0
     old "{color=#00000000}Visit Sonia and Agatha at {p} the nightclub.{/color}"
     new ""
 
-    # game/y-screens.rpy:1818
+    # game/y-screens.rpy_L1818_0
     old "{color=#00000000}Visit Ari at the market.{/color}"
     new ""
 
-    # game/y-screens.rpy:1829
+    # game/y-screens.rpy_L1829_0
     old "{color=#00000000}Visit the Nightclub.{/color}"
     new ""
 
-    # game/y-screens.rpy:1833
+    # game/y-screens.rpy_L1833_0
     old "{color=#00000000}Complete the Library route,{p} then visit the nightclub.{/color}"
     new ""
 
-    # game/y-screens.rpy:1837
+    # game/y-screens.rpy_L1837_0
     old "{color=#00000000}Visit the nightclub in the {p} morning.{/color}"
     new ""
 
-    # game/y-screens.rpy:1841
+    # game/y-screens.rpy_L1841_0
     old "{color=#00000000}Complete both Princess routes,{p} then visit the nightclub{p} after the final route.{/color}"
     new ""
 
-    # game/y-screens.rpy:1845
+    # game/y-screens.rpy_L1845_0
     old "{color=#00000000}Visit the market.{/color}"
     new ""
 
-    # game/y-screens.rpy:1859
+    # game/y-screens.rpy_L1859_0
     old "{color=#00000000}Visit the castle during the {p}day.{/color}"
     new ""
 
+    # game/y-screens.rpy_L1883_0
     old "Moxie's Satchel:"
     new "Moxie的背包："
 

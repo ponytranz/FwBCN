@@ -5714,7 +5714,7 @@ translate chinese strings:
     old "<- Previous Page"
     new "<- 上一页"
 
-    # game/3map.rpy:1848
+    # game/3map.rpy_L1848_0
     old "Enter Password"
     new ""
 

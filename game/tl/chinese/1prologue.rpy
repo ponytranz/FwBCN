@@ -6346,7 +6346,7 @@ translate chinese strings:
     old "No, I want to play the first hour of story!"
     new "不！俺想要玩一个小时的序言故事！"
 
-    # game/1prologue.rpy:14
+    # game/1prologue.rpy_L14_0
     old "What is your first name?"
     new ""
 
