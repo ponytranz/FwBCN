@@ -1,4 +1,5 @@
-# Translation updated at Sat Jul 03 2021 10:39:29 GMT+0000 (Coordinated Universal Time)
+﻿# TODO: Translation updated at 2021-06-19 02:53
+
 # game/3map.rpy#L57
 translate chinese mapmarket_91ae100c:
 
@@ -5712,6 +5713,10 @@ translate chinese strings:
     # game/3map.rpy_L1822_6
     old "<- Previous Page"
     new "<- 上一页"
+
+    # game/3map.rpy:1848
+    old "Enter Password"
+    new ""
 
     # game/3map.rpy_L2038_0
     old "Visit Cindy’s sister."
