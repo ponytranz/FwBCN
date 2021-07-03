@@ -1566,117 +1566,117 @@ label todolist:
 
         ### Secrets
         if secretsunlocked > 0:
-            text "{color=#00000000}Secret Scenes: [secretsunlocked]/13{/color}":
+            text _("{color=#00000000}Secret Scenes: [secretsunlocked]/13{/color}"):
                 xpos 1000
                 ypos 125
         #moxie
         if moxiechocolates == 0:
-            text  "{color=#00000000}I should buy Moxie some gifts {p}to increase her affection.{/color}":
+            text _("{color=#00000000}I should buy Moxie some gifts {p}to increase her affection.{/color}"):
                 xalign 0.20
                 yalign 0.30
         elif moxieroses == 0:
-            text  "{color=#00000000}I should buy Moxie some gifts {p}to increase her affection.{/color}":
+            text _("{color=#00000000}I should buy Moxie some gifts {p}to increase her affection.{/color}"):
                 xalign 0.20
                 yalign 0.30
         else:
-            text "{color=#00000000}Complete!{/color}":
+            text _("{color=#00000000}Complete!{/color}"):
                 xalign 0.18
                 yalign 0.32
         #Honey
         if farmvisit3 == 0:
-            text  "{color=#00000000}I should help Honeycrisp at {p}the farm.{/color}":
+            text _("{color=#00000000}I should help Honeycrisp at {p}the farm.{/color}"):
                 xalign 0.20
                 yalign 0.44
         elif honeyrubythreesome == 0:
-            text  "{color=#00000000}Complete Ruby's route and {p}visit the nightclub.{/color}":
+            text _("{color=#00000000}Complete Ruby's route and {p}visit the nightclub.{/color}"):
                 xalign 0.20
                 yalign 0.44
         else:
-            text "{color=#00000000}Complete!{/color}":
+            text _("{color=#00000000}Complete!{/color}"):
                 xalign 0.18
                 yalign 0.45
 
         #Riku
         if barvisit1 == 0:
-            text  "{color=#00000000}I should visit Riku at {p}her bar.{/color}":
+            text _("{color=#00000000}I should visit Riku at {p}her bar.{/color}"):
                 xalign 0.19
                 yalign 0.57
         elif maiddressbought == 0:
-            text  "{color=#00000000}I should buy a dress for {p}Riku from the boutique.{/color}":
+            text _("{color=#00000000}I should buy a dress for {p}Riku from the boutique.{/color}"):
                 xalign 0.19
                 yalign 0.57
         elif barvisit2 == 0:
-            text  "{color=#00000000}I should visit Riku at {p}her bar.{/color}":
+            text _("{color=#00000000}I should visit Riku at {p}her bar.{/color}"):
                 xalign 0.19
                 yalign 0.57
         else:
-            text  "{color=#00000000}Complete!{/color}":
+            text _("{color=#00000000}Complete!{/color}"):
                 xalign 0.18
                 yalign 0.58
 
         #Melody
         if boutiquevisit1 == 0:
-            text  "{color=#00000000}I should help Ruby at {p}her boutique.{/color}":
+            text _("{color=#00000000}I should help Ruby at {p}her boutique.{/color}"):
                 xalign 0.19
                 yalign 0.70
         elif boutiquevisit2 == 0:
-            text  "{color=#00000000}I should help Ruby at {p}her boutique.{/color}":
+            text _("{color=#00000000}I should help Ruby at {p}her boutique.{/color}"):
                 xalign 0.19
                 yalign 0.70
         elif boutiquevisit3 == 0:
-            text  "{color=#00000000}I should help Ruby at {p}her boutique.{/color}":
+            text _("{color=#00000000}I should help Ruby at {p}her boutique.{/color}"):
                 xalign 0.19
                 yalign 0.70
         elif melodyeveningvisit1 == 0:
-            text  "{color=#00000000}I should visit the {p}boutique at night.{/color}":
+            text _("{color=#00000000}I should visit the {p}boutique at night.{/color}"):
                 xalign 0.19
                 yalign 0.70
         elif farmvisit3 == 0:
-            text  "{color=#00000000}I should complete Blossom's {p}route.{/color}":
+            text _("{color=#00000000}I should complete Blossom's {p}route.{/color}"):
                 xalign 0.19
                 yalign 0.70
         elif musicstudio == 0:
-            text  "{color=#00000000}I should visit the spa at {p}least once, then visit the {p}music studio.{/color}":
+            text _("{color=#00000000}I should visit the spa at {p}least once, then visit the {p}music studio.{/color}"):
                 xalign 0.20
                 yalign 0.68
         elif melodylaptop == 0:
-            text  "{color=#00000000}It'll cost 150 monies {p}to fix her laptop.{/color}":
+            text _("{color=#00000000}It'll cost 150 monies {p}to fix her laptop.{/color}"):
                 xalign 0.19
                 yalign 0.70
         else:
-            text  "{color=#00000000}Complete!{/color}":
+            text _("{color=#00000000}Complete!{/color}"):
                 xalign 0.18
                 yalign 0.70
 
         #Bar Girls
         if doggirl1 == 1 and wolfgirl1 == 1 and midnasexd == 1 and sofiasex == 1:
-            text  "{color=#00000000}Complete!{/color}":
+            text _("{color=#00000000}Complete!{/color}"):
                 xalign 0.18
                 yalign 0.81
         else:
-            text  "{color=#00000000}You can meet four unique girls {p}at the bar or nightclub{p} in the evening.{/color}":
+            text _("{color=#00000000}You can meet four unique girls {p}at the bar or nightclub{p} in the evening.{/color}"):
                 xalign 0.20
                 yalign 0.81
 
         #Augusta
         if dlc == 0:
-            text  "{color=#00000000}$20 Patron or Steam version{p}only. Note: Steam version{p} isn't out yet.{/color}":
+            text _("{color=#00000000}$20 Patron or Steam version{p}only. Note: Steam version{p} isn't out yet.{/color}"):
                 xalign 0.19
                 yalign 0.95
         elif aure == 0:
-            text  "{color=#00000000}Complete!{/color}":
+            text _("{color=#00000000}Complete!{/color}"):
                 xalign 0.18
                 yalign 0.94
         elif augustavisit == 0:
-            text  "{color=#00000000}Visit the Church in the {p}City.{/color}":
+            text _("{color=#00000000}Visit the Church in the {p}City.{/color}"):
                 xalign 0.20
                 yalign 0.94
         elif augustavisit == 2:
-            text  "{color=#00000000}Visit the Church in the {p}City.{/color}":
+            text _("{color=#00000000}Visit the Church in the {p}City.{/color}"):
                 xalign 0.20
                 yalign 0.94
         else:
-            text  "{color=#00000000}Finish Augusta's research.{/color}":
+            text _("{color=#00000000}Finish Augusta's research.{/color}"):
                 xalign 0.20
                 yalign 0.94
 
@@ -1684,185 +1684,185 @@ label todolist:
         ## SECOND ROW ##
         #Penelope
         if libraryvisit2 == 0:
-            text  "{color=#00000000}I should go work at the {p}library.{/color}":
+            text _("{color=#00000000}I should go work at the {p}library.{/color}"):
                 xalign 0.54
                 yalign 0.31
         elif fr == 0:
-            text  "{color=#00000000}Secret, find out later.{/color}":
+            text _("{color=#00000000}Secret, find out later.{/color}"):
                 xalign 0.54
                 yalign 0.31
         elif sdps == 0:
-            text  "{color=#00000000}Work at the library and{p} take her offer.{/color}":
+            text _("{color=#00000000}Work at the library and{p} take her offer.{/color}"):
                 xalign 0.54
                 yalign 0.31
         else:
-            text  "{color=#00000000}Complete!{/color}":
+            text _("{color=#00000000}Complete!{/color}"):
                 xalign 0.50
                 yalign 0.32
         #Ruby
         if boutiquevisit2 == 0:
-            text  "{color=#00000000}I should help Ruby at {p}her boutique.{/color}":
+            text _("{color=#00000000}I should help Ruby at {p}her boutique.{/color}"):
                 xalign 0.53
                 yalign 0.44
         elif honeyrubythreesome == 0:
-            text  "{color=#00000000}Complete Honey's route {p}and visit the nightclub.{/color}":
+            text _("{color=#00000000}Complete Honey's route {p}and visit the nightclub.{/color}"):
                 xalign 0.55
                 yalign 0.44
         else:
-            text  "{color=#00000000}Complete!{/color}":
+            text _("{color=#00000000}Complete!{/color}"):
                 xalign 0.50
                 yalign 0.44
         #Butters
         if forestvisit3 == 0:
-            text  "{color=#00000000}I should visit the cottage{p} in the forest.{/color}":
+            text _("{color=#00000000}I should visit the cottage{p} in the forest.{/color}"):
                 xalign 0.55
                 yalign 0.57
         elif butterschocolates == 0:
-            text  "{color=#00000000}I should buy Butters some {p}gifts to raise her affection.{/color}":
+            text _("{color=#00000000}I should buy Butters some {p}gifts to raise her affection.{/color}"):
                 xalign 0.55
                 yalign 0.57
         elif buttersroses == 0:
-            text  "{color=#00000000}I should buy Butters some {p}gifts to raise her affection.{/color}":
+            text _("{color=#00000000}I should buy Butters some {p}gifts to raise her affection.{/color}"):
                 xalign 0.55
                 yalign 0.57
         else:
-            text  "{color=#00000000}Complete!{/color}":
+            text _("{color=#00000000}Complete!{/color}"):
                 xalign 0.50
                 yalign 0.58
         #Cindy
         if cindymet == 0:
-            text  "{color=#00000000}I should visit the muffin {p}stall in the market.{/color}":
+            text _("{color=#00000000}I should visit the muffin {p}stall in the market.{/color}"):
                 xalign 0.54
                 yalign 0.69
         elif cindylum == 1:
-            text  "{color=#00000000}Complete!{/color}":
+            text _("{color=#00000000}Complete!{/color}"):
                 xalign 0.50
                 yalign 0.69
         elif cindymet == 1:
-            text  "{color=#00000000}I should buy Cindy's {p}'services'!{/color}":
+            text _("{color=#00000000}I should buy Cindy's {p}'services'!{/color}"):
                 xalign 0.54
                 yalign 0.70
         # Spa Girls
         if spatodo < 2:
-            text  "{color=#00000000}Available at the Spa during {p}the day.{/color}":
+            text _("{color=#00000000}Available at the Spa during {p}the day.{/color}"):
                 xalign 0.56
                 yalign 0.82
         else:
-            text  "{color=#00000000}Complete!{/color}":
+            text _("{color=#00000000}Complete!{/color}"):
                 xalign 0.50
                 yalign 0.82
 
         #Selene
         if selenevisit1 == 1:
-            text  "{color=#00000000}Complete!{/color}":
+            text _("{color=#00000000}Complete!{/color}"):
                 xalign 0.50
                 yalign 0.94
         elif selenevisitready == 1:
-            text  "{color=#00000000}I should visit Selene at {p}night.{/color}":
+            text _("{color=#00000000}I should visit Selene at {p}night.{/color}"):
                 xalign 0.55
                 yalign 0.94
         else:
-            text  "{color=#00000000}Complete Library, Forest {p}and Bar.{/color}":
+            text _("{color=#00000000}Complete Library, Forest {p}and Bar.{/color}"):
                 xalign 0.55
                 yalign 0.94
         ## THIRD ROW##
         #Dusk
         if libraryvisit3 == 0:
-            text  "{color=#00000000}I should go work at the {p}library.{/color}":
+            text _("{color=#00000000}I should go work at the {p}library.{/color}"):
                 xalign 0.89
                 yalign 0.31
         else:
-            text  "{color=#00000000}Complete!{/color}":
+            text _("{color=#00000000}Complete!{/color}"):
                 xalign 0.81
                 yalign 0.33
         #Cream
         if bakeryvisits < 2:
-            text "{color=#00000000}I should work at the bakery.{/color}":
+            text _("{color=#00000000}I should work at the bakery.{/color}"):
                 xalign 0.92
                 yalign 0.45
         else:
-            text "{color=#00000000}Complete!{/color}":
+            text _("{color=#00000000}Complete!{/color}"):
                 xalign 0.81
                 yalign 0.45
         #Zoe
         if forestvisit3 == 0:
-            text  "{color=#00000000}Complete Butters' Route.{/color}":
+            text _("{color=#00000000}Complete Butters' Route.{/color}"):
                 xalign 0.89
                 yalign 0.57
         elif zoe == 2:
-            text "{color=#00000000}Complete!{/color}":
+            text _("{color=#00000000}Complete!{/color}"):
                 xalign 0.81
                 yalign 0.57
         elif zoe == 1:
-            text  "{color=#00000000}Visit Zoe at night.{/color}":
+            text _("{color=#00000000}Visit Zoe at night.{/color}"):
                 xalign 0.85
                 yalign 0.57
         elif forestmonies == 55:
-            text  "{color=#00000000}Visit the deep forest at {p}night.{/color}":
+            text _("{color=#00000000}Visit the deep forest at {p}night.{/color}"):
                 xalign 0.89
                 yalign 0.57
         else:
-            text  "{color=#00000000}Buy all of the equipment {p}for Butters.{/color}":
+            text _("{color=#00000000}Buy all of the equipment {p}for Butters.{/color}"):
                 xalign 0.90
                 yalign 0.57
 
 
         # Dazzlings
         if arisex == 1:
-            text  "{color=#00000000}Complete!{/color}":
+            text _("{color=#00000000}Complete!{/color}"):
                 xalign 0.81
                 yalign 0.69
         elif ariflirtcounter <= 1:
-            text  "{color=#00000000}Visit the market place and {p}flirt with the orange mare a{p} few times.{/color}":
+            text _("{color=#00000000}Visit the market place and {p}flirt with the orange mare a{p} few times.{/color}"):
                 xalign 0.91
                 yalign 0.69
         elif agathasoniathreesome == 0:
-            text  "{color=#00000000}Visit Sonia and Agatha at {p} the nightclub.{/color}":
+            text _("{color=#00000000}Visit Sonia and Agatha at {p} the nightclub.{/color}"):
                 xalign 0.90
                 yalign 0.69
         elif arisex == 0:
-            text  "{color=#00000000}Visit Ari at the market.{/color}":
+            text _("{color=#00000000}Visit Ari at the market.{/color}"):
                 xalign 0.89
                 yalign 0.69
         else:
-            text  "{color=#00000000}Complete!{/color}":
+            text _("{color=#00000000}Complete!{/color}"):
                 xalign 0.81
                 yalign 0.69
 
 
         # Dawn
         if dawnvisit == 0:
-            text  "{color=#00000000}Visit the Nightclub.{/color}":
+            text _("{color=#00000000}Visit the Nightclub.{/color}"):
                 xalign 0.85
                 yalign 0.81
         elif dawnvisit == 1:
-            text  "{color=#00000000}Complete the Library route,{p} then visit the nightclub.{/color}":
+            text _("{color=#00000000}Complete the Library route,{p} then visit the nightclub.{/color}"):
                 xalign 0.93
                 yalign 0.81
         elif dawnvisit == 2:
-            text  "{color=#00000000}Visit the nightclub in the {p} morning.{/color}":
+            text _("{color=#00000000}Visit the nightclub in the {p} morning.{/color}"):
                 xalign 0.90
                 yalign 0.81
         elif dawnvisit == 3:
-            text  "{color=#00000000}Complete both Princess routes,{p} then visit the nightclub{p} after the final route.{/color}":
+            text _("{color=#00000000}Complete both Princess routes,{p} then visit the nightclub{p} after the final route.{/color}"):
                 xalign 0.95
                 yalign 0.81
         elif dawnvisit == 4:
-            text  "{color=#00000000}Visit the market.{/color}":
+            text _("{color=#00000000}Visit the market.{/color}"):
                 xalign 0.85
                 yalign 0.81
         else:
-            text  "{color=#00000000}Complete!{/color}":
+            text _("{color=#00000000}Complete!{/color}"):
                 xalign 0.81
                 yalign 0.81
 
         #aurora
         if auroravisit1 == 1:
-            text  "{color=#00000000}Complete!{/color}":
+            text _("{color=#00000000}Complete!{/color}"):
                 xalign 0.81
                 yalign 0.94
         elif auroravisitsetup == 1:
-            text  "{color=#00000000}Visit the castle during the {p}day.{/color}":
+            text _("{color=#00000000}Visit the castle during the {p}day.{/color}"):
                 xalign 0.92
                 yalign 0.94
         else:
