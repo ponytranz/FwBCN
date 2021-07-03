@@ -1,4 +1,4 @@
-# Translation updated at Sat Jul 03 2021 00:48:43 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Sat Jul 03 2021 10:39:29 GMT+0000 (Coordinated Universal Time)
 # game/church.rpy#L15
 translate chinese augustapost_d42bf085:
 
@@ -99,7 +99,7 @@ translate chinese augustamenu_daf9495b:
 translate chinese augustamenu_20a690e2:
 
     # augusta "I'd like to see you perform [aure] more acts at work."
-    augusta "I'd like to see you perform [aure] more acts at work."
+    augusta "我想看你在工作中做更多的行为。"
 
 # game/church.rpy#L52
 translate chinese augustamenu_8c858d6f:
@@ -963,7 +963,7 @@ translate chinese augustamenu_0d8a19e9:
 translate chinese augustamenu_db5c72e3:
 
     # augusta "Two more girls today and you can collect your pay from Sylphi."
-    augusta "Two more girls today and you can collect your pay from Sylphi."
+    augusta "今天再有两个女孩你就能从Sylphi那拿到你的工资了。"
 
 # game/church.rpy#L327
 translate chinese augustamenu_0ad2fb1f:
@@ -3921,31 +3921,31 @@ translate chinese lorequeen_62c16a78:
 translate chinese lorequeen_7bcf5dc0:
 
     # augusta "Well, with any luck, perhaps Penelope can help the group turn a new leaf. But as far as I'm concerned, it'll take a few generations before I can let what they've attempted go."
-    augusta "Well, with any luck, perhaps Penelope can help the group turn a new leaf. But as far as I'm concerned, it'll take a few generations before I can let what they've attempted go."
+    augusta "好吧，如果运气好的话，也许Penelope可以帮助这群人改过自新。但是就我来说，这可能需要几代人的时间直到我放过他们之前。"
 
 # game/church.rpy#L1254
 translate chinese lorequeen_e379b7c6:
 
     # augusta "Ah, nasty bug creatures. They're pretty similar to us ponies, but they specialise in deception, backstabbing and disguise."
-    augusta "Ah, nasty bug creatures. They're pretty similar to us ponies, but they specialise in deception, backstabbing and disguise."
+    augusta "啊，讨厌的虫子。它们和我们的小马很相似，但它们擅长欺骗、陷害和伪装。"
 
 # game/church.rpy#L1255
 translate chinese lorequeen_fce6a41f:
 
     # augusta "You could quite accurately call them our mortal enemies. But right now they're weak as hell, even their Queen lost all her power after a recent scuffle."
-    augusta "You could quite accurately call them our mortal enemies. But right now they're weak as hell, even their Queen lost all her power after a recent scuffle."
+    augusta "你其实可以把他们称作我们的死敌，但是他们现在虚弱的要命，甚至他们的女王也在最近一场战斗中失去了所有的力量。"
 
 # game/church.rpy#L1260
 translate chinese lorequeen_a0fbb431:
 
     # augusta "Oh hell, that's merely an employment bonus. I'd fuck 'em anyway if they were interesting enough."
-    augusta "Oh hell, that's merely an employment bonus. I'd fuck 'em anyway if they were interesting enough."
+    augusta "哦，该死，那只是一笔工作奖金。无论如何我都会肏他们，如果他们有足够性趣的话。"
 
 # game/church.rpy#L1262
 translate chinese lorequeen_23c5d260:
 
     # augusta "But then again, getting a juicy political deal is a lot easier when you're fucking the man signing the paper, ah-ha!"
-    augusta "But then again, getting a juicy political deal is a lot easier when you're fucking the man signing the paper, ah-ha!"
+    augusta "但话说回来，当你和签署文件的人做爱的时候，得到一个报酬丰厚的政治协议要容易得多，啊哈！"
 
 # game/church.rpy#L1263
 translate chinese lorequeen_4105c564:

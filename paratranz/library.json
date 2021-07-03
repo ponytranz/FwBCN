@@ -11192,14 +11192,14 @@
   {
     "id": 79440313,
     "createdAt": "2021-05-30T17:55:41.000Z",
-    "updatedAt": "2021-06-18T17:45:20.000Z",
+    "updatedAt": "2021-07-03T06:37:28.000Z",
     "key": "libraryvisit2_a145e2e2",
     "original": "I sip on some of Lily’s delicious peppermint tea as she rambles about science-y stuff she’s doing.",
-    "translation": "",
+    "translation": "我抿了一口Lily递来的美味薄荷茶，听着她滔滔不绝地讲她正在做的科学研究。",
     "file": 272350,
-    "stage": 0,
+    "stage": 1,
     "project": 2414,
-    "uid": null,
+    "uid": 21833,
     "extra": null,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwBCN/blob/main/game/library.rpy#L1297",
     "words": 17

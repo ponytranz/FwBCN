@@ -1,4 +1,4 @@
-# Translation updated at Sat Jul 03 2021 00:48:43 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Sat Jul 03 2021 10:39:29 GMT+0000 (Coordinated Universal Time)
 # game/library.rpy#L18
 translate chinese libraryvisit1_98593462:
 
@@ -4479,7 +4479,7 @@ translate chinese libraryvisit2_ce617998:
 translate chinese libraryvisit2_a145e2e2:
 
     # "I sip on some of Lily’s delicious peppermint tea as she rambles about science-y stuff she’s doing."
-    "I sip on some of Lily’s delicious peppermint tea as she rambles about science-y stuff she’s doing."
+    "我抿了一口Lily递来的美味薄荷茶，听着她滔滔不绝地讲她正在做的科学研究。"
 
 # game/library.rpy#L1298
 translate chinese libraryvisit2_189b1d72:

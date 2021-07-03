@@ -1,4 +1,4 @@
-# Translation updated at Sat Jul 03 2021 00:48:43 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Sat Jul 03 2021 10:39:29 GMT+0000 (Coordinated Universal Time)
 # game/finalroute.rpy#L6
 translate chinese finalroute_240762c1:
 
@@ -477,7 +477,7 @@ translate chinese finalroute_5df67007:
 translate chinese finalroute_e43cdfcc:
 
     # morrigan "You truly are powerless, why don’t you behave yourself and listen to the woman that brought you into this world?"
-    morrigan "你弱小无助，为何不识相点，听从于带你来这世界的神女呢。"
+    morrigan "你弱小无助，为何不识相点，听从于带你来这世界的神女呢？"
 
 # game/finalroute.rpy#L284
 translate chinese finalroute_99067dcd:
@@ -537,133 +537,133 @@ translate chinese finalroute_1e64f1ab:
 translate chinese finalroute_ff40f88a:
 
     # "With a huff, I leave the wagon…"
-    "With a huff, I leave the wagon…"
+    "我怒冲冲地离开了马车…"
 
 # game/finalroute.rpy#L314
 translate chinese finalroute_54e233e9:
 
     # penelope "Hmph, why are you even bothering with this useless pawn, your majesty? He’s served his purpose and can be disposed of now."
-    penelope "Hmph, why are you even bothering with this useless pawn, your majesty? He’s served his purpose and can be disposed of now."
+    penelope "陛下，您为什么还要费心去找这个没用的卒子呢？他已经尽到了他的用途，现在可以被处理掉了。"
 
 # game/finalroute.rpy#L315
 translate chinese finalroute_478b0fac:
 
     # penelope "Don’t tell me you’ve let yourself become influenced by your own spells."
-    penelope "Don’t tell me you’ve let yourself become influenced by your own spells."
+    penelope "别告诉我你已经被你自己的咒语影响了。"
 
 # game/finalroute.rpy#L319
 translate chinese finalroute_4cc5a722:
 
     # morrigan "*Giggles* Perhaps... They were powerful spells, I think it’d be nice to have him around, don’t you?"
-    morrigan "*Giggles* Perhaps... They were powerful spells, I think it’d be nice to have him around, don’t you?"
+    morrigan "*咯咯笑*也许... 它们是很强大的咒语，我觉得有他在身边会很好，你说呢？"
 
 # game/finalroute.rpy#L321
 translate chinese finalroute_88e3583d:
 
     # penelope "Tch… I have no strong opinion on the matter, I can only offer suggestions…"
-    penelope "Tch… I have no strong opinion on the matter, I can only offer suggestions…"
+    penelope "Tch… 我对这件事没有强烈的意见，我只能提供建议…"
 
 # game/finalroute.rpy#L322
 translate chinese finalroute_ede6c090:
 
     # penelope "But you can see why I never let him fuck me, that’s for damn sure…"
-    penelope "But you can see why I never let him fuck me, that’s for damn sure…"
+    penelope "但你能明白为什么我从不让他上我，这是肯定的…"
 
 # game/finalroute.rpy#L324
 translate chinese finalroute_fd4f0814:
 
     # morrigan "He has nowhere else to go. When he sees the state of his friends, he’ll come back, I’m sure of it..."
-    morrigan "He has nowhere else to go. When he sees the state of his friends, he’ll come back, I’m sure of it..."
+    morrigan "他没有别的地方可去。当他看到他朋友们的状况时，他一定会回来的，我敢肯定..."
 
 # game/finalroute.rpy#L325
 translate chinese finalroute_54483d4b:
 
     # morrigan "But for now, I believe I had an interview with the Royal Sisters, yes?"
-    morrigan "But for now, I believe I had an interview with the Royal Sisters, yes?"
+    morrigan "而现在的话，相信我已经造访过皇家姐妹了，对吧？"
 
 # game/finalroute.rpy#L327
 translate chinese finalroute_d311a196:
 
     # penelope "Right you are, your majesty."
-    penelope "Right you are, your majesty."
+    penelope "是的，陛下。"
 
 # game/finalroute.rpy#L333
 translate chinese finalroute_96cf105e:
 
     # "Stepping out the wagon and into the world, rain relentlessly hits my cold skin."
-    "Stepping out the wagon and into the world, rain relentlessly hits my cold skin."
+    "踏出马车，走进外边的世界，雨无情地打在我冰冷的皮肤上。"
 
 # game/finalroute.rpy#L334
 translate chinese finalroute_6bdaf3e1:
 
     # "Unsure where to go, or what to do. The world feels so strange and alien."
-    "Unsure where to go, or what to do. The world feels so strange and alien."
+    "不知道该去向何方，也不知道该做什么。这个世界感觉是如此的奇怪与陌生。"
 
 # game/finalroute.rpy#L335
 translate chinese finalroute_00029987:
 
     # "I need to meet my friends to see if they’re okay, but if it’s as bad as Morrigan said, I may have doomed Arcadia…"
-    "I need to meet my friends to see if they’re okay, but if it’s as bad as Morrigan said, I may have doomed Arcadia…"
+    "我需要去见我的朋友，看看他们是否还好；但如果真像Morrigan说的那样糟糕，我可能会毁了Arcadia..."
 
 # game/finalroute.rpy#L372
 translate chinese ctodolist_dcee5bce:
 
     # "... This list, was it Morrigan's?"
-    "... This list, was it Morrigan's?"
+    "... 这份名单，是Morrigan的吗?"
 
 # game/finalroute.rpy#L400
 translate chinese ccastle_525d7ff7:
 
     # "I'll save you Moxie, just you wait..."
-    "I'll save you Moxie, just you wait..."
+    "我会救你的，Moxie，等着吧..."
 
 # game/finalroute.rpy#L402
 translate chinese ccastle_aeb5118f:
 
     # "I could give up and find Morrigan, but... There must be some way out of this nightmare!"
-    "I could give up and find Morrigan, but... There must be some way out of this nightmare!"
+    "我可以就命去找Morrigan，可...肯定有啥法子脱出这场噩梦的！"
 
 # game/finalroute.rpy#L407
 translate chinese cwagon_93185f52:
 
     # "Should I return to the real world? (Crystal Ball)"
-    "Should I return to the real world? (Crystal Ball)"
+    "我应该回到现实世界吗? (水晶球)"
 
 # game/finalroute.rpy#L416
 translate chinese cwagon_a8d5fc75:
 
     # "The wagon is empty."
-    "The wagon is empty."
+    "马车是空的。"
 
 # game/finalroute.rpy#L421
 translate chinese cforest_6c474498:
 
     # "It'd be a waste of time to go back to Butters right now, I've got a sex quota to meet."
-    "It'd be a waste of time to go back to Butters right now, I've got a sex quota to meet."
+    "现在去见Butters是浪费时间呢，我得达到一定性量。"
 
 # game/finalroute.rpy#L425
 translate chinese cforest_54bc966d:
 
     # "It's a long walk to the forest, but fortunately the trees provide cover from the rain."
-    "It's a long walk to the forest, but fortunately the trees provide cover from the rain."
+    "到森林去要走很长一段路，但幸运的是，这些树提供了避雨的地方。"
 
 # game/finalroute.rpy#L426
 translate chinese cforest_35c99e83:
 
     # "I arrive at the cottage and knock on the door, Butters promptly answers."
-    "I arrive at the cottage and knock on the door, Butters promptly answers."
+    "我来到小屋前，敲了敲门，Butters立刻回应了我。"
 
 # game/finalroute.rpy#L432
 translate chinese cforest_38a0ea12:
 
     # butters "Hello [playername]. Miserable weather, I wonder what’s going on."
-    butters "Hello [playername]. Miserable weather, I wonder what’s going on."
+    butters "好啊 [playername]，天气很糟呢，我好奇究竟发生什么事了。"
 
 # game/finalroute.rpy#L433
 translate chinese cforest_51743bb0:
 
     # mc "B-Butters? You’re alright!"
-    mc "B-Butters? You’re alright!"
+    mc "B-Butters？你还没事！"
 
 # game/finalroute.rpy#L435
 translate chinese cforest_02c03fc6:
@@ -675,13 +675,13 @@ translate chinese cforest_02c03fc6:
 translate chinese cforest_9f4389b2:
 
     # mc "No, I mean… You’re not brainwashed, are you?"
-    mc "No, I mean… You’re not brainwashed, are you?"
+    mc "不，我的意思是... 你还没被洗脑吧？"
 
 # game/finalroute.rpy#L438
 translate chinese cforest_4fd1e790:
 
     # butters "Brainwashed? What are you talking about? It’s not raining so hard that it’s seeping through my skull."
-    butters "Brainwashed? What are you talking about? It’s not raining so hard that it’s seeping through my skull."
+    butters "洗脑？你在说什么呢？雨还没下到能渗透进我脑袋里的程度。"
 
 # game/finalroute.rpy#L439
 translate chinese cforest_485bfdca:
@@ -693,13 +693,13 @@ translate chinese cforest_485bfdca:
 translate chinese cforest_7df0d1e8:
 
     # butters "Morrigan? That’s bad news… what you just said, is it true?"
-    butters "Morrigan? That’s bad news… what you just said, is it true?"
+    butters "Morrigan？那是个坏消息... 你刚才所说的是真的吗？"
 
 # game/finalroute.rpy#L442
 translate chinese cforest_8ecfc5b0:
 
     # mc "Yeah, but you seem fine… I’m not really sure what’s going on…"
-    mc "Yeah, but you seem fine… I’m not really sure what’s going on…"
+    mc "是的，但是你看起来还很好... 我不太确定这是怎么回事..."
 
 # game/finalroute.rpy#L444
 translate chinese cforest_d636eca7:
@@ -723,7 +723,7 @@ translate chinese cforest_1c377290:
 translate chinese cforest_01d84e88:
 
     # mc "Maybe, but why didn’t it affect you?"
-    mc "Maybe, but why didn’t it affect you?"
+    mc "也许吧，但它为什么没有影响到你呢？"
 
 # game/finalroute.rpy#L450
 translate chinese cforest_c17e5a62:
@@ -735,7 +735,7 @@ translate chinese cforest_c17e5a62:
 translate chinese cforest_315a446d:
 
     # mc "I see… That means everyone else really is screwed then. We should make a potion to save them too!"
-    mc "I see… That means everyone else really is screwed then. We should make a potion to save them too!"
+    mc "我看到了… 那就意味着其他人都完蛋了。我们也应该做个药水来救她们！"
 
 # game/finalroute.rpy#L453
 translate chinese cforest_eb4fa3f2:
@@ -771,7 +771,7 @@ translate chinese cforest_542e8059:
 translate chinese cforest_13017bfd:
 
     # mc "She used me… She cast some type of magic on me that caused everyone I had sex with to become a slave to her."
-    mc "She used me… She cast some type of magic on me that caused everyone I had sex with to become a slave to her."
+    mc "她利用了我… 她对我施了某种魔法，使与我发生性关系的每个人都变成了她的奴隶。"
 
 # game/finalroute.rpy#L461
 translate chinese cforest_afc38f61:
@@ -1083,7 +1083,7 @@ translate chinese cforest_bede9a9d:
 translate chinese cforest_1b82a6dc:
 
     # "Meanwhile in the castle…"
-    "Meanwhile in the castle…"
+    "同时，在城堡中..."
 
 # game/finalroute.rpy#L537
 translate chinese cforest_14fe0bae:
@@ -1251,7 +1251,7 @@ translate chinese cforest_a20cefa7:
 translate chinese cforest_23c53178:
 
     # "I should save Lily next, although saving anyone is important right now."
-    "I should save Lily next, although saving anyone is important right now."
+    "接下来我应该去救Lily，虽然现在拯救任何人都显得很重要。"
 
 # game/finalroute.rpy#L606
 translate chinese clibrary_057523bd:
@@ -7833,7 +7833,7 @@ translate chinese finale_ac29d6d5:
 translate chinese finale_4f9d41a3:
 
     # penelope "So… We’re still friends?"
-    penelope "So… We’re still friends?"
+    penelope "所以… 我们还是朋友？"
 
 # game/finalroute.rpy#L3513
 translate chinese finale_1ee53003:
@@ -8067,7 +8067,7 @@ translate chinese badend_a20cefa7:
 translate chinese badend_f39a9279:
 
     # "Two years later…"
-    "两年之后..."
+    "两年后..."
 
 # game/finalroute.rpy#L3583
 translate chinese badend_a20cefa7_1:

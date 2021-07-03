@@ -332,14 +332,14 @@
   {
     "id": 79443136,
     "createdAt": "2021-05-30T19:47:47.000Z",
-    "updatedAt": "2021-06-04T08:46:53.000Z",
+    "updatedAt": "2021-07-03T06:12:42.000Z",
     "key": "game/castle.rpy_L1069_1",
     "original": "What about sex though?",
-    "translation": "做爱会有什么效果吗？",
+    "translation": "会不会和做爱有关？",
     "file": 272376,
     "stage": 1,
     "project": 2414,
-    "uid": 19759,
+    "uid": 22062,
     "extra": null,
     "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/castle.rpy#L1069",
     "words": 4

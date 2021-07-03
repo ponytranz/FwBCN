@@ -1,4 +1,4 @@
-# Translation updated at Sat Jul 03 2021 00:48:43 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Sat Jul 03 2021 10:39:29 GMT+0000 (Coordinated Universal Time)
 # game/bar.rpy#L13
 translate chinese barvisit1_d43fa519:
 
@@ -4371,19 +4371,19 @@ translate chinese barvisit2_d55bb09f:
 translate chinese barvisit2_788c907d:
 
     # mc "Yeah, I was pretty drunk too. You don’t mind that we slept together?"
-    mc "Yeah, I was pretty drunk too. You don’t mind that we slept together?"
+    mc "是啊，那时候我也喝断片了。我们一起睡，你不介意吗？"
 
 # game/bar.rpy#L1176
 translate chinese barvisit2_a5e9e5c8:
 
     # riku "Kinda do, kinda don’t."
-    riku "Kinda do, kinda don’t."
+    riku "有点介意，也有点不吧。"
 
 # game/bar.rpy#L1178
 translate chinese barvisit2_4bf91c33:
 
     # riku "I thought to myself if I enjoy it, fuck it, right? Literally."
-    riku "I thought to myself if I enjoy it, fuck it, right? Literally."
+    riku "我是想着要去享受它，去做，对吗？就是字面意义的做。"
 
 # game/bar.rpy#L1179
 translate chinese barvisit2_bcbf693e:
@@ -13227,11 +13227,11 @@ translate chinese strings:
 
     # game/bar.rpy_L737_0
     old "I dare you to tongue kiss me anywhere you choose for 30 seconds."
-    new "舌吻我身上你指定的任何部位，持续30秒，你敢不敢？"
+    new "我要让你舌吻我身上你指定的任何部位，持续30秒。"
 
     # game/bar.rpy_L737_1
     old "I dare you to suck on my finger and pretend you’re performing oral sex for 30 seconds."
-    new "舔我的手指，就如同在做口交一样，持续30秒，你敢不敢？"
+    new "我要让你舔我的手指，就如同在做口交一样，持续30秒。"
 
     # game/bar.rpy_L888_0
     old "Want to cheer it up?"

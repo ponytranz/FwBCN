@@ -1,4 +1,4 @@
-# Translation updated at Sat Jul 03 2021 00:48:43 GMT+0000 (Coordinated Universal Time)
+# Translation updated at Sat Jul 03 2021 10:39:29 GMT+0000 (Coordinated Universal Time)
 # game/forest.rpy#L18
 translate chinese forestvisit1_8c224d17:
 
@@ -8409,7 +8409,7 @@ translate chinese buttersshopmenu_6e4ea3b3:
 translate chinese buttersshopmenu_3cb8e239:
 
     # butters "You won't need that to win me over."
-    butters "你不需要用这个就能赢得我的芳心。"
+    butters "你不需要用上这个就能赢得我的芳心。"
 
 # game/forest.rpy#L2320
 translate chinese buttersshopmenu_97d7f811:
