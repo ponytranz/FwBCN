@@ -5394,7 +5394,7 @@ translate chinese strings:
 
     # game/3map.rpy_L1451_1
     old "Prologue"
-    new "序言"
+    new "序章"
 
     # game/3map.rpy_L1451_2
     old "Farm"
@@ -5426,11 +5426,11 @@ translate chinese strings:
 
     # game/3map.rpy_L1454_0
     old "Prologue Day 0 (Note: You'll be able to change your name)"
-    new "序言第0天（提示：你可以更改自己的姓名）"
+    new "序章第0天（提示：你可以更改自己的姓名）"
 
     # game/3map.rpy_L1454_1
     old "Prologue Day 1"
-    new "序言第1天"
+    new "序章第1天"
 
     # game/3map.rpy_L1454_2
     old "The Sixty-Nine"
@@ -5654,7 +5654,7 @@ translate chinese strings:
 
     # game/3map.rpy_L1778_0
     old "Replay - You can cancel the replay at any time by visiting the wagon."
-    new "重放 - 通过拜访篷车，你可以随时取消重放。"
+    new "回放 - 通过拜访篷车，你可以随时终止回放。"
 
     # game/3map.rpy_L1796_0
     old "Werewolf Hunting"

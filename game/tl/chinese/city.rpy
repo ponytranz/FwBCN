@@ -1250,7 +1250,7 @@ translate chinese musicstudio_f85f14b2:
 translate chinese musicstudio_a20cefa7_1:
 
     # "..."
-    "。。。"
+    "..."
 
 # game/city.rpy#L422
 translate chinese musicstudio_6e0c2ade:
@@ -1268,7 +1268,7 @@ translate chinese musicstudio_266d87a2:
 translate chinese musicstudio_29dd7a39:
 
     # "You've unlocked a secret scene! Requirements met: Visit the music studio. 50%% chance."
-    "你解开了一个秘密场景！满足要求：参观音乐工作室。50%% chance."
+    "你解开了一个秘密场景！满足要求：参观音乐工作室。50%% 机率。"
 
 # game/city.rpy#L446
 translate chinese musicstudio_b2698c31:

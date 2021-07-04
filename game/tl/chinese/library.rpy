@@ -4484,25 +4484,25 @@ translate chinese libraryvisit2_a145e2e2:
 translate chinese libraryvisit2_189b1d72:
 
     # "She's very passionate, but I don't really understand it, and it's definitely not relevant to me."
-    "She's very passionate, but I don't really understand it, and it's definitely not relevant to me."
+    "她讲的很有激情，但我真的不懂，而且这内容绝对与我无关。"
 
 # game/library.rpy#L1299
 translate chinese libraryvisit2_3e6d7256:
 
     # mc "So this is what you do as the Queen’s student? It sounds fantastic in theory, but surely she’s too busy running the country to work with you."
-    mc "So this is what you do as the Queen’s student? It sounds fantastic in theory, but surely she’s too busy running the country to work with you."
+    mc "这就是你作为女王学生所要做的事吗?听上去不错，但她肯定忙于治理国家而没空与你合作。"
 
 # game/library.rpy#L1301
 translate chinese libraryvisit2_d8d333b0:
 
     # lily "Yeah, that’s the biggest problem I face. Everyone else doing projects at the college have their own full-time supervisors."
-    lily "Yeah, that’s the biggest problem I face. Everyone else doing projects at the college have their own full-time supervisors."
+    lily "是啊，那是我所面临的最大问题。学院里其他做项目的都有自己的全职主管。"
 
 # game/library.rpy#L1302
 translate chinese libraryvisit2_be314193:
 
     # lily "But me? The Queen's busy, so I’m mostly on my own."
-    lily "But me? The Queen's busy, so I’m mostly on my own."
+    lily "而我呢?陛下很忙，所以我只能一个人。"
 
 # game/library.rpy#L1304
 translate chinese libraryvisit2_952d79e5:

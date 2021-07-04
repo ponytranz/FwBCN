@@ -56,13 +56,13 @@ translate chinese finalroute_99456aef:
 translate chinese finalroute_c4466a12:
 
     # mc "Is the stress of the interview getting you down? I bet it’s not easy to find out how powerful you are, and what those responsibilities entail."
-    mc "是采访的压力拉跨你了么?估计找到自己能力所在和责任所在一定不容易吧"
+    mc "是采访的压力拉跨你了么?估计找到自己能力所在和责任所在一定不容易吧。"
 
 # game/finalroute.rpy#L25
 translate chinese finalroute_ae2ee9cd:
 
     # moxie "Perhaps, but… something doesn’t quite feel right… I feel like there’s more to this hidden power inside me, something that feels sinister and dangerous..."
-    moxie "也许吧，但是…有些东西感觉不太对…我觉得我内心隐藏着更多的力量，一些感觉邪恶和危险的东西。。。"
+    moxie "也许吧，但是…有些东西感觉不太对…我觉得我内心隐藏着更多的力量，一些感觉邪恶和危险的东西..."
 
 # game/finalroute.rpy#L26
 translate chinese finalroute_58744d4d:
@@ -554,7 +554,7 @@ translate chinese finalroute_478b0fac:
 translate chinese finalroute_4cc5a722:
 
     # morrigan "*Giggles* Perhaps... They were powerful spells, I think it’d be nice to have him around, don’t you?"
-    morrigan "*咯咯笑*也许... 它们是很强大的咒语，我觉得有他在身边会很好，你说呢？"
+    morrigan "*笑*也许... 它们是很强大的咒语，我觉得有他在身边会很好，你说呢？"
 
 # game/finalroute.rpy#L321
 translate chinese finalroute_88e3583d:
@@ -686,7 +686,7 @@ translate chinese cforest_4fd1e790:
 translate chinese cforest_485bfdca:
 
     # mc "Sheesh… I mean Morrigan said the royal sisters and ‘elements’ had been brainwashed, but you seem fine!"
-    mc "Sheesh… I mean Morrigan said the royal sisters and ‘elements’ had been brainwashed, but you seem fine!"
+    mc "天哪... 我的意思是Morrigan说皇室姐妹和“元素”们已经被洗脑了，但是你看起来却还好！"
 
 # game/finalroute.rpy#L441
 translate chinese cforest_7df0d1e8:
@@ -710,7 +710,7 @@ translate chinese cforest_d636eca7:
 translate chinese cforest_94c9d2ed:
 
     # butters "Lily, myself, and the other elements repelled her army a few years ago when they tried to take over Arcadia."
-    butters "Lily, myself, and the other elements repelled her army a few years ago when they tried to take over Arcadia."
+    butters "Lily，我和其他成员在几年前击退了她的军队；当时他们正试图占领Arcadia。"
 
 # game/finalroute.rpy#L447
 translate chinese cforest_1c377290:
@@ -740,7 +740,7 @@ translate chinese cforest_315a446d:
 translate chinese cforest_eb4fa3f2:
 
     # butters "Hm... We don’t have time to collect the ingredients, and I only have enough for one person left. If Morrigan’s magic has already enslaved the royal sisters, we have less than a day before she’ll have siphoned all their magic…"
-    butters "Hm... We don’t have time to collect the ingredients, and I only have enough for one person left. If Morrigan’s magic has already enslaved the royal sisters, we have less than a day before she’ll have siphoned all their magic…"
+    butters "嗯... 我们没时间去收集材料了，我只剩下一个人用的份量了。如果Morrigan的魔法已经奴役了王室姐妹，我们只有不到一天的时间，她就会吸走她们所有的魔法…"
 
 # game/finalroute.rpy#L454
 translate chinese cforest_67ff0885:
@@ -752,7 +752,7 @@ translate chinese cforest_67ff0885:
 translate chinese cforest_11c396aa:
 
     # mc "Yikes, we have to save them!"
-    mc "Yikes, we have to save them!"
+    mc "哎呀，我们得去救她们!"
 
 # game/finalroute.rpy#L457
 translate chinese cforest_2da92cfc:
@@ -776,7 +776,7 @@ translate chinese cforest_13017bfd:
 translate chinese cforest_afc38f61:
 
     # butters "I can’t believe you slept with everyone, b-but that’s not really the point… That explains how the royal sisters didn’t notice…"
-    butters "I can’t believe you slept with everyone, b-but that’s not really the point… That explains how the royal sisters didn’t notice…"
+    butters "我不敢相信你和所有人都睡过，但-但这不是重点... 这解释了为什么皇室姐妹们没有注意到..."
 
 # game/finalroute.rpy#L462
 translate chinese cforest_ed4e790e:

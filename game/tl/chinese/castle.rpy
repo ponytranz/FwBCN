@@ -4400,187 +4400,187 @@ translate chinese selenevisit_33cdde8a:
 translate chinese selenevisit_2acddc62:
 
     # mc "I certainly noticed you came out of your shell a lot in the days we’ve spent together. I’m hoping to see you become the best person you can possibly be in the future."
-    mc "I certainly noticed you came out of your shell a lot in the days we’ve spent together. I’m hoping to see you become the best person you can possibly be in the future."
+    mc "我相信在我们相处的这段日子里，你已经走出了自己的许多阴影。来日方长，希望你能成为自己想成为的马。"
 
 # game/castle.rpy#L1288
 translate chinese selenevisit_68e3e26e:
 
     # "She stands up and stretches. And as she’s doing so, the entire location morphs into a bar full of chatter and buzz. There’s even a table full of familiar faces, our mutual friends."
-    "She stands up and stretches. And as she’s doing so, the entire location morphs into a bar full of chatter and buzz. There’s even a table full of familiar faces, our mutual friends."
+    "听了我一席话，她随即站了起来伸了个懒腰，而之前空旷的运动场也变成了喧闹拥挤的酒吧。一张桌子旁坐满了熟悉的面孔，是我和她共同的朋友们。"
 
 # game/castle.rpy#L1292
 translate chinese selenevisit_5aaa5311:
 
     # riku "From the day I met you [playername], I always knew there was something quite special about you."
-    riku "From the day I met you [playername], I always knew there was something quite special about you."
+    riku "自我遇到你的那天开始[playername]，我就知道你身上有些特别的东西。"
 
 # game/castle.rpy#L1293
 translate chinese selenevisit_6b7e22f1:
 
     # riku "I don’t cry for nothing, but I’ll shed a tear for this."
-    riku "I don’t cry for nothing, but I’ll shed a tear for this."
+    riku "我从不轻易哭泣，但是这件事情足以让我落泪了。"
 
 # game/castle.rpy#L1296
 translate chinese selenevisit_d0cef714:
 
     # "With the nightmare vanquished, Riku wanders to the table of friends and my vision returns to black."
-    "With the nightmare vanquished, Riku wanders to the table of friends and my vision returns to black."
+    "Riku走到满是朋友的桌子旁，她的噩梦消散了，我的视野又变成了一片黑暗。"
 
 # game/castle.rpy#L1298
 translate chinese selenevisit_8827da16:
 
     # "Selene is at my side again with a smile from cheek to cheek."
-    "Selene is at my side again with a smile from cheek to cheek."
+    "Selene在站我身边，脸上洋溢着微笑。"
 
 # game/castle.rpy#L1299
 translate chinese selenevisit_7591e912:
 
     # selene "That was adorable, I’m glad I brought you along [playername]."
-    selene "That was adorable, I’m glad I brought you along [playername]."
+    selene "你的处理方式蛮合我口味的，还好把你带来了[playername]。"
 
 # game/castle.rpy#L1300
 translate chinese selenevisit_cee59723:
 
     # mc "Just trying to help in any way I can."
-    mc "Just trying to help in any way I can."
+    mc "我只是想尽量帮忙吧。"
 
 # game/castle.rpy#L1301
 translate chinese selenevisit_7677b82c:
 
     # mc "Any luck finding the culprit?"
-    mc "Any luck finding the culprit?"
+    mc "有发现幕后黑手吗？"
 
 # game/castle.rpy#L1302
 translate chinese selenevisit_0e3d0356:
 
     # selene "No luck right now, we’re going to check Ruby’s nightmare next."
-    selene "No luck right now, we’re going to check Ruby’s nightmare next."
+    selene "目前没有，下一个是Ruby的噩梦。"
 
 # game/castle.rpy#L1308
 translate chinese selenevisit_dafe4366:
 
     # "A sea of stars overwhelms and with a glow of ethereal light we’re suddenly on a balcony high up on a castle tower in Arcadia."
-    "A sea of stars overwhelms and with a glow of ethereal light we’re suddenly on a balcony high up on a castle tower in Arcadia."
+    "漫天星辰又吞噬了我们，一阵柔和的光芒闪过后，眼前的景象变成了Arcadia的城堡高塔顶端。"
 
 # game/castle.rpy#L1309
 translate chinese selenevisit_63a98fbc:
 
     # "The view of the surrounding mountains, city and suburbs is beautiful, yet vague."
-    "The view of the surrounding mountains, city and suburbs is beautiful, yet vague."
+    "周围的山峦，城市和远郊都非常漂亮，但也很模糊。"
 
 # game/castle.rpy#L1310
 translate chinese selenevisit_a3cd6db6:
 
     # "It’s as if it’s not a fully formed thought, perhaps what someone would imagine the view looks like without ever having seen it."
-    "It’s as if it’s not a fully formed thought, perhaps what someone would imagine the view looks like without ever having seen it."
+    "这副场景不像是严格按照思维形成的，就像在完全没有亲眼见过它的情况下想象出来的样子。"
 
 # game/castle.rpy#L1311
 translate chinese selenevisit_531e53bc:
 
     # "Inside from the balcony is a bedroom, where Ruby is in front of a beautiful mannequin as she threads a dress on it."
-    "Inside from the balcony is a bedroom, where Ruby is in front of a beautiful mannequin as she threads a dress on it."
+    "阳台的里面就是卧室，Ruby正站在一个漂亮的马体模型前，乔装打扮，穿着裙子。"
 
 # game/castle.rpy#L1312
 translate chinese selenevisit_82fbddd6:
 
     # mc "This doesn’t seem like a nightmare…"
-    mc "This doesn’t seem like a nightmare…"
+    mc "这看起来也不像噩梦啊......"
 
 # game/castle.rpy#L1314
 translate chinese selenevisit_84abd93f:
 
     # selene "Nightmares aren’t black and white; they may reveal themselves in subtle ways. Sometimes so subtle you can’t even tell."
-    selene "Nightmares aren’t black and white; they may reveal themselves in subtle ways. Sometimes so subtle you can’t even tell."
+    selene "噩梦并不是非黑即白的；它们会微妙地露出端倪。微妙到有时候你都没办法察觉。"
 
 # game/castle.rpy#L1315
 translate chinese selenevisit_8a2e7513:
 
     # "Selene’s words pique my curiosity, so I closely watch the situation through the window."
-    "Selene’s words pique my curiosity, so I closely watch the situation through the window."
+    "Selene勾起了我的好奇心，我开始隔着窗户观察起里面的情况来。"
 
 # game/castle.rpy#L1318
 translate chinese selenevisit_8e5d4ea1:
 
     # "Ruby turns around and goes to a desk drawer to get a few things, and something unnerving and far from subtle happens, leaving both me and Selene mouths agape."
-    "Ruby turns around and goes to a desk drawer to get a few things, and something unnerving and far from subtle happens, leaving both me and Selene mouths agape."
+    "Ruby转过身在抽屉里拿了点东西出来，接下来发生的诡异一幕把我和Selene的下巴都惊掉了。"
 
 # game/castle.rpy#L1321
 translate chinese selenevisit_402de7f6:
 
     # "With instantaneous movement, the mannequin had followed Ruby, and was now right behind her."
-    "With instantaneous movement, the mannequin had followed Ruby, and was now right behind her."
+    "Ruby身后的马体模型也紧随着她移动起来，朝她的背后靠近。"
 
 # game/castle.rpy#L1323
 translate chinese selenevisit_9ec74c6c:
 
     # "When Ruby turns around, this causes her to jump with fright."
-    "When Ruby turns around, this causes her to jump with fright."
+    "Ruby转过身的时候被吓了一跳。"
 
 # game/castle.rpy#L1326
 translate chinese selenevisit_870437e1:
 
     # mc "Should I step in?"
-    mc "Should I step in?"
+    mc "我该进去救她吗？"
 
 # game/castle.rpy#L1327
 translate chinese selenevisit_9c979a65:
 
     # selene "If you have a plan, you’re at your own discretion."
-    selene "If you have a plan, you’re at your own discretion."
+    selene "如果你有详细计划的话最好，一切由你自己做主。"
 
 # game/castle.rpy#L1332
 translate chinese selenevisit_8ba33083:
 
     # "I look back to Ruby who curiously inspects the mannequin from every angle."
-    "I look back to Ruby who curiously inspects the mannequin from every angle."
+    "我又把目光投回Ruby身上，她正在好奇得打量着模型。"
 
 # game/castle.rpy#L1342
 translate chinese selenevisit_6cf33e43:
 
     # "As she does so, the other mannequins in the room close in one by one, and before Ruby has even realized it, she’s surrounded by these humanoid figures."
-    "As she does so, the other mannequins in the room close in one by one, and before Ruby has even realized it, she’s surrounded by these humanoid figures."
+    "她还在揣摩面前的马体模型时，其他的马体模型也偷偷地靠过来，等Ruby反应过来时已经被团团围住了。"
 
 # game/castle.rpy#L1347
 translate chinese selenevisit_23f02a6d:
 
     # "The sudden realisation of this causes her to panic and kneel down in the fetal position."
-    "The sudden realisation of this causes her to panic and kneel down in the fetal position."
+    "她意识到自己已经退无可退，惊慌失措地像个婴孩一样无助地跪在地上。"
 
 # game/castle.rpy#L1348
 translate chinese selenevisit_f935a7a2:
 
     # ruby "G-Go away! Stop!"
-    ruby "G-Go away! Stop!"
+    ruby "走，走开！别过来！"
 
 # game/castle.rpy#L1349
 translate chinese selenevisit_c6c9f937:
 
     # "I can’t watch this farce any longer, I open the balcony door and step inside. Ruby doesn’t even react to my presence, not yet anyway."
-    "I can’t watch this farce any longer, I open the balcony door and step inside. Ruby doesn’t even react to my presence, not yet anyway."
+    "我不能再袖手旁观了，我推开阳台门冲了进去。Ruby对我的出现还没什么反应，至少现在还没有。"
 
 # game/castle.rpy#L1352
 translate chinese selenevisit_506b94d7:
 
     # "I get closer and reach my hand out to Ruby, she takes it and hugs me tightly."
-    "I get closer and reach my hand out to Ruby, she takes it and hugs me tightly."
+    "我朝Ruby跑去伸手朝她搭去，她马上结果我的手，和我轻轻拥抱在一起。"
 
 # game/castle.rpy#L1353
 translate chinese selenevisit_82fa3867:
 
     # ruby "Oh thank goodness it’s you darling!"
-    ruby "Oh thank goodness it’s you darling!"
+    ruby "哦，感谢上苍你来了，亲爱的！"
 
 # game/castle.rpy#L1354
 translate chinese selenevisit_b077500a:
 
     # ruby "This is so scary, these ghastly mannequins just started moving on their own, you have to protect me!"
-    ruby "This is so scary, these ghastly mannequins just started moving on their own, you have to protect me!"
+    ruby "人家好害怕，这些可怕模型突然自己就动起来了，你得做好我的护花使者！"
 
 # game/castle.rpy#L1355
 translate chinese selenevisit_5d732c19:
 
     # "Why is she having a nightmare like this?"
-    "Why is she having a nightmare like this?"
+    "她怎么会做这样的噩梦？"
 
 # game/castle.rpy#L1360
 translate chinese selenevisit_1fb9acec:

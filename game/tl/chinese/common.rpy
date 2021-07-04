@@ -442,7 +442,7 @@ translate chinese strings:
 
     # renpy/common/00gui.rpy_L388_0
     old "Are you sure you want to end the replay?"
-    new "您确定要结束重放吗？"
+    new "您确定要结束回放吗？"
 
     # renpy/common/00gui.rpy_L389_0
     old "Are you sure you want to begin skipping?"

@@ -108,7 +108,7 @@ translate chinese strings:
 
     # game/y-screens.rpy_L600_0
     old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
-    new "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
+    new "使用 {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only] 制作。\n\n[renpy.license!t]"
 
     # game/y-screens.rpy_L682_0
     old "{#file_time}%A, %B %d %Y, %H:%M"
@@ -116,7 +116,7 @@ translate chinese strings:
 
     # game/y-screens.rpy_L682_1
     old "empty slot"
-    new "空档"
+    new "空存档槽"
 
     # game/y-screens.rpy_L699_0
     old "<"
@@ -312,15 +312,15 @@ translate chinese strings:
 
     # game/y-screens.rpy_L1101_0
     old "Right Trigger\nA/Bottom Button"
-    new "Right Trigger\nA/Bottom Button"
+    new "手柄 RT 键\n手柄 A 键或下键"
 
     # game/y-screens.rpy_L1105_0
     old "Left Trigger\nLeft Shoulder"
-    new "Left Trigger\nLeft Shoulder"
+    new "手柄 LT 键\n手柄 LB 键"
 
     # game/y-screens.rpy_L1109_0
     old "Right Shoulder"
-    new "Right Shoulder"
+    new "手柄 RB 键"
 
     # game/y-screens.rpy_L1114_0
     old "D-Pad, Sticks"
@@ -332,7 +332,7 @@ translate chinese strings:
 
     # game/y-screens.rpy_L1122_0
     old "Y/Top Button"
-    new "Y/Top键"
+    new "手柄 Y 键或上键"
 
     # game/y-screens.rpy_L1125_0
     old "Calibrate"
@@ -348,11 +348,11 @@ translate chinese strings:
 
     # game/y-screens.rpy_L1563_0
     old "{color=#00000000}Secret Scenes: [secretsunlocked]/13{/color}"
-    new "{color=#00000000}Secret Scenes: [secretsunlocked]/13{/color}"
+    new "{color=#00000000}隐藏场景: [secretsunlocked]/13{/color}"
 
     # game/y-screens.rpy_L1568_0
     old "{color=#00000000}I should buy Moxie some gifts {p}to increase her affection.{/color}"
-    new "{color=#00000000}I should buy Moxie some gifts {p}to increase her affection.{/color}"
+    new "{color=#00000000}我应该给Moxie买些礼物来增加好感度。 {/color}"
 
     # game/y-screens.rpy_L1576_0
     old "{color=#00000000}Complete!{/color}"
@@ -360,71 +360,71 @@ translate chinese strings:
 
     # game/y-screens.rpy_L1581_0
     old "{color=#00000000}I should help Honeycrisp at {p}the farm.{/color}"
-    new "{color=#00000000}I should help Honeycrisp at {p}the farm.{/color}"
+    new "{color=#00000000}我应该去农场帮助Honeycrisp。 {p}.{/color}"
 
     # game/y-screens.rpy_L1585_0
     old "{color=#00000000}Complete Ruby's route and {p}visit the nightclub.{/color}"
-    new "{color=#00000000}Complete Ruby's route and {p}visit the nightclub.{/color}"
+    new "{color=#00000000}完成Ruby线，然后前往夜总会。{/color}"
 
     # game/y-screens.rpy_L1595_0
     old "{color=#00000000}I should visit Riku at {p}her bar.{/color}"
-    new "{color=#00000000}I should visit Riku at {p}her bar.{/color}"
+    new "{color=#00000000}我应该去酒吧拜访Riku。 {p}.{/color}"
 
     # game/y-screens.rpy_L1599_0
     old "{color=#00000000}I should buy a dress for {p}Riku from the boutique.{/color}"
-    new "{color=#00000000}I should buy a dress for {p}Riku from the boutique.{/color}"
+    new "{color=#00000000}我应该从精品店为Riku买件裙子。 {p}{/color}"
 
     # game/y-screens.rpy_L1613_0
     old "{color=#00000000}I should help Ruby at {p}her boutique.{/color}"
-    new "{color=#00000000}I should help Ruby at {p}her boutique.{/color}"
+    new "{color=#00000000}我应该去Ruby的精品店帮忙。 {p}{/color}"
 
     # game/y-screens.rpy_L1625_0
     old "{color=#00000000}I should visit the {p}boutique at night.{/color}"
-    new "{color=#00000000}I should visit the {p}boutique at night.{/color}"
+    new "{color=#00000000}我应该在晚上去精品店。{/color}"
 
     # game/y-screens.rpy_L1629_0
     old "{color=#00000000}I should complete Blossom's {p}route.{/color}"
-    new "{color=#00000000}I should complete Blossom's {p}route.{/color}"
+    new "{color=#00000000}我应该完成Blossom线。 {p}{/color}"
 
     # game/y-screens.rpy_L1633_0
     old "{color=#00000000}I should visit the spa at {p}least once, then visit the {p}music studio.{/color}"
-    new "{color=#00000000}I should visit the spa at {p}least once, then visit the {p}music studio.{/color}"
+    new "{color=#00000000}我应该先去一次水疗馆，然后拜访音乐工作室。 {p} {p}{/color}"
 
     # game/y-screens.rpy_L1637_0
     old "{color=#00000000}It'll cost 150 monies {p}to fix her laptop.{/color}"
-    new "{color=#00000000}It'll cost 150 monies {p}to fix her laptop.{/color}"
+    new "{color=#00000000}维修她的笔记本会花费150monies。  {p}{/color}"
 
     # game/y-screens.rpy_L1651_0
     old "{color=#00000000}You can meet four unique girls {p}at the bar or nightclub{p} in the evening.{/color}"
-    new "{color=#00000000}You can meet four unique girls {p}at the bar or nightclub{p} in the evening.{/color}"
+    new "{color=#00000000}你能在傍晚的酒吧或者夜总会遇到四位特别的女孩。{/color}"
 
     # game/y-screens.rpy_L1657_0
     old "{color=#00000000}$20 Patron or Steam version{p}only. Note: Steam version{p} isn't out yet.{/color}"
-    new "{color=#00000000}$20 Patron or Steam version{p}only. Note: Steam version{p} isn't out yet.{/color}"
+    new "{color=#00000000}赞助20美元或在steam上购买。{/color}"
 
     # game/y-screens.rpy_L1665_0
     old "{color=#00000000}Visit the Church in the {p}City.{/color}"
-    new "{color=#00000000}Visit the Church in the {p}City.{/color}"
+    new "{color=#00000000}进城前往教堂。{/color}"
 
     # game/y-screens.rpy_L1673_0
     old "{color=#00000000}Finish Augusta's research.{/color}"
-    new "{color=#00000000}Finish Augusta's research.{/color}"
+    new "{color=#00000000}完成Augusta的研究。 {/color}"
 
     # game/y-screens.rpy_L1681_0
     old "{color=#00000000}I should go work at the {p}library.{/color}"
-    new "{color=#00000000}I should go work at the {p}library.{/color}"
+    new "{color=#00000000}我应该去图书馆工作。 {p}{/color}"
 
     # game/y-screens.rpy_L1685_0
     old "{color=#00000000}Secret, find out later.{/color}"
-    new "{color=#00000000}Secret, find out later.{/color}"
+    new "{color=#00000000}之后会发现的秘密。 {/color}"
 
     # game/y-screens.rpy_L1689_0
     old "{color=#00000000}Work at the library and{p} take her offer.{/color}"
-    new "{color=#00000000}Work at the library and{p} take her offer.{/color}"
+    new "{color=#00000000}在图书馆工作，并接受她的提议。 {p}{/color}"
 
     # game/y-screens.rpy_L1702_0
     old "{color=#00000000}Complete Honey's route {p}and visit the nightclub.{/color}"
-    new "{color=#00000000}Complete Honey's route {p}and visit the nightclub.{/color}"
+    new "{color=#00000000}完成Honey线，然后前往夜总会。{/color}"
 
     # game/y-screens.rpy_L1711_0
     old "{color=#00000000}I should visit the cottage{p} in the forest.{/color}"
@@ -432,7 +432,7 @@ translate chinese strings:
 
     # game/y-screens.rpy_L1715_0
     old "{color=#00000000}I should buy Butters some {p}gifts to raise her affection.{/color}"
-    new "{color=#00000000}I should buy Butters some {p}gifts to raise her affection.{/color}"
+    new "{color=#00000000}我应该给Butters买些礼物来增加好感度。 {/color}"
 
     # game/y-screens.rpy_L1728_0
     old "{color=#00000000}I should visit the muffin {p}stall in the market.{/color}"
@@ -456,7 +456,7 @@ translate chinese strings:
 
     # game/y-screens.rpy_L1774_0
     old "{color=#00000000}I should work at the bakery.{/color}"
-    new "{color=#00000000}I should work at the bakery.{/color}"
+    new "{color=#00000000}我应该去烘焙店工作。{/color}"
 
     # game/y-screens.rpy_L1783_0
     old "{color=#00000000}Complete Butters' Route.{/color}"
@@ -464,7 +464,7 @@ translate chinese strings:
 
     # game/y-screens.rpy_L1791_0
     old "{color=#00000000}Visit Zoe at night.{/color}"
-    new "{color=#00000000}Visit Zoe at night.{/color}"
+    new "{color=#00000000}在晚上拜访 Zoe{/color}"
 
     # game/y-screens.rpy_L1795_0
     old "{color=#00000000}Visit the deep forest at {p}night.{/color}"
@@ -484,11 +484,11 @@ translate chinese strings:
 
     # game/y-screens.rpy_L1818_0
     old "{color=#00000000}Visit Ari at the market.{/color}"
-    new "{color=#00000000}Visit Ari at the market.{/color}"
+    new "{color=#00000000}在市场中拜访Ari。{/color}"
 
     # game/y-screens.rpy_L1829_0
     old "{color=#00000000}Visit the Nightclub.{/color}"
-    new "{color=#00000000}Visit the Nightclub.{/color}"
+    new "{color=#00000000}前往夜总会。{/color}"
 
     # game/y-screens.rpy_L1833_0
     old "{color=#00000000}Complete the Library route,{p} then visit the nightclub.{/color}"
@@ -496,7 +496,7 @@ translate chinese strings:
 
     # game/y-screens.rpy_L1837_0
     old "{color=#00000000}Visit the nightclub in the {p} morning.{/color}"
-    new "{color=#00000000}Visit the nightclub in the {p} morning.{/color}"
+    new "{color=#00000000}在早上前往夜总会{/color}"
 
     # game/y-screens.rpy_L1841_0
     old "{color=#00000000}Complete both Princess routes,{p} then visit the nightclub{p} after the final route.{/color}"
@@ -504,7 +504,7 @@ translate chinese strings:
 
     # game/y-screens.rpy_L1845_0
     old "{color=#00000000}Visit the market.{/color}"
-    new "{color=#00000000}Visit the market.{/color}"
+    new "{color=#00000000}前往市场。{/color}"
 
     # game/y-screens.rpy_L1859_0
     old "{color=#00000000}Visit the castle during the {p}day.{/color}"

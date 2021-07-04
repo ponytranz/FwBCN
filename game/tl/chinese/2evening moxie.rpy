@@ -872,13 +872,13 @@ translate chinese moxiedoggystyle_88413ca8:
 translate chinese moxiedoggystyle_24f37668:
 
     # "My throbbing cock soon exploded deep into her as I orgasmed, her vagina tightly gripped around my shaft, wringing even more cum out of it as we continued to fuck during our climaxes."
-    "当我达到高潮时，我那悸动的cock很快就深深地向她扑来，她的阴道紧紧地抓住我的身体，当我们在高潮的时候继续做爱的时候，它只会变得更紧。"
+    "当我达到高潮时，我那悸动的肉棒很快深深地进入，她的阴道紧紧地抓住我的身体，当我们在高潮的时候继续做爱的时候，它只会变得更紧。"
 
 # game/2evening%20moxie.rpy#L455
 translate chinese moxiedoggystyle_4d80ac76:
 
     # moxie "Ahhh… I can feel it, oh gosh, there’s so much, it’s so hot… Ahhhhh…"
-    moxie "啊....我能感觉得到..天哪，这里已经有很多那个了....太热了....啊啊啊..."
+    moxie "啊....我能感觉得到..天哪，已经有很多那个了....太热了....啊啊啊..."
 
 # game/2evening%20moxie.rpy#L461
 translate chinese moxiedoggystyle_769b7aa3:

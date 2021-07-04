@@ -1820,7 +1820,7 @@ translate chinese eveningbutterstalk_42239c80:
 translate chinese eveningbutterstalk_0bf4d77a:
 
     # butters "You see, I live in Arcadia due to its safety and ideal ingredients, particularly the ones you helped me get."
-    butters "如你所见，我定居Arcadia是因为这里即安全又理想，特别是还有你在这。"
+    butters "如你所见，我定居Arcadia是因为这里即安全又理想，特别是还有你在这"
 
 # game/2evening%20butters.rpy#L690
 translate chinese eveningbutterstalk_8a235d77:

@@ -2930,7 +2930,7 @@ translate chinese creamvmissionary_a1d1762d:
 translate chinese creamvmissionary_8e99d3a9:
 
     # moxie "Have you, y'know, done the business with Cream yet?"
-    moxie "那你……你懂得……和Cream的"生意"做得怎么样了？"
+    moxie "那你……你懂得……和Cream的“生意”做得怎么样了？"
 
 # game/bakery.rpy#L896
 translate chinese creamvmissionary_8ac421bf:
@@ -2942,7 +2942,7 @@ translate chinese creamvmissionary_8ac421bf:
 translate chinese creamvmissionary_9f8f96c1:
 
     # ruby "Did someone say nosy, darlings? I'd like to be nosy and ask where darling Penelope is."
-    ruby "各位，刚才是谁说了一句"爱多管闲事"啊？我就很喜欢多管闲事。你们谁知道亲爱的Penelope去哪儿了吗？"
+    ruby "各位，刚才是谁说了一句“爱多管闲事”啊？我就很喜欢多管闲事。你们谁知道亲爱的Penelope去哪儿了吗？"
 
 # game/bakery.rpy#L902
 translate chinese creamvmissionary_6d28d5ac:

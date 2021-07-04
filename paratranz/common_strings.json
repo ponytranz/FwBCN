@@ -1652,14 +1652,14 @@
   {
     "id": 79443431,
     "createdAt": "2021-05-30T19:47:47.000Z",
-    "updatedAt": "2021-06-06T05:17:01.000Z",
+    "updatedAt": "2021-07-03T11:53:41.000Z",
     "key": "renpy/common/00gui.rpy_L388_0",
     "original": "Are you sure you want to end the replay?",
-    "translation": "您确定要结束重放吗？",
+    "translation": "您确定要结束回放吗？",
     "file": 272379,
     "stage": 1,
     "project": 2414,
-    "uid": 19759,
+    "uid": 17829,
     "extra": null,
     "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00gui.rpy#L388",
     "words": 9

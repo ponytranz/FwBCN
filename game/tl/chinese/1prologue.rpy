@@ -6326,7 +6326,7 @@ translate chinese strings:
 
     # game/1prologue.rpy_L7_0
     old "Would you like to skip the prologue? Not recommended for first time players."
-    new "您想跳过序言吗？不推荐首次游玩的玩家这么做。"
+    new "您想跳过序章吗？不推荐首次游玩的玩家这么做。"
 
     # game/1prologue.rpy_L7_1
     old "Yes"
@@ -6338,11 +6338,11 @@ translate chinese strings:
 
     # game/1prologue.rpy_L10_0
     old "Yeah, skip the prologue"
-    new "奥利给！跳过序言"
+    new "当然! 跳过序章"
 
     # game/1prologue.rpy_L10_1
     old "No, I want to play the first hour of story!"
-    new "不！俺想要玩一个小时的序言故事！"
+    new "不，我想体验故事的最初部分！"
 
     # game/1prologue.rpy_L14_0
     old "What is your first name?"
