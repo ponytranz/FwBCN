@@ -4586,1141 +4586,1141 @@ translate chinese selenevisit_5d732c19:
 translate chinese selenevisit_1fb9acec:
 
     # ruby "Too stressed? No darling, I love my work."
-    ruby "Too stressed? No darling, I love my work."
+    ruby "劳累过度？才不是呢亲爱的，我对我的工作很是热衷。"
 
 # game/castle.rpy#L1361
 translate chinese selenevisit_8e1f232a:
 
     # ruby "It’s just these spooky mannequins started moving on their own!"
-    ruby "It’s just these spooky mannequins started moving on their own!"
+    ruby "只是这些可怕的模型自己动起来了！"
 
 # game/castle.rpy#L1364
 translate chinese selenevisit_fdb115b1:
 
     # ruby "Representations? Judges?"
-    ruby "Representations? Judges?"
+    ruby "代表了？评判我的马？"
 
 # game/castle.rpy#L1365
 translate chinese selenevisit_dcbd266c:
 
     # ruby "Are they here to judge me? Goodness, but I have sinned so much!"
-    ruby "Are they here to judge me? Goodness, but I have sinned so much!"
+    ruby "它们这是在评判我？天啊，我犯了多少罪啊！"
 
 # game/castle.rpy#L1367
 translate chinese selenevisit_5ce61256:
 
     # "Hmm… I don’t think this nightmare is half as nuanced as Riku’s."
-    "Hmm… I don’t think this nightmare is half as nuanced as Riku’s."
+    "嗯...现在看来她的噩梦和Riku的有很多不同。"
 
 # game/castle.rpy#L1368
 translate chinese selenevisit_6c0e2ac9:
 
     # mc "Wait, are you scared of ghosts?"
-    mc "Wait, are you scared of ghosts?"
+    mc "等下，你怕鬼？"
 
 # game/castle.rpy#L1370
 translate chinese selenevisit_f67c0862:
 
     # ruby "Ohhoh, terrified darling! I hate them!"
-    ruby "Ohhoh, terrified darling! I hate them!"
+    ruby "哦哦，吓死我了亲爱的！我巴不得它们都去死！"
 
 # game/castle.rpy#L1389
 translate chinese selenevisit_d0e21768:
 
     # "She embraces me closer, nuzzling her face into my shoulder, this causes the mannequins to instantly pop to face us, causing me to jump momentarily."
-    "She embraces me closer, nuzzling her face into my shoulder, this causes the mannequins to instantly pop to face us, causing me to jump momentarily."
+    "她把我搂得更紧了，俏脸贴在我的肩上，附近的模型在见到这一幕后立马向我们扑过来，把我惊了一跳。"
 
 # game/castle.rpy#L1390
 translate chinese selenevisit_419e0f5f:
 
     # mc "I must admit, this is somewhat creepy."
-    mc "I must admit, this is somewhat creepy."
+    mc "好吧，我也不得不承认这挺吓人的。"
 
 # game/castle.rpy#L1391
 translate chinese selenevisit_a064eb88:
 
     # ruby "*Sniffles* It-It’s just like this scary movie I saw as a young filly, *sob*, I hated that movie so much!"
-    ruby "*Sniffles* It-It’s just like this scary movie I saw as a young filly, *sob*, I hated that movie so much!"
+    ruby "*啜泣*它，它就像我小时候看过的一部惊悚电影一样，*呜咽*，我恨死那电影了！"
 
 # game/castle.rpy#L1392
 translate chinese selenevisit_9284e98d:
 
     # ruby "I had nightmares for months! Nay, years!"
-    ruby "I had nightmares for months! Nay, years!"
+    ruby "害我做了好几个月的！不！好几年的噩梦！"
 
 # game/castle.rpy#L1393
 translate chinese selenevisit_ce3c97d6:
 
     # "This nightmare is entirely different to Riku’s, so my strategy to soothe her should be different."
-    "This nightmare is entirely different to Riku’s, so my strategy to soothe her should be different."
+    "这个噩梦和Riku的简直云泥之别，我应该换一种方式去宽慰她才行。"
 
 # game/castle.rpy#L1397
 translate chinese selenevisit_d97dce0a:
 
     # ruby "B-But they are real! They’re here to get me!"
-    ruby "B-But they are real! They’re here to get me!"
+    ruby "但，但现在噩梦成真了！这些鬼来抓我了！"
 
 # game/castle.rpy#L1398
 translate chinese selenevisit_a02dc9c7:
 
     # ruby "I always put salt down at my doorstep to protect my house from ghosts, but I forgot when I moved into my new palace! Eeee!"
-    ruby "I always put salt down at my doorstep to protect my house from ghosts, but I forgot when I moved into my new palace! Eeee!"
+    ruby "我以前都在家门口撒盐让这些鬼怪勿进，但我在搬进这座新宫殿的时候忘了！呀（破音）！"
 
 # game/castle.rpy#L1401
 translate chinese selenevisit_a16aab75:
 
     # ruby "B-but they’re moving!"
-    ruby "B-but they’re moving!"
+    ruby "而，而且它们在动！"
 
 # game/castle.rpy#L1402
 translate chinese selenevisit_39590729:
 
     # mc "Yeah sure, I can move and I’m not scary."
-    mc "Yeah sure, I can move and I’m not scary."
+    mc "是啊，你看我也会动，但我不吓人啊。"
 
 # game/castle.rpy#L1403
 translate chinese selenevisit_09d76d77:
 
     # ruby "It’s so unnatural darling, it gives me the shakes."
-    ruby "It’s so unnatural darling, it gives me the shakes."
+    ruby "这一切都太诡异了，亲爱的，我现在怕得抖个不停。"
 
 # game/castle.rpy#L1406
 translate chinese selenevisit_ab5269e1:
 
     # "That didn’t work. I’ll try to show her just how easy it is to fight this particular fear."
-    "That didn’t work. I’ll try to show her just how easy it is to fight this particular fear."
+    "我的安抚没有奏效。我得给她指明要战胜这种特殊的恐惧有多简单。"
 
 # game/castle.rpy#L1407
 translate chinese selenevisit_3b25520f:
 
     # mc "Look, these are just plastic mannequins. They can teleport behind you all day, but they can’t do anything to you."
-    mc "Look, these are just plastic mannequins. They can teleport behind you all day, but they can’t do anything to you."
+    mc "放松，你仔细看看，它们不过都是些塑料模型罢了。不过是被魔法驱动起来围着你而已，不能把你怎么样的。"
 
 # game/castle.rpy#L1411
 translate chinese selenevisit_645abb87:
 
     # "I push one over to prove a point and it falls to the floor with a clunk with Ruby watching wide-eyed."
-    "I push one over to prove a point and it falls to the floor with a clunk with Ruby watching wide-eyed."
+    "为了证明我没说谎，我伸手推了其中一个模型，它啪的一声，很快啊，倒在地上一动不动了，Ruby睁大眼睛看着这一幕。"
 
 # game/castle.rpy#L1417
 translate chinese selenevisit_8f451c2b:
 
     # "Suddenly it transforms into a robed figure, causing Ruby to freak out even more than before!"
-    "Suddenly it transforms into a robed figure, causing Ruby to freak out even more than before!"
+    "它突然又变成了一个穿着长袍的人形生物，Ruby这下更慌了！"
 
 # game/castle.rpy#L1418
 translate chinese selenevisit_07c33438:
 
     # ruby "Kyaaahhhh, it’s a ghost! Oh my gosh, oh my gosh, kill it!"
-    ruby "Kyaaahhhh, it’s a ghost! Oh my gosh, oh my gosh, kill it!"
+    ruby "唔啊啊啊啊，是鬼！天啊，地啊，把它杀了！"
 
 # game/castle.rpy#L1419
 translate chinese selenevisit_cabad28b:
 
     # mc "Wait, no! It’s a person, it’s just some stupid unicorn using magic to prank you!"
-    mc "Wait, no! It’s a person, it’s just some stupid unicorn using magic to prank you!"
+    mc "等下，它不是鬼！它是一匹马，一只在背后捣鬼吓唬你的独角兽！"
 
 # game/castle.rpy#L1420
 translate chinese selenevisit_bf561242:
 
     # mc "Come on, let’s get them?"
-    mc "Come on, let’s get them?"
+    mc "别怕，咱们去把他撂倒？"
 
 # game/castle.rpy#L1421
 translate chinese selenevisit_0646106b:
 
     # ruby "P-Prank? It’s just magic?"
-    ruby "P-Prank? It’s just magic?"
+    ruby "吓，吓唬我？这一切都是魔法在驱使？"
 
 # game/castle.rpy#L1422
 translate chinese selenevisit_68f084d3:
 
     # ruby "W-Wait… Ghosty stuff is just magic?"
-    ruby "W-Wait… Ghosty stuff is just magic?"
+    ruby "也，也就是说...所谓的鬼只是魔法在背后作祟？"
 
 # game/castle.rpy#L1424
 translate chinese selenevisit_45ec86c0:
 
     # "The robed figure awkwardly clambers up to their feet and starts to run away through the bedroom door. Who the heck was that? What a strange dream."
-    "The robed figure awkwardly clambers up to their feet and starts to run away through the bedroom door. Who the heck was that? What a strange dream."
+    "穿着长袍笨拙地从地上爬起来，随后从卧室夺门而出。这他妈又是哪位啊？这梦越来越离谱了。"
 
 # game/castle.rpy#L1429
 translate chinese selenevisit_9f0fcdb9:
 
     # "Selene suddenly runs past me."
-    "Selene suddenly runs past me."
+    "Selene突然从我身边跑过。"
 
 # game/castle.rpy#L1430
 translate chinese selenevisit_01c8635b:
 
     # selene "That’s the culprit! Chase them [playername]!"
-    selene "That’s the culprit! Chase them [playername]!"
+    selene "那就是幕后黑手！别让他跑了[playername]！"
 
 # game/castle.rpy#L1431
 translate chinese selenevisit_b1856a8a:
 
     # ruby "P-PRINCESS? T-This is too much! Ahhhhhhhhhhhhhhhhhhhhhhhhhh!"
-    ruby "P-PRINCESS? T-This is too much! Ahhhhhhhhhhhhhhhhhhhhhhhhhh!"
+    ruby "公，公主？这，这都怎么一回事啊！啊啊啊啊啊啊啊啊啊啊啊啊啊（破音）！"
 
 # game/castle.rpy#L1434
 translate chinese selenevisit_18aee655:
 
     # "At the moment of her screaming, the entire world suddenly vanishes, leaving me and Selene in a void again."
-    "At the moment of her screaming, the entire world suddenly vanishes, leaving me and Selene in a void again."
+    "她高声的尖叫瞬间震塌了周围的世界，我和Selene又处在一片黑暗之中。"
 
 # game/castle.rpy#L1436
 translate chinese selenevisit_3c83495c:
 
     # selene "Awwhhh… I blew it."
-    selene "Awwhhh… I blew it."
+    selene "啊啊...本宫搞砸了。"
 
 # game/castle.rpy#L1437
 translate chinese selenevisit_7d010a14:
 
     # mc "What happened?"
-    mc "What happened?"
+    mc "刚刚是怎么了？"
 
 # game/castle.rpy#L1439
 translate chinese selenevisit_0b65319c:
 
     # selene "Ruby just woke up, the nightmare got too extreme for her."
-    selene "Ruby just woke up, the nightmare got too extreme for her."
+    selene "Ruby受不了噩梦的刺激，惊醒了。"
 
 # game/castle.rpy#L1440
 translate chinese selenevisit_2db4e25e:
 
     # mc "Woops, does this mean her nightmare is over?"
-    mc "Woops, does this mean her nightmare is over?"
+    mc "呃，那她的噩梦也算告一段落了吧？"
 
 # game/castle.rpy#L1441
 translate chinese selenevisit_f8dc648e:
 
     # selene "For now, I guess. I'll definitely be able to end it when I figure out what the source of the nightmares is."
-    selene "For now, I guess. I'll definitely be able to end it when I figure out what the source of the nightmares is."
+    selene "现在来看是这样，本宫不打包票。本宫只有弄清楚噩梦的来源才能终结之。"
 
 # game/castle.rpy#L1442
 translate chinese selenevisit_cb7def74:
 
     # mc "Let’s go, let’s go, my heart is racing. Let’s put this adrenaline to beneficial use."
-    mc "Let’s go, let’s go, my heart is racing. Let’s put this adrenaline to beneficial use."
+    mc "那我们到底还在等什么，赶紧去下一个梦境吧，不然浪费我飙升的肾上腺素。"
 
 # game/castle.rpy#L1444
 translate chinese selenevisit_f952bde3:
 
     # selene "That's the attitude! Let’s check the closest sleeping person then, Moxie!"
-    selene "That's the attitude! Let’s check the closest sleeping person then, Moxie!"
+    selene "好，很有精神！我们进入下个马的梦乡吧，接下来应该是Moxie！"
 
 # game/castle.rpy#L1445
 translate chinese selenevisit_85e9746f:
 
     # mc "Moxie’s dream? This should be good."
-    mc "Moxie’s dream? This should be good."
+    mc "Moxie的梦？她的应该不赖。"
 
 # game/castle.rpy#L1447
 translate chinese selenevisit_7f282a14:
 
     # "I bet she’s dreaming about me because we didn’t have sex tonight, could be awkward!"
-    "I bet she’s dreaming about me because we didn’t have sex tonight, could be awkward!"
+    "我敢打赌她梦里有我，毕竟我今晚没陪她爱爱，搞不好会很尬！"
 
 # game/castle.rpy#L1449
 translate chinese selenevisit_c092b60c:
 
     # "The world reforms in a burst of light around us, and it’s a dream of…"
-    "The world reforms in a burst of light around us, and it’s a dream of…"
+    "强光又投射出一个真实的世界，这个梦是关于......"
 
 # game/castle.rpy#L1452
 translate chinese selenevisit_5d2e6e0e:
 
     # "A dream of her doing a performance, Selene and myself have a view from the audience where we sit among others on long wooden seats."
-    "A dream of her doing a performance, Selene and myself have a view from the audience where we sit among others on long wooden seats."
+    "关于她的表演的，我和Selene都坐在台下马山马海的木制观众席上。"
 
 # game/castle.rpy#L1453
 translate chinese selenevisit_cd3879f4:
 
     # moxie "I am the great and powerful Moxie, and today I will show you something truly magnificent!"
-    moxie "I am the great and powerful Moxie, and today I will show you something truly magnificent!"
+    moxie "吾乃伟大而又全能的Moxie，今天就让我来开开各位的眼界！"
 
 # game/castle.rpy#L1454
 translate chinese selenevisit_77ba9f30:
 
     # "I haven’t had an opportunity to watch one of these before, although this is a nightmare, so it may be the worst-case scenario."
-    "I haven’t had an opportunity to watch one of these before, although this is a nightmare, so it may be the worst-case scenario."
+    "我还从来没欣赏过她的表演呢，现在可是个好机会，不过这是个噩梦，等会可能会有不好的事情发生。"
 
 # game/castle.rpy#L1455
 translate chinese selenevisit_502c05ad:
 
     # "Maybe she has a fear of messing up on stage."
-    "Maybe she has a fear of messing up on stage."
+    "她可能很害怕在台上出糗吧。"
 
 # game/castle.rpy#L1456
 translate chinese selenevisit_11e7e3ff:
 
     # selene "It’ll be interesting to see what type of nightmares a potential future student of mine has."
-    selene "It’ll be interesting to see what type of nightmares a potential future student of mine has."
+    selene "能瞥见本宫未来的学生的噩梦还算几分有趣。"
 
 # game/castle.rpy#L1457
 translate chinese selenevisit_18cdbbca:
 
     # mc "Moxie seems so unwavering in spite of her insecurities; I can’t imagine what’ll happen."
-    mc "Moxie seems so unwavering in spite of her insecurities; I can’t imagine what’ll happen."
+    mc "Moxie看起来自信十足，我看不出能有什么不安因素；还能出什么岔子呢。"
 
 # game/castle.rpy#L1458
 translate chinese selenevisit_bd81afbc:
 
     # "As I say that, the curtain is lifted, and a strange sight leaves both myself and Selene rather surprised indeed."
-    "As I say that, the curtain is lifted, and a strange sight leaves both myself and Selene rather surprised indeed."
+    "我还在嘟囔的时候她身后的幕布拉了起来，里面诡异的一幕让我和Selene都倍感意外。"
 
 # game/castle.rpy#L1460
 translate chinese selenevisit_0ae3c7e5:
 
     # "There’s an iron cage, and inside that is a ferocious bear-like creature."
-    "There’s an iron cage, and inside that is a ferocious bear-like creature."
+    "幕布后是一个大铁笼子，里面关着一只很像熊的凶猛生物。"
 
 # game/castle.rpy#L1461
 translate chinese selenevisit_b94b0bb3:
 
     # "And with that, it all falls into place, she’s reliving the worst day of her life."
-    "And with that, it all falls into place, she’s reliving the worst day of her life."
+    "看到这一场景我就明白了，她的噩梦是回溯她这辈子里最糟的一天。"
 
 # game/castle.rpy#L1462
 translate chinese selenevisit_1cc97beb:
 
     # mc "I thought she was over this; I didn’t get the impression that it was something that haunted her to this day."
-    mc "I thought she was over this; I didn’t get the impression that it was something that haunted her to this day."
+    mc "我觉得她已经放下这些东西了；我现在才知道她的往昔仍如梦魇一般紧缠着她不放。"
 
 # game/castle.rpy#L1463
 translate chinese selenevisit_79c8e95b:
 
     # selene "Nightmares don’t necessarily align to what haunts you."
-    selene "Nightmares don’t necessarily align to what haunts you."
+    selene "噩梦有时候并不会体现你所懊恼之物。"
 
 # game/castle.rpy#L1464
 translate chinese selenevisit_3599cffb:
 
     # selene "I’m aware of the situation that may unfold before us, and I also have faith that Moxie has moved past this. But nightmares often manifest using the moments that matter to us most."
-    selene "I’m aware of the situation that may unfold before us, and I also have faith that Moxie has moved past this. But nightmares often manifest using the moments that matter to us most."
+    selene "本宫很清楚这一幕所呈现的东西，而且本宫也坚信Moxie克服了她不堪回首的过去。但噩梦经常会以我们最害怕的场景回归。"
 
 # game/castle.rpy#L1465
 translate chinese selenevisit_8a1f15f0:
 
     # mc "Right, we know how this situation has played in reality, but… this nightmare could be far worse."
-    mc "Right, we know how this situation has played in reality, but… this nightmare could be far worse."
+    mc "没错，我们都知道Moxie的表演最后怎么样了，但...这是场噩梦，接下来可能会更糟。"
 
 # game/castle.rpy#L1466
 translate chinese selenevisit_26ec939b:
 
     # "As the caged creature crashes around, it wows the audience, but clearly worries Moxie. Selene quietly watches the situation unfold."
-    "As the caged creature crashes around, it wows the audience, but clearly worries Moxie. Selene quietly watches the situation unfold."
+    "像熊一样的生物焦躁地在笼子里撞来撞去，观众们对此虽然喜闻乐见，但Moxie显然有点惊慌失措。Selene静静地观察着事态的发展。"
 
 # game/castle.rpy#L1467
 translate chinese selenevisit_cfb98b08:
 
     # selene "You’re right… Lily said the ursa was a ‘child’, but that’s a fully grown ursa. This could be the worst-case scenario."
-    selene "You’re right… Lily said the ursa was a ‘child’, but that’s a fully grown ursa. This could be the worst-case scenario."
+    selene "你说得没错...Lily告诉我她抓的只是一只“幼崽”，但梦里这头显然是成年的。这应该是最坏的情况了。"
 
 # game/castle.rpy#L1468
 translate chinese selenevisit_fdd36e84:
 
     # selene "I’m going to try my best to contain the ursa and keep Moxie asleep, I need you to search and identify the culprit, I know they’ll be nearby."
-    selene "I’m going to try my best to contain the ursa and keep Moxie asleep, I need you to search and identify the culprit, I know they’ll be nearby."
+    selene "本宫会竭尽所能地控制住这头大熊，让Moxie保持睡眠状态，免得像Ruby一样梦醒，找寻和辨识幕后黑手的工作只有靠你完成了，他们肯定就在附近。"
 
 # game/castle.rpy#L1469
 translate chinese selenevisit_4be92ac1:
 
     # "She rises and makes strides towards the stage as the creature finally breaks its restraints and charges out."
-    "She rises and makes strides towards the stage as the creature finally breaks its restraints and charges out."
+    "那只狂暴的生物终于冲破了笼子，撞了出来，而Selene也起身向舞台冲去。"
 
 # game/castle.rpy#L1472
 translate chinese selenevisit_68052edc:
 
     # "Just as it’s about to attack Moxie, and potentially wake her up, Selene channels a paralysis spell that holds the bear in place! Moxie manages to quickly scurry away, that should buy us some time."
-    "Just as it’s about to attack Moxie, and potentially wake her up, Selene channels a paralysis spell that holds the bear in place! Moxie manages to quickly scurry away, that should buy us some time."
+    "如果它朝Moxie发难的话，很有可能会造成她梦醒，Selene的麻痹法术及时赶到，成功把大熊困在原地！Moxie成功从熊的魔爪下逃走，算是给我们争取了些时间。"
 
 # game/castle.rpy#L1473
 translate chinese selenevisit_a795288e:
 
     # "The audience erupts into chaos and begins to escape from the scene in every direction possible."
-    "The audience erupts into chaos and begins to escape from the scene in every direction possible."
+    "观众席上的畅快的欢呼很快变成了慌乱的嘈杂，他们都争先恐后地向出口跑去。"
 
 # game/castle.rpy#L1474
 translate chinese selenevisit_7750d90f:
 
     # "Within that chaos I looked around everywhere for that robed figure I saw earlier."
-    "Within that chaos I looked around everywhere for that robed figure I saw earlier."
+    "在慌乱逃亡的马群中，我开始四处张望，想找到Ruby梦境里那个穿长袍的马。"
 
 # game/castle.rpy#L1476
 translate chinese selenevisit_8b8f8f37:
 
     # "In my search, I peer around the back of the stage and find Moxie. She's clearly distressed."
-    "In my search, I peer around the back of the stage and find Moxie. She's clearly distressed."
+    "我看到了舞台后面的Moxie。她的脸上愁眉不展。"
 
 # game/castle.rpy#L1478
 translate chinese selenevisit_8613eb73:
 
     # mc "Moxie, you have to get out of here, it’s dangerous!"
-    mc "Moxie, you have to get out of here, it’s dangerous!"
+    mc "Moxie，你得赶紧离开这儿，这儿太危险了！"
 
 # game/castle.rpy#L1479
 translate chinese selenevisit_6398ce20:
 
     # moxie "[playername]…? What are you doing here?"
-    moxie "[playername]…? What are you doing here?"
+    moxie "[playername]...？你怎么在这儿？"
 
 # game/castle.rpy#L1481
 translate chinese selenevisit_b354f071:
 
     # "She runs up to me and tightly embraces me. Her softness sends a shiver of butterflies through my gut."
-    "She runs up to me and tightly embraces me. Her softness sends a shiver of butterflies through my gut."
+    "她朝我跑来，给了我一个紧紧的拥抱。温香软玉突然入怀不禁让我虎躯一震。"
 
 # game/castle.rpy#L1482
 translate chinese selenevisit_e2ed8663:
 
     # "She feels so real! Sigh… Moxie…"
-    "She feels so real! Sigh… Moxie…"
+    "她的触感一点也不像是梦，像真的！哎...Moxie......"
 
 # game/castle.rpy#L1484
 translate chinese selenevisit_967e1f85:
 
     # moxie "You’re here to save me again…"
-    moxie "You’re here to save me again…"
+    moxie "你又救了我一次......"
 
 # game/castle.rpy#L1485
 translate chinese selenevisit_b2b9e19d:
 
     # mc "What do you mean?"
-    mc "What do you mean?"
+    mc "此话怎讲？"
 
 # game/castle.rpy#L1486
 translate chinese selenevisit_95f8e171:
 
     # "She nuzzles her cheek into my face, not letting go for a second."
-    "She nuzzles her cheek into my face, not letting go for a second."
+    "她的脸颊紧紧贴上了我的脸颊，说什么也不肯分开。"
 
 # game/castle.rpy#L1487
 translate chinese selenevisit_9de1b91d:
 
     # "The unexpected reunion was nice. But the chaos, the bear and the adrenaline running through my body is preventing me from calming down right now."
-    "The unexpected reunion was nice. But the chaos, the bear and the adrenaline running through my body is preventing me from calming down right now."
+    "这副温存的图景很是美好。但四周混乱的马群，咆哮的大熊还有我飙升的肾上腺素容不得我半点冷静。"
 
 # game/castle.rpy#L1489
 translate chinese selenevisit_8d1d214e:
 
     # "Fortunately, I see a relieving sight, Selene behind Moxie with a smile on her face."
-    "Fortunately, I see a relieving sight, Selene behind Moxie with a smile on her face."
+    "不过还好，我朝Moxie的身后看了一眼，Selene就站在她背后，脸上挂着微笑，我可以松口气了。"
 
 # game/castle.rpy#L1490
 translate chinese selenevisit_9a749366:
 
     # "Ah, the nightmare had dissipated during the hug. The bear vanished, along with the chaotic crowd."
-    "Ah, the nightmare had dissipated during the hug. The bear vanished, along with the chaotic crowd."
+    "啊，我们的拥抱终结了噩梦。大熊同混乱的马群都通通消失了。"
 
 # game/castle.rpy#L1491
 translate chinese selenevisit_9910dc95:
 
     # moxie "Mmphh, whenever I need you most, you’re always there for me."
-    moxie "Mmphh, whenever I need you most, you’re always there for me."
+    moxie "嗯，每次人家最需要你的时候，你都会及时出现。"
 
 # game/castle.rpy#L1492
 translate chinese selenevisit_ac6fe67b:
 
     # moxie "When you came into my life, you made everything so much better."
-    moxie "When you came into my life, you made everything so much better."
+    moxie "你的出现让我的生活里所有的东西都更泛光彩。"
 
 # game/castle.rpy#L1493
 translate chinese selenevisit_9b5141f9:
 
     # moxie "I don’t know what I’d do without you."
-    moxie "I don’t know what I’d do without you."
+    moxie "如果没了你，人家都不知道该怎么办。"
 
 # game/castle.rpy#L1494
 translate chinese selenevisit_dc850881:
 
     # mc "You really love me, don’t you?"
-    mc "You really love me, don’t you?"
+    mc "你真的很爱我，是吗？"
 
 # game/castle.rpy#L1496
 translate chinese selenevisit_da3fe159:
 
     # moxie "More than you could ever know."
-    moxie "More than you could ever know."
+    moxie "比你想的还要爱。"
 
 # game/castle.rpy#L1504
 translate chinese selenevisit_b47bb2b2:
 
     # "Moxie pulls away and turns to see Selene behind us."
-    "Moxie pulls away and turns to see Selene behind us."
+    "Moxie终于松开手，转过身看向身后的Selene。"
 
 # game/castle.rpy#L1505
 translate chinese selenevisit_e56e3e9a:
 
     # moxie "What’s going on? I’m… I’m confused… Why are you here Selene? I-I'm dreaming aren't I!"
-    moxie "What’s going on? I’m… I’m confused… Why are you here Selene? I-I'm dreaming aren't I!"
+    moxie "发生啥了？我...我糊涂了...Selene怎么会在这儿？我，我肯定是在做梦！"
 
 # game/castle.rpy#L1506
 translate chinese selenevisit_8af99edc:
 
     # selene "Ooohh, she's sharp! Perfect for a future student of mine."
-    selene "Ooohh, she's sharp! Perfect for a future student of mine."
+    selene "哦，她可真机敏！是做本宫学生的好料呢。"
 
 # game/castle.rpy#L1507
 translate chinese selenevisit_acae88d8:
 
     # selene "We’re here strictly on business, Moxie. Do you want to do the honours, [playername]?"
-    selene "We’re here strictly on business, Moxie. Do you want to do the honours, [playername]?"
+    selene "不过我们来这儿是因为公事，Moxie。你来给她说说吧，[playername]？"
 
 # game/castle.rpy#L1508
 translate chinese selenevisit_8abce470:
 
     # mc "We’re looking for a robed figure, have you seen anyone?"
-    mc "We’re looking for a robed figure, have you seen anyone?"
+    mc "我们在找一个穿着袍子的家伙，你看到过这样一匹马没有？"
 
 # game/castle.rpy#L1510
 translate chinese selenevisit_586efc81:
 
     # moxie "Robed… Yeah, actually. Behind the stage, there was someone wearing a long cloak."
-    moxie "Robed… Yeah, actually. Behind the stage, there was someone wearing a long cloak."
+    moxie "穿着袍子...有的。就在舞台后面，有个穿着袍子的家伙鬼鬼祟祟的。"
 
 # game/castle.rpy#L1511
 translate chinese selenevisit_c4a2e69f:
 
     # mc "Thank you Moxie, I’ll see you later, okay?"
-    mc "Thank you Moxie, I’ll see you later, okay?"
+    mc "谢谢你Moxie，我们晚会再见，好不好？"
 
 # game/castle.rpy#L1513
 translate chinese selenevisit_eb215d77:
 
     # moxie "Stay safe!"
-    moxie "Stay safe!"
+    moxie "注意安全啊！"
 
 # game/castle.rpy#L1515
 translate chinese selenevisit_bb1411a6:
 
     # "She kisses me on the cheek before Selene and I dash to the stage."
-    "She kisses me on the cheek before Selene and I dash to the stage."
+    "在我和Selene冲进舞台后面之前，她还在我的面颊上亲了一口。"
 
 # game/castle.rpy#L1518
 translate chinese selenevisit_8aa470bb:
 
     # "A robed figure is indeed hidden behind the dark wood of the stage, their face enshrouded by darkness casting an imposing figure."
-    "A robed figure is indeed hidden behind the dark wood of the stage, their face enshrouded by darkness casting an imposing figure."
+    "舞台背后的树林里一片漆黑，真的有一个穿着长袍的身影矗立其中，他们的脸庞被黑暗所笼罩，散发着一种令人不寒而栗的气势。"
 
 # game/castle.rpy#L1519
 translate chinese selenevisit_7ad929c7:
 
     # selene "Identify yourself!"
-    selene "Identify yourself!"
+    selene "报上名来！"
 
 # game/castle.rpy#L1521
 translate chinese selenevisit_5239b0f4:
 
     # "Haphazardly the figure leaps away from us, and I give pursuit."
-    "Haphazardly the figure leaps away from us, and I give pursuit."
+    "那个神秘客慌忙从我俩身边跳过，我追了上去。"
 
 # game/castle.rpy#L1522
 translate chinese selenevisit_e22515c1:
 
     # selene "Wait!"
-    selene "Wait!"
+    selene "站住！"
 
 # game/castle.rpy#L1524
 translate chinese selenevisit_862336e9:
 
     # "As I’m chasing, they trip on the fabric of their long robe while attempting to cast a bizarre incantation. But it works in their favour as they conjure a portal and falls straight into it."
-    "As I’m chasing, they trip on the fabric of their long robe while attempting to cast a bizarre incantation. But it works in their favour as they conjure a portal and falls straight into it."
+    "在我追逐的路上，他们释放的咒语不止一次地因为被自己身穿的长袍绊倒而被打断。但他们最终还是成功释放了魔法，召唤出了一道门，成功遁入其中。"
 
 # game/castle.rpy#L1526
 translate chinese selenevisit_6b349eec:
 
     # "Unfortunately, this floor-bound portal engulfs me too, before immediately closing, separating Selene and I in two separate dreams."
-    "Unfortunately, this floor-bound portal engulfs me too, before immediately closing, separating Selene and I in two separate dreams."
+    "这个传送门是落地式的，我不幸的因为惯性的作用也摔了进去，现在我和Selene分开进入了不同的梦境里。"
 
 # game/castle.rpy#L1531
 translate chinese selenevisit_4d6a3e0e:
 
     # "When I come to, I’m in a fairly familiar location. But it takes me a few moments to re-adjust."
-    "When I come to, I’m in a fairly familiar location. But it takes me a few moments to re-adjust."
+    "我又进到了一个似曾相识的地方，不过我还得花点时间先适应下。"
 
 # game/castle.rpy#L1532
 translate chinese selenevisit_deac305a:
 
     # "Where is the person I was just chasing? Damnit, why didn’t I appear adjacent to them."
-    "Where is the person I was just chasing? Damnit, why didn’t I appear adjacent to them."
+    "我刚刚追的那个屌人呢？闯尼玛个鬼哦，都是一个门进来的，我应该被传送到他身边才对啊。"
 
 # game/castle.rpy#L1533
 translate chinese selenevisit_a39c5b6d:
 
     # "I'm all alone now... Am I in danger? I hope not."
-    "I'm all alone now... Am I in danger? I hope not."
+    "我现在孤身一人了...这儿危险吗？我没办法确定。"
 
 # game/castle.rpy#L1534
 translate chinese selenevisit_0a8fd562:
 
     # "I realize where I am, I’m in the corridor of the tree library, in-between Penelope and Lily’s rooms."
-    "I realize where I am, I’m in the corridor of the tree library, in-between Penelope and Lily’s rooms."
+    "我认出来这是哪儿了，我在大树图书馆的走廊里，就处在Penelope和Lily的房间中间。"
 
 # game/castle.rpy#L1535
 translate chinese selenevisit_fbbc1c2d:
 
     # "Whose dream is this, though?"
-    "Whose dream is this, though?"
+    "但这个梦的梦主是谁呢？"
 
 # game/castle.rpy#L1536
 translate chinese selenevisit_f52bfea1:
 
     # "My doubts were soon affirmed by the moaning coming from Penelope’s rooms, specifically the moans of Moxie. That means it’s probably Penny’s dream."
-    "My doubts were soon affirmed by the moaning coming from Penelope’s rooms, specifically the moans of Moxie. That means it’s probably Penny’s dream."
+    "Penelope房间里传来的呻吟声很快打消了我的疑虑，里面还传来Moxie的呻吟声，尤其有辨识度。这可能是Penny的梦。"
 
 # game/castle.rpy#L1538
 translate chinese selenevisit_1ab69593:
 
     # "I peek through the gap in the door and I spot Moxie and Penelope having sex on Penelope’s bed."
-    "I peek through the gap in the door and I spot Moxie and Penelope having sex on Penelope’s bed."
+    "我把眼睛凑到门缝上，Moxie和Penelope正在后者的床上做爱。"
 
 # game/castle.rpy#L1539
 translate chinese selenevisit_de6e8a2e:
 
     # "It’s strange seeing Moxie again immediately in a different context."
-    "It’s strange seeing Moxie again immediately in a different context."
+    "在不同的梦境里又看到Moxie感觉有点奇怪。"
 
 # game/castle.rpy#L1540
 translate chinese selenevisit_fed761d8:
 
     # "No less having sex with another…"
-    "No less having sex with another…"
+    "而且她还在和其他马做爱......"
 
 # game/castle.rpy#L1541
 translate chinese selenevisit_dc0b1442:
 
     # "I know that it’s not really Moxie, but… I probably shouldn't watch this."
-    "I know that it’s not really Moxie, but… I probably shouldn't watch this."
+    "我知道那只是其他马梦里的Moxie，但...我还是别看了为好。"
 
 # game/castle.rpy#L1543
 translate chinese selenevisit_d7c0457b:
 
     # "This is like a nightmare for me, not for her."
-    "This is like a nightmare for me, not for her."
+    "这更像是我的噩梦，而不像是她的。"
 
 # game/castle.rpy#L1544
 translate chinese selenevisit_0d50851d:
 
     # "To be jealous of Moxie sleeping with others is a dangerous precedent considering I’m freely sleeping around. I feel like a complete hypocrite right now."
-    "To be jealous of Moxie sleeping with others is a dangerous precedent considering I’m freely sleeping around. I feel like a complete hypocrite right now."
+    "我到处沾花惹草的，现在又窥见Moxie和别的女孩同床共枕，一股嫉妒感油然而生。我感觉自己现在就像个伪君子。"
 
 # game/castle.rpy#L1545
 translate chinese selenevisit_6d2bdfcb:
 
     # "Is this how Moxie feels when I sleep around? An uncomfortable feeling in the gut, it’s not pleasant."
-    "Is this how Moxie feels when I sleep around? An uncomfortable feeling in the gut, it’s not pleasant."
+    "这就是我到处寻欢时，Moxie心里的感受吗？心中五味杂陈，很是难受。"
 
 # game/castle.rpy#L1546
 translate chinese selenevisit_e44c6c57:
 
     # "Either I talk to Moxie about my feelings, or I shut up."
-    "Either I talk to Moxie about my feelings, or I shut up."
+    "要么我和Moxie好好谈谈我的感受，要么还是绝口不提算了。"
 
 # game/castle.rpy#L1547
 translate chinese selenevisit_df03bd9f:
 
     # "Distracted with my own thought, I hadn’t even noticed that Moxie had completely disappeared from the room."
-    "Distracted with my own thought, I hadn’t even noticed that Moxie had completely disappeared from the room."
+    "房间里的Moxie突然就消失不见，把我的思绪又拉了回来。"
 
 # game/castle.rpy#L1548
 translate chinese selenevisit_44cb0dc3:
 
     # "Upon reinspection, Penelope is sat there alone, she looks exhausted."
-    "Upon reinspection, Penelope is sat there alone, she looks exhausted."
+    "我又往里看了一眼，只剩Penelope自己坐在那儿，她看起来筋疲力竭。"
 
 # game/castle.rpy#L1551
 translate chinese selenevisit_5db3b452:
 
     # "Politely knocking on the door, I step inside."
-    "我礼貌地敲门，并走进去。"
+    "我礼貌地敲门，并走了进去。"
 
 # game/castle.rpy#L1552
 translate chinese selenevisit_f62ce4cb:
 
     # mc "Hey Penny."
-    mc "Hey Penny."
+    mc "嘿Penny。"
 
 # game/castle.rpy#L1553
 translate chinese selenevisit_bd451d95:
 
     # "She turns to me, her expression unchanging."
-    "She turns to me, her expression unchanging."
+    "她侧向了我这边，脸上的倦怠依旧。"
 
 # game/castle.rpy#L1554
 translate chinese selenevisit_e926b82c:
 
     # penelope "Ah, it’s you. Moxie’s new lover."
-    penelope "Ah, it’s you. Moxie’s new lover."
+    penelope "啊，你来了。Moxie的新欢。"
 
 # game/castle.rpy#L1555
 translate chinese selenevisit_0a10d09e:
 
     # "She sounds unusually bitter. Actually, she’s wholly rougher around the edges than her usual persona."
-    "She sounds unusually bitter. Actually, she’s wholly rougher around the edges than her usual persona."
+    "她的语调有些苦涩。其实比她平时的语气听起来粗暴了不少。"
 
 # game/castle.rpy#L1562
 translate chinese selenevisit_7fd31693:
 
     # penelope "Is that so? Or is this just another one of your ploys."
-    penelope "Is that so? Or is this just another one of your ploys."
+    penelope "你真的爱她吗？还是你只是把她当作掌中玩物。"
 
 # game/castle.rpy#L1563
 translate chinese selenevisit_a2e2bba4:
 
     # mc "My ploys? No, I’m serious."
-    mc "My ploys? No, I’m serious."
+    mc "掌中玩物？不，我对她是真心的。"
 
 # game/castle.rpy#L1564
 translate chinese selenevisit_b63867fd:
 
     # penelope "Where’s Moxie?"
-    penelope "Where’s Moxie?"
+    penelope "那Moxie去哪儿了？"
 
 # game/castle.rpy#L1565
 translate chinese selenevisit_1952a046:
 
     # mc "What do you mean? I saw her a few seconds ago right here."
-    mc "What do you mean? I saw her a few seconds ago right here."
+    mc "你问这个干嘛？我刚刚不是看到她就在这里吗。"
 
 # game/castle.rpy#L1566
 translate chinese selenevisit_759efadd:
 
     # penelope "She vanished when you arrived, I haven’t seen her since."
-    penelope "She vanished when you arrived, I haven’t seen her since."
+    penelope "你来了之后她突然就消失了，我再也没见过她了。"
 
 # game/castle.rpy#L1567
 translate chinese selenevisit_858f1677:
 
     # mc "Yeah, but…"
-    mc "Yeah, but…"
+    mc "是的，但......"
 
 # game/castle.rpy#L1569
 translate chinese selenevisit_ebf6dc1c:
 
     # penelope "She doesn’t visit me anymore; she used to always come and visit me in the evenings."
-    penelope "She doesn’t visit me anymore; she used to always come and visit me in the evenings."
+    penelope "她再也不来看我了；她以前几乎每天晚上都来看我的。"
 
 # game/castle.rpy#L1570
 translate chinese selenevisit_4dc4f704:
 
     # mc "I’m sorry, I didn’t mean to push her away from you."
-    mc "I’m sorry, I didn’t mean to push her away from you."
+    mc "对不起，我不是有意要让她疏远你的。"
 
 # game/castle.rpy#L1572
 translate chinese selenevisit_05bf4053:
 
     # penelope "I remember when I gave her that book, we spent an evening laughing, and casting magic together."
-    penelope "I remember when I gave her that book, we spent an evening laughing, and casting magic together."
+    penelope "我还记得那个欢声笑语的夜晚，我给了她那本书，我们一起放着魔法，开怀大笑。"
 
 # game/castle.rpy#L1573
 translate chinese selenevisit_919ae735:
 
     # penelope "Ending with love, affection and snuggling in my bed."
-    penelope "Ending with love, affection and snuggling in my bed."
+    penelope "最后在爱意，亲密的依偎中沉沉睡去。"
 
 # game/castle.rpy#L1575
 translate chinese selenevisit_16deee1d:
 
     # penelope "Then two days later, she shows up to my doorstep with the absolute accident that is you."
-    penelope "Then two days later, she shows up to my doorstep with the absolute accident that is you."
+    penelope "结果两天后，她来找我的时候身边多了你这个灾星。"
 
 # game/castle.rpy#L1576
 translate chinese selenevisit_b0683cf0:
 
     # "I was wondering what the nightmare was for a while, since this started as a wet dream."
-    "I was wondering what the nightmare was for a while, since this started as a wet dream."
+    "因为刚开始这明显是个春梦，我还在寻思这哪里像个噩梦了。"
 
 # game/castle.rpy#L1577
 translate chinese selenevisit_050843c3:
 
     # "Nightmares don’t usually involve sex and love, but it seems like her nightmare was being abandoned and lonely."
-    "Nightmares don’t usually involve sex and love, but it seems like her nightmare was being abandoned and lonely."
+    "噩梦一般同做爱和爱情无关，但她的噩梦应该就是感觉自己被抛弃了，非常孤独。"
 
 # game/castle.rpy#L1578
 translate chinese selenevisit_a38677aa:
 
     # "And now I’m here. I just added a confrontational element, as such, I have become her nightmare."
-    "And now I’m here. I just added a confrontational element, as such, I have become her nightmare."
+    "而我的出现则相当于朝她的梦境里加入了一个敌意元素，她的春梦因为我的介入变成了噩梦。"
 
 # game/castle.rpy#L1579
 translate chinese selenevisit_c4e08f1f:
 
     # mc "Penny, I know you had a crush on Moxie, but you have to realize she never felt the same way, it was always platonic for her."
-    mc "Penny, I know you had a crush on Moxie, but you have to realize she never felt the same way, it was always platonic for her."
+    mc "Penny，我知道你其实爱着Moxie，但你得明白一个事实，你只是对她一厢情愿而已，她对你并没有类似的感觉，她只是想跟你进行一场柏拉图式的爱情。"
 
 # game/castle.rpy#L1581
 translate chinese selenevisit_df6e867a:
 
     # penelope "Was it though? We were so close, if you didn’t exist maybe we would still be together!"
-    penelope "Was it though? We were so close, if you didn’t exist maybe we would still be together!"
+    penelope "真的吗？我们曾经如此亲密，如果不是你的话，我们现在都还在一起形影不离！"
 
 # game/castle.rpy#L1582
 translate chinese selenevisit_bbcff9a3:
 
     # mc "You don’t understand, Moxie was going through a lot."
-    mc "You don’t understand, Moxie was going through a lot."
+    mc "你不明白，Moxie经历了很多事情。"
 
 # game/castle.rpy#L1584
 translate chinese selenevisit_79e6875e:
 
     # penelope "Since you clearly know so much about us in the short time you’ve been here, do enlighten me."
-    penelope "Since you clearly know so much about us in the short time you’ve been here, do enlighten me."
+    penelope "哦，你刚来几天，就对我们了如指掌了？我倒要听听你能怎么说服我。"
 
 # game/castle.rpy#L1585
 translate chinese selenevisit_1ae3cb86:
 
     # mc "You told me that she felt extremely lonely, and was likely using you for comfort and intimacy, especially during the beginning of her heat."
-    mc "You told me that she felt extremely lonely, and was likely using you for comfort and intimacy, especially during the beginning of her heat."
+    mc "你告诉过我她感觉十分孤独对吧，她只是想从你身上感受到舒适和亲密感而已，特别是她发情的时候。"
 
 # game/castle.rpy#L1587
 translate chinese selenevisit_ef86ee83:
 
     # penelope "Hmph… Well yeah…"
-    penelope "Hmph… Well yeah…"
+    penelope "嗯...是这个样子......"
 
 # game/castle.rpy#L1588
 translate chinese selenevisit_0678699a:
 
     # penelope "She had a hole within herself that needed to be filled, and you filled that far better than I ever could. No innuendos intended."
-    penelope "She had a hole within herself that needed to be filled, and you filled that far better than I ever could. No innuendos intended."
+    penelope "她的内心里始终有个空虚的洞，你填得比我好。哦，我不是那个意思。"
 
 # game/castle.rpy#L1589
 translate chinese selenevisit_e10f7bfd:
 
     # mc "It’s okay to be jealous, but you can’t let those feelings control and blind you."
-    mc "It’s okay to be jealous, but you can’t let those feelings control and blind you."
+    mc "感觉到酸楚是很正常的事情，但你不能让这些感觉左右你的思想，遮蔽你的视线。"
 
 # game/castle.rpy#L1591
 translate chinese selenevisit_24c693e1:
 
     # penelope "Oh bother, we’ve already discussed this before, haven’t we?"
-    penelope "Oh bother, we’ve already discussed this before, haven’t we?"
+    penelope "哦打断下，咱们以前是不是聊过这些，有没有？"
 
 # game/castle.rpy#L1592
 translate chinese selenevisit_1c1a0fb3:
 
     # mc "I believe so, yeah, you know Moxie didn’t want to date you."
-    mc "I believe so, yeah, you know Moxie didn’t want to date you."
+    mc "应该聊过，是的，你知道Moxie不想讨厌你的。"
 
 # game/castle.rpy#L1594
 translate chinese selenevisit_bbaae95c:
 
     # penelope "It really feels like Moxie’s misery and loneliness transferred to me instead."
-    penelope "It really feels like Moxie’s misery and loneliness transferred to me instead."
+    penelope "我真的感觉像是Moxie身上的痛苦和寂寞转移到了我身上一样。"
 
 # game/castle.rpy#L1595
 translate chinese selenevisit_87c27e3f:
 
     # penelope "Moxie thought she was relying on me, but in truth…"
-    penelope "Moxie thought she was relying on me, but in truth…"
+    penelope "Moxie觉得我是她的依靠，但事实是......"
 
 # game/castle.rpy#L1596
 translate chinese selenevisit_337c49be:
 
     # penelope "I was relying on her, perhaps even more."
-    penelope "I was relying on her, perhaps even more."
+    penelope "她是我的依靠，甚至说是支柱。"
 
 # game/castle.rpy#L1597
 translate chinese selenevisit_a16124ee:
 
     # mc "It’s unfair to put that burden on a singular person, and it’s unfair to have those expectations of someone."
-    mc "It’s unfair to put that burden on a singular person, and it’s unfair to have those expectations of someone."
+    mc "你不能单靠某一匹马过活，对她报这样高的期望并不现实。"
 
 # game/castle.rpy#L1598
 translate chinese selenevisit_2f78378c:
 
     # mc "Especially when they may not even reciprocate your feelings."
-    mc "Especially when they may not even reciprocate your feelings."
+    mc "而且她们如果不能正确理解并且回应你的感受，事情会更糟。"
 
 # game/castle.rpy#L1600
 translate chinese selenevisit_48749ec3:
 
     # penelope "But we had so many great times together. I don’t understand why she always distanced herself from me... Mixed signals always confused me."
-    penelope "But we had so many great times together. I don’t understand why she always distanced herself from me... Mixed signals always confused me."
+    penelope "可是我们在一起度过了那么多美好时光。我不明白为什么她总是和我刻意保持距离...一会亲一会远的我真的没办法理解。"
 
 # game/castle.rpy#L1601
 translate chinese selenevisit_c8f0179c:
 
     # penelope "How was I supposed to know how she felt? I can’t read minds."
-    penelope "How was I supposed to know how she felt? I can’t read minds."
+    penelope "我怎么知道她的感受呢？我又不会读心术。"
 
 # game/castle.rpy#L1602
 translate chinese selenevisit_fa85043a:
 
     # mc "It’s not her mind you need to worry about, it’s yours"
-    mc "It’s not her mind you need to worry about, it’s yours"
+    mc "她的想法你无需挂念，你该操心你自己的。"
 
 # game/castle.rpy#L1604
 translate chinese selenevisit_17e676ab:
 
     # "Penelope’s ears perk up, she’s listening."
-    "Penelope’s ears perk up, she’s listening."
+    "Penelope的耳朵高高立起，期待着我接下来的话语。"
 
 # game/castle.rpy#L1605
 translate chinese selenevisit_d30dec07:
 
     # mc "You’re letting your emotions get ahead of you and control yourself. For a moment I want you to try to consider your emotions from an outside perspective."
-    mc "You’re letting your emotions get ahead of you and control yourself. For a moment I want you to try to consider your emotions from an outside perspective."
+    mc "你让情绪左右自己的行为。我刚刚在想，你应该跳出情绪的圈子，重新好好审视一下自己。"
 
 # game/castle.rpy#L1607
 translate chinese selenevisit_5e605134:
 
     # penelope "My emotions are who I am, even if I try to be objective that doesn’t change that."
-    penelope "My emotions are who I am, even if I try to be objective that doesn’t change that."
+    penelope "可情绪就是我自己发出的，就算我想客观也没用。"
 
 # game/castle.rpy#L1608
 translate chinese selenevisit_18d3babf:
 
     # mc "On the contrary, your emotions are a reaction to events. It’s definitely possible to control your reaction."
-    mc "On the contrary, your emotions are a reaction to events. It’s definitely possible to control your reaction."
+    mc "不是这样的，你的情绪是对周边事物的反馈。要想控制好并非难事。"
 
 # game/castle.rpy#L1609
 translate chinese selenevisit_42e4895f:
 
     # mc "When you see a glass of water, it can be half empty, or half full depending on whether you’re a pessimist or an optimist."
-    mc "When you see a glass of water, it can be half empty, or half full depending on whether you’re a pessimist or an optimist."
+    mc "一杯水在不同马的眼里也是不同的，悲观主义者会觉得这是半瓶水，而乐观主义者会觉得这是满瓶水。"
 
 # game/castle.rpy#L1610
 translate chinese selenevisit_65f42f29:
 
     # penelope "I’m not following."
-    penelope "I’m not following."
+    penelope "我仍然不是很懂。"
 
 # game/castle.rpy#L1611
 translate chinese selenevisit_9eac5bb4:
 
     # mc "Ask yourself honestly, was Moxie’s happiness your primary goal?"
-    mc "Ask yourself honestly, was Moxie’s happiness your primary goal?"
+    mc "扪心自问，你真的想要Moxie幸福地生活下去吗？"
 
 # game/castle.rpy#L1612
 translate chinese selenevisit_ec17ba0f:
 
     # penelope "Umm… Of course! I worked hard to make her feel better after everything she’s been through; I was always there for her. I tried my best to please her during sex, I let her borrow books."
-    penelope "Umm… Of course! I worked hard to make her feel better after everything she’s been through; I was always there for her. I tried my best to please her during sex, I let her borrow books."
+    penelope "嗯...这还用问！我在她历经磨难后做的一切都是为了让她打起精神；她有需要我随叫随到。她有性需求我会尽可能地满足，我还借了她不少书。"
 
 # game/castle.rpy#L1613
 translate chinese selenevisit_17044d09:
 
     # mc "Despite that, Moxie has found someone else, and is now happier. If that’s what you really want, why aren’t you happy?"
-    mc "Despite that, Moxie has found someone else, and is now happier. If that’s what you really want, why aren’t you happy?"
+    mc "可是Moxie找到了另外一个人，现在过得更开心了。这不就是你追求的事情吗，你不觉得高兴吗？"
 
 # game/castle.rpy#L1615
 translate chinese selenevisit_a2a42c66:
 
     # penelope "Because… Now I’m the lonely one…"
-    penelope "Because… Now I’m the lonely one…"
+    penelope "我不开心就是因为...我现在又是孑然一身了......"
 
 # game/castle.rpy#L1616
 translate chinese selenevisit_f5ec129d:
 
     # "I wait patiently, keeping eye contact with the teary-eyed mare. It’s not cold, but she’s shivering."
-    "I wait patiently, keeping eye contact with the teary-eyed mare. It’s not cold, but she’s shivering."
+    "我耐心地等待着，和这只已经潸然泪下的雌驹四目相对。天气很暖和，但她却在发抖。"
 
 # game/castle.rpy#L1617
 translate chinese selenevisit_6b651fdd:
 
     # penelope "I get it…"
-    penelope "I get it…"
+    penelope "我懂了......"
 
 # game/castle.rpy#L1619
 translate chinese selenevisit_a08e70a9:
 
     # "She takes a tissue from a nearby drawer and dries her tears."
-    "She takes a tissue from a nearby drawer and dries her tears."
+    "她从旁边的抽屉里拿出一张纸巾拭净了脸上的泪珠。"
 
 # game/castle.rpy#L1621
 translate chinese selenevisit_52767007:
 
     # penelope "I was doing all these things for Moxie, not out of the kindness of my heart, but because I wanted love and intimacy in return."
-    penelope "I was doing all these things for Moxie, not out of the kindness of my heart, but because I wanted love and intimacy in return."
+    penelope "我为Moxie做的所有事情不是处于善心，都只是想要她报以我爱和亲密。"
 
 # game/castle.rpy#L1622
 translate chinese selenevisit_c9fd4419:
 
     # penelope "That in itself was inherently selfish, but I was too stuck in my delusions of ‘helping’ and being a ‘good friend’."
-    penelope "That in itself was inherently selfish, but I was too stuck in my delusions of ‘helping’ and being a ‘good friend’."
+    penelope "算是一种自私举措吧，而且我太沉迷于“帮助”其他马和做“好朋友”当中了。"
 
 # game/castle.rpy#L1623
 translate chinese selenevisit_6a28df07:
 
     # penelope "If I was really a good friend, I’d be happy for her, like you said."
-    penelope "If I was really a good friend, I’d be happy for her, like you said."
+    penelope "如果我和她以挚友相称的话，应该替她高兴才对，就像你说的那样。"
 
 # game/castle.rpy#L1624
 translate chinese selenevisit_43bd7e0b:
 
     # mc "And why are you sad? If she never loved you in the first place, why are you sad now that she’s distanced herself from you?"
-    mc "And why are you sad? If she never loved you in the first place, why are you sad now that she’s distanced herself from you?"
+    mc "那你为什么还闷闷不乐呢？如果她从一开始就没爱过你，疏远你后你又何必苦苦倒追？"
 
 # game/castle.rpy#L1626
 translate chinese selenevisit_8fb7ee87:
 
     # penelope "Hah, shit, saying it out loud makes me sound awful. I think I’m sad because I expected love and intimacy in return for everything I did."
-    penelope "Hah, shit, saying it out loud makes me sound awful. I think I’m sad because I expected love and intimacy in return for everything I did."
+    penelope "哈，我去，大声把这些宣泄出来真的不太好。想必我做任何事都太渴求爱和关怀的回报了吧。"
 
 # game/castle.rpy#L1627
 translate chinese selenevisit_b63856e4:
 
     # penelope "But, of course I don’t deserve that..."
-    penelope "But, of course I don’t deserve that..."
+    penelope "当然，很多时候是我异想天开了......"
 
 # game/castle.rpy#L1629
 translate chinese selenevisit_f1ca7d5f:
 
     # penelope "In fact, I don’t even think I deserve to be sad over this, I feel ridiculous crying."
-    penelope "In fact, I don’t even think I deserve to be sad over this, I feel ridiculous crying."
+    penelope "现在想想，为那种事情伤心真不值得，我哭得好丢脸啊。"
 
 # game/castle.rpy#L1630
 translate chinese selenevisit_ce79b553:
 
     # mc "Self-awareness is the most crucial step to solving the problem."
-    mc "Self-awareness is the most crucial step to solving the problem."
+    mc "自知之明是解决这个问题的关键。"
 
 # game/castle.rpy#L1631
 translate chinese selenevisit_c2783ea7:
 
     # mc "Can you tell me what you need to do next to completely solve this problem? You already told me once."
-    mc "Can you tell me what you need to do next to completely solve this problem? You already told me once."
+    mc "如果你成功摆脱了这些心理阴影，你以后打算怎么办？你应该告诉过我的。"
 
 # game/castle.rpy#L1633
 translate chinese selenevisit_98a5bd92:
 
     # penelope "Yup, I did... I put far too much pressure on Moxie, when there are so many beautiful and amazing people out there in the world that may actually reciprocate my love."
-    penelope "Yup, I did... I put far too much pressure on Moxie, when there are so many beautiful and amazing people out there in the world that may actually reciprocate my love."
+    penelope "是的，我确实说过...我给Moxie太多压力了，这世界上还有不少美丽惊奇的马儿能对我的热情报以爱和关怀呢。"
 
 # game/castle.rpy#L1634
 translate chinese selenevisit_a938b339:
 
     # mc "Exactly, and you’re still friends with Moxie."
-    mc "Exactly, and you’re still friends with Moxie."
+    mc "没错，而且你和Moxie也还是朋友。"
 
 # game/castle.rpy#L1635
 translate chinese selenevisit_04117794:
 
     # penelope "Yeah, I think it’s time I got over myself."
-    penelope "Yeah, I think it’s time I got over myself."
+    penelope "嗯，是时候从阴影中走出来了。"
 
 # game/castle.rpy#L1640
 translate chinese selenevisit_e023d9a4:
 
     # "Penelope seems a lot more awake and lively now, colour returning to the world as she yawns and stretches out."
-    "Penelope seems a lot more awake and lively now, colour returning to the world as she yawns and stretches out."
+    "Penelope看起来活泼开朗了不少，她伸了个懒腰，周围原本灰蒙蒙的世界也重新变回了它们之前的颜色。"
 
 # game/castle.rpy#L1642
 translate chinese selenevisit_431313f1:
 
     # penelope "Thanks for this, [playername]. I was stuck in a strange place, and I didn’t have the id to realize it."
-    penelope "Thanks for this, [playername]. I was stuck in a strange place, and I didn’t have the id to realize it."
+    penelope "谢谢你开导我，[playername]。我一直为心魔所困，甚至都没意识到它的存在。"
 
 # game/castle.rpy#L1643
 translate chinese selenevisit_91d9dca7:
 
     # mc "It’s fine, I’m partly responsible for this anyway."
-    mc "It’s fine, I’m partly responsible for this anyway."
+    mc "没关系，毕竟我也是让你落寞的原因之一。"
 
 # game/castle.rpy#L1645
 translate chinese selenevisit_57e5f37d:
 
     # penelope "You did nothing wrong, don’t worry about it."
-    penelope "You did nothing wrong, don’t worry about it."
+    penelope "你并没有做错什么，没事儿的。"
 
 # game/castle.rpy#L1647
 translate chinese selenevisit_0cfeda5b:
 
     # penelope "I suppose with a clear mind, the only thing I lost is sex. I think I’ll make a visit to the brothel tonight for some much-needed relief."
-    penelope "I suppose with a clear mind, the only thing I lost is sex. I think I’ll make a visit to the brothel tonight for some much-needed relief."
+    penelope "我现在头脑清醒多了，不过就是缺个性伴侣罢了。今晚去妓院解决这个问题就是了。"
 
 # game/castle.rpy#L1649
 translate chinese selenevisit_98881866:
 
     # penelope "Unless you want to try the gender-changing spell again? Heheh."
-    penelope "Unless you want to try the gender-changing spell again? Heheh."
+    penelope "除非你想再试试性转法术？嘿嘿嘿~"
 
 # game/castle.rpy#L1650
 translate chinese selenevisit_58f52c0b:
 
     # mc "I’d love to, but I’m afraid I have something important to do."
-    mc "I’d love to, but I’m afraid I have something important to do."
+    mc "我没意见，但不是现在，我还有些事情要办。"
 
 # game/castle.rpy#L1652
 translate chinese selenevisit_27afb2eb:
 
     # penelope "Oh? What’s that?"
-    penelope "Oh? What’s that?"
+    penelope "哦？什么事儿？"
 
 # game/castle.rpy#L1653
 translate chinese selenevisit_5ed37282:
 
     # mc "Uhm, well… Can you create a portal to someone else’s dream?"
-    mc "Uhm, well… Can you create a portal to someone else’s dream?"
+    mc "呃，那个...你能不能给我开个去其他马梦境的传送门？"
 
 # game/castle.rpy#L1655
 translate chinese selenevisit_ffe2e03b:
 
     # penelope "Haha, that’s impossible! Unless you’re Princess Selene, unicorns can only do that if they’re already in the dream realm."
-    penelope "Haha, that’s impossible! Unless you’re Princess Selene, unicorns can only do that if they’re already in the dream realm."
+    penelope "哈哈，我怎么可能做得到！除非我是Selene公主，独角兽只有在梦里才能做到这一点。"
 
 # game/castle.rpy#L1656
 translate chinese selenevisit_a45017e1:
 
     # mc "Yes, that’s perfect, could you make a portal to say… Honeycrisp, Butters or Lily’s dream?"
-    mc "Yes, that’s perfect, could you make a portal to say… Honeycrisp, Butters or Lily’s dream?"
+    mc "嗯，这不就巧了吗，你能开个通往...Honeycrisp，Butters或者Lily梦境的传送门吗？"
 
 # game/castle.rpy#L1658
 translate chinese selenevisit_15f78e25:
 
     # penelope "Wha? But we’re not…"
-    penelope "Wha? But we’re not…"
+    penelope "啥子哦？我们又没有......"
 
 # game/castle.rpy#L1660
 translate chinese selenevisit_9cc8af7c:
 
     # penelope "Well, I can try to humour you, but I doubt it’ll work."
-    penelope "Well, I can try to humour you, but I doubt it’ll work."
+    penelope "好吧，看你那幅认真的神情，我姑且试试，不保证能行。"
 
 # game/castle.rpy#L1661
 translate chinese selenevisit_d4b55db6:
 
     # "She stands up and nonchalantly zaps the corner of the room, expecting nothing."
-    "She stands up and nonchalantly zaps the corner of the room, expecting nothing."
+    "她站了起来，漫不经心地朝房间角落放了个法术，然后准备干等着我失望。"
 
 # game/castle.rpy#L1668
 translate chinese selenevisit_7a922850:
 
     # "To her shock, but not mine, a portal does indeed form."
-    "To her shock, but not mine, a portal does indeed form."
+    "但她失算了，角落里确实出现了一道传送门。"
 
 # game/castle.rpy#L1669
 translate chinese selenevisit_0295e6a7:
 
     # mc "Thank you so much Penelope."
-    mc "Thank you so much Penelope."
+    mc "多谢啦Penelope。"
 
 # game/castle.rpy#L1670
 translate chinese selenevisit_176ce53e:
 
     # penelope "What the heck? I’m dreaming?"
-    penelope "What the heck? I’m dreaming?"
+    penelope "搞什么飞机？难道我真在做梦？"
 
 # game/castle.rpy#L1671
 translate chinese selenevisit_283fa2e0:
 
     # mc "Yep! Thank you, I gotta go before you wake up! Have a good sleep!"
-    mc "Yep! Thank you, I gotta go before you wake up! Have a good sleep!"
+    mc "没错！谢谢你，我得在你起床前溜溜球了！睡个好觉！"
 
 # game/castle.rpy#L1673
 translate chinese selenevisit_d1878af5:
 
     # penelope "Wait, you have some explaining to do!"
-    penelope "Wait, you have some explaining to do!"
+    penelope "等下，你得给我把这件事解释清楚！"
 
 # game/castle.rpy#L1674
 translate chinese selenevisit_b6be610a:
 
     # mc "You won’t remember this anyway!"
-    mc "You won’t remember this anyway!"
+    mc "反正你起床都会忘光！"
 
 # game/castle.rpy#L1678
 translate chinese selenevisit_a20cefa7:
@@ -5732,991 +5732,991 @@ translate chinese selenevisit_a20cefa7:
 translate chinese selenevisit_5b57faf7:
 
     # "I take my leave and slip into the portal. Hopefully, Selene is on this side."
-    "I take my leave and slip into the portal. Hopefully, Selene is on this side."
+    "我滑进传送门离开了Penny的梦境。希望Selene在这个传送门的另一端吧。"
 
 # game/castle.rpy#L1680
 translate chinese selenevisit_d3e2d01b:
 
     # "This side of the portal is complete darkness."
-    "This side of the portal is complete darkness."
+    "传送门里面黑得伸手不见五指。"
 
 # game/castle.rpy#L1681
 translate chinese selenevisit_12b789ab:
 
     # "Judging by that and the ambient sounds I’m outside."
-    "Judging by that and the ambient sounds I’m outside."
+    "从这附近的声音判断，我应该在野外。"
 
 # game/castle.rpy#L1683
 translate chinese selenevisit_838bdde8:
 
     # "It takes my eyes a few seconds to adjust, but as I look above I can see the stars and moon."
-    "It takes my eyes a few seconds to adjust, but as I look above I can see the stars and moon."
+    "眼睛花了点时间才适应了黑暗，我抬头望去，星星和月亮清晰可见。"
 
 # game/castle.rpy#L1684
 translate chinese selenevisit_0e307e81:
 
     # "Gradually the light of the moon illuminates the surroundings enough for me to realize that I'm on a field."
-    "Gradually the light of the moon illuminates the surroundings enough for me to realize that I'm on a field."
+    "月光渐渐洒满了周围，照亮了一切，我终于看清了，我处在一片田野之中。"
 
 # game/castle.rpy#L1685
 translate chinese selenevisit_8966b853:
 
     # "I think I'm standing in the middle of one of Honeycrisp’s farm fields."
-    "I think I'm standing in the middle of one of Honeycrisp’s farm fields."
+    "我想这是Honeycrisp农场的众多农田之一。"
 
 # game/castle.rpy#L1686
 translate chinese selenevisit_2d7ff7c0:
 
     # "It’s raining too, and I’m genuinely getting wet."
-    "It’s raining too, and I’m genuinely getting wet."
+    "天上还飘着雨，把我淋成了落汤鸡。"
 
 # game/castle.rpy#L1687
 translate chinese selenevisit_b43daa0e:
 
     # "I walk through the soggy fields towards the farmhouse, each step is moist and unpleasant."
-    "I walk through the soggy fields towards the farmhouse, each step is moist and unpleasant."
+    "我穿过湿漉漉的田野，朝农舍走去，因为下雨而黏糊糊的泥地踩着真不舒服。"
 
 # game/castle.rpy#L1689
 translate chinese selenevisit_57183645:
 
     # "When I reach the farmhouse and walk around it, all the windows are inexplicably barricaded, and the front door is locked."
-    "When I reach the farmhouse and walk around it, all the windows are inexplicably barricaded, and the front door is locked."
+    "我走到农舍后又围着它转了一圈，所有窗户都被匪夷所思地封钉死了，前门也是锁住的。"
 
 # game/castle.rpy#L1690
 translate chinese selenevisit_f36870b0:
 
     # "Seems like I’m alone out here. Dark, wet and cold."
-    "Seems like I’m alone out here. Dark, wet and cold."
+    "留我一个人在大雨，黑暗和寒风中凌乱。"
 
 # game/castle.rpy#L1691
 translate chinese selenevisit_fbdbbc38:
 
     # "At least there’s an overhang on the door preventing the rain from dropping on me."
-    "At least there’s an overhang on the door preventing the rain from dropping on me."
+    "还好她家门檐够长，我可以在下面避避雨。"
 
 # game/castle.rpy#L1692
 translate chinese selenevisit_3027d20a:
 
     # "The farm looks abandoned, perhaps this is Honeycrisp’s fear of failure taken to its extreme."
-    "The farm looks abandoned, perhaps this is Honeycrisp’s fear of failure taken to its extreme."
+    "整个农场都像被抛弃了一般死寂，也许这就是Honeycrisp恐惧的体现吧。"
 
 # game/castle.rpy#L1693
 translate chinese selenevisit_67023944:
 
     # "I wish Selene was here, this situation is starting to get stressful."
-    "I wish Selene was here, this situation is starting to get stressful."
+    "要是Selene也在这场梦里就好了，现在的情况搞得我头大。"
 
 # game/castle.rpy#L1694
 translate chinese selenevisit_7d112edc:
 
     # "Honeycrisp must be around somewhere, there’s no dream without an occupant."
-    "Honeycrisp must be around somewhere, there’s no dream without an occupant."
+    "Honeycrisp肯定就在这附近，梦主不可能不在梦里吧。"
 
 # game/castle.rpy#L1695
 translate chinese selenevisit_7b2ac0f5:
 
     # "I close my eyes and try to listen as hard as I can through the constant pitter-patter of the the rain."
-    "I close my eyes and try to listen as hard as I can through the constant pitter-patter of the the rain."
+    "我闭上双眼，开始排除雨点的噼啪作响，仔细聆觅附近的声音。"
 
 # game/castle.rpy#L1696
 translate chinese selenevisit_5b6d6063:
 
     # "There’s faint conversation near me, I had suspected as much. Someone’s in this boarded up farmhouse."
-    "There’s faint conversation near me, I had suspected as much. Someone’s in this boarded up farmhouse."
+    "很快捕捉到一些稀稀疏疏的谈话声。我之前就怀疑有马就藏在这个用木板封起来的农舍里。"
 
 # game/castle.rpy#L1697
 translate chinese selenevisit_12f303fe:
 
     # "I knock on the door, pounding rather loudly on the wooden boards."
-    "I knock on the door, pounding rather loudly on the wooden boards."
+    "我开始敲门，木门被敲得吱呀作响。"
 
 # game/castle.rpy#L1698
 translate chinese selenevisit_eae6c9a7:
 
     # "There’s no response, but there is a small scuffle on the inside."
-    "There’s no response, but there is a small scuffle on the inside."
+    "没有回应，但我能听到里面有些响动。"
 
 # game/castle.rpy#L1700
 translate chinese selenevisit_0078e808:
 
     # honeycrisp "Well I’ll be… It’s [playername]! Let him in, quick!"
-    honeycrisp "Well I’ll be… It’s [playername]! Let him in, quick!"
+    honeycrisp "我们会...是[playername]！让他进来，快点！"
 
 # game/castle.rpy#L1702
 translate chinese selenevisit_a8e66917:
 
     # honeycrisp "Well I'll be... It's a male survivor! Let him in, quick!"
-    honeycrisp "Well I'll be... It's a male survivor! Let him in, quick!"
+    honeycrisp "我们会...有个男的来帮我们！让他进来，快点！"
 
 # game/castle.rpy#L1706
 translate chinese selenevisit_5d99ae52:
 
     # "The door is gently opened a quarter of the way and I shimmy through the gap as it’s quickly shut and shackled behind me by a flustered orange mare."
-    "The door is gently opened a quarter of the way and I shimmy through the gap as it’s quickly shut and shackled behind me by a flustered orange mare."
+    "木门随即掀开了一条小缝，我刚从缝里面挤进去，一只橙色的雌驹飞速关上了我身后的门。"
 
 # game/castle.rpy#L1708
 translate chinese selenevisit_3cb84085:
 
     # "The door is gently opened a quarter of the way and I shimmy through the gap as it’s quickly shut and shackled behind me by a flustered Blossom."
-    "The door is gently opened a quarter of the way and I shimmy through the gap as it’s quickly shut and shackled behind me by a flustered Blossom."
+    "木门随即掀开了一条小缝，我刚从缝里面挤进去，一只橙色的雌驹飞速关上了我身后的门，是Blossom。"
 
 # game/castle.rpy#L1711
 translate chinese selenevisit_743bcf91:
 
     # "A wary yellow mare walks up towards me, and she’s holding a menacing looking shotgun."
-    "A wary yellow mare walks up towards me, and she’s holding a menacing looking shotgun."
+    "一只黄色的雌驹朝我走来，手里端着一把凶悍的霰弹枪。"
 
 # game/castle.rpy#L1712
 translate chinese selenevisit_751c80b0:
 
     # "This is Honeycrisp, right? This must be her nightmare."
-    "This is Honeycrisp, right? This must be her nightmare."
+    "想必这就是Honeycrisp了？这肯定是她的噩梦。"
 
 # game/castle.rpy#L1714
 translate chinese selenevisit_186b4362:
 
     # "A wary Honeycrisp walks up towards me, and she’s holding a menacing looking shotgun too."
-    "A wary Honeycrisp walks up towards me, and she’s holding a menacing looking shotgun too."
+    "一只黄色的雌驹朝我走来，是Honeycrisp，但她手里端着一把凶悍的霰弹枪。"
 
 # game/castle.rpy#L1715
 translate chinese selenevisit_1968f3cb:
 
     # "What the hell is going on?"
-    "What the hell is going on?"
+    "发生甚摸事了？"
 
 # game/castle.rpy#L1717
 translate chinese selenevisit_f890837c:
 
     # honeycrisp "A man! You must be one of the tough ones if you managed to escape those walkers, let alone the chaos in Arcadia..."
-    honeycrisp "A man! You must be one of the tough ones if you managed to escape those walkers, let alone the chaos in Arcadia..."
+    honeycrisp "兄dei！你能从那些蹒跚者手底下脱身肯定还是身怀绝技的，整个Arcadia都乱套了......"
 
 # game/castle.rpy#L1719
 translate chinese selenevisit_bc0789e1:
 
     # honeycrisp "Glad you’re not another one of those walkers stud, I knew you’d be one of the tough ones that managed to escape the chaos in Arcadia."
-    honeycrisp "Glad you’re not another one of those walkers stud, I knew you’d be one of the tough ones that managed to escape the chaos in Arcadia."
+    honeycrisp "很高兴你没被那群蹒跚着同化，我就知道你能从陷入混乱Arcadia中成功脱身的。"
 
 # game/castle.rpy#L1720
 translate chinese selenevisit_3d996037:
 
     # mc "What are you talking about?"
-    mc "What are you talking about?"
+    mc "你说什么呢？"
 
 # game/castle.rpy#L1722
 translate chinese selenevisit_a0b7c6d1:
 
     # honeycrisp "Heh, y’all could have run anywhere, but ya came straight to the farm."
-    honeycrisp "Heh, y’all could have run anywhere, but ya came straight to the farm."
+    honeycrisp "嘿，到处都可以藏身，不过你却来了农场。"
 
 # game/castle.rpy#L1724
 translate chinese selenevisit_3419c696:
 
     # honeycrisp "Probably thinkin’ that me and Blossom would be out here kickin’ ass. I must admit, I’m flattered."
-    honeycrisp "Probably thinkin’ that me and Blossom would be out here kickin’ ass. I must admit, I’m flattered."
+    honeycrisp "肯定是觉得有我和Blossom可以100%保证农场安全才来的吧。我承认我有被惊到哦。"
 
 # game/castle.rpy#L1727
 translate chinese selenevisit_1c49590f:
 
     # blossom "Yeah! Super awesome that you stumbled your way in here, I was worried those zombie numbskulls would have gotten all the men."
-    blossom "Yeah! Super awesome that you stumbled your way in here, I was worried those zombie numbskulls would have gotten all the men."
+    blossom "好耶！你还是磕磕绊绊的进来了，我还担心那些僵尸把所有男的都霍霍了呢。"
 
 # game/castle.rpy#L1729
 translate chinese selenevisit_543a0698:
 
     # blossom "Yeah! Super awesome that you’re here, I was worried those zombie numbskulls would have gotten to you too."
-    blossom "Yeah! Super awesome that you’re here, I was worried those zombie numbskulls would have gotten to you too."
+    blossom "好耶！你还是平安到我们这儿了，我还担心那些僵尸把你给霍霍了呢。"
 
 # game/castle.rpy#L1730
 translate chinese selenevisit_0cca7ac8:
 
     # mc "Zombies… A zombie apocalypse, out there?"
-    mc "Zombies… A zombie apocalypse, out there?"
+    mc "僵尸...外面爆发尸潮了？"
 
 # game/castle.rpy#L1733
 translate chinese selenevisit_df6d9953:
 
     # "I peek through a gap in the wooden barricade into the dark night, and I do indeed see swathes of stumbling pony zombies steadily shambling and shaking."
-    "I peek through a gap in the wooden barricade into the dark night, and I do indeed see swathes of stumbling pony zombies steadily shambling and shaking."
+    "我从农舍的木缝里看向外面的夜色，我确实看见一大批跌跌撞撞的小马僵尸在不断蹒跚和颤抖。"
 
 # game/castle.rpy#L1734
 translate chinese selenevisit_cbacaf9b:
 
     # "Those were out there with me? This nightmare is even more dangerous than Moxie’s!"
-    "Those were out there with me? This nightmare is even more dangerous than Moxie’s!"
+    "我刚刚就和这些玩意一起站在门外？这个噩梦比Moxie那个还要危险！"
 
 # game/castle.rpy#L1735
 translate chinese selenevisit_a71b9f67:
 
     # "But… I’m pretty sure I didn’t see any zombies outside… They must have just been manifested by Honeycrisp."
-    "But… I’m pretty sure I didn’t see any zombies outside… They must have just been manifested by Honeycrisp."
+    "但...我很肯定刚刚我在外面的时候没看见任何僵尸...肯定是Honeycrisp刚刚想象并且生成的。"
 
 # game/castle.rpy#L1738
 translate chinese selenevisit_48f2fc5f:
 
     # honeycrisp "It was chaos, one of those Goddesses turned evil, before anyone knew it, all unicorns turned into zombie-like slaves and started to eat the brains of others."
-    honeycrisp "It was chaos, one of those Goddesses turned evil, before anyone knew it, all unicorns turned into zombie-like slaves and started to eat the brains of others."
+    honeycrisp "外面乱成了一锅粥，有一位神祇突然背叛了诸神，堕入了黑暗，所有的独角兽都变成了僵尸一样的行尸走肉，开始吃其他马的脑子。"
 
 # game/castle.rpy#L1739
 translate chinese selenevisit_17953516:
 
     # "Ugh, why is this her nightmare? I suppose it makes sense if Honey is a god-fearing pony, but how am I supposed to resolve such a ridiculous nightmare?"
-    "Ugh, why is this her nightmare? I suppose it makes sense if Honey is a god-fearing pony, but how am I supposed to resolve such a ridiculous nightmare?"
+    "呃，怎么跑她的噩梦来了？Honey应该是一匹相当敬神的小马，但当下的问题是，她这样的噩梦我该怎么着手去解决呢？"
 
 # game/castle.rpy#L1740
 translate chinese selenevisit_494d250b:
 
     # "Selene would be a perfect fit to fix this nightmare."
-    "Selene would be a perfect fit to fix this nightmare."
+    "要是Selene在的话肯定三下五除二能搞定。"
 
 # game/castle.rpy#L1742
 translate chinese selenevisit_3ca43012:
 
     # blossom "Gosh, Sis, some of them are coming this way!"
-    blossom "Gosh, Sis, some of them are coming this way!"
+    blossom "天，姐姐，有些僵尸从这儿来了！"
 
 # game/castle.rpy#L1744
 translate chinese selenevisit_66fa86ae:
 
     # honeycrisp "Argh damnit, maybe they heard us open the door."
-    honeycrisp "Argh damnit, maybe they heard us open the door."
+    honeycrisp "啊妈的，她们肯定是听到刚刚开门的声音了。"
 
 # game/castle.rpy#L1745
 translate chinese selenevisit_ebe60308:
 
     # mc "Sorry, I might have led them here."
-    mc "Sorry, I might have led them here."
+    mc "对不起，应该是我把它们引过来的。"
 
 # game/castle.rpy#L1746
 translate chinese selenevisit_73fffdbd:
 
     # honeycrisp "Not your fault stud."
-    honeycrisp "Not your fault stud."
+    honeycrisp "不是你的错，铁汁。"
 
 # game/castle.rpy#L1747
 translate chinese selenevisit_b21df540:
 
     # honeycrisp "I’d probably go insane in a zombie apocalypse without some good dick, so you were worth the risk."
-    honeycrisp "I’d probably go insane in a zombie apocalypse without some good dick, so you were worth the risk."
+    honeycrisp "要是没有一根鸡巴，我在僵尸末日里可活不下去，花点风险要他进来是值得的。"
 
 # game/castle.rpy#L1749
 translate chinese selenevisit_ea43170a:
 
     # blossom "Sis, that’s too vulgar!"
-    blossom "Sis, that’s too vulgar!"
+    blossom "姐姐，你好恶俗啊！"
 
 # game/castle.rpy#L1751
 translate chinese selenevisit_b6258abc:
 
     # honeycrisp "Different world, different rules, Blossom, we’re gonna stake it out in this zombie apocalypse and we’ll have to share the man."
-    honeycrisp "Different world, different rules, Blossom, we’re gonna stake it out in this zombie apocalypse and we’ll have to share the man."
+    honeycrisp "世界变了，规则也得跟着变，Blossom，想在这个僵尸末日里生存下去，咱们就得分享这个男的。"
 
 # game/castle.rpy#L1752
 translate chinese selenevisit_cc419e72:
 
     # "This may be a nightmare for her, but it's starting to sound like a dream to me."
-    "This may be a nightmare for her, but it's starting to sound like a dream to me."
+    "这到底是她的噩梦还是我的啊？"
 
 # game/castle.rpy#L1754
 translate chinese selenevisit_418bf884:
 
     # honeycrisp "Different world, different rules, Blossom, we’re gonna stake it out in this zombie apocalypse and we’ll have to share [playername]."
-    honeycrisp "Different world, different rules, Blossom, we’re gonna stake it out in this zombie apocalypse and we’ll have to share [playername]."
+    honeycrisp "世界变了，规则也得跟着变，Blossom，想在这个僵尸末日里生存下去，咱们就得共用[playername]。"
 
 # game/castle.rpy#L1755
 translate chinese selenevisit_ab838816:
 
     # "Jesus Christ, did she really just say that?"
-    "Jesus Christ, did she really just say that?"
+    "我的妈，她刚刚说的当真？"
 
 # game/castle.rpy#L1757
 translate chinese selenevisit_386c663c:
 
     # "Honey cocks her shotgun and squints through the boards."
-    "Honey cocks her shotgun and squints through the boards."
+    "Honey举起了猎枪，瞄准了木板外面。"
 
 # game/castle.rpy#L1762
 translate chinese selenevisit_577e0bf9:
 
     # "Blossom sidles up next to me and goes to whisper something into my ear..."
-    "Blossom sidles up next to me and goes to whisper something into my ear..."
+    "Blossom凑到我身边，在我的耳边低声说道："
 
 # game/castle.rpy#L1763
 translate chinese selenevisit_8d26952d:
 
     # "Although…"
-    "Although…"
+    "虽然..."
 
 # game/castle.rpy#L1764
 translate chinese selenevisit_568bdcd9:
 
     # blossom "…"
-    blossom "…"
+    blossom "..."
 
 # game/castle.rpy#L1765
 translate chinese selenevisit_9fc65794:
 
     # "No words come out, complete silence. It’s eerie."
-    "No words come out, complete silence. It’s eerie."
+    "我什么都没听到，她话没说完。有点诡异。"
 
 # game/castle.rpy#L1766
 translate chinese selenevisit_3d4d89b8:
 
     # mc "Pardon? I’m not hearing you, Blossom."
-    mc "Pardon? I’m not hearing you, Blossom."
+    mc "你说什么？我听不到你说的话，Blossom。"
 
 # game/castle.rpy#L1767
 translate chinese selenevisit_568bdcd9_1:
 
     # blossom "…"
-    blossom "…"
+    blossom "..."
 
 # game/castle.rpy#L1768
 translate chinese selenevisit_e3abd214:
 
     # "Is she a zombie?!"
-    "Is she a zombie?!"
+    "她尸变了不成！？"
 
 # game/castle.rpy#L1769
 translate chinese selenevisit_5e6337a1:
 
     # mc "Uhm… Blossom?"
-    mc "Uhm… Blossom?"
+    mc "呃...Blossom？"
 
 # game/castle.rpy#L1776
 translate chinese selenevisit_eb394539:
 
     # selene "It’s because she’s not the real Blossom, only a subject of the dreamer, hence she can only have real interactions with the dreamer."
-    selene "It’s because she’s not the real Blossom, only a subject of the dreamer, hence she can only have real interactions with the dreamer."
+    selene "因为她不是真正的Blossom，只是被梦主生成的NPC而已，所以只能跟梦主互动。"
 
 # game/castle.rpy#L1777
 translate chinese selenevisit_44693bc3:
 
     # mc "Selene! Finally!"
-    mc "Selene! Finally!"
+    mc "Selene！我终于找到你了！"
 
 # game/castle.rpy#L1779
 translate chinese selenevisit_86d3cde0:
 
     # "Selene leans smugly at the door before graciously moving towards me and patting me on the head."
-    "Selene leans smugly at the door before graciously moving towards me and patting me on the head."
+    "Selene得意地靠在门口，然后迈出优雅的步伐朝我走来，拍了拍我的头。"
 
 # game/castle.rpy#L1781
 translate chinese selenevisit_77a5f389:
 
     # selene "You gave me quite the fright mister. When I yelled ‘wait’, I was talking to you!"
-    selene "You gave me quite the fright mister. When I yelled ‘wait’, I was talking to you!"
+    selene "你可让本宫担心死了，先生。本宫那声“站住”是对你说的！"
 
 # game/castle.rpy#L1782
 translate chinese selenevisit_82baa9b5:
 
     # mc "Goodness Selene, I’m so glad you’re here, I already sorted out Penelope’s nightmare, but this one is impossible!"
-    mc "Goodness Selene, I’m so glad you’re here, I already sorted out Penelope’s nightmare, but this one is impossible!"
+    mc "天啊Selene，还好你来了，Penelope的噩梦我能对付，但这个简直了，我没办法！"
 
 # game/castle.rpy#L1783
 translate chinese selenevisit_8837ae13:
 
     # selene "And I believe I soothed the nightmare of Lily while trying to find you."
-    selene "And I believe I soothed the nightmare of Lily while trying to find you."
+    selene "我也在寻找你的过程中抚平了Lily的噩梦。"
 
 # game/castle.rpy#L1785
 translate chinese selenevisit_68c48569:
 
     # selene "To think I was a few meters off from Penelope and finding you. I’m so sorry young one, I’ll make it up to you when this is all over."
-    selene "To think I was a few meters off from Penelope and finding you. I’m so sorry young one, I’ll make it up to you when this is all over."
+    selene "真没想到我刚离开Penelope就找到你了。抱歉年轻人，事后我会补偿你的。"
 
 # game/castle.rpy#L1790
 translate chinese selenevisit_1d7e55bb:
 
     # honeycrisp "Wot in tarnation is this! It’s the evil goddess!"
-    honeycrisp "Wot in tarnation is this! It’s the evil goddess!"
+    honeycrisp "这是哪位！想必就是那个邪神！"
 
 # game/castle.rpy#L1792
 translate chinese selenevisit_59629152:
 
     # selene "Ohoh, evil? No, my dear, there is no evil goddess."
-    selene "Ohoh, evil? No, my dear, there is no evil goddess."
+    selene "哦哦，邪神？不，亲爱的，这世上可没什么邪神。"
 
 # game/castle.rpy#L1793
 translate chinese selenevisit_780ac49e:
 
     # honeycrisp "Well if there is no evil goddess, then how do you explain all those zombies out there?"
-    honeycrisp "Well if there is no evil goddess, then how do you explain all those zombies out there?"
+    honeycrisp "你说的不存在什么邪神，那你怎么解释外面的那些僵尸？"
 
 # game/castle.rpy#L1795
 translate chinese selenevisit_6f6b90fb:
 
     # selene "Those look like zombies to you? That’s a rude thing to call your customers."
-    selene "Those look like zombies to you? That’s a rude thing to call your customers."
+    selene "你把它们当成僵尸了？这么称呼顾客可不太好哦。"
 
 # game/castle.rpy#L1797
 translate chinese selenevisit_4485a741:
 
     # honeycrisp "C-Custom... What kinda hijinx is this?"
-    honeycrisp "C-Custom... What kinda hijinx is this?"
+    honeycrisp "顾，顾客...这都是些什么鬼？"
 
 # game/castle.rpy#L1798
 translate chinese selenevisit_b9406972:
 
     # selene "I’m serious, look outside, they’re just drunk ponies looking to buy cider."
-    selene "I’m serious, look outside, they’re just drunk ponies looking to buy cider."
+    selene "本宫可没开玩笑，仔细瞧瞧外面吧，她们只是些想买苹果酒的醉马而已。"
 
 # game/castle.rpy#L1799
 translate chinese selenevisit_bf95a798:
 
     # honeycrisp "If this is one of your evil tricks, I-I’ll..."
-    honeycrisp "If this is one of your evil tricks, I-I’ll..."
+    honeycrisp "你肯定在玩什么邪恶的把戏，我，我会......"
 
 # game/castle.rpy#L1802
 translate chinese selenevisit_186c97d0:
 
     # "As Honey peers outside. Fascinatingly, the zombies are indeed friendly drunks that want to buy cider."
-    "As Honey peers outside. Fascinatingly, the zombies are indeed friendly drunks that want to buy cider."
+    "当Honey看向外面时。那些之前以为的僵尸确实只是些想买苹果酒的温和醉马，真是神奇。"
 
 # game/castle.rpy#L1806
 translate chinese selenevisit_e09a0c31:
 
     # honeycrisp "Well I’ll be, customers! Blossom go get a barrel of the good stuff; we got some selling to do."
-    honeycrisp "Well I’ll be, customers! Blossom go get a barrel of the good stuff; we got some selling to do."
+    honeycrisp "我会好好招待这些顾客！Blossom，拿一桶佳酿过来，卖东西咯。"
 
 # game/castle.rpy#L1809
 translate chinese selenevisit_d4fc2078:
 
     # "With that succinctly sorted, Selene takes me to the side to talk to me privately."
-    "With that succinctly sorted, Selene takes me to the side to talk to me privately."
+    "她话音刚落，Selene就把我拉到一旁私聊。"
 
 # game/castle.rpy#L1810
 translate chinese selenevisit_6cb24fbb:
 
     # mc "How did you do that? That was incredible, you’re a life saver!"
-    mc "How did you do that? That was incredible, you’re a life saver!"
+    mc "你怎么做到的？那些僵尸吓煞我了，你救了我的命！"
 
 # game/castle.rpy#L1812
 translate chinese selenevisit_8f8d1b16:
 
     # selene "Hehe, you learn a few tricks in your time, especially effective on highly impressionable dreamers."
-    selene "Hehe, you learn a few tricks in your time, especially effective on highly impressionable dreamers."
+    selene "嘿嘿，这下你学到了吧，怎么对付这种喜欢幻想的梦主。"
 
 # game/castle.rpy#L1814
 translate chinese selenevisit_8d0a462d:
 
     # selene "Dreams are malleable, all you need to do is plant the seed in someone’s mind and they’ll do the heavy lifting."
-    selene "Dreams are malleable, all you need to do is plant the seed in someone’s mind and they’ll do the heavy lifting."
+    selene "梦境都是可塑的，你只需要在某马的脑中播下种子，它自会生根发芽。"
 
 # game/castle.rpy#L1815
 translate chinese selenevisit_ff001454:
 
     # mc "Ah ha ha! I’d call you a genius, but I’d feel strange to flatter a goddess."
-    mc "Ah ha ha! I’d call you a genius, but I’d feel strange to flatter a goddess."
+    mc "啊 哈 哈！你真是个天才，我这算恭维一个公主吧，总感觉有点怪怪的。"
 
 # game/castle.rpy#L1816
 translate chinese selenevisit_34255734:
 
     # selene "The sweet nectar of compliments keeps a hag like me going."
-    selene "The sweet nectar of compliments keeps a hag like me going."
+    selene "甜蜜的赞美讴歌也是本宫这种魔法公主前进的动力哦。"
 
 # game/castle.rpy#L1818
 translate chinese selenevisit_eaacd4f8:
 
     # selene "When you called me a genius, I still felt a tinge of happiness deep inside."
-    selene "When you called me a genius, I still felt a tinge of happiness deep inside."
+    selene "你叫本宫天才的时候，本宫可是打心底里高兴呢。"
 
 # game/castle.rpy#L1819
 translate chinese selenevisit_6b1f6f4f:
 
     # mc "And here was me trying to be subtle and understated with my compliments in an attempt to seem formal."
-    mc "And here was me trying to be subtle and understated with my compliments in an attempt to seem formal."
+    mc "我只是想在夸赞你的时候纠正下措辞，不然不是很正式。"
 
 # game/castle.rpy#L1821
 translate chinese selenevisit_d5d2dc43:
 
     # selene "Bless you, you don’t need to be formal with me, that’s how you behave around my sister."
-    selene "Bless you, you don’t need to be formal with me, that’s how you behave around my sister."
+    selene "祝福你，你对我可不需要那些繁缛礼节，像对我姐姐那样对我就好了。"
 
 # game/castle.rpy#L1822
 translate chinese selenevisit_c44cd732:
 
     # selene "With me, you let loose, I’m the ‘cool’ royal sister, hehe."
-    selene "With me, you let loose, I’m the ‘cool’ royal sister, hehe."
+    selene "和我相处没必要紧张兮兮的，我可是“酷酷”的皇家姐妹哦，嘿嘿。"
 
 # game/castle.rpy#L1823
 translate chinese selenevisit_a5dad0fa:
 
     # selene "Or if you get to know me really well, I'm the 'after dark' royal sister, hehehe."
-    selene "Or if you get to know me really well, I'm the 'after dark' royal sister, hehehe."
+    selene "如果刚刚那个称呼还不能让你了解我的话，再换一个，我是“夜幕”皇家姐妹，嘿嘿嘿。"
 
 # game/castle.rpy#L1824
 translate chinese selenevisit_1b54d239:
 
     # mc "You two are goddesses, right? I don’t understand your powers, but it feels like you could have done this all by yourself."
-    mc "You two are goddesses, right? I don’t understand your powers, but it feels like you could have done this all by yourself."
+    mc "你们两个都是神祇，对吧？我不知道你们的力量有多神通广大，但我感觉仅凭你一马之力就能解决这些噩梦了。"
 
 # game/castle.rpy#L1825
 translate chinese selenevisit_734033a3:
 
     # selene "Ahh, a goddess I may be, but I have a soft spot for these girls."
-    selene "Ahh, a goddess I may be, but I have a soft spot for these girls."
+    selene "啊，我算是一个神祇吧，但这并不意味着我就不爱护自己的子民，这些女孩们。"
 
 # game/castle.rpy#L1826
 translate chinese selenevisit_8f9fa3f0:
 
     # selene "I wanted to bring you along to end their nightmares, even if we caught the culprit the nightmares would have persisted."
-    selene "I wanted to bring you along to end their nightmares, even if we caught the culprit the nightmares would have persisted."
+    selene "我想和你一起结束这些噩梦，就算我们真的抓住了幕后黑手，噩梦也还是会继续的。"
 
 # game/castle.rpy#L1827
 translate chinese selenevisit_89a90e73:
 
     # mc "I’m sorry if that seems pushy, but I feel like you’re hiding something... I think you could have ended all these nightmares by yourself. If you’re the cool sister, you don’t mind if I pry, do you?"
-    mc "I’m sorry if that seems pushy, but I feel like you’re hiding something... I think you could have ended all these nightmares by yourself. If you’re the cool sister, you don’t mind if I pry, do you?"
+    mc "恕我冒昧，我接下来的话可能有点逆耳...我觉得你完全可以自己一个马消除所有的噩梦。如果你真是酷酷的皇家姐妹，我撂挑子不干对你来说影响不大，对吧？"
 
 # game/castle.rpy#L1829
 translate chinese selenevisit_7bdc9a91:
 
     # selene "Hehehe, you’re too intelligent for your own good."
-    selene "Hehehe, you’re too intelligent for your own good."
+    selene "嘿嘿嘿，你可真是聪明绝顶。"
 
 # game/castle.rpy#L1831
 translate chinese selenevisit_d124c030:
 
     # selene "You know [playername], it’s rather refreshing to have someone talk to me like I’m an equal."
-    selene "You know [playername], it’s rather refreshing to have someone talk to me like I’m an equal."
+    selene "你知道吗[playername]，有人陪我一起说话，我会感觉很难得。"
 
 # game/castle.rpy#L1833
 translate chinese selenevisit_9398fbff:
 
     # selene "I only get that playful attitude from my sister, everyone else seems terrified and guarded around me."
-    selene "I only get that playful attitude from my sister, everyone else seems terrified and guarded around me."
+    selene "只有我姐姐才会对我有马情味，其他马见了我都很是害怕和戒备。"
 
 # game/castle.rpy#L1837
 translate chinese selenevisit_15043203:
 
     # selene "That’s the impression I got, you have no frame of reference when everyone is new and strange to you."
-    selene "That’s the impression I got, you have no frame of reference when everyone is new and strange to you."
+    selene "我的压力也来自于此，如果每个马都对你毕恭毕敬保持距离，我心里就没个数了。"
 
 # game/castle.rpy#L1840
 translate chinese selenevisit_395782e0:
 
     # selene "Ahaha, I’ll put you on my list little boy."
-    selene "Ahaha, I’ll put you on my list little boy."
+    selene "啊哈哈，我会特意关照你的，小家伙。"
 
 # game/castle.rpy#L1843
 translate chinese selenevisit_f8ab52c2:
 
     # selene "I think it’s time to show you my ulterior motive, it’s time to visit the last nightmare."
-    selene "I think it’s time to show you my ulterior motive, it’s time to visit the last nightmare."
+    selene "我们先处理好最后一个噩梦，顺便让你看看人家的小心思。"
 
 # game/castle.rpy#L1847
 translate chinese selenevisit_2468d988:
 
     # "With a snap of the fingers the surroundings turn black before dissipating in a wave of smoke leaving us in…"
-    "With a snap of the fingers the surroundings turn black before dissipating in a wave of smoke leaving us in…"
+    "她打了个响指，周围又陷入一片漆黑，随后化作一团浓雾消散，这里是......"
 
 # game/castle.rpy#L1849
 translate chinese selenevisit_c7a1ea76:
 
     # "Butters’s cottage. What does Butters have to do with Selene’s motive?"
-    "Butters’s cottage. What does Butters have to do with Selene’s motive?"
+    "Butters的小屋，Butters和Selene的小心思有什么关系？"
 
 # game/castle.rpy#L1850
 translate chinese selenevisit_aa50d594:
 
     # mc "Ah- you’re…"
-    mc "Ah- you’re…"
+    mc "啊-你是......"
 
 # game/castle.rpy#L1852
 translate chinese selenevisit_1ce6925d:
 
     # unknown "Uuu, you two are persistent."
-    unknown "Uuu, you two are persistent."
+    unknown "唔，你们两个真是穷追不舍。"
 
 # game/castle.rpy#L1854
 translate chinese selenevisit_1a6e4ec8:
 
     # selene "You don’t need to run anymore. It’s okay, Butters."
-    selene "You don’t need to run anymore. It’s okay, Butters."
+    selene "你别再跑了，没关系的，Butters。"
 
 # game/castle.rpy#L1855
 translate chinese selenevisit_20df765f:
 
     # "The robed figure who is quaking in place, finally drops the robes from her body, revealing the innocent(?) Butters."
-    "The robed figure who is quaking in place, finally drops the robes from her body, revealing the innocent(?) Butters."
+    "那个穿着长袍的马终于褪下了身上长袍，居然是平常面（？）的Butters。"
 
 # game/castle.rpy#L1858
 translate chinese selenevisit_eec92062:
 
     # butters "Um, I’m sorry, I tried my best..."
-    butters "Um, I’m sorry, I tried my best..."
+    butters "呃，抱歉，我只能做到这一步了......"
 
 # game/castle.rpy#L1859
 translate chinese selenevisit_bc120cb9:
 
     # mc "So you were the culprit? I suppose that makes sense, but why?"
-    mc "So you were the culprit? I suppose that makes sense, but why?"
+    mc "原来你就是幕后黑手？你最好解释清楚，你的动机是什么？"
 
 # game/castle.rpy#L1861
 translate chinese selenevisit_3cc47d41:
 
     # butters "It wasn’t my fault; I couldn’t stop it."
-    butters "It wasn’t my fault; I couldn’t stop it."
+    butters "不是人家的错；人家只是控制不住。"
 
 # game/castle.rpy#L1862
 translate chinese selenevisit_81ad94f0:
 
     # selene "I knew it. The relic I gave you, it’s emanating dark energy."
-    selene "I knew it. The relic I gave you, it’s emanating dark energy."
+    selene "本宫明白。我给你的那个遗物散发着暗能量。"
 
 # game/castle.rpy#L1863
 translate chinese selenevisit_c795c53f:
 
     # mc "The relic that captures unicorn dust?"
-    mc "The relic that captures unicorn dust?"
+    mc "那个可以搜集独角兽粉尘的遗物水晶？"
 
 # game/castle.rpy#L1865
 translate chinese selenevisit_bdb16708:
 
     # selene "Hah, I don’t know how you do it [playername], but you have a way to make people tell you anything."
-    selene "Hah, I don’t know how you do it [playername], but you have a way to make people tell you anything."
+    selene "哈，不知道你有什么超凡魅力[playername]，每匹马都心甘情愿地把小秘密抖给你。"
 
 # game/castle.rpy#L1867
 translate chinese selenevisit_67669a95:
 
     # selene "You know that was supposed to be a secret, Butters."
-    selene "You know that was supposed to be a secret, Butters."
+    selene "这玩意不能随便给其他人或者马透露，你应该知道的，Butters。"
 
 # game/castle.rpy#L1868
 translate chinese selenevisit_5b2060d6:
 
     # mc "Wait, you two know each other?"
-    mc "Wait, you two know each other?"
+    mc "等下，你们两认识？"
 
 # game/castle.rpy#L1870
 translate chinese selenevisit_a0dade36:
 
     # butters "Mmhm…"
-    butters "Mmhm…"
+    butters "嗯哼......"
 
 # game/castle.rpy#L1872
 translate chinese selenevisit_905e4012:
 
     # selene "Butters and I were acquainted once, I often deal with problems of the magical variety within society, and therefore her succubuification was under my jurisdiction."
-    selene "Butters and I were acquainted once, I often deal with problems of the magical variety within society, and therefore her succubuification was under my jurisdiction."
+    selene "本宫和Butters以前认识，因为本宫是负责处理国家里的魔法问题的，她的魅魔问题自然也在本宫的管辖范围之内。"
 
 # game/castle.rpy#L1873
 translate chinese selenevisit_7204f017:
 
     # selene "I unfortunately didn’t have a cure, but I helped Butters as much as I could and gave her this relic."
-    selene "I unfortunately didn’t have a cure, but I helped Butters as much as I could and gave her this relic."
+    selene "不过很不幸的是，本宫也没办法治愈她，只能给予Butters这块遗物水晶来尽可能地帮助她。"
 
 # game/castle.rpy#L1874
 translate chinese selenevisit_acb63e91:
 
     # mc "What’s so special about this relic?"
-    mc "What’s so special about this relic?"
+    mc "这个遗物到底有何特别之处？"
 
 # game/castle.rpy#L1876
 translate chinese selenevisit_bdebf977:
 
     # selene "It absorbs the energy from sleeping ponies, specifically their dreams. When used on unicorns, it can collect a small amount of unicorn dust."
-    selene "It absorbs the energy from sleeping ponies, specifically their dreams. When used on unicorns, it can collect a small amount of unicorn dust."
+    selene "她可以吸收睡眠中小马的能量，在做梦的时候效果尤为强烈。对独角兽使用的话，它还可以收集一些独角兽粉尘。"
 
 # game/castle.rpy#L1877
 translate chinese selenevisit_447edd1b:
 
     # mc "Ahah, and this thing has been causing nightmares…"
-    mc "Ahah, and this thing has been causing nightmares…"
+    mc "啊哈，就是这玩意搅得大家梦境不宁咯......"
 
 # game/castle.rpy#L1879
 translate chinese selenevisit_498573d0:
 
     # selene "Oh, by the way Butters, congratulations on finally curing your curse."
-    selene "Oh, by the way Butters, congratulations on finally curing your curse."
+    selene "哦，Butters，本宫顺便祝贺你终于治愈了诅咒。"
 
 # game/castle.rpy#L1881
 translate chinese selenevisit_3d0efa32:
 
     # butters "Thank you Miss, [playername] helped me lots."
-    butters "Thank you Miss, [playername] helped me lots."
+    butters "谢谢殿下，[playername]帮了我不少忙。"
 
 # game/castle.rpy#L1882
 translate chinese selenevisit_c6810261:
 
     # mc "Oh no, no, I was just a lackey that helped you fetch some ingredients, and it’s debatable whether I helped at all. It’s just a coincidence that I was there, the curing was all you Butters."
-    mc "Oh no, no, I was just a lackey that helped you fetch some ingredients, and it’s debatable whether I helped at all. It’s just a coincidence that I was there, the curing was all you Butters."
+    mc "哦不，没有的事，我就是个帮你拿材料的脚男罢了，到底有没有帮上忙还不能确定。我的出现只是个巧合而已，你治愈诅咒靠的都是你自己的努力，Butters。"
 
 # game/castle.rpy#L1883
 translate chinese selenevisit_068e53e5:
 
     # mc "I’ll congratulate you too on the peak of years of work, I don’t think I fully appreciated how much you fought for that at the time."
-    mc "I’ll congratulate you too on the peak of years of work, I don’t think I fully appreciated how much you fought for that at the time."
+    mc "我也祝贺你多年的工作没有白费，修成正果，你面对的那些失败和困苦是我注定无法想象的。"
 
 # game/castle.rpy#L1885
 translate chinese selenevisit_8afcb860:
 
     # butters "Oh gosh, thank you two so much. I don’t know what to say, it’s overwhelming being congratulated by the Princess."
-    butters "Oh gosh, thank you two so much. I don’t know what to say, it’s overwhelming being congratulated by the Princess."
+    butters "哦天啊，谢谢你们二位。我都不知道说什么好了，光是来自一位公主的祝福就已经让我心花怒放了。"
 
 # game/castle.rpy#L1887
 translate chinese selenevisit_26110a38:
 
     # butters "Oh, but, the nightmares! I think that’s my fault!"
-    butters "Oh, but, the nightmares! I think that’s my fault!"
+    butters "哦，但是那些噩梦！都是我的错！"
 
 # game/castle.rpy#L1889
 translate chinese selenevisit_f609d912:
 
     # selene "Well you see, I’ve been debating the source of the nightmares all night, it’s either the relic, or it’s [playername]."
-    selene "Well you see, I’ve been debating the source of the nightmares all night, it’s either the relic, or it’s [playername]."
+    selene "现在你看，本宫纠结了一整晚的噩梦来源，要么是遗物的问题，要么就是[playername]的问题。"
 
 # game/castle.rpy#L1890
 translate chinese selenevisit_f85b10a4:
 
     # mc "Surely it’s just the relic, right?"
-    mc "Surely it’s just the relic, right?"
+    mc "肯定是遗物的问题，还能是我？"
 
 # game/castle.rpy#L1892
 translate chinese selenevisit_0766e5ac:
 
     # selene "Yeah, it may seem fairly conclusive based on all the evidence, but I need to comb over every detail to ensure the problem is fully uprooted."
-    selene "Yeah, it may seem fairly conclusive based on all the evidence, but I need to comb over every detail to ensure the problem is fully uprooted."
+    selene "从目前所有的已知证据出发，确实只能得出这个结论，不过本宫得梳理所有细节，确保完全根除噩梦的问题。"
 
 # game/castle.rpy#L1894
 translate chinese selenevisit_560aca1d:
 
     # selene "I mentioned this earlier, but these nightmares have only been occurring among your friends, but specifically, not you."
-    selene "I mentioned this earlier, but these nightmares have only been occurring among your friends, but specifically, not you."
+    selene "本宫之前就提到过，这些噩梦只困扰你的朋友们对吧，但有一个例外，那就是你自己。"
 
 # game/castle.rpy#L1895
 translate chinese selenevisit_ae96dc92:
 
     # mc "Ahh, is there something wrong with me?"
-    mc "Ahh, is there something wrong with me?"
+    mc "啊，难道说我有责任？"
 
 # game/castle.rpy#L1897
 translate chinese selenevisit_ad944daa:
 
     # selene "I’m not sure, I feel like I can be honest with you, but I brought you along so I could pay attention to you and how you interacted with the magical energies."
-    selene "I’m not sure, I feel like I can be honest with you, but I brought you along so I could pay attention to you and how you interacted with the magical energies."
+    selene "本宫暂时还不确定，但可以对你开诚布公，本宫此行带上你就是想观察你的行为，看你是怎么和魔法能量互动的。"
 
 # game/castle.rpy#L1898
 translate chinese selenevisit_79673561:
 
     # mc "Ah, so that was your ulterior motive. That’s not as exciting as I expected, but it’s understandable."
-    mc "Ah, so that was your ulterior motive. That’s not as exciting as I expected, but it’s understandable."
+    mc "啊，这就是你的小心思啊。跟我之前想的不太一样，不过我能理解。"
 
 # game/castle.rpy#L1900
 translate chinese selenevisit_c4cf6a61:
 
     # selene "I guess I wanted to spend some time with you too, if that helps sate your craving for excitement."
-    selene "I guess I wanted to spend some time with you too, if that helps sate your craving for excitement."
+    selene "如果你的盛情难抑的话，本宫也得花些时间多陪陪你。"
 
 # game/castle.rpy#L1902
 translate chinese selenevisit_2e8125d4:
 
     # butters "What about me Miss? I also see those people semi-frequently."
-    butters "What about me Miss? I also see those people semi-frequently."
+    butters "那我呢殿下？我偶尔也能看见那些马。"
 
 # game/castle.rpy#L1904
 translate chinese selenevisit_726a7347:
 
     # "Selene takes an unusually long time to reply, but she appears to be deep in thought causing both Butters and I to hang in anticipation for her next word."
-    "Selene takes an unusually long time to reply, but she appears to be deep in thought causing both Butters and I to hang in anticipation for her next word."
+    "这次Selene沉默许久，似乎是陷入了沉思之中，我和Butters都不禁开始期盼着她的回答。"
 
 # game/castle.rpy#L1906
 translate chinese selenevisit_619017b4:
 
     # selene "I’ve deduced that the anti-evil potion you created isn't making the negative energy dissipate, it's just releasing it into the wind."
-    selene "I’ve deduced that the anti-evil potion you created isn't making the negative energy dissipate, it's just releasing it into the wind."
+    selene "本宫目前的推断是，你酿制的辟邪药水并没有抵消那些负能量，只是让它们散开并四出流动了。"
 
 # game/castle.rpy#L1907
 translate chinese selenevisit_f57b6e92:
 
     # selene "Causing a constant release of negative energy that the relic has collected, and also directly afflicting the people you spend the most time with."
-    selene "Causing a constant release of negative energy that the relic has collected, and also directly afflicting the people you spend the most time with."
+    selene "遗物搜集的负能量因此不断溢出，会对你平常相处最多的马产生影响。"
 
 # game/castle.rpy#L1908
 translate chinese selenevisit_dee738e7:
 
     # selene "It's a double threat, in other words you’re sending bad vibes to your friends in person and in dreams."
-    selene "It's a double threat, in other words you’re sending bad vibes to your friends in person and in dreams."
+    selene "这种影响有两面性，换句话说，不管是你在现实生活中接触的朋友，还是她们晚上梦里，你都灌输了负能量进去。"
 
 # game/castle.rpy#L1909
 translate chinese selenevisit_03f01039:
 
     # selene "It doesn't seem to have had any effect on [playername] because he's recently been in contact with a Dewblossom."
-    selene "It doesn't seem to have had any effect on [playername] because he's recently been in contact with a Dewblossom."
+    selene "而[playername]没有受影响的原因大概是因为他最近触碰过朝露绽放。"
 
 # game/castle.rpy#L1910
 translate chinese selenevisit_2a7f396d:
 
     # butters "Oh no, I thought I was finally free, but I’m still a freak…"
-    butters "Oh no, I thought I was finally free, but I’m still a freak…"
+    butters "哦天啊，我还以为我终于解放了，结果还是个怪胎......"
 
 # game/castle.rpy#L1912
 translate chinese selenevisit_1f602cd9:
 
     # selene "Don’t worry, hehe. Now that I’ve finally figured it out, and tracked you down, I’m here to remedy the issue."
-    selene "Don’t worry, hehe. Now that I’ve finally figured it out, and tracked you down, I’m here to remedy the issue."
+    selene "别担心，嘿嘿。现在本宫既已明白缘由，找到了你，就可以把问题解决了。"
 
 # game/castle.rpy#L1913
 translate chinese selenevisit_b8c2d399:
 
     # selene "I’ll just absorb the excess bad energy for you, so there will be no further adverse effects."
-    selene "I’ll just absorb the excess bad energy for you, so there will be no further adverse effects."
+    selene "那些多余的负面能量本宫会替你吸收掉，你就不会再对其他马产生坏的影响了。"
 
 # game/castle.rpy#L1916
 translate chinese selenevisit_c85771d9:
 
     # "Selene’s horn burns alight with a magical energy that seems to absorb Butters’s very being, although the magic may be casted in the dream world, due to Selene’s unique abilities it’s also affecting Butters in the real world."
-    "Selene’s horn burns alight with a magical energy that seems to absorb Butters’s very being, although the magic may be casted in the dream world, due to Selene’s unique abilities it’s also affecting Butters in the real world."
+    "Selene的角闪耀出刺眼的光芒，似乎有强大的魔法能量在上面运作着，虽然这个魔法是在梦境中施放的，但因为Selene特殊的能力，也影响到了现实世界中的Butters，好像在对她的真身抽取负能量一样。"
 
 # game/castle.rpy#L1917
 translate chinese selenevisit_a3adf318:
 
     # mc "Won’t that affect you Selene? Don’t you get nightmares too?"
-    mc "Won’t that affect you Selene? Don’t you get nightmares too?"
+    mc "你不会受影响吗，Selene？这样的话你不会噩梦连连？"
 
 # game/castle.rpy#L1919
 translate chinese selenevisit_c7a1ae18:
 
     # selene "Fortunately not, I find myself absorbing negative energy from magic and nightmares quite often and there have been no consequences as of yet."
-    selene "Fortunately not, I find myself absorbing negative energy from magic and nightmares quite often and there have been no consequences as of yet."
+    selene "自然是不会，本宫经常从噩梦和魔法中吸取负能量，目前为止还没出过什么问题。"
 
 # game/castle.rpy#L1920
 translate chinese selenevisit_94d49ac2:
 
     # selene "Although if I ever turn evil my sister promises to banish me to the moon, hah! As if that’ll happen."
-    selene "Although if I ever turn evil my sister promises to banish me to the moon, hah! As if that’ll happen."
+    selene "如果真的发生这种情况，本宫真的变得恶贯满盈，我的姐姐和我说过，会把我流放到月亮上的，哈！"
 
 # game/castle.rpy#L1922
 translate chinese selenevisit_ae114970:
 
     # butters "Thank you Princess, I’m not in trouble, am I?"
-    butters "Thank you Princess, I’m not in trouble, am I?"
+    butters "多谢公主，我现在应该没事了，吧？"
 
 # game/castle.rpy#L1924
 translate chinese selenevisit_4d82b6e6:
 
     # selene "Of course not dear, I could tell you were doing your best to prevent the nightmares."
-    selene "Of course not dear, I could tell you were doing your best to prevent the nightmares."
+    selene "当然没事儿了亲爱的，本宫现在可以负责任地告诉你，你尽了自己最大的努力来消除和避免噩梦的发生。"
 
 # game/castle.rpy#L1925
 translate chinese selenevisit_08a8e51e:
 
     # selene "It was brave and admirable of you."
-    selene "It was brave and admirable of you."
+    selene "你的勇气令本宫钦佩。"
 
 # game/castle.rpy#L1926
 translate chinese selenevisit_23ed3f52:
 
     # mc "Why were you snooping around and acting guilty though?"
-    mc "Why were you snooping around and acting guilty though?"
+    mc "你为什么四处窥探还鬼鬼祟祟的？"
 
 # game/castle.rpy#L1928
 translate chinese selenevisit_b6ceee71:
 
     # butters "I thought I was in big trouble! I was really scared."
-    butters "I thought I was in big trouble! I was really scared."
+    butters "我觉得我遇到了很大的麻烦！人家害怕得很。"
 
 # game/castle.rpy#L1929
 translate chinese selenevisit_d7a8b952:
 
     # mc "Awh bless you, come here, let’s have a dream-hug."
-    mc "Awh bless you, come here, let’s have a dream-hug."
+    mc "啊，现在不必了，来这儿，咱们梦里抱一下吧。"
 
 # game/castle.rpy#L1930
 translate chinese selenevisit_21d5eafc:
 
     # "The two of us embrace before Selene and I finally leave the dream, having fully resolved the issue at hand."
-    "The two of us embrace before Selene and I finally leave the dream, having fully resolved the issue at hand."
+    "Selene在我们两个热情相拥分开后，带我们离开了梦境，问题也解决了。"
 
 # game/castle.rpy#L1933
 translate chinese selenevisit_39aad234:
 
     # butters "I'll see you soon [playername]!"
-    butters "I'll see you soon [playername]!"
+    butters "待会见[playername]！"
 
 # game/castle.rpy#L1937
 translate chinese selenevisit_ce617998_2:
 
     # "…"
-    "…"
+    "..."
 
 # game/castle.rpy#L1940
 translate chinese selenevisit_6f78243c:
 
     # "I reawaken in Selene’s bed, to my surprise we’re both tucked in under the covers and were sleeping."
-    "I reawaken in Selene’s bed, to my surprise we’re both tucked in under the covers and were sleeping."
+    "我在Selene的床上醒来，我们两个刚刚都是睡着的状态，我很是吃惊。"
 
 # game/castle.rpy#L1941
 translate chinese selenevisit_ec7630bb:
 
     # "I can’t remember if this is how I entered the dream, but the warmth of the blankets helps tide over the familiar groggy feeling of waking up in the middle of the night."
-    "I can’t remember if this is how I entered the dream, but the warmth of the blankets helps tide over the familiar groggy feeling of waking up in the middle of the night."
+    "我连我是怎么进入梦境的都不知道，但暖呼呼的被子有力地冲散了那种熟悉的夜半突醒的疲惫感觉。"
 
 # game/castle.rpy#L1942
 translate chinese selenevisit_5bb19e85:
 
     # "I shouldn’t get too used to this warmth however, I’d still need to take the returning journey back home."
-    "I shouldn’t get too used to this warmth however, I’d still need to take the returning journey back home."
+    "不过我不能一直窝在暖暖的被窝里，我还得走一段很长的路才能回家。"
 
 # game/castle.rpy#L1943
 translate chinese selenevisit_cc84824e:
 
     # "As I sit up, stretch outwards and rub the sleep out of my eye, Selene soon awakes beside me and bounces out of bed with merciless energy."
-    "As I sit up, stretch outwards and rub the sleep out of my eye, Selene soon awakes beside me and bounces out of bed with merciless energy."
+    "我坐了起来，好好伸了个懒腰，揉揉自己困顿的眼睛，Selene不一会也醒了，带着无情的干劲从床上一跃而起。"
 
 # game/castle.rpy#L1945
 translate chinese selenevisit_61a64696:
 
     # selene "Phew, what a start to the night."
-    selene "Phew, what a start to the night."
+    selene "呼，虽然做了不少事儿，但晚上才刚刚开始。"
 
 # game/castle.rpy#L1946
 translate chinese selenevisit_080a915a:
 
     # "It’s like early morning for her, she’s wide awake. She may be buzzing with more energy than before."
-    "It’s like early morning for her, she’s wide awake. She may be buzzing with more energy than before."
+    "对她来说现在就像早上，是清醒的时候。她应该比之前更富有活力。"
 
 # game/castle.rpy#L1948
 translate chinese selenevisit_661aae93:
 
     # selene "I was worried we’d have a town-wide nightmare scenario on our hands."
-    selene "I was worried we’d have a town-wide nightmare scenario on our hands."
+    selene "我担心咱们把整个镇子的噩梦都给搅了。"
 
 # game/castle.rpy#L1950
 translate chinese selenevisit_fde44da3:
 
     # "A yawn escapes my mouth before I’m able to reply, as I reopen my eyes again, Selene had returned to the bed. She sits by my side with a warm, yet regal smile."
-    "A yawn escapes my mouth before I’m able to reply, as I reopen my eyes again, Selene had returned to the bed. She sits by my side with a warm, yet regal smile."
+    "我本想回答，但嘴里发出的却是一声啊~的哈欠，我重新又睁开了眼睛，Selene已经坐回到了床上，脸上的微笑既温暖又俨然。"
 
 # game/castle.rpy#L1951
 translate chinese selenevisit_cf30c10c:
 
     # selene "Thanks for helping. You more than proved your worth, and your devilish charm."
-    selene "Thanks for helping. You more than proved your worth, and your devilish charm."
+    selene "谢谢你的帮忙。你已经证明了自己的超凡的能力，哦，还有你鬼魅般的魅力。"
 
 # game/castle.rpy#L1952
 translate chinese selenevisit_b5b1991e:
 
     # mc "Thank you Selene. I enjoyed our unusual outing; it’ll certainly be a night to remember."
-    mc "Thank you Selene. I enjoyed our unusual outing; it’ll certainly be a night to remember."
+    mc "谢谢夸，Selene。咱们不寻常的旅游我还挺喜欢的；我会记住今天这个特殊的夜晚。"
 
 # game/castle.rpy#L1954
 translate chinese selenevisit_051f9758:
 
     # selene "You’ll make a fine husband to Moxie one day."
-    selene "You’ll make a fine husband to Moxie one day."
+    selene "你总有一天会成为Moxie的好丈夫的。"
 
 # game/castle.rpy#L1955
 translate chinese selenevisit_eaf4e668:
 
     # mc "Oh, Moxie and I aren’t actually together."
-    mc "Oh, Moxie and I aren’t actually together."
+    mc "哦，我和Moxie还没确定关系呢。"
 
 # game/castle.rpy#L1957
 translate chinese selenevisit_75873929:
 
     # selene "Ah! My tongue slipped! What is the true nature of your relationship with Moxie?"
-    selene "Ah! My tongue slipped! What is the true nature of your relationship with Moxie?"
+    selene "啊！嘴瓢了！你和Moxie到底是什么关系呢？"
 
 # game/castle.rpy#L1958
 translate chinese selenevisit_bc37a27b:
@@ -8184,15 +8184,15 @@ translate chinese strings:
 
     # game/castle.rpy_L1357_1
     old "Are these figures representations of the people that judge you for your work?"
-    new "这些形象是代表了裁判你作品的人吗？"
+    new "这些形象是代表了评判你作品的马吗？"
 
     # game/castle.rpy_L1394_0
     old "Ghosts aren’t real, you don’t have to worry about it."
-    new "幽灵都是假的，你不用担心。"
+    new "鬼都是假的，你不用担心。"
 
     # game/castle.rpy_L1394_1
     old "These are just stupid mannequins; they can’t hurt you."
-    new "这些只不过是些傻傻的人体模型，它们是不会伤害你的。"
+    new "这些只不过是些傻傻的小马模型而已，它们是不会伤害你的。"
 
     # game/castle.rpy_L1556_0
     old "I’m here to work at the library."

@@ -890,7 +890,7 @@ translate chinese moxiedoggystyle_769b7aa3:
 translate chinese moxiedoggystyle_4c33ecca:
 
     # "As my orgasm peaks and fades, I pull myself out of Moxie’s pussy, some of my cum dripping out as I do"
-    "高潮过后，我将肉棒拔出了Moxie的阴道。在拔出的过程中，一部分精液从阴道里滴了出来。"
+    "高潮过后，我将肉棒拔出了Moxie的屁股。在拔出的过程中，一部分精液从阴道里滴了出来"
 
 # game/2evening%20moxie.rpy#L468
 translate chinese moxiedoggystyle_7db648c5:
@@ -902,19 +902,19 @@ translate chinese moxiedoggystyle_7db648c5:
 translate chinese moxiedoggystyle_99d8005f:
 
     # "Even though she says that, she does sink from her all fours position to one of laying on her belly, seemingly exhausted in a melodramatic manner, even though she didn’t actually move."
-    "尽管她这么说，她却从四肢着地慢慢调整为腹部着地的姿势。虽然她实际上并没有怎么运动身体，但她看起来似乎已经筋疲力尽了。"
+    "尽管她这么说，她却从四肢着地慢慢调整为腹部着地。虽然她实际上并没有怎么运动，但她看起来似乎已经筋疲力尽了"
 
 # game/2evening%20moxie.rpy#L474
 translate chinese moxiedoggystyle_45d55708:
 
     # "I join her side and she soon embraces me tightly with a goofy grin stuck on her lips."
-    "我凑到她身旁。随后，她立刻紧紧地抱住了我，同时露出了痴痴的笑容。"
+    "我凑到她身旁。随后，她立刻紧紧地抱住了我，同时露出了痴痴的笑容"
 
 # game/2evening%20moxie.rpy#L475
 translate chinese moxiedoggystyle_17c71ff5:
 
     # mc "Honestly, with how good that felt, I wish I could, I’ll probably have to wait at least ten minutes though."
-    mc "说真的，虽然爱爱的感觉很爽，我也还想再来一发，但要让我先休息十分钟才行。"
+    mc "说真的，虽然爱爱的感觉很爽，我也还想再来一发，但要让我先休息十分钟才行"
 
 # game/2evening%20moxie.rpy#L480
 translate chinese moxiedoggystyle_46e97287:
@@ -926,13 +926,13 @@ translate chinese moxiedoggystyle_46e97287:
 translate chinese moxiedoggystyle_2affdf22:
 
     # mc "How could I be mean? It sounds like you certainly enjoyed yourself."
-    mc "我怎么是小气鬼呢？听起来，你自己玩得很嗨啊。"
+    mc "我怎么是小气鬼呢？听起来，你自己玩得很嗨啊"
 
 # game/2evening%20moxie.rpy#L486
 translate chinese moxiedoggystyle_f4ce18f8:
 
     # moxie "Ohh yes… That one really hit the spot and put my heat back in its place. I’ll be full of energy come tomorrow morning, and by the evening, I’ll be ready for another."
-    moxie "哦~真棒，你直击了我的爽点，我明天早上会精神饱满的，不过今晚，我还准备再来一次。"
+    moxie "哦~真棒，你直击了我的爽点，明天早上我会精神饱满的，不过今晚，我还准备再来一次。"
 
 # game/2evening%20moxie.rpy#L487
 translate chinese moxiedoggystyle_5ebfe654:
@@ -962,7 +962,7 @@ translate chinese moxiedoggystyle_ce617998:
 translate chinese moxiedoggystyle_00bbbd45:
 
     # "In the morning I kiss Moxie goodbye and return home."
-    "早上，我与Moxie吻别后便回了家。"
+    "早上，我与Moxie吻别后便回了家"
 
 # game/2evening%20moxie.rpy#L503
 translate chinese moxiedoggystyle_a20cefa7:
@@ -986,19 +986,19 @@ translate chinese moxiecowgirl_61f7e0e3:
 translate chinese moxiecowgirl_3fa8b981:
 
     # "I'm sure she'd be mad if I told her I've already seen what a mare in heat can do many times."
-    "有一点我敢肯定，如果我告诉她我已经见到过很多发情的小雌驹的话，她一定会发狂的。"
+    "有一点我敢肯定，如果我告诉她我已经见到过很多发情的小雌驹的话，她一定会发狂的"
 
 # game/2evening%20moxie.rpy#L523
 translate chinese moxiecowgirl_e90a0858:
 
     # "The two of us climb into bed, then she playfully rolls me on my back before mounting me. She wastes no time sinking her puffy mare pussy over my endowment."
-    "我们两个钻进了床，然后她开始上我之前开玩笑地把我背上了她的背。并不失时机的把她那只属于母马的蓬松的阴蒂压在我的身上。"
+    "我们两个钻进了床，然后她开始上我之前开玩笑地把我背上了她的背。并不失时机的把她那只属于母马的蓬松的阴蒂压在我的身上"
 
 # game/2evening%20moxie.rpy#L524
 translate chinese moxiecowgirl_936e41db:
 
     # "Moxie's pussy is so pleasant and warm, her insides are stretched perfectly around my cock, yet still squeezing around me like a pleasurable vice."
-    "Moxie的小穴感觉又舒适又温暖。她小穴内部的延展性很强，所以她在我身边欢快地摩擦挤压时，她的小穴能完美地包裹在我肉棒的周围。"
+    "Moxie的小穴感觉又舒适又温暖。内部的延展性很强，所以她在我身边欢快地摩擦挤压时，她的小穴能完美地包裹在我肉棒的周围"
 
 # game/2evening%20moxie.rpy#L525
 translate chinese moxiecowgirl_9e0159e1:

@@ -4490,7 +4490,7 @@ translate chinese libraryvisit2_189b1d72:
 translate chinese libraryvisit2_3e6d7256:
 
     # mc "So this is what you do as the Queen’s student? It sounds fantastic in theory, but surely she’s too busy running the country to work with you."
-    mc "这就是你作为女王学生所要做的事吗?听上去不错，但她肯定忙于治理国家而没空与你合作。"
+    mc "这就是你作为女王学生所要做的事吗?听上去不错，但她肯定忙于治理国家都没空理你。"
 
 # game/library.rpy#L1301
 translate chinese libraryvisit2_d8d333b0:
@@ -4502,43 +4502,43 @@ translate chinese libraryvisit2_d8d333b0:
 translate chinese libraryvisit2_be314193:
 
     # lily "But me? The Queen's busy, so I’m mostly on my own."
-    lily "而我呢?陛下很忙，所以我只能一个人。"
+    lily "而我呢?陛下很忙，所以只能靠我自己。"
 
 # game/library.rpy#L1304
 translate chinese libraryvisit2_952d79e5:
 
     # lily "Isn’t that painfully ironic? The most talented student, gets the most prestigious supervisor, yet the result is the least amount of academic support."
-    lily "Isn’t that painfully ironic? The most talented student, gets the most prestigious supervisor, yet the result is the least amount of academic support."
+    lily "这不是很讽刺吗?最有才华的学生，与最有声望的导师，但结果却只有最少的学术支持。"
 
 # game/library.rpy#L1305
 translate chinese libraryvisit2_e96a7ffc:
 
     # mc "Sounds frustrating. Have you not complained or told anyone about this?"
-    mc "Sounds frustrating. Have you not complained or told anyone about this?"
+    mc "这听起来很令人沮丧。你有抱怨过或告诉过其他人吗?"
 
 # game/library.rpy#L1307
 translate chinese libraryvisit2_726d6337:
 
     # lily "Heh, I guess not... Making a fuss like that isn't something I do..."
-    lily "Heh, I guess not... Making a fuss like that isn't something I do..."
+    lily "嘿呀，算了吧…小题大做不是我的风格……"
 
 # game/library.rpy#L1308
 translate chinese libraryvisit2_74586139:
 
     # mc "It's no fuss... Also, it can't help that you're all the way here in this tree instead of in the city, closer to the Queen."
-    mc "It's no fuss... Also, it can't help that you're all the way here in this tree instead of in the city, closer to the Queen."
+    mc "这不是小题大做…况且，你在这棵树上又不是在城里，那离女王更近，光在这也无济于事啊。"
 
 # game/library.rpy#L1310
 translate chinese libraryvisit2_f17bce0b:
 
     # lily "It’s part of my field research, the psychological and magical effects of friendship."
-    lily "It’s part of my field research, the psychological and magical effects of friendship."
+    lily "这是我的研究的一部分内容，即友谊的心理与魔法效应。"
 
 # game/library.rpy#L1311
 translate chinese libraryvisit2_33df4826:
 
     # lily "It would seem that certain hormones in the brain can influence magical output."
-    lily "It would seem that certain hormones in the brain can influence magical output."
+    lily "似乎大脑中的某些激素可以影响到魔法的输出。"
 
 # game/library.rpy#L1316
 translate chinese libraryvisit2choice1_e9f4d9e8:

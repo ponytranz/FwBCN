@@ -800,7 +800,7 @@ translate chinese cforest_4e6f6c9d:
 translate chinese cforest_3947fd9b:
 
     # butters "I think we have one chance. It might not work, but it’s the least we can do to try and save Arcadia."
-    butters "I think we have one chance. It might not work, but it’s the least we can do to try and save Arcadia."
+    butters "我想我们只有一次机会。它可能不起作用，但这是我们能做的拯救Arcadia的最起码的事。"
 
 # game/finalroute.rpy#L467
 translate chinese cforest_8dc9fa3a:
@@ -950,13 +950,13 @@ translate chinese cforest_b49c3a63:
 translate chinese cforest_4fc36432:
 
     # mc "Did it work?"
-    mc "Did it work?"
+    mc "它成功了吗？"
 
 # game/finalroute.rpy#L499
 translate chinese cforest_4ef5063d:
 
     # butters "Hm… Only one way to find out, you need to go and fuck the other elements."
-    butters "Hm… Only one way to find out, you need to go and fuck the other elements."
+    butters "嗯... 只有通过一种方法可以查明，你需要去和其他元素做爱。"
 
 # game/finalroute.rpy#L500
 translate chinese cforest_167317d4:
