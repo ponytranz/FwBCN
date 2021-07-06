@@ -668,7 +668,7 @@ translate chinese cforest_51743bb0:
 translate chinese cforest_02c03fc6:
 
     # butters "Mhm, a little rain won’t hurt me [playername], I’m a tough bunny!"
-    butters "Mhm, a little rain won’t hurt me [playername], I’m a tough bunny!"
+    butters "额,这小点雨于我无伤啦[playername]，我可是只坚强兔兔呢！"
 
 # game/finalroute.rpy#L436
 translate chinese cforest_9f4389b2:
@@ -704,7 +704,7 @@ translate chinese cforest_8ecfc5b0:
 translate chinese cforest_d636eca7:
 
     # butters "Jesus, shit! You son of a bitch! Morrigan is an evil morphling that I helped defeat in the past."
-    butters "Jesus, shit! You son of a bitch! Morrigan is an evil morphling that I helped defeat in the past."
+    butters "天呐，干！你个沙滩之子！ Morrigan可是我以前助以击败的morphling。"
 
 # game/finalroute.rpy#L446
 translate chinese cforest_94c9d2ed:
@@ -716,7 +716,7 @@ translate chinese cforest_94c9d2ed:
 translate chinese cforest_1c377290:
 
     # butters "Moments earlier I sensed a dark magic… I overlooked it as my succubus side playing up, but that must have been the power that was trying to brainwash me."
-    butters "Moments earlier I sensed a dark magic… I overlooked it as my succubus side playing up, but that must have been the power that was trying to brainwash me."
+    butters "才不久我感觉到了一丝暗魔法...觉得是我的魅魔面在作怪就没管，但那肯定是股要洗脑我的力量。"
 
 # game/finalroute.rpy#L448
 translate chinese cforest_01d84e88:
@@ -728,7 +728,7 @@ translate chinese cforest_01d84e88:
 translate chinese cforest_c17e5a62:
 
     # butters "That’s an easy one, I’m at least temporarily immune to that kind of dark magic thanks to the Dewblossom potion we brewed recently."
-    butters "That’s an easy one, I’m at least temporarily immune to that kind of dark magic thanks to the Dewblossom potion we brewed recently."
+    butters "很容易我就没了，还好有最近酿的露花药水，我才得以暂时对那种暗魔法免疫。"
 
 # game/finalroute.rpy#L451
 translate chinese cforest_315a446d:
@@ -746,7 +746,7 @@ translate chinese cforest_eb4fa3f2:
 translate chinese cforest_67ff0885:
 
     # butters "They’ll be weaker than even you or I if we wait too long… they’ll be killed, or worse: reduced to breeding vessels…"
-    butters "They’ll be weaker than even you or I if we wait too long… they’ll be killed, or worse: reduced to breeding vessels…"
+    butters "我们怠慢太久的话他们将更无助...他们可能待候宰割，甚至更糟：沦为生产种..."
 
 # game/finalroute.rpy#L455
 translate chinese cforest_11c396aa:
@@ -758,13 +758,13 @@ translate chinese cforest_11c396aa:
 translate chinese cforest_2da92cfc:
 
     # butters "Hmm… Think Butters, think…"
-    butters "Hmm… Think Butters, think…"
+    butters "额啊...想想啊Butters，快想想..."
 
 # game/finalroute.rpy#L458
 translate chinese cforest_542e8059:
 
     # butters "[playername], how did Morrigan brainwash everyone? I don’t understand how she could get away with this."
-    butters "[playername], how did Morrigan brainwash everyone? I don’t understand how she could get away with this."
+    butters "[playername]，Morrigan怎么洗脑大家的？我不清楚他是怎么例外的。"
 
 # game/finalroute.rpy#L459
 translate chinese cforest_13017bfd:
@@ -782,19 +782,19 @@ translate chinese cforest_afc38f61:
 translate chinese cforest_ed4e790e:
 
     # butters "It’s such a subtle spell, but it’s so powerful because it activates internally."
-    butters "It’s such a subtle spell, but it’s so powerful because it activates internally."
+    butters "这魔咒潜伏的深，而之所以强大是因为它触发于形内。"
 
 # game/finalroute.rpy#L463
 translate chinese cforest_4d3ffd75:
 
     # mc "What are we gonna do Butters? I have this cursed dick and I think I doomed Arcadia because of it!"
-    mc "What are we gonna do Butters? I have this cursed dick and I think I doomed Arcadia because of it!"
+    mc "那我们咋办啊Butters？有这受邪的吊我已经用它估计把Arcadia毁了一遍了！"
 
 # game/finalroute.rpy#L465
 translate chinese cforest_4e6f6c9d:
 
     # butters "Cursed… dick? Just like I had a cursed... uhm, pussy…? That gives me an idea!"
-    butters "Cursed… dick? Just like I had a cursed... uhm, pussy…? That gives me an idea!"
+    butters "受邪的...吊？就像我有个受邪的...额，小穴...？这是个办法啊！"
 
 # game/finalroute.rpy#L466
 translate chinese cforest_3947fd9b:
@@ -806,25 +806,25 @@ translate chinese cforest_3947fd9b:
 translate chinese cforest_8dc9fa3a:
 
     # butters "Do you remember when I said a potion of Gelatine and Folium Polypus would turn someone into a nymph?"
-    butters "Do you remember when I said a potion of Gelatine and Folium Polypus would turn someone into a nymph?"
+    butters "你还记得我说过凝胶和瘤叶酿的药水能把马变成虫蛹么？"
 
 # game/finalroute.rpy#L468
 translate chinese cforest_07780841:
 
     # mc "Vaguely, but the Dewblossom reversed that effect, right?"
-    mc "Vaguely, but the Dewblossom reversed that effect, right?"
+    mc "貌似吧，但是朝露绽放能逆转此效，对吧？"
 
 # game/finalroute.rpy#L470
 translate chinese cforest_f2e4830d:
 
     # butters "Precisely, that ‘reversed’ potion removed the ‘sexual curse’, which caused me to drain life from anyone I fuck."
-    butters "Precisely, that ‘reversed’ potion removed the ‘sexual curse’, which caused me to drain life from anyone I fuck."
+    butters "说的再准点，就是 ‘逆转’ 药剂消除了 ‘性咒’ 这种迫使我汲取我上过的马性命的诅咒。"
 
 # game/finalroute.rpy#L471
 translate chinese cforest_d87df5d3:
 
     # butters "But more than that, it gave me an immunity to the brainwashing spell as well. As we've already deduced, the potion cures both!"
-    butters "But more than that, it gave me an immunity to the brainwashing spell as well. As we've already deduced, the potion cures both!"
+    butters "而且，它也让我免疫了洗脑魔咒。我们便可推知，这药剂两者皆治"
 
 # game/finalroute.rpy#L472
 translate chinese cforest_5f419432:

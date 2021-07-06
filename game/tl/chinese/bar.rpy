@@ -4388,13 +4388,13 @@ translate chinese barvisit2_4bf91c33:
 translate chinese barvisit2_bcbf693e:
 
     # riku "I don’t need to hold myself up to some high standard, if it feels right at the moment, I can just let go."
-    riku "I don’t need to hold myself up to some high standard, if it feels right at the moment, I can just let go."
+    riku "我不必以某种高标准来要求自己，只要时机合适，我大可肆意放纵自己。"
 
 # game/bar.rpy#L1180
 translate chinese barvisit2_9e175fa3:
 
     # mc "That’s a pretty hearty lesson you’ve learnt, I thought you were against sleeping around."
-    mc "That’s a pretty hearty lesson you’ve learnt, I thought you were against sleeping around."
+    mc "你可真是上了深入人心的一课啊，我还以为你反对四处留情呢。"
 
 # game/bar.rpy#L1182
 translate chinese barvisit2_72101227:

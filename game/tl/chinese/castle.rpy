@@ -2684,7 +2684,7 @@ translate chinese selenemenu_0cd7b343:
 translate chinese selenemenu_f06bc39f:
 
     # "Her hips gyrate softly around my cock, I don’t think she realizes it, but she’s so horny her body is causing her to move subconsciously."
-    "她的臀部贴着我的肉棒轻轻地旋转起来，我估计她自己都没有意识到这点，但她太饥渴了，所以身体不由自主地动了起来。"
+    "她小穴里吸着我的肉棒，开始扭动转起自己的腰来，我估计她自己都没有意识到这点，但她太饥渴了，所以身体不由自主地动了起来。"
 
 # game/castle.rpy#L791
 translate chinese selenemenu_775d106e:
@@ -2702,7 +2702,7 @@ translate chinese selenemenu_2d26f380:
 translate chinese selenemenu_29e00358:
 
     # "She arches her back and visibly shudders as pleasure surges through her. The genuine catharsis she’s feeling in this moment is rubbing off on me, giving me goose bumps."
-    "当高潮到来时她拱起了她的背和肩膀。此刻她真正宣泄出来的情绪在我身上不断蔓延，让我全身都起了鸡皮疙瘩。"
+    "她的高潮让她拱起了背和肩膀。此刻她真正宣泄出来的情绪在我身上不断蔓延，让我全身都起了鸡皮疙瘩。"
 
 # game/castle.rpy#L795
 translate chinese selenemenu_9a3d8f63:
@@ -5264,13 +5264,13 @@ translate chinese selenevisit_0a10d09e:
 translate chinese selenevisit_7fd31693:
 
     # penelope "Is that so? Or is this just another one of your ploys."
-    penelope "你真的爱她吗？还是你只是把她当作掌中玩物。"
+    penelope "真的吗？你又在讲什么花言巧语骗人家。"
 
 # game/castle.rpy#L1563
 translate chinese selenevisit_a2e2bba4:
 
     # mc "My ploys? No, I’m serious."
-    mc "掌中玩物？不，我对她是真心的。"
+    mc "花言巧语？不，我是认真的，没撒谎。"
 
 # game/castle.rpy#L1564
 translate chinese selenevisit_b63867fd:
@@ -6722,583 +6722,583 @@ translate chinese selenevisit_75873929:
 translate chinese selenevisit_bc37a27b:
 
     # mc "Hard to say considering the magic stuff, but if you forget the magic, we’re friends."
-    mc "Hard to say considering the magic stuff, but if you forget the magic, we’re friends."
+    mc "因为有魔法的关系，很难说清楚，如果不考虑那些魔法的话，我们是朋友。"
 
 # game/castle.rpy#L1959
 translate chinese selenevisit_1a081317:
 
     # mc "And she lets me live in the wagon with her."
-    mc "And she lets me live in the wagon with her."
+    mc "她慷慨地让我住在她的篷车里。"
 
 # game/castle.rpy#L1961
 translate chinese selenevisit_0b71393c:
 
     # selene "Hmm, that wagon is woefully small."
-    selene "Hmm, that wagon is woefully small."
+    selene "嗯，小的可怜的篷车。"
 
 # game/castle.rpy#L1963
 translate chinese selenevisit_2a854676:
 
     # mc "Yeah, that’s one of the reasons I’m living with Butters right now."
-    mc "Yeah, that’s one of the reasons I’m living with Butters right now."
+    mc "是啊，这也是我为什么搬去Butters那儿的原因之一。"
 
 # game/castle.rpy#L1965
 translate chinese selenevisit_a478fce5:
 
     # selene "When she becomes my student, she’ll be able to get a student house here in Arcadia for free, there will be plenty of room for you as well."
-    selene "When she becomes my student, she’ll be able to get a student house here in Arcadia for free, there will be plenty of room for you as well."
+    selene "她正式成为我的学生之后，她可以在Arcadia挑一处房子做学生房，学生房可就比那逼仄的篷车宽敞多了。"
 
 # game/castle.rpy#L1966
 translate chinese selenevisit_06ea4a49:
 
     # selene "Hopefully that’ll make up for me being a nuisance to you all night."
-    selene "Hopefully that’ll make up for me being a nuisance to you all night."
+    selene "希望这能弥补我对你今晚的叨扰。"
 
 # game/castle.rpy#L1967
 translate chinese selenevisit_2237a969:
 
     # selene "Although, I doubt a favour from another and a sum of monies would be enough to make up for what happened tonight."
-    selene "Although, I doubt a favour from another and a sum of monies would be enough to make up for what happened tonight."
+    selene "而且我觉得今晚你的帮助，不是一笔钱就能完全答谢的。"
 
 # game/castle.rpy#L1968
 translate chinese selenevisit_2dbd8f60:
 
     # selene "I recall I offered you one fantastic reward, if you succeeded in helping me."
-    selene "I recall I offered you one fantastic reward, if you succeeded in helping me."
+    selene "我再提一嘴，我当时说过，如果你成功帮我解决问题，你就可以得到一个大大滴奖励。"
 
 # game/castle.rpy#L1969
 translate chinese selenevisit_8847b12e:
 
     # mc "Ah yeah, that reward…"
-    mc "Ah yeah, that reward…"
+    mc "哦对，说好的那个奖励......"
 
 # game/castle.rpy#L1970
 translate chinese selenevisit_317b00b4:
 
     # selene "So... You're not with Moxie, are you single?"
-    selene "So... You're not with Moxie, are you single?"
+    selene "那...你既然还没和Moxie确定关系，算是还单着吧？"
 
 # game/castle.rpy#L1972
 translate chinese selenevisit_c2a57b67:
 
     # "One of her fingers starts to trail round and round the fabric of the bed cover. Her fingers are indirectly encircling my pelvis, as if to mark what she wants."
-    "One of her fingers starts to trail round and round the fabric of the bed cover. Her fingers are indirectly encircling my pelvis, as if to mark what she wants."
+    "她的手指头开始在丝绒的床单上划着圈圈。相当于间接地在我的腹部划圈，心中所想昭然若揭。"
 
 # game/castle.rpy#L1973
 translate chinese selenevisit_8c8a003f:
 
     # mc "Yeah... I'm single."
-    mc "Yeah... I'm single."
+    mc "嗯...我还单着。"
 
 # game/castle.rpy#L1974
 translate chinese selenevisit_deb9a458:
 
     # selene "May I be selfish yet again this evening, and give myself a reward too?"
-    selene "May I be selfish yet again this evening, and give myself a reward too?"
+    selene "介不介意本宫今晚自私点，好好犒劳下自己呢？"
 
 # game/castle.rpy#L1975
 translate chinese selenevisit_a7ead9a3:
 
     # mc "Of course, I agreed to be your partner in crime all night after all."
-    mc "Of course, I agreed to be your partner in crime all night after all."
+    mc "当然不介意，我反正今晚都成你同伙了。"
 
 # game/castle.rpy#L1977
 translate chinese selenevisit_8076b367:
 
     # selene "You see, even though I may be a fancy schmancy ‘princess’, my sister and I go into heat just like all the rest of them."
-    selene "You see, even though I may be a fancy schmancy ‘princess’, my sister and I go into heat just like all the rest of them."
+    selene "你看啊，虽然我的头衔是什么花里胡哨的“公主”，不过我和姐姐也跟其他马一样会发情。"
 
 # game/castle.rpy#L1978
 translate chinese selenevisit_7079f799:
 
     # selene "Only difference being, we need to be far more careful and secretive about our sex lives."
-    selene "Only difference being, we need to be far more careful and secretive about our sex lives."
+    selene "唯一不同的地方是，我们的性生活还得遮遮掩掩的。"
 
 # game/castle.rpy#L1984
 translate chinese selenevisit1choice1_44a7ff4d:
 
     # selene "No one has ever asked me that question before, never ever, in all my years of life."
-    selene "No one has ever asked me that question before, never ever, in all my years of life."
+    selene "我这辈子还从来没被问过这样的问题呢，从来没有过。"
 
 # game/castle.rpy#L1985
 translate chinese selenevisit1choice1_2b83eb55:
 
     # mc "Not even people you’ve slept with?"
-    mc "Not even people you’ve slept with?"
+    mc "那些跟你睡过的马也没问过吗？"
 
 # game/castle.rpy#L1987
 translate chinese selenevisit1choice1_4c83f979:
 
     # selene "My dear, one cannot sleep around carelessly in my position."
-    selene "My dear, one cannot sleep around carelessly in my position."
+    selene "我亲爱的，我这个地位的马是不能到处乱睡的。"
 
 # game/castle.rpy#L1988
 translate chinese selenevisit1choice1_8c9f40b8:
 
     # selene "I’m a respected authority figure and it would kick up a fuss amongst the prudes."
-    selene "I’m a respected authority figure and it would kick up a fuss amongst the prudes."
+    selene "本宫可是备受尊敬的公众权威，私生活不雅会招致庶民轰动的。"
 
 # game/castle.rpy#L1989
 translate chinese selenevisit1choice1_aa9d32ea:
 
     # selene "Needless to say, I’m also nocturnal. I haven’t had any action in real life for decades."
-    selene "Needless to say, I’m also nocturnal. I haven’t had any action in real life for decades."
+    selene "更不用说本宫还是夜晚的化身，多少年来都没有过上几天正常日子。"
 
 # game/castle.rpy#L1990
 translate chinese selenevisit1choice1_3cb65d47:
 
     # selene "I’m a lucid dreamer however, I release pent up frustration in the dream realm."
-    selene "I’m a lucid dreamer however, I release pent up frustration in the dream realm."
+    selene "不过同时本宫也是个清醒的梦想家，梦境里可以很好地宣泄我平日里的压抑。"
 
 # game/castle.rpy#L1994
 translate chinese selenevisit1choice1_f2ab50fe:
 
     # selene "Hehe, you’re a curious one."
-    selene "Hehe, you’re a curious one."
+    selene "呵呵，真是个好奇宝宝。"
 
 # game/castle.rpy#L1995
 translate chinese selenevisit1choice1_9a286dfe:
 
     # mc "I have to be curious, otherwise I’d be clueless. I don’t know how your unique goddess species operates."
-    mc "I have to be curious, otherwise I’d be clueless. I don’t know how your unique goddess species operates."
+    mc "我当然是个好奇宝宝，不然对这个世界缺乏了解。我不知道你们独一无二的神祇物种是怎么运作的。"
 
 # game/castle.rpy#L1997
 translate chinese selenevisit1choice1_f69618f2:
 
     # selene "I can’t blame you; I’d have just as many questions if I were in your shoes."
-    selene "I can’t blame you; I’d have just as many questions if I were in your shoes."
+    selene "嘛，也怪不得你；我是你的话，也会问个不停的。"
 
 # game/castle.rpy#L1998
 translate chinese selenevisit1choice1_becd7e46:
 
     # selene "Occasionally my sister and I do indulge in girly talks with a bottle of wine, although given our positions sex isn’t something we often partake in."
-    selene "Occasionally my sister and I do indulge in girly talks with a bottle of wine, although given our positions sex isn’t something we often partake in."
+    selene "虽然我们身处高位，性这方面不能接触太多，但我和姐姐还是会在醉酒后偶尔聊起这些，就像两个小女孩一样。"
 
 # game/castle.rpy#L1999
 translate chinese selenevisit1choice1_bd3c1898:
 
     # selene "Her even less so than myself, although…"
-    selene "Her even less so than myself, although…"
+    selene "而且...她的性经历比我的还少。"
 
 # game/castle.rpy#L2000
 translate chinese selenevisit1choice1_8c23c931:
 
     # "She quietly introspects for a few seconds, judging on whether to continue."
-    "She quietly introspects for a few seconds, judging on whether to continue."
+    "说完她又停顿了几秒，思量着要不要继续这个话题。"
 
 # game/castle.rpy#L2001
 translate chinese selenevisit1choice1_745ed23d:
 
     # selene "Within that illustrious and dignified manner she too carries a curious soul."
-    selene "Within that illustrious and dignified manner she too carries a curious soul."
+    selene "想必她那端庄得体的外表下，也隐藏着一颗好奇心吧。"
 
 # game/castle.rpy#L2003
 translate chinese selenevisit1choice1_a724a496:
 
     # selene "I believe she has engaged in a love affair with a concubine a few years ago, but it’s not on my onus to divulge the details."
-    selene "I believe she has engaged in a love affair with a concubine a few years ago, but it’s not on my onus to divulge the details."
+    selene "我记得她在几年前同一位下妾谈过一段时间的恋爱，不过我不能向你透露其中详情。"
 
 # game/castle.rpy#L2007
 translate chinese selenevisit1choice1_6a08a4de:
 
     # selene "Hehehe, that’s an interesting question. I imagine you already know we’re incompatible."
-    selene "Hehehe, that’s an interesting question. I imagine you already know we’re incompatible."
+    selene "嘿嘿嘿，问得好。我猜你已经知道我们之间存在生殖隔离了吧。"
 
 # game/castle.rpy#L2008
 translate chinese selenevisit1choice1_bda39cf5:
 
     # mc "Yeah, Lily tested my DNA."
-    mc "Yeah, Lily tested my DNA."
+    mc "嗯，Lily验过我的DNA。"
 
 # game/castle.rpy#L2010
 translate chinese selenevisit1choice1_c8388458:
 
     # selene "With a swab of the cheek I’m sure, hehe."
-    selene "With a swab of the cheek I’m sure, hehe."
+    selene "她是用棉签采集面部组织验的吧，呵呵。"
 
 # game/castle.rpy#L2011
 translate chinese selenevisit1choice1_51666d9f:
 
     # mc "Ahh, yeah… Something like that."
-    mc "Ahh, yeah… Something like that."
+    mc "啊，算...算是吧。"
 
 # game/castle.rpy#L2013
 translate chinese selenevisit1choice1_ca35bfa3:
 
     # selene "Unfortunately I am compatible with ponies. Fortunately magic is the perfect contraceptive."
-    selene "Unfortunately I am compatible with ponies. Fortunately magic is the perfect contraceptive."
+    selene "不幸的是，本宫需要同类才能诞下后代。幸运的是，魔法是很好的避孕措施。"
 
 # game/castle.rpy#L2014
 translate chinese selenevisit1choice1_80c2e69c:
 
     # selene "However, our species of pony can only have alicorn children if they mate with another alicorn."
-    selene "However, our species of pony can only have alicorn children if they mate with another alicorn."
+    selene "不过呢，我这种小马只能和另外一只天角兽交合才能繁育新的天角兽。"
 
 # game/castle.rpy#L2015
 translate chinese selenevisit1choice1_e647741f:
 
     # mc "Are there any others?"
-    mc "Are there any others?"
+    mc "还有其他天角兽吗？"
 
 # game/castle.rpy#L2016
 translate chinese selenevisit1choice1_2e5a7b5c:
 
     # selene "Yeah, there’s my sister, myself and Augusta, the Princess of Love."
-    selene "Yeah, there’s my sister, myself and Augusta, the Princess of Love."
+    selene "有的，除了我，还有我的姐姐，还有个Augusta，她是爱之公主。"
 
 # game/castle.rpy#L2017
 translate chinese selenevisit1choice1_2e23ade7:
 
     # mc "No men? How awkward."
-    mc "No men? How awkward."
+    mc "没有男性天角兽吗？这不尴尬了。"
 
 # game/castle.rpy#L2019
 translate chinese selenevisit1choice1_187095dc:
 
     # selene "There are no male alicorns, only females of which can breed amongst themselves via magic."
-    selene "There are no male alicorns, only females of which can breed amongst themselves via magic."
+    selene "天角兽只有女性，天角兽只有通过雌性和魔法来繁殖。"
 
 # game/castle.rpy#L2020
 translate chinese selenevisit1choice1_7f8655cf:
 
     # mc "No men at all? Well if ponies evolved from you guys, I can see why there’s a female majority."
-    mc "No men at all? Well if ponies evolved from you guys, I can see why there’s a female majority."
+    mc "完全没有男性吗？好吧，你们就是这么进来的，怪不得雌性占多数。"
 
 # game/castle.rpy#L2021
 translate chinese selenevisit1choice1_fa4969b6:
 
     # selene "I can always use a spell to make myself sexually compatible with anyone, even you."
-    selene "I can always use a spell to make myself sexually compatible with anyone, even you."
+    selene "本宫可以轻松地用魔法来和任何物种交合，你也不例外。"
 
 # game/castle.rpy#L2022
 translate chinese selenevisit1choice1_39db5eb3:
 
     # mc "Oh really? Are you going to eventually have children?"
-    mc "Oh really? Are you going to eventually have children?"
+    mc "真的吗？你最后都能怀孕？"
 
 # game/castle.rpy#L2024
 translate chinese selenevisit1choice1_c9e11d69:
 
     # selene "Is that a hint? Hehe, I’m only three-thousand years young you know."
-    selene "Is that a hint? Hehe, I’m only three-thousand years young you know."
+    selene "你在暗示什么？嘿嘿，本宫才三千多岁呢。"
 
 # game/castle.rpy#L2031
 translate chinese selenevisit1choice1_54455f82:
 
     # selene "I’m a great judge of character, from the time we’ve spent together, I know you could keep a secret."
-    selene "I’m a great judge of character, from the time we’ve spent together, I know you could keep a secret."
+    selene "本宫很擅长拿捏性格，从我们相处的这段时间看，你能替一位女士保守她的年龄秘密吧。"
 
 # game/castle.rpy#L2034
 translate chinese selenesex_08e6eda2:
 
     # mc "So, we’re going to make love?"
-    mc "So, we’re going to make love?"
+    mc "那，你想和我上床？"
 
 # game/castle.rpy#L2036
 translate chinese selenesex_6f4cd96b:
 
     # selene "Just like any other mare friend, treat me like an equal tonight while you ravish me."
-    selene "Just like any other mare friend, treat me like an equal tonight while you ravish me."
+    selene "今晚只把人家当成你的寻常小马朋友对待就是了，提枪上马。"
 
 # game/castle.rpy#L2037
 translate chinese selenesex_2f4222c2:
 
     # selene "Actually, I’d rather like to ravish you."
-    selene "Actually, I’d rather like to ravish you."
+    selene "其实是人家更像上你啦。"
 
 # game/castle.rpy#L2042
 translate chinese selenesex_771bc816:
 
     # "The voluptuous princess gently spreads her legs revealing her gooey wet snatch."
-    "The voluptuous princess gently spreads her legs revealing her gooey wet snatch."
+    "性感妩媚的公主缓缓张开她的腿，她那黏糊糊的阴唇出来和我打了招呼。"
 
 # game/castle.rpy#L2043
 translate chinese selenesex_e1cb3366:
 
     # selene "You’re a pervert, you know."
-    selene "You’re a pervert, you know."
+    selene "你真是个变态，知道吧。"
 
 # game/castle.rpy#L2044
 translate chinese selenesex_160cc547:
 
     # mc "I am?"
-    mc "I am?"
+    mc "啊？"
 
 # game/castle.rpy#L2045
 translate chinese selenesex_88205126:
 
     # "She reaches her hand over to my rapidly growing erection, and gracefully moves it up and down my cock, applying pressure perfectly to stimulate the neck of my glans. Within seconds I’m stiff solid."
-    "She reaches her hand over to my rapidly growing erection, and gracefully moves it up and down my cock, applying pressure perfectly to stimulate the neck of my glans. Within seconds I’m stiff solid."
+    "她把手伸到我迅速勃起的下体，优雅地上上下下撸我的阴茎，完美地刺激着我的龟头。我立刻硬了。"
 
 # game/castle.rpy#L2046
 translate chinese selenesex_88279db9:
 
     # selene "All night you kept peeking at my breasts, my ass, and even my pussy."
-    selene "All night you kept peeking at my breasts, my ass, and even my pussy."
+    selene "你整晚都在盯着人家的胸，屁股和下面看呢。"
 
 # game/castle.rpy#L2048
 translate chinese selenesex_e534f28c:
 
     # "She lecherously whispers whilst her other hand begins to rub her cute puffy labia, the movements create lewd squelching sounds, causing my cock to throb in response."
-    "She lecherously whispers whilst her other hand begins to rub her cute puffy labia, the movements create lewd squelching sounds, causing my cock to throb in response."
+    "她顽皮地低声梦呓，另一只手开始摩擦她可爱的肿胀阴唇，这些动作演奏着下流的“音乐”，让我的阴茎“翩翩起舞”。"
 
 # game/castle.rpy#L2049
 translate chinese selenesex_545dc1fd:
 
     # mc "Ah, I couldn’t resist stealing glances. Your dress didn't exactly leave much to the imagination."
-    mc "Ah, I couldn’t resist stealing glances. Your dress didn't exactly leave much to the imagination."
+    mc "啊，我确实忍不住在偷瞄。毕竟你穿了皇帝的新衣，我忍不住浮想联翩。"
 
 # game/castle.rpy#L2051
 translate chinese selenesex_76dfe1c9:
 
     # "She brushes her hair out of the way as she lowers her muzzle down to the same level as my cock and kisses the precum off the tip."
-    "She brushes her hair out of the way as she lowers her muzzle down to the same level as my cock and kisses the precum off the tip."
+    "她把她的头发拨到一旁，然后舌吻着我的龟头。"
 
 # game/castle.rpy#L2053
 translate chinese selenesex_9d2e2ce8:
 
     # selene "It’s okay. I’m a pervert too."
-    selene "It’s okay. I’m a pervert too."
+    selene "不必担心，人家也是个变态，嘻嘻~"
 
 # game/castle.rpy#L2054
 translate chinese selenesex_ed240c5e:
 
     # selene "I’ve been stealing just as many glances at your cock."
-    selene "I’ve been stealing just as many glances at your cock."
+    selene "你的肉棒也让人家盯得目不转睛呢。"
 
 # game/castle.rpy#L2057
 translate chinese selenesex_79c315c8:
 
     # "Her long equine tongue starts to coil around the tip of my dick and swirl around, her finger grip is moving faster too, stimulating me towards an orgasm at a shocking rate."
-    "Her long equine tongue starts to coil around the tip of my dick and swirl around, her finger grip is moving faster too, stimulating me towards an orgasm at a shocking rate."
+    "她的长舌开始一圈圈舔着我的龟头，她的手指撸得也更快了，以惊人的速度让我达到高潮。"
 
 # game/castle.rpy#L2058
 translate chinese selenesex_a24fb779:
 
     # "Occasionally she’d pull up to continue her saccharine dirty talk, all of my senses are being invaded simultaneously. Is this what thousands of years of sexual experience looks like?"
-    "Occasionally she’d pull up to continue her saccharine dirty talk, all of my senses are being invaded simultaneously. Is this what thousands of years of sexual experience looks like?"
+    "她甚至偶尔还会停下来说她那谄媚似的情话，让我的五官同时被她”侵犯“。这就是经历了几千年性生活的水平吗？"
 
 # game/castle.rpy#L2059
 translate chinese selenesex_be372364:
 
     # selene "I've been imagining how your cock would feel in my fingers, how it’d feel in my mouth, and inside me."
-    selene "I've been imagining how your cock would feel in my fingers, how it’d feel in my mouth, and inside me."
+    selene "我一直在遐想你肉棒的触感，还想把它塞进嘴里，还有下面。"
 
 # game/castle.rpy#L2061
 translate chinese selenesex_4f2a9f9f:
 
     # "She had begun to escalate, her mouth now wrapping around the tip. While her tongue continued to twirl around the head, her lips tightly gripped the base of the glans, moving back and forth, sucking and squeezing with each movement."
-    "She had begun to escalate, her mouth now wrapping around the tip. While her tongue continued to twirl around the head, her lips tightly gripped the base of the glans, moving back and forth, sucking and squeezing with each movement."
+    "她张开嘴吞噬着我阴茎更深的部位，嘴唇紧紧贴在龟头上。她的舌头绕着它旋转，不停地吮吸并挤压。"
 
 # game/castle.rpy#L2062
 translate chinese selenesex_b98c32c7:
 
     # "As ridiculous as it sounds, I was already at my limit. Because of her experienced movements, I could feel cum building up at a terrifyingly quick rate."
-    "As ridiculous as it sounds, I was already at my limit. Because of her experienced movements, I could feel cum building up at a terrifyingly quick rate."
+    "虽然听起来很荒谬，但我已经快撑不住了。她过于熟练的动作让我感到精液正以惊人的速度积聚着。"
 
 # game/castle.rpy#L2064
 translate chinese selenesex_c179c2a3:
 
     # "But then milliseconds before my peak, she releases my cock and moves back, wiping the drool from her coy smile."
-    "But then milliseconds before my peak, she releases my cock and moves back, wiping the drool from her coy smile."
+    "但在我达到高潮前的几毫秒，她突然松开了我的阴茎，向后退去，擦去口水，腼腆微笑着。"
 
 # game/castle.rpy#L2066
 translate chinese selenesex_6824a799:
 
     # selene "Not quite yet little boy, it’d be no fun to waste this cum in my mouth."
-    selene "Not quite yet little boy, it’d be no fun to waste this cum in my mouth."
+    selene "还没到时候呢，小子，把精液浪费在我嘴里可没意思。"
 
 # game/castle.rpy#L2067
 translate chinese selenesex_54779d99:
 
     # mc "You’re really good…"
-    mc "You’re really good…"
+    mc "你的活真好......"
 
 # game/castle.rpy#L2068
 translate chinese selenesex_c280c496:
 
     # selene "You’d be this good if you were my age too."
-    selene "You’d be this good if you were my age too."
+    selene "人家这么多年可没白活。"
 
 # game/castle.rpy#L2069
 translate chinese selenesex_4eb4bdbc:
 
     # mc "At sucking dick?"
-    mc "At sucking dick?"
+    mc "都用来练口交了？"
 
 # game/castle.rpy#L2070
 translate chinese selenesex_40f0b09d:
 
     # "Her index finger and thumb continue to tease at my cock, keeping the blood flow going yet delicately preventing any potential build-up of pleasure."
-    "Her index finger and thumb continue to tease at my cock, keeping the blood flow going yet delicately preventing any potential build-up of pleasure."
+    "她用食指和拇指继续挑逗我的阴茎，保持坚挺的同时又微妙地阻止任何潜在的快感。"
 
 # game/castle.rpy#L2071
 translate chinese selenesex_b6e5b7d2:
 
     # selene "Did you know I have a bucket list?"
-    selene "Did you know I have a bucket list?"
+    selene "我有一份马生清单，你知道吗？"
 
 # game/castle.rpy#L2073
 translate chinese selenesex_f0b32bc3:
 
     # "I think every alicorn I've spoken to has had a bucket list. I wonder if the three gals challenged themselves?"
-    "I think every alicorn I've spoken to has had a bucket list. I wonder if the three gals challenged themselves?"
+    "好像我遇到的每一只天角兽都有自己的马生清单。这三个女孩都在挑战自己吗？"
 
 # game/castle.rpy#L2074
 translate chinese selenesex_98f14329:
 
     # "She continues to masturbate even as she’s talking to me, that only makes it hotter."
-    "She continues to masturbate even as she’s talking to me, that only makes it hotter."
+    "就算是和我说话的当儿，她也没停下手里自慰的活儿，情欲节节攀升。"
 
 # game/castle.rpy#L2075
 translate chinese selenesex_c74fdbe9:
 
     # mc "What’s your bucket list like?"
-    mc "What’s your bucket list like?"
+    mc "你的马生清单里都有些什么项目？"
 
 # game/castle.rpy#L2076
 translate chinese selenesex_735c1328:
 
     # selene "It’s something akin to a contest me and Aurora created to sprinkle fun into our nigh-immortal lives."
-    selene "It’s something akin to a contest me and Aurora created to sprinkle fun into our nigh-immortal lives."
+    selene "它有点像我和Aurora之间的一个小比赛，能为我们近乎不朽的寿命里增添不少的乐趣。"
 
 # game/castle.rpy#L2080
 translate chinese selenesex_7df6eb16:
 
     # "She finally lifted herself up and straddled my hips. The view of her pussy was beautiful as it dripped onto my twitching cock."
-    "She finally lifted herself up and straddled my hips. The view of her pussy was beautiful as it dripped onto my twitching cock."
+    "最后她抬起身子，跨坐在我臀部上。她的外阴似星空一样壮丽，淫液像流星一般落到我颤动的阴茎上。"
 
 # game/castle.rpy#L2081
 translate chinese selenesex_db0893eb:
 
     # selene "Oohh, I love how your cock twitches in anticipation, just how I imagined it."
-    selene "Oohh, I love how your cock twitches in anticipation, just how I imagined it."
+    selene "哦，你颤动的肉棒煞是可爱，就像我预料的那样。"
 
 # game/castle.rpy#L2082
 translate chinese selenesex_dbd53220:
 
     # "She lavishly lowered herself into a frottage position as she began to grind up and down against my cock."
-    "She lavishly lowered herself into a frottage position as she began to grind up and down against my cock."
+    "她开始上上下下扭动腰肢，在我的肉棒上蹭来蹭去。"
 
 # game/castle.rpy#L2083
 translate chinese selenesex_772f9a36:
 
     # selene "Our bucket-lists contain a few species, and a few generalities to give us something to do in our free time."
-    selene "Our bucket-lists contain a few species, and a few generalities to give us something to do in our free time."
+    selene "我们的马生清单里包含其他物种还有一些概述，空闲时刻就能好好践行。"
 
 # game/castle.rpy#L2084
 translate chinese selenesex_1e563978:
 
     # "The pressure and pleasure of her grinding was immense, but frustratingly not enough to rile up the urge to orgasm. Just like her index finger and thumb, it was a continuous yet safe pleasure. She's teasing me on purpose."
-    "The pressure and pleasure of her grinding was immense, but frustratingly not enough to rile up the urge to orgasm. Just like her index finger and thumb, it was a continuous yet safe pleasure. She's teasing me on purpose."
+    "磨蹭带来的压力和快感是巨大的，但我还是沮丧得很，因为这还不足以激起我的高潮。这种快感很像之前她食指和拇指所做的，她肯定是在故意挑逗我。"
 
 # game/castle.rpy#L2085
 translate chinese selenesex_51cff099:
 
     # selene "Currently, the general rule is to do at least one new and exciting thing every month."
-    selene "Currently, the general rule is to do at least one new and exciting thing every month."
+    selene "按我们目前的“竞争”，每个月得做至少一件刺激的新事情。"
 
 # game/castle.rpy#L2086
 translate chinese selenesex_d7fcef83:
 
     # "She was so wet, her grinding left a glistening sheen on my shaft, and each additional grind expels a lewd, satisfying wet sound, leaving me wanting more."
-    "She was so wet, her grinding left a glistening sheen on my shaft, and each additional grind expels a lewd, satisfying wet sound, leaving me wanting more."
+    "她下面湿的很，淫水在我阴茎上莹莹发光，她每一次起伏都会发出一种淫荡的、令人满足的娇喘，让我想要更多。"
 
 # game/castle.rpy#L2087
 translate chinese selenesex_c0faa3a1:
 
     # mc "Let me guess, the new thing you’re doing this month is me."
-    mc "Let me guess, the new thing you’re doing this month is me."
+    mc "我就斗胆猜一下，这个月你的新刺激事情挑战就是我对吧。"
 
 # game/castle.rpy#L2088
 translate chinese selenesex_5a0f44f6:
 
     # selene "Hehe, I do adore you [playername]. Although up until a few minutes ago I hadn’t planned for you to be the new thing."
-    selene "Hehe, I do adore you [playername]. Although up until a few minutes ago I hadn’t planned for you to be the new thing."
+    selene "呵呵，[playername]你真讨我欢心。虽然就在几分钟前我还没打算让你变成人家的新挑战呢。"
 
 # game/castle.rpy#L2090
 translate chinese selenesex_567a0c15:
 
     # "She grinds to the tip of my cock, and slowly releases the pressure, causing my tip to press against her pussy. Then she allows my cock to sink deep into her, until I’m fully inside."
-    "She grinds to the tip of my cock, and slowly releases the pressure, causing my tip to press against her pussy. Then she allows my cock to sink deep into her, until I’m fully inside."
+    "她摩挲着我的龟头，慢慢放下身子，使龟头插在她的穴口，逐渐深入，直到完全包裹。"
 
 # game/castle.rpy#L2091
 translate chinese selenesex_b26941a0:
 
     # "It’s tight, I can feel her insides squeezing and sucking, despite her status and age her pussy feels just as amazing as any other girl."
-    "It’s tight, I can feel her insides squeezing and sucking, despite her status and age her pussy feels just as amazing as any other girl."
+    "里面非常紧，我能感觉到她肉壁的挤压和吮吸，虽然她的地位崇高，年龄也很大，不过蜜穴丝毫不输其他女孩。"
 
 # game/castle.rpy#L2092
 translate chinese selenesex_0d0ae94b:
 
     # mc "I’m not surprised a girl like yourself has a bucket list, always seeking experiences to keep life stimulating."
-    mc "I’m not surprised a girl like yourself has a bucket list, always seeking experiences to keep life stimulating."
+    mc "你这样的马有一份马生清单我一点也不觉得奇怪，不然漫长的岁月得多无聊啊。"
 
 # game/castle.rpy#L2093
 translate chinese selenesex_9e0f0a11:
 
     # selene "My heart flutters when you earnestly call me a girl, instead of ‘princess’, ‘your majesty’, or other words that fall bitter to the ears."
-    selene "My heart flutters when you earnestly call me a girl, instead of ‘princess’, ‘your majesty’, or other words that fall bitter to the ears."
+    selene "你用“女孩”而不是“公主”，“殿下”或者其他别扭的词来称呼我还真是让我受宠若惊。"
 
 # game/castle.rpy#L2094
 translate chinese selenesex_298f4cb4:
 
     # "She’s smiling from ear to ear. It’s clear I’ve made her feel young again, and not through flattery."
-    "She’s smiling from ear to ear. It’s clear I’ve made her feel young again, and not through flattery."
+    "她笑得简直合不拢嘴。很显然我让她又感觉年轻不少，没有刻意去奉承。"
 
 # game/castle.rpy#L2096
 translate chinese selenesex_f06bc39f:
 
     # "Her hips gyrate softly around my cock, I don’t think she realizes it, but she’s so horny her body is causing her to move subconsciously."
-    "Her hips gyrate softly around my cock, I don’t think she realizes it, but she’s so horny her body is causing her to move subconsciously."
+    "她小穴里吸着我的肉棒，开始扭动转起自己的腰来，我估计她自己都没有意识到这点，但她太饥渴了，所以身体不由自主地动了起来。"
 
 # game/castle.rpy#L2097
 translate chinese selenesex_8ab107b1:
 
     # selene "This isn’t just about a bucket list anymore. I regret mentioning it, because I consider you more than just a tick on an arbitrary list."
-    selene "This isn’t just about a bucket list anymore. I regret mentioning it, because I consider you more than just a tick on an arbitrary list."
+    selene "抱歉我跟你说了马生清单的事情，接下来就不提它了，你不应该只成为清单上的一个待办事项那么简单。"
 
 # game/castle.rpy#L2098
 translate chinese selenesex_4a1657c3:
 
     # selene "You’ve seduced me, and I desire to seduce you too. I wish to breed with you."
-    selene "You’ve seduced me, and I desire to seduce you too. I wish to breed with you."
+    selene "你俘获了我的芳心，我也俘获了你的。我想和你孕育后代。"
 
 # game/castle.rpy#L2099
 translate chinese selenesex_775d106e:
 
     # "She raises herself up and down repeatedly, fucking me gently."
-    "She raises herself up and down repeatedly, fucking me gently."
+    "她开始上下蹲起，轻柔地揉虐我。"
 
 # game/castle.rpy#L2101
 translate chinese selenesex_2d26f380:
 
     # selene "Aahhh, you’re so thick too, and you don’t immediately cum like a stallion, you’re such a gem."
-    selene "Aahhh, you’re so thick too, and you don’t immediately cum like a stallion, you’re such a gem."
+    selene "哈，你也太“迟钝”了，不会像种马一样秒射，你真是太赞了！"
 
 # game/castle.rpy#L2102
 translate chinese selenesex_29e00358:
 
     # "She arches her back and visibly shudders as pleasure surges through her. The genuine catharsis she’s feeling in this moment is rubbing off on me, giving me goose bumps."
-    "She arches her back and visibly shudders as pleasure surges through her. The genuine catharsis she’s feeling in this moment is rubbing off on me, giving me goose bumps."
+    "她的高潮让她拱起了背和肩膀。此刻她真正宣泄出来的情绪在我身上不断蔓延，让我全身都起了鸡皮疙瘩。"
 
 # game/castle.rpy#L2103
 translate chinese selenesex_a791b74d:
 
     # selene "Mmm, it feels so much better in real life."
-    selene "Mmm, it feels so much better in real life."
+    selene "呼，这可比在梦里做给力多了。"
 
 # game/castle.rpy#L2104
 translate chinese selenesex_9cfb5f19:
 
     # mc "What’s it like in dreams?"
-    mc "What’s it like in dreams?"
+    mc "梦里做爱是什么感觉？"
 
 # game/castle.rpy#L2106
 translate chinese selenesex_2985b97c:
 
     # selene "It feels good, but it’s akin to masturbation, it still leaves a lingering desire."
-    selene "It feels good, but it’s akin to masturbation, it still leaves a lingering desire."
+    selene "不赖，但跟自慰差不多，每次完事之后，饥渴却还是萦绕心头挥之不去。"
 
 # game/castle.rpy#L2107
 translate chinese selenesex_08c59674:
@@ -7556,103 +7556,103 @@ translate chinese selenesex_55849115:
 translate chinese principalaurora_03e53559:
 
     # "Stepping out of the closet, I see the principal is at her desk performing some paperwork, but within seconds of revealing myself her attention is completely on me."
-    "Stepping out of the closet, I see the principal is at her desk performing some paperwork, but within seconds of revealing myself her attention is completely on me."
+    "走出衣橱，我看见校长正在办公桌上忙着处理一些学校的日常事物，但在我现身后的短短几秒，她的注意力就从繁杂的文件转移到了我的身上。"
 
 # game/castle.rpy#L2220
 translate chinese principalaurora_66af6113:
 
     # paurora "Ahh, good morning. Are you here for some extra credit? Hehe."
-    paurora "Ahh, good morning. Are you here for some extra credit? Hehe."
+    paurora "啊，日安。你是来要更多学分的吗？嘿嘿~"
 
 # game/castle.rpy#L2221
 translate chinese principalaurora_8cd8134e:
 
     # mc "Nice to see you too, Aurora. As you can imagine, I've decided to take your 'offer'."
-    mc "Nice to see you too, Aurora. As you can imagine, I've decided to take your 'offer'."
+    mc "很高兴见到你，Aurora。就跟你之前想的一样，我打算接受你的“提议”。"
 
 # game/castle.rpy#L2223
 translate chinese principalaurora_dee3053b:
 
     # paurora "And you've arrived completely nude no less, I can take a hint."
-    paurora "And you've arrived completely nude no less, I can take a hint."
+    paurora "从你一丝不挂地样子来看，我懂你的小心思。"
 
 # game/castle.rpy#L2224
 translate chinese principalaurora_f0e4af7c:
 
     # mc "Well, it's just that-"
-    mc "Well, it's just that-"
+    mc "那个，只是-"
 
 # game/castle.rpy#L2227
 translate chinese principalaurora_10031b90:
 
     # paurora "Better?"
-    paurora "Better?"
+    paurora "这样好点了吗？"
 
 # game/castle.rpy#L2228
 translate chinese principalaurora_e0ee6704:
 
     # mc "Damn, yep, better."
-    mc "Damn, yep, better."
+    mc "淦，是的，好多了。"
 
 # game/castle.rpy#L2230
 translate chinese principalaurora_b3d2c848:
 
     # paurora "Oohh, I just saw your cock twitch, it's so cute."
-    paurora "Oohh, I just saw your cock twitch, it's so cute."
+    paurora "哦，我刚刚看见你“鸡动”了呢，真可爱。"
 
 # game/castle.rpy#L2232
 translate chinese principalaurora_9ee8da0b:
 
     # paurora "Mmm… I think I have a lady boner that requires taking care of too. *Giggles*"
-    paurora "Mmm… I think I have a lady boner that requires taking care of too. *Giggles*"
+    paurora "嗯...现在有位女士已经深陷在性饥渴当中，需要有人帮她解决呢。*扑哧一笑*"
 
 # game/castle.rpy#L2233
 translate chinese principalaurora_ff4ab193:
 
     # paurora "Think you can help me, big boy?"
-    paurora "Think you can help me, big boy?"
+    paurora "你能帮我解决吗，铁汁？"
 
 # game/castle.rpy#L2234
 translate chinese principalaurora_c848172b:
 
     # "She's such a damn cougar, but I love it."
-    "She's such a damn cougar, but I love it."
+    "她真是个金牌熟女，我爱死了。"
 
 # game/castle.rpy#L2235
 translate chinese principalaurora_7d2d40fd:
 
     # "She closes the distance, wraps her slender fingers around my growing cock, and gently starts to jack me off into a full throbbing erection."
-    "She closes the distance, wraps her slender fingers around my growing cock, and gently starts to jack me off into a full throbbing erection."
+    "她向我挪近，纤纤素手握住我的肉棒，开始套动起来，好让我的肉棒更快勃起。"
 
 # game/castle.rpy#L2236
 translate chinese principalaurora_ff0bac28:
 
     # mc "*Twitch, throb*"
-    mc "*Twitch, throb*"
+    mc "*抖动，跳动*"
 
 # game/castle.rpy#L2238
 translate chinese principalaurora_c42c88b2:
 
     # paurora "Okay darling, you know my favourite position by now."
-    paurora "Okay darling, you know my favourite position by now."
+    paurora "好了亲爱的，你知道我最喜欢什么体位了。"
 
 # game/castle.rpy#L2239
 translate chinese principalaurora_bee78fcc:
 
     # mc "It's one hell of a position. Park your rear on my crotch if you will."
-    mc "It's one hell of a position. Park your rear on my crotch if you will."
+    mc "那个体位光靠我一个人有点难办。你得先把你的屁股贴在我胯上才行。"
 
 # game/castle.rpy#L2241
 translate chinese principalaurora_9808ae04:
 
     # paurora "I think I shall, hehe."
-    paurora "I think I shall, hehe."
+    paurora "这就照办，嘿嘿♥"
 
 # game/castle.rpy#L2244
 translate chinese principalaurora_7ec7924e:
 
     # paurora "Perfect, babe… Lift my legs up, lock them with your elbows... Hehe, you got it first try."
-    paurora "Perfect, babe… Lift my legs up, lock them with your elbows... Hehe, you got it first try."
+    paurora "就是这样，心肝...把我的两腿抬起来，用手紧紧扣住...嘿嘿，你先调整下吧。"
 
 # game/castle.rpy#L2246
 translate chinese principalaurora_3bfe79a5:

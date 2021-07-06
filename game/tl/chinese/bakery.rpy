@@ -2462,7 +2462,7 @@ translate chinese creamvmissionary_9b753a22:
 translate chinese creamvmissionary_46a96140:
 
     # ruby "It's a bad crush to have, since I know she's involved with a heifer..."
-    ruby "It's a bad crush to have, since I know she's involved with a heifer..."
+    ruby "那段感情很不顺利，据我所知她爱上了一头母牛……"
 
 # game/bakery.rpy#L700
 translate chinese creamvmissionary_786ff0a4:
@@ -2480,19 +2480,19 @@ translate chinese creamvmissionary_44412783:
 translate chinese creamvmissionary_eabac095:
 
     # mc "Everyone's really sleeping around, huh?"
-    mc "Everyone's really sleeping around, huh?"
+    mc "大家都在四处留情，嗯？"
 
 # game/bakery.rpy#L704
 translate chinese creamvmissionary_9fd735f7:
 
     # ruby "We truly are despicable, aren't we just? Perhaps it's time we all grew out of it and settled down with partners."
-    ruby "We truly are despicable, aren't we just? Perhaps it's time we all grew out of it and settled down with partners."
+    ruby "我们真是太卑鄙了，不是吗？也许咱们也该成熟一点找个对象白头偕老了。"
 
 # game/bakery.rpy#L706
 translate chinese creamvmissionary_4319f8c9:
 
     # ruby "But I know I couldn't refuse if you asked."
-    ruby "But I know I couldn't refuse if you asked."
+    ruby "不过你要是开口我肯定是没法拒绝的。"
 
 # game/bakery.rpy#L707
 translate chinese creamvmissionary_0bd7b478:
@@ -2570,13 +2570,13 @@ translate chinese creamvmissionary_1a4d49ec:
 translate chinese creamvmissionary_336afbc0:
 
     # riku "Well well well! If it ain't troublemaker 1 and 2!"
-    riku "Well well well! If it ain't troublemaker 1 and 2!"
+    riku "看看看！这不是捣蛋鬼一号和二号吗！"
 
 # game/bakery.rpy#L738
 translate chinese creamvmissionary_6639e3b6:
 
     # riku "You can decide amongst yourselves who is who."
-    riku "You can decide amongst yourselves who is who."
+    riku "你们俩谁是几号可以自己挑。"
 
 # game/bakery.rpy#L739
 translate chinese creamvmissionary_3c3783d2:
@@ -2588,7 +2588,7 @@ translate chinese creamvmissionary_3c3783d2:
 translate chinese creamvmissionary_03a70687:
 
     # "The two girls hug, Riku clearly enjoying the feeling of Ruby's bosom almost a little too much as she winks at me."
-    "The two girls hug, Riku clearly enjoying the feeling of Ruby's bosom almost a little too much as she winks at me."
+    "两个姑娘相拥在一起， Riku明显很享受 Ruby的怀抱——甚至有点过头了——她同时朝我眨了眨眼。"
 
 # game/bakery.rpy#L752
 translate chinese creamvmissionary_a46ab8b9:
@@ -2636,7 +2636,7 @@ translate chinese creamvmissionary_3f2632fd:
 translate chinese creamvmissionary_31fb0e22:
 
     # riku "Well well well! If it ain't the notorious furless man and his girlfriend!"
-    riku "Well well well! If it ain't the notorious furless man and his girlfriend!"
+    riku "看看看！这不是臭名昭著的秃毛人和他的小女友吗！"
 
 # game/bakery.rpy#L774
 translate chinese creamvmissionary_30fc1dde:
@@ -2660,7 +2660,7 @@ translate chinese creamvmissionary_f08b1535:
 translate chinese creamvmissionary_03a70687_1:
 
     # "The two girls hug, Riku clearly enjoying the feeling of Ruby's bosom almost a little too much as she winks at me."
-    "The two girls hug, Riku clearly enjoying the feeling of Ruby's bosom almost a little too much as she winks at me."
+    "两个姑娘相拥在一起， Riku明显很享受 Ruby的怀抱——甚至有点过头了——她同时朝我眨了眨眼。"
 
 # game/bakery.rpy#L791
 translate chinese creamvmissionary_64f07c76:
@@ -2726,7 +2726,7 @@ translate chinese creamvmissionary_769e2d38:
 translate chinese creamvmissionary_9c091efe:
 
     # cream "And so, I was like, yeah, and he was like, totally! And she was like, uhuh!"
-    cream "And so, I was like, yeah, and he was like, totally! And she was like, uhuh!"
+    cream "然后就，我就这样，对，然后他就这样，绝对的！然后她就这样，不对！"
 
 # game/bakery.rpy#L830
 translate chinese creamvmissionary_6e7dbce9:
@@ -2750,13 +2750,13 @@ translate chinese creamvmissionary_30f4bc29:
 translate chinese creamvmissionary_e0fd61cd:
 
     # "I can't really follow the conversation either, there's a lot of specific chatter and catching up happening, it's somewhat overwhelming."
-    "I can't really follow the conversation either, there's a lot of specific chatter and catching up happening, it's somewhat overwhelming."
+    "我也没明白说的是啥，有很多特定的细节和补充说明，让人莫名的难懂。"
 
 # game/bakery.rpy#L835
 translate chinese creamvmissionary_c95e2654:
 
     # "Although there're still a few more people missing..."
-    "Although there're still a few more people missing..."
+    "不过还有几个人没到……"
 
 # game/bakery.rpy#L837
 translate chinese creamvmissionary_20b687aa:

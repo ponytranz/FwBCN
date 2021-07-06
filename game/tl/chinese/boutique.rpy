@@ -11192,7 +11192,7 @@ translate chinese strings:
 
     # game/boutique.rpy_L238_0
     old "I sure do, especially horny girls in heat like you."
-    new "当然了，尤其是对像你们这样欲火烧身的姑娘们。"
+    new "当然了，尤其是对像你们这样发情的姑娘们。"
 
     # game/boutique.rpy_L238_1
     old "I prefer you over your sister, how about we go to your room?"

@@ -1508,7 +1508,7 @@ translate chinese musicstudiomenub_a0fad71b:
 translate chinese musicstudiomenub_00565838:
 
     # claire "Blossom has been very influenced by the style, but prefers a more soft and ambient tone."
-    claire "Blossom has been very influenced by the style, but prefers a more soft and ambient tone."
+    claire "Blossom一直深受风格的影响，但她更喜欢柔和的与充满轻松氛围的色调。"
 
 # game/city.rpy#L525
 translate chinese musicstudiomenub_f823261e:

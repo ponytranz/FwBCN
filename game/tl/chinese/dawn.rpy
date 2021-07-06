@@ -3488,7 +3488,7 @@ translate chinese ppclsex_ae1494b9:
 translate chinese ppclsex_3990cddc:
 
     # "I’m not even moving, but from the mere penetration she’s panting like a mare in heat, I guess that’s no different."
-    "我甚至没有动，仅仅是插入，她就像火热的雌驹一样喘气了，我猜其实也没多大区别。"
+    "我甚至没有动，仅仅是插入，她就像发情的雌驹一样喘气了，我猜其实也没多大区别。"
 
 # game/dawn.rpy#L1062
 translate chinese ppclsex_3d37f928:
