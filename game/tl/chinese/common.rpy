@@ -1062,35 +1062,35 @@ translate chinese strings:
 
     # renpy/common/_errorhandling.rpym_L542_0
     old "Open"
-    new "Open"
+    new "打开"
 
     # renpy/common/_errorhandling.rpym_L544_0
     old "Opens the traceback.txt file in a text editor."
-    new "Opens the traceback.txt file in a text editor."
+    new "在文本编辑器中打开traceback.txt文件（错误信息报告）"
 
     # renpy/common/_errorhandling.rpym_L546_0
     old "Copy BBCode"
-    new "Copy BBCode"
+    new "以BBCode语言复制"
 
     # renpy/common/_errorhandling.rpym_L548_0
     old "Copies the traceback.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
-    new "Copies the traceback.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
+    new "将错误信息报告文件以BBCode语言复制，便于在https://lemmasoft.renai.us/等论坛中发表。"
 
     # renpy/common/_errorhandling.rpym_L550_0
     old "Copy Markdown"
-    new "Copy Markdown"
+    new "以Markdown语言复制"
 
     # renpy/common/_errorhandling.rpym_L552_0
     old "Copies the traceback.txt file to the clipboard as Markdown for Discord."
-    new "Copies the traceback.txt file to the clipboard as Markdown for Discord."
+    new "将错误信息报告文件以Markdown语言复制，便于在Discord中发表。"
 
     # renpy/common/_errorhandling.rpym_L581_0
     old "An exception has occurred."
-    new "An exception has occurred."
+    new "发生程序异常。"
 
     # renpy/common/_errorhandling.rpym_L604_0
     old "Rollback"
-    new "Rollback"
+    new "回滚"
 
     # renpy/common/_errorhandling.rpym_L606_0
     old "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
@@ -1098,15 +1098,15 @@ translate chinese strings:
 
     # renpy/common/_errorhandling.rpym_L609_0
     old "Ignore"
-    new "Ignore"
+    new "忽视"
 
     # renpy/common/_errorhandling.rpym_L613_0
     old "Ignores the exception, allowing you to continue."
-    new "Ignores the exception, allowing you to continue."
+    new "忽视程序异常，允许您继续游玩。"
 
     # renpy/common/_errorhandling.rpym_L615_0
     old "Ignores the exception, allowing you to continue. This often leads to additional errors."
-    new "Ignores the exception, allowing you to continue. This often leads to additional errors."
+    new "忽视程序异常，允许您继续游玩。常常会导致更多的错误。"
 
     # renpy/common/_errorhandling.rpym_L619_0
     old "Reload"
@@ -1114,7 +1114,7 @@ translate chinese strings:
 
     # renpy/common/_errorhandling.rpym_L621_0
     old "Reloads the game from disk, saving and restoring game state if possible."
-    new "Reloads the game from disk, saving and restoring game state if possible."
+    new "自硬盘重新读取游戏，在容许的情况下保存并恢复游戏状态。"
 
     # renpy/common/_errorhandling.rpym_L624_0
     old "Console"
@@ -1122,7 +1122,7 @@ translate chinese strings:
 
     # renpy/common/_errorhandling.rpym_L626_0
     old "Opens a console to allow debugging the problem."
-    new "Opens a console to allow debugging the problem."
+    new "打开控制台以对问题进行除错。"
 
     # renpy/common/_errorhandling.rpym_L639_0
     old "Quits the game."
@@ -1134,13 +1134,13 @@ translate chinese strings:
 
     # renpy/common/_errorhandling.rpym_L686_0
     old "Opens the errors.txt file in a text editor."
-    new "Opens the errors.txt file in a text editor."
+    new "在文本编辑器中打开error.txt文件（错误信息报告）"
 
     # renpy/common/_errorhandling.rpym_L690_0
     old "Copies the errors.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
-    new "Copies the errors.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
+    new "将错误信息报告文件以BBCode语言复制，便于在https://lemmasoft.renai.us/等论坛中发表。"
 
     # renpy/common/_errorhandling.rpym_L694_0
     old "Copies the errors.txt file to the clipboard as Markdown for Discord."
-    new "Copies the errors.txt file to the clipboard as Markdown for Discord."
+    new "将错误信息报告文件以Markdown语言复制，便于在Discord中发表。"
 

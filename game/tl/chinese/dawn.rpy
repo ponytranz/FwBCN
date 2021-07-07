@@ -3476,7 +3476,7 @@ translate chinese ppclsex_32f1a562:
 translate chinese ppclsex_429d025f:
 
     # "She lustfully wiggles her hips until the tip of my cock immediately slides in, she was so quick that I barely had time to adjust to this strange position."
-    "她淫荡地摆动双唇，直到我的阴茎立即滑了进去。她的行动迅速到我几乎来不及调整成这个奇怪的姿势。"
+    "她淫荡地摆动屁股，直到我的阴茎立即滑了进去。她的行动迅速到我几乎来不及调整成这个奇怪的姿势。"
 
 # game/dawn.rpy#L1060
 translate chinese ppclsex_ae1494b9:
@@ -3614,7 +3614,7 @@ translate chinese ppclsex_bf06591b:
 translate chinese ppclsex_6c75a4fe:
 
     # "The cougar's pussy has me beat, I can't hold back as I relentlessly unload my cum deep inside her."
-    "美洲豹的阴道征服了我，我再也忍不住了，不停地将精液深深地注入她的体内。"
+    "这位熟女的阴道彻底征服了我，我再也忍不住了，不停地将精液深深地注入她的体内。"
 
 # game/dawn.rpy#L1091
 translate chinese ppclsex_d5ff8bba:
@@ -5168,451 +5168,451 @@ translate chinese dawnv3sex_851564e9:
 translate chinese dawnv3sex_a6aa445a:
 
     # mc "Heyy, I didn’t say anything. I’m just trying to get a career, so I’m trying out a lot of jobs and meeting a lot of people to see what fits me the best."
-    mc "嘿，我可啥也没说。我只是想寻找一份适合的职业，所以我正在会面许多马，尝试一些工作，来寻找最适合我的。"
+    mc "嘿，我可啥也没说。我只是想寻找一份适合的职业，所以我正在同许多马会面，尝试一些工作，看看哪些适合我。"
 
 # game/dawn.rpy#L1521
 translate chinese dawnv3sex_575afb17:
 
     # dawn "Ohh, I see… Well, unfortunately I don’t have anything for you here, however, leisure is important, kitten. Don’t forget to come to the nightclub, as long as I’m here you’ll never be alone at night, hehe…"
-    dawn "Ohh, I see… Well, unfortunately I don’t have anything for you here, however, leisure is important, kitten. Don’t forget to come to the nightclub, as long as I’m here you’ll never be alone at night, hehe…"
+    dawn "哦，这样啊...那个，不幸的事我没有活可以派给你干，不过呢，面包与娱乐也很重要，小猫咪。别忘了常来夜总会，只要我在这儿，你整晚都不会孤单，嘿嘿......"
 
 # game/dawn.rpy#L1522
 translate chinese dawnv3sex_7ae1fa91:
 
     # mc "Thanks Dawn, and thank you for the trip yesterday, I really appreciated that."
-    mc "Thanks Dawn, and thank you for the trip yesterday, I really appreciated that."
+    mc "谢了Dawn，昨天那趟旅途真是令我难忘，谢谢你带我前去。"
 
 # game/dawn.rpy#L1524
 translate chinese dawnv3sex_e9b9fff5:
 
     # dawn "I'll be seeing you, duckling."
-    dawn "I'll be seeing you, duckling."
+    dawn "我会一直留意你的，小鸭子。"
 
 # game/dawn.rpy#L1525
 translate chinese dawnv3sex_aadfe62a:
 
     # mc "Count on it, Dawn."
-    mc "Count on it, Dawn."
+    mc "放心啦，Dawn。"
 
 # game/dawn.rpy#L1531
 translate chinese dawnv3sex_ef2fcf30:
 
     # "After stretching a little, I return home."
-    "After stretching a little, I return home."
+    "稍稍伸展了一下四肢，我就回家了。"
 
 # game/dawn.rpy#L1545
 translate chinese dawnvisit4_9a9ed3ac:
 
     # "I arrive at the back of the nightclub, and knock on the door sensibly this time."
-    "I arrive at the back of the nightclub, and knock on the door sensibly this time."
+    "我来到了夜总会的后门，礼貌地敲了敲门。"
 
 # game/dawn.rpy#L1546
 translate chinese dawnvisit4_78d56444:
 
     # "Bzzzt…"
-    "Bzzzt…"
+    "嗡嗡..."
 
 # game/dawn.rpy#L1547
 translate chinese dawnvisit4_080fdec5:
 
     # dawn "Hello, the girl that was in your wet dream last night speaking, who’s this?"
-    dawn "Hello, the girl that was in your wet dream last night speaking, who’s this?"
+    dawn "你好，我是你昨晚的梦中情人，是谁来啦？"
 
 # game/dawn.rpy#L1548
 translate chinese dawnvisit4_4985e272:
 
     # mc "It’s me, [playername], and how did you know about my wet dream?"
-    mc "It’s me, [playername], and how did you know about my wet dream?"
+    mc "是我，[playername]，你怎么知道我昨晚做了有关你的春梦？"
 
 # game/dawn.rpy#L1549
 translate chinese dawnvisit4_ab096c95:
 
     # dawn "Oh darling, you were so great last night, mmhehe."
-    dawn "Oh darling, you were so great last night, mmhehe."
+    dawn "哦亲爱的，你昨晚可真棒，嗯嘿嘿。"
 
 # game/dawn.rpy#L1550
 translate chinese dawnvisit4_78d56444_1:
 
     # "Bzzzt…"
-    "Bzzzt…"
+    "嗡嗡..."
 
 # game/dawn.rpy#L1551
 translate chinese dawnvisit4_29838c4d:
 
     # "The feed cuts and the door opens."
-    "The feed cuts and the door opens."
+    "传声孔关上，门随即打开。"
 
 # game/dawn.rpy#L1555
 translate chinese dawnvisit4_590422f9:
 
     # dawn "So wonderful of you to join me again, you’re certainly proving to become a reliable man. Which is why I’d like you to take advantage of me."
-    dawn "So wonderful of you to join me again, you’re certainly proving to become a reliable man. Which is why I’d like you to take advantage of me."
+    dawn "你又来找我，我真是太高兴了，你已经向我证明了你是个可靠之人。就算你占人家便宜我也不会多计较的。"
 
 # game/dawn.rpy#L1562
 translate chinese dawnvisit4_adf8c032:
 
     # dawn "You know me well, kitten!"
-    dawn "You know me well, kitten!"
+    dawn "嘛，你懂我的，小猫咪！"
 
 # game/dawn.rpy#L1564
 translate chinese dawnvisit4_a05f2fc0:
 
     # dawn "I have three day coupons for the spa, this one’s for you!"
-    dawn "I have three day coupons for the spa, this one’s for you!"
+    dawn "我有三张全天SPA优惠券，这张给你！"
 
 # game/dawn.rpy#L1565
 translate chinese dawnvisit4_b42fb6f4:
 
     # mc "The spa? You mean the spa-brothel that has a big menu in the reception listing several sexual acts for a price?"
-    mc "The spa? You mean the spa-brothel that has a big menu in the reception listing several sexual acts for a price?"
+    mc "SPA？是那个在接待处把几个性服务明码标价，还给你整个大菜单的SPA窑子吗？"
 
 # game/dawn.rpy#L1567
 translate chinese dawnvisit4_a2697fe9:
 
     # dawn "Mmmmhhmmm, we’re going to have a spa day! It’s going to be great! But goodness, you’re such a pervert, it’s a spa and a brothel, not a spa-brothel."
-    dawn "Mmmmhhmmm, we’re going to have a spa day! It’s going to be great! But goodness, you’re such a pervert, it’s a spa and a brothel, not a spa-brothel."
+    dawn "Emmmmmmm，反正我们要去做一天SPA啦！不会拉胯的！不过老天啊，你真是个变态，那里既能做SPA，还能逛窑子，可不是什么SPA窑子，想什么呢。"
 
 # game/dawn.rpy#L1568
 translate chinese dawnvisit4_ec444e6e:
 
     # mc "Ah, so there are non-sexual functions too?"
-    mc "Ah, so there are non-sexual functions too?"
+    mc "啊，你的意思那里还有非性方面的服务吗？"
 
 # game/dawn.rpy#L1570
 translate chinese dawnvisit4_ab203156:
 
     # dawn "Oh my goodness, kitten. I hope you realized what you just admitted to."
-    dawn "Oh my goodness, kitten. I hope you realized what you just admitted to."
+    dawn "天啊，小猫咪。你脑筋是真的死。"
 
 # game/dawn.rpy#L1571
 translate chinese dawnvisit4_2a29cdab:
 
     # mc "… Shit, you got me."
-    mc "… Shit, you got me."
+    mc "...艹，你赢了。"
 
 # game/dawn.rpy#L1572
 translate chinese dawnvisit4_bd86220b:
 
     # mc "Who’s the special third wheel?"
-    mc "Who’s the special third wheel?"
+    mc "你既然有三张票，那还有一个马是谁？"
 
 # game/dawn.rpy#L1574
 translate chinese dawnvisit4_5cc10c9c:
 
     # dawn "I just found out a certain someone has recently acquired a pair of gorgeous wings…"
-    dawn "I just found out a certain someone has recently acquired a pair of gorgeous wings…"
+    dawn "最近有一匹独角兽得到了一对翅膀......"
 
 # game/dawn.rpy#L1575
 translate chinese dawnvisit4_589c6761:
 
     # dawn "Lily, a student of the Queen has officially begun her training, hmm?"
-    dawn "Lily, a student of the Queen has officially begun her training, hmm?"
+    dawn "就是Lily，女王的学生，最近才开始的相关训练，你应肯定认识？"
 
 # game/dawn.rpy#L1576
 translate chinese dawnvisit4_83caf310:
 
     # dawn "As someone that was once in the exact same position as her, I’d like to take the opportunity to congratulate her, and perhaps give her some advice."
-    dawn "As someone that was once in the exact same position as her, I’d like to take the opportunity to congratulate her, and perhaps give her some advice."
+    dawn "作为曾经和她一个位置上的马，我算是她的师姐，这可是个祝贺她的好机会，还能为她指点一二。"
 
 # game/dawn.rpy#L1577
 translate chinese dawnvisit4_3e492eab:
 
     # dawn "She’ll certainly need it, I don’t know if that girl realizes how hard it’s about to get."
-    dawn "She’ll certainly need it, I don’t know if that girl realizes how hard it’s about to get."
+    dawn "来这一趟她肯定能获益匪浅，不知道那个女孩清不清楚自己的前路究竟有多漫漫。"
 
 # game/dawn.rpy#L1578
 translate chinese dawnvisit4_8707bec3:
 
     # dawn "Oh, and by the way… You’re the third wheel, the ‘wingman’ you could say."
-    dawn "Oh, and by the way… You’re the third wheel, the ‘wingman’ you could say."
+    dawn "哦，顺便说下...你才是我名单上的第三个人，就像一架“僚机”。"
 
 # game/dawn.rpy#L1579
 translate chinese dawnvisit4_56aae89e:
 
     # mc "Hm? Whatchu mean?"
-    mc "Hm? Whatchu mean?"
+    mc "嗯？神魔意思？"
 
 # game/dawn.rpy#L1581
 translate chinese dawnvisit4_61f1db8d:
 
     # dawn "I need someone that’s good at lubrication, to help the conversation flow as smooth as butter…"
-    dawn "I need someone that’s good at lubrication, to help the conversation flow as smooth as butter…"
+    dawn "我需要一个足够圆滑的人，这样才能让谈话像德芙一样丝滑......"
 
 # game/dawn.rpy#L1582
 translate chinese dawnvisit4_f4b04e10:
 
     # mc "You’re planning on seducing her?!"
-    mc "You’re planning on seducing her?!"
+    mc "你想诱奸她！？"
 
 # game/dawn.rpy#L1585
 translate chinese dawnvisit4_9aa90ed4:
 
     # dawn "Haven’t realized yet? I have a plan to seduce {i}everyone{/i} I meet."
-    dawn "Haven’t realized yet? I have a plan to seduce {i}everyone{/i} I meet."
+    dawn "你还没反应过来啊？我打算诱奸{i}每一个{/i}我遇到的人或者马。"
 
 # game/dawn.rpy#L1586
 translate chinese dawnvisit4_ea278f7d:
 
     # dawn "Welcome to the world of girl love, it's slippery when wet!"
-    dawn "Welcome to the world of girl love, it's slippery when wet!"
+    dawn "欢迎来到又黏又滑的大橘女女世界！"
 
 # game/dawn.rpy#L1590
 translate chinese dawnvisit4_a8609c40:
 
     # dawn "Oh dearie, it is special!"
-    dawn "Oh dearie, it is special!"
+    dawn "哦亲爱的，这很特别！"
 
 # game/dawn.rpy#L1591
 translate chinese dawnvisit4_781fb513:
 
     # dawn "Why do you think I'm inviting you with me? I couldn't be without you."
-    dawn "Why do you think I'm inviting you with me? I couldn't be without you."
+    dawn "不然你觉得人家为什么请你一道？没你我可做不了。"
 
 # game/dawn.rpy#L1592
 translate chinese dawnvisit4_f6ded5f0:
 
     # dawn "Don't let my jokes get to your head too much."
-    dawn "Don't let my jokes get to your head too much."
+    dawn "别把我的玩笑话都太当真啦。"
 
 # game/dawn.rpy#L1596
 translate chinese dawnvisit4_f133a165:
 
     # dawn "In this world? Guess it's 'one', as of recently."
-    dawn "In this world? Guess it's 'one', as of recently."
+    dawn "这个世界？有且只有“一个”，而且是最近才有的。"
 
 # game/dawn.rpy#L1597
 translate chinese dawnvisit4_7d712295:
 
     # mc "Ah, that's me!"
-    mc "Ah, that's me!"
+    mc "啊，说得不就是我嘛！"
 
 # game/dawn.rpy#L1599
 translate chinese dawnvisit4_51f9f43d:
 
     # dawn "Congrats, detective. You took my anthro virginity!"
-    dawn "Congrats, detective. You took my anthro virginity!"
+    dawn "恭喜你，带侦探。你破了我的人类处！"
 
 # game/dawn.rpy#L1602
 translate chinese dawnvisit4_292a4c7d:
 
     # dawn "Hehe, yeah. I'm only joking."
-    dawn "Hehe, yeah. I'm only joking."
+    dawn "嘿嘿，那个。我是在开玩笑。"
 
 # game/dawn.rpy#L1605
 translate chinese dawnvisit4_46f84771:
 
     # dawn "Oohh, you got me dearie, mmhehe. What a shambling mess of contradictions I am today."
-    dawn "Oohh, you got me dearie, mmhehe. What a shambling mess of contradictions I am today."
+    dawn "哦，亲爱的，你把我说服了，嗯哼哼。我今天过得真是混乱和矛盾。"
 
 # game/dawn.rpy#L1606
 translate chinese dawnvisit4_908f6d7d:
 
     # dawn "Why do you think I have a single bed, darling? You’re the one that broke it in."
-    dawn "Why do you think I have a single bed, darling? You’re the one that broke it in."
+    dawn "你猜我为什么只有单人床，亲爱的？你可是第一个让我“破戒”的人呢。"
 
 # game/dawn.rpy#L1607
 translate chinese dawnvisit4_30d62513:
 
     # mc "Really? I would have assumed otherwise by your demeanour."
-    mc "Really? I would have assumed otherwise by your demeanour."
+    mc "真的吗？我看你的言谈举止可不像。"
 
 # game/dawn.rpy#L1609
 translate chinese dawnvisit4_aa93292c:
 
     # dawn "Mmmhehe, I think I understand where this misplaced train of thought is choo-choo-chooing from."
-    dawn "Mmmhehe, I think I understand where this misplaced train of thought is choo-choo-chooing from."
+    dawn "哦嘿嘿，我想我知道你一堆离谱的错误认知是从哪个乐谱离出来的了。"
 
 # game/dawn.rpy#L1610
 translate chinese dawnvisit4_ee2ad4e9:
 
     # dawn "You have no idea what wearing clothing in this culture symbolises, do you?"
-    dawn "You have no idea what wearing clothing in this culture symbolises, do you?"
+    dawn "你不知道在我们的文化里，穿衣服代表着什么，对吧？"
 
 # game/dawn.rpy#L1611
 translate chinese dawnvisit4_f973af70:
 
     # mc "It symbolises something? No, I wasn’t aware of that at all."
-    mc "It symbolises something? No, I wasn’t aware of that at all."
+    mc "穿衣服还有引申义？没有，我完全不造。"
 
 # game/dawn.rpy#L1613
 translate chinese dawnvisit4_f3a3c24e:
 
     # dawn "If an individual, particularly a mare, wears clothing… It’s a very strong indicator that they have no interest in relationships, or sexual encounters."
-    dawn "If an individual, particularly a mare, wears clothing… It’s a very strong indicator that they have no interest in relationships, or sexual encounters."
+    dawn "对一个公民来说，特别是对雌驹，穿衣服的话...是一种对马际交往或者性方面完全不感兴趣的强烈信号。"
 
 # game/dawn.rpy#L1614
 translate chinese dawnvisit4_93fe1d14:
 
     # mc "Wait… Seriously?"
-    mc "Wait… Seriously?"
+    mc "等下...你没开玩笑？"
 
 # game/dawn.rpy#L1618
 translate chinese dawnvisit4_454883d5:
 
     # "That’s why… Butters always wore that dress, and even to this day."
-    "That’s why… Butters always wore that dress, and even to this day."
+    "所以原来这就是为什么...Butters到今天都是裙不离身的原因。"
 
 # game/dawn.rpy#L1622
 translate chinese dawnvisit4_b7c97d0a:
 
     # "Holy shit! This is why Morrigan-Moxie was so eager on making me adapt to my nudity, she wanted me to be as open and available to the mares as possible from the beginning."
-    "Holy shit! This is why Morrigan-Moxie was so eager on making me adapt to my nudity, she wanted me to be as open and available to the mares as possible from the beginning."
+    "我勒个大操！这也是为什么Morrigan假扮的Moxie急切地想让我适应裸体的原因，她想让我一开始就对所有雌驹传递我很开放的信号。"
 
 # game/dawn.rpy#L1625
 translate chinese dawnvisit4_9f4593c9:
 
     # dawn "Indeed… Hehe, I’d never had sex in this body before I met you, I wasn’t even planning on it."
-    dawn "Indeed… Hehe, I’d never had sex in this body before I met you, I wasn’t even planning on it."
+    dawn "没错...嘿嘿，我的这副躯体还从来没跟任何马发生过性关系呢，除了你之外，我都没想过这档子事儿。"
 
 # game/dawn.rpy#L1626
 translate chinese dawnvisit4_e775f3ed:
 
     # dawn "But you’re a remarkably charming and nostalgic gentleman for a lady such as myself, one that had lived around humans for half a decade."
-    dawn "But you’re a remarkably charming and nostalgic gentleman for a lady such as myself, one that had lived around humans for half a decade."
+    dawn "但对于我这样一位和人类相处了五年的女士来说，你这样迷人的绅士让我望眼欲穿，更别提你还让我想起在人类世界的种种。"
 
 # game/dawn.rpy#L1627
 translate chinese dawnvisit4_7507a207:
 
     # mc "I see… So, you’re not interested, but you’re not exactly against it."
-    mc "I see… So, you’re not interested, but you’re not exactly against it."
+    mc "我懂了...所以，你算不喜欢和其他马交往对吧。"
 
 # game/dawn.rpy#L1629
 translate chinese dawnvisit4_5b37eeee:
 
     # dawn "Naturally, I find wearing clothing useful as an inhabitant that wasn’t originally from this universe, especially since I run a nightclub, hehe."
-    dawn "Naturally, I find wearing clothing useful as an inhabitant that wasn’t originally from this universe, especially since I run a nightclub, hehe."
+    dawn "那是，作为一个其他宇宙来的居民，在这个宇宙穿衣服可是个好方法，非常有用，而且我还开了家夜总会，嘿嘿。"
 
 # game/dawn.rpy#L1630
 translate chinese dawnvisit4_044e1c06:
 
     # mc "I barely see anyone wear clothes though, not even mares or stallions in relationships, so it sounds like a pretty niche thing."
-    mc "I barely see anyone wear clothes though, not even mares or stallions in relationships, so it sounds like a pretty niche thing."
+    mc "不过我几乎没有看到过穿着衣服的马，即便是和种马热恋中的雌驹也不会穿，要找到一匹穿衣服的马就像大海捞针一样。"
 
 # game/dawn.rpy#L1632
 translate chinese dawnvisit4_9a87d69a:
 
     # dawn "Yeah, you could say that. You may have noticed that the royalty wear dresses in public too, same reason."
-    dawn "Yeah, you could say that. You may have noticed that the royalty wear dresses in public too, same reason."
+    dawn "嗯，你这么说也行。你看皇家姐妹在公共场合也把自己裹得跟粽子似的，也是这个缘故。"
 
 # game/dawn.rpy#L1633
 translate chinese dawnvisit4_b619971c:
 
     # mc "Ahh… I’m glad you told me, there’re still so many subtle things ingrained in this world that I’d never assume."
-    mc "Ahh… I’m glad you told me, there’re still so many subtle things ingrained in this world that I’d never assume."
+    mc "啊...还好你给我讲清楚了，看来这个世界上还有很多微妙的事情不像我自认为的那样理所当然。"
 
 # game/dawn.rpy#L1635
 translate chinese dawnvisit4_94670632:
 
     # dawn "However, in this particular circumstance, your ignorance was bliss…"
-    dawn "However, in this particular circumstance, your ignorance was bliss…"
+    dawn "不过在一些特殊情况下，你的无知反而是种福气......"
 
 # game/dawn.rpy#L1636
 translate chinese dawnvisit4_e389f721:
 
     # dawn "Now, let’s plan how we’re going to indulge Lily today…"
-    dawn "Now, let’s plan how we’re going to indulge Lily today…"
+    dawn "现在呢，我们好好制订下让Lily放纵的计划吧......"
 
 # game/dawn.rpy#L1637
 translate chinese dawnvisit4_83b22593:
 
     # mc "Plan?"
-    mc "Plan?"
+    mc "计划？"
 
 # game/dawn.rpy#L1641
 translate chinese dawnvisit4_ce617998:
 
     # "…"
-    "…"
+    "..."
 
 # game/dawn.rpy#L1642
 translate chinese dawnvisit4_b61a8c2b:
 
     # "Holy shit... What a plan..."
-    "Holy shit... What a plan..."
+    "卧槽...这计划......"
 
 # game/dawn.rpy#L1643
 translate chinese dawnvisit4_cf7c1543:
 
     # "One hour later, approximately 8:45am…"
-    "One hour later, approximately 8:45am…"
+    "一小时后，大约早上8点45......"
 
 # game/dawn.rpy#L1654
 translate chinese dawnvisit4_f802417f:
 
     # lily "Good morning [playername], it’s always nice to see you. I can’t thank you enough for what you’ve done for this city and country."
-    lily "Good morning [playername], it’s always nice to see you. I can’t thank you enough for what you’ve done for this city and country."
+    lily "早安啊[playername]，见了你的面庞随时都让人家喜笑颜开。我对你为这个城市和国家所做的一切表示感谢。"
 
 # game/dawn.rpy#L1655
 translate chinese dawnvisit4_63d85ab2:
 
     # mc "Hey, you’ve thanked me enough for all that, Lil. I think it’s time we all did something for you."
-    mc "Hey, you’ve thanked me enough for all that, Lil. I think it’s time we all did something for you."
+    mc "嘿，你的各种感谢都快把我的耳朵听起茧了，Lil。我觉得该我们为你做点事儿了。"
 
 # game/dawn.rpy#L1657
 translate chinese dawnvisit4_02563ca2:
 
     # lily "Oh? For me? Aha, I mean… I barely…"
-    lily "Oh? For me? Aha, I mean… I barely…"
+    lily "哦？为我？啊哈，我是说...我不是很......"
 
 # game/dawn.rpy#L1658
 translate chinese dawnvisit4_4a86646a:
 
     # mc "Nah, I don’t want you to undermine your accomplishments. All I want you to do for today, is to accept this all-day spa coupon."
-    mc "Nah, I don’t want you to undermine your accomplishments. All I want you to do for today, is to accept this all-day spa coupon."
+    mc "不，我可不是要挫败你的努力的意思。我今天来只是想让你接受这张SPA优惠券而已。"
 
 # game/dawn.rpy#L1659
 translate chinese dawnvisit4_b987670c:
 
     # mc "You’re definitely due a day of relaxation, you’ve been working non-stop since we squashed the bug."
-    mc "You’re definitely due a day of relaxation, you’ve been working non-stop since we squashed the bug."
+    mc "看你整天忙来忙去的，也该好好休息一天吧，我们把那些虫子赶跑后就没见你休息过。"
 
 # game/dawn.rpy#L1661
 translate chinese dawnvisit4_bf88fe7c:
 
     # lily "That’s the nicest thing ever! My goodness, [playername]… I absolutely will, I mean, as long as you’ll be there, right?"
-    lily "That’s the nicest thing ever! My goodness, [playername]… I absolutely will, I mean, as long as you’ll be there, right?"
+    lily "这简直太棒了！我的天啊，[playername]...我会笑纳的，我是说，你也会去的，对吧？"
 
 # game/dawn.rpy#L1662
 translate chinese dawnvisit4_2004cf4d:
 
     # "I suppose Dawn would say ‘hook, line and sinker’, however, I’m just looking forward to having a nice day out with Lily. She really needs this."
-    "I suppose Dawn would say ‘hook, line and sinker’, however, I’m just looking forward to having a nice day out with Lily. She really needs this."
+    "Dawn肯定会说：“你就是想钓她”，不过我真的只想让Lily好好放松一天，她真的很需要休息下。"
 
 # game/dawn.rpy#L1663
 translate chinese dawnvisit4_4d6d5e03:
 
     # mc "Of course, I’ve got my coupon right here! I hope you don’t mind, but a friend and I organised this just for you."
-    mc "Of course, I’ve got my coupon right here! I hope you don’t mind, but a friend and I organised this just for you."
+    mc "我当然会去，我自己也有一张优惠券！不过这是托一个朋友的福才搞到的，她也会去，希望你不会介意。"
 
 # game/dawn.rpy#L1674
 translate chinese dawnvisit4_f712fc1d:
 
     # dawn "Mmhhmmm, nice to meet you Lily, you can call me Dawnie!"
-    dawn "Mmhhmmm, nice to meet you Lily, you can call me Dawnie!"
+    dawn "嗯嗯，很高兴见到你Lily，叫我Dawnie就好！"
 
 # game/dawn.rpy#L1676
 translate chinese dawnvisit4_e252561e:
 
     # lily "D-Dawn?! I haven’t seen you in a year!"
-    lily "D-Dawn?! I haven’t seen you in a year!"
+    lily "D-Dawn！？我们已经一年没见了吧！"
 
 # game/dawn.rpy#L1677
 translate chinese dawnvisit4_c3e0acdc:
 
     # "Huh? Dawn said she's never met Lily before, so what is Lily talking about?"
-    "Huh? Dawn said she's never met Lily before, so what is Lily talking about?"
+    "哈？Dawn不是说从来没见过Lily吗，Lily这是闹哪出？"
 
 # game/dawn.rpy#L1678
 translate chinese dawnvisit4_f9eea6f8:
 
     # "Well shit, that wasn't part of the plan. Lily must be referring to the 'other' Dawn..."
-    "Well shit, that wasn't part of the plan. Lily must be referring to the 'other' Dawn..."
+    "哦豁，这可不在计划之内啊。Lily肯定见过“另外一个”Dawn......"
 
 # game/dawn.rpy#L1680
 translate chinese dawnvisit4_704bef53:
 
     # dawn "Ahah, well, you know me... I've been... very busy!"
-    dawn "Ahah, well, you know me... I've been... very busy!"
+    dawn "啊哈，那个，你懂的...我这段时间都...很忙！"
 
 # game/dawn.rpy#L1681
 translate chinese dawnvisit4_f0f9c725:
@@ -9066,7 +9066,7 @@ translate chinese strings:
 
     # game/dawn.rpy_L2011_1
     old "Leave them to it"
-    new "让她们享受二人时光。"
+    new "让她们享受二马时光。"
 
     # game/dawn.rpy_L2148_0
     old "Tea takes a long time to cool, think you can wait that long?"

@@ -464,7 +464,7 @@ translate chinese strings:
 
     # game/artgallery.rpy_L1421_1
     old "Leg-Up Sideways"
-    new "Leg-Up Sideways"
+    new "侧着腿站起来"
 
     # game/artgallery.rpy_L1421_2
     old "Alraune Standing(?) Sex"
@@ -472,23 +472,23 @@ translate chinese strings:
 
     # game/artgallery.rpy_L1483_0
     old "Hole - Augusta"
-    new "Hole - Augusta"
+    new "Augusta"
 
     # game/artgallery.rpy_L1483_1
     old "Hole - Suspicously Recognizable Orange Pony"
-    new "Hole - Suspicously Recognizable Orange Pony"
+    new "鬼鬼祟祟的橙色小马"
 
     # game/artgallery.rpy_L1483_2
     old "Hole - Yellow Pony"
-    new "Hole - Yellow Pony"
+    new "黄色小马"
 
     # game/artgallery.rpy_L1483_3
     old "Hole - Black/White Pony"
-    new "Hole - Black/White Pony"
+    new "黑/白色的小马"
 
     # game/artgallery.rpy_L1483_4
     old "Hole - Red Pony"
-    new "Hole - Red Pony"
+    new "红色的小马"
 
     # game/artgallery.rpy_L1614_0
     old "Aurora Threesome"

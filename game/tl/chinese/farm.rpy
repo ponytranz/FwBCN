@@ -656,7 +656,7 @@ translate chinese farmvisit1_eabde2a3:
 translate chinese farmvisit1_839a90be:
 
     # "She’s not wasting any time as she marches ahead, doesn’t look like she’ll let her injury slow her down even a little, I follow briskly from behind."
-    "She’s not wasting any time as she marches ahead, doesn’t look like she’ll let her injury slow her down even a little, I follow briskly from behind."
+    "在她前进之时不会浪费任何一点时间，当然伤病也不能阻挡她分毫，我轻轻的走在她的身后。"
 
 # game/farm.rpy#L257
 translate chinese farmvisit1_24e0a425:

@@ -602,14 +602,14 @@
   {
     "id": 79443647,
     "createdAt": "2021-05-30T19:47:48.000Z",
-    "updatedAt": "2021-06-18T11:52:35.000Z",
+    "updatedAt": "2021-07-06T13:57:07.000Z",
     "key": "game/dawn.rpy_L2011_1",
     "original": "Leave them to it",
-    "translation": "让她们享受二人时光。",
+    "translation": "让她们享受二马时光。",
     "file": 272380,
     "stage": 3,
     "project": 2414,
-    "uid": 21832,
+    "uid": 22062,
     "extra": null,
     "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/dawn.rpy#L2011",
     "words": 4

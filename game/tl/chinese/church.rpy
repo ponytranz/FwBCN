@@ -3956,7 +3956,7 @@ translate chinese lorequeen_4105c564:
 translate chinese lorequeen_f719014c:
 
     # augusta "Ah-ha, you don't need to fuckin' lecture me, I've heard it all."
-    augusta "Ah-ha, you don't need to fuckin' lecture me, I've heard it all."
+    augusta "啊啊，你他妈的不用教我，我都听到了。"
 
 # game/church.rpy#L1266
 translate chinese lorequeen_6db8b2ff:
@@ -3986,13 +3986,13 @@ translate chinese lorequeen_4d3ac896:
 translate chinese lorequeen_355c30dc:
 
     # augusta "Bitch, I know it."
-    augusta "Bitch, I know it."
+    augusta "婊子，我都知道"
 
 # game/church.rpy#L1277
 translate chinese lorequeen_5d1c4367:
 
     # augusta "I mostly spread my teachings to reduce the stigma around all things sex."
-    augusta "I mostly spread my teachings to reduce the stigma around all things sex."
+    augusta "我主要传播我的教诲，以减少对所有性的污名化。"
 
 # game/church.rpy#L1279
 translate chinese lorequeen_15996f01:
@@ -4004,7 +4004,7 @@ translate chinese lorequeen_15996f01:
 translate chinese lorequeen_0e2258f8:
 
     # augusta "You see, that's what's uniquely powerful about being a Goddess of Love."
-    augusta "You see, that's what's uniquely powerful about being a Goddess of Love."
+    augusta "你看，这就是成为爱之女神的独特力量。"
 
 # game/church.rpy#L1282
 translate chinese lorequeen_c8c54894:
@@ -4034,13 +4034,13 @@ translate chinese lorequeen_dd808598:
 translate chinese lorequeen_8a6953a3:
 
     # mc "... You might actually be a genius."
-    mc "... You might actually be a genius."
+    mc "......你可能真的是个985天才"
 
 # game/church.rpy#L1288
 translate chinese lorequeen_1d03405c:
 
     # augusta "You're only just figuring this out?"
-    augusta "You're only just figuring this out?"
+    augusta "你只是想了解这个吗？"
 
 # game/church.rpy#L1289
 translate chinese lorequeen_41ddc9a6:
@@ -4628,13 +4628,13 @@ translate chinese lorequeen_471daa25:
 translate chinese lorequeen_6fa62d0b:
 
     # augusta "Well, uhh... Maybe a free book?"
-    augusta "Well, uhh... Maybe a free book?"
+    augusta "嗯，呃……也许是一本免费的书？"
 
 # game/church.rpy#L1465
 translate chinese lorequeen_b7057d41:
 
     # mc "No reward, then?"
-    mc "No reward, then?"
+    mc "那么没有奖励？"
 
 # game/church.rpy#L1467
 translate chinese lorequeen_150aff93:

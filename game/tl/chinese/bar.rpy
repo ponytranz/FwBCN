@@ -20,7 +20,7 @@ translate chinese barvisit1_f57f6b3b:
 translate chinese barvisit1_cc7a30d0:
 
     # riku "Oh hey! It's Ruby's boyfriend, from the party!"
-    riku "Oh hey! It's Ruby's boyfriend, from the party!"
+    riku "噢！嗨！这是Ruby的男朋友，来自派对！"
 
 # game/bar.rpy#L21
 translate chinese barvisit1_f015cb36:
@@ -4400,337 +4400,337 @@ translate chinese barvisit2_9e175fa3:
 translate chinese barvisit2_72101227:
 
     # riku "Yeah, I’m in a weird transitional period of my life where I’m trying to figure things out. I'm trying to stay open minded, and trying to make myself experience new things that I never got the chance to as an athlete."
-    riku "Yeah, I’m in a weird transitional period of my life where I’m trying to figure things out. I'm trying to stay open minded, and trying to make myself experience new things that I never got the chance to as an athlete."
+    riku "是啊，我正处于马生中一段试图弄清楚事情的转折期。我正在尝试保持思想开放，尝试让自己享受一些作为运动员得不到机会去的新事物。"
 
 # game/bar.rpy#L1184
 translate chinese barvisit2_623e2d88:
 
     # riku "I do kinda wish you stayed the night though… I woulda given you a blowjob in the morning and everything."
-    riku "I do kinda wish you stayed the night though… I woulda given you a blowjob in the morning and everything."
+    riku "我的确希望你能呆上一整晚……这样我早上就能给你口一下，或者干点别的了。"
 
 # game/bar.rpy#L1185
 translate chinese barvisit2_552b7a41:
 
     # mc "Sorry about that, I didn’t want to stay and be a nuisance, and it was getting quite late."
-    mc "Sorry about that, I didn’t want to stay and be a nuisance, and it was getting quite late."
+    mc "抱歉啊，我不想呆在这里当个碍事的，而且那时候已经很晚了。"
 
 # game/bar.rpy#L1187
 translate chinese barvisit2_2ed83b60:
 
     # riku "Don’t worry about me, you’re doing your own thing. I’m just one helping hand-job along the way, haha."
-    riku "Don’t worry about me, you’re doing your own thing. I’m just one helping hand-job along the way, haha."
+    riku "不要担心我，做自己的事情吧。我只是用手帮你弄了下，哈哈。"
 
 # game/bar.rpy#L1189
 translate chinese barvisit2_48c80b8f:
 
     # riku "Don’t tell anyone what we did though, I was a little too drunk to really think that one through. I would have preferred to wait a little longer."
-    riku "Don’t tell anyone what we did though, I was a little too drunk to really think that one through. I would have preferred to wait a little longer."
+    riku "不过不要告诉别谁我们做了什么，当时喝得有点多，没有真正想清楚。我宁愿多等等再做。"
 
 # game/bar.rpy#L1190
 translate chinese barvisit2_b38903bb:
 
     # mc "Sure thing, my lips are sealed..."
-    mc "Sure thing, my lips are sealed..."
+    mc "当然，我守口如瓶……"
 
 # game/bar.rpy#L1191
 translate chinese barvisit2_16a3b0c6:
 
     # riku "What happened, happened though, and I’m glad it did since it quashed my dumb heat."
-    riku "What happened, happened though, and I’m glad it did since it quashed my dumb heat."
+    riku "发生的事情已经发生了，我很高兴，毕竟它解决了我那操蛋的发情。"
 
 # game/bar.rpy#L1193
 translate chinese barvisit2_f93ec263:
 
     # riku "Bet you never imagined sex would be part of your employment benefits. That’s your own darn fault for being too sexy for your own good!"
-    riku "Bet you never imagined sex would be part of your employment benefits. That’s your own darn fault for being too sexy for your own good!"
+    riku "但是你可没想到做爱也会是你的员工福利之一。那是你自己的错，因为你太性感了。"
 
 # game/bar.rpy#L1194
 translate chinese barvisit2_c0e4db3c:
 
     # mc "Me? Sexy? You gotta be kidding!"
-    mc "Me? Sexy? You gotta be kidding!"
+    mc "我？性感？你肯定是开玩笑的！"
 
 # game/bar.rpy#L1196
 translate chinese barvisit2_9abd9a63:
 
     # riku "Are you doubting my standards? Hmm?"
-    riku "Are you doubting my standards? Hmm?"
+    riku "你在质疑我的标准吗？嗯？"
 
 # game/bar.rpy#L1197
 translate chinese barvisit2_11533046:
 
     # mc "No, no, not at all! I’m sexy, I got it."
-    mc "No, no, not at all! I’m sexy, I got it."
+    mc "不不不，没有！我很性感，明白了。"
 
 # game/bar.rpy#L1198
 translate chinese barvisit2_d18f5f1e:
 
     # mc "So what’s on the agenda today, and how is this slave thing going to play out?"
-    mc "So what’s on the agenda today, and how is this slave thing going to play out?"
+    mc "所以今天要做什么呢，还有这个奴隶你打算怎么做？"
 
 # game/bar.rpy#L1200
 translate chinese barvisit2_04fa2cc4:
 
     # riku "Slave…?"
-    riku "Slave…?"
+    riku "奴隶……？"
 
 # game/bar.rpy#L1202
 translate chinese barvisit2_94d261e7:
 
     # riku "Awhh man, I forgot! Don’t tell me I forfeit that to you at some point during the evening?"
-    riku "Awhh man, I forgot! Don’t tell me I forfeit that to you at some point during the evening?"
+    riku "啊操，我忘了！别跟我说那天晚上某个时间点我输给你了？"
 
 # game/bar.rpy#L1204
 translate chinese barvisit2_2713e5d1:
 
     # riku "I’m such a dumbass, I was supposed to make you my slave, not the other way around. How the hell did drunk me give up so easily?"
-    riku "I’m such a dumbass, I was supposed to make you my slave, not the other way around. How the hell did drunk me give up so easily?"
+    riku "我真是个呆瓜，我该让你变成我的奴隶，可不是反过来的。我断片的时候怎么这么容易就放弃了？"
 
 # game/bar.rpy#L1205
 translate chinese barvisit2_11fa945a:
 
     # mc "You were so sleepy after the last dare, that’s probably what did it."
-    mc "You were so sleepy after the last dare, that’s probably what did it."
+    mc "在最后一个大冒险之后你太嗜睡了，或许这就是原因。"
 
 # game/bar.rpy#L1206
 translate chinese barvisit2_c4ca538e:
 
     # riku "Ahh… Yeah that was it, I get sleepy after an orgasm, I probably didn’t even realize I was agreeing to the slave thing."
-    riku "Ahh… Yeah that was it, I get sleepy after an orgasm, I probably didn’t even realize I was agreeing to the slave thing."
+    riku "啊……是啊，应该吧，我在一次高潮之后昏昏欲睡，我甚至都不记得我同意去当奴隶这档子事了。"
 
 # game/bar.rpy#L1207
 translate chinese barvisit2_a4a0c2b1:
 
     # riku "It was probably one of those situations where I would have just nodded and agreed with anything and just tried to sleep."
-    riku "It was probably one of those situations where I would have just nodded and agreed with anything and just tried to sleep."
+    riku "可能就是我只是想躺倒睡觉，并点头同意任何事的情况之一吧。"
 
 # game/bar.rpy#L1208
 translate chinese barvisit2_c6602ff6:
 
     # mc "Yup, you didn’t just lose, you agreed to be my slave."
-    mc "Yup, you didn’t just lose, you agreed to be my slave."
+    mc "是滴，你不光输了，还同意当我的奴隶。"
 
 # game/bar.rpy#L1209
 translate chinese barvisit2_21bd245a:
 
     # riku "How aggravating, I could have beaten you in that game, easily!"
-    riku "How aggravating, I could have beaten you in that game, easily!"
+    riku "多么可恶啊！我本可以在那场比赛中打败你，轻松的很！"
 
 # game/bar.rpy#L1210
 translate chinese barvisit2_8695641f:
 
     # riku "I clearly wasn’t feeling myself, I let you off easy."
-    riku "I clearly wasn’t feeling myself, I let you off easy."
+    riku "我显然是不在状态，让你随便就赢了。"
 
 # game/bar.rpy#L1211
 translate chinese barvisit2_d23a3526:
 
     # mc "Sounds like you really wanted me to be your slave."
-    mc "Sounds like you really wanted me to be your slave."
+    mc "看来你真的想让我当你的奴隶。"
 
 # game/bar.rpy#L1213
 translate chinese barvisit2_6aa8ac3d:
 
     # riku "Kinda, I thought it’d be fun."
-    riku "Kinda, I thought it’d be fun."
+    riku "有点吧，觉着那挺好玩的。"
 
 # game/bar.rpy#L1214
 translate chinese barvisit2_05a9cd45:
 
     # riku "But now it looks like I’m the one that has to follow all your orders, which could be fun too…"
-    riku "But now it looks like I’m the one that has to follow all your orders, which could be fun too…"
+    riku "现在似乎我才是那个要遵守你命令的，或许也很有趣……"
 
 # game/bar.rpy#L1215
 translate chinese barvisit2_66023f4d:
 
     # mc "So, I can give you orders?"
-    mc "So, I can give you orders?"
+    mc "所以，我能向你发号施令吗？"
 
 # game/bar.rpy#L1216
 translate chinese barvisit2_f5f81524:
 
     # riku "Yup, fair and square, I’ll do anything you want..."
-    riku "Yup, fair and square, I’ll do anything you want..."
+    riku "是啊，光明正大的，我会做你想让我做的任何事……"
 
 # game/bar.rpy#L1217
 translate chinese barvisit2_cd60b427:
 
     # mc "Anything?"
-    mc "Anything?"
+    mc "任何事？"
 
 # game/bar.rpy#L1219
 translate chinese barvisit2_19171504:
 
     # riku "Anything for you…"
-    riku "Anything for you…"
+    riku "你想干什么都行的……"
 
 # game/bar.rpy#L1220
 translate chinese barvisit2_ac453728:
 
     # "Hmm… So, what would we do today If it was a normal day?"
-    "Hmm… So, what would we do today If it was a normal day?"
+    "嗯……所以要是今天是正常的一天，我们又要做什么呢？"
 
 # game/bar.rpy#L1221
 translate chinese barvisit2_ca3c1172:
 
     # "We would go to the gym, then we’d come back here to work, and then we’d probably have some fun."
-    "We would go to the gym, then we’d come back here to work, and then we’d probably have some fun."
+    "我们会去健身房，然后回到这里干活，接下来或许会找点乐子玩。"
 
 # game/bar.rpy#L1222
 translate chinese barvisit2_454bbf4e:
 
     # "But what if I were to radically change that course of events? I could do anything right now."
-    "But what if I were to radically change that course of events? I could do anything right now."
+    "但是，如果我急剧扭转事件的进程呢？我现在可以做任何事情。"
 
 # game/bar.rpy#L1223
 translate chinese barvisit2_f7f4f2d9:
 
     # mc "Alright, how about we ditch this joint and head to the boutique to get you some proper slave clothes?"
-    mc "Alright, how about we ditch this joint and head to the boutique to get you some proper slave clothes?"
+    mc "好吧，我们离开这个地方，去精品店给你买一些合适的奴隶衣服，怎么样？"
 
 # game/bar.rpy#L1225
 translate chinese barvisit2_19584446:
 
     # riku "Wha? What do you mean by slave clothes?"
-    riku "Wha? What do you mean by slave clothes?"
+    riku "啥？奴隶衣物是什么意思？"
 
 # game/bar.rpy#L1226
 translate chinese barvisit2_33805ea0:
 
     # mc "You’ll see, I’m sure I can pick you out a nice outfit."
-    mc "You’ll see, I’m sure I can pick you out a nice outfit."
+    mc "你会明白的，我肯定能给你挑一套漂亮的衣服."
 
 # game/bar.rpy#L1227
 translate chinese barvisit2_4681351c:
 
     # riku "Hmph, I don’t know what you’re planning, but by the sounds of it I should call Velour to cover my shift."
-    riku "Hmph, I don’t know what you’re planning, but by the sounds of it I should call Velour to cover my shift."
+    riku "嗯，我不知道你在计划什么，但听上去我应该叫Velour来替我值班。"
 
 # game/bar.rpy#L1230
 translate chinese barvisit2_ce617998:
 
     # "…"
-    "…"
+    "..."
 
 # game/bar.rpy#L1232
 translate chinese barvisit2_9e1659bf:
 
     # "She makes a quick call and we leave the bar, today is going to be a wild adventure!"
-    "She makes a quick call and we leave the bar, today is going to be a wild adventure!"
+    "她打了个电话，我们离开了酒吧，今天将是一个疯狂的冒险"
 
 # game/bar.rpy#L1236
 translate chinese barvisit2_1352f403:
 
     # riku "No gym today?"
-    riku "No gym today?"
+    riku "今天不去健身房？"
 
 # game/bar.rpy#L1237
 translate chinese barvisit2_d2bb8679:
 
     # mc "Don’t worry, you’ll still get your workout."
-    mc "Don’t worry, you’ll still get your workout."
+    mc "别担心，你还是会得到锻炼的。"
 
 # game/bar.rpy#L1239
 translate chinese barvisit2_fa3bcb13:
 
     # riku "Uuu, the heck is that supposed to mean?!"
-    riku "Uuu, the heck is that supposed to mean?!"
+    riku "呜呜呜，这到底是什么意思？！"
 
 # game/bar.rpy#L1247
 translate chinese barvisit2_f177792a:
 
     # riku "Uhh, really?"
-    riku "Uhh, really?"
+    riku "呃，你说真的吗？"
 
 # game/bar.rpy#L1248
 translate chinese barvisit2_86d1a940:
 
     # mc "No, not really."
-    mc "No, not really."
+    mc "不，不是真的。"
 
 # game/bar.rpy#L1249
 translate chinese barvisit2_7218ccec:
 
     # mc "There’s no fun in telling you everything."
-    mc "There’s no fun in telling you everything."
+    mc "把一切都告诉你可没意思"
 
 # game/bar.rpy#L1251
 translate chinese barvisit2_ff46524e:
 
     # riku "Pfft, I’m still going to be difficult and sassy, even while I’m doing your orders."
-    riku "Pfft, I’m still going to be difficult and sassy, even while I’m doing your orders."
+    riku "切，就算我做了你的命令，我也依旧不会那么听从的。"
 
 # game/bar.rpy#L1252
 translate chinese barvisit2_52620476:
 
     # "When did she become so tsundere? I guess that isn’t the right word, she’s being a brat because I’m about to make her do tons of embarrassing stuff."
-    "When did she become so tsundere? I guess that isn’t the right word, she’s being a brat because I’m about to make her do tons of embarrassing stuff."
+    "她什么时候变得这么傲娇了？我想这个词不对，因为我要让她做很多尴尬的事，她这是要当个混球。"
 
 # game/bar.rpy#L1254
 translate chinese barvisit2_2658859b:
 
     # "The two of us arrive at the boutique, right as it opens."
-    "The two of us arrive at the boutique, right as it opens."
+    "我们俩就在精品店刚开门的时候到了。"
 
 # game/bar.rpy#L1256
 translate chinese barvisit2_dbd6c35b:
 
     # "I’m glad I helped out at the boutique before, with the dress bought and prepared, the trap is set!"
-    "I’m glad I helped out at the boutique before, with the dress bought and prepared, the trap is set!"
+    "我很高兴我以前在精品店帮过忙，买了衣服并且准备好了，陷阱已经就绪！"
 
 # game/bar.rpy#L1269
 translate chinese barvisit2_34a8136a:
 
     # "We step inside the boutique shop floor and we’re greeted by Ruby. Riku seems somewhat cheerful right now, let’s see how long that lasts."
-    "We step inside the boutique shop floor and we’re greeted by Ruby. Riku seems somewhat cheerful right now, let’s see how long that lasts."
+    "我们走进精品店，迎接我们的是Ruby。Riku现在似乎有点高兴，让我们看看能持续多久。"
 
 # game/bar.rpy#L1270
 translate chinese barvisit2_822125d0:
 
     # riku "Hey Ruby, how’s life treating you?"
-    riku "Hey Ruby, how’s life treating you?"
+    riku "嘿，Ruby，近来过得怎么样？"
 
 # game/bar.rpy#L1272
 translate chinese barvisit2_1fe6aa86:
 
     # ruby "Wonderful darlings, and how are you two on this lovely morning?"
-    ruby "Wonderful darlings, and how are you two on this lovely morning?"
+    ruby "很妙啊，亲爱的，还有，你们俩在这个明媚的早晨要做什么呢？"
 
 # game/bar.rpy#L1273
 translate chinese barvisit2_45f35d90:
 
     # riku "That depends on what he says."
-    riku "That depends on what he says."
+    riku "那要看他说什么了。"
 
 # game/bar.rpy#L1274
 translate chinese barvisit2_9d652fb8:
 
     # mc "Well, Riku and I are looking for a particular outfit."
-    mc "Well, Riku and I are looking for a particular outfit."
+    mc "嗯，Riku和我在找一套特别的衣服。"
 
 # game/bar.rpy#L1277
 translate chinese barvisit2_b200082f:
 
     # ruby "Is that so? I’d be more than happy to help, [playername]."
-    ruby "Is that so? I’d be more than happy to help, [playername]."
+    ruby "是这样吗？我很乐意帮忙，[playername]。"
 
 # game/bar.rpy#L1279
 translate chinese barvisit2_0331b37b:
 
     # ruby "Hmm… But this boutique makes a specific selection of clothes, I don’t know if they would really suit Riku."
-    ruby "Hmm… But this boutique makes a specific selection of clothes, I don’t know if they would really suit Riku."
+    ruby "嗯…但是这家精品店有特别的衣服可供选择，我不知道它们是否真的适合Riku。"
 
 # game/bar.rpy#L1281
 translate chinese barvisit2_dc3632f0:
 
     # riku "You’re totally right Ruby, you said it first."
-    riku "You’re totally right Ruby, you said it first."
+    riku "你说得对，Ruby，你先说的。"
 
 # game/bar.rpy#L1282
 translate chinese barvisit2_0aff8710:
 
     # riku "Love your stuff, totally not my style though."
-    riku "Love your stuff, totally not my style though."
+    riku "我喜欢你的东西，但这不合我的风格。"
 
 # game/bar.rpy#L1283
 translate chinese barvisit2_3a04d809:
@@ -4748,13 +4748,13 @@ translate chinese barvisit2_a2dff136:
 translate chinese barvisit2_a1433610:
 
     # ruby "My, my, are you just going to pretend you haven’t shopped here before, Riku?"
-    ruby "My, my, are you just going to pretend you haven’t shopped here before, Riku?"
+    ruby "天哪，天哪，你是不是要假装你以前没有在这里购过物，Riku？"
 
 # game/bar.rpy#L1288
 translate chinese barvisit2_d3385bfb:
 
     # riku "Shut up! I have not!"
-    riku "Shut up! I have not!"
+    riku "住口！我还没有！"
 
 # game/bar.rpy#L1290
 translate chinese barvisit2_2dfdb445:
@@ -4778,19 +4778,19 @@ translate chinese barvisit2_3bc8f7ce:
 translate chinese barvisit2_1820e113:
 
     # riku "Meh, what about a dress?"
-    riku "Meh, what about a dress?"
+    riku "嗯，裙子呢？"
 
 # game/bar.rpy#L1295
 translate chinese barvisit2_b25deaaf:
 
     # mc "I’d like a maid dress."
-    mc "I’d like a maid dress."
+    mc "我想要一件女仆装。"
 
 # game/bar.rpy#L1297
 translate chinese barvisit2_b44b6545:
 
     # ruby "Ohoho, really? Delightful!"
-    ruby "Ohoho, really? Delightful!"
+    ruby "哦哦，真的吗？祝你愉快！"
 
 # game/bar.rpy#L1298
 translate chinese barvisit2_a8842a1a:
@@ -4814,13 +4814,13 @@ translate chinese barvisit2_62bc10b6:
 translate chinese barvisit2_1af2f76d:
 
     # "Ahaha, I love this girl."
-    "Ahaha, I love this girl."
+    "哈哈，我喜欢这个女孩。"
 
 # game/bar.rpy#L1303
 translate chinese barvisit2_47160ff1:
 
     # mc "You serious? I think that’s a great offer, what do you think Riku?"
-    mc "You serious? I think that’s a great offer, what do you think Riku?"
+    mc "你是认真的？我认为这是一个很好的提议，你觉得呢 Riku？"
 
 # game/bar.rpy#L1304
 translate chinese barvisit2_533269e5:
@@ -11186,13 +11186,13 @@ translate chinese eveningbarmenu_af110aa6:
 translate chinese eveningbarmenu_326845ef:
 
     # "The two of us are utterly satisfied."
-    "The two of us are utterly satisfied."
+    "我们两个都很满意。"
 
 # game/bar.rpy#L3251
 translate chinese eveningbarmenu_8aca4990:
 
     # midna "Mmm, I like my new master..."
-    midna "Mmm, I like my new master..."
+    midna "嗯嗯，我喜欢我的新主人...."
 
 # game/bar.rpy#L3252
 translate chinese eveningbarmenu_30462872:
@@ -11456,7 +11456,7 @@ translate chinese eveningbarmenu_c8a08ffd_1:
 translate chinese eveningbarmenu_7a18d4b3_1:
 
     # midna "Aaahhh! I-I'm coming master! Aaahhhh!"
-    midna "Aaahhh! I-I'm coming master! Aaahhhh!"
+    midna "啊哈哈！我、我来了主人！啊啊啊哈哈哈！"
 
 # game/bar.rpy#L3319
 translate chinese eveningbarmenu_20faa757_1:
@@ -11624,7 +11624,7 @@ translate chinese eveningbarmenu_c4ac684a:
 translate chinese eveningbarmenu_14924e89:
 
     # "One hour later..."
-    "One hour later..."
+    "一小时后...."
 
 # game/bar.rpy#L3402
 translate chinese eveningbarmenu_ef7f772d:
@@ -12056,7 +12056,7 @@ translate chinese eveningbarmenu_3a332e7a:
 translate chinese eveningbarmenu_d373a010:
 
     # butters "Yeah, yeah! I want more!"
-    butters "Yeah, yeah! I want more!"
+    butters "是啊是啊！我想要更多！"
 
 # game/bar.rpy#L3527
 translate chinese eveningbarmenu_de459029:
@@ -12074,7 +12074,7 @@ translate chinese eveningbarmenu_f639b52c:
 translate chinese eveningbarmenu_ef0bfee3:
 
     # butters "Ohh, ohh, my head..."
-    butters "Ohh, ohh, my head..."
+    butters "哦啊啊我的头..."
 
 # game/bar.rpy#L3542
 translate chinese eveningbarmenu_53b96112:
@@ -12986,7 +12986,7 @@ translate chinese doubledoggo_c330553f:
 translate chinese doubledoggo_ee3e2889:
 
     # doggirl "Is that an offer? Hehe."
-    doggirl "Is that an offer? Hehe."
+    doggirl "那是优惠吗？压力马斯内"
 
 # game/bar.rpy#L3834
 translate chinese doubledoggo_8ed30fc7:
@@ -13040,13 +13040,13 @@ translate chinese doubledoggo_7c59675e:
 translate chinese doubledoggo_2e063427:
 
     # doggirl "Oohh Aurora, f---fuuuuck! Ahh, ahhh…"
-    doggirl "Oohh Aurora, f---fuuuuck! Ahh, ahhh…"
+    doggirl "Oohh Aurora 该...该死的！ 啊哈哈，啊哈哈哈..."
 
 # game/bar.rpy#L3843
 translate chinese doubledoggo_b1cb531e:
 
     # wolfgirl "Hehe, she’s coming so hard. It’s so cute!"
-    wolfgirl "Hehe, she’s coming so hard. It’s so cute!"
+    wolfgirl "嘿嘿，她来劲儿了。她真可爱！"
 
 # game/bar.rpy#L3844
 translate chinese doubledoggo_3fb0bf4b:
@@ -13118,19 +13118,19 @@ translate chinese doubledoggo_d3ceef9c:
 translate chinese doubledoggo_7247eec1:
 
     # wolfgirl "Mmmpmhh, I’m sleepy…"
-    wolfgirl "Mmmpmhh, I’m sleepy…"
+    wolfgirl "嗯嗯，我困了……"
 
 # game/bar.rpy#L3867
 translate chinese doubledoggo_8f283e10:
 
     # doggirl "Let’s snuggglleeee…"
-    doggirl "Let’s snuggglleeee…"
+    doggirl "让我们依偎……"
 
 # game/bar.rpy#L3872
 translate chinese doubledoggo_2d4093ae:
 
     # "The three of us snuggle together, soon falling into a deep sleep."
-    "The three of us snuggle together, soon falling into a deep sleep."
+    "我们三个依偎在一起，很快就陷入了沉睡。"
 
 # game/bar.rpy#L3873
 translate chinese doubledoggo_d51c629b:
@@ -13250,7 +13250,7 @@ translate chinese strings:
 
     # game/bar.rpy_L1240_2
     old "I’m going to put you in a jar and jack off into it"
-    new "I’m going to put you in a jar and jack off into it"
+    new "我要把你装进罐子里，做活塞运动"
 
     # game/bar.rpy_L1356_0
     old "Damn Ruby, you were right, the clothing really does accentuate her ass."
@@ -13322,7 +13322,7 @@ translate chinese strings:
 
     # game/bar.rpy_L2346_1
     old "Sideways Sofa Sex"
-    new "Sideways Sofa Sex"
+    new "沙发侧身位做爱"
 
     # game/bar.rpy_L2346_2
     old "Anal Ride"

@@ -428,7 +428,7 @@ translate chinese strings:
 
     # game/y-screens.rpy_L1711_0
     old "{color=#00000000}I should visit the cottage{p} in the forest.{/color}"
-    new "{color=#00000000}I should visit the cottage{p} in the forest.{/color}"
+    new "{color=#00000000}我应该去看看在在森林里的小屋{p}{/color}"
 
     # game/y-screens.rpy_L1715_0
     old "{color=#00000000}I should buy Butters some {p}gifts to raise her affection.{/color}"
@@ -448,7 +448,7 @@ translate chinese strings:
 
     # game/y-screens.rpy_L1755_0
     old "{color=#00000000}I should visit Selene at {p}night.{/color}"
-    new "{color=#00000000}I should visit Selene at {p}night.{/color}"
+    new "{color=#00000000}我应该在晚上去看看Selene。{/color}"
 
     # game/y-screens.rpy_L1759_0
     old "{color=#00000000}Complete Library, Forest {p}and Bar.{/color}"
@@ -468,15 +468,15 @@ translate chinese strings:
 
     # game/y-screens.rpy_L1795_0
     old "{color=#00000000}Visit the deep forest at {p}night.{/color}"
-    new "{color=#00000000}Visit the deep forest at {p}night.{/color}"
+    new "{color=#00000000}前往深入丛林 在晚上.{/color}"
 
     # game/y-screens.rpy_L1799_0
     old "{color=#00000000}Buy all of the equipment {p}for Butters.{/color}"
-    new "{color=#00000000}Buy all of the equipment {p}for Butters.{/color}"
+    new "{color=#00000000}给Butters购买所有装备{/color}"
 
     # game/y-screens.rpy_L1810_0
     old "{color=#00000000}Visit the market place and {p}flirt with the orange mare a{p} few times.{/color}"
-    new "{color=#00000000}Visit the market place and {p}flirt with the orange mare a{p} few times.{/color}"
+    new "{color=#00000000}参观市场与橙色母马调情几次.{/color}"
 
     # game/y-screens.rpy_L1814_0
     old "{color=#00000000}Visit Sonia and Agatha at {p} the nightclub.{/color}"
@@ -508,7 +508,7 @@ translate chinese strings:
 
     # game/y-screens.rpy_L1859_0
     old "{color=#00000000}Visit the castle during the {p}day.{/color}"
-    new "{color=#00000000}Visit the castle during the {p}day.{/color}"
+    new "{color=#00000000}在白天参观城堡.{/color}"
 
     # game/y-screens.rpy_L1883_0
     old "Moxie's Satchel:"

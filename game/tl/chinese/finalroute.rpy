@@ -830,37 +830,37 @@ translate chinese cforest_d87df5d3:
 translate chinese cforest_5f419432:
 
     # butters "[playername], I think the only choice we have right now is for you to also drink the potion that cured me!"
-    butters "[playername], I think the only choice we have right now is for you to also drink the potion that cured me!"
+    butters "[playername]，现在估计我们唯一的选择就是你也喝下治愈我的药水。"
 
 # game/finalroute.rpy#L473
 translate chinese cforest_0347a3f2:
 
     # "Butters, who has a habit of always making two servings per brew, hands me her last ‘Succubus Cure’ potion."
-    "Butters, who has a habit of always making two servings per brew, hands me her last ‘Succubus Cure’ potion."
+    "一向一次酿两瓶药的Butters递给了我她最后的‘魅魔之愈’药剂。"
 
 # game/finalroute.rpy#L474
 translate chinese cforest_323aa29f:
 
     # mc "I don’t understand, what’s the point in removing this spell? That’ll remove the spell from me, but it won’t fix anyone else."
-    mc "I don’t understand, what’s the point in removing this spell? That’ll remove the spell from me, but it won’t fix anyone else."
+    mc "我不明白，这药要咋解除这魔咒呢？能是能解除我身上的魔咒，可对别马无效啊。"
 
 # game/finalroute.rpy#L476
 translate chinese cforest_b864b00d:
 
     # butters "Well [playername]… This potion cured me, right? But how long has it been since I digested it? Quite a while! The potion remained in my system and cured me of both curses."
-    butters "Well [playername]… This potion cured me, right? But how long has it been since I digested it? Quite a while! The potion remained in my system and cured me of both curses."
+    butters "额[playername]...这药剂治好了我，对吧？而它都入胃多久啦？很长段时间了！药效在我身上一直持续还愈除了我的两种诅咒。"
 
 # game/finalroute.rpy#L477
 translate chinese cforest_5ef1eacd:
 
     # butters "My theory to explain this phenomenon is that when you digest this potion, it has a constant cleansing effect around the genitals."
-    butters "My theory to explain this phenomenon is that when you digest this potion, it has a constant cleansing effect around the genitals."
+    butters "我解释这种现象的理论是，当你消化这种药剂时，它对生殖器周围有持续的净化作用。"
 
 # game/finalroute.rpy#L478
 translate chinese cforest_535c8151:
 
     # butters "A powerful cleansing effect too! We had sex quite a few times and I'm completely fine."
-    butters "A powerful cleansing effect too! We had sex quite a few times and I'm completely fine."
+    butters "一个强大的清洁效果！我们做爱了好几次并且我还很好。"
 
 # game/finalroute.rpy#L479
 translate chinese cforest_9ad879db:
@@ -878,7 +878,7 @@ translate chinese cforest_da4a160c:
 translate chinese cforest_58e8a52d:
 
     # mc "If this cleansing effect idea is true, then you should have cured me."
-    mc "If this cleansing effect idea is true, then you should have cured me."
+    mc "如果这个关于净化效果的想法是真的，那你应该已经治愈我了。"
 
 # game/finalroute.rpy#L482
 translate chinese cforest_e74b0aec:

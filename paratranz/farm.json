@@ -1637,14 +1637,14 @@
   {
     "id": 79434194,
     "createdAt": "2021-05-30T17:55:39.000Z",
-    "updatedAt": "2021-06-18T17:45:13.000Z",
+    "updatedAt": "2021-07-06T11:50:15.000Z",
     "key": "farmvisit1_839a90be",
     "original": "She’s not wasting any time as she marches ahead, doesn’t look like she’ll let her injury slow her down even a little, I follow briskly from behind.",
-    "translation": "",
+    "translation": "在她前进之时不会浪费任何一点时间，当然伤病也不能阻挡她分毫，我轻轻的走在她的身后。",
     "file": 272347,
-    "stage": 0,
+    "stage": 1,
     "project": 2414,
-    "uid": null,
+    "uid": 22389,
     "extra": null,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L256",
     "words": 27

@@ -26,7 +26,7 @@ translate chinese eveningmoxie2menu_cd7fccc0:
 translate chinese eveningmoxie2menu_b1bb12e5:
 
     # mc "By the way, these chocolates here, they're for you."
-    mc "顺带一提，这儿的这些巧克力是为你准备的。"
+    mc "顺带一提，这些巧克力是为你准备的。"
 
 # game/2evening%20moxie.rpy#L47
 translate chinese eveningmoxie2menu_9211ecec:
@@ -1904,7 +1904,7 @@ translate chinese moxietalk_7fba80a7:
 translate chinese moxietalk_4522bf32:
 
     # moxie "I won't hold it against you in our little challenge though, hehe."
-    moxie "不过我不会在我们的小挑战中针对你的，呵呵。"
+    moxie "不过我不会在我们的小挑战中针对你的，哈哈。"
 
 # game/2evening%20moxie.rpy#L913
 translate chinese moxietalk_c139ccb3:
@@ -2060,7 +2060,7 @@ translate chinese moxietalkmenu_8e477014:
 translate chinese moxietalkmenu_7c474cf7:
 
     # moxie "At the Arcadian college you can study cosmic magic, mystical magic, alteration magic, and white magic."
-    moxie "在Arcadia学院，你可以学习宇宙魔法，神秘魔法，变化魔法和白魔法。"
+    moxie "在Arcadia学院，你可以学习宇宙魔法，神秘魔法，变形魔法和白魔法。"
 
 # game/2evening%20moxie.rpy#L979
 translate chinese moxietalkmenu_2cbae864:
@@ -2072,7 +2072,7 @@ translate chinese moxietalkmenu_2cbae864:
 translate chinese moxietalkmenu_bd2b93d5:
 
     # moxie "I bet there are other types too, but alteration is the most common form of magic, as you can imagine the uses for that are quite extreme."
-    moxie "我希望也有其他的种类，但是变形是的最常见的魔法形态，因为你可以想象那个魔法的用途是十分极端的。"
+    moxie "我敢打赌还有其他类型的魔法，但是变形是最常见的魔法形态，你可以想象变形魔法的用途是十分广泛的。"
 
 # game/2evening%20moxie.rpy#L985
 translate chinese moxietalkmenu_30ad2789:
@@ -2336,13 +2336,13 @@ translate chinese moxiemagictalk_6f1f26bb:
 translate chinese moxiemagictalk_d4ce57f1:
 
     # moxie "Sure thing. I come from a village far to the east. I was travelling and performing all across the country on my way to Arcadia, where I wanted to settle."
-    moxie "当然。我来自东部的一个村庄。我在前往Arcadia的旅途上不断表演，我想到那里定居。"
+    moxie "当然。我来自一个遥远的东部村庄。我在前往Arcadia的旅途上不断演出，因为我想到这里定居。"
 
 # game/2evening%20moxie.rpy#L1083
 translate chinese moxiemagictalk_096569cf:
 
     # moxie "It was genius in retrospect; I'd perform my shows and live off the road using the money."
-    moxie "现在再想想过去，我一直进行着我的表演秀，靠赚来的钱就直接住在路边。"
+    moxie "说起来，这真是天才的想法；我用表演赚钱，用赚来的钱在路上生活"
 
 # game/2evening%20moxie.rpy#L1084
 translate chinese moxiemagictalk_d000a6ef:
@@ -2354,13 +2354,13 @@ translate chinese moxiemagictalk_d000a6ef:
 translate chinese moxiemagictalk_8df5565a:
 
     # moxie "Before that I was at school, I'm only just nineteen I'll have you know."
-    moxie "在那之前我一直在学校，我这次要让你知道我才19岁呢。"
+    moxie "在那之前我还在上学，告诉你，我才十九岁呢"
 
 # game/2evening%20moxie.rpy#L1090
 translate chinese moxiemagictalk_664f962a:
 
     # moxie "I lived in Sylvania and grew up with a single mother. There was no father, I was born through magic, so I guess that means I'm a clone of my mom."
-    moxie "我和我的单亲母亲住在Sylvania并从那里长大，我没有父亲，我是通过魔法出生的\n所以，我猜这意味着我是一个和我母亲基因相同的克隆马"
+    moxie "我和我的单亲母亲住在Sylvania并在那里长大，我没有父亲，我是通过魔法出生的\n所以，我猜这意味着我是一个和我母亲基因相同的克隆马"
 
 # game/2evening%20moxie.rpy#L1095
 translate chinese moxiemagictalk_a065a0bf:
@@ -2450,7 +2450,7 @@ translate chinese moxiemagictalk_31d4a31b:
 translate chinese moxiemagictalk_4a14fbc8:
 
     # moxie "Before I knew it, I had a gang of friends including all those that you're working for."
-    moxie "在我知道这之前，我有一帮朋友包括你服务的所有马"
+    moxie "不知不觉，我就有了一帮朋友，包括所有你正为之工作的马"
 
 # game/2evening%20moxie.rpy#L1131
 translate chinese moxiemagictalk_06d7903d:

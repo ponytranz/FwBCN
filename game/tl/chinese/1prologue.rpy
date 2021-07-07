@@ -368,7 +368,7 @@ translate chinese prologueday1_5a40b387:
 translate chinese prologueday1_88b35aeb:
 
     # moxie "You really think so? I cast the right spell and just made a 'super familiar'? Maybe Penelope was onto something."
-    moxie "你真这么觉得？我施了正确的咒语，然后做出了一个‘超级随从’？也许Penelope在书里加了什么。"
+    moxie "你真这么觉得？我施了正确的咒语，然后做出了一个“超级傀儡”？也许Penelope在书里加了什么。"
 
 # game/1prologue.rpy#L140
 translate chinese prologueday1_736a18cb:
@@ -476,7 +476,7 @@ translate chinese prologueday1_60c0b850:
 translate chinese prologueday1_6ac3b2e6:
 
     # moxie "That was just a small power fantasy I'd have over a magical familiar, not some real 'human' dude."
-    moxie "那不过是我关于找一个魔法随从做的小小白日梦罢了，跟什么真实存在的“人类”伙计无关。"
+    moxie "那不过是我关于找一个魔法傀儡做的小小白日梦罢了，跟什么真实存在的“人类”伙计无关。"
 
 # game/1prologue.rpy#L171
 translate chinese prologueday1_afbda620:
@@ -1844,7 +1844,7 @@ translate chinese prologueday2_a694e026:
 translate chinese prologueday2_617c6e24:
 
     # penelope "Heyy Mox, you brought a... familiar...? What the heck is that thing... I can already see that this one is mostly bad news, right?"
-    penelope "嘿，Mox，你带了...一个随从...？那到底是什么东西...我已经知道这是个坏消息了，对吧？"
+    penelope "嘿，Mox，你带了...一个傀儡...？那到底是什么东西...我已经知道这是个坏消息了，对吧？"
 
 # game/1prologue.rpy#L575
 translate chinese prologueday2_a698980a:
@@ -1874,7 +1874,7 @@ translate chinese prologueday2_596d3327:
 translate chinese prologueday2_1b9fa797:
 
     # moxie "Oh, he’s not so bad, he’s my familiar! From that spell you told me about, remember? I totally nailed it, I blew that spell’s expectations out of the water, he can talk!"
-    moxie "哦，他没那么糟，他是我的随从！就你告诉我的那个咒语，记得吗？我完美的成功了，这个咒语完全超出了我的预期，他能说话！"
+    moxie "哦，他没那么糟，是我的傀儡嘛！就你告诉我的那个咒语，记得吗？我完美的成功了，这个咒语完全超出了我的预期，他能说话！"
 
 # game/1prologue.rpy#L583
 translate chinese prologueday2_c49b9c9e:
@@ -1910,7 +1910,7 @@ translate chinese prologueday2_b805c829:
 translate chinese prologueday2_f597253e:
 
     # moxie "Ahaha, ha… yeah, maybe... Look though, this is so much better than a familiar, I was serious when I said he can talk!"
-    moxie "啊哈哈，哈……是啊，也许吧……不过你看，这比可比一般的随从好多了，我说他会说话是认真的！"
+    moxie "啊哈哈，哈……是啊，也许吧……不过你看，这比可比一般的傀儡好多了，我说他会说话是认真的！"
 
 # game/1prologue.rpy#L593
 translate chinese prologueday2_819b4b19:
@@ -1964,7 +1964,7 @@ translate chinese prologueday2_ab60e6db:
 translate chinese prologueday2_303a0c7a:
 
     # penelope "You… tried to summon a familiar and this person appeared? Moxie, Moxie… I thought this might have been a trick, but… if I were to believe you, this is incredible!"
-    penelope "你......你想召唤一只随从，然后这个人就蹦出来了？Moxie，Moxie......我肯定会把这看做是个恶作剧的，但......但如果我相信你的话，那这一切也太不可思议了！"
+    penelope "你......你想召唤一只傀儡，然后这个人就蹦出来了？Moxie，Moxie......我肯定会把这看做是个恶作剧的，但......但如果我相信你的话，那这一切也太不可思议了！"
 
 # game/1prologue.rpy#L611
 translate chinese prologueday2_6da3de04:
@@ -2000,7 +2000,7 @@ translate chinese prologueday2_f23d831b:
 translate chinese prologueday2_30480d72:
 
     # penelope "Familiars aren't supposed to be permanent, they're supposed to disappear after a while, but our friend here has stuck around."
-    penelope "随从不会永远存在，他们总有一天会离去，但是我们的朋友将会陪伴到永远。"
+    penelope "傀儡不会永远存在，他们总有一天会离去，但是我们的朋友将会陪伴到永远。"
 
 # game/1prologue.rpy#L632
 translate chinese prologueday2_7563db6c:
@@ -2030,13 +2030,13 @@ translate chinese prologueday2_26945287:
 translate chinese prologueday2_83a30eb9:
 
     # penelope "I think we should forget everything we know about the familiar spell; this is a different spell entirely. I don’t even think it’s in the same category of magic, it could be cosmic magic..."
-    penelope "我认为我们应该忘记我们所知道的关于熟悉的咒语的一切； 这是一个完全不同的咒语。 我甚至不认为它属于同一类魔法，它可能是宇宙魔法……"
+    penelope "我认为我们应该忘记我们所知道的关于傀儡咒语的一切； 这是一个完全不同的咒语。 我甚至不认为它属于同一类魔法，它可能是宇宙魔法……"
 
 # game/1prologue.rpy#L639
 translate chinese prologueday2_b3929a5d:
 
     # moxie "What makes you say that? Whether creating a familiar or a summoning a [playername], the end result totally has the same effect."
-    moxie "你为什么这么说？无论是创造随从还是召唤[playername]，最终的效果都是一样的。"
+    moxie "你为什么这么说？无论是创造傀儡还是召唤[playername]，最终的效果都是一样的。"
 
 # game/1prologue.rpy#L641
 translate chinese prologueday2_665a84c2:
