@@ -374,7 +374,7 @@ translate chinese rubymaidmenu1_5902729f:
 translate chinese rubymaidmenu1_b8ee6eb8:
 
     # "It must be hard making waves in a clothing industry when no one wears clothes..."
-    "这里没人穿衣服，在服装业发展肯定不容易……"
+    "这里没马穿衣服，在服装业发展肯定不容易……"
 
 # game/boutique.rpy#L123
 translate chinese rubymaidmenu1_ec1b0d61:

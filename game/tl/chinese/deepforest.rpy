@@ -2804,7 +2804,7 @@ translate chinese zoelum_0ea25d4b:
 translate chinese zoelum_e99e5884:
 
     # alraune "Ahh, haaahhh… Ahhhh… This feels far too good… Like… I can’t tell who’s more drunk on arousal, you or me."
-    alraune "Ahh, haaahhh… Ahhhh… This feels far too good… Like… I can’t tell who’s more drunk on arousal, you or me."
+    alraune "Ahh, haaahhh… Ahhhh…我简直爽上天了，就是…我都分不清我们俩谁更沉醉于欲望了"
 
 # game/deepforest.rpy#L895
 translate chinese zoelum_5269ca4e:
@@ -3134,7 +3134,7 @@ translate chinese zoelum_b9838272:
 translate chinese zoelum_9dfe25af:
 
     # "So I end up going back home to sleep."
-    "So I end up going back home to sleep."
+    "所以我最终回家睡觉。"
 
 # game/deepforest.rpy#L994
 translate chinese zoelum_9d055fa7:
@@ -3446,7 +3446,7 @@ translate chinese werewolfhunting_f7dd5b58:
 translate chinese werewolfhunting_82965137:
 
     # "Hmm, should I watch?"
-    "Hmm, should I watch?"
+    "Hmm，我应该看吗？"
 
 # game/deepforest.rpy#L1103
 translate chinese werewolfhunting_15f8b462:
@@ -3488,7 +3488,7 @@ translate chinese werewolfhunting_42b2a6d7:
 translate chinese werewolfhunting_d9d17d70:
 
     # "Oh- it’s in!"
-    "Oh- it’s in!"
+    "哦——进来了！"
 
 # game/deepforest.rpy#L1116
 translate chinese werewolfhunting_7b7df747:
@@ -4208,7 +4208,7 @@ translate chinese werewolfsex_44db9cc3:
 translate chinese werewolfsex_f02d08d7:
 
     # poyo "Yo, this party is lit."
-    poyo "Yo, this party is lit."
+    poyo "哟，这个派对很热闹。"
 
 # game/deepforest.rpy#L1390
 translate chinese werewolfsex_0a8dc9a3:
@@ -4268,7 +4268,7 @@ translate chinese werewolfsex_4d11f68d:
 translate chinese werewolfsex_f02d08d7_1:
 
     # poyo "Yo, this party is lit."
-    poyo "Yo, this party is lit."
+    poyo "哟，这个派对很热闹。"
 
 # game/deepforest.rpy#L1407
 translate chinese werewolfsex_b695e962:
@@ -4424,7 +4424,7 @@ translate chinese werewolfsex_38a92bb0:
 translate chinese werewolfsex_ba2daa09:
 
     # mc "Not quite yet. You’re really tight, Devil."
-    mc "Not quite yet. You’re really tight, Devil."
+    mc "还没有。你真的哪里很紧，Devil"
 
 # game/deepforest.rpy#L1445
 translate chinese werewolfsex_df08d9ba:

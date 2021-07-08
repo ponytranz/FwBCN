@@ -866,13 +866,13 @@ translate chinese cforest_535c8151:
 translate chinese cforest_9ad879db:
 
     # butters "So... if you drink the potion you'll also get a cleansing effect around your genitals, and then if you have sex with a girl suffering from a sexual curse or spell, you might just cure them from the residual power of the potion."
-    butters "So... if you drink the potion you'll also get a cleansing effect around your genitals, and then if you have sex with a girl suffering from a sexual curse or spell, you might just cure them from the residual power of the potion."
+    butters "所以…如果你喝下这瓶药水，你的Dick也许会受影响从而拥有净化的能力，此时你和一个受到性诅咒的女孩欢爱，你也许能用这药水残留的力量来治疗她。"
 
 # game/finalroute.rpy#L480
 translate chinese cforest_da4a160c:
 
     # mc "Your theory is interesting, but why didn't {i}you{/i} cure me when we had sex then?"
-    mc "Your theory is interesting, but why didn't {i}you{/i} cure me when we had sex then?"
+    mc "有趣的理论(思考），那为何{i}你不在我们欢爱之时治好我？"
 
 # game/finalroute.rpy#L481
 translate chinese cforest_58e8a52d:
@@ -884,19 +884,19 @@ translate chinese cforest_58e8a52d:
 translate chinese cforest_e74b0aec:
 
     # butters "Heh, I like your rebuttal, but I think it works exactly because you're male and can implant 'genetic material' internally."
-    butters "Heh, I like your rebuttal, but I think it works exactly because you're male and can implant 'genetic material' internally."
+    butters "嘿！我喜欢你的问题，但你应该知道你是男人，只有男人才能给女孩的体内通风报信。"
 
 # game/finalroute.rpy#L483
 translate chinese cforest_c27d6c31:
 
     # butters "I, as a female, am unable to spread the effect into you because my sexual fluids were only against the skin of your penis."
-    butters "I, as a female, am unable to spread the effect into you because my sexual fluids were only against the skin of your penis."
+    butters "当然我作为一个女人，肯定无法将净化的力量带到你的身上，毕竟我的爱液最多附着在你Dick的包皮上"
 
 # game/finalroute.rpy#L485
 translate chinese cforest_e6b8bb8e:
 
     # butters "You'll need to cum inside each girl one more time, hopefully your semen will carry enough of the potion’s effect and save the girls in the same way it saved me."
-    butters "You'll need to cum inside each girl one more time, hopefully your semen will carry enough of the potion’s effect and save the girls in the same way it saved me."
+    butters "你应该去多内射其他女孩一次，希望你的“圣水”里能有足够的净化能量，再以救我的方式救助其他的女孩"
 
 # game/finalroute.rpy#L486
 translate chinese cforest_fdc105bb:
@@ -908,43 +908,43 @@ translate chinese cforest_fdc105bb:
 translate chinese cforest_180d740b:
 
     # mc "Holy bunnies Butters, you’re a genius!"
-    mc "Holy bunnies Butters, you’re a genius!"
+    mc "我的兔子老天爷啊小蝶，你他娘的还真是个天才！"
 
 # game/finalroute.rpy#L489
 translate chinese cforest_d994b577:
 
     # butters "Heh! All my alchemy experience was useful after all."
-    butters "Heh! All my alchemy experience was useful after all."
+    butters "嘿！我所有的炼金术技巧终究是会有用的。"
 
 # game/finalroute.rpy#L491
 translate chinese cforest_2a95dba6:
 
     # butters "I bet it won’t be too hard convincing each of the elements to sleep with you again, if they were brainwashed by you, they’ll be drooling over your cock."
-    butters "I bet it won’t be too hard convincing each of the elements to sleep with you again, if they were brainwashed by you, they’ll be drooling over your cock."
+    butters "我敢打赌，让每一个信任你的女孩再一次与你共枕不会是一件难事，如果她们被你洗脑成功的话，甚至会对你的阴茎垂涎欲滴，饥渴难耐。"
 
 # game/finalroute.rpy#L492
 translate chinese cforest_110df074:
 
     # mc "Right… What a beautiful irony that I’ll be curing people with the instrument of their demise."
-    mc "Right… What a beautiful irony that I’ll be curing people with the instrument of their demise."
+    mc "好吧…我要用一个令她们死亡的方式来治疗她们，这可真是一个出色的笑话。"
 
 # game/finalroute.rpy#L494
 translate chinese cforest_7879b0a0:
 
     # butters "No need to be poetic, you’re just doing more fucking."
-    butters "No need to be poetic, you’re just doing more fucking."
+    butters "别在想着如何才能更加浪漫，你只需要给我更多。"
 
 # game/finalroute.rpy#L495
 translate chinese cforest_d295685f:
 
     # "I take a deep breath before swallowing the potion. It’s clumpy and disgusting; the taste and smell are foul."
-    "I take a deep breath before swallowing the potion. It’s clumpy and disgusting; the taste and smell are foul."
+    "在我吞下药饮之前我深吸了一口气，这玩意属实是混浊而恶心，无论是它尝起来或是闻起来"
 
 # game/finalroute.rpy#L496
 translate chinese cforest_b49c3a63:
 
     # "I do think the potion is taking effect though, but it’s hard to say for sure. I can feel a strange tingle in my loins, as if a weight is being lifted."
-    "I do think the potion is taking effect though, but it’s hard to say for sure. I can feel a strange tingle in my loins, as if a weight is being lifted."
+    "私以为这药水应该会起作用，但也很难拿捏得准。我能感觉到我的下体正面临着奇怪的刺激，像是被什么重物举着一样。"
 
 # game/finalroute.rpy#L497
 translate chinese cforest_4fc36432:
@@ -962,85 +962,85 @@ translate chinese cforest_4ef5063d:
 translate chinese cforest_167317d4:
 
     # mc "Who and what are these ‘elements’ I keep hearing about?"
-    mc "Who and what are these ‘elements’ I keep hearing about?"
+    mc "我一直听说的这些“谐律元素”到底是谁或者是什么东西？"
 
 # game/finalroute.rpy#L502
 translate chinese cforest_810520bb:
 
     # butters "The Elements of Har’Mony, of course!"
-    butters "The Elements of Har’Mony, of course!"
+    butters "和谐之元？当然可以给你谈谈。"
 
 # game/finalroute.rpy#L504
 translate chinese cforest_6d43d914:
 
     # butters "Although we haven’t been active for almost five years now, so I’m not surprised you haven’t heard about it."
-    butters "Although we haven’t been active for almost five years now, so I’m not surprised you haven’t heard about it."
+    butters "当然我们已经快五年没有一起行动了，所以我并不惊讶你没有听说过它。"
 
 # game/finalroute.rpy#L505
 translate chinese cforest_11fd4f95:
 
     # butters "Myself, Lily, Honeycrisp, Ruby, Riku and Cream."
-    butters "Myself, Lily, Honeycrisp, Ruby, Riku and Cream."
+    butters "我，Lily，Honeycrisp，Ruby, Riku and Cream."
 
 # game/finalroute.rpy#L507
 translate chinese cforest_57bc2fa6:
 
     # butters "We’re blessed guardians of Arcadia, designated by Aurora and Selene themselves."
-    butters "We’re blessed guardians of Arcadia, designated by Aurora and Selene themselves."
+    butters "我们曾是Arcadia的受人尊敬的守护者，由Aurora和Selene公主钦定。"
 
 # game/finalroute.rpy#L508
 translate chinese cforest_27a4838b:
 
     # butters "When even their power is not enough, we six can combine to vanquish any evil."
-    butters "When even their power is not enough, we six can combine to vanquish any evil."
+    butters "当两位公主的实力不够时，我们六人联合的力量可以战胜任何的邪恶。"
 
 # game/finalroute.rpy#L509
 translate chinese cforest_0aba050f:
 
     # butters "I’m the element of fire, Lily is lightning, Honeycrisp is earth, Ruby is water, Riku is air and Cream is ice."
-    butters "I’m the element of fire, Lily is lightning, Honeycrisp is earth, Ruby is water, Riku is air and Cream is ice."
+    butters "我的元素是焮天铄地的象征，Lily所代表的是电闪雷鸣，Honeycrisp代表是肥田沃土，Ruby则代表着烟波浩渺，Riku代表着空间气体，而Cream象征着冰壶秋月"
 
 # game/finalroute.rpy#L510
 translate chinese cforest_e600534d:
 
     # mc "Wow! Do you guys have elemental powers based on those?"
-    mc "Wow! Do you guys have elemental powers based on those?"
+    mc "哇酷欸！那你们有基于这些元素的技能吗？"
 
 # game/finalroute.rpy#L512
 translate chinese cforest_a80b97f2:
 
     # butters "Nah, they’re just fancy words that vaguely correspond to our personalities! It was Riku's idea because she wanted us to sound cooler."
-    butters "Nah, they’re just fancy words that vaguely correspond to our personalities! It was Riku's idea because she wanted us to sound cooler."
+    butters "不，当然没有。这词汇只是一些花哨的代号而已，跟我们的性格没有太大的关联。其实这是Riku的主意，她想让我们听起来再酷个百分之二十。"
 
 # game/finalroute.rpy#L514
 translate chinese cforest_e0364340:
 
     # butters "Deep down in our hearts is a power that can be accessed if we combine, Lily is the conduit for that power."
-    butters "Deep down in our hearts is a power that can be accessed if we combine, Lily is the conduit for that power."
+    butters "在我们内心深处有一种力量，当我们联合起来的时候就能够获得并使用，而Lily是这股能量的枢纽"
 
 # game/finalroute.rpy#L515
 translate chinese cforest_fa1eace3:
 
     # butters "Together, we easily defeated Morrigan and her army in the past when they tried to invade Arcadia. It was such a one-sided affair it was almost pitiful, and Morrigan was let go."
-    butters "Together, we easily defeated Morrigan and her army in the past when they tried to invade Arcadia. It was such a one-sided affair it was almost pitiful, and Morrigan was let go."
+    butters "当我们联合之时，轻而易举的击败了试图侵略Arcadia的Morrigan和她的军队。这场战役完全是一边倒甚至会让人觉得侵略者有些可怜，理所应当的，Morrigan被流放了。"
 
 # game/finalroute.rpy#L517
 translate chinese cforest_478fa741:
 
     # butters "Now she’s returned… Well, we’ll need to finish her off properly this time, and with your help. Ohhh, I hope this works!"
-    butters "Now she’s returned… Well, we’ll need to finish her off properly this time, and with your help. Ohhh, I hope this works!"
+    butters "所以现在她现在卷土重来了…嗯…而这一次我们需要在你的帮助下真正的把她给做掉。哦！我希望这次也能够成功！"
 
 # game/finalroute.rpy#L518
 translate chinese cforest_eb883d62:
 
     # butters "You need to sleep with each and every element, explain to them what happened as quickly as you can, and tell them to meet with Lily; then we can coordinate our next move."
-    butters "You need to sleep with each and every element, explain to them what happened as quickly as you can, and tell them to meet with Lily; then we can coordinate our next move."
+    butters "你需要同每一个谐律之元的代表上床，尽可能快的向她们解释到底发生了什么事情，再告诉她们去找Lily，随后我们就能协调配合下一次的行动。"
 
 # game/finalroute.rpy#L520
 translate chinese cforest_cad36165:
 
     # butters "Hehe, you’ll be an honorary element of cum!"
-    butters "Hehe, you’ll be an honorary element of cum!"
+    butters "哈哈，你将成为和谐之元的名誉成员！"
 
 # game/finalroute.rpy#L521
 translate chinese cforest_57bae6d0:
@@ -1076,13 +1076,13 @@ translate chinese cforest_a3998efe:
 translate chinese cforest_bede9a9d:
 
     # "I hope this works!"
-    "I hope this works!"
+    "我希望这能奏效！"
 
 # game/finalroute.rpy#L532
 translate chinese cforest_1b82a6dc:
 
     # "Meanwhile in the castle…"
-    "同时，在城堡中..."
+    "与此同时，在城堡中..."
 
 # game/finalroute.rpy#L537
 translate chinese cforest_14fe0bae:

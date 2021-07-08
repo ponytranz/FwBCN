@@ -542,14 +542,14 @@
   {
     "id": 79443643,
     "createdAt": "2021-05-30T19:47:48.000Z",
-    "updatedAt": "2021-06-18T11:46:49.000Z",
+    "updatedAt": "2021-07-07T07:58:06.000Z",
     "key": "game/dawn.rpy_L1773_0",
     "original": "What’s wrong Lily? Maybe Dawn can give you advice on your sex life.",
-    "translation": "Lily是怎么了？或许Dawn可以给你一些性生活方面的建议。",
+    "translation": "怎么了，Lily？或许Dawn可以给你一些性生活方面的建议。",
     "file": 272380,
     "stage": 3,
     "project": 2414,
-    "uid": 21832,
+    "uid": 22062,
     "extra": null,
     "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/dawn.rpy#L1773",
     "words": 13

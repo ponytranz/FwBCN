@@ -932,14 +932,14 @@
   {
     "id": 79426733,
     "createdAt": "2021-05-30T17:55:36.000Z",
-    "updatedAt": "2021-06-18T17:45:03.000Z",
+    "updatedAt": "2021-07-07T14:59:58.000Z",
     "key": "rubymaidmenu1_b8ee6eb8",
     "original": "It must be hard making waves in a clothing industry when no one wears clothes...",
-    "translation": "这里没人穿衣服，在服装业发展肯定不容易……",
+    "translation": "这里没马穿衣服，在服装业发展肯定不容易……",
     "file": 272341,
     "stage": 1,
     "project": 2414,
-    "uid": null,
+    "uid": 22136,
     "extra": null,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwBCN/blob/main/game/boutique.rpy#L121",
     "words": 15

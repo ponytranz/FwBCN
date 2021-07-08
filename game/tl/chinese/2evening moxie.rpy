@@ -872,7 +872,7 @@ translate chinese moxiedoggystyle_88413ca8:
 translate chinese moxiedoggystyle_24f37668:
 
     # "My throbbing cock soon exploded deep into her as I orgasmed, her vagina tightly gripped around my shaft, wringing even more cum out of it as we continued to fuck during our climaxes."
-    "当我达到高潮时，我那悸动的肉棒很快深深地进入，她的阴道紧紧地抓住我的身体，当我们在高潮的时候继续做爱的时候，它只会变得更紧。"
+    "当我达到高潮时，我那悸动的肉棒迅速深插，她的阴道紧紧地吸住我的肉棒，当我们在高潮时继续抽插，moxie的阴道变得更紧"
 
 # game/2evening%20moxie.rpy#L455
 translate chinese moxiedoggystyle_4d80ac76:
@@ -1370,13 +1370,13 @@ translate chinese moxieanal_23b4b830:
 translate chinese moxieanal_03297b7f:
 
     # "We both get closer to orgasm from the intense rutting. Perhaps even faster than regular sex due to the pure lewdity of the situation."
-    "由于剧烈的摩擦，我们两人马上就要高潮了。或许是因为这次的情况太过色情和淫荡，所以，这次做爱的速度要比平时快很多。"
+    "由于剧烈的摩擦，我们两人马上就要高潮了。或许是因为这次的情况太过色情和淫荡，所以，这次做爱的速度要比平时快很多"
 
 # game/2evening%20moxie.rpy#L682
 translate chinese moxieanal_8b9ba156:
 
     # "Her pussy contracts as she climaxes, her anus getting even tighter in the process, and bringing my inevitable orgasm ever closer."
-    "在达到高潮时，她的小穴开始剧烈地抽搐起来。在此过程中，她的肛门也紧绷起来。这让我马上就要达到高潮了。"
+    "在达到高潮时，她的小穴开始剧烈地抽搐起来。在此过程中，她的肛门也紧绷起来。这让我马上就要达到高潮了"
 
 # game/2evening%20moxie.rpy#L683
 translate chinese moxieanal_6a00da4c:
@@ -1388,13 +1388,13 @@ translate chinese moxieanal_6a00da4c:
 translate chinese moxieanal_67e33369:
 
     # "Her sanguine moans cause the crashing waves of orgasmic pleasure to reach their heights, threatening to push me over the edge almost immediately."
-    "她那无比欢愉的呻吟声让性快感达到了顶峰，这也让我瞬间到达了高潮的临界值。"
+    "她那无比欢愉的呻吟声让性快感达到了顶峰，这也让我瞬间到达了高潮"
 
 # game/2evening%20moxie.rpy#L695
 translate chinese moxieanal_015838cb:
 
     # "I manage to last a few more seconds of pounding before my cock begins to erupt and leak thick ropes of cum deep into her ass."
-    "在我的精液即将喷射而出，注入到她肛门深处之时，我试图强忍住了那种冲动。"
+    "在我的精液即将喷射而出，注入到她肛门深处之时，我试图强忍住了那种冲动"
 
 # game/2evening%20moxie.rpy#L706
 translate chinese moxieanal_c03979f4:
@@ -1418,7 +1418,7 @@ translate chinese moxieanal_4245a6ac:
 translate chinese moxieanal_362e7436:
 
     # "I pull my cock out with a pop and some semen oozes and dripples from our point of contact."
-    "在我将颤抖的肉棒拔出来时，一些精液顺着我们性器相互接触的位置流了出来。"
+    "在我将颤抖的肉棒拔出来时，一些精液顺着我们性器相互接触的位置流了出来"
 
 # game/2evening%20moxie.rpy#L719
 translate chinese moxieanal_dda2d565:
@@ -1430,13 +1430,13 @@ translate chinese moxieanal_dda2d565:
 translate chinese moxieanal_9d2f01d0:
 
     # "She falls back onto the sofa with her arms wide, and I lay into her embrace and kiss her."
-    "她张开双臂，坐回到沙发上。我随后也来到她面前，投入了她的怀抱，并给了她一个吻。"
+    "她张开双臂，坐回到沙发上。我随后也来到她面前，投入了她的怀抱，并给了她一个吻"
 
 # game/2evening%20moxie.rpy#L725
 translate chinese moxieanal_7ba50acc:
 
     # "We enjoy each other's warm snuggles until we decide to go to bed."
-    "我们享受着彼此依偎在一起时那温暖的感觉。之后，我们才决定去睡觉。"
+    "我们享受着彼此依偎在一起时那温暖的感觉。之后，我们才决定去睡觉"
 
 # game/2evening%20moxie.rpy#L727
 translate chinese moxieanal_a20cefa7:
@@ -1460,13 +1460,13 @@ translate chinese moxieanal_a20cefa7_1:
 translate chinese moxiemissionary_ac457808:
 
     # "The two of us go to the bedroom for funky times."
-    "为了交欢，我们两个进入了卧室。"
+    "为了交欢，我们两个进入了卧室"
 
 # game/2evening%20moxie.rpy#L743
 translate chinese moxiemissionary_f4c9c1c8:
 
     # "Moxie falls back onto the bed and spreads her legs."
-    "Moxie躺在床上，然后张开了双腿。"
+    "Moxie躺在床上，然后张开了双腿"
 
 # game/2evening%20moxie.rpy#L744
 translate chinese moxiemissionary_192a433a:
@@ -1502,25 +1502,25 @@ translate chinese moxiemissionary_43e892ba:
 translate chinese moxiemissionary_9f398409:
 
     # "I get a nice long view at her soaked sex, her cute clit twitching while I align my cock with her moist cunt."
-    "我慢慢欣赏着她那湿漉漉而淫荡的性器。在我的阴茎接触到她湿润的阴蒂时，她那可爱的阴蒂便开始抽搐起来。"
+    "我慢慢欣赏着她那湿漉漉而淫荡的性器。在我的阴茎接触到她湿润的阴蒂时，她那可爱的阴蒂便开始抽搐起来"
 
 # game/2evening%20moxie.rpy#L751
 translate chinese moxiemissionary_bd2c9eeb:
 
     # "I press my girthy cock against her entrance and it sinks into the warmth and wetness. It’s immensely pleasurable around my throbbing member, as her insides squeeze and suck my cock."
-    "我将坚挺的阴茎插进了她那温暖而湿润的小穴里。小穴的内壁挤压吸吮着我的肉棒，这让我感受到了一种不可比拟的快感。"
+    "我将坚挺的阴茎插进了她那温暖而湿润的小穴里。小穴的内壁挤压吸吮着我的肉棒，这让我感受到了一种不可比拟的快感"
 
 # game/2evening%20moxie.rpy#L753
 translate chinese moxiemissionary_33ed9b73:
 
     # "I start to hump her perfect, dripping pussy. Schlicking and sliding back and forth with ease as the cum froths, bubbles and mixes with her juices."
-    "于是，我开始抽插着她那完美诱人，鲜美多汁的小穴。由于精液、淫液及两者交融混合的原因，我的肉棒在她的阴道里进出自如。"
+    "于是，我开始抽插着她那完美诱人，鲜美多汁的小穴。由于精液、淫液及两者交融混合的原因，我的肉棒在她的阴道里进出自如"
 
 # game/2evening%20moxie.rpy#L754
 translate chinese moxiemissionary_ad9e3695:
 
     # "Her pussy feels even hotter and wetter than usual, occasional contractions deep inside intensify the pleasure."
-    "我感觉，她的小穴变得比平时更热更湿了，小穴深处肉壁的收缩也增强了做爱时的快感。"
+    "我感觉，她的小穴变得比平时更热更湿了，小穴深处肉壁的收缩也增强了做爱时的快感"
 
 # game/2evening%20moxie.rpy#L755
 translate chinese moxiemissionary_63af2e16:
@@ -1532,7 +1532,7 @@ translate chinese moxiemissionary_63af2e16:
 translate chinese moxiemissionary_7d49e1da:
 
     # "Moxie moans and squirms as her body racks with pleasure."
-    "在Moxie的身体因快感而飘飘欲仙的同时，她还发出了娇喘，身体也跟着扭动起来。"
+    "在Moxie的身体因快感而飘飘欲仙的同时，她还发出了娇喘，身体也跟着扭动起来"
 
 # game/2evening%20moxie.rpy#L757
 translate chinese moxiemissionary_7a9e9bbe:
@@ -1544,25 +1544,25 @@ translate chinese moxiemissionary_7a9e9bbe:
 translate chinese moxiemissionary_291193f2:
 
     # "Her body ignores her concern as her hips continually wriggle and push into me as a means to maximise the pleasure she receives."
-    "在她的臀部持续起伏和扭动以满足最大快感的过程中，她的身体已经完全不受意识的支配了。"
+    "在她的臀部持续起伏和扭动以满足最大快感的过程中，她的身体已经完全不受意识的支配了"
 
 # game/2evening%20moxie.rpy#L759
 translate chinese moxiemissionary_d3d16562:
 
     # "With both of our bodies dancing in tune, Moxie's pussy tightens as she begins to orgasm."
-    "我们两人交合的动作变得协调起来。在Moxie高潮时，她的小穴突然紧缩了起来。"
+    "我们两人交合的动作变得协调起来。在Moxie高潮时，她的小穴突然紧缩了起来"
 
 # game/2evening%20moxie.rpy#L760
 translate chinese moxiemissionary_9111a26d:
 
     # "She lustfully moans throughout, high-pitched squeaks of enjoyment and pleasure constantly spilling from her lips."
-    "她那饱含情欲的呻吟声从未间断过，她那享受而喜悦的尖叫声也会不停地从她的嘴里传出来。"
+    "她那饱含情欲的呻吟声从未间断过，她那享受而喜悦的尖叫声也会不停地从她的嘴里传出来"
 
 # game/2evening%20moxie.rpy#L761
 translate chinese moxiemissionary_99d9dbe0:
 
     # "She writhes and pants, her pristine blue fur growing moist with sweat. At this point she can barely form sentences between her moans."
-    "她一边扭动着身体，一边大口大口喘着气。她洁净的蓝色毛发也被汗水浸湿了。此时的她，只能在两次呻吟之间的空隙勉强说出几个字了。"
+    "她一边扭动着身体，一边大口大口喘着气。她洁净的蓝色毛发也被汗水浸湿了。此时的她，只能在两次呻吟之间的空隙勉强说出几个字了"
 
 # game/2evening%20moxie.rpy#L762
 translate chinese moxiemissionary_198f4848:
@@ -1574,19 +1574,19 @@ translate chinese moxiemissionary_198f4848:
 translate chinese moxiemissionary_e2c9f351:
 
     # "Yep, she’s completely inarticulate as she loses herself in the ecstasy of her second orgasm."
-    "的确，在经历了第二次高潮的狂喜后，她完全迷失了自我，连说话也已经语无伦次了。"
+    "的确，在经历了第二次高潮的狂喜后，她完全迷失了自我，连说话也已经语无伦次了"
 
 # game/2evening%20moxie.rpy#L764
 translate chinese moxiemissionary_a7f401f9:
 
     # "I thrust hard into her clenching pussy, it squeezes and sucks around my cock relentlessly."
-    "我又用力抽插着她紧缩的小穴，紧致的肉壁也在不停挤压着我的阴茎。"
+    "我又用力抽插着她紧缩的小穴，紧致的肉壁也在不停挤压着我的阴茎"
 
 # game/2evening%20moxie.rpy#L765
 translate chinese moxiemissionary_e5a752aa:
 
     # "Squirts of her juices drip and dribble from her thighs with each body-rocking impact."
-    "随着每一次身体之间的撞击，蜜汁从她的蜜穴中喷涌而出，然后顺着大腿流了下来。"
+    "随着每一次身体之间的撞击，蜜汁从她的蜜穴中喷涌而出，然后顺着大腿流了下来"
 
 # game/2evening%20moxie.rpy#L766
 translate chinese moxiemissionary_e23f7e91:
@@ -1598,7 +1598,7 @@ translate chinese moxiemissionary_e23f7e91:
 translate chinese moxiemissionary_3bb7123d:
 
     # "As I fuck her faster I'm also getting close to orgasm. Sprinting to the finish, I continue pounding her insides with every ounce of strength my body can muster."
-    "由于我提高了抽插的速度，所以我也快要射了。为了最后一击，我用尽全身所有力气，继续用力抽插着她的下体。"
+    "由于我提高了抽插的速度，所以我也快要射了。为了最后一击，我用尽全身所有力气，继续用力抽插着她的下体"
 
 # game/2evening%20moxie.rpy#L768
 translate chinese moxiemissionary_a1c8bd79:
@@ -1940,7 +1940,7 @@ translate chinese moxietalkmenu_39a0b590:
 translate chinese moxietalkmenu_704e58d0:
 
     # moxie "Actually I think I'll stop soon. Studying will be a full-time commitment after all, especially in the later years."
-    moxie "事实上我想我很快就会停下来。学习毕竟是终身的，尤其是晚年"
+    moxie "事实上我想我很快就会停下表演专心学习，学习毕竟需要全身心的投入，尤其是将在大学的几年"
 
 # game/2evening%20moxie.rpy#L930
 translate chinese moxietalkmenu_12281ae7:
@@ -1958,7 +1958,7 @@ translate chinese moxietalkmenu_df152ec3:
 translate chinese moxietalkmenu_43d2d716:
 
     # moxie "I think you're doing great, keep working and making connections. Eventually good opportunities will arise for you."
-    moxie "我想你做对了，继续工作，维系感情，最后会有好的机会诞生的"
+    moxie "你现在就做得很好，继续工作，建立马际关系，好机会一定会诞生的。"
 
 # game/2evening%20moxie.rpy#L938
 translate chinese moxietalkmenu_53f35bf3:
@@ -2360,7 +2360,7 @@ translate chinese moxiemagictalk_8df5565a:
 translate chinese moxiemagictalk_664f962a:
 
     # moxie "I lived in Sylvania and grew up with a single mother. There was no father, I was born through magic, so I guess that means I'm a clone of my mom."
-    moxie "我和我的单亲母亲住在Sylvania并在那里长大，我没有父亲，我是通过魔法出生的\n所以，我猜这意味着我是一个和我母亲基因相同的克隆马"
+    moxie "我和我的单亲母亲住在Sylvania并在那里长大，我没有父亲，我是通过魔法出生的{p}所以，我猜这意味着我是一个和我母亲基因相同的克隆马"
 
 # game/2evening%20moxie.rpy#L1095
 translate chinese moxiemagictalk_a065a0bf:

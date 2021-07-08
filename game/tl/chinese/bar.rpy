@@ -4736,13 +4736,13 @@ translate chinese barvisit2_0aff8710:
 translate chinese barvisit2_3a04d809:
 
     # mc "That’s why you’ll look so adorable Riku, the clash!"
-    mc "That’s why you’ll look so adorable Riku, the clash!"
+    mc "性格冲突，这就是你Riku看起来这么可爱的原因啊！"
 
 # game/bar.rpy#L1285
 translate chinese barvisit2_a2dff136:
 
     # riku "Guh, adorable? The heck are you thinking in that noggin of yours?"
-    riku "Guh, adorable? The heck are you thinking in that noggin of yours?"
+    riku "谔谔，可爱？你的小脑袋里究竟在想些什么啊？"
 
 # game/bar.rpy#L1287
 translate chinese barvisit2_a1433610:
@@ -4760,19 +4760,19 @@ translate chinese barvisit2_d3385bfb:
 translate chinese barvisit2_2dfdb445:
 
     # ruby "Oh but darling, it’s important that I inform him about your recent purchases so we can find what’s right for you."
-    ruby "Oh but darling, it’s important that I inform him about your recent purchases so we can find what’s right for you."
+    ruby "哦，但是，亲爱的，告知他你最近买了点什么很重要，这样我们就能找出什么最适合你了。"
 
 # game/bar.rpy#L1291
 translate chinese barvisit2_5b30d18e:
 
     # ruby "She picked out this adorable lingerie piece and tried on some cute dresses!"
-    ruby "She picked out this adorable lingerie piece and tried on some cute dresses!"
+    ruby "她买下了这一件讨喜的内裤，还试穿了几件可爱的裙子！"
 
 # game/bar.rpy#L1292
 translate chinese barvisit2_3bc8f7ce:
 
     # mc "Ahah, dresses? And here I was worried Riku didn’t like dresses."
-    mc "Ahah, dresses? And here I was worried Riku didn’t like dresses."
+    mc "啊啊，裙子？我还担心Riku不喜欢裙子呢？"
 
 # game/bar.rpy#L1294
 translate chinese barvisit2_1820e113:
@@ -4796,19 +4796,19 @@ translate chinese barvisit2_b44b6545:
 translate chinese barvisit2_a8842a1a:
 
     # "The sharp Ruby quickly puts the pieces together, the dress I bought earlier was for Riku all along."
-    "The sharp Ruby quickly puts the pieces together, the dress I bought earlier was for Riku all along."
+    "敏锐的Ruby很快就把这些布料拼接在一起，我先前买过的裙子一直都是要给Riku的。"
 
 # game/bar.rpy#L1299
 translate chinese barvisit2_71a1f4ce:
 
     # ruby "I’d do that one for 'free' if she could tidy up the boutique a little."
-    ruby "I’d do that one for 'free' if she could tidy up the boutique a little."
+    ruby "要是她能帮忙整理一下精品店，那件我就“免费”送了。"
 
 # game/bar.rpy#L1301
 translate chinese barvisit2_62bc10b6:
 
     # ruby "I’m sure you’d rather see that instead of cleaning it up yourself, again, [playername]."
-    ruby "I’m sure you’d rather see that instead of cleaning it up yourself, again, [playername]."
+    ruby "我相信[playername]你更希望她去清理，而不是亲自去。"
 
 # game/bar.rpy#L1302
 translate chinese barvisit2_1af2f76d:
@@ -4826,247 +4826,247 @@ translate chinese barvisit2_47160ff1:
 translate chinese barvisit2_533269e5:
 
     # riku "Uhh… Do I have to?"
-    riku "Uhh… Do I have to?"
+    riku "呃……我一定要做吗？"
 
 # game/bar.rpy#L1305
 translate chinese barvisit2_f05e2702:
 
     # mc "Yeah, I think so, that’s what you said right, Ruby?"
-    mc "Yeah, I think so, that’s what you said right, Ruby?"
+    mc "是啊，我觉得要，毕竟是Ruby你说的，对吗？"
 
 # game/bar.rpy#L1307
 translate chinese barvisit2_c6c1f6a9:
 
     # ruby "Goodness, I was jesting, although… Ohoh, how about you try on the dress first before tidying up, Riku?"
-    ruby "Goodness, I was jesting, although… Ohoh, how about you try on the dress first before tidying up, Riku?"
+    ruby "哦天哪，其实我只是在开玩笑……哦，Riku，要不你在整理房子之前先试穿一下？"
 
 # game/bar.rpy#L1308
 translate chinese barvisit2_6c03c279:
 
     # "She heads up to a rack of dresses and picks out the French maid dress from before, it's perfect. It probably isn’t ‘french’ here though."
-    "She heads up to a rack of dresses and picks out the French maid dress from before, it's perfect. It probably isn’t ‘french’ here though."
+    "她走向了挂满了裙子的衣架，并从中拿出了那件法式女仆装，它很完美。不过在这个世界或许不能叫做“法式”。"
 
 # game/bar.rpy#L1310
 translate chinese barvisit2_d2b33b28:
 
     # riku "Hmph, fine, I’ll put on the stupid dress."
-    riku "Hmph, fine, I’ll put on the stupid dress."
+    riku "哼，行罢，我会穿上这傻乎乎的裙子的。"
 
 # game/bar.rpy#L1314
 translate chinese barvisit2_7484525d:
 
     # "Riku gets dressed right in front of us, no need for changing rooms in this world!"
-    "Riku gets dressed right in front of us, no need for changing rooms in this world!"
+    "Riku在我们正前方穿上了衣服，在这个世界可不需要换衣间！"
 
 # game/bar.rpy#L1323
 translate chinese barvisit2_0e68cc54:
 
     # riku "Do I need to wear these dumb stockings as well? They’re useless things."
-    riku "Do I need to wear these dumb stockings as well? They’re useless things."
+    riku "我还要穿这些该死的长筒袜子吗？那种玩意根本没用！"
 
 # game/bar.rpy#L1324
 translate chinese barvisit2_275ac3dc:
 
     # mc "Stockings? Now we’re talking!"
-    mc "Stockings? Now we’re talking!"
+    mc "长筒袜？吼哇！"
 
 # game/bar.rpy#L1325
 translate chinese barvisit2_c17a8e1f:
 
     # ruby "The ponies in the north wear these all the time to stay warm."
-    ruby "The ponies in the north wear these all the time to stay warm."
+    ruby "住在北方的那些小马天天穿这个保暖。"
 
 # game/bar.rpy#L1326
 translate chinese barvisit2_227902fe:
 
     # riku "These aren’t even warm, they’re just see-through and sexy…"
-    riku "These aren’t even warm, they’re just see-through and sexy…"
+    riku "它们根本不保暖，又薄又透明，还很性感……"
 
 # game/bar.rpy#L1327
 translate chinese barvisit2_6e4b2d75:
 
     # "Riku rolls her eyes as she slips on the stockings one leg at a time."
-    "Riku rolls her eyes as she slips on the stockings one leg at a time."
+    "Riku瞟了一眼那些长筒袜，翻起白眼。"
 
 # game/bar.rpy#L1329
 translate chinese barvisit2_e41bc5d0:
 
     # ruby "Sometimes wearing more is sexier than nudity dearie, you’ll do well to remember that when trying to please a man."
-    ruby "Sometimes wearing more is sexier than nudity dearie, you’ll do well to remember that when trying to please a man."
+    ruby "亲爱的，有些时候穿衣服比不穿还要性感呢，在取悦一个雄性的时候你会深刻地记住这一点的。"
 
 # game/bar.rpy#L1331
 translate chinese barvisit2_caed06b0:
 
     # ruby "It’s the same reason we wrap our presents during Frostmoon!"
-    ruby "It’s the same reason we wrap our presents during Frostmoon!"
+    ruby "就像是过霜月节的时候我们要给礼品套上包装一样！"
 
 # game/bar.rpy#L1334
 translate chinese barvisit2_be590c58:
 
     # riku "Wearing clothes feels weird…"
-    riku "Wearing clothes feels weird…"
+    riku "穿衣服感觉很奇怪……"
 
 # game/bar.rpy#L1335
 translate chinese barvisit2_9b483757:
 
     # mc "I think you look great Riku, super sexy."
-    mc "I think you look great Riku, super sexy."
+    mc "我觉得Riku你漂亮得很呐，性感极了。"
 
 # game/bar.rpy#L1337
 translate chinese barvisit2_3b910206:
 
     # ruby "They serve a practical purpose too, now you can tidy up without getting dust coddled in your fur."
-    ruby "They serve a practical purpose too, now you can tidy up without getting dust coddled in your fur."
+    ruby "当然它们也有特别的目的，现在你可以在整理东西都时候不让灰尘把皮毛弄脏了。"
 
 # game/bar.rpy#L1339
 translate chinese barvisit2_1f536dc4:
 
     # riku "Hmm, I never thought about it like that…"
-    riku "Hmm, I never thought about it like that…"
+    riku "嗯……我还从来没有这样想过……"
 
 # game/bar.rpy#L1341
 translate chinese barvisit2_21a53069:
 
     # riku "Practicality isn’t enough to make me like it though! Too girly for me."
-    riku "Practicality isn’t enough to make me like it though! Too girly for me."
+    riku "但实用性并不足以让我喜欢它！这太娘娘腔了。"
 
 # game/bar.rpy#L1345
 translate chinese barvisit2_de810bac:
 
     # ruby "*Whispering to me* She says that, but she’s definitely the kind of mare to surprise her boyfriend with sexy, girly clothes."
-    ruby "*Whispering to me* She says that, but she’s definitely the kind of mare to surprise her boyfriend with sexy, girly clothes."
+    ruby "*低声对我说*虽然她这么说，但她绝对是那种穿着性感少女装给男友惊喜的母马。"
 
 # game/bar.rpy#L1351
 translate chinese barvisit2_202a5b40:
 
     # "Me and Ruby watch Riku clean up the boutique with surprising efficiency."
-    "Me and Ruby watch Riku clean up the boutique with surprising efficiency."
+    "我和Ruby看着Riku以惊叹的效率清理了时装店。"
 
 # game/bar.rpy#L1352
 translate chinese barvisit2_2e2972af:
 
     # "She doesn’t huff or fight it; she just gets on with the job."
-    "She doesn’t huff or fight it; she just gets on with the job."
+    "她既没生气也没抱怨；她只是一直工作。"
 
 # game/bar.rpy#L1353
 translate chinese barvisit2_5f71f8fb:
 
     # "It’d almost be boring if she didn’t regularly lift her tail and accidentally flash her rear."
-    "It’d almost be boring if she didn’t regularly lift her tail and accidentally flash her rear."
+    "如果不是她经常抬起尾巴，不小心露出屁股，那可太无聊了。"
 
 # game/bar.rpy#L1354
 translate chinese barvisit2_96498924:
 
     # "Both me and Ruby would clearly peek, I could practically feel Riku rolling her eyes as she caught on."
-    "Both me and Ruby would clearly peek, I could practically feel Riku rolling her eyes as she caught on."
+    "我和Ruby都明显地偷看了一眼，我几乎能感觉到Riku在看我的时候翻白眼。"
 
 # game/bar.rpy#L1355
 translate chinese barvisit2_6e67ef5b:
 
     # "Something about the dress and stockings makes this far sexier than if she had just been naked."
-    "Something about the dress and stockings makes this far sexier than if she had just been naked."
+    "这套制服和丝袜让她看起来比裸着要性感得多。"
 
 # game/bar.rpy#L1359
 translate chinese barvisit2_08d2f036:
 
     # ruby "I for one love the dark contrast of those stockings on her red cheeks, it’s so delightful."
-    ruby "I for one love the dark contrast of those stockings on her red cheeks, it’s so delightful."
+    ruby "就我个人而言，我喜欢那双黑丝与她红润的脸颊形成的对比，真是可爱"
 
 # game/bar.rpy#L1362
 translate chinese barvisit2_8c15c6b5:
 
     # ruby "Ohoho darling, you’ll have to see me in private for such a thing."
-    ruby "Ohoho darling, you’ll have to see me in private for such a thing."
+    ruby "哦亲爱的，这件事还是私下再说吧。"
 
 # game/bar.rpy#L1363
 translate chinese barvisit2_ad88bd30:
 
     # ruby "A lady never overshares."
-    ruby "A lady never overshares."
+    ruby "淑女从不透露过多信息"
 
 # game/bar.rpy#L1364
 translate chinese barvisit2_24fc5fdd:
 
     # riku "I know you two are staring at my butt… Guess you’re not even trying to hide it at this point."
-    riku "I know you two are staring at my butt… Guess you’re not even trying to hide it at this point."
+    riku "我知道你俩盯着我的屁股。。。我猜你俩现在根本不想收敛"
 
 # game/bar.rpy#L1365
 translate chinese barvisit2_8bafb74e:
 
     # ruby "That dress really brings out your ass! Perhaps you could order me to make a few dresses for your barmaids?"
-    ruby "That dress really brings out your ass! Perhaps you could order me to make a few dresses for your barmaids?"
+    ruby "这套制服衬托出了你的翘臀！也许你可以让我给你的女招待做几套制服？"
 
 # game/bar.rpy#L1374
 translate chinese barvisit2_60428db0:
 
     # riku "Dream on!"
-    riku "Dream on!"
+    riku "做梦！"
 
 # game/bar.rpy#L1379
 translate chinese barvisit2_f48bb81e:
 
     # ruby "*Sigh* No one wants to buy clothes…"
-    ruby "*Sigh* No one wants to buy clothes…"
+    ruby "*叹气*没马想买衣服……"
 
 # game/bar.rpy#L1381
 translate chinese barvisit2_38c65335:
 
     # ruby "Alright dear, you’ve done a wonderful job tidying up the boutique."
-    ruby "Alright dear, you’ve done a wonderful job tidying up the boutique."
+    ruby "好了亲爱的，你把时装店收拾得很干净。"
 
 # game/bar.rpy#L1382
 translate chinese barvisit2_0071062a:
 
     # ruby "You can keep the dress if you want, Melody wore it once then gave it to me to sell, but I’ve had {i}no luck!{/i}"
-    ruby "You can keep the dress if you want, Melody wore it once then gave it to me to sell, but I’ve had {i}no luck!{/i}"
+    ruby "如果你想，你可以留着这条裙子，Melody穿过一次就给我卖了，我一直{i}没有好运！{/i}"
 
 # game/bar.rpy#L1384
 translate chinese barvisit2_723af7f2:
 
     # riku "I think I’ll wash it and return it, if that’s okay…"
-    riku "I think I’ll wash it and return it, if that’s okay…"
+    riku "如果可以的话，我想我得先洗干净再退……"
 
 # game/bar.rpy#L1385
 translate chinese barvisit2_8cb5c07c:
 
     # ruby "Honestly darling, keep it! You two lovers have fun now."
-    ruby "Honestly darling, keep it! You two lovers have fun now."
+    ruby "老实说亲爱的，你留着吧！希望你们两个情侣玩得开心点。"
 
 # game/bar.rpy#L1387
 translate chinese barvisit2_5c2a6215:
 
     # riku "L-Lovers?!"
-    riku "L-Lovers?!"
+    riku "情……情侣？！"
 
 # game/bar.rpy#L1394
 translate chinese barvisit2_13dfd889:
 
     # "We step out of the boutique, Riku blushing from ear to ear, but you can tell under her embarrassment that she’s enjoying herself."
-    "We step out of the boutique, Riku blushing from ear to ear, but you can tell under her embarrassment that she’s enjoying herself."
+    "我们走出了时装店，Riku的脸涨得通红，但你可以从她的难堪中看出她很享受。"
 
 # game/bar.rpy#L1395
 translate chinese barvisit2_e6cb4bf7:
 
     # mc "What do you think? A proper slave outfit."
-    mc "What do you think? A proper slave outfit."
+    mc "你觉得怎么样？一套合适的女仆装。"
 
 # game/bar.rpy#L1397
 translate chinese barvisit2_117fa06f:
 
     # riku "Props to your creativity, if this is only the first step to your plan looks like I’m in for more fun."
-    riku "Props to your creativity, if this is only the first step to your plan looks like I’m in for more fun."
+    riku "我支持你的创意，如果这只是你计划的第一步，看我出糗找乐子。"
 
 # game/bar.rpy#L1398
 translate chinese barvisit2_2b2bd867:
 
     # riku "More fun, or enough embarrassment to traumatise me forever."
-    riku "More fun, or enough embarrassment to traumatise me forever."
+    riku "是更有趣，还是足够让我伤心一辈子的尴尬。"
 
 # game/bar.rpy#L1399
 translate chinese barvisit2_44d74419:
 
     # riku "I’m glad Ruby played along; you’d assume that girl is uptight, but she’s playful."
-    riku "I’m glad Ruby played along; you’d assume that girl is uptight, but she’s playful."
+    riku "我很高兴Ruby会配合；你以为那女孩很保守，其实她很顽皮。"
 
 # game/bar.rpy#L1400
 translate chinese barvisit2_86474a00:

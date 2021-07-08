@@ -2432,7 +2432,7 @@ translate chinese selenemenu_088b962a:
 translate chinese selenemenu_2c66f80f:
 
     # selene "Eheh, I really shouldn't tell you this but... One time me and my sister got drunk and decided to have an orgy for our bucket list..."
-    selene "我真不应该告诉你这个，但是…有一次我和我姐姐喝醉了，决定按照我们的遗愿清单，搞个狂欢派对……"
+    selene "我真不应该告诉你这个，但是…有一次我和我姐姐喝醉了，决定按照我们的马生清单，搞个狂欢派对……"
 
 # game/castle.rpy#L718
 translate chinese selenemenu_a1c0d740:
@@ -2474,7 +2474,7 @@ translate chinese selenemenu_923688ed:
 translate chinese selenemenu_9a46dc1c:
 
     # selene "So we summoned a familiar each and had a gangbang with each other, and our familiars."
-    selene "So we summoned a familiar each and had a gangbang with each other, and our familiars."
+    selene "我们两个都召唤了一个魔仆，与彼此和彼此的魔仆交媾。"
 
 # game/castle.rpy#L727
 translate chinese selenemenu_69e378b7:

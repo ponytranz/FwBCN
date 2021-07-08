@@ -2822,7 +2822,7 @@ translate chinese creamvmissionary_48a247fe:
 translate chinese creamvmissionary_64277977:
 
     # lily "*Sigh* But there's no way I can refuse a party when all the Elements of Har'Mony are attending."
-    lily "*Sigh* But there's no way I can refuse a party when all the Elements of Har'Mony are attending."
+    lily "*叹气*但我可不能拒绝一个所有谐律元素都会出席的派对。"
 
 # game/bakery.rpy#L863
 translate chinese creamvmissionary_14c04ca2:
@@ -2900,7 +2900,7 @@ translate chinese creamvmissionary_1824e4fe:
 translate chinese creamvmissionary_c7cda1f3:
 
     # moxie "And that's to say nothing about how close you are with some of them, right?"
-    moxie "And that's to say nothing about how close you are with some of them, right?"
+    moxie "更不用说你和他们中的一些小马有多亲近了，对不？"
 
 # game/bakery.rpy#L889
 translate chinese creamvmissionary_796f445e:
@@ -3056,13 +3056,13 @@ translate chinese creamvmissionary_f65a325b:
 translate chinese creamvmissionary_07afa660:
 
     # "The party goes on for hours and everyone has a great opportunity to mingle and get drunk."
-    "The party goes on for hours and everyone has a great opportunity to mingle and get drunk."
+    "派对持续了好几个小时，大家都有充足的机会去聊天和痛饮。"
 
 # game/bakery.rpy#L939
 translate chinese creamvmissionary_9f8efa01:
 
     # "Who should I talk to the most? They might take me to their place after the party."
-    "Who should I talk to the most? They might take me to their place after the party."
+    "我最应该和谁说话？他们有可能在派对结束后把我带去他们的地方。"
 
 # game/bakery.rpy#L942
 translate chinese creamvmissionary_e40d48ea:
