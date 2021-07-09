@@ -50,7 +50,7 @@ translate chinese altmorning_ffbd9fb1:
 translate chinese altmorning_fb9676ee:
 
     # "Looks like Moxie is asleep right now. She often sleeps into the afternoon with her evening lessons."
-    "看起来Moxie现在睡得正香。如果有晚课的话，她经常一觉睡到下午。"
+    "看起来Moxie现在睡得正香。如果有晚课的话，她经常一觉睡到下午"
 
 # game/2morning.rpy#L41
 translate chinese altmorning_e147d157:
@@ -110,7 +110,7 @@ translate chinese altmorning_1f1addc7:
 translate chinese altmorning_8a6b667c:
 
     # moxie "Just the man I was hoping to see!"
-    moxie "正是我想见的那个男人！"
+    moxie "正是我想见的那个雄性！"
 
 # game/2morning.rpy#L62
 translate chinese altmorning_16e7978c:
@@ -206,13 +206,13 @@ translate chinese morningvariables_a20cefa7:
 translate chinese morningvariables_2963f583:
 
     # "Damn, my gallery pass expired."
-    "我靠，我的美术馆通行证过期了。"
+    "靠，我的美术馆通行证过期了。"
 
 # game/2morning.rpy#L107
 translate chinese morningvariables_89f73c83:
 
     # "I told you it would."
-    "我早都告诉过你了。"
+    "我早告诉过你了。"
 
 # game/2morning.rpy#L165
 translate chinese mail_c6a82ece:
@@ -314,7 +314,7 @@ translate chinese mail_7ae810ca:
 translate chinese mail_7901cfb8:
 
     # "'Please behave yourself, I'm hoping to meet you one day if possible. Please find the owner of the library, Lily, and talk to her.'"
-    "‘请自重，如果可以的话，我希望能和你见一面。请找图书馆的主人Lily，然后和她谈谈。’"
+    "‘如果可以的话，我希望能和你见一面。请找图书馆的主人Lily，然后和她谈谈。’"
 
 # game/2morning.rpy#L192
 translate chinese mail_679247fb:
@@ -344,7 +344,7 @@ translate chinese mail_4b3144ba:
 translate chinese mail_f986e85f:
 
     # "I think it's the weekend, but Arcadia doesn't use the same week system like my old world."
-    "现在已经是周末了，可Arcadia却还在工作。这可和我原来世界上的时间安排不一样。"
+    "现在已经是周末了，可Arcadia却还在工作，这可和我原来世界上的时间安排不一样。"
 
 # game/2morning.rpy#L198
 translate chinese mail_695c8bc9:
@@ -356,13 +356,13 @@ translate chinese mail_695c8bc9:
 translate chinese mail_2f6f40ac:
 
     # "I've finally been here a week, I admit that time has gone by quickly."
-    "我来到这里已经有一个星期了。我不得不承认，时间过得可真快啊。"
+    "我来到这里已经有一个星期了，不得不承认，时间过得可真快啊。"
 
 # game/2morning.rpy#L201
 translate chinese mail_9a9e7d96:
 
     # "I've spent almost every day doing something crazy and exciting."
-    "我基本上每天都会做一些疯狂和让人兴奋不已的事。"
+    "我基本上每天都会做一些疯狂和让人兴奋不已的事"
 
 # game/2morning.rpy#L202
 translate chinese mail_8fe6aaa1:
@@ -476,7 +476,7 @@ translate chinese mail_ce6120ae:
 translate chinese mail_684a127b:
 
     # "Hm! I have a magic letter… Let’s see here."
-    "哼！我收到了一封魔法邮件……我来看一看。"
+    "哼~我收到了一封魔法邮件……我来看一看。"
 
 # game/2morning.rpy#L241
 translate chinese mail_7fa5a2b3:
@@ -608,7 +608,7 @@ translate chinese events_fc6eef56:
 translate chinese events_458dc51e:
 
     # "I do my morning routine and then head out."
-    "我做着自己早上常会做的事，然后就出门了。"
+    "我做着自己早上常做之事，然后就出门了。"
 
 # game/2morning.rpy#L320
 translate chinese events_c6c1f093:

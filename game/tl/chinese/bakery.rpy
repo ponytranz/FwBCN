@@ -3032,13 +3032,13 @@ translate chinese creamvmissionary_16de72d8:
 translate chinese creamvmissionary_d2452cab:
 
     # cream "Not everyone could make it today, so I want to make this toast to them and the old times. It really warms my heart to see so many of my old friends here in one place."
-    cream "Not everyone could make it today, so I want to make this toast to them and the old times. It really warms my heart to see so many of my old friends here in one place."
+    cream "不是所有小马今天都能到，所以我想为他们和过去的时光干杯。能在这看到这么多老朋友真的很让我暖心。"
 
 # game/bakery.rpy#L932
 translate chinese creamvmissionary_386d4493:
 
     # cream "From the day we met, to the day we conquered that evil bug queen many years ago, and even today, we'll be friends to the end!"
-    cream "From the day we met, to the day we conquered that evil bug queen many years ago, and even today, we'll be friends to the end!"
+    cream "从我们相遇的那天开始，到多年前我们战胜那个邪恶的虫族女王，直到今天，我们要做朋友做到底！"
 
 # game/bakery.rpy#L933
 translate chinese creamvmissionary_a388bb31:
@@ -3068,7 +3068,7 @@ translate chinese creamvmissionary_9f8efa01:
 translate chinese creamvmissionary_e40d48ea:
 
     # "I spend the majority of the night talking with Moxie, which easily leads to sex when we get back to her wagon."
-    "I spend the majority of the night talking with Moxie, which easily leads to sex when we get back to her wagon."
+    "我和Moxie聊了一整个晚上，这样等我们回到她的篷车时，我们就能更容易的找点乐子了。"
 
 # game/bakery.rpy#L946
 translate chinese creamvmissionary_6f4be0cf:

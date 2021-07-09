@@ -908,7 +908,7 @@ translate chinese cforest_fdc105bb:
 translate chinese cforest_180d740b:
 
     # mc "Holy bunnies Butters, you’re a genius!"
-    mc "我的兔子老天爷啊小蝶，你他娘的还真是个天才！"
+    mc "我的老天爷啊小蝶，你他娘的还真是个天才！"
 
 # game/finalroute.rpy#L489
 translate chinese cforest_d994b577:
@@ -932,7 +932,7 @@ translate chinese cforest_110df074:
 translate chinese cforest_7879b0a0:
 
     # butters "No need to be poetic, you’re just doing more fucking."
-    butters "别在想着如何才能更加浪漫，你只需要给我更多。"
+    butters "别这么温柔！不用想着如何才能更加富有情调，你只需要给我更多。"
 
 # game/finalroute.rpy#L495
 translate chinese cforest_d295685f:
@@ -1046,31 +1046,31 @@ translate chinese cforest_cad36165:
 translate chinese cforest_57bae6d0:
 
     # mc "I think I’ll pass on the title, but I’ll absolutely get to work curing everyone."
-    mc "I think I’ll pass on the title, but I’ll absolutely get to work curing everyone."
+    mc "我想我会接受这个名头的，但同时我也绝对会给每一个人提供治疗"
 
 # game/finalroute.rpy#L523
 translate chinese cforest_cfbcda0d:
 
     # butters "Perfect, there’s no time left to talk. Try to take no longer than two hours fucking everyone. Let’s say 10:30am, let’s all meet at the tree at 10:30am!"
-    butters "Perfect, there’s no time left to talk. Try to take no longer than two hours fucking everyone. Let’s say 10:30am, let’s all meet at the tree at 10:30am!"
+    butters "那真是好极了！现在没有时间再聊了，尽量在两个小时之内操翻所有人。假设那时是十点半，那我们就十点半在树下集合"
 
 # game/finalroute.rpy#L524
 translate chinese cforest_24e3bce8:
 
     # butters "There’s no one else better suited for this job than you [playername]! Go, go, go!"
-    butters "There’s no one else better suited for this job than you [playername]! Go, go, go!"
+    butters "相信我在这里再没有人会比你更能胜任这份工作了[playername]！快去快回！"
 
 # game/finalroute.rpy#L525
 translate chinese cforest_5747aa51:
 
     # mc "I’ve been practicing for this moment ever since I arrived in Arcadia, I’ll save this city in the best way I know!"
-    mc "I’ve been practicing for this moment ever since I arrived in Arcadia, I’ll save this city in the best way I know!"
+    mc "自从我来到Arcadia之后我就一直勤加练习，相信我会用我所知最好的方式来拯救我们的城市"
 
 # game/finalroute.rpy#L526
 translate chinese cforest_a3998efe:
 
     # "Butters nods and I sprint out of the cottage."
-    "Butters nods and I sprint out of the cottage."
+    "Butters轻轻点头，而我快速地冲出了屋子"
 
 # game/finalroute.rpy#L529
 translate chinese cforest_bede9a9d:
@@ -1088,25 +1088,25 @@ translate chinese cforest_1b82a6dc:
 translate chinese cforest_14fe0bae:
 
     # morrigan "Call me mistress, I like the sound of that."
-    morrigan "Call me mistress, I like the sound of that."
+    morrigan "称呼我为女王，我喜欢听到那个"
 
 # game/finalroute.rpy#L545
 translate chinese cforest_10cb4d4e:
 
     # aurora "Yes mistress, anything for you mistress."
-    aurora "Yes mistress, anything for you mistress."
+    aurora "当然没有问题我的女王，我愿意为您做任何事"
 
 # game/finalroute.rpy#L549
 translate chinese cforest_c7db5e23:
 
     # selene "Drain all my power dry mistress, I’m nothing but a worthless toy for you."
-    selene "Drain all my power dry mistress, I’m nothing but a worthless toy for you."
+    selene "吸干我所有的力量我亲爱的女王陛下，对您来说我只是一个毫无价值的玩具"
 
 # game/finalroute.rpy#L554
 translate chinese cforest_bf6ca3ce:
 
     # penelope "Hehehe, they’re so pathetic! What are you going to do with them after they’re drained?"
-    penelope "Hehehe, they’re so pathetic! What are you going to do with them after they’re drained?"
+    penelope "呵呵呵，她们看起来好可怜！你准备怎么处置被榨干后的她们？"
 
 # game/finalroute.rpy#L558
 translate chinese cforest_5189ac7d:
@@ -1136,7 +1136,7 @@ translate chinese cforest_df6b84d5:
 translate chinese cforest_041a08f4:
 
     # morrigan "No, Penelope. I’ve told you this before, you will not be my mate."
-    morrigan "No, Penelope. I’ve told you this before, you will not be my mate."
+    morrigan "不，Penelope。我以前告诉过你，你不会是我的伴侣。"
 
 # game/finalroute.rpy#L567
 translate chinese cforest_0b444007:
@@ -1148,61 +1148,61 @@ translate chinese cforest_0b444007:
 translate chinese cforest_6db64765:
 
     # morrigan "That was different… You were just supplying me with love to grow my power."
-    morrigan "That was different… You were just supplying me with love to grow my power."
+    morrigan "那不一样…你只是给我爱来增长我的力量。"
 
 # game/finalroute.rpy#L571
 translate chinese cforest_c2dcaefa:
 
     # penelope "Tch, this is because of [playername], isn’t it?"
-    penelope "Tch, this is because of [playername], isn’t it?"
+    penelope "哦，这是因为 [playername]，不是吗？"
 
 # game/finalroute.rpy#L573
 translate chinese cforest_73eb3d54:
 
     # morrigan "You know a male is a far better fit for a Queen such as myself, his magically enhanced semen was plentiful and gave me so much love."
-    morrigan "You know a male is a far better fit for a Queen such as myself, his magically enhanced semen was plentiful and gave me so much love."
+    morrigan "你知道一个男人更适合像我这样的女王，他那神奇的精液是充足的，给了我太多的爱。"
 
 # game/finalroute.rpy#L574
 translate chinese cforest_901ca010:
 
     # morrigan "And he’d make a perfect mate for breeding, I do hope he returns sometime…"
-    morrigan "And he’d make a perfect mate for breeding, I do hope he returns sometime…"
+    morrigan "他会成为繁殖的完美伴侣，我真的希望他能回来…"
 
 # game/finalroute.rpy#L576
 translate chinese cforest_7a033084:
 
     # penelope "Damnit Morrigan, just brainwash him!"
-    penelope "Damnit Morrigan, just brainwash him!"
+    penelope "该死的Morrigan，给他洗脑！"
 
 # game/finalroute.rpy#L578
 translate chinese cforest_1f0cc296:
 
     # morrigan "No, brainwashing is for slaves, not lovers or true devotees such as yourself, Penelope. You already know that."
-    morrigan "No, brainwashing is for slaves, not lovers or true devotees such as yourself, Penelope. You already know that."
+    morrigan "不，洗脑是给奴隶的，而不是像你这样的爱人或真正的奉献者，Penelope。你已经明白了。"
 
 # game/finalroute.rpy#L579
 translate chinese cforest_69c81807:
 
     # penelope "But he won’t come back, why don’t you understand that he only liked Moxie? How could you fall for your own love spells?"
-    penelope "But he won’t come back, why don’t you understand that he only liked Moxie? How could you fall for your own love spells?"
+    penelope "但他不会回来了，你为什么不明白他只喜欢Moxie？你怎么会因为自己的爱情咒语爱上他？"
 
 # game/finalroute.rpy#L582
 translate chinese cforest_dfadc7a0:
 
     # morrigan "Silence Penelope, I have NOT fallen under the influence of my love spells. I will not put up with such nonsense from you."
-    morrigan "Silence Penelope, I have NOT fallen under the influence of my love spells. I will not put up with such nonsense from you."
+    morrigan "安静，Penelope，我没有被我的爱情咒语所影响。我不会容忍你这样胡说八道。"
 
 # game/finalroute.rpy#L584
 translate chinese cforest_2a3fa7b8:
 
     # morrigan "We both know he’s a non-threat, regardless of whether he returns or not."
-    morrigan "We both know he’s a non-threat, regardless of whether he returns or not."
+    morrigan "我们都知道他不是威胁，不管他是否回来。"
 
 # game/finalroute.rpy#L585
 translate chinese cforest_6978ec05:
 
     # morrigan "If he bothers you so much, then go and bring him here yourself, at least you'll be useful to me then."
-    morrigan "If he bothers you so much, then go and bring him here yourself, at least you'll be useful to me then."
+    morrigan "如果他这么烦你，那你自己去把他带过来，至少到那时你就对我有用了。"
 
 # game/finalroute.rpy#L587
 translate chinese cforest_be485ba0:

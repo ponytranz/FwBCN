@@ -4988,7 +4988,7 @@ translate chinese barvisit2_ad88bd30:
 translate chinese barvisit2_24fc5fdd:
 
     # riku "I know you two are staring at my butt… Guess you’re not even trying to hide it at this point."
-    riku "我知道你俩盯着我的屁股。。。我猜你俩现在根本不想收敛"
+    riku "我知道你俩盯着我的屁股。。。我猜你俩现在根本不想收敛一下。"
 
 # game/bar.rpy#L1365
 translate chinese barvisit2_8bafb74e:
@@ -5054,7 +5054,7 @@ translate chinese barvisit2_e6cb4bf7:
 translate chinese barvisit2_117fa06f:
 
     # riku "Props to your creativity, if this is only the first step to your plan looks like I’m in for more fun."
-    riku "我支持你的创意，如果这只是你计划的第一步，看我出糗找乐子。"
+    riku "主人的任务罢了，如果这只是你计划的第一步，看我出糗找乐子。"
 
 # game/bar.rpy#L1398
 translate chinese barvisit2_2b2bd867:
@@ -5072,355 +5072,355 @@ translate chinese barvisit2_44d74419:
 translate chinese barvisit2_86474a00:
 
     # mc "Giving us the dress in exchange for some tidying up was quite the deal! I would have felt a tiny bit guilty making you pay for it."
-    mc "Giving us the dress in exchange for some tidying up was quite the deal! I would have felt a tiny bit guilty making you pay for it."
+    mc "仅仅是收拾房间就得到了这件裙子，真是太划算了！不过让你打扫了一天我还是感觉有点内疚。"
 
 # game/bar.rpy#L1402
 translate chinese barvisit2_42801f1a:
 
     # riku "Yeah well… It’s only one day."
-    riku "Yeah well… It’s only one day."
+    riku "嗯……不过一天而已。"
 
 # game/bar.rpy#L1403
 translate chinese barvisit2_26f96462:
 
     # mc "Alright, let’s head to the wagon, you have some more cleaning up to do."
-    mc "Alright, let’s head to the wagon, you have some more cleaning up to do."
+    mc "好了，接下来去Moxie的篷车，你还需要打扫一下那里。"
 
 # game/bar.rpy#L1404
 translate chinese barvisit2_0df96181:
 
     # riku "Wait, wha? Nooooo…"
-    riku "Wait, wha? Nooooo…"
+    riku "等等，啥？不……"
 
 # game/bar.rpy#L1407
 translate chinese barvisit2_ce617998_1:
 
     # "…"
-    "…"
+    "……"
 
 # game/bar.rpy#L1411
 translate chinese barvisit2_a24bc112:
 
     # "Moxie and I work all day, so while we’re not dirty people, mess can accumulate without our realising, especially dust."
-    "Moxie and I work all day, so while we’re not dirty people, mess can accumulate without our realising, especially dust."
+    "Moxie和我整天都在工作，虽然我们都不是脏兮兮的，但脏乱的东西总会在不经意间出现，尤其是灰尘。"
 
 # game/bar.rpy#L1412
 translate chinese barvisit2_739e4cb2:
 
     # "By the time we get home in the evening, we’re too tired to give the wagon the nitty gritty tidy up it needs."
-    "By the time we get home in the evening, we’re too tired to give the wagon the nitty gritty tidy up it needs."
+    "当我们晚上回到家的时候，我们太累了，以至于不能给篷车做全面清理"
 
 # game/bar.rpy#L1413
 translate chinese barvisit2_6c8b4c86:
 
     # "Notably since there’s no vacuum cleaner, one of us would need to get on our hands and knees to scrub the floor down."
-    "Notably since there’s no vacuum cleaner, one of us would need to get on our hands and knees to scrub the floor down."
+    "重要的是，因为没有吸尘器，我俩中的一个需要跪下来用手来擦地板。"
 
 # game/bar.rpy#L1414
 translate chinese barvisit2_1cfd7a24:
 
     # "Fortunately, I have the exact candidate to go on her hands and knees right now."
-    "Fortunately, I have the exact candidate to go on her hands and knees right now."
+    "好在我现在有合适的对象可以跪下仔细打扫地板。"
 
 # game/bar.rpy#L1416
 translate chinese barvisit2_ee0a1324:
 
     # "While I don’t currently live with Moxie, I bet she’ll appreciate a clean. She’s not a messy person, but she works all day and mess can accumulate rather easily."
-    "While I don’t currently live with Moxie, I bet she’ll appreciate a clean. She’s not a messy person, but she works all day and mess can accumulate rather easily."
+    "虽然我现在没和Moxie住在一起，但我打赌她肯定喜欢干净整洁的篷车。她不是个邋遢的马，但她整天工作，很容易弄得乱七八糟。"
 
 # game/bar.rpy#L1417
 translate chinese barvisit2_d0a7fcaa:
 
     # "By the time she gets home in the evening, she's too tired to give the wagon the nitty gritty tidy up it needs."
-    "By the time she gets home in the evening, she's too tired to give the wagon the nitty gritty tidy up it needs."
+    "之前每当她晚上回家，她都累得无法对篷车进行仔细的清理。"
 
 # game/bar.rpy#L1418
 translate chinese barvisit2_6f8c6335:
 
     # "Notably since there’s no vacuum cleaner, she would need to get on her hands and knees to scrub the floor down."
-    "Notably since there’s no vacuum cleaner, she would need to get on her hands and knees to scrub the floor down."
+    "特别是因为没有吸尘器，她不得不跪在地板上用手擦干净。"
 
 # game/bar.rpy#L1419
 translate chinese barvisit2_9cd3c1af:
 
     # "Fortunately, I have the perfect candidate to get on her hands and knees right now."
-    "Fortunately, I have the perfect candidate to get on her hands and knees right now."
+    "好在我现在有合适的对象可以跪下仔细打扫地板。"
 
 # game/bar.rpy#L1420
 translate chinese barvisit2_a6ee5a1b:
 
     # "If only Moxie was here to watch this amazing sight."
-    "If only Moxie was here to watch this amazing sight."
+    "要是Moxie能亲眼看见就好了。"
 
 # game/bar.rpy#L1424
 translate chinese barvisit2_663025ef:
 
     # riku "You want me to tidy up the wagon? Really? You can make me do anything, and this is what you chose to do?"
-    riku "You want me to tidy up the wagon? Really? You can make me do anything, and this is what you chose to do?"
+    riku "你只想让我整理篷车？当真？你可以让我做任何事，而这就是你的选择？"
 
 # game/bar.rpy#L1425
 translate chinese barvisit2_ea19706f:
 
     # mc "Yeah, slow build-up and all that."
-    mc "Yeah, slow build-up and all that."
+    mc "是啊，慢慢增进感情。"
 
 # game/bar.rpy#L1426
 translate chinese barvisit2_91d425a6:
 
     # riku "Let me reiterate because you clearly don't seem to understand, you can make me do anything!"
-    riku "Let me reiterate because you clearly don't seem to understand, you can make me do anything!"
+    riku "让我重申一下，你显然不是很清楚，你可以让我做任何事！"
 
 # game/bar.rpy#L1427
 translate chinese barvisit2_156106e6:
 
     # mc "Yep, I know."
-    mc "Yep, I know."
+    mc "是的，我清楚。"
 
 # game/bar.rpy#L1428
 translate chinese barvisit2_70ee509f:
 
     # riku "Anything, anything!"
-    riku "Anything, anything!"
+    riku "任何事，任何事！"
 
 # game/bar.rpy#L1429
 translate chinese barvisit2_ed2c1fd3:
 
     # "I sit down on the sofa and let out a hearty exhale."
-    "I sit down on the sofa and let out a hearty exhale."
+    "我在沙发上坐下来，深深地呼了一口气。"
 
 # game/bar.rpy#L1430
 translate chinese barvisit2_39f18b60:
 
     # riku "You’re just gonna sit there, while I tidy up?"
-    riku "You’re just gonna sit there, while I tidy up?"
+    riku "你就只坐在那，让我收拾？"
 
 # game/bar.rpy#L1431
 translate chinese barvisit2_58c2ac31:
 
     # mc "Yep, I’ll get some nice upskirt views from this low angle."
-    mc "Yep, I’ll get some nice upskirt views from this low angle."
+    mc "当然，说不定我还可以从这个低角度看到你漂亮的裙底。"
 
 # game/bar.rpy#L1432
 translate chinese barvisit2_97536565:
 
     # riku "I’ll show you some nice upskirt views you god damn perv!"
-    riku "I’ll show you some nice upskirt views you god damn perv!"
+    riku "那我就给你看看漂亮的裙底，你这死变态！"
 
 # game/bar.rpy#L1436
 translate chinese barvisit2_8c534df2:
 
     # "She seems like she’s about to pull me in and choke me under her skirt, but she resists the urge, it would have been hot though."
-    "She seems like she’s about to pull me in and choke me under her skirt, but she resists the urge, it would have been hot though."
+    "看起来她是想把我埋在裙底窒息，但她抑制住了冲动，她可能已经感觉到燥热了。"
 
 # game/bar.rpy#L1441
 translate chinese barvisit2_39fd2cc2:
 
     # riku "Whatevs, I tidy up the bar a lot anyway, a dusty wooden wagon like this is easy work for maid Riku."
-    riku "Whatevs, I tidy up the bar a lot anyway, a dusty wooden wagon like this is easy work for maid Riku."
+    riku "不管怎样，我总是把酒吧收拾得干干净净，像这样一辆脏兮兮的篷车对Riku女仆来说很容易。"
 
 # game/bar.rpy#L1442
 translate chinese barvisit2_74ad2667:
 
     # mc "That’s a cute lil’ name you gave yourself there."
-    mc "That’s a cute lil’ name you gave yourself there."
+    mc "你给自己取了个可爱的小名。"
 
 # game/bar.rpy#L1443
 translate chinese barvisit2_61ca9841:
 
     # riku "Yea I know, now stare at my butt while I sweep up, or something."
-    riku "Yea I know, now stare at my butt while I sweep up, or something."
+    riku "是啊我知道，现在，在我打扫的时候盯着我的屁股看，或者盯着其它地方什么的。"
 
 # game/bar.rpy#L1444
 translate chinese barvisit2_9745bd51:
 
     # mc "With pleasure."
-    mc "With pleasure."
+    mc "不胜荣幸。"
 
 # game/bar.rpy#L1448
 translate chinese barvisit2_1963b32a:
 
     # "I lean back into the sofa and get really comfy while Riku tidies up and dusts."
-    "I lean back into the sofa and get really comfy while Riku tidies up and dusts."
+    "在Riku打扫灰尘的时候，我倒在沙发上，感到非常舒服。"
 
 # game/bar.rpy#L1449
 translate chinese barvisit2_243cb68f:
 
     # "As before it’s not hard to get a nice peek at her ass with her short skirt, only made shorter by her tail that causes it to constantly lift upwards."
-    "As before it’s not hard to get a nice peek at her ass with her short skirt, only made shorter by her tail that causes it to constantly lift upwards."
+    "和之前一样，她的短裙很容易让我看到她的屁股，其实只是她的尾巴不断向上翘，让裙子变短了。"
 
 # game/bar.rpy#L1451
 translate chinese barvisit2_4718f5b4:
 
     # riku "Ohh yeah, you like my butt don’tcha?"
-    riku "Ohh yeah, you like my butt don’tcha?"
+    riku "哦哈哈，你喜欢我的屁股，对吧?"
 
 # game/bar.rpy#L1452
 translate chinese barvisit2_d0822329:
 
     # mc "Hell yeah, work it baby."
-    mc "Hell yeah, work it baby."
+    mc "真特么美啊，继续吧宝贝。"
 
 # game/bar.rpy#L1454
 translate chinese barvisit2_0f5d3380:
 
     # "I say that with the enthusiasm of receiving the best lap dance in the world, but all she’s doing is dusting a shelf. Still, I gotta encourage the girl!"
-    "I say that with the enthusiasm of receiving the best lap dance in the world, but all she’s doing is dusting a shelf. Still, I gotta encourage the girl!"
+    "我是带着对世界上最好的膝上艳舞的热情说的，即使她所做的只是掸掸架子上的灰尘。不过，我还是得鼓励她！"
 
 # game/bar.rpy#L1456
 translate chinese barvisit2_68d7cbb7:
 
     # riku "I may not be packing much heat upstairs, but at least I have a damn good ass!"
-    riku "I may not be packing much heat upstairs, but at least I have a damn good ass!"
+    riku "我可能没有火辣的身材，但至少我他妈的有个好看的屁股！"
 
 # game/bar.rpy#L1459
 translate chinese barvisit2_4b101484:
 
     # mc "Nothing wrong with adorable small boobies, I love them just as much as larger ones."
-    mc "Nothing wrong with adorable small boobies, I love them just as much as larger ones."
+    mc "可爱的平胸没什么不对，我喜爱它们就像喜爱巨乳一样。"
 
 # game/bar.rpy#L1460
 translate chinese barvisit2_085b2a8a:
 
     # riku "Awh, you don’t have to say that just to impress me."
-    riku "Awh, you don’t have to say that just to impress me."
+    riku "啊，你没必要为了哄我开心而这么说。"
 
 # game/bar.rpy#L1461
 translate chinese barvisit2_a1220461:
 
     # mc "I’m serious though."
-    mc "I’m serious though."
+    mc "我认真的。"
 
 # game/bar.rpy#L1462
 translate chinese barvisit2_ec8b5c77:
 
     # riku "Wha, you like small boobs?"
-    riku "Wha, you like small boobs?"
+    riku "哇哦，你喜欢平胸？"
 
 # game/bar.rpy#L1463
 translate chinese barvisit2_747c13c3:
 
     # mc "Yeah, they’re adorable!"
-    mc "Yeah, they’re adorable!"
+    mc "是的，它们很可爱！"
 
 # game/bar.rpy#L1464
 translate chinese barvisit2_2bf5386c:
 
     # riku "Huh, I always thought men preferred bigger boobs. It’s not like I polled anyone though, I just assumed."
-    riku "Huh, I always thought men preferred bigger boobs. It’s not like I polled anyone though, I just assumed."
+    riku "额，我一直认为男人更喜欢巨乳。不过我并没有向任何马进行过调查，我只是猜想。"
 
 # game/bar.rpy#L1466
 translate chinese barvisit2_a332470c:
 
     # riku "You do?"
-    riku "You do?"
+    riku "真的吗？"
 
 # game/bar.rpy#L1467
 translate chinese barvisit2_67f8ccce:
 
     # riku "Lemme just inch my skirt up a little higher so you can appreciate it more."
-    riku "Lemme just inch my skirt up a little higher so you can appreciate it more."
+    riku "让我把我的裙子再抬高一点，这样你就更能欣赏它了。"
 
 # game/bar.rpy#L1468
 translate chinese barvisit2_4d274640:
 
     # riku "I think I heard once that boob size doesn’t matter, but butt size does!"
-    riku "I think I heard once that boob size doesn’t matter, but butt size does!"
+    riku "我听说胸大不重要，臀大很重要！"
 
 # game/bar.rpy#L1469
 translate chinese barvisit2_e376a8e2:
 
     # riku "So I’m lucky that I have a nice butt rather than the alternative."
-    riku "So I’m lucky that I have a nice butt rather than the alternative."
+    riku "所以我很幸运，我有一个漂亮的大屁股，而不是其它什么的。"
 
 # game/bar.rpy#L1470
 translate chinese barvisit2_cc18441f:
 
     # mc "I think the general rule is… Your body is perfect no matter what, Riku."
-    mc "I think the general rule is… Your body is perfect no matter what, Riku."
+    mc "总的来说，无论如何，你的身材都是完美的，Riku。"
 
 # game/bar.rpy#L1471
 translate chinese barvisit2_8760f52f:
 
     # riku "Pffthhh, you adorable bitch."
-    riku "Pffthhh, you adorable bitch."
+    riku "切，油嘴滑头。"
 
 # game/bar.rpy#L1472
 translate chinese barvisit2_7de22d70:
 
     # riku "If we hadn’t already slept together, I reckon that one would have sealed the deal."
-    riku "If we hadn’t already slept together, I reckon that one would have sealed the deal."
+    riku "如果我们还没有上床，我想我自己就会想办法搞定。"
 
 # game/bar.rpy#L1473
 translate chinese barvisit2_06886cc8:
 
     # mc "I try my best."
-    mc "I try my best."
+    mc "乐意奉陪。"
 
 # game/bar.rpy#L1475
 translate chinese barvisit2_4345e760:
 
     # "She’s finally tidied away a few things and dusted the shelves and table, it’s time for the floor. She wastes no time getting on her hands and knees, sticking her cute butt up and swishing her tail."
-    "She’s finally tidied away a few things and dusted the shelves and table, it’s time for the floor. She wastes no time getting on her hands and knees, sticking her cute butt up and swishing her tail."
+    "她终于收拾好了一些东西，掸了架子和桌子上的灰尘，该清理地板了。她毫不犹豫地趴在地上，翘起可爱的臀部，甩动尾巴。"
 
 # game/bar.rpy#L1476
 translate chinese barvisit2_34fd1a80:
 
     # "Fairly sure she’s working her ass on purpose right now; she’s enjoying every moment."
-    "Fairly sure she’s working her ass on purpose right now; she’s enjoying every moment."
+    "我很确定她现在是故意的；她在享受每一刻。"
 
 # game/bar.rpy#L1477
 translate chinese barvisit2_53d6498a:
 
     # riku "Damn, I haven’t tried this hard at something since I was an athlete, ahaha."
-    riku "Damn, I haven’t tried this hard at something since I was an athlete, ahaha."
+    riku "妈的，从我不当运动员之后就没这么努力过了，哈哈。"
 
 # game/bar.rpy#L1478
 translate chinese barvisit2_a0fc4679:
 
     # mc "You mentioned that earlier, but I didn’t get a chance to ask. What did you mean when you said you missed your chance to be an athlete?"
-    mc "You mentioned that earlier, but I didn’t get a chance to ask. What did you mean when you said you missed your chance to be an athlete?"
+    mc "你之前就提到过，但我一直没机会问。你说你错过了成为运动员的机会是什么意思？"
 
 # game/bar.rpy#L1480
 translate chinese barvisit2_0175e8cb:
 
     # riku "Huh? You’re asking this now as I’m coughing up dust?"
-    riku "Huh? You’re asking this now as I’m coughing up dust?"
+    riku "嗯？你在我咳嗽的时候问这个？"
 
 # game/bar.rpy#L1481
 translate chinese barvisit2_7f320672:
 
     # riku "Ahh, it’s a long story anyway, I wouldn’t want to bore you."
-    riku "Ahh, it’s a long story anyway, I wouldn’t want to bore you."
+    riku "啊，这事说来话长，我不想让你厌烦。"
 
 # game/bar.rpy#L1482
 translate chinese barvisit2_db51770a:
 
     # mc "You can come and sit next to me; I’ll make you a drink. You deserve the break."
-    mc "You can come and sit next to me; I’ll make you a drink. You deserve the break."
+    mc "你可以过来坐在我旁边；我给你弄杯喝的。你应该休息一下。"
 
 # game/bar.rpy#L1487
 translate chinese barvisit2_6e2b8c49:
 
     # riku "Break? It’s been ten minutes, but I won’t complain."
-    riku "Break? It’s been ten minutes, but I won’t complain."
+    riku "休息？已经休息十分钟了，我不会抱怨的。"
 
 # game/bar.rpy#L1490
 translate chinese barvisit2_ce617998_2:
 
     # "…"
-    "…"
+    "……"
 
 # game/bar.rpy#L1493
 translate chinese barvisit2_04c4ea2f:
 
     # "She sits beside me and gently sips her fresh cup of tea. I spend a few moments answering her questions about me, and then we back-pedal to talking about her."
-    "She sits beside me and gently sips her fresh cup of tea. I spend a few moments answering her questions about me, and then we back-pedal to talking about her."
+    "Riku坐在我身边，轻轻地啜饮着刚泡的茶。我花了一些时间回答她关于我的问题，然后我们就开始谈论她。"
 
 # game/bar.rpy#L1494
 translate chinese barvisit2_85da4912:
 
     # riku "Haah, I hope you one up yourself after this maid stuff, make it a real memorable day."
-    riku "Haah, I hope you one up yourself after this maid stuff, make it a real memorable day."
+    riku "哈哈，我希望你能在女仆扮演这事后学会自己动手打扫，让这一天成为真正值得纪念的一天。"
 
 # game/bar.rpy#L1495
 translate chinese barvisit2_ddb0a79a:
@@ -5450,7 +5450,7 @@ translate chinese barvisit2_c318ef52:
 translate chinese barvisit2_57569313:
 
     # mc "Like, racing, but flying?"
-    mc "Like, racing, but flying?"
+    mc "比如，赛车，但是飞行？"
 
 # game/bar.rpy#L1504
 translate chinese barvisit2_58da7547:
@@ -5480,13 +5480,13 @@ translate chinese barvisit2_094c7243:
 translate chinese barvisit2_9e5eb9ae:
 
     # mc "That sounds really intense."
-    mc "That sounds really intense."
+    mc "这听起来真的很激烈"
 
 # game/bar.rpy#L1510
 translate chinese barvisit2_cb12d9a7:
 
     # riku "Of course, it had to be intense."
-    riku "Of course, it had to be intense."
+    riku "当然，它必须是激烈的。"
 
 # game/bar.rpy#L1512
 translate chinese barvisit2_084ed886:
@@ -5690,7 +5690,7 @@ translate chinese barvisit2_435629f3:
 translate chinese barvisit2_f9d71a57:
 
     # mc "And, what happened then?"
-    mc "And, what happened then?"
+    mc "接着，后来发生了什么？"
 
 # game/bar.rpy#L1559
 translate chinese barvisit2_287b9297:
