@@ -32,7 +32,7 @@ translate chinese strings:
 
     # game/3evening map.rpy_L79_0
     old "The Riding Mare bar"
-    new "雌驹善堕酒吧"
+    new "骑驹酒吧"
 
     # game/3evening map.rpy_L79_1
     old "Visit the bar"

@@ -74,7 +74,7 @@ translate chinese mapmarket_2ea6d676:
 translate chinese mapmarket_d9d75a85:
 
     # dawn2 "If you were to be such a gentleman as to help a lady carry her bags home, you'd be welcome to a delicious cup of tea with me. I'd love to hear more about how you defeated the evil Morphling Queen."
-    dawn2 "如果你足够绅士，愿意帮这样一位女士把行李搬回家，欢迎你和我一起喝杯可口的茶。我很想听听你是怎么打败邪恶的Morphling Queen的"
+    dawn2 "如果你足够绅士，愿意帮这样一位女士把行李搬回家，欢迎你和我一起喝杯可口的茶。我很想听听你是怎么打败邪恶的Morphling女皇的"
 
 # game/3map.rpy#L78
 translate chinese mapmarket_256e19e5:
@@ -122,7 +122,7 @@ translate chinese mapmarket_29357fd8:
 translate chinese dawnvisit5setup_6c35af9b:
 
     # "There's a market here, I wonder what I can buy?"
-    "这里有个市场，我想知道我能买到些啥?"
+    "这里有个市场，我想知道我能买到些啥"
 
 # game/3map.rpy#L103
 translate chinese marketmenu2_650386bf:

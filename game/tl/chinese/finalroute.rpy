@@ -902,7 +902,7 @@ translate chinese cforest_e6b8bb8e:
 translate chinese cforest_fdc105bb:
 
     # butters "Considering the potion’s effect has stayed within me long enough to prevent my brainwashing, I’m confident it’ll work."
-    butters "Considering the potion’s effect has stayed within me long enough to prevent my brainwashing, I’m confident it’ll work."
+    butters "既然药效久到能防止我被洗脑，相信它会管用的。"
 
 # game/finalroute.rpy#L487
 translate chinese cforest_180d740b:
@@ -1112,25 +1112,25 @@ translate chinese cforest_bf6ca3ce:
 translate chinese cforest_5189ac7d:
 
     # morrigan "Sexually? I think it’d be more satisfying to leave these two to the drones when I’m done."
-    morrigan "Sexually? I think it’d be more satisfying to leave these two to the drones when I’m done."
+    morrigan "来劲的？想必我完事后把这俩交给雄种们会更美妙吧。"
 
 # game/finalroute.rpy#L559
 translate chinese cforest_7b9ddd78:
 
     # morrigan "I wonder just how many cocks these royal whores can take at once… Hehe, it’d be more fun masturbating to that show than having them pleasure me."
-    morrigan "I wonder just how many cocks these royal whores can take at once… Hehe, it’d be more fun masturbating to that show than having them pleasure me."
+    morrigan "真好奇那俩皇家婊子一次性能搞多少吊子...呵呵，朝那场面玩阴会比让她俩伺候我有趣得多。"
 
 # game/finalroute.rpy#L561
 translate chinese cforest_0c72da47:
 
     # penelope "Perfectly degrading for old royalty, I love it."
-    penelope "Perfectly degrading for old royalty, I love it."
+    penelope "旧皇室的极致凌辱啊，我爱死这样了。"
 
 # game/finalroute.rpy#L563
 translate chinese cforest_df6b84d5:
 
     # penelope "What about you my Queen? Have you decided on a mate yet? With magic, I’d be perfectly happy to pro-"
-    penelope "What about you my Queen? Have you decided on a mate yet? With magic, I’d be perfectly happy to pro-"
+    penelope "你呢，我的女王殿下？决心有个性伴了么？附以魔力，我很乐意为你-"
 
 # game/finalroute.rpy#L565
 translate chinese cforest_041a08f4:

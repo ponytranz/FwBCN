@@ -5426,13 +5426,13 @@ translate chinese barvisit2_85da4912:
 translate chinese barvisit2_ddb0a79a:
 
     # "I wonder how I’m going to do that? This maid stuff is pretty crazy already."
-    "I wonder how I’m going to do that? This maid stuff is pretty crazy already."
+    "我该怎么办？这件女仆装有点太疯狂了。"
 
 # game/bar.rpy#L1497
 translate chinese barvisit2_ed9f7dd7:
 
     # riku "Anyway, it’s nice getting to know you. No harm in telling you a bit more about me too."
-    riku "Anyway, it’s nice getting to know you. No harm in telling you a bit more about me too."
+    riku "不管怎样，很高兴认识你。告诉你更多关于我的事也没有坏处。"
 
 # game/bar.rpy#L1499
 translate chinese barvisit2_436db0a8:
@@ -13270,7 +13270,7 @@ translate chinese strings:
 
     # game/bar.rpy_L1606_0
     old "Alright fine, let’s skip the dusting."
-    new "Alright fine, let’s skip the dusting."
+    new "好吧，让我们跳过打扫吧。"
 
     # game/bar.rpy_L1606_1
     old "So, you did want to show off your ass? How naughty!"
@@ -13294,7 +13294,7 @@ translate chinese strings:
 
     # game/bar.rpy_L2135_1
     old "I already have a pretty good idea of what you like."
-    new "I already have a pretty good idea of what you like."
+    new "我已经对你的性癖了如指掌。"
 
     # game/bar.rpy_L2259_0
     old "In order to talk/have sex with Riku I'll need to work with her first."

@@ -98,7 +98,7 @@ translate chinese zoe1_680e58f2:
 translate chinese zoe1_e442161f:
 
     # "There’s the occasional shuffling bush, but that’s easily written off as a woodland critter, of which there are many in this area."
-    "There’s the occasional shuffling bush, but that’s easily written off as a woodland critter, of which there are many in this area."
+    "这是偶尔舞动着的灌木丛；但是很容易被记录成林间小动物，其中有很多在这个地方。"
 
 # game/deepforest.rpy#L53
 translate chinese zoe1_c4bedb2e:
@@ -518,7 +518,7 @@ translate chinese zoe1_bb7d7df8:
 translate chinese zoe1_26f652ca:
 
     # butters "And I know the expression is to not stick your dick in crazy, but I heard you should always try it at least once."
-    butters "And I know the expression is to not stick your dick in crazy, but I heard you should always try it at least once."
+    butters "并且我知道表达方式是不要让你的阴茎疯狂插入，但是我听说你应该一直尝试了至少一次。"
 
 # game/deepforest.rpy#L170
 translate chinese zoe1_4a268838:
@@ -986,7 +986,7 @@ translate chinese zoetalkmenu_a534a865:
 translate chinese zoetalkmenu_cef16197:
 
     # zo "A Witch is certainly what some fairy tales could refer to an individual such as myself. However, under the veil, I know no magic."
-    zo "A Witch is certainly what some fairy tales could refer to an individual such as myself. However, under the veil, I know no magic."
+    zo "一个Witch准确地说是一些童话故事一提到的像我一样的格勒。然而，在帷幕之下，我不懂一点魔法。"
 
 # game/deepforest.rpy#L304
 translate chinese zoetalkmenu_9da38877:

@@ -8,7 +8,7 @@ translate chinese morning_f5b564ef:
 translate chinese morning_cef3722e:
 
     # "Another wet dream, this place is getting to me."
-    "又是一场春梦，这地方让我好伤心啊。"
+    "又是一场春梦，这地方让我感触良多啊。"
 
 # game/2morning.rpy#L18
 translate chinese morning_d4b70dc0:
@@ -620,7 +620,7 @@ translate chinese events_c6c1f093:
 translate chinese events_d598df87:
 
     # "Well, that's just about everything done for this morning. Where to today?"
-    "嗯，今天早上的事全都完成了。今天要去哪儿呢？"
+    "嗯，今天早上的事全都做了。今天要去哪儿呢？"
 
 translate chinese strings:
 

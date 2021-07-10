@@ -3074,7 +3074,7 @@ translate chinese creamvmissionary_e40d48ea:
 translate chinese creamvmissionary_6f4be0cf:
 
     # "I spend the majority of the night talking with Butters! She gets drunk very easily, and she's very flirty with me throughout the night."
-    "I spend the majority of the night talking with Butters! She gets drunk very easily, and she's very flirty with me throughout the night."
+    "我把大部分时间都花在了和Butters聊天上！她很容易就醉了，并且整晚都对我很调情。"
 
 # game/bakery.rpy#L947
 translate chinese creamvmissionary_a1250b40:

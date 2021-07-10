@@ -4598,7 +4598,7 @@ translate chinese libraryvisit2choice1_15a1dd0f:
 translate chinese libraryvisit2choice1_43ac2354:
 
     # lily "Why should I leave?"
-    lily "干嘛要离开呢?"
+    lily "为啥要离开呢?"
 
 # game/library.rpy#L1332
 translate chinese libraryvisit2choice1_55300a5e:
@@ -4616,7 +4616,7 @@ translate chinese libraryvisit2choice1_557452c1:
 translate chinese libraryvisit2choice1_e55c778a:
 
     # lily "Thanks to you for being my friend, I've been able to cheer up a bit more."
-    lily "不过谢谢你能当我的朋友，现在我已经能够多打起精神来了。"
+    lily "不过谢谢你能当我的朋友，现在我脾气已经好多了。"
 
 # game/library.rpy#L1337
 translate chinese libraryvisit2choice1_f4026ff2:
@@ -4640,7 +4640,7 @@ translate chinese libraryvisit2choice1_36bab2ff:
 translate chinese libraryvisit2choice1_4a26cf04:
 
     # mc "Can’t you invite someone to do something, or how about make some new friends?"
-    mc "你就不能邀请别人一起做些什么事情，或是结交些新朋友吗?"
+    mc "你就不能邀请别人一起做些什么事，或是结交些新朋友吗?"
 
 # game/library.rpy#L1343
 translate chinese libraryvisit2choice1_22209326:
@@ -4694,7 +4694,7 @@ translate chinese libraryvisit2choice1_3ef11c97:
 translate chinese libraryvisit2choice1_b92c14d7:
 
     # lily "They’re acquaintances, but when was the last time you hung out with an acquaintance?"
-    lily "她们是熟人，但我上次和她们出去是都什么时候了?"
+    lily "她们都是熟人，但我上次和她们出去是都什么时候了?"
 
 # game/library.rpy#L1356
 translate chinese libraryvisit2choice1_a27cac97:
@@ -4754,7 +4754,7 @@ translate chinese libraryvisit2choice1_39692f43:
 translate chinese libraryvisit2choice1_3fd66a6f:
 
     # lily "What do I do then? I won’t have any friends; I’ll be truly alone. Just a weird science hermit."
-    lily "到那时我该怎么办?我将没有任何朋友;我会真的孤独一生。就是位奇怪的科学隐士。"
+    lily "到那时我该怎么办?我将没有任何朋友;我会孤独一生。就是位奇怪的科学隐士。"
 
 # game/library.rpy#L1370
 translate chinese libraryvisit2choice1_f3d10cbb:
@@ -4766,7 +4766,7 @@ translate chinese libraryvisit2choice1_f3d10cbb:
 translate chinese libraryvisit2choice1_5bc89c5b:
 
     # lily "Even Aurora doesn’t understand me, it must be pretty damn easy to socialise when you’re 3002."
-    lily "就连Aurora都不理解我，可当你是3000多岁年龄的时候，社交肯定很容易啊。"
+    lily "就连Aurora都不理解我，可当你岁数有3000多岁时候，社交肯定会很容易啊。"
 
 # game/library.rpy#L1373
 translate chinese libraryvisit2choice1_e756ca6d:
@@ -4832,7 +4832,7 @@ translate chinese libraryvisit2choice1_b9ff074b:
 translate chinese libraryvisit2choice1_3908cc76:
 
     # lily "You can just tell her about your visit in the evening then."
-    lily "那你就晚上告诉她你的访问情况吧。"
+    lily "那你就晚上回去告诉她你的访问情况吧。"
 
 # game/library.rpy#L1389
 translate chinese libraryvisit2choice1_87bb701c:
@@ -4856,13 +4856,13 @@ translate chinese libraryvisit2choice1_d54d1dfc:
 translate chinese libraryvisit2choice1_ac0bba63:
 
     # lily "Just tell her about your visit when you see her."
-    lily "当你见到她时就告诉她你的访问情况就好了。"
+    lily "当你见到她时就告诉她你的访问情况就行了。"
 
 # game/library.rpy#L1400
 translate chinese libraryvisit2choice1_599c02c9:
 
     # lily "B-b-b-bitch?! That’s really mean."
-    lily "婊-婊子？！这真的很过分！"
+    lily "婊-婊子？！这真的太过分了！"
 
 # game/library.rpy#L1401
 translate chinese libraryvisit2choice1_83f611dc:
@@ -4880,7 +4880,7 @@ translate chinese libraryvisit2choice1_382d4c45:
 translate chinese libraryvisit2choice1_485fe309:
 
     # mc "Yeah, so… What are you going to do about it?"
-    mc "是的，所以……你打算怎么办？"
+    mc "行，所以……你打算怎么办？"
 
 # game/library.rpy#L1408
 translate chinese libraryvisit2choice1_c86f4b6d:
@@ -4892,7 +4892,7 @@ translate chinese libraryvisit2choice1_c86f4b6d:
 translate chinese libraryvisit2choice1_15e87d3f:
 
     # lily "Meh, if I think about this from your perspective it does make sense."
-    lily "嗯，如果让我从你的角度来考虑这件事的话，这是合理的。"
+    lily "嗯，如果让我从你的角度来考虑这件事的话，这没错。"
 
 # game/library.rpy#L1411
 translate chinese libraryvisit2choice1_7ace2506:
@@ -4910,25 +4910,25 @@ translate chinese libraryvisit2choice1_f37aa00b:
 translate chinese libraryvisit2choice1_467a55d7:
 
     # lily "Friends? Ahh come on, why do you have to hit me where it stings?"
-    lily "朋友？啊，得了吧，那你为什么非得打我疼的地方？"
+    lily "朋友？啊，得了吧，你为什么非得戳我痛处？"
 
 # game/library.rpy#L1417
 translate chinese libraryvisit2choice1_96e46c08:
 
     # lily "She put so many people in danger, I bet she didn’t even tell you what happened."
-    lily "她把太多人置于危险当中了，我打赌她甚至没告诉你发生了什么。"
+    lily "她把太多人置于危险当中了，我甚至打赌她没告诉你当时都发生了什么。"
 
 # game/library.rpy#L1418
 translate chinese libraryvisit2choice1_93b0d670:
 
     # mc "She did, actually, she was pretty torn up about it."
-    mc "是的，事实上，她为此很伤心。"
+    mc "她确实做过，但事实上，她也为此感到伤心。"
 
 # game/library.rpy#L1419
 translate chinese libraryvisit2choice1_f3f0b4e7:
 
     # mc "Of course she regrets what she did, and she’s working to improve. Doesn’t she deserve your forgiveness?"
-    mc "当然，她对自己所做的感到后悔，她正在努力改进。这样的她不值得你原谅吗？"
+    mc "当然，她对自己所做所为感到后悔，她也正在努力改进。这样难道不值得你原谅吗？"
 
 # game/library.rpy#L1421
 translate chinese libraryvisit2choice1_9da08771:
@@ -4940,13 +4940,13 @@ translate chinese libraryvisit2choice1_9da08771:
 translate chinese libraryvisit2choice1_e3f7ef86:
 
     # mc "Bloody hell, how are you supposed to see change if you avoid her at all costs?"
-    mc "该死，如果你还继续这样不惜一切代价来避开她，你怎么可能看到她的改变？"
+    mc "靠，可是你还这样继续不顾一切的来避开她，你又怎么可能看到她的改变？"
 
 # game/library.rpy#L1426
 translate chinese libraryvisit2choice2_74c7f8f7:
 
     # lily "Damnit... I’ll think about it, okay?"
-    lily "该死的......我会考虑的，好吗？"
+    lily "该死的......我会考虑的，行吧？"
 
 # game/library.rpy#L1427
 translate chinese libraryvisit2choice2_d25cbc52:
@@ -4964,31 +4964,31 @@ translate chinese libraryvisit2choice2_5ad6e9e1:
 translate chinese libraryvisit2choice2_f47262dd:
 
     # lily "You know, you kinda turned me on when you called me a bitch just then..."
-    lily "你知道吗，你刚才叫我婊子的时候让我很生气......."
+    lily "你知道吗，你刚才叫我婊子的时候真的让我很生气......."
 
 # game/library.rpy#L1434
 translate chinese libraryvisit2choice2_867138c1:
 
     # lily "I dunno, maybe I’m a jealous girl and need some post-nut clarity to think about this one clearly."
-    lily "I dunno, maybe I’m a jealous girl and need some post-nut clarity to think about this one clearly."
+    lily "我不知道，也许我是一个嫉妒心强的女孩，我需要看到一些清晰的事实后来考虑清楚这个问题。"
 
 # game/library.rpy#L1435
 translate chinese libraryvisit2choice2_d2e007ad:
 
     # "So that's it? She'll let me bring Moxie if I have sex with her?"
-    "就这样？如果我和她上床，她会允许我带Moxie来吗？"
+    "就这样？如果我和她上床，她会允许我带Moxie去吗？"
 
 # game/library.rpy#L1436
 translate chinese libraryvisit2choice2_db377236:
 
     # "As manipulative as that may be, it's a win/win for me."
-    "As manipulative as that may be, it's a win/win for me."
+    "尽管这可能是一种心理操纵，但对我们来讲是一种双赢。"
 
 # game/library.rpy#L1437
 translate chinese libraryvisit2choice2_cd38f6db:
 
     # mc "Hmm, alright, I’ll bite. What kind of devious tests do you want to conduct on me today?"
-    mc "嗯，好吧，我咬一口。你今天想对我做什么不正当的测试？"
+    mc "嗯，好吧，我上钩了。你今天想对我进行什么样的狡猾测试？"
 
 # game/library.rpy#L1439
 translate chinese libraryvisit2choice2_3c896deb:

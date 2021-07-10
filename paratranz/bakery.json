@@ -7682,14 +7682,14 @@
   {
     "id": 79423685,
     "createdAt": "2021-05-30T17:55:35.000Z",
-    "updatedAt": "2021-06-18T17:44:58.000Z",
+    "updatedAt": "2021-07-09T16:40:26.000Z",
     "key": "creamvmissionary_6f4be0cf",
     "original": "I spend the majority of the night talking with Butters! She gets drunk very easily, and she's very flirty with me throughout the night.",
-    "translation": "",
+    "translation": "我把大部分时间都花在了和Butters聊天上！她很容易就醉了，并且整晚都对我很调情。",
     "file": 272339,
-    "stage": 0,
+    "stage": 1,
     "project": 2414,
-    "uid": null,
+    "uid": 22409,
     "extra": null,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwBCN/blob/main/game/bakery.rpy#L946",
     "words": 24

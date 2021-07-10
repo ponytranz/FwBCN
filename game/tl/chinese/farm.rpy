@@ -512,7 +512,7 @@ translate chinese honeycrispmenu_007ed673:
 translate chinese honeycrispmenu_06a7eae8:
 
     # honeycrisp "If you stick around tho', I'll give you one heck of a ride."
-    honeycrisp "If you stick around tho', I'll give you one heck of a ride."
+    honeycrisp "如果你还呆在远处，我会给你一个吊爆的“骑”行。"
 
 # game/farm.rpy#L192
 translate chinese honeycrispmenu_bd9f0282:
@@ -650,7 +650,7 @@ translate chinese farmvisit1_9978e619:
 translate chinese farmvisit1_eabde2a3:
 
     # honeycrisp "’ppreciate it friend. Let’s get right to it, there’s a ladder in the barn, lemme show ya."
-    honeycrisp "’ppreciate it friend. Let’s get right to it, there’s a ladder in the barn, lemme show ya."
+    honeycrisp "欣赏它，朋友。让我们言归正传，在谷仓里有一个梯子，让我给你看看。"
 
 # game/farm.rpy#L256
 translate chinese farmvisit1_839a90be:
