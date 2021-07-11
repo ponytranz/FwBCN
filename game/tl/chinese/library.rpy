@@ -56,7 +56,7 @@ translate chinese libraryvisit1_04f71f89:
 translate chinese libraryvisit1_96881bb4:
 
     # "I look up and see a purple pony peeking from a window, that must be Lily, right?"
-    "我抬头看到一只紫色的小马在窗口偷看我，那一定是Lily是吧？"
+    "我抬头看到一只紫色的小马在窗口偷看我，想必就是Lily？"
 
 # game/library.rpy#L31
 translate chinese libraryvisit1_99dea19d:
@@ -4988,7 +4988,7 @@ translate chinese libraryvisit2choice2_db377236:
 translate chinese libraryvisit2choice2_cd38f6db:
 
     # mc "Hmm, alright, I’ll bite. What kind of devious tests do you want to conduct on me today?"
-    mc "嗯，好吧，我上钩了。你今天想对我进行什么样的狡猾测试？"
+    mc "嗯，好吧，我上钩了。你今天想对我进行什么样奇奇怪怪的测试？"
 
 # game/library.rpy#L1439
 translate chinese libraryvisit2choice2_3c896deb:
@@ -5000,19 +5000,19 @@ translate chinese libraryvisit2choice2_3c896deb:
 translate chinese libraryvisit2choice2_926940b7:
 
     # lily "I can’t think of any scientific innuendos, but I don’t want to seem like a slut by asking you straight up."
-    lily "I can’t think of any scientific innuendos, but I don’t want to seem like a slut by asking you straight up."
+    lily "我不想用什么科学的借口跟你拐弯抹角的，但我不想直接问你，这样我看起来就像个荡妇一样。"
 
 # game/library.rpy#L1442
 translate chinese libraryvisit2choice2_0135fb08:
 
     # mc "Since when were you the kind of person that cared what others think?"
-    mc "从什么时候起你是那种在乎别人怎么想的人了？"
+    mc "从什么时候起你是那种在乎其他马看法的马了？"
 
 # game/library.rpy#L1443
 translate chinese libraryvisit2choice2_0984e9ff:
 
     # lily "Nah, it’s not about others, it’ll just be me arguing with myself in my head."
-    lily "不，这和别人无关，只是我在脑子里和自己争论。"
+    lily "不，这和其他马无关，只是我在脑子里和自己争论。"
 
 # game/library.rpy#L1447
 translate chinese lilystandingsex_1fe6b26e:
@@ -5048,7 +5048,7 @@ translate chinese lilystandingsex_3977ba79:
 translate chinese lilystandingsex_a461c1f6:
 
     # "She timidly takes a few steps closer. When she's close enough, I grab her by the hips and pull her into an animalistic kiss, she reciprocates with just as much passion and aggression."
-    "She timidly takes a few steps closer. When she's close enough, I grab her by the hips and pull her into an animalistic kiss, she reciprocates with just as much passion and aggression."
+    "她怯生生地向我这边走了几步。当我们离得足够近时，我一把环抱住她的小蛮腰，趁机香起她的脸蛋，狂野地吻了上去，她也报以同样的热情和侵略性回吻着我。"
 
 # game/library.rpy#L1459
 translate chinese lilystandingsex_c3096045:
@@ -5072,13 +5072,13 @@ translate chinese lilystandingsex_a01eb7a9:
 translate chinese lilystandingsex_c07512a8:
 
     # "As I rub, she muffles a few moans into our kiss. Her confidence also grows, and she soon returns the favour by giving me a hand job on my now fully erect cock."
-    "As I rub, she muffles a few moans into our kiss. Her confidence also grows, and she soon returns the favour by giving me a hand job on my now fully erect cock."
+    "我的摩擦让接吻中的她发出了几声嘤的娇吟。她的主动性也开始渐长，伸出手在我完全勃起的肉棒上套动起来，算是回报我。"
 
 # game/library.rpy#L1474
 translate chinese lilystandingsex_8986f169:
 
     # "Her clit is so sensitive that eventually she has to pull away from the kiss, finally letting out her moans and ragged breaths."
-    "Her clit is so sensitive that eventually she has to pull away from the kiss, finally letting out her moans and ragged breaths."
+    "她的阴蒂非常敏感，她不得不和我唇分，让自己能放声呻吟和喘气。"
 
 # game/library.rpy#L1475
 translate chinese lilystandingsex_e8dff9c3:
@@ -5090,7 +5090,7 @@ translate chinese lilystandingsex_e8dff9c3:
 translate chinese lilystandingsex_586805f3:
 
     # lily "I want to do it properly this time, the whole thing... Haahh, hahh..."
-    lily "这次我想好好做，整件事......哈哈，哈哈......"
+    lily "这次我想好好做，一整套......哈哈，哈哈......"
 
 # game/library.rpy#L1477
 translate chinese lilystandingsex_58d78815:
@@ -5120,7 +5120,7 @@ translate chinese lilystandingsex_b96ab82b:
 translate chinese lilystandingsex_b1347bc1:
 
     # "I bring my cock to the tip of her pussy and it easily slides in with a lewd schlick. Lily arches her back and lets out a sigh of relief as she’s finally filled up."
-    "I bring my cock to the tip of her pussy and it easily slides in with a lewd schlick. Lily arches her back and lets out a sigh of relief as she’s finally filled up."
+    "我把我的龟头对准了她的小穴，非常轻易地就插了进去，还发出一声淫靡的“噗”声。Lily终于得偿所愿，背部高高弓起，发出一声满意的呻吟。"
 
 # game/library.rpy#L1486
 translate chinese lilystandingsex_6175481f:
@@ -5132,43 +5132,43 @@ translate chinese lilystandingsex_6175481f:
 translate chinese lilystandingsex_5ae64ccc:
 
     # "I start to slowly move my hips back and forth, fucking her gently and savouring the tightness of her vagina."
-    "I start to slowly move my hips back and forth, fucking her gently and savouring the tightness of her vagina."
+    "我开始慢慢地来回抽插，轻柔地操着她，好好品尝她紧致的小穴。"
 
 # game/library.rpy#L1489
 translate chinese lilystandingsex_6b41d653:
 
     # "My cock was as hard as it could be, as every inch was squeezed and pleasured. With each thrust Lily moaned out with joy from the pleasure."
-    "My cock was as hard as it could be, as every inch was squeezed and pleasured. With each thrust Lily moaned out with joy from the pleasure."
+    "我的肉棒已经硬到胀痛，每一寸都被紧紧噬咬挤压着。每一次抽插都能让Lily迸发出愉快的呻吟。"
 
 # game/library.rpy#L1490
 translate chinese lilystandingsex_be4d5884:
 
     # lily "Ahaahh, aahhhh... It’s really sensitive, but in a good way."
-    lily "Ahaahh, aahhhh... It’s really sensitive, but in a good way."
+    lily "啊啊，啊啊...我好敏感啊，不过也好舒服。"
 
 # game/library.rpy#L1491
 translate chinese lilystandingsex_c44c907f:
 
     # "Since we're fucking while standing, her legs are together, making her even tighter around my throbbing shaft."
-    "Since we're fucking while standing, her legs are together, making her even tighter around my throbbing shaft."
+    "虽然我们是站着在抽插，但她的腿是合拢的，使她的肉穴感觉更紧致，让我的长枪开始挑动起来。"
 
 # game/library.rpy#L1492
 translate chinese lilystandingsex_1219fdc6:
 
     # "The result is ecstasy, beyond amazing."
-    "The result is ecstasy, beyond amazing."
+    "这已经是销魂了，远超普通的快感。"
 
 # game/library.rpy#L1493
 translate chinese lilystandingsex_a4711ba0:
 
     # "As I looked up at Lily’s face I could tell by her delirious expression that she is enjoying this even more than me."
-    "As I looked up at Lily’s face I could tell by her delirious expression that she is enjoying this even more than me."
+    "我抬头看向Lily，一张欲仙欲死的俏脸告诉我，她比我更享受这次交媾。"
 
 # game/library.rpy#L1494
 translate chinese lilystandingsex_c55017c6:
 
     # lily "Ah- Ahhh! F-Fuck, I think I’m coming already!"
-    lily "Ah- Ahhh! F-Fuck, I think I’m coming already!"
+    lily "啊-啊啊！妈，妈的，我可能要去了！"
 
 # game/library.rpy#L1495
 translate chinese lilystandingsex_01f3a775:
@@ -5180,37 +5180,37 @@ translate chinese lilystandingsex_01f3a775:
 translate chinese lilystandingsex_10af3034:
 
     # "Even though I was going slowly, I managed to push her over the edge. Her insides started to constrict in rhythmical waves, tightening around the base of my cock, squeezing and sucking tightly."
-    "Even though I was going slowly, I managed to push her over the edge. Her insides started to constrict in rhythmical waves, tightening around the base of my cock, squeezing and sucking tightly."
+    "尽管我插得不算快，我还是成功让她高潮了。肉壁开始以梦幻般的节奏律动挤压着我的棒身，死死地吸噬着。"
 
 # game/library.rpy#L1497
 translate chinese lilystandingsex_f2903bee:
 
     # "I couldn’t help but fuck her faster in the moment. Her entire body seemingly reacting to each thrust as I constantly moved my hips back and forth."
-    "I couldn’t help but fuck her faster in the moment. Her entire body seemingly reacting to each thrust as I constantly moved my hips back and forth."
+    "我开始不由自主地加速。每一次抽插都让她的身体得偿所愿，陷入无尽的愉悦当中。"
 
 # game/library.rpy#L1498
 translate chinese lilystandingsex_bb43b30a:
 
     # "It was at this moment where I was entranced by the way her cute small breasts bounced with each thrust."
-    "It was at this moment where I was entranced by the way her cute small breasts bounced with each thrust."
+    "就在这一刻，她那每一次抽插而疯狂摇晃的可爱巨乳吸引起了我的注意。"
 
 # game/library.rpy#L1499
 translate chinese lilystandingsex_1292aa6e:
 
     # "With a free hand I reached over to grope one, enjoying how soft it felt against my skin."
-    "With a free hand I reached over to grope one, enjoying how soft it felt against my skin."
+    "我腾出一只手抓住她的一只丰乳，感受着它温软的触感。"
 
 # game/library.rpy#L1500
 translate chinese lilystandingsex_f62a982f:
 
     # lily "Hahhh, haahh… M-My breasts? T-They’re really sensitive…"
-    lily "Hahhh，haahh... 我-我的乳房？它-它们真的很敏感……"
+    lily "哈，哈啊... 我-我的乳房？它-它们真的很敏感……"
 
 # game/library.rpy#L1501
 translate chinese lilystandingsex_2b1bc78a:
 
     # "I enjoy playing with her cute nipple too, it readily becomes erect under my touch."
-    "I enjoy playing with her cute nipple too, it readily becomes erect under my touch."
+    "她可爱的乳头我自然也不会落下，在我的抚摸下立即充血高高立起。"
 
 # game/library.rpy#L1502
 translate chinese lilystandingsex_37a11ce3:
@@ -5222,55 +5222,55 @@ translate chinese lilystandingsex_37a11ce3:
 translate chinese lilystandingsex_5f1a5072:
 
     # "My thrusts gradually got harder and faster, it didn’t take long for the slapping sound of our hips colliding to echo throughout the wooden room over and over."
-    "My thrusts gradually got harder and faster, it didn’t take long for the slapping sound of our hips colliding to echo throughout the wooden room over and over."
+    "我的抽插变得更用力和快速，我们胯部撞在一起发出的啪啪声不一会就响遍了木制房间。"
 
 # game/library.rpy#L1504
 translate chinese lilystandingsex_05263407:
 
     # "That combined with the lewd wet noises from our point of contact, spurred me on even more."
-    "That combined with the lewd wet noises from our point of contact, spurred me on even more."
+    "再加上我们交合处发出的污秽潮湿的声音又我性奋更甚。"
 
 # game/library.rpy#L1505
 translate chinese lilystandingsex_5f455106:
 
     # lily "Aahhh, oohhh… I’m close, again!"
-    lily "Aahhh，oohhh... 我又接近了！"
+    lily "啊啊，哦...我又要，去了！"
 
 # game/library.rpy#L1506
 translate chinese lilystandingsex_d0c81715:
 
     # "I could also feel the pressure building as my cock throbbed and shaft tightened. I wouldn’t be able to hold it much longer."
-    "I could also feel the pressure building as my cock throbbed and shaft tightened. I wouldn’t be able to hold it much longer."
+    "我能感受到快感在我的鸡巴上堆积，它开始悸动，变得更加肿胀。我想必坚持不了多久了。"
 
 # game/library.rpy#L1507
 translate chinese lilystandingsex_f54b0474:
 
     # mc "I’m going to cum inside, is that okay?"
-    mc "I’m going to cum inside, is that okay?"
+    mc "我射在里面，没关系的吧？"
 
 # game/library.rpy#L1508
 translate chinese lilystandingsex_25a6e0f7:
 
     # lily "Yes, yes! Cum inside me [playername]!"
-    lily "是的！是的！全射进来吧 [playername]！"
+    lily "是的！没关系！全射进来吧 [playername]！"
 
 # game/library.rpy#L1509
 translate chinese lilystandingsex_72fb7d47:
 
     # lily "Let's come together! Haahh, yes! Aah, aaahhh!"
-    lily "让我们一起来！Haahh, yes! Aah, aaahhh!"
+    lily "让我们一起高潮吧！哈啊，去了！啊，啊啊！"
 
 # game/library.rpy#L1514
 translate chinese lilystandingsex_e30e22a5:
 
     # "Cum exploded out the tip of my cock as I relentlessly pounded her pussy."
-    "Cum exploded out the tip of my cock as I relentlessly pounded her pussy."
+    "在我霸道地抽插着她的阴道的时候，精液终于从鸡巴中喷涌而出。"
 
 # game/library.rpy#L1515
 translate chinese lilystandingsex_1ee08095:
 
     # "She came too, as she shivered and moaned in ecstasy, I kept pumping her insides with semen."
-    "She came too, as she shivered and moaned in ecstasy, I kept pumping her insides with semen."
+    "她也去了，在我横冲直撞的精液冲击下销魂地颤抖和呻吟着。"
 
 # game/library.rpy#L1519
 translate chinese lilystandingsex_ffd6f663:
@@ -5282,19 +5282,19 @@ translate chinese lilystandingsex_ffd6f663:
 translate chinese lilystandingsex_49f657af:
 
     # "My orgasm eventually faded, and my hips came to a stop. I didn’t immediately pull out, instead she leans back and we embrace for a few moments."
-    "My orgasm eventually faded, and my hips came to a stop. I didn’t immediately pull out, instead she leans back and we embrace for a few moments."
+    "我滚烫的岩浆终于射完，也停下了腰间的动作。不过我还没想拔出来，她向后靠在我的怀中，我们互相抱在了一起。"
 
 # game/library.rpy#L1528
 translate chinese lilystandingsex_1f932424:
 
     # lily "Mmphh, you came a lot…"
-    lily "嗯，你来了很多……"
+    lily "嗯，你射了很多……"
 
 # game/library.rpy#L1529
 translate chinese lilystandingsex_e6c9e51c:
 
     # mc "Hard not to when it feels that good."
-    mc "Hard not to when it feels that good."
+    mc "这么销魂我哪里还把持得住呢。"
 
 # game/library.rpy#L1531
 translate chinese lilystandingsex_66dd61b8:
@@ -5306,31 +5306,31 @@ translate chinese lilystandingsex_66dd61b8:
 translate chinese lilystandingsex_139276d0:
 
     # "I pull out and we go snuggle in her cosy bed while we catch our breath and cool down, beads of sweat gradually evaporating."
-    "I pull out and we go snuggle in her cosy bed while we catch our breath and cool down, beads of sweat gradually evaporating."
+    "我拔了出来，彼此依偎在舒适的床上，喘着气缓神，身上的汗液渐渐干了。"
 
 # game/library.rpy#L1539
 translate chinese lilystandingsex_a6e10442:
 
     # "It’s only about 9:30am so I really ought to be careful, lest I fall asleep and miss work, so I keep my eyes open."
-    "It’s only about 9:30am so I really ought to be careful, lest I fall asleep and miss work, so I keep my eyes open."
+    "现在才早点九点半，我得当心点，防止自己睡着，必须睁大眼睛。"
 
 # game/library.rpy#L1540
 translate chinese lilystandingsex_04c9d42b:
 
     # "Lily looks quite beautiful from where I’m lying."
-    "Lily looks quite beautiful from where I’m lying."
+    "我躺在床上，Lily看起来格外光鲜亮丽。"
 
 # game/library.rpy#L1541
 translate chinese lilystandingsex_a1b1c6d1:
 
     # "With her eyes still closed, she speaks."
-    "With her eyes still closed, she speaks."
+    "她没睁开眼睛，朝我开口了。"
 
 # game/library.rpy#L1542
 translate chinese lilystandingsex_efd5f89b:
 
     # lily "I’ve decided that I’ll let Moxie come."
-    lily "I’ve decided that I’ll let Moxie come."
+    lily "我决定了，让Moxie过来。"
 
 # game/library.rpy#L1543
 translate chinese lilystandingsex_c3b6982d:
@@ -5348,7 +5348,7 @@ translate chinese lilystandingsex_2a42592c:
 translate chinese lilystandingsex_16717e4c:
 
     # lily "I guess if she’s capable of that… Well, she must be an alright person."
-    lily "我想如果她能做到的话…嗯，她一定是个好人。"
+    lily "我想如果她能做到的话…那，她一定是匹好马。"
 
 # game/library.rpy#L1546
 translate chinese lilystandingsex_254f8d9b:
@@ -5360,7 +5360,7 @@ translate chinese lilystandingsex_254f8d9b:
 translate chinese lilystandingsex_8a428826:
 
     # lily "Mmphh… I’m going to try and be more open with people, less shy…"
-    lily "嗯…我要试着对人更开放，少害羞…"
+    lily "嗯…我要试着对其他马更开放，不能老是羞答答的…"
 
 # game/library.rpy#L1550
 translate chinese lilystandingsex_dcb0442c:
@@ -5420,13 +5420,13 @@ translate chinese lilystandingsex_4af907d2:
 translate chinese lilystandingsex_92e8334b:
 
     # penelope "Well aren’t you just a person can opener, I’m fairly sure you’ve helped Moxie, me and Lily with our issues now."
-    penelope "Well aren’t you just a person can opener, I’m fairly sure you’ve helped Moxie, me and Lily with our issues now."
+    penelope "好嘛，你还真是个马际关系的破冰镐，我非常确定，我，Moxie和Lily的问题都在你的帮助下顺利解决了。"
 
 # game/library.rpy#L1567
 translate chinese lilystandingsex_cc101a77:
 
     # mc "Helped? Nah, you’re overblowing it, I’m just good at listening to people."
-    mc "帮助？不，你说得太夸张了，我只是善于倾听别人的声音。"
+    mc "帮助？不，你说得太夸张了，我只是善于倾听其他马的声音。"
 
 # game/library.rpy#L1573
 translate chinese lilystandingsex_1004eeea:
@@ -5438,7 +5438,7 @@ translate chinese lilystandingsex_1004eeea:
 translate chinese lilystandingsex_7dcf5dc8:
 
     # mc "I’ve heard of that happening before. The mind can be woefully irrational."
-    mc "I’ve heard of that happening before. The mind can be woefully irrational."
+    mc "这种情况我也有所耳闻。思维在这种情况下很容易狂躁。"
 
 # game/library.rpy#L1576
 translate chinese lilystandingsex_ba24b62e:
@@ -5456,25 +5456,25 @@ translate chinese lilystandingsex_05dfad42:
 translate chinese lilystandingsex_dccfc273:
 
     # mc "She doesn’t seem to have an issue with small talk, but she struggles going out to meet people."
-    mc "She doesn’t seem to have an issue with small talk, but she struggles going out to meet people."
+    mc "跟她聊聊天不成问题，但要和其他马交往非常困难。"
 
 # game/library.rpy#L1581
 translate chinese lilystandingsex_d5339d67:
 
     # mc "She feels like she’s drifted too far away from her friends, and any attempt to reconnect would be awkward."
-    mc "She feels like she’s drifted too far away from her friends, and any attempt to reconnect would be awkward."
+    mc "她觉得自己和朋友之间的隔阂非常深，任何和朋友之间的交流都会变得很尴尬。"
 
 # game/library.rpy#L1583
 translate chinese lilystandingsex_7b00c701:
 
     # penelope "Those insecurities will eat her away, most people are more than happy to be her friend."
-    penelope "Those insecurities will eat her away, most people are more than happy to be her friend."
+    penelope "这种不安全感会毁了她的，许多马其实都想跟她做朋友的。"
 
 # game/library.rpy#L1584
 translate chinese lilystandingsex_1c46ae09:
 
     # penelope "Hmm… How can we help her?"
-    penelope "Hmmm 我们怎样才能帮助她？"
+    penelope "嗯...我们怎样才能帮助她呢？"
 
 # game/library.rpy#L1587
 translate chinese lilystandingsex_31f0525d:
@@ -5486,79 +5486,79 @@ translate chinese lilystandingsex_31f0525d:
 translate chinese lilystandingsex_860de235:
 
     # penelope "I dunno, I’m doing a similar course to her and I have plenty of free time. Hence why I’m working in the library."
-    penelope "I dunno, I’m doing a similar course to her and I have plenty of free time. Hence why I’m working in the library."
+    penelope "我不知道，我的课题跟她的差不多，而且有不少空余时间。不然我也不会来图书馆工作。"
 
 # game/library.rpy#L1589
 translate chinese lilystandingsex_de0b7f29:
 
     # mc "She said she doesn’t get much supervisor support, maybe that’s why?"
-    mc "She said she doesn’t get much supervisor support, maybe that’s why?"
+    mc "她说她没分配到多少上面给的资源，可能这就是原因？"
 
 # game/library.rpy#L1591
 translate chinese lilystandingsex_eb935c26:
 
     # penelope "Heh, yeah I guess when your supervisor is the Queen there’s not a lot of leeway."
-    penelope "Heh, yeah I guess when your supervisor is the Queen there’s not a lot of leeway."
+    penelope "嘿，有可能，如果你的上面是一位女王，确实没有多少斡旋的余地。"
 
 # game/library.rpy#L1592
 translate chinese lilystandingsex_6feb5135:
 
     # penelope "Honestly though, it just sounds like an excuse to avoid talking to people. One that she really ought to get over."
-    penelope "Honestly though, it just sounds like an excuse to avoid talking to people. One that she really ought to get over."
+    penelope "这么想的话，这确实是一个怕生的原因。她应该努力克服这个。"
 
 # game/library.rpy#L1593
 translate chinese lilystandingsex_0bc0e3e4:
 
     # "Come to think of it, the conversation with Lily about her shyness went nowhere. It feels like she’s trapped and can’t find a way out."
-    "Come to think of it, the conversation with Lily about her shyness went nowhere. It feels like she’s trapped and can’t find a way out."
+    "现在回想起来，当时和Lily谈论她怕生的问题最后都拐进了死胡同。感觉她一直陷在里面出不去。"
 
 # game/library.rpy#L1594
 translate chinese lilystandingsex_169b885d:
 
     # "The only progress I made with Lily is to let Moxie come to the castle, I couldn’t think of anything else."
-    "The only progress I made with Lily is to let Moxie come to the castle, I couldn’t think of anything else."
+    "我目前唯一争取到的也只是Lily允许Moxie进城堡而已，除了这个好像也没别的了。"
 
 # game/library.rpy#L1602
 translate chinese libraryday2choice2_12a93ceb:
 
     # penelope "I’d like to think we are, but I can go days at a time without seeing her. It’s crazy to think about."
-    penelope "I’d like to think we are, but I can go days at a time without seeing her. It’s crazy to think about."
+    penelope "我倒是想啊，不过我有时候好几天都碰不到她。想想就疯狂。"
 
 # game/library.rpy#L1603
 translate chinese libraryday2choice2_16251fb4:
 
     # penelope "I’m no beacon of confidence myself, I’d feel awkward knocking on her door just to talk. I wouldn’t know what to say."
-    penelope "I’m no beacon of confidence myself, I’d feel awkward knocking on her door just to talk. I wouldn’t know what to say."
+    penelope "我自己也没那么自来熟，敲她门就为了跟她说两句话，蛮尴尬的。我都不晓得怎么去开口。"
 
 # game/library.rpy#L1604
 translate chinese libraryday2choice2_4943603a:
 
     # mc "Can’t you invite her out somewhere and just talk as friends?"
-    mc "Can’t you invite her out somewhere and just talk as friends?"
+    mc "你就不能把她约出来，像个朋友那样互相倾诉吗？"
 
 # game/library.rpy#L1606
 translate chinese libraryday2choice2_f5738bd9:
 
     # penelope "I mean I guess, but I just feel like I’d get a resounding ‘no’ if I asked that."
-    penelope "I mean I guess, but I just feel like I’d get a resounding ‘no’ if I asked that."
+    penelope "我的意思是，我只是假象，我觉得我提这个要求她只会跟我说“不”。"
 
 # game/library.rpy#L1607
 translate chinese libraryday2choice2_be249dc5:
 
     # mc "Hmm… I think you’d be surprised."
-    mc "Hmm… I think you’d be surprised."
+    mc "嗯...我倒觉得未必。"
 
 # game/library.rpy#L1612
 translate chinese libraryday2choice2_43448e40:
 
     # penelope "Eehhh…? Giiiiirlfriend?"
-    penelope "Eehhh…? Giiiiirlfriend?"
+    penelope "欸欸...？女月月友？"
 
 # game/library.rpy#L1614
 translate chinese libraryday2choice2_d20262ae:
 
     # "She quickly regains her composure and her blush disappears as if it was never on her cheeks to begin with."
-    "She quickly regains her composure and her blush disappears as if it was never on her cheeks to begin with."
+    "一阵红晕快速从她脸上划过，但她又很快镇定了下来，好似从来没泛过那抹红晕。"
 
 # game/library.rpy#L1615
 translate chinese libraryday2choice2_bc3a14a8:
@@ -5570,37 +5570,37 @@ translate chinese libraryday2choice2_bc3a14a8:
 translate chinese libraryday2choice2_91696428:
 
     # mc "Pffft, and I am?"
-    mc "那我呢？"
+    mc "噫，那我呢？"
 
 # game/library.rpy#L1618
 translate chinese libraryday2choice2_8a4a9f23:
 
     # penelope "I mean… As a girl, I guess you were."
-    penelope "我是说…作为一个女孩，我想你是。"
+    penelope "我是说…如果你是个女孩的话，那就是。"
 
 # game/library.rpy#L1620
 translate chinese libraryday2choice2_2d4a6da2:
 
     # penelope "It’s different, can we talk about that later?"
-    penelope "这不一样，我们可以晚点再谈吗？"
+    penelope "两码事，我们可以晚点再谈这个吗？"
 
 # game/library.rpy#L1621
 translate chinese libraryday2choice2_5ebd01cd:
 
     # penelope "Anyway! How the hell do you know she’s sexually repressed?"
-    penelope "Anyway! How the hell do you know she’s sexually repressed?"
+    penelope "还有！你怎么知道她在性方面很压抑？"
 
 # game/library.rpy#L1622
 translate chinese libraryday2choice2_aa10ea0f:
 
     # "Uh oh, cover story time."
-    "Uh oh, cover story time."
+    "哦豁，该给她兜圈子了。"
 
 # game/library.rpy#L1623
 translate chinese libraryday2choice2_eb494695:
 
     # mc "Aren’t almost all mares sexually repressed?"
-    mc "Aren’t almost all mares sexually repressed?"
+    mc "难道这里的雌驹不都性压抑吗？"
 
 # game/library.rpy#L1625
 translate chinese libraryday2choice2_5c133232:
@@ -5630,169 +5630,169 @@ translate chinese libraryday2choice2_ced3a488:
 translate chinese libraryday2choice2_62eee6b3:
 
     # mc "What I think Lily really needs is easy-going, low energy opportunities to hang out and socialise every week or two."
-    mc "What I think Lily really needs is easy-going, low energy opportunities to hang out and socialise every week or two."
+    mc "我觉得Lily就是该开朗点，身上别挂那么多包袱，每周出去逛逛，玩或者社交个一两次。"
 
 # game/library.rpy#L1633
 translate chinese libraryday2choice2_2eac04bc:
 
     # mc "She’s clearly an introvert, she won’t seek it out, and too much will overwhelm her. But she still needs to socialise."
-    mc "She’s clearly an introvert, she won’t seek it out, and too much will overwhelm her. But she still needs to socialise."
+    mc "她太内向了，这些事情她从来就不去想，再这样下去会毁掉她的。她很需要丰富社交。"
 
 # game/library.rpy#L1634
 translate chinese libraryday2choice2_ddf0b084:
 
     # mc "A few drinks with friends in a bar sounds perfect for her."
-    mc "A few drinks with friends in a bar sounds perfect for her."
+    mc "她去酒吧和朋友聚一聚就很好。"
 
 # game/library.rpy#L1636
 translate chinese libraryday2choice2_a0cc8e23:
 
     # penelope "Perfect! Maybe I can build up her confidence. Once she starts making a few friends, hopefully she can snowball into her own social life."
-    penelope "Perfect! Maybe I can build up her confidence. Once she starts making a few friends, hopefully she can snowball into her own social life."
+    penelope "确实很好！也许我能帮她重新树立自信。只要她开始结交一些新朋友，社交丰富度就可能越来越高。"
 
 # game/library.rpy#L1637
 translate chinese libraryday2choice2_a5eb0707:
 
     # mc "I feel like she’s in a position where she’ll definitely make an effort."
-    mc "I feel like she’s in a position where she’ll definitely make an effort."
+    mc "她的处境需要格外努力才行。"
 
 # game/library.rpy#L1639
 translate chinese libraryday2choice2_1de88046:
 
     # penelope "Hey, one more question before we get down to brass tacks."
-    penelope "Hey, one more question before we get down to brass tacks."
+    penelope "嘿，在咱们给事情盖棺定论之前，我还有个问题要问。"
 
 # game/library.rpy#L1640
 translate chinese libraryday2choice2_788dde5f:
 
     # mc "Yeah, what’s up?"
-    mc "是啊，怎么了？"
+    mc "请便，什么问题？"
 
 # game/library.rpy#L1642
 translate chinese libraryday2choice2_7e7bc7b6:
 
     # penelope "You don’t have to answer this if you don’t want, but did you sleep with Lily?"
-    penelope "You don’t have to answer this if you don’t want, but did you sleep with Lily?"
+    penelope "如果你不想回答的话可以选择缄默，你是不是和Lily滚过床单？"
 
 # game/library.rpy#L1644
 translate chinese libraryday2choice2_fca27ef4:
 
     # penelope "You did say she was sexually repressed; I wouldn’t blame you…"
-    penelope "You did say she was sexually repressed; I wouldn’t blame you…"
+    penelope "你说了她有性压抑对吧；你真和她发生了关系的话我也不会怪你的......"
 
 # game/library.rpy#L1645
 translate chinese libraryday2choice2_cf680a80:
 
     # "I probably shouldn't have said that, there's realistically no way I should know that unless I slept with her."
-    "I probably shouldn't have said that, there's realistically no way I should know that unless I slept with her."
+    "我可能不该说她有性压抑的，我要是没和她上过床，就能得出她有性压抑的结论，听起来不太靠谱。"
 
 # game/library.rpy#L1646
 translate chinese libraryday2choice2_58aaa45e:
 
     # "I'm finding myself lying a lot lately, I can't say I like it."
-    "I'm finding myself lying a lot lately, I can't say I like it."
+    "果然一个谎得要十个谎来圆，我今天撒了不少谎的，我可不喜欢这样。"
 
 # game/library.rpy#L1647
 translate chinese libraryday2choice2_24d8eb7c:
 
     # mc "Nah, nothing happened between me and Lily."
-    mc "Nah, nothing happened between me and Lily."
+    mc "没有，我跟Lily可是一清二白。"
 
 # game/library.rpy#L1648
 translate chinese libraryday2choice2_183e08b5:
 
     # mc "She just did a few tests, and we were just talking about getting me into the castle, so we can discuss the whole ‘me being here’ thing with the Queen."
-    mc "She just did a few tests, and we were just talking about getting me into the castle, so we can discuss the whole ‘me being here’ thing with the Queen."
+    mc "她在我身上做了些测试，我们刚刚在聊有关把我引荐进城堡的问题，觐见女王也许能弄明白“我为什么来这儿”了。"
 
 # game/library.rpy#L1650
 translate chinese libraryday2choice2_af9a0d9a:
 
     # penelope "Ahah, sorry for being presumptuous. I know you weren’t in there for long, it was wrong of me to assume you guys would fuck so quickly."
-    penelope "Ahah, sorry for being presumptuous. I know you weren’t in there for long, it was wrong of me to assume you guys would fuck so quickly."
+    penelope "啊哈，恕我冒昧。我知道你来这儿没多久，这么快就滚床单的话不太好哦。"
 
 # game/library.rpy#L1651
 translate chinese libraryday2choice2_175a118c:
 
     # "Ow, that stung, was it my pride? Am I being a slut? Lavishly sleeping around may get me in trouble one of these days."
-    "Ow, that stung, was it my pride? Am I being a slut? Lavishly sleeping around may get me in trouble one of these days."
+    "哦，心中隐隐作痛，我是该骄傲呢？还是该自责？我好像太风流了？这些日子要是再跟其他马乱搞可能要生出事端了。"
 
 # game/library.rpy#L1653
 translate chinese libraryday2choice2_5ceafd3d:
 
     # penelope "Anyway, let’s get to work, if we finish up today maybe you could come up to my room again? Hehe, for another movie?"
-    penelope "Anyway, let’s get to work, if we finish up today maybe you could come up to my room again? Hehe, for another movie?"
+    penelope "行啦，咱们去工作吧，干完今天的活儿，咱们又可以来这个房间里一叙？嘿嘿，再看部电影？"
 
 # game/library.rpy#L1654
 translate chinese libraryday2choice2_02971067:
 
     # "Thankfully today is not one of those days."
-    "Thankfully today is not one of those days."
+    "还好不像那些天。"
 
 # game/library.rpy#L1658
 translate chinese libraryday2choice2_ce617998:
 
     # "…"
-    "，，，"
+    "..."
 
 # game/library.rpy#L1660
 translate chinese libraryday2choice2_34661825:
 
     # "Today I spend most of the day cleaning up the library. Penelope may be planning to do lewd things with me later, but told me she’s going to keep her distance while we work, lest she gets too horny from the pheromones."
-    "Today I spend most of the day cleaning up the library. Penelope may be planning to do lewd things with me later, but told me she’s going to keep her distance while we work, lest she gets too horny from the pheromones."
+    "我花了一整天时间打扫图书馆。Penelope可能想对我做些色色的事情，不过在工作期间嘴上还是说会跟我保持距离，免得被信息素搞性奋。"
 
 # game/library.rpy#L1661
 translate chinese libraryday2choice2_defcf881:
 
     # "From the top of the library, I clean up alone. First, I dust the shelves, it’s a pain in the ass having to move the ladder around each time."
-    "From the top of the library, I clean up alone. First, I dust the shelves, it’s a pain in the ass having to move the ladder around each time."
+    "我在图书馆的上面独自打扫着。首先得掸干净书架，每次都得重新移动梯子，这活属实折磨。"
 
 # game/library.rpy#L1662
 translate chinese libraryday2choice2_ffacfa74:
 
     # "Despite the monotonous nature, it eventually becomes simple and calming. The hum of soft classic music playing from Penelope’s radio drives me on."
-    "Despite the monotonous nature, it eventually becomes simple and calming. The hum of soft classic music playing from Penelope’s radio drives me on."
+    "虽然工作枯燥乏味，但也很简单冷清。Penelope的收音机里放出的古典小调是我良好的调剂。"
 
 # game/library.rpy#L1663
 translate chinese libraryday2choice2_b30cb19a:
 
     # "It takes hours to dust everything. Once that’s done, I get to have a lunch break before I sweep the entire floor, and mop it."
-    "It takes hours to dust everything. Once that’s done, I get to have a lunch break before I sweep the entire floor, and mop it."
+    "我花了好几小时才掸干净。完事儿后，我能先吃一顿午饭，再扫地和拖地。"
 
 # game/library.rpy#L1664
 translate chinese libraryday2choice2_85abfc6a:
 
     # "All while Penelope comfortably sits at reception giving me a nonchalant thumbs up for my excellent work."
-    "All while Penelope comfortably sits at reception giving me a nonchalant thumbs up for my excellent work."
+    "Penelope一直都舒舒服服地坐在接待处，对我勤恳的工作毫不犹豫地竖起了大拇指。"
 
 # game/library.rpy#L1665
 translate chinese libraryday2choice2_86744736:
 
     # "I’m really earning my pay here. So much for the easiest job."
-    "I’m really earning my pay here. So much for the easiest job."
+    "我能在这儿挣些钱。这么轻松的工作可不好找。"
 
 # game/library.rpy#L1668
 translate chinese libraryday2choice2_551fb64d:
 
     # penelope "All done? Nice one, here’s your pay."
-    penelope "全部做完？不错，这是你的工资。"
+    penelope "都做完了？不错，这是你的工资。"
 
 # game/library.rpy#L1669
 translate chinese libraryday2choice2_47ec0cd3:
 
     # penelope "How much does Moxie actually take from you? I mean… You’re not from around here, so you probably don't have much."
-    penelope "How much does Moxie actually take from you? I mean… You’re not from around here, so you probably don't have much."
+    penelope "Moxie会收你多少钱呢？我的意思是...你既然不是咱们这儿的人，可能不会收你多少。"
 
 # game/library.rpy#L1671
 translate chinese libraryday2choice2_8fc863dd:
 
     # mc "She doesn't actually charge me rent, I guess living in the wagon lowers her overheads."
-    mc "She doesn't actually charge me rent, I guess living in the wagon lowers her overheads."
+    mc "她其实没收我租金，我猜住篷车里的开销并不高。"
 
 # game/library.rpy#L1672
 translate chinese libraryday2choice2_d39b8fe1:
 
     # mc "I guess I’ll just spend monies on luxury until I have a bigger plan."
-    mc "I guess I’ll just spend monies on luxury until I have a bigger plan."
+    mc "目前我只想把钱花在奢侈品上，哪天有其他打算再说。"
 
 # game/library.rpy#L1673
 translate chinese libraryday2choice2_a7a8f03b:
@@ -5804,889 +5804,889 @@ translate chinese libraryday2choice2_a7a8f03b:
 translate chinese libraryday2choice2_f3102fa7:
 
     # mc "Actually I'm living with Butters, she isn't charging my rent."
-    mc "Actually I'm living with Butters, she isn't charging my rent."
+    mc "其实我和Butters住在一起，她不收我的租金。"
 
 # game/library.rpy#L1676
 translate chinese libraryday2choice2_e26e34ab:
 
     # penelope "Is that so? You've gotten yourself a great deal there. Her cottage is one of the oldest houses in the suburbs you know."
-    penelope "Is that so? You've gotten yourself a great deal there. Her cottage is one of the oldest houses in the suburbs you know."
+    penelope "真的吗？你可算是捡了大漏。她的房子可是我们镇子里最古老的那一批呢。"
 
 # game/library.rpy#L1677
 translate chinese libraryday2choice2_00233c14:
 
     # penelope "With all that spare money, what's your plan?"
-    penelope "With all that spare money, what's your plan?"
+    penelope "你拿了这些多余的钱，有何打算呢？"
 
 # game/library.rpy#L1682
 translate chinese libraryvisit2choice5_eb45a4d7:
 
     # "I don’t feel so bad asking Penelope for money, she’s always been helpful and concerned about my plight."
-    "I don’t feel so bad asking Penelope for money, she’s always been helpful and concerned about my plight."
+    "找Penelope要钱不是很难，她总是乐于助马，考虑其他马的感受。"
 
 # game/library.rpy#L1683
 translate chinese libraryvisit2choice5_3a66a595:
 
     # mc "Hey, do you think I could get some monies?"
-    mc "Hey, do you think I could get some monies?"
+    mc "嘿，我能要些钱吗？"
 
 # game/library.rpy#L1685
 translate chinese libraryvisit2choice5_939b90bc:
 
     # penelope "Looking to buy something special? I won’t ask, here."
-    penelope "Looking to buy something special? I won’t ask, here."
+    penelope "想买些好康的？我不会多问的，给。"
 
 # game/library.rpy#L1686
 translate chinese libraryvisit2choice5_faee418e:
 
     # "She hands me another 5 monies to go along with my pay."
-    "She hands me another 5 monies to go along with my pay."
+    "她又多给了我5块任我支配。"
 
 # game/library.rpy#L1689
 translate chinese libraryvisit2choice5_c3b994d0:
 
     # mc "Appreciate it."
-    mc "欣赏它"
+    mc "蟹蟹。"
 
 # game/library.rpy#L1693
 translate chinese libraryvisit2choice5_60f30f6a:
 
     # penelope "That’s really sweet. I bet Moxie is doing a lot for you."
-    penelope "That’s really sweet. I bet Moxie is doing a lot for you."
+    penelope "你可真暖。Moxie肯定为你做了不少事儿吧。"
 
 # game/library.rpy#L1694
 translate chinese libraryvisit2choice5_b24a3629:
 
     # mc "She certainly is, if it wasn’t for her I’d have nothing in this world."
-    mc "She certainly is, if it wasn’t for her I’d have nothing in this world."
+    mc "她确实，没她的话，我在这个世界简直寸步难行。"
 
 # game/library.rpy#L1695
 translate chinese libraryvisit2choice5_9a592580:
 
     # mc "You and Moxie have given me everything I could ask for, and more."
-    mc "You and Moxie have given me everything I could ask for, and more."
+    mc "你和Moxie都给了我竭尽所能的帮助，不止这些。"
 
 # game/library.rpy#L1696
 translate chinese libraryvisit2choice5_65329405:
 
     # mc "A roof over my head, food, work, and 'stuff' that we don’t need to go into detail on."
-    mc "A roof over my head, food, work, and 'stuff' that we don’t need to go into detail on."
+    mc "给了我住处，吃的，工作，还有你懂的那些“东西”。"
 
 # game/library.rpy#L1698
 translate chinese libraryvisit2choice5_bde7a421:
 
     # penelope "Heh, we care about our own in Arcadia… You're one of us now."
-    penelope "Heh, we care about our own in Arcadia… You're one of us now."
+    penelope "嘿，我们都是为了Arcadia...你也是她的公民之一啊。"
 
 # game/library.rpy#L1702
 translate chinese libraryvisit2choice5_e458d13e:
 
     # penelope "Ohoh, I can see why. You’re really trying to get as much action as you can, I don’t blame you."
-    penelope "Ohoh, I can see why. You’re really trying to get as much action as you can, I don’t blame you."
+    penelope "哦哦，我懂。你真的特别主动，我不见怪。"
 
 # game/library.rpy#L1703
 translate chinese libraryvisit2choice5_2356bd1e:
 
     # mc "I've never been to a spa like this, it'll be nice and relaxing after all the work I do."
-    mc "I've never been to a spa like this, it'll be nice and relaxing after all the work I do."
+    mc "我还没去做过那样的SPA，在我干完一天活儿后，那里是个消遣放松的好去处。"
 
 # game/library.rpy#L1704
 translate chinese libraryvisit2choice5_3642d185:
 
     # penelope "Hah, too right. I’ve been to that spa once. Those spa mares know their way around a lady’s body, that’s for sure."
-    penelope "Hah, too right. I’ve been to that spa once. Those spa mares know their way around a lady’s body, that’s for sure."
+    penelope "呐，可不是嘛。SPA我也去做过一次。那里的雌驹们很懂怎么伺候好一位女士，非常棒。"
 
 # game/library.rpy#L1705
 translate chinese libraryvisit2choice5_e85030f8:
 
     # mc "What service did you get?"
-    mc "你得到了什么服务？"
+    mc "你点了什么服务？"
 
 # game/library.rpy#L1707
 translate chinese libraryvisit2choice5_74090ff5:
 
     # penelope "I went for the oral service, there’s really nothing else there for me."
-    penelope "I went for the oral service, there’s really nothing else there for me."
+    penelope "口那一类的服务，但我只去过一次。"
 
 # game/library.rpy#L1709
 translate chinese libraryvisit2choice5_a766c98a:
 
     # penelope "I heard that they do have a stallion you can pay for, but you know me."
-    penelope "I heard that they do have a stallion you can pay for, but you know me."
+    penelope "我听说她们还有种马可以来服务，不过你懂我口味。"
 
 # game/library.rpy#L1710
 translate chinese libraryvisit2choice5_81f1637e:
 
     # mc "What kind of services could I get?"
-    mc "What kind of services could I get?"
+    mc "我能点些什么服务呢？"
 
 # game/library.rpy#L1711
 translate chinese libraryvisit2choice5_07e915fe:
 
     # penelope "You have a few more options; you could probably fuck ‘em for starters."
-    penelope "You have a few more options; you could probably fuck ‘em for starters."
+    penelope "你能点的可就多了；你可以直接提枪上所有马。"
 
 # game/library.rpy#L1713
 translate chinese libraryvisit2choice5_79d48d6b:
 
     # penelope "If you get a choice of girls, go for the greyish brown one, she’s really giggly and fun."
-    penelope "If you get a choice of girls, go for the greyish brown one, she’s really giggly and fun."
+    penelope "钱不够只能挑一只的话，选那只灰棕色的，她傻甜傻甜的，特别有意思。"
 
 # game/library.rpy#L1714
 translate chinese libraryvisit2choice5_0c19cfe6:
 
     # mc "I’ll keep that in mind."
-    mc "I’ll keep that in mind."
+    mc "我记下了。"
 
 # game/library.rpy#L1720
 translate chinese libraryvisit2choice6_e89a5bc5:
 
     # penelope "Since you’re around Moxie a lot, I wanted to ask how her studies are going."
-    penelope "Since you’re around Moxie a lot, I wanted to ask how her studies are going."
+    penelope "既然你整天都在Moxie身边转，我想向你了解她的学习情况。"
 
 # game/library.rpy#L1721
 translate chinese libraryvisit2choice6_6fdacdb0:
 
     # mc "She studies for an hour every evening after dinner. If you were worried that I'm interfering with her studies, it's no worry at all! She's on top of it."
-    mc "She studies for an hour every evening after dinner. If you were worried that I'm interfering with her studies, it's no worry at all! She's on top of it."
+    mc "她每天晚饭后都会花一小时学习。如果你担心我会叨扰她学习的话，你就多虑了！她非常认真。"
 
 # game/library.rpy#L1723
 translate chinese libraryvisit2choice6_1402570c:
 
     # penelope "Only an hour? I was hoping she’d study slightly more than that."
-    penelope "Only an hour? I was hoping she’d study slightly more than that."
+    penelope "只学一小时？我希望她能多花点时间在上面。"
 
 # game/library.rpy#L1724
 translate chinese libraryvisit2choice6_11a8de6a:
 
     # mc "I think she’s making timely progress; she’s reading this book with an invisibility spell at the moment."
-    mc "I think she’s making timely progress; she’s reading this book with an invisibility spell at the moment."
+    mc "我觉得她的进步很及时；她现在在学这本书里的隐形魔法呢。"
 
 # game/library.rpy#L1726
 translate chinese libraryvisit2choice6_ec5490dd:
 
     # "Penny scoffs and shakes her head, taking me by surprise."
-    "Penny scoffs and shakes her head, taking me by surprise."
+    "Penny嗤之以鼻，摇了摇头，出乎我的意料。"
 
 # game/library.rpy#L1727
 translate chinese libraryvisit2choice6_1cf1157f:
 
     # penelope "I keep telling her that field of magic is too advanced for her, she needs to build up her basics first."
-    penelope "I keep telling her that field of magic is too advanced for her, she needs to build up her basics first."
+    penelope "我一直在告诉她学高阶魔法对她来说还为时尚早，她应该先把简单的先学了。"
 
 # game/library.rpy#L1728
 translate chinese libraryvisit2choice6_b2b9e19d:
 
     # mc "What do you mean?"
-    mc "What do you mean?"
+    mc "你的意思是？"
 
 # game/library.rpy#L1730
 translate chinese libraryvisit2choice6_c0ae7ff6:
 
     # penelope "It’s like she’s reading a book on how to run before she can walk. She’ll never be able to do that invisibility spell."
-    penelope "It’s like she’s reading a book on how to run before she can walk. She’ll never be able to do that invisibility spell."
+    penelope "读书就像马一样，得先学会走路，才能再学会跑步。这样的话她是永远学不会隐形魔法的。"
 
 # game/library.rpy#L1732
 translate chinese libraryvisit2choice6_c0fac45f:
 
     # penelope "She still struggles to pick up books with her telekinesis, she completely lacks the magical power to turn herself invisible... Right?"
-    penelope "She still struggles to pick up books with her telekinesis, she completely lacks the magical power to turn herself invisible... Right?"
+    penelope "她的心灵传动是不是连拿本书都困难，而且还是不能完全隐身...我猜的没错吧？"
 
 # game/library.rpy#L1733
 translate chinese libraryvisit2choice6_f8ff3259:
 
     # mc "But she showed me, it was awesome!"
-    mc "But she showed me, it was awesome!"
+    mc "但她都把这些展示给我看了，酷毙了！"
 
 # game/library.rpy#L1735
 translate chinese libraryvisit2choice6_6d15aa25:
 
     # penelope "Showed you? You realize she’s a performer, she’s full of tricks. Are you sure she didn’t just use a cloud of smoke and then reappear in a doorway?"
-    penelope "Showed you? You realize she’s a performer, she’s full of tricks. Are you sure she didn’t just use a cloud of smoke and then reappear in a doorway?"
+    penelope "展示？你知道她的职业就是表演，有各式各样的把戏。你确定她不是只放了团烟雾障眼，又跑到门口去的吗？"
 
 # game/library.rpy#L1737
 translate chinese libraryvisit2choice6_fa7fc30d:
 
     # penelope "I mean come on... Invisibility... There's no way Moxie has made that much progress already."
-    penelope "I mean come on... Invisibility... There's no way Moxie has made that much progress already."
+    penelope "我是说你想想啊...隐形术...Moxie不可能短时间内就学得有模有样的。"
 
 # game/library.rpy#L1738
 translate chinese libraryvisit2choice6_f6f8d8ce:
 
     # penelope "I only know a handful of unicorns that come close. It’d take me a year to learn how to do it, it’s not worth it."
-    penelope "I only know a handful of unicorns that come close. It’d take me a year to learn how to do it, it’s not worth it."
+    penelope "我只认识少数几位能基本完美释放这个法术的独角兽。我的话得花一年去掌握这个法术，不值当。"
 
 # game/library.rpy#L1739
 translate chinese libraryvisit2choice6_30b4d083:
 
     # mc "I’m serious. Moxie didn’t turn invisible, she can’t quite do that yet, but she managed to turn partially transparent."
-    mc "I’m serious. Moxie didn’t turn invisible, she can’t quite do that yet, but she managed to turn partially transparent."
+    mc "我不开玩笑。Moxie虽然没能完全隐身，她还做不到，但她可以部分透明。"
 
 # game/library.rpy#L1741
 translate chinese libraryvisit2choice6_a45f18b6:
 
     # penelope "Transparent... I-I... Hmm... Coming from you, someone that doesn't know a lot about magic, that's a surprisingly accurate interpretation."
-    penelope "Transparent... I-I... Hmm... Coming from you, someone that doesn't know a lot about magic, that's a surprisingly accurate interpretation."
+    penelope "透明...我，我...嗯...以你这种对魔法缺乏了解的角度出发，能找到这种词形容还真是精确。"
 
 # game/library.rpy#L1742
 translate chinese libraryvisit2choice6_89d416e7:
 
     # penelope "I know I have no reason to doubt you, but..."
-    penelope "I know I have no reason to doubt you, but..."
+    penelope "我知道我没理由怀疑你说谎，但是......"
 
 # game/library.rpy#L1743
 translate chinese libraryvisit2choice6_4c858ff5:
 
     # mc "I could see objects through her, it was fantastic."
-    mc "I could see objects through her, it was fantastic."
+    mc "我能透过她看到她身后的东西，非常神奇。"
 
 # game/library.rpy#L1745
 translate chinese libraryvisit2choice6_6b6ea3c7:
 
     # penelope "That’s… so illogical! It’s hurting my head trying to understand."
-    penelope "That’s… so illogical! It’s hurting my head trying to understand."
+    penelope "这...没道理啊！我脑子快想破了。"
 
 # game/library.rpy#L1746
 translate chinese libraryvisit2choice6_9b640154:
 
     # penelope "She’s a great friend, but I have to admit she’s a complete amateur at magic, there’s no logical reason she should be able to accomplish such a phenomenal magic feat."
-    penelope "She’s a great friend, but I have to admit she’s a complete amateur at magic, there’s no logical reason she should be able to accomplish such a phenomenal magic feat."
+    penelope "虽然她是我要好的朋友，不过我也得承认她完全是个魔法的门外汉，她能释放出如此复杂的魔法？没道理啊。"
 
 # game/library.rpy#L1747
 translate chinese libraryvisit2choice6_228148dd:
 
     # mc "Maybe she has a greater affinity for that type of magic? She does seem to enjoy studying it."
-    mc "Maybe she has a greater affinity for that type of magic? She does seem to enjoy studying it."
+    mc "也许她对那种法术有特别的天赋？她看起来很享受学习的过程。"
 
 # game/library.rpy#L1749
 translate chinese libraryvisit2choice6_e42b0206:
 
     # penelope "Affinity? I don’t know...?"
-    penelope "Affinity? I don’t know...?"
+    penelope "天赋？我心里没谱...？"
 
 # game/library.rpy#L1750
 translate chinese libraryvisit2choice6_dc72f69a:
 
     # penelope "Could Moxie have realized? There's no way..."
-    penelope "Could Moxie have realized? There's no way..."
+    penelope "Moxie自己能意识到这点吗？不可能的吖......"
 
 # game/library.rpy#L1751
 translate chinese libraryvisit2choice6_fd1348a6:
 
     # penelope "Sorry, I’m still trying to wrap my head around this. Give me a moment to close up, meet me in my room?"
-    penelope "Sorry, I’m still trying to wrap my head around this. Give me a moment to close up, meet me in my room?"
+    penelope "抱歉啊，我还在整理自己胡乱的思绪。给我点时间重新想想，等会在我房间里见？"
 
 # game/library.rpy#L1752
 translate chinese libraryvisit2choice6_bd4717a4:
 
     # mc "Sure thing, see you in a second."
-    mc "Sure thing, see you in a second."
+    mc "好啊，待会见。"
 
 # game/library.rpy#L1754
 translate chinese libraryvisit2choice6_8de45cdf:
 
     # "She seemed surprisingly irate, I wonder if there's history I'm missing here."
-    "She seemed surprisingly irate, I wonder if there's history I'm missing here."
+    "她似乎有些出奇地恼怒，我想知道是不是和她的过往有关。"
 
 # game/library.rpy#L1758
 translate chinese libraryvisit2choice6_ce617998:
 
     # "…"
-    "…"
+    "..."
 
 # game/library.rpy#L1760
 translate chinese libraryvisit2choice6_949a256d:
 
     # "I head upstairs and into Penny’s room, I take a seat on the sofa and look around the room."
-    "I head upstairs and into Penny’s room, I take a seat on the sofa and look around the room."
+    "我上楼，走进了Penny的房间，在沙发上坐了下来，环顾四周。"
 
 # game/library.rpy#L1761
 translate chinese libraryvisit2choice6_f3c52837:
 
     # "Damn, she invited me in here so nonchalantly. I know I’m here for sex, but it's so normal to me I don't even think about it anymore."
-    "Damn, she invited me in here so nonchalantly. I know I’m here for sex, but it's so normal to me I don't even think about it anymore."
+    "艹，她邀请我来房间的时候漫不经心的。我知道我来这儿就是为了滚床单，但我已经见怪不怪了。"
 
 # game/library.rpy#L1762
 translate chinese libraryvisit2choice6_202d22cc:
 
     # "Sex in the morning, sex in the afternoon, sex in the evening."
-    "Sex in the morning, sex in the afternoon, sex in the evening."
+    "早上滚床单，中午滚，晚上还滚。"
 
 # game/library.rpy#L1763
 translate chinese libraryvisit2choice6_94b76890:
 
     # "Then there’s me, just going along with everything without question."
-    "Then there’s me, just going along with everything without question."
+    "这就是我了，毫无疑问地接受着这一切。"
 
 # game/library.rpy#L1767
 translate chinese libraryvisit2choice6_27367c5c:
 
     # "Maybe I am."
-    "也许我是。"
+    "可能是有点。"
 
 # game/library.rpy#L1768
 translate chinese libraryvisit2choice6_d700beb3:
 
     # "The thing bothering me most about having sex with Moxie, Lily and Penelope is that I’m keeping it all secret."
-    "The thing bothering me most about having sex with Moxie, Lily and Penelope is that I’m keeping it all secret."
+    "最烦我的事情就是，我和Moxie，Lily，Penelope都上过床，还得对她们都互相保密。"
 
 # game/library.rpy#L1769
 translate chinese libraryvisit2choice6_1be12465:
 
     # "I guess Penelope figured out that me and Moxie are sleeping together, but I doubt Moxie caught on."
-    "I guess Penelope figured out that me and Moxie are sleeping together, but I doubt Moxie caught on."
+    "我猜Penelope已经猜到我和Moxie上过床了，但Moxie可能反推不出来。"
 
 # game/library.rpy#L1770
 translate chinese libraryvisit2choice6_b1a945ed:
 
     # "I don’t like keeping secrets, but there’s more than my ego on the line."
-    "I don’t like keeping secrets, but there’s more than my ego on the line."
+    "我不喜欢保守秘密的感觉，但都抖出来遭殃的可不只是我自己而已。"
 
 # game/library.rpy#L1773
 translate chinese libraryvisit2choice6_547874b1:
 
     # "Peace and love! These girls are enjoying themselves just as much as I am."
-    "Peace and love! These girls are enjoying themselves just as much as I am."
+    "爱就完事儿了！这些女孩们和我玩的时候自己不也挺开心的嘛。"
 
 # game/library.rpy#L1774
 translate chinese libraryvisit2choice6_6ea47646:
 
     # "Moxie wasn’t wrong, sex comes far easier in this world than mine."
-    "Moxie wasn’t wrong, sex comes far easier in this world than mine."
+    "Moxie所言不错，这个世界发生性关系可比我的世界容易多了。"
 
 # game/library.rpy#L1775
 translate chinese libraryvisit2choice6_a9f98b59:
 
     # "When was the last time I went to a girl’s bedroom and she didn’t fuck me?"
-    "When was the last time I went to a girl’s bedroom and she didn’t fuck me?"
+    "想想我上次去一个女孩的卧室，她对我无动于衷是什么时候？"
 
 # game/library.rpy#L1776
 translate chinese libraryvisit2choice6_b24ac448:
 
     # "Haha, I might act like some kind of player that gets all the girls, but these girls all have me wrapped around their fingers and I don’t even realize it."
-    "Haha, I might act like some kind of player that gets all the girls, but these girls all have me wrapped around their fingers and I don’t even realize it."
+    "哈哈，我可能在扮演某个建后宫的游戏角色，但我可能还没意识到这些女孩都会主动投怀送抱呢。"
 
 # game/library.rpy#L1779
 translate chinese libraryvisit2choice6_e7e4cdd8:
 
     # "They’re using me to satisfy their heat…"
-    "They’re using me to satisfy their heat…"
+    "她们不过是在利用我，满足她们发情期的需要罢了......"
 
 # game/library.rpy#L1780
 translate chinese libraryvisit2choice6_a19cbbcc:
 
     # "Moxie said they’re biologically wired, right?"
-    "Moxie said they’re biologically wired, right?"
+    "Moxie提过这跟生物学有关，对吧？"
 
 # game/library.rpy#L1781
 translate chinese libraryvisit2choice6_1f864467:
 
     # "If I think about how animals in heat behaved in my world, a female in heat would seek a male mate."
-    "If I think about how animals in heat behaved in my world, a female in heat would seek a male mate."
+    "如果拿我世界里发情的动物做参照的话，发情的雌性是会主动找雄性的。"
 
 # game/library.rpy#L1782
 translate chinese libraryvisit2choice6_22c91ed3:
 
     # "If you throw sentience into this mix, this gives the male the power to choose, the complete role reversal when compared to my world."
-    "If you throw sentience into this mix, this gives the male the power to choose, the complete role reversal when compared to my world."
+    "再结合感性的因素，男性就会被赋予很大的权力，和我的世界截然相反。"
 
 # game/library.rpy#L1783
 translate chinese libraryvisit2choice6_8f51f45e:
 
     # "So here I am in this world, there are girls in heat wanting to mate, and I’m inadvertently never refusing them."
-    "So here I am in this world, there are girls in heat wanting to mate, and I’m inadvertently never refusing them."
+    "所以在我现在所处的这个世界里，这些发情的女孩子们都想找个伴快活一番，我自然是无法拒绝的。"
 
 # game/library.rpy#L1784
 translate chinese libraryvisit2choice6_bdbe7e68:
 
     # "It’s like they can’t help but use me. I’m like the fix to a bad addiction."
-    "It’s like they can’t help but use me. I’m like the fix to a bad addiction."
+    "就好像她们不得不利用我一样。我感觉自己成了解瘾药了。"
 
 # game/library.rpy#L1785
 translate chinese libraryvisit2choice6_d04c2b44:
 
     # "Or… I’m like the cake in the kitchen closet, if I’m there long enough I’ll get eaten."
-    "Or… I’m like the cake in the kitchen closet, if I’m there long enough I’ll get eaten."
+    "或者说...我像个橱窗里的蛋糕，早晚会被一个雌驹吃定。"
 
 # game/library.rpy#L1786
 translate chinese libraryvisit2choice6_98d19bfc:
 
     # "I can’t blame the ladies if I’m putting myself in these situations, that’s for sure."
-    "I can’t blame the ladies if I’m putting myself in these situations, that’s for sure."
+    "不过我也不能怪这些女孩们令我深陷其中，这是毋庸置疑的。"
 
 # game/library.rpy#L1787
 translate chinese libraryvisit2choice6_cf347e1d:
 
     # "I’m forgetting one thing though; heat only lasts about a month. I wonder how big the difference will be."
-    "I’m forgetting one thing though; heat only lasts about a month. I wonder how big the difference will be."
+    "差点忘了一件事；发情大概只持续一个月左右。发情期过了之后她们又是怎样一副德行呢。"
 
 # game/library.rpy#L1790
 translate chinese libraryvisit2choice6_e508ab80:
 
     # "All three girls offer something slightly different too. I could get used to this."
-    "All three girls offer something slightly different too. I could get used to this."
+    "这三个女孩各有各的好。我会习惯的。"
 
 # game/library.rpy#L1791
 translate chinese libraryvisit2choice6_f0692546:
 
     # "The lesbian sex is weird, but I think my dick appreciates the break."
-    "The lesbian sex is weird, but I think my dick appreciates the break."
+    "和女同做爱非常奇怪，不过至少我的小弟弟可以暂时歇息下。"
 
 # game/library.rpy#L1792
 translate chinese libraryvisit2choice6_e0d94960:
 
     # "I’m actually looking forward to doing it again."
-    "I’m actually looking forward to doing it again."
+    "我其实还想再来一次。"
 
 # game/library.rpy#L1793
 translate chinese libraryvisit2choice6_1cf815fd:
 
     # "Hypothetically, if I do end up in a permanent relationship with Moxie, I’ll definitely have to convince her to do this every so often."
-    "Hypothetically, if I do end up in a permanent relationship with Moxie, I’ll definitely have to convince her to do this every so often."
+    "假如我和Moxie结为夫妻，我肯定会经常要求她这么干。"
 
 # game/library.rpy#L1797
 translate chinese libraryvisit2choice7_357fe101:
 
     # "At that moment as I’m lost in thought, Penelope arrives with two glasses of juice. I hadn’t realized how thirsty I was until my sips turned into gulps."
-    "At that moment as I’m lost in thought, Penelope arrives with two glasses of juice. I hadn’t realized how thirsty I was until my sips turned into gulps."
+    "在我浮想联翩之际，Penelope拿着两杯果汁进来了。我先是抿了一口，然后就大口喝了起来，原来我都这么渴了，我还没意识到。"
 
 # game/library.rpy#L1798
 translate chinese libraryvisit2choice7_0dc4ecab:
 
     # mc "Ahh, thank you Penny."
-    mc "啊，谢谢 Penny"
+    mc "啊，谢谢你Penny。"
 
 # game/library.rpy#L1800
 translate chinese libraryvisit2choice7_54652c6b:
 
     # penelope "My pleasure... And it'll be our pleasure soon... Hehe."
-    penelope "My pleasure... And it'll be our pleasure soon... Hehe."
+    penelope "我很乐意...不过一会你也会跟我一样乐意...嘿嘿。"
 
 # game/library.rpy#L1801
 translate chinese libraryvisit2choice7_6da10988:
 
     # mc "I know I touched on this the last time, but I really have to ask why you enjoy what we’re about to do."
-    mc "I know I touched on this the last time, but I really have to ask why you enjoy what we’re about to do."
+    mc "上次那种体验让我流连忘返，不过我还是得问一嘴，你为什么这么喜欢那种做爱方式。"
 
 # game/library.rpy#L1803
 translate chinese libraryvisit2choice7_124e6b48:
 
     # penelope "You mean, lesbian sex, but with a dude? Ahah, I wouldn't want to try describing this to one of our friends."
-    penelope "You mean, lesbian sex, but with a dude? Ahah, I wouldn't want to try describing this to one of our friends."
+    penelope "你是说，女同性爱，而且还是和一个男性一起？啊哈，我可不会跟朋友们提起这些的。"
 
 # game/library.rpy#L1804
 translate chinese libraryvisit2choice7_cc32d37b:
 
     # mc "You know I’m not a girl, isn't that offputting?"
-    mc "You know I’m not a girl, isn't that offputting?"
+    mc "你知道我不是个女孩，这不是很讨厌吗？"
 
 # game/library.rpy#L1806
 translate chinese libraryvisit2choice7_97d0c93b:
 
     # penelope "Maybe you’re not a girl, but you can be, and that’s the best part!"
-    penelope "Maybe you’re not a girl, but you can be, and that’s the best part!"
+    penelope "也许你不是个女孩，但我可以把你变成一个女孩，这就完美了！"
 
 # game/library.rpy#L1807
 translate chinese libraryvisit2choice7_79353b58:
 
     # mc "Doesn’t that put you off? I could not for the life of me imagine casting a spell on a guy and having sex with them while they’re a girl."
-    mc "Doesn’t that put you off? I could not for the life of me imagine casting a spell on a guy and having sex with them while they’re a girl."
+    mc "你就不觉得别扭？换作是我的话，我可接受不了对一个男的施咒把他变成女孩后再操。"
 
 # game/library.rpy#L1809
 translate chinese libraryvisit2choice7_91f5b2d8:
 
     # penelope "Hehe, okay, I totally get what you're saying. But... I actually like it!"
-    penelope "Hehe, okay, I totally get what you're saying. But... I actually like it!"
+    penelope "嘿嘿，好吧，我懂你意思了。不过嘛...我就是单纯的喜欢！"
 
 # game/library.rpy#L1810
 translate chinese libraryvisit2choice7_45d4199e:
 
     # penelope "How do I describe it… I was thinking about this earlier… It’s like a power fantasy."
-    penelope "How do I describe it… I was thinking about this earlier… It’s like a power fantasy."
+    penelope "我不知道该怎么说清才好...我刚刚也在想这个东西...它就像是一种控制欲。"
 
 # game/library.rpy#L1811
 translate chinese libraryvisit2choice7_bb6c934e:
 
     # penelope "I love being in control with another girl, but there’s something about reducing a man into a girl, and maintaining that power that just sends my brain into overdrive."
-    penelope "I love being in control with another girl, but there’s something about reducing a man into a girl, and maintaining that power that just sends my brain into overdrive."
+    penelope "我喜欢在和其他女孩的相处里占主动，但要是把一个男的变成女孩，这种激增的欲望就会让我的大脑超速运转。"
 
 # game/library.rpy#L1813
 translate chinese libraryvisit2choice7_50b215e5:
 
     # penelope "Hehehe, the thought makes me feel all gooey and hot."
-    penelope "Hehehe, the thought makes me feel all gooey and hot."
+    penelope "嘿嘿嘿，那种感觉让我觉得又黏又热。"
 
 # game/library.rpy#L1814
 translate chinese libraryvisit2choice7_ba6bd7ca:
 
     # mc "And you feel absolutely nothing towards me as a male, right now?"
-    mc "And you feel absolutely nothing towards me as a male, right now?"
+    mc "这么说你对现在还是个男儿身的我完全没性趣，对吧？"
 
 # game/library.rpy#L1816
 translate chinese libraryvisit2choice7_7f8b3f04:
 
     # penelope "Not at all, I just want to turn you into a cute girl and eat you up."
-    penelope "Not at all, I just want to turn you into a cute girl and eat you up."
+    penelope "也不能这么说，我只想把你变成一个可爱的女孩纸，然后一口吃掉。"
 
 # game/library.rpy#L1818
 translate chinese libraryvisit2choice7_634ed71f:
 
     # penelope "I didn’t get much of an opportunity to play with you before because it was new to me, and I was getting used to the idea of it."
-    penelope "I didn’t get much of an opportunity to play with you before because it was new to me, and I was getting used to the idea of it."
+    penelope "我没多少机会能和你玩这个，毕竟我也是头一次，但现在呢，我开始习惯了。"
 
 # game/library.rpy#L1819
 translate chinese libraryvisit2choice7_25af1a69:
 
     # penelope "But later that night I was so horny, I started masturbating while thinking about it"
-    penelope "But later that night I was so horny, I started masturbating while thinking about it"
+    penelope "那次过后的晚上我在床上辗转反侧，饥渴难耐，手管不住地滑向了两腿之间。"
 
 # game/library.rpy#L1820
 translate chinese libraryvisit2choice7_409de6d0:
 
     # mc "And what specifically did you think about?"
-    mc "And what specifically did you think about?"
+    mc "你到底想到了什么？"
 
 # game/library.rpy#L1821
 translate chinese libraryvisit2choice7_89611762:
 
     # penelope "Oh goodness, everything. I want to dominate you, not in a kinky BDSM way, but I want your entire body to submit to me in pleasure."
-    penelope "Oh goodness, everything. I want to dominate you, not in a kinky BDSM way, but I want your entire body to submit to me in pleasure."
+    penelope "天啊，想了很多。我想支配你，不是那种变态的BDSM（绑缚调教施虐受虐）里的支配，我只是想让你的身体臣服于我制造的快感当中。"
 
 # game/library.rpy#L1822
 translate chinese libraryvisit2choice7_49eda9ca:
 
     # penelope "I really want to rub you down there and hear your cute girly moans."
-    penelope "I really want to rub you down there and hear your cute girly moans."
+    penelope "我迫切地想把你按在地上，听你可爱的叫床声。"
 
 # game/library.rpy#L1823
 translate chinese libraryvisit2choice7_cd4894d3:
 
     # "This is getting erotic, that combined with the pheromones is causing blood to get flowing down there, although I doubt Penny has any interest in my erection."
-    "This is getting erotic, that combined with the pheromones is causing blood to get flowing down there, although I doubt Penny has any interest in my erection."
+    "我们聊的内容越来越涩，加上信息素的作用，血液开始朝我的下体充去，虽然我很怀疑Penny对我的下面是不是真像她说的有点感兴趣。"
 
 # game/library.rpy#L1825
 translate chinese libraryvisit2choice7_704e5cde:
 
     # penelope "Oh jeez, you’re getting an erection."
-    penelope "Oh jeez, you’re getting an erection."
+    penelope "哦天啊，你硬了。"
 
 # game/library.rpy#L1827
 translate chinese libraryvisit2choice7_fc408379:
 
     # penelope "I don't wanna see that, so I’m going to cast the spell now, okay?"
-    penelope "I don't wanna see that, so I’m going to cast the spell now, okay?"
+    penelope "我不喜欢这个，我现在就释放性转术，可以吗？"
 
 # game/library.rpy#L1828
 translate chinese libraryvisit2choice7_99f34fce:
 
     # "I haven’t even agreed to have sex yet and she’s about to cast the gender-changing spell on me."
-    "I haven’t even agreed to have sex yet and she’s about to cast the gender-changing spell on me."
+    "我都还没同意呢，她就开始准备对我释放性转法术了。"
 
 # game/library.rpy#L1829
 translate chinese libraryvisit2choice7_c545c131:
 
     # "I guess I indirectly agreed when I sat down on this sofa."
-    "I guess I indirectly agreed when I sat down on this sofa."
+    "不过既然我都坐沙发上了，相当于默许了吧。"
 
 # game/library.rpy#L1833
 translate chinese libraryvisit2choice7_f157e683:
 
     # penelope "Bahaha, maybe too much, it’s making me a little twitchy."
-    penelope "Bahaha, maybe too much, it’s making me a little twitchy."
+    penelope "唔哈哈，进展是不是有点太快了，我都有点发抖呢。"
 
 # game/library.rpy#L1834
 translate chinese libraryvisit2choice7_14adfc42:
 
     # penelope "I’m sorry, I hope I’m not being too overbearing."
-    penelope "I’m sorry, I hope I’m not being too overbearing."
+    penelope "抱歉，希望你不会觉得我太霸道。"
 
 # game/library.rpy#L1835
 translate chinese libraryvisit2choice7_058d6f3b:
 
     # mc "Don’t worry about it, you’re just being outspoken, confident and dominant."
-    mc "Don’t worry about it, you’re just being outspoken, confident and dominant."
+    mc "无妨，你只是比较直爽，自信和有掌控力而已。"
 
 # game/library.rpy#L1836
 translate chinese libraryvisit2choice7_57217740:
 
     # mc "I’ll be honest, I like it, it’s hot."
-    mc "I’ll be honest, I like it, it’s hot."
+    mc "实话告诉你，我喜欢你这个样子，很性感。"
 
 # game/library.rpy#L1837
 translate chinese libraryvisit2choice7_39426243:
 
     # penelope "Mmphh, I hear you say that, but it's just not the same when you say it as a guy. You're way cuter as a girl, so I’m going to change you now."
-    penelope "Mmphh, I hear you say that, but it's just not the same when you say it as a guy. You're way cuter as a girl, so I’m going to change you now."
+    penelope "嗯，小嘴挺甜，不过呢，从一个男生口中说出来对我来说还是不够甜。你变成一个女孩纸后会可爱很多，我这就开始施法。"
 
 # game/library.rpy#L1838
 translate chinese libraryvisit2choice7_3f1461cd:
 
     # "Wow, I feel simultaneously shot down and flattered."
-    "Wow, I feel simultaneously shot down and flattered."
+    "哇，她这一席话让我同时感到受宠若惊和垂头丧气。"
 
 # game/library.rpy#L1841
 translate chinese libraryvisit2choice7_f75ec947:
 
     # "Why do I feel strange saying that? It’s not like my masculinity is at risk."
-    "Why do I feel strange saying that? It’s not like my masculinity is at risk."
+    "为什么觉得这么想有点奇怪？她又没否定我作为一名男人的阳刚性。"
 
 # game/library.rpy#L1842
 translate chinese libraryvisit2choice7_48b09816:
 
     # "I think I get it now; a part of her fantasy is reducing me from a masculine figure to a dainty submissive feminine one."
-    "I think I get it now; a part of her fantasy is reducing me from a masculine figure to a dainty submissive feminine one."
+    "我懂她的想法了；她的一部分遐想内容就是把我的刚气变成一个阴柔顺从的女性。"
 
 # game/library.rpy#L1843
 translate chinese libraryvisit2choice7_120bff29:
 
     # "I can’t completely relate to that, but I think I understand why she’s enjoying it so much."
-    "I can’t completely relate to that, but I think I understand why she’s enjoying it so much."
+    "我不能完全苟同她的想法，但我明白为什么她对此如此着迷。"
 
 # game/library.rpy#L1844
 translate chinese libraryvisit2choice7_14c86ffa:
 
     # "What about me, do I enjoy being turned into a submissive little girl to be played with?"
-    "What about me, do I enjoy being turned into a submissive little girl to be played with?"
+    "那我自己呢，我很享受被变成一个顺从的乖乖女被调教吗？"
 
 # game/library.rpy#L1845
 translate chinese libraryvisit2choice7_f6f29a32:
 
     # penelope "Mmm... The things I’m gonna do to you…"
-    penelope "Mmm... The things I’m gonna do to you…"
+    penelope "嗯...那我就准备好开动咯......"
 
 # game/library.rpy#L1846
 translate chinese libraryvisit2choice7_804b9b6a:
 
     # "Yeah, I think I do."
-    "Yeah, I think I do."
+    "嗯，你肯定准备好了。"
 
 # game/library.rpy#L1849
 translate chinese libraryvisit2choice7_03eafbb2:
 
     # "I’d be lying if I said I wasn’t excited to have lesbian sex again; this genuinely is an experience of a lifetime."
-    "I’d be lying if I said I wasn’t excited to have lesbian sex again; this genuinely is an experience of a lifetime."
+    "要是我说我不想再来一次女同性爱，那肯定是在说谎；这真是一次生平难忘的经历。"
 
 # game/library.rpy#L1850
 translate chinese libraryvisit2choice7_b18d50eb:
 
     # "And I’ll take as many female orgasms as I can get, they are terrific."
-    "And I’ll take as many female orgasms as I can get, they are terrific."
+    "我想尽可能多地感受几次女性高潮，太销魂了。"
 
 # game/library.rpy#L1851
 translate chinese libraryvisit2choice7_d3573ec8:
 
     # penelope "Here we go [playername]!"
-    penelope "Here we go [playername]!"
+    penelope "走你，[playername]！"
 
 # game/library.rpy#L1854
 translate chinese libraryvisit2choice7_7d1957f8:
 
     # "Penny’s horn quickly glows as she recants the spell without even needing the book this time."
-    "Penny’s horn quickly glows as she recants the spell without even needing the book this time."
+    "Penny的角迅速闪起亮光，她这次没有借助书本施法。"
 
 # game/library.rpy#L1855
 translate chinese libraryvisit2choice7_7074fe9d:
 
     # "I find myself immediately returning to my dainty female body."
-    "I find myself immediately returning to my dainty female body."
+    "我发现自己的身形变成了娇媚的女性。"
 
 # game/library.rpy#L1856
 translate chinese libraryvisit2choice7_8a768699:
 
     # "It takes a few seconds for my nervous system to readjust, but it’s much faster than last time."
-    "It takes a few seconds for my nervous system to readjust, but it’s much faster than last time."
+    "我的神经系统花了几秒钟适应这个新身体，必上次要快得多。"
 
 # game/library.rpy#L1857
 translate chinese libraryvisit2choice7_6425defe:
 
     # "There’s something I didn’t notice last time, I’m actually shorter and smaller as a girl. I guess it makes sense, but it’s just one of those things that you don’t think about."
-    "There’s something I didn’t notice last time, I’m actually shorter and smaller as a girl. I guess it makes sense, but it’s just one of those things that you don’t think about."
+    "而且我还留意到上次没注意到的一件事，我变成女孩以后身形更较小，也更矮了。还算合理，不过这还不是唯一一个我上次没注意到的变化。"
 
 # game/library.rpy#L1858
 translate chinese libraryvisit2choice7_d24e8003:
 
     # "At this size, Penelope is actually the same height as me, that’s quite a remarkable difference."
-    "At this size, Penelope is actually the same height as me, that’s quite a remarkable difference."
+    "在我这个身形下，Penelope跟我差不多高了，差别还是挺大的。"
 
 # game/library.rpy#L1859
 translate chinese libraryvisit2choice7_f37a8b07:
 
     # "As she sits beside me her hands caressing my soft thighs, she continues what she was saying before."
-    "As she sits beside me her hands caressing my soft thighs, she continues what she was saying before."
+    "她坐到我的身边，开始抚摸着我光滑的大腿，继续说着之前没说完的话。"
 
 # game/library.rpy#L1861
 translate chinese libraryvisit2choice7_0df1a7ed:
 
     # penelope "So cutie, where were we before? Hehe."
-    penelope "So cutie, where were we before? Hehe."
+    penelope "煞是可爱，我们刚刚聊到哪儿了？嘿嘿。"
 
 # game/library.rpy#L1862
 translate chinese libraryvisit2choice7_cfeabad6:
 
     # mc "You were- "
-    mc "You were- "
+    mc "你刚刚说到-"
 
 # game/library.rpy#L1863
 translate chinese libraryvisit2choice7_2f74e6a3:
 
     # "Ah, my voice. Right, it’s different."
-    "Ah, my voice. Right, it’s different."
+    "啊，我的声音。没错，也跟着一起变了。"
 
 # game/library.rpy#L1866
 translate chinese peneloperubbing_9eb45251:
 
     # mc "You were talking about how you want to hear my cute moans."
-    mc "You were talking about how you want to hear my cute moans."
+    mc "你刚刚说到想听听我可爱的叫床声。"
 
 # game/library.rpy#L1867
 translate chinese peneloperubbing_bc7924f2:
 
     # penelope "Ohhh yeah, I have this favourite fantasy in my head right now where both me and my girlfriend are sat on a sofa together."
-    penelope "Ohhh yeah, I have this favourite fantasy in my head right now where both me and my girlfriend are sat on a sofa together."
+    penelope "哦没错，我的脑子里经常浮现出这样一幕幻想----我和我的女友一起坐在沙发上，我最喜欢了。"
 
 # game/library.rpy#L1868
 translate chinese peneloperubbing_1882c5db:
 
     # mc "Oh, right? Just like us."
-    mc "Oh, right? Just like us."
+    mc "哦，真的吗？就像咱们现在一样。"
 
 # game/library.rpy#L1869
 translate chinese peneloperubbing_dc5202a6:
 
     # penelope "Mhm, and my girlfriend is laying into the couch feeling submissive and timid, while I lewdly rub her pussy."
-    penelope "Mhm, and my girlfriend is laying into the couch feeling submissive and timid, while I lewdly rub her pussy."
+    penelope "嗯，我的女友听话，顺从地躺在沙发上，我则揉搓着她涩涩的小穴。"
 
 # game/library.rpy#L1870
 translate chinese peneloperubbing_a8d46195:
 
     # mc "O-Oh my. That’s all?"
-    mc "O-Oh my. That’s all?"
+    mc "哦，哦天。你就只想这个？"
 
 # game/library.rpy#L1871
 translate chinese peneloperubbing_11843f25:
 
     # penelope "It sounds simple, right? But in that moment, you are wholly giving your body to me."
-    penelope "It sounds simple, right? But in that moment, you are wholly giving your body to me."
+    penelope "听起来简单，对吧？但你现在，得把身子给我。"
 
 # game/library.rpy#L1872
 translate chinese peneloperubbing_ff2b5e38:
 
     # penelope "The simple things really get me going, the slow build-up of tension, the kisses, the rising arousal."
-    penelope "The simple things really get me going, the slow build-up of tension, the kisses, the rising arousal."
+    penelope "简单的事情反而能让我性奋，缓慢绷紧的神经，接吻，还有绵绵的情欲。"
 
 # game/library.rpy#L1873
 translate chinese peneloperubbing_1b7078dc:
 
     # penelope "Especially that rising arousal."
-    penelope "Especially that rising arousal."
+    penelope "尤其是绵绵攀升的情欲。"
 
 # game/library.rpy#L1874
 translate chinese peneloperubbing_5440e8ad:
 
     # "She whispers into my ear with a lustfully sweet tone, as her hands continue to glide over my thighs causing me to coo, and wiggle as I gradually feel my new female body get turned on."
-    "She whispers into my ear with a lustfully sweet tone, as her hands continue to glide over my thighs causing me to coo, and wiggle as I gradually feel my new female body get turned on."
+    "她凑近我的耳边，用淫靡又甜蜜的语气朝我梦呓，一双在我大腿上来回摩挲的玉手令我的喉咙里不住地发出咕咕声，随着我全新的女性身体渐渐性奋，开始扭动起来。"
 
 # game/library.rpy#L1875
 translate chinese peneloperubbing_688c0e84:
 
     # penelope "Kiss me."
-    penelope "Kiss me."
+    penelope "吻我。"
 
 # game/library.rpy#L1876
 translate chinese peneloperubbing_397ac5d3:
 
     # mc "K-Kiss?"
-    mc "K-Kiss?"
+    mc "文，吻？"
 
 # game/library.rpy#L1877
 translate chinese peneloperubbing_c8f0c3b5:
 
     # penelope "That’s it, that’s the feeling I wanted to capture."
-    penelope "That’s it, that’s the feeling I wanted to capture."
+    penelope "没错，我想尝尝那种感觉。"
 
 # game/library.rpy#L1878
 translate chinese peneloperubbing_5f1495d7:
 
     # mc "Huh? What feeling?"
-    mc "Huh? What feeling?"
+    mc "哈？什么感觉？"
 
 # game/library.rpy#L1879
 translate chinese peneloperubbing_54d935f1:
 
     # penelope "That delicate shyness, I’ve turned you from a gruff man into a delicate flower."
-    penelope "That delicate shyness, I’ve turned you from a gruff man into a delicate flower."
+    penelope "我把你从一个毛躁的男的变成一朵鲜嫩的小花以后那种羞答答的感觉。"
 
 # game/library.rpy#L1880
 translate chinese peneloperubbing_8b4a270f:
 
     # "Hey, I’m not that gruff…"
-    "Hey, I’m not that gruff…"
+    "嘿，我可没她说得那么毛躁......"
 
 # game/library.rpy#L1884
 translate chinese peneloperubbing_7bfc2aad:
 
     # "I’ve noticed that the gender-change spell subtly changes my personality."
-    "I’ve noticed that the gender-change spell subtly changes my personality."
+    "我留意到性转法术还对我的人格产生了微妙的影响。"
 
 # game/library.rpy#L1885
 translate chinese peneloperubbing_71666f02:
 
     # "However, that could easily be psychological, because I look like a girl, I act how I perceive a girl should act."
-    "However, that could easily be psychological, because I look like a girl, I act how I perceive a girl should act."
+    "然而，这种变化在心理上的影响尤为明显，因为我现在外貌上看起来像个女孩，所以也得像个女孩一样行事。"
 
 # game/library.rpy#L1886
 translate chinese peneloperubbing_0e300fed:
 
     # "I don’t see why I would, given the circumstances, but Penelope can see right through me regardless."
-    "I don’t see why I would, given the circumstances, but Penelope can see right through me regardless."
+    "现在的情况让我有些不知所措，不过Penelope总能看穿我的小心思。"
 
 # game/library.rpy#L1887
 translate chinese peneloperubbing_7a287225:
 
     # "There’s no point in fighting it, her tongue feels amazing."
-    "There’s no point in fighting it, her tongue feels amazing."
+    "在她惊艳香舌的挑逗下，任何反抗都是徒劳。"
 
 # game/library.rpy#L1889
 translate chinese peneloperubbing_da03b347:
 
     # "Yeah, that’s right… Give into Penelope, just relax. Spread your legs slightly."
-    "Yeah, that’s right… Give into Penelope, just relax. Spread your legs slightly."
+    "没错，就是这样...完全臣服于Penelope，放松就好。两腿张开。"
 
 # game/library.rpy#L1892
 translate chinese peneloperubbing_8a2743ea:
 
     # "She pushes me down and I can feel her tongue trace the outline of my lips."
-    "She pushes me down and I can feel her tongue trace the outline of my lips."
+    "她把我推倒在沙发上，我能感觉到她的香舌在我的嘴唇边上蜿蜒。"
 
 # game/library.rpy#L1894
 translate chinese peneloperubbing_953d8b12:
 
     # mc "A lick? Is that all?"
-    mc "A lick? Is that all?"
+    mc "你就光舔？"
 
 # game/library.rpy#L1896
 translate chinese peneloperubbing_2beebd63:
 
     # "Penny doesn’t wait another second, she surprises me with a sudden forceful kiss of the lips. She soon backs away and observes my reaction."
-    "Penny doesn’t wait another second, she surprises me with a sudden forceful kiss of the lips. She soon backs away and observes my reaction."
+    "Penny没有回答，又朝我的嘴上又是强力的一吻，出乎我的意料。不一会唇分，她直起来观察着我的反应。"
 
 # game/library.rpy#L1898
 translate chinese peneloperubbing_438ed6d7:
 
     # penelope "Mmm… I like that."
-    penelope "Mmm… I like that."
+    penelope "嗯...我喜欢那样。"
 
 # game/library.rpy#L1899
 translate chinese peneloperubbing_db818ff3:
 
     # mc "Me too… Let’s do it again?"
-    mc "Me too… Let’s do it again?"
+    mc "我也是...咱们再来？"
 
 # game/library.rpy#L1901
 translate chinese peneloperubbing_dd5df0c9:
 
     # "Holding both my hands back, she lowers her head and begins to kiss me again."
-    "Holding both my hands back, she lowers her head and begins to kiss me again."
+    "她与我十指相扣，又俯下身子和我接起了吻。"
 
 # game/library.rpy#L1902
 translate chinese peneloperubbing_e52e85c9:

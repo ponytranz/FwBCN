@@ -950,7 +950,7 @@ translate chinese cforest_b49c3a63:
 translate chinese cforest_4fc36432:
 
     # mc "Did it work?"
-    mc "它成功了吗？"
+    mc "它起效果了吗？"
 
 # game/finalroute.rpy#L499
 translate chinese cforest_4ef5063d:
@@ -1070,7 +1070,7 @@ translate chinese cforest_5747aa51:
 translate chinese cforest_a3998efe:
 
     # "Butters nods and I sprint out of the cottage."
-    "Butters轻轻点头，而我快速地冲出了屋子"
+    "Butters轻轻点头，而我快速地冲出了屋子."
 
 # game/finalroute.rpy#L529
 translate chinese cforest_bede9a9d:
@@ -1142,7 +1142,7 @@ translate chinese cforest_041a08f4:
 translate chinese cforest_0b444007:
 
     # penelope "B-But my Queen, I’ll do anything for you! Why can’t we sleep together like we used to?"
-    penelope "B-But my Queen, I’ll do anything for you! Why can’t we sleep together like we used to?"
+    penelope "但-但是我的女王，我愿意为你做任何事!为什么我们不能像以前那样睡在一起?"
 
 # game/finalroute.rpy#L569
 translate chinese cforest_6db64765:
@@ -1208,37 +1208,37 @@ translate chinese cforest_6978ec05:
 translate chinese cforest_be485ba0:
 
     # "Penelope grunts and storms out of the throne room, leaving Morrigan to siphon the power of the sisters."
-    "Penelope grunts and storms out of the throne room, leaving Morrigan to siphon the power of the sisters."
+    "Penelope咕哝着冲出王座室，留下Morrigan吸走姐妹俩的力量。"
 
 # game/finalroute.rpy#L591
 translate chinese cforest_08b28677:
 
     # penelope "Eugh… Morrigan… Why won’t you love me?"
-    penelope "Eugh… Morrigan… Why won’t you love me?"
+    penelope "为什么你不爱我？"
 
 # game/finalroute.rpy#L592
 translate chinese cforest_2f93c277:
 
     # penelope "I-I love you so much… My Queen, without you I’m nothing…"
-    penelope "I-I love you so much… My Queen, without you I’m nothing…"
+    penelope "我,我非常爱你…我的女王，没有你我什么都不是…"
 
 # game/finalroute.rpy#L593
 translate chinese cforest_4c70c1f4:
 
     # penelope "Maybe that [playername] guy was onto something when he told me I was loving in the wrong way… Maybe I am too obsessed with the Queen..."
-    penelope "Maybe that [playername] guy was onto something when he told me I was loving in the wrong way… Maybe I am too obsessed with the Queen..."
+    penelope "那个叫[playername]的可能说我正在以错误的方式感受爱情…也许只是我太过于迷恋女王陛下罢了…"
 
 # game/finalroute.rpy#L594
 translate chinese cforest_71beb356:
 
     # penelope "I wonder what he’s doing now? How does he feel knowing he’s been betrayed and lost everything?"
-    penelope "I wonder what he’s doing now? How does he feel knowing he’s been betrayed and lost everything?"
+    penelope "我想知道他现在在干嘛？当他因为背叛而失去一切的时候，他会怎么想？"
 
 # game/finalroute.rpy#L595
 translate chinese cforest_0090e1a9:
 
     # penelope "I adore Morrigan, but she has no empathy…"
-    penelope "I adore Morrigan, but she has no empathy…"
+    penelope "我非常热爱我的女王Morrigan，但她似乎对待我没有如此的共情…"
 
 # game/finalroute.rpy#L597
 translate chinese cforest_a20cefa7:
@@ -1256,121 +1256,121 @@ translate chinese cforest_23c53178:
 translate chinese clibrary_057523bd:
 
     # "There's no time to visit Lily again, I need to continue my sex conquest!"
-    "There's no time to visit Lily again, I need to continue my sex conquest!"
+    "当下可没有再去看Lily的时间了，我必须不停地操下去，不要停下来！"
 
 # game/finalroute.rpy#L611
 translate chinese clibrary_a98ee054:
 
     # "I hammer on the library door in an attempt to get a response, but to no avail."
-    "I hammer on the library door in an attempt to get a response, but to no avail."
+    "我敲了敲图书馆的门想得到答复，但是却无人应门。"
 
 # game/finalroute.rpy#L612
 translate chinese clibrary_78d0c875:
 
     # "I try opening the door and it’s unlocked! Penelope must have been in such a rush that she didn’t even bother locking it."
-    "I try opening the door and it’s unlocked! Penelope must have been in such a rush that she didn’t even bother locking it."
+    "当我试着开门时才发现门居然没有锁，Penelope估计是太过于急切了甚至连门都忘记了锁。"
 
 # game/finalroute.rpy#L614
 translate chinese clibrary_d518bedf:
 
     # "I rush upstairs and into Lily’s bedroom to see her nonchalantly on her bed browsing the web."
-    "I rush upstairs and into Lily’s bedroom to see her nonchalantly on her bed browsing the web."
+    "我推开门冲进了二楼Lily的房间，却看见她正在漫不经心且毫无目的地浏览着网页。"
 
 # game/finalroute.rpy#L615
 translate chinese clibrary_d8f27264:
 
     # "Nothing seems out of the ordinary, that is until she turns to face me."
-    "Nothing seems out of the ordinary, that is until she turns to face me."
+    "在她转身对我说话之前，一切似乎都不符合逻辑和常规，太奇怪了！"
 
 # game/finalroute.rpy#L619
 translate chinese clibrary_ad6fc97a:
 
     # lily "Ohh, master! Thank you so much for blessing me with this gift, my eyes have truly been opened to the beauty of our new Queen, Morrigan."
-    lily "Ohh, master! Thank you so much for blessing me with this gift, my eyes have truly been opened to the beauty of our new Queen, Morrigan."
+    lily "哦哦，我的主人！我真的非常感谢您给我的礼物，让我能睁开双眼看见这精美绝伦的绝世珍宝——女王Morrigan。"
 
 # game/finalroute.rpy#L620
 translate chinese clibrary_b9a9100f:
 
     # mc "Damnit… I feel so bad for getting you caught up in this mess."
-    mc "Damnit… I feel so bad for getting you caught up in this mess."
+    mc "淦！她也陷入了混乱之中，对此我真的感到痛心疾首。"
 
 # game/finalroute.rpy#L622
 translate chinese clibrary_3cc4973d:
 
     # lily "Have you come to make me your filthy slut again?"
-    lily "Have you come to make me your filthy slut again?"
+    lily "你再次来到这里是又想操我直到成为一个荡妇吗？我好兴奋！"
 
 # game/finalroute.rpy#L623
 translate chinese clibrary_821f398d:
 
     # lily "I’d love for you to fill me up with your cum, maybe you can make me one of your breeding whores so we can strengthen Morrigan’s army?"
-    lily "I’d love for you to fill me up with your cum, maybe you can make me one of your breeding whores so we can strengthen Morrigan’s army?"
+    lily "我非常渴望你那阴茎喷射出的白浊能灌满我那淫荡的肉体，你还可以让我成为你的妓女，也许这会帮助Morrigan女王的军队更加强大？"
 
 # game/finalroute.rpy#L624
 translate chinese clibrary_1465e659:
 
     # "She’s still eager to fuck…"
-    "She’s still eager to fuck…"
+    "即使是混乱了她仍然渴望阴茎能进入她的身体…"
 
 # game/finalroute.rpy#L627
 translate chinese clibrary_b131efc6:
 
     # "I enter into the library again, the door still uncaringly unlocked, although it's my fault for not locking it behind me this time."
-    "I enter into the library again, the door still uncaringly unlocked, although it's my fault for not locking it behind me this time."
+    "我再一次进入了图书馆，门依旧是处于没有上锁的状态，尽管这次没锁好是我的问题。"
 
 # game/finalroute.rpy#L629
 translate chinese clibrary_cc0b2a50:
 
     # "I return upstairs to Lily's room where I catch her masturbating."
-    "I return upstairs to Lily's room where I catch her masturbating."
+    "我返回了Lily二楼的房间，她却在里面自慰"
 
 # game/finalroute.rpy#L633
 translate chinese clibrary_5ca969df:
 
     # lily "M-Master! You've returned, I was just thinking about you!"
-    lily "M-Master! You've returned, I was just thinking about you!"
+    lily "主…主人！你终于回来了，自慰的时候我满脑子都想的是你！"
 
 # game/finalroute.rpy#L635
 translate chinese clibrary_bc484c56:
 
     # mc "That's good, I was just thinking about you too, how about I help you out there?"
-    mc "That's good, I was just thinking about you too, how about I help you out there?"
+    mc "那可再好不过了，我刚刚也想的是你，不如我来助你一臂之力"
 
 # game/finalroute.rpy#L637
 translate chinese clibrary_af01a111:
 
     # lily "Oh my gosh, yes!"
-    lily "Oh my gosh, yes!"
+    lily "那真是好极了主人，我随时等待您的帮助"
 
 # game/finalroute.rpy#L640
 translate chinese clibrary_6f9ea761:
 
     # lily "Wanna do the naughties together?"
-    lily "Wanna do the naughties together?"
+    lily "想和我一起做点有趣的事情吗？"
 
 # game/finalroute.rpy#L641
 translate chinese clibrary_1ef625be:
 
     # "What the heck am I supposed to do? Is Arcadia doomed? Should I just give up?"
-    "What the heck am I supposed to do? Is Arcadia doomed? Should I just give up?"
+    "我他妈该怎么办？难道Arcadia注定要灭亡了吗？我应该就此打住，得过且过吗？"
 
 # game/finalroute.rpy#L642
 translate chinese clibrary_0e9365e7:
 
     # mc "I'm gonna head out, sorry Lily."
-    mc "I'm gonna head out, sorry Lily."
+    mc "我必须要走了，抱歉Lily。"
 
 # game/finalroute.rpy#L646
 translate chinese clibrary_7123081b:
 
     # "The brainwashed mare jumps up from the bed and leans over a counter, wiggling her dripping crotch in my direction, her tail fluttering back and forth excitedly."
-    "The brainwashed mare jumps up from the bed and leans over a counter, wiggling her dripping crotch in my direction, her tail fluttering back and forth excitedly."
+    "一匹被洗脑的母马从床上跃起并且斜靠在柜台上，她在那里朝着我的方向扭动着她那流着淫水的阴部，尾巴因为过于兴奋而一直来回摆动。"
 
 # game/finalroute.rpy#L647
 translate chinese clibrary_6ee0444e:
 
     # lily "I want you to bend me over and fuck me silly, master!"
-    lily "I want you to bend me over and fuck me silly, master!"
+    lily "我想要你抱着我弯下的腰然后一直干我直到把我操成傻子，可以吗主人！"
 
 # game/finalroute.rpy#L648
 translate chinese clibrary_61df5792:

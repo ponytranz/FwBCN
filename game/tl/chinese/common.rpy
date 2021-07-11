@@ -2,19 +2,19 @@ translate chinese strings:
 
     # renpy/common/00accessibility.rpy_L28_0
     old "Self-voicing disabled."
-    new "Self-voicing disabled."
+    new "关闭自动语音"
 
     # renpy/common/00accessibility.rpy_L29_0
     old "Clipboard voicing enabled. "
-    new "Clipboard voicing enabled. "
+    new "剪贴板表达启用"
 
     # renpy/common/00accessibility.rpy_L30_0
     old "Self-voicing enabled. "
-    new "Self-voicing enabled. "
+    new "开启自动语音"
 
     # renpy/common/00accessibility.rpy_L32_0
     old "bar"
-    new "bar"
+    new "酒馆"
 
     # renpy/common/00accessibility.rpy_L33_0
     old "selected"
@@ -22,11 +22,11 @@ translate chinese strings:
 
     # renpy/common/00accessibility.rpy_L34_0
     old "viewport"
-    new "viewport"
+    new "窗口化"
 
     # renpy/common/00accessibility.rpy_L35_0
     old "horizontal scroll"
-    new "horizontal scroll"
+    new "上下滚动设置"
 
     # renpy/common/00accessibility.rpy_L36_0
     old "vertical scroll"
@@ -42,15 +42,15 @@ translate chinese strings:
 
     # renpy/common/00accessibility.rpy_L39_0
     old "increase"
-    new "increase"
+    new "减小"
 
     # renpy/common/00accessibility.rpy_L40_0
     old "decrease"
-    new "decrease"
+    new "增加"
 
     # renpy/common/00accessibility.rpy_L128_0
     old "Font Override"
-    new "Font Override"
+    new "字体过滤"
 
     # renpy/common/00accessibility.rpy_L132_0
     old "Default"
@@ -66,7 +66,7 @@ translate chinese strings:
 
     # renpy/common/00accessibility.rpy_L146_0
     old "Text Size Scaling"
-    new "Text Size Scaling"
+    new "文字大小缩放"
 
     # renpy/common/00accessibility.rpy_L152_0
     old "Reset"
@@ -74,11 +74,11 @@ translate chinese strings:
 
     # renpy/common/00accessibility.rpy_L158_0
     old "Line Spacing Scaling"
-    new "Line Spacing Scaling"
+    new "行间距比例"
 
     # renpy/common/00accessibility.rpy_L171_0
     old "Self-Voicing"
-    new "Self-Voicing"
+    new "自动语音"
 
     # renpy/common/00accessibility.rpy_L175_0
     old "Off"
@@ -86,7 +86,7 @@ translate chinese strings:
 
     # renpy/common/00accessibility.rpy_L179_0
     old "Text-to-speech"
-    new "Text-to-speech"
+    new "文字转换语音"
 
     # renpy/common/00accessibility.rpy_L183_0
     old "Clipboard"
@@ -94,11 +94,11 @@ translate chinese strings:
 
     # renpy/common/00accessibility.rpy_L187_0
     old "Debug"
-    new "Debug"
+    new "测试"
 
     # renpy/common/00accessibility.rpy_L193_0
     old "Self-Voicing Volume Drop"
-    new "Self-Voicing Volume Drop"
+    new "自动语音音量下调"
 
     # renpy/common/00accessibility.rpy_L202_0
     old "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
@@ -266,15 +266,15 @@ translate chinese strings:
 
     # renpy/common/00action_file.rpy_L353_0
     old "Save slot %s: [text]"
-    new "Save slot %s: [text]"
+    new "保存存档 %s: [text]"
 
     # renpy/common/00action_file.rpy_L434_0
     old "Load slot %s: [text]"
-    new "Load slot %s: [text]"
+    new "加载存档 %s: [text]"
 
     # renpy/common/00action_file.rpy_L487_0
     old "Delete slot [text]"
-    new "Delete slot [text]"
+    new "删除存档 [text]"
 
     # renpy/common/00action_file.rpy_L566_0
     old "File page auto"
@@ -602,7 +602,7 @@ translate chinese strings:
 
     # renpy/common/00preferences.rpy_L456_0
     old "font line spacing"
-    new "font line spacing"
+    new "字体行间距"
 
     # renpy/common/00preferences.rpy_L464_0
     old "system cursor"
@@ -614,11 +614,11 @@ translate chinese strings:
 
     # renpy/common/00preferences.rpy_L485_0
     old "sound volume"
-    new "sound volume"
+    new "环境音设置"
 
     # renpy/common/00preferences.rpy_L486_0
     old "voice volume"
-    new "voice volume"
+    new "语音音量"
 
     # renpy/common/00preferences.rpy_L487_0
     old "mute music"
@@ -626,11 +626,11 @@ translate chinese strings:
 
     # renpy/common/00preferences.rpy_L488_0
     old "mute sound"
-    new "mute sound"
+    new "环境音静音"
 
     # renpy/common/00preferences.rpy_L489_0
     old "mute voice"
-    new "mute voice"
+    new "语音静音"
 
     # renpy/common/00preferences.rpy_L490_0
     old "mute all"
@@ -638,7 +638,7 @@ translate chinese strings:
 
     # renpy/common/00preferences.rpy_L571_0
     old "Clipboard voicing enabled. Press 'shift+C' to disable."
-    new "Clipboard voicing enabled. Press 'shift+C' to disable."
+    new "剪贴板表达启用。按'shift+C'禁用。"
 
     # renpy/common/00preferences.rpy_L573_0
     old "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
@@ -646,7 +646,7 @@ translate chinese strings:
 
     # renpy/common/00preferences.rpy_L575_0
     old "Self-voicing enabled. Press 'v' to disable."
-    new "Self-voicing enabled. Press 'v' to disable."
+    new "自动语音启用。按“v”禁用。"
 
     # renpy/common/_compat/gamemenu.rpym_L198_0
     old "Empty Slot."
@@ -654,19 +654,19 @@ translate chinese strings:
 
     # renpy/common/_compat/gamemenu.rpym_L355_0
     old "Previous"
-    new "Previous"
+    new "历史记录"
 
     # renpy/common/_compat/gamemenu.rpym_L362_0
     old "Next"
-    new "Next"
+    new "下一页"
 
     # renpy/common/_compat/preferences.rpym_L428_0
     old "Joystick Mapping"
-    new "Joystick Mapping"
+    new "摇杆映射"
 
     # renpy/common/_developer/developer.rpym_L38_0
     old "Developer Menu"
-    new "Developer Menu"
+    new "开发人员菜单"
 
     # renpy/common/_developer/developer.rpym_L43_0
     old "Interactive Director (D)"
@@ -674,7 +674,7 @@ translate chinese strings:
 
     # renpy/common/_developer/developer.rpym_L45_0
     old "Reload Game (Shift+R)"
-    new "Reload Game (Shift+R)"
+    new "重新读档（Shift+R）"
 
     # renpy/common/_developer/developer.rpym_L47_0
     old "Console (Shift+O)"
@@ -682,15 +682,15 @@ translate chinese strings:
 
     # renpy/common/_developer/developer.rpym_L49_0
     old "Variable Viewer"
-    new "Variable Viewer"
+    new "变量查看器"
 
     # renpy/common/_developer/developer.rpym_L51_0
     old "Image Location Picker"
-    new "Image Location Picker"
+    new "图像位置选择器"
 
     # renpy/common/_developer/developer.rpym_L53_0
     old "Filename List"
-    new "Filename List"
+    new "显示指定的源文件"
 
     # renpy/common/_developer/developer.rpym_L57_0
     old "Show Image Load Log (F4)"
@@ -702,7 +702,7 @@ translate chinese strings:
 
     # renpy/common/_developer/developer.rpym_L63_0
     old "Image Attributes"
-    new "Image Attributes"
+    new "图像属性"
 
     # renpy/common/_developer/developer.rpym_L90_0
     old "[name] [attributes] (hidden)"
@@ -718,11 +718,11 @@ translate chinese strings:
 
     # renpy/common/_developer/developer.rpym_L154_0
     old "Hide deleted"
-    new "Hide deleted"
+    new "隐藏删除项"
 
     # renpy/common/_developer/developer.rpym_L154_1
     old "Show deleted"
-    new "Show deleted"
+    new "显示删除项"
 
     # renpy/common/_developer/developer.rpym_L278_0
     old "Return to the developer menu"
@@ -778,7 +778,7 @@ translate chinese strings:
 
     # renpy/common/_developer/inspector.rpym_L61_0
     old "Size"
-    new "Size"
+    new "大小"
 
     # renpy/common/_developer/inspector.rpym_L65_0
     old "Style"
@@ -866,15 +866,15 @@ translate chinese strings:
 
     # renpy/common/00updater.rpy_L1442_0
     old "Checking for updates."
-    new "Checking for updates."
+    new "请检查更新。"
 
     # renpy/common/00updater.rpy_L1444_0
     old "This program is up to date."
-    new "This program is up to date."
+    new "已达到最新版本。"
 
     # renpy/common/00updater.rpy_L1446_0
     old "[u.version] is available. Do you want to install it?"
-    new "[u.version] is available. Do you want to install it?"
+    new "[u.version]版本目前可用。请问您是否要安装此版本？"
 
     # renpy/common/00updater.rpy_L1448_0
     old "Preparing to download the updates."
@@ -886,7 +886,7 @@ translate chinese strings:
 
     # renpy/common/00updater.rpy_L1452_0
     old "Unpacking the updates."
-    new "Unpacking the updates."
+    new "解压更新包。"
 
     # renpy/common/00updater.rpy_L1454_0
     old "Finishing up."
@@ -894,15 +894,15 @@ translate chinese strings:
 
     # renpy/common/00updater.rpy_L1456_0
     old "The updates have been installed. The program will restart."
-    new "The updates have been installed. The program will restart."
+    new "更新已完成。程序将会重启。"
 
     # renpy/common/00updater.rpy_L1458_0
     old "The updates have been installed."
-    new "The updates have been installed."
+    new "更新已完成。"
 
     # renpy/common/00updater.rpy_L1460_0
     old "The updates were cancelled."
-    new "The updates were cancelled."
+    new "更新被取消。"
 
     # renpy/common/00updater.rpy_L1475_0
     old "Proceed"
@@ -1002,7 +1002,7 @@ translate chinese strings:
 
     # renpy/common/00gltest.rpy_L247_0
     old "This computer is using software rendering."
-    new "This computer is using software rendering."
+    new "计算机正在使用软件渲染。"
 
     # renpy/common/00gltest.rpy_L249_0
     old "This game requires use of GL2 that can't be initialised."
@@ -1042,7 +1042,7 @@ translate chinese strings:
 
     # renpy/common/00gamepad.rpy_L35_0
     old "No Gamepads Available"
-    new "No Gamepads Available"
+    new "没有可用的游戏手柄"
 
     # renpy/common/00gamepad.rpy_L54_0
     old "Calibrating [name] ([i]/[total])"

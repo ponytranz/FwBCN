@@ -182,7 +182,7 @@ translate chinese discountmenu_a7bcf340:
 translate chinese discountmenu_49bf7cc1:
 
     # "I wonder if I'm in the wrong business."
-    "我想我是否买错了东西。"
+    "我想知道我是否买错了东西。"
 
 # game/3map.rpy#L125
 translate chinese discountmenu_d6db09a2_1:
@@ -200,7 +200,7 @@ translate chinese discountmenu_5c464ba5:
 translate chinese discountmenu_611e97fe:
 
     # midna "The ideal armor, allows great flexibility and mobility."
-    midna "它是你梦寐以求的盔甲，具有很高的弹韧性性和轻便性。"
+    midna "它是最适合你的盔甲，具有很高的弹韧性性和轻便性。"
 
 # game/3map.rpy#L132
 translate chinese discountmenu_b9c7c3d1:
@@ -248,7 +248,7 @@ translate chinese discountmenu_1848f445:
 translate chinese discountmenu_33ec372c:
 
     # mc "Seems perfect, I'm not actually looking for a fight."
-    mc "牛啊，而且我不是真的想找谁打架。"
+    mc "很好，但我不是真的想找谁打架。"
 
 # game/3map.rpy#L147
 translate chinese discountmenu_36db34c5:
@@ -266,7 +266,7 @@ translate chinese discountmenu_33a1a848:
 translate chinese discountmenu_f9da35a0:
 
     # midna "Try asking again if you see me at the bar."
-    midna "如果你在酒吧看见，可以再多问问我。"
+    midna "如果咱们在酒吧遇见了，可以再多问我这些事。"
 
 # game/3map.rpy#L160
 translate chinese discountmenu_bbed677c:
@@ -290,7 +290,7 @@ translate chinese discountmenu_116e4394:
 translate chinese discountmenu_e6ece72e:
 
     # merchant "For a punk like you? Cave diving isn't a leisurely walk in the park, even around 'Cadia."
-    merchant "凭你这样的混混?洞穴探险可不是在公园里悠闲地散步，即便是在Acadia附近的也是如此。"
+    merchant "凭你这样的混混?洞穴探险可不是在公园里悠闲地散步，即便是在Acadia附近也是如此。"
 
 # game/3map.rpy#L165
 translate chinese discountmenu_38275807:
@@ -350,13 +350,13 @@ translate chinese discountmenu_b93bb105:
 translate chinese discountmenu_fdc7a715:
 
     # midna "Hey again, need something?"
-    midna "又见面咯，要来点什么东西吗？"
+    midna "又见面咯，要来点什么？"
 
 # game/3map.rpy#L180
 translate chinese discountmenu_9f310220:
 
     # "There're weapons and armor here, I have no use for that, I think."
-    "你这里的武器和盔甲，我想...我似乎用不上。"
+    "你这里的武器和盔甲，我想...似乎用不上。"
 
 # game/3map.rpy#L184
 translate chinese equipmentshop_a9540b8f:
@@ -410,13 +410,13 @@ translate chinese equipmentshopmenu_a7bcf340:
 translate chinese equipmentshopmenu_49bf7cc1:
 
     # "I wonder if I'm in the wrong business."
-    "我想我是否买错了东西。"
+    "我想知道我是否买错了东西。"
 
 # game/3map.rpy#L206
 translate chinese equipmentshopmenu_d6db09a2_1:
 
     # "I can't afford that."
-    "我承担不起这个价格。"
+    "我承担不起这个价格"
 
 # game/3map.rpy#L211
 translate chinese equipmentshopmenu_5c464ba5:
@@ -428,7 +428,7 @@ translate chinese equipmentshopmenu_5c464ba5:
 translate chinese equipmentshopmenu_611e97fe:
 
     # midna "The ideal armor, allows great flexibility and mobility."
-    midna "它是你梦寐以求的盔甲，具有很高的弹韧性性和轻便性。"
+    midna "它是最适合你的盔甲，具有很高的弹韧性性和轻便性。"
 
 # game/3map.rpy#L213
 translate chinese equipmentshopmenu_b9c7c3d1:
@@ -476,7 +476,7 @@ translate chinese equipmentshopmenu_1848f445:
 translate chinese equipmentshopmenu_33ec372c:
 
     # mc "Seems perfect, I'm not actually looking for a fight."
-    mc "牛啊，而且我不是真的想找谁打架。"
+    mc "很好，但我不是真的想找谁打架。"
 
 # game/3map.rpy#L228
 translate chinese equipmentshopmenu_36db34c5:
@@ -488,7 +488,7 @@ translate chinese equipmentshopmenu_36db34c5:
 translate chinese equipmentshopmenu_9a54f5d3:
 
     # "I would love to flirt with Midna, but in front of Dawn? Nah..."
-    "我很想和Midna调情，但要当着Dawn的面吗?啊这…"
+    "我很想和Midna调情，但要当着Dawn的面吗?呐…"
 
 # game/3map.rpy#L235
 translate chinese equipmentshopmenu_641e370e:
@@ -500,7 +500,7 @@ translate chinese equipmentshopmenu_641e370e:
 translate chinese equipmentshopmenu_2b4b0adf:
 
     # midna "Cute? Come on, that's such basic shit, be honest with me."
-    midna "什么，可爱?拜托，这是最基本的东西，快跟我说实话！"
+    midna "什么，可爱?拜托~这tmd如此显然易见；你想说什么，跟我说实话！"
 
 # game/3map.rpy#L237
 translate chinese equipmentshopmenu_13347a3d:
@@ -590,7 +590,7 @@ translate chinese arisex_ce48541e:
 translate chinese arisex_ee15b962:
 
     # "My tail chasing ways have finally caught up to me, is this the end? ( T n T )"
-    "我的黑历史终于追上了我，我这是到了我生命的尽头吗?(T n T )"
+    "我的黑历史终于追上了我，我这是到了我的结局了吗?(T n T )"
 
 # game/3map.rpy#L269
 translate chinese arisex_46ae2f34:
@@ -602,7 +602,7 @@ translate chinese arisex_46ae2f34:
 translate chinese arisex_97d629ea:
 
     # mc "Wait… WHAT?!"
-    mc "啥，啥，啥?!"
+    mc "等等...啊，啥?!"
 
 # game/3map.rpy#L272
 translate chinese arisex_b7a4dd56:
@@ -638,7 +638,7 @@ translate chinese arisex_5ccd3663:
 translate chinese arisex_75ba9872:
 
     # ari "Come on, you already cucked me with both of my sisters."
-    ari "你在等什么？你已经把我和我两个姐妹都甩了。"
+    ari "你在等什么？你已经把我和我两个姐妹都上了。"
 
 # game/3map.rpy#L284
 translate chinese arisex_269548cb:
@@ -734,7 +734,7 @@ translate chinese arisex_f6630afa:
 translate chinese arisex_4196e585:
 
     # "If someone were to look in the alley, they could probably see, but I’ve already committed."
-    "如果有谁碰巧在小巷里，他们可能会看到咱俩，但我已经承诺了。"
+    "如果有谁碰巧在小巷里，他们可能会看到咱俩，但我已经做好准备了。"
 
 # game/3map.rpy#L312
 translate chinese arisex_ce332dc1:
@@ -806,7 +806,7 @@ translate chinese arisex_64917664:
 translate chinese arisex_767c7396:
 
     # "She relaxes a little, and my second finger slips in. I take the opportunity to gently finger her as she slowly eases to the girth. Just a little more and she’ll be ready for my cock."
-    "她稍稍放松了一下下，我把食指也伸了进去。我抓住机会轻轻地挑逗她，帮她的下体慢慢放松。只要她的阴道再多湿一点，就基本上准备好迎接我的cock了。"
+    "她稍稍放松了一下下，我把食指也伸了进去。我抓住机会轻轻地挑逗她，帮她的下体慢慢放松。只要她的阴道再多湿一点，就基本上准备好迎接我的肉棒了。"
 
 # game/3map.rpy#L327
 translate chinese arisex_4350b201:
@@ -830,7 +830,7 @@ translate chinese arisex_1e3f4fab:
 translate chinese arisex_0ebd7e6d:
 
     # ari "Agatha thinks she’s a damn succubus seductress, and Sonia? She’s just stupid and sleazy…"
-    ari "Agatha自称是一名磨人的小妖精，至于Sonia呢，她简直又蠢又下流。"
+    ari "Agatha自称是一个磨人的小妖精，至于Sonia呢，她简直又蠢又下流。"
 
 # game/3map.rpy#L333
 translate chinese arisex_a3cf5e2f:
@@ -854,7 +854,7 @@ translate chinese arisex_03acdfd1:
 translate chinese arisex_3acbcd40:
 
     # ari "Uuuhh, I wanted you, but… Heh, it’s a little twisted, but I-I would have never been able to get you if it wasn’t for my sister’s acting first."
-    ari "我想要占有你，但......这有点变态下流，所以如果不是因为我姐妹的抢先，我永远也不会主动去找你。"
+    ari "我想要占有你，但......这有点变态下流，所以如果不是因为我姐妹抢先一步，我永远也不会主动去找你。"
 
 # game/3map.rpy#L338
 translate chinese arisex_450a8116:
@@ -902,7 +902,7 @@ translate chinese arisex_7f781886:
 translate chinese arisex_85dc7ed8:
 
     # ari "What difference does it make? I still want this!"
-    ari "这有什么区别?我还是想要!"
+    ari "这有什么区别?我就是想要!"
 
 # game/3map.rpy#L356
 translate chinese arisex_59a1ea42:
@@ -944,7 +944,7 @@ translate chinese arisex_c13083b3:
 translate chinese arisex_982d47e6:
 
     # ari "Mmm… But I need to tend to my stall, I can only expect Midna to watch over it for so long…"
-    ari "嗯，但是我需要照顾我的摊位，我只能指望Midna照看它这么长时间了……"
+    ari "嗯，但是我需要照顾我的摊位，我只能指望Midna照看它这点时间……"
 
 # game/3map.rpy#L367
 translate chinese arisex_af0e7cce:
@@ -968,7 +968,7 @@ translate chinese arisex_d4ef32af:
 translate chinese arisex_c36ec1e1:
 
     # mc "Hm…. I have an idea. There’s a wagon near here, and a nice bed..."
-    mc "好吧……我有个主意，这附近有一辆车，还有一张漂亮的床……"
+    mc "好吧……我有个主意，这附近有一个篷车，还有一张漂亮的床……"
 
 # game/3map.rpy#L376
 translate chinese arisex_cd1a00fc:
@@ -980,7 +980,7 @@ translate chinese arisex_cd1a00fc:
 translate chinese arisex_98df12b3:
 
     # "Moxie is out right now, so I take Ari to the wagon."
-    "既然Moxie现在在外面，我毫不客气地抱着Ari进去了。"
+    "既然Moxie现在在外面，我毫不客气地带Ari进去。"
 
 # game/3map.rpy#L380
 translate chinese arisex_a20cefa7:
@@ -1010,7 +1010,7 @@ translate chinese arisex_52592cd6:
 translate chinese arisex_fdb122e2:
 
     # "Wow, she’s really wet now. I guess that ol’ horny mare thing finally kicked in, should be pretty easy to penetrate her now."
-    "嚯，她的阴部现在完全湿透了，等待着我的cock那轻而易举地捅入"
+    "嚯，她的阴部现在完全湿透了，等待着我的肉棒那轻而易举地捅入"
 
 # game/3map.rpy#L389
 translate chinese arisex_6e4874a2:
@@ -1028,7 +1028,7 @@ translate chinese arisex_04ab8f6a:
 translate chinese arisex_3ff117f9:
 
     # "My cock was already anticipating the act and had been growing hard ever since we entered the bedroom."
-    "我的cock也准备好了，从我们进入卧室后就一直在变硬。"
+    "我的肉棒也准备好了，从我们进入卧室后就一直在变硬。"
 
 # game/3map.rpy#L394
 translate chinese arisex_3c5595f0:

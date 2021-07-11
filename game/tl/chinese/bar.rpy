@@ -4778,7 +4778,7 @@ translate chinese barvisit2_3bc8f7ce:
 translate chinese barvisit2_1820e113:
 
     # riku "Meh, what about a dress?"
-    riku "嗯，裙子呢？"
+    riku "切，那买件裙子怎么样？"
 
 # game/bar.rpy#L1295
 translate chinese barvisit2_b25deaaf:
@@ -4790,7 +4790,7 @@ translate chinese barvisit2_b25deaaf:
 translate chinese barvisit2_b44b6545:
 
     # ruby "Ohoho, really? Delightful!"
-    ruby "哦哦，真的吗？祝你愉快！"
+    ruby "哦哦，真的吗？妙极了！"
 
 # game/bar.rpy#L1298
 translate chinese barvisit2_a8842a1a:
@@ -4934,7 +4934,7 @@ translate chinese barvisit2_21a53069:
 translate chinese barvisit2_de810bac:
 
     # ruby "*Whispering to me* She says that, but she’s definitely the kind of mare to surprise her boyfriend with sexy, girly clothes."
-    ruby "*低声对我说*虽然她这么说，但她绝对是那种穿着性感少女装给男友惊喜的母马。"
+    ruby "*低声对我说*虽然她这么说，但她绝对是那种会穿着性感少女装给男友惊喜的母马。"
 
 # game/bar.rpy#L1351
 translate chinese barvisit2_202a5b40:
@@ -4952,7 +4952,7 @@ translate chinese barvisit2_2e2972af:
 translate chinese barvisit2_5f71f8fb:
 
     # "It’d almost be boring if she didn’t regularly lift her tail and accidentally flash her rear."
-    "如果不是她经常抬起尾巴，不小心露出屁股，那可太无聊了。"
+    "如果不是她经常翘起尾巴，不小心露出屁股，那可太无聊了。"
 
 # game/bar.rpy#L1354
 translate chinese barvisit2_96498924:
@@ -4988,13 +4988,13 @@ translate chinese barvisit2_ad88bd30:
 translate chinese barvisit2_24fc5fdd:
 
     # riku "I know you two are staring at my butt… Guess you’re not even trying to hide it at this point."
-    riku "我知道你俩盯着我的屁股。。。我猜你俩现在根本不想收敛一下。"
+    riku "我知道你俩正盯着我的屁股。。。猜你俩现在根本连收敛下都不想。"
 
 # game/bar.rpy#L1365
 translate chinese barvisit2_8bafb74e:
 
     # ruby "That dress really brings out your ass! Perhaps you could order me to make a few dresses for your barmaids?"
-    ruby "这套制服衬托出了你的翘臀！也许你可以让我给你的女招待做几套制服？"
+    ruby "这套制服真的衬出了你的翘臀！也许你可以让我给你的女招待做几套制服？"
 
 # game/bar.rpy#L1374
 translate chinese barvisit2_60428db0:
@@ -5018,7 +5018,7 @@ translate chinese barvisit2_38c65335:
 translate chinese barvisit2_0071062a:
 
     # ruby "You can keep the dress if you want, Melody wore it once then gave it to me to sell, but I’ve had {i}no luck!{/i}"
-    ruby "如果你想，你可以留着这条裙子，Melody穿过一次就给我卖了，我一直{i}没有好运！{/i}"
+    ruby "如果你想，你可以留着这条裙子，Melody穿过一次就给我卖了，我一直{i}没能卖出去！{/i}"
 
 # game/bar.rpy#L1384
 translate chinese barvisit2_723af7f2:
@@ -5048,7 +5048,7 @@ translate chinese barvisit2_13dfd889:
 translate chinese barvisit2_e6cb4bf7:
 
     # mc "What do you think? A proper slave outfit."
-    mc "你觉得怎么样？一套合适的女仆装。"
+    mc "你觉得怎么样？一套合适的奴仆装。"
 
 # game/bar.rpy#L1397
 translate chinese barvisit2_117fa06f:
@@ -5102,7 +5102,7 @@ translate chinese barvisit2_ce617998_1:
 translate chinese barvisit2_a24bc112:
 
     # "Moxie and I work all day, so while we’re not dirty people, mess can accumulate without our realising, especially dust."
-    "Moxie和我整天都在工作，虽然我们都不是脏兮兮的，但脏乱的东西总会在不经意间出现，尤其是灰尘。"
+    "Moxie和我整天都在工作，虽然我们都不是脏兮兮的，但脏乱的东西总会在不经意间积累起来，尤其是灰尘。"
 
 # game/bar.rpy#L1412
 translate chinese barvisit2_739e4cb2:
@@ -5120,7 +5120,7 @@ translate chinese barvisit2_6c8b4c86:
 translate chinese barvisit2_1cfd7a24:
 
     # "Fortunately, I have the exact candidate to go on her hands and knees right now."
-    "好在我现在有合适的对象可以跪下仔细打扫地板。"
+    "好在我现在有能跪下仔细打扫地板的合适对象。"
 
 # game/bar.rpy#L1416
 translate chinese barvisit2_ee0a1324:
@@ -5144,7 +5144,7 @@ translate chinese barvisit2_6f8c6335:
 translate chinese barvisit2_9cd3c1af:
 
     # "Fortunately, I have the perfect candidate to get on her hands and knees right now."
-    "好在我现在有合适的对象可以跪下仔细打扫地板。"
+    "好在我现在有能跪下仔细打扫地板的完美对象。"
 
 # game/bar.rpy#L1420
 translate chinese barvisit2_a6ee5a1b:
@@ -5264,7 +5264,7 @@ translate chinese barvisit2_d0822329:
 translate chinese barvisit2_0f5d3380:
 
     # "I say that with the enthusiasm of receiving the best lap dance in the world, but all she’s doing is dusting a shelf. Still, I gotta encourage the girl!"
-    "我是带着对世界上最好的膝上艳舞的热情说的，即使她所做的只是掸掸架子上的灰尘。不过，我还是得鼓励她！"
+    "我是带着欣赏世界上最好的大腿舞的热情说的，即使她所做的只是掸掸架子上的灰尘。不过，我还是得鼓励她！"
 
 # game/bar.rpy#L1456
 translate chinese barvisit2_68d7cbb7:
@@ -5426,7 +5426,7 @@ translate chinese barvisit2_85da4912:
 translate chinese barvisit2_ddb0a79a:
 
     # "I wonder how I’m going to do that? This maid stuff is pretty crazy already."
-    "我该怎么办？这件女仆装有点太疯狂了。"
+    "我也想知道我要怎么做？当女仆这事太疯狂了。"
 
 # game/bar.rpy#L1497
 translate chinese barvisit2_ed9f7dd7:
@@ -5438,13 +5438,13 @@ translate chinese barvisit2_ed9f7dd7:
 translate chinese barvisit2_436db0a8:
 
     # riku "The athlete stuff is behind me now, but when I was younger, I really wanted to compete at a pro level. I’d always be in the top sports teams at every institution I took part in."
-    riku "The athlete stuff is behind me now, but when I was younger, I really wanted to compete at a pro level. I’d always be in the top sports teams at every institution I took part in."
+    riku "现在我已经不再是运动员了，但在我年轻的时候，我真的很想在职业赛场上比赛。我加入过所有机构的顶级运动队。"
 
 # game/bar.rpy#L1501
 translate chinese barvisit2_c318ef52:
 
     # riku "I wanted to be, y’know, an athlete."
-    riku "I wanted to be, y’know, an athlete."
+    riku "我想成为，额，你知道的，一位运动员。"
 
 # game/bar.rpy#L1502
 translate chinese barvisit2_57569313:
@@ -5456,25 +5456,25 @@ translate chinese barvisit2_57569313:
 translate chinese barvisit2_58da7547:
 
     # riku "Yeah, exactly. In the same way some athletes run, a Pegasus can fly for sport. I always wanted to be the fastest! Even from an early age."
-    riku "Yeah, exactly. In the same way some athletes run, a Pegasus can fly for sport. I always wanted to be the fastest! Even from an early age."
+    riku "嗯，其实吧。就像一些运动员跑步一样，飞马也可以通过飞行来锻炼自己。甚至从我小时候开始我就想成为世界上最快的飞马！"
 
 # game/bar.rpy#L1505
 translate chinese barvisit2_d9fe4a08:
 
     # riku "I wouldn’t just fly casually either; I’d really push myself. I’d time myself and try to beat myself over and over."
-    riku "I wouldn’t just fly casually either; I’d really push myself. I’d time myself and try to beat myself over and over."
+    riku "我也不会随便飞;我会拼尽全力，认真对待。我会给自己计时，试着一遍又一遍地打破自己以前的记录。"
 
 # game/bar.rpy#L1506
 translate chinese barvisit2_0db0789c:
 
     # riku "I’d fly long distance and go further every time. Pushing my speed, my endurance, my stamina."
-    riku "I’d fly long distance and go further every time. Pushing my speed, my endurance, my stamina."
+    riku "我会飞很长的距离，而且每次都飞得更远来，提高我的速度，耐力和毅力。"
 
 # game/bar.rpy#L1507
 translate chinese barvisit2_094c7243:
 
     # riku "I’d push myself until my body clicked, ached and blistered."
-    riku "I’d push myself until my body clicked, ached and blistered."
+    riku "我会拼尽全力，直到我的身体咔嗒，疼痛，甚至起泡。"
 
 # game/bar.rpy#L1508
 translate chinese barvisit2_9e5eb9ae:
@@ -5492,79 +5492,79 @@ translate chinese barvisit2_cb12d9a7:
 translate chinese barvisit2_084ed886:
 
     # riku "In these competitive areas, you’re either the best, or you’re nothing. You won’t earn a sustainable wage unless you win medals and get the sponsors."
-    riku "In these competitive areas, you’re either the best, or you’re nothing. You won’t earn a sustainable wage unless you win medals and get the sponsors."
+    riku "在这些竞争激烈的运动领域，你要么是最好的，要么什么都不是。除非你赢得奖牌，获得赞助商，否则你连养家糊口都办不到。"
 
 # game/bar.rpy#L1514
 translate chinese barvisit2_4032daaf:
 
     # riku "Hence, you had to practice as much as the best- no, you had to practice MORE than the best."
-    riku "Hence, you had to practice as much as the best- no, you had to practice MORE than the best."
+    riku "因此，你必须和最好的人一样卷——不，你必须比最好的人还要更！卷！"
 
 # game/bar.rpy#L1515
 translate chinese barvisit2_80d97850:
 
     # riku "8 hours a day? Try 10, how about 12?"
-    riku "8 hours a day? Try 10, how about 12?"
+    riku "一天就卷八小时？那为什么不卷10小时？12个小时呢？"
 
 # game/bar.rpy#L1516
 translate chinese barvisit2_d805b298:
 
     # riku "How about waking up bleary eyed and training immediately for hours on end, until you’re so fatigued you can barely move."
-    riku "How about waking up bleary eyed and training immediately for hours on end, until you’re so fatigued you can barely move."
+    riku "为什么不睡眼惺忪地醒来，然后马上连续训练几个小时，直到筋疲力尽。"
 
 # game/bar.rpy#L1518
 translate chinese barvisit2_306cfe03:
 
     # riku "That’s your life in such a dangerously competitive landscape."
-    riku "That’s your life in such a dangerously competitive landscape."
+    riku "这就是你的生活，生活在如此危险的竞争环境下。"
 
 # game/bar.rpy#L1519
 translate chinese barvisit2_deacabae:
 
     # riku "Everyone is pushing themselves so hard to be the best. Beyond their limits, and particularly beyond what their competitors are doing."
-    riku "Everyone is pushing themselves so hard to be the best. Beyond their limits, and particularly beyond what their competitors are doing."
+    riku "每个人都在为了争夺第一而逼迫自己努力，去超越他们的极限，更是去超越他们的竞争对手。"
 
 # game/bar.rpy#L1521
 translate chinese barvisit2_77521b58:
 
     # riku "If they train for 10 hours a day, you train for 10 hours and one minute."
-    riku "If they train for 10 hours a day, you train for 10 hours and one minute."
+    riku "要是他们一天训练10小时，那你就必须比他们多练一刻钟。"
 
 # game/bar.rpy#L1522
 translate chinese barvisit2_36713de7:
 
     # mc "That’s insane competition. If everyone is pushing themselves to do more just to surpass each other, that can’t be healthy at its peak."
-    mc "That’s insane competition. If everyone is pushing themselves to do more just to surpass each other, that can’t be healthy at its peak."
+    mc "这是种病态的竞争。如果每个人都只是为了超越对方而强迫自己做更多，那样即使有人登上了金字塔尖，也不会健康。"
 
 # game/bar.rpy#L1524
 translate chinese barvisit2_7df9e0bc:
 
     # riku "Healthy or not, I followed suit; I had a fiery passion that kept me going through the struggle."
-    riku "Healthy or not, I followed suit; I had a fiery passion that kept me going through the struggle."
+    riku "我参与了这场竞争，将健康抛之脑后；我怀着一腔热血，才熬过了这场斗争。"
 
 # game/bar.rpy#L1525
 translate chinese barvisit2_c2f59149:
 
     # riku "I had a talent, small frame, small breasts. I’m naturally a speedster."
-    riku "I had a talent, small frame, small breasts. I’m naturally a speedster."
+    riku "我确实是个好苗子，身材小，胸也小。我简直就是为速度而生的。"
 
 # game/bar.rpy#L1527
 translate chinese barvisit2_517f5a86:
 
     # riku "And then, my dream! I achieved it! I got to join a team called the Lightning Bolts, it’s the best team in Arcadia."
-    riku "And then, my dream! I achieved it! I got to join a team called the Lightning Bolts, it’s the best team in Arcadia."
+    riku "后来，我的梦想!实现了!我加入了一个叫Lightning Bolts的团队，是全Arcadia最好的团队。"
 
 # game/bar.rpy#L1529
 translate chinese barvisit2_8643bafd:
 
     # riku "I’m allowed to brag about that. Life-time achievement, and all that fuss."
-    riku "I’m allowed to brag about that. Life-time achievement, and all that fuss."
+    riku "我现在可以到处吹这件事情了了。终生的成就，以及那些所有的大惊小怪。"
 
 # game/bar.rpy#L1530
 translate chinese barvisit2_196ebdf4:
 
     # mc "Absolutely, brag to your heart’s content."
-    mc "Absolutely, brag to your heart’s content."
+    mc "当然，尽情地吹牛bi~。"
 
 # game/bar.rpy#L1532
 translate chinese barvisit2_42cd4e5e:

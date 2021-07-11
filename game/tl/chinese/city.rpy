@@ -7362,7 +7362,7 @@ translate chinese strings:
 
     # game/city.rpy_L720_0
     old "Currently listening to That's One Sly Cat - Artificial Music."
-    new "Currently listening to That's One Sly Cat - Artificial Music."
+    new "正在收听：那只狡猾的小猫咪- Artificial Music."
 
     # game/city.rpy_L720_1
     old "Stop"
@@ -7370,15 +7370,15 @@ translate chinese strings:
 
     # game/city.rpy_L727_0
     old "Currently listening to Abstract Foilage - Artificial Music."
-    new "Currently listening to Abstract Foilage - Artificial Music."
+    new "正在收听：Abstract Foilage - Artificial Music."
 
     # game/city.rpy_L734_0
     old "Currently listening to Good Day - Low Frequency Music."
-    new "Currently listening to Good Day - Low Frequency Music."
+    new "正在收听：Good Day - Low Frequency Music."
 
     # game/city.rpy_L740_0
     old "Currently listening to Bald Mountain - God Hand"
-    new "Currently listening to Bald Mountain - God Hand"
+    new "正在收听：Bald Mountain - God Hand"
 
     # game/city.rpy_L750_0
     old "Day Theme 1"
@@ -7390,11 +7390,11 @@ translate chinese strings:
 
     # game/city.rpy_L759_0
     old "Currently listening to Stuck in the Machine - NO MIC."
-    new "Currently listening to Stuck in the Machine - NO MIC."
+    new "正在收听：Stuck in the Machine - NO MIC."
 
     # game/city.rpy_L778_0
     old "Currently listening to Hip Jazz - Benjamin Tissot"
-    new "Currently listening to Hip Jazz - Benjamin Tissot"
+    new "正在收听：Hip Jazz - Benjamin Tissot"
 
     # game/city.rpy_L786_0
     old "Butters' Theme"
@@ -7454,7 +7454,7 @@ translate chinese strings:
 
     # game/city.rpy_L829_3
     old "Intense"
-    new "Intense"
+    new "紧锣密鼓"
 
     # game/city.rpy_L829_4
     old "Cindy's Theme"
@@ -7502,11 +7502,11 @@ translate chinese strings:
 
     # game/city.rpy_L871_3
     old "Comedy"
-    new "Comedy"
+    new "搞笑片"
 
     # game/city.rpy_L871_4
     old "Tension"
-    new "Tension"
+    new "忐忑不安"
 
     # game/city.rpy_L871_5
     old "<- Page 3"
@@ -7538,11 +7538,11 @@ translate chinese strings:
 
     # game/city.rpy_L913_0
     old "Art of Silence"
-    new "Art of Silence"
+    new "寂静之声"
 
     # game/city.rpy_L913_1
     old "Hopelessness"
-    new "Hopelessness"
+    new "绝望"
 
     # game/city.rpy_L913_2
     old "Slow Death"
@@ -7550,11 +7550,11 @@ translate chinese strings:
 
     # game/city.rpy_L913_3
     old "Suspense"
-    new "Suspense"
+    new "悬疑"
 
     # game/city.rpy_L913_4
     old "Epic"
-    new "Epic"
+    new "史诗"
 
     # game/city.rpy_L913_5
     old "<- Page 4"
@@ -7594,7 +7594,7 @@ translate chinese strings:
 
     # game/city.rpy_L955_2
     old "Mr. Kill Yourself - Sewerslvt"
-    new "Mr. Kill Yourself - Sewerslvt"
+    new "自杀先生- Sewerslvt"
 
     # game/city.rpy_L955_3
     old "Seduced by the Queen"
@@ -7726,7 +7726,7 @@ translate chinese strings:
 
     # game/city.rpy_L1418_2
     old "Names are fleeting, you can keep calling me kitten."
-    new "Names are fleeting, you can keep calling me kitten."
+    new "名字只是个代号罢了，但你可以一直叫我小猫~猫~。"
 
     # game/city.rpy_L1438_0
     old "There are plenty of sexy ladies here. But partying ain't cheap, if I'm going to spend time here, I'll be buying drinks."
