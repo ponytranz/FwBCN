@@ -662,13 +662,13 @@ translate chinese farmvisit1_839a90be:
 translate chinese farmvisit1_24e0a425:
 
     # "We start with a few nearby trees as she demonstrates how to safely secure the ladder in place."
-    "We start with a few nearby trees as she demonstrates how to safely secure the ladder in place."
+    "我们从附近的几棵树开始，她告诉我怎样安全的固定住梯子"
 
 # game/farm.rpy#L259
 translate chinese farmvisit1_24ee116c:
 
     # honeycrisp "When you pick ‘em, come down the ladder and place them in gently. If you drop ‘em they’ll smash, and I need to make sure mah goods are of pristine quality for the customers."
-    honeycrisp "When you pick ‘em, come down the ladder and place them in gently. If you drop ‘em they’ll smash, and I need to make sure mah goods are of pristine quality for the customers."
+    honeycrisp "你摘了苹果之后，要从梯子上下来再轻轻地把它们放下。如果你直接把它们扔下来，它们会被摔个稀巴烂。咱得确保咱的货物在客户面前得是完好无损的。"
 
 # game/farm.rpy#L260
 translate chinese farmvisit1_1f6a6ef2:
@@ -686,7 +686,7 @@ translate chinese farmvisit1_aee76ef9:
 translate chinese farmvisit1_782bf5fc:
 
     # "With Honey at the bottom of the ladder, I hope my butt and nutsack look good from this angle."
-    "With Honey at the bottom of the ladder, I hope my butt and nutsack look good from this angle."
+    "考虑到Honey在梯子底部看着，我希望我的屁股和春袋在那个角度看起来好看点。"
 
 # game/farm.rpy#L267
 translate chinese farmvisit1_b6b6cb60:
@@ -698,7 +698,7 @@ translate chinese farmvisit1_b6b6cb60:
 translate chinese farmvisit1_82bfc12f:
 
     # "Honeycrisp was at the bottom rung keeping the ladder in place. I don’t think she needed to do that, but I felt appreciative nonetheless, albeit slightly vulnerable at the fact she could see my butt."
-    "Honeycrisp was at the bottom rung keeping the ladder in place. I don’t think she needed to do that, but I felt appreciative nonetheless, albeit slightly vulnerable at the fact she could see my butt."
+    "Honeycrisp 在梯子底部保持梯子平衡。我觉得她其实不需要这样，不过我还是对此感激，尽管我的屁股让她一览无余这一事实使我感到有点脆弱。"
 
 # game/farm.rpy#L270
 translate chinese farmvisit1_739901f5:

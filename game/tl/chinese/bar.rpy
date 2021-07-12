@@ -122,7 +122,7 @@ translate chinese barvisit1_3371a559:
 translate chinese barvisit1_03a4f5cd:
 
     # riku "You’re no bother at all, in fact I gave my grace to Penelope under the pretense that you’d arrive at this time."
-    riku "你一点都不麻烦，事实上，我以你这个时候要来为藉口，已经恩赐过Penelope了。"
+    riku "你一点都不麻烦，事实上，我对Penelope说过我的先见，吹嘘你一定会在这个时候到来。"
 
 # game/bar.rpy#L54
 translate chinese barvisit1_29d8ea23:
@@ -5456,7 +5456,7 @@ translate chinese barvisit2_57569313:
 translate chinese barvisit2_58da7547:
 
     # riku "Yeah, exactly. In the same way some athletes run, a Pegasus can fly for sport. I always wanted to be the fastest! Even from an early age."
-    riku "嗯，其实吧。就像一些运动员跑步一样，飞马也可以通过飞行来锻炼自己。甚至从我小时候开始我就想成为世界上最快的飞马！"
+    riku "是的，当然啦。就像一些运动员是跑步运动员，飞马也能通过飞行比赛。甚至从我小时候开始，我就一直想成为世界上最快的飞马！"
 
 # game/bar.rpy#L1505
 translate chinese barvisit2_d9fe4a08:
@@ -5474,13 +5474,13 @@ translate chinese barvisit2_0db0789c:
 translate chinese barvisit2_094c7243:
 
     # riku "I’d push myself until my body clicked, ached and blistered."
-    riku "我会拼尽全力，直到我的身体咔嗒，疼痛，甚至起泡。"
+    riku "我会拼尽全力，直到我的身体崩溃，疼痛，甚至起泡。"
 
 # game/bar.rpy#L1508
 translate chinese barvisit2_9e5eb9ae:
 
     # mc "That sounds really intense."
-    mc "这听起来真的很激烈"
+    mc "这听起来真的很辛苦。"
 
 # game/bar.rpy#L1510
 translate chinese barvisit2_cb12d9a7:
@@ -5546,7 +5546,7 @@ translate chinese barvisit2_7df9e0bc:
 translate chinese barvisit2_c2f59149:
 
     # riku "I had a talent, small frame, small breasts. I’m naturally a speedster."
-    riku "我确实是个好苗子，身材小，胸也小。我简直就是为速度而生的。"
+    riku "我确实是个天生的好苗子，我拥有流线型身材，也有一对轻便的奶子。我简直就是为速度而生的。"
 
 # game/bar.rpy#L1527
 translate chinese barvisit2_517f5a86:
@@ -5558,7 +5558,7 @@ translate chinese barvisit2_517f5a86:
 translate chinese barvisit2_8643bafd:
 
     # riku "I’m allowed to brag about that. Life-time achievement, and all that fuss."
-    riku "我现在可以到处吹这件事情了了。终生的成就，以及那些所有的大惊小怪。"
+    riku "现在，我可以到处吹嘘这件事了。毕生的成就，以及所有的传奇故事。"
 
 # game/bar.rpy#L1530
 translate chinese barvisit2_196ebdf4:
@@ -5570,631 +5570,631 @@ translate chinese barvisit2_196ebdf4:
 translate chinese barvisit2_42cd4e5e:
 
     # riku "That’s where training became regimented, and it’s also where I started to somewhat lose heart."
-    riku "That’s where training became regimented, and it’s also where I started to somewhat lose heart."
+    riku "在那里，训练变得更加严格，也是在那里，我开始有点失去信心。"
 
 # game/bar.rpy#L1533
 translate chinese barvisit2_e1626248:
 
     # riku "That shit about pushing your limits, training longer hours…"
-    riku "That shit about pushing your limits, training longer hours…"
+    riku "那些关于挑战极限，长时间训练的屁话……"
 
 # game/bar.rpy#L1535
 translate chinese barvisit2_39f1bc42:
 
     # riku "There were some ponies that were so desperate to go beyond pony limits that they resorted to doping and steroids."
-    riku "There were some ponies that were so desperate to go beyond pony limits that they resorted to doping and steroids."
+    riku "有一些小马非常渴望超越小马的极限， 以至于他们滥用兴奋剂和类固醇。"
 
 # game/bar.rpy#L1536
 translate chinese barvisit2_d348808a:
 
     # riku "Drugs were used to bolster your potential beyond its limit."
-    riku "Drugs were used to bolster your potential beyond its limit."
+    riku "这些药物被用来增强潜能，超越极限。"
 
 # game/bar.rpy#L1537
 translate chinese barvisit2_ef58a087:
 
     # riku "Lobbying along with some powerful people in the shadows allowed some teams to circumvent any drug tests."
-    riku "Lobbying along with some powerful people in the shadows allowed some teams to circumvent any drug tests."
+    riku "一些有权势的马在幕后操纵，使一些团队得以绕开任何药物测试。"
 
 # game/bar.rpy#L1538
 translate chinese barvisit2_e5ac1d64:
 
     # riku "All they care about is winning and earning money for their sponsors and shareholders."
-    riku "All they care about is winning and earning money for their sponsors and shareholders."
+    riku "他们所在乎的，只是为了赞助商和股东赚钱、赢钱。"
 
 # game/bar.rpy#L1539
 translate chinese barvisit2_29ca0202:
 
     # riku "So naturally these drugs were pushed on the athletes, especially the talented ones. We were just seen as tools, another means for the rich fatcats to live leisurely."
-    riku "So naturally these drugs were pushed on the athletes, especially the talented ones. We were just seen as tools, another means for the rich fatcats to live leisurely."
+    riku "所以很自然地，这些药物被强加给了运动员，尤其是那些有天赋的运动员。我们只是被当作工具，成为那些有钱有势的马用来消遣生活的另一种手段。"
 
 # game/bar.rpy#L1540
 translate chinese barvisit2_2fe2ecb2:
 
     # riku "’Everyone is doing it’, I was told, ‘If you don’t do it, you’ll just be at a disadvantage’."
-    riku "’Everyone is doing it’, I was told, ‘If you don’t do it, you’ll just be at a disadvantage’."
+    riku "“每个马都这么做”，有马告诉我，“如果你不做，你就会处于劣势”。"
 
 # game/bar.rpy#L1542
 translate chinese barvisit2_807d0f17:
 
     # riku "But I resisted, I didn’t want any of that shit."
-    riku "But I resisted, I didn’t want any of that shit."
+    riku "但我拒绝了，我不想要这些狗屎药物。"
 
 # game/bar.rpy#L1543
 translate chinese barvisit2_0cafd901:
 
     # mc "That’s awful, the extent people will go to get a tiny edge in competition is ridiculous."
-    mc "That’s awful, the extent people will go to get a tiny edge in competition is ridiculous."
+    mc "可怕，为了在竞争中获得一点点优势而强迫作弊，简直荒谬。"
 
 # game/bar.rpy#L1544
 translate chinese barvisit2_01f2c991:
 
     # riku "It wasn’t just the foul play of doping, there was also tons of bureaucracy and back-stabbing."
-    riku "It wasn’t just the foul play of doping, there was also tons of bureaucracy and back-stabbing."
+    riku "这不仅仅是兴奋剂丑闻，还有大量的官僚主义和暗箭伤马。"
 
 # game/bar.rpy#L1545
 translate chinese barvisit2_9c9f0b9f:
 
     # riku "I decided that I would stay true to myself, and fight with the passion that had burned in my heart since I was a young girl."
-    riku "I decided that I would stay true to myself, and fight with the passion that had burned in my heart since I was a young girl."
+    riku "我决定忠于自己，带着从我还是个小女孩时就在我心中燃烧的激情去战斗。"
 
 # game/bar.rpy#L1547
 translate chinese barvisit2_99c3543a:
 
     # riku "However, the magic was slowly fading for me, I trained harder than ever and yet... I was falling behind my peers."
-    riku "However, the magic was slowly fading for me, I trained harder than ever and yet... I was falling behind my peers."
+    riku "然而，对我来说，魔力正在慢慢消退，即使我训练得比以往任何时候都更努力，但……我仍落后于我的同龄马。"
 
 # game/bar.rpy#L1548
 translate chinese barvisit2_17cb33b2:
 
     # riku "I had to put in extra hours to make up for it, and it worked for a while. But like I said, my body clicked, ached, blistered."
-    riku "I had to put in extra hours to make up for it, and it worked for a while. But like I said, my body clicked, ached, blistered."
+    riku "我不得不通过加训追上差距，这倒是奏效了一段时间。但就像我说的，我的身体开始崩溃，疼痛，起泡。"
 
 # game/bar.rpy#L1549
 translate chinese barvisit2_df5f38e8:
 
     # riku "I’d have to take cold baths in the evenings to stop the ache."
-    riku "I’d have to take cold baths in the evenings to stop the ache."
+    riku "我不得不通过在晚上洗冷水澡来止痛。"
 
 # game/bar.rpy#L1551
 translate chinese barvisit2_068ebb90:
 
     # riku "It was awful, I was pushing myself so much harder every single day."
-    riku "It was awful, I was pushing myself so much harder every single day."
+    riku "很不幸，我每天都忙着强迫自己变得更强。"
 
 # game/bar.rpy#L1552
 translate chinese barvisit2_28d099bb:
 
     # riku "Barely had any time for friends, family, almost no time off."
-    riku "Barely had any time for friends, family, almost no time off."
+    riku "几乎没有时间陪家人和朋友，或是休息。"
 
 # game/bar.rpy#L1554
 translate chinese barvisit2_589878f3:
 
     # riku "That’s when I was starting to doubt myself, should I do the drugs? If I do… then… I could be one of the best."
-    riku "That’s when I was starting to doubt myself, should I do the drugs? If I do… then… I could be one of the best."
+    riku "从那时起我开始怀疑自己，我该不该也开始用药？如果我用了，那么，我就能成为最棒的。"
 
 # game/bar.rpy#L1555
 translate chinese barvisit2_1db9c9ba:
 
     # riku "A close stallion friend of mine always suggested I do it, he was a great guy, but a bit of a moron."
-    riku "A close stallion friend of mine always suggested I do it, he was a great guy, but a bit of a moron."
+    riku "我的一个亲密的种马朋友总是建议我这么做，他是个好马，但有点白痴。"
 
 # game/bar.rpy#L1556
 translate chinese barvisit2_435629f3:
 
     # "She goes quiet for a few seconds and turns away."
-    "She goes quiet for a few seconds and turns away."
+    "她沉默了几秒，转过身去。"
 
 # game/bar.rpy#L1557
 translate chinese barvisit2_f9d71a57:
 
     # mc "And, what happened then?"
-    mc "接着，后来发生了什么？"
+    mc "那，后来发生了什么？"
 
 # game/bar.rpy#L1559
 translate chinese barvisit2_287b9297:
 
     # riku "I never even had the opportunity for that brief weakness in will."
-    riku "I never even had the opportunity for that brief weakness in will."
+    riku "我从未有过那种短暂的迷惘。"
 
 # game/bar.rpy#L1560
 translate chinese barvisit2_dbece137:
 
     # riku "One evening everyone else had already left the academy. Irresponsibly I was still training on my own because I was pushing myself too far."
-    riku "One evening everyone else had already left the academy. Irresponsibly I was still training on my own because I was pushing myself too far."
+    riku "一天晚上，其他马都已经离开了学院。而我仍不顾一切地独自训练，因为我把自己逼得太紧了。"
 
 # game/bar.rpy#L1562
 translate chinese barvisit2_e430f537:
 
     # riku "During that training there was an incident, and my thigh cramped hard, it was extremely painful."
-    riku "During that training there was an incident, and my thigh cramped hard, it was extremely painful."
+    riku "在那次训练中发生了一次事故，我的大腿抽搐得很厉害，非常疼。"
 
 # game/bar.rpy#L1563
 translate chinese barvisit2_1829b8a7:
 
     # riku "The cramp caused me to briefly falter in my flight, and almost immediatley I smashed into a tree trunk at a speed fast enough to kill me."
-    riku "The cramp caused me to briefly falter in my flight, and almost immediatley I smashed into a tree trunk at a speed fast enough to kill me."
+    riku "抽筋使我在高速飞行中突然颤抖，几乎立刻，我就以足以杀死我的速度直接撞上了一根树干。"
 
 # game/bar.rpy#L1565
 translate chinese barvisit2_50d0f9f4:
 
     # riku "That same moron friend was staying late because he wanted to ask me on a date, saw me crash, thank god he did."
-    riku "That same moron friend was staying late because he wanted to ask me on a date, saw me crash, thank god he did."
+    riku "那个白痴朋友因为想约我而留到很晚，刚好看到我撞伤，谢天谢地他那天留下了。"
 
 # game/bar.rpy#L1566
 translate chinese barvisit2_fdccc11a:
 
     # riku "And yeah… I was going really fucking fast, I blacked out immediately and woke up in the hospital."
-    riku "And yeah… I was going really fucking fast, I blacked out immediately and woke up in the hospital."
+    riku "然后，呃……我当时太他妈快了，直接就晕了过去，醒来时就躺在医院了。"
 
 # game/bar.rpy#L1567
 translate chinese barvisit2_a1a47bdd:
 
     # riku "Only problem was… I lost a month; I severely injured my brain and spine."
-    riku "Only problem was… I lost a month; I severely injured my brain and spine."
+    riku "唯一的问题是，我休养了一个月；我的大脑和脊椎严重受伤。"
 
 # game/bar.rpy#L1568
 translate chinese barvisit2_2dcb4e46:
 
     # riku "If it wasn’t for the top health treatment I got as a member of the Lightning Bolts, along with magic, the damage might have been permanent too."
-    riku "If it wasn’t for the top health treatment I got as a member of the Lightning Bolts, along with magic, the damage might have been permanent too."
+    riku "如果不是作为Lightning Bolts的一员，我得到了顶级的治疗和魔法康复，这种受伤可能也是永久性的。"
 
 # game/bar.rpy#L1570
 translate chinese barvisit2_6daefda4:
 
     # "She lets out a really long sigh and sits back."
-    "She lets out a really long sigh and sits back."
+    "她深深地叹了口气，然后坐了下来。"
 
 # game/bar.rpy#L1571
 translate chinese barvisit2_8fbf84e6:
 
     # riku "I was let out of the hospital, and I just kinda realized that I didn’t want to go back."
-    riku "I was let out of the hospital, and I just kinda realized that I didn’t want to go back."
+    riku "我出院了，我这才意识到我不想回去了。"
 
 # game/bar.rpy#L1573
 translate chinese barvisit2_67c72c5e:
 
     # riku "It was like all that passion had just dried up, and I was suddenly terrified at the idea of returning to the Lightning Bolts academy..."
-    riku "It was like all that passion had just dried up, and I was suddenly terrified at the idea of returning to the Lightning Bolts academy..."
+    riku "就好像所有的激情都消失了，我突然害怕回到Lightning Bolts，害怕有这个想法……"
 
 # game/bar.rpy#L1574
 translate chinese barvisit2_b91cb1a9:
 
     # riku "I tried to go back once but as I walked up to the academy building, I couldn't stop shivering. I couldn't bring myself to enter."
-    riku "I tried to go back once but as I walked up to the academy building, I couldn't stop shivering. I couldn't bring myself to enter."
+    riku "我试图回去过一次，但当我走到学院大楼时，我止不住地发抖。我没法让自己进去。"
 
 # game/bar.rpy#L1575
 translate chinese barvisit2_39df20e0:
 
     # riku "I never did go back in the end; I never saw anyone from there ever again."
-    riku "I never did go back in the end; I never saw anyone from there ever again."
+    riku "最后我再也没回去；再也没见过那里的马。"
 
 # game/bar.rpy#L1577
 translate chinese barvisit2_09e56917:
 
     # riku "I earned a pretty penny on the contract from there though, so I rented out this house in the suburbs and converted it into a bar."
-    riku "I earned a pretty penny on the contract from there though, so I rented out this house in the suburbs and converted it into a bar."
+    riku "但我在合同上赚了一大笔钱，所以我在郊区租了房子，把它改成了酒吧。"
 
 # game/bar.rpy#L1578
 translate chinese barvisit2_8c91a328:
 
     # riku "Every day I’m grateful that I’m still alive."
-    riku "Every day I’m grateful that I’m still alive."
+    riku "每天我都为自己还活着而心存感激。"
 
 # game/bar.rpy#L1579
 translate chinese barvisit2_8fe06a9b:
 
     # riku "But it’s more than surviving the crash… Even before then, I wasn’t really ‘alive’ while I was training."
-    riku "But it’s more than surviving the crash… Even before then, I wasn’t really ‘alive’ while I was training."
+    riku "但这并不仅仅是因为在坠机事件中幸存下来……在那之前，我在训练时也不是真正的“活着”。"
 
 # game/bar.rpy#L1580
 translate chinese barvisit2_adcfa78b:
 
     # riku "Working every day, to sleep, then work in a perpetual cycle of suffering, that isn’t living. It’s just misery, and I don’t want anyone to go through that."
-    riku "Working every day, to sleep, then work in a perpetual cycle of suffering, that isn’t living. It’s just misery, and I don’t want anyone to go through that."
+    riku "每天训练，睡觉，然后在无休止的痛苦循环中训练，这不是生活。只是痛苦而已，我不想让任何马经历这种痛苦。"
 
 # game/bar.rpy#L1582
 translate chinese barvisit2_18e46438:
 
     # riku "At the bar, I feel alive. I live my own life, at my own pace, and most importantly, I live that life with my friends."
-    riku "At the bar, I feel alive. I live my own life, at my own pace, and most importantly, I live that life with my friends."
+    riku "在酒吧里，我感到充满活力。我过着我自己的生活，以我自己的节奏，最重要的是，我和我的朋友过着这样的生活。"
 
 # game/bar.rpy#L1584
 translate chinese barvisit2_b57ee6b8:
 
     # riku "And some of those friends have benefits, right?"
-    riku "And some of those friends have benefits, right?"
+    riku "而且有些朋友有特别的福利，对吧？"
 
 # game/bar.rpy#L1585
 translate chinese barvisit2_c5f2ac8e:
 
     # "She flashes me a warm smile and kisses me on the cheek."
-    "She flashes me a warm smile and kisses me on the cheek."
+    "她向我闪过一个温暖的微笑，并亲吻了我的脸颊。"
 
 # game/bar.rpy#L1587
 translate chinese barvisit2_ceedf95e:
 
     # riku "All this made me realize the life I’d missed, while simultaneously not missing that old life at all."
-    riku "All this made me realize the life I’d missed, while simultaneously not missing that old life at all."
+    riku "这一切让我意识到我错过的生活，而且同时我一点也不怀念过去的生活。"
 
 # game/bar.rpy#L1589
 translate chinese barvisit2_0fa6116a:
 
     # riku "I think a comfortable life like this far outweighs a constant futile struggle."
-    riku "I think a comfortable life like this far outweighs a constant futile struggle."
+    riku "我认为这样舒适的生活远远胜过无休止的徒劳挣扎。"
 
 # game/bar.rpy#L1590
 translate chinese barvisit2_56b9fa27:
 
     # riku "I’m not saying you should never challenge yourself, but I think in this life where we’re all going to die and be forgotten anyway… Might as well try to maximise your personal enjoyment, booze, games, gym, heck yeah."
-    riku "I’m not saying you should never challenge yourself, but I think in this life where we’re all going to die and be forgotten anyway… Might as well try to maximise your personal enjoyment, booze, games, gym, heck yeah."
+    riku "我不是说你永远都不应该挑战自己，但我认为在我们这一生中，无论怎样我们都会死去，逐渐被遗忘……“马生得意须尽欢”不妨好好享受生活，酒、游戏、健身什么的。"
 
 # game/bar.rpy#L1591
 translate chinese barvisit2_f4316b11:
 
     # mc "I’ll drink to that."
-    mc "I’ll drink to that."
+    mc "以茶代酒，敬一生。"
 
 # game/bar.rpy#L1592
 translate chinese barvisit2_325eda18:
 
     # "We clink our mugs together, toasting and say cheers before drinking the last of our heart-warming tea."
-    "We clink our mugs together, toasting and say cheers before drinking the last of our heart-warming tea."
+    "我们互相碰杯，敬茶，畅饮最后一杯温暖的茶。"
 
 # game/bar.rpy#L1595
 translate chinese barvisit2_78ecd7bb:
 
     # riku "Ahhh… That was immensely cathartic to tell you, thanks for listening."
-    riku "Ahhh… That was immensely cathartic to tell you, thanks for listening."
+    riku "啊哈哈……告诉你这件事真是太痛快了，感谢倾听。"
 
 # game/bar.rpy#L1596
 translate chinese barvisit2_93c3e830:
 
     # mc "Thanks for opening your heart to me."
-    mc "Thanks for opening your heart to me."
+    mc "也谢谢你对我敞开心扉。"
 
 # game/bar.rpy#L1598
 translate chinese barvisit2_318886f0:
 
     # riku "No need to get cheesy with that heart bollocks, the only heart you need is the heart my ass makes when I bend over."
-    riku "No need to get cheesy with that heart bollocks, the only heart you need is the heart my ass makes when I bend over."
+    riku "你没必要对那颗心装腔作势，你唯一需要的心就是我弯腰时对着我屁股发出的那种心。"
 
 # game/bar.rpy#L1599
 translate chinese barvisit2_3217a9d9:
 
     # mc "Woah, woah, if you were that eager you could start dusting again."
-    mc "Woah, woah, if you were that eager you could start dusting again."
+    mc "哇，哇，如果你这么渴望，你可以重新开始打扫。"
 
 # game/bar.rpy#L1601
 translate chinese barvisit2_f0fc190c:
 
     # riku "I thought the dusting was just a means to a sexy act where I show you my ass. You weren’t serious about me dusting the entire room were you?"
-    riku "I thought the dusting was just a means to a sexy act where I show you my ass. You weren’t serious about me dusting the entire room were you?"
+    riku "我以为打扫房间只是为了让你看看我的屁股，让我做性感表演。你不是真的要我打扫整个房间吧？"
 
 # game/bar.rpy#L1602
 translate chinese barvisit2_534839e5:
 
     # mc "Uhhh, actually, I was kinda hoping it’d be both."
-    mc "Uhhh, actually, I was kinda hoping it’d be both."
+    mc "唔，实际上，我有点希望全都要。"
 
 # game/bar.rpy#L1604
 translate chinese barvisit2_5a3eccb3:
 
     # "She rolls her eyes in such an exaggerated manner her head rolls too."
-    "She rolls her eyes in such an exaggerated manner her head rolls too."
+    "她夸张地翻白眼，头也跟着转。"
 
 # game/bar.rpy#L1605
 translate chinese barvisit2_a0c44c40:
 
     # riku "All this time I thought this was a trick to see my ass, and you’re sat there genuinely making me tidy up your house."
-    riku "All this time I thought this was a trick to see my ass, and you’re sat there genuinely making me tidy up your house."
+    riku "我一直以为这是你看我美臀的把戏，而你坐在那里真的是想让我帮你收拾房子。"
 
 # game/bar.rpy#L1608
 translate chinese barvisit2_0839410c:
 
     # riku "Skip the dusting? What now, then?"
-    riku "Skip the dusting? What now, then?"
+    riku "跳过除尘？那么，现在要干嘛？"
 
 # game/bar.rpy#L1610
 translate chinese barvisit2_c2896831:
 
     # "She seems trepidatious but there’s an eager glow in her eye."
-    "She seems trepidatious but there’s an eager glow in her eye."
+    "她似乎有些害怕，但眼中却闪烁着渴望的光芒。"
 
 # game/bar.rpy#L1611
 translate chinese barvisit2_6307df86:
 
     # mc "I can make you do anything, so of course I’m going to make you do something naughty. That’s the idea, right?"
-    mc "I can make you do anything, so of course I’m going to make you do something naughty. That’s the idea, right?"
+    mc "我可以让你做任何事，所以我当然要让你做一些有趣的事。就是这个意思，懂吧？"
 
 # game/bar.rpy#L1613
 translate chinese barvisit2_803525f5:
 
     # riku "Pfft, I wouldn’t do it if I wasn’t enjoying myself."
-    riku "Pfft, I wouldn’t do it if I wasn’t enjoying myself."
+    riku "嘿，如果我不享受我是不会做的。"
 
 # game/bar.rpy#L1614
 translate chinese barvisit2_4f2c948f:
 
     # mc "Ahh… I know, I was teasing you."
-    mc "Ahh… I know, I was teasing you."
+    mc "哈哈……我知道，我在逗你玩呢。"
 
 # game/bar.rpy#L1615
 translate chinese barvisit2_ec515e44:
 
     # riku "I knew that! I was just explaining myself!"
-    riku "I knew that! I was just explaining myself!"
+    riku "我知道！我只是在对我自己说明！"
 
 # game/bar.rpy#L1616
 translate chinese barvisit2_c9b63a6d:
 
     # mc "It’s fine, I know you’re getting off on this as much as I am."
-    mc "It’s fine, I know you’re getting off on this as much as I am."
+    mc "没关系，我知道你和我一样乐在其中。"
 
 # game/bar.rpy#L1618
 translate chinese barvisit2_8dece382:
 
     # riku "Nuh-uh, I’m a reluctant slave to the end."
-    riku "Nuh-uh, I’m a reluctant slave to the end."
+    riku "不，我是死都不情愿的奴隶。"
 
 # game/bar.rpy#L1619
 translate chinese barvisit2_6434066f:
 
     # mc "I can always change that by making you beg."
-    mc "I can always change that by making you beg."
+    mc "我可以通过让你求我来改变这一想法。"
 
 # game/bar.rpy#L1620
 translate chinese barvisit2_51c93b09:
 
     # riku "That’s pretty hot, what do you mean specifically?"
-    riku "That’s pretty hot, what do you mean specifically?"
+    riku "真性感，具体是什么意思?"
 
 # game/bar.rpy#L1621
 translate chinese barvisit2_3f9ee7d5:
 
     # mc "Figured I might as well make use of your dress, stand up and turn around."
-    mc "Figured I might as well make use of your dress, stand up and turn around."
+    mc "我想不妨利用一下你的裙子，站起来转身。"
 
 # game/bar.rpy#L1626
 translate chinese barvisit2_e9e7bc6c:
 
     # riku "Uu, okay..."
-    riku "Uu, okay..."
+    riku "呣，好吧……"
 
 # game/bar.rpy#L1627
 translate chinese barvisit2_eb0982d9:
 
     # mc "Now lift up your skirt."
-    mc "Now lift up your skirt."
+    mc "现在，掀起你的裙子。"
 
 # game/bar.rpy#L1628
 translate chinese barvisit2_9662c485:
 
     # riku "Alright… This isn’t THAT embarrassing; I mean I usually don’t even wear skirts."
-    riku "Alright… This isn’t THAT embarrassing; I mean I usually don’t even wear skirts."
+    riku "好吧……这倒不怎么尴尬；我的意思是我通常都不穿裙子。"
 
 # game/bar.rpy#L1629
 translate chinese barvisit2_cdcf9868:
 
     # "She says she isn’t embarrassed, but the subtle blush betrays her."
-    "She says she isn’t embarrassed, but the subtle blush betrays her."
+    "虽然她嘴上说自己并没有感到尴尬，但脸上微微泛起的红晕泄露了她的内心。"
 
 # game/bar.rpy#L1633
 translate chinese barvisit2_2f56d5e0:
 
     # "She hoists up her skirt from end to end and reveals her cute butt."
-    "She hoists up her skirt from end to end and reveals her cute butt."
+    "她把裙子从头到尾提起来，露出了可爱的臀部。"
 
 # game/bar.rpy#L1634
 translate chinese barvisit2_75b2270d:
 
     # "It was hard to tell when she was dusting, but upon closer inspection there’s definitely a wet patch on the fabric."
-    "It was hard to tell when she was dusting, but upon closer inspection there’s definitely a wet patch on the fabric."
+    "很难记得她是什么时候开始打扫的，但仔细观察后能看见裙子内侧上有一块湿斑。"
 
 # game/bar.rpy#L1635
 translate chinese barvisit2_7b854d68:
 
     # mc "Guess we could return the maid outfit, but these stockings? No good."
-    mc "Guess we could return the maid outfit, but these stockings? No good."
+    mc "我想我们可以把女仆装退回去，但这丝袜呢?不行。"
 
 # game/bar.rpy#L1636
 translate chinese barvisit2_a049924a:
 
     # riku "Wha? What are you talking about? Perv…"
-    riku "Wha? What are you talking about? Perv…"
+    riku "啊？你说什么?你这恋物癖……"
 
 # game/bar.rpy#L1637
 translate chinese barvisit2_664d84a8:
 
     # "I reach forward and start to rub the wet patch."
-    "I reach forward and start to rub the wet patch."
+    "我伸手过去，开始擦湿斑。"
 
 # game/bar.rpy#L1638
 translate chinese barvisit2_dd5f3c10:
 
     # mc "Look, you’re so lustful you’ve made the stockings damp."
-    mc "Look, you’re so lustful you’ve made the stockings damp."
+    mc "瞧，你这么好色，把丝袜都弄湿了。"
 
 # game/bar.rpy#L1639
 translate chinese barvisit2_f164b74d:
 
     # riku "Ahh, I see… It’s your fault for being so hot."
-    riku "Ahh, I see… It’s your fault for being so hot."
+    riku "啊，好吧……都怪你让我这么湿。"
 
 # game/bar.rpy#L1640
 translate chinese barvisit2_73921ca2:
 
     # "I focus my rubbing in the area where her clit would be, causing her to squirm in pleasure."
-    "I focus my rubbing in the area where her clit would be, causing her to squirm in pleasure."
+    "我一直在她阴蒂及其附近的地方摩擦，她在快感中开始局促不安。"
 
 # game/bar.rpy#L1641
 translate chinese barvisit2_3d3366e6:
 
     # riku "Aahh… You’re only making it worse, stupid."
-    riku "Aahh… You’re only making it worse, stupid."
+    riku "啊……你只会让事情变得更糟，笨蛋。"
 
 # game/bar.rpy#L1642
 translate chinese barvisit2_c3e5c6bf:
 
     # mc "Okay, I’ll stop then."
-    mc "Okay, I’ll stop then."
+    mc "好吧，那我就停下来。"
 
 # game/bar.rpy#L1643
 translate chinese barvisit2_f9e2a48c:
 
     # riku "*Huff* N-No, actually… You can do it if you want."
-    riku "*Huff* N-No, actually… You can do it if you want."
+    riku "*喘息*不—不是，事实上……如果你想的话，你可以继续。"
 
 # game/bar.rpy#L1644
 translate chinese barvisit2_ea169c17:
 
     # mc "Oho, you’re giving me permission? I thought you were the slave."
-    mc "Oho, you’re giving me permission? I thought you were the slave."
+    mc "哦？你是在命令我吗?我以为你是奴隶。"
 
 # game/bar.rpy#L1645
 translate chinese barvisit2_1a9301ea:
 
     # mc "If you want me to keep doing it, I’d prefer some enthusiasm."
-    mc "If you want me to keep doing it, I’d prefer some enthusiasm."
+    mc "如果你想让我继续做下去，我更希望你更加热情。"
 
 # game/bar.rpy#L1646
 translate chinese barvisit2_7c2e9ee3:
 
     # riku "Mm, fine… Please can you keep touching me?"
-    riku "Mm, fine… Please can you keep touching me?"
+    riku "呣，好吧……请您继续抚摸我，好吗？"
 
 # game/bar.rpy#L1647
 translate chinese barvisit2_af0d1b57:
 
     # mc "Beg for it."
-    mc "Beg for it."
+    mc "乞求它。"
 
 # game/bar.rpy#L1648
 translate chinese barvisit2_bbc6e16f:
 
     # riku "Ahh, really?"
-    riku "Ahh, really?"
+    riku "啊，真的?"
 
 # game/bar.rpy#L1649
 translate chinese barvisit2_e7c77c68:
 
     # "She uncomfortably squirms in place and turns away briefly as she bites her lip, she’s really enjoying this."
-    "She uncomfortably squirms in place and turns away briefly as she bites her lip, she’s really enjoying this."
+    "她开始扭捏着身体，转过身去，咬着嘴唇，看来她是真的很享受。"
 
 # game/bar.rpy#L1654
 translate chinese barvisit2_39ab43af:
 
     # riku "Please master, I want you to keep rubbing my pussy, I’m begging you."
-    riku "Please master, I want you to keep rubbing my pussy, I’m begging you."
+    riku "求您了，主人，我希望您能继续抚摸我的阴蒂，我求您了。"
 
 # game/bar.rpy#L1655
 translate chinese barvisit2_3507ae2b:
 
     # mc "Hmm… Should I really be the one pleasing you? I know you’re in heat, but I feel like I should be the one getting serviced."
-    mc "Hmm… Should I really be the one pleasing you? I know you’re in heat, but I feel like I should be the one getting serviced."
+    mc "嗯……我真的应该取悦你吗？我知道你在发情，但我觉得应该由我来享受服务。"
 
 # game/bar.rpy#L1656
 translate chinese barvisit2_3492ec9a:
 
     # riku "M-Master, I can suck your dick while you rub me off!"
-    riku "M-Master, I can suck your dick while you rub me off!"
+    riku "主—主人，你抚摸我的时候我可以给您口交！"
 
 # game/bar.rpy#L1657
 translate chinese barvisit2_3c5b1a2f:
 
     # "She’s not exactly eloquent, but her blunt delivery is pretty good for getting a boner going."
-    "She’s not exactly eloquent, but her blunt delivery is pretty good for getting a boner going."
+    "她不是很能言善辩，但她直言不讳的表达方式很容易让人勃起。"
 
 # game/bar.rpy#L1659
 translate chinese barvisit2_f1c4508a:
 
     # riku "Ahh, you’re starting to get hard, mmm…"
-    riku "Ahh, you’re starting to get hard, mmm…"
+    riku "啊，你开始变硬了，嗯……"
 
 # game/bar.rpy#L1660
 translate chinese barvisit2_f97686ec:
 
     # mc "You’re surprisingly a pushover when it comes to sex, you know that? I thought you’d be brattier and more dominant."
-    mc "You’re surprisingly a pushover when it comes to sex, you know that? I thought you’d be brattier and more dominant."
+    mc "一谈到做爱，你就很容易被征服，知道吗？我以为你会更风骚更霸道。"
 
 # game/bar.rpy#L1661
 translate chinese barvisit2_72411028:
 
     # riku "What are you talking about? I am bratty and dominant, I am!"
-    riku "What are you talking about? I am bratty and dominant, I am!"
+    riku "你在说什么？我很风骚，很霸道，真的！"
 
 # game/bar.rpy#L1662
 translate chinese barvisit2_d530728a:
 
     # "I feel like rolling my eyes, maybe Riku is rubbing off on me. Wait, I’m the one that’s supposed to be rubbing her off. Heh, I make myself laugh sometimes."
-    "I feel like rolling my eyes, maybe Riku is rubbing off on me. Wait, I’m the one that’s supposed to be rubbing her off. Heh, I make myself laugh sometimes."
+    "我觉得我在翻白眼，也许是因为Riku在我身上蹭来蹭去。等等，我才是那个应该摩擦她屁股的人。嘿，我有时也让自己觉得搞笑。"
 
 # game/bar.rpy#L1664
 translate chinese barvisit2_56c6a326:
 
     # riku "Why are you laughing? If you were my slave, you’d get to see just how dominant I can be."
-    riku "Why are you laughing? If you were my slave, you’d get to see just how dominant I can be."
+    riku "你笑什么？如果你是我的奴隶，你就会看到我有多强势。"
 
 # game/bar.rpy#L1665
 translate chinese barvisit2_74761bce:
 
     # mc "Yeahhh, maybe next time. What was that thing about sucking my cock?"
-    mc "Yeahhh, maybe next time. What was that thing about sucking my cock?"
+    mc "是~啊，也许下次吧。你刚才说给我口交是怎么回事？"
 
 # game/bar.rpy#L1666
 translate chinese barvisit2_b8567147:
 
     # riku "I’ll do it, but is it really okay to do this in Moxie’s wagon?"
-    riku "I’ll do it, but is it really okay to do this in Moxie’s wagon?"
+    riku "我会做的，但在Moxie的篷车上做真的好吗？"
 
 # game/bar.rpy#L1667
 translate chinese barvisit2_bd11f3e6:
 
     # mc "I was doing you a favour by bringing you to the closest place to the boutique, so you wouldn’t have to walk far in your outfit."
-    mc "I was doing you a favour by bringing you to the closest place to the boutique, so you wouldn’t have to walk far in your outfit."
+    mc "我把你带到离精品店最近的地方是在帮你的忙，这样你就不用穿着这身衣服到处走来走去了。"
 
 # game/bar.rpy#L1669
 translate chinese barvisit2_797e548d:
 
     # riku "True, true, I think my reputation would literally fucking die."
-    riku "True, true, I think my reputation would literally fucking die."
+    riku "是的，没错，我想我的名誉会完蛋的。"
 
 # game/bar.rpy#L1670
 translate chinese barvisit2_69db0978:
 
     # mc "Your bar would probably get more popular if you ask me."
-    mc "Your bar would probably get more popular if you ask me."
+    mc "不过如果要说我的想法，你的酒吧可能会更受欢迎。"
 
 # game/bar.rpy#L1672
 translate chinese barvisit2_e6cfdf84:
 
     # riku "More popular with who? There aren’t enough men around to draw that crowd."
-    riku "More popular with who? There aren’t enough men around to draw that crowd."
+    riku "更受谁的欢迎？周围又没有足够的雄马受吸引。"
 
 # game/bar.rpy#L1673
 translate chinese barvisit2_e1d64b4d:
 
     # mc "Shit, you’re right. No maid cafes then…"
-    mc "Shit, you’re right. No maid cafes then…"
+    mc "操，你说得对。那就没有女仆咖啡馆了……"
 
 # game/bar.rpy#L1675
 translate chinese barvisit2_96f4acb4:
 
     # riku "Ech, you’re such a pervert. Anyway, you missed my point, isn’t Moxie going to be pissed off if we have sex here?"
-    riku "Ech, you’re such a pervert. Anyway, you missed my point, isn’t Moxie going to be pissed off if we have sex here?"
+    riku "切，你真是个变态。不管怎样，你没听懂我的意思，如果我们在这做爱，Moxie不会生气吗？"
 
 # game/bar.rpy#L1676
 translate chinese barvisit2_f0466d95:
 
     # riku "I’m quite close to her, don’t want to get on her bad side."
-    riku "I’m quite close to her, don’t want to get on her bad side."
+    riku "我跟她很亲近，不想惹她生气。"
 
 # game/bar.rpy#L1677
 translate chinese barvisit2_9675b16e:
 
     # mc "Don’t you know how relaxed she is about these things? I doubt she’d care at all as long as we cleaned up."
-    mc "Don’t you know how relaxed she is about these things? I doubt she’d care at all as long as we cleaned up."
+    mc "难道你不知道她对这些事有多开放吗？我想只要我们收拾干净她就不会介意了。"
 
 # game/bar.rpy#L1682
 translate chinese rikumaidblowjob_21b056d7:
@@ -6254,7 +6254,7 @@ translate chinese rikumaidblowjob_99a79c92:
 translate chinese rikumaidblowjob_efec00df:
 
     # riku "*Slurp*, *Lick* Ain’t that the truth… Like some dumb whore, I used to practice blowjobs on my dildo, just in case I ever needed to show my worth to a stallion."
-    riku "*舔* 这难道不是事实吗……我之前就像一些愚蠢的妓女一样，在假阳具上练习口交，以做好向公马展示我的价值的时候。"
+    riku "*吸**舔* 这难道不是事实吗……我之前就像一些愚蠢的妓女一样，在假阳具上练习口交，以做好向公马展示我的价值的时候。"
 
 # game/bar.rpy#L1696
 translate chinese rikumaidblowjob_edbf219e:

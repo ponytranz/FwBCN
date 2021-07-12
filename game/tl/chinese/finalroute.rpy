@@ -1376,37 +1376,37 @@ translate chinese clibrary_6ee0444e:
 translate chinese clibrary_61df5792:
 
     # "Watching such a lustful display causes me to easily get an erection. I didn’t even have to ask, or order her, she just assumed the position."
-    "Watching such a lustful display causes me to easily get an erection. I didn’t even have to ask, or order her, she just assumed the position."
+    "看着这一出淫相我一下就硬了。连问都不用问，也不用讲，她便喝下了药水。"
 
 # game/finalroute.rpy#L649
 translate chinese clibrary_017e88ec:
 
     # mc "Very well, I’ll make you my personal breeding slut."
-    mc "Very well, I’ll make you my personal breeding slut."
+    mc "很好，我要把你操成我的专属生产婊"
 
 # game/finalroute.rpy#L650
 translate chinese clibrary_386528d7:
 
     # "I close the distance and prod the tip of my cock against her wet labia, not willing to waste any more time than I need to."
-    "I close the distance and prod the tip of my cock against her wet labia, not willing to waste any more time than I need to."
+    "我靠近了后把肉棒的顶端戳顶着它湿嫩的淫唇，舍不得多耗费一丝一毫本所要的时间"
 
 # game/finalroute.rpy#L651
 translate chinese clibrary_e4e7dcca:
 
     # lily "Mmphh, your big, powerful cock is going to breed a perfect army for our Queen!"
-    lily "Mmphh, your big, powerful cock is going to breed a perfect army for our Queen!"
+    lily "嗯唔，你大大的，粗壮的肉棒会为我们女王产下一支完美的军队的！"
 
 # game/finalroute.rpy#L654
 translate chinese clibrary_35708e77:
 
     # "I thrust my hips forward, plunging my cock into the depths of her tightness in an instant."
-    "I thrust my hips forward, plunging my cock into the depths of her tightness in an instant."
+    "我猛地一挺大胯，一瞬间就将我的阴茎插入她紧绷的深处"
 
 # game/finalroute.rpy#L655
 translate chinese clibrary_6663e29d:
 
     # "Lily coos and starts to rhythmically grind her butt back and forth playfully, as her pussy eases to the girth of my cock."
-    "Lily coos and starts to rhythmically grind her butt back and forth playfully, as her pussy eases to the girth of my cock."
+    "Lily低喘着，屁股开始有节奏地调戏般来回拍击着，骚逼也软滑着我肉棒的边沿。"
 
 # game/finalroute.rpy#L658
 translate chinese clibrary_490d7aae:

@@ -3248,7 +3248,7 @@ translate chinese rubyphotoshoot2_7bc19ebd:
 translate chinese rubyphotoshoot2_6b4279b4:
 
     # "She starts to grind against my shaft more vigorously, some precum oozes from the point of our contact causing my cock to glisten."
-    "She starts to grind against my shaft more vigorously, some precum oozes from the point of our contact causing my cock to glisten."
+    "她开始更加卖力地在我身上磨蹭起伏，在性爱的接口处渗出了浓而白的液体包裹着我的阴茎，此时在光的照射下我的阴茎看起来像是在发光一样。"
 
 # game/boutique.rpy#L941
 translate chinese rubyphotoshoot2_84ca6492:
@@ -3266,19 +3266,19 @@ translate chinese rubyphotoshoot2_edbe894a:
 translate chinese rubyphotoshoot2_0c1fe249:
 
     # "She works my cock with her ass, sliding herself up and down in slow sensual erotic motions that are enough to send bolts of potent pleasure surging throughout my body."
-    "She works my cock with her ass, sliding herself up and down in slow sensual erotic motions that are enough to send bolts of potent pleasure surging throughout my body."
+    "她还在用她性感的屁股为我的阴茎做全方位的按摩，虽然看起来是在缓慢上下滑动，但有一种难以描述的强烈快感在我的身体里乱窜。"
 
 # game/boutique.rpy#L950
 translate chinese rubyphotoshoot2_e2c34572:
 
     # "I definitely wasn’t wrong about Ruby having sexual experience, her motions and technique is exquisite. Rather than a sloppy fuck it feels like her pussy is expertly massaging my shaft in smooth, passionate motions."
-    "I definitely wasn’t wrong about Ruby having sexual experience, her motions and technique is exquisite. Rather than a sloppy fuck it feels like her pussy is expertly massaging my shaft in smooth, passionate motions."
+    "我现在更加确信Ruby有过性爱的经历，她的动作精巧而熟练，那可不是一个新手能够做到的程度。与其说是我在引导她性爱，不如说是她在用她性感的阴唇在平缓与激烈的稳态之中按摩着我的身体"
 
 # game/boutique.rpy#L953
 translate chinese rubyphotoshoot2_e3a31b19:
 
     # ruby "Mmmphh… You’re so thick, far better than a stallion…"
-    ruby "Mmmphh… You’re so thick, far better than a stallion…"
+    ruby "嗯嗯啊啊啊…这阴茎太粗大了，你可比普通的种马强多了…"
 
 # game/boutique.rpy#L956
 translate chinese rubyphotoshoot2_e7235934:
@@ -3296,31 +3296,31 @@ translate chinese rubyphotoshoot2_bc3d3436:
 translate chinese rubyphotoshoot2_b3131537:
 
     # mc "I saw everything, I watched you use your vibrator. I could see your legs were spread wide open."
-    mc "I saw everything, I watched you use your vibrator. I could see your legs were spread wide open."
+    mc "所有东西，我看到了你的一切。比如你呈W形张开的双腿，还有那吱吱作响的震动棒"
 
 # game/boutique.rpy#L967
 translate chinese rubyphotoshoot2_3db7de10:
 
     # "She speeds up slightly, these thoughts seemingly getting her even more excited."
-    "She speeds up slightly, these thoughts seemingly getting her even more excited."
+    "听到这些话她稍微加快了点速度，似乎这些行为和想法让她变得更加兴奋了"
 
 # game/boutique.rpy#L970
 translate chinese rubyphotoshoot2_0330785f:
 
     # ruby "Ohh, so dirty… Ahhh, ahh… ah! Did… Did that turn you on?"
-    ruby "Ohh, so dirty… Ahhh, ahh… ah! Did… Did that turn you on?"
+    ruby "哦哦！这看起来好脏…啊，啊…啊啊！又加速了，这难道会让你更加兴奋吗？"
 
 # game/boutique.rpy#L973
 translate chinese rubyphotoshoot2_dd0abd63:
 
     # mc "Yeah, I had an erection while watching."
-    mc "Yeah, I had an erection while watching."
+    mc "是的没错，我看到这些东西阴茎就勃起来像一座高楼一般挺立"
 
 # game/boutique.rpy#L976
 translate chinese rubyphotoshoot2_812599a2:
 
     # ruby "Oh gosh, oh… fuck. That’s hot, ahh… T-The same erection I’m riding right now, haah… I’m living out my own fantasy."
-    ruby "Oh gosh, oh… fuck. That’s hot, ahh… T-The same erection I’m riding right now, haah… I’m living out my own fantasy."
+    ruby "哦天哪，哦…操。好热啊，我的身体如同燃烧的火焰，啊…和我现在骑的阴茎一样滚烫，啊哈…我仿佛活在我自己的幻想里一样。"
 
 # game/boutique.rpy#L981
 translate chinese rubyphotoshoot2_c254def5:

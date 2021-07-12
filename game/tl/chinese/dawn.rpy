@@ -6830,7 +6830,7 @@ translate chinese dawnv4threesome_5abaf6c7:
 translate chinese dawnv4threesome_d8a1df26:
 
     # "Ahh, who am I kidding? Who’s next?"
-    "啊，我搁这儿糊弄鬼呢？ 下一位小母马是谁？"
+    "害，我搁这儿糊弄鬼呢？ 下一位小母马是谁？"
 
 # game/dawn.rpy#L2030
 translate chinese dawnv4threesome_ba74faee:

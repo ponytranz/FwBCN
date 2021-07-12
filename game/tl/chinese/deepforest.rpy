@@ -8,7 +8,7 @@ translate chinese deepforest_51a3a838:
 translate chinese deepforest_0cd28411:
 
     # "It'd be fun in a mysterious and creepy way though... Maybe if I had some more equipment I could go for a small hike around the area to fill an evening."
-    "It'd be fun in a mysterious and creepy way though... Maybe if I had some more equipment I could go for a small hike around the area to fill an evening."
+    "这将会是一条有趣而且神秘并夹杂着毛骨悚然的小路……如果我有更多的装备，也许就可以在那一带徒步探索一个晚上。"
 
 # game/deepforest.rpy#L30
 translate chinese zoe1_d3885ae1:
@@ -1154,7 +1154,7 @@ translate chinese zoetalkmenu_7857d146:
 translate chinese zoetalkmenu_89783a83:
 
     # mc "Oh come on, you can’t both be rhyming with each other."
-    mc "Oh come on, you can’t both be rhyming with each other."
+    mc "得了吧，你们两个难不成在互相押韵吧。"
 
 # game/deepforest.rpy#L363
 translate chinese zoetalkmenu_a7153ed7:
@@ -1550,7 +1550,7 @@ translate chinese zoe2_c06ea815:
 translate chinese zoe2_1f1c121e:
 
     # zo "I empathise with that position. What are the odds that a known wolf fetishist would ‘accidentally’ sell a man an unlabelled lycanthropy potion instead of the product they wanted?"
-    zo "I empathise with that position. What are the odds that a known wolf fetishist would ‘accidentally’ sell a man an unlabelled lycanthropy potion instead of the product they wanted?"
+    zo "我同情那个立场。一个喜欢狼的老涩批怎么可能会“不小心”卖给一个人一种没有标签的变狼药剂，而不是他们想要的东西呢？"
 
 # game/deepforest.rpy#L481
 translate chinese zoe2_d51a67d2:
@@ -1640,7 +1640,7 @@ translate chinese zoe2_6d3e5321:
 translate chinese zoe2_7dfd2a61:
 
     # zo "I deserve this? I’m not even the one suffering. It’s them, and they don’t deserve that."
-    zo "I deserve this? I’m not even the one suffering. It’s them, and they don’t deserve that."
+    zo "我活该？我甚至都不是受苦的那个。他们才是，但他们却不必承担这些。"
 
 # game/deepforest.rpy#L512
 translate chinese zoe2_e26aeed6:
@@ -1688,7 +1688,7 @@ translate chinese zoe2_363374ce:
 translate chinese zoe2_5c3d03c3:
 
     # zo "Mhm, the Alraune here is my pet. She means no threat."
-    zo "Mhm, the Alraune here is my pet. She means no threat."
+    zo "嗯，Alraune住在这儿当我的宠物。她可是个乖乖女。"
 
 # game/deepforest.rpy#L537
 translate chinese zoe2_c4d07c78:
@@ -1724,7 +1724,7 @@ translate chinese zoe2_bab919a9:
 translate chinese zoe2_357c2944:
 
     # alraune "*Whisper* Please cut me a break! She’ll be on my ass all month otherwise."
-    alraune "*Whisper* Please cut me a break! She’ll be on my ass all month otherwise."
+    alraune "*低语* 大哥你饶了我吧!否则她整个月都会拿这件事缠着我。"
 
 # game/deepforest.rpy#L548
 translate chinese zoe2_13bc11b2:
@@ -1766,13 +1766,13 @@ translate chinese zoe2_e83f1a5c:
 translate chinese zoe2_53029f0a:
 
     # zo "I see… In that case… The only punishment I can think of as an alchemist is one of equivalent exchange."
-    zo "I see… In that case… The only punishment I can think of as an alchemist is one of equivalent exchange."
+    zo "我明白了...在这种情况下...作为一名炼金术士，我能想到的的唯一惩罚就是等价交换。"
 
 # game/deepforest.rpy#L565
 translate chinese zoe2_65fcf26f:
 
     # zo "Alraune, you must sexually please [playername] to repent. Hopefully one day you can stop acting like an ass, and stop harassing every man you pass."
-    zo "Alraune, you must sexually please [playername] to repent. Hopefully one day you can stop acting like an ass, and stop harassing every man you pass."
+    zo "Alraune，你必须和[玩家名]好好干一次来弥补你的所作所为。希望有一天你不再像个骚扰你所见过的每一个男人的混蛋。"
 
 # game/deepforest.rpy#L566
 translate chinese zoe2_ca6a6649:
@@ -1802,7 +1802,7 @@ translate chinese zoe2_2d94164f:
 translate chinese zoe2_7b9e4c39:
 
     # zo "You seem to be popular in this house, [playername]. Who will you be accompanying tonight?"
-    zo "You seem to be popular in this house, [playername]. Who will you be accompanying tonight?"
+    zo "你似乎在这房子里很受欢迎呀，[playername]。今晚你要陪谁共度良宵呢?"
 
 # game/deepforest.rpy#L583
 translate chinese zoe2_631c948f:
@@ -2168,7 +2168,7 @@ translate chinese zoelum_3e247e15:
 translate chinese zoelum_56191f35:
 
     # "Her pillowy assets really are on full display in this position, allowing my cock to readily come to attention as I stroke it."
-    "Her pillowy assets really are on full display in this position, allowing my cock to readily come to attention as I stroke it."
+    "她那硕大的奶子完完全全展示在我面前，这让我的老二在我抚摸它的时候可以随时出击。"
 
 # game/deepforest.rpy#L713
 translate chinese zoelum_fb223ec9:
@@ -2180,7 +2180,7 @@ translate chinese zoelum_fb223ec9:
 translate chinese zoelum_f66abc0d:
 
     # "Like many denizens of Arcadia, she’s horny as heck and ready for a pounding. Almost with obedience she eyes up my cock eagerly as I begin to poke and prod it against her puffy labia."
-    "Like many denizens of Arcadia, she’s horny as heck and ready for a pounding. Almost with obedience she eyes up my cock eagerly as I begin to poke and prod it against her puffy labia."
+    "就像其他生活在Arcadia的生物一样，她简直是坐地能吸土那般的饥渴。从她那充满渴望看着我的老二的眼神中，她想让我的老二刺向她那蓬松的阴唇"
 
 # game/deepforest.rpy#L717
 translate chinese zoelum_52538903:
@@ -2252,7 +2252,7 @@ translate chinese zoelum_c72cd717:
 translate chinese zoelum_c436257e:
 
     # "And as I pull outwards, I’m able to do long, satisfying, deep thrusts which not only pleasure each inch of my cock, but satisfy her deepest and most sensitive spots."
-    "And as I pull outwards, I’m able to do long, satisfying, deep thrusts which not only pleasure each inch of my cock, but satisfy her deepest and most sensitive spots."
+    "我向外抽出我的老二，紧接着，插入。这持久的、舒服的、深深的插入，不仅使我的老二的每一寸都感到愉悦，而且也满足了她最深最敏感的地方。"
 
 # game/deepforest.rpy#L736
 translate chinese zoelum_271f3b89:
@@ -2306,7 +2306,7 @@ translate chinese zoelum_b903596f:
 translate chinese zoelum_7d5d79a0:
 
     # "Contractions attempt to wring my shaft, although I had paced myself well enough as to not be too close to cumming quite yet."
-    "Contractions attempt to wring my shaft, although I had paced myself well enough as to not be too close to cumming quite yet."
+    "她的子宫一紧，试图切断我老二的退路，幸好我控制得足够好，不然这次就射进去了。"
 
 # game/deepforest.rpy#L748
 translate chinese zoelum_6fe602d8:
@@ -2324,7 +2324,7 @@ translate chinese zoelum_984e52ee:
 translate chinese zoelum_834eaa6e:
 
     # mc "Heh, stubborn further than your eyes can see. I’m no wolf, I’m a man."
-    mc "Heh, stubborn further than your eyes can see. I’m no wolf, I’m a man."
+    mc "哼，明明还能在大战300回合却说自己不行了，简直是纯粹的挑衅。还有，我是人，不是狼。"
 
 # game/deepforest.rpy#L754
 translate chinese zoelum_9042fa34:
@@ -2402,7 +2402,7 @@ translate chinese zoelum_a6e48e4f:
 translate chinese zoelum_583af980:
 
     # "And as soon as my orgasm dries up, that fatigue finally overwhelms as I sit back limp, pulling my member out of her with a schlick."
-    "And as soon as my orgasm dries up, that fatigue finally overwhelms as I sit back limp, pulling my member out of her with a schlick."
+    "痛痛快快地高潮之后，疲劳感爬上了后我的后背，我跛着背坐着，用轻轻地把我的老二从她身上拔出来。"
 
 # game/deepforest.rpy#L782
 translate chinese zoelum_b4406df7:
@@ -2444,7 +2444,7 @@ translate chinese zoelum_bfd3df19:
 translate chinese zoelum_83abe488:
 
     # zo "I don’t know if her, or your intention was to ‘fuck’ the fetish out of me, but honestly that’d be silly."
-    zo "I don’t know if her, or your intention was to ‘fuck’ the fetish out of me, but honestly that’d be silly."
+    zo "我不知道是否她，或你的意图是“操”出我的恋物，但老实说，这挺愚蠢的。"
 
 # game/deepforest.rpy#L795
 translate chinese zoelum_dcb5bb12:
@@ -2456,13 +2456,13 @@ translate chinese zoelum_dcb5bb12:
 translate chinese zoelum_9c416e25:
 
     # zo "Not only do ordinary wolf men exist..."
-    zo "Not only do ordinary wolf men exist..."
+    zo "不仅是普通的狼人……"
 
 # game/deepforest.rpy#L797
 translate chinese zoelum_c3dc4cb0:
 
     # zo "But I, like any other mare, just go to the spa, or church when I’m horny. I very rarely practice my fetishes, like most others, I imagine."
-    zo "But I, like any other mare, just go to the spa, or church when I’m horny. I very rarely practice my fetishes, like most others, I imagine."
+    zo "我和其他母马一样，欲火中烧的时候就去泡温泉，或者去教堂。我很少暴露出我有恋物癖，看起来就像大多数其他人一样，我想。"
 
 # game/deepforest.rpy#L798
 translate chinese zoelum_2cc9561c:
@@ -2492,7 +2492,7 @@ translate chinese zoelum_8040df80:
 translate chinese zoelum_e1f026b8:
 
     # zo "Because I’m tiiireed, I’ll be asleep in ten minutes… I can’t keep that up all the time."
-    zo "Because I’m tiiireed, I’ll be asleep in ten minutes… I can’t keep that up all the time."
+    zo "因为我累~了，十分钟后就会睡着...我不能一直这样不睡觉。"
 
 # game/deepforest.rpy#L805
 translate chinese zoelum_79ea8090:
@@ -2522,25 +2522,25 @@ translate chinese zoelum_8a412f67:
 translate chinese zoelum_ae1d4e44:
 
     # "Given her pillowy features, I crawl over her and cuddle."
-    "Given her pillowy features, I crawl over her and cuddle."
+    "我爬到她身上，抱着她。"
 
 # game/deepforest.rpy#L813
 translate chinese zoelum_0ff1573c:
 
     # "In an unexpected turn of events however, she rolls on top of me and squashes my face in her breasts."
-    "In an unexpected turn of events however, she rolls on top of me and squashes my face in her breasts."
+    "然而，出乎意料的是，她翻身翻到了我的上面，把我的脸压在她的奶子上。"
 
 # game/deepforest.rpy#L817
 translate chinese zoelum_2a51e981:
 
     # zo "I’ll make you a really good breakfast tomorrow morning. Least I can do for the booty call."
-    zo "I’ll make you a really good breakfast tomorrow morning. Least I can do for the booty call."
+    zo "明天早上我会给你做一顿丰盛的早餐。如果不行，我还能和你干上一炮呢。"
 
 # game/deepforest.rpy#L818
 translate chinese zoelum_7c1ed83b:
 
     # mc "*Words muffled in breasts* Sounds good."
-    mc "*Words muffled in breasts* Sounds good."
+    mc "*闷在乳房里的话*听起来针不戳。"
 
 # game/deepforest.rpy#L820
 translate chinese zoelum_441deeff:
@@ -2558,7 +2558,7 @@ translate chinese zoelum_ed75a392:
 translate chinese zoelum_80f10cc5:
 
     # alraune "Bleh, you’re totally gonna knock me up if you cum inside… I guess I can live with that."
-    alraune "Bleh, you’re totally gonna knock me up if you cum inside… I guess I can live with that."
+    alraune "如果你射进去，我肯定会怀孕的，但…我想我可以接受。"
 
 # game/deepforest.rpy#L828
 translate chinese zoelum_a55a51f8:
@@ -2570,13 +2570,13 @@ translate chinese zoelum_a55a51f8:
 translate chinese zoelum_24641a9e:
 
     # "I step into a fairly regular room. This little pet relationship is reminding me of Butters and Poyo a little."
-    "I step into a fairly regular room. This little pet relationship is reminding me of Butters and Poyo a little."
+    "我走进一个相当普通的房间。这种宠物关系让我想起了Butters和Poyo。"
 
 # game/deepforest.rpy#L831
 translate chinese zoelum_48815f21:
 
     # mc "So, this’ll be a bit of revenge for last time, then."
-    mc "So, this’ll be a bit of revenge for last time, then."
+    mc "所以，这是对上次的报复。"
 
 # game/deepforest.rpy#L833
 translate chinese zoelum_85b68d52:
@@ -2588,85 +2588,85 @@ translate chinese zoelum_85b68d52:
 translate chinese zoelum_177198b9:
 
     # alraune "This is what I get, my punishment for being a little naughty!"
-    alraune "This is what I get, my punishment for being a little naughty!"
+    alraune "这就是对我有点淘气的惩罚!"
 
 # game/deepforest.rpy#L836
 translate chinese zoelum_69b6b9d8:
 
     # alraune "So, I’ll let you do it, fuck me, fill me, and knock me up!"
-    alraune "So, I’ll let you do it, fuck me, fill me, and knock me up!"
+    alraune "所以，我会让你干我，操我，拿精液灌满我的肚子，然后让我怀孕!"
 
 # game/deepforest.rpy#L837
 translate chinese zoelum_6076ca2f:
 
     # "I squint at the Alraune slightly confused, having absolutely no logistical idea of how to actually fuck her, considering there’s a giant plant bulb in the way."
-    "I squint at the Alraune slightly confused, having absolutely no logistical idea of how to actually fuck her, considering there’s a giant plant bulb in the way."
+    "我眯着眼睛略显困惑地看着Alraune，辣么大个的植物球挡住在我面前，我都不知道该怎么上她。"
 
 # game/deepforest.rpy#L838
 translate chinese zoelum_3d51299c:
 
     # mc "Okay, I’m just wondering what the best method to go about doing this is…"
-    mc "Okay, I’m just wondering what the best method to go about doing this is…"
+    mc "好吧，我只是在思考我们到底如何做爱…"
 
 # game/deepforest.rpy#L840
 translate chinese zoelum_3a5fa8be:
 
     # alraune "Oh my gosh, is it your first time too?!"
-    alraune "Oh my gosh, is it your first time too?!"
+    alraune "唔！天啊！这也是你的第一次吗？!"
 
 # game/deepforest.rpy#L841
 translate chinese zoelum_4356f1fa:
 
     # mc "Uh, no, it’s just… How do I reach your pussy? Even if you were to bend over your leaves are in the way."
-    mc "Uh, no, it’s just… How do I reach your pussy? Even if you were to bend over your leaves are in the way."
+    mc "额，不，只是…我怎么才能碰到你的蜜穴?就算你弯下腰，你的叶子也挡道。"
 
 # game/deepforest.rpy#L843
 translate chinese zoelum_7b6fbeff:
 
     # alraune "Ohhh, hehehe… There’s room for two in this bulb you know… It’s ‘designed’ that way, hehehe…"
-    alraune "Ohhh, hehehe… There’s room for two in this bulb you know… It’s ‘designed’ that way, hehehe…"
+    alraune "哦，哈哈哈，这个球球可以装下两个人，你知道吗，它是这样设计的，哈哈哈。"
 
 # game/deepforest.rpy#L846
 translate chinese zoelum_9c374f4d:
 
     # alraune "Again? I guess I did ask!"
-    alraune "Again? I guess I did ask!"
+    alraune "再来一遍吗?我想我已经问过了!"
 
 # game/deepforest.rpy#L847
 translate chinese zoelum_aec0cfd3:
 
     # alraune "I dunno what’s come over me lately, but I’m just a total slut lately, heh."
-    alraune "I dunno what’s come over me lately, but I’m just a total slut lately, heh."
+    alraune "我不知道我最近怎么了，感觉我最近真像个荡妇似的。"
 
 # game/deepforest.rpy#L849
 translate chinese zoelum_3b693ab8:
 
     # "I step into a fairly regular room. As before there isn’t much here other than basic entertainment and some storage. A plant girl sure doesn’t need much to distract her."
-    "I step into a fairly regular room. As before there isn’t much here other than basic entertainment and some storage. A plant girl sure doesn’t need much to distract her."
+    "我走进一个相当普通的房间。和以前一样，这里除了基本的娱乐和一些放杂物的地方之外啥也没有。花妖貌似不需要什么东西来分散她的注意力。"
 
 # game/deepforest.rpy#L850
 translate chinese zoelum_1f62da7b:
 
     # "And there’s no distraction for Alraune too, as she immediately begins acting sexually."
-    "And there’s no distraction for Alraune too, as she immediately begins acting sexually."
+    "Alraune也没有分心，她立刻开始准备前戏。"
 
 # game/deepforest.rpy#L852
 translate chinese zoelum_d5c0e3a1:
 
     # "She leans back slightly and spreads her pussy, her legs although they do separate at the hips seem to be stuck together at the base resulting in an interesting angle."
-    "She leans back slightly and spreads her pussy, her legs although they do separate at the hips seem to be stuck together at the base resulting in an interesting angle."
+    "她稍微向后倾，把她的蜜穴分开，虽然她的腿在臀部分开，但似乎在底部粘在一起，真是一个有趣的角度。"
 
 # game/deepforest.rpy#L853
 translate chinese zoelum_6d443a9b:
 
     # "And indeed, she is correct, there’s a noticeable area before her within her flower…"
-    "And indeed, she is correct, there’s a noticeable area before her within her flower…"
+    "的确，正如她所言，在她面前的花中有一个区域十分明显…"
 
 # game/deepforest.rpy#L854
 translate chinese zoelum_dc98157e:
 
     # "Cautiously, I step closer, pulling aside leaves as I get adjacent to the rose bud."
-    "Cautiously, I step closer, pulling aside leaves as I get adjacent to the rose bud."
+    "我小心翼翼地走近玫瑰的花蕾，拨开花瓣。"
 
 # game/deepforest.rpy#L855
 translate chinese zoelum_a3c5a5c7:
@@ -2678,13 +2678,13 @@ translate chinese zoelum_a3c5a5c7:
 translate chinese zoelum_d25dce67:
 
     # "I dip my finger into the pinkish goop, and not particularly to my surprise, it’s the exact pink aphrodisiac from the cave before."
-    "I dip my finger into the pinkish goop, and not particularly to my surprise, it’s the exact pink aphrodisiac from the cave before."
+    "我用手指蘸了蘸粉红色的黏液，这居然就是之前洞穴里的粉红色春药。"
 
 # game/deepforest.rpy#L857
 translate chinese zoelum_c481d027:
 
     # "Fortunately, her leaves also relieve the effects of that aphrodisiac, so I forgo caution and begin to lift myself into the bud."
-    "Fortunately, her leaves also relieve the effects of that aphrodisiac, so I forgo caution and begin to lift myself into the bud."
+    "幸运的是，她的叶子貌似减轻了春药的效果，所以我也不再拘谨，开始让自己进入花蕾。"
 
 # game/deepforest.rpy#L862
 translate chinese zoelum_5ed1fea4:
@@ -2696,37 +2696,37 @@ translate chinese zoelum_5ed1fea4:
 translate chinese zoelum_24a10ac6:
 
     # "Warmth and comfort like a hug consume my body as I step into the pleasant bulb."
-    "Warmth and comfort like a hug consume my body as I step into the pleasant bulb."
+    "我步入令人愉快的球茎，里面温暖又舒适，就像一个拥抱，裹满了我的身体。"
 
 # game/deepforest.rpy#L864
 translate chinese zoelum_3dae4ce5:
 
     # mc "This is really nice… We’re pretty damn close to each other though."
-    mc "This is really nice… We’re pretty damn close to each other though."
+    mc "这真的很棒....只是我们俩挨得实在太近了。"
 
 # game/deepforest.rpy#L866
 translate chinese zoelum_0455cf8b:
 
     # alraune "Oh fuck, I’m not the only one getting extremely horny, right? Ohh, gosh…"
-    alraune "Oh fuck, I’m not the only one getting extremely horny, right? Ohh, gosh…"
+    alraune "操，我就知道我不是唯一一个欲火焚身的人，你也一样对吧？哦,天哪…"
 
 # game/deepforest.rpy#L868
 translate chinese zoelum_dbe46ec0:
 
     # alraune "I think I get it now… When a man steps into my pool it immediately actives some kind of sex instinct, it makes me sooooo hornyyyy."
-    alraune "I think I get it now… When a man steps into my pool it immediately actives some kind of sex instinct, it makes me sooooo hornyyyy."
+    alraune "我想我现在明白了，当一个男人踏进我的泳池时，我的性本能立刻就会被激发起来，让我变得非常非常饥渴。"
 
 # game/deepforest.rpy#L870
 translate chinese zoelum_fc43a835:
 
     # "I’m already half erect at this point, and immediately tingles of the aphrodisiac aid in bringing out the other half of that erection."
-    "I’m already half erect at this point, and immediately tingles of the aphrodisiac aid in bringing out the other half of that erection."
+    "此时我已经半勃起了，而刺激的春药正要刺激着我完全勃起。"
 
 # game/deepforest.rpy#L871
 translate chinese zoelum_67269475:
 
     # "Within a few seconds, my precum dripping erection is pressed against her belly."
-    "Within a few seconds, my precum dripping erection is pressed against her belly."
+    "在几秒钟内，我勃起的大棒抵在了她的腹部前。"
 
 # game/deepforest.rpy#L874
 translate chinese zoelum_bc855afa:
@@ -2738,13 +2738,13 @@ translate chinese zoelum_bc855afa:
 translate chinese zoelum_8e335904:
 
     # mc "Does your species do that around a male?"
-    mc "Does your species do that around a male?"
+    mc "你们的物种对雄性也这么做吗?"
 
 # game/deepforest.rpy#L876
 translate chinese zoelum_411539e7:
 
     # alraune "Mhm… Whenever one steps into my flower, hehe…"
-    alraune "Mhm… Whenever one steps into my flower, hehe…"
+    alraune "emmm...每当有人踏进我的花里的时候就会，哈哈……"
 
 # game/deepforest.rpy#L877
 translate chinese zoelum_e1177f01:
@@ -2768,19 +2768,19 @@ translate chinese zoelum_d92555a1:
 translate chinese zoelum_535d210f:
 
     # "With my tip poking at her entrance, I grasp both of her hips and push in."
-    "With my tip poking at her entrance, I grasp both of her hips and push in."
+    "我一伸手，抓住了她的屁股。我的老二也没闲着，刺向她的入口，"
 
 # game/deepforest.rpy#L885
 translate chinese zoelum_5cfe0ff6:
 
     # mc "This purple liquid really does wonders for an erection, aren’t you always horny?"
-    mc "This purple liquid really does wonders for an erection, aren’t you always horny?"
+    mc "这种紫色的液体真的对勃起有神奇的作用，你是不是一直都很饥渴呀?"
 
 # game/deepforest.rpy#L886
 translate chinese zoelum_73665384:
 
     # alraune "Me, h-horny? Yessshhh!"
-    alraune "Me, h-horny? Yessshhh!"
+    alraune "我，很性——性感？噫嘶！"
 
 # game/deepforest.rpy#L887
 translate chinese zoelum_f3323bd4:
@@ -2810,31 +2810,31 @@ translate chinese zoelum_e99e5884:
 translate chinese zoelum_5269ca4e:
 
     # "She leans back as I thrust forward, giving me as much room as possible in this unusual angle of penetration."
-    "She leans back as I thrust forward, giving me as much room as possible in this unusual angle of penetration."
+    "当我向前挺进的时候，她的身子向后倾斜，在这个不寻常的插入角度给了我尽可能多的空间。"
 
 # game/deepforest.rpy#L896
 translate chinese zoelum_67ffbee5:
 
     # "Despite the Alraune’s large overall body, her feminine frame is petite as I handle her. My hands almost encompassing both her hips as I tightly grip her for leverage. Her breasts bobbing up and down with the force of each thrust."
-    "Despite the Alraune’s large overall body, her feminine frame is petite as I handle her. My hands almost encompassing both her hips as I tightly grip her for leverage. Her breasts bobbing up and down with the force of each thrust."
+    "尽管Alraune的整个身体极其庞大，但我所抚摸的这个女孩儿摸样的部分真的是小巧玲珑。我的双手紧紧的抓着她，几乎包围了她的臀部。她的乳房随着每一次用力而上下起伏。"
 
 # game/deepforest.rpy#L897
 translate chinese zoelum_459bebb8:
 
     # "Her cute breasts, and their function of which I’m not entirely sure, sport two green nipples which had become noticeably puffy and erect since penetration."
-    "Her cute breasts, and their function of which I’m not entirely sure, sport two green nipples which had become noticeably puffy and erect since penetration."
+    "她可爱的乳房，（虽然我不清楚花妖张长这玩意儿有啥用）在我入侵她的花园后，它们明显大了一圈，乳头也勃了起来。"
 
 # game/deepforest.rpy#L898
 translate chinese zoelum_2e279a46:
 
     # "Tweaking and teasing the nipples results in girlish moans escaping from my lover, as it appears, they’re sensitive like any other girl."
-    "Tweaking and teasing the nipples results in girlish moans escaping from my lover, as it appears, they’re sensitive like any other girl."
+    "我挑逗她的乳头，弄得她发出少女般的呻吟。看起来，它们和其他女孩的乳头一样敏感。"
 
 # game/deepforest.rpy#L900
 translate chinese zoelum_2abff458:
 
     # "And as my hand explores the rest of my lover, I also find my way down to her pussy, teasing around for a clitoris to rub which greatly excites her also."
-    "And as my hand explores the rest of my lover, I also find my way down to her pussy, teasing around for a clitoris to rub which greatly excites her also."
+    "我的手在她的身体里摸索，不一会儿我便找到了让她非常兴奋方法——去抚摸她的阴蒂。"
 
 # game/deepforest.rpy#L901
 translate chinese zoelum_f379a384:
@@ -2846,7 +2846,7 @@ translate chinese zoelum_f379a384:
 translate chinese zoelum_ceee89f8:
 
     # "And the purple aphrodisiac enhances the sensation, to such a degree that it probably robs me of free will, and forces me to fuck."
-    "And the purple aphrodisiac enhances the sensation, to such a degree that it probably robs me of free will, and forces me to fuck."
+    "紫色春药增强了这种感觉，以至于它可能剥夺了我的自由意志，迫使我做爱。"
 
 # game/deepforest.rpy#L903
 translate chinese zoelum_c0905e9f:
@@ -3626,13 +3626,13 @@ translate chinese werewolfhunting_c0c8a874:
 translate chinese werewolfhunting_869d2b17:
 
     # "I’m starting to get irritatingly horny thanks to the male affecting pheromones, so I’m definitely ready for this."
-    "I’m starting to get irritatingly horny thanks to the male affecting pheromones, so I’m definitely ready for this."
+    "多亏了雄性对信息素，它使我开始变得饥渴起来了，我的小兄弟已经饥渴难耐了。"
 
 # game/deepforest.rpy#L1149
 translate chinese werewolfhunting_1ff1e130:
 
     # "I click my tongue while leaning back on a tree, trying to ignore my throbbing erection."
-    "I click my tongue while leaning back on a tree, trying to ignore my throbbing erection."
+    "我靠在一棵树上磕舌头，试图将我的注意从不断昂首挺胸的老二上移开。"
 
 # game/deepforest.rpy#L1152
 translate chinese werewolfsex_0b327d73:
@@ -3656,7 +3656,7 @@ translate chinese werewolfsex_4c041339:
 translate chinese werewolfsex_8d58961c:
 
     # "Typically, they’re docile and don’t force themselves on mates. So, it’s actually my responsibility to take charge here."
-    "一般来讲，它们很温顺，不会强迫自己去交配。所以，我应该有责任负责这里。"
+    "一般来讲，它们很温顺，不会强迫自己去交配。所以，我应该有能力应付这件事。"
 
 # game/deepforest.rpy#L1158
 translate chinese werewolfsex_35d9ea21:
@@ -3680,31 +3680,31 @@ translate chinese werewolfsex_db1b2a1a:
 translate chinese werewolfsex_2a187882:
 
     # "I bring my hand to my cock and jack myself off as the female werewolf watches with glee, her tongue lecherously sliding across her lips."
-    "I bring my hand to my cock and jack myself off as the female werewolf watches with glee, her tongue lecherously sliding across her lips."
+    "我把我的手到我的老二上，女狼人看着它淫笑，她的舌头淫荡地滑过她的嘴唇。"
 
 # game/deepforest.rpy#L1164
 translate chinese werewolfsex_dd83f16e:
 
     # mc "Can you turn around for me? I’m going to fuck you."
-    mc "Can you turn around for me? I’m going to fuck you."
+    mc "你能转个身吗?我要干你。"
 
 # game/deepforest.rpy#L1168
 translate chinese werewolfsex_86378bc1:
 
     # "To my shock, she nods and turns to expose herself to me, her tail wagging back and forth more like a dog than a wolf."
-    "To my shock, she nods and turns to expose herself to me, her tail wagging back and forth more like a dog than a wolf."
+    "让我惊讶的是，她竟然点点头，转身向我展示她诱人的酮体。她的尾巴前后摆动，更像是狗而不是狼。"
 
 # game/deepforest.rpy#L1169
 translate chinese werewolfsex_0962f57b:
 
     # "I grab her by her plush rump and draw her closer. She submissively leans in to every gesture enthusiastically. Her pussy already gleaming with blatant desire."
-    "I grab her by her plush rump and draw her closer. She submissively leans in to every gesture enthusiastically. Her pussy already gleaming with blatant desire."
+    "我抓住她毛茸茸的屁股，把她拉得更近。她顺从地热情地靠近每一个手势。她的阴部已经闪耀着赤裸裸的欲望。"
 
 # game/deepforest.rpy#L1171
 translate chinese werewolfsex_fb997e52:
 
     # "I tap the tip of my dick against her pussy before slightly pushing forward, allowing my member to grind against her lips and clit."
-    "I tap the tip of my dick against her pussy before slightly pushing forward, allowing my member to grind against her lips and clit."
+    "我用我的龟头轻敲她的嫩逼，然后再稍微向前推进，让我的老二在她的阴唇和阴蒂上摩擦。"
 
 # game/deepforest.rpy#L1172
 translate chinese werewolfsex_54e365d9:
@@ -4052,7 +4052,7 @@ translate chinese werewolfsex_5756d979:
 translate chinese werewolfsex_5dd048f3:
 
     # zo "But… I wasn’t satisfied after the werewolf session, and he took initiative! So I question, how is that my fault?"
-    zo "但是…狼人被治疗后我还是欲求不满，是他主动来干我的!我真想不明白，这怎么会是我的错?"
+    zo "但是…狼人被治疗后我却还是欲求不满，是他主动要把我干!我真想不明白，这怎么会是我的错?"
 
 # game/deepforest.rpy#L1314
 translate chinese werewolfsex_775937c2:
@@ -4184,13 +4184,13 @@ translate chinese werewolfsex_394cd6e7:
 translate chinese werewolfsex_aa060e96:
 
     # zo "Here Lil, how about another glass? We can keep going until the sun rises, either that or I’m on my ass!"
-    zo "来吧，小Lily，再来一杯怎么样?我们可以一直熬到太阳升起，"
+    zo "来吧，小Lily，再来一杯怎么样?我们要么一直熬到太阳升起，要么我的屁股就要高高挂起。"
 
 # game/deepforest.rpy#L1371
 translate chinese werewolfsex_7e6f5e71:
 
     # lily "Haha, I don’t think anyone will be on their ass tonight, right?"
-    lily "Haha, I don’t think anyone will be on their ass tonight, right?"
+    lily "哈哈，我觉得今晚不会有马的屁股高高挂起的，你说呢?"
 
 # game/deepforest.rpy#L1373
 translate chinese werewolfsex_93187771:
@@ -4238,7 +4238,7 @@ translate chinese werewolfsex_62989f51:
 translate chinese werewolfsex_addb1cb3:
 
     # poyo "I gave Devil this potion and she became a smoking hot anthropomorph. Isn’t it awesome?"
-    poyo "I gave Devil this potion and she became a smoking hot anthropomorph. Isn’t it awesome?"
+    poyo "我给了Devil这瓶药剂，把她变成了一个贼性感的类人生物。真他娘的棒，是吧？"
 
 # game/deepforest.rpy#L1397
 translate chinese werewolfsex_1eb2623f:
@@ -4250,13 +4250,13 @@ translate chinese werewolfsex_1eb2623f:
 translate chinese werewolfsex_7c99f2f0:
 
     # "The bunny girl takes my hand and strings me along in front of everyone else. I can even hear some light cheers from the crowd."
-    "The bunny girl takes my hand and strings me along in front of everyone else. I can even hear some light cheers from the crowd."
+    "小兔崽子在大家面前拉着我的手，牵着我。我甚至可以听到从人群中传来的一阵轻轻的欢呼声。"
 
 # game/deepforest.rpy#L1399
 translate chinese werewolfsex_7722636d:
 
     # "Fortunately, I’m just drunk enough to think ‘fuck it, time to get some bunny pussy.'"
-    "很走运，我已经喝醉了。我满脑子想的都是‘去他的吧，该干干兔子的小穴了。’"
+    "幸运的是，我脑子醉得只想要“干他娘的小兔子嫩穴”。"
 
 # game/deepforest.rpy#L1400
 translate chinese werewolfsex_4d11f68d:
@@ -4280,67 +4280,67 @@ translate chinese werewolfsex_b695e962:
 translate chinese werewolfsex_35878a5b:
 
     # mc "Oh Devil, you appear to have transformed, was that your doing, Poyo?"
-    mc "Oh Devil, you appear to have transformed, was that your doing, Poyo?"
+    mc "哦Devil，你看起来变了好多，是你搞的鬼吗，乖女儿，Poyo？"
 
 # game/deepforest.rpy#L1410
 translate chinese werewolfsex_973862b9:
 
     # devil "Yup, I have a special party pass, hehe! *Hic*"
-    devil "Yup, I have a special party pass, hehe! *Hic*"
+    devil "是的，我有一张特别的派对通行证，呵呵!*嗝*"
 
 # game/deepforest.rpy#L1411
 translate chinese werewolfsex_268ad44a:
 
     # mc "Oh no. This isn’t the first time you’ve ever had alcohol, is it?"
-    mc "Oh no. This isn’t the first time you’ve ever had alcohol, is it?"
+    mc "哦,不。难道你这是第一次喝酒?"
 
 # game/deepforest.rpy#L1413
 translate chinese werewolfsex_948771cb:
 
     # devil "How about you come and give me some tummy rubs in the guest bedroom, y’know, just like old times? *Hic*"
-    devil "How about you come and give me some tummy rubs in the guest bedroom, y’know, just like old times? *Hic*"
+    devil "不如你来客房给我揉揉肚子，就像以前那样?*嗝*"
 
 # game/deepforest.rpy#L1414
 translate chinese werewolfsex_1ec79519:
 
     # mc "You know, it might be a good idea if I did, just to keep an eye on you."
-    mc "You know, it might be a good idea if I did, just to keep an eye on you."
+    mc "你也知道，这将会是个好主意，但仅限于照顾你。"
 
 # game/deepforest.rpy#L1415
 translate chinese werewolfsex_7c99f2f0_1:
 
     # "The bunny girl takes my hand and strings me along in front of everyone else. I can even hear some light cheers from the crowd."
-    "The bunny girl takes my hand and strings me along in front of everyone else. I can even hear some light cheers from the crowd."
+    "小兔崽子在大家面前拉着我的手，牵着我。我甚至可以听到从人群中传来的一阵轻轻的欢呼声。"
 
 # game/deepforest.rpy#L1416
 translate chinese werewolfsex_7722636d_1:
 
     # "Fortunately, I’m just drunk enough to think ‘fuck it, time to get some bunny pussy.'"
-    "Fortunately, I’m just drunk enough to think ‘fuck it, time to get some bunny pussy.'"
+    "幸运的是，我脑子醉得只想要“干他娘的小兔子嫩穴”。"
 
 # game/deepforest.rpy#L1423
 translate chinese werewolfsex_435820cb:
 
     # "Devil falls down on her back and shows me what she means. I can recognize what she’s referring to: legs-up missionary."
-    "Devil falls down on her back and shows me what she means. I can recognize what she’s referring to: legs-up missionary."
+    "Devil对我平躺着，像是在对我说，快正面上我呀。"
 
 # game/deepforest.rpy#L1424
 translate chinese werewolfsex_aa01a6cc:
 
     # "She looks up to me with heated captivation, while her hand slyly moves to her privates, and begins to rub her supple folds."
-    "She looks up to me with heated captivation, while her hand slyly moves to her privates, and begins to rub her supple folds."
+    "她看我的眼神中带着激情和渴望，她的手也把下面的嫩逼弄得翻江倒海。"
 
 # game/deepforest.rpy#L1425
 translate chinese werewolfsex_7573ee04:
 
     # "And they really are supple. I'd dare say this Bunny's body is unquestionably perfect. Is this perhaps a consequence of the potion and transformation associated with it?"
-    "And they really are supple. I'd dare say this Bunny's body is unquestionably perfect. Is this perhaps a consequence of the potion and transformation associated with it?"
+    "她的身体看起来好柔软，身材比例也简直是完美至极。这些难道是那些药水导致的？"
 
 # game/deepforest.rpy#L1426
 translate chinese werewolfsex_6d46fd4f:
 
     # devil "Is this good? I am making myself wet and ready to take you."
-    devil "Is this good? I am making myself wet and ready to take you."
+    devil "好看吗亲爱的？等我的小嫩逼准备好后，我就让它来把你吃~掉~。"
 
 # game/deepforest.rpy#L1427
 translate chinese werewolfsex_2e72f14b:
@@ -4364,13 +4364,13 @@ translate chinese werewolfsex_cde0c87c:
 translate chinese werewolfsex_e10a8c62:
 
     # "My cock rapidly stiffens as the two us watch each other masturbate. The pleasure seems rather new to Devil as she fidgets and squirms in reaction to the pleasure."
-    "My cock rapidly stiffens as the two us watch each other masturbate. The pleasure seems rather new to Devil as she fidgets and squirms in reaction to the pleasure."
+    "我的老二立马抬头，我们开始互相看着对方手淫。这快乐简直是Devil从未体验过的船新版本！她高兴得不停地动，扭动身体。"
 
 # game/deepforest.rpy#L1434
 translate chinese werewolfsex_83a0b40b:
 
     # "Her wide eyes are intensely locked onto my erection; she really enjoys watching the way it moves."
-    "Her wide eyes are intensely locked onto my erection; she really enjoys watching the way it moves."
+    "她的大眼睛目不转睛地盯着我勃起的老二；她真的很喜欢看它是咋越变越大的。"
 
 # game/deepforest.rpy#L1435
 translate chinese werewolfsex_b450607a:
@@ -4388,133 +4388,133 @@ translate chinese werewolfsex_d27878ea:
 translate chinese werewolfsex_af8b30e8:
 
     # "She lays back further into the bedding, raising her rump a little further. Her tail twitches with anticipation."
-    "She lays back further into the bedding, raising her rump a little further. Her tail twitches with anticipation."
+    "她身子一倾躺到床上，把屁股抬得更高。她兴奋得尾巴都抽动了起来。"
 
 # game/deepforest.rpy#L1438
 translate chinese werewolfsex_deb82cbb:
 
     # "I nod and get into position, my cock fully erect and prepared to give this bunny the fuck of a lifetime."
-    "I nod and get into position, my cock fully erect and prepared to give this bunny the fuck of a lifetime."
+    "点头，就位，我的老二已经是究极形态了，正在准备给这只小兔子一场终生难忘的体验。"
 
 # game/deepforest.rpy#L1439
 translate chinese werewolfsex_190e2599:
 
     # "Shuffling closer, I align my shaft with her tight fluffy labia and gently press the tip forward."
-    "Shuffling closer, I align my shaft with her tight fluffy labia and gently press the tip forward."
+    "我将我的老二与她的紧蓬松的阴唇慢慢地靠近，老二和嫩逼当处于同一水平面时，我轻轻地将龟头推进。"
 
 # game/deepforest.rpy#L1440
 translate chinese werewolfsex_5fa584c2:
 
     # "She’s incredibly wet, wetter than I’d expect considering we haven’t been going long, but regardless she’s still immensely tight."
-    "She’s incredibly wet, wetter than I’d expect considering we haven’t been going long, but regardless she’s still immensely tight."
+    "她很湿，比我想象的要湿。尽管考虑到我们还没干多久，但她还是很紧，真是奇怪。"
 
 # game/deepforest.rpy#L1442
 translate chinese werewolfsex_112b27f2:
 
     # "My first push inwards is met with some slight resistance, and because of the wetness I slip off and grind against her clit."
-    "My first push inwards is met with some slight resistance, and because of the wetness I slip off and grind against her clit."
+    "我的第一次突击因为湿漉漉的淫液而遇到了一点轻微的阻力，我的老二摩擦着她的阴蒂，并从目标区域滑了出来。"
 
 # game/deepforest.rpy#L1443
 translate chinese werewolfsex_38a92bb0:
 
     # devil "Oohh… Did it start? That felt good!"
-    devil "Oohh… Did it start? That felt good!"
+    devil "哦哦哦...已经开始了吗?好舒服!"
 
 # game/deepforest.rpy#L1444
 translate chinese werewolfsex_ba2daa09:
 
     # mc "Not quite yet. You’re really tight, Devil."
-    mc "还没有。你真的哪里很紧，Devil"
+    mc "还没呢。你那里可真紧呀，Devil。"
 
 # game/deepforest.rpy#L1445
 translate chinese werewolfsex_df08d9ba:
 
     # devil "Mmm, well, I’m only a small little bunny."
-    devil "Mmm, well, I’m only a small little bunny."
+    devil "嗯，因为我只是一只小兔子嘛~。"
 
 # game/deepforest.rpy#L1448
 translate chinese werewolfsex_5433097d:
 
     # "With a second, more carefully aligned push, I manage to pop inside and sink in with relative ease. But the intense tightness remains like a fist's grip around my cock."
-    "With a second, more carefully aligned push, I manage to pop inside and sink in with relative ease. But the intense tightness remains like a fist's grip around my cock."
+    "第二次，我更小心地将我的老二推进，这次相对还算容易，我勉强挤进去了。但我的老二被就像拳头紧紧攥住了，感受着紧绷的感觉。"
 
 # game/deepforest.rpy#L1449
 translate chinese werewolfsex_76d43255:
 
     # "Her hands desperately grasp the bedsheets for support. Initially you suspect she may be in pain, but her face is showing absolute pleasure as she throws her head back and moans."
-    "Her hands desperately grasp the bedsheets for support. Initially you suspect she may be in pain, but her face is showing absolute pleasure as she throws her head back and moans."
+    "她的手拼命地抓住床单来支撑。起初你怀疑她可能很痛苦，但她的脸却表现出绝对的快乐，她向后仰着头，呻吟着。"
 
 # game/deepforest.rpy#L1450
 translate chinese werewolfsex_059c75d4:
 
     # devil "I want it, I want more! Please give me more!"
-    devil "I want it, I want more! Please give me more!"
+    devil "我要，我还要更多!不要停，继续干我!"
 
 # game/deepforest.rpy#L1452
 translate chinese werewolfsex_6e25030d:
 
     # "Her pussy twitches as I pull out, and as I thrust forwards it almost feels like I’m sucked back in by the tightness."
-    "Her pussy twitches as I pull out, and as I thrust forwards it almost feels like I’m sucked back in by the tightness."
+    "我将我的老二缓缓抽出快坏掉的嫩逼。而当我再次向前推进的时候，我感觉自己更是像被紧紧地吸了回去。"
 
 # game/deepforest.rpy#L1453
 translate chinese werewolfsex_38fdc430:
 
     # "And again, and again, she gently eases around my girth and it becomes even more pleasureful for the two of us."
-    "And again, and again, she gently eases around my girth and it becomes even more pleasureful for the two of us."
+    "一下，再来一下，她温柔地绕着我的腰，这动作让我们俩都更好的享受着对方肉体所带来的的快感。"
 
 # game/deepforest.rpy#L1454
 translate chinese werewolfsex_cc9405ae:
 
     # "The hilt of each thrust is so comfortable as well; her soft fur feels fantastic as it brushes against my skin. I’ve never wanted to treat something so soft so rough."
-    "The hilt of each thrust is so comfortable as well; her soft fur feels fantastic as it brushes against my skin. I’ve never wanted to treat something so soft so rough."
+    "每一次的插入让我飘飘欲仙；她飘柔般皮毛拂过皮肤让我感觉很舒服。我从没想过要这么狂野地对待如此柔软的小兔子。"
 
 # game/deepforest.rpy#L1455
 translate chinese werewolfsex_758034f8:
 
     # "The lust gradually takes control of me as I begin pounding into her bunny butt at a steady pace. Her squelching, wet pussy is so tight it threatens to make me cum if I were to ever speed up."
-    "The lust gradually takes control of me as I begin pounding into her bunny butt at a steady pace. Her squelching, wet pussy is so tight it threatens to make me cum if I were to ever speed up."
+    "我开始以稳定的速度去撞击她的屁股，欲望渐渐将我吞噬。她那柔软，潮湿，紧紧的嫩逼勾引着我射精，要是再快一点说不定我就射出来了。"
 
 # game/deepforest.rpy#L1456
 translate chinese werewolfsex_960bacda:
 
     # devil "Haaahhh… This’s sooo good… Rub my tummy too!"
-    devil "Haaahhh… This’s sooo good… Rub my tummy too!"
+    devil "啊~~啊~~这也太——太舒服了，也给我揉揉肚子吧!"
 
 # game/deepforest.rpy#L1457
 translate chinese werewolfsex_ec8c33f7:
 
     # "While that may be the strangest request I’ve ever had during sex, my one-track mind doesn’t even double take as one of my hands begins to caress her sensitive tummy, while I pump in and out of her pussy."
-    "While that may be the strangest request I’ve ever had during sex, my one-track mind doesn’t even double take as one of my hands begins to caress her sensitive tummy, while I pump in and out of her pussy."
+    "这可能是我开始性生活以来所听到的最奇怪的请求了，我的老二在她的花园里兴风作浪，这让我的脑子有点转不过弯来，管他呢。于是我便开始用手抚摸她敏感的小肚子。"
 
 # game/deepforest.rpy#L1458
 translate chinese werewolfsex_ac637dbf:
 
     # "She trembles at the sensation of sex and rubbing, her insides gripping particularly tightly as if she just achieved an orgasm."
-    "She trembles at the sensation of sex and rubbing, her insides gripping particularly tightly as if she just achieved an orgasm."
+    "她在性爱和摩擦的感觉中开始颤抖，她的内脏紧紧地攥在一起好像刚刚达到了高潮。"
 
 # game/deepforest.rpy#L1459
 translate chinese werewolfsex_8830c103:
 
     # devil "Haahhh, yesss… I looove youuu, soooo muuuuch…"
-    devil "Haahhh, yesss… I looove youuu, soooo muuuuch…"
+    devil "啊啊啊~，超赞-赞~。我真~的~好~爱~你~"
 
 # game/deepforest.rpy#L1460
 translate chinese werewolfsex_f3ac77bb:
 
     # "Her pussy feels so good right now, it’s like I’m in heaven. A heaven full of anthropomorphic girls I can fuck to my heart’s content."
-    "Her pussy feels so good right now, it’s like I’m in heaven. A heaven full of anthropomorphic girls I can fuck to my heart’s content."
+    "她的嫩逼现在感觉好极了，而我就像在天堂一样。一个满是拟人化女孩而我可以尽情操她们的天堂。"
 
 # game/deepforest.rpy#L1461
 translate chinese werewolfsex_d97ac57d:
 
     # "The pressure of my orgasm signals its imminence. I grunt and try to hold back a little longer to relish each and every second with my lover."
-    "The pressure of my orgasm signals its imminence. I grunt and try to hold back a little longer to relish each and every second with my lover."
+    "我感受到了即将高潮所带来的压迫感。我哼了一声，试着多忍一会，好好享受和我的情人在一起的每分每秒。"
 
 # game/deepforest.rpy#L1462
 translate chinese werewolfsex_da543aaf:
 
     # "But eventually, her pussy is just too pleasureful, and as my body gives in, I decide to push to my limit and rut her as fast as I can."
-    "But eventually, her pussy is just too pleasureful, and as my body gives in, I decide to push to my limit and rut her as fast as I can."
+    "但是最终，我的身体还是向她的嫩逼缴械投降了。我决定用最快的速度结束，将我的精华注入发情的小兔子。"
 
 # game/deepforest.rpy#L1463
 translate chinese werewolfsex_8c054981:
@@ -4526,19 +4526,19 @@ translate chinese werewolfsex_8c054981:
 translate chinese werewolfsex_390259b5:
 
     # "An eruption of cum launches from my tip filling up the tiny bunny’s pussy and womb almost entirely."
-    "An eruption of cum launches from my tip filling up the tiny bunny’s pussy and womb almost entirely."
+    "从我的老二迸发出的精液几乎填满了小兔子的嫩逼和子宫。"
 
 # game/deepforest.rpy#L1473
 translate chinese werewolfsex_62810400:
 
     # "The two of us continue to fuck passionately throughout the duration of my orgasm. Shivers of pleasure running down my spine with each deep thrust in my hyper-sensitive state."
-    "The two of us continue to fuck passionately throughout the duration of my orgasm. Shivers of pleasure running down my spine with each deep thrust in my hyper-sensitive state."
+    "我们俩在我高潮的过程中继续激情做爱。在我极度敏感的状态下，随着每一次深度的刺击，快感的战栗顺着我的脊柱直泻而下。"
 
 # game/deepforest.rpy#L1474
 translate chinese werewolfsex_75e142c6:
 
     # devil "Haaahhh… My eyes are swimming, haahhh… Everything went all white and fuzzy, aheh…"
-    devil "Haaahhh… My eyes are swimming, haahhh… Everything went all white and fuzzy, aheh…"
+    devil "啊—啊—....我的眼睛在游动，视野都变得又白又模糊，啊…"
 
 # game/deepforest.rpy#L1475
 translate chinese werewolfsex_c78029ab:
@@ -4550,25 +4550,25 @@ translate chinese werewolfsex_c78029ab:
 translate chinese werewolfsex_24ff83f9:
 
     # "After filling her to the brim, I gradually come to a stop and pull out."
-    "After filling her to the brim, I gradually come to a stop and pull out."
+    "把她的肚子填满后，我停下来，把老二缓缓拔出。"
 
 # game/deepforest.rpy#L1480
 translate chinese werewolfsex_b7885517:
 
     # "A few droplets of cum ooze down her pristine white fur, almost entirely camouflaged if it weren’t for her cute pink pussy serving as contrast."
-    "A few droplets of cum ooze down her pristine white fur, almost entirely camouflaged if it weren’t for her cute pink pussy serving as contrast."
+    "如果不是她可爱的粉红色嫩逼的话，完全看不出她洁白的毛发上还点缀着几滴精液。"
 
 # game/deepforest.rpy#L1481
 translate chinese werewolfsex_b3fe1e78:
 
     # "With a deep breath, I drag myself to her side and my bunny lover takes the initiative to cradle me close in a cozy embrace."
-    "With a deep breath, I drag myself to her side and my bunny lover takes the initiative to cradle me close in a cozy embrace."
+    "我深吸一口气，把自己拉到她身边，我的可爱小兔兔主动把我紧紧地搂在一个温暖的怀抱里。"
 
 # game/deepforest.rpy#L1483
 translate chinese werewolfsex_efa8a5f8:
 
     # "Soon enough, we fall asleep while cuddled."
-    "Soon enough, we fall asleep while cuddled."
+    "不一会儿，我们便相拥入眠。"
 
 # game/deepforest.rpy#L1484
 translate chinese werewolfsex_239b64ff:

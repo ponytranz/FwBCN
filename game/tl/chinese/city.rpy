@@ -7362,7 +7362,7 @@ translate chinese strings:
 
     # game/city.rpy_L720_0
     old "Currently listening to That's One Sly Cat - Artificial Music."
-    new "正在收听：那只狡猾的小猫咪- Artificial Music."
+    new "正在收听：狡猾小猫- Artificial Music."
 
     # game/city.rpy_L720_1
     old "Stop"
@@ -7370,15 +7370,15 @@ translate chinese strings:
 
     # game/city.rpy_L727_0
     old "Currently listening to Abstract Foilage - Artificial Music."
-    new "正在收听：Abstract Foilage - Artificial Music."
+    new "正在收听：采摘树叶 - Artificial Music."
 
     # game/city.rpy_L734_0
     old "Currently listening to Good Day - Low Frequency Music."
-    new "正在收听：Good Day - Low Frequency Music."
+    new "正在收听：美好时光 - Low Frequency Music."
 
     # game/city.rpy_L740_0
     old "Currently listening to Bald Mountain - God Hand"
-    new "正在收听：Bald Mountain - God Hand"
+    new "正在收听：赤裸山峰 - God Hand"
 
     # game/city.rpy_L750_0
     old "Day Theme 1"
@@ -7390,11 +7390,11 @@ translate chinese strings:
 
     # game/city.rpy_L759_0
     old "Currently listening to Stuck in the Machine - NO MIC."
-    new "正在收听：Stuck in the Machine - NO MIC."
+    new "正在收听：笼中之鸟 - NO MIC."
 
     # game/city.rpy_L778_0
     old "Currently listening to Hip Jazz - Benjamin Tissot"
-    new "正在收听：Hip Jazz - Benjamin Tissot"
+    new "正在收听：流行爵士 - Benjamin Tissot"
 
     # game/city.rpy_L786_0
     old "Butters' Theme"
@@ -7422,15 +7422,15 @@ translate chinese strings:
 
     # game/city.rpy_L789_0
     old "Currently listening to Before you Fall Asleep - Jhove"
-    new "Currently listening to Before you Fall Asleep - Jhove"
+    new "正在收听：入睡之前 - Jhove"
 
     # game/city.rpy_L796_0
     old "Currently listening to Another Perspective - Idealism."
-    new "Currently listening to Another Perspective - Idealism."
+    new "正在收听：全新角度 - Idealism."
 
     # game/city.rpy_L803_0
     old "Currently listening to N.ercophillia: it applies to the dead inside now (lorncloudshit) - Sewerslvt"
-    new "Currently listening to N.ercophillia: it applies to the dead inside now (lorncloudshit) - Sewerslvt"
+    new "正在收听N.ercophillia：死者狂宴（lorncloudshit）- Sewerslvt"
 
     # game/city.rpy_L810_0
     old "Currently listening to La fille aux cheveux de lin by Claude Debussy (1909)"
@@ -7438,7 +7438,7 @@ translate chinese strings:
 
     # game/city.rpy_L817_0
     old "Currently listening to Euphoric Filth - Sewerslvt"
-    new "Currently listening to Euphoric Filth - Sewerslvt"
+    new "正在收听：翻云覆雨 - Sewerslvt"
 
     # game/city.rpy_L829_0
     old "Music Studio Theme"
@@ -7478,7 +7478,7 @@ translate chinese strings:
 
     # game/city.rpy_L846_0
     old "Currently listening to Another Perspective - Idealism"
-    new "Currently listening to Another Perspective - Idealism"
+    new "正在收听：全新角度 - Idealism"
 
     # game/city.rpy_L853_0
     old "Currently listening to Basic Metal 6 - TeknoAXE"
@@ -7502,7 +7502,7 @@ translate chinese strings:
 
     # game/city.rpy_L871_3
     old "Comedy"
-    new "搞笑片"
+    new "搞笑时刻"
 
     # game/city.rpy_L871_4
     old "Tension"
@@ -7542,11 +7542,11 @@ translate chinese strings:
 
     # game/city.rpy_L913_1
     old "Hopelessness"
-    new "绝望"
+    new "暗无天日"
 
     # game/city.rpy_L913_2
     old "Slow Death"
-    new "Slow Death"
+    new "衰老"
 
     # game/city.rpy_L913_3
     old "Suspense"
@@ -7566,27 +7566,27 @@ translate chinese strings:
 
     # game/city.rpy_L916_0
     old "Currently listening to Art of Silence - Uniq"
-    new "Currently listening to Art of Silence - Uniq"
+    new "正在收听：寂静之声 - Uniq"
 
     # game/city.rpy_L923_0
     old "Currently listening to Hopelessness - Sewerslvt"
-    new "Currently listening to Hopelessness - Sewerslvt"
+    new "正在收听：暗无天日 - Sewerslvt"
 
     # game/city.rpy_L930_0
     old "Currently listening to Slow Death - Sewerslvt"
-    new "Currently listening to Slow Death - Sewerslvt"
+    new "正在收听：衰老 - Sewerslvt"
 
     # game/city.rpy_L937_0
     old "Currently listening to Secrets - Michael Hildreth"
-    new "Currently listening to Secrets - Michael Hildreth"
+    new "正在收听：秘密 - Michael Hildreth"
 
     # game/city.rpy_L944_0
     old "Currently listening to Fire and Thunder - Cjbeards"
-    new "Currently listening to Fire and Thunder - Cjbeards"
+    new "正在收听：烈火惊雷 - Cjbeards"
 
     # game/city.rpy_L955_0
     old "Spooky Breathing"
-    new "Spooky Breathing"
+    new "幽灵吐息"
 
     # game/city.rpy_L955_1
     old "Cream's Baking music"
@@ -7602,7 +7602,7 @@ translate chinese strings:
 
     # game/city.rpy_L955_4
     old "Everything's Going Wrong"
-    new "Everything's Going Wrong"
+    new "乱成一锅"
 
     # game/city.rpy_L955_5
     old "<- Page 5"
@@ -7622,15 +7622,15 @@ translate chinese strings:
 
     # game/city.rpy_L972_0
     old "Currently listening to Mr. Kill Yourself - Sewerslvt"
-    new "Currently listening to Mr. Kill Yourself - Sewerslvt"
+    new "正在收听：自杀先生- Sewerslvt"
 
     # game/city.rpy_L979_0
     old "Currently listening to Bread - Lukrembo"
-    new "Currently listening to Bread - Lukrembo"
+    new "正在收听：面包 - Lukrembo"
 
     # game/city.rpy_L986_0
     old "Currently listening to Lips - Sewerslvt"
-    new "Currently listening to Lips - Sewerslvt"
+    new "正在收听：嘴唇 - Sewerslvt"
 
     # game/city.rpy_L997_0
     old "Rainy theme"
@@ -7722,11 +7722,11 @@ translate chinese strings:
 
     # game/city.rpy_L1418_1
     old "[playername] is what you’ll want to moan."
-    new "[playername] is what you’ll want to moan."
+    new "你娇喘的时候，就将喊出我[playername]的名字。"
 
     # game/city.rpy_L1418_2
     old "Names are fleeting, you can keep calling me kitten."
-    new "名字只是个代号罢了，但你可以一直叫我小猫~猫~。"
+    new "名字只是个代号罢了，说变就变。但你可以一直叫我小猫~猫~。"
 
     # game/city.rpy_L1438_0
     old "There are plenty of sexy ladies here. But partying ain't cheap, if I'm going to spend time here, I'll be buying drinks."
