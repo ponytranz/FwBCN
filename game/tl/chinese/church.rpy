@@ -4556,31 +4556,31 @@ translate chinese lorequeen_af8cc639:
 translate chinese lorequeen_f2a6272d:
 
     # mc "Alright, I’m leaving, bye-bye."
-    mc "Alright, I’m leaving, bye-bye."
+    mc "好了，我要走了，再见。"
 
 # game/church.rpy#L1442
 translate chinese lorequeen_2de2d8e0:
 
     # augusta "Ah- I was just kidding! Do come back!"
-    augusta "Ah- I was just kidding! Do come back!"
+    augusta "啊——我只是在开玩笑呀!块回来呀!"
 
 # game/church.rpy#L1446
 translate chinese lorequeen_f1623f7a:
 
     # augusta "Ah-ha, perfect! Here’s the regime I concocted for us last night."
-    augusta "Ah-ha, perfect! Here’s the regime I concocted for us last night."
+    augusta "啊哈,针不戳!这是我昨晚为咱们量身定制的政权。"
 
 # game/church.rpy#L1447
 translate chinese lorequeen_de8e6300:
 
     # "Regime?!"
-    "Regime?!"
+    "啥玩意儿？政权！？"
 
 # game/church.rpy#L1449
 translate chinese lorequeen_c11c844d:
 
     # augusta "I’d like to see you perform at least three more acts on a mare, and I’ll pay you 25 monies for each."
-    augusta "I’d like to see you perform at least three more acts on a mare, and I’ll pay you 25 monies for each."
+    augusta "我想看你至少再为渴望爱的雌驹工作三次，每次我付你25美元。"
 
 # game/church.rpy#L1452
 translate chinese lorequeen_47923f9d:
@@ -4592,7 +4592,7 @@ translate chinese lorequeen_47923f9d:
 translate chinese lorequeen_ac132de5:
 
     # augusta "That little sex train was a fun experiment! Let's try you on the girl next time."
-    augusta "That little sex train was a fun experiment! Let's try you on the girl next time."
+    augusta "这个性爱小实验真有意思。下次让咱们试试那个女孩。"
 
 # game/church.rpy#L1456
 translate chinese lorequeen_892e5fb1:
@@ -4610,7 +4610,7 @@ translate chinese lorequeen_e416d683:
 translate chinese lorequeen_c5c9c572:
 
     # augusta "But I bet you can do more than just that."
-    augusta "But I bet you can do more than just that."
+    augusta "但我打赌你能做的肯定不止这些。"
 
 # game/church.rpy#L1461
 translate chinese lorequeen_331b29ab:
@@ -4622,7 +4622,7 @@ translate chinese lorequeen_331b29ab:
 translate chinese lorequeen_471daa25:
 
     # mc "What do I get for participating in all of your little 'experiments'?"
-    mc "What do I get for participating in all of your little 'experiments'?"
+    mc "我参与了你们所有的小“实验”，老子的奖励呢?"
 
 # game/church.rpy#L1464
 translate chinese lorequeen_6fa62d0b:
@@ -4640,13 +4640,13 @@ translate chinese lorequeen_b7057d41:
 translate chinese lorequeen_150aff93:
 
     # augusta "As they say, the journey is the real reward! Ah-ha!"
-    augusta "As they say, the journey is the real reward! Ah-ha!"
+    augusta "正如他们所说，相比于目的地，旅程中的风景才是真正的奖励!啊哈，是吧!"
 
 # game/church.rpy#L1468
 translate chinese lorequeen_80e967c7:
 
     # mc "Fiiinee… But don’t expect my undying devotion to the cause."
-    mc "Fiiinee… But don’t expect my undying devotion to the cause."
+    mc "好...吧...但你可别指望我会永远投身于这个事业。"
 
 # game/church.rpy#L1471
 translate chinese lorequeen_f4c6cd29:

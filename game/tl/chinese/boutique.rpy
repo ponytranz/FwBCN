@@ -650,7 +650,7 @@ translate chinese rubymaidmenu1_b045f36a:
 translate chinese rubymaidmenu1_09cedbfe:
 
     # unknown "Ohoho, you didn't know? Let me guess, your dick just followed the trail of moans and your brain didn't catch on?"
-    unknown "哦，你不知道吗?让我猜猜，你的老二只是跟着呻吟的痕迹而你的大脑却不能思考?"
+    unknown "哦，你不知道吗?让我猜猜，你的肉棒只是跟着呻吟的痕迹而你的大脑却不能思考?"
 
 # game/boutique.rpy#L188
 translate chinese rubymaidmenu1_88b622f5:
@@ -806,7 +806,7 @@ translate chinese rubymaidmenu1_afde054b:
 translate chinese rubymaidmenu1_b1a77313:
 
     # "Damnit, now my penis is starting to stiffen slightly. I don’t know what this girl’s trying to do, but she has managed to beguile me."
-    "该死，现在我的老二开始有点硬了。我不知道这女孩想干什么，但她成功地骗过了我。"
+    "该死，现在我的肉棒开始有点硬了。我不知道这女孩想干什么，但她成功地骗过了我。"
 
 # game/boutique.rpy#L234
 translate chinese rubymaidmenu1_dc772513:
@@ -3272,7 +3272,7 @@ translate chinese rubyphotoshoot2_0c1fe249:
 translate chinese rubyphotoshoot2_e2c34572:
 
     # "I definitely wasn’t wrong about Ruby having sexual experience, her motions and technique is exquisite. Rather than a sloppy fuck it feels like her pussy is expertly massaging my shaft in smooth, passionate motions."
-    "我现在更加确信Ruby有过性爱的经历，她的动作精巧而熟练，那可不是一个新手能够做到的程度。与其说是我在引导她性爱，不如说是她在用她性感的阴唇在平缓与激烈的稳态之中按摩着我的身体"
+    "我现在更加确信Ruby有过性爱的经历，她的动作精巧而熟练，那可不是一个新手能够做到的程度。与其说是我在引导她性爱，不如说是她在用她性感的阴唇在平缓与激烈的稳态之中按摩着我的身体。"
 
 # game/boutique.rpy#L953
 translate chinese rubyphotoshoot2_e3a31b19:
@@ -3296,13 +3296,13 @@ translate chinese rubyphotoshoot2_bc3d3436:
 translate chinese rubyphotoshoot2_b3131537:
 
     # mc "I saw everything, I watched you use your vibrator. I could see your legs were spread wide open."
-    mc "所有东西，我看到了你的一切。比如你呈W形张开的双腿，还有那吱吱作响的震动棒"
+    mc "所有东西，我看到了你的一切。比如你呈W形张开的双腿，还有那吱吱作响的震动棒。"
 
 # game/boutique.rpy#L967
 translate chinese rubyphotoshoot2_3db7de10:
 
     # "She speeds up slightly, these thoughts seemingly getting her even more excited."
-    "听到这些话她稍微加快了点速度，似乎这些行为和想法让她变得更加兴奋了"
+    "听到这些话她稍微加快了点速度，似乎这些行为和想法让她变得更加兴奋了。"
 
 # game/boutique.rpy#L970
 translate chinese rubyphotoshoot2_0330785f:
@@ -3314,7 +3314,7 @@ translate chinese rubyphotoshoot2_0330785f:
 translate chinese rubyphotoshoot2_dd0abd63:
 
     # mc "Yeah, I had an erection while watching."
-    mc "是的没错，我看到这些东西阴茎就勃起来像一座高楼一般挺立"
+    mc "是的没错，我看到这些东西阴茎就勃起来像一座高楼一般挺立。"
 
 # game/boutique.rpy#L976
 translate chinese rubyphotoshoot2_812599a2:

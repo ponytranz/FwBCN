@@ -4712,7 +4712,7 @@ translate chinese ppclsex_3b16556b:
 translate chinese ppclsex_54e4da7b:
 
     # "Is she talking to me, my dick, or both of us simultaneously?"
-    "她是在对我讲话，还是我的老二，抑或是我们两个？"
+    "她是在对我讲话，还是我的肉棒，抑或是我们两个？"
 
 # game/dawn.rpy#L1389
 translate chinese ppclsex_68e0d763:

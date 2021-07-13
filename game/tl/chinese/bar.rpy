@@ -584,13 +584,13 @@ translate chinese barvisit1choice1_2f782a44:
 translate chinese barvisit1choice1_e29a0155:
 
     # riku "Honey, now that’s one hot piece of ass. If the two of us were ever alone and drunk enough, I reckon I’d go for it."
-    riku "Honey，这位更是重量级。如果哪天就咱俩还喝了个烂醉，那我说不定会向她表白。"
+    riku "Honey，这位可是相当火辣。如果哪天就咱俩还喝了个烂醉，那我说不定会向她表白。"
 
 # game/bar.rpy#L179
 translate chinese barvisit1choice1_8b79e7a6:
 
     # riku "Unfortunately I don’t think she’s into mares, oh well."
-    riku "不幸的是，我可不觉得她会同意搞百合，我勒个去。"
+    riku "不过很可惜，我可不觉得她会同意搞百合，哦豁。"
 
 # game/bar.rpy#L181
 translate chinese barvisit1choice1_c9fa61cc:
@@ -1148,7 +1148,7 @@ translate chinese barvisit1choice1_f59490c0:
 translate chinese barvisit1choice1_5238540c:
 
     # riku "Serving drinks is really simple, just grab a glass pop it under this tap and turn the knob. Take the money, into the register, return the change, and job’s a good’un."
-    riku "提供饮料真的很简单，只要拿起一个杯子放在这个龙头下，然后转动旋钮。收下钱，到收银台去，把零钱找给他，这真是一份好工作。"
+    riku "提供酒水饮料真的很简单，只要拿起一个杯子放在这个龙头下，然后转动旋钮。收钱，进收银台，找零，这工作就算做好了。"
 
 # game/bar.rpy#L325
 translate chinese barvisit1choice1_a2020dc5:
@@ -1166,7 +1166,7 @@ translate chinese barvisit1choice1_49fd64a8:
 translate chinese barvisit1choice1_75ca8cd9:
 
     # riku "It can get busier lately, we’re the only bar this side of Arcadia. So, there’s another worker for the evening shift. You’re just here extra as a favour, so don’t worry too much, we’ll look after you."
-    riku "稍后可能会更忙，我们是Arcadia这边唯一的酒吧。因此，晚班会有另外一个工人。你只是在这里额外帮忙，所以不要太担心，我们会照顾好你。"
+    riku "稍后可能会更忙，我们是Arcadia这边唯一的酒吧。不过还有一个员工上晚班。你只是在这里额外帮忙，所以别担心，我们会照顾好你。"
 
 # game/bar.rpy#L329
 translate chinese barvisit1choice1_afab430d:
@@ -1178,37 +1178,37 @@ translate chinese barvisit1choice1_afab430d:
 translate chinese barvisit1choice1_b38bc2a7:
 
     # riku "Honestly yeah, if you’re down here that means I can be in the office doing some boring shit, rather than having to stay up late into the evening to do it."
-    riku "老实说，是的，如果你在下面，这意味着我可以在办公室里做一些无聊的事情，而不是必须熬夜去做。"
+    riku "说实话，如果你在下面帮忙，这意味着我现在可以在办公室里做一些无聊的事情，而不是必须熬夜做。"
 
 # game/bar.rpy#L332
 translate chinese barvisit1choice1_5f442326:
 
     # riku "I guess in a literal sense you’re taking a large workload off my back; I definitely appreciate that."
-    riku "我想从字面上看，你为我减轻了肩上很大的工作量；我绝对感激。"
+    riku "字面意思，你为我减轻了很大的工作量；我非常感激。"
 
 # game/bar.rpy#L333
 translate chinese barvisit1choice1_8ba9551c:
 
     # mc "Alright, I think I can handle things around here, thanks for showing me."
-    mc "好吧，我想我可以解决这边的事情，谢谢你告诉我。"
+    mc "好吧，我想我可以应付这边的事，谢谢你告诉我。"
 
 # game/bar.rpy#L335
 translate chinese barvisit1choice1_0884f4e1:
 
     # riku "Sweet, I’ll be in the back, gimme a buzz if you need me for anything at all."
-    riku "很好，我就在后面，如果你需要我做什么，给我打个电话。"
+    riku "很好，我就在楼上，如果你需要帮忙，给我打个电话。"
 
 # game/bar.rpy#L337
 translate chinese barvisit1choice1_6dc20e45:
 
     # "She heads off and I get ready to do the best job possible."
-    "她离开了，不过我也做好了把活干好的准备。"
+    "她离开了，不过我也做好准备把活干好。"
 
 # game/bar.rpy#L338
 translate chinese barvisit1choice1_441cf53e:
 
     # "Of all times but now I feel oddly naked standing behind this counter. I think I know why too."
-    "虽然我从头到尾就没穿过衣服，但这会儿站在柜台后头还裸着，我就感觉有点怪怪的了。不过原因是啥我倒是明白。"
+    "虽然我到这后就没穿过衣服，但现在站在柜台后面，我感觉有点怪怪的。不过原因是啥我倒是明白。"
 
 # game/bar.rpy#L339
 translate chinese barvisit1choice1_8bce6e74:
@@ -5510,7 +5510,7 @@ translate chinese barvisit2_80d97850:
 translate chinese barvisit2_d805b298:
 
     # riku "How about waking up bleary eyed and training immediately for hours on end, until you’re so fatigued you can barely move."
-    riku "为什么不睡眼惺忪地醒来，然后马上连续训练几个小时，直到筋疲力尽。"
+    riku "那为什么不睡眼惺忪地醒来，然后马上连续训练几个小时，直到筋疲力尽呢。"
 
 # game/bar.rpy#L1518
 translate chinese barvisit2_306cfe03:
@@ -5552,7 +5552,7 @@ translate chinese barvisit2_c2f59149:
 translate chinese barvisit2_517f5a86:
 
     # riku "And then, my dream! I achieved it! I got to join a team called the Lightning Bolts, it’s the best team in Arcadia."
-    riku "后来，我的梦想!实现了!我加入了一个叫Lightning Bolts的团队，是全Arcadia最好的团队。"
+    riku "后来，我的梦想!实现了!我加入了一个叫雷霆天马的团队，是全Arcadia最好的团队。"
 
 # game/bar.rpy#L1529
 translate chinese barvisit2_8643bafd:
@@ -5738,7 +5738,7 @@ translate chinese barvisit2_a1a47bdd:
 translate chinese barvisit2_2dcb4e46:
 
     # riku "If it wasn’t for the top health treatment I got as a member of the Lightning Bolts, along with magic, the damage might have been permanent too."
-    riku "如果不是作为Lightning Bolts的一员，我得到了顶级的治疗和魔法康复，这种受伤可能也是永久性的。"
+    riku "如果不是作为雷霆天马的一员，并因此得到了顶级的治疗和魔法康复，这种受伤可能也是永久性的。"
 
 # game/bar.rpy#L1570
 translate chinese barvisit2_6daefda4:
@@ -5756,7 +5756,7 @@ translate chinese barvisit2_8fbf84e6:
 translate chinese barvisit2_67c72c5e:
 
     # riku "It was like all that passion had just dried up, and I was suddenly terrified at the idea of returning to the Lightning Bolts academy..."
-    riku "就好像所有的激情都消失了，我突然害怕回到Lightning Bolts，害怕有这个想法……"
+    riku "就好像所有的激情都消失了，我突然害怕回到雷霆天马，害怕有这个想法……"
 
 # game/bar.rpy#L1574
 translate chinese barvisit2_b91cb1a9:
@@ -5786,7 +5786,7 @@ translate chinese barvisit2_8c91a328:
 translate chinese barvisit2_8fe06a9b:
 
     # riku "But it’s more than surviving the crash… Even before then, I wasn’t really ‘alive’ while I was training."
-    riku "但这并不仅仅是因为在坠机事件中幸存下来……在那之前，我在训练时也不是真正的“活着”。"
+    riku "但这并不仅仅是因为在坠落事件中幸存下来……在那之前，我在训练时也不是真正的“活着”。"
 
 # game/bar.rpy#L1580
 translate chinese barvisit2_adcfa78b:
@@ -5828,7 +5828,7 @@ translate chinese barvisit2_0fa6116a:
 translate chinese barvisit2_56b9fa27:
 
     # riku "I’m not saying you should never challenge yourself, but I think in this life where we’re all going to die and be forgotten anyway… Might as well try to maximise your personal enjoyment, booze, games, gym, heck yeah."
-    riku "我不是说你永远都不应该挑战自己，但我认为在我们这一生中，无论怎样我们都会死去，逐渐被遗忘……“马生得意须尽欢”不妨好好享受生活，酒、游戏、健身什么的。"
+    riku "我不是说你永远都不应该挑战自己，但我认为在我们这一生中，无论怎样我们都会死去，逐渐被遗忘……“马生得意须尽欢”，不妨好好享受生活，酒、游戏、健身什么的。"
 
 # game/bar.rpy#L1591
 translate chinese barvisit2_f4316b11:
@@ -5948,7 +5948,7 @@ translate chinese barvisit2_6434066f:
 translate chinese barvisit2_51c93b09:
 
     # riku "That’s pretty hot, what do you mean specifically?"
-    riku "真性感，具体是什么意思?"
+    riku "那可真是厉害，具体是什么意思?"
 
 # game/bar.rpy#L1621
 translate chinese barvisit2_3f9ee7d5:
@@ -5990,7 +5990,7 @@ translate chinese barvisit2_2f56d5e0:
 translate chinese barvisit2_75b2270d:
 
     # "It was hard to tell when she was dusting, but upon closer inspection there’s definitely a wet patch on the fabric."
-    "很难记得她是什么时候开始打扫的，但仔细观察后能看见裙子内侧上有一块湿斑。"
+    "在她打扫时是看不出来的，但仔细观察后能看见袜子上有一块湿斑。"
 
 # game/bar.rpy#L1635
 translate chinese barvisit2_7b854d68:
@@ -6050,7 +6050,7 @@ translate chinese barvisit2_f9e2a48c:
 translate chinese barvisit2_ea169c17:
 
     # mc "Oho, you’re giving me permission? I thought you were the slave."
-    mc "哦？你是在命令我吗?我以为你是奴隶。"
+    mc "哦？你是在命令我吗?我想着你才是奴隶呢。"
 
 # game/bar.rpy#L1645
 translate chinese barvisit2_1a9301ea:
@@ -6152,7 +6152,7 @@ translate chinese barvisit2_b8567147:
 translate chinese barvisit2_bd11f3e6:
 
     # mc "I was doing you a favour by bringing you to the closest place to the boutique, so you wouldn’t have to walk far in your outfit."
-    mc "我把你带到离精品店最近的地方是在帮你的忙，这样你就不用穿着这身衣服到处走来走去了。"
+    mc "我就帮你一下，把你带到离精品店最近的地方，这样你就不用穿着这身衣服到处走来走去了。"
 
 # game/bar.rpy#L1669
 translate chinese barvisit2_797e548d:
@@ -6452,7 +6452,7 @@ translate chinese rikumaidblowjob_1d959613:
 translate chinese rikumaidblowjob_b34c9ae8:
 
     # riku "How long until you’re ready to go again?"
-    riku "距离你走还要多久？"
+    riku "距离你贤者时间结束还要多久？"
 
 # game/bar.rpy#L1754
 translate chinese rikumaidblowjob_bb3140ac:
@@ -6620,7 +6620,7 @@ translate chinese rikumaidblowjob_50cd5c4e:
 translate chinese rikumaidblowjob_522a884c:
 
     # "Honesty is the best policy here, lies will only cause headaches later on."
-    "在这里，开诚布公是最好的选择，谎言只会在以后造成头痛。"
+    "在这里，开诚布公是最好的选择，谎言只会在事后造成头痛。"
 
 # game/bar.rpy#L1793
 translate chinese rikumaidblowjob_eefe15dd:
@@ -6668,67 +6668,67 @@ translate chinese rikumaidblowjob_c391d02b:
 translate chinese rikumaidblowjob_d40afbfd:
 
     # riku "Oh, sorry."
-    riku "Oh, sorry."
+    riku "哦，真是抱歉。"
 
 # game/bar.rpy#L1807
 translate chinese rikumaidblowjob_a0218aa5:
 
     # riku "Oh really?"
-    riku "Oh really?"
+    riku "哦，真的？"
 
 # game/bar.rpy#L1809
 translate chinese rikumaidblowjob_4311e6d7:
 
     # riku "That makes me feel pretty good, but also kinda weird since me and Moxie are close."
-    riku "That makes me feel pretty good, but also kinda weird since me and Moxie are close."
+    riku "这让我感觉不错，但我和Moxie很亲密，这就显得有点奇怪了。"
 
 # game/bar.rpy#L1810
 translate chinese rikumaidblowjob_8a52bd76:
 
     # riku "Is sharing a fuck buddy weird? I don’t know."
-    riku "Is sharing a fuck buddy weird? I don’t know."
+    riku "分享同一个炮友是不是很奇怪?我不知道。"
 
 # game/bar.rpy#L1811
 translate chinese rikumaidblowjob_7ac0973c:
 
     # mc "It really depends on the context, if we were to have a threesome that'd certainly normalise it."
-    mc "It really depends on the context, if we were to have a threesome that'd certainly normalise it."
+    mc "这就得看情况了，如果我们来个3p那肯定能让我们的关系正常化。"
 
 # game/bar.rpy#L1813
 translate chinese rikumaidblowjob_0f2ccc09:
 
     # riku "A threesome? I’ve never done one of those before. Ohh gosh, I don't think I could either."
-    riku "A threesome? I’ve never done one of those before. Ohh gosh, I don't think I could either."
+    riku "3p？我还从来没这样干过呢。哦，老天，我想我可能做不到。"
 
 # game/bar.rpy#L1815
 translate chinese rikumaidblowjob_b0801940:
 
     # riku "I’m still new to this weird sex culture, I’ve mostly been closeted because of my background."
-    riku "I’m still new to this weird sex culture, I’ve mostly been closeted because of my background."
+    riku "由于我的职业背景，我大部分时间都是用来训练。所以我在性爱play方面还是个雏儿呢。"
 
 # game/bar.rpy#L1817
 translate chinese rikumaidblowjob_69a6d3b9:
 
     # riku "I know I was pissed at my ex-fuck buddy, but I guess I don’t mind it with you, as long as we establish the relationship early."
-    riku "I know I was pissed at my ex-fuck buddy, but I guess I don’t mind it with you, as long as we establish the relationship early."
+    riku "我很清楚我还在生我前炮友的气，但只要能和你在一起，我想我不会介意咱们仨一起来的。"
 
 # game/bar.rpy#L1818
 translate chinese rikumaidblowjob_88bd9cc2:
 
     # mc "Agreed, communication is always vital."
-    mc "Agreed, communication is always vital."
+    mc "这不就对了吗，有问题商量商量都会解决的。"
 
 # game/bar.rpy#L1820
 translate chinese rikumaidblowjob_4e09d5dd:
 
     # riku "Yeah, I would prefer to have you to myself. But that preference isn’t so overwhelmingly strong that I’d turn down a fun time, you know?"
-    riku "Yeah, I would prefer to have you to myself. But that preference isn’t so overwhelmingly strong that I’d turn down a fun time, you know?"
+    riku "但，我更希望我可以独自享用你。但这种想法并没有强烈到让我去拒绝一次有趣的尝试，是吧?"
 
 # game/bar.rpy#L1821
 translate chinese rikumaidblowjob_d4db00f9:
 
     # mc "I think so, I wouldn’t mind if you slept with others too."
-    mc "I think so, I wouldn’t mind if you slept with others too."
+    mc "我想是的，我不介意你也和别人上床。"
 
 # game/bar.rpy#L1823
 translate chinese rikumaidblowjob_262b5192:

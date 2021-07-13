@@ -372,7 +372,7 @@ translate chinese strings:
 
     # game/y-screens.rpy_L1599_0
     old "{color=#00000000}I should buy a dress for {p}Riku from the boutique.{/color}"
-    new "{color=#00000000}我应该从精品店为Riku买件裙子。 {p}{/color}"
+    new "{color=#00000000}我应该从精品店为Riku买件裙子。{/color}"
 
     # game/y-screens.rpy_L1613_0
     old "{color=#00000000}I should help Ruby at {p}her boutique.{/color}"
@@ -388,11 +388,11 @@ translate chinese strings:
 
     # game/y-screens.rpy_L1633_0
     old "{color=#00000000}I should visit the spa at {p}least once, then visit the {p}music studio.{/color}"
-    new "{color=#00000000}我应该先去一次水疗馆，然后拜访音乐工作室。 {p} {p}{/color}"
+    new "{color=#00000000}我应该先去一次水疗馆，{p} 然后拜访音乐工作室。 {/color}"
 
     # game/y-screens.rpy_L1637_0
     old "{color=#00000000}It'll cost 150 monies {p}to fix her laptop.{/color}"
-    new "{color=#00000000}维修她的笔记本会花费150monies。  {p}{/color}"
+    new "{color=#00000000}维修她的笔记本会花费150块。{/color}"
 
     # game/y-screens.rpy_L1651_0
     old "{color=#00000000}You can meet four unique girls {p}at the bar or nightclub{p} in the evening.{/color}"

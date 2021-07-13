@@ -1088,19 +1088,19 @@ translate chinese cforest_1b82a6dc:
 translate chinese cforest_14fe0bae:
 
     # morrigan "Call me mistress, I like the sound of that."
-    morrigan "称呼我为女王，我喜欢听到那个"
+    morrigan "称呼我为女王，我喜欢听到那个。"
 
 # game/finalroute.rpy#L545
 translate chinese cforest_10cb4d4e:
 
     # aurora "Yes mistress, anything for you mistress."
-    aurora "当然没有问题我的女王，我愿意为您做任何事"
+    aurora "当然没有问题我的女王，我愿意为您做任何事。"
 
 # game/finalroute.rpy#L549
 translate chinese cforest_c7db5e23:
 
     # selene "Drain all my power dry mistress, I’m nothing but a worthless toy for you."
-    selene "吸干我所有的力量我亲爱的女王陛下，对您来说我只是一个毫无价值的玩具"
+    selene "吸干我所有的力量我亲爱的女王陛下，对您来说我只是一个毫无价值的玩具。"
 
 # game/finalroute.rpy#L554
 translate chinese cforest_bf6ca3ce:
@@ -1334,7 +1334,7 @@ translate chinese clibrary_5ca969df:
 translate chinese clibrary_bc484c56:
 
     # mc "That's good, I was just thinking about you too, how about I help you out there?"
-    mc "那可再好不过了，我刚刚也想的是你，不如我来助你一臂之力"
+    mc "那可再好不过了，我刚刚也想的是你，不如我来助你一臂之力？"
 
 # game/finalroute.rpy#L637
 translate chinese clibrary_af01a111:
@@ -1412,163 +1412,163 @@ translate chinese clibrary_6663e29d:
 translate chinese clibrary_490d7aae:
 
     # "But I’m not interested in being playful right now. With an admonishing spank on her ass, she yelps and I start to pound her pussy."
-    "But I’m not interested in being playful right now. With an admonishing spank on her ass, she yelps and I start to pound her pussy."
+    "但我现在不想玩闹.劝告般的拍打了她的屁股,在听到她的惊叫后开始激烈的顶撞她的小穴."
 
 # game/finalroute.rpy#L659
 translate chinese clibrary_62eca4fe:
 
     # lily "Hahh! S-So eager master! I hope my t-taaaaahhh, ahhh!"
-    lily "Hahh! S-So eager master! I hope my t-taaaaahhh, ahhh!"
+    lily "哈哈!你可真是个着急的主!我希望我的啊哈哈哈哈,啊呃!"
 
 # game/finalroute.rpy#L660
 translate chinese clibrary_30cf2121:
 
     # "The pleasure overrides her ability to talk, any attempt at words is replaced with a lustful moan."
-    "The pleasure overrides her ability to talk, any attempt at words is replaced with a lustful moan."
+    "这种快乐取代了她的言语能力,任何想说的话都变成了贪婪的呻吟."
 
 # game/finalroute.rpy#L661
 translate chinese clibrary_b80de4dc:
 
     # lily "Gaahh, M-Mahhhstarr is so roughhh todayyyhhh!"
-    lily "Gaahh, M-Mahhhstarr is so roughhh todayyyhhh!"
+    lily "嗝哈哈,你今天可真粗鲁哈!"
 
 # game/finalroute.rpy#L662
 translate chinese clibrary_cb4f1dfb:
 
     # "I just need to cum in her to stop this brainwashing, and as usual Lily's tight pussy easily brings me close."
-    "I just need to cum in her to stop this brainwashing, and as usual Lily's tight pussy easily brings me close."
+    "我只需射在她里面来解除洗脑诅咒,Lily紧致的小穴像往常一样很容易就让我快射了."
 
 # game/finalroute.rpy#L663
 translate chinese clibrary_580854f3:
 
     # "My cock grows tighter and harder as it throbs in her clenching pussy."
-    "My cock grows tighter and harder as it throbs in her clenching pussy."
+    "我的肉棒在她小穴有规律的紧缩下变得更硬更紧绷了."
 
 # game/finalroute.rpy#L664
 translate chinese clibrary_3cd2b5b3:
 
     # "She’s been indulging in light orgasmic pleasure repeatedly during the entire session. Her squelching pussy is dripping with an overabundance of juices and lust."
-    "She’s been indulging in light orgasmic pleasure repeatedly during the entire session. Her squelching pussy is dripping with an overabundance of juices and lust."
+    "在整个过程中她一直沉浸在轻微的高潮快感中.她滋滋作响的外阴正在释放着过多的汁液和欲望."
 
 # game/finalroute.rpy#L666
 translate chinese clibrary_90298718:
 
     # lily "Hahhh, you’re getting even harder! Y-You’re gonna make me come!"
-    lily "Hahhh, you’re getting even harder! Y-You’re gonna make me come!"
+    lily "哈啊,你下面甚至比以前更硬了!我快要去了!"
 
 # game/finalroute.rpy#L667
 translate chinese clibrary_234f8a41:
 
     # "Lily's pussy clenches around my member, rhythmically increasing the pleasure with each passing second."
-    "Lily's pussy clenches around my member, rhythmically increasing the pleasure with each passing second."
+    "Lily的小穴夹紧了我的弟弟,有节奏的增加着每分每秒的快乐"
 
 # game/finalroute.rpy#L668
 translate chinese clibrary_25faeacc:
 
     # "I grit my teeth and pull on her tail as a familiar feeling in my taint signals an impending orgasm."
-    "I grit my teeth and pull on her tail as a familiar feeling in my taint signals an impending orgasm."
+    "我咬紧牙关,拽着她的尾巴,我的身体里有一种熟悉的感觉,预示着即将到来的高潮."
 
 # game/finalroute.rpy#L673
 translate chinese clibrary_d3458e69:
 
     # "With a few last deep thrusts my cock finally releases its load deep into her vagina and womb."
-    "With a few last deep thrusts my cock finally releases its load deep into her vagina and womb."
+    "在最后的几次深度插入后我的肉棒终于将它的存货深入释放到了她的阴道和小穴中."
 
 # game/finalroute.rpy#L680
 translate chinese clibrary_ab1e4210:
 
     # lily "Kyaaaahhhh, I want you to breed me like the slut I am! Fill my belly with your cum!"
-    lily "Kyaaaahhhh, I want you to breed me like the slut I am! Fill my belly with your cum!"
+    lily "呃啊啊啊,我想让你把我当成荡妇来交配!用你的精液灌满我的小穴!"
 
 # game/finalroute.rpy#L681
 translate chinese clibrary_3d9d100c:
 
     # "Satisfied, I pull out and leave Lily panting on the counter as she continues to enjoy her longer orgasm."
-    "Satisfied, I pull out and leave Lily panting on the counter as she continues to enjoy her longer orgasm."
+    "我心满意足的拔了出来,把她留在柜台上来让她多享受一会儿高潮的快感."
 
 # game/finalroute.rpy#L683
 translate chinese clibrary_2020c58c:
 
     # lily "Haahh, haah, yes! So much thick cum, I loo…ve… eeehhh?"
-    lily "Haahh, haah, yes! So much thick cum, I loo…ve… eeehhh?"
+    lily "哈,啊!就是这样!如此多的粘稠精液!爱了,爱了!？"
 
 # game/finalroute.rpy#L684
 translate chinese clibrary_3b48d631:
 
     # "Almost immediately her green eyes return to a deep blue hue as Morrigan’s brainwashing curse is lifted."
-    "Almost immediately her green eyes return to a deep blue hue as Morrigan’s brainwashing curse is lifted."
+    "随着Morrigan的洗脑诅咒被解除,她的绿色眼睛几乎立刻就变回了原本的深蓝色."
 
 # game/finalroute.rpy#L685
 translate chinese clibrary_1565c3ca:
 
     # lily "O-Oh my goodness, I can’t… W-What? Morrigan! I need to stop Morrigan!"
-    lily "O-Oh my goodness, I can’t… W-What? Morrigan! I need to stop Morrigan!"
+    lily "啊,哦我的女神啊,我不能...？什 什么？Morrigan!对了我要赶紧阻止Morrigan!"
 
 # game/finalroute.rpy#L688
 translate chinese clibrary_bd65eb3c:
 
     # "Almost stumbling from the counter, her quivering thighs let out as she falls onto the floor."
-    "Almost stumbling from the counter, her quivering thighs let out as she falls onto the floor."
+    "她几乎从柜台上踉跄掉下,颤抖的双腿叉开,倒在了地板上."
 
 # game/finalroute.rpy#L692
 translate chinese clibrary_0202bb62:
 
     # lily "Uuuuu… What’s going on?"
-    lily "Uuuuu… What’s going on?"
+    lily "呃嗯嗯...发生什么了？"
 
 # game/finalroute.rpy#L695
 translate chinese clibrary_1560573e:
 
     # "I spend a few minutes explaining the situation as succinctly as possible, bringing Lily to a deep understanding."
-    "I spend a few minutes explaining the situation as succinctly as possible, bringing Lily to a deep understanding."
+    "我花了几分钟来尽可能简洁地解释了情况,让Lily明白了整件事的情况."
 
 # game/finalroute.rpy#L700
 translate chinese clibrary_809ef47c:
 
     # lily "I can't believe it… So Morrigan has also brainwashed the Royal Sisters like this too…? This is bad!"
-    lily "I can't believe it… So Morrigan has also brainwashed the Royal Sisters like this too…? This is bad!"
+    lily "我不敢相信...所以Morrigan也洗脑了皇家姐妹？这可不行!"
 
 # game/finalroute.rpy#L702
 translate chinese clibrary_49310c46:
 
     # lily "I can’t believe she’s using you and Moxie like that… A-And Penelope! I had no idea!"
-    lily "I can’t believe she’s using you and Moxie like that… A-And Penelope! I had no idea!"
+    lily "我不敢相信她像那样利用你和Moxie...甚至还有Penelope!我没有头绪!"
 
 # game/finalroute.rpy#L703
 translate chinese clibrary_01f894ca:
 
     # mc "'Using Moxie'? What do you mean Lily? Morrigan is Moxie, she told me that."
-    mc "'Using Moxie'? What do you mean Lily? Morrigan is Moxie, she told me that."
+    mc "'利用Moxie'？你的意思是什么，Lily? Morrigan 就是 Moxie, 她已经告诉过我了。"
 
 # game/finalroute.rpy#L705
 translate chinese clibrary_fd58eb72:
 
     # lily "No, no, you don’t understand! Morrigan is a Morphling, not only does she have the ability to shapeshift into any form, but she also has the ability to possess hosts…"
-    lily "No, no, you don’t understand! Morrigan is a Morphling, not only does she have the ability to shapeshift into any form, but she also has the ability to possess hosts…"
+    lily "不不,你不明白!Morrigan是一只幻形灵,不仅仅是因为她能变形成任何形态,而且还能掌控宿主..."
 
 # game/finalroute.rpy#L706
 translate chinese clibrary_791b8ff9:
 
     # mc "A host? She’s taken over Moxie’s body?"
-    mc "A host? She’s taken over Moxie’s body?"
+    mc "宿主？这么说她占据了Moxie的身体？"
 
 # game/finalroute.rpy#L708
 translate chinese clibrary_e601cba7:
 
     # lily "Yes, that’s why she’s such a dangerous foe, because she truly could be anyone… It makes sense that they decided to use Moxie though, because of her powers…"
-    lily "Yes, that’s why she’s such a dangerous foe, because she truly could be anyone… It makes sense that they decided to use Moxie though, because of her powers…"
+    lily "是的,这也是为什么她是如此危险的敌人,因为她真真切切的能变成任何马...这也说得通她为什么选择利用Moxie,因为她拥有的力量..."
 
 # game/finalroute.rpy#L709
 translate chinese clibrary_57149521:
 
     # lily "It’s most likely that Morrigan and Penelope groomed and used Moxie’s special abilities to summon you, and then used you as a pawn…"
-    lily "It’s most likely that Morrigan and Penelope groomed and used Moxie’s special abilities to summon you, and then used you as a pawn…"
+    lily "很有可能Morrigan和Penelope梳理并利用Moxie的特殊能力来召唤了你,准备把你当成卒子来使唤..."
 
 # game/finalroute.rpy#L710
 translate chinese clibrary_52763636:
 
     # mc "Ahh… So… Moxie is a real person? The Moxie I know?"
-    mc "Ahh… So… Moxie is a real person? The Moxie I know?"
+    mc "啊…所以…Moxie是个真实的人？是我所认识的那位Moxie？"
 
 # game/finalroute.rpy#L712
 translate chinese clibrary_b6d9b746:
@@ -1754,7 +1754,7 @@ translate chinese cfarm_02e34397:
 translate chinese cfarm_f2593b9f:
 
     # mc "Thank you Blossom."
-    mc "Thank you Blossom."
+    mc "谢谢你 Blossom。"
 
 # game/finalroute.rpy#L770
 translate chinese cfarm_81c7058e:

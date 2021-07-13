@@ -704,43 +704,43 @@ translate chinese farmvisit1_82bfc12f:
 translate chinese farmvisit1_739901f5:
 
     # honeycrisp "Alright stud, we’re going to move the ladder ninety degrees and pick the next quart of the tree dry. If you ever fill one of these baskets, I’ll head back to the barn, empty it, then come back."
-    honeycrisp "Alright stud, we’re going to move the ladder ninety degrees and pick the next quart of the tree dry. If you ever fill one of these baskets, I’ll head back to the barn, empty it, then come back."
+    honeycrisp "好吧，伙计，我们要把梯子移动20度并采光下一个夸脱（美国容量单位）的树。如果你有填满了这些篮子中的一个，我会回到谷仓，倒空篮子，然后回去。"
 
 # game/farm.rpy#L271
 translate chinese farmvisit1_c6ad974f:
 
     # "Stud? Isn't that what you call the stallion that fucks all the mares in the farm?"
-    "Stud? Isn't that what you call the stallion that fucks all the mares in the farm?"
+    "伙计？那不就是你所说的那种在农场操了所有雌驹的种马吗？"
 
 # game/farm.rpy#L272
 translate chinese farmvisit1_4e668a87:
 
     # "I could feel my cheeks get a little hot when she said that."
-    "I could feel my cheeks get a little hot when she said that."
+    "当她那么说时，我能感觉到我的脸蛋有点热。"
 
 # game/farm.rpy#L274
 translate chinese farmvisit1_7dfe9a64:
 
     # mc "You got it boss! I’ll have this tree done in no time."
-    mc "You got it boss! I’ll have this tree done in no time."
+    mc "你做到了，老大！我会很快做掉这棵树。"
 
 # game/farm.rpy#L276
 translate chinese farmvisit1_4cd283e9:
 
     # honeycrisp "Y’all not bad to be honest, Penelope done good finding a physically fit man like you to help a gal out."
-    honeycrisp "Y’all not bad to be honest, Penelope done good finding a physically fit man like you to help a gal out."
+    honeycrisp "说实话你干的不错,Penelope找到了个像你这样身强体壮的的男子汉可给我帮了个大忙."
 
 # game/farm.rpy#L277
 translate chinese farmvisit1_288fc78f:
 
     # mc "Aha, you’re flattering me. I’m simply happy to help, I need to earn my pay to stay."
-    mc "Aha, you’re flattering me. I’m simply happy to help, I need to earn my pay to stay."
+    mc "啊哈,过奖了.我只是很乐意帮忙,我需要攒钱才能稳定下来."
 
 # game/farm.rpy#L278
 translate chinese farmvisit1_2d3e7d84:
 
     # honeycrisp "You’ll earn more than just pay at this rate!"
-    honeycrisp "You’ll earn more than just pay at this rate!"
+    honeycrisp "照你这个速度,你攒到的东西可不止钱啊!"
 
 # game/farm.rpy#L279
 translate chinese farmvisit1_e806f998:
@@ -752,25 +752,25 @@ translate chinese farmvisit1_e806f998:
 translate chinese farmvisit1_30c4c47c:
 
     # "I’m finding Honeycrisp’s up and at ‘em, get what you want attitude endearing."
-    "I’m finding Honeycrisp’s up and at ‘em, get what you want attitude endearing."
+    "我发现Honeycrisp好像有点性奋了,看来她以她来想得到她想要的了."
 
 # game/farm.rpy#L281
 translate chinese farmvisit1_c3a2d885:
 
     # "She laughs to herself as she scoops up a full apple basket in one arm and takes it away. Her arm strength must be insane to do that, these baskets would be heavy for me with both arms."
-    "She laughs to herself as she scoops up a full apple basket in one arm and takes it away. Her arm strength must be insane to do that, these baskets would be heavy for me with both arms."
+    "当她用一只手捧起满满一篮子苹果时,她自己笑了起来.她的力气一定大的惊人,看起来我用双手拿这些篮子也要费不少劲."
 
 # game/farm.rpy#L283
 translate chinese farmvisit1_c5f46596:
 
     # honeycrisp "Well, I'll be right back, keep at it stud."
-    honeycrisp "Well, I'll be right back, keep at it stud."
+    honeycrisp "嗯,我马上回来,继续努力."
 
 # game/farm.rpy#L285
 translate chinese farmvisit1_d93cd20d:
 
     # "Okay, with her returning the basket to the barn, I have half this tree left."
-    "Okay, with her returning the basket to the barn, I have half this tree left."
+    "好吧,她把篮子放回谷仓后,这颗树只剩一半的苹果待摘了."
 
 # game/farm.rpy#L288
 translate chinese farmvisit1_cc39135a:
@@ -794,19 +794,19 @@ translate chinese farmvisit1_41087107:
 translate chinese farmvisit1_b84701f1:
 
     # "Oh no, I’m going to be here forever and I’m already sweating after ten minutes."
-    "Oh no, I’m going to be here forever and I’m already sweating after ten minutes."
+    "哦,不看起来我要一辈子都留在这干活了,而且我才仅仅干了10分钟就已经汗流浃背了."
 
 # game/farm.rpy#L294
 translate chinese farmvisit1_8187f087:
 
     # "Honeycrisp returns and pops the basket down, it took her a surprisingly long time to get the basket all the way there and back, I’ve nearly filled up the next basket."
-    "Honeycrisp returns and pops the basket down, it took her a surprisingly long time to get the basket all the way there and back, I’ve nearly filled up the next basket."
+    "Honeycrisp回来并把篮子放了下来.对于放篮子来说她花了过长的时间,我几乎把下一个篮子都装满了."
 
 # game/farm.rpy#L295
 translate chinese farmvisit1_6427f59d:
 
     # honeycrisp "With the two of us working through this together, it’ll take no time at all! Usually I carry the baskets back and forth myself, so it takes twice as long."
-    honeycrisp "With the two of us working through this together, it’ll take no time at all! Usually I carry the baskets back and forth myself, so it takes twice as long."
+    honeycrisp "只要我俩齐心协力就不会花太长时间的,通常我只能自己把篮子搬来搬去,所以要花两倍时间."
 
 # game/farm.rpy#L297
 translate chinese farmvisit1_8eea5f59:
@@ -818,97 +818,97 @@ translate chinese farmvisit1_8eea5f59:
 translate chinese farmvisit1_479d4904:
 
     # "Honeycrisp bounces and pumps her fist in the air proudly. I could feel her infectious pride and energy fill me up."
-    "Honeycrisp bounces and pumps her fist in the air proudly. I could feel her infectious pride and energy fill me up."
+    "Honeycrisp自豪的把她的拳头在空中挥舞着.我能感到她那富有感染力的骄傲和活力让我振奋了起来."
 
 # game/farm.rpy#L300
 translate chinese farmvisit1_37b716f1:
 
     # honeycrisp "Heck yeah, that’s the spirit!"
-    honeycrisp "Heck yeah, that’s the spirit!"
+    honeycrisp "好!很有精神!!!"
 
 # game/farm.rpy#L302
 translate chinese farmvisit1_437f2831:
 
     # honeycrisp "I’ve missed having support like this, keep it up sugar!"
-    honeycrisp "I’ve missed having support like this, keep it up sugar!"
+    honeycrisp "我很怀念有这样的支持,继续加油,甜心!"
 
 # game/farm.rpy#L304
 translate chinese farmvisit1_ab7ac305:
 
     # "She takes the next basket and heads off grinning to herself. After seeing her earnest smile, I feel more motivated now than when I had started."
-    "She takes the next basket and heads off grinning to herself. After seeing her earnest smile, I feel more motivated now than when I had started."
+    "她拿走了另一个篮子,笑着走开了.看到她那真诚的笑容,我感觉我比刚开始时更有精神了!"
 
 # game/farm.rpy#L305
 translate chinese farmvisit1_0c2d73af:
 
     # "It’s hard to believe she has been running this entire farm all by herself with that injury."
-    "It’s hard to believe she has been running this entire farm all by herself with that injury."
+    "很难相信她受了伤还能独自经营整个农场."
 
 # game/farm.rpy#L307
 translate chinese farmvisit1_3765b953:
 
     # "I move the ladder to the next tree and keep filling basket after basket, I can feel myself getting faster as my movements become muscle memory."
-    "I move the ladder to the next tree and keep filling basket after basket, I can feel myself getting faster as my movements become muscle memory."
+    "我不断的把梯子挪到下一棵树上,装满一个又一个篮子,感觉都要形成肌肉记忆了,干起来越来越顺手."
 
 # game/farm.rpy#L310
 translate chinese farmvisit1_407ee1f9:
 
     # "Even under the sweltering sun the shade from the apple trees prevent overheating."
-    "Even under the sweltering sun the shade from the apple trees prevent overheating."
+    "即使是在炎炎烈日下,树荫也能些许的起防晒作用."
 
 # game/farm.rpy#L320
 translate chinese farmvisit1_32bf0b92:
 
     # "Onto the next tree, and the next, and the next. It’s menial work, but with each filled basket I look forward to Honey returning and delivering another motivational quip."
-    "Onto the next tree, and the next, and the next. It’s menial work, but with each filled basket I look forward to Honey returning and delivering another motivational quip."
+    "一颗一颗又一颗,我开始感到这工作是如此的繁琐.但我期待着Honey回来.给我另一个激励我的甜言蜜语."
 
 # game/farm.rpy#L322
 translate chinese farmvisit1_409eb986:
 
     # honeycrisp "Heyyy, stud! Time for a break!"
-    honeycrisp "Heyyy, stud! Time for a break!"
+    honeycrisp "嘿!种马!休息时间到了!"
 
 # game/farm.rpy#L323
 translate chinese farmvisit1_3614ac5d:
 
     # "My ears perk, ‘stud’ again."
-    "My ears perk, ‘stud’ again."
+    "我的耳朵又一次听见了“种马”这个字眼."
 
 # game/farm.rpy#L324
 translate chinese farmvisit1_1bb98b51:
 
     # "I look back towards the farmhouse and I can see Honeycrisp shouting and waving from beyond the fence."
-    "I look back towards the farmhouse and I can see Honeycrisp shouting and waving from beyond the fence."
+    "我扭头看了眼农舍,看见Honeycrisp在篱笆旁向我挥手."
 
 # game/farm.rpy#L325
 translate chinese farmvisit1_ac9460d7:
 
     # "I had lost track of time; I was more or less automatically plucking apples while lost in thought."
-    "I had lost track of time; I was more or less automatically plucking apples while lost in thought."
+    "时间的流逝在我眼中已无概念,我不时不由自主的摘下几个苹果,同时陷入了沉思."
 
 # game/farm.rpy#L326
 translate chinese farmvisit1_c3c8238c:
 
     # "I step down the ladder and enjoy a cathartic stretch. I bring the final basket back on my way, which is thankfully only half full and thus not heavy."
-    "I step down the ladder and enjoy a cathartic stretch. I bring the final basket back on my way, which is thankfully only half full and thus not heavy."
+    "我爬下梯子,享受伸展身体带来的舒适感.我把最后一个篮子搬回了谷仓,谢天谢地它只有半满,所以不很重."
 
 # game/farm.rpy#L329
 translate chinese farmvisit1_f13ecf94:
 
     # honeycrisp "Well, I’ll be, amazing work! Everything’s all coming together, thought I’d treat ya with something special."
-    honeycrisp "Well, I’ll be, amazing work! Everything’s all coming together, thought I’d treat ya with something special."
+    honeycrisp "嗯,我想你干得可针不戳!一切已经走上了正轨.我想我应该给你点特别的奖励."
 
 # game/farm.rpy#L330
 translate chinese farmvisit1_2652df85:
 
     # mc "Special?"
-    mc "Special?"
+    mc "有多特别？"
 
 # game/farm.rpy#L334
 translate chinese farmvisit1_56f84f81:
 
     # honeycrisp "Over here, got some homebrew for you to try out."
-    honeycrisp "Over here, got some homebrew for you to try out."
+    honeycrisp "这儿,自酿酒来两口？"
 
 # game/farm.rpy#L335
 translate chinese farmvisit1_6e81e464:
@@ -920,31 +920,31 @@ translate chinese farmvisit1_6e81e464:
 translate chinese farmvisit1_ff6deab4:
 
     # "Pouring us both a glass, a few ice cubes drop into mine. This is perfect, just what I needed after working up a sweat."
-    "Pouring us both a glass, a few ice cubes drop into mine. This is perfect, just what I needed after working up a sweat."
+    "这太完美了,正是干完活大汗淋漓的我所需要的.我给我俩各倒了一杯,在我的杯子里添了几块冰块."
 
 # game/farm.rpy#L337
 translate chinese farmvisit1_5a1136e3:
 
     # honeycrisp "This is mah first month making some of my own for proper, and you are my first proper customer, though this one’s on the house! What do you think?"
-    honeycrisp "This is mah first month making some of my own for proper, and you are my first proper customer, though this one’s on the house! What do you think?"
+    honeycrisp "这是我这个月第一批自己酿的酒,而你是我第一个顾客.虽然这次是我请客.你作何感受？"
 
 # game/farm.rpy#L338
 translate chinese farmvisit1_b3d45835:
 
     # "I take a sip at first, but as soon as it hits my lips, I realize how parched I am and take a longer gulp."
-    "I take a sip at first, but as soon as it hits my lips, I realize how parched I am and take a longer gulp."
+    "一开始我只抿了一口,但当它触碰到我的唇边我才一时到自己有多渴,于是又喝了一大口."
 
 # game/farm.rpy#L339
 translate chinese farmvisit1_4d054607:
 
     # "Savouring the taste, it’s sweet and pleasantly dry. I’m no stranger to the taste of cider but this far exceeds the taste of anything I’ve bought at a bar."
-    "Savouring the taste, it’s sweet and pleasantly dry. I’m no stranger to the taste of cider but this far exceeds the taste of anything I’ve bought at a bar."
+    "细细品味,甜味涌上心头却又有着干酒的酸涩.我对苹果酒的味道并不陌生,但这远远超过了能在酒吧喝到的任何酒."
 
 # game/farm.rpy#L341
 translate chinese farmvisit1_23cc213a:
 
     # "This is the same stuff Riku had in her refridgerator, but it tastes even fresher and richer."
-    "This is the same stuff Riku had in her refridgerator, but it tastes even fresher and richer."
+    "这和Riku冰箱里的酒是一样的,只不过尝起来更加新鲜醇厚。"
 
 # game/farm.rpy#L343
 translate chinese farmvisit1_e1cd8f8b:
@@ -956,61 +956,61 @@ translate chinese farmvisit1_e1cd8f8b:
 translate chinese farmvisit1_42f34f57:
 
     # honeycrisp "Ay, I agree, no one quite makes cider like my ol’ paps."
-    honeycrisp "Ay, I agree, no one quite makes cider like my ol’ paps."
+    honeycrisp "哦,我懂.没人比我家的爷们们更会酿苹果酒了."
 
 # game/farm.rpy#L347
 translate chinese farmvisit1_bfa9c679:
 
     # honeycrisp "This is his secret recipe, maybe it isn’t as good as he used to make it, but judging from your reaction, looks like I lived up to his name."
-    honeycrisp "This is his secret recipe, maybe it isn’t as good as he used to make it, but judging from your reaction, looks like I lived up to his name."
+    honeycrisp "这是他的秘方,或许不像他原来酿的好.不过从你的反应来看,看来我没辜负他的名字"
 
 # game/farm.rpy#L349
 translate chinese farmvisit1_841d53bf:
 
     # mc "You certainly did."
-    mc "You certainly did."
+    mc "那可确实."
 
 # game/farm.rpy#L350
 translate chinese farmvisit1_3fd566ab:
 
     # "I take another sip, feeling refreshed."
-    "I take another sip, feeling refreshed."
+    "我又喝了一口,快活似神仙."
 
 # game/farm.rpy#L352
 translate chinese farmvisit1_314e869f:
 
     # honeycrisp "Paps passed a few months back, it was a surprise. Means I have to look after this entire place by myself, rather than the two of us."
-    honeycrisp "Paps passed a few months back, it was a surprise. Means I have to look after this entire place by myself, rather than the two of us."
+    honeycrisp "老爹前几个月过世了,这可是个大“惊喜”,也就是说只有我一个照顾这么大片园子而不是我们两个了."
 
 # game/farm.rpy#L353
 translate chinese farmvisit1_1221318f:
 
     # mc "That’s really recent… I’m sorry to hear that."
-    mc "That’s really recent… I’m sorry to hear that."
+    mc "这可真不久远...很抱歉听到这种消息."
 
 # game/farm.rpy#L355
 translate chinese farmvisit1_d92c8b96:
 
     # honeycrisp "Figured you should know the backstory of the farm if you’re going to work here."
-    honeycrisp "Figured you should know the backstory of the farm if you’re going to work here."
+    honeycrisp "我觉得如果你要在这里工作就需要知道果园的背景."
 
 # game/farm.rpy#L356
 translate chinese farmvisit1_08be9bd8:
 
     # mc "You don’t have to say anything if you don’t want to."
-    mc "You don’t have to say anything if you don’t want to."
+    mc "不想说就别说了..."
 
 # game/farm.rpy#L357
 translate chinese farmvisit1_89db152a:
 
     # honeycrisp "Yeah, I know sugar… But it must be a ridiculous sight, seeing a damaged mare trying desperately to keep this place going."
-    honeycrisp "Yeah, I know sugar… But it must be a ridiculous sight, seeing a damaged mare trying desperately to keep this place going."
+    honeycrisp "是啊,我知道,甜心.但看着一只受伤的雌驹拼命维持这个地方的运转,这景象一定很可笑."
 
 # game/farm.rpy#L358
 translate chinese farmvisit1_dda433b1:
 
     # mc "I don’t think it’s ridiculous at all, I’ve seen how hard you’re working, and I think it’s admirable."
-    mc "I don’t think it’s ridiculous at all, I’ve seen how hard you’re working, and I think it’s admirable."
+    mc "我一点也不觉得这很这很荒谬,相反我看到了了你的努力付出,这很令人钦佩."
 
 # game/farm.rpy#L360
 translate chinese farmvisit1_574a4e4c:
