@@ -2216,7 +2216,7 @@ translate chinese augustareview_f889afea:
 translate chinese augustareview_c77bfa16:
 
     # amora "Fuck you too, buddy. I ain't gotta put up with that kind of bullshit."
-    amora "甘霖娘，闸种。你简直是在胡说八道。"
+    amora "我日你先人。你简直是在胡说八道。"
 
 # game/church.rpy#L714
 translate chinese augustareview_99efb6b9:

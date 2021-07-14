@@ -8207,14 +8207,14 @@
   {
     "id": 79427218,
     "createdAt": "2021-05-30T17:55:36.000Z",
-    "updatedAt": "2021-06-02T15:57:30.000Z",
+    "updatedAt": "2021-07-13T11:57:58.000Z",
     "key": "rubyphotoshoot2_e7235934",
     "original": "Tell me darling, be honest, just how much did you see when you were watching me through my doorframe?",
-    "translation": "",
+    "translation": "对我说实话亲爱的，诚实点，当你透过门缝偷看我的时候，你到底看到了多少？",
     "file": 272341,
-    "stage": 0,
+    "stage": 1,
     "project": 2414,
-    "uid": null,
+    "uid": 22389,
     "extra": null,
     "context": "说话人: ruby \n代码: https://github.com/ponytranz/FwBCN/blob/main/game/boutique.rpy#L956",
     "words": 19

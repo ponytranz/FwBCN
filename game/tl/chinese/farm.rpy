@@ -1016,169 +1016,169 @@ translate chinese farmvisit1_dda433b1:
 translate chinese farmvisit1_574a4e4c:
 
     # honeycrisp "I would be working harder if it wasn’t for my wrist. They said it’ll take seven or eight weeks to heal, but I don’t have a second to spare on the farm."
-    honeycrisp "I would be working harder if it wasn’t for my wrist. They said it’ll take seven or eight weeks to heal, but I don’t have a second to spare on the farm."
+    honeycrisp "如果不是我这手腕,我会更努力干活的.医生说可以要快两个月才能痊愈,但我的农场可等不及我伤好."
 
 # game/farm.rpy#L361
 translate chinese farmvisit1_10546b5a:
 
     # honeycrisp "It’s just me and mah sister now, and I need to do everything I can just to ensure we have a profitable harvest."
-    honeycrisp "It’s just me and mah sister now, and I need to do everything I can just to ensure we have a profitable harvest."
+    honeycrisp "现在只剩我和我妹妹了,我要尽我所能确保今年能有个好收成."
 
 # game/farm.rpy#L362
 translate chinese farmvisit1_742e9e05:
 
     # mc "I’ve been wondering, what’s wrong with your wrist?"
-    mc "I’ve been wondering, what’s wrong with your wrist?"
+    mc "我一直在想,你的手腕到底怎么了."
 
 # game/farm.rpy#L364
 translate chinese farmvisit1_b27dff55:
 
     # honeycrisp "Mmphh… Well sugar…"
-    honeycrisp "Mmphh… Well sugar…"
+    honeycrisp "呃嗯嗯...好吧,甜心..."
 
 # game/farm.rpy#L365
 translate chinese farmvisit1_dafc9c82:
 
     # honeycrisp "I told people I fell from a ladder but I kinda haven’t told anyone else the truth, it’s too humiliating to say."
-    honeycrisp "I told people I fell from a ladder but I kinda haven’t told anyone else the truth, it’s too humiliating to say."
+    honeycrisp "我对外说是我从梯子上摔下来了,但我没跟别人说过真相,那太丢人了."
 
 # game/farm.rpy#L367
 translate chinese farmvisit1_594cb391:
 
     # honeycrisp "I feel like I should tell you though, maybe it’s because you’re a new face, but I reckon I can trust ya."
-    honeycrisp "I feel like I should tell you though, maybe it’s because you’re a new face, but I reckon I can trust ya."
+    honeycrisp "我觉得我应该告诉你,也许只是因为你是个新面孔,但我觉得我可以信任你."
 
 # game/farm.rpy#L368
 translate chinese farmvisit1_48bd4f9f:
 
     # honeycrisp "Promise to keep it between us?"
-    honeycrisp "Promise to keep it between us?"
+    honeycrisp "这是我们两个人之间的小秘密..."
 
 # game/farm.rpy#L369
 translate chinese farmvisit1_a658a2e4:
 
     # mc "Of course, I promise."
-    mc "Of course, I promise."
+    mc "行吧,杰哥..."
 
 # game/farm.rpy#L371
 translate chinese farmvisit1_f4ff25bd:
 
     # honeycrisp "Well, aha… I fractured the bone because I got into a fight with a tree and lost."
-    honeycrisp "Well, aha… I fractured the bone because I got into a fight with a tree and lost."
+    honeycrisp "嗯,啊...我的腕部骨折仅仅是因为我和一棵树打了一架,还打输了."
 
 # game/farm.rpy#L372
 translate chinese farmvisit1_8d824388:
 
     # mc "You punched a tree?"
-    mc "You punched a tree?"
+    mc "你揍了一棵树？"
 
 # game/farm.rpy#L374
 translate chinese farmvisit1_5bc03cce:
 
     # honeycrisp "*Sigh*, yeah… I was really frustrated, ya’know?"
-    honeycrisp "*Sigh*, yeah… I was really frustrated, ya’know?"
+    honeycrisp "（叹气）对呀,我真的很难受,你懂这种感受吗？"
 
 # game/farm.rpy#L375
 translate chinese farmvisit1_5b9e1901:
 
     # honeycrisp "It was just after the funeral, and I didn’t have time to grieve."
-    honeycrisp "It was just after the funeral, and I didn’t have time to grieve."
+    honeycrisp "葬礼还没结束多久,我却没有时间沉浸在悲伤里."
 
 # game/farm.rpy#L377
 translate chinese farmvisit1_567aafc6:
 
     # honeycrisp "I was already working twice as hard, no other family around here to speak of and I couldn’t tarnish my sister’s education by asking her to quit college."
-    honeycrisp "I was already working twice as hard, no other family around here to speak of and I couldn’t tarnish my sister’s education by asking her to quit college."
+    honeycrisp "我已经加倍努力了,这附近只有我们一个家庭,可我也不能让我妹妹退学,这玷污了我们家族的教育观念."
 
 # game/farm.rpy#L378
 translate chinese farmvisit1_abc8d5af:
 
     # honeycrisp "I was about to carry some apples back on my own, but the basket broke, some apples fell, smashed and got covered in mud."
-    honeycrisp "I was about to carry some apples back on my own, but the basket broke, some apples fell, smashed and got covered in mud."
+    honeycrisp "我正要自己搬一篮子苹果回来,可是篮子破了,一些苹果掉在了地上摔碎了,还溅起不少泥."
 
 # game/farm.rpy#L380
 translate chinese farmvisit1_01d4f834:
 
     # honeycrisp "It may have been a small thing, but to me that was mah breaking point."
-    honeycrisp "It may have been a small thing, but to me that was mah breaking point."
+    honeycrisp "这也许不算什么大不了的,可对我这却是件大事."
 
 # game/farm.rpy#L382
 translate chinese farmvisit1_628b49bc:
 
     # honeycrisp "I was so pissed, I full force punched the tree, didn’t think for a second."
-    honeycrisp "I was so pissed, I full force punched the tree, didn’t think for a second."
+    honeycrisp "我越想越气,就锤了那棵树,啥都没带想的."
 
 # game/farm.rpy#L383
 translate chinese farmvisit1_cfce47e8:
 
     # mc "Ouch… That must have really hurt."
-    mc "Ouch… That must have really hurt."
+    mc "呃...那一定很痛."
 
 # game/farm.rpy#L385
 translate chinese farmvisit1_8ab2caba:
 
     # honeycrisp "It really hurts my pride admitting it. Whatever pride I have left."
-    honeycrisp "It really hurts my pride admitting it. Whatever pride I have left."
+    honeycrisp "承认这一点真的很伤我自尊,无论我还有多少自尊."
 
 # game/farm.rpy#L387
 translate chinese farmvisit1_00f88b7f:
 
     # honeycrisp "I feel pathetic, it’s not like me to do something so darn stupid. But sometimes in these moments ya just don’t think."
-    honeycrisp "I feel pathetic, it’s not like me to do something so darn stupid. But sometimes in these moments ya just don’t think."
+    honeycrisp "我觉得很可悲,我可不会做这种事.但有时候你却不得不去想这等事."
 
 # game/farm.rpy#L388
 translate chinese farmvisit1_efb2eab8:
 
     # mc "Your emotions must have been stirring, I can understand that you’d be frustrated and lash out."
-    mc "Your emotions must have been stirring, I can understand that you’d be frustrated and lash out."
+    mc "你当时一定很激动,我理解你的沮丧和愤怒."
 
 # game/farm.rpy#L389
 translate chinese farmvisit1_b4261296:
 
     # mc "Everyone has their weak moments, and they don’t necessarily reflect you as a person, your personality."
-    mc "Everyone has their weak moments, and they don’t necessarily reflect you as a person, your personality."
+    mc "每个人都有自己的弱点,但这些弱点不一定反映出你的性格."
 
 # game/farm.rpy#L391
 translate chinese farmvisit1_ef755366:
 
     # honeycrisp "Heh, lash out, it is like me to lash out on a tree of all things. Don’t think I have the heart to be that mean to a person."
-    honeycrisp "Heh, lash out, it is like me to lash out on a tree of all things. Don’t think I have the heart to be that mean to a person."
+    honeycrisp "哼,斥责,听起来就像我对那棵树做的一样.别以为我忍心对其他人那么刻薄."
 
 # game/farm.rpy#L393
 translate chinese farmvisit1_085bc4bf:
 
     # honeycrisp "Phew… It feels good to finally tell someone that."
-    honeycrisp "Phew… It feels good to finally tell someone that."
+    honeycrisp "噗呼...压在心底可真不好受."
 
 # game/farm.rpy#L395
 translate chinese farmvisit1_1e7614f7:
 
     # "Honeycrisp surprises me by closing in for a hug, her overly large breasts nonchalantly pressing against my chest and catching me off guard as I awkwardly hug back."
-    "Honeycrisp surprises me by closing in for a hug, her overly large breasts nonchalantly pressing against my chest and catching me off guard as I awkwardly hug back."
+    "Honeycrisp吓了我一跳,她超大的乳房若无其事的压在我胸口.当我拥抱回去时是那么措手不及."
 
 # game/farm.rpy#L397
 translate chinese farmvisit1_ed07c106:
 
     # honeycrisp "Heck, sorry about these large jugs getting in the way, I hope my nipples didn’t poke ya."
-    honeycrisp "Heck, sorry about these large jugs getting in the way, I hope my nipples didn’t poke ya."
+    honeycrisp "见鬼.抱歉那些大罐子挡道了.希望我的乳头没有戳到你."
 
 # game/farm.rpy#L398
 translate chinese farmvisit1_c88e6cfa:
 
     # mc "It’s fine, they were nice and soft."
-    mc "It’s fine, they were nice and soft."
+    mc "没事.它们可真是又软又爽."
 
 # game/farm.rpy#L399
 translate chinese farmvisit1_f5e62916:
 
     # honeycrisp "I can hug you again if you’d like stud, heh."
-    honeycrisp "I can hug you again if you’d like stud, heh."
+    honeycrisp "我可以再抱你一次,如果你像个种马一样.呵."
 
 # game/farm.rpy#L403
 translate chinese farmvisit1_6498cd53:
 
     # "We reembrace and this time I do indeed feel her nipples poking against my chest, maybe it’s because I’m paying close attention, or perhaps they weren’t erect before."
-    "We reembrace and this time I do indeed feel her nipples poking against my chest, maybe it’s because I’m paying close attention, or perhaps they weren’t erect before."
+    "我们再次抱在了一起.这次我确实感受到了她的乳头戳到了我的前胸.也许是因为我的密切注视,它们并没有像之前那样勃起."
 
 # game/farm.rpy#L405
 translate chinese farmvisit1_290d796a:

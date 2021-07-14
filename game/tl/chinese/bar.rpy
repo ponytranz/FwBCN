@@ -6734,157 +6734,157 @@ translate chinese rikumaidblowjob_d4db00f9:
 translate chinese rikumaidblowjob_262b5192:
 
     # riku "Ehh, hehe. One step at a time for me I think, I’m too prude to start sleeping around myself."
-    riku "Ehh, hehe. One step at a time for me I think, I’m too prude to start sleeping around myself."
+    riku "Ehh,呵呵。对我来说一步一步来，我太拘谨了，不想跟别人上床。"
 
 # game/bar.rpy#L1829
 translate chinese rikumaidblowjob_89243f06:
 
     # "Catching us both off guard, the door to the wagon creaks open and I can hear Moxie casually humming as she enters with a few boxes of her performance gear. She almost drops them, wide-eyed as she spots us."
-    "Catching us both off guard, the door to the wagon creaks open and I can hear Moxie casually humming as she enters with a few boxes of her performance gear. She almost drops them, wide-eyed as she spots us."
+    "篷车的门嘎吱一声开了，我听到Moxie带着几箱表演装备正漫不经心地边走边哼着小曲。她看到我们时，眼睛睁得都要掉出来了。"
 
 # game/bar.rpy#L1830
 translate chinese rikumaidblowjob_d7e44473:
 
     # moxie "Oft, you made me jump! Heck!"
-    moxie "Oft, you made me jump! Heck!"
+    moxie "哦，你可真是给了我个 大 惊 喜 呢!真见鬼!"
 
 # game/bar.rpy#L1835
 translate chinese rikumaidblowjob_f58c18d5:
 
     # moxie "I really, really, really wasn’t expecting you two to be here. Are you two making lunch?"
-    moxie "I really, really, really wasn’t expecting you two to be here. Are you two making lunch?"
+    moxie "我真的，真的，真的没想到你们俩会在这里。你们俩是在做午饭吗?"
 
 # game/bar.rpy#L1836
 translate chinese rikumaidblowjob_db128b6b:
 
     # riku "Uh-uhm, no..."
-    riku "Uh-uhm, no..."
+    riku "啊，额，不是..."
 
 # game/bar.rpy#L1837
 translate chinese rikumaidblowjob_2c3d50b9:
 
     # "I hadn’t even realized, but it’s lunchtime already. I should have expected this to happen."
-    "I hadn’t even realized, but it’s lunchtime already. I should have expected this to happen."
+    "我都没料到，她会这个点回来吃午饭。我早干嘛去了。"
 
 # game/bar.rpy#L1839
 translate chinese rikumaidblowjob_88b25ab2:
 
     # moxie "Great to see you two, but uhh… Do I even need to ask?"
-    moxie "Great to see you two, but uhh… Do I even need to ask?"
+    moxie "很高兴见到你们俩，但，我觉得我有必要来问问你们在老娘的篷车里做什么。"
 
 # game/bar.rpy#L1841
 translate chinese rikumaidblowjob_e370ec9e:
 
     # riku "The maid outfit?"
-    riku "The maid outfit?"
+    riku "女仆装?"
 
 # game/bar.rpy#L1842
 translate chinese rikumaidblowjob_2657733f:
 
     # mc "It’s a long story."
-    mc "It’s a long story."
+    mc "那又是另一个很长的故事了。"
 
 # game/bar.rpy#L1843
 translate chinese rikumaidblowjob_28d57272:
 
     # "Riku shudders in disgust and around the same time Moxie spots the black stockings on the couch."
-    "Riku shudders in disgust and around the same time Moxie spots the black stockings on the couch."
+    "Riku胆怯地颤抖着，与此同时，Moxie发现了沙发上的黑色长筒袜。"
 
 # game/bar.rpy#L1845
 translate chinese rikumaidblowjob_1f7984a3:
 
     # moxie "Golly, you two have been fuckin’!"
-    moxie "Golly, you two have been fuckin’!"
+    moxie "天啊，你们两个居然背着我偷偷干!"
 
 # game/bar.rpy#L1846
 translate chinese rikumaidblowjob_eb227b7c:
 
     # moxie "In my wagon no less, where was my invitation?"
-    moxie "In my wagon no less, where was my invitation?"
+    moxie "还是在我的篷车里干，也不和我说一声?"
 
 # game/bar.rpy#L1848
 translate chinese rikumaidblowjob_1d8dc00b:
 
     # riku "N-No! Invit- no! You know that’s not like me."
-    riku "N-No! Invit- no! You know that’s not like me."
+    riku "不-不是那样的，邀请你？不！你知道我不是那种人的！"
 
 # game/bar.rpy#L1850
 translate chinese rikumaidblowjob_9214d579:
 
     # moxie "Oh please, how naïve do you think I am?"
-    moxie "Oh please, how naïve do you think I am?"
+    moxie "够了，你以为我是天真无邪的小屁孩儿吗?"
 
 # game/bar.rpy#L1852
 translate chinese rikumaidblowjob_a05fdeef:
 
     # moxie "It’s just a shame I didn’t get to embarrass you more by walking in on the act, muhaha."
-    moxie "It’s just a shame I didn’t get to embarrass you more by walking in on the act, muhaha."
+    moxie "真可惜我没有当场抓奸，让你们更难堪，哈哈。"
 
 # game/bar.rpy#L1853
 translate chinese rikumaidblowjob_2ad42489:
 
     # mc "Actually, we haven’t fucked."
-    mc "Actually, we haven’t fucked."
+    mc "啊这，我们还没开始干呢。"
 
 # game/bar.rpy#L1855
 translate chinese rikumaidblowjob_d8ef1d7a:
 
     # moxie "Is that so?"
-    moxie "Is that so?"
+    moxie "真的？"
 
 # game/bar.rpy#L1856
 translate chinese rikumaidblowjob_e3df7b11:
 
     # "Moxie smirks and winks at me, I wink back, here we go."
-    "Moxie smirks and winks at me, I wink back, here we go."
+    "Moxie对我幸灾乐祸地笑了，还向我使了个眼色，我也用眼神回应了她，好家伙，行动开始。"
 
 # game/bar.rpy#L1857
 translate chinese rikumaidblowjob_003c16d2:
 
     # "Riku seems distressed, she saw both winks."
-    "Riku seems distressed, she saw both winks."
+    "Riku被夹在中间显得左右为难。"
 
 # game/bar.rpy#L1858
 translate chinese rikumaidblowjob_bb47eb9f:
 
     # mc "You can even check if you want."
-    mc "You can even check if you want."
+    mc "如果你想，你完全可以亲自来检查。"
 
 # game/bar.rpy#L1860
 translate chinese rikumaidblowjob_184c3cbb:
 
     # riku "C-Check? There will be no vagina inspections!"
-    riku "C-Check? There will be no vagina inspections!"
+    riku "检-检查？我可不想让我的小穴被检查！"
 
 # game/bar.rpy#L1861
 translate chinese rikumaidblowjob_449121c5:
 
     # moxie "Awh come on Riku, if you don’t let me look, I’ll just have to assume you two were just balls deep."
-    moxie "Awh come on Riku, if you don’t let me look, I’ll just have to assume you two were just balls deep."
+    moxie "来吧，Riku，如果你不让我看，我就当你俩只是在乳交。"
 
 # game/bar.rpy#L1862
 translate chinese rikumaidblowjob_8f3e4018:
 
     # riku "N-No way! R-Right?"
-    riku "N-No way! R-Right?"
+    riku "没-没门儿！对-对吧？"
 
 # game/bar.rpy#L1863
 translate chinese rikumaidblowjob_bfd3bce7:
 
     # "Riku looks to me, as if seeking orders, she is getting turned on like crazy right now."
-    "Riku looks to me, as if seeking orders, she is getting turned on like crazy right now."
+    "Riku焦急地望着我，想寻求一点帮助。她现在都快疯掉了。"
 
 # game/bar.rpy#L1864
 translate chinese rikumaidblowjob_96dc076e:
 
     # "I utterly love the fact Moxie is playing along, me and her are on the same teasing wavelength for sure. Riku is in for double the trouble."
-    "I utterly love the fact Moxie is playing along, me and her are on the same teasing wavelength for sure. Riku is in for double the trouble."
+    "我非常喜欢和Moxie串通，我和她心照不宣。Riku现在已经是四面楚歌了。"
 
 # game/bar.rpy#L1865
 translate chinese rikumaidblowjob_cf5f65d2:
 
     # mc "Yep, you definitely need to lift up your skirt to prove your innocence."
-    mc "Yep, you definitely need to lift up your skirt to prove your innocence."
+    mc "我也认为你只有掀开裙子才能证明你的清白。"
 
 # game/bar.rpy#L1866
 translate chinese rikumaidblowjob_8fb485d3:

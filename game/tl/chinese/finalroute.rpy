@@ -1574,61 +1574,61 @@ translate chinese clibrary_52763636:
 translate chinese clibrary_b6d9b746:
 
     # lily "Mhm, the Moxie we know is still alive inside that shared body of Morrigan’s. The Moxie you know is real."
-    lily "Mhm, the Moxie we know is still alive inside that shared body of Morrigan’s. The Moxie you know is real."
+    lily "emm，我们知道Moxie还在那个和Morrigan共享的身体里活着。那个真正的Moxie。"
 
 # game/finalroute.rpy#L713
 translate chinese clibrary_fd22bd9c:
 
     # lily "I’m not sure when Morrigan started possessing her, but it would seem she let a lot of Moxie’s original personality shine, because I didn’t notice any difference."
-    lily "I’m not sure when Morrigan started possessing her, but it would seem she let a lot of Moxie’s original personality shine, because I didn’t notice any difference."
+    lily "我不确定Morrigan是什么时候开始占据她的，但似乎她让Moxie的许多原始人格发光发彩了，因为我没有注意到任何不同。"
 
 # game/finalroute.rpy#L714
 translate chinese clibrary_6301a9f2:
 
     # mc "Why is Morrigan using Moxie’s body? Why can’t she just let her go?"
-    mc "Why is Morrigan using Moxie’s body? Why can’t she just let her go?"
+    mc "为什么Morrigan占据了Moxie的身体？为什么她就不能放她走？"
 
 # game/finalroute.rpy#L716
 translate chinese clibrary_3b65b679:
 
     # lily "That’ll be because of Moxie’s unique and useful powers. Penelope and I had vague suspicions of such when we first met Moxie, I hadn’t anticipated that was an interloper though…"
-    lily "That’ll be because of Moxie’s unique and useful powers. Penelope and I had vague suspicions of such when we first met Moxie, I hadn’t anticipated that was an interloper though…"
+    lily "那是因为Moxie独特且有用的力量。Penelope和我第一次见到Moxie的时候，对此我们怀有模糊的怀疑，但我没想到那是个闯入者......"
 
 # game/finalroute.rpy#L717
 translate chinese clibrary_2f26dc0f:
 
     # lily "If Morrigan siphons enough power from the royal sisters, specifically Selene, Moxie will no longer be useful and will be disposed of… That’s our losing condition."
-    lily "If Morrigan siphons enough power from the royal sisters, specifically Selene, Moxie will no longer be useful and will be disposed of… That’s our losing condition."
+    lily "如果Morrigan从皇室姐妹那里吸取足够的能量，特别是Selene，Moxie就不再有用而且她会被处理掉，这就是我们可能的损失情况。"
 
 # game/finalroute.rpy#L718
 translate chinese clibrary_8e95d98a:
 
     # lily "All that matters is defeating Morrigan as soon as we can, that way we’ll save Moxie."
-    lily "All that matters is defeating Morrigan as soon as we can, that way we’ll save Moxie."
+    lily "最重要的是尽快打败Morrigan，这样我们就能救Moxie。"
 
 # game/finalroute.rpy#L720
 translate chinese clibrary_d6d61e3b:
 
     # lily "And, you’re not at fault for any of this."
-    lily "And, you’re not at fault for any of this."
+    lily "但是，这些都不是你的错。"
 
 # game/finalroute.rpy#L725
 translate chinese clibrary_4491adb3:
 
     # lily "Now it’s our turn. Thank you for curing everyone!"
-    lily "Now it’s our turn. Thank you for curing everyone!"
+    lily "现在轮到我们了。谢谢你治好了大家！"
 
 # game/finalroute.rpy#L726
 translate chinese clibrary_a1f7351c:
 
     # lily "I’ll need to quickly come up with a plan. Could you go downstairs and let the girls in for me? I'll be down in five minutes."
-    lily "I’ll need to quickly come up with a plan. Could you go downstairs and let the girls in for me? I'll be down in five minutes."
+    lily "我需要尽快想出一个计划。你能下楼让姑娘们为我进来吗？我五分钟内下来。"
 
 # game/finalroute.rpy#L729
 translate chinese clibrary_a52fca38:
 
     # lily "For now, you need to continue your mission. Reverse everyone’s brainwashing and tell them to come to the tree, I’ll devise a plan as quickly as I can."
-    lily "For now, you need to continue your mission. Reverse everyone’s brainwashing and tell them to come to the tree, I’ll devise a plan as quickly as I can."
+    lily "现在，你需要继续你的任务。把大家的洗脑颠倒过来，叫她们到橡树图书馆来，我会尽快想出一个计划。"
 
 # game/finalroute.rpy#L734
 translate chinese cfarm_0a2f1fc7:

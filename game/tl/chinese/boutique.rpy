@@ -3284,7 +3284,7 @@ translate chinese rubyphotoshoot2_e3a31b19:
 translate chinese rubyphotoshoot2_e7235934:
 
     # ruby "Tell me darling, be honest, just how much did you see when you were watching me through my doorframe?"
-    ruby "Tell me darling, be honest, just how much did you see when you were watching me through my doorframe?"
+    ruby "对我说实话亲爱的，诚实点，当你透过门缝偷看我的时候，你到底看到了多少？"
 
 # game/boutique.rpy#L959
 translate chinese rubyphotoshoot2_bc3d3436:
