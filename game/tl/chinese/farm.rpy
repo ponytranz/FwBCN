@@ -1184,13 +1184,13 @@ translate chinese farmvisit1_6498cd53:
 translate chinese farmvisit1_290d796a:
 
     # "I feel a flitter of butterflies in my stomach before we part, and she gleefully takes a sip of cider to break up the post-hug awkwardness."
-    "I feel a flitter of butterflies in my stomach before we part, and she gleefully takes a sip of cider to break up the post-hug awkwardness."
+    "在我们离开前，我感觉到有蝴蝶在我的肚子里一掠而过，她高兴地喝了一口苹果汁来打破拥抱后的尴尬。"
 
 # game/farm.rpy#L406
 translate chinese farmvisit1_318cfba9:
 
     # honeycrisp "Heh, didn't think you'd actually go for it."
-    honeycrisp "Heh, didn't think you'd actually go for it."
+    honeycrisp "嘿，没想到你真的会这么做。"
 
 # game/farm.rpy#L407
 translate chinese farmvisit1_e5ea1eca:
@@ -1208,25 +1208,25 @@ translate chinese farmvisit1_7fbeb07d:
 translate chinese farmvisit1_d92e0b51:
 
     # honeycrisp "I’d love to show a guest like yourself how a cowgirl like me performs at a rodeo."
-    honeycrisp "I’d love to show a guest like yourself how a cowgirl like me performs at a rodeo."
+    honeycrisp "我乐意去向像你那样的来客展示像我那样的牛仔女孩在牛仔竞技比赛中是怎么表演的、"
 
 # game/farm.rpy#L411
 translate chinese farmvisit1_e362705b:
 
     # honeycrisp "But with mah injury, well, maybe you’ll have to do the showing off."
-    honeycrisp "But with mah injury, well, maybe you’ll have to do the showing off."
+    honeycrisp "但俺的伤，好吧，也许你得炫耀一下。"
 
 # game/farm.rpy#L412
 translate chinese farmvisit1_76277a1e:
 
     # honeycrisp "Later, though, we got some demanding work to do first."
-    honeycrisp "Later, though, we got some demanding work to do first."
+    honeycrisp "不过，接着，我们有一堆艰巨的任务要先做。"
 
 # game/farm.rpy#L414
 translate chinese farmvisit1_32862fb6:
 
     # honeycrisp "Mm, good thinking stud, too much physical contact might…"
-    honeycrisp "Mm, good thinking stud, too much physical contact might…"
+    honeycrisp "嗯，好好想想，伙计，过多的身体接触可能会…"
 
 # game/farm.rpy#L416
 translate chinese farmvisit1_5bfe7267:
@@ -1244,25 +1244,25 @@ translate chinese farmvisit1_77d90a60:
 translate chinese farmvisit1_d20d03a7:
 
     # honeycrisp "You know, you’re the first person I’ve spoken to other than my sister this week."
-    honeycrisp "You know, you’re the first person I’ve spoken to other than my sister this week."
+    honeycrisp "你知道，这周除了我妹妹以外，你是我第一个进行对话的马。"
 
 # game/farm.rpy#L420
 translate chinese farmvisit1_412a9511:
 
     # honeycrisp "I’ve been too exhausted to visit my friends in the evening. It’s back breaking work all daylight, until it gets too dark to see anything, then I pass out on my bed."
-    honeycrisp "I’ve been too exhausted to visit my friends in the evening. It’s back breaking work all daylight, until it gets too dark to see anything, then I pass out on my bed."
+    honeycrisp "这晚上我已经累得不能去见我的朋友们了。整个白天都在做累死马的体力活，干到天黑伸手不见五指，这之后我才昏倒在床上。"
 
 # game/farm.rpy#L421
 translate chinese farmvisit1_dd4d13af:
 
     # mc "I’m not one to judge, but it sounds like you’re putting too much burden on yourself."
-    mc "I’m not one to judge, but it sounds like you’re putting too much burden on yourself."
+    mc "我不是来评估的马，但是这听起来你把太多的负担放到自己身上。"
 
 # game/farm.rpy#L422
 translate chinese farmvisit1_dafc60d5:
 
     # mc "I can tell you’re tough, but even you can’t keep that up, you’ll burnout and crack sooner or later."
-    mc "I can tell you’re tough, but even you can’t keep that up, you’ll burnout and crack sooner or later."
+    mc "我能告诉你，你很坚强，但是即使是你也不能坚持下去，你会早晚会精疲力尽并吃不消。"
 
 # game/farm.rpy#L424
 translate chinese farmvisit1_9b74b25b:

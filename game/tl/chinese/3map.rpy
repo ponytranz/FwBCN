@@ -1034,19 +1034,19 @@ translate chinese arisex_3ff117f9:
 translate chinese arisex_3c5595f0:
 
     # "In a mere moment the tip of my erection is pressed up against her lustful virgin pussy. Pushing forward, I feel her nether lips part around my girth."
-    "就在我龟头插入那欲火焚身的处女的一刹那，我感到她的阴唇像波涛汹涌的海面被我的cock劈开"
+    "就在我龟头插入那欲火焚身的处女的一刹那，我感到她的阴唇像波涛汹涌的海面被我的肉棒劈开"
 
 # game/3map.rpy#L395
 translate chinese arisex_651fffff:
 
     # "Ari gasps and squirms slightly, her fingers digging into the bedsheets as she happily watches the action."
-    "阿里喘着细气，微微扭动着身体，她的手指戳进床单里，开心地看着这一幕。"
+    "Ari喘着气，微微扭动着身体，她的手指戳进床单里，开心地看着这一幕"
 
 # game/3map.rpy#L396
 translate chinese arisex_4d489779:
 
     # "I push myself to the hilt and allow my lover’s tightness to ease around my shaft, her pussy constantly clenching and squeezing around me as she grows comfortable with the sensation."
-    "我把重心移到cock，让她紧绷的阴道完完全全包裹着它，她的私处不断地紧捏和挤压着我，对这种感觉越来越适应。"
+    "我把重心移到下体，让她紧绷的阴道完完全全包裹着它，她的私处不断地紧捏和挤压着我，我对这种感觉已经越来越适应了"
 
 # game/3map.rpy#L397
 translate chinese arisex_232482ae:
@@ -1058,7 +1058,7 @@ translate chinese arisex_232482ae:
 translate chinese arisex_175ff28c:
 
     # mc "You mares sure take your first times well."
-    mc "你的第一次真的一帆风顺。"
+    mc "你的第一次真的很好。"
 
 # game/3map.rpy#L399
 translate chinese arisex_5a7aa984:
@@ -1070,7 +1070,7 @@ translate chinese arisex_5a7aa984:
 translate chinese arisex_ce1340df:
 
     # "Going steady, I start to rock back and forth. Her pussy gradually yields and my cock becomes slick with her juices, allowing me to increase the pace of each thrust."
-    "于是我开始规律地抽插，我的cock被她的淫液弄得无比光滑，让我可以更猛烈地做。"
+    "于是我开始规律地抽插，我的肉棒被她的淫液弄得无比光滑，让我可以更猛烈地抽插"
 
 # game/3map.rpy#L402
 translate chinese arisex_b47de1d6:
@@ -1100,7 +1100,7 @@ translate chinese arisex_38ab4cf1:
 translate chinese arisex_5a66012f:
 
     # "I start to rub her swollen clit while fucking her simultaneously, upping the sex from merely pleasureful, to electrifyingly euphoric for my lover."
-    "和她做爱的同时，我开始抚摸她肿胀的阴蒂，将单纯的快感提升到更高的层面。"
+    "和她做爱的同时，我开始抚摸她肿胀的阴蒂，将单一的快感提升到更高的层面。"
 
 # game/3map.rpy#L408
 translate chinese arisex_b125fd65:
@@ -1112,13 +1112,13 @@ translate chinese arisex_b125fd65:
 translate chinese arisex_836fc991:
 
     # "She moans happily and her pussy squeezes my cock tightly as she begins to come hard."
-    "她快乐地呻吟着，开始用她的阴道紧紧压着我的cock。"
+    "她快乐地呻吟着，开始用她的阴道紧紧压着我的肉棒"
 
 # game/3map.rpy#L410
 translate chinese arisex_fa6aa0df:
 
     # "The tightness in turn causes my cock to throb and stiffen, almost creating a feedback loop that intensifies my pleasure."
-    "这种挤压感又让我的cock变得更加兴奋，像一个快感的良性循环，加强着我的性快感。"
+    "这种挤压感又让我的肉棒变得更加兴奋，像一个快感的良性循环，加强着我们的性快感"
 
 # game/3map.rpy#L411
 translate chinese arisex_69aaed46:
@@ -1586,13 +1586,13 @@ translate chinese giftshop_df31d9ed:
 translate chinese giftshop_651fffff:
 
     # "Ari gasps and squirms slightly, her fingers digging into the bedsheets as she happily watches the action."
-    "阿里喘着细气，微微扭动着身体，她的手指戳进床单里，开心地看着这一幕。"
+    "Ari喘着气，微微扭动着身体，她的手指戳进床单里，开心地看着这一幕"
 
 # game/3map.rpy#L555
 translate chinese giftshop_4d489779:
 
     # "I push myself to the hilt and allow my lover’s tightness to ease around my shaft, her pussy constantly clenching and squeezing around me as she grows comfortable with the sensation."
-    "我把重心移到cock，让她紧绷的阴道完完全全包裹着它，她的私处不断地紧捏和挤压着我，因为她对这种感觉越来越适应。"
+    "我把重心移到下体，让她紧绷的阴道完完全全包裹着它，她的私处不断地紧捏和挤压着我，我对这种感觉已经越来越适应了"
 
 # game/3map.rpy#L556
 translate chinese giftshop_6bdd3d91:
@@ -1604,7 +1604,7 @@ translate chinese giftshop_6bdd3d91:
 translate chinese giftshop_ce1340df:
 
     # "Going steady, I start to rock back and forth. Her pussy gradually yields and my cock becomes slick with her juices, allowing me to increase the pace of each thrust."
-    "于是我开始规律地抽插，我的cock被她的淫液弄得无比光滑，让我可以更猛烈地做。"
+    "于是我开始规律地抽插，我的肉棒被她的淫液弄得无比光滑，让我可以更猛烈地抽插"
 
 # game/3map.rpy#L559
 translate chinese giftshop_b47de1d6:
@@ -1634,7 +1634,7 @@ translate chinese giftshop_38ab4cf1:
 translate chinese giftshop_5a66012f:
 
     # "I start to rub her swollen clit while fucking her simultaneously, upping the sex from merely pleasureful, to electrifyingly euphoric for my lover."
-    "和她做爱的同时，我开始抚摸她肿胀的阴蒂，将单纯的快感提升到更高的层面。"
+    "和她做爱的同时，我开始抚摸她肿胀的阴蒂，将单一的快感提升到更高的层面。"
 
 # game/3map.rpy#L565
 translate chinese giftshop_b125fd65:
@@ -1646,13 +1646,13 @@ translate chinese giftshop_b125fd65:
 translate chinese giftshop_836fc991:
 
     # "She moans happily and her pussy squeezes my cock tightly as she begins to come hard."
-    "她快乐地呻吟着，开始用她的阴道紧紧压着我的cock。"
+    "她快乐地呻吟着，开始用她的阴道紧紧压着我的肉棒"
 
 # game/3map.rpy#L567
 translate chinese giftshop_fa6aa0df:
 
     # "The tightness in turn causes my cock to throb and stiffen, almost creating a feedback loop that intensifies my pleasure."
-    "这种挤压感又让我的cock变得更加兴奋，像一个快感的良性循环，加强着我的性快感。"
+    "这种挤压感又让我的肉棒变得更加兴奋，像一个快感的良性循环，加强着我们的性快感"
 
 # game/3map.rpy#L568
 translate chinese giftshop_69aaed46:

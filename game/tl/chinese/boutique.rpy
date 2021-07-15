@@ -644,7 +644,7 @@ translate chinese rubymaidmenu1_0299b359:
 translate chinese rubymaidmenu1_b045f36a:
 
     # unknown "What’s this I spy, a rat peeping on my sister?"
-    unknown "这是什么，偷窥我妹妹的老鼠吗?"
+    unknown "这是什么，偷窥我姐姐的老鼠吗?"
 
 # game/boutique.rpy#L185
 translate chinese rubymaidmenu1_09cedbfe:
@@ -656,7 +656,7 @@ translate chinese rubymaidmenu1_09cedbfe:
 translate chinese rubymaidmenu1_88b622f5:
 
     # unknown "I'm the pest control."
-    unknown "我是个害虫控制员。"
+    unknown "我是个害虫监控员。"
 
 # game/boutique.rpy#L191
 translate chinese rubymaidmenu1_342fd852:
@@ -2630,7 +2630,7 @@ translate chinese rubymaidmenu2_40b57d04:
 translate chinese rubymaidmenu2_f2661c11:
 
     # "In the kitchen, Ruby begins making a pot of tea. Before she had only made cups, so I can only assume she plans to talk to me for a little longer than before."
-    "进厨房后，鲁比泡了一壶茶。之前她只就泡了杯茶，因此，我只能假设说她是做好了促膝长谈的准备。"
+    "进厨房后，Ruby泡了一壶茶。之前她只就泡了杯茶，因此，我只能假设说她是做好了促膝长谈的准备。"
 
 # game/boutique.rpy#L761
 translate chinese rubymaidmenu2_7dde7e17:
@@ -3098,7 +3098,7 @@ translate chinese rubyphotoshoot2_978176dc:
 translate chinese rubyphotoshoot2_f32c1fdd:
 
     # ruby "You really like my ass… Don’t you?"
-    ruby "我看我屁股看入迷了......是吧？"
+    ruby "你看我屁股看入迷了......是吧？"
 
 # game/boutique.rpy#L900
 translate chinese rubyphotoshoot2_6da7d902:
@@ -3134,7 +3134,7 @@ translate chinese rubyphotoshoot2_1eb5648e:
 translate chinese rubyphotoshoot2_d521729d:
 
     # ruby "I feel the same way too, you know... I want to touch myself while you watch."
-    ruby "我也有同样的感觉，你知道的......你看的时候，其实我也想摸一摸那里。"
+    ruby "我也有同样的感觉，你知道的......当你看我那里的时候，其实我也想摸一摸那里..."
 
 # game/boutique.rpy#L906
 translate chinese rubyphotoshoot2_b407a009:
@@ -3188,7 +3188,7 @@ translate chinese rubyphotoshoot2_aa47ac27:
 translate chinese rubyphotoshoot2_03513aad:
 
     # ruby "I want you to record me while I ride your cock, can you do that for me, [playername]?"
-    ruby "我骑在你大屌上的时候，我想让你帮我把这个场景都拍下来。[playername]，你能帮我这个忙吗？"
+    ruby "我想让你帮忙把我骑你大屌的场景都拍下来。[playername]，你能帮我这个忙吗？"
 
 # game/boutique.rpy#L918
 translate chinese rubyphotoshoot2_db0266f4:
@@ -3224,13 +3224,13 @@ translate chinese rubyphotoshoot2_d0319c7e:
 translate chinese rubyphotoshoot2_64453216:
 
     # ruby "Just sit back and relax dear, I’ll be teasing you a lot, try not to cum prematurely."
-    ruby "亲爱的，你只需要躺好放松就行了，我会让你好好舒服舒服的。但千万不要早泄哦。"
+    ruby "亲爱的，你只需要躺好放松就行了，我会让你好好舒服舒服的。但千万不要射的太早了哦。"
 
 # game/boutique.rpy#L931
 translate chinese rubyphotoshoot2_e16890e4:
 
     # "Ruby rides my cock up and down slowly, it’s more teasing than pleasureful."
-    "Ruby骑在我的肉棒上，随后，她的身体便开始了缓缓地上下扭动起来。这动作更像是在挑逗，而非是单纯想要寻求快感。"
+    "Ruby骑在我的肉棒上，随后，她的身体便开始了缓缓地上下扭动起来。这动作更像是在挑逗，而并非是单纯想要寻求快感。"
 
 # game/boutique.rpy#L932
 translate chinese rubyphotoshoot2_1b83d749:
@@ -3290,13 +3290,13 @@ translate chinese rubyphotoshoot2_e7235934:
 translate chinese rubyphotoshoot2_bc3d3436:
 
     # "Seems like a strange thing to ask while she’s riding my cock. I guess she did mention she gets off on being watched."
-    "Seems like a strange thing to ask while she’s riding my cock. I guess she did mention she gets off on being watched."
+    "我想她的确提过她会被监视。但她在骑着我的肉棒的时候问我这个问题貌似有些奇怪。"
 
 # game/boutique.rpy#L962
 translate chinese rubyphotoshoot2_b3131537:
 
     # mc "I saw everything, I watched you use your vibrator. I could see your legs were spread wide open."
-    mc "所有东西，我看到了你的一切。比如你呈W形张开的双腿，还有那吱吱作响的震动棒。"
+    mc "所有东西，我看到了你的一切。比如你呈V形张开的双腿，还有那吱吱作响的震动棒。"
 
 # game/boutique.rpy#L967
 translate chinese rubyphotoshoot2_3db7de10:
@@ -3308,13 +3308,13 @@ translate chinese rubyphotoshoot2_3db7de10:
 translate chinese rubyphotoshoot2_0330785f:
 
     # ruby "Ohh, so dirty… Ahhh, ahh… ah! Did… Did that turn you on?"
-    ruby "哦哦！这看起来好脏…啊，啊…啊啊！又加速了，这难道会让你更加兴奋吗？"
+    ruby "嗷呜！我太淫荡了…啊，啊…啊啊！又加速了，这会让你更加兴奋吗？"
 
 # game/boutique.rpy#L973
 translate chinese rubyphotoshoot2_dd0abd63:
 
     # mc "Yeah, I had an erection while watching."
-    mc "是的没错，我看到这些东西阴茎就勃起来像一座高楼一般挺立。"
+    mc "是的没错，我看到这东西时，阴茎勃起就像一座高楼一般挺立。"
 
 # game/boutique.rpy#L976
 translate chinese rubyphotoshoot2_812599a2:
@@ -3326,217 +3326,217 @@ translate chinese rubyphotoshoot2_812599a2:
 translate chinese rubyphotoshoot2_c254def5:
 
     # "That really got her going, now she’s fucking me vigorously, I try my best to keep the camera steady as she relentlessly rides my cock."
-    "That really got her going, now she’s fucking me vigorously, I try my best to keep the camera steady as she relentlessly rides my cock."
+    "这真的让她性奋起来了，现在她在使劲操我，我尽我最大的努力让摄像机稳定，因为她正无情地骑着我的肉棒。"
 
 # game/boutique.rpy#L986
 translate chinese rubyphotoshoot2_663f05a4:
 
     # "I don’t know how long this video has been recording, but I feel close to cumming. I try to hold back for as long as possible, but Ruby is unyielding in her expert riding technique and her speed."
-    "I don’t know how long this video has been recording, but I feel close to cumming. I try to hold back for as long as possible, but Ruby is unyielding in her expert riding technique and her speed."
+    "我不知道这段视频已经录制了多久，但我感觉我已经马上就要射了。我尽量忍住，但Ruby始终保持着她的速度和专业的“骑术”。"
 
 # game/boutique.rpy#L991
 translate chinese rubyphotoshoot2_a377ac8a:
 
     # ruby "Ahh, I-I think I’m actually coming! D-Darling… Ahhh."
-    ruby "Ahh, I-I think I’m actually coming! D-Darling… Ahhh."
+    ruby "啊，我...我感觉我要来了！亲....亲爱的....嗷..!"
 
 # game/boutique.rpy#L996
 translate chinese rubyphotoshoot2_d62ddc80:
 
     # "I can feel her tighten as she climaxes, and despite her orgasm, she doesn’t miss a beat while riding me."
-    "I can feel her tighten as she climaxes, and despite her orgasm, she doesn’t miss a beat while riding me."
+    "我能感觉到她高潮时的紧绷，尽管她达到了高潮，但她骑我的时候上上下下一个节拍都没有错过。"
 
 # game/boutique.rpy#L1001
 translate chinese rubyphotoshoot2_2e83598c:
 
     # ruby "Ahh, so good! *Slap* *Slap* *Slap*"
-    ruby "Ahh, so good! *Slap* *Slap* *Slap*"
+    ruby "啊，太爽了！ *啪* *啪* *啪*"
 
 # game/boutique.rpy#L1006
 translate chinese rubyphotoshoot2_1fbbaf60:
 
     # "The combination of her moans and her contractions are pushing me over the edge, I can’t hold back any longer."
-    "The combination of her moans and her contractions are pushing me over the edge, I can’t hold back any longer."
+    "她的呻吟和宫缩把我逼到了极点，我撑不住了。"
 
 # game/boutique.rpy#L1011
 translate chinese rubyphotoshoot2_0abb4f25:
 
     # "I orgasm, ejaculating inside of her while she continues to ride me, causing a sloppy mess of my cum that bubbles and seeps out of her."
-    "I orgasm, ejaculating inside of her while she continues to ride me, causing a sloppy mess of my cum that bubbles and seeps out of her."
+    "当她还在继续骑着我的时候，我高潮了，射精在她体内，我的精液从她体内流下来粘的到处都是，乱糟糟的，甚至还冒出了些许气泡。"
 
 # game/boutique.rpy#L1016
 translate chinese rubyphotoshoot2_2d7c9785:
 
     # ruby "Ohh, yes… Mmm…"
-    ruby "Ohh, yes… Mmm…"
+    ruby "哦，是的....唔..."
 
 # game/boutique.rpy#L1019
 translate chinese rubyphotoshoot2_098547f1:
 
     # "She slowly comes to a stop and catches her breath as I stop recording."
-    "She slowly comes to a stop and catches her breath as I stop recording."
+    "当我停止录音时，她慢慢停了下来，屏住了呼吸。"
 
 # game/boutique.rpy#L1020
 translate chinese rubyphotoshoot2_9d09d471:
 
     # ruby "Hehe, look how much you came..."
-    ruby "Hehe, look how much you came..."
+    ruby "哼哼，看看你射了多少啊...."
 
 # game/boutique.rpy#L1021
 translate chinese rubyphotoshoot2_1cd90dda:
 
     # ruby "Darling, you are a wonderful sex partner…"
-    ruby "Darling, you are a wonderful sex partner…"
+    ruby "亲爱的，你是个很棒的性伴侣…"
 
 # game/boutique.rpy#L1022
 translate chinese rubyphotoshoot2_c2db3d19:
 
     # mc "You were amazing too; you played my cock with your ass like it was a musical instrument."
-    mc "You were amazing too; you played my cock with your ass like it was a musical instrument."
+    mc "你也很了不起；你把我的阴茎乐器一样耍。"
 
 # game/boutique.rpy#L1024
 translate chinese rubyphotoshoot2_765469cc:
 
     # "She takes the camera from me and plugs it into the laptop, copying the video files over. Although this doesn't stop her from remaining sat on my cock."
-    "She takes the camera from me and plugs it into the laptop, copying the video files over. Although this doesn't stop her from remaining sat on my cock."
+    "她从我手里接过摄像机，把它插进笔记本电脑，把视频文件复制过来。尽管这并不能阻止她坐在我的肉棒上。"
 
 # game/boutique.rpy#L1025
 translate chinese rubyphotoshoot2_d19c2781:
 
     # ruby "You lasted so much longer than those one-pump-dump stallions. I actually came during penetration; I wasn’t expecting that."
-    ruby "You lasted so much longer than those one-pump-dump stallions. I actually came during penetration; I wasn’t expecting that."
+    ruby "你比那些one-pump-dump的种马撑的时间长多了。我其实是在你射完之后才高潮的；没想到啊。"
 
 # game/boutique.rpy#L1026
 translate chinese rubyphotoshoot2_7b0903a0:
 
     # mc "What are you going to do with the video?"
-    mc "What are you going to do with the video?"
+    mc "你打算怎么处理这段视频？"
 
 # game/boutique.rpy#L1028
 translate chinese rubyphotoshoot2_1fd19c0d:
 
     # ruby "I’ll probably take a screenshot of the video, maybe a five second preview, and try to sell it. Hopefully it should appeal to a larger market than my cam shows."
-    ruby "I’ll probably take a screenshot of the video, maybe a five second preview, and try to sell it. Hopefully it should appeal to a larger market than my cam shows."
+    ruby "我可能会拍一个视频的截图，或者5秒钟的预览，然后试着把它卖掉。希望它能吸引比我的“摄像机秀”更大的市场。"
 
 # game/boutique.rpy#L1029
 translate chinese rubyphotoshoot2_3250f109:
 
     # mc "Yeah, I’ll appeal to that massive female audience. That’s the important one."
-    mc "Yeah, I’ll appeal to that massive female audience. That’s the important one."
+    mc "是的，我会吸引大量的女性观众。这才是最重要的。"
 
 # game/boutique.rpy#L1031
 translate chinese rubyphotoshoot2_1adeeb82:
 
     # ruby "Hmm… Cam shows and female audience…"
-    ruby "Hmm… Cam shows and female audience…"
+    ruby "嗯…摄像机秀和女性观众…"
 
 # game/boutique.rpy#L1033
 translate chinese rubyphotoshoot2_44cfa3b2:
 
     # ruby "Darling, how long are you here to work for?"
-    ruby "Darling, how long are you here to work for?"
+    ruby "亲爱的，你要在这里工作多久？"
 
 # game/boutique.rpy#L1034
 translate chinese rubyphotoshoot2_8bee519f:
 
     # mc "Ideally from 9 till 5. I guess that’s a lot of time to fill if you were only planning on taking some pictures and videos to sell."
-    mc "Ideally from 9 till 5. I guess that’s a lot of time to fill if you were only planning on taking some pictures and videos to sell."
+    mc "最理想的时间是9点到5点。我想如果你只打算拍些照片和视频来卖的话，那就要花很多时间了。"
 
 # game/boutique.rpy#L1035
 translate chinese rubyphotoshoot2_13091383:
 
     # ruby "I usually start my cam show at this time; if I paid you, would you join me on the cam show?"
-    ruby "I usually start my cam show at this time; if I paid you, would you join me on the cam show?"
+    ruby "我通常在这个时候开始我的摄像机秀；如果我付钱给你，你愿意和我一起去看电视节目吗？"
 
 # game/boutique.rpy#L1036
 translate chinese rubyphotoshoot2_00220a83:
 
     # mc "Thing is, I’m quite recognizable, so I’d absolutely need to hide my face."
-    mc "Thing is, I’m quite recognizable, so I’d absolutely need to hide my face."
+    mc "问题是，我很容易被认出来，所以我绝对需要掩面。"
 
 # game/boutique.rpy#L1037
 translate chinese rubyphotoshoot2_20cd5d3e:
 
     # ruby "But of course darling, all I need is your... heh, you know."
-    ruby "But of course darling, all I need is your... heh, you know."
+    ruby "当然，亲爱的，我只需要你的........嘿，你知道的。"
 
 # game/boutique.rpy#L1038
 translate chinese rubyphotoshoot2_8a9175db:
 
     # ruby "It’s quite a lucrative opportunity, I’ll be sure to pay you what you deserve."
-    ruby "It’s quite a lucrative opportunity, I’ll be sure to pay you what you deserve."
+    ruby "这是一个很有利可图的机会，我一定会给你应得的报酬。"
 
 # game/boutique.rpy#L1039
 translate chinese rubyphotoshoot2_2dc7c73b:
 
     # mc "Alright, I’d be happy to do it."
-    mc "Alright, I’d be happy to do it."
+    mc "好吧，我很乐意这么做。"
 
 # game/boutique.rpy#L1041
 translate chinese rubyphotoshoot2_ca54d4a8:
 
     # "Everything in the past ten minutes just happened so fast, it only just occured to me that I had sex with Ruby, and Melody was likely successful in her part making it happen."
-    "Everything in the past ten minutes just happened so fast, it only just occured to me that I had sex with Ruby, and Melody was likely successful in her part making it happen."
+    "在这过去的十分钟里，一切都发生得太快了，我只是突然想到我和Ruby发生了性关系，而Melody很可能是她成功地促成了这一切。"
 
 # game/boutique.rpy#L1042
 translate chinese rubyphotoshoot2_4ca1e673:
 
     # "Melody's plan was clearly to use me to earn some money."
-    "Melody's plan was clearly to use me to earn some money."
+    "Melody的计划很明显是想利用我赚些钱"
 
 # game/boutique.rpy#L1043
 translate chinese rubyphotoshoot2_7a8029a5:
 
     # "When I came to work at a boutique, I wasn’t expecting to become the star of a cam show, but at this point I’m so wrapped up in the schemes of both Melody and Ruby that I’m not surprised it’s come to this."
-    "When I came to work at a boutique, I wasn’t expecting to become the star of a cam show, but at this point I’m so wrapped up in the schemes of both Melody and Ruby that I’m not surprised it’s come to this."
+    "当我来到一家精品店工作时，我并没有想到自己会成为一个拍片子的男优，但在这一点上，我是如此专注于Melody和Ruby的计划，我并不感到惊讶。"
 
 # game/boutique.rpy#L1045
 translate chinese rubyphotoshoot2_993415fc:
 
     # ruby "Okay darling, I assume your species needs a break between ejaculations, so I’ll setup the stream."
-    ruby "Okay darling, I assume your species needs a break between ejaculations, so I’ll setup the stream."
+    ruby "好吧，亲爱的，我想你这种生物需要在射精之后休息一下，所以我来设置stream。"
 
 # game/boutique.rpy#L1047
 translate chinese rubyphotoshoot2_d66471e2:
 
     # ruby "Just stare at my butt until you're hard and ready to go again."
-    ruby "Just stare at my butt until you're hard and ready to go again."
+    ruby "只用一直盯着我的屁股看，直到你准备好再继续。"
 
 # game/boutique.rpy#L1048
 translate chinese rubyphotoshoot2_fc570b3d:
 
     # "That’s easy, getting paid to have sex with an extremely attractive lady. It's an unusual experience for sure."
-    "That’s easy, getting paid to have sex with an extremely attractive lady. It's an unusual experience for sure."
+    "太轻松了，只需要和一个非常漂亮的女人做爱就可以得到报酬。这肯定是一次不寻常的经历。"
 
 # game/boutique.rpy#L1049
 translate chinese rubyphotoshoot2_3bf0e5d5:
 
     # "I don’t even think I’d get tired of this after seven hours, as long as we take breaks."
-    "I don’t even think I’d get tired of this after seven hours, as long as we take breaks."
+    "只要我们中途休息一下，我并不认为做七个小时我会对此感到疲惫或者厌倦。"
 
 # game/boutique.rpy#L1051
 translate chinese rubyphotoshoot2_6da041f8:
 
     # ruby "Okay, there we go, the stream is on. There's less competition for straight streams than male or female, so we should get a few viewers."
-    ruby "Okay, there we go, the stream is on. There's less competition for straight streams than male or female, so we should get a few viewers."
+    ruby "好了，开始了，stream开始了。与男性或女性相比，直流的竞争较少，所以我们应该吸引一些观众。"
 
 # game/boutique.rpy#L1053
 translate chinese rubyphotoshoot2_b969cd9f:
 
     # ruby "Goodness, 10 viewers already, that’s… a record… How embarrassing."
-    ruby "Goodness, 10 viewers already, that’s… a record… How embarrassing."
+    ruby "天哪，已经有10个观众了，这是…一个记录…真尴尬。"
 
 # game/boutique.rpy#L1054
 translate chinese rubyphotoshoot2_d14b5205:
 
     # "I have an erection again at this point, softly snug in Ruby's folds."
-    "I have an erection again at this point, softly snug in Ruby's folds."
+    "这时我又勃起了，轻轻地贴在Ruby的褶里。"
 
 # game/boutique.rpy#L1055
 translate chinese rubyphotoshoot2_97a9bbfd:
 
     # mc "Hey babe, I'm ready to go, ride it a little for the viewers."
-    mc "Hey babe, I'm ready to go, ride it a little for the viewers."
+    mc "嘿宝贝，我准备好了，为了这些观众，骑一会儿我吧。"
 
 # game/boutique.rpy#L1057
 translate chinese rubyphotoshoot2_e9c68e10:
@@ -11364,5 +11364,5 @@ translate chinese strings:
 
     # game/boutique.rpy_L3141_1
     old "Go for a modest approach in the middle of her bosom."
-    new "Go for a modest approach in the middle of her bosom."
+    new "在她的胸怀中寻求一种温和的方式。"
 

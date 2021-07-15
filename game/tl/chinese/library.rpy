@@ -8654,49 +8654,49 @@ translate chinese lilylegsupmissionary_c6319fc3:
 translate chinese lilylegsupmissionary_603b4944:
 
     # aurora "Thank you for the letter, Lily... I think your letter evaluated [playername] to be harmless and horny, I have to thank you for such an expert level analysis."
-    aurora "谢谢你的来信，Lily……我认为你在信中对[playername]评价是无害的以及好色的，我必须感谢你这样的专家级分析。"
+    aurora "谢谢你的来信，Lily……我认为你在信中对[playername]评价是无害的以及好色的，我必须感谢你这样专家级的分析。"
 
 # game/library.rpy#L2439
 translate chinese lilylegsupmissionary_6a837e42:
 
     # aurora "So I’ve heard. I think your letter evaluated [playername] to be harmless and horny, I have to thank you for such an expert level analysis."
-    aurora "所以我听说……你在信中对[playername]评价是无害的以及好色的，我必须感谢你这样的专家级分析。"
+    aurora "所以我听说……你在信中对[playername]评价是无害的以及好色的，我必须感谢你这样专家级的分析。"
 
 # game/library.rpy#L2450
 translate chinese lilylegsupmissionary_924b3ef4:
 
     # "I can feel both Moxie and Lily’s tails stand on end when she said I’m horny. My tail would be standing on end too, does she know I’ve been sleeping around?"
-    "当她说我好色的时候我能感觉到Moxie和Lily的尾巴都竖起来了。我的“尾巴”也翘起来了，她知道我一直在到处乱搞吗?"
+    "当她说我好色的时候我能感觉到Moxie和Lily的尾巴都竖起来了。我的“尾巴”也翘起来了，她难道知道我一直在到处乱搞吗?"
 
 # game/library.rpy#L2452
 translate chinese lilylegsupmissionary_7c36c9ee:
 
     # aurora "Hohoh, just one of my juvenile jokes! Don’t mind me, you need a sense of humour at my age."
-    aurora "Hohoh, just one of my juvenile jokes! Don’t mind me, you need a sense of humour at my age."
+    aurora "嘿嘿，只是我的一个小玩笑而已。别在意，在我这个年纪啊，需要点幽默感。"
 
 # game/library.rpy#L2455
 translate chinese lilylegsupmissionary_ef6abc05:
 
     # "And the vibe in the room returns to normal."
-    "And the vibe in the room returns to normal."
+    "房间里的气氛顿时轻松了起来。"
 
 # game/library.rpy#L2456
 translate chinese lilylegsupmissionary_14d151b1:
 
     # aurora "Lily, give me the short and simple."
-    aurora "Lily, give me the short and simple."
+    aurora "Lily，请你长话短说。"
 
 # game/library.rpy#L2458
 translate chinese lilylegsupmissionary_9a0c7ddb:
 
     # lily "Okay, so I've thought about it, and I have a few potential leads... I have them written down here, let me see..."
-    lily "Okay, so I've thought about it, and I have a few potential leads... I have them written down here, let me see..."
+    lily "好的，我设想过了，有几个可能的线索…我写在这儿了，让我看看……"
 
 # game/library.rpy#L2460
 translate chinese lilylegsupmissionary_4a8d1a78:
 
     # lily "Firstly, he arrived when Moxie cast an alleged 'Summon Familiar' spell."
-    lily "Firstly, he arrived when Moxie cast an alleged 'Summon Familiar' spell."
+    lily "首先，当Moxie施展所谓的“召唤使魔”咒语后，结果把这位人类给“召唤”了过来。"
 
 # game/library.rpy#L2461
 translate chinese lilylegsupmissionary_9ad183b6:
