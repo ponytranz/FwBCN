@@ -8702,25 +8702,25 @@ translate chinese lilylegsupmissionary_4a8d1a78:
 translate chinese lilylegsupmissionary_9ad183b6:
 
     # lily "We had to rethink what the spell actually was, and thus shortlisted it to teleportation."
-    lily "We had to rethink what the spell actually was, and thus shortlisted it to teleportation."
+    lily "所以我不得不重新考虑这个咒语到底是什么，因此我把它列入了“瞬间移动”的名单中。"
 
 # game/library.rpy#L2462
 translate chinese lilylegsupmissionary_ff77037e:
 
     # lily "Penelope also told me that the teleportation was specific to [playername] and didn’t capture any area around him."
-    lily "Penelope also told me that the teleportation was specific to [playername] and didn’t capture any area around him."
+    lily "Penelope还告诉我，瞬间移动是只针对于[playername]本身的，不会影响他周围的任何区域。"
 
 # game/library.rpy#L2463
 translate chinese lilylegsupmissionary_b320c800:
 
     # lily "His DNA was analysed and there were no matches, so my best theory is that he’s from a faraway planet."
-    lily "His DNA was analysed and there were no matches, so my best theory is that he’s from a faraway planet."
+    lily "我们还分析了他的DNA，发现并没有与之匹配的生物，所以我认为他来自一遥远的星球。"
 
 # game/library.rpy#L2465
 translate chinese lilylegsupmissionary_1464d4f6:
 
     # moxie "Wow… She investigated this better than me…"
-    moxie "Wow… She investigated this better than me…"
+    moxie "哇哦…她调查得比我要好……"
 
 # game/library.rpy#L2468
 translate chinese lilylegsupmissionary_6787882a:

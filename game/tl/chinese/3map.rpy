@@ -5690,7 +5690,7 @@ translate chinese strings:
 
     # game/3map.rpy_L1822_1
     old "Riku Climbing Sex"
-    new "与Riku的攀岩位"
+    new "与Riku在攀岩时做爱"
 
     # game/3map.rpy_L1822_2
     old "Lily Splits Sex"

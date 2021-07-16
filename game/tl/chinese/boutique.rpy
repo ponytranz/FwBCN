@@ -3542,103 +3542,103 @@ translate chinese rubyphotoshoot2_97a9bbfd:
 translate chinese rubyphotoshoot2_e9c68e10:
 
     # ruby "Good idea, mmm, just sit back and I’ll make everything feel great."
-    ruby "Good idea, mmm, just sit back and I’ll make everything feel great."
+    ruby "好主意，嗯，只需坐下来，我就会让一切感觉很好的。"
 
 # game/boutique.rpy#L1058
 translate chinese rubyphotoshoot2_2cd3e36e:
 
     # "Her rump starts to teasingly gyrate back and forth around my cock, pleasuring me in ways I didn't know were possible with a vagina."
-    "Her rump starts to teasingly gyrate back and forth around my cock, pleasuring me in ways I didn't know were possible with a vagina."
+    "她的臀部开始戏谑地绕着我的肉棒转来转去，以一种我不知道的方式取悦我。"
 
 # game/boutique.rpy#L1059
 translate chinese rubyphotoshoot2_ee0ce02f:
 
     # camshowaudience "'Woah sex!' – 'That’s hot, I want that cock' – 'wtf kind of dick is that?' – 'fuck it!' – 'what species is that' – 'omg it’s a dragon'"
-    camshowaudience "'Woah sex!' – 'That’s hot, I want that cock' – 'wtf kind of dick is that?' – 'fuck it!' – 'what species is that' – 'omg it’s a dragon'"
+    camshowaudience "“哇，性！”–我太热了，我想要那根肉棒–“那是什么样的大屌？”–“去他妈的！”–“那是什么物种？”——“天哪，这是一条龙”"
 
 # game/boutique.rpy#L1060
 translate chinese rubyphotoshoot2_bfea1bd1:
 
     # "I can see the chat room from where I’m laying down, and the chat seems to be full of ladies loving the show so far."
-    "I can see the chat room from where I’m laying down, and the chat seems to be full of ladies loving the show so far."
+    "我可以从我躺着的地方看到聊天室，聊天室里似乎挤满了迄今为止喜欢这个节目的女士们。"
 
 # game/boutique.rpy#L1061
 translate chinese rubyphotoshoot2_e19feb44:
 
     # camshowaudience "'Twist60 has donated 5 monies' – 'keep going!' – 'NotPrincessAurora has donated 10 monies' – 'XAshleeX has donated 10 monies.'"
-    camshowaudience "'Twist60 has donated 5 monies' – 'keep going!' – 'NotPrincessAurora has donated 10 monies' – 'XAshleeX has donated 10 monies.'"
+    camshowaudience "“Twist60捐赠了5块钱”–“继续！”NotPrincessAurora捐赠了10块钱–“XAshleeX捐赠了10块钱。”"
 
 # game/boutique.rpy#L1063
 translate chinese rubyphotoshoot2_13234d25:
 
     # ruby "Mmphh, the heck, that’s so much monie. Here, let me set a sex goal, how about… 50?"
-    ruby "Mmphh, the heck, that’s so much monie. Here, let me set a sex goal, how about… 50?"
+    ruby "嗯，见鬼，居然有这么多钱。来吧，让我设定一个性爱目标，捐赠达到50元怎么样？"
 
 # game/boutique.rpy#L1064
 translate chinese rubyphotoshoot2_73e51610:
 
     # camshowaudience "'ponyluv has donated 25 monies.'"
-    camshowaudience "'ponyluv has donated 25 monies.'"
+    camshowaudience "“ponyluv捐了25块钱。”"
 
 # game/boutique.rpy#L1065
 translate chinese rubyphotoshoot2_630d7a92:
 
     # ruby "Ah, thank youuu. I don’t know what to say, this is so much."
-    ruby "Ah, thank youuu. I don’t know what to say, this is so much."
+    ruby "啊，谢谢你。我不知道该说什么，但这笔钱可不是个小数目。"
 
 # game/boutique.rpy#L1066
 translate chinese rubyphotoshoot2_faea0fc4:
 
     # "I don’t know what to say either, I guess I’m popular, or my dick is anyway."
-    "I don’t know what to say either, I guess I’m popular, or my dick is anyway."
+    "我也不知道该说什么，我想我很受欢迎，或者我的肉棒也很受欢迎。"
 
 # game/boutique.rpy#L1067
 translate chinese rubyphotoshoot2_eb1d0330:
 
     # mc "How many viewers do we have?"
-    mc "How many viewers do we have?"
+    mc "我们现在有多少观众呢？"
 
 # game/boutique.rpy#L1069
 translate chinese rubyphotoshoot2_0dd702fa:
 
     # ruby "Uhm, 120, wow!"
-    ruby "Uhm, 120, wow!"
+    ruby "嗯，120，哇！"
 
 # game/boutique.rpy#L1070
 translate chinese rubyphotoshoot2_9a220343:
 
     # mc "Alright, well they met that sex goal rather quickly, lets give them a show."
-    mc "Alright, well they met that sex goal rather quickly, lets give them a show."
+    mc "好吧，他们很快就达到了你定的性爱目标，要不让我们给他们表演一下？"
 
 # game/boutique.rpy#L1071
 translate chinese rubyphotoshoot2_48218697:
 
     # ruby "Of course darling, are you ready to go again?"
-    ruby "Of course darling, are you ready to go again?"
+    ruby "当然了亲爱的，你准备好再来一次了吗？"
 
 # game/boutique.rpy#L1072
 translate chinese rubyphotoshoot2_7b7d5807:
 
     # mc "Yeah, no need to hold back."
-    mc "Yeah, no need to hold back."
+    mc "是的，没必要隐瞒。"
 
 # game/boutique.rpy#L1075
 translate chinese rubyphotoshoot2_1ce45d50:
 
     # "Ruby sits down on my cock, taking my entire shaft inside her, her insides are still lubricated with residue of my cum."
-    "Ruby sits down on my cock, taking my entire shaft inside her, her insides are still lubricated with residue of my cum."
+    "Ruby坐在我的肉棒上，把我的整个大根都放在她体内，她的阴部仍然被我的残余油膏润滑着。"
 
 # game/boutique.rpy#L1078
 translate chinese rubyphotoshoot2_8de4b86a:
 
     # "She begins to ride me up and down as before, her vagina squeezing and sucking around my throbbing cock."
-    "She begins to ride me up and down as before, her vagina squeezing and sucking around my throbbing cock."
+    "她开始像以前一样骑着我上下，她的阴道挤压着，吮吸着我跳动的阴茎。"
 
 # game/boutique.rpy#L1081
 translate chinese rubyphotoshoot2_85bc8724:
 
     # ruby "Mmm, thank you for another donation, Jenxi. I knew this would be a hit, but I didn’t anticipate how much of a hit it would be."
-    ruby "Mmm, thank you for another donation, Jenxi. I knew this would be a hit, but I didn’t anticipate how much of a hit it would be."
+    ruby "嗯，谢谢你的再一次捐款，Jenxi。我知道这会很成功，但我没料到会有多成功。"
 
 # game/boutique.rpy#L1086
 translate chinese rubyphotoshoot2_ce617998:
@@ -3650,7 +3650,7 @@ translate chinese rubyphotoshoot2_ce617998:
 translate chinese rubyphotoshoot2_98e52f97:
 
     # "The two of us play along with the cam show for hours, taking breaks to drink tea and eat lunch. We agree that after lunch we’ll do our last sex show because I’m starting to grow tired."
-    "The two of us play along with the cam show for hours, taking breaks to drink tea and eat lunch. We agree that after lunch we’ll do our last sex show because I’m starting to grow tired."
+    "我们俩一起玩了好几个小时，休息时间喝茶和吃午饭。我们同意午饭后再做最后一场性爱秀，因为我开始累了。"
 
 # game/boutique.rpy#L1088
 translate chinese rubyphotoshoot2_ce617998_1:
@@ -3662,1387 +3662,1387 @@ translate chinese rubyphotoshoot2_ce617998_1:
 translate chinese rubyphotoshoot2_ed6add12:
 
     # "About halfway into the last sex show, Ruby is once again expertly riding me. Mentally, I'd never get tired of this, physically, my thighs are starting to cramp a little."
-    "About halfway into the last sex show, Ruby is once again expertly riding me. Mentally, I'd never get tired of this, physically, my thighs are starting to cramp a little."
+    "上一场性爱秀进行到一半时，Ruby又一次熟练地驾驭着我。精神上，我永远不会厌倦这个，身体上，我的大腿开始有点抽筋。"
 
 # game/boutique.rpy#L1093
 translate chinese rubyphotoshoot2_a3c70599:
 
     # "Wouldn't want another cramp incident like Blossom's."
-    "Wouldn't want another cramp incident like Blossom's."
+    "不想再发生像Blossom那样的抽筋。"
 
 # game/boutique.rpy#L1094
 translate chinese rubyphotoshoot2_300ffe9a:
 
     # "Ruby however just keeps riding. I’m impressed at her lack of fatigue, she seems to be as full of energy as when we started."
-    "Ruby however just keeps riding. I’m impressed at her lack of fatigue, she seems to be as full of energy as when we started."
+    "Ruby只是继续骑着。我对她缺乏疲劳印象深刻，她似乎和我们开始时一样精力充沛。"
 
 # game/boutique.rpy#L1095
 translate chinese rubyphotoshoot2_df79d4d3:
 
     # ruby "Ahhh, your cock is crazy good darling. Ahh, ahahhhh, aaaahhhhhhhh!"
-    ruby "Ahhh, your cock is crazy good darling. Ahh, ahahhhh, aaaahhhhhhhh!"
+    ruby "啊，你的肉棒太疯狂了，亲爱的！啊，嗷，啊......啊！"
 
 # game/boutique.rpy#L1096
 translate chinese rubyphotoshoot2_d5f11f4a:
 
     # "I’m a little less energetic than the first time, but it’s still unfathomably pleasurable. I’ve thoroughly enjoyed being a sex toy on the whims of a horny mare in heat, although it’s probably not something I’d want to try every day."
-    "I’m a little less energetic than the first time, but it’s still unfathomably pleasurable. I’ve thoroughly enjoyed being a sex toy on the whims of a horny mare in heat, although it’s probably not something I’d want to try every day."
+    "我的精力比第一次少了一点，但还是让人感到莫名的愉悦。我非常喜欢在炎热的天气里，随心所欲地做一个性玩具，尽管这可能不是我每天都想尝试的。"
 
 # game/boutique.rpy#L1097
 translate chinese rubyphotoshoot2_788180ec:
 
     # "Whilst it does feel good, my orgasm is building up much slower than my previous ones."
-    "Whilst it does feel good, my orgasm is building up much slower than my previous ones."
+    "虽然仍然感觉很爽，但我的性高潮比以前的要慢得多。"
 
 # game/boutique.rpy#L1098
 translate chinese rubyphotoshoot2_8d88e60f:
 
     # "In the corner of my eye I spot something moving, it’s between the cracks of the door frame, briefly reminding me of where I stood with Melody."
-    "In the corner of my eye I spot something moving, it’s between the cracks of the door frame, briefly reminding me of where I stood with Melody."
+    "在我的眼角，我发现有什么东西在动，它在门框的缝隙之间，让我想起当时我和Melody站在那里。"
 
 # game/boutique.rpy#L1099
 translate chinese rubyphotoshoot2_48c3b88a:
 
     # "Low and behold, Melody is watching with a smug grin on her face."
-    "Low and behold, Melody is watching with a smug grin on her face."
+    "你瞧，Melody正看着呢，看她脸上洋溢着的得意的笑容。"
 
 # game/boutique.rpy#L1100
 translate chinese rubyphotoshoot2_c2e52639:
 
     # "I’m not sure whether I should grimace or grin back. She smiles and winks at me though, so I give her a sly thumbs up."
-    "I’m not sure whether I should grimace or grin back. She smiles and winks at me though, so I give her a sly thumbs up."
+    "我不知道我是该做鬼脸还是该咧嘴笑。不过，她对我微笑和眨眼，所以我狡猾地向她竖起大拇指。"
 
 # game/boutique.rpy#L1102
 translate chinese rubyphotoshoot2_221d7daa:
 
     # ruby "Ahh, ohh, I-I’m close, darling!"
-    ruby "Ahh, ohh, I-I’m close, darling!"
+    ruby "啊，哦，我...我感觉我快...亲爱的！"
 
 # game/boutique.rpy#L1103
 translate chinese rubyphotoshoot2_1c6f3abe:
 
     # "Ruby starts to ride me even faster, pounding into me over and over. *Slap*, *Slap*, *Slap*. I’m getting really close to cumming."
-    "Ruby starts to ride me even faster, pounding into me over and over. *Slap*, *Slap*, *Slap*. I’m getting really close to cumming."
+    "Ruby开始骑得更快，一次又一次地撞在我身上*啪*，*啪*，*啪*。我马上就要射了。"
 
 # game/boutique.rpy#L1104
 translate chinese rubyphotoshoot2_3ca34e18:
 
     # ruby "*Pant* Coming, I’m coming! Ahh, cum inside me… Ahhh!"
-    ruby "*Pant* Coming, I’m coming! Ahh, cum inside me… Ahhh!"
+    ruby "*喘气*，我来了！啊，精液在我的体内…啊！"
 
 # game/boutique.rpy#L1107
 translate chinese rubyphotoshoot2_42258b82:
 
     # "The pleasure is far too overwhelming causing me to close my eyes as I start to cum again."
-    "The pleasure is far too overwhelming causing me to close my eyes as I start to cum again."
+    "当我再次开始抽搐的时候，这种快乐太让人难以忍受了，以至于我闭上了眼睛。"
 
 # game/boutique.rpy#L1108
 translate chinese rubyphotoshoot2_cc98b3b6:
 
     # "Despite being several orgasms in, I’m sure this is one of the more powerful ones of the day. I fill up Ruby with many more loads of my hot cum, a sensation that I’ll never grow tired of."
-    "Despite being several orgasms in, I’m sure this is one of the more powerful ones of the day. I fill up Ruby with many more loads of my hot cum, a sensation that I’ll never grow tired of."
+    "尽管有好几次高潮，我确信这是一天中最有力的高潮之一。我在Ruby的身体里射入了更多的热乎的精液，这种感觉我永远不会厌倦。"
 
 # game/boutique.rpy#L1109
 translate chinese rubyphotoshoot2_b95ee9ae:
 
     # "As my climax fades and I open my eyes, Melody was already gone. I’ll be sure to pay her a visit before I leave though."
-    "As my climax fades and I open my eyes, Melody was already gone. I’ll be sure to pay her a visit before I leave though."
+    "当我的高潮退去，我睁开眼睛，Melody已经离开了。不过，我走之前一定会去看望她。"
 
 # game/boutique.rpy#L1115
 translate chinese rubyphotoshoot2_e6997bc4:
 
     # "Ruby raises herself and my cum oozes out of her en masse. Even though I’ve sat here and not done much, I’m exhausted."
-    "Ruby raises herself and my cum oozes out of her en masse. Even though I’ve sat here and not done much, I’m exhausted."
+    "Ruby抬起头来，我的精液从她下面流出。尽管我坐在这里没做什么，但我已经筋疲力尽了。"
 
 # game/boutique.rpy#L1116
 translate chinese rubyphotoshoot2_6389032b:
 
     # ruby "Thanks for watching everyone, you’ve all been wonderful, bye byeee!"
-    ruby "Thanks for watching everyone, you’ve all been wonderful, bye byeee!"
+    ruby "谢谢大家的观看，你们都很棒，再见！"
 
 # game/boutique.rpy#L1118
 translate chinese rubyphotoshoot2_5c6986e7:
 
     # ruby "Melody is going to be back home soon, so I try to stop my cam show before that happens. I couldn’t bare the thought of her hearing me, how embarrassing!"
-    ruby "Melody is going to be back home soon, so I try to stop my cam show before that happens. I couldn’t bare the thought of her hearing me, how embarrassing!"
+    ruby "Melody很快就要回家了，所以我尽量在那之前停止我的摄像机秀。一想到她听到我，我就忍不住了，真尴尬！"
 
 # game/boutique.rpy#L1119
 translate chinese rubyphotoshoot2_d47dd87a:
 
     # "Indeed, wouldn’t that be a shame."
-    "Indeed, wouldn’t that be a shame."
+    "事实上，这并不羞耻。"
 
 # game/boutique.rpy#L1120
 translate chinese rubyphotoshoot2_84cebf40:
 
     # "She turns off the stream and we both enjoy a well deserved cuddle. I haven’t known Ruby that long really, this all happened quite fast."
-    "She turns off the stream and we both enjoy a well deserved cuddle. I haven’t known Ruby that long really, this all happened quite fast."
+    "她关掉了stream，我们都享受了一个当之无愧的拥抱。虽然我认识Ruby没那么久，但讲真，这一切发生得可真快。"
 
 # game/boutique.rpy#L1122
 translate chinese rubyphotoshoot2_90526b05:
 
     # "Despite that, after the hours we’d spent together today, there was an undeniable bond between us."
-    "Despite that, after the hours we’d spent together today, there was an undeniable bond between us."
+    "尽管如此，经过我们今天一起度过的这几个小时，我们之间有着不可否认的联系。"
 
 # game/boutique.rpy#L1123
 translate chinese rubyphotoshoot2_3f216c0c:
 
     # mc "How much did we end up earning, Ruby?"
-    mc "How much did we end up earning, Ruby?"
+    mc "我们最后赚了多少钱，Ruby？"
 
 # game/boutique.rpy#L1125
 translate chinese rubyphotoshoot2_ca56577a:
 
     # ruby "A lot more than I expected, we’re up around 300 monies. That’s a wild amount, I'll have plenty of time to focus on designing some new clothes."
-    ruby "A lot more than I expected, we’re up around 300 monies. That’s a wild amount, I'll have plenty of time to focus on designing some new clothes."
+    ruby "比我预期的要多得多，我们增加了大约300元。这是一个疯狂的数量，我会有足够的时间专注于设计一些新衣服。"
 
 # game/boutique.rpy#L1126
 translate chinese rubyphotoshoot2_d0bfd4ff:
 
     # mc "Anything you’re designing in particular?"
-    mc "Anything you’re designing in particular?"
+    mc "你有什么特别设计的吗？"
 
 # game/boutique.rpy#L1128
 translate chinese rubyphotoshoot2_f6d5183d:
 
     # ruby "I’m designing something ambitious, it’s a long flowing dress, it’s my second attempt at a wedding themed garment."
-    ruby "I’m designing something ambitious, it’s a long flowing dress, it’s my second attempt at a wedding themed garment."
+    ruby "我在设计一件比较费力的服装，一件飘逸的长裙，这是我第二次尝试以婚礼为主题的服装。"
 
 # game/boutique.rpy#L1129
 translate chinese rubyphotoshoot2_4d9f8653:
 
     # "I always thought it was strange that Ruby was designing clothes for a species that is predominantly nude, but a wedding dress seems to make sense."
-    "I always thought it was strange that Ruby was designing clothes for a species that is predominantly nude, but a wedding dress seems to make sense."
+    "我一直觉得很奇怪，Ruby为一个以裸体为主的物种设计服装，但婚纱似乎很有意义。"
 
 # game/boutique.rpy#L1131
 translate chinese rubyphotoshoot2_967b9f2a:
 
     # ruby "I hope it gets accepted. I need to finish it first, but I’m excited to get back to work."
-    ruby "I hope it gets accepted. I need to finish it first, but I’m excited to get back to work."
+    ruby "我希望它能被接受。我需要先完成，但我很兴奋能回到工作岗位。"
 
 # game/boutique.rpy#L1133
 translate chinese rubyphotoshoot2_35af9795:
 
     # ruby "Ah, I’ll pay you kindly for your services today, I know I couldn’t have done it without you."
-    ruby "Ah, I’ll pay you kindly for your services today, I know I couldn’t have done it without you."
+    ruby "啊，我会为你今天的服务付钱的，我知道没有你我是做不到的。"
 
 # game/boutique.rpy#L1134
 translate chinese rubyphotoshoot2_32f36c6f:
 
     # mc "You don’t need to pay me much; I don't have too much use for money."
-    mc "You don’t need to pay me much; I don't have too much use for money."
+    mc "你不需要付我太多钱；我基本用不着钱。"
 
 # game/boutique.rpy#L1136
 translate chinese rubyphotoshoot2_dc6d93db:
 
     # ruby "Mmm, in that case at least let me pay you enough to make your life here more luxurious, by all means you deserve it, darling."
-    ruby "Mmm, in that case at least let me pay you enough to make your life here more luxurious, by all means you deserve it, darling."
+    ruby "嗯呃，至少让我付给你足够的钱让你的生活更加豪华，这是你应得的，亲爱的。"
 
 # game/boutique.rpy#L1138
 translate chinese rubyphotoshoot2_83466057:
 
     # ruby "Of course, if you ever return, you’re more than welcome to do another show with me. I appreciate it’s not something you’ll perhaps want to do every day, but the offer is there and the money is good."
-    ruby "Of course, if you ever return, you’re more than welcome to do another show with me. I appreciate it’s not something you’ll perhaps want to do every day, but the offer is there and the money is good."
+    ruby "当然，如果你再回来的话，我们非常欢迎你和我一起做另一个节目。我很感激这不是你每天都想做的事情，但是你的酬劳是有的，而且收入很可观。"
 
 # game/boutique.rpy#L1139
 translate chinese rubyphotoshoot2_8f185dba:
 
     # "She ends up giving me 80 monies, not bad if I say so myself."
-    "She ends up giving me 80 monies, not bad if I say so myself."
+    "她最后给了我80块钱，我个人感觉这份收入挺可观的。"
 
 # game/boutique.rpy#L1140
 translate chinese rubyphotoshoot2_cc32019d:
 
     # "With that resolved, I only have one more thing left to do before I head home."
-    "With that resolved, I only have one more thing left to do before I head home."
+    "这边完事后，我回家前只剩下一件事要做了。"
 
 # game/boutique.rpy#L1144
 translate chinese rubyphotoshoot2_6cae93df:
 
     # "I part ways with Ruby and as I leave her bedroom, I take note that the door to Melody’s room is apart slightly."
-    "I part ways with Ruby and as I leave her bedroom, I take note that the door to Melody’s room is apart slightly."
+    "我和Ruby分开了，当我离开她的卧室时，我注意到Melody房间的门有点敞开。"
 
 # game/boutique.rpy#L1146
 translate chinese rubyphotoshoot2_d6914c6d:
 
     # "I peek inside and there is indeed a cute white mare laying on the bed. She idily kicks her legs in the air as she browses on her laptop."
-    "I peek inside and there is indeed a cute white mare laying on the bed. She idily kicks her legs in the air as she browses on her laptop."
+    "我往里面一看，床上确实躺着一匹可爱的白色母马。她正对着笔记本电脑性奋的踢腿。"
 
 # game/boutique.rpy#L1148
 translate chinese rubyphotoshoot2_bb268a53:
 
     # "To be polite, I gently knock on the door as I let myself in and close it behind me."
-    "To be polite, I gently knock on the door as I let myself in and close it behind me."
+    "为了礼貌，我轻轻地敲门，让自己进去，然后把门关上。"
 
 # game/boutique.rpy#L1151
 translate chinese rubyphotoshoot2_06b4e335:
 
     # melody "Make yourself at home why don’t you."
-    melody "Make yourself at home why don’t you."
+    melody "别见外。"
 
 # game/boutique.rpy#L1152
 translate chinese rubyphotoshoot2_d3721444:
 
     # mc "You know why I’m here."
-    mc "You know why I’m here."
+    mc "你知道我为什么在这里。"
 
 # game/boutique.rpy#L1154
 translate chinese rubyphotoshoot2_7a74b753:
 
     # melody "Actually I’m not so sure, are you here to try and perv on me too?"
-    melody "Actually I’m not so sure, are you here to try and perv on me too?"
+    melody "其实我不太确定，你来这里也是为了骗我吗？"
 
 # game/boutique.rpy#L1155
 translate chinese rubyphotoshoot2_72a620fc:
 
     # mc "Don’t act like you’re better than me, I saw you."
-    mc "Don’t act like you’re better than me, I saw you."
+    mc "别装作你比我强，我看见你了。"
 
 # game/boutique.rpy#L1157
 translate chinese rubyphotoshoot2_e66ac7aa:
 
     # melody "Well duh, you were supposed to see me, I was teasing you. Shoulda seen your face, haha."
-    melody "Well duh, you were supposed to see me, I was teasing you. Shoulda seen your face, haha."
+    melody "嗯，你应该来看我的，我在逗你。真该看看你的脸，哈哈。"
 
 # game/boutique.rpy#L1158
 translate chinese rubyphotoshoot2_0e8c7467:
 
     # melody "I guess it’s true then, you may not be a stallion, but you’re just the same, all you care about is sex."
-    melody "I guess it’s true then, you may not be a stallion, but you’re just the same, all you care about is sex."
+    melody "我想那是对的，你可能不是种马，但你和他们仍然相同 ，你像他们一样只关心性。"
 
 # game/boutique.rpy#L1159
 translate chinese rubyphotoshoot2_506c993f:
 
     # "I don’t have a retort for that, she’s probably right."
-    "I don’t have a retort for that, she’s probably right."
+    "我没有反驳的理由，她可能是对的。"
 
 # game/boutique.rpy#L1161
 translate chinese rubyphotoshoot2_bb01cd28:
 
     # melody "Did you enjoy sliding that pitiful wormy penis deep into my sister?"
-    melody "Did you enjoy sliding that pitiful wormy penis deep into my sister?"
+    melody "你喜欢把那可怜的虫子插进我姐姐的身体里吗？"
 
 # game/boutique.rpy#L1162
 translate chinese rubyphotoshoot2_31049cea:
 
     # mc "Nothing pitiful about this cock, she had a great time."
-    mc "Nothing pitiful about this cock, she had a great time."
+    mc "这根肉棒没什么好可怜的，她的确玩得很开心。"
 
 # game/boutique.rpy#L1164
 translate chinese rubyphotoshoot2_44cd7954:
 
     # melody "Hmph, touché. I bet you’re here because you want to know what my amazing plan was, right?"
-    melody "Hmph, touché. I bet you’re here because you want to know what my amazing plan was, right?"
+    melody "嗯， touché。我打赌你来这里是因为你想知道我的惊人计划是什么，对吧？"
 
 # game/boutique.rpy#L1165
 translate chinese rubyphotoshoot2_e1a331b8:
 
     # melody "I bet you're impressed, I did what I said."
-    melody "I bet you're impressed, I did what I said."
+    melody "我敢说你一定印象深刻，我说了就做了。"
 
 # game/boutique.rpy#L1166
 translate chinese rubyphotoshoot2_d77573b1:
 
     # mc "Yeah, how did you manage that? It’s like her opinion of me completely changed. She was so indifferent when I first met her, but this time she hung off my every word."
-    mc "Yeah, how did you manage that? It’s like her opinion of me completely changed. She was so indifferent when I first met her, but this time she hung off my every word."
+    mc "是啊，你怎么做到的？好像她对我的看法完全改变了。我第一次见到她时，她是如此冷漠，但这次她对我的每一句话都挂在心上。"
 
 # game/boutique.rpy#L1168
 translate chinese rubyphotoshoot2_e31c445f:
 
     # melody "You see, I have a way of reading and influencing people."
-    melody "You see, I have a way of reading and influencing people."
+    melody "你看，我有一种阅读和影响他人的方式。"
 
 # game/boutique.rpy#L1170
 translate chinese rubyphotoshoot2_08973702:
 
     # melody "Her opinion didn’t change at all, I just inspired her to be more open about her perverted nature. I sowed the seeds of sexual indulgence and monetary success within her."
-    melody "Her opinion didn’t change at all, I just inspired her to be more open about her perverted nature. I sowed the seeds of sexual indulgence and monetary success within her."
+    melody "她的观点一点也没有改变，我只是鼓励她对自己变态的天性更加开放。我在她体内播下了性放纵和金钱成功的种子。"
 
 # game/boutique.rpy#L1171
 translate chinese rubyphotoshoot2_cd218a26:
 
     # mc "Sounds manipulative."
-    mc "Sounds manipulative."
+    mc "听起来她很会摆布人。"
 
 # game/boutique.rpy#L1173
 translate chinese rubyphotoshoot2_363fbe3f:
 
     # melody "You say manipulative, I say supportive. She wanted to do those things with you anyway, but that girl is too much of a softie, not like me at all. I’m a girl that gets what I want, she just shyly twiddles her thumbs and hopes it comes to her."
-    melody "You say manipulative, I say supportive. She wanted to do those things with you anyway, but that girl is too much of a softie, not like me at all. I’m a girl that gets what I want, she just shyly twiddles her thumbs and hopes it comes to her."
+    melody "你说善于摆布人，我支持。她想和你一起做那些事，但那个女孩太温柔了，一点也不像我。我是一个得到我想要的东西的女孩，她只是害羞地转动着拇指，希望它能来到她身边。"
 
 # game/boutique.rpy#L1174
 translate chinese rubyphotoshoot2_1f04124c:
 
     # "She may say that, but I’ve noticed that the two sisters are surprisingly similar, even in their differences."
-    "She may say that, but I’ve noticed that the two sisters are surprisingly similar, even in their differences."
+    "她可能会这么说，但我注意到这两个姐妹惊人地相似，甚至在差异上也是如此。"
 
 # game/boutique.rpy#L1175
 translate chinese rubyphotoshoot2_6dce6576:
 
     # mc "What did you say to her specifically?"
-    mc "What did you say to her specifically?"
+    mc "你具体跟她说了什么？"
 
 # game/boutique.rpy#L1176
 translate chinese rubyphotoshoot2_492a7de7:
 
     # "Melody stops tapping at her laptop and sits up to face me, her usual teasing demeanour is lost, I guess she’s not in the mood for that."
-    "Melody stops tapping at her laptop and sits up to face me, her usual teasing demeanour is lost, I guess she’s not in the mood for that."
+    "Melody不再轻敲她的笔记本电脑，坐起来面对我，她一贯的调侃风度消失了，我猜她没心情这么做。"
 
 # game/boutique.rpy#L1178
 translate chinese rubyphotoshoot2_cc324770:
 
     # melody "I made some passing comments, said that you were cute, and it’s mating season. Even though we are sisters we do talk about those personal things. I told her that if she wants to sleep with you, she should."
-    melody "I made some passing comments, said that you were cute, and it’s mating season. Even though we are sisters we do talk about those personal things. I told her that if she wants to sleep with you, she should."
+    melody "我顺便说了几句，说你很可爱，然后现在又正是交配季节。即使我们是姐妹，我们也会谈论那些私事。我告诉她如果她想和你上床，她应该赶快行动起来。"
 
 # game/boutique.rpy#L1179
 translate chinese rubyphotoshoot2_816d246d:
 
     # mc "You essentially acted as a wingman for me, that seems remarkably kind of you, what I’m wondering is what do you have to gain from such a seemingly selfless act?"
-    mc "You essentially acted as a wingman for me, that seems remarkably kind of you, what I’m wondering is what do you have to gain from such a seemingly selfless act?"
+    mc "你就是我的僚机，你真的太好了，我想知道的是，你从这种看似无私的行为中得到了什么？"
 
 # game/boutique.rpy#L1181
 translate chinese rubyphotoshoot2_de2b3aaf:
 
     # melody "Meh, come here, look at this."
-    melody "Meh, come here, look at this."
+    melody "嘿，过来，看看这个。"
 
 # game/boutique.rpy#L1183
 translate chinese rubyphotoshoot2_4852f73d:
 
     # "She stands up and moves over to her keyboard. She turns it on and taps at the keys, but no sounds come out."
-    "She stands up and moves over to her keyboard. She turns it on and taps at the keys, but no sounds come out."
+    "她站起来，走向键盘。她打开电源，轻敲钥匙，但没有声音出来。"
 
 # game/boutique.rpy#L1184
 translate chinese rubyphotoshoot2_a4e35633:
 
     # melody "Busted, and we’re broke so Ruby can’t afford to buy me a new one."
-    melody "Busted, and we’re broke so Ruby can’t afford to buy me a new one."
+    melody "破产了，我们破产了，所以Ruby买不起新的。"
 
 # game/boutique.rpy#L1185
 translate chinese rubyphotoshoot2_a62e0c81:
 
     # mc "Ah, I was told that you study music, so you had some real passion behind this plan."
-    mc "Ah, I was told that you study music, so you had some real passion behind this plan."
+    mc "啊，我听说你学音乐，所以你对这个计划很有热情。"
 
 # game/boutique.rpy#L1187
 translate chinese rubyphotoshoot2_cf8b5d94:
 
     # melody "You see I’m a smart gal, I didn’t just encourage Ruby to sleep with you, I also decided to make a fuss about getting a new keyboard."
-    melody "You see I’m a smart gal, I didn’t just encourage Ruby to sleep with you, I also decided to make a fuss about getting a new keyboard."
+    melody "你看，我是个聪明的女孩，我不仅鼓励Ruby和你上床，我还决定对买新键盘这件事而大发牢骚。"
 
 # game/boutique.rpy#L1189
 translate chinese rubyphotoshoot2_36853bf7:
 
     # melody "Usually when we argue Ruby shrinks into herself like a turtle, getting sad and mopey. Not this time though, she was sly, she had a plan."
-    melody "Usually when we argue Ruby shrinks into herself like a turtle, getting sad and mopey. Not this time though, she was sly, she had a plan."
+    melody "通常当我们吵架时，Ruby会像乌龟一样缩进自己，变得悲伤和闷闷不乐。但这次不是，她很狡猾，她有个计划。"
 
 # game/boutique.rpy#L1190
 translate chinese rubyphotoshoot2_7c4dace6:
 
     # "This girl is scary."
-    "This girl is scary."
+    "这个女孩真可怕。"
 
 # game/boutique.rpy#L1191
 translate chinese rubyphotoshoot2_4fade8a0:
 
     # melody "She remembered that cute male that came to work for her and realized how much of a money making opportunity you were."
-    melody "She remembered that cute male that came to work for her and realized how much of a money making opportunity you were."
+    melody "她记得那个来为她工作的可爱男人，意识到你是多么赚钱的机会。"
 
 # game/boutique.rpy#L1193
 translate chinese rubyphotoshoot2_5355ff31:
 
     # melody "See? Everyone wins!"
-    melody "See? Everyone wins!"
+    melody "看到没？大家都获利了！"
 
 # game/boutique.rpy#L1194
 translate chinese rubyphotoshoot2_c489997e:
 
     # mc "So you used us both to get something you wanted, but you simultaneously got both me and Ruby something we wanted too."
-    mc "So you used us both to get something you wanted, but you simultaneously got both me and Ruby something we wanted too."
+    mc "所以你利用我们两个来得到你想要的东西，同时也得到了我和Ruby想要的东西。"
 
 # game/boutique.rpy#L1195
 translate chinese rubyphotoshoot2_863b6877:
 
     # mc "Maybe you're not so bad after all... Rather benevolent in your own special way."
-    mc "Maybe you're not so bad after all... Rather benevolent in your own special way."
+    mc "也许你也没那么坏.......以你自己独特的方式，相当仁慈。"
 
 # game/boutique.rpy#L1197
 translate chinese rubyphotoshoot2_2b195d80:
 
     # melody "Mhm, I’m an absolute delight."
-    melody "Mhm, I’m an absolute delight."
+    melody "嗯，我非常高兴。"
 
 # game/boutique.rpy#L1198
 translate chinese rubyphotoshoot2_9de6aaa0:
 
     # mc "Well… I wouldn’t go that far."
-    mc "Well… I wouldn’t go that far."
+    mc "嗯…我不会走那么远。"
 
 # game/boutique.rpy#L1200
 translate chinese rubyphotoshoot2_0ff10e3d:
 
     # melody "Ohh, maybe I could convince you… I still need to give you a reward."
-    melody "Ohh, maybe I could convince you… I still need to give you a reward."
+    melody "哦，也许我可以说服你…我还是得给你一个奖励。"
 
 # game/boutique.rpy#L1201
 translate chinese rubyphotoshoot2_7996c8e2:
 
     # mc "My reward? Wasn’t that having sex with Ruby?"
-    mc "My reward? Wasn’t that having sex with Ruby?"
+    mc "我的奖励？难道不是和Ruby做爱吗？"
 
 # game/boutique.rpy#L1203
 translate chinese rubyphotoshoot2_e446000f:
 
     # melody "Hehe, no, that’s not the reward. But do tell me, what was it like being my sister’s sex toy for the day?"
-    melody "Hehe, no, that’s not the reward. But do tell me, what was it like being my sister’s sex toy for the day?"
+    melody "呵呵，不，那不是奖励。但是告诉我，当我姐姐的性玩具是什么感觉？"
 
 # game/boutique.rpy#L1204
 translate chinese rubyphotoshoot2_d0c857bb:
 
     # mc "It was great, she definitely has an edge of experience when it comes to pleasing men."
-    mc "It was great, she definitely has an edge of experience when it comes to pleasing men."
+    mc "感觉很爽，她在取悦男人方面绝对有经验。"
 
 # game/boutique.rpy#L1206
 translate chinese rubyphotoshoot2_99241f6b:
 
     # melody "Is that so? That would explain those weird faces you were making."
-    melody "Is that so? That would explain those weird faces you were making."
+    melody "是这样吗？那就可以解释你那奇怪的表情了。"
 
 # game/boutique.rpy#L1207
 translate chinese rubyphotoshoot2_b2b4097f:
 
     # melody "You looked so ridiclous! No wonder she had her back to you, hehe."
-    melody "You looked so ridiclous! No wonder she had her back to you, hehe."
+    melody "你看起来真可笑！难怪她把她还给你了，呵呵。"
 
 # game/boutique.rpy#L1211
 translate chinese rubyphotoshoot2_3f06f606:
 
     # melody "Me? Oh no, not me."
-    melody "Me? Oh no, not me."
+    melody "我？哦不，不是我。"
 
 # game/boutique.rpy#L1212
 translate chinese rubyphotoshoot2_7009b166:
 
     # melody "When I fuck you, I'll make eye contact."
-    melody "When I fuck you, I'll make eye contact."
+    melody "当我操你的时候，我会眼神交流。"
 
 # game/boutique.rpy#L1213
 translate chinese rubyphotoshoot2_fa6d0cdf:
 
     # mc "You're gonna fuck me?"
-    mc "You're gonna fuck me?"
+    mc "你想操我？"
 
 # game/boutique.rpy#L1215
 translate chinese rubyphotoshoot2_f0cefc1b:
 
     # melody "Ahaha, you wish."
-    melody "Ahaha, you wish."
+    melody "啊哈哈，做梦吧。"
 
 # game/boutique.rpy#L1218
 translate chinese rubyphotoshoot2_56ae29b6:
 
     # melody "You mean like this?"
-    melody "You mean like this?"
+    melody "你是说...像这样？"
 
 # game/boutique.rpy#L1220
 translate chinese rubyphotoshoot2_d0cb5e81:
 
     # mc "Yeah, like that."
-    mc "Yeah, like that."
+    mc "是的，就像这样。"
 
 # game/boutique.rpy#L1222
 translate chinese rubyphotoshoot2_7773bef1:
 
     # melody "Hehe, I've taken acting classes you know, don't take me too seriously when I'm acting melodramatic."
-    melody "Hehe, I've taken acting classes you know, don't take me too seriously when I'm acting melodramatic."
+    melody "呵呵，我上过表演课，你知道的，我演戏的时候不要太当真。"
 
 # game/boutique.rpy#L1223
 translate chinese rubyphotoshoot2_9a1fd456:
 
     # melody "Otherwise I'll just walk all over you, and even a sadist like myself prefers a man that can stand on their own two feet."
-    melody "Otherwise I'll just walk all over you, and even a sadist like myself prefers a man that can stand on their own two feet."
+    melody "否则我就在你身上走来走去，甚至像我这样的虐待狂也更喜欢一个能自立的男人。"
 
 # game/boutique.rpy#L1224
 translate chinese rubyphotoshoot2_b1d460ed:
 
     # mc "Noted..."
-    mc "Noted..."
+    mc "注意....."
 
 # game/boutique.rpy#L1226
 translate chinese rubyphotoshoot2_3668201c:
 
     # melody "You seemed to enjoy the handjob from before, did it turn you on?"
-    melody "You seemed to enjoy the handjob from before, did it turn you on?"
+    melody "你好像很喜欢上次我给你做的手工活，这让你兴奋吗？"
 
 # game/boutique.rpy#L1227
 translate chinese rubyphotoshoot2_fba54082:
 
     # mc "In a weird way, yeah."
-    mc "In a weird way, yeah."
+    mc "以一种奇怪的方式来说，是的。"
 
 # game/boutique.rpy#L1229
 translate chinese rubyphotoshoot2_9c655b8e:
 
     # melody "Ewie, I can feel your lecherous gaze crawling over me, feels tingly."
-    melody "Ewie, I can feel your lecherous gaze crawling over me, feels tingly."
+    melody "呕，我能感觉到你淫秽的目光爬到我身上，感觉很刺痛。"
 
 # game/boutique.rpy#L1230
 translate chinese rubyphotoshoot2_1e820b50:
 
     # mc "It’s hard not to stare when you bring attention to yourself."
-    mc "It’s hard not to stare when you bring attention to yourself."
+    mc "当你把注意力集中到自己身上时，很难不盯着看。"
 
 # game/boutique.rpy#L1232
 translate chinese rubyphotoshoot2_4d03970e:
 
     # melody "I’m not as well-endowed as my sister, but a pervert like you doesn’t care about that, right?"
-    melody "I’m not as well-endowed as my sister, but a pervert like you doesn’t care about that, right?"
+    melody "我不像我姐姐那么有天赋，但像你这样的变态不会在乎的，对吧？"
 
 # game/boutique.rpy#L1236
 translate chinese rubyphotoshoot2_199dae46:
 
     # melody "Awh heck yeah, maybe you are redeemable after all, wormy boy."
-    melody "Awh heck yeah, maybe you are redeemable after all, wormy boy."
+    melody "是啊，也许你终究是可以救赎的，可怜的孩子。"
 
 # game/boutique.rpy#L1239
 translate chinese rubyphotoshoot2_69068057:
 
     # melody "Mm yeah, something to play with right?"
-    melody "Mm yeah, something to play with right?"
+    melody "嗯，是的，玩点什么吧？"
 
 # game/boutique.rpy#L1242
 translate chinese rubyphotoshoot2_ec84d971:
 
     # melody "Yeah, a shallow incel like yourself would say that to try and get as many women possible."
-    melody "Yeah, a shallow incel like yourself would say that to try and get as many women possible."
+    melody "是啊，像你这样肤浅的人会这么说，只是为了来争取尽可能多的女人。"
 
 # game/boutique.rpy#L1244
 translate chinese rubyphotoshoot2_a023eaaa:
 
     # melody "Who needs tits anyway? I have a great butt!"
-    melody "Who needs tits anyway? I have a great butt!"
+    melody "谁还需要乳头？我屁股很大！"
 
 # game/boutique.rpy#L1246
 translate chinese rubyphotoshoot2_207024e7:
 
     # "She's not lying, she has a great butt as she turns around and shows me in a surprisingly lewd fashion."
-    "She's not lying, she has a great butt as she turns around and shows me in a surprisingly lewd fashion."
+    "她没有撒谎，她有一个很大的屁股，她转过身来，以一种出人意料的淫秽方式向我展示。"
 
 # game/boutique.rpy#L1247
 translate chinese rubyphotoshoot2_5bd40ad0:
 
     # melody "I bet if I offered myself to you right now, you’d sleep with me, wouldn’t you?"
-    melody "I bet if I offered myself to you right now, you’d sleep with me, wouldn’t you?"
+    melody "我敢打赌，如果我现在向你献身，你会和我上床的，不是吗？"
 
 # game/boutique.rpy#L1248
 translate chinese rubyphotoshoot2_fdd81875:
 
     # melody "Bent over, pussy exposed, begging for it, you’d fuck me where I stood."
-    melody "Bent over, pussy exposed, begging for it, you’d fuck me where I stood."
+    melody "弯下腰，暴露阴部，乞求你就地操我。"
 
 # game/boutique.rpy#L1249
 translate chinese rubyphotoshoot2_b48da982:
 
     # mc "I’ve had a lot of sex today, so if you’re trying to tease me, you’ll have to try harder than that."
-    mc "I’ve had a lot of sex today, so if you’re trying to tease me, you’ll have to try harder than that."
+    mc "我今天做爱很频繁，所以如果你想取笑我，你就得更努力。"
 
 # game/boutique.rpy#L1250
 translate chinese rubyphotoshoot2_19cc09cf:
 
     # "I was bluffing; I could feel blood going towards my nethers. Perhaps due to genuine arousal, or perhaps due to her pheromones."
-    "I was bluffing; I could feel blood going towards my nethers. Perhaps due to genuine arousal, or perhaps due to her pheromones."
+    "我在虚张声势；我能感觉到血朝我的阴茎流去。也许是因为真正的兴奋，或者是因为她的信息素。"
 
 # game/boutique.rpy#L1251
 translate chinese rubyphotoshoot2_c547a903:
 
     # "I could tell what she was doing, she was trying to give me an erection so she could tease me again."
-    "I could tell what she was doing, she was trying to give me an erection so she could tease me again."
+    "我知道她在做什么，她想让我勃起，这样她就可以再逗我了。"
 
 # game/boutique.rpy#L1252
 translate chinese rubyphotoshoot2_2023db60:
 
     # "I don’t know why, I guess it’s a fetish of hers."
-    "I don’t know why, I guess it’s a fetish of hers."
+    "我不知道为什么，我想这是她的癖好。"
 
 # game/boutique.rpy#L1253
 translate chinese rubyphotoshoot2_4eae01fb:
 
     # "Unfortunately for her I’m not exactly horny."
-    "Unfortunately for her I’m not exactly horny."
+    "不幸的是，对她来说，我并不是很性感。"
 
 # game/boutique.rpy#L1255
 translate chinese rubyphotoshoot2_c90cbce7:
 
     # melody "Fine, you and I both know you weren't getting this ass anyway."
-    melody "Fine, you and I both know you weren't getting this ass anyway."
+    melody "好吧，你和我都知道你无论如何都不可能会得到这个屁股。"
 
 # game/boutique.rpy#L1256
 translate chinese rubyphotoshoot2_e02ce2c4:
 
     # mc "I know what you’re trying to do this time, you won’t catch me off guard."
-    mc "I know what you’re trying to do this time, you won’t catch me off guard."
+    mc "我知道你这次想干什么，你不会让我措手不及的。"
 
 # game/boutique.rpy#L1257
 translate chinese rubyphotoshoot2_2b48e95e:
 
     # melody "Playing hard to get? I guess that makes sense if you’ve already had so much action."
-    melody "Playing hard to get? I guess that makes sense if you’ve already had so much action."
+    melody "觉得很难得到？但如果你已经做了很多次的话，那确实挺有道理。"
 
 # game/boutique.rpy#L1259
 translate chinese rubyphotoshoot2_e02fe430:
 
     # melody "I’ll be honest, I wasn’t expecting you to have so much sex…"
-    melody "I’ll be honest, I wasn’t expecting you to have so much sex…"
+    melody "老实说，我没想到你居然可以做爱那么久...."
 
 # game/boutique.rpy#L1260
 translate chinese rubyphotoshoot2_9b9fa0df:
 
     # mc "Me neither actually. I tell you what though, I feel like I could have sex one more time."
-    mc "Me neither actually. I tell you what though, I feel like I could have sex one more time."
+    mc "其实我也没想到。我告诉你，我觉得我可以再做爱一次。"
 
 # game/boutique.rpy#L1262
 translate chinese rubyphotoshoot2_df2caa8a:
 
     # melody "Are you implying what I think you’re implying? How disgusting, I won’t sleep with a pervert like you."
-    melody "Are you implying what I think you’re implying? How disgusting, I won’t sleep with a pervert like you."
+    melody "你在暗示我认为你在暗示什么吗？真恶心，我不会和你这样的变态上床。"
 
 # game/boutique.rpy#L1263
 translate chinese rubyphotoshoot2_71a2737c:
 
     # mc "You were just teasing me about bending over and getting fucked where you stood."
-    mc "You were just teasing me about bending over and getting fucked where you stood."
+    mc "你只是在取笑我弯腰在你站的地方做爱。"
 
 # game/boutique.rpy#L1265
 translate chinese rubyphotoshoot2_e1a400ec:
 
     # melody "Well yeah but… That was hypothetical."
-    melody "Well yeah but… That was hypothetical."
+    melody "是的，但是…那是假设。"
 
 # game/boutique.rpy#L1266
 translate chinese rubyphotoshoot2_e67bb332:
 
     # mc "Just like that hypothetical handjob."
-    mc "Just like that hypothetical handjob."
+    mc "就像上次那个假想的”手工活“。"
 
 # game/boutique.rpy#L1267
 translate chinese rubyphotoshoot2_7fcb6ced:
 
     # mc "What do you want to do with me this time? Let's cut to the chase."
-    mc "What do you want to do with me this time? Let's cut to the chase."
+    mc "这次你想对我做什么？我们开门见山吧。"
 
 # game/boutique.rpy#L1269
 translate chinese rubyphotoshoot2_3dcfa47d:
 
     # melody "Eugh, you’re no fun, you’re not fun at all!"
-    melody "Eugh, you’re no fun, you’re not fun at all!"
+    melody "恩，你一点都不好玩，一点都不好玩！"
 
 # game/boutique.rpy#L1270
 translate chinese rubyphotoshoot2_7d74c3e4:
 
     # melody "I’m pissed off now."
-    melody "I’m pissed off now."
+    melody "我现在很生气。"
 
 # game/boutique.rpy#L1271
 translate chinese rubyphotoshoot2_b139461d:
 
     # "Finally, I've busted her angsty façade. Only question is, what do I do now?"
-    "Finally, I've busted her angsty façade. Only question is, what do I do now?"
+    "最后，我打破了她愤怒的外表。唯一的问题是，我现在该怎么办？"
 
 # game/boutique.rpy#L1272
 translate chinese rubyphotoshoot2_a6ad9a3e:
 
     # mc "What about my reward? I’ll still gladly accept it."
-    mc "What about my reward? I’ll still gladly accept it."
+    mc "我的报酬呢？我还是很乐意接受。"
 
 # game/boutique.rpy#L1273
 translate chinese rubyphotoshoot2_ed7bdc5d:
 
     # "She huffs and looks at my semi-erection."
-    "She huffs and looks at my semi-erection."
+    "她怒气冲冲地看着我半勃起的阴茎。"
 
 # game/boutique.rpy#L1276
 translate chinese rubyphotoshoot2_9383db81:
 
     # melody "Only if you shut up."
-    melody "Only if you shut up."
+    melody "除非你闭嘴。"
 
 # game/boutique.rpy#L1277
 translate chinese rubyphotoshoot2_f1658868:
 
     # mc "Alright, you have a deal."
-    mc "Alright, you have a deal."
+    mc "好吧，你说定了。"
 
 # game/boutique.rpy#L1279
 translate chinese rubyphotoshoot2_8e577584:
 
     # "She turns around for a few seconds, remaining silent."
-    "She turns around for a few seconds, remaining silent."
+    "她转过身几秒钟，保持沉默。"
 
 # game/boutique.rpy#L1281
 translate chinese rubyphotoshoot2_b89420cf:
 
     # melody "Eugh, I'm out of character now, you’ve ruined it."
-    melody "Eugh, I'm out of character now, you’ve ruined it."
+    melody "呃啊，我现在已经脱离我塑造的角色了！你毁了它。"
 
 # game/boutique.rpy#L1282
 translate chinese rubyphotoshoot2_1afa78a1:
 
     # mc "Character?"
-    mc "Character?"
+    mc "角色？"
 
 # game/boutique.rpy#L1292
 translate chinese melodyblowjob2_2ea44e8d:
 
     # melody "Eh-hem, you do want to fuck me, don’t you?"
-    melody "Eh-hem, you do want to fuck me, don’t you?"
+    melody "嗯哼，你真的想操我，是吗？"
 
 # game/boutique.rpy#L1293
 translate chinese melodyblowjob2_11784a3c:
 
     # mc "Hmm…"
-    mc "Hmm…"
+    mc "呃...."
 
 # game/boutique.rpy#L1295
 translate chinese melodyblowjob2_4244349a:
 
     # melody "Slide this cock, deep inside me… Mmm."
-    melody "Slide this cock, deep inside me… Mmm."
+    melody "把你的大屌插入我的深处…唔。"
 
 # game/boutique.rpy#L1300
 translate chinese melodyblowjob2_aa4cac58:
 
     # "Melody's fingers coil around my shaft and begin to jerk it back and forth with a hidden enthusiasm that she'd never admit to."
-    "Melody's fingers coil around my shaft and begin to jerk it back and forth with a hidden enthusiasm that she'd never admit to."
+    "Melody的手指缠绕在我的肉棒上，开始用一种她从不承认的隐藏的热情来回地拨动它"
 
 # game/boutique.rpy#L1301
 translate chinese melodyblowjob2_fdc1b7a8:
 
     # "Her cool grip and movements quickly cause my cock to stiffen and throb."
-    "Her cool grip and movements quickly cause my cock to stiffen and throb."
+    "她冷冰冰的握法和动作很快使我的阴茎僵硬和悸动。"
 
 # game/boutique.rpy#L1302
 translate chinese melodyblowjob2_57aad20d:
 
     # "She looks at my cock with surprising admiration."
-    "She looks at my cock with surprising admiration."
+    "她惊奇而又钦佩地看着我的肉棒。"
 
 # game/boutique.rpy#L1303
 translate chinese melodyblowjob2_e7d6b559:
 
     # "I can tell deep down that she was looking forward to this."
-    "I can tell deep down that she was looking forward to this."
+    "从内心深处可以看出她很期待这个。"
 
 # game/boutique.rpy#L1304
 translate chinese melodyblowjob2_b9e93298:
 
     # melody "I’m just a naughty mare in heat, I'm gasping for cock..."
-    melody "I’m just a naughty mare in heat, I'm gasping for cock..."
+    melody "我只是个正在发情的顽皮母马，我在为肉棒喘气...."
 
 # game/boutique.rpy#L1305
 translate chinese melodyblowjob2_a944e14d:
 
     # melody "I can’t control myself you know, I get so wet around men..."
-    melody "I can’t control myself you know, I get so wet around men..."
+    melody "“我控制不了自己，你知道，我在男人面前太湿了......”"
 
 # game/boutique.rpy#L1307
 translate chinese melodyblowjob2_8471885a:
 
     # melody "Heheh, that was my Ruby impression. Didya like it?"
-    melody "Heheh, that was my Ruby impression. Didya like it?"
+    melody "呵呵，那是我对Ruby的印象。你喜欢吗？"
 
 # game/boutique.rpy#L1308
 translate chinese melodyblowjob2_7fa1b4f6:
 
     # melody "I for one am able to perfectly control myself."
-    melody "I for one am able to perfectly control myself."
+    melody "就我个人而言，我能够完全控制自己。"
 
 # game/boutique.rpy#L1309
 translate chinese melodyblowjob2_09f2de35:
 
     # mc "Is that so?"
-    mc "Is that so?"
+    mc "是那样吗？"
 
 # game/boutique.rpy#L1310
 translate chinese melodyblowjob2_23dc1d00:
 
     # "Her fingers lock around my cock and start to jack me off even faster."
-    "Her fingers lock around my cock and start to jack me off even faster."
+    "她的手指紧紧地搂着我的肉棒，开始更快地帮我手冲。"
 
 # game/boutique.rpy#L1311
 translate chinese melodyblowjob2_b7dee296:
 
     # "The rubbing fingers between her own legs also speed up, she even stifles a few moans as she gets more excited."
-    "The rubbing fingers between her own legs also speed up, she even stifles a few moans as she gets more excited."
+    "她两腿之间摩擦的手指也加快了速度，她甚至抑制了几声呻吟，因为她变得更加性奋。"
 
 # game/boutique.rpy#L1313
 translate chinese melodyblowjob2_c3ad4862:
 
     # melody "Ooohh, your wormy cock is so hard thinking about me, how gross!"
-    melody "Ooohh, your wormy cock is so hard thinking about me, how gross!"
+    melody "噢，你的臭屌想我想得真难受，太恶心了！"
 
 # game/boutique.rpy#L1314
 translate chinese melodyblowjob2_74c4e61f:
 
     # mc "What are you going to do?"
-    mc "What are you going to do?"
+    mc "你打算怎么办？"
 
 # game/boutique.rpy#L1315
 translate chinese melodyblowjob2_d130908b:
 
     # melody "Mmm… It would be boring to just jack you off again..."
-    melody "Mmm… It would be boring to just jack you off again..."
+    melody "嗯…再把你甩了会很无聊的。。。"
 
 # game/boutique.rpy#L1316
 translate chinese melodyblowjob2_22fb3af7:
 
     # melody "And that would hardly be a good reward..."
-    melody "And that would hardly be a good reward..."
+    melody "但这并不是一个好的回报。。。"
 
 # game/boutique.rpy#L1321
 translate chinese melodyblowjob2_217770d1:
 
     # "She kneels down bringing her face level with my cock. She then begins idly licking it with her tongue."
-    "She kneels down bringing her face level with my cock. She then begins idly licking it with her tongue."
+    "她跪下来，脸和我的肉棒平齐。然后她开始懒散地用舌头舔它。"
 
 # game/boutique.rpy#L1322
 translate chinese melodyblowjob2_a4f55ed4:
 
     # melody "Mmphh, how about I clean up your dirty attitude with my pristine tongue… *Lick*, *Lick*"
-    melody "Mmphh, how about I clean up your dirty attitude with my pristine tongue… *Lick*, *Lick*"
+    melody "嗯，不如我用我纯洁的舌头来清理你肮脏的大屌吧…*舔*，*舔*"
 
 # game/boutique.rpy#L1323
 translate chinese melodyblowjob2_a839e07f:
 
     # "I wasn’t expecting this, I don’t know what I was expecting actually, anything could have happened, and it still would have surprised me."
-    "I wasn’t expecting this, I don’t know what I was expecting actually, anything could have happened, and it still would have surprised me."
+    "我没想到会发生这样的事，我不知道我在期待什么，事实上，任何事情都有可能发生，这仍然会让我感到惊讶。"
 
 # game/boutique.rpy#L1325
 translate chinese melodyblowjob2_0c85d943:
 
     # "Her tongue slides around my shaft, leaving a wet sheen and sparks of pleasure in its deft licks."
-    "Her tongue slides around my shaft, leaving a wet sheen and sparks of pleasure in its deft licks."
+    "她的舌头绕着我的肉棒滑动，在它灵巧的舔舐中留下湿润的光泽和快乐的火花。"
 
 # game/boutique.rpy#L1326
 translate chinese melodyblowjob2_1fd6e6c7:
 
     # "She doesn't hold back at all as she twirls her tongue around the tip of my cock, licking off any precum as it drips."
-    "She doesn't hold back at all as she twirls her tongue around the tip of my cock, licking off any precum as it drips."
+    "她一点也不退缩，她用舌头在我的龟头上转来转去，舔掉任何滴落的精液。"
 
 # game/boutique.rpy#L1327
 translate chinese melodyblowjob2_ab9bd251:
 
     # mc "That feels--"
-    mc "That feels--"
+    mc "这感觉...."
 
 # game/boutique.rpy#L1329
 translate chinese melodyblowjob2_56d5099d:
 
     # melody "Shhh, shh… No talking."
-    melody "Shhh, shh… No talking."
+    melody "嘘，嘘……不许说话。"
 
 # game/boutique.rpy#L1330
 translate chinese melodyblowjob2_48b99b4e:
 
     # mc "Mm..."
-    mc "Mm..."
+    mc "唔......"
 
 # game/boutique.rpy#L1332
 translate chinese melodyblowjob2_0a98d959:
 
     # melody "Yeahh, you just stand there and take it like a good boy."
-    melody "Yeahh, you just stand there and take it like a good boy."
+    melody "是的，你只是站在那里，像个好孩子一样接受它。"
 
 # game/boutique.rpy#L1333
 translate chinese melodyblowjob2_e97dbb73:
 
     # "Her hand continues rubbing her pussy quickly as her long tongue swipes from my glans to the base with ease."
-    "Her hand continues rubbing her pussy quickly as her long tongue swipes from my glans to the base with ease."
+    "当她长长的舌头从我的龟头轻轻地滑动到底部，她也持续用她的手快速地摩擦她的阴部。"
 
 # game/boutique.rpy#L1334
 translate chinese melodyblowjob2_26db9806:
 
     # "I wonder if she had already fantasised about this before I arrived."
-    "I wonder if she had already fantasised about this before I arrived."
+    "我不知道我来之前她是否已经幻想过了。"
 
 # game/boutique.rpy#L1336
 translate chinese melodyblowjob2_86becc72:
 
     # melody "Mmmh, you’re just a sex toy for a fine lady like me… That’s right…"
-    melody "Mmmh, you’re just a sex toy for a fine lady like me… That’s right…"
+    melody "嗯，你只是像我这样的好女人的性玩具…没错…"
 
 # game/boutique.rpy#L1337
 translate chinese melodyblowjob2_83bbf9a6:
 
     # "Even though I've already had many orgasms today, Melody's movements cause another one to well up."
-    "Even though I've already had many orgasms today, Melody's movements cause another one to well up."
+    "尽管我今天已经有很多高潮了，但Melody的动作让另一个高潮又来了。"
 
 # game/boutique.rpy#L1338
 translate chinese melodyblowjob2_a4dfee76:
 
     # "My cock tightens and throbs as I get closer and closer to cumming in her mouth."
-    "My cock tightens and throbs as I get closer and closer to cumming in her mouth."
+    "当我越来越接近射精的时候，我的阴茎会紧绷和悸动。"
 
 # game/boutique.rpy#L1340
 translate chinese melodyblowjob2_07beb0ed:
 
     # melody "Ohh, it’s throbbing, does that mean you’re going to cum soon?"
-    melody "Ohh, it’s throbbing, does that mean you’re going to cum soon?"
+    melody "哦，有点悸动，这是不是意味着你很快就要射了？"
 
 # game/boutique.rpy#L1341
 translate chinese melodyblowjob2_0dc934d9:
 
     # mc "Bit faster…"
-    mc "Bit faster…"
+    mc "快点..."
 
 # game/boutique.rpy#L1343
 translate chinese melodyblowjob2_fe86bcac:
 
     # melody "Shh! Alright…"
-    melody "Shh! Alright…"
+    melody "嘘！好吧…"
 
 # game/boutique.rpy#L1345
 translate chinese melodyblowjob2_b6ef8d22:
 
     # "Graciously she speeds up, not sparing a second to tease me as her lips pull back and forth along my glans like a fucking motion."
-    "Graciously she speeds up, not sparing a second to tease me as her lips pull back and forth along my glans like a fucking motion."
+    "她优雅地加快了速度，不遗余力地取笑我，她的嘴唇像性交时的动作一样沿着我的龟头来回吸吮。"
 
 # game/boutique.rpy#L1346
 translate chinese melodyblowjob2_138cd897:
 
     # "All whilst her tongue dances around the tip, overwhelming me with two distinctly pleasurable stimuli."
-    "All whilst her tongue dances around the tip, overwhelming me with two distinctly pleasurable stimuli."
+    "她的舌头一直在舌尖上舞动，两个明显令人愉悦的刺激让我不知所措。"
 
 # game/boutique.rpy#L1347
 translate chinese melodyblowjob2_bb6443b9:
 
     # "With each thrust I can feel myself getting closer to my orgasm, until finally she pushes me over the edge and I release my load into her mouth."
-    "With each thrust I can feel myself getting closer to my orgasm, until finally she pushes me over the edge and I release my load into her mouth."
+    "每次我都能感觉到自己离高潮越来越近，直到最后她把我推到边缘，我把肉棒放进她的嘴里。"
 
 # game/boutique.rpy#L1352
 translate chinese melodyblowjob2_ce75e607:
 
     # "Until she finally pushes me to the limit, her tongue and hand cause me to start cumming into her mouth."
-    "Until she finally pushes me to the limit, her tongue and hand cause me to start cumming into her mouth."
+    "直到她最后把我逼到极限，她的舌头和手使我的肉棒塞进了她的嘴里。"
 
 # game/boutique.rpy#L1357
 translate chinese melodyblowjob2_2f855060:
 
     # melody "Aahhh, ahh, aahhh..."
-    melody "Aahhh, ahh, aahhh..."
+    melody "啊，噢啊，啊啊...."
 
 # game/boutique.rpy#L1358
 translate chinese melodyblowjob2_f4e10820:
 
     # melody "Your hot sticky cum, so gross…"
-    melody "Your hot sticky cum, so gross…"
+    melody "你温热的精液，真恶心…"
 
 # game/boutique.rpy#L1359
 translate chinese melodyblowjob2_eacd5454:
 
     # "I came surprisingly fast!"
-    "I came surprisingly fast!"
+    "我居然这么快就射了！"
 
 # game/boutique.rpy#L1360
 translate chinese melodyblowjob2_fed0c386:
 
     # "It felt great too."
-    "It felt great too."
+    "但感觉也很棒。"
 
 # game/boutique.rpy#L1363
 translate chinese melodyblowjob2_3d58e022:
 
     # melody "… You didn’t cum much…"
-    melody "… You didn’t cum much…"
+    melody "…你没射多少…"
 
 # game/boutique.rpy#L1365
 translate chinese melodyblowjob2_e5aec187:
 
     # melody "It doesn’t taste good either…"
-    melody "It doesn’t taste good either…"
+    melody "味道也不好…"
 
 # game/boutique.rpy#L1367
 translate chinese melodyblowjob2_015bbff2:
 
     # melody "Icky, at least we didn't make a mess this time."
-    melody "Icky, at least we didn't make a mess this time."
+    melody "恶心，至少这次我们没搞砸。"
 
 # game/boutique.rpy#L1372
 translate chinese melodyblowjob2_5f06ad31:
 
     # mc "You know, you’re not good at keeping up your tough girl front."
-    mc "You know, you’re not good at keeping up your tough girl front."
+    mc "你知道，你不善于在女孩前面保持你的强硬。"
 
 # game/boutique.rpy#L1374
 translate chinese melodyblowjob2_0a541039:
 
     # melody "Be quiet, meanie."
-    melody "Be quiet, meanie."
+    melody "安静点，小鬼。"
 
 # game/boutique.rpy#L1375
 translate chinese melodyblowjob2_bccaaecb:
 
     # melody "Go get me a glass of water from the bathroom, I want to wash this gross taste from the back of my throat."
-    melody "Go get me a glass of water from the bathroom, I want to wash this gross taste from the back of my throat."
+    melody "去洗手间给我拿杯水来，我想把这恶心的味道从喉咙后面洗掉。"
 
 # game/boutique.rpy#L1379
 translate chinese melodyblowjob2_291b80c3:
 
     # "I abide and sneak over to an adjacent room to fill up a glass."
-    "I abide and sneak over to an adjacent room to fill up a glass."
+    "我住下来，偷偷溜到隔壁房间去倒满一杯。"
 
 # game/boutique.rpy#L1384
 translate chinese melodyblowjob2_4757f4a4:
 
     # melody "I’m so frustrated that you didn’t play along with me this time."
-    melody "I’m so frustrated that you didn’t play along with me this time."
+    melody "你这次没有和我一起玩，我很伤心。"
 
 # game/boutique.rpy#L1385
 translate chinese melodyblowjob2_76d0cdf1:
 
     # mc "Play along? The first time we met all my reactions were genuine."
-    mc "Play along? The first time we met all my reactions were genuine."
+    mc "一起玩？我们第一次见面时，我的反应都是真诚的。"
 
 # game/boutique.rpy#L1386
 translate chinese melodyblowjob2_d4aa7cda:
 
     # mc "I don’t know what changed, but it felt like you didn’t come across as strongly this time."
-    mc "I don’t know what changed, but it felt like you didn’t come across as strongly this time."
+    mc "我不知道有什么变化，但总感觉你这次没有上次表现地那么强烈。"
 
 # game/boutique.rpy#L1388
 translate chinese melodyblowjob2_dbe53e83:
 
     # melody "Eh, I caught you off guard last time. I like playing with boys like that."
-    melody "Eh, I caught you off guard last time. I like playing with boys like that."
+    melody "呃，上次我让你措手不及。我喜欢和那样的男孩玩。"
 
 # game/boutique.rpy#L1390
 translate chinese melodyblowjob2_fa3d933e:
 
     # melody "Not that I do it often! I'm not like my sister..."
-    melody "Not that I do it often! I'm not like my sister..."
+    melody "我不是经常这么做！我不像我姐姐。。。"
 
 # game/boutique.rpy#L1391
 translate chinese melodyblowjob2_3692f3e5:
 
     # mc "Uhh, right."
-    mc "Uhh, right."
+    mc "呃，是是。"
 
 # game/boutique.rpy#L1393
 translate chinese melodyblowjob2_89476acc:
 
     # melody "I have half a mind to sit on your face right now."
-    melody "I have half a mind to sit on your face right now."
+    melody "我现在有点想坐在你脸上。"
 
 # game/boutique.rpy#L1394
 translate chinese melodyblowjob2_fe05e3aa:
 
     # melody "Do I have to be meaner? Maybe more insults?"
-    melody "Do I have to be meaner? Maybe more insults?"
+    melody "我一定要小气点吗？也许是更多的侮辱？"
 
 # game/boutique.rpy#L1395
 translate chinese melodyblowjob2_fbe1b8a5:
 
     # mc "Melody, why are you trying to front this mean girl persona?"
-    mc "Melody, why are you trying to front this mean girl persona?"
+    mc "Melody，你为什么要装出一副坏女孩的样子？"
 
 # game/boutique.rpy#L1396
 translate chinese melodyblowjob2_19652067:
 
     # mc "I've noticed that everyone else thinks you’re lovely. So why are you cruel to me?"
-    mc "I've noticed that everyone else thinks you’re lovely. So why are you cruel to me?"
+    mc "我注意到其他人都觉得你很可爱。你为什么对我这么残忍？"
 
 # game/boutique.rpy#L1398
 translate chinese melodyblowjob2_8113192f:
 
     # melody "Meh… It’s not you, you’re actually alright, I think. It’s just men."
-    melody "Meh… It’s not you, you’re actually alright, I think. It’s just men."
+    melody "嗯…不讨厌是你，其实你没什么问题。只不过你是个男人。"
 
 # game/boutique.rpy#L1399
 translate chinese melodyblowjob2_b1cc9c62:
 
     # mc "I don’t think I follow?"
-    mc "I don’t think I follow?"
+    mc "什么意思？"
 
 # game/boutique.rpy#L1400
 translate chinese melodyblowjob2_b511f898:
 
     # melody "I’ve been pissed off ever since Mom ran away with a random dude."
-    melody "I’ve been pissed off ever since Mom ran away with a random dude."
+    melody "自从妈妈和一个随便的男人私奔后，我就一直很生气。"
 
 # game/boutique.rpy#L1402
 translate chinese melodyblowjob2_9dfb29e7:
 
     # melody "Mom left me and Ruby alone to struggle."
-    melody "Mom left me and Ruby alone to struggle."
+    melody "妈妈丢下我和Ruby，让我们独自挣扎。"
 
 # game/boutique.rpy#L1404
 translate chinese melodyblowjob2_c31fd2c2:
 
     # melody "I couldn’t really blame my Mom, so… It must have been the stallion, right?"
-    melody "I couldn’t really blame my Mom, so… It must have been the stallion, right?"
+    melody "我不能怪我妈妈，所以…一定是种马，对吧？"
 
 # game/boutique.rpy#L1406
 translate chinese melodyblowjob2_e1059fd9:
 
     # melody "Yeah, I was angry, harboured a resentment to all stallions."
-    melody "Yeah, I was angry, harboured a resentment to all stallions."
+    melody "是的，我很生气，对所有的种马都怀有怨恨。"
 
 # game/boutique.rpy#L1408
 translate chinese melodyblowjob2_c8f613d2:
 
     # melody "But then you’re not a stallion, are you?"
-    melody "But then you’re not a stallion, are you?"
+    melody "但你不是种马，对吧？"
 
 # game/boutique.rpy#L1409
 translate chinese melodyblowjob2_fd0053bd:
 
     # mc "I guess not, I’m not sure what the difference would be though."
-    mc "I guess not, I’m not sure what the difference would be though."
+    mc "我想不是，但我不确定这会有什么不同。"
 
 # game/boutique.rpy#L1411
 translate chinese melodyblowjob2_74c5f58b:
 
     # melody "Hmph, me neither."
-    melody "Hmph, me neither."
+    melody "嗯，我也是。"
 
 # game/boutique.rpy#L1413
 translate chinese melodyblowjob2_b32056e4:
 
     # melody "All I know is that I’ll never let myself become the plaything of a man. I’ll always make sure I’m the dominant one, I want the power."
-    melody "All I know is that I’ll never let myself become the plaything of a man. I’ll always make sure I’m the dominant one, I want the power."
+    melody "我只知道我永远不会让自己成为一个男人的玩物。我会一直确保我是主导者，我想要权力。"
 
 # game/boutique.rpy#L1415
 translate chinese melodyblowjob2_cd24f486:
 
     # melody "Well whatever, that's my life story. Sorry to bore you with that."
-    melody "Well whatever, that's my life story. Sorry to bore you with that."
+    melody "不管怎样，这就是我的人生故事。抱歉让你厌烦了。"
 
 # game/boutique.rpy#L1417
 translate chinese melodyblowjob2_4327b49e:
 
     # melody "We're all problem childs in this era though, so what of it?"
-    melody "We're all problem childs in this era though, so what of it?"
+    melody "我们都是这个时代的问题孩子，那又如何呢？"
 
 # game/boutique.rpy#L1418
 translate chinese melodyblowjob2_427a162e:
 
     # "This certainly explains her personality. Doesn’t explain that weird hand job when we met though, but I guess I can use my imagination to fill those gaps."
-    "This certainly explains her personality. Doesn’t explain that weird hand job when we met though, but I guess I can use my imagination to fill those gaps."
+    "这当然可以解释她的个性。不过，这并不能解释我们见面时那种奇怪的"手工活"，但我想我可以用我的想象力来填补这些空白。"
 
 # game/boutique.rpy#L1419
 translate chinese melodyblowjob2_cc063bea:
 
     # mc "You know… I actually respect that, but I have something important I feel like I need to say."
-    mc "You know… I actually respect that, but I have something important I feel like I need to say."
+    mc "你知道…我真的很尊重这一点，但我有一些重要的事情想说。"
 
 # game/boutique.rpy#L1421
 translate chinese melodyblowjob2_cd43f6f9:
 
     # melody "What’s that, wormy boy?"
-    melody "What’s that, wormy boy?"
+    melody "什么事，蠕虫男孩？"
 
 # game/boutique.rpy#L1422
 translate chinese melodyblowjob2_e683ffda:
 
     # mc "You’re confusing being a strong, independent figure with toxicity and nastiness."
-    mc "You’re confusing being a strong, independent figure with toxicity and nastiness."
+    mc "你把一个强壮、独立的人和毒害和肮脏混为一谈。"
 
 # game/boutique.rpy#L1424
 translate chinese melodyblowjob2_c3aa81df:
 
     # melody "Ah-… I am?"
-    melody "Ah-… I am?"
+    melody "啊-…我有是？"
 
 # game/boutique.rpy#L1425
 translate chinese melodyblowjob2_c102ffd6:
 
     # mc "Yeah, it’s possible to exude that healthy dominance and independence without being rude to everyone else."
-    mc "Yeah, it’s possible to exude that healthy dominance and independence without being rude to everyone else."
+    mc "是的，的确是有可能散发出健康的主导地位和独立性，但不是粗鲁地对待其他人。"
 
 # game/boutique.rpy#L1426
 translate chinese melodyblowjob2_3506d277:
 
     # mc "It’s possible to get what you want, when you want it, through kindness, not rudeness."
-    mc "It’s possible to get what you want, when you want it, through kindness, not rudeness."
+    mc "当你想得到那种权力时，你可以通过善意而不是粗鲁得到你想要的。"
 
 # game/boutique.rpy#L1427
 translate chinese melodyblowjob2_83e8a943:
 
     # mc "Maybe keep the insults in the bedroom when you’re actively trying to talk dirty and be dominant."
-    mc "Maybe keep the insults in the bedroom when you’re actively trying to talk dirty and be dominant."
+    mc "当你想说脏话和占主导地位的时候，也许可以把侮辱放在卧室里。"
 
 # game/boutique.rpy#L1429
 translate chinese melodyblowjob2_67aea52c:
 
     # melody "You’ve got a point..."
-    melody "You’ve got a point..."
+    melody "你说得有道理......"
 
 # game/boutique.rpy#L1431
 translate chinese melodyblowjob2_3d669d51:
 
     # melody "I have noticed that I tend to be bad-mannered in day-to-day conversation."
-    melody "I have noticed that I tend to be bad-mannered in day-to-day conversation."
+    melody "我注意到我在日常谈话中往往举止粗鲁。"
 
 # game/boutique.rpy#L1433
 translate chinese melodyblowjob2_1c95bb50:
 
     # melody "I'd rather not turn that into a habit. I felt good about myself when you said other people think I'm lovely."
-    melody "I'd rather not turn that into a habit. I felt good about myself when you said other people think I'm lovely."
+    melody "我不想把这变成一种习惯。当你说别人认为我很可爱时，我感觉自己很不错。"
 
 # game/boutique.rpy#L1434
 translate chinese melodyblowjob2_8d51738a:
 
     # melody "I’ve been pretty frustrated lately over money, as pathetic as that sounds. However, it seems like you helped bring a healthy influx of cash into the household, am I right?"
-    melody "I’ve been pretty frustrated lately over money, as pathetic as that sounds. However, it seems like you helped bring a healthy influx of cash into the household, am I right?"
+    melody "我最近很缺钱，听起来很可怜是吧。然而，似乎你帮助了一个贫穷的家庭再次获得金钱收入，我说的对吗？"
 
 # game/boutique.rpy#L1435
 translate chinese melodyblowjob2_93b226e1:
 
     # mc "You may be right, there was a large sum of monies."
-    mc "You may be right, there was a large sum of monies."
+    mc "你可能是对的，有一大笔钱。"
 
 # game/boutique.rpy#L1437
 translate chinese melodyblowjob2_7cd4a6c2:
 
     # melody "Once my piano is fixed or replaced, I’ll be in your debt… [playername]…"
-    melody "Once my piano is fixed or replaced, I’ll be in your debt… [playername]…"
+    melody "一旦我的钢琴修好了或者换了，我就欠你的债了…[playername]…"
 
 # game/boutique.rpy#L1438
 translate chinese melodyblowjob2_8fba44ed:
 
     # mc "So you do know my name."
-    mc "So you do know my name."
+    mc "所以你知道我的名字。"
 
 # game/boutique.rpy#L1439
 translate chinese melodyblowjob2_12d96047:
 
     # melody "Yeah, yeah… I do pay attention"
-    melody "Yeah, yeah… I do pay attention"
+    melody "是的，是的…我注意到了"
 
 # game/boutique.rpy#L1440
 translate chinese melodyblowjob2_81247b59:
 
     # mc "Anyway... Wasn’t expecting the blowjob, but I enjoyed that, hope you did too."
-    mc "Anyway... Wasn’t expecting the blowjob, but I enjoyed that, hope you did too."
+    mc "不管怎样......我没想到会有口交，但我很喜欢，希望你也喜欢。"
 
 # game/boutique.rpy#L1441
 translate chinese melodyblowjob2_b39ccd9c:
 
     # mc "You mentioned face-sitting? I wouldn't mind returning the favour."
-    mc "You mentioned face-sitting? I wouldn't mind returning the favour."
+    mc "你刚刚是不是还提到了你想坐我脸上？我可不介意还你这个人情。"
 
 # game/boutique.rpy#L1443
 translate chinese melodyblowjob2_63ab89a4:
 
     # melody "That was a joke!"
-    melody "That was a joke!"
+    melody "那只是开个玩笑啊！"
 
 # game/boutique.rpy#L1444
 translate chinese melodyblowjob2_5d08d90c:
 
     # melody "Maybe another time though..."
-    melody "Maybe another time though..."
+    melody "也许下次吧......"
 
 # game/boutique.rpy#L1445
 translate chinese melodyblowjob2_837df234:
 
     # mc "Alright, in that case, I won't keep you any longer."
-    mc "Alright, in that case, I won't keep you any longer."
+    mc "好吧，那样的话，我就不留你了。"
 
 # game/boutique.rpy#L1446
 translate chinese melodyblowjob2_bc48762a:
 
     # melody "Wait, one more thing."
-    melody "Wait, one more thing."
+    melody "等等，还有一件事。"
 
 # game/boutique.rpy#L1448
 translate chinese melodyblowjob2_8137ab56:
 
     # melody "Come back, I want to see you again."
-    melody "Come back, I want to see you again."
+    melody "回来，我想再看看你。"
 
 # game/boutique.rpy#L1450
 translate chinese melodyblowjob2_b9d7d3e8:
 
     # melody "When you do, trust me, I’ll have my meaniest girl attitude possible!"
-    melody "When you do, trust me, I’ll have my meaniest girl attitude possible!"
+    melody "当你这么做的时候，相信我，我会表现我最刻薄的女孩态度！"
 
 # game/boutique.rpy#L1451
 translate chinese melodyblowjob2_7145e084:
 
     # mc "Awh come on, didn’t you just hear what I said?"
-    mc "Awh come on, didn’t you just hear what I said?"
+    mc "啊，拜托，你没听到我刚刚说的什么吗？"
 
 # game/boutique.rpy#L1453
 translate chinese melodyblowjob2_260aeda6:
 
     # melody "Only in the bedroom darling, hehehe."
-    melody "Only in the bedroom darling, hehehe."
+    melody "只有在卧室里，亲爱的，呵呵。"
 
 # game/boutique.rpy#L1461
 translate chinese melodyblowjob2_ce617998:
 
     # "…"
-    "…"
+    "..."
 
 # game/boutique.rpy#L1465
 translate chinese melodyblowjob2_2acb1e85:
 
     # "I head back to the wagon a little earlier than usual so I can have a nap. Can’t believe those two ended up draining me dry, Moxie is probably going to want some later tonight too. The mind is willing, but the body is weak."
-    "I head back to the wagon a little earlier than usual so I can have a nap. Can’t believe those two ended up draining me dry, Moxie is probably going to want some later tonight too. The mind is willing, but the body is weak."
+    "今天比平常早一点回到篷车，这样我就可以小睡一会儿了。真不敢相信那两个最后把我榨干了，Moxie今晚晚些时候可能也会想要一些。我心里也想要啊，无奈身体却很虚弱。"
 
 # game/boutique.rpy#L1469
 translate chinese melodyblowjob2_f084571c:
 
     # "I can still recall Melody’s plight, after seeing her true personality I’m interested to see her slather on the cute mean girl attitude thick next time we meet."
-    "I can still recall Melody’s plight, after seeing her true personality I’m interested to see her slather on the cute mean girl attitude thick next time we meet."
+    "我仍然记得Melody的困境，在看到她真实的个性之后，我对那个爱刻薄的女孩态度很有兴趣。"
 
 # game/boutique.rpy#L1470
 translate chinese melodyblowjob2_e3ca3391:
 
     # "I’ll play along next time, just for fun."
-    "I’ll play along next time, just for fun."
+    "下次我会一起玩，只是为了玩。"
 
 # game/boutique.rpy#L1471
 translate chinese melodyblowjob2_e8edfb10:
 
     # "It doesn’t take too long for Moxie to return from work."
-    "It doesn’t take too long for Moxie to return from work."
+    "Moxie下班回来没多久。"
 
 # game/boutique.rpy#L1473
 translate chinese melodyblowjob2_e3dc99c8:
 
     # moxie "Hey tricks, how’s it going?"
-    moxie "Hey tricks, how’s it going?"
+    moxie "嘿，今天过得怎么样呀？"
 
 # game/boutique.rpy#L1474
 translate chinese melodyblowjob2_b2b82cde:
 
     # mc "Went to the boutique again today, if you recall there was some kind of scheme, turns out it involved a lot more sex than I anticipated."
-    mc "Went to the boutique again today, if you recall there was some kind of scheme, turns out it involved a lot more sex than I anticipated."
+    mc "今天又去了精品店，如果你还记得有什么阴谋的话，结果它涉及的性比我预想的要多得多。"
 
 # game/boutique.rpy#L1476
 translate chinese melodyblowjob2_17f035f3:
 
     # moxie "Awh please, you’ll make me jealous. Which I’m not! Not jealous..."
-    moxie "Awh please, you’ll make me jealous. Which I’m not! Not jealous..."
+    moxie "啊，求你了，你会让我嫉妒的。但我不是！不嫉妒......"
 
 # game/boutique.rpy#L1478
 translate chinese melodyblowjob2_00e6ce06:
 
     # moxie "Do divulge the details though."
-    moxie "Do divulge the details though."
+    moxie "不过，一定要透露细节。"
 
 # game/boutique.rpy#L1479
 translate chinese melodyblowjob2_6d17273c:
 
     # "Moxie having prepared a drink for herself and I, we sit down on the sofa, and relax."
-    "Moxie having prepared a drink for herself and I, we sit down on the sofa, and relax."
+    "Moxie为自己和我准备了一杯饮料，我们坐在沙发上，放松一下。"
 
 # game/boutique.rpy#L1480
 translate chinese melodyblowjob2_799bbe19:
 
     # mc "I think I mentioned before that Ruby…"
-    mc "I think I mentioned before that Ruby…"
+    mc "我想我之前提到过Ruby…"
 
 # game/boutique.rpy#L1482
 translate chinese melodyblowjob2_20627d8d:
@@ -5054,145 +5054,145 @@ translate chinese melodyblowjob2_20627d8d:
 translate chinese melodyblowjob2_d3a5f064:
 
     # mc "I’m actually not sure if I should tell you, because I’d be sharing one of Ruby’s secrets"
-    mc "I’m actually not sure if I should tell you, because I’d be sharing one of Ruby’s secrets"
+    mc "我真的不知道我是否应该告诉你，因为我即将要和你分享的东西是Ruby的一个秘密"
 
 # game/boutique.rpy#L1485
 translate chinese melodyblowjob2_9e97d85e:
 
     # moxie "Whaaat? Why would you trick me like this…?"
-    moxie "Whaaat? Why would you trick me like this…?"
+    moxie "什么？你为什么要这样耍我…？"
 
 # game/boutique.rpy#L1486
 translate chinese melodyblowjob2_de10ab42:
 
     # moxie "You just told me you had sex, what could be more secretive than that?"
-    moxie "You just told me you had sex, what could be more secretive than that?"
+    moxie "你刚告诉我你有过性行为，还有什么比这更隐秘的吗？"
 
 # game/boutique.rpy#L1487
 translate chinese melodyblowjob2_84d0c964:
 
     # mc "I can trust you right? You’ve been an angel since I met you, so I’m sure I can."
-    mc "I can trust you right? You’ve been an angel since I met you, so I’m sure I can."
+    mc "我可以相信你，对吗？自从我遇见你，你就是一个天使，所以我相信我可以。"
 
 # game/boutique.rpy#L1489
 translate chinese melodyblowjob2_5423e976:
 
     # moxie "Of course you can trust me, dummy! I’d be mad if you didn’t just call me an angel and make me feel all cute and warm inside."
-    moxie "Of course you can trust me, dummy! I’d be mad if you didn’t just call me an angel and make me feel all cute and warm inside."
+    moxie "你当然可以相信我，笨蛋！如果你不直接叫我天使，让我感到内心的可爱和温暖，我会生气的。"
 
 # game/boutique.rpy#L1490
 translate chinese melodyblowjob2_dd9903b2:
 
     # mc "Okay, okay, truth is, Ruby kinda works in the porn industry and I helped her out."
-    mc "Okay, okay, truth is, Ruby kinda works in the porn industry and I helped her out."
+    mc "好吧，好吧，事实是，Ruby在色情行业工作，我帮了她。"
 
 # game/boutique.rpy#L1492
 translate chinese melodyblowjob2_bc458f15:
 
     # moxie "Woah, what? What if someone saw your face? Should I be mad? I’ve never had to react to a situation like this before."
-    moxie "Woah, what? What if someone saw your face? Should I be mad? I’ve never had to react to a situation like this before."
+    moxie "哇，什么？如果有人看到你的脸怎么办？我应该生气吗？我从来没有对这样的情况做出过反应。"
 
 # game/boutique.rpy#L1493
 translate chinese melodyblowjob2_a6ff2940:
 
     # mc "Nah, don’t worry, no one saw my face."
-    mc "Nah, don’t worry, no one saw my face."
+    mc "呐，别担心，没人看到我的脸。"
 
 # game/boutique.rpy#L1495
 translate chinese melodyblowjob2_c22f1ebc:
 
     # moxie "Yeah… But… You’re a teeny bit recognizable even from the waist down..."
-    moxie "Yeah… But… You’re a teeny bit recognizable even from the waist down..."
+    moxie "是的…但是…你从腰部以下都有点认出来......"
 
 # game/boutique.rpy#L1496
 translate chinese melodyblowjob2_5bb98c4e:
 
     # mc "Lights were off though; I could have been anything, right? All they could see was my pelvic area."
-    mc "Lights were off though; I could have been anything, right? All they could see was my pelvic area."
+    mc "不过，灯是关着的；我什么都可以，对吧？他们只能看到我的骨盆。"
 
 # game/boutique.rpy#L1498
 translate chinese melodyblowjob2_a55a780d:
 
     # moxie "Mehhh, try to be careful you dummy."
-    moxie "Mehhh, try to be careful you dummy."
+    moxie "嗯，小心点，你这个笨蛋。"
 
 # game/boutique.rpy#L1499
 translate chinese melodyblowjob2_a4a636d3:
 
     # moxie "You’re the only you in this world, and porn is popular with the women, someone might recognize you."
-    moxie "You’re the only you in this world, and porn is popular with the women, someone might recognize you."
+    moxie "你是这个世界上唯一的你，色情很受女人欢迎，也许有人会认出你。"
 
 # game/boutique.rpy#L1500
 translate chinese melodyblowjob2_f42f87b9:
 
     # mc "Of course I’ll be careful; I don’t particularly want to become a porn star here."
-    mc "Of course I’ll be careful; I don’t particularly want to become a porn star here."
+    mc "我当然会小心的；我不是特别想成为这里的色情明星。"
 
 # game/boutique.rpy#L1502
 translate chinese melodyblowjob2_b0f303c9:
 
     # moxie "Anyway… Ruby does that kind of thing?"
-    moxie "Anyway… Ruby does that kind of thing?"
+    moxie "不管怎样…Ruby做那种事？"
 
 # game/boutique.rpy#L1503
 translate chinese melodyblowjob2_bf70b5ca:
 
     # mc "Yeah, alone with little success, greater success with me."
-    mc "Yeah, alone with little success, greater success with me."
+    mc "是啊，独自一人却没什么成就，但和我在一起就有了更大的成就。"
 
 # game/boutique.rpy#L1505
 translate chinese melodyblowjob2_569a6c75:
 
     # moxie "Makes sense, I can see why she asked you to help her out."
-    moxie "Makes sense, I can see why she asked you to help her out."
+    moxie "有道理，我明白她为什么让你来帮她了。"
 
 # game/boutique.rpy#L1507
 translate chinese melodyblowjob2_c18b2631:
 
     # moxie "Oh, and how did that little scheme of little Melody’s end up playing out?"
-    moxie "Oh, and how did that little scheme of little Melody’s end up playing out?"
+    moxie "哦，那那个Melody的小计划是怎么结束的？"
 
 # game/boutique.rpy#L1508
 translate chinese melodyblowjob2_4423b419:
 
     # mc "Ah well, having sex with Ruby was her scheme. She wanted me to help the household earn some cash with my ‘assets’."
-    mc "Ah well, having sex with Ruby was her scheme. She wanted me to help the household earn some cash with my ‘assets’."
+    mc "呃，其实和Ruby做爱是她的计划。她想让我帮助这个家庭用我的“价值”赚些钱。"
 
 # game/boutique.rpy#L1510
 translate chinese melodyblowjob2_3beea37d:
 
     # moxie "Really? I’ll admit, that's a bit weird."
-    moxie "Really? I’ll admit, that's a bit weird."
+    moxie "真的？我承认，这有点奇怪。"
 
 # game/boutique.rpy#L1511
 translate chinese melodyblowjob2_4b6074ec:
 
     # mc "You don’t know the half of it, Melody has this dominatrix like personality where she always teases and messes around with me."
-    mc "You don’t know the half of it, Melody has this dominatrix like personality where she always teases and messes around with me."
+    mc "你不知道其中的一半，Melody有一种像女主人公一样的性格，她总是和我调侃和捣乱。"
 
 # game/boutique.rpy#L1513
 translate chinese melodyblowjob2_cac69f8c:
 
     # moxie "Really? That kinda pisses me off, I don’t want anyone treating you poorly."
-    moxie "Really? That kinda pisses me off, I don’t want anyone treating you poorly."
+    moxie "真的？那有点让我生气，我不希望有人对你不好。"
 
 # game/boutique.rpy#L1514
 translate chinese melodyblowjob2_ec7b64ee:
 
     # mc "Don’t get mad, it’s complicated. She isn’t doing it to be nasty."
-    mc "Don’t get mad, it’s complicated. She isn’t doing it to be nasty."
+    mc "别生气，这很复杂。她这样做不是为了下流。"
 
 # game/boutique.rpy#L1515
 translate chinese melodyblowjob2_a0ff0853:
 
     # mc "I think it’s kinda like… a fetish thing. She’s able to snap back to a kinder side, that I’m assuming is the side everyone else sees."
-    mc "I think it’s kinda like… a fetish thing. She’s able to snap back to a kinder side, that I’m assuming is the side everyone else sees."
+    mc "我觉得这有点像…恋物癖。她能迅速恢复到更友善的一面，我想这是其他人看到的一面。"
 
 # game/boutique.rpy#L1517
 translate chinese melodyblowjob2_74c488f4:
 
     # moxie "I can’t relate to that much, but I can connect the dots in my head."
-    moxie "I can’t relate to that much, but I can connect the dots in my head."
+    moxie "我跟那没什么关系，但我能把我脑子里的点点滴滴联系起来。"
 
 # game/boutique.rpy#L1518
 translate chinese melodyblowjob2_ead4670a:
@@ -5276,19 +5276,19 @@ translate chinese melodyblowjob2_792b20dd:
 translate chinese melodyblowjob2_5f43fa91:
 
     # butters "Oh, and how did that little scheme of little Melody’s end up playing out?"
-    butters "Oh, and how did that little scheme of little Melody’s end up playing out?"
+    butters "哦，那那个Melody的小计划是怎么结束的？"
 
 # game/boutique.rpy#L1543
 translate chinese melodyblowjob2_4423b419_1:
 
     # mc "Ah well, having sex with Ruby was her scheme. She wanted me to help the household earn some cash with my ‘assets’."
-    mc "Ah well, having sex with Ruby was her scheme. She wanted me to help the household earn some cash with my ‘assets’."
+    mc "呃，其实和Ruby做爱是她的计划。她想让我帮助这个家庭用我的“价值”赚些钱。"
 
 # game/boutique.rpy#L1545
 translate chinese melodyblowjob2_e8732440:
 
     # butters "Really? I’ll admit, that's a bit weird."
-    butters "Really? I’ll admit, that's a bit weird."
+    butters "真的？我承认，这有点奇怪。"
 
 # game/boutique.rpy#L1546
 translate chinese melodyblowjob2_3aafde62:
@@ -5306,13 +5306,13 @@ translate chinese melodyblowjob2_5d1df1a6:
 translate chinese melodyblowjob2_ec7b64ee_1:
 
     # mc "Don’t get mad, it’s complicated. She isn’t doing it to be nasty."
-    mc "Don’t get mad, it’s complicated. She isn’t doing it to be nasty."
+    mc "别生气，这很复杂。她这样做不是为了下流。"
 
 # game/boutique.rpy#L1550
 translate chinese melodyblowjob2_a0ff0853_1:
 
     # mc "I think it’s kinda like… a fetish thing. She’s able to snap back to a kinder side, that I’m assuming is the side everyone else sees."
-    mc "I think it’s kinda like… a fetish thing. She’s able to snap back to a kinder side, that I’m assuming is the side everyone else sees."
+    mc "我觉得这有点像…恋物癖。她能迅速恢复到更友善的一面，我想这是其他人看到的一面。"
 
 # game/boutique.rpy#L1551
 translate chinese melodyblowjob2_8e930765:

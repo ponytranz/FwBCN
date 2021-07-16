@@ -1634,79 +1634,79 @@ translate chinese clibrary_a52fca38:
 translate chinese cfarm_0a2f1fc7:
 
     # "There's no time to visit Honey and Blossom again, I need to continue my fucking escapade!"
-    "There's no time to visit Honey and Blossom again, I need to continue my fucking escapade!"
+    "现在已经没有时间再去见Honey 和Blossom 了，我他妈得赶快继续治好大家"
 
 # game/finalroute.rpy#L740
 translate chinese cfarm_c1bb620a:
 
     # "I make the trek to the farmhouse. It must be miserable for Honeycrisp to work in this rain."
-    "I make the trek to the farmhouse. It must be miserable for Honeycrisp to work in this rain."
+    "我一路艰难跋涉到农场。在这么大的雨中干活Honeycrisp一定很不容易。"
 
 # game/finalroute.rpy#L741
 translate chinese cfarm_2c5422fc:
 
     # "If I recall, the royal sisters had previously controlled the rain so it only rained overnight around 3:00am."
-    "If I recall, the royal sisters had previously controlled the rain so it only rained overnight around 3:00am."
+    "如我所忆，降雨之前由皇家姐妹所控而雨深夜降在凌晨三点。"
 
 # game/finalroute.rpy#L742
 translate chinese cfarm_42fe88c8:
 
     # "Only Blossom is inside, no doubt Honey is still working hard outside."
-    "Only Blossom is inside, no doubt Honey is still working hard outside."
+    "只有Blossom在里面，毫无疑问Honey此时还在外面辛勤劳作。"
 
 # game/finalroute.rpy#L745
 translate chinese cfarm_b2c1b465:
 
     # blossom "Hello [playername], are you here to give us some orders?"
-    blossom "Hello [playername], are you here to give us some orders?"
+    blossom "你好 [playername],你是来向我们下达命令的吗？"
 
 # game/finalroute.rpy#L746
 translate chinese cfarm_b35cbb2e:
 
     # "Awh... Not her too..."
-    "Awh... Not her too..."
+    "额......她也被洗脑了......"
 
 # game/finalroute.rpy#L747
 translate chinese cfarm_3ea12b33:
 
     # "The brainwashing doesn’t change personality much. It’s interesting that they follow my orders as well as Morrigan’s."
-    "The brainwashing doesn’t change personality much. It’s interesting that they follow my orders as well as Morrigan’s."
+    "洗脑并没有改变她们的性格。有趣的是，她们现在不仅服从Morrigan的命令，也服从我的。"
 
 # game/finalroute.rpy#L748
 translate chinese cfarm_9d63e613:
 
     # "I wonder if that’s Morrigan’s choice? She didn’t need to make these mares follow my orders, but she did seem unusually enamoured with me."
-    "I wonder if that’s Morrigan’s choice? She didn’t need to make these mares follow my orders, but she did seem unusually enamoured with me."
+    "我好奇这是Morrigan的决定吗？她并不需要让这些雌驹听从我的命令，不过她看起来确实不同寻常的迷恋我。"
 
 # game/finalroute.rpy#L749
 translate chinese cfarm_cca668cb:
 
     # mc "Where’s Honey?"
-    mc "Where’s Honey?"
+    mc "Honey在哪？"
 
 # game/finalroute.rpy#L751
 translate chinese cfarm_a9cf9e11:
 
     # blossom "She’s outside farming, so you and I are all alone today."
-    blossom "She’s outside farming, so you and I are all alone today."
+    blossom "她在外面干农活呢，所以现在这里只有你和我。"
 
 # game/finalroute.rpy#L752
 translate chinese cfarm_eeca9985:
 
     # mc "So she’s still working even under Morrigan’s influence?"
-    mc "So she’s still working even under Morrigan’s influence?"
+    mc "所以即使被Morrigan控制了，她仍然坚持工作？"
 
 # game/finalroute.rpy#L754
 translate chinese cfarm_fb4b48a4:
 
     # blossom "Of course, we need food for the brood."
-    blossom "Of course, we need food for the brood."
+    blossom "当然，我们要为幼虫准备食物。"
 
 # game/finalroute.rpy#L755
 translate chinese cfarm_01bfd79a:
 
     # mc "How do you get orders from her?"
-    mc "How do you get orders from her?"
+    mc "你是怎么从她那里得到命令的？"
 
 # game/finalroute.rpy#L757
 translate chinese cfarm_3b46f4c9:
@@ -1736,7 +1736,7 @@ translate chinese cfarm_28e98561:
 translate chinese cfarm_c1bb620a_1:
 
     # "I make the trek to the farmhouse. It must be miserable for Honeycrisp to work in this rain."
-    "I make the trek to the farmhouse. It must be miserable for Honeycrisp to work in this rain."
+    "我一路艰难跋涉到农场。在这么大的雨中干活Honeycrisp一定很不容易。"
 
 # game/finalroute.rpy#L766
 translate chinese cfarm_c0e5d5d3:

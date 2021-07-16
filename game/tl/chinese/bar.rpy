@@ -8162,7 +8162,7 @@ translate chinese rikuthreesome_ce617998_2:
 translate chinese barvisitday_4f97d14a:
 
     # "You found a secret scene! Requirements met: Visit Riku after beating the bar, boutique and farm routes."
-    "You found a secret scene! Requirements met: Visit Riku after beating the bar, boutique and farm routes."
+    "你发现了一个秘密场景！满足要求：在完成酒吧、精品店及农场线路后去见Riku。"
 
 # game/bar.rpy#L2244
 translate chinese barvisitday_5a95edee:
