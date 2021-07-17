@@ -3950,7 +3950,7 @@ translate chinese lorequeen_23c5d260:
 translate chinese lorequeen_4105c564:
 
     # mc "I'm torn between: 'Wow, that's awesome and empowering', and 'holy shit, that's a dangerous precedent'."
-    mc "I'm torn between: 'Wow, that's awesome and empowering', and 'holy shit, that's a dangerous precedent'."
+    mc "我就被夹杂在“哇塞，那也太棒、太厉害了吧”和“见鬼，这也搞得太危险了吧”这两类说法之间"
 
 # game/church.rpy#L1265
 translate chinese lorequeen_f719014c:
@@ -3962,25 +3962,25 @@ translate chinese lorequeen_f719014c:
 translate chinese lorequeen_6db8b2ff:
 
     # augusta "I know I'm not exactly playing a fair game. But these deals are mostly to the benefit of everyone, rather than for personal gain."
-    augusta "I know I'm not exactly playing a fair game. But these deals are mostly to the benefit of everyone, rather than for personal gain."
+    augusta "我知道我并不是在进行着一个完全公平的游戏。但这些交易对大家都有好处，并不是为个人谋私利。"
 
 # game/church.rpy#L1268
 translate chinese lorequeen_43a63cb1:
 
     # augusta "Anyway, I have a personal rule, and it's actually deeply ingrained within my own religion. 'Don't use sex for personal benefit.'"
-    augusta "Anyway, I have a personal rule, and it's actually deeply ingrained within my own religion. 'Don't use sex for personal benefit.'"
+    augusta "不管怎么说，我还是有些个人准则的，并且这已经成为了我的人生信条。“不要使用性牟取个人利益。”"
 
 # game/church.rpy#L1269
 translate chinese lorequeen_1a701fd8:
 
     # augusta "The church donates the majority of net profits, after all the employees are fairly paid of course."
-    augusta "The church donates the majority of net profits, after all the employees are fairly paid of course."
+    augusta "当然在每个雇员都拿到合理的报酬后，教会会将净利润的绝大部分捐赠出去。"
 
 # game/church.rpy#L1270
 translate chinese lorequeen_4d3ac896:
 
     # mc "Respectable. That's awesome and empowering!"
-    mc "Respectable. That's awesome and empowering!"
+    mc "值得尊敬。真的是好棒、好厉害啊！"
 
 # game/church.rpy#L1272
 translate chinese lorequeen_355c30dc:
@@ -3998,7 +3998,7 @@ translate chinese lorequeen_5d1c4367:
 translate chinese lorequeen_15996f01:
 
     # augusta "I currently have four churchs! One in Arcadia, one in the Dragon Lands, then two in Sel'Dua."
-    augusta "I currently have four churchs! One in Arcadia, one in the Dragon Lands, then two in Sel'Dua."
+    augusta "目前我有4个教堂！一个在Arcadia，一个在龙之地，其余两个在Sel'Dua"
 
 # game/church.rpy#L1281
 translate chinese lorequeen_0e2258f8:
@@ -4010,25 +4010,25 @@ translate chinese lorequeen_0e2258f8:
 translate chinese lorequeen_c8c54894:
 
     # augusta "Put yourself in the feet of a Goddess of Sun, or Moon, and try getting people to buy into your beliefs and politics. Almost impossible."
-    augusta "Put yourself in the feet of a Goddess of Sun, or Moon, and try getting people to buy into your beliefs and politics. Almost impossible."
+    augusta "拜倒在太阳，或是月亮女神之下吧，然后试图让马民信奉你的信条和政策。几乎不可能的。"
 
 # game/church.rpy#L1283
 translate chinese lorequeen_8190f883:
 
     # augusta "I mean, there are no churches of Selene or Aurora out there, right?"
-    augusta "I mean, there are no churches of Selene or Aurora out there, right?"
+    augusta "我的意思是，那里并没有关于Selence或是Aurgora的教会组织，对吗？"
 
 # game/church.rpy#L1284
 translate chinese lorequeen_36c2eac3:
 
     # augusta "But me? Well, my predecessor and I had it figured out."
-    augusta "But me? Well, my predecessor and I had it figured out."
+    augusta "除了我？好吧，我和我的前任早就发现了。"
 
 # game/church.rpy#L1285
 translate chinese lorequeen_dd808598:
 
     # augusta "Once you have that church built, get a few customers, and the people like what they see, you gain some really nice leverage."
-    augusta "Once you have that church built, get a few customers, and the people like what they see, you gain some really nice leverage."
+    augusta "每当你修一座教堂，赚得几个顾客，马民们也喜闻乐见，你就收获了不错的声誉。"
 
 # game/church.rpy#L1286
 translate chinese lorequeen_8a6953a3:
@@ -4046,37 +4046,37 @@ translate chinese lorequeen_1d03405c:
 translate chinese lorequeen_41ddc9a6:
 
     # mc "I think I figured out why you were chosen to become the goddess, that's for sure."
-    mc "I think I figured out why you were chosen to become the goddess, that's for sure."
+    mc "我想我知道了为什么你被选择成为了女神，毫无疑问。"
 
 # game/church.rpy#L1291
 translate chinese lorequeen_cd1c4e23:
 
     # augusta "Ah-ha! Times were pretty different back then, but I was always street smart."
-    augusta "Ah-ha! Times were pretty different back then, but I was always street smart."
+    augusta "啊-哈！过了这么久的一段时间后还真是今非昔比啊，但我还是那么富有智慧。"
 
 # game/church.rpy#L1297
 translate chinese lorequeen_4d2b8245:
 
     # "Augusta and I spend another half-hour chatting about herself, myself, local culture and lore."
-    "Augusta and I spend another half-hour chatting about herself, myself, local culture and lore."
+    "Augusta和我又花了半小时谈了很多，谈她自己，我自己，当地的文化和故事。"
 
 # game/church.rpy#L1298
 translate chinese lorequeen_67177c6a:
 
     # "If this was a cRPG, I'd probably have gained an additional skill point in lore, or something."
-    "If this was a cRPG, I'd probably have gained an additional skill point in lore, or something."
+    "如果这是一个电脑扮演角色游戏，我应该已经得到了附加技能点数或者别的啥的。"
 
 # game/church.rpy#L1301
 translate chinese lorequeen_6f349328:
 
     # mc "So you're telling me they have two cocks? Like, horizontally, or vertically?"
-    mc "So you're telling me they have two cocks? Like, horizontally, or vertically?"
+    mc "所以，你正在对我说，他们有两根肉棒？比如，水平的，垂直的那种？"
 
 # game/church.rpy#L1303
 translate chinese lorequeen_a0a2e56d:
 
     # augusta "Yup! Vertically! Bit of a gimmick after a while though."
-    augusta "Yup! Vertically! Bit of a gimmick after a while though."
+    augusta "Yup！水平的！不过是过一段时间就有点噱头了。"
 
 # game/church.rpy#L1304
 translate chinese lorequeen_e4cc9aeb:

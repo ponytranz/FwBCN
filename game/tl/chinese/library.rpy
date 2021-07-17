@@ -8726,73 +8726,73 @@ translate chinese lilylegsupmissionary_1464d4f6:
 translate chinese lilylegsupmissionary_6787882a:
 
     # aurora "Oh Lily, you and your fascination with aliens."
-    aurora "Oh Lily, you and your fascination with aliens."
+    aurora "哦，Lily，你和你对外星人的迷恋。"
 
 # game/library.rpy#L2470
 translate chinese lilylegsupmissionary_f3a80e2f:
 
     # "She has a fascination with aliens?"
-    "She has a fascination with aliens?"
+    "她迷恋外星人？"
 
 # game/library.rpy#L2471
 translate chinese lilylegsupmissionary_815d8045:
 
     # "Wait... Does she like to sleep with me because she has an alien fetish?"
-    "Wait... Does she like to sleep with me because she has an alien fetish?"
+    "等待......她喜欢和我上床是因为她有外星癖吗？"
 
 # game/library.rpy#L2473
 translate chinese lilylegsupmissionary_a6bb9ceb:
 
     # lily "Am I wrong…?"
-    lily "Am I wrong…?"
+    lily "是我错了吗...？"
 
 # game/library.rpy#L2474
 translate chinese lilylegsupmissionary_556724b3:
 
     # aurora "Moxie, do you have anything to add?"
-    aurora "Moxie, do you have anything to add?"
+    aurora "Moxie，你有没有什么可以添加的东西？"
 
 # game/library.rpy#L2476
 translate chinese lilylegsupmissionary_2080a529:
 
     # moxie "No... Well... Actually, maybe [playername] is from an alternate universe?"
-    moxie "No... Well... Actually, maybe [playername] is from an alternate universe?"
+    moxie "不...好...事实上，也许[playername]来自另一个宇宙？"
 
 # game/library.rpy#L2478
 translate chinese lilylegsupmissionary_012a4853:
 
     # lily "Pfft, ridiculous!"
-    lily "Pfft, ridiculous!"
+    lily "太荒谬了！"
 
 # game/library.rpy#L2480
 translate chinese lilylegsupmissionary_5988d9c7:
 
     # aurora "Now now, Lily. That theory is no more or less ridiculous than yours of a faraway planet."
-    aurora "Now now, Lily. That theory is no more or less ridiculous than yours of a faraway planet."
+    aurora "现在，Lily。这个理论和你关于一个遥远星球的理论差不多荒谬。"
 
 # game/library.rpy#L2482
 translate chinese lilylegsupmissionary_3b06e173:
 
     # aurora "Come with me [playername], I have my own theory and some private information pertinent to you."
-    aurora "Come with me [playername], I have my own theory and some private information pertinent to you."
+    aurora "跟我来 [playername]，我有我自己的理论和一些与你有关的私人信息。"
 
 # game/library.rpy#L2484
 translate chinese lilylegsupmissionary_60d7593b:
 
     # lily "W-What about us?"
-    lily "W-What about us?"
+    lily "那...那我们呢？"
 
 # game/library.rpy#L2486
 translate chinese lilylegsupmissionary_86b95160:
 
     # aurora "This is a private conversation I can have with only [playername], I hope you understand young one."
-    aurora "This is a private conversation I can have with only [playername], I hope you understand young one."
+    aurora "这是我只能和 [playername] 进行的私人对话，我希望你能理解年轻人。"
 
 # game/library.rpy#L2487
 translate chinese lilylegsupmissionary_bf13ee58:
 
     # aurora "Perhaps later [playername] can fill you in on the details."
-    aurora "Perhaps later [playername] can fill you in on the details."
+    aurora "也许以后 [playername] 可以告诉你细节。"
 
 # game/library.rpy#L2489
 translate chinese lilylegsupmissionary_14a8c112:

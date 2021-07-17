@@ -4814,13 +4814,13 @@ translate chinese doubledragon_92e49e3a:
 translate chinese doubledragon_4ff8423e:
 
     # "With some of her hot grool coating the tip of my cock, I prod and tease her vaginal entrance."
-    "她把一些淫水涂在我的龟头上后，我刺激并挑逗着她的阴道口。"
+    "她把一些淫水涂在我的龟头上后，我刺激并挑逗着她的阴道口"
 
 # game/3map.rpy#L2269
 translate chinese doubledragon_e24316d1:
 
     # "I toy with the idea of pushing inside, applying pressure to her pussy, but never quite enough to slip in. The heat surrounding my cock intensifies as I dare to push further in."
-    "我只打算先试探性地给她的阴道施压，不急着插进去，因为我cock在不停吸收来自阴唇的大量热量，让其温度越来越高。"
+    "我打算先试探性地给她的阴道施压，不急着插进去，肉棒在不停引起阴唇的大量热量使其温度越来越高"
 
 # game/3map.rpy#L2270
 translate chinese doubledragon_72f30043:
@@ -4838,7 +4838,7 @@ translate chinese doubledragon_e6b359e3:
 translate chinese doubledragon_eeb65f52:
 
     # "Cindy bites her lip slightly as she watches us, closely anticipating the moment of penetration. Her fingers have been constantly rubbing her clit, and briefly speed up whenever she gets excited."
-    "Cindy的手指一直在摩擦她的阴蒂，且不由自主地加速。她呼吸急促，轻咬着嘴唇看着我们，期待着插入的那一刻。"
+    "Cindy的手指一直在摩擦她的阴蒂，且不由自主地加速。她呼吸急促，轻咬着嘴唇看着我们，期待着插入的那一刻"
 
 # game/3map.rpy#L2273
 translate chinese doubledragon_1f56feb7:
@@ -4862,13 +4862,13 @@ translate chinese doubledragon_ed5dafa8:
 translate chinese doubledragon_24561d78:
 
     # "I push forward. Sandy’s wet, plush folds yield easily as I sink into her hot pussy. The entire area around her pelvic abdomen indenting slightly as I push to the hilt."
-    "她性感的湿漉漉的阴唇让我难以自拔。当我推到根时，她那一片的腹部都在不由自主的收缩。"
+    "她性感的湿漉漉的阴唇让我难以自拔。当我插到最深处时，她那一片的腹部都在不由自主的收缩"
 
 # game/3map.rpy#L2279
 translate chinese doubledragon_357ac9f4:
 
     # "Both the lips of her pussy and the thick, plush lips of her labia squeezing and squishing around my shaft respectively."
-    "她的阴唇和上面的毛挤压着我的cock和身体。"
+    "她的阴唇和她厚而柔软的阴道分别挤压着我的身体"
 
 # game/3map.rpy#L2280
 translate chinese doubledragon_fbdfaf8e:

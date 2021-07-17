@@ -2750,7 +2750,7 @@ translate chinese cbrikutod_91d3c7bf:
 translate chinese cbrikutod_c07b8f83:
 
     # riku "Mmm, hash it bween thwirty sethonds?"
-    riku "嗯，窝舔了有山十秒宗吗？"
+    riku "嗯，我舔了有三十秒了吗？"
 
 # game/bar.rpy#L754
 translate chinese cbrikutod_8890c32e:
@@ -3776,7 +3776,7 @@ translate chinese cbrikutod_fc0e14e8:
 translate chinese cbrikutod_452366dd:
 
     # "The long hard thrusts drive her wild, despite her small tits, her rump is thick and juicy."
-    "那深入而有力冲击让她欲仙欲死，尽管她的胸小，但她的臀部依然肥硕多汁"
+    "那深入而有力冲击让她欲仙欲死，尽管她的胸小，但她的臀部依然肥硕多汁。"
 
 # game/bar.rpy#L992
 translate chinese cbrikutod_688e7deb:
@@ -3788,7 +3788,7 @@ translate chinese cbrikutod_688e7deb:
 translate chinese cbrikutod_2a10faa4:
 
     # "She’s so soaking wet, every time I sink deep inside of her it’s accompanied by a saccharine squelching sound."
-    "她已经湿透了，每次我深深地进入她都伴随着甜蜜的挤压声"
+    "她已经湿透了，每次我深深地进入她都伴随着甜蜜的挤压声。"
 
 # game/bar.rpy#L996
 translate chinese cbrikutod_e28c6ada:

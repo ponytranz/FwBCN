@@ -1268,43 +1268,43 @@ translate chinese farmvisit1_dafc60d5:
 translate chinese farmvisit1_9b74b25b:
 
     # honeycrisp "Ugh, I already cracked when my wrist went, I’m running on fumes sugarcube…"
-    honeycrisp "Ugh, I already cracked when my wrist went, I’m running on fumes sugarcube…"
+    honeycrisp "呃,我已经搞断了我的手腕,我却还在燃烧我的能量..."
 
 # game/farm.rpy#L427
 translate chinese farmvisit1_fc64b1c0:
 
     # honeycrisp "Actually… The only thing still keeping me going is my little sister, there’s no way I could let her down, she’s an angel."
-    honeycrisp "Actually… The only thing still keeping me going is my little sister, there’s no way I could let her down, she’s an angel."
+    honeycrisp "事实上现在唯一能让我坚持下去的就是我妹妹,我不会让她失望的,她可是个天使."
 
 # game/farm.rpy#L428
 translate chinese farmvisit1_9211e572:
 
     # mc "That’s sweet, what’s she like?"
-    mc "That’s sweet, what’s she like?"
+    mc "真贴心,那他是个怎样的人."
 
 # game/farm.rpy#L429
 translate chinese farmvisit1_c739c431:
 
     # honeycrisp "She’s called Blossom, and she’s not like me and paps. She’s intelligent and bright, she got into a college and is pursuing music now."
-    honeycrisp "She’s called Blossom, and she’s not like me and paps. She’s intelligent and bright, she got into a college and is pursuing music now."
+    honeycrisp "她叫Blossom,而且她不像我和老爹.她脑瓜子可灵光着呢.她进了大学,现在主修音乐."
 
 # game/farm.rpy#L430
 translate chinese farmvisit1_c1877f16:
 
     # "Blossom must be at least eighteen then, roughly the same age as me."
-    "Blossom must be at least eighteen then, roughly the same age as me."
+    "Blossom应该至少已经18岁了.可能和我一样大."
 
 # game/farm.rpy#L433
 translate chinese farmvisit1_02e58658:
 
     # honeycrisp "She helps me out during the weekend, I always tell her she doesn’t need to, but she’ll just do it anyway."
-    honeycrisp "She helps me out during the weekend, I always tell her she doesn’t need to, but she’ll just do it anyway."
+    honeycrisp "她总在周末帮我,尽管我告诉她不需要,但她总是乐意帮忙."
 
 # game/farm.rpy#L434
 translate chinese farmvisit1_09a0dc2f:
 
     # mc "Is there no one else that can help you? Another relative, or just an employee?"
-    mc "Is there no one else that can help you? Another relative, or just an employee?"
+    mc "就没别人能帮你了吗？远房亲戚亦或是雇一个员工？"
 
 # game/farm.rpy#L436
 translate chinese farmvisit1_76335d2e:
@@ -1316,25 +1316,25 @@ translate chinese farmvisit1_76335d2e:
 translate chinese farmvisit1_c3860812:
 
     # honeycrisp "Maybe… I’m so busy though, and I can’t even legibly write a letter with my wrist like this."
-    honeycrisp "Maybe… I’m so busy though, and I can’t even legibly write a letter with my wrist like this."
+    honeycrisp "也许吧...我太忙了.而且我的手腕甚至不能写出一封清楚的信."
 
 # game/farm.rpy#L438
 translate chinese farmvisit1_5f330a7e:
 
     # mc "Pardon my naivety if I’m wrong, is there no way to fix your wrist with magic?"
-    mc "Pardon my naivety if I’m wrong, is there no way to fix your wrist with magic?"
+    mc "如果我说错话了,请原谅我的无知.但真的不能用魔法治好你的手腕吗？"
 
 # game/farm.rpy#L440
 translate chinese farmvisit1_42b1a141:
 
     # honeycrisp "Aha, unfortunately not stud, any attempt to forcibly repair my fractures will cause the bone to reform incorrectly. It's gotta heal naturally."
-    honeycrisp "Aha, unfortunately not stud, any attempt to forcibly repair my fractures will cause the bone to reform incorrectly. It's gotta heal naturally."
+    honeycrisp "啊,不幸的是我的伤还不至于打钉骨.任何强行修复的尝试都会导致骨错位.只能靠修养了."
 
 # game/farm.rpy#L441
 translate chinese farmvisit1_ed74242f:
 
     # mc "Ahh, I guess this is one problem you can’t just wave away with magic."
-    mc "Ahh, I guess this is one problem you can’t just wave away with magic."
+    mc "嗯,我想这不是用法杖挥一挥就能解决的小问题."
 
 # game/farm.rpy#L443
 translate chinese farmvisit1_be1103d8:
@@ -1346,7 +1346,7 @@ translate chinese farmvisit1_be1103d8:
 translate chinese farmvisit1_02f2df62:
 
     # honeycrisp "But their magic ain’t all that. Ain’t one of those unicorns ever beating me in a race or an arm wrestle. Well, as soon as my wrist is fixed anyway."
-    honeycrisp "But their magic ain’t all that. Ain’t one of those unicorns ever beating me in a race or an arm wrestle. Well, as soon as my wrist is fixed anyway."
+    honeycrisp "但她们的魔力还不够,那些独角兽从来没在掰手腕或是任何比赛中赢过我.腕力最棒!"
 
 # game/farm.rpy#L446
 translate chinese farmvisit1_b30de10e:
@@ -1358,43 +1358,43 @@ translate chinese farmvisit1_b30de10e:
 translate chinese farmvisit1_63708763:
 
     # honeycrisp "I can’t imagine a unicorn being any more helpful than a regular ol’ hornless pony."
-    honeycrisp "I can’t imagine a unicorn being any more helpful than a regular ol’ hornless pony."
+    honeycrisp "我可想不到独角兽会比普通的陆马有用到哪去."
 
 # game/farm.rpy#L452
 translate chinese farmvisit1_65584ab3:
 
     # honeycrisp "If it was a powerful unicorn, I couldn’t let them waste that potential on a farm."
-    honeycrisp "If it was a powerful unicorn, I couldn’t let them waste that potential on a farm."
+    honeycrisp "如果是一只法力强大的独角兽,我可不想把她的能力浪费在我这农场上."
 
 # game/farm.rpy#L453
 translate chinese farmvisit1_d1ab04ef:
 
     # honeycrisp "But if they were too weak, their magics wouldn’t be any faster than plucking apples or crops by hand."
-    honeycrisp "But if they were too weak, their magics wouldn’t be any faster than plucking apples or crops by hand."
+    honeycrisp "但如果她们的法力太弱,她们的魔法就不会比徒手更有多少效率."
 
 # game/farm.rpy#L454
 translate chinese farmvisit1_26a55606:
 
     # "I recall back to Moxie using telekinesis on a plushie, I don’t know much about magic but Honeycrisp is probably right."
-    "I recall back to Moxie using telekinesis on a plushie, I don’t know much about magic but Honeycrisp is probably right."
+    "我想起了Moxie在毛绒玩具上的演示,虽然我不太懂魔法,但我想Honeycrisp是对的."
 
 # game/farm.rpy#L457
 translate chinese farmvisit1_5133c16c:
 
     # honeycrisp "Hmm, imagine a winged pony getting all those apples in seconds."
-    honeycrisp "Hmm, imagine a winged pony getting all those apples in seconds."
+    honeycrisp "emm.想象一下一匹天马在几秒之内搞到了所有的苹果."
 
 # game/farm.rpy#L459
 translate chinese farmvisit1_81a0ca41:
 
     # honeycrisp "Not many pegasi in these parts though, other than dear Riku of course."
-    honeycrisp "Not many pegasi in these parts though, other than dear Riku of course."
+    honeycrisp "这鬼地方可没多少天马,当然除了可爱的Riku."
 
 # game/farm.rpy#L460
 translate chinese farmvisit1_18acc5f0:
 
     # honeycrisp "Me and a pegasus would make a good team though."
-    honeycrisp "Me and a pegasus would make a good team though."
+    honeycrisp "我和一只天马可能会是一组好搭档."
 
 # game/farm.rpy#L461
 translate chinese farmvisit1_3cd56d21:

@@ -5198,25 +5198,25 @@ translate chinese melodyblowjob2_74c488f4:
 translate chinese melodyblowjob2_ead4670a:
 
     # moxie "Personally, I much prefer men to dominate me. Speaking of which, how about it, are we gonna rut?"
-    moxie "Personally, I much prefer men to dominate me. Speaking of which, how about it, are we gonna rut?"
+    moxie "就我个人而言，我更喜欢男人主宰我。说到这里，我们会发情吗？"
 
 # game/boutique.rpy#L1519
 translate chinese melodyblowjob2_7024c6c9:
 
     # mc "Aww man, I’ve had so much sex today…"
-    mc "Aww man, I’ve had so much sex today…"
+    mc "天啊，我已经做太多次了…"
 
 # game/boutique.rpy#L1521
 translate chinese melodyblowjob2_f46e2604:
 
     # moxie "Bruh, I warned you about not saving enough for me."
-    moxie "Bruh, I warned you about not saving enough for me."
+    moxie "哼，我警告过要你留点给我的。"
 
 # game/boutique.rpy#L1522
 translate chinese melodyblowjob2_e23231ab:
 
     # moxie "Let's have dinner first and we'll see how you feel after that."
-    moxie "Let's have dinner first and we'll see how you feel after that."
+    moxie "我们先吃晚饭，然后再看你的感受。"
 
 # game/boutique.rpy#L1524
 translate chinese melodyblowjob2_a20cefa7:

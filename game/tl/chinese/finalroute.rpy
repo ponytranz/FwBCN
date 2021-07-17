@@ -1712,13 +1712,13 @@ translate chinese cfarm_01bfd79a:
 translate chinese cfarm_3b46f4c9:
 
     # blossom "I think we can get telepathic orders. We’ve already been ordered to ‘obey’ our new Queen, Penelope and you. So, I guess we’re just doing what we’d do normally."
-    blossom "I think we can get telepathic orders. We’ve already been ordered to ‘obey’ our new Queen, Penelope and you. So, I guess we’re just doing what we’d do normally."
+    blossom "我想我们可以收到心灵感应的命令。我们已经奉命“服从”我们的新王后Penelope和你。所以，我想我们只是在做我们通常会做的事。"
 
 # game/finalroute.rpy#L759
 translate chinese cfarm_55715470:
 
     # blossom "I’m doing an assignment for college, see?"
-    blossom "I’m doing an assignment for college, see?"
+    blossom "我在做大学作业，明白吗？"
 
 # game/finalroute.rpy#L760
 translate chinese cfarm_ba376afb:

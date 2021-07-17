@@ -44,7 +44,7 @@ translate chinese bakeryvisit1_ed44bc3a:
 translate chinese bakeryvisit1_fb7ae06b:
 
     # cream "Ohh, and I'll make my super alcoholic punch, it'll be so much fun!"
-    cream "哦，我要super alcoholic punch。这肯定会很有趣的！"
+    cream "哦，我要来制作我的超级酒精饮料。这肯定会很有趣的！"
 
 # game/bakery.rpy#L28
 translate chinese bakeryvisit1_d549e943:
@@ -152,7 +152,7 @@ translate chinese bakeryvisit1_c8b5ac24:
 translate chinese bakeryvisit1_9f34c0d3:
 
     # cream "But when you party Cream style, appearances don’t matter!"
-    cream "可当你party Cream style，外表就不重要了！"
+    cream "可当你参加Cream风格的派对时，外表就不重要了！"
 
 # game/bakery.rpy#L55
 translate chinese bakeryvisit1_73200691:
@@ -182,7 +182,7 @@ translate chinese bakeryvisit1_79c1d4c5:
 translate chinese bakeryvisit1_6c279bad:
 
     # cream "Oh, you’re right, I should wait at least until the second act of this day."
-    cream "哦，你说得对，I should wait at least until the second act of this day."
+    cream "哦，你说得对， 我应该至少等到这一天的第二次."
 
 # game/bakery.rpy#L64
 translate chinese bakeryvisit1_1b517390:
@@ -2978,7 +2978,7 @@ translate chinese creamvmissionary_36122974:
 translate chinese creamvmissionary_dbc7553f:
 
     # ruby "Almost a full house, but we never seem to have the luck these days. It's such a shame that the Elements of Har'Mony have grown apart after everything we've been through."
-    ruby "Almost a full house, but we never seem to have the luck these days. It's such a shame that the Elements of Har'Mony have grown apart after everything we've been through."
+    ruby "看起来几乎满座了，但这些天我们似乎从来没有这种运气。在我们所经历的一切之后，斜率元素似乎已经开始渐渐疏远了，真是太可惜了。"
 
 # game/bakery.rpy#L914
 translate chinese creamvmissionary_3ca4626e:
@@ -2990,7 +2990,7 @@ translate chinese creamvmissionary_3ca4626e:
 translate chinese creamvmissionary_06458830:
 
     # "Cream goes to answer the door and it's Butters! After some greetings, she quickly finds herself talking to Moxie, Ruby and I."
-    "Cream goes to answer the door and it's Butters! After some greetings, she quickly finds herself talking to Moxie, Ruby and I."
+    "Cream去打开了门然后看见了Butters！在一些问候之后，在一些问候之后，她很快发现自己在和Moxie，Ruby还有我交谈。"
 
 # game/bakery.rpy#L919
 translate chinese creamvmissionary_bb082be6:
@@ -3080,43 +3080,43 @@ translate chinese creamvmissionary_6f4be0cf:
 translate chinese creamvmissionary_a1250b40:
 
     # "As we return to her cottage, her drunk succubus form is the one to take initiative. I didn't expect that!"
-    "As we return to her cottage, her drunk succubus form is the one to take initiative. I didn't expect that!"
+    "当我们回到她的小屋时，她趁她喝醉的时候突然主动出击。我没料到会这样!"
 
 # game/bakery.rpy#L950
 translate chinese creamvmissionary_21d08a66:
 
     # "Honey and I spend a lot of time talking, she laments that she never got enough time off work to spend time with me properly, and says she'll 'fix that' if we have some more time alone."
-    "Honey and I spend a lot of time talking, she laments that she never got enough time off work to spend time with me properly, and says she'll 'fix that' if we have some more time alone."
+    "Honey和我花了很多时间交谈，她感叹她从来没有足够的时间下班来和我好好相处，并说如果我们有更多的时间独处，她会'解决这个问题'。"
 
 # game/bakery.rpy#L951
 translate chinese creamvmissionary_654cd5ad:
 
     # "Yeah, you know I'm going back to her place."
-    "Yeah, you know I'm going back to her place."
+    "是的，你知道我要回她那里去。"
 
 # game/bakery.rpy#L959
 translate chinese creamvmissionary_d97f8bac:
 
     # "With a smirk, the drunken Honeycrisp pushes me down onto her bed using the hand that was once in a cast. Now that it's free, I'm at the complete mercy of this girl's sexual appetite, and she's ready to show it in full force tonight."
-    "With a smirk, the drunken Honeycrisp pushes me down onto her bed using the hand that was once in a cast. Now that it's free, I'm at the complete mercy of this girl's sexual appetite, and she's ready to show it in full force tonight."
+    "醉醺醺的Honeycrisp用那只曾经打过石膏的手把我推倒在她的床上。现在它自由了，我完全听从这个女孩性欲的摆布，而她今晚已经准备好全面展示它。"
 
 # game/bakery.rpy#L961
 translate chinese creamvmissionary_ef7cb4e2:
 
     # "Giggling, the drunken Honeycrisp seductively presses me against the soft sheets of her bed using her main hand. She crawls towards me like a predator catching its prey. She isn't going to hold back tonight."
-    "Giggling, the drunken Honeycrisp seductively presses me against the soft sheets of her bed using her main hand. She crawls towards me like a predator catching its prey. She isn't going to hold back tonight."
+    "醉醺醺的Honeycrisp一边咯咯地笑着一边用她的右手诱人地把我压在她床上柔软的床单上。她像捕食者捕捉猎物一样向我爬来。她今晚不打算留情。"
 
 # game/bakery.rpy#L968
 translate chinese creamvmissionary_cb8121b9:
 
     # "I settle down under her, my cock eagerly pointing into the air already. I give Honeycrisp a nod which she returns with a smug look before she straddles me and slowly slides down onto my erect member."
-    "I settle down under her, my cock eagerly pointing into the air already. I give Honeycrisp a nod which she returns with a smug look before she straddles me and slowly slides down onto my erect member."
+    "我在她身下安顿下来，我的老二已经迫不及待地指向空中了。我向Honeycrisp点了点头，她用得意的眼神回了我一下，然后她坐在我身上，慢慢滑到我勃起的肉棒上。"
 
 # game/bakery.rpy#L970
 translate chinese creamvmissionary_166c8ae6:
 
     # "The erotic display causes a rush of blood to my loins, my cock readily growing hard and pressing against Honeycrisp's fur thigh causing her to grin lecherously. Wordlessly, she positions herself above me and sits on my cock."
-    "The erotic display causes a rush of blood to my loins, my cock readily growing hard and pressing against Honeycrisp's fur thigh causing her to grin lecherously. Wordlessly, she positions herself above me and sits on my cock."
+    "这种色情的表演使我的血液涌向我的腰部，我的鸡巴很容易就变硬了，压在Honeycrisp毛绒绒的大腿上，使她露出淫荡的笑容。她悄无声息地坐在我的上面，然后坐在我的肉棒上。"
 
 # game/bakery.rpy#L973
 translate chinese creamvmissionary_dd6bcf56:
