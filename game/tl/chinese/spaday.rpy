@@ -8,25 +8,25 @@ translate chinese spaday_04fdf40f:
 translate chinese spaday_91837fb2:
 
     # moxie "Hey tiger! So, this is the gal you’ve been living with? Hard to believe we’ve barely spoken, Butters."
-    moxie "嗨老虎！所以，这就是一直和你生活的女孩吗？真难相信我们几乎什么都没说呢，Butters。"
+    moxie "嗨老虎！所以，这就是一直和你生活的女孩吗？真难相信我们几乎从来没说过话呢，Butters？"
 
 # game/spaday.rpy#L12
 translate chinese spaday_99cc6628:
 
     # butters "Indeed, terribly sorry to have pilfered [playername] from under your nose. I should organise lots of get togethers between the three of us to make up for it."
-    butters "确实，非常抱歉从你的眼皮底下拐走了了[playername]。 我想应该在我们三个人之间组织很多聚会来弥补它..."
+    butters "嗯嗯，非常抱歉，从你的眼皮底下拐走了了[playername]。 我想我们三个人之间应该组织很多聚会来弥补..."
 
 # game/spaday.rpy#L13
 translate chinese spaday_16503564:
 
     # moxie "Ahh don’t sweat it! He visits me all the time, and I can hardly expect him to live in a tiny wagon made for a single person."
-    moxie "啊，别着急！ 他总是来看我，我估计他不会住在仅仅由一个人制作的小篷车里"
+    moxie "啊，哈，没关系！ 他总是来看我，我也估计他不会住在只为单人设计的窄小的篷车里。"
 
 # game/spaday.rpy#L18
 translate chinese spaday_dfcfd029:
 
     # butters "Hello Moxie! It’s good to see you. And [playername] too!"
-    butters "你好啊，Moxie！很高兴见到你。[playername]也会很高兴的！"
+    butters "你好啊，Moxie！很高兴见到你。还有[playername]！"
 
 # game/spaday.rpy#L22
 translate chinese spaday_d373c19f:
@@ -50,13 +50,13 @@ translate chinese spaday_0d04dd87:
 translate chinese spaday_cb67b383:
 
     # moxie "I expect if it’s reserved for everyone. No wild orgies though, hah!"
-    moxie "我不确定它会不会留下所有人。 不过至少没有狂野的狂欢，哈！"
+    moxie "我不确定它会不会招待所有人。 不过，至少没有狂野的狂欢，哈哈！"
 
 # game/spaday.rpy#L29
 translate chinese spaday_49f9f28b:
 
     # butters "Well, I imagine something could be arranged, hehe."
-    butters "好吧，我还在想有些事已经都安排好了，嘻嘻。"
+    butters "好的，我想有些事都其实已经都安排好了，嘻嘻。"
 
 # game/spaday.rpy#L31
 translate chinese spaday_61705a8e:
@@ -296,25 +296,25 @@ translate chinese spaday_c9f133aa:
 translate chinese spaday_ee0f5c28:
 
     # "She’s both the life and passion of the party and she has this inexplicable way to just lift everyone’s spirits."
-    "她是派对的生命和激情，她会用这种莫名其妙的方式来鼓舞每个人的精神"
+    "她是派对的生命和核心，她用这种莫名其妙的方式来鼓舞大家的精神"
 
 # game/spaday.rpy#L148
 translate chinese spaday_8843a692:
 
     # "And last, there’s Moxie. The girl that may have literally brought me into this world with the simple desire to love me, and if there’s one thing I’ve felt since arriving at Arcadia, it’s thoroughly loved."
-    "最后，还有Moxie。 那个女孩可能真的只是因为爱我的这种简单的愿望把我带到这个世界上，如果你问我到达Arcadia之后感觉如何，那就是彻底被爱。"
+    "最后，还有Moxie。 她可能真的只是因为“想要去爱”这种简单的愿望，把我带到这个世界上，如果你问我到达Arcadia之后感觉如何，那就是“彻底被爱”。"
 
 # game/spaday.rpy#L149
 translate chinese spaday_82b8cac7:
 
     # "Moxie hasn’t had the easiest time, but you wouldn’t assume that by her uplifting attitude and constant smile, especially whenever she sees me; she can’t keep that goofy grin off her face."
-    "Moxie过得并不轻松，但你绝对想不到她还会有那种令人振奋的精神和长久的微笑，尤其是不管什么时候她看到我，她总是忍不住傻笑。"
+    "Moxie虽然日子过得并不轻松，却依然保持着那种积极乐观的精神。尤其是每当她看到我，她总是忍不住傻笑。"
 
 # game/spaday.rpy#L150
 translate chinese spaday_809f6d0e:
 
     # "And whenever I'm around her, I can't stop grinning either..."
-    "每当我在她身边，我就会笑个不停……"
+    "并且每当我在她身边，我也会笑个不停……"
 
 # game/spaday.rpy#L151
 translate chinese spaday_c1c58bda:
@@ -326,13 +326,13 @@ translate chinese spaday_c1c58bda:
 translate chinese spaday_9c28c574:
 
     # "I can’t think of a better person to help Lily govern Arcadia, and no doubt they’ll have a long and successful reign that may span thousands of years."
-    "我想不到一个更好的人来帮助Lily治理Arcadia了，毫无疑问，她们将有一段漫长且成功的统治，可能会跨越上千年。"
+    "我想不到一个更好的人来帮助Lily治理Arcadia了，毫无疑问，她们将统治一段漫长且成功的岁月，可能会跨越上千年。"
 
 # game/spaday.rpy#L153
 translate chinese spaday_b6986969:
 
     # "But there’s one more person at this sauna…"
-    "但这间桑拿房里还有多出来的一个人……"
+    "但这间桑拿房里还有多出来的那个人……"
 
 # game/spaday.rpy#L154
 translate chinese spaday_4286ce2c:
@@ -350,13 +350,13 @@ translate chinese spaday_7c1be54e:
 translate chinese spaday_1bcd015d:
 
     # "While I have certainly gotten a lot done in my time here in Arcadia, my life has always felt like it was in a state of limbo. Like a tree that constantly created branches but never sprouted any leaves."
-    "虽然我在Arcadia的这段时间里确实做了很多事情，但我的生活总是感觉处于一种不确定状态。 就像一棵树，不断地产生树枝，却从未长出任何叶子"
+    "虽然我在Arcadia的这段时间里确实做了很多事情，但我还是感觉我的生活处于一种不确定状态。 就像一棵树，它不断地产生树枝，却从未长出任何叶子。"
 
 # game/spaday.rpy#L157
 translate chinese spaday_835f51c4:
 
     # "So many things have been said and done, but I’ve never once committed or made a big choice, not yet."
-    "所以许多事都已经被说过，和做过了，但我仍然都还没有做过一次承诺或是一个巨大即使，至少现在还没有。"
+    "许多事哪怕已经被我说过，并做过了，但我至今还没有作出一次重大的抉择，至少现在还没有。"
 
 # game/spaday.rpy#L158
 translate chinese spaday_ce85d8aa:
@@ -368,13 +368,13 @@ translate chinese spaday_ce85d8aa:
 translate chinese spaday_70138a8a:
 
     # "What lies in the future for me? What will my career be? I think I’m ready to take these steps."
-    "未来对我来说是什么？ 我的职业生涯会是什么？ 我想我已准备好下一步骤了。"
+    "未来对我来说是什么？ 我的职业生涯会是什么样？ 我想我已准备好我的下一步了。"
 
 # game/spaday.rpy#L160
 translate chinese spaday_67c2b6b2:
 
     # "And of course, who will be my girlfriend? If anyone?"
-    "当然了，如果有人选的话，那谁会成为我的女朋友呢？"
+    "当然，如果可以选的话，谁会成为我的女朋友呢？"
 
 # game/spaday.rpy#L161
 translate chinese spaday_08292c64:
@@ -392,11 +392,11 @@ translate chinese spaday_a71ddd98:
 translate chinese spaday_b634ff30:
 
     # "I lay back in the sauna and close my eyes, sinking into the warmth of the water and allowing myself to drift away."
-    "我靠在桑拿池旁，闭上双眼，然后全身浸没在了温暖的水中，好让自己彻底放松下来。"
+    "我靠在桑拿池旁，闭上双眼，将全身浸没在温暖的水中，好让自己彻底放松下来。"
 
 # game/spaday.rpy#L164
 translate chinese spaday_bc99dba4:
 
     # "Tomorrow will be another day. I wonder what kind of adventure I’ll get up to."
-    "明天会是新的一天。我在想，会有哪些新的冒险在等着我。"
+    "明天会是新的一天。我在想.....会有哪些新的冒险在等着我?"
 

@@ -890,13 +890,13 @@ translate chinese cforest_e74b0aec:
 translate chinese cforest_c27d6c31:
 
     # butters "I, as a female, am unable to spread the effect into you because my sexual fluids were only against the skin of your penis."
-    butters "当然我作为一个女人，肯定无法将净化的力量带到你的身上，毕竟我的爱液最多附着在你Dick的包皮上"
+    butters "当然我作为一个女人，肯定无法将净化的力量带到你的身上，毕竟我的爱液最多附着在你Dick的包皮上。"
 
 # game/finalroute.rpy#L485
 translate chinese cforest_e6b8bb8e:
 
     # butters "You'll need to cum inside each girl one more time, hopefully your semen will carry enough of the potion’s effect and save the girls in the same way it saved me."
-    butters "你应该去多内射其他女孩一次，希望你的“圣水”里能有足够的净化能量，再以救我的方式救助其他的女孩"
+    butters "你应该去多内射其他女孩一次，希望你的“圣水”里能有足够的净化能量，再以救我的方式救助其他的女孩。"
 
 # game/finalroute.rpy#L486
 translate chinese cforest_fdc105bb:
@@ -1724,13 +1724,13 @@ translate chinese cfarm_55715470:
 translate chinese cfarm_ba376afb:
 
     # "Interesting, so without orders they just perform as they would usually based on their previous personalities?"
-    "Interesting, so without orders they just perform as they would usually based on their previous personalities?"
+    "有点意思，所以如果没有命令的话，她们就会按照以前的性格行事？"
 
 # game/finalroute.rpy#L761
 translate chinese cfarm_28e98561:
 
     # mc "Very useful, thank you Blossom."
-    mc "Very useful, thank you Blossom."
+    mc "非常有用，谢谢你 Blossom。"
 
 # game/finalroute.rpy#L764
 translate chinese cfarm_c1bb620a_1:
@@ -1742,13 +1742,13 @@ translate chinese cfarm_c1bb620a_1:
 translate chinese cfarm_c0e5d5d3:
 
     # "As I enter the kitchen, Blossom is munching on some raisins while working on her assignment."
-    "As I enter the kitchen, Blossom is munching on some raisins while working on her assignment."
+    "当我走进厨房时，Blossom正在津津有味地嚼着葡萄干，同时在做她的作业。"
 
 # game/finalroute.rpy#L768
 translate chinese cfarm_02e34397:
 
     # blossom "Ohh, you're back! Here, let me get you a towel mister."
-    blossom "Ohh, you're back! Here, let me get you a towel mister."
+    blossom "噢，你回来了！来，我给您拿条毛巾，先生。"
 
 # game/finalroute.rpy#L769
 translate chinese cfarm_f2593b9f:
@@ -1760,181 +1760,181 @@ translate chinese cfarm_f2593b9f:
 translate chinese cfarm_81c7058e:
 
     # "Ahh sheesh... She's so sweet, I feel even worse for corrupting her now."
-    "Ahh sheesh... She's so sweet, I feel even worse for corrupting her now."
+    "啊 天哪… 她太可爱了，我现在对她的堕落感觉更糟了。"
 
 # game/finalroute.rpy#L773
 translate chinese cfarm_5d9a5a6b:
 
     # blossom "Would you like any tea? Maybe with some milk? Eheh..."
-    blossom "Would you like any tea? Maybe with some milk? Eheh..."
+    blossom "您想要喝点茶吗?加点牛奶也许更好?嗯-嗯……"
 
 # game/finalroute.rpy#L774
 translate chinese cfarm_b0a7711d:
 
     # mc "Nah... I'm gonna head out, sorry Blossom."
-    mc "Nah... I'm gonna head out, sorry Blossom."
+    mc "呐...我正准备离开呢，谢谢你的好意Blossom。"
 
 # game/finalroute.rpy#L779
 translate chinese cfarm_2d918d70:
 
     # mc "Let’s do this quickly… I’m going to get Honeycrisp and we’re all going to have sex."
-    mc "Let’s do this quickly… I’m going to get Honeycrisp and we’re all going to have sex."
+    mc "让我们速战速决...我准备带上Honeycrisp，大家一起来玩玩儿。"
 
 # game/finalroute.rpy#L781
 translate chinese cfarm_ffff1957:
 
     # blossom "O-Oh! Oh my, absolutely mister. I’ll prepare the bedroom."
-    blossom "O-Oh! Oh my, absolutely mister. I’ll prepare the bedroom."
+    blossom "哦！天哪，我的主人。我这就去准备房间。"
 
 # game/finalroute.rpy#L783
 translate chinese cfarm_96854252:
 
     # "She certainly would never agree to that if she wasn’t brainwashed, it seems ordering her overrides her personality."
-    "She certainly would never agree to that if she wasn’t brainwashed, it seems ordering her overrides her personality."
+    "如果她没有被洗脑，她是肯定不会同意的。似乎对她的命令凌驾于她的个性之上。"
 
 # game/finalroute.rpy#L784
 translate chinese cfarm_ed330a57:
 
     # "I’m not sure if I need to sleep with Blossom, but I’d feel better if I removed the spell from her too; I’ll cure them both at once."
-    "I’m not sure if I need to sleep with Blossom, but I’d feel better if I removed the spell from her too; I’ll cure them both at once."
+    "我不确定我是否需要和Blossom上床，但要是我能把她身上的咒语也去掉，岂不是一箭双雕；我马上把她们姐妹俩俩都治好。"
 
 # game/finalroute.rpy#L785
 translate chinese cfarm_b8db52fd:
 
     # "There are some other individuals in Arcadia that I won’t have the chance to cure, I’m hoping the brainwashing reverts when we defeat Morrigan."
-    "There are some other individuals in Arcadia that I won’t have the chance to cure, I’m hoping the brainwashing reverts when we defeat Morrigan."
+    "在Arcadia，还有一些我没机会去治愈的人。我希望打败Morrigan后，他们能清醒过来。"
 
 # game/finalroute.rpy#L786
 translate chinese cfarm_22c771f1:
 
     # "I’ll just need a tiny bit of milk to keep my erection going for both girls, it should help with the other mares as well."
-    "I’ll just need a tiny bit of milk to keep my erection going for both girls, it should help with the other mares as well."
+    "我只需要一点牛奶来为她们保持我的勃起，这应该对其他母马也有帮助。"
 
 # game/finalroute.rpy#L788
 translate chinese cfarm_6a57a5fd:
 
     # "I take a quick sip of some of Anna’s milk and walk out to the farm fields where I see Honey hard at work."
-    "I take a quick sip of some of Anna’s milk and walk out to the farm fields where I see Honey hard at work."
+    "我喝了一小口Anna的牛奶，然后走到农场，看到Honey正在辛勤地工作。"
 
 # game/finalroute.rpy#L791
 translate chinese cfarm_5e987729:
 
     # honeycrisp "Howdy stud!"
-    honeycrisp "Howdy stud!"
+    honeycrisp "你好哇伙计！"
 
 # game/finalroute.rpy#L793
 translate chinese cfarm_98c7c089:
 
     # honeycrisp "What’re ya doing here in this weather? I couldn't make ya work with me in this rain."
-    honeycrisp "What’re ya doing here in this weather? I couldn't make ya work with me in this rain."
+    honeycrisp "这种天气你在这里还想干吗?我可不能让你在雨里和我一起工作。"
 
 # game/finalroute.rpy#L794
 translate chinese cfarm_e3d545dd:
 
     # mc "I’ve got an important order straight from the Queen, I need to have sex with you and Blossom."
-    mc "I’ve got an important order straight from the Queen, I need to have sex with you and Blossom."
+    mc "我有女王直接下达的重要命令，我要跟你和Blossom上床。"
 
 # game/finalroute.rpy#L796
 translate chinese cfarm_560cc9e0:
 
     # honeycrisp "Well I’ll be, I haven’t heard anything from the Queen; but if it’s coming from you, it must be true."
-    honeycrisp "Well I’ll be, I haven’t heard anything from the Queen; but if it’s coming from you, it must be true."
+    honeycrisp "我会的，尽管我没有收到女王的任何消息;但如果是你说的，那肯定是真的。"
 
 # game/finalroute.rpy#L797
 translate chinese cfarm_94581e67:
 
     # mc "{i}Exactly!{/i} Blossom is preparing your bedroom I think, let’s go."
-    mc "{i}Exactly!{/i} Blossom is preparing your bedroom I think, let’s go."
+    mc "{i}密码正确！{/i}Blossom正在准备你的卧室，我们走吧。"
 
 # game/finalroute.rpy#L799
 translate chinese cfarm_1ec322b3:
 
     # honeycrisp "Absolutely stud, me and my little sister will always be eager to serve."
-    honeycrisp "Absolutely stud, me and my little sister will always be eager to serve."
+    honeycrisp "当然了，我和我的妹妹时刻准备威为您服务。"
 
 # game/finalroute.rpy#L800
 translate chinese cfarm_9b2d488d:
 
     # "I almost feel bad for manipulating these brainwashed girls, but this is far easier and faster; and time is something we don’t have a lot of."
-    "I almost feel bad for manipulating these brainwashed girls, but this is far easier and faster; and time is something we don’t have a lot of."
+    "操纵这些被洗脑的女孩让我觉得有点内疚，但是这要容易得多，也快得多；毕竟时间不等人呀。"
 
 # game/finalroute.rpy#L806
 translate chinese cfarm_91a984ab:
 
     # "The sisters present themselves eagerly on the bed, their pussies soaked with lust and their expression glazed with need and obedience."
-    "The sisters present themselves eagerly on the bed, their pussies soaked with lust and their expression glazed with need and obedience."
+    "姐妹俩饥渴地躺在床上，她们的小穴浸透着欲望，她们的表情因需要和服从而显得略显痴状。"
 
 # game/finalroute.rpy#L807
 translate chinese cfarm_56fe790d:
 
     # "Thanks to the milk, my cock is throbbingly erect, it won’t take long to cure these girls."
-    "Thanks to the milk, my cock is throbbingly erect, it won’t take long to cure these girls."
+    "多亏了牛奶，我的肉棒悸动地勃起了，用不了多久就能治好这些女孩。"
 
 # game/finalroute.rpy#L808
 translate chinese cfarm_1416b6b7:
 
     # honeycrisp "Ahh stud, I’m so grateful that you’ve decided to bless us with sex today."
-    honeycrisp "Ahh stud, I’m so grateful that you’ve decided to bless us with sex today."
+    honeycrisp "啊~，我很感激你今天决定用做爱来祝福我们。"
 
 # game/finalroute.rpy#L809
 translate chinese cfarm_dc8da1e7:
 
     # blossom "Y-Yeah, even though it’s embarrassing to do it with my sister…"
-    blossom "Y-Yeah, even though it’s embarrassing to do it with my sister…"
+    blossom "是啊，虽然和我妹妹一起做挺尴尬的…"
 
 # game/finalroute.rpy#L810
 translate chinese cfarm_9a0227de:
 
     # honeycrisp "Ah Blossom, you’re still immature if you’re letting little things like that worry you. We need to accept the gift [playername] gave us, how about you fuck her first, stud?"
-    honeycrisp "Ah Blossom, you’re still immature if you’re letting little things like that worry you. We need to accept the gift [playername] gave us, how about you fuck her first, stud?"
+    honeycrisp "啊，Blossom，如果你让这种小事困扰你，那说明你还不够成熟。咱们需要接受[playername]给咱们的礼物，不如你先上她?"
 
 # game/finalroute.rpy#L811
 translate chinese cfarm_95bef1e0:
 
     # blossom "Of course, I’m an obedient servant for our Queen… a-and I’m always willing to do it, if it’s with you…"
-    blossom "Of course, I’m an obedient servant for our Queen… a-and I’m always willing to do it, if it’s with you…"
+    blossom "当然，我是女王的忠实仆人，只要是和你在一起，我就愿意这样做……"
 
 # game/finalroute.rpy#L812
 translate chinese cfarm_622331dc:
 
     # "Blossom lowers her eyes slightly as I lean in. Her expression is shy, but she still licks her lips as my cock nears her aching pussy."
-    "Blossom lowers her eyes slightly as I lean in. Her expression is shy, but she still licks her lips as my cock nears her aching pussy."
+    "当我俯下身去的时候，Blossom微微垂下了她的眼睛。随着我的肉棒接近她渴望的小穴，她双腮微红，但她仍然舔她的嘴唇。"
 
 # game/finalroute.rpy#L813
 translate chinese cfarm_88f8d209:
 
     # "She blushes as I take hold of her fuzzy thighs and move closer. I rub the head of my member against her dripping snatch, coating my tip with her wetness."
-    "She blushes as I take hold of her fuzzy thighs and move closer. I rub the head of my member against her dripping snatch, coating my tip with her wetness."
+    "我抓住她毛茸茸的大腿，向她靠近。她的脸被这一举措弄得通红的。我在她的湿漉漉的小穴前摩擦我的龟头，浸润了它。"
 
 # game/finalroute.rpy#L817
 translate chinese cfarm_cca6efd6:
 
     # "With enough of her juices gleaming on my glans to act as lubricant, I align her slippery pussy with my cock and push forward."
-    "With enough of her juices gleaming on my glans to act as lubricant, I align her slippery pussy with my cock and push forward."
+    "有了她的汁液在我的龟头上闪闪发光作为润滑剂，我便用肉棒对准她光滑的小穴推进。"
 
 # game/finalroute.rpy#L818
 translate chinese cfarm_7e821a75:
 
     # "Parting her lips, she moans with relief as I slowly enter her. However, I don’t give her time to savour the feeling, as I immediately begin humping her slick pussy."
-    "Parting her lips, she moans with relief as I slowly enter her. However, I don’t give her time to savour the feeling, as I immediately begin humping her slick pussy."
+    "当我慢慢进入她的身体时，她张开嘴唇，如释重负地呻吟。然而，我立即开始操她那光滑的小穴，没有给她时间去细细品味这种感觉。"
 
 # game/finalroute.rpy#L819
 translate chinese cfarm_6226daad:
 
     # blossom "Haahh, yesshh… This is so good, I’m so glad the three of us can enjoy this together…"
-    blossom "Haahh, yesshh… This is so good, I’m so glad the three of us can enjoy this together…"
+    blossom "啊-啊，好-好舒服...太棒了，我很高兴咱们仨能一起享受这一切……"
 
 # game/finalroute.rpy#L820
 translate chinese cfarm_cfb4994d:
 
     # honeycrisp "You’re such a good gal Blossom, you’ll make for a perfect babe to serve [playername] and the Queen."
-    honeycrisp "You’re such a good gal Blossom, you’ll make for a perfect babe to serve [playername] and the Queen."
+    honeycrisp "你是多么好的一个女孩儿呀Blossom，你将是为[[playername]和女王服务的完美女孩儿。"
 
 # game/finalroute.rpy#L822
 translate chinese cfarm_7905bb9b:
 
     # blossom "Y-Yes, I want to serve, make me your toy [playername]!"
-    blossom "Y-Yes, I want to serve, make me your toy [playername]!"
+    blossom "是的，我想要为您服务，让我成为您的玩具吧，[playername]!"
 
 # game/finalroute.rpy#L823
 translate chinese cfarm_c5f02086:
@@ -1946,25 +1946,25 @@ translate chinese cfarm_c5f02086:
 translate chinese cfarm_80ff2098:
 
     # "However, that doesn’t stop Blossom from enjoying this, her pussy twitches as I go harder; fucking her with such force that even her tiny tits bounce up and down."
-    "However, that doesn’t stop Blossom from enjoying this, her pussy twitches as I go harder; fucking her with such force that even her tiny tits bounce up and down."
+    "然而，这并不会阻止Blossom享受这些，在我更加猛烈的攻势下，她的小穴抽搐;用这么大的力量操她连她的小奶子都在上下乱跳。"
 
 # game/finalroute.rpy#L825
 translate chinese cfarm_d9da3777:
 
     # blossom "Ohhh, oooohhh! [playername]! Y-You’re going so fast today! Oohh… You’re gonna make me come!"
-    blossom "Ohhh, oooohhh! [playername]! Y-You’re going so fast today! Oohh… You’re gonna make me come!"
+    blossom "哦呜呜呜呜呜！[playername]！你今儿是咋各地，射得这么快！哦哦...你弄得我也要来了！"
 
 # game/finalroute.rpy#L826
 translate chinese cfarm_7da3698d:
 
     # "Within a few moments I could feel her vagina clamp around my girth, wringing it as she easily reached her climax. No doubt she must have been masturbating in here before Honey and I arrived."
-    "Within a few moments I could feel her vagina clamp around my girth, wringing it as she easily reached her climax. No doubt she must have been masturbating in here before Honey and I arrived."
+    "片刻，我便能感觉到她的阴道夹住我的肉棒，紧压着它。她真容易达到高潮，肯定是在我和Honey来之前就在这里手淫过了。"
 
 # game/finalroute.rpy#L827
 translate chinese cfarm_88e76f4b:
 
     # "The aphrodisiac milk combined with the fastest pumping I’m able, I can’t stand the tightness of her pussy for long."
-    "The aphrodisiac milk combined with the fastest pumping I’m able, I can’t stand the tightness of her pussy for long."
+    "要不是春药配牛奶让我以最快的速度抽插，我还不能长时间忍受她的紧致的小穴呢。"
 
 # game/finalroute.rpy#L832
 translate chinese cfarm_201a20d2:
@@ -2174,7 +2174,7 @@ translate chinese cboutique_b96629a0:
 translate chinese cboutique_2c0accfb:
 
     # "I run to Ruby’s boutique and knock on the door."
-    "I run to Ruby’s boutique and knock on the door."
+    "我跑到Ruby的精品店前，敲了敲门。"
 
 # game/finalroute.rpy#L924
 translate chinese cboutique_3a23f35a:
@@ -3932,7 +3932,7 @@ translate chinese treemeeting_03bc4e6f:
 translate chinese treemeeting_2d8a26d4:
 
     # "Back at the library..."
-    "Back at the library..."
+    "回到图书馆中..."
 
 # game/finalroute.rpy#L1489
 translate chinese treemeeting_77877b8a:
@@ -4034,19 +4034,19 @@ translate chinese skipaltreemeeting_8e14cb8e:
 translate chinese skipaltreemeeting_3bb6830e:
 
     # lily "The moment Morrigan discovers that we’re no longer under her control, and hence a threat, she may do something drastic."
-    lily "The moment Morrigan discovers that we’re no longer under her control, and hence a threat, she may do something drastic."
+    lily "一旦Morrigan发现我们不再受她的控制，从而构成威胁的话，她可能会做出极端的举动。"
 
 # game/finalroute.rpy#L1543
 translate chinese skipaltreemeeting_14aabd70:
 
     # riku "Such as?"
-    riku "Such as?"
+    riku "比如？"
 
 # game/finalroute.rpy#L1545
 translate chinese skipaltreemeeting_acf34826:
 
     # lily "Perhaps she’ll turn the sisters against us, that’d be an uncomfortable fight…"
-    lily "Perhaps she’ll turn the sisters against us, that’d be an uncomfortable fight…"
+    lily "也许她会让姐妹们来针对我们，那将是一场不安的战斗…"
 
 # game/finalroute.rpy#L1550
 translate chinese skipaltreemeeting_5c4bb3db:
@@ -4082,19 +4082,19 @@ translate chinese skipaltreemeeting_f94894cd:
 translate chinese skipaltreemeeting_ac9f74d2:
 
     # penelope "No, wait! I'm here to help! Morrigan... she's gone crazy! She wants to kill everyone!"
-    penelope "No, wait! I'm here to help! Morrigan... she's gone crazy! She wants to kill everyone!"
+    penelope "不,等等！我是来帮忙的！Morrigan… 她疯了！她想杀了所有人！"
 
 # game/finalroute.rpy#L1582
 translate chinese skipaltreemeeting_634ec798:
 
     # honeycrisp "Yeah? And? It's because of you betraying us that we got into this whole mess!"
-    honeycrisp "Yeah? And? It's because of you betraying us that we got into this whole mess!"
+    honeycrisp "是吗？然后呢？都是因为你背叛了我们，才让我们陷入这一团糟！"
 
 # game/finalroute.rpy#L1584
 translate chinese skipaltreemeeting_9f551a67:
 
     # lily "Girls, let's hear her out... She seems genuinely distressed right now."
-    lily "Girls, let's hear her out... She seems genuinely distressed right now."
+    lily "姑娘们，让我们听她把话说完... 她现在看起来真的很痛苦。"
 
 # game/finalroute.rpy#L1586
 translate chinese skipaltreemeeting_52613f79:
@@ -4148,19 +4148,19 @@ translate chinese skipaltreemeeting_4f9e276d:
 translate chinese skipaltreemeeting_a4c4624f:
 
     # lily "I... trust you, Penelope."
-    lily "I... trust you, Penelope."
+    lily "我... 相信你, Penelope。"
 
 # game/finalroute.rpy#L1611
 translate chinese skipaltreemeeting_17c9c32b:
 
     # lily "And since you know Morrigan better than the rest of us, do you have a plan?"
-    lily "And since you know Morrigan better than the rest of us, do you have a plan?"
+    lily "既然你比我们更了解Morrigan，那你有什么计划吗？"
 
 # game/finalroute.rpy#L1613
 translate chinese skipaltreemeeting_ad36a747:
 
     # penelope "A plan? I might have an idea... But you'll have to explain to me how you broke the brainwashing."
-    penelope "A plan? I might have an idea... But you'll have to explain to me how you broke the brainwashing."
+    penelope "一个计划吗?我可能有个主意…但你得向我解释你是怎样破坏洗脑的。"
 
 # game/finalroute.rpy#L1619
 translate chinese skipaltreemeeting_b4308091:
@@ -4196,43 +4196,43 @@ translate chinese skipaltreemeeting_dea7cbfd:
 translate chinese skipaltreemeeting_1bb818a8:
 
     # penelope "But I have an idea... I'm sorry to ask you of this, [playername], but you're the only person that can fool her."
-    penelope "But I have an idea... I'm sorry to ask you of this, [playername], but you're the only person that can fool her."
+    penelope "但我有个主意…我很抱歉向你问这个，[playername]，但你是唯一能骗过她的人。"
 
 # game/finalroute.rpy#L1630
 translate chinese skipaltreemeeting_fbbe2238:
 
     # mc "I'm listening..."
-    mc "I'm listening..."
+    mc "我在听着呢..."
 
 # game/finalroute.rpy#L1632
 translate chinese skipaltreemeeting_73ab7b03:
 
     # penelope "Perhaps you noticed, but the truth is, Moxie-Morrigan is pretty obsessed with you, [playername]... I think it's because some remnants of Moxie's personality still currently reside within Morrigan."
-    penelope "Perhaps you noticed, but the truth is, Moxie-Morrigan is pretty obsessed with you, [playername]... I think it's because some remnants of Moxie's personality still currently reside within Morrigan."
+    penelope "也许你注意到了，但事实是，Moxie-Morrigan非常痴迷于你，[playername]… 我认为这是因为Morrigan体内还残留着Moxie的人格。"
 
 # game/finalroute.rpy#L1633
 translate chinese skipaltreemeeting_bc53dfc8:
 
     # penelope "If you can convince her to let you sleep with the sisters, which should be pretty easy, you could cure their brainwashing and she’d no longer be able to use them as shields."
-    penelope "If you can convince her to let you sleep with the sisters, which should be pretty easy, you could cure their brainwashing and she’d no longer be able to use them as shields."
+    penelope "如果你能说服她让你和姐妹俩上床的话，这应该会很简单.. 你便可以治愈她们的洗脑，她就不能再用她们做盾牌了。"
 
 # game/finalroute.rpy#L1634
 translate chinese skipaltreemeeting_e29365a1:
 
     # mc "Putting my dick to good use, I like it."
-    mc "Putting my dick to good use, I like it."
+    mc "把我的老二用在对的方面，我喜欢它。"
 
 # game/finalroute.rpy#L1636
 translate chinese skipaltreemeeting_47a9aa74:
 
     # penelope "And! While we're doing that, we can evacuate the castle. We'll have about fifteen minutes."
-    penelope "And! While we're doing that, we can evacuate the castle. We'll have about fifteen minutes."
+    penelope "以及！当我们那么做的时候，我们便可以疏散城堡里的人。我们大约有15分钟时间。"
 
 # game/finalroute.rpy#L1638
 translate chinese skipaltreemeeting_707073ac:
 
     # lily "That's a great idea... Once she has lost control of the sisters, it will be far easier for us."
-    lily "That's a great idea... Once she has lost control of the sisters, it will be far easier for us."
+    lily "那是个好主意... 一旦她失去了对姐妹俩的控制，对我们来说就容易多了。"
 
 # game/finalroute.rpy#L1639
 translate chinese skipaltreemeeting_17139547:
@@ -4244,7 +4244,7 @@ translate chinese skipaltreemeeting_17139547:
 translate chinese skipaltreemeeting_58dc7941:
 
     # honeycrisp "Don't hold back too much Lily, we gotta eradicate that bug."
-    honeycrisp "Don't hold back too much Lily, we gotta eradicate that bug."
+    honeycrisp "不要过于拘谨了 Lily, 我们得消灭那只虫子。"
 
 # game/finalroute.rpy#L1655
 translate chinese skipaltreemeeting_420b2649:
@@ -4286,7 +4286,7 @@ translate chinese skipaltreemeeting_72d7e11f:
 translate chinese skipaltreemeeting_ee1ad3c6:
 
     # mc "I see… Timing is crucial then; I have to cum in them both at once."
-    mc "I see… Timing is crucial then; I have to cum in them both at once."
+    mc "我看见了… 因此，时机是至关重要的，我必须同时兼得两者。"
 
 # game/finalroute.rpy#L1678
 translate chinese skipaltreemeeting_f27f538d:
@@ -4322,7 +4322,7 @@ translate chinese skipaltreemeeting_ca76c0be:
 translate chinese skipaltreemeeting_1028a218:
 
     # mc "Okay, let’s do this…"
-    mc "Okay, let’s do this…"
+    mc "好的，让我们开始吧..."
 
 # game/finalroute.rpy#L1693
 translate chinese skipaltreemeeting_a20cefa7:
@@ -4334,61 +4334,61 @@ translate chinese skipaltreemeeting_a20cefa7:
 translate chinese confrontingmorrigan_e2147f72:
 
     # "When I arrive at the castle, the guards seem none-the-wiser as they escort me to Queen Aurora’s personal chambers."
-    "When I arrive at the castle, the guards seem none-the-wiser as they escort me to Queen Aurora’s personal chambers."
+    "当我到达城堡时，守卫们似乎并不知情；他们护送我去了Aurora女王的私人房间。"
 
 # game/finalroute.rpy#L1698
 translate chinese confrontingmorrigan_326094af:
 
     # "Although they do seem notably disgruntled, there’s bickering amongst them."
-    "Although they do seem notably disgruntled, there’s bickering amongst them."
+    "虽然他们确实明显地心怀不满，但他们之间还是存在着争吵。"
 
 # game/finalroute.rpy#L1699
 translate chinese confrontingmorrigan_b1ca7bc7:
 
     # guard1 "Why did the Queen just let that witch past?"
-    guard1 "Why did the Queen just let that witch past?"
+    guard1 "女王为什么会让那个女巫过去?"
 
 # game/finalroute.rpy#L1700
 translate chinese confrontingmorrigan_48ee1e43:
 
     # guard2 "Wasn’t that Morrigan?"
-    guard2 "Wasn’t that Morrigan?"
+    guard2 "那不是Morrigan吗?"
 
 # game/finalroute.rpy#L1701
 translate chinese confrontingmorrigan_d891c04f:
 
     # guard3 "I don’t know, is she a diplomat from another country?"
-    guard3 "I don’t know, is she a diplomat from another country?"
+    guard3 "我不知道，她是别国的外交官吗？"
 
 # game/finalroute.rpy#L1702
 translate chinese confrontingmorrigan_c239bf13:
 
     # guard4 "Shut up you three, you can’t argue with the Queen’s orders."
-    guard4 "Shut up you three, you can’t argue with the Queen’s orders."
+    guard4 "请你们三个闭嘴，你们不能违抗女王的命令。"
 
 # game/finalroute.rpy#L1703
 translate chinese confrontingmorrigan_73d3b5e6:
 
     # guard1 "Dude, her eyes were green! Isn’t that weird?"
-    guard1 "Dude, her eyes were green! Isn’t that weird?"
+    guard1 "老兄，她的眼睛是绿色的唉！这难道不奇怪吗？"
 
 # game/finalroute.rpy#L1704
 translate chinese confrontingmorrigan_6ce9aa83:
 
     # guard4 "Orders are orders, the eye colour Queen Aurora felt like using today isn’t our concern."
-    guard4 "Orders are orders, the eye colour Queen Aurora felt like using today isn’t our concern."
+    guard4 "命令就是命令，Aurora女王今天想用的眼睛瞳色与我们无关。"
 
 # game/finalroute.rpy#L1705
 translate chinese confrontingmorrigan_346c268c:
 
     # guard3 "I wonder if she dons disguises and sneaks out of the castle?"
-    guard3 "I wonder if she dons disguises and sneaks out of the castle?"
+    guard3 "我想知道她是否会通过伪装然后再偷溜出城堡去？"
 
 # game/finalroute.rpy#L1706
 translate chinese confrontingmorrigan_c2562a43:
 
     # "Okay, so these guards are completely useless."
-    "Okay, so these guards are completely useless."
+    "好吧，这些守卫是完全没卵用的。"
 
 # game/finalroute.rpy#L1707
 translate chinese confrontingmorrigan_9c7d14be:
@@ -4400,19 +4400,19 @@ translate chinese confrontingmorrigan_9c7d14be:
 translate chinese confrontingmorrigan_17daee1e:
 
     # "I peek in the living room, no one there."
-    "I peek in the living room, no one there."
+    "我向客厅中窥视，没人在那。"
 
 # game/finalroute.rpy#L1711
 translate chinese confrontingmorrigan_f01131a0:
 
     # "Bathroom empty, gym empty…"
-    "Bathroom empty, gym empty…"
+    "浴室是空的，健身房也是空的..."
 
 # game/finalroute.rpy#L1713
 translate chinese confrontingmorrigan_a266801a:
 
     # "She’s not here at all."
-    "She’s not here at all."
+    "她根本不在这儿。"
 
 # game/finalroute.rpy#L1715
 translate chinese confrontingmorrigan_ae3e86b3:
@@ -4424,7 +4424,7 @@ translate chinese confrontingmorrigan_ae3e86b3:
 translate chinese confrontingmorrigan_4c1b5c5d:
 
     # "There, on the throne!"
-    "There, on the throne!"
+    "在那儿，在王座上！"
 
 # game/finalroute.rpy#L1732
 translate chinese confrontingmorrigan_59254334:
@@ -4436,7 +4436,7 @@ translate chinese confrontingmorrigan_59254334:
 translate chinese confrontingmorrigan_697ff64c:
 
     # mc "Mm… Morrigan…"
-    mc "Mm… Morrigan…"
+    mc "嗯... Morrigan..."
 
 # game/finalroute.rpy#L1735
 translate chinese confrontingmorrigan_f801b767:
@@ -4466,7 +4466,7 @@ translate chinese confrontingmorrigan_a705a4fc:
 translate chinese confrontingmorrigan_2ed20986:
 
     # mc "They do look like a lot of fun."
-    mc "They do look like a lot of fun."
+    mc "她们看起来确实很有趣。"
 
 # game/finalroute.rpy#L1746
 translate chinese confrontingmorrigan_d2b67325:
@@ -4490,7 +4490,7 @@ translate chinese confrontingmorrigan_c1af373f:
 translate chinese confrontingmorrigan_8f10aac6:
 
     # mc "Are you really Moxie? Tell me the truth, is this what you always wanted?"
-    mc "Are you really Moxie? Tell me the truth, is this what you always wanted?"
+    mc "你真的是Moxie吗？跟我说实话，这便是你一直想要的吗？"
 
 # game/finalroute.rpy#L1751
 translate chinese confrontingmorrigan_fd44f4f9:
@@ -4502,7 +4502,7 @@ translate chinese confrontingmorrigan_fd44f4f9:
 translate chinese confrontingmorrigan_4e790749:
 
     # mc "That’s what you said last time, but I felt like you were dodging the question…"
-    mc "That’s what you said last time, but I felt like you were dodging the question…"
+    mc "你上次也是这么说的，但我觉得你在回避问题…"
 
 # game/finalroute.rpy#L1754
 translate chinese confrontingmorrigan_9029153a:

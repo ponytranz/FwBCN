@@ -8726,19 +8726,19 @@ translate chinese lilylegsupmissionary_1464d4f6:
 translate chinese lilylegsupmissionary_6787882a:
 
     # aurora "Oh Lily, you and your fascination with aliens."
-    aurora "哦，Lily，你和你对外星人的迷恋。"
+    aurora "哦，Lily，你还有你对外星人的迷恋～"
 
 # game/library.rpy#L2470
 translate chinese lilylegsupmissionary_f3a80e2f:
 
     # "She has a fascination with aliens?"
-    "她迷恋外星人？"
+    "这么说她对外星生物有性趣？"
 
 # game/library.rpy#L2471
 translate chinese lilylegsupmissionary_815d8045:
 
     # "Wait... Does she like to sleep with me because she has an alien fetish?"
-    "等待......她喜欢和我上床是因为她有外星癖吗？"
+    "等等......不会她和我上床是因为她有异星癖吧？"
 
 # game/library.rpy#L2473
 translate chinese lilylegsupmissionary_a6bb9ceb:
@@ -8750,31 +8750,31 @@ translate chinese lilylegsupmissionary_a6bb9ceb:
 translate chinese lilylegsupmissionary_556724b3:
 
     # aurora "Moxie, do you have anything to add?"
-    aurora "Moxie，你有没有什么可以添加的东西？"
+    aurora "Moxie，你有什么要补充的吗？"
 
 # game/library.rpy#L2476
 translate chinese lilylegsupmissionary_2080a529:
 
     # moxie "No... Well... Actually, maybe [playername] is from an alternate universe?"
-    moxie "不...好...事实上，也许[playername]来自另一个宇宙？"
+    moxie "没...嗯...其实，我认为[playername]来自另外一个宇宙？"
 
 # game/library.rpy#L2478
 translate chinese lilylegsupmissionary_012a4853:
 
     # lily "Pfft, ridiculous!"
-    lily "太荒谬了！"
+    lily "噗，可笑!"
 
 # game/library.rpy#L2480
 translate chinese lilylegsupmissionary_5988d9c7:
 
     # aurora "Now now, Lily. That theory is no more or less ridiculous than yours of a faraway planet."
-    aurora "现在，Lily。这个理论和你关于一个遥远星球的理论差不多荒谬。"
+    aurora "行了，Lily。这个理论并不比你的遥远星球论更荒谬。"
 
 # game/library.rpy#L2482
 translate chinese lilylegsupmissionary_3b06e173:
 
     # aurora "Come with me [playername], I have my own theory and some private information pertinent to you."
-    aurora "跟我来 [playername]，我有我自己的理论和一些与你有关的私人信息。"
+    aurora "跟我来吧 [playername]，我有自己一套理论和一些与你有关的信息要私下谈谈。"
 
 # game/library.rpy#L2484
 translate chinese lilylegsupmissionary_60d7593b:
@@ -8786,247 +8786,247 @@ translate chinese lilylegsupmissionary_60d7593b:
 translate chinese lilylegsupmissionary_86b95160:
 
     # aurora "This is a private conversation I can have with only [playername], I hope you understand young one."
-    aurora "这是我只能和 [playername] 进行的私人对话，我希望你能理解年轻人。"
+    aurora "这是我只能与 [playername] 进行的私下谈话，年轻马们我希望你们能理解。"
 
 # game/library.rpy#L2487
 translate chinese lilylegsupmissionary_bf13ee58:
 
     # aurora "Perhaps later [playername] can fill you in on the details."
-    aurora "也许以后 [playername] 可以告诉你细节。"
+    aurora "也许 [playername] 之后可以向你们透露一些细节。"
 
 # game/library.rpy#L2489
 translate chinese lilylegsupmissionary_14a8c112:
 
     # lily "Yes your majesty…"
-    lily "Yes your majesty…"
+    lily "遵命，陛下…"
 
 # game/library.rpy#L2491
 translate chinese lilylegsupmissionary_74414b15:
 
     # "Moxie seems confused and concerned, so I give her a reassuring nod and she returns it with a steadfast expression."
-    "Moxie seems confused and concerned, so I give her a reassuring nod and she returns it with a steadfast expression."
+    "看来Moxie似乎感到很困惑和担忧，于是我以一种令人安心的神态对她点头保证，而她则回以一个坚定的眼神。"
 
 # game/library.rpy#L2494
 translate chinese lilylegsupmissionary_f7a07f49:
 
     # "To my surprise, the Queen takes my hand and leads me up a flight of spiral stairs to a comfortable living quarters, and then further into a strange room with a few blank mirrors."
-    "To my surprise, the Queen takes my hand and leads me up a flight of spiral stairs to a comfortable living quarters, and then further into a strange room with a few blank mirrors."
+    "让我惊讶的是，女王就牵着我的手，领着我爬上一段螺旋楼梯，来到一个舒适的客厅，然后带我进了一个有几面空镜子的奇怪房间。"
 
 # game/library.rpy#L2495
 translate chinese lilylegsupmissionary_2618aecb:
 
     # "On closer inspection though, these are not mirroring at all, they’re more like monitors showing an image."
-    "On closer inspection though, these are not mirroring at all, they’re more like monitors showing an image."
+    "但仔细观察，这些反光根本不是镜像，它们更像是屏幕显示器上的画面。"
 
 # game/library.rpy#L2499
 translate chinese lilylegsupmissionary_e9c286e4:
 
     # aurora "I believe I have your answer, but I do not think the young ones are ready for such a revelation."
-    aurora "I believe I have your answer, but I do not think the young ones are ready for such a revelation."
+    aurora "我相信我已经得到了你问题的答案，但我认为年轻马们还没有准备好接受这样的真相。"
 
 # game/library.rpy#L2501
 translate chinese lilylegsupmissionary_2c2bc33f:
 
     # aurora "And I have a good sense that you have not fully disclosed everything you know to them."
-    aurora "And I have a good sense that you have not fully disclosed everything you know to them."
+    aurora "还有我有一个可靠的判断，我认为你并没有完全向她们透露你所知道的一切。"
 
 # game/library.rpy#L2503
 translate chinese lilylegsupmissionary_338b8d17:
 
     # aurora "If my theory is correct, I honestly do not blame you."
-    aurora "If my theory is correct, I honestly do not blame you."
+    aurora "如果我的理论正确，那我也不会怪你。"
 
 # game/library.rpy#L2504
 translate chinese lilylegsupmissionary_04267e86:
 
     # mc "That is correct, your majesty."
-    mc "That is correct, your majesty."
+    mc "这很得体，陛下。"
 
 # game/library.rpy#L2506
 translate chinese lilylegsupmissionary_7b7ca983:
 
     # aurora "No need to be formal, you can call me Aurora."
-    aurora "No need to be formal, you can call me Aurora."
+    aurora "不用拘谨，你可以直接叫我Aurora。"
 
 # game/library.rpy#L2508
 translate chinese lilylegsupmissionary_8f7fccc8:
 
     # mc "Okay, Aurora."
-    mc "Okay, Aurora."
+    mc "好的，Aurora。"
 
 # game/library.rpy#L2509
 translate chinese lilylegsupmissionary_68482c4d:
 
     # aurora "There are two halves to fully solving your situation."
-    aurora "There are two halves to fully solving your situation."
+    aurora "你的问题得从两个方面去思考才能完全解决。"
 
 # game/library.rpy#L2510
 translate chinese lilylegsupmissionary_4506411e:
 
     # aurora "The first is the 'Where'. And I believe I have the answer to that."
-    aurora "The first is the 'Where'. And I believe I have the answer to that."
+    aurora "第一个方面是“哪儿”。我相信我已经找到了答案。"
 
 # game/library.rpy#L2511
 translate chinese lilylegsupmissionary_67542849:
 
     # aurora "The second is the 'How'. For that, I'll refer you to my sister Selene, she’s far more knowledgeable on bizarre magics."
-    aurora "The second is the 'How'. For that, I'll refer you to my sister Selene, she’s far more knowledgeable on bizarre magics."
+    aurora "第二个方面是“如何”。关于这个问题，我会把你介绍给我的妹妹Selene，她对这些奇奇怪怪的魔法更为了解。"
 
 # game/library.rpy#L2512
 translate chinese lilylegsupmissionary_6350100e:
 
     # mc "What’s the ‘where’, then?"
-    mc "What’s the ‘where’, then?"
+    mc "那“哪儿”是什么？"
 
 # game/library.rpy#L2514
 translate chinese lilylegsupmissionary_4902854c:
 
     # aurora "Where did you come from?"
-    aurora "Where did you come from?"
+    aurora "你从哪里来？"
 
 # game/library.rpy#L2515
 translate chinese lilylegsupmissionary_f861cb16:
 
     # aurora "In truth, your species is not new to me, I have seen it before, but not in this universe."
-    aurora "In truth, your species is not new to me, I have seen it before, but not in this universe."
+    aurora "其实你们物种对我来说并不陌生，我以前就见过，当然不是在这个宇宙。"
 
 # game/library.rpy#L2516
 translate chinese lilylegsupmissionary_76c3648f:
 
     # mc "Ah- you’ve seen a human before?"
-    mc "Ah- you’ve seen a human before?"
+    mc "啊…你以前见过人类？"
 
 # game/library.rpy#L2518
 translate chinese lilylegsupmissionary_3fbe6397:
 
     # aurora "Do you see these mirrors?"
-    aurora "Do you see these mirrors?"
+    aurora "你看到这些镜子了吗？"
 
 # game/library.rpy#L2519
 translate chinese lilylegsupmissionary_f81208b9:
 
     # "She points to the mirror-like objects that are projecting images."
-    "She points to the mirror-like objects that are projecting images."
+    "她指着那些像镜子一样的物件，它们正投射着影像。"
 
 # game/library.rpy#L2522
 translate chinese lilylegsupmissionary_911cc952:
 
     # aurora "These are portals to parallel universes."
-    aurora "These are portals to parallel universes."
+    aurora "这些是通往平行宇宙的门户。"
 
 # game/library.rpy#L2526
 translate chinese lilylegsupmissionary_e5715306:
 
     # aurora "You're not from a distant planet, or another universe."
-    aurora "You're not from a distant planet, or another universe."
+    aurora "你不是来自遥远的星球或者是另一个宇宙。"
 
 # game/library.rpy#L2527
 translate chinese lilylegsupmissionary_f78f8405:
 
     # aurora "Perhaps you're simply from one of these three parallel universes, and you mistakenly stumbled through."
-    aurora "Perhaps you're simply from one of these three parallel universes, and you mistakenly stumbled through."
+    aurora "也许你只是来自这三个平行宇宙中的一个，而你却跌跌撞撞地错误“穿越”了。"
 
 # game/library.rpy#L2528
 translate chinese lilylegsupmissionary_3d4d26e0:
 
     # mc "That’s crazy, how is that possible?"
-    mc "That’s crazy, how is that possible?"
+    mc "太疯狂了，这怎么可能？"
 
 # game/library.rpy#L2530
 translate chinese lilylegsupmissionary_67dce85f:
 
     # aurora "There are infinite universes, and each of them exists simultaneously."
-    aurora "There are infinite universes, and each of them exists simultaneously."
+    aurora "宇宙的维度是无限的，所有维度都同时存在。"
 
 # game/library.rpy#L2532
 translate chinese lilylegsupmissionary_5a183866:
 
     # aurora "However, some universes are more similar than others."
-    aurora "However, some universes are more similar than others."
+    aurora "然而，其中一些维度和其他维度非常相似。"
 
 # game/library.rpy#L2533
 translate chinese lilylegsupmissionary_046fd741:
 
     # aurora "And the more similar two universes are, the greater the overlap between them, and the smaller the boundary between them."
-    aurora "And the more similar two universes are, the greater the overlap between them, and the smaller the boundary between them."
+    aurora "两个宇宙维度越相似，它们的重叠部分就越多，边界也就越小。"
 
 # game/library.rpy#L2534
 translate chinese lilylegsupmissionary_82eccef8:
 
     # aurora "The smaller the boundary, the easier it is for Selene to create a wormhole to that alternative universe."
-    aurora "The smaller the boundary, the easier it is for Selene to create a wormhole to that alternative universe."
+    aurora "边界越小，Selene就越容易在两个宇宙维度间创造虫洞。"
 
 # game/library.rpy#L2535
 translate chinese lilylegsupmissionary_fad47590:
 
     # aurora "Here we have three very similar universes with wormholes between them."
-    aurora "Here we have three very similar universes with wormholes between them."
+    aurora "虫洞将这三个非常相似的宇宙链接了起来。"
 
 # game/library.rpy#L2536
 translate chinese lilylegsupmissionary_acb65003:
 
     # aurora "The first portal leads to a near identical world to this one. Every single individual is the same; they’re also ponies too."
-    aurora "The first portal leads to a near identical world to this one. Every single individual is the same; they’re also ponies too."
+    aurora "第一个入口通向一个与我们现在所处的几乎相同的世界——每个个体都是完全一样的；他们也都是小马。"
 
 # game/library.rpy#L2537
 translate chinese lilylegsupmissionary_d0ca801c:
 
     # "The portal scans over the world, and I can see a Lily and some other ponies. But to my bewilderment these are actual ponies walking on all fours."
-    "The portal scans over the world, and I can see a Lily and some other ponies. But to my bewilderment these are actual ponies walking on all fours."
+    "传送门扫过了这个世界，我看到了Lily和其他一些小马。但令我大为不解的是，这些都是四蹄行走的小马。"
 
 # game/library.rpy#L2538
 translate chinese lilylegsupmissionary_4e1f97eb:
 
     # mc "They’re actual ponies?"
-    mc "They’re actual ponies?"
+    mc "它们是真正的小马?"
 
 # game/library.rpy#L2540
 translate chinese lilylegsupmissionary_11aac07e:
 
     # aurora "Indeed, however, they walk on four legs instead of two, similar to the ponies in your world, right?"
-    aurora "Indeed, however, they walk on four legs instead of two, similar to the ponies in your world, right?"
+    aurora "是的，它们不是用两条腿走路，而是用四条腿，就跟你们世界里的小马一样，对吧?"
 
 # game/library.rpy#L2541
 translate chinese lilylegsupmissionary_2bd035d7:
 
     # mc "Yeah- yes! How did you know?"
-    mc "Yeah- yes! How did you know?"
+    mc "对,没错!你是怎么知道的?"
 
 # game/library.rpy#L2543
 translate chinese lilylegsupmissionary_04be9411:
 
     # aurora "Here, look at this third portal."
-    aurora "Here, look at this third portal."
+    aurora "看这，请看第三个入口。"
 
 # game/library.rpy#L2544
 translate chinese lilylegsupmissionary_9cd5fd96:
 
     # "I look at the third portal and it slowly scans over a different world. It seems more urban and alike my own, but something is off about it."
-    "I look at the third portal and it slowly scans over a different world. It seems more urban and alike my own, but something is off about it."
+    "我看着第三个入口，它慢慢地显现出一个不同的世界。这看起来像是城市也更像是我自己的世界，但它又有些地方不对劲。"
 
 # game/library.rpy#L2545
 translate chinese lilylegsupmissionary_043dc81c:
 
     # mc "Is that Moxie?"
-    mc "Is that Moxie?"
+    mc "那是Moxie吗?"
 
 # game/library.rpy#L2546
 translate chinese lilylegsupmissionary_2c459973:
 
     # aurora "Indeed it is. Unlike this universe, and the other pony universe, this third mirror has 'human' creatures like you."
-    aurora "Indeed it is. Unlike this universe, and the other pony universe, this third mirror has 'human' creatures like you."
+    aurora "是的。这不像这个宇宙或其他小马宇宙，这第三面镜子里有着像你一样的生物——“人类”。"
 
 # game/library.rpy#L2547
 translate chinese lilylegsupmissionary_3f73a644:
 
     # "I take a closer look at the portal, and there are humans, but they’re many unusual colours."
-    "I take a closer look at the portal, and there are humans, but they’re many unusual colours."
+    "我仔细看了看传送门，那里是有人类，但他们有很多不同寻常的肤色。"
 
 # game/library.rpy#L2548
 translate chinese lilylegsupmissionary_469d24fa:
 
     # mc "Ah… This is a parallel universe with slightly different humans, not my universe."
-    mc "Ah… This is a parallel universe with slightly different humans, not my universe."
+    mc "噢…这是一个平行宇宙，但里面的人类略有不同，不是我的宇宙。"
 
 # game/library.rpy#L2549
 translate chinese lilylegsupmissionary_564fc294:

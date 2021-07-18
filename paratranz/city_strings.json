@@ -1607,10 +1607,10 @@
   {
     "id": 79443310,
     "createdAt": "2021-05-30T19:47:47.000Z",
-    "updatedAt": "2021-07-11T00:49:09.000Z",
+    "updatedAt": "2021-07-17T18:31:42.000Z",
     "key": "game/city.rpy_L1418_2",
     "original": "Names are fleeting, you can keep calling me kitten.",
-    "translation": "名字只是个代号罢了，说变就变。但你可以一直叫我小猫~猫~。",
+    "translation": "名字只是个代号罢了，说变就变了。但你可以一直叫我小猫~猫~哟。",
     "file": 272378,
     "stage": 1,
     "project": 2414,

@@ -92,7 +92,7 @@ translate chinese mapmarket_ac65cd57:
 translate chinese mapmarket_b346c7ef:
 
     # dawn2 "Thank you so much, dearie."
-    dawn2 "亲爱的，太感谢你了"
+    dawn2 "亲爱的，太感谢你了。"
 
 # game/3map.rpy#L88
 translate chinese mapmarket_3c24b811:
@@ -5138,11 +5138,11 @@ translate chinese strings:
 
     # game/3map.rpy_L75_0
     old "Yeah, let me just buy something quickly."
-    new "好啊，让我赶快来买点东西。"
+    new "好啊，让我快点来买点东西。"
 
     # game/3map.rpy_L75_1
     old "I'm in no rush, let me help you."
-    new "我不太忙，我来帮帮你吧。"
+    new "我不太忙，让我来帮帮你吧。"
 
     # game/3map.rpy_L75_2
     old "Oh my god."
@@ -5198,7 +5198,7 @@ translate chinese strings:
 
     # game/3map.rpy_L278_0
     old "The ol' fuck and chuck. Alright, sure."
-    new "The ol' fuck and chuck. Alright, sure."
+    new "使用她们然后避免和她们有任何接触，好吧，当然……"
 
     # game/3map.rpy_L278_1
     old "Sounds like you're taking the idea of being a cum dumpster literally."
@@ -5270,7 +5270,7 @@ translate chinese strings:
 
     # game/3map.rpy_L613_2
     old "You have nice boobs."
-    new "你的胸可真别致。"
+    new "你的胸可真漂亮。"
 
     # game/3map.rpy_L682_0
     old "(There is literally no reason to actually buy muffins)."

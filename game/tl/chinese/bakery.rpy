@@ -3122,13 +3122,13 @@ translate chinese creamvmissionary_166c8ae6:
 translate chinese creamvmissionary_dd6bcf56:
 
     # honeycrisp "Mmmphh, that satisfying feeling of slow insertion filling up my pussy, it never gets old..."
-    honeycrisp "Mmmphh, that satisfying feeling of slow insertion filling up my pussy, it never gets old..."
+    honeycrisp "那种缓慢插入充满我阴部令我满意的感觉，它将永远不会过时……"
 
 # game/bakery.rpy#L975
 translate chinese creamvmissionary_f0f67ab3:
 
     # honeycrisp "Ahh, I love your cock... Ever since rut in the barn I've been thinking about this while I masturbate..."
-    honeycrisp "Ahh, I love your cock... Ever since rut in the barn I've been thinking about this while I masturbate..."
+    honeycrisp "啊，我爱你的下面那个大东西……自从在谷仓里发情之后，我在自我安慰的时候就一直在想这个…"
 
 # game/bakery.rpy#L979
 translate chinese creamvmissionary_552f7f5b:

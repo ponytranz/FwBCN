@@ -1514,19 +1514,19 @@ translate chinese musicstudiomenub_00565838:
 translate chinese musicstudiomenub_f823261e:
 
     # claire "Both the girls are trying to create music that moves you and gives you goosebumps, but in very different ways."
-    claire "Both the girls are trying to create music that moves you and gives you goosebumps, but in very different ways."
+    claire "两个女孩都在尝试创作能打动你，让你起鸡皮疙瘩的音乐，不过她们使用的方法截然不同。"
 
 # game/city.rpy#L527
 translate chinese musicstudiomenub_0743cd6c:
 
     # melody "Our stuff is pretty niche, but some of the videos I've uploaded on the internet have a few hits."
-    melody "Our stuff is pretty niche, but some of the videos I've uploaded on the internet have a few hits."
+    melody "我们的东西非常小众，但我在互联网上传的一些视频有些点击率"
 
 # game/city.rpy#L528
 translate chinese musicstudiomenub_efb85316:
 
     # claire "A lot of people say that luck is a big factor on succeeding as an artist, but in this internet age if you make something good and put it out there, it'll attract a crowd."
-    claire "A lot of people say that luck is a big factor on succeeding as an artist, but in this internet age if you make something good and put it out there, it'll attract a crowd."
+    claire "很多人说运气是艺术家成功的一个重要原因，但在这个互联网时代，如果你做出好的东西并公之于众，这将会吸引一大群的人。"
 
 # game/city.rpy#L529
 translate chinese musicstudiomenub_b6a5fca0:
@@ -1598,19 +1598,19 @@ translate chinese musicstudiomenub_90a12416:
 translate chinese musicstudiomenub_0e4cfdbc:
 
     # melody "She's a damn good teacher! That's why I signed up to work with her for my final year!"
-    melody "She's a damn good teacher! That's why I signed up to work with her for my final year!"
+    melody "她真是个炒鸡棒的老师！所以我在最后一个学年报名上她的课。"
 
 # game/city.rpy#L547
 translate chinese musicstudiomenub_e7a51768:
 
     # claire "Speaking of the final year, there are exams... It's immeasurably difficult to test candidates in music, because on what metric do you assign quality in a medium that's purely subjective?"
-    claire "Speaking of the final year, there are exams... It's immeasurably difficult to test candidates in music, because on what metric do you assign quality in a medium that's purely subjective?"
+    claire "说到最后一年，我还有巨多考试。。。考察学生们对音乐的感悟程度是非常困难的，因为在一个纯粹主观的媒介中，你用什么标准来衡量创作的质量？"
 
 # game/city.rpy#L548
 translate chinese musicstudiomenub_9db35817:
 
     # claire "I mean sure, there are certain things like composition, structure, and lyrics that can be broken down and observed, but a lot of it is still very subjective."
-    claire "I mean sure, there are certain things like composition, structure, and lyrics that can be broken down and observed, but a lot of it is still very subjective."
+    claire "我的意思是说，虽然某些东西，比如编曲，结构和歌词可以分解讨论，但是很多东西的主观性还是比较强的。"
 
 # game/city.rpy#L549
 translate chinese musicstudiomenub_72ba22cc:
@@ -1628,7 +1628,7 @@ translate chinese musicstudiomenub_df34f611:
 translate chinese musicstudiomenub_a110e9cf:
 
     # melody "Yeah, I don't really try to make my music good, I just try to create a 'mood' and push the development of the music towards that mood."
-    melody "Yeah, I don't really try to make my music good, I just try to create a 'mood' and push the development of the music towards that mood."
+    melody "是这样，我并不是真的想让我的音乐变得“完美无缺”，我只是想创造一种“情调”并推动全曲朝着这种情调发展。"
 
 # game/city.rpy#L552
 translate chinese musicstudiomenub_c4a311cb:
@@ -1658,13 +1658,13 @@ translate chinese musicstudiomenub_bffa6cb7:
 translate chinese musicstudiomenub_dbf99e8b:
 
     # "I ask Melody if we can 'talk' in another room, I wink while asking and she knowingly nods."
-    "I ask Melody if we can 'talk' in another room, I wink while asking and she knowingly nods."
+    "我问Melody可不可以在另一个房间里“交谈”，同时眨眨眼，她心领神会地点了点头。"
 
 # game/city.rpy#L573
 translate chinese musicstudiomenub_9af29cfa:
 
     # melody "So, licking my pussy wasn't enough for you, eh? I guess I'll let you fuck me for doing such a good job."
-    melody "So, licking my pussy wasn't enough for you, eh? I guess I'll let you fuck me for doing such a good job."
+    melody "所以，舔我的阴部对你来说还不够，嗯？你干得这么好，我会让你操我的。"
 
 # game/city.rpy#L574
 translate chinese musicstudiomenub_55156407:
@@ -7726,7 +7726,7 @@ translate chinese strings:
 
     # game/city.rpy_L1418_2
     old "Names are fleeting, you can keep calling me kitten."
-    new "名字只是个代号罢了，说变就变。但你可以一直叫我小猫~猫~。"
+    new "名字只是个代号罢了，说变就变了。但你可以一直叫我小猫~猫~哟。"
 
     # game/city.rpy_L1438_0
     old "There are plenty of sexy ladies here. But partying ain't cheap, if I'm going to spend time here, I'll be buying drinks."

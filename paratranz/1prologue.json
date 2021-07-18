@@ -4892,14 +4892,14 @@
   {
     "id": 79420226,
     "createdAt": "2021-05-30T17:55:32.000Z",
-    "updatedAt": "2021-06-22T23:17:30.000Z",
+    "updatedAt": "2021-07-17T17:00:53.000Z",
     "key": "prologueday2_ab60e6db",
     "original": "Penelope was truly shocked when she heard me speak.",
-    "translation": "听到我说话，Penelope真的感到很震惊。",
+    "translation": "我的发言让Penelope吃了一惊。",
     "file": 272331,
     "stage": 3,
     "project": 2414,
-    "uid": 21396,
+    "uid": 22062,
     "extra": null,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwBCN/blob/main/game/1prologue.rpy#L608",
     "words": 9

@@ -5576,13 +5576,13 @@ translate chinese boutiquevisit3_a60fc6e8:
 translate chinese rubymaidmenu3_105f5958:
 
     # "I can't afford it."
-    "I can't afford it."
+    "我买不起这玩意儿。"
 
 # game/boutique.rpy#L1629
 translate chinese rubymaidmenu3_97a22c68:
 
     # ruby "Pleasure doing business with you darling."
-    ruby "Pleasure doing business with you darling."
+    ruby "亲爱的，和你做生意是我的荣幸。"
 
 # game/boutique.rpy#L1630
 translate chinese rubymaidmenu3_a79e984d:

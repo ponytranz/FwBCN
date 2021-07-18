@@ -3938,7 +3938,7 @@ translate chinese lorequeen_fce6a41f:
 translate chinese lorequeen_a0fbb431:
 
     # augusta "Oh hell, that's merely an employment bonus. I'd fuck 'em anyway if they were interesting enough."
-    augusta "哦，该死，那只是一笔工作奖金。无论如何我都会肏他们，如果他们有足够性趣的话。"
+    augusta "哦，该死，那只不过是工作所额外附赠的。要是他们勾起了我的兴趣，那无论如何我都会肏他们。"
 
 # game/church.rpy#L1262
 translate chinese lorequeen_23c5d260:
@@ -4016,7 +4016,7 @@ translate chinese lorequeen_c8c54894:
 translate chinese lorequeen_8190f883:
 
     # augusta "I mean, there are no churches of Selene or Aurora out there, right?"
-    augusta "我的意思是，那里并没有关于Selence或是Aurgora的教会组织，对吗？"
+    augusta "我的意思是，那里并没有关于Selence或是Aurora的教会组织，对吗？"
 
 # game/church.rpy#L1284
 translate chinese lorequeen_36c2eac3:
@@ -4064,7 +4064,7 @@ translate chinese lorequeen_4d2b8245:
 translate chinese lorequeen_67177c6a:
 
     # "If this was a cRPG, I'd probably have gained an additional skill point in lore, or something."
-    "如果这是一个电脑扮演角色游戏，我应该已经得到了附加技能点数或者别的啥的。"
+    "如果这是一个电脑角色扮演游戏，我应该已经在背景知识上得到了额外的技能点数或者别的啥的。"
 
 # game/church.rpy#L1301
 translate chinese lorequeen_6f349328:
@@ -4562,7 +4562,7 @@ translate chinese lorequeen_f2a6272d:
 translate chinese lorequeen_2de2d8e0:
 
     # augusta "Ah- I was just kidding! Do come back!"
-    augusta "啊——我只是在开玩笑呀!块回来呀!"
+    augusta "啊——我只是在开玩笑呀!快回来呀!"
 
 # game/church.rpy#L1446
 translate chinese lorequeen_f1623f7a:
@@ -4592,7 +4592,7 @@ translate chinese lorequeen_47923f9d:
 translate chinese lorequeen_ac132de5:
 
     # augusta "That little sex train was a fun experiment! Let's try you on the girl next time."
-    augusta "这个性爱小实验真有意思。下次让咱们试试那个女孩。"
+    augusta "这个性爱小训练真有意思。下次让咱们试试那个女孩。"
 
 # game/church.rpy#L1456
 translate chinese lorequeen_892e5fb1:

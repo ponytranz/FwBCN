@@ -1958,7 +1958,7 @@ translate chinese prologueday2_087b9cdc:
 translate chinese prologueday2_ab60e6db:
 
     # "Penelope was truly shocked when she heard me speak."
-    "听到我说话，Penelope真的感到很震惊。"
+    "我的发言让Penelope吃了一惊。"
 
 # game/1prologue.rpy#L609
 translate chinese prologueday2_303a0c7a:

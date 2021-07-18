@@ -424,7 +424,7 @@ translate chinese strings:
 
     # game/artgallery.rpy_L1278_0
     old "The Entire Dawn Lily Mega-Fuck"
-    new "The Entire Dawn Lily Mega-Fuck"
+    new "Dawn和Lily的色情狂欢派对"
 
     # game/artgallery.rpy_L1377_0
     old "Cindy Reverse Cowgirl"
@@ -460,7 +460,7 @@ translate chinese strings:
 
     # game/artgallery.rpy_L1421_0
     old "Doggystyle (Vaginal and unused Anal variant)"
-    new "Doggystyle (Vaginal and unused Anal variant)"
+    new "后入式（阴道和肛门变形）"
 
     # game/artgallery.rpy_L1421_1
     old "Leg-Up Sideways"
