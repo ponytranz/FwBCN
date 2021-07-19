@@ -6914,7 +6914,7 @@ translate chinese dawnv4threesome_0115fa08:
 translate chinese dawnv4threesome_b6f93b1f:
 
     # mc "Awh, I should be thanking you two for making my time here in Arcadia so great."
-    mc "啊，我也得感谢你们两个，让我在Arcadia度过了一段美妙的时光。"
+    mc "啊，我也得感谢你们两个，让我在Arcadia度过了一段如此美妙的时光。"
 
 # game/dawn.rpy#L2063
 translate chinese dawnv4threesome_8d320592:
@@ -7004,7 +7004,7 @@ translate chinese dawnv4threesome_aa7ff89f:
 translate chinese dawnv4threesome_8f13faa4:
 
     # dawn "Mmm, yeah! Yes, it does, now shut up, slut!"
-    dawn "嗯，当然！你也可以，闭嘴，骚货！"
+    dawn "嗯，当然！你也可以。现在给我闭嘴，骚货！"
 
 # game/dawn.rpy#L2089
 translate chinese dawnv4threesome_ec893bf3:
@@ -7034,7 +7034,7 @@ translate chinese dawnvisit5_98708a85:
 translate chinese dawnvisit5_34f67d0d:
 
     # "She's definitely 'Dawn', albeit a slightly tamer version. Like a PG-13 Dawn, which is ironic considering this one's butt naked."
-    "她绝对是“Dawn”，不过是一个稍微温和点的版本。就像个“青少年模式”版的Dawn，不过挺讽刺的是，她的屁股是裸着的。"
+    "她绝对是“Dawn”，不过是一个稍微温和点的版本。就像个“青少年模式”版的Dawn，不过挺讽刺的是，她全身都是赤裸的。"
 
 # game/dawn.rpy#L2102
 translate chinese dawnvisit5_131d68c1:
@@ -7154,7 +7154,7 @@ translate chinese dawnvisit5_91151655:
 translate chinese dawnvisit5_4c76d3e5:
 
     # dawn2 "Mm... Well, I'm single now, that's all in the past. I'm just a teacher at the college."
-    dawn2 "嗯...不过，我现在单身了，男朋友什么的，都是以前的事情啦。我目前在大学里授课。"
+    dawn2 "嗯...不过，我现在单身了，男朋友什么的，都是以前的事情啦。我目前就是一名大学教授。"
 
 # game/dawn.rpy#L2129
 translate chinese dawnvisit5_3552992f:
@@ -7208,7 +7208,7 @@ translate chinese dawnvisit5_4126bd55:
 translate chinese dawnvisit5_061f1fc5:
 
     # dawn2 "Just through to the kitchen here, by the time I put them away the kettle should be done boiling."
-    dawn2 "就在那边的厨房里，我把它们都收好的时候，水应该已经开了。"
+    dawn2 "就在那边的厨房里。等我把它们都收好的时候，水应该已经开了。"
 
 # game/dawn.rpy#L2143
 translate chinese dawnvisit5_47b8b484:
@@ -7232,7 +7232,7 @@ translate chinese dawnvisit5_d09b4bac:
 translate chinese dawnvisit5_abceff5b:
 
     # "It seems too obvious, too easy for Dawn. Especially considering the other Dawn took things slow with me."
-    "对Dawn来说再正常和简单不过了。毕竟另外一个Dawn也喜欢慢慢吊我胃口。"
+    "对Dawn来说有些过于正常和简单了。毕竟另外一个Dawn喜欢慢慢吊我胃口。"
 
 # game/dawn.rpy#L2147
 translate chinese dawnvisit5_a0061e86:
@@ -7298,7 +7298,7 @@ translate chinese dawnvisit5_f480d1f4:
 translate chinese dawnvisit5_09659add:
 
     # "It seems that she doesn't actually own any milk, but the implications stand..."
-    "不过她家里好像压根就没有牛奶，她到底什么意思......"
+    "不过她家里好像压根就没有牛奶，她该不会指的是......"
 
 # game/dawn.rpy#L2169
 translate chinese dawnvisit5_ba485013:
@@ -7310,7 +7310,7 @@ translate chinese dawnvisit5_ba485013:
 translate chinese dawnvisit5_07d03a48:
 
     # "Ah, this Dawn owns a much bigger sofa, so we can both comfortable sit without being squashed into body contact, although that certainly has its benefits too."
-    "啊，这个Dawn的沙发可大多了，我们可以坐在沙发上，毫无肢体接触，不过那样也有不少好处。"
+    "啊，这个Dawn的沙发可大多了，我们可以坐在沙发上，毫无肢体接触，虽然那样也有一些好处。"
 
 # game/dawn.rpy#L2175
 translate chinese dawnvisit5_eeb9dbb7:
@@ -7406,7 +7406,7 @@ translate chinese dawnvisit5_118fdab8:
 translate chinese dawnvisit5_91a780bd:
 
     # dawn2 "I’m relevant enough to get places, as an ex-princess candidate and tutor, but not enough to raise suspicion."
-    dawn2 "作为一个前公主候选和老师，我确实可以进宫而不被怀疑。"
+    dawn2 "作为一个前公主候选和老师，我确实可以访问各种地点，但不至于引起谣言。"
 
 # game/dawn.rpy#L2219
 translate chinese dawnvisit5_6f3a0125:
@@ -7778,7 +7778,7 @@ translate chinese dawnv5ds_937e618c:
 translate chinese dawnv5ds_4c00e071:
 
     # "I bring my hands to her hips and push forward. Her wet folds yield as they delightfully purse around my shaft as I plunge deeper."
-    "我抓住她的柳腰，借力往前挺去。我在她湿漉漉的肉壁销魂地挤压下向深处插去。"
+    "我抓住她的柳腰，借力往前挺去。我在她湿漉漉的肉壁销魂的挤压下向深处插去。"
 
 # game/dawn.rpy#L2319
 translate chinese dawnv5ds_e92e1b15:
@@ -7916,7 +7916,7 @@ translate chinese dawnv5ds_f6632cd0:
 translate chinese dawnv5ds_efd6d5b3:
 
     # dawn2 "Hehe… I knew you’d be a good partner in bed, ah heck, we didn’t even make it to the bed, that’s just how good of a partner you are."
-    dawn2 "嘿嘿...我就知道你是个床上好手，呸，我讲啥呢，咱们都没在床上做呢，反正你是个很棒的性侣就是了。"
+    dawn2 "嘿嘿...我就知道你是个床上好手，呸，我讲啥呢，咱们都没在床上做呢，反正你是个很棒的炮友就是了。"
 
 # game/dawn.rpy#L2364
 translate chinese dawnv5ds_3211ac36:
@@ -8102,7 +8102,7 @@ translate chinese dawnv5ds_2b69c8a1:
 translate chinese dawnv5ds_c36f970b:
 
     # dressdawn "I am an interuniversal scholar."
-    dressdawn "我是个跨宇宙旅者。"
+    dressdawn "我是个平行宇宙学者。"
 
 # game/dawn.rpy#L2427
 translate chinese dawnv5ds_27771e97:
@@ -8114,7 +8114,7 @@ translate chinese dawnv5ds_27771e97:
 translate chinese dawnv5ds_48def6a4:
 
     # mc "Oh! I can vouch for this."
-    mc "哦！她说的是真的，我能作证。"
+    mc "啊！她说的是真的，我作证。"
 
 # game/dawn.rpy#L2430
 translate chinese dawnv5ds_ffbb8d4c:
@@ -8246,7 +8246,7 @@ translate chinese dawnv5ds_a99ca186:
 translate chinese dawnv5ds_d206a006:
 
     # dressdawn "Whaaa?! My, my, Kitten… You really must adore me, all of me, mmhehe..."
-    dressdawn "哇啊！？啊啦，啊啦，小猫咪，你肯定很喜欢我吧，爱不释手，嗯哼哼......"
+    dressdawn "哇啊！？啊啦，啊啦，小猫咪，你肯定很喜欢“我”吧，爱不释手，嗯哼哼......"
 
 # game/dawn.rpy#L2469
 translate chinese dawnv5ds_77a0cd07:
@@ -8396,7 +8396,7 @@ translate chinese dawnv5ds_166a5c2f:
 translate chinese dawnv5ds_7dc6d52e:
 
     # mc "She made me work for it! Although she was flirty, it wasn’t quite as flirty as you."
-    mc "是她钓我的鱼好吧！虽然她很性感，可是比不上你。"
+    mc "是她钓我的鱼好吧！虽然她很诱人，可是比不上你。"
 
 # game/dawn.rpy#L2512
 translate chinese dawnv5ds_29f98fa6:
@@ -8444,13 +8444,13 @@ translate chinese dawnv5ds_42d71192:
 translate chinese dawnv5ds_d1a1587a:
 
     # dawn "But I’ll let you do me twice, would that satisfy you?"
-    dawn "但我你对你随时开放，你满意吗？"
+    dawn "但你可以连做我两次，这种3p你满意吗？"
 
 # game/dawn.rpy#L2522
 translate chinese dawnv5ds_00d4c688:
 
     # mc "It certainly would…"
-    mc "我当然满意......"
+    mc "当然了......"
 
 # game/dawn.rpy#L2523
 translate chinese dawnv5ds_a24cd7ef:
@@ -8540,7 +8540,7 @@ translate chinese dawnshowersex_6bb535ab:
 translate chinese dawnshowersex_f356438d:
 
     # dawn "Having you around really makes my kitten purr. Don’t be shy, give her a stroke."
-    dawn "每次你在我身边，都能让人家的小猫咪喵喵喵个不停。别害羞，去摸摸安抚下她。"
+    dawn "每次你在我身边，人家的小猫咪就喵喵喵个不停。别害羞，去摸摸安抚下她。"
 
 # game/dawn.rpy#L2561
 translate chinese dawnshowersex_692ca014:
@@ -8564,7 +8564,7 @@ translate chinese dawnshowersex_8931e81c:
 translate chinese dawnshowersex_5c85f13f:
 
     # "As blood starts to rush to my nether, my cock tightens and throbs. I make a second move; two of my fingers slip between her wet lips, and sink into her pussy."
-    "血液开始想下体灌入，鸡巴渐渐感觉肿胀，开始悸动起来。我旋即开始下一步；两根手指绕后偷袭，找准她阴唇的位置，然后划入她的小穴中翻搅。"
+    "血液开始向下体灌入，鸡巴渐渐感觉肿胀，开始悸动起来。我旋即开始下一步；两根手指绕后偷袭，找准她阴唇的位置，然后划入她的小穴中翻搅。"
 
 # game/dawn.rpy#L2566
 translate chinese dawnshowersex_280be39f:
@@ -8660,13 +8660,13 @@ translate chinese dawnshowersex_395fabac:
 translate chinese dawnshowersex_424b8ac9:
 
     # mc "I think I’ll have to give you all the credit for this one. You move your hips like a goddess."
-    mc "我觉得是你的功劳。你的腰动起来就像个真神一样。"
+    mc "我觉得是你的功劳。你的腰动起来就像位女神一样。"
 
 # game/dawn.rpy#L2585
 translate chinese dawnshowersex_1f24faf6:
 
     # dawn "I’ll take your word for it. You’d know how a goddess fucks after all, hehe."
-    dawn "我就接受你的美言吧。反正你是领略过真神的床上功夫的，嘿嘿。"
+    dawn "我就接受你的美言吧。反正你是领略过女神的床上功夫的，嘿嘿。"
 
 # game/dawn.rpy#L2586
 translate chinese dawnshowersex_e3f84f39:
@@ -8678,7 +8678,7 @@ translate chinese dawnshowersex_e3f84f39:
 translate chinese dawnshowersex_0e559c4d:
 
     # "The result was ecstasy, beyond amazing."
-    "这已经是销魂了，而不是“有趣”二字就能形容的。"
+    "这已经是销魂了，而不是“美妙”二字就能形容的。"
 
 # game/dawn.rpy#L2588
 translate chinese dawnshowersex_f6c7a1cd:
@@ -8846,13 +8846,13 @@ translate chinese dawnshowersex_41294e01:
 translate chinese dawnshowersex_2ddc047b:
 
     # "Living with another mare, I’m used to it taking a while for them to dry after a shower. They sometimes resort to a blow-dryer."
-    "我和另外一个雌驹住在一起，我已经习惯她们洗澡后要弄干自己了。她们有时候还会用上吹风机。"
+    "和另外一个雌驹住在一起，我已经习惯她们洗澡后要弄干自己了。她们有时候还会用上吹风机。"
 
 # game/dawn.rpy#L2629
 translate chinese dawnshowersex_97eced98:
 
     # "But Dawn impresses me yet again by using a spell to blow dry herself."
-    "但Dawn用一个魔法就让自己的身子完全干燥了，令我印象深刻。"
+    "但Dawn用一个魔法就让自己的身子完全干燥了，真是精彩。"
 
 # game/dawn.rpy#L2630
 translate chinese dawnshowersex_d8bb75b9:

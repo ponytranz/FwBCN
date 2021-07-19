@@ -846,11 +846,11 @@ translate chinese strings:
 
     # renpy/common/00updater.rpy_L995_0
     old "The update file was not downloaded."
-    new "The update file was not downloaded."
+    new "更新文件未被下载。"
 
     # renpy/common/00updater.rpy_L1013_0
     old "The update file does not have the correct digest - it may have been corrupted."
-    new "The update file does not have the correct digest - it may have been corrupted."
+    new "更新文件没有正确的摘要-它可能已损坏。"
 
     # renpy/common/00updater.rpy_L1067_0
     old "While unpacking {}, unknown type {}."

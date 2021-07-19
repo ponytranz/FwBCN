@@ -1538,7 +1538,7 @@ translate chinese musicstudiomenub_b6a5fca0:
 translate chinese musicstudiomenub_97e71155:
 
     # mc "You could say that about anything really, quality art, stories, et cetera."
-    mc "You could say that about anything really, quality art, stories, et cetera."
+    mc "你可以说一说那些真实的，具有艺术特性的故事或者其他的一些内容。"
 
 # game/city.rpy#L531
 translate chinese musicstudiomenub_bcfde4d3:
@@ -1640,7 +1640,7 @@ translate chinese musicstudiomenub_c4a311cb:
 translate chinese musicstudiomenub_952a58e5:
 
     # claire "Yeah... A strict system limits freedom and evolution, and I needn't tell even another species such as yourself how much music evolves."
-    claire "Yeah... A strict system limits freedom and evolution, and I needn't tell even another species such as yourself how much music evolves."
+    claire "是这样…严格的评审制度限制了创作的自由和进一步的演进，我甚至不必告诉像你这样的“其他物种”音乐变革了多少。"
 
 # game/city.rpy#L555
 translate chinese musicstudiomenub_a16af6d5:
@@ -1682,7 +1682,7 @@ translate chinese musicstudiomenub_e0d10466:
 translate chinese musicstudiomenub_f01908ab:
 
     # melody "You're a bad influence you know! I was a virgin when we met."
-    melody "You're a bad influence you know! I was a virgin when we met."
+    melody "瞧瞧你干的好事！咱俩刚见面的时候我还是处女。"
 
 # game/city.rpy#L578
 translate chinese musicstudiomenub_f921beaf:
@@ -2042,13 +2042,13 @@ translate chinese clairesex_c2464fc5:
 translate chinese clairesex_e18e0460:
 
     # claire "Everything alright?"
-    claire "Everything alright?"
+    claire "万事俱备？"
 
 # game/city.rpy#L696
 translate chinese clairesex_ad751274:
 
     # melody "Yep, just doing some work!"
-    melody "Yep, just doing some work!"
+    melody "是的，只需要再做些“工作”！"
 
 # game/city.rpy#L708
 translate chinese clairesex_dce23913:

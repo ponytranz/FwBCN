@@ -3818,7 +3818,7 @@ translate chinese werewolfsex_179c2540:
 translate chinese werewolfsex_2ce18241:
 
     # "I’m fairly sure every other denizen in the forest right now can hear our passionate, animalistic rutting. Each thrust going from base to hilt, each thrust rocking my lover’s entire body back and forth."
-    "我现在敢确定，森林里的其他居民都能听到我们激情的，动物般的发情声。每次深入都贯穿整个阴道，都让我爱人的整个身体前后摇晃。"
+    "我现在敢确定，森林里的其他居民都能听到我们激情的，动物般的发情声。每次深入都贯穿整个阴道，让我爱人的整个身体前后摇晃。"
 
 # game/deepforest.rpy#L1202
 translate chinese werewolfsex_5f10042e:
@@ -3830,7 +3830,7 @@ translate chinese werewolfsex_5f10042e:
 translate chinese werewolfsex_57cb7e9b:
 
     # "And finally, amidst what appears to be my lover’s second climax, I can feel the inescapable rise of my orgasm."
-    "最后，在我爱人的第二次高潮中，我能感觉到已经在劫难逃。"
+    "最后，沉浸在我对象的第二次高潮里，我能感觉到我的高潮已经在劫难逃。"
 
 # game/deepforest.rpy#L1204
 translate chinese werewolfsex_b6a5fc1b:
@@ -3872,13 +3872,13 @@ translate chinese werewolfsex_e53c9619:
 translate chinese werewolfsex_06d797c3:
 
     # "The effects of the alchemical potion certainly don’t waste time. I almost disbelieve my eyes as the werewolf undergoes a transformation right in front of me."
-    "炼金术药剂立马见效。我几乎不敢相信自己的眼睛，狼人状态就在我面前逐渐褪去了。"
+    "虽说炼金术药剂号称立马见效。但也太快了吧，狼人状态居然就在我面前逐渐褪去。"
 
 # game/deepforest.rpy#L1226
 translate chinese werewolfsex_28614c6b:
 
     # "Her fur subtly changes from thick and bushy to the sheer coat you’d expect from a pony."
-    "她的皮毛经历了从厚而浓密的狼毛，到你所期望的小马的自然皮毛的微妙变化。"
+    "她的皮毛经历了从厚而浓密的狼毛到你所期望的天然小马皮毛的微妙转化。"
 
 # game/deepforest.rpy#L1227
 translate chinese werewolfsex_bf41ce45:

@@ -4862,7 +4862,7 @@ translate chinese libraryvisit2choice1_ac0bba63:
 translate chinese libraryvisit2choice1_599c02c9:
 
     # lily "B-b-b-bitch?! That’s really mean."
-    lily "婊-婊子？！这真的太过分了！"
+    lily "荡-荡妇？！这真的太过分了！"
 
 # game/library.rpy#L1401
 translate chinese libraryvisit2choice1_83f611dc:
@@ -4898,13 +4898,13 @@ translate chinese libraryvisit2choice1_15e87d3f:
 translate chinese libraryvisit2choice1_7ace2506:
 
     # lily "She DID bring you into this world…"
-    lily "是她把你带到了这个世界……"
+    lily "毕竟是她把你带到了这个世界……"
 
 # game/library.rpy#L1412
 translate chinese libraryvisit2choice1_f37aa00b:
 
     # mc "That she did, and we both want to know the how and why."
-    mc "是她做的，而且我们都想知道她是怎么做到的以及为什么。"
+    mc "不仅仅是她做的，而且我们都想知道她是如何做到的。"
 
 # game/library.rpy#L1416
 translate chinese libraryvisit2choice1_467a55d7:
@@ -4916,7 +4916,7 @@ translate chinese libraryvisit2choice1_467a55d7:
 translate chinese libraryvisit2choice1_96e46c08:
 
     # lily "She put so many people in danger, I bet she didn’t even tell you what happened."
-    lily "她把太多人置于危险当中了，我甚至打赌她没告诉你当时都发生了什么。"
+    lily "她把太多人置于危险当中了，我甚至打赌她都没告诉你当时发生了什么。"
 
 # game/library.rpy#L1418
 translate chinese libraryvisit2choice1_93b0d670:
@@ -4928,13 +4928,13 @@ translate chinese libraryvisit2choice1_93b0d670:
 translate chinese libraryvisit2choice1_f3f0b4e7:
 
     # mc "Of course she regrets what she did, and she’s working to improve. Doesn’t she deserve your forgiveness?"
-    mc "当然，她对自己所做所为感到后悔，她也正在努力改进。这样难道不值得你原谅吗？"
+    mc "她当然对自己所做所为感到后悔，她也正在努力改进。这样难道不值得你的原谅吗？"
 
 # game/library.rpy#L1421
 translate chinese libraryvisit2choice1_9da08771:
 
     # lily "I told you this before, forgiveness like that takes time. I need to see change before I can take your word for it."
-    lily "我以前告诉过你，宽恕需要时间。在我相信你的话之前，我需要看到变化。"
+    lily "我以前就告诉过你，宽恕需要时间。在我相信你的话之前，我需要看到变化。"
 
 # game/library.rpy#L1422
 translate chinese libraryvisit2choice1_e3f7ef86:
@@ -4946,7 +4946,7 @@ translate chinese libraryvisit2choice1_e3f7ef86:
 translate chinese libraryvisit2choice2_74c7f8f7:
 
     # lily "Damnit... I’ll think about it, okay?"
-    lily "该死的......我会考虑的，行吧？"
+    lily "该死......我会考虑的，行吧？"
 
 # game/library.rpy#L1427
 translate chinese libraryvisit2choice2_d25cbc52:
@@ -4976,7 +4976,7 @@ translate chinese libraryvisit2choice2_867138c1:
 translate chinese libraryvisit2choice2_d2e007ad:
 
     # "So that's it? She'll let me bring Moxie if I have sex with her?"
-    "就这样？如果我和她上床，她会允许我带Moxie去吗？"
+    "就这样？如果我和她上床，她就会允许我带Moxie去了？"
 
 # game/library.rpy#L1436
 translate chinese libraryvisit2choice2_db377236:
@@ -5036,7 +5036,7 @@ translate chinese lilystandingsex_f2245f5c:
 translate chinese lilystandingsex_1e60588c:
 
     # "She raises a good point; most girls around here are taking the initiative when it comes to sex. It’s time for me to make a move."
-    "她提出了一个很好的观点；这里的大多数女孩在性方面都是主动的。我该采取行动了。"
+    "她提出了一个很好的观点；这里的大多数女孩在性方面都是相当主动的。是时候该采取行动了。"
 
 # game/library.rpy#L1453
 translate chinese lilystandingsex_3977ba79:
@@ -5066,7 +5066,7 @@ translate chinese lilystandingsex_f2f9f3b1:
 translate chinese lilystandingsex_a01eb7a9:
 
     # "Her pussy is already wet; I swear during mating season these mares are perpetually dripping with desire."
-    "她的阴部已经湿了；我发誓在交配季节，这些母马总是充满欲望。"
+    "她的阴部已经湿透了；我想在发情季节，这些母马总是充满欲望。"
 
 # game/library.rpy#L1472
 translate chinese lilystandingsex_c07512a8:
@@ -5096,25 +5096,25 @@ translate chinese lilystandingsex_586805f3:
 translate chinese lilystandingsex_58d78815:
 
     # mc "Bend over for me like last time and I’ll give you exactly what you want."
-    mc "像上次一样为我弯腰，我会给你你想要的。"
+    mc "像上次一样给我弯腰，我会给你想要的。"
 
 # game/library.rpy#L1480
 translate chinese lilystandingsex_32b4a523:
 
     # "Without an ounce of reluctance, she hurriedly takes off her coat. She then turns around and presents her curvaceous ass to me."
-    "她毫不勉强地匆匆脱下外套。然后她转过身来，向我展示了她那曲线美的屁股。"
+    "她没有一丝犹豫地脱下外套。随后她转过身来，将她那曲线优美的屁股呈现在我面前。"
 
 # game/library.rpy#L1481
 translate chinese lilystandingsex_34623b11:
 
     # lily "Please, fuck me. I’ve never wanted anything more than this! I’ll do anything!"
-    lily "拜托，操我。这是我最想要的了！为了它我什么都愿意做！"
+    lily "求你了，快来操我吧。我太想要了！为了它我什么都愿意做！"
 
 # game/library.rpy#L1482
 translate chinese lilystandingsex_b96ab82b:
 
     # "This time since I’m in control, I have the opportunity to really appreciate her pussy and how good it feels."
-    "这次是因为我控制了局面，所以我有机会真正欣赏她的阴部和多么好的感觉。"
+    "这一次是因为我占了主动，所以我才真正有机会好好欣赏她的小穴和感受这美好的感觉。"
 
 # game/library.rpy#L1485
 translate chinese lilystandingsex_b1347bc1:
@@ -5228,7 +5228,7 @@ translate chinese lilystandingsex_5f1a5072:
 translate chinese lilystandingsex_05263407:
 
     # "That combined with the lewd wet noises from our point of contact, spurred me on even more."
-    "再加上我们交合处发出的污秽潮湿的声音又我性奋更甚。"
+    "再加上我们交合处发出的污秽潮湿的声音又让我性奋更甚。"
 
 # game/library.rpy#L1505
 translate chinese lilystandingsex_5f455106:
@@ -5336,13 +5336,13 @@ translate chinese lilystandingsex_efd5f89b:
 translate chinese lilystandingsex_c3b6982d:
 
     # mc "Really? Why the change of heart?"
-    mc "真的吗？为什么改变主意？"
+    mc "真的吗？为什么改主意了？"
 
 # game/library.rpy#L1544
 translate chinese lilystandingsex_2a42592c:
 
     # lily "Because… Moxie brought you here, and you’ve brought me so much happiness."
-    lily "因为...Moxie把你带到这来，你给我带来了许多快乐"
+    lily "因为...是Moxie把你带到这个了世界来，你给我带来了许多快乐"
 
 # game/library.rpy#L1545
 translate chinese lilystandingsex_16717e4c:
@@ -5366,7 +5366,7 @@ translate chinese lilystandingsex_8a428826:
 translate chinese lilystandingsex_dcb0442c:
 
     # lily "If being friends with someone can be even half as fun and exciting as being friends with you, that’s worth it in my eyes."
-    lily "如果和一个人做朋友能比和你做朋友有趣和兴奋一半，那在我眼里是值得的。"
+    lily "如果和其他马做朋友能有和你做朋友一半乐趣和刺激，那在我眼里是值得的。"
 
 # game/library.rpy#L1551
 translate chinese lilystandingsex_bfab1bfc:
@@ -5378,19 +5378,19 @@ translate chinese lilystandingsex_bfab1bfc:
 translate chinese lilystandingsex_6a958e11:
 
     # "I brush my hands through the long sparkling strands of blue and pink hair, as we quietly relax together."
-    "我和她静静地在一起放松，用手梳理着她蓝色和粉色的长发。"
+    "我们静静躺在一起，我用手梳理着她蓝粉相间的长发。"
 
 # game/library.rpy#L1556
 translate chinese lilystandingsex_ce617998:
 
     # "…"
-    "..."
+    "...…"
 
 # game/library.rpy#L1558
 translate chinese lilystandingsex_59563007:
 
     # "With regret, we soon have to part ways as she returns to working in her lab and I go downstairs to meet with Penelope."
-    "遗憾的是，我们很快就要分道扬镳了，因为她回到实验室工作，我下楼去见Penelope。"
+    "遗憾的是，我们很快就要分开了，因为她要回到实验室继续工作，而我要下楼去见Penelope。"
 
 # game/library.rpy#L1559
 translate chinese lilystandingsex_4c42cc63:
@@ -5408,13 +5408,13 @@ translate chinese lilystandingsex_720ea78f:
 translate chinese lilystandingsex_5c6ee232:
 
     # penelope "I was worried you and Lily were getting to know each other a little too well."
-    penelope "我很担心你和 Lily 我们太了解对方了。"
+    penelope "我很担心你和 Lily，我们太了解对方了。"
 
 # game/library.rpy#L1564
 translate chinese lilystandingsex_4af907d2:
 
     # mc "Hahah, good one. You encouraged me to get her to open up, and that’s exactly what I managed to do."
-    mc "哈哈，不错。你鼓励我让她敞开心扉，而这正是我努力做到的。"
+    mc "哈哈，说的没错。是你鼓励我让她敞开心扉，而这正是我努力做到的。"
 
 # game/library.rpy#L1566
 translate chinese lilystandingsex_92e8334b:
@@ -5444,19 +5444,19 @@ translate chinese lilystandingsex_7dcf5dc8:
 translate chinese lilystandingsex_ba24b62e:
 
     # penelope "That it can… Gosh, she isn’t beyond help though, is she?"
-    penelope "它能…天哪，她不是无可救药，是吗？"
+    penelope "它能…天哪，她并不是无可救药，是吗？"
 
 # game/library.rpy#L1579
 translate chinese lilystandingsex_05dfad42:
 
     # penelope "Too shy… That’s quite a surprise, she always holds a conversation quite well."
-    penelope "太害羞了…真让人吃惊，她总是很会说话。"
+    penelope "她太害羞了…说真的，她其实很会说话。"
 
 # game/library.rpy#L1580
 translate chinese lilystandingsex_dccfc273:
 
     # mc "She doesn’t seem to have an issue with small talk, but she struggles going out to meet people."
-    mc "跟她聊聊天不成问题，但要和其他马交往非常困难。"
+    mc "跟她聊聊天不成问题，但要和其他马交往则非常困难。"
 
 # game/library.rpy#L1581
 translate chinese lilystandingsex_d5339d67:
@@ -5498,13 +5498,13 @@ translate chinese lilystandingsex_de0b7f29:
 translate chinese lilystandingsex_eb935c26:
 
     # penelope "Heh, yeah I guess when your supervisor is the Queen there’s not a lot of leeway."
-    penelope "嘿，有可能，如果你的上面是一位女王，确实没有多少斡旋的余地。"
+    penelope "哈，确实，如果你的上头就是一位女王，那倒是没有多少斡旋的余地。"
 
 # game/library.rpy#L1592
 translate chinese lilystandingsex_6feb5135:
 
     # penelope "Honestly though, it just sounds like an excuse to avoid talking to people. One that she really ought to get over."
-    penelope "这么想的话，这确实是一个怕生的原因。她应该努力克服这个。"
+    penelope "这么想的话，这就是一个怕生的原因。她应该努力克服这个。"
 
 # game/library.rpy#L1593
 translate chinese lilystandingsex_0bc0e3e4:
@@ -9026,19 +9026,19 @@ translate chinese lilylegsupmissionary_3f73a644:
 translate chinese lilylegsupmissionary_469d24fa:
 
     # mc "Ah… This is a parallel universe with slightly different humans, not my universe."
-    mc "噢…这是一个平行宇宙，但里面的人类略有不同，不是我的宇宙。"
+    mc "噢…这是一个平行宇宙，但里面的人类略有不同，这不是我的宇宙。"
 
 # game/library.rpy#L2549
 translate chinese lilylegsupmissionary_564fc294:
 
     # aurora "Indeed, there are blue humans, purple humans, every colour you could imagine. These colours resemble that of the mares of this world, such as Lily who is purple in both."
-    aurora "Indeed, there are blue humans, purple humans, every colour you could imagine. These colours resemble that of the mares of this world, such as Lily who is purple in both."
+    aurora "确实，有蓝色的人类，紫色的人类，还有你能想象到的每一种颜色。这些肤色与这个世界上的雌驹相似，比如Lily，她的肤色就完全是紫色的。"
 
 # game/library.rpy#L2550
 translate chinese lilylegsupmissionary_2f0812a3:
 
     # mc "It looks like a combination of my universe and this colourful pony one."
-    mc "It looks like a combination of my universe and this colourful pony one."
+    mc "这看起来像是我的原宇宙和这个彩虹小马宇宙的结合版。"
 
 # game/library.rpy#L2551
 translate chinese lilylegsupmissionary_4f08529e:

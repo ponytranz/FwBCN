@@ -11126,7 +11126,7 @@ translate chinese rubylingeriesex_ce617998_1:
 translate chinese rubylingeriesex_b6f159b3:
 
     # "After work..."
-    "After work..."
+    "在工作之后..."
 
 translate chinese strings:
 

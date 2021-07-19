@@ -27812,14 +27812,14 @@
   {
     "id": 79428525,
     "createdAt": "2021-05-30T17:55:36.000Z",
-    "updatedAt": "2021-06-18T17:45:04.000Z",
+    "updatedAt": "2021-07-18T06:45:31.000Z",
     "key": "rubylingeriesex_b6f159b3",
     "original": "After work...",
-    "translation": "",
+    "translation": "在工作之后...",
     "file": 272341,
-    "stage": 0,
+    "stage": 1,
     "project": 2414,
-    "uid": null,
+    "uid": 21929,
     "extra": null,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwBCN/blob/main/game/boutique.rpy#L3354",
     "words": 2
