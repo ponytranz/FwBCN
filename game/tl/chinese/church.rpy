@@ -4082,13 +4082,13 @@ translate chinese lorequeen_a0a2e56d:
 translate chinese lorequeen_e4cc9aeb:
 
     # mc "Do the females have two vaginas?"
-    mc "Do the females have two vaginas?"
+    mc "雌性有两个阴道吗？"
 
 # game/church.rpy#L1306
 translate chinese lorequeen_63df8965:
 
     # augusta "That's the craziest part, they don't!"
-    augusta "That's the craziest part, they don't!"
+    augusta "这是最疯狂的地方，她们没有！"
 
 # game/church.rpy#L1307
 translate chinese lorequeen_282fa295:

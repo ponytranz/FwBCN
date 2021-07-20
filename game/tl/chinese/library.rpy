@@ -8822,13 +8822,13 @@ translate chinese lilylegsupmissionary_2618aecb:
 translate chinese lilylegsupmissionary_e9c286e4:
 
     # aurora "I believe I have your answer, but I do not think the young ones are ready for such a revelation."
-    aurora "我相信我已经得到了你问题的答案，但我认为年轻马们还没有准备好接受这样的真相。"
+    aurora "我相信我已经得到了你问题的答案，但我认为公众还没有准备好接受这样的真相。"
 
 # game/library.rpy#L2501
 translate chinese lilylegsupmissionary_2c2bc33f:
 
     # aurora "And I have a good sense that you have not fully disclosed everything you know to them."
-    aurora "还有我有一个可靠的判断，我认为你并没有完全向她们透露你所知道的一切。"
+    aurora "而且我认为你并没有完全向她们透露你所知道的一切。"
 
 # game/library.rpy#L2503
 translate chinese lilylegsupmissionary_338b8d17:
@@ -9044,109 +9044,109 @@ translate chinese lilylegsupmissionary_2f0812a3:
 translate chinese lilylegsupmissionary_4f08529e:
 
     # aurora "There's more... Look at the mirror in the middle."
-    aurora "There's more... Look at the mirror in the middle."
+    aurora "还有……请看这中间这面镜子。"
 
 # game/library.rpy#L2555
 translate chinese lilylegsupmissionary_513618a1:
 
     # "The mirror monitors over a city, showing various sights and sounds. It seems like it can locate any point in the world for observation."
-    "The mirror monitors over a city, showing various sights and sounds. It seems like it can locate any point in the world for observation."
+    "镜子显示在一个城市上空，底下有着各种各样的景象和声音。似乎这面镜子可以定位到世界上的任何一点进行观察。"
 
 # game/library.rpy#L2556
 translate chinese lilylegsupmissionary_ac7df0ca:
 
     # mc "Is that... New York?"
-    mc "Is that... New York?"
+    mc "这是……纽约吗？"
 
 # game/library.rpy#L2557
 translate chinese lilylegsupmissionary_3fccc6fa:
 
     # aurora "I couldn't possibly say. All I know is that it may be your universe, it's full of similar looking humans."
-    aurora "I couldn't possibly say. All I know is that it may be your universe, it's full of similar looking humans."
+    aurora "我说不准。我只知道这可能就是你的宇宙，里面全是和你长相类似的人类。"
 
 # game/library.rpy#L2558
 translate chinese lilylegsupmissionary_079735e1:
 
     # mc "Yeah, this one looks pretty similar..."
-    mc "Yeah, this one looks pretty similar..."
+    mc "是啊，这看起来是很像……"
 
 # game/library.rpy#L2559
 translate chinese lilylegsupmissionary_a72eba18:
 
     # aurora "There’s more... This universe has another [playername] living there."
-    aurora "There’s more... This universe has another [playername] living there."
+    aurora "还有……这个宇宙还有另一个[playername]在这。"
 
 # game/library.rpy#L2560
 translate chinese lilylegsupmissionary_9f7ac2a9:
 
     # "As Aurora said my name out loud, the middle mirror swapped to a third person view of another me."
-    "As Aurora said my name out loud, the middle mirror swapped to a third person view of another me."
+    "当Aurora大声念出我的名字时，中间的镜子画面换成了另个“我”的第三人称视角。"
 
 # game/library.rpy#L2561
 translate chinese lilylegsupmissionary_fb1c5f14:
 
     # "Wow... That's definitely me, wearing clothes and living out my old life."
-    "Wow... That's definitely me, wearing clothes and living out my old life."
+    "哇靠……那真的是我，还穿着衣服，过着我以往的生活。"
 
 # game/library.rpy#L2562
 translate chinese lilylegsupmissionary_488fadaf:
 
     # "Looks like I'm on a date with a girl. I know that girl too, she's called Moxie."
-    "Looks like I'm on a date with a girl. I know that girl too, she's called Moxie."
+    "看样子我好像在和一位女孩约会。而那个女孩，正叫Moxie。"
 
 # game/library.rpy#L2563
 translate chinese lilylegsupmissionary_c546a7f6:
 
     # "I met this 'human Moxie' the day I arrived in Arcadia. Imagine my confusion when I teleport here and there's also a unicorn called Moxie."
-    "I met this 'human Moxie' the day I arrived in Arcadia. Imagine my confusion when I teleport here and there's also a unicorn called Moxie."
+    "我回想起到Arcadia的那天，我遇到过这个“人类Moxie”。而正好我被瞬移到这里时候碰上一只叫Moxie的独角兽，我不禁推想了起来。"
 
 # game/library.rpy#L2564
 translate chinese lilylegsupmissionary_c4fd8c80:
 
     # mc "Alive and well I see, hope you kill it out there [playername]."
-    mc "Alive and well I see, hope you kill it out there [playername]."
+    mc "[playername]，我看你还活着，希望你在外面能做掉他。"
 
 # game/library.rpy#L2565
 translate chinese lilylegsupmissionary_b3dea68b:
 
     # mc "Love you man."
-    mc "Love you man."
+    mc "爱你的人。"
 
 # game/library.rpy#L2566
 translate chinese lilylegsupmissionary_1811ff7f:
 
     # mc "Well... Now I really gotta know, what's going on here? Why am I here?"
-    mc "Well... Now I really gotta know, what's going on here? Why am I here?"
+    mc "嗯……发生啥了，这是怎么回事？我为什么在这里？"
 
 # game/library.rpy#L2567
 translate chinese lilylegsupmissionary_f896f5c3:
 
     # mc "And what does this all have to do with Moxie? This can't be a coincidence."
-    mc "And what does this all have to do with Moxie? This can't be a coincidence."
+    mc "这一切都和Moxie有什么联系?这绝对不会是巧合。"
 
 # game/library.rpy#L2571
 translate chinese lilylegsupmissionary_2a2c5a0a:
 
     # "Aurora can't help but burst out into some light giggles."
-    "Aurora can't help but burst out into some light giggles."
+    "Aurora忍不住咯咯笑了起来。"
 
 # game/library.rpy#L2573
 translate chinese lilylegsupmissionary_1e27f510:
 
     # aurora "Moxie has been quite the nuisance, but I believe my sister is better to explain this."
-    aurora "Moxie has been quite the nuisance, but I believe my sister is better to explain this."
+    aurora "Moxie一直是个小烦马鬼，不过我相信我的妹妹能给出这方面最好的解释。"
 
 # game/library.rpy#L2574
 translate chinese lilylegsupmissionary_edca23ac:
 
     # aurora "She sleeps during the day, but I’ll give her a lil’ telepathic buzz and wake her up."
-    aurora "She sleeps during the day, but I’ll give her a lil’ telepathic buzz and wake her up."
+    aurora "她白天休息，待会我给她一点小小的心灵沟通来叫醒她。"
 
 # game/library.rpy#L2575
 translate chinese lilylegsupmissionary_88bfc9d3:
 
     # aurora "Come, I shall escort you back to the hall, we have kept the girls waiting long enough."
-    aurora "Come, I shall escort you back to the hall, we have kept the girls waiting long enough."
+    aurora "来吧，我们回大厅去，别让姑娘们等太久了。"
 
 # game/library.rpy#L2578
 translate chinese lilylegsupmissionary_d81a7596:

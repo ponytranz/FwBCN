@@ -1652,7 +1652,7 @@ translate chinese musicstudiomenub_a16af6d5:
 translate chinese musicstudiomenub_bffa6cb7:
 
     # "No one wants to have sex with me right now"
-    "No one wants to have sex with me right now"
+    "现在可没人想和我上床了"
 
 # game/city.rpy#L565
 translate chinese musicstudiomenub_dbf99e8b:
@@ -1670,13 +1670,13 @@ translate chinese musicstudiomenub_9af29cfa:
 translate chinese musicstudiomenub_55156407:
 
     # mc "I can't believe we nearly got caught."
-    mc "I can't believe we nearly got caught."
+    mc "难以置信的是我们差一点就被抓住了"
 
 # game/city.rpy#L575
 translate chinese musicstudiomenub_e0d10466:
 
     # melody "Heh, I was keeping an ear out."
-    melody "Heh, I was keeping an ear out."
+    melody "嘿，我的耳朵可是一直竖着的"
 
 # game/city.rpy#L577
 translate chinese musicstudiomenub_f01908ab:
@@ -1688,55 +1688,55 @@ translate chinese musicstudiomenub_f01908ab:
 translate chinese musicstudiomenub_f921beaf:
 
     # "Upon seeing Melody's erotic form and wet snatch, my cock starts to grow in expectation of the upcoming fuck."
-    "Upon seeing Melody's erotic form and wet snatch, my cock starts to grow in expectation of the upcoming fuck."
+    "在看到Melody不停自慰，欲求不满的样子之后，我的阴茎极速膨胀，仿佛在期待着即将到来的欢愉"
 
 # game/city.rpy#L579
 translate chinese musicstudiomenub_b3facdbd:
 
     # melody "Oohh, lil' wormy is evolving into big wormy!"
-    melody "Oohh, lil' wormy is evolving into big wormy!"
+    melody "哇哦，看起来有只小虫子正在不断进化为一头猛兽哦！"
 
 # game/city.rpy#L580
 translate chinese musicstudiomenub_53292d0d:
 
     # mc "And your pussy is drooling like a ravenous... Snake?"
-    mc "And your pussy is drooling like a ravenous... Snake?"
+    mc "你肉穴湿的就像一个欲求不满的女人看到阴茎之后垂涎欲滴的样子…或许也像…吃人不吐骨头的美女蛇？"
 
 # game/city.rpy#L581
 translate chinese musicstudiomenub_c4b5cae3:
 
     # melody "Heh, leave the dirty talking to me. Now, let's fuck!"
-    melody "Heh, leave the dirty talking to me. Now, let's fuck!"
+    melody "嘿，别对我说这些毫无营养的话，现在我只想要你的阴茎能更快的与我结合"
 
 # game/city.rpy#L582
 translate chinese musicstudiomenub_c15ea3e0:
 
     # "She fondles her cute breasts while I get into position next to the table she's laying on."
-    "She fondles her cute breasts while I get into position next to the table she's laying on."
+    "她不断抚摸着她那乖巧可爱的乳房，而我就坐在她躺着的桌子旁边"
 
 # game/city.rpy#L585
 translate chinese musicstudiomenub_2a57e237:
 
     # "Eagerly I slide the length of my erection inside her pussy, immediately feeling the tender warmth of her insides."
-    "Eagerly I slide the length of my erection inside her pussy, immediately feeling the tender warmth of her insides."
+    "急不可耐的我立刻把完全勃起阴茎插入了她的阴部，那一瞬间我似乎感觉到了她内心深处的温暖与柔软"
 
 # game/city.rpy#L586
 translate chinese musicstudiomenub_779cb4d7:
 
     # melody "Mmmhh, your cock is really moreish."
-    melody "Mmmhh, your cock is really moreish."
+    melody "嗯嗯啊啊啊，你的阴茎好像真的能让人上瘾"
 
 # game/city.rpy#L587
 translate chinese musicstudiomenub_3599e6d5:
 
     # mc "You're becoming more open to sex, eh? Maybe you're an addict."
-    mc "You're becoming more open to sex, eh? Maybe you're an addict."
+    mc "你对性爱这种事情似乎变得越来越开放与随意了，是吗？也许你真的是一个性成瘾的女孩。"
 
 # game/city.rpy#L588
 translate chinese musicstudiomenub_41870e04:
 
     # melody "Pfft, nah! You're my toy until the very end."
-    melody "Pfft, nah! You're my toy until the very end."
+    melody "啊哈，不是！你从始至终都只是我的玩具而已"
 
 # game/city.rpy#L590
 translate chinese musicstudiomenub_a38b279b:
@@ -1748,7 +1748,7 @@ translate chinese musicstudiomenub_a38b279b:
 translate chinese musicstudiomenub_1d51a024:
 
     # "Although Melody isn't surprised, and she braces herself. While she tries to keep the volume of her moans subdued, she can't help but slip the occasional gasp of delight."
-    "Although Melody isn't surprised, and she braces herself. While she tries to keep the volume of her moans subdued, she can't help but slip the occasional gasp of delight."
+    "尽管Melody丝毫不感到惊讶，并且早已做好了准备，但当她努力克制自己呻吟的声音之时，偶尔还是会忍不住发出一些欢愉的喘息和浪叫。"
 
 # game/city.rpy#L593
 translate chinese musicstudiomenub_b7e92999:
@@ -1760,7 +1760,7 @@ translate chinese musicstudiomenub_b7e92999:
 translate chinese musicstudiomenub_0db3595c:
 
     # melody "D-Don't tell me what to do, ahh... Mmmphh..."
-    melody "D-Don't tell me what to do, ahh... Mmmphh..."
+    melody "我…我不需要你来告诉我怎么…怎么做，啊…嗯啊啊"
 
 # game/city.rpy#L597
 translate chinese musicstudiomenub_686c18dd:
@@ -7362,7 +7362,7 @@ translate chinese strings:
 
     # game/city.rpy_L720_0
     old "Currently listening to That's One Sly Cat - Artificial Music."
-    new "正在收听：狡猾小猫- Artificial Music."
+    new "正在收听：That's One Sly Cat - Artificial Music。"
 
     # game/city.rpy_L720_1
     old "Stop"
@@ -7370,15 +7370,15 @@ translate chinese strings:
 
     # game/city.rpy_L727_0
     old "Currently listening to Abstract Foilage - Artificial Music."
-    new "正在收听：采摘树叶 - Artificial Music."
+    new "正在收听：Abstract Foilage - Artificial Music"
 
     # game/city.rpy_L734_0
     old "Currently listening to Good Day - Low Frequency Music."
-    new "正在收听：美好时光 - Low Frequency Music."
+    new "正在收听：Good Day - Low Frequency Music"
 
     # game/city.rpy_L740_0
     old "Currently listening to Bald Mountain - God Hand"
-    new "正在收听：赤裸山峰 - God Hand"
+    new "正在收听：Bald Mountain - God Hand"
 
     # game/city.rpy_L750_0
     old "Day Theme 1"
@@ -7390,11 +7390,11 @@ translate chinese strings:
 
     # game/city.rpy_L759_0
     old "Currently listening to Stuck in the Machine - NO MIC."
-    new "正在收听：笼中之鸟 - NO MIC."
+    new "正在收听：Stuck in the Machine - NO MIC."
 
     # game/city.rpy_L778_0
     old "Currently listening to Hip Jazz - Benjamin Tissot"
-    new "正在收听：流行爵士 - Benjamin Tissot"
+    new "正在收听：Hip Jazz - Benjamin Tissot"
 
     # game/city.rpy_L786_0
     old "Butters' Theme"
@@ -7422,23 +7422,23 @@ translate chinese strings:
 
     # game/city.rpy_L789_0
     old "Currently listening to Before you Fall Asleep - Jhove"
-    new "正在收听：入睡之前 - Jhove"
+    new "正在收听：Before you Fall Asleep - Jhove"
 
     # game/city.rpy_L796_0
     old "Currently listening to Another Perspective - Idealism."
-    new "正在收听：全新角度 - Idealism."
+    new "正在收听：Another Perspective - Idealism."
 
     # game/city.rpy_L803_0
     old "Currently listening to N.ercophillia: it applies to the dead inside now (lorncloudshit) - Sewerslvt"
-    new "正在收听N.ercophillia：死者狂宴（lorncloudshit）- Sewerslvt"
+    new "正在收听N.ercophillia：it applies to the dead inside now（lorncloudshit）- Sewerslvt"
 
     # game/city.rpy_L810_0
     old "Currently listening to La fille aux cheveux de lin by Claude Debussy (1909)"
-    new "Currently listening to La fille aux cheveux de lin by Claude Debussy (1909)"
+    new "正在收听：La fille aux cheveux de lin by Claude Debussy (1909)"
 
     # game/city.rpy_L817_0
     old "Currently listening to Euphoric Filth - Sewerslvt"
-    new "正在收听：翻云覆雨 - Sewerslvt"
+    new "正在收听：Euphoric Filth - Sewerslvt"
 
     # game/city.rpy_L829_0
     old "Music Studio Theme"
@@ -7454,7 +7454,7 @@ translate chinese strings:
 
     # game/city.rpy_L829_3
     old "Intense"
-    new "紧锣密鼓"
+    new "Intense"
 
     # game/city.rpy_L829_4
     old "Cindy's Theme"
@@ -7470,11 +7470,11 @@ translate chinese strings:
 
     # game/city.rpy_L832_0
     old "Currently listening to inpeace - Sewerslvt"
-    new "Currently listening to inpeace - Sewerslvt"
+    new "正在收听：inpeace - Sewerslvt"
 
     # game/city.rpy_L839_0
     old "Currently listening to Yandere Complex - Sewerslvt"
-    new "Currently listening to Yandere Complex - Sewerslvt"
+    new "正在收听：Yandere Complex - Sewerslvt"
 
     # game/city.rpy_L846_0
     old "Currently listening to Another Perspective - Idealism"
@@ -7482,11 +7482,11 @@ translate chinese strings:
 
     # game/city.rpy_L853_0
     old "Currently listening to Basic Metal 6 - TeknoAXE"
-    new "Currently listening to Basic Metal 6 - TeknoAXE"
+    new "正在收听：Basic Metal 6 - TeknoAXE"
 
     # game/city.rpy_L860_0
     old "Currently listening to Toe Wizard - Sewerslvt (/w Mortem)"
-    new "Currently listening to Toe Wizard - Sewerslvt (/w Mortem)"
+    new "正在收听：Toe Wizard - Sewerslvt (/w Mortem)"
 
     # game/city.rpy_L871_0
     old "Sad Theme 1"
@@ -7502,11 +7502,11 @@ translate chinese strings:
 
     # game/city.rpy_L871_3
     old "Comedy"
-    new "搞笑时刻"
+    new "Comedy"
 
     # game/city.rpy_L871_4
     old "Tension"
-    new "忐忑不安"
+    new "Tension"
 
     # game/city.rpy_L871_5
     old "<- Page 3"
@@ -7518,43 +7518,43 @@ translate chinese strings:
 
     # game/city.rpy_L874_0
     old "Currently listening to Danse Morialta - Kevin MacLeod"
-    new "Currently listening to Danse Morialta - Kevin MacLeod"
+    new "正在收听：Danse Morialta - Kevin MacLeod"
 
     # game/city.rpy_L881_0
     old "Currently listening to Dissociation - Naoya Sakamata"
-    new "Currently listening to Dissociation - Naoya Sakamata"
+    new "正在收听：Dissociation - Naoya Sakamata"
 
     # game/city.rpy_L888_0
     old "Currently listening to Blue Boi - Lakey Inspired"
-    new "Currently listening to Blue Boi - Lakey Inspired"
+    new "正在收听：Blue Boi - Lakey Inspired"
 
     # game/city.rpy_L895_0
     old "Currently listening to Jazz Organ Trio Cool Blue - Doug Maxwell"
-    new "Currently listening to Jazz Organ Trio Cool Blue - Doug Maxwell"
+    new "正在收听：Jazz Organ Trio Cool Blue - Doug Maxwell"
 
     # game/city.rpy_L902_0
     old "Currently listening to Traids - Unknown"
-    new "Currently listening to Traids - Unknown"
+    new "正在收听： Traids - Unknown"
 
     # game/city.rpy_L913_0
     old "Art of Silence"
-    new "寂静之声"
+    new "Art of Silence"
 
     # game/city.rpy_L913_1
     old "Hopelessness"
-    new "暗无天日"
+    new "Hopelessness"
 
     # game/city.rpy_L913_2
     old "Slow Death"
-    new "衰老"
+    new "Slow Death"
 
     # game/city.rpy_L913_3
     old "Suspense"
-    new "悬疑"
+    new "心急如焚"
 
     # game/city.rpy_L913_4
     old "Epic"
-    new "史诗"
+    new "Epic"
 
     # game/city.rpy_L913_5
     old "<- Page 4"
@@ -7566,27 +7566,27 @@ translate chinese strings:
 
     # game/city.rpy_L916_0
     old "Currently listening to Art of Silence - Uniq"
-    new "正在收听：寂静之声 - Uniq"
+    new "正在收听：Art of Silence - Uniq"
 
     # game/city.rpy_L923_0
     old "Currently listening to Hopelessness - Sewerslvt"
-    new "正在收听：暗无天日 - Sewerslvt"
+    new "正在收听：Hopelessness - Sewerslvt"
 
     # game/city.rpy_L930_0
     old "Currently listening to Slow Death - Sewerslvt"
-    new "正在收听：衰老 - Sewerslvt"
+    new "正在收听：Slow Death - Sewerslvt"
 
     # game/city.rpy_L937_0
     old "Currently listening to Secrets - Michael Hildreth"
-    new "正在收听：秘密 - Michael Hildreth"
+    new "正在收听：Secrets - Michael Hildreth"
 
     # game/city.rpy_L944_0
     old "Currently listening to Fire and Thunder - Cjbeards"
-    new "正在收听：烈火惊雷 - Cjbeards"
+    new "正在收听：Fire and Thunder - Cjbeards"
 
     # game/city.rpy_L955_0
     old "Spooky Breathing"
-    new "幽灵吐息"
+    new "Spooky Breathing"
 
     # game/city.rpy_L955_1
     old "Cream's Baking music"
@@ -7594,15 +7594,15 @@ translate chinese strings:
 
     # game/city.rpy_L955_2
     old "Mr. Kill Yourself - Sewerslvt"
-    new "自杀先生- Sewerslvt"
+    new "Mr. Kill Yourself - Sewerslvt"
 
     # game/city.rpy_L955_3
     old "Seduced by the Queen"
-    new "受到女王的诱惑"
+    new "Seduced by the Queen"
 
     # game/city.rpy_L955_4
     old "Everything's Going Wrong"
-    new "乱成一锅"
+    new "Everything's Going Wrong"
 
     # game/city.rpy_L955_5
     old "<- Page 5"
@@ -7614,23 +7614,23 @@ translate chinese strings:
 
     # game/city.rpy_L958_0
     old "Currently listening to Central Square Mall Alternate, 2nd Floor Balcony - Silent Hill 3"
-    new "Currently listening to Central Square Mall Alternate, 2nd Floor Balcony - Silent Hill 3"
+    new "正在收听：Central Square Mall Alternate, 2nd Floor Balcony - Silent Hill 3"
 
     # game/city.rpy_L965_0
     old "Currently listening to inlove - Sewerslvt"
-    new "Currently listening to inlove - Sewerslvt"
+    new "正在收听：inlove - Sewerslvt"
 
     # game/city.rpy_L972_0
     old "Currently listening to Mr. Kill Yourself - Sewerslvt"
-    new "正在收听：自杀先生- Sewerslvt"
+    new "正在收听：Mr. Kill Yourself - Sewerslvt"
 
     # game/city.rpy_L979_0
     old "Currently listening to Bread - Lukrembo"
-    new "正在收听：面包 - Lukrembo"
+    new "正在收听：Bread - Lukrembo"
 
     # game/city.rpy_L986_0
     old "Currently listening to Lips - Sewerslvt"
-    new "正在收听：嘴唇 - Sewerslvt"
+    new "正在收听：Lips - Sewerslvt"
 
     # game/city.rpy_L997_0
     old "Rainy theme"
@@ -7662,23 +7662,23 @@ translate chinese strings:
 
     # game/city.rpy_L1000_0
     old "Currently listening to Oni - Sewerslvt"
-    new "Currently listening to Oni - Sewerslvt"
+    new "正在收听：Oni - Sewerslvt"
 
     # game/city.rpy_L1007_0
     old "Currently listening to The Maw - Sewerslvt"
-    new "Currently listening to The Maw - Sewerslvt"
+    new "正在收听：The Maw - Sewerslvt"
 
     # game/city.rpy_L1014_0
     old "Currently listening to Cyberia lyr3 - Sewerslvt"
-    new "Currently listening to Cyberia lyr3 - Sewerslvt"
+    new "正在收听：Cyberia lyr3 - Sewerslvt"
 
     # game/city.rpy_L1021_0
     old "Currently listening to Been Here Before - NO MIC"
-    new "Currently listening to Been Here Before - NO MIC"
+    new "正在收听：Been Here Before - NO MIC"
 
     # game/city.rpy_L1028_0
     old "Currently listening to Tranquil - Whitesand"
-    new "Currently listening to Tranquil - Whitesand"
+    new "正在收听：Tranquil - Whitesand"
 
     # game/city.rpy_L1040_0
     old "Augusta's Theme"
@@ -7690,7 +7690,7 @@ translate chinese strings:
 
     # game/city.rpy_L1044_0
     old "Currently listening to Pina Colada - Silent Partner"
-    new "Currently listening to Pina Colada - Silent Partner"
+    new "正在收听：Pina Colada - Silent Partner"
 
     # game/city.rpy_L1320_0
     old "Visit Princess Selene?"

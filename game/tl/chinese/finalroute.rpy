@@ -1436,103 +1436,103 @@ translate chinese clibrary_b80de4dc:
 translate chinese clibrary_cb4f1dfb:
 
     # "I just need to cum in her to stop this brainwashing, and as usual Lily's tight pussy easily brings me close."
-    "我只需射在她里面来解除洗脑诅咒,Lily紧致的小穴像往常一样很容易就让我快射了."
+    "我只需射在她里面来解除洗脑诅咒,Lily紧致的小穴像往常一样很容易就让我快射了。"
 
 # game/finalroute.rpy#L663
 translate chinese clibrary_580854f3:
 
     # "My cock grows tighter and harder as it throbs in her clenching pussy."
-    "我的肉棒在她小穴有规律的紧缩下变得更硬更紧绷了."
+    "我的肉棒在她小穴有规律的紧缩下变得更硬更紧绷了。"
 
 # game/finalroute.rpy#L664
 translate chinese clibrary_3cd2b5b3:
 
     # "She’s been indulging in light orgasmic pleasure repeatedly during the entire session. Her squelching pussy is dripping with an overabundance of juices and lust."
-    "在整个过程中她一直沉浸在轻微的高潮快感中.她滋滋作响的外阴正在释放着过多的汁液和欲望."
+    "在整个过程中她一直沉浸在轻微的高潮快感中.她滋滋作响的外阴正在释放着过多的汁液和欲望。"
 
 # game/finalroute.rpy#L666
 translate chinese clibrary_90298718:
 
     # lily "Hahhh, you’re getting even harder! Y-You’re gonna make me come!"
-    lily "哈啊,你下面甚至比以前更硬了!我快要去了!"
+    lily "哈啊,你下面甚至比以前更硬了！我快要去了！"
 
 # game/finalroute.rpy#L667
 translate chinese clibrary_234f8a41:
 
     # "Lily's pussy clenches around my member, rhythmically increasing the pleasure with each passing second."
-    "Lily的小穴夹紧了我的弟弟,有节奏的增加着每分每秒的快乐"
+    "Lily的小穴夹紧了我的弟弟，有节奏的增加着每分每秒的快乐。"
 
 # game/finalroute.rpy#L668
 translate chinese clibrary_25faeacc:
 
     # "I grit my teeth and pull on her tail as a familiar feeling in my taint signals an impending orgasm."
-    "我咬紧牙关,拽着她的尾巴,我的身体里有一种熟悉的感觉,预示着即将到来的高潮."
+    "我咬紧牙关，拽着她的尾巴，我的身体里有一种熟悉的感觉,预示着即将到来的高潮。"
 
 # game/finalroute.rpy#L673
 translate chinese clibrary_d3458e69:
 
     # "With a few last deep thrusts my cock finally releases its load deep into her vagina and womb."
-    "在最后的几次深度插入后我的肉棒终于将它的存货深入释放到了她的阴道和小穴中."
+    "在最后的几次深度插入后我的肉棒终于将它的存货深入释放到了她的阴道和小穴中。"
 
 # game/finalroute.rpy#L680
 translate chinese clibrary_ab1e4210:
 
     # lily "Kyaaaahhhh, I want you to breed me like the slut I am! Fill my belly with your cum!"
-    lily "呃啊啊啊,我想让你把我当成荡妇来交配!用你的精液灌满我的小穴!"
+    lily "呃啊啊啊，我想让你把我当成荡妇来交配!用你的精液灌满我的小穴！"
 
 # game/finalroute.rpy#L681
 translate chinese clibrary_3d9d100c:
 
     # "Satisfied, I pull out and leave Lily panting on the counter as she continues to enjoy her longer orgasm."
-    "我心满意足的拔了出来,把她留在柜台上来让她多享受一会儿高潮的快感."
+    "我心满意足的拔了出来，把她留在柜台上来让她多享受一会儿高潮的快感。"
 
 # game/finalroute.rpy#L683
 translate chinese clibrary_2020c58c:
 
     # lily "Haahh, haah, yes! So much thick cum, I loo…ve… eeehhh?"
-    lily "哈,啊!就是这样!如此多的粘稠精液!爱了,爱了!？"
+    lily "哈,啊!就是这样!如此多的粘稠精液！爱了，爱了！？"
 
 # game/finalroute.rpy#L684
 translate chinese clibrary_3b48d631:
 
     # "Almost immediately her green eyes return to a deep blue hue as Morrigan’s brainwashing curse is lifted."
-    "随着Morrigan的洗脑诅咒被解除,她的绿色眼睛几乎立刻就变回了原本的深蓝色."
+    "随着Morrigan的洗脑诅咒被解除，她的绿色眼睛几乎立刻就变回了原本的深蓝色。"
 
 # game/finalroute.rpy#L685
 translate chinese clibrary_1565c3ca:
 
     # lily "O-Oh my goodness, I can’t… W-What? Morrigan! I need to stop Morrigan!"
-    lily "啊,哦我的女神啊,我不能...？什 什么？Morrigan!对了我要赶紧阻止Morrigan!"
+    lily "啊，哦我的女神啊,我不能…？什 什么？Morrigan！对了我要赶紧阻止Morrigan！"
 
 # game/finalroute.rpy#L688
 translate chinese clibrary_bd65eb3c:
 
     # "Almost stumbling from the counter, her quivering thighs let out as she falls onto the floor."
-    "她几乎从柜台上踉跄掉下,颤抖的双腿叉开,倒在了地板上."
+    "她几乎从柜台上踉跄掉下，颤抖的双腿叉开，倒在了地板上。"
 
 # game/finalroute.rpy#L692
 translate chinese clibrary_0202bb62:
 
     # lily "Uuuuu… What’s going on?"
-    lily "呃嗯嗯...发生什么了？"
+    lily "呃嗯嗯…发生什么了？"
 
 # game/finalroute.rpy#L695
 translate chinese clibrary_1560573e:
 
     # "I spend a few minutes explaining the situation as succinctly as possible, bringing Lily to a deep understanding."
-    "我花了几分钟来尽可能简洁地解释了情况,让Lily明白了整件事的情况."
+    "我花了几分钟来尽可能简洁地解释了情况，才让Lily了解了整件事的始末。"
 
 # game/finalroute.rpy#L700
 translate chinese clibrary_809ef47c:
 
     # lily "I can't believe it… So Morrigan has also brainwashed the Royal Sisters like this too…? This is bad!"
-    lily "我不敢相信...所以Morrigan也洗脑了皇家姐妹？这可不行!"
+    lily "我不敢相信… 所以Morrigan也洗脑了皇家姐妹？这也太糟了吧！"
 
 # game/finalroute.rpy#L702
 translate chinese clibrary_49310c46:
 
     # lily "I can’t believe she’s using you and Moxie like that… A-And Penelope! I had no idea!"
-    lily "我不敢相信她像那样利用你和Moxie...甚至还有Penelope!我没有头绪!"
+    lily "我不敢相信她像那样利用你和Moxie...甚至还有Penelope!我没有头绪！"
 
 # game/finalroute.rpy#L703
 translate chinese clibrary_01f894ca:
@@ -1544,7 +1544,7 @@ translate chinese clibrary_01f894ca:
 translate chinese clibrary_fd58eb72:
 
     # lily "No, no, you don’t understand! Morrigan is a Morphling, not only does she have the ability to shapeshift into any form, but she also has the ability to possess hosts…"
-    lily "不不,你不明白!Morrigan是一只幻形灵,不仅仅是因为她能变形成任何形态,而且还能掌控宿主..."
+    lily "不不，你不明白！Morrigan是一只幻形灵，她不仅能变形成任何形态，甚至还能掌控宿主…"
 
 # game/finalroute.rpy#L706
 translate chinese clibrary_791b8ff9:
@@ -1556,7 +1556,7 @@ translate chinese clibrary_791b8ff9:
 translate chinese clibrary_e601cba7:
 
     # lily "Yes, that’s why she’s such a dangerous foe, because she truly could be anyone… It makes sense that they decided to use Moxie though, because of her powers…"
-    lily "是的,这也是为什么她是如此危险的敌人,因为她真真切切的能变成任何马...这也说得通她为什么选择利用Moxie,因为她拥有的力量..."
+    lily "没错，这也是为什么她是如此危险的敌人，因为她真真切切的能变成任何马...这也说得通她为什么选择利用Moxie，因为她拥有的力量..."
 
 # game/finalroute.rpy#L709
 translate chinese clibrary_57149521:
@@ -2138,7 +2138,7 @@ translate chinese cfarm_da49e7a1:
 translate chinese cfarm_17b1fce2:
 
     # honeycrisp "Did y’all really need to have us both at the same time? Ah, forget I’m even asking that, of course you did… But, still…"
-    honeycrisp "你真的需要咱们两个同时在一起做吗?啊，算了吧，你反正已经做过了...但我还是觉得..."
+    honeycrisp "你真的需要咱们两个同时一起做吗?啊，算了吧，你反正已经做过了...但我还是觉得..."
 
 # game/finalroute.rpy#L900
 translate chinese cfarm_dbf41bc0:
@@ -2168,7 +2168,7 @@ translate chinese cfarm_0b28be29:
 translate chinese cboutique_b96629a0:
 
     # "I don't have enough time to meet with Ruby and the devil, I need to complete my sleeping mission!"
-    "I don't have enough time to meet with Ruby and the devil, I need to complete my sleeping mission!"
+    "我可没有更多的时间去见Ruby或者是那只devil兔子，我现在必须要睡觉，这是使我人生圆满的一个重要任务"
 
 # game/finalroute.rpy#L922
 translate chinese cboutique_2c0accfb:
@@ -2210,7 +2210,7 @@ translate chinese cboutique_c47fc92b:
 translate chinese cboutique_67503737:
 
     # "Since the brainwashing, she seems to have gained some kind of knowledge about the situation, but how much?"
-    "Since the brainwashing, she seems to have gained some kind of knowledge about the situation, but how much?"
+    "自从被洗脑后，她似乎对当下的情况还有所了解，但又了解多少呢?"
 
 # game/finalroute.rpy#L934
 translate chinese cboutique_975d5073:
@@ -2222,7 +2222,7 @@ translate chinese cboutique_975d5073:
 translate chinese cboutique_fdd1f7ec:
 
     # ruby "Because you’re third in command of Morrigan’s kingdom, of course!"
-    ruby "当然了，您是可Morrigan王国的三当家呢!"
+    ruby "当然了，您可是Morrigan王国的三当家呢!"
 
 # game/finalroute.rpy#L937
 translate chinese cboutique_c43269e8:
@@ -2234,331 +2234,331 @@ translate chinese cboutique_c43269e8:
 translate chinese cboutique_aa0f80f9:
 
     # ruby "No need to be so vulgar darling, I don’t see myself as brainwashed, I’m merely enlightened!"
-    ruby "No need to be so vulgar darling, I don’t see myself as brainwashed, I’m merely enlightened!"
+    ruby "没必要这样妄下定论，亲爱的，我可不认为自己被洗脑了，我只是被点醒罢了!"
 
 # game/finalroute.rpy#L944
 translate chinese cboutique_d9ed1dac:
 
     # melody "Oh my gosh, wormy master! I didn’t think you’d visit us peasants anymore since you became royalty, or whatever."
-    melody "Oh my gosh, wormy master! I didn’t think you’d visit us peasants anymore since you became royalty, or whatever."
+    melody "天啊，蛆虫!我还以为你成为皇室成员啥的后就不会再来拜访我们这些下等人了呢。"
 
 # game/finalroute.rpy#L945
 translate chinese cboutique_d9e3fcf6:
 
     # mc "Ah, you’re here too, that’s perfect."
-    mc "Ah, you’re here too, that’s perfect."
+    mc "哦，你也在这儿呀，针不戳。"
 
 # game/finalroute.rpy#L946
 translate chinese cboutique_5b6e196d:
 
     # melody "Oh really, wormy master? Are you gonna give us some disgusting orders? Maybe turn us into breeding drones? Gross, gross, gross!"
-    melody "Oh really, wormy master? Are you gonna give us some disgusting orders? Maybe turn us into breeding drones? Gross, gross, gross!"
+    melody "真的吗，蛆虫?您是要使唤我们干什么恶心的事情吗?还是要把我们变成没有意识的生育机器?恶心,恶心,恶心死了!"
 
 # game/finalroute.rpy#L948
 translate chinese cboutique_9f18ee4f:
 
     # ruby "I for one would love the honour of being a breeding drone for you, although I don’t know the spell for pregnancy…"
-    ruby "I for one would love the honour of being a breeding drone for you, although I don’t know the spell for pregnancy…"
+    ruby "我也想能成为您的生育机器呢，但我也不知道有没有能让我怀上您孩子的咒语呢…"
 
 # game/finalroute.rpy#L949
 translate chinese cboutique_f0ac9fdf:
 
     # mc "No one’s gonna become a breeding drone! Alright?"
-    mc "No one’s gonna become a breeding drone! Alright?"
+    mc "你们不会真的想变成生育机器吧！开玩笑也要有个度好吧?"
 
 # game/finalroute.rpy#L950
 translate chinese cboutique_c253a35b:
 
     # melody "Mehehe, wormaster doesn’t have the balls to get two amazing slaves like us pregnant!"
-    melody "Mehehe, wormaster doesn’t have the balls to get two amazing slaves like us pregnant!"
+    melody "哼~哼~哼~，这蛆虫可没那个胆量让我们这两个性感奴隶怀孕的!"
 
 # game/finalroute.rpy#L951
 translate chinese cboutique_30ca5353:
 
     # mc "God damnit, why are you so standoffish, even as my slave?"
-    mc "God damnit, why are you so standoffish, even as my slave?"
+    mc "卧槽，就算变成了我的奴隶你也怎么还是这么毒蛇呀?"
 
 # game/finalroute.rpy#L953
 translate chinese cboutique_dd9529b7:
 
     # melody "Ehehe, because I know that’s exactly what you want, even under your orders."
-    melody "Ehehe, because I know that’s exactly what you want, even under your orders."
+    melody "呵呵，即使是在您的命令下，我也知道您不就好这一口吗。"
 
 # game/finalroute.rpy#L954
 translate chinese cboutique_96b9bb11:
 
     # mc "Hmph, so you’d stop if I asked."
-    mc "Hmph, so you’d stop if I asked."
+    mc "好吧，但是一旦我说闭嘴，你就得停下。"
 
 # game/finalroute.rpy#L956
 translate chinese cboutique_495f1402:
 
     # melody "… B-But I don’t wanna stop! You jerk! Power abuser! Don’t ever order me to stop being myself!"
-    melody "… B-But I don’t wanna stop! You jerk! Power abuser! Don’t ever order me to stop being myself!"
+    melody "…但-但是我不想停下来呀!你混蛋!暴君!我想毒蛇就毒蛇，别对我指手画脚的！"
 
 # game/finalroute.rpy#L957
 translate chinese cboutique_7d60f65b:
 
     # "Can’t say I was expecting her personality to come through so strongly, but it’s endearing to say the least."
-    "Can’t say I was expecting her personality to come through so strongly, but it’s endearing to say the least."
+    "我可没有料到她还是个暴脾气，不过看起来还挺可爱的呢。"
 
 # game/finalroute.rpy#L961
 translate chinese cboutique_3095151e:
 
     # "I return to Ruby's boutique and let myself in."
-    "I return to Ruby's boutique and let myself in."
+    "我回到了Ruby的精品店，再次进入到里面。"
 
 # game/finalroute.rpy#L963
 translate chinese cboutique_fc42b5f7:
 
     # "Ruby and Melody are still lounging around on the ground floor."
-    "Ruby and Melody are still lounging around on the ground floor."
+    "Ruby和Melody还在一楼呆着。"
 
 # game/finalroute.rpy#L967
 translate chinese cboutique_7fd0d01e:
 
     # melody "Ohh sheesh, you're here to order us around again..."
-    melody "Ohh sheesh, you're here to order us around again..."
+    melody "哦，您又到这儿来使唤我们了…"
 
 # game/finalroute.rpy#L971
 translate chinese cboutique_7b8de5a2:
 
     # ruby "Stand to attention Mel, we live to serve!"
-    ruby "Stand to attention Mel, we live to serve!"
+    ruby "说话注意一点，Melody，我们活着的意义就是为了服侍主人!"
 
 # game/finalroute.rpy#L975
 translate chinese cboutique_7beb1c00:
 
     # mc "Alright, everyone calm down. I think I'm just gonna leave, okay?"
-    mc "Alright, everyone calm down. I think I'm just gonna leave, okay?"
+    mc "好了好了，大家都冷静一下。要不我还是离开这儿吧?"
 
 # game/finalroute.rpy#L977
 translate chinese cboutique_4cd8d4f4:
 
     # ruby "Awhh, Mel... You scared him away."
-    ruby "Awhh, Mel... You scared him away."
+    ruby "啊，Melody...你把他吓跑了。"
 
 # game/finalroute.rpy#L979
 translate chinese cboutique_3199624c:
 
     # melody "I'm sorry! You can stay!"
-    melody "I'm sorry! You can stay!"
+    melody "对不起！不要走，求你了！"
 
 # game/finalroute.rpy#L980
 translate chinese cboutique_245fb88c:
 
     # mc "Don't worry, it's nothing to do with you Melody."
-    mc "Don't worry, it's nothing to do with you Melody."
+    mc "别担心，不是因为你，Melody。"
 
 # game/finalroute.rpy#L982
 translate chinese cboutique_33db7b4f:
 
     # melody "Ooookayy..."
-    melody "Ooookayy..."
+    melody "好-好吧..."
 
 # game/finalroute.rpy#L985
 translate chinese cboutique_1fdb8331:
 
     # mc "Alright, let’s get this done quickly."
-    mc "Alright, let’s get this done quickly."
+    mc "好吧，让咱们速战速决。"
 
 # game/finalroute.rpy#L987
 translate chinese cboutique_d197ff33:
 
     # mc "I finally want that threesome."
-    mc "I finally want that threesome."
+    mc "最后我还是想和她们来一场3p呀。"
 
 # game/finalroute.rpy#L989
 translate chinese cboutique_421bf58d:
 
     # melody "WAH? Y-You utter scoundrel, you perv! You disgusting sack of flesh!"
-    melody "WAH? Y-You utter scoundrel, you perv! You disgusting sack of flesh!"
+    melody "哇?你个大坏蛋，你个死变态!你个恶心的包皮!"
 
 # game/finalroute.rpy#L990
 translate chinese cboutique_f55cca2b:
 
     # "Is she REFUSING my order?"
-    "Is she REFUSING my order?"
+    "她居然可以{b}反抗{/b}我的命令?"
 
 # game/finalroute.rpy#L992
 translate chinese cboutique_609f9973:
 
     # melody "Alright, come on Rubes, let’s have a threesome."
-    melody "Alright, come on Rubes, let’s have a threesome."
+    melody "来嘛，Rubes，3p它不香吗。"
 
 # game/finalroute.rpy#L993
 translate chinese cboutique_b80dabfb:
 
     # "Oh, nevermind."
-    "Oh, nevermind."
+    "哦，老天呀。"
 
 # game/finalroute.rpy#L995
 translate chinese cboutique_53e3054f:
 
     # ruby "Of course, anything for our master. Let’s make this as pleasing and special as possible to thank him for enlightening us."
-    ruby "Of course, anything for our master. Let’s make this as pleasing and special as possible to thank him for enlightening us."
+    ruby "当然了，为了主人我们可以做任何事。让我们把这件事做得尽善尽美来感谢他让我们重新认识了这个世界。"
 
 # game/finalroute.rpy#L997
 translate chinese cboutique_5fa848b7:
 
     # melody "Well, I’m more interested in making it as pleasurable as possible for me."
-    melody "Well, I’m more interested in making it as pleasurable as possible for me."
+    melody "那行吧，不过我只是更对让我感受到愉悦感兴趣。"
 
 # game/finalroute.rpy#L998
 translate chinese cboutique_3e8687b2:
 
     # melody "Lay down on that table ya slut, and I’m gonna get on top of you."
-    melody "Lay down on that table ya slut, and I’m gonna get on top of you."
+    melody "你个骚货，给我躺在桌子上，老娘要正面上你。"
 
 # game/finalroute.rpy#L1000
 translate chinese cboutique_a2917ac7:
 
     # "Without needing to say another word, the two girls get into a lewd position, spreading their legs and lips for me."
-    "Without needing to say another word, the two girls get into a lewd position, spreading their legs and lips for me."
+    "多说无益，两个女孩立马就向我张开双腿和嘴唇，摆出一副淫荡的姿势。"
 
 # game/finalroute.rpy#L1003
 translate chinese cboutique_fa2079e9:
 
     # mc "Ahh, you’re gonna hate me for this afterwards, Melody."
-    mc "Ahh, you’re gonna hate me for this afterwards, Melody."
+    mc "嗨，希望你以后不要记恨我，Melody。"
 
 # game/finalroute.rpy#L1004
 translate chinese cboutique_d61cbefd:
 
     # melody "Too right, ya sicko! Now hurry up and fuck me so I can complete this order and serve the kingdom!"
-    melody "Too right, ya sicko! Now hurry up and fuck me so I can complete this order and serve the kingdom!"
+    melody "就是这样，你这个傻逼!现在赶紧操我，让我完成命令为王国做贡献!"
 
 # game/finalroute.rpy#L1005
 translate chinese cboutique_936078e0:
 
     # ruby "Nooo, take your time! Our bodies are yours to enjoy!"
-    ruby "Nooo, take your time! Our bodies are yours to enjoy!"
+    ruby "不用着急，慢慢来！好好地享受我们的身体吧！"
 
 # game/finalroute.rpy#L1006
 translate chinese cboutique_a952f493:
 
     # melody "Yeah, yeah… I bet this perv planned this from the moment he met us."
-    melody "Yeah, yeah… I bet this perv planned this from the moment he met us."
+    melody "是啊，是啊，我敢打赌这个死变态从遇见我们的那一刻起就已经计划好了让咱们3p。"
 
 # game/finalroute.rpy#L1007
 translate chinese cboutique_bf88c0ac:
 
     # mc "I can’t say it wasn’t on my to-do list."
-    mc "I can’t say it wasn’t on my to-do list."
+    mc "这确实在我的任务清单上列着呢。"
 
 # game/finalroute.rpy#L1008
 translate chinese cboutique_64215701:
 
     # "On the edge of one of the boutique tables, the girls are stacked on top of each other, their legs interlocked as their labia brush against each other slightly."
-    "On the edge of one of the boutique tables, the girls are stacked on top of each other, their legs interlocked as their labia brush against each other slightly."
+    "女孩们躺在一张精品桌子的边缘，身体堆叠在一起，腿相互交叉，阴唇也在彼此亲昵。"
 
 # game/finalroute.rpy#L1009
 translate chinese cboutique_4a192c0e:
 
     # melody "Maybe you can make me your personal breeding slut, eh champ? Ehehehe…"
-    melody "Maybe you can make me your personal breeding slut, eh champ? Ehehehe…"
+    melody "也许你可以让我做你的专属繁殖婊，嗯，主人?额呵呵…"
 
 # game/finalroute.rpy#L1010
 translate chinese cboutique_f58fd22b:
 
     # "Melody’s pussy drools slightly onto Ruby’s, creating a lewd connection between the two."
-    "Melody’s pussy drools slightly onto Ruby’s, creating a lewd connection between the two."
+    "Melody的小穴淫水有些滴落到了Ruby的小穴上，色情地将她们‘连’系到了一起。"
 
 # game/finalroute.rpy#L1012
 translate chinese cboutique_f49ab458:
 
     # "After admiring the sight for perhaps a little too long, I position myself adjacent to the table and figure out which girl would be best to bring back first."
-    "After admiring the sight for perhaps a little too long, I position myself adjacent to the table and figure out which girl would be best to bring back first."
+    "大饱眼福过后，我坐在了桌子旁边思索着，要先把那个女孩儿弄清醒呢。"
 
 # game/finalroute.rpy#L1016
 translate chinese cboutique_0cf6d488:
 
     # "I figure Ruby would be more understanding of the situation, so I line the tip of my cock against her vagina and push forward."
-    "I figure Ruby would be more understanding of the situation, so I line the tip of my cock against her vagina and push forward."
+    "我觉得Ruby可能会更好理解这种情况，所以我用我的龟头抵住了她的小穴，紧接着就向前一推。"
 
 # game/finalroute.rpy#L1017
 translate chinese cboutique_ca923041:
 
     # ruby "Ohhh! "
-    ruby "Ohhh! "
+    ruby "哦哦哦！"
 
 # game/finalroute.rpy#L1018
 translate chinese cboutique_76342a71:
 
     # melody "Ugghh, you would pick her first! You’re so shallow…"
-    melody "Ugghh, you would pick her first! You’re so shallow…"
+    melody "哼？你为什么要先操她呀！不就是身材比老娘好嘛，肤浅的男人..."
 
 # game/finalroute.rpy#L1019
 translate chinese cboutique_15af57a9:
 
     # "My cock sinks into Ruby, enjoying the intense tightness of her pussy. Her thighs quiver as I plunge each and every inch inside."
-    "My cock sinks into Ruby, enjoying the intense tightness of her pussy. Her thighs quiver as I plunge each and every inch inside."
+    "我的肉棒插入到了Ruby的体内，享受着她的小穴所带来的挤压感。我的每一次的深入都让她的大腿颤抖。"
 
 # game/finalroute.rpy#L1020
 translate chinese cboutique_3ffdd179:
 
     # mc "I’m saving the best for last."
-    mc "I’m saving the best for last."
+    mc "好菜都是要等到最后才上的。"
 
 # game/finalroute.rpy#L1021
 translate chinese cboutique_7a9322ef:
 
     # melody "Save your niceties and fuck my whore sis, will ya?"
-    melody "Save your niceties and fuck my whore sis, will ya?"
+    melody "得了吧，谁要信你的鬼话，你不就喜欢操我的荡妇姐姐吗？"
 
 # game/finalroute.rpy#L1022
 translate chinese cboutique_2d6ee2f3:
 
     # "The slightly immoral situation excites all three of us."
-    "The slightly immoral situation excites all three of us."
+    "虽然这有点违反伦理道德，不过我们三个人都感觉很棒。"
 
 # game/finalroute.rpy#L1023
 translate chinese cboutique_f3cc6959:
 
     # "Melody’s pussy drips onto the point of connection of her sister and I."
-    "Melody’s pussy drips onto the point of connection of her sister and I."
+    "Melody的小穴贴在了我和她姐姐的交合处。"
 
 # game/finalroute.rpy#L1024
 translate chinese cboutique_e9faa007:
 
     # "While Ruby’s hot and enticing walls tighten around my throbbing member."
-    "While Ruby’s hot and enticing walls tighten around my throbbing member."
+    "而Ruby那火辣诱人的阴道内壁也紧紧地含住了着我勃起的肉棒。"
 
 # game/finalroute.rpy#L1025
 translate chinese cboutique_18cb27e2:
 
     # "As I fuck Ruby, it’s hard to forget just how experienced Ruby is at using the muscles in her pelvis to squeeze and tease my cock."
-    "As I fuck Ruby, it’s hard to forget just how experienced Ruby is at using the muscles in her pelvis to squeeze and tease my cock."
+    "我一边操她，Ruby也一边娴熟地的用她骨盆里的嫩肉挤压和挑逗我的肉棒。"
 
 # game/finalroute.rpy#L1026
 translate chinese cboutique_e6f8c5ff:
 
     # ruby "Mmmhhh, your dick feels so great darling!"
-    ruby "Mmmhhh, your dick feels so great darling!"
+    ruby "亲爱的，你的肉棒真舒服呀!"
 
 # game/finalroute.rpy#L1027
 translate chinese cboutique_f4b6f179:
 
     # melody "Hmph… I coulda waited outside while you two rutted like pigs."
-    melody "Hmph… I coulda waited outside while you two rutted like pigs."
+    melody "哼...你们俩跟个发情的畜生一样，早知道我就去外面等你们干完了。"
 
 # game/finalroute.rpy#L1028
 translate chinese cboutique_381d778a:
 
     # "With Melody’s butt available to me, I give it a light slap to shut her up."
-    "With Melody’s butt available to me, I give it a light slap to shut her up."
+    "既然Melody的屁股触手可及，那我就轻轻地给她屁股来上一巴掌来让她闭嘴吧。"
 
 # game/finalroute.rpy#L1030
 translate chinese cboutique_60720b0b:
 
     # melody "Kffh? Nnhhh… You bastard, you better save enough energy to fuck me too."
-    melody "Kffh? Nnhhh… You bastard, you better save enough energy to fuck me too."
+    melody "艹?嗯...你这个混蛋，你最好留点力气来操我。"
 
 # game/finalroute.rpy#L1031
 translate chinese cboutique_bb4b854d:
 
     # "Ruby’s entire body quivers with excitement, her pussy clamps down in intervals, squeezing my cock as it buries itself inside of her."
-    "Ruby’s entire body quivers with excitement, her pussy clamps down in intervals, squeezing my cock as it buries itself inside of her."
+    "Ruby的整个身体激烈地颤抖着，她的小穴不停的尝试夹住我的肉棒想让它留在她的小穴里。"
 
 # game/finalroute.rpy#L1032
 translate chinese cboutique_af3dc803:
@@ -2570,49 +2570,49 @@ translate chinese cboutique_af3dc803:
 translate chinese cboutique_375b10cc:
 
     # "Her hips wouldn’t stop meekly shaking in an attempt to maximise the pleasure, inadvertently grinding her clit with her sister’s."
-    "Her hips wouldn’t stop meekly shaking in an attempt to maximise the pleasure, inadvertently grinding her clit with her sister’s."
+    "为了最大限度地享受快感，她的臀部不停地微微颤抖，并且无意中与她妹妹的阴蒂摩擦。"
 
 # game/finalroute.rpy#L1035
 translate chinese cboutique_a287a850:
 
     # melody "Agghh?! Y-You’re fucking like a crazy person sis! Nnnghh…"
-    melody "Agghh?! Y-You’re fucking like a crazy person sis! Nnnghh…"
+    melody "啊啊啊啊?你他妈就像个疯婆娘，姐姐!嗯嗯嗯嗯……"
 
 # game/finalroute.rpy#L1036
 translate chinese cboutique_db81884f:
 
     # "Despite what she said, her hips are also subtly moving back and forth; the sisters now grinding together while I pound into Ruby’s sopping wet pussy."
-    "Despite what she said, her hips are also subtly moving back and forth; the sisters now grinding together while I pound into Ruby’s sopping wet pussy."
+    "尽管她嘴上抱怨，但是身体还是诚实的很。她的屁股也开始微妙地前后移动;姐妹们俩现在一起摩擦阴蒂，而我在Ruby湿透的小穴里奋力抽插。"
 
 # game/finalroute.rpy#L1037
 translate chinese cboutique_2854082e:
 
     # ruby "T-This is t-too much, ahhh, I-I’m cominnggg! I’m cooommminnggg! I’m coommmmiingggg!! "
-    ruby "T-This is t-too much, ahhh, I-I’m cominnggg! I’m cooommminnggg! I’m coommmmiingggg!! "
+    ruby "这-这也，太-太快了，呃啊~我要去-去~了！要去~了！要去~了！"
 
 # game/finalroute.rpy#L1038
 translate chinese cboutique_4447165d:
 
     # "Putting some more strength into my limbs, I push myself as fast as possible to orgasm. Aided by Ruby’s rhythmic orgasmic contractions, I was soon pushed to my limit."
-    "Putting some more strength into my limbs, I push myself as fast as possible to orgasm. Aided by Ruby’s rhythmic orgasmic contractions, I was soon pushed to my limit."
+    "我将更多的力量放在我的四肢上，迫使自己以最快速度达到高潮。在Ruby有节奏的性高潮收缩的帮助下，我很快就被推向了极限。"
 
 # game/finalroute.rpy#L1043
 translate chinese cboutique_5691804c:
 
     # "Finally, unable to bear it, I blew a huge load into the climaxing mare."
-    "Finally, unable to bear it, I blew a huge load into the climaxing mare."
+    "最后，我再也忍不住了，我将巨量精液全部注入到了这匹绝顶的母马里。"
 
 # game/finalroute.rpy#L1048
 translate chinese cboutique_c1f513db:
 
     # "Like a rushing wave, her pussy was immediately filled with my hot seed."
-    "Like a rushing wave, her pussy was immediately filled with my hot seed."
+    "我炽热的种子犹如奔腾的巨浪席卷了她的小穴。"
 
 # game/finalroute.rpy#L1050
 translate chinese cboutique_aa9b74fc:
 
     # ruby "Mmmphhhh, ohhh my gosshhhhh! I can’t believe my little sister is watching me being creampied!"
-    ruby "Mmmphhhh, ohhh my gosshhhhh! I can’t believe my little sister is watching me being creampied!"
+    ruby "嗯嗯嗯嗯嫩！天啊!我不敢相信我竟然当着妹妹的面高潮了!"
 
 # game/finalroute.rpy#L1051
 translate chinese cboutique_e85a9cc7:
@@ -2624,79 +2624,79 @@ translate chinese cboutique_e85a9cc7:
 translate chinese cboutique_6150b4be:
 
     # "Catching Melody off guard, I plunge my cock into her tight snatch."
-    "Catching Melody off guard, I plunge my cock into her tight snatch."
+    "趁Melody不备，我以迅雷不及掩耳之势把我的肉棒插进她的小穴里。"
 
 # game/finalroute.rpy#L1054
 translate chinese cboutique_858ee7d6:
 
     # "She’s so immensely wet that I sink in even faster than I expected. Her pussy is usually tighter than this, but she’s so aroused that she accepts my girth far easier."
-    "She’s so immensely wet that I sink in even faster than I expected. Her pussy is usually tighter than this, but she’s so aroused that she accepts my girth far easier."
+    "她太湿了，我插进去的速度比我预想的还要快。她的阴部通常要比这紧，但现在她十分兴奋，这她更容易接受我的粗壮的肉棒。"
 
 # game/finalroute.rpy#L1055
 translate chinese cboutique_50ecfa3b:
 
     # "Ruby was still paralyzed in the glow of her orgasm, the spell quickly wearing off on her. Meanwhile Melody’s body twitches, and her toes curl in response to the sudden spike of pleasure."
-    "Ruby was still paralyzed in the glow of her orgasm, the spell quickly wearing off on her. Meanwhile Melody’s body twitches, and her toes curl in response to the sudden spike of pleasure."
+    "Ruby仍然沉浸在高潮的喜悦中，洗脑诅咒很快就从她身上消失了。与此同时，Melody面对这突如其来的快感，她的身体抽搐着，脚趾卷曲着。"
 
 # game/finalroute.rpy#L1056
 translate chinese cboutique_4b753fbc:
 
     # melody "Ahahahhh, haaahhhh, finally, you fucker! Nnghhh, surprised a man like you has the energy to go immediately."
-    melody "Ahahahhh, haaahhhh, finally, you fucker! Nnghhh, surprised a man like you has the energy to go immediately."
+    melody "啊哈，啊哈，终于，你这个混蛋!真有趣，像你这样的人居然射的这么快。"
 
 # game/finalroute.rpy#L1057
 translate chinese cboutique_dc4f156f:
 
     # "It’s said in science that a man can go immediately if there’s another girl to copulate with, but she’s right, it is hard to go again immediately."
-    "It’s said in science that a man can go immediately if there’s another girl to copulate with, but she’s right, it is hard to go again immediately."
+    "理论上讲，一个男人刚射完后交配，他可以马上去和有别的女孩做爱。但她说的也没错，这的确很难。"
 
 # game/finalroute.rpy#L1058
 translate chinese cboutique_951a4064:
 
     # "It takes a while for my cock to harden as much as it was before my orgasm, but Melody’s tight throbbing pussy easily brings our rutting back up to speed."
-    "It takes a while for my cock to harden as much as it was before my orgasm, but Melody’s tight throbbing pussy easily brings our rutting back up to speed."
+    "我的肉棒需要一段时间才能重回我高潮前的坚挺，但好在Melody那紧而悸动的小穴简直就是我们发情的催化剂。"
 
 # game/finalroute.rpy#L1059
 translate chinese cboutique_ce76878b:
 
     # melody "Wait, Ruby, what’s happened to your eyes?"
-    melody "Wait, Ruby, what’s happened to your eyes?"
+    melody "等等，Ruby，你的眼睛怎么了?"
 
 # game/finalroute.rpy#L1060
 translate chinese cboutique_85421312:
 
     # ruby "Haahhh… Melody, follow his orders, okay?"
-    ruby "Haahhh… Melody, follow his orders, okay?"
+    ruby "哈啊啊...Melody，照他说的去做，好吗?"
 
 # game/finalroute.rpy#L1061
 translate chinese cboutique_31f529b9:
 
     # "With a quick understanding of the situation, it seems Ruby has been cured from the brainwashing."
-    "With a quick understanding of the situation, it seems Ruby has been cured from the brainwashing."
+    "她能快速理解现在的情况，这样看来Ruby已经从洗脑状态中恢复了。"
 
 # game/finalroute.rpy#L1062
 translate chinese cboutique_8beb51bc:
 
     # melody "U-Uhm, o-okay sis? Wormy boy, hurry up and cum! Something’s wrong with Rubes."
-    melody "U-Uhm, o-okay sis? Wormy boy, hurry up and cum! Something’s wrong with Rubes."
+    melody "啊，好吧，姐姐?小虫子，快点射！Ruby你好像有点不对劲呀？"
 
 # game/finalroute.rpy#L1063
 translate chinese cboutique_4bbecaff:
 
     # "I breathe a sigh of relief as Melody resumes the rutting. If she had figured out something was wrong, she might have caused some trouble; preventing me from curing her, and maybe even snitching to the Queen herself."
-    "I breathe a sigh of relief as Melody resumes the rutting. If she had figured out something was wrong, she might have caused some trouble; preventing me from curing her, and maybe even snitching to the Queen herself."
+    "我松了一口气，还好Melody继续发情了。如果她发现出了问题，她可能会造成一些麻烦;中断我对她的治疗，甚至告诉王后她所发现的情况。"
 
 # game/finalroute.rpy#L1064
 translate chinese cboutique_22a58acf:
 
     # "I pound Melody’s pussy with enough force to keep her from focusing on anything else, ideally pushing any thoughts out of her mind other than pure pleasure."
-    "I pound Melody’s pussy with enough force to keep her from focusing on anything else, ideally pushing any thoughts out of her mind other than pure pleasure."
+    "我卯足了力气冲击着梅洛迪的小穴，让她不能专注于其他事情，思想上她脑子里除了纯粹的快乐之外的啥也没有。"
 
 # game/finalroute.rpy#L1065
 translate chinese cboutique_4f6de2bb:
 
     # melody "Hahh, haah, haah, gfffhhh, yes, t-that’s it, ya horny bastard!"
-    melody "Hahh, haah, haah, gfffhhh, yes, t-that’s it, ya horny bastard!"
+    melody "哈，哈，哈，是的，就是这样，你这个饥渴的混蛋!"
 
 # game/finalroute.rpy#L1066
 translate chinese cboutique_6eb9af6c:
@@ -2708,37 +2708,37 @@ translate chinese cboutique_6eb9af6c:
 translate chinese cboutique_9cee3e47:
 
     # "With each thrust, both of the girls wiggled back and forth. Their clits still brushed against each other, the occasional moan still escaping from Ruby."
-    "With each thrust, both of the girls wiggled back and forth. Their clits still brushed against each other, the occasional moan still escaping from Ruby."
+    "每次用力，两个女孩都在前后摆动。她们的阴蒂也互相摩擦着，Ruby偶尔也会不经意间发出一两声呻吟。"
 
 # game/finalroute.rpy#L1068
 translate chinese cboutique_093721f9:
 
     # "I grit my teeth, as pleasurable as this is, it’s still extremely difficult to orgasm twice in a row. I can feel slight signs of fatigue building up in my muscles, that’s the worst-case scenario, I need to maintain my speed to reach orgasm."
-    "I grit my teeth, as pleasurable as this is, it’s still extremely difficult to orgasm twice in a row. I can feel slight signs of fatigue building up in my muscles, that’s the worst-case scenario, I need to maintain my speed to reach orgasm."
+    "我咬紧牙关，虽然这很令人愉悦，但要连续两次达到高潮还是又亿点点难度吧。该死，我感觉到我的肌肉有轻微的疲劳迹象，但我必须要保持我的速度来达到高潮。"
 
 # game/finalroute.rpy#L1070
 translate chinese cboutique_58a2807b:
 
     # ruby "Mmmphh, Melody, your order is to milk as much cum from [playername]’s cock as possible, come on!"
-    ruby "Mmmphh, Melody, your order is to milk as much cum from [playername]’s cock as possible, come on!"
+    ruby "嗯，Melody，你的命令就是尽可能多地从[playername]的肉棒里榨精，加油!"
 
 # game/finalroute.rpy#L1071
 translate chinese cboutique_ffe37ac0:
 
     # melody "Gyyaaahhh, ah-ahm trying, I can’t focus!"
-    melody "Gyyaaahhh, ah-ahm trying, I can’t focus!"
+    melody "额呀呀，我-我在努力，但我没法集中注意力呀!"
 
 # game/finalroute.rpy#L1072
 translate chinese cboutique_e3d350fb:
 
     # ruby "Don’t hold back sis, grind your hips into him a little."
-    ruby "Don’t hold back sis, grind your hips into him a little."
+    ruby "我不管，妹妹，你得再把的屁股向他靠的更近一些。"
 
 # game/finalroute.rpy#L1073
 translate chinese cboutique_a49c8e28:
 
     # melody "Y-Yeah, haah, ghh… I-I’m the one that fucks, ahh-ah, I’ll make you cum, master!"
-    melody "Y-Yeah, haah, ghh… I-I’m the one that fucks, ahh-ah, I’ll make you cum, master!"
+    melody "耶啊，哈-哈，快干我，我会让你射的舒舒服服，主人!"
 
 # game/finalroute.rpy#L1074
 translate chinese cboutique_cf5704d4:
@@ -2762,13 +2762,13 @@ translate chinese cboutique_df003469:
 translate chinese cboutique_7f08c4b3:
 
     # melody "S-shut up with that sis shit! Y-you’re putting me off!"
-    melody "S-shut up with that sis shit! Y-you’re putting me off!"
+    melody "闭-闭上你的臭嘴还有那狗屁姐姐!你-你们别对我指手画脚的!"
 
 # game/finalroute.rpy#L1078
 translate chinese cboutique_330ec891:
 
     # melody "Cum for me damnit! [playername]!"
-    melody "Cum for me damnit! [playername]!"
+    melody "快给老娘我射呀！[playername]！"
 
 # game/finalroute.rpy#L1079
 translate chinese cboutique_0dcf43f5:
@@ -2786,7 +2786,7 @@ translate chinese cboutique_9b911d06:
 translate chinese cboutique_c7073047:
 
     # melody "Yess, aaagghhh, that’s it!! Mm! Mmmm!"
-    melody "Yess, aaagghhh, that’s it!! Mm! Mmmm!"
+    melody "天哪，啊啊啊，就是这样!!射出来，射出来!嗯!嗯~！"
 
 # game/finalroute.rpy#L1090
 translate chinese cboutique_24e3050b:

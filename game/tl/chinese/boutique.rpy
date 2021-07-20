@@ -5240,19 +5240,19 @@ translate chinese melodyblowjob2_f084571c_1:
 translate chinese melodyblowjob2_e3ca3391_1:
 
     # "I’ll play along next time, just for fun."
-    "I’ll play along next time, just for fun."
+    "下次我会一起玩，不过只是为了找点趣事而已。"
 
 # game/boutique.rpy#L1534
 translate chinese melodyblowjob2_156c1e5f:
 
     # "It doesn’t take too long for Butters to come back home from whatever she may have been doing today."
-    "It doesn’t take too long for Butters to come back home from whatever she may have been doing today."
+    "不管Butters今天做了什么，她都很快就回家了。"
 
 # game/boutique.rpy#L1536
 translate chinese melodyblowjob2_2b83e8f8:
 
     # butters "Hello [playername], did you have a good day?"
-    butters "Hello [playername], did you have a good day?"
+    butters "你好， [playername]，今天过的快乐吗？"
 
 # game/boutique.rpy#L1537
 translate chinese melodyblowjob2_b2b82cde_1:
@@ -5264,13 +5264,13 @@ translate chinese melodyblowjob2_b2b82cde_1:
 translate chinese melodyblowjob2_4e23fd88:
 
     # butters "Awh please, you’ll make me jealous... I'm not used to sharing, hehe."
-    butters "Awh please, you’ll make me jealous... I'm not used to sharing, hehe."
+    butters "啊，求你了，你会让我嫉妒的。。。我不习惯分享，嘿嘿…"
 
 # game/boutique.rpy#L1540
 translate chinese melodyblowjob2_792b20dd:
 
     # "Butters having prepared a drink for herself and I, we sit down on a sofa, and relax."
-    "Butters having prepared a drink for herself and I, we sit down on a sofa, and relax."
+    "Butters已经给咱俩准备好了饮料，我坐在沙发上放松休息。"
 
 # game/boutique.rpy#L1542
 translate chinese melodyblowjob2_5f43fa91:
@@ -5294,13 +5294,13 @@ translate chinese melodyblowjob2_e8732440:
 translate chinese melodyblowjob2_3aafde62:
 
     # mc "You don’t know the half of it, Melody has this dominatrix like personality, she always teases and messes around with me."
-    mc "You don’t know the half of it, Melody has this dominatrix like personality, she always teases and messes around with me."
+    mc "你不知道这事儿的另外一半，Melody像熊孩子一样，她总是调侃我，或者是给我制造一些乱子。"
 
 # game/boutique.rpy#L1548
 translate chinese melodyblowjob2_5d1df1a6:
 
     # butters "I hope no one's treating you poorly, my succubus side will beat them up."
-    butters "I hope no one's treating you poorly, my succubus side will beat them up."
+    butters "我希望没有人会待你不周，如果有人这么干，我的魅魔形态会让他们懂得什么是热情好客。"
 
 # game/boutique.rpy#L1549
 translate chinese melodyblowjob2_ec7b64ee_1:
@@ -5318,25 +5318,25 @@ translate chinese melodyblowjob2_a0ff0853_1:
 translate chinese melodyblowjob2_8e930765:
 
     # butters "Fetish? I can’t relate to that much, but I think I understand."
-    butters "Fetish? I can’t relate to that much, but I think I understand."
+    butters "恋物癖？我跟这玩意没什么关系，但我想我应该能理解。"
 
 # game/boutique.rpy#L1552
 translate chinese melodyblowjob2_abf38b17:
 
     # butters "I'm much more into getting dominated."
-    butters "I'm much more into getting dominated."
+    butters "我更喜欢被支配。"
 
 # game/boutique.rpy#L1553
 translate chinese melodyblowjob2_ce90d09e:
 
     # mc "Well, half of the time."
-    mc "Well, half of the time."
+    mc "嗯，有一半的时间。"
 
 # game/boutique.rpy#L1555
 translate chinese melodyblowjob2_b0731615:
 
     # butters "How about we roll that dice after dinner?"
-    butters "How about we roll that dice after dinner?"
+    butters "晚饭后我们玩掷骰子怎么样？"
 
 # game/boutique.rpy#L1557
 translate chinese melodyblowjob2_a20cefa7_1:
@@ -5348,49 +5348,49 @@ translate chinese melodyblowjob2_a20cefa7_1:
 translate chinese boutiquevisit3_d03bee84:
 
     # "I’ll return to the boutique."
-    "I’ll return to the boutique."
+    "我打算回到精品店。"
 
 # game/boutique.rpy#L1564
 translate chinese boutiquevisit3_836a779f:
 
     # "Even though there’s always an aura of uncertainty about going there."
-    "Even though there’s always an aura of uncertainty about going there."
+    "尽管那儿总有一种不确定的气氛。"
 
 # game/boutique.rpy#L1565
 translate chinese boutiquevisit3_cc62876d:
 
     # "Every single day a completely different set of events can happen. It’s both exciting, and somewhat uncomforting."
-    "Every single day a completely different set of events can happen. It’s both exciting, and somewhat uncomforting."
+    "每天都会发生一堆完全不同的事情。这既令人兴奋，又有点儿惶恐。"
 
 # game/boutique.rpy#L1566
 translate chinese boutiquevisit3_d078dc2a:
 
     # "Will Melody tease me and try to jack me off?"
-    "Will Melody tease me and try to jack me off?"
+    "Melody这个小王八蛋会戏弄我，或者是把我赶走吗？"
 
 # game/boutique.rpy#L1567
 translate chinese boutiquevisit3_778d3c85:
 
     # "Will Ruby tease me and try to make me a part of her cam show?"
-    "Will Ruby tease me and try to make me a part of her cam show?"
+    "Ruby会挑逗我，让我成为她直播真人秀的一部分吗？"
 
 # game/boutique.rpy#L1568
 translate chinese boutiquevisit3_eb7c5d3d:
 
     # "The more I think about these two, the more similarities I spot than differences."
-    "The more I think about these two, the more similarities I spot than differences."
+    "我越去想这两个问题，就越发现这两个女孩的相似之处而不是差异越多。"
 
 # game/boutique.rpy#L1569
 translate chinese boutiquevisit3_b54d8008:
 
     # "Yet, they are so different. Siblings can be weird like that."
-    "Yet, they are so different. Siblings can be weird like that."
+    "然而，她们是如此不同。有时兄弟姐妹间的性格差异也会很奇怪。"
 
 # game/boutique.rpy#L1571
 translate chinese boutiquevisit3_e480f084:
 
     # "When I arrive, I see Melody at the door, just about to leave."
-    "When I arrive, I see Melody at the door, just about to leave."
+    "当我到精品店的时候，我看到Melody站在店门口正要离开。"
 
 # game/boutique.rpy#L1574
 translate chinese boutiquevisit3_fe15b04e:
@@ -5402,25 +5402,25 @@ translate chinese boutiquevisit3_fe15b04e:
 translate chinese boutiquevisit3_c50360b6:
 
     # mc "Good morning to you too, Melody."
-    mc "Good morning to you too, Melody."
+    mc "早上好，Melody。"
 
 # game/boutique.rpy#L1577
 translate chinese boutiquevisit3_3f86ef16:
 
     # melody "Y-You can’t go in today, Ruby is just going to use you for her cam show, you should come in later instead and just see me."
-    melody "Y-You can’t go in today, Ruby is just going to use you for her cam show, you should come in later instead and just see me."
+    melody "你…你今天不能进去，Ruby要和你拍“真人秀”，你应该过会儿来找我玩。"
 
 # game/boutique.rpy#L1578
 translate chinese boutiquevisit3_7e5a4b62:
 
     # mc "Are you being blatantly jealous? That’s unlike you."
-    mc "Are you being blatantly jealous? That’s unlike you."
+    mc "你这是在“明目张胆”地嫉妒我吗？这可不像你的性格。"
 
 # game/boutique.rpy#L1580
 translate chinese boutiquevisit3_5619ddf4:
 
     # melody "No, it’s not unlike me at all. You’re just awful at understanding women, dumbass."
-    melody "No, it’s not unlike me at all. You’re just awful at understanding women, dumbass."
+    melody "不，一点也不像我。你就是不懂女人，笨蛋。"
 
 # game/boutique.rpy#L1581
 translate chinese boutiquevisit3_93b2aef4:
@@ -5444,73 +5444,73 @@ translate chinese boutiquevisit3_c34688dc:
 translate chinese boutiquevisit3_3ce66b98:
 
     # melody "Do whatever you want, jerk."
-    melody "Do whatever you want, jerk."
+    melody "做你想做的事，小兔崽子。"
 
 # game/boutique.rpy#L1589
 translate chinese boutiquevisit3_021ff75d:
 
     # "She stomps off after her unreasonably childish remark."
-    "She stomps off after her unreasonably childish remark."
+    "她口吐芬芳后跺脚走开了。"
 
 # game/boutique.rpy#L1590
 translate chinese boutiquevisit3_d9ca7882:
 
     # "Seems like she only wanted me to sleep with Ruby before because she was getting something out of it."
-    "Seems like she only wanted me to sleep with Ruby before because she was getting something out of it."
+    "好像她以前只想让我和Ruby上床，因为她貌似可以从这事儿中得到些东西。"
 
 # game/boutique.rpy#L1593
 translate chinese boutiquevisit3_a2076053:
 
     # "I step into the boutique and close the door behind me, the entire room is lit up, and it’s clear that there has been a lot of busy work happening in here, which is remarkable considering it hasn’t been that long since I was last here."
-    "I step into the boutique and close the door behind me, the entire room is lit up, and it’s clear that there has been a lot of busy work happening in here, which is remarkable considering it hasn’t been that long since I was last here."
+    "我走进精品店，关上身后的门，整个房间都亮着灯，很明显，这里完成了很多复杂的工作，考虑到距离我上次拜访这里没过去多久，这是很了不起的。"
 
 # game/boutique.rpy#L1594
 translate chinese boutiquevisit3_c98e4736:
 
     # "Immediately I spot Ruby with a satisfied expression. She is sipping coffee next to a sewing machine."
-    "Immediately I spot Ruby with a satisfied expression. She is sipping coffee next to a sewing machine."
+    "我看到Ruby露出了满意的表情。她正在缝纫机旁啜饮咖啡。"
 
 # game/boutique.rpy#L1595
 translate chinese boutiquevisit3_52168a10:
 
     # mc "Hey Ruby, it’s nice to see you busy down here."
-    mc "Hey Ruby, it’s nice to see you busy down here."
+    mc "嘿，Ruby，很高兴看到你在这儿忙。"
 
 # game/boutique.rpy#L1597
 translate chinese boutiquevisit3_b4ff62a1:
 
     # ruby "Ohh darling, darling, darling!"
-    ruby "Ohh darling, darling, darling!"
+    ruby "哦，亲爱的，亲爱的，亲爱的！"
 
 # game/boutique.rpy#L1599
 translate chinese boutiquevisit3_d56d17dd:
 
     # "She bounces up from her chair and hugs me."
-    "She bounces up from her chair and hugs me."
+    "她从椅子上弹起来，紧紧抱住我。"
 
 # game/boutique.rpy#L1601
 translate chinese boutiquevisit3_4fe4f020:
 
     # ruby "I can’t thank you enough for your help, things are really looking up."
-    ruby "I can’t thank you enough for your help, things are really looking up."
+    ruby "对你的帮助我真的感激不尽，现在一切都在逐渐变好。"
 
 # game/boutique.rpy#L1602
 translate chinese boutiquevisit3_f5f84e02:
 
     # mc "Awh please, I barely did anything, it was all you."
-    mc "Awh please, I barely did anything, it was all you."
+    mc "拜托，我什么都没做，这都是你的功劳。"
 
 # game/boutique.rpy#L1603
 translate chinese boutiquevisit3_fe9fa632:
 
     # "What’s with this girl, her personality is completely different every time I arrive."
-    "What’s with this girl, her personality is completely different every time I arrive."
+    "这个女孩怎么了？每次我来的时候她的性格都完全不同。"
 
 # game/boutique.rpy#L1605
 translate chinese boutiquevisit3_8cf85e39:
 
     # ruby "Aha, apologies dear, I’m a little wired on caffeine."
-    ruby "Aha, apologies dear, I’m a little wired on caffeine."
+    ruby "啊哈，抱歉亲爱的，我咖啡喝的有点上头了。"
 
 # game/boutique.rpy#L1607
 translate chinese boutiquevisit3_28fd0b98:
@@ -5522,37 +5522,37 @@ translate chinese boutiquevisit3_28fd0b98:
 translate chinese boutiquevisit3_cea1cebf:
 
     # mc "That's wonderful, think I can buy something?"
-    mc "That's wonderful, think I can buy something?"
+    mc "这真是极好的，我想我可以买一些东西？"
 
 # game/boutique.rpy#L1610
 translate chinese boutiquevisit3_67b49aca:
 
     # "I need to get a 'slave' outfit for Riku's truth or dare punishment."
-    "I need to get a 'slave' outfit for Riku's truth or dare punishment."
+    "我要买一件“奴隶”的衣服来证明Riku所说事情的真实性，否则我就要受到惩罚。"
 
 # game/boutique.rpy#L1612
 translate chinese boutiquevisit3_44f6b0ce:
 
     # ruby "Oh? Of course darling! What would you like?"
-    ruby "Oh? Of course darling! What would you like?"
+    ruby "哦？当然可以亲爱的！你想要什么样的衣服？"
 
 # game/boutique.rpy#L1613
 translate chinese boutiquevisit3_3ac8445f:
 
     # mc "I'm looking for a maid dress."
-    mc "I'm looking for a maid dress."
+    mc "我想要件女仆裙。"
 
 # game/boutique.rpy#L1615
 translate chinese boutiquevisit3_5c4ff678:
 
     # ruby "Ooo, a maid dress? I wonder who for! *Giggle* Hmm, Melody had a maid dress for halloween once, ah, here it is."
-    ruby "Ooo, a maid dress? I wonder who for! *Giggle* Hmm, Melody had a maid dress for halloween once, ah, here it is."
+    ruby "哦，女仆裙？我知道是给谁的了！*咯咯笑*嗯，Melody有一件万圣节的女仆礼服，喏，给你。"
 
 # game/boutique.rpy#L1616
 translate chinese boutiquevisit3_37844fab:
 
     # "She walks over to a rack and takes one out to show me, it's perfect."
-    "She walks over to a rack and takes one out to show me, it's perfect."
+    "她走到一个衣架前，拿着那件衣服给我看，这衣服简直太完美了。"
 
 # game/boutique.rpy#L1618
 translate chinese boutiquevisit3_454d2d18:
@@ -5564,13 +5564,13 @@ translate chinese boutiquevisit3_454d2d18:
 translate chinese boutiquevisit3_bf868f11:
 
     # mc "Yeah that's perfect, how much is it?"
-    mc "Yeah that's perfect, how much is it?"
+    mc "是的这非常完美，多少钱？"
 
 # game/boutique.rpy#L1621
 translate chinese boutiquevisit3_a60fc6e8:
 
     # ruby "Second hand? 50 monies should cover it."
-    ruby "Second hand? 50 monies should cover it."
+    ruby "这件二手衣服？50块钱就可以拿走了。"
 
 # game/boutique.rpy#L1626
 translate chinese rubymaidmenu3_105f5958:
@@ -5588,73 +5588,73 @@ translate chinese rubymaidmenu3_97a22c68:
 translate chinese rubymaidmenu3_a79e984d:
 
     # mc "By the way, can you leave the dress here?"
-    mc "By the way, can you leave the dress here?"
+    mc "顺带一提，你能把这件衣服暂时留在这儿吗？"
 
 # game/boutique.rpy#L1631
 translate chinese rubymaidmenu3_62cccc3e:
 
     # ruby "Here? Do you want to pick it up at a later time?"
-    ruby "Here? Do you want to pick it up at a later time?"
+    ruby "放在这儿？你想晚点来拿？"
 
 # game/boutique.rpy#L1632
 translate chinese rubymaidmenu3_b7d2a020:
 
     # mc "Yes, you'll see."
-    mc "Yes, you'll see."
+    mc "是的，你会看到的。"
 
 # game/boutique.rpy#L1634
 translate chinese rubymaidmenu3_f2c158ed:
 
     # ruby "Okay darling, maybe you can earn some money to put towards the dress."
-    ruby "Okay darling, maybe you can earn some money to put towards the dress."
+    ruby "好吧亲爱的，想买这衣服的话你得要多赚点钱。"
 
 # game/boutique.rpy#L1635
 translate chinese rubymaidmenu3_d7c3cf34:
 
     # mc "Anyway, what have you been working on? You seem exhausted."
-    mc "Anyway, what have you been working on? You seem exhausted."
+    mc "不管怎么说，你最近都在忙什么？你看起来很疲惫的亚子。"
 
 # game/boutique.rpy#L1637
 translate chinese rubymaidmenu3_dccd8f26:
 
     # mc "That’s wonderful, got anything in particular that you’re working on?"
-    mc "That’s wonderful, got anything in particular that you’re working on?"
+    mc "太好了，你有什么特别的工作吗？"
 
 # game/boutique.rpy#L1639
 translate chinese rubymaidmenu3_0ef6c8ce:
 
     # ruby "Mhm, I’ve been up all night, and some of the morning to finish a wedding dress design."
-    ruby "Mhm, I’ve been up all night, and some of the morning to finish a wedding dress design."
+    ruby "嗯…我整晚都在干活，早上还要进行一件婚纱的设计工作。"
 
 # game/boutique.rpy#L1641
 translate chinese rubymaidmenu3_ce143570:
 
     # ruby "I finally finished it and sent the design to my contacts this morning. I’m most nervous, I hope it gets accepted."
-    ruby "I finally finished it and sent the design to my contacts this morning. I’m most nervous, I hope it gets accepted."
+    ruby "今天早上，我终于完成了设计，把成稿发给了我的客户。我很紧张，希望它能被客户采纳。"
 
 # game/boutique.rpy#L1642
 translate chinese rubymaidmenu3_bab93ddf:
 
     # mc "What will happen then?"
-    mc "What will happen then?"
+    mc "接下来会发生什么事？"
 
 # game/boutique.rpy#L1643
 translate chinese rubymaidmenu3_9a969339:
 
     # ruby "If they like the design, they’ll produce and sell it."
-    ruby "If they like the design, they’ll produce and sell it."
+    ruby "如果他们喜欢我的设计，他们就会开始批量生产并销售。"
 
 # game/boutique.rpy#L1644
 translate chinese rubymaidmenu3_936fa1d2:
 
     # ruby "It’ll earn me quite a lot of residues if it’s successful."
-    ruby "It’ll earn me quite a lot of residues if it’s successful."
+    ruby "一切顺利的话，我会赚很多钱的。"
 
 # game/boutique.rpy#L1646
 translate chinese rubymaidmenu3_f8327ae5:
 
     # ruby "A few hits like that means I’d be able to design full time again instead of doing cam shows."
-    ruby "A few hits like that means I’d be able to design full time again instead of doing cam shows."
+    ruby "只要再来几次这样的成功，我就可以做全职的服装设计师，而不是还要做“真人秀”来补贴家用。"
 
 # game/boutique.rpy#L1648
 translate chinese rubymaidmenu3_31f8d3b9:
