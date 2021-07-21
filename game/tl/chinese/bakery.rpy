@@ -2774,7 +2774,7 @@ translate chinese creamvmissionary_27dfa6ed:
 translate chinese creamvmissionary_012ad45f:
 
     # "I open up the door and it's ol' reliable, a girl that'll definitely keep me company, even if the party is overwhelming."
-    "I open up the door and it's ol' reliable, a girl that'll definitely keep me company, even if the party is overwhelming."
+    "我打开门，那是一个很可靠的女孩，她肯定会和我在一起，即使派对很热闹。"
 
 # game/bakery.rpy#L844
 translate chinese creamvmissionary_c8259711:
@@ -3134,25 +3134,25 @@ translate chinese creamvmissionary_f0f67ab3:
 translate chinese creamvmissionary_552f7f5b:
 
     # "Her pussy's comfortable tightness squeezes and massages my shaft as I give myself over Honey's dominant riding."
-    "Her pussy's comfortable tightness squeezes and massages my shaft as I give myself over Honey's dominant riding."
+    "她那舒适且紧绷的小穴挤压着，按摩着我的肉棒，就像我在Honey的主骑乘位下一样。"
 
 # game/bakery.rpy#L981
 translate chinese creamvmissionary_9a3c958b:
 
     # "Her insides squeeze around my throbbing shaft sending waves of pleasure throughout me, especially as she begins to move her hips up and down."
-    "Her insides squeeze around my throbbing shaft sending waves of pleasure throughout me, especially as she begins to move her hips up and down."
+    "她的小穴紧紧包裹着我那抽插着的肉棒且传递着快感，尤其是当她开始上下移动臀部的时候。"
 
 # game/bakery.rpy#L984
 translate chinese creamvmissionary_9af13131:
 
     # "It's almost like she's purposely contracting her muscles to tighten and squeeze around my cock."
-    "It's almost like she's purposely contracting her muscles to tighten and squeeze around my cock."
+    "就好像她故意收缩她的肌肉来包围压缩我的肉棒。"
 
 # game/bakery.rpy#L986
 translate chinese creamvmissionary_1301b880:
 
     # "Her muscular body provides a distinct internal tightness that no mare I've been with has been able to replicate."
-    "Her muscular body provides a distinct internal tightness that no mare I've been with has been able to replicate."
+    "她肌肉发达的身体提供了一种独特的小穴紧绷感，这是我所见过的任何一位雌驹都无法模仿的。"
 
 # game/bakery.rpy#L989
 translate chinese creamvmissionary_0a462e6e:

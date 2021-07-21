@@ -2618,7 +2618,7 @@ translate chinese cboutique_aa9b74fc:
 translate chinese cboutique_e85a9cc7:
 
     # melody "The hell?! Did you really just say that? Is that what’s getting you off? That’s disgustin- mmmgghhh?!"
-    melody "The hell?! Did you really just say that? Is that what’s getting you off? That’s disgustin- mmmgghhh?!"
+    melody "我靠？！你真的这么说了吗？这就是让你生气的原因吗？真是太恶心了-呕？！"
 
 # game/finalroute.rpy#L1053
 translate chinese cboutique_6150b4be:
@@ -2744,7 +2744,7 @@ translate chinese cboutique_a49c8e28:
 translate chinese cboutique_cf5704d4:
 
     # "Melody’s ass starts bouncing up and down almost immediately with vigour and energy, matching the pure intensity of my own thrusts and rocking the entire table."
-    "Melody’s ass starts bouncing up and down almost immediately with vigour and energy, matching the pure intensity of my own thrusts and rocking the entire table."
+    "与我操她的强度旗鼓相当，Melody的屁股也开始充满活力和力量地上下移动，咱们俩的动作让整个桌子都摇晃起来。"
 
 # game/finalroute.rpy#L1075
 translate chinese cboutique_e399c10d:
@@ -2756,7 +2756,7 @@ translate chinese cboutique_e399c10d:
 translate chinese cboutique_df003469:
 
     # ruby "Kyaaahh, y-you’re gonna make me come first, mmphh, mmm, s-sis!"
-    ruby "Kyaaahh, y-you’re gonna make me come first, mmphh, mmm, s-sis!"
+    ruby "咳啊啊，你-你把我先弄高潮了，嗯，嗯，妹-妹!"
 
 # game/finalroute.rpy#L1077
 translate chinese cboutique_7f08c4b3:
@@ -2774,13 +2774,13 @@ translate chinese cboutique_330ec891:
 translate chinese cboutique_0dcf43f5:
 
     # "Pounding my dick against her ass, that familiar feeling of climax finally began to rise."
-    "Pounding my dick against her ass, that familiar feeling of climax finally began to rise."
+    "随着我不断地冲击她的屁股，射精的感觉越发强烈"
 
 # game/finalroute.rpy#L1084
 translate chinese cboutique_9b911d06:
 
     # "My throbbing cock began pumping seed deep into Melody’s pussy and womb. The feeling of my hot cum seeping inside resulted in her own reactionary orgasm."
-    "My throbbing cock began pumping seed deep into Melody’s pussy and womb. The feeling of my hot cum seeping inside resulted in her own reactionary orgasm."
+    "我那悸动的肉棒开始往Melody的小穴和子宫里播撒种子。滚烫的精液渗入她体内激起了她的高潮。"
 
 # game/finalroute.rpy#L1089
 translate chinese cboutique_c7073047:
@@ -2792,7 +2792,7 @@ translate chinese cboutique_c7073047:
 translate chinese cboutique_24e3050b:
 
     # ruby "Ahh, f-fuck, y-you made me come too- aa-ah and I’m not even brainwashed! Uhahh…"
-    ruby "Ahh, f-fuck, y-you made me come too- aa-ah and I’m not even brainwashed! Uhahh…"
+    ruby "啊，操-操，你怎么让我也高潮了-啊-啊，我甚至都没有被洗脑呢!唔啊啊……"
 
 # game/finalroute.rpy#L1091
 translate chinese cboutique_9c4dd0ad:
@@ -2822,7 +2822,7 @@ translate chinese cboutique_bf7db44c:
 translate chinese cboutique_c5e7568e:
 
     # ruby "Uhm, Mel?"
-    ruby "Uhm, Mel?"
+    ruby "呃，你还好吗，我的小Melody？"
 
 # game/finalroute.rpy#L1106
 translate chinese cboutique_5f8e1fe4:

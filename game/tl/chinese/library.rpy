@@ -9152,91 +9152,91 @@ translate chinese lilylegsupmissionary_88bfc9d3:
 translate chinese lilylegsupmissionary_d81a7596:
 
     # aurora "Oh, and I placed a spell on you so you will be unable to tell them about the mirrors. Those are top secret! But feel free to mention the parallel universe."
-    aurora "Oh, and I placed a spell on you so you will be unable to tell them about the mirrors. Those are top secret! But feel free to mention the parallel universe."
+    aurora "对了，我给你施个咒语，这样你就不能告诉他们关于镜子的事了。那些是最高机密!但你可以跟她们随便说说关于平行宇宙的事。"
 
 # game/library.rpy#L2582
 translate chinese lilylegsupmissionary_f9947c14:
 
     # "Aurora escorts me back to the hall and stays with Lily, as Moxie and I are led by a guard to Selene's living chambers."
-    "Aurora escorts me back to the hall and stays with Lily, as Moxie and I are led by a guard to Selene's living chambers."
+    "Aurora护送我回到大厅后，和Lily待在一起，而我则和Moxie由一个守卫带着去了Selene的卧室。"
 
 # game/library.rpy#L2585
 translate chinese lilylegsupmissionary_ba770457:
 
     # "On the way I briefly explain why we’re visiting Selene. Moxie seems absolutely ecstatic to meet her hero."
-    "On the way I briefly explain why we’re visiting Selene. Moxie seems absolutely ecstatic to meet her hero."
+    "在路上，我简单地向Moxie解释了一下我们为什么要去拜访Selene。Moxie因为马上就要见到她的偶像而感到欣喜若狂。"
 
 # game/library.rpy#L2588
 translate chinese lilylegsupmissionary_ce0436ed:
 
     # "When we arrive at the living chambers the guards let us in and close the door behind us."
-    "When we arrive at the living chambers the guards let us in and close the door behind us."
+    "当我们到达起居室时，卫兵让我们进去，并关上了我们身后的大门。"
 
 # game/library.rpy#L2589
 translate chinese lilylegsupmissionary_c17aff2e:
 
     # moxie "Where do we go now?"
-    moxie "Where do we go now?"
+    moxie "现在我们该去哪里?"
 
 # game/library.rpy#L2590
 translate chinese lilylegsupmissionary_2b17eebe:
 
     # mc "I dunno... I guess even the guards aren't allowed in the living quarters."
-    mc "I dunno... I guess even the guards aren't allowed in the living quarters."
+    mc "我不知道……我猜平时连卫兵都不允许来这。"
 
 # game/library.rpy#L2591
 translate chinese lilylegsupmissionary_b0ce7fd6:
 
     # moxie "The Queen must trust us a lot..."
-    moxie "The Queen must trust us a lot..."
+    moxie "那女王一定很信任我们……"
 
 # game/library.rpy#L2592
 translate chinese lilylegsupmissionary_465c77a4:
 
     # unknown "You two, come to this room."
-    unknown "You two, come to this room."
+    unknown "你们两个，请到这个房间来。"
 
 # game/library.rpy#L2593
 translate chinese lilylegsupmissionary_04849d17:
 
     # "The two of us hear a friendly voice cordially invite us into a softly lit bedroom."
-    "The two of us hear a friendly voice cordially invite us into a softly lit bedroom."
+    "我俩听到了一声和蔼地招呼，亲切地邀请我们进入一间光线柔和的卧室。"
 
 # game/library.rpy#L2596
 translate chinese lilylegsupmissionary_7003e93d:
 
     # "Selene lazily slips out of her massive bed, rubbing some sleep from her eye."
-    "Selene lazily slips out of her massive bed, rubbing some sleep from her eye."
+    "Selene懒洋洋地从她那张大床上滑下来，揉了揉带有一丝困惫的眼睛。"
 
 # game/library.rpy#L2604
 translate chinese lilylegsupmissionary_0aec702b:
 
     # moxie "Oh my gosh, Princess Selene, I am so honored."
-    moxie "Oh my gosh, Princess Selene, I am so honored."
+    moxie "OMG，是Selene公主，我太荣幸了。"
 
 # game/library.rpy#L2606
 translate chinese lilylegsupmissionary_da63c9c5:
 
     # selene "Hello, are you two the troublemakers that are keeping me up?"
-    selene "Hello, are you two the troublemakers that are keeping me up?"
+    selene "你好，所以你们俩位就是让我睡不安心的麻烦制造者吗?"
 
 # game/library.rpy#L2607
 translate chinese lilylegsupmissionary_d70fae5d:
 
     # mc "Afraid so, but we won’t keep you long."
-    mc "Afraid so, but we won’t keep you long."
+    mc "恐怕是这样的，但我们不会耽误你太久。"
 
 # game/library.rpy#L2608
 translate chinese lilylegsupmissionary_839763d3:
 
     # mc "Oh, by the way, why are we in your bedroom?"
-    mc "Oh, by the way, why are we in your bedroom?"
+    mc "哦，对了，请问我们为什么是在你的卧室？"
 
 # game/library.rpy#L2610
 translate chinese lilylegsupmissionary_a0652f45:
 
     # selene "That’s because I’m planning on sleeping as soon as you leave. Just trimming the fat of the situation, don’t worry about it."
-    selene "That’s because I’m planning on sleeping as soon as you leave. Just trimming the fat of the situation, don’t worry about it."
+    selene "那是因为你们一走我就打算接着睡美容觉。只是本宫保持身材懒得多动，别担心。"
 
 # game/library.rpy#L2612
 translate chinese lilylegsupmissionary_da80486f:
@@ -9248,7 +9248,7 @@ translate chinese lilylegsupmissionary_da80486f:
 translate chinese lilylegsupmissionary_895275f6:
 
     # selene "I appreciate that."
-    selene "I appreciate that."
+    selene "我很欣赏这一点。"
 
 # game/library.rpy#L2616
 translate chinese lilylegsupmissionary_e584e772:

@@ -1556,7 +1556,7 @@ translate chinese musicstudiomenub_145ffe6a:
 translate chinese musicstudiomenub_ce60637a:
 
     # melody "For every success there's a dozen or so that are just as good, but didn't have the skills required to succeed. And often, a lot of those skills have very little to do with the product on offer."
-    melody "For every success there's a dozen or so that are just as good, but didn't have the skills required to succeed. And often, a lot of those skills have very little to do with the product on offer."
+    melody "每一次成功都会有十来个同样优秀的人，但他们没有成功所需的技能。通常来说，这些技能中的许多与所提供的产品关系并不大。"
 
 # game/city.rpy#L535
 translate chinese musicstudiomenub_73109823:
@@ -1742,7 +1742,7 @@ translate chinese musicstudiomenub_41870e04:
 translate chinese musicstudiomenub_a38b279b:
 
     # "Desiring to make the most of this, I start to pump into her soaking cunt with reckless abandon."
-    "Desiring to make the most of this, I start to pump into her soaking cunt with reckless abandon."
+    "为了充分利用这一点，我开始在她湿漉漉的小穴里抽插。"
 
 # game/city.rpy#L592
 translate chinese musicstudiomenub_1d51a024:
@@ -1754,7 +1754,7 @@ translate chinese musicstudiomenub_1d51a024:
 translate chinese musicstudiomenub_b7e92999:
 
     # mc "Shh, Claire will hear you."
-    mc "Shh, Claire will hear you."
+    mc "嘘，Claire会听到的。"
 
 # game/city.rpy#L595
 translate chinese musicstudiomenub_0db3595c:
@@ -1766,277 +1766,277 @@ translate chinese musicstudiomenub_0db3595c:
 translate chinese musicstudiomenub_686c18dd:
 
     # "Occasionally she takes her spare hand and moves it between groping her cute breasts and her clit, rubbing to enhance her pleasure."
-    "Occasionally she takes her spare hand and moves it between groping her cute breasts and her clit, rubbing to enhance her pleasure."
+    "偶尔，她会用她的另一只手抚摸她可爱的乳房和阴蒂，摩擦以增加她的快感。"
 
 # game/city.rpy#L598
 translate chinese musicstudiomenub_61038555:
 
     # "As I thrust, I can feel her pussy tingle and drool with need. It's even wetter than usual as it occasionally gushes fluids, especially when she rubs her clit."
-    "As I thrust, I can feel her pussy tingle and drool with need. It's even wetter than usual as it occasionally gushes fluids, especially when she rubs her clit."
+    "当我用力抽插的时候，我能感觉到她小穴的震颤和出水。甚至比平时更湿，因为它偶尔会喷出许多淫水，特别是当她摩擦阴蒂的时候。"
 
 # game/city.rpy#L600
 translate chinese musicstudiomenub_f9511cbc:
 
     # melody "F-fuck, your cock makes me squirt, haahh... Mmmhh, mmh!"
-    melody "F-fuck, your cock makes me squirt, haahh... Mmmhh, mmh!"
+    melody "啊...操，你的肉棒让我喷水，啊哈……嗯啊，嗯！"
 
 # game/city.rpy#L601
 translate chinese musicstudiomenub_490afae3:
 
     # "Her vagina begins to clench even harder around my throbbing cock as her mare pussy begs to be filled up by my semen."
-    "Her vagina begins to clench even harder around my throbbing cock as her mare pussy begs to be filled up by my semen."
+    "当她的雌驹小穴恳求被我的精液填满时，她的小穴开始更加厉害的紧咬住我抽插中的肉棒。"
 
 # game/city.rpy#L602
 translate chinese musicstudiomenub_0fad396d:
 
     # melody "C-Coming! Mmphh, mmmmphh... *Squelch, squish!* *Squirt!*"
-    melody "C-Coming! Mmphh, mmmmphh... *Squelch, squish!* *Squirt!*"
+    melody "要~要去了！嗯~嗯~~~ *啪唧,啪唧 !* *扑哧!*"
 
 # game/city.rpy#L603
 translate chinese musicstudiomenub_ff4bfc2c:
 
     # "I bite my lip as I try to hold back my own orgasm to savour this amazing pleasure for as long as I can."
-    "I bite my lip as I try to hold back my own orgasm to savour this amazing pleasure for as long as I can."
+    "我咬着嘴唇，尽量克制自己的性高潮，尽可能长时间地享受这种惊人的快乐。"
 
 # game/city.rpy#L604
 translate chinese musicstudiomenub_525bb82f:
 
     # melody "C-Cum for me, [playername]!"
-    melody "C-Cum for me, [playername]!"
+    melody "射~射在里面，[playername]！"
 
 # game/city.rpy#L605
 translate chinese musicstudiomenub_dc119958:
 
     # "However, Melody's moans and sweet talking tips me over the edge and I begin to orgasm."
-    "However, Melody's moans and sweet talking tips me over the edge and I begin to orgasm."
+    "无论如何，Melody的呻吟和甜言蜜语把我推向了高潮。"
 
 # game/city.rpy#L612
 translate chinese musicstudiomenub_b8eff837:
 
     # "I begin to release my load deep inside of her soppy pussy, pumping several jets of cum into her hungry womb."
-    "I begin to release my load deep inside of her soppy pussy, pumping several jets of cum into her hungry womb."
+    "我开始把我的精液射进她那情意缠绵的小穴，向她饥饿的子宫里不断地输出。"
 
 # game/city.rpy#L619
 translate chinese musicstudiomenub_d4fb9e27:
 
     # "Her strong legs lock around my waist and pull me in deeper as her pussy continues to gush."
-    "Her strong legs lock around my waist and pull me in deeper as her pussy continues to gush."
+    "她强壮的双腿紧紧地搂住我的腰，把我拉得更深，因为她的小穴还在不断涌出淫水。"
 
 # game/city.rpy#L622
 translate chinese musicstudiomenub_5196fc5c:
 
     # "Eventually my climax dries up and her legs let me go, allowing me to pull my cock out and watch the cum dribble out."
-    "Eventually my climax dries up and her legs let me go, allowing me to pull my cock out and watch the cum dribble out."
+    "最终我的高潮停了下来，她的腿放我走了，允许我把我的肉棒拔出来，然后看着我的精液流出来。"
 
 # game/city.rpy#L624
 translate chinese musicstudiomenub_1c566600:
 
     # melody "Mmphh... What a messy fuck. I can always rely on you, eh?"
-    melody "Mmphh... What a messy fuck. I can always rely on you, eh?"
+    melody "嗯.......真是一团糟。我可以一直依靠你吧，嗯？"
 
 # game/city.rpy#L626
 translate chinese musicstudiomenub_bd3692d2:
 
     # melody "Phew, alright. Let's go back."
-    melody "Phew, alright. Let's go back."
+    melody "呸，好吧。我们回去吧。"
 
 # game/city.rpy#L629
 translate chinese musicstudiomenub_39a5e265:
 
     # claire "Ahh. Come with me for a second, [playername]."
-    claire "Ahh. Come with me for a second, [playername]."
+    claire "啊。跟我来一下，[playername]"
 
 # game/city.rpy#L632
 translate chinese musicstudiomenub_c6f96490:
 
     # "Melody knowingly looks on as Claire and I leave the room."
-    "Melody knowingly looks on as Claire and I leave the room."
+    "我和Claire离开房间时，Melody故意看着我。"
 
 # game/city.rpy#L640
 translate chinese clairesex_54d4553b:
 
     # "Softly laying me down with a familiar delicacy, she straddles my waist and gives me an immediate view of her incredibly sexy rear."
-    "Softly laying me down with a familiar delicacy, she straddles my waist and gives me an immediate view of her incredibly sexy rear."
+    "她以一种熟悉的柔美温柔地躺在我边上，跨在我的腰上，让我立即看到她那令人难以置信的性感的屁股。"
 
 # game/city.rpy#L641
 translate chinese clairesex_15318df9:
 
     # claire "Mmm, do you like my pussy? It's very wet for you."
-    claire "Mmm, do you like my pussy? It's very wet for you."
+    claire "嗯，你喜欢我的小穴吗？为了你，它变得很湿。"
 
 # game/city.rpy#L642
 translate chinese clairesex_6309fbd1:
 
     # "Claire is really horny and eager for some fun. I know this isn't our first time having sex, but I do wonder in the back of my mind why she wants it so much."
-    "Claire is really horny and eager for some fun. I know this isn't our first time having sex, but I do wonder in the back of my mind why she wants it so much."
+    "Claire真是性欲旺盛，渴望找点乐子。我知道这不是我们第一次做爱，但我真的很想知道她为什么这么想要。"
 
 # game/city.rpy#L643
 translate chinese clairesex_5e41159f:
 
     # "Well, it's not my place to think about that. I'll take responsibility for spoiling her werewolf form by coddling her pony form."
-    "Well, it's not my place to think about that. I'll take responsibility for spoiling her werewolf form by coddling her pony form."
+    "好吧，这不是我该考虑的。我应该为了毁掉她的狼人形态负责而宠爱她的小马形态。"
 
 # game/city.rpy#L646
 translate chinese clairesex_3787674a:
 
     # "Before I can finish my thought Claire takes my cock in her soft furry grip, aligns it with her moist pussy and sinks down onto it."
-    "Before I can finish my thought Claire takes my cock in her soft furry grip, aligns it with her moist pussy and sinks down onto it."
+    "我还没来得及想完，Claire就把我的肉棒放在她柔软的毛茸茸的手上，和她潮湿的小穴对齐，然后坐到它身上。"
 
 # game/city.rpy#L647
 translate chinese clairesex_4e8450c7:
 
     # claire "Ahhh, ahh... That's it! Ahhh, so good..."
-    claire "Ahhh, ahh... That's it! Ahhh, so good..."
+    claire "啊，啊.......就这样！啊，太好了............."
 
 # game/city.rpy#L648
 translate chinese clairesex_e0fe874b:
 
     # mc "Ohhh, you're so wet!"
-    mc "Ohhh, you're so wet!"
+    mc "哦，你太湿了！"
 
 # game/city.rpy#L649
 translate chinese clairesex_71ceacfd:
 
     # claire "Mhhmm, especially when you walked in, cutie."
-    claire "Mhhmm, especially when you walked in, cutie."
+    claire "嗯姆~，尤其是你进来的时候，小可爱。"
 
 # game/city.rpy#L651
 translate chinese clairesex_7e2bfa54:
 
     # "*Squish, squish*"
-    "*Squish, squish*"
+    "*啪唧，啪唧*"
 
 # game/city.rpy#L652
 translate chinese clairesex_f0e682ab:
 
     # "She raises her hips once more, before slowly bringing her ass down once again. Slowly, she savours each movement."
-    "She raises her hips once more, before slowly bringing her ass down once again. Slowly, she savours each movement."
+    "她再次抬起臀部，然后又慢慢地把屁股放下来。慢慢地，她品味着每一个动作。"
 
 # game/city.rpy#L653
 translate chinese clairesex_51976887:
 
     # "Her insides mold around my cock, squeezing tightly around my shaft as we make love. Her nether lips particularly gripping tightly with each movement upwards."
-    "Her insides mold around my cock, squeezing tightly around my shaft as we make love. Her nether lips particularly gripping tightly with each movement upwards."
+    "在我们做爱时，她的阴道紧紧地包裹并挤压着我的肉棒。每当我向上插的时候，她的阴唇就会紧紧地包住我的的肉棒。"
 
 # game/city.rpy#L654
 translate chinese clairesex_c767469f:
 
     # claire "Ahhh, mmmmphh... Feels so good, mmmhh..."
-    claire "Ahhh, mmmmphh... Feels so good, mmmhh..."
+    claire "啊……嗯……太舒服了，嗯……"
 
 # game/city.rpy#L655
 translate chinese clairesex_9f87734a:
 
     # claire "I wanna do it a bit rough, and primal!"
-    claire "I wanna do it a bit rough, and primal!"
+    claire "我想做的有点粗糙，原始！"
 
 # game/city.rpy#L656
 translate chinese clairesex_ed97382a:
 
     # "She begins to speed up her movements. An increasing amount of moans escape her lips as her sensual movements fill us both up with pleasure."
-    "She begins to speed up her movements. An increasing amount of moans escape her lips as her sensual movements fill us both up with pleasure."
+    "她开始加快动作。越来越多的呻吟声从她的嘴唇中消失，因为她的感官动作让我们都充满了快乐。"
 
 # game/city.rpy#L657
 translate chinese clairesex_b392ed91:
 
     # "While not as skilled as her sister, her lustful enthusiasm arguably makes up for it. Her eager moans and movements serve to arouse me greatly."
-    "While not as skilled as her sister, her lustful enthusiasm arguably makes up for it. Her eager moans and movements serve to arouse me greatly."
+    "虽然不如她姐姐熟练，但她那淫荡的热情可以说弥补了这一点。她急切的呻吟和动作使我大为激动。"
 
 # game/city.rpy#L658
 translate chinese clairesex_4387278d:
 
     # claire "I kinda miss being a werewolf; the sex was amazing!"
-    claire "I kinda miss being a werewolf; the sex was amazing!"
+    claire "我开始有点怀念狼人的生活了；性爱太棒了！"
 
 # game/city.rpy#L659
 translate chinese clairesex_bfafd3aa:
 
     # "Rather than laying back and taking it, I decide to return some of Claire's thrusts with my own passion filled ones."
-    "Rather than laying back and taking it, I decide to return some of Claire's thrusts with my own passion filled ones."
+    "我决定用我自己充满的激情来回报克莱尔的一些努力，而不是袖手旁观。"
 
 # game/city.rpy#L660
 translate chinese clairesex_48155129:
 
     # claire "Ohh, f-fuck! Ahh, ahhh, aaaahhhh! That's it, keep going! Aaahhh!"
-    claire "Ohh, f-fuck! Ahh, ahhh, aaaahhhh! That's it, keep going! Aaahhh!"
+    claire "哦，操……！啊，啊……！我快要……啊……！"
 
 # game/city.rpy#L661
 translate chinese clairesex_9a7e5bd4:
 
     # "The two of us move in unison as the rutting intensifies and her moans grow louder, only further enticing me and my fervent fucking."
-    "The two of us move in unison as the rutting intensifies and her moans grow louder, only further enticing me and my fervent fucking."
+    "随着活塞运动的加剧，她的呻吟声越来越大，我们两个齐心协力，越来越激发出我的热情。"
 
 # game/city.rpy#L662
 translate chinese clairesex_7cc1ae25:
 
     # claire "Ahhh mmmhh, fuck me harder, [playername]! Ahhh, ahh!"
-    claire "Ahhh mmmhh, fuck me harder, [playername]! Ahhh, ahh!"
+    claire "啊，嗯……，[playername]，使劲操我吧！啊，啊！"
 
 # game/city.rpy#L663
 translate chinese clairesex_646af169:
 
     # "My lover soon begins to orgasm, causing her pussy to contract rhythmically around my cock, further enhancing the pleasure."
-    "My lover soon begins to orgasm, causing her pussy to contract rhythmically around my cock, further enhancing the pleasure."
+    "我的爱人很快开始高潮，她的鲍鱼在我的鸡巴周围有节奏地收缩，进一步增强了快感。"
 
 # game/city.rpy#L664
 translate chinese clairesex_3d76458c:
 
     # "Soon after her own, I feel my climax begin to rise. I rapidly thrust my cock into her pussy as I push myself over the edge."
-    "Soon after her own, I feel my climax begin to rise. I rapidly thrust my cock into her pussy as I push myself over the edge."
+    "在她达到高潮后，我感觉自己也要高潮了。所以，我又迅速将肉棒插进了她的阴道。"
 
 # game/city.rpy#L669
 translate chinese clairesex_9ee25505:
 
     # "My orgasm is soon unleashed as my cock explodes into Claire, her pussy taking in each and every drop of my thick cum."
-    "My orgasm is soon unleashed as my cock explodes into Claire, her pussy taking in each and every drop of my thick cum."
+    "当我将肉棒插进Claire的阴道时，我高潮了。浓稠的精液射满了她的阴道。"
 
 # game/city.rpy#L674
 translate chinese clairesex_90e3be27:
 
     # "She finishes me off not as the innocent music teacher I once knew, but as a lustful mare trying to drain my cock of all the pleasure she can."
-    "She finishes me off not as the innocent music teacher I once knew, but as a lustful mare trying to drain my cock of all the pleasure she can."
+    "她不把我当作曾经认识的无辜音乐老师，但作为一匹好色的母马，她正试图榨干我的肉棒所有的精液。"
 
 # game/city.rpy#L675
 translate chinese clairesex_4c4a2aba:
 
     # claire "Yesss, yess! Aahhh, ahh! *Squish, squelch!*"
-    claire "Yesss, yess! Aahhh, ahh! *Squish, squelch!*"
+    claire "嗯，没错！啊，啊！*啪唧，扑哧！*"
 
 # game/city.rpy#L678
 translate chinese clairesex_ab61b9e7:
 
     # "Cum oozes from our point of connection as she comes to a stop."
-    "Cum oozes from our point of connection as she comes to a stop."
+    "当她停止了扭动，站起身时，精液便从她的阴道口流了出来。"
 
 # game/city.rpy#L679
 translate chinese clairesex_c36af8d8:
 
     # claire "Haahh... Phew... I'm glad I got to go all out with you..."
-    claire "Haahh... Phew... I'm glad I got to go all out with you..."
+    claire "哈……咳……能和你干得这么尽兴，我很高兴……"
 
 # game/city.rpy#L682
 translate chinese clairesex_75045af8:
 
     # claire "Hehehe, I knew I could count on you for a good fuck."
-    claire "Hehehe, I knew I could count on you for a good fuck."
+    claire "呵呵，我就知道我可以指望你好好干一场。"
 
 # game/city.rpy#L683
 translate chinese clairesex_7b30d845:
 
     # claire "Let's uh, quickly head back before Melody notices something's wrong."
-    claire "Let's uh, quickly head back before Melody notices something's wrong."
+    claire "我们在Melody发现问题之前赶快回去吧。"
 
 # game/city.rpy#L690
 translate chinese clairesex_7b2c3705:
 
     # melody "Did you just... fuck my teacher?"
-    melody "Did you just... fuck my teacher?"
+    melody "你刚刚…肏了我的老师？"
 
 # game/city.rpy#L691
 translate chinese clairesex_c2464fc5:
 
     # mc "Uhhh..."
-    mc "Uhhh..."
+    mc "呃…"
 
 # game/city.rpy#L694
 translate chinese clairesex_e18e0460:
@@ -2060,19 +2060,19 @@ translate chinese clairesex_dce23913:
 translate chinese melodylaptop_67d56f52:
 
     # melody "Now we're talkin'! Let's go, champ!"
-    melody "Now we're talkin'! Let's go, champ!"
+    melody "现在我们谈谈！我们走，冠军！"
 
 # game/city.rpy#L1062
 translate chinese melodylaptop_b8d874f5:
 
     # "Melody and I leave the studio and step out into the city streets."
-    "Melody and I leave the studio and step out into the city streets."
+    "Melody和我离开工作室，走到城市的街道上。"
 
 # game/city.rpy#L1066
 translate chinese melodylaptop_722f9d76:
 
     # melody "The shop's just around the corner, thank you for doing this."
-    melody "The shop's just around the corner, thank you for doing this."
+    melody "商店就在拐角处，谢谢你这么做。"
 
 # game/city.rpy#L1067
 translate chinese melodylaptop_328c0055:
