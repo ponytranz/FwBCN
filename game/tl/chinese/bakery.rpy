@@ -3158,13 +3158,13 @@ translate chinese creamvmissionary_1301b880:
 translate chinese creamvmissionary_0a462e6e:
 
     # honeycrisp "Ehehe, you like that stud? I'm not your average rider."
-    honeycrisp "Ehehe, you like that stud? I'm not your average rider."
+    honeycrisp "呵呵，你喜欢那个种马吗?我可不是一般的骑手。"
 
 # game/bakery.rpy#L991
 translate chinese creamvmissionary_93ac4268:
 
     # honeycrisp "Mmm, you like it when I squeeze my pussy like that? I can feel your cock throb every time I do it, ehehe..."
-    honeycrisp "Mmm, you like it when I squeeze my pussy like that? I can feel your cock throb every time I do it, ehehe..."
+    honeycrisp "你喜欢我像这样摸自己的浦西？我能感觉到你的小兄弟躁动起来了，诶嘿。"
 
 # game/bakery.rpy#L996
 translate chinese creamvmissionary_6f92827d:
@@ -3176,13 +3176,13 @@ translate chinese creamvmissionary_6f92827d:
 translate chinese creamvmissionary_36c63ee8:
 
     # "She leans forward as she accelerates the bouncing on my cock, each wet slap against my pelvis ignites another wave of immense pleasure."
-    "She leans forward as she accelerates the bouncing on my cock, each wet slap against my pelvis ignites another wave of immense pleasure."
+    "当她在我的DD上加速运动的时候，她身体前倾，那东西拍打在我DD上都会引燃另一波快感。"
 
 # game/bakery.rpy#L1002
 translate chinese creamvmissionary_3d68d6f8:
 
     # "I reach back and give her a slap on the ass causing her to jolt up with surprise and giggle."
-    "I reach back and give her a slap on the ass causing her to jolt up with surprise and giggle."
+    "我给了她一个耳光，她惊讶地向后跳，我咯咯地笑了起来"
 
 # game/bakery.rpy#L1004
 translate chinese creamvmissionary_c94990df:
@@ -3194,43 +3194,43 @@ translate chinese creamvmissionary_c94990df:
 translate chinese creamvmissionary_99a4b133:
 
     # "As if smacking a racehorse, she takes the cue to speed up, bouncing on my lap with complete abandon."
-    "As if smacking a racehorse, she takes the cue to speed up, bouncing on my lap with complete abandon."
+    "就像驯马师训练马一样，她得到了提示，不停地在我的DD上弹跳"
 
 # game/bakery.rpy#L1009
 translate chinese creamvmissionary_8e0796f8:
 
     # "Taking the spank as a challenge, she begins to speed up, going almost hysterically fast and overwhelming my senses."
-    "Taking the spank as a challenge, she begins to speed up, going almost hysterically fast and overwhelming my senses."
+    "以拍打PP为开始，她加速运动了，以疯一样地速度运动着，我的感官已经跟不上了！"
 
 # game/bakery.rpy#L1012
 translate chinese creamvmissionary_26a72224:
 
     # honeycrisp "Aahhh, ahh... Do you like that? You like mah pussy?"
-    honeycrisp "Aahhh, ahh... Do you like that? You like mah pussy?"
+    honeycrisp "啊……你喜欢吗？你喜欢这样吗？"
 
 # game/bakery.rpy#L1014
 translate chinese creamvmissionary_deebb576:
 
     # honeycrisp "Mmphh, I-I'm gonna come soon, ahh..."
-    honeycrisp "Mmphh, I-I'm gonna come soon, ahh..."
+    honeycrisp "嗯，我……我这就过来，啊……"
 
 # game/bakery.rpy#L1017
 translate chinese creamvmissionary_8297eba5:
 
     # "She even begins to moan freely, that coupled with the wet schlicks of our copulation leaves me to believe Blossom could definitely hear us right now."
-    "She even begins to moan freely, that coupled with the wet schlicks of our copulation leaves me to believe Blossom could definitely hear us right now."
+    "她已经止不住呻吟起来，再加上我们“合体”时的声音，让我确信Blossom现在肯定能听见我们的声音。"
 
 # game/bakery.rpy#L1019
 translate chinese creamvmissionary_297b4fa5:
 
     # "Unable to hold back any longer, a few moans slip out of the orange mares mouth while even lewder sounds slip out of her pussy as wetness freely dribbles and bubbles at our point of contact."
-    "Unable to hold back any longer, a few moans slip out of the orange mares mouth while even lewder sounds slip out of her pussy as wetness freely dribbles and bubbles at our point of contact."
+    "她再也无法控制住，几声呻吟从小雌驹的嘴里飘了出来，甚至淫荡的汁液从她的下面流出，湿漉漉的液体滴露在地上，还冒着泡泡"
 
 # game/bakery.rpy#L1022
 translate chinese creamvmissionary_5c2ec407:
 
     # "It's clear that Honey is driven by pure pleasure and sexual instinct right now, she doesn't care about anything but sex as she blissfully moans."
-    "It's clear that Honey is driven by pure pleasure and sexual instinct right now, she doesn't care about anything but sex as she blissfully moans."
+    "很明显，亨尼现在受到纯粹的快感和性本能的驱使，她幸福地呻吟着，除了性什么都不在乎。"
 
 # game/bakery.rpy#L1024
 translate chinese creamvmissionary_ef36abc9:

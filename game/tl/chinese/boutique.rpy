@@ -5516,7 +5516,7 @@ translate chinese boutiquevisit3_8cf85e39:
 translate chinese boutiquevisit3_28fd0b98:
 
     # ruby "Thanks to the lil’ cash boost you gave us, I decided to take a quick break from camming and instead go crazy with the designing."
-    ruby "多亏了你给我们带来的小外快，我决定暂时不去拍小视频了，转而疯狂地去设计服装。"
+    ruby "多亏了你给我们带来的小外快，我决定暂时不去拍小视频了，转而疯狂地去设计衣服。"
 
 # game/boutique.rpy#L1609
 translate chinese boutiquevisit3_cea1cebf:
@@ -5726,7 +5726,7 @@ translate chinese rubymaidmenu3_a6b33e4a:
 translate chinese rubymaidmenu3_4035b389:
 
     # ruby "For now, could you make me a coffee? That would definitely help. I like it sweet, two sugars."
-    ruby "现在，你能给我煮杯咖啡吗？这玩意儿对修仙党来说大有裨益。我喜欢甜咖啡，放两块糖就可以了。"
+    ruby "现在，你能给我煮杯咖啡吗？这玩意儿对修仙党来说大有裨益。我喜欢甜咖啡，放两块方糖就可以了。"
 
 # game/boutique.rpy#L1665
 translate chinese rubymaidmenu3_6ba8081d:
@@ -5876,7 +5876,7 @@ translate chinese rubymaidmenu3_aaf434a1:
 translate chinese rubymaidmenu3_412bfb3e:
 
     # melody "Ohh my gosh, it’s so cute! I love these frills."
-    melody "哦，天哪，真可爱！我喜欢这些褶边。"
+    melody "哇，天哪，真可爱！我喜欢这些褶边。"
 
 # game/boutique.rpy#L1714
 translate chinese rubymaidmenu3_393ce625:
@@ -5996,7 +5996,7 @@ translate chinese rubymaidmenu3_510b668d:
 translate chinese rubymaidmenu3_8539dcb3:
 
     # mc "Alright, let’s say I am a perv. Do you wanna be a perv with me?"
-    mc "好吧，如果我是变态的话你想和我一起当变态吗？"
+    mc "好吧，如果我是变态的话，你想和我一起当变态吗？"
 
 # game/boutique.rpy#L1745
 translate chinese rubymaidmenu3_c65735c3:
@@ -6032,7 +6032,7 @@ translate chinese rubymaidmenu3_ca541846:
 translate chinese melodycowgirl2_984c7a83:
 
     # melody "Alright dumbass, let me get into character."
-    melody "好吧，笨蛋，让我开始进入角色。"
+    melody "好吧，憨批，让我开始进入角色。"
 
 # game/boutique.rpy#L1767
 translate chinese melodycowgirl2_7f017e48:
@@ -6200,7 +6200,7 @@ translate chinese melodycowgirl2_633865b4:
 translate chinese melodycowgirl2_2e4ae6d4:
 
     # melody "Because let's face it, the only reason a guy with no experience in this industry would want to work at a boutique is because of all the girls."
-    melody "让我们现实一点，一个在我们这个行业没有任何经验的人想要在一家精品店工作的唯一原因毫无疑问是因为店里的女孩子们。"
+    melody "让我们现实一点，一个在我们这个行业没有任何经验的人，想要在一家精品店工作的唯一原因毫无疑问是因为店里的女孩子们。"
 
 # game/boutique.rpy#L1809
 translate chinese melodycowgirl2_8293ab74:
@@ -6728,49 +6728,49 @@ translate chinese melodycowgirl2_93e9233d:
 translate chinese melodycowgirl2_42bd829d:
 
     # mc "Wait, what?"
-    mc "Wait, what?"
+    mc "等等，什么玩意儿？"
 
 # game/boutique.rpy#L1953
 translate chinese melodycowgirl2_39d84768:
 
     # ruby "We’ve just been using you to live out our naughtiest fantasies, we’re the perverted ones."
-    ruby "We’ve just been using you to live out our naughtiest fantasies, we’re the perverted ones."
+    ruby "我们只是利用你来实现我们最皮的幻想，我们都是死变态。"
 
 # game/boutique.rpy#L1954
 translate chinese melodycowgirl2_6153af80:
 
     # "I’m at a complete loss for words… It wasn’t just Melody this entire time, they’re both evil scheming demons."
-    "I’m at a complete loss for words… It wasn’t just Melody this entire time, they’re both evil scheming demons."
+    "我已经无话可说了…不仅仅是Melody，这段时间里他们都是邪恶的色魔。"
 
 # game/boutique.rpy#L1955
 translate chinese melodycowgirl2_39dfb837:
 
     # "It completely makes sense too, Ruby lived out her voyeurism fantasies while Melody lived out her fem-dom fantasies."
-    "It completely makes sense too, Ruby lived out her voyeurism fantasies while Melody lived out her fem-dom fantasies."
+    "这么说来也有点道理，Melody实现了她的偷窥癖幻想，而Ruby实现了她的被偷窥癖幻想。"
 
 # game/boutique.rpy#L1957
 translate chinese melodycowgirl2_e3b37308:
 
     # melody "He enjoyed it, so we’re like a trio of proud pervs."
-    melody "He enjoyed it, so we’re like a trio of proud pervs."
+    melody "他也很享受这个，所以我们就像三个满足各自癖好的变态。"
 
 # game/boutique.rpy#L1959
 translate chinese melodycowgirl2_d2e9de84:
 
     # ruby "My apologies darling, I thought you were at least somewhat aware."
-    ruby "My apologies darling, I thought you were at least somewhat aware."
+    ruby "抱歉，亲爱的，我以为你至少意识到一点点了。"
 
 # game/boutique.rpy#L1960
 translate chinese melodycowgirl2_73ace44d:
 
     # mc "I guess I was; I just didn’t realize to what extent."
-    mc "I guess I was; I just didn’t realize to what extent."
+    mc "我想是的；我只是不清楚我认知到什么程度了。"
 
 # game/boutique.rpy#L1962
 translate chinese melodycowgirl2_167e7f56:
 
     # melody "ANYWAY, what’s the big idea, why did you barge in here?"
-    melody "ANYWAY, what’s the big idea, why did you barge in here?"
+    melody "不管怎样，是什么风把你吹来的？"
 
 # game/boutique.rpy#L1964
 translate chinese melodycowgirl2_3d7e6da0:
@@ -6782,55 +6782,55 @@ translate chinese melodycowgirl2_3d7e6da0:
 translate chinese melodycowgirl2_2bad77db:
 
     # ruby "Oh please, I knew nothing of the sort. I’m here because I have simply magnificent news that I had to share immediately."
-    ruby "Oh please, I knew nothing of the sort. I’m here because I have simply magnificent news that I had to share immediately."
+    ruby "噢，拜托，我对这破事儿一无所知。我来这里的原因是，我有一个好消息要告诉大伙儿。"
 
 # game/boutique.rpy#L1968
 translate chinese melodycowgirl2_9e82d4f1:
 
     # ruby "My dress, it was accepted! I just got the mail!"
-    ruby "My dress, it was accepted! I just got the mail!"
+    ruby "我刚刚才收到厂家的邮件！我的设计方案被认可了！"
 
 # game/boutique.rpy#L1970
 translate chinese melodycowgirl2_87532ff6:
 
     # melody "Awesome! That’s so great, sis!"
-    melody "Awesome! That’s so great, sis!"
+    melody "漂亮！姐姐，这太棒了！"
 
 # game/boutique.rpy#L1977
 translate chinese melodycowgirl2_724cc772:
 
     # "Melody bounces up off the bed, and they hug in an overjoyed and ecstatic way that I’m sure only girls can replicate."
-    "Melody bounces up off the bed, and they hug in an overjoyed and ecstatic way that I’m sure only girls can replicate."
+    "Melody从床上蹦了起来，她们以一种欣喜若狂的方式拥抱着，我相信这动作只有女孩子才能做的出来。"
 
 # game/boutique.rpy#L1979
 translate chinese melodycowgirl2_ac5912e2:
 
     # "Then the three of us head downstairs to celebrate with some red wine."
-    "Then the three of us head downstairs to celebrate with some red wine."
+    "然后我们仨下楼喝红酒庆祝。"
 
 # game/boutique.rpy#L1983
 translate chinese melodycowgirl2_71bdd24f:
 
     # melody "You can finally focus on making dresses now, right Ruby?"
-    melody "You can finally focus on making dresses now, right Ruby?"
+    melody "你现在终于可以专心做衣服了，对吧，Ruby？"
 
 # game/boutique.rpy#L1984
 translate chinese melodycowgirl2_a02dc1f7:
 
     # melody "Oh, and perhaps a certain piano?"
-    melody "Oh, and perhaps a certain piano?"
+    melody "哦，也许是一架钢琴？"
 
 # game/boutique.rpy#L1988
 translate chinese melodycowgirl2_cf25c2a9:
 
     # ruby "That’s the idea, Mel."
-    ruby "That’s the idea, Mel."
+    ruby "不谋而合，Mel。"
 
 # game/boutique.rpy#L1989
 translate chinese melodycowgirl2_38d91bee:
 
     # "Did she just call Melody, Mel? That's adorable!"
-    "Did she just call Melody, Mel? That's adorable!"
+    "她刚称呼Melody为——Mel？太可爱了！"
 
 # game/boutique.rpy#L1990
 translate chinese melodycowgirl2_2fc4a8c1:
@@ -6842,25 +6842,25 @@ translate chinese melodycowgirl2_2fc4a8c1:
 translate chinese melodycowgirl2_02d8bc58:
 
     # ruby "In fact, I implore you, do come back."
-    ruby "In fact, I implore you, do come back."
+    ruby "事实上，我求求你，一定要回来。"
 
 # game/boutique.rpy#L1993
 translate chinese melodycowgirl2_00583361:
 
     # melody "No way, he should come back for me, not you!"
-    melody "No way, he should come back for me, not you!"
+    melody "做你的白日梦去，他应该会来找我，而不是去见你！"
 
 # game/boutique.rpy#L1995
 translate chinese melodycowgirl2_2a1afb7a:
 
     # ruby "We’ll take turns, is that alright, darling?"
-    ruby "We’ll take turns, is that alright, darling?"
+    ruby "我们轮流，好吗，亲爱的？"
 
 # game/boutique.rpy#L1996
 translate chinese melodycowgirl2_446acbb2:
 
     # "Bloody hell."
-    "Bloody hell."
+    "啊这。"
 
 # game/boutique.rpy#L2003
 translate chinese melodycowgirl2_ce617998:
@@ -6872,13 +6872,13 @@ translate chinese melodycowgirl2_ce617998:
 translate chinese melodycowgirl2_186cc6e1:
 
     # "Filled with satisfaction after a wholesome day of work, I get paid 25 monies, and I return to the wagon with the knowledge that I’ll always be welcome back."
-    "Filled with satisfaction after a wholesome day of work, I get paid 25 monies, and I return to the wagon with the knowledge that I’ll always be welcome back."
+    "勤奋工作了一整天后，我得到了25块钱的报酬。我回到蓬车上，感到非常欣慰。我知道我会永远受到欢迎的。"
 
 # game/boutique.rpy#L2009
 translate chinese melodycowgirl2_f36a108c:
 
     # "Where I’ll be endlessly victim to their lustful schemes, but hey, who doesn’t like being teased by cute girls every now and then?"
-    "Where I’ll be endlessly victim to their lustful schemes, but hey, who doesn’t like being teased by cute girls every now and then?"
+    "在精品店那里我会成为她们无休止的淫荡计划的“受害者”，但是，谁不喜欢时不时被可爱的小姐姐们捉弄呢？"
 
 # game/boutique.rpy#L2010
 translate chinese melodycowgirl2_653bd64b:

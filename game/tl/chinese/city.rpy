@@ -2078,7 +2078,7 @@ translate chinese melodylaptop_722f9d76:
 translate chinese melodylaptop_328c0055:
 
     # mc "You're welcome. Either way, you said you were going to 'make it worth my while'."
-    mc "You're welcome. Either way, you said you were going to 'make it worth my while'."
+    mc "不用客气。不管怎样，你说过你会“让我觉得值得”。"
 
 # game/city.rpy#L1069
 translate chinese melodylaptop_d7252fad:

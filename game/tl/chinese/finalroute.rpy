@@ -2486,7 +2486,7 @@ translate chinese cboutique_ca923041:
 translate chinese cboutique_76342a71:
 
     # melody "Ugghh, you would pick her first! You’re so shallow…"
-    melody "哼？你为什么要先操她呀！不就是身材比老娘好嘛，肤浅的男人..."
+    melody "哼？你竟然要先操她呀！不就是身材比老娘好嘛，肤浅的男人..."
 
 # game/finalroute.rpy#L1019
 translate chinese cboutique_15af57a9:
@@ -2528,7 +2528,7 @@ translate chinese cboutique_e9faa007:
 translate chinese cboutique_18cb27e2:
 
     # "As I fuck Ruby, it’s hard to forget just how experienced Ruby is at using the muscles in her pelvis to squeeze and tease my cock."
-    "我一边操她，Ruby也一边娴熟地的用她骨盆里的嫩肉挤压和挑逗我的肉棒。"
+    "我一边操她，Ruby也一边娴熟地的用她柔软的小穴内壁挤压和挑逗我的肉棒。"
 
 # game/finalroute.rpy#L1026
 translate chinese cboutique_e6f8c5ff:
@@ -2798,25 +2798,25 @@ translate chinese cboutique_24e3050b:
 translate chinese cboutique_9c4dd0ad:
 
     # "I piston in and out of Melody’s squeezing insides for my entire orgasm, maximising the pleasure of the experience. Even though pleasure isn’t part of my mission, no one will blame me for enjoying her pussy for a few extra seconds."
-    "I piston in and out of Melody’s squeezing insides for my entire orgasm, maximising the pleasure of the experience. Even though pleasure isn’t part of my mission, no one will blame me for enjoying her pussy for a few extra seconds."
+    "整个高潮过程中我都在Melody紧致的小穴里做活塞运动，感觉快感都要溢出来了。虽然获得快感不是我的主要任务，但顺便多享受几秒钟她的小穴也没什么大碍。"
 
 # game/finalroute.rpy#L1095
 translate chinese cboutique_1e0eadce:
 
     # "As I pull out, a drop of cum splatters down onto Ruby’s pussy. The sight may truly be the lewdest thing I’ve had the pleasure of encountering in Arcadia."
-    "As I pull out, a drop of cum splatters down onto Ruby’s pussy. The sight may truly be the lewdest thing I’ve had the pleasure of encountering in Arcadia."
+    "我拔出了肉棒，带出一滴精液溅落在Ruby的小穴上。这可真是我在Arcadia能有幸遇到的最下流的事情呀。"
 
 # game/finalroute.rpy#L1097
 translate chinese cboutique_3917bc99:
 
     # "Although that sight is short lived because as soon as Melody’s brainwashing vanishes, she springs up like a shocked cat; rolling off the table onto the floor, like escaping a live grenade."
-    "Although that sight is short lived because as soon as Melody’s brainwashing vanishes, she springs up like a shocked cat; rolling off the table onto the floor, like escaping a live grenade."
+    "光景虽好，奈何短暂。Melody的洗脑解除后，她就像一只受惊的猫一样跳了出来;从桌子滚到地上，好像在躲避手榴弹似的。"
 
 # game/finalroute.rpy#L1098
 translate chinese cboutique_bf7db44c:
 
     # "This action leaves Ruby laying on the table, panting and confused."
-    "This action leaves Ruby laying on the table, panting and confused."
+    "现在只剩下Ruby躺在桌子上，气喘吁吁，不知所措。"
 
 # game/finalroute.rpy#L1102
 translate chinese cboutique_c5e7568e:
@@ -2828,67 +2828,67 @@ translate chinese cboutique_c5e7568e:
 translate chinese cboutique_5f8e1fe4:
 
     # melody "I need to dye my fur, change my identity, move far away..."
-    melody "I need to dye my fur, change my identity, move far away..."
+    melody "我必须得重新换个毛发的颜色，弄个假身份，搬到更远的地方去才行……"
 
 # game/finalroute.rpy#L1108
 translate chinese cboutique_da13f1d1:
 
     # melody "You two… YOU TWO!"
-    melody "You two… YOU TWO!"
+    melody "你们这俩…{b}你们这俩混蛋{/b}!"
 
 # game/finalroute.rpy#L1109
 translate chinese cboutique_c5e7a75c:
 
     # melody "WHAT WERE YOU THINKING?! THAT WAS SO EMBARRASSING! WE JUST DID AN INCEST!"
-    melody "WHAT WERE YOU THINKING?! THAT WAS SO EMBARRASSING! WE JUST DID AN INCEST!"
+    melody "{b}你脑子里究竟装了些什么鬼玩意儿呀?!太™尴尬了!我们刚刚乱伦了啊!{/b}"
 
 # game/finalroute.rpy#L1110
 translate chinese cboutique_1971a61c:
 
     # ruby "Well… I think [playername]’s cum saved us from Morrigan's brainwashing… And it wasn’t {i}‘incest’{/i} incest, right?"
-    ruby "Well… I think [playername]’s cum saved us from Morrigan's brainwashing… And it wasn’t {i}‘incest’{/i} incest, right?"
+    ruby "其实…我认为[playername]是为了把我们从Morrigan的洗脑中解救出来才干出那种事情的…这称不上是乱伦，对吧?"
 
 # game/finalroute.rpy#L1115
 translate chinese cboutique_663d64f3:
 
     # melody "Ugh, whatever… He should have respected our boundaries…"
-    melody "Ugh, whatever… He should have respected our boundaries…"
+    melody "呃，就算退一万步讲，他也应该尊重我们的底线呀…"
 
 # game/finalroute.rpy#L1116
 translate chinese cboutique_fe2a598b:
 
     # melody "But y’know, I’m not exactly keen on having some evil bitch order me around like that, that’s out of my boundaries even more!"
-    melody "But y’know, I’m not exactly keen on having some evil bitch order me around like that, that’s out of my boundaries even more!"
+    melody "不过你也清楚，我可不太喜欢让一个邪恶的婊子那样对我发号施令，那更超出了我的底线!"
 
 # game/finalroute.rpy#L1118
 translate chinese cboutique_8de3eaf9:
 
     # melody "Fuck, what did I say earlier about being a breeding slut?"
-    melody "Fuck, what did I say earlier about being a breeding slut?"
+    melody "天哪，我先前都说了些什么荡妇之语呀？"
 
 # game/finalroute.rpy#L1119
 translate chinese cboutique_e6cd81b9:
 
     # melody "For some reason Morrigan’s brainwashing gave me an overwhelming desire to get impregnated as a breeding drone or whatever, gross…I guess you have my gratitude, [playername]."
-    melody "For some reason Morrigan’s brainwashing gave me an overwhelming desire to get impregnated as a breeding drone or whatever, gross…I guess you have my gratitude, [playername]."
+    melody "Morrigan的洗脑让我有一种强烈的欲望，想要成为一个繁殖机器啥的，忒恶心了…我想我还是得感谢一下你，[玩家名]。"
 
 # game/finalroute.rpy#L1121
 translate chinese cboutique_0788851f:
 
     # ruby "I’m afraid if it wasn’t for [playername], we’d likely all be subservient hosts for breeding Morrigan’s army."
-    ruby "I’m afraid if it wasn’t for [playername], we’d likely all be subservient hosts for breeding Morrigan’s army."
+    ruby "我担心，要是没有[玩家名]的话，我们都可能会成为Morrigan军队的慰安妇吧。"
 
 # game/finalroute.rpy#L1123
 translate chinese cboutique_0d2a53ab:
 
     # melody "I’m not sure what’s worse, being breeding stock, or being brainwashed to enjoy it…"
-    melody "I’m not sure what’s worse, being breeding stock, or being brainwashed to enjoy it…"
+    melody "我不知道哪个更糟，是当个种畜，还是被洗脑去享受性交…"
 
 # game/finalroute.rpy#L1125
 translate chinese cboutique_7e73cad5:
 
     # "I give the two girls a quick overview of the plan, and tell Ruby to meet me at the tree library soon."
-    "I give the two girls a quick overview of the plan, and tell Ruby to meet me at the tree library soon."
+    "我向两个女孩简要介绍了一下了我的计划，并告诉Ruby马上到树图书馆和我会面。"
 
 # game/finalroute.rpy#L1130
 translate chinese cboutique_ad463f3c:
