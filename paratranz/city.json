@@ -5342,14 +5342,14 @@
   {
     "id": 79430984,
     "createdAt": "2021-05-30T17:55:37.000Z",
-    "updatedAt": "2021-06-26T11:56:56.000Z",
+    "updatedAt": "2021-07-22T13:10:57.000Z",
     "key": "melodylaptop_084a77ea",
     "original": "It takes about an hour, but the laptop is eventually fixed. On the walk back my satchel feels notably lighter after losing 150 monies.",
-    "translation": "这大约需要一个小时，但笔记本电脑终于修好了。在回去的路上，我的背包在损失了150块之后，感觉特别的轻。",
+    "translation": "这大约需要一个小时，但笔记本电脑终于修好了。白给了150块钱之后，在回去的路上，我感觉我的背包特别地轻。",
     "file": 272344,
     "stage": 1,
     "project": 2414,
-    "uid": 21929,
+    "uid": 21980,
     "extra": null,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwBCN/blob/main/game/city.rpy#L1083",
     "words": 24

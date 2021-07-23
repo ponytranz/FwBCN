@@ -2138,7 +2138,7 @@ translate chinese melodylaptop_f770b6d5:
 translate chinese melodylaptop_084a77ea:
 
     # "It takes about an hour, but the laptop is eventually fixed. On the walk back my satchel feels notably lighter after losing 150 monies."
-    "这大约需要一个小时，但笔记本电脑终于修好了。在回去的路上，我的背包在损失了150块之后，感觉特别的轻。"
+    "这大约需要一个小时，但笔记本电脑终于修好了。白给了150块钱之后，在回去的路上，我感觉我的背包特别地轻。"
 
 # game/city.rpy#L1084
 translate chinese melodylaptop_fb3beaac:

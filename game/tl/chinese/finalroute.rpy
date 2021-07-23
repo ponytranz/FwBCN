@@ -2888,19 +2888,19 @@ translate chinese cboutique_0d2a53ab:
 translate chinese cboutique_7e73cad5:
 
     # "I give the two girls a quick overview of the plan, and tell Ruby to meet me at the tree library soon."
-    "我向两个女孩简要介绍了一下了我的计划，并告诉Ruby马上到树图书馆和我会面。"
+    "我向两个女孩简要地说明了一下我的计划，并告诉Ruby马上到树图书馆和我会面。"
 
 # game/finalroute.rpy#L1130
 translate chinese cboutique_ad463f3c:
 
     # melody "Well, look at Mr. Hero over here. Still, there’s one thing that shocked me… I can’t believe how much of a slut you are."
-    melody "Well, look at Mr. Hero over here. Still, there’s one thing that shocked me… I can’t believe how much of a slut you are."
+    melody "喔呜~看看这位英雄先生。不过，有一件事还是把我给震惊了… 我不敢相信你是这么淫荡的一个荡妇。"
 
 # game/finalroute.rpy#L1131
 translate chinese cboutique_482eb736:
 
     # melody "I was totally right about you, the only reason you came to the boutique was to sleep with us!"
-    melody "I was totally right about you, the only reason you came to the boutique was to sleep with us!"
+    melody "我早就猜到了，你来精品店只是为了和我们上床罢了!"
 
 # game/finalroute.rpy#L1135
 translate chinese cboutique_7b9249e3:
@@ -2912,73 +2912,73 @@ translate chinese cboutique_7b9249e3:
 translate chinese cboutique_947ef102:
 
     # melody "Yeah, well… Apparently it was just because he has some kind of magic that makes him irresistible…"
-    melody "Yeah, well… Apparently it was just because he has some kind of magic that makes him irresistible…"
+    melody "好吧，好吧...肯定是因为他有某种魔法，让咱们无法抗拒他……"
 
 # game/finalroute.rpy#L1138
 translate chinese cboutique_d7341d4f:
 
     # melody "If this was a hentai, the tags would be ‘ugly bastard’ and ‘hypnosis’."
-    melody "If this was a hentai, the tags would be ‘ugly bastard’ and ‘hypnosis’."
+    melody "如果这是一个本子的话，标签里肯定有“痴汉”和“催眠”。"
 
 # game/finalroute.rpy#L1139
 translate chinese cboutique_16c3c407:
 
     # "Hentai is a {i}thing{/i} in this world? I got some homework to do after all this is over! Wait a minute..."
-    "Hentai is a {i}thing{/i} in this world? I got some homework to do after all this is over! Wait a minute..."
+    "这个世界上竟然还有{i}本子{/i} ?等这一切结束后，我要好好做一下功课了!等一下…"
 
 # game/finalroute.rpy#L1140
 translate chinese cboutique_9c84d861:
 
     # mc "Hey, I’m not ugly!"
-    mc "Hey, I’m not ugly!"
+    mc "嘿，老子才不丑呢!"
 
 # game/finalroute.rpy#L1142
 translate chinese cboutique_5ae60e07:
 
     # melody "How would I know? Maybe the spell changes your appearance too! That would explain why you look so handsome and cute."
-    melody "How would I know? Maybe the spell changes your appearance too! That would explain why you look so handsome and cute."
+    melody "我怎么知道?或许咒语也改变了你的外貌呢!这就能解释你为什么看起来那么俊美迷人了。"
 
 # game/finalroute.rpy#L1143
 translate chinese cboutique_8494fec1:
 
     # mc "Hm… I don’t think it does that…"
-    mc "Hm… I don’t think it does that…"
+    mc "嗯…我认为咒语可没让我变漂亮……"
 
 # game/finalroute.rpy#L1145
 translate chinese cboutique_05a9d7d3:
 
     # ruby "Actually… I think the spell is gone, so you just complimented the real [playername]."
-    ruby "Actually… I think the spell is gone, so you just complimented the real [playername]."
+    ruby "其实，我想咒语已经被解除了，所以你刚才只是赞许了[playername]的真实样貌。"
 
 # game/finalroute.rpy#L1147
 translate chinese cboutique_ea77e3da:
 
     # melody "Heh, I know that… Go on, go fuck the other girls, you damn alpha bastard. Just don’t expect me to be part of your harem!"
-    melody "Heh, I know that… Go on, go fuck the other girls, you damn alpha bastard. Just don’t expect me to be part of your harem!"
+    melody "咳，好吧…去吧，去操别的女孩儿吧，你这该死的大混蛋。但别指望老娘会加入你的后宫哦。"
 
 # game/finalroute.rpy#L1148
 translate chinese cboutique_4e5c74d2:
 
     # mc "Will do, catch you two later."
-    mc "Will do, catch you two later."
+    mc "好吧，回头见。"
 
 # game/finalroute.rpy#L1152
 translate chinese cbar_ef2ee31a:
 
     # "I don't have time to meet with Riku, I need to complete my fucking conquest!"
-    "I don't have time to meet with Riku, I need to complete my fucking conquest!"
+    "我没时间去见Riku了，我要完成我的操马大业!"
 
 # game/finalroute.rpy#L1162
 translate chinese cbar_4819dc70:
 
     # "I visit the bar. Knocking on the door, Riku shortly lets me in."
-    "I visit the bar. Knocking on the door, Riku shortly lets me in."
+    "我到了酒吧。刚一敲门Riku就让我进去了。"
 
 # game/finalroute.rpy#L1166
 translate chinese cbar_5f43c1e9:
 
     # riku "You're here early! Although you're always welcome, especially with recent events, eh?"
-    riku "You're here early! Although you're always welcome, especially with recent events, eh?"
+    riku "您来的可真早呀!Although you're always welcome, especially with recent events, eh?"
 
 # game/finalroute.rpy#L1167
 translate chinese cbar_f2575b3e:
@@ -2990,31 +2990,31 @@ translate chinese cbar_f2575b3e:
 translate chinese cbar_2ce197c3:
 
     # riku "I'm really pumped to be supporting Queen Morrigan! I'm looking forward to whatever orders she gives us."
-    riku "I'm really pumped to be supporting Queen Morrigan! I'm looking forward to whatever orders she gives us."
+    riku "我很期待Morrigan女王给我们下了什么命令。要是能帮助到她，我就是三生有幸了!"
 
 # game/finalroute.rpy#L1170
 translate chinese cbar_0c22801b:
 
     # riku "Do you think you can drop any hints about what she has planned for us?"
-    riku "Do you think you can drop any hints about what she has planned for us?"
+    riku "你能不能透露一点她对我们的安排呀?"
 
 # game/finalroute.rpy#L1171
 translate chinese cbar_ade29b24:
 
     # mc "Honestly, I have no clue, do you know anything?"
-    mc "Honestly, I have no clue, do you know anything?"
+    mc "老实说，我啥都不知道，你知道些什么吗?"
 
 # game/finalroute.rpy#L1173
 translate chinese cbar_112266d4:
 
     # riku "Well... Me and the other elements did kick her ass in the past, so she'll probably want a teeny bit of revenge..."
-    riku "Well... Me and the other elements did kick her ass in the past, so she'll probably want a teeny bit of revenge..."
+    riku "嗯…我和其他马之前确实踢了下她的屁股，所以她可能想要报复一下咱们……"
 
 # game/finalroute.rpy#L1174
 translate chinese cbar_1bc5a496:
 
     # riku "That's what makes me want to serve her even more! To prove my loyalty despite my past."
-    riku "That's what makes me want to serve her even more! To prove my loyalty despite my past."
+    riku "尽管我过去犯了错误，但我还是要证明我的忠诚。这就让我更想为她服务了!"
 
 # game/finalroute.rpy#L1175
 translate chinese cbar_272265e4:
@@ -3026,61 +3026,61 @@ translate chinese cbar_272265e4:
 translate chinese cbar_d43268a5:
 
     # riku "Pfft, no way, our Queen kicks ass!"
-    riku "Pfft, no way, our Queen kicks ass!"
+    riku "切，不可能的，我们的女王可是很厉害的呢!"
 
 # game/finalroute.rpy#L1178
 translate chinese cbar_204f5b8e:
 
     # "Hmm... That's interesting, she doesn't know who else is brainwashed, does she?"
-    "Hmm... That's interesting, she doesn't know who else is brainwashed, does she?"
+    "嗯…奇了怪了，她应该还不知道还有谁被洗脑了，对吧?"
 
 # game/finalroute.rpy#L1179
 translate chinese cbar_62043d2f:
 
     # "So there probably isn't a hivemind."
-    "So there probably isn't a hivemind."
+    "因此，信息传输很有可能不是通过蜂巢意念控制的。"
 
 # game/finalroute.rpy#L1180
 translate chinese cbar_d22117bc:
 
     # mc "Thanks for the information Riku, maybe I'll see you again."
-    mc "Thanks for the information Riku, maybe I'll see you again."
+    mc "谢谢你提供的信息，Riku，或许过不了多久我就能把你救出来了。"
 
 # game/finalroute.rpy#L1182
 translate chinese cbar_8cac9b51:
 
     # riku "Hopefully! Later kid."
-    riku "Hopefully! Later kid."
+    riku "过会儿见小子，祝你好运！"
 
 # game/finalroute.rpy#L1186
 translate chinese cbar_13f7196a:
 
     # "I check the bar again, Riku lets me in."
-    "I check the bar again, Riku lets me in."
+    "我再次来到酒吧，Riku让我进去了。"
 
 # game/finalroute.rpy#L1190
 translate chinese cbar_4e62c6f3:
 
     # riku "Back already? What's up? I'm not going to the gym for a while yet."
-    riku "Back already? What's up? I'm not going to the gym for a while yet."
+    riku "回来了?有什么事吗?我暂时还不会去健身房，所以现在还有空。"
 
 # game/finalroute.rpy#L1191
 translate chinese cbar_312625cb:
 
     # mc "Ah, uhm, maybe I'll come back later then."
-    mc "Ah, uhm, maybe I'll come back later then."
+    mc "啊，嗯，或许我该晚点再来的。"
 
 # game/finalroute.rpy#L1193
 translate chinese cbar_4fa495f1:
 
     # riku "Sure thing, uhm... Try to stay out of the rain, 'kay?"
-    riku "Sure thing, uhm... Try to stay out of the rain, 'kay?"
+    riku "好吧,嗯…你要是能避开那些雨就避开，好吗?"
 
 # game/finalroute.rpy#L1194
 translate chinese cbar_b1ac94f7:
 
     # mc "Yeah, sure."
-    mc "Yeah, sure."
+    mc "嗯，好的。"
 
 # game/finalroute.rpy#L1201
 translate chinese cbar2_9c7dd9b8:

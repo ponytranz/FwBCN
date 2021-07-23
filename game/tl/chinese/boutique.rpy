@@ -5720,7 +5720,7 @@ translate chinese rubymaidmenu3_52afaf3a:
 translate chinese rubymaidmenu3_a6b33e4a:
 
     # ruby "Excellent, I’m actually quite tired, but there’s no way I could rest while I’m waiting for the confirmation of that dress, so I’m going to stay up until its confirmed and then nap afterwards."
-    ruby "太好了，我已经很累了，不过我要等着那件衣服的设计被客户签收，所以还没法休息。我要熬到设计方案交付客户，然后才能睡个觉。"
+    ruby "太好了，我已经很累了，不过我要等着那件衣服的设计稿被客户签收，所以还没法休息。我要熬到设计方案交付客户，然后才能睡个觉。"
 
 # game/boutique.rpy#L1663
 translate chinese rubymaidmenu3_4035b389:
@@ -5774,7 +5774,7 @@ translate chinese rubymaidmenu3_6b8b573f:
 translate chinese rubymaidmenu3_46c21a65:
 
     # "There’s quite a lot of downtime, so I make myself a drink and spend a lot of time browsing the strange PonyWeb on Ruby’s laptop for fun."
-    "因为有相当多的闲暇时光，所以我给自己倒了杯饮料，通过Ruby笔记本电脑浏览陌生的小马世界互联网以消磨时间。"
+    "因为有相当多的闲暇时光，所以我给自己倒了杯饮料，通过Ruby的笔记本电脑浏览陌生的小马世界互联网以消磨时间。"
 
 # game/boutique.rpy#L1680
 translate chinese rubymaidmenu3_5e842674:
@@ -6014,7 +6014,7 @@ translate chinese rubymaidmenu3_df4231f4:
 translate chinese rubymaidmenu3_2cc7b3e9:
 
     # "This girl is a headache. I heard sex is a great cure for headaches though."
-    "对付这个女孩可真头痛。不过我听说性是治疗头痛的良药。"
+    "对付这个女孩可真头痛。不过我听说性爱是治疗头痛的良药。"
 
 # game/boutique.rpy#L1753
 translate chinese rubymaidmenu3_ce617998_2:
@@ -6686,7 +6686,7 @@ translate chinese melodycowgirl2_c748ba49:
 translate chinese melodycowgirl2_e1c14d81:
 
     # melody "Don’t expect a threesome you pervert."
-    melody "别指望脚踏三条船，你这个变态。"
+    melody "别指望脚踏两条船，你这个变态。"
 
 # game/boutique.rpy#L1940
 translate chinese melodycowgirl2_5367ed80:
@@ -6896,7 +6896,7 @@ translate chinese melodycowgirl2_38bf3a3b:
 translate chinese melodycowgirl2_40fcdecf:
 
     # mc "Ah you know, same old, same old."
-    mc "Ah you know, same old, same old."
+    mc "啊，你知道的，和原先一样，和原先一样。"
 
 # game/boutique.rpy#L2015
 translate chinese melodycowgirl2_bff6056e:
@@ -6962,37 +6962,37 @@ translate chinese melodycowgirl2_b0163c6b:
 translate chinese melodycowgirl2_74dd156d:
 
     # moxie "I think they just need to be aware that what they’re doing is unacceptable and they should move that energy into more positive and productive things."
-    moxie "I think they just need to be aware that what they’re doing is unacceptable and they should move that energy into more positive and productive things."
+    moxie "我认为他们只需要明白到他们所做事的是不可接受的，他们应该把精力转移到更积极和更有用的事情上。"
 
 # game/boutique.rpy#L2031
 translate chinese melodycowgirl2_d6a0dc72:
 
     # mc "Positive and productive things?"
-    mc "Positive and productive things?"
+    mc "更积极，更有用的事情？"
 
 # game/boutique.rpy#L2033
 translate chinese melodycowgirl2_877a6b0f:
 
     # moxie "You know, if they’re really that repressed and frustrated, they should put that energy into going on dates, or something."
-    moxie "You know, if they’re really that repressed and frustrated, they should put that energy into going on dates, or something."
+    moxie "你懂的，如果他们真的感到压抑与沮丧，他们应该把精力放在约会上，或者别的什么事情上。"
 
 # game/boutique.rpy#L2035
 translate chinese melodycowgirl2_83b08952:
 
     # moxie "That’s what I did, I was frustrated and tried to summon a familiar with that spell."
-    moxie "That’s what I did, I was frustrated and tried to summon a familiar with that spell."
+    moxie "我就是这么做的，我很沮丧，试图去找个熟悉我这咒语的人。"
 
 # game/boutique.rpy#L2036
 translate chinese melodycowgirl2_4489cc06:
 
     # mc "I like your introspection, that’s good advice."
-    mc "I like your introspection, that’s good advice."
+    mc "我喜欢你的自省，这是个好主意。"
 
 # game/boutique.rpy#L2038
 translate chinese melodycowgirl2_3fb37c04:
 
     # moxie "Why thank you, now how about I cook us up something even better than my shoddy advice."
-    moxie "Why thank you, now how about I cook us up something even better than my shoddy advice."
+    moxie "不用这么客气啦，现在我不如给咱们煮点比我这无用建议更好的东西。"
 
 # game/boutique.rpy#L2041
 translate chinese melodycowgirl2_a20cefa7:
@@ -7016,19 +7016,19 @@ translate chinese melodycowgirl2_f36a108c_1:
 translate chinese melodycowgirl2_681be5ea:
 
     # "I settle down on a sofa at the cottage, and Butters soon joins me with her uplifting, wholesome personality that acts as the perfect cherry on top of any day."
-    "I settle down on a sofa at the cottage, and Butters soon joins me with her uplifting, wholesome personality that acts as the perfect cherry on top of any day."
+    "我在林间小屋的沙发上安顿下来，Butters很快就和我一起排排坐了，她的性格就像樱桃树一样令人振奋、向上。"
 
 # game/boutique.rpy#L2051
 translate chinese melodycowgirl2_0f5826dc:
 
     # butters "Heyy! How's it going [playername]?"
-    butters "Heyy! How's it going [playername]?"
+    butters "嘿！ [playername]，最近怎么样？"
 
 # game/boutique.rpy#L2052
 translate chinese melodycowgirl2_40fcdecf_1:
 
     # mc "Ah you know, same old, same old."
-    mc "Ah you know, same old, same old."
+    mc "啊，你知道的，和原先一样，和原先一样。"
 
 # game/boutique.rpy#L2054
 translate chinese melodycowgirl2_1e6814ab:
@@ -7058,43 +7058,43 @@ translate chinese melodycowgirl2_a9de329d_1:
 translate chinese melodycowgirl2_7a4cc1cb:
 
     # butters "I’m glad to hear that. I wouldn't want anyone to ruin your experience in this lovely world."
-    butters "I’m glad to hear that. I wouldn't want anyone to ruin your experience in this lovely world."
+    butters "听你这么说我很高兴。我不想让任何人破坏你对这个可爱世界的印象。"
 
 # game/boutique.rpy#L2059
 translate chinese melodycowgirl2_1f0a1265_1:
 
     # mc "Hey, I’ve got a question. Just how perverted is the average mare? Would anyone actually harass me?"
-    mc "Hey, I’ve got a question. Just how perverted is the average mare? Would anyone actually harass me?"
+    mc "嘿，我有个问题。你们这些母马到底有多好色？路上会有人骚扰我吗？"
 
 # game/boutique.rpy#L2061
 translate chinese melodycowgirl2_cbd828d5:
 
     # butters "Perverted? Probably somewhere between me and my succubus."
-    butters "Perverted? Probably somewhere between me and my succubus."
+    butters "好色程度？可能在我和我的魅魔形态之间。"
 
 # game/boutique.rpy#L2062
 translate chinese melodycowgirl2_bd2bbfcf:
 
     # mc "Hmm... That sounds bad..."
-    mc "Hmm... That sounds bad..."
+    mc "呃…这听起来有点儿吓人…"
 
 # game/boutique.rpy#L2064
 translate chinese melodycowgirl2_0235b030:
 
     # butters "You told me you're from another world, it sounds like the girls in this world are hornier."
-    butters "You told me you're from another world, it sounds like the girls in this world are hornier."
+    butters "你告诉我你来自另一个世界，听说那个世界的女孩子们更性感。"
 
 # game/boutique.rpy#L2065
 translate chinese melodycowgirl2_35324042_1:
 
     # mc "You can say that again."
-    mc "You can say that again."
+    mc "说得好。"
 
 # game/boutique.rpy#L2067
 translate chinese melodycowgirl2_66486049:
 
     # butters "But harassing? That's only among a few nasty individuals, even in such a lovely town like Arcadia there are some."
-    butters "But harassing? That's only among a few nasty individuals, even in such a lovely town like Arcadia there are some."
+    butters "不过骚扰的话？这只是少数讨厌的马会干的事，甚至在像Arcadia这样爱意泛滥的小镇上这样的马也只有很少一些。"
 
 # game/boutique.rpy#L2068
 translate chinese melodycowgirl2_25dbb87a:
@@ -7106,43 +7106,43 @@ translate chinese melodycowgirl2_25dbb87a:
 translate chinese melodycowgirl2_517bb8a1:
 
     # mc "Sheesh, how do you even help creeps like that."
-    mc "Sheesh, how do you even help creeps like that."
+    mc "哎呀，你怎么能帮助那些毛骨悚然的生物呢。"
 
 # game/boutique.rpy#L2071
 translate chinese melodycowgirl2_1cf4f17b:
 
     # butters "I think they just need to be aware that what they’re doing is unacceptable and they should move that energy into more positive and productive things."
-    butters "I think they just need to be aware that what they’re doing is unacceptable and they should move that energy into more positive and productive things."
+    butters "我认为他们只需要意识到他们所做的事是不可接受的就行了，他们应该把精力转移到那些更积极的和更有用的事情上。"
 
 # game/boutique.rpy#L2072
 translate chinese melodycowgirl2_d6a0dc72_1:
 
     # mc "Positive and productive things?"
-    mc "Positive and productive things?"
+    mc "更积极和更有用的事？"
 
 # game/boutique.rpy#L2074
 translate chinese melodycowgirl2_96426cfc:
 
     # butters "You know, if they’re really that repressed and frustrated, they should put that energy into something else."
-    butters "You know, if they’re really that repressed and frustrated, they should put that energy into something else."
+    butters "你知道的，如果他们真的感到非常压抑和沮丧，他们应该把精力放在别的事情上。"
 
 # game/boutique.rpy#L2076
 translate chinese melodycowgirl2_5d0749af:
 
     # butters "That’s what I did, when I was distracted by my lusts, I'd distract myself with work."
-    butters "That’s what I did, when I was distracted by my lusts, I'd distract myself with work."
+    butters "我就是这么做的，当我因性欲感到心烦意乱时，我会用工作来分散自己的注意力。"
 
 # game/boutique.rpy#L2077
 translate chinese melodycowgirl2_4489cc06_1:
 
     # mc "I like your introspection, that’s good advice."
-    mc "I like your introspection, that’s good advice."
+    mc "我喜欢你的自省，这是个好建议。"
 
 # game/boutique.rpy#L2079
 translate chinese melodycowgirl2_8d29ea65:
 
     # butters "Thank you babe, how about I cook us up something even better than my advice."
-    butters "Thank you babe, how about I cook us up something even better than my advice."
+    butters "谢谢你，baby，我去煮点比我的建议更让人喜欢的东西。"
 
 # game/boutique.rpy#L2082
 translate chinese melodycowgirl2_a20cefa7_1:
@@ -7154,283 +7154,283 @@ translate chinese melodycowgirl2_a20cefa7_1:
 translate chinese boutiqueafter_f18dea1c:
 
     # ruby "Good morning darling! Here to work, buy, or perhaps something else?"
-    ruby "Good morning darling! Here to work, buy, or perhaps something else?"
+    ruby "亲爱的，早上好！想在我这儿工作、买衣服，或者是去干点别的什么？"
 
 # game/boutique.rpy#L2094
 translate chinese boutiqueafter_b2080cc6:
 
     # mc "Wow, look at this place, it's so tidy and organised now! You really turned this place around, I'm proud."
-    mc "Wow, look at this place, it's so tidy and organised now! You really turned this place around, I'm proud."
+    mc "哇，看看这个地方，现在这么整洁有序！你真的改变了这儿，我非常自豪。"
 
 # game/boutique.rpy#L2096
 translate chinese boutiqueafter_ec354621:
 
     # ruby "Oh, darling, this is all thanks to your superb help."
-    ruby "Oh, darling, this is all thanks to your superb help."
+    ruby "哦，亲爱的，这都是你的功劳。"
 
 # game/boutique.rpy#L2097
 translate chinese boutiqueafter_3f27929c:
 
     # ruby "My dress has gone on to be a wonderful success! You and I made a great team."
-    ruby "My dress has gone on to be a wonderful success! You and I made a great team."
+    ruby "我那件裙子大获成功！咱俩的配合简直完美。"
 
 # game/boutique.rpy#L2099
 translate chinese boutiqueafter_1852d4f4:
 
     # ruby "Of course, we can still do those fun shows later on if that's what you'd like."
-    ruby "Of course, we can still do those fun shows later on if that's what you'd like."
+    ruby "当然，如果你愿意的话，我们以后还可以继续去拍那些“有意思”的直播。"
 
 # game/boutique.rpy#L2101
 translate chinese boutiqueafter_f18dea1c_1:
 
     # ruby "Good morning darling! Here to work, buy, or perhaps something else?"
-    ruby "Good morning darling! Here to work, buy, or perhaps something else?"
+    ruby "亲爱的，早上好！想在我这儿工作、买衣服，或者是去干点别的什么？"
 
 # game/boutique.rpy#L2105
 translate chinese boutiqueaftermenu_82b0eda2:
 
     # "There's nothing I need to buy here, maybe later."
-    "There's nothing I need to buy here, maybe later."
+    "我现在没什么要买的，也许以后会有。"
 
 # game/boutique.rpy#L2111
 translate chinese boutiqueaftermenu_d6db09a2:
 
     # "I can't afford that."
-    "I can't afford that."
+    "我买不起它。"
 
 # game/boutique.rpy#L2114
 translate chinese boutiqueaftermenu_7b8b93e6:
 
     # ruby "Pleasure doing business with you!"
-    ruby "Pleasure doing business with you!"
+    ruby "很荣幸为你服务！"
 
 # game/boutique.rpy#L2115
 translate chinese boutiqueaftermenu_a79e984d:
 
     # mc "By the way, can you leave the dress here?"
-    mc "By the way, can you leave the dress here?"
+    mc "顺便问一下，你能把这件衣服留在这儿吗？"
 
 # game/boutique.rpy#L2116
 translate chinese boutiqueaftermenu_62cccc3e:
 
     # ruby "Here? Do you want to pick it up at a later time?"
-    ruby "Here? Do you want to pick it up at a later time?"
+    ruby "放在这儿？你想过会儿再来拿吗？"
 
 # game/boutique.rpy#L2117
 translate chinese boutiqueaftermenu_b7d2a020:
 
     # mc "Yes, you'll see."
-    mc "Yes, you'll see."
+    mc "是的，你会看到的。"
 
 # game/boutique.rpy#L2136
 translate chinese boutiqueaftermenu_a6be7a80:
 
     # ruby "So darling, I don't mean to pry too much into your personal life. However, I imagine you must get a lot of action, yes?"
-    ruby "So darling, I don't mean to pry too much into your personal life. However, I imagine you must get a lot of action, yes?"
+    ruby "所以亲爱的，我不想对你的私生活造成太大的影响。不过，我猜你一定会采取很多行动，对嘛？"
 
 # game/boutique.rpy#L2137
 translate chinese boutiqueaftermenu_b8b59b48:
 
     # mc "I-uh, what makes you say that?"
-    mc "I-uh, what makes you say that?"
+    mc "我…呃，你为啥这么说？"
 
 # game/boutique.rpy#L2139
 translate chinese boutiqueaftermenu_5b67e785:
 
     # ruby "Needless to say, you slept with both my sister and I. There must be others, right?"
-    ruby "Needless to say, you slept with both my sister and I. There must be others, right?"
+    ruby "无需多言，你把我和我妹妹都睡过了。你肯定还睡过其他马，对吧？"
 
 # game/boutique.rpy#L2140
 translate chinese boutiqueaftermenu_86b1c852:
 
     # mc "Yeah, I'll admit that much, although you two came onto me."
-    mc "Yeah, I'll admit that much, although you two came onto me."
+    mc "是的，虽然你们两个来找我，我还是承认了这点。"
 
 # game/boutique.rpy#L2142
 translate chinese boutiqueaftermenu_885a2690:
 
     # ruby "Ahaha, sorry about that. It's just that you're such a juicy morsel."
-    ruby "Ahaha, sorry about that. It's just that you're such a juicy morsel."
+    ruby "哈哈，很抱歉。不得不说你真是个精力旺盛的家伙。"
 
 # game/boutique.rpy#L2143
 translate chinese boutiqueaftermenu_a684c9fd:
 
     # mc "Now I feel like I was you and your sister's prey."
-    mc "Now I feel like I was you and your sister's prey."
+    mc "现在我觉得我是你和你妹妹的猎物。"
 
 # game/boutique.rpy#L2145
 translate chinese boutiqueaftermenu_3633d926:
 
     # ruby "Anyway, I know we're friends with benefits, but I wanted to ask. I was wondering if it would be okay if I slept with others too?"
-    ruby "Anyway, I know we're friends with benefits, but I wanted to ask. I was wondering if it would be okay if I slept with others too?"
+    ruby "不管怎样，虽然我知道咱们是炮友，但我还是想顺便问问，如果我和别人睡了，你会有什么反应？"
 
 # game/boutique.rpy#L2148
 translate chinese boutiqueaftermenu_de48b9af:
 
     # mc "It would be unfair if I didn't let you do the same."
-    mc "It would be unfair if I didn't let you do the same."
+    mc "如果我不让你这么做，那才不公平呢。"
 
 # game/boutique.rpy#L2150
 translate chinese boutiqueaftermenu_61a637f0:
 
     # ruby "How delightful, I'll tell her right away."
-    ruby "How delightful, I'll tell her right away."
+    ruby "这回答太棒了，我马上就去告诉她。"
 
 # game/boutique.rpy#L2151
 translate chinese boutiqueaftermenu_0e6f0673:
 
     # mc "Her? Who's that?"
-    mc "Her? Who's that?"
+    mc "她？那是谁？"
 
 # game/boutique.rpy#L2153
 translate chinese boutiqueaftermenu_15f279c9:
 
     # ruby "Oh! It's a secret!"
-    ruby "Oh! It's a secret!"
+    ruby "秘密！"
 
 # game/boutique.rpy#L2154
 translate chinese boutiqueaftermenu_83141b54:
 
     # mc "I see, I won't pry then."
-    mc "I see, I won't pry then."
+    mc "行吧，那我就不打听了。"
 
 # game/boutique.rpy#L2155
 translate chinese boutiqueaftermenu_40337e2b:
 
     # "How curious, Ruby has a lesbian love interest? Maybe it's a female fan of her camshows."
-    "How curious, Ruby has a lesbian love interest? Maybe it's a female fan of her camshows."
+    "真奇怪，Ruby竟然对百合感兴趣？也许那只马是她的女粉丝。"
 
 # game/boutique.rpy#L2156
 translate chinese boutiqueaftermenu_855f5104:
 
     # "Maybe it's someone I know."
-    "Maybe it's someone I know."
+    "也许是我认识的马。"
 
 # game/boutique.rpy#L2159
 translate chinese boutiqueaftermenu_08638bbd:
 
     # ruby "Awh darling... I guess I understand, a lady shouldn't sleep around, right?"
-    ruby "Awh darling... I guess I understand, a lady shouldn't sleep around, right?"
+    ruby "啊，亲爱的…我想我明白了，女孩子不应该到处找别马睡，对吧？"
 
 # game/boutique.rpy#L2160
 translate chinese boutiqueaftermenu_a6f65be3:
 
     # mc "Well, I kinda feel bad now. Aren't you worried about pregnancy?"
-    mc "Well, I kinda feel bad now. Aren't you worried about pregnancy?"
+    mc "嗯，我现在有点儿难过。你不担心怀孕吗？"
 
 # game/boutique.rpy#L2162
 translate chinese boutiqueaftermenu_62e08556:
 
     # ruby "You've got a point. But you're right. I'm more of a voyeur than someone that does the sleeping anyway."
-    ruby "You've got a point. But you're right. I'm more of a voyeur than someone that does the sleeping anyway."
+    ruby "你说到点子上了。你是对的。我更像是个偷窥狂，而不是一个陪睡女。"
 
 # game/boutique.rpy#L2163
 translate chinese boutiqueaftermenu_ab5b52af:
 
     # ruby "I just thought I'd ask out of curiosity more than anything."
-    ruby "I just thought I'd ask out of curiosity more than anything."
+    ruby "我觉得我是出于好奇心才问这个问题的。"
 
 # game/boutique.rpy#L2165
 translate chinese boutiqueaftermenu_fbe6c898:
 
     # mc "There's something on my mind."
-    mc "There's something on my mind."
+    mc "我想到了什么事儿。"
 
 # game/boutique.rpy#L2166
 translate chinese boutiqueaftermenu_470437b5:
 
     # ruby "What's that darling?"
-    ruby "What's that darling?"
+    ruby "亲爱的，那是什么？"
 
 # game/boutique.rpy#L2167
 translate chinese boutiqueaftermenu_8d9e7392:
 
     # mc "I'm just wondering why you're so nonchalant about letting me sleep with your little sister?"
-    mc "I'm just wondering why you're so nonchalant about letting me sleep with your little sister?"
+    mc "我只是想知道你为啥对我和你妹妹睡觉这事儿毫不在意？"
 
 # game/boutique.rpy#L2169
 translate chinese boutiqueaftermenu_11997589:
 
     # ruby "Is that a problem? She's even feistier than I am, so there's nothing to worry about."
-    ruby "Is that a problem? She's even feistier than I am, so there's nothing to worry about."
+    ruby "这是个事儿吗？她比我还皮，所以这破事儿没什么好担心的。"
 
 # game/boutique.rpy#L2170
 translate chinese boutiqueaftermenu_1eb2e7d5:
 
     # mc "Yeah that's true, but I think you're missing the point. We have this strange two-sister one-man love triangle, don't you think that's strange?"
-    mc "Yeah that's true, but I think you're missing the point. We have this strange two-sister one-man love triangle, don't you think that's strange?"
+    mc "确实，是这样，但我觉得你没抓住我这句话的重点。我们之间的关系是奇奇怪怪的二女一男三角恋，你不觉得这很诡异吗？"
 
 # game/boutique.rpy#L2172
 translate chinese boutiqueaftermenu_8e507dc2:
 
     # ruby "Perhaps it's a little weird, but I like to think of it as a happy accident where the three of us are mature enough to settle this like adults."
-    ruby "Perhaps it's a little weird, but I like to think of it as a happy accident where the three of us are mature enough to settle this like adults."
+    ruby "也许是有点儿诡异，不过我认为这是一个让人欣喜若狂的“意外”，我们三个已经可以以成年人的角度去解决这个问题了。"
 
 # game/boutique.rpy#L2173
 translate chinese boutiqueaftermenu_0978401a:
 
     # ruby "Think of all the moments in great literature where an attractive man incidently seduced both lady and sister."
-    ruby "Think of all the moments in great literature where an attractive man incidently seduced both lady and sister."
+    ruby "想想那些伟大的文学作品中也会有一个迷人的男人偶然地勾引了女孩子和她妹妹的剧情。"
 
 # game/boutique.rpy#L2175
 translate chinese boutiqueaftermenu_44fb301c:
 
     # ruby "What a tragedy it would be if either one of us were selfish enough to cut off that joy, rather than share in it."
-    ruby "What a tragedy it would be if either one of us were selfish enough to cut off that joy, rather than share in it."
+    ruby "如果我们中的任何一个都自私到独霸快乐，而不是分享快乐，那将是一个多么悲剧的故事啊。"
 
 # game/boutique.rpy#L2176
 translate chinese boutiqueaftermenu_951f89fe:
 
     # mc "Uhh... Yeah, okay."
-    mc "Uhh... Yeah, okay."
+    mc "呃…好吧，行。"
 
 # game/boutique.rpy#L2177
 translate chinese boutiqueaftermenu_7efa0063:
 
     # ruby "It also fits into my interests as a voyeur."
-    ruby "It also fits into my interests as a voyeur."
+    ruby "这也满足了我的偷窥癖好。"
 
 # game/boutique.rpy#L2178
 translate chinese boutiqueaftermenu_383ebc93:
 
     # mc "Fits your interest? I hope you aren't implying you watch us do it."
-    mc "Fits your interest? I hope you aren't implying you watch us do it."
+    mc "满足你的癖好？我希望你不是在暗示你曾经偷偷地看着我们搞事情。"
 
 # game/boutique.rpy#L2180
 translate chinese boutiqueaftermenu_5a9e0f3e:
 
     # ruby "Never darling! B-But I may be able to hear sometimes..."
-    ruby "Never darling! B-But I may be able to hear sometimes..."
+    ruby "亲爱的，真没有！只-只是有时候我能听到…"
 
 # game/boutique.rpy#L2181
 translate chinese boutiqueaftermenu_b63b9c0d:
 
     # mc "You can hear us?"
-    mc "You can hear us?"
+    mc "你能听见我们？"
 
 # game/boutique.rpy#L2183
 translate chinese boutiqueaftermenu_adfd70c4:
 
     # ruby "Well, the walls are awfully thin darling..."
-    ruby "Well, the walls are awfully thin darling..."
+    ruby "嘿，你没有发现这墙壁跟纸一样薄嘛，亲爱的…"
 
 # game/boutique.rpy#L2184
 translate chinese boutiqueaftermenu_c2c1a3fa:
 
     # mc "Do you masturbate to the sounds?"
-    mc "Do you masturbate to the sounds?"
+    mc "你随着声音自慰吗？"
 
 # game/boutique.rpy#L2186
 translate chinese boutiqueaftermenu_24344a22:
 
     # ruby "I-uh, n-no! Never!"
-    ruby "I-uh, n-no! Never!"
+    ruby "我…呃，不…不！从来没有！"
 
 # game/boutique.rpy#L2187
 translate chinese boutiqueaftermenu_179225bd:
 
     # "She's such a bad liar."
-    "She's such a bad liar."
+    "她真是个大骗子。"
 
 # game/boutique.rpy#L2189
 translate chinese boutiqueaftermenu_bef416c5:
@@ -7466,13 +7466,13 @@ translate chinese boutiqueaftermenu_7d010a14:
 translate chinese boutiqueaftermenu_de97429c:
 
     # ruby "Never wanting to work a day in her life, she'd just try to hitch rides with richer stallions by looking pretty and acting dumb."
-    ruby "Never wanting to work a day in her life, she'd just try to hitch rides with richer stallions by looking pretty and acting dumb."
+    ruby "她对工作嗤之以鼻，她只是想通过装傻和浓妆艳抹来攀附有钱的种马。"
 
 # game/boutique.rpy#L2198
 translate chinese boutiqueaftermenu_c7bdf55d:
 
     # ruby "Through her first divorce we actually managed to get enough money to buy one of the largest houses in the suburbs."
-    ruby "Through her first divorce we actually managed to get enough money to buy one of the largest houses in the suburbs."
+    ruby "多亏了她的第一次离婚，我们设法以此弄到了足够的钱去购置一座郊区最大的房子。"
 
 # game/boutique.rpy#L2200
 translate chinese boutiqueaftermenu_ff0d41f0:

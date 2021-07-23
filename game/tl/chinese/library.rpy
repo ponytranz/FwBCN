@@ -4868,7 +4868,7 @@ translate chinese libraryvisit2choice1_599c02c9:
 translate chinese libraryvisit2choice1_83f611dc:
 
     # lily "If I was an emotional girl, I’d cry right now, and that’d be on you."
-    lily "如果我是一个情绪化的女孩，我会哭，而且都怪你！"
+    lily "如果我是一个多愁善感的女孩，我会哭，而且都怪你！"
 
 # game/library.rpy#L1403
 translate chinese libraryvisit2choice1_382d4c45:
@@ -9230,19 +9230,19 @@ translate chinese lilylegsupmissionary_d70fae5d:
 translate chinese lilylegsupmissionary_839763d3:
 
     # mc "Oh, by the way, why are we in your bedroom?"
-    mc "哦，对了，请问我们为什么是在你的卧室？"
+    mc "哦，对了，请问为什么是在你的卧室？"
 
 # game/library.rpy#L2610
 translate chinese lilylegsupmissionary_a0652f45:
 
     # selene "That’s because I’m planning on sleeping as soon as you leave. Just trimming the fat of the situation, don’t worry about it."
-    selene "那是因为你们一走我就打算接着睡美容觉。只是本宫保持身材懒得多动，别担心。"
+    selene "那是因为你们一走我就打算接着睡美容觉。只是本宫保持身材懒得多动罢了，别放心上。"
 
 # game/library.rpy#L2612
 translate chinese lilylegsupmissionary_da80486f:
 
     # moxie "Okay, we'll trim the fat too, so you can get back to sleep, your majesty."
-    moxie "Okay, we'll trim the fat too, so you can get back to sleep, your majesty."
+    moxie "明白，我们也会减肥的，所以请继续睡吧，陛下。"
 
 # game/library.rpy#L2614
 translate chinese lilylegsupmissionary_895275f6:

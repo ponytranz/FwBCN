@@ -3230,7 +3230,7 @@ translate chinese creamvmissionary_297b4fa5:
 translate chinese creamvmissionary_5c2ec407:
 
     # "It's clear that Honey is driven by pure pleasure and sexual instinct right now, she doesn't care about anything but sex as she blissfully moans."
-    "很明显，亨尼现在受到纯粹的快感和性本能的驱使，她幸福地呻吟着，除了性什么都不在乎。"
+    "很明显，Honey现在被纯粹的快感和性本能所驱使，她幸福地呻吟着，除了交配，什么都不在乎。"
 
 # game/bakery.rpy#L1024
 translate chinese creamvmissionary_ef36abc9:
