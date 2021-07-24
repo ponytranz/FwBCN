@@ -20,7 +20,7 @@ translate chinese artgallery_465c14f0:
 translate chinese artgallery_a75c79ab:
 
     # "Entry Fee - 15 monies for the day."
-    "进门费 - 当日票15元。"
+    "入场费 - 当日票15元。"
 
 # game/artgallery.rpy#L23
 translate chinese artgallery_9e58b73d:

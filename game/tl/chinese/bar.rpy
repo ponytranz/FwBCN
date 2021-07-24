@@ -6842,7 +6842,7 @@ translate chinese rikumaidblowjob_e3df7b11:
 translate chinese rikumaidblowjob_003c16d2:
 
     # "Riku seems distressed, she saw both winks."
-    "Riku被夹在中间显得左右为难。"
+    "Riku被夹在中间显得十分窘迫。"
 
 # game/bar.rpy#L1858
 translate chinese rikumaidblowjob_bb47eb9f:
@@ -6926,55 +6926,55 @@ translate chinese rikumaidblowjob_c3de6611:
 translate chinese rikumaidblowjob_e5713d9c:
 
     # "Riku genuinely listens, Moxie may be more commandeering than even I am."
-    "Riku genuinely listens, Moxie may be more commandeering than even I am."
+    "Riku真诚地听着，不过Moxie可能比我更加霸道。"
 
 # game/bar.rpy#L1875
 translate chinese rikumaidblowjob_1c8f39d0:
 
     # "Riku’s legs part gently and Moxie spreads apart the pussy lips causing Riku to gasp, she’s trembling even more than before."
-    "Riku’s legs part gently and Moxie spreads apart the pussy lips causing Riku to gasp, she’s trembling even more than before."
+    "Riku的双腿轻轻分开，Moxie弄开自己的小穴，这使Riku气喘吁吁，她比之前颤抖得更厉害。"
 
 # game/bar.rpy#L1876
 translate chinese rikumaidblowjob_d92f84bb:
 
     # moxie "Yup, no cum in here. What a shame, it might have been fun to lick it out."
-    moxie "Yup, no cum in here. What a shame, it might have been fun to lick it out."
+    moxie "嗯，真可惜，没有高潮，不然舔干净你那小穴会很有趣的。"
 
 # game/bar.rpy#L1877
 translate chinese rikumaidblowjob_4c58c3b7:
 
     # moxie "You two were about to fuck right, maybe I can still lick it out?"
-    moxie "You two were about to fuck right, maybe I can still lick it out?"
+    moxie "你俩刚才正要做爱是吗？也许我可以帮你舔舔她的小穴？"
 
 # game/bar.rpy#L1878
 translate chinese rikumaidblowjob_f8222245:
 
     # riku "That’s way too lewd!"
-    riku "That’s way too lewd!"
+    riku "这种方法太流氓了！"
 
 # game/bar.rpy#L1879
 translate chinese rikumaidblowjob_f3378986:
 
     # moxie "Wow though, I can’t believe how wet you are."
-    moxie "Wow though, I can’t believe how wet you are."
+    moxie "哇，我不敢相信你那里竟然这么湿润。"
 
 # game/bar.rpy#L1880
 translate chinese rikumaidblowjob_541329a1:
 
     # moxie "[playername] does have that effect on mares."
-    moxie "[playername] does have that effect on mares."
+    moxie "[playername]搞得那俩母马很舒服。"
 
 # game/bar.rpy#L1881
 translate chinese rikumaidblowjob_249adae9:
 
     # "Moxie holds Riku close and takes one long lick across the length of her vulva, Riku puts up no resistance, she can’t do anything but throw her head up and moan."
-    "Moxie holds Riku close and takes one long lick across the length of her vulva, Riku puts up no resistance, she can’t do anything but throw her head up and moan."
+    "Moxie紧紧地抱着Riku，在她的阴户上狠狠地舔了一下，Riku没有反抗，她只是抬起头呻吟着。"
 
 # game/bar.rpy#L1882
 translate chinese rikumaidblowjob_d25a6280:
 
     # riku "Aahhh? M-Moxie!?"
-    riku "Aahhh? M-Moxie!?"
+    riku "啊哈哈哈？M...Moxie？"
 
 # game/bar.rpy#L1883
 translate chinese rikumaidblowjob_7726b9c7:
@@ -6986,25 +6986,25 @@ translate chinese rikumaidblowjob_7726b9c7:
 translate chinese rikumaidblowjob_e68e38dc:
 
     # "Moxie stands back up and wipes her wetted muzzle clean before looking towards me and grinning."
-    "Moxie stands back up and wipes her wetted muzzle clean before looking towards me and grinning."
+    "Moxie站起来，把湿润的唇瓣擦干净，然后看着我笑了。"
 
 # game/bar.rpy#L1892
 translate chinese rikumaidblowjob_8eedcc1a:
 
     # moxie "She’s cute, isn’t she? I think I prefer her in-between my legs though."
-    moxie "She’s cute, isn’t she? I think I prefer her in-between my legs though."
+    moxie "她真是可爱啊,是吧？我想如果她被我夹在两腿之间会更讨喜。"
 
 # game/bar.rpy#L1893
 translate chinese rikumaidblowjob_fa821e81:
 
     # riku "Hmph…"
-    riku "Hmph…"
+    riku "嗯……"
 
 # game/bar.rpy#L1894
 translate chinese rikumaidblowjob_f9521584:
 
     # mc "I’m surprised by how forward you’re being."
-    mc "I’m surprised by how forward you’re being."
+    mc "你竟然这么积极，我有点惊讶。"
 
 # game/bar.rpy#L1895
 translate chinese rikumaidblowjob_bdb54dde:
@@ -7034,43 +7034,43 @@ translate chinese rikumaidblowjob_c851cec2:
 translate chinese rikumaidblowjob_dd25bc69:
 
     # mc "I had no idea you two have had sex before."
-    mc "I had no idea you two have had sex before."
+    mc "我不知道你俩之前做过爱。"
 
 # game/bar.rpy#L1905
 translate chinese rikumaidblowjob_ba638676:
 
     # riku "It was not sex! Just drunk playing!"
-    riku "It was not sex! Just drunk playing!"
+    riku "不是搞黄色！只不过是玩喝酒比赛而已！"
 
 # game/bar.rpy#L1906
 translate chinese rikumaidblowjob_bcfec493:
 
     # moxie "It was drunk playing and sex."
-    moxie "It was drunk playing and sex."
+    moxie "那是耍酒疯与搞黄色。"
 
 # game/bar.rpy#L1908
 translate chinese rikumaidblowjob_f22856ab:
 
     # moxie "One night, Riku and I were just chilling together, we started playing truth or dare while drinking, and it escalated to lewd proportions."
-    moxie "One night, Riku and I were just chilling together, we started playing truth or dare while drinking, and it escalated to lewd proportions."
+    moxie "一天晚上，Riku和我只是一起放松，于是我们就在喝酒的时候开始玩真心话大冒险，最后越玩越大。"
 
 # game/bar.rpy#L1909
 translate chinese rikumaidblowjob_c797eea7:
 
     # moxie "Then we did it again a few days afterwards hehe, then you started to see that gym-buddy and it broke off."
-    moxie "Then we did it again a few days afterwards hehe, then you started to see that gym-buddy and it broke off."
+    moxie "几天后我们又做了一次，呵呵，然后你看到的那个健身伙伴，就被她遗忘了。"
 
 # game/bar.rpy#L1910
 translate chinese rikumaidblowjob_bfb038c4:
 
     # "Wow, I wonder how many fascinating things I don’t know about these girls? Are they all fucking behind my back?"
-    "Wow, I wonder how many fascinating things I don’t know about these girls? Are they all fucking behind my back?"
+    "哇，这些丫头还有多少有趣的秘密我还不知道？她们都背着我乱搞吗？我很好奇。"
 
 # game/bar.rpy#L1911
 translate chinese rikumaidblowjob_cbf72053:
 
     # mc "Wait a minute, the exact same thing happened to me."
-    mc "Wait a minute, the exact same thing happened to me."
+    mc "等等，相同的事情也发生在我身上了。"
 
 # game/bar.rpy#L1913
 translate chinese rikumaidblowjob_8059d8e3:
@@ -7088,13 +7088,13 @@ translate chinese rikumaidblowjob_514d37ab:
 translate chinese rikumaidblowjob_a452fcdf:
 
     # mc "Yeah, Riku made me play truth or dare the first time we met, and it escalated."
-    mc "Yeah, Riku made me play truth or dare the first time we met, and it escalated."
+    mc "嗯...Riku和我第一次见面就玩了真心话大冒险，然后也玩大了。"
 
 # game/bar.rpy#L1920
 translate chinese rikumaidblowjob_b0ebb464:
 
     # moxie "Oh really? Our small, red friend is smarter than she lets on."
-    moxie "Oh really? Our small, red friend is smarter than she lets on."
+    moxie "哦，真的吗？我们的红毛小朋友真是比她表现得聪明多了。"
 
 # game/bar.rpy#L1922
 translate chinese rikumaidblowjob_99930f3a:
@@ -7136,7 +7136,7 @@ translate chinese rikumaidblowjob_38c1fa49:
 translate chinese rikumaidblowjob_7cc2eb77:
 
     # riku "P-Punish?!"
-    riku "P-Punish?!"
+    riku "惩...惩罚？！"
 
 # game/bar.rpy#L1933
 translate chinese rikumaidblowjob_efd5352f:
@@ -7232,7 +7232,7 @@ translate chinese rikumaidblowjob_bb485f56:
 translate chinese rikumaidblowjob_ce617998:
 
     # "…"
-    "…"
+    "......"
 
 # game/bar.rpy#L1971
 translate chinese rikuthreesome_5bc9c71b:
@@ -7244,13 +7244,13 @@ translate chinese rikuthreesome_5bc9c71b:
 translate chinese rikuthreesome_2addbbaf:
 
     # riku "Mmphh, perverts…"
-    riku "Mmphh, perverts…"
+    riku "哼，死流氓......"
 
 # game/bar.rpy#L1973
 translate chinese rikuthreesome_64d42250:
 
     # moxie "Your tail is gorgeous too."
-    moxie "Your tail is gorgeous too."
+    moxie "你的尾巴也很漂亮。"
 
 # game/bar.rpy#L1974
 translate chinese rikuthreesome_64b0a525:
@@ -7262,7 +7262,7 @@ translate chinese rikuthreesome_64b0a525:
 translate chinese rikuthreesome_ce2399fd:
 
     # riku "Ahhh…"
-    riku "Ahhh…"
+    riku "啊哈哈..."
 
 # game/bar.rpy#L1976
 translate chinese rikuthreesome_5d12fb7f:
@@ -7322,7 +7322,7 @@ translate chinese rikuthreesome_0446fb1c:
 translate chinese rikuthreesome_904b405c:
 
     # moxie "Don’t make me ask, slut."
-    moxie "Don’t make me ask, slut."
+    moxie "别逼我问，荡妇。"
 
 # game/bar.rpy#L1990
 translate chinese rikuthreesome_e2f8423d:
@@ -7340,7 +7340,7 @@ translate chinese rikuthreesome_47569ea5:
 translate chinese rikuthreesome_a26e7532:
 
     # riku "Mmphhh, mmmm!"
-    riku "Mmphhh, mmmm!"
+    riku "嗯......,嗯嗯！"
 
 # game/bar.rpy#L1993
 translate chinese rikuthreesome_9c6752d1:
@@ -7454,7 +7454,7 @@ translate chinese rikuthreesome_8bcfd643:
 translate chinese rikuthreesome_481501e1:
 
     # riku "Please, I really want it…"
-    riku "Please, I really want it…"
+    riku "求求你，我真的很想要......"
 
 # game/bar.rpy#L2013
 translate chinese rikuthreesome_c1011c39:
@@ -7724,7 +7724,7 @@ translate chinese rikuthreesome_ef573e1b:
 translate chinese rikuthreesome_ce617998:
 
     # "…"
-    "…"
+    "......"
 
 # game/bar.rpy#L2112
 translate chinese rikuthreesome_5e9a6e20:
@@ -7832,13 +7832,13 @@ translate chinese rikuthreesome_f2180fe2:
 translate chinese rikuthreesome_c74797f8:
 
     # mc "Interspecies like me?"
-    mc "Interspecies like me?"
+    mc "像我这样的外星生物？"
 
 # game/bar.rpy#L2143
 translate chinese rikuthreesome_7e01c0f3:
 
     # riku "Kinda, but not quite."
-    riku "Kinda, but not quite."
+    riku "有些，但是并不强烈。"
 
 # game/bar.rpy#L2144
 translate chinese rikuthreesome_68f4a286:
@@ -7904,7 +7904,7 @@ translate chinese rikuthreesome_2e2234fa:
 translate chinese rikuthreesome_f8af5d12:
 
     # riku "Although…"
-    riku "Although…"
+    riku "虽然..."
 
 # game/bar.rpy#L2160
 translate chinese rikuthreesome_9c30e6ce:
@@ -7988,7 +7988,7 @@ translate chinese rikuthreesome_74cf9ea8:
 translate chinese rikuthreesome_ce617998_1:
 
     # "…"
-    "…"
+    "......"
 
 # game/bar.rpy#L2186
 translate chinese rikuthreesome_7d4cf2f3:
@@ -12620,7 +12620,7 @@ translate chinese doubledoggo_869a59a5:
 translate chinese doubledoggo_ce617998:
 
     # "…"
-    "…"
+    "......"
 
 # game/bar.rpy#L3747
 translate chinese doubledoggo_b492ac79:
@@ -12662,7 +12662,7 @@ translate chinese doubledoggo_1b006a1c:
 translate chinese doubledoggo_b63cc486:
 
     # doggirl "Heh, the loser has to slurp the juices off his cock."
-    doggirl "Heh, the loser has to slurp the juices off his cock."
+    doggirl "嘿，输的人得把他鸡儿上的精液搞出来。"
 
 # game/bar.rpy#L3755
 translate chinese doubledoggo_eca5391e:
@@ -12674,55 +12674,55 @@ translate chinese doubledoggo_eca5391e:
 translate chinese doubledoggo_b3c7ffc2:
 
     # "Rock."
-    "Rock."
+    "石头。"
 
 # game/bar.rpy#L3757
 translate chinese doubledoggo_a119ff12:
 
     # "Paper."
-    "Paper."
+    "布。"
 
 # game/bar.rpy#L3758
 translate chinese doubledoggo_1529020a:
 
     # "Scissors!"
-    "Scissors!"
+    "剪刀！"
 
 # game/bar.rpy#L3759
 translate chinese doubledoggo_c163098d:
 
     # wolfgirl "Ah?!"
-    wolfgirl "Ah?!"
+    wolfgirl "啊？！"
 
 # game/bar.rpy#L3760
 translate chinese doubledoggo_c9249597:
 
     # doggirl "No way?!"
-    doggirl "No way?!"
+    doggirl "没门？！"
 
 # game/bar.rpy#L3761
 translate chinese doubledoggo_f2299375:
 
     # mc "A draw!"
-    mc "A draw!"
+    mc "平手！"
 
 # game/bar.rpy#L3762
 translate chinese doubledoggo_b3c7ffc2_1:
 
     # "Rock."
-    "Rock."
+    "石头。"
 
 # game/bar.rpy#L3763
 translate chinese doubledoggo_a119ff12_1:
 
     # "Paper."
-    "Paper."
+    "布。"
 
 # game/bar.rpy#L3764
 translate chinese doubledoggo_1529020a_1:
 
     # "Scissors!"
-    "Scissors!"
+    "剪刀！"
 
 # game/bar.rpy#L3765
 translate chinese doubledoggo_e74c1a2f:
@@ -12896,7 +12896,7 @@ translate chinese doubledoggo_119c9a8c:
 translate chinese doubledoggo_4955eb36:
 
     # wolfgirl "Ahh, ahh, yes! Yes!"
-    wolfgirl "Ahh, ahh, yes! Yes!"
+    wolfgirl "啊~啊·~，嗯！唔嗯！"
 
 # game/bar.rpy#L3809
 translate chinese doubledoggo_161ed06e:
@@ -12962,7 +12962,7 @@ translate chinese doubledoggo_a98f4b77:
 translate chinese doubledoggo_ee235923:
 
     # doggirl "Ohhh yesss… I looove this dick."
-    doggirl "Ohhh yesss… I looove this dick."
+    doggirl "啊啊哈哈太棒了...我爱——这根肉棒。"
 
 # game/bar.rpy#L3827
 translate chinese doubledoggo_34498016:

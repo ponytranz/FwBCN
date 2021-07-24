@@ -20,37 +20,37 @@ translate chinese augustapost_d8321a75:
 translate chinese augustapost_eb4a2cc4:
 
     # mc "Woah, woah, woah. I haven't agreed to anything yet!"
-    mc "Woah, woah, woah. I haven't agreed to anything yet!"
+    mc "哇哇哇，我还是不同意任何条件！"
 
 # game/church.rpy#L21
 translate chinese augustapost_331c36ae:
 
     # augusta "Ah, sure. What's up then?"
-    augusta "Ah, sure. What's up then?"
+    augusta "啊,行。那怎么一回子事？"
 
 # game/church.rpy#L28
 translate chinese augustamenu_2fa394ea:
 
     # augusta "Currently I've witnessed you perform in three acts of sexual intercourse."
-    augusta "Currently I've witnessed you perform in three acts of sexual intercourse."
+    augusta "目前为止我观察了你三次与她马交欢的表现。"
 
 # game/church.rpy#L29
 translate chinese augustamenu_3a889b38:
 
     # augusta "The first was you and I through the box."
-    augusta "The first was you and I through the box."
+    augusta "首先你和我进入了盒子。"
 
 # game/church.rpy#L30
 translate chinese augustamenu_c9541bb3:
 
     # augusta "The second was an interesting test with another mare in the box."
-    augusta "The second was an interesting test with another mare in the box."
+    augusta "然后这个测试有趣的地方是——盒子里还有第二匹母马。"
 
 # game/church.rpy#L31
 translate chinese augustamenu_37f7e417:
 
     # mc "So you admit that was a test?"
-    mc "So you admit that was a test?"
+    mc "所以你承认那是个测试而已？"
 
 # game/church.rpy#L33
 translate chinese augustamenu_df54dc51:
@@ -4214,67 +4214,67 @@ translate chinese lorequeen_fc0b84a2:
 translate chinese lorequeen_bc35b614:
 
     # augusta "Ooohhh… I like your cock, bro…"
-    augusta "Ooohhh… I like your cock, bro…"
+    augusta "哦~我喜欢你的小兄弟，伙计..."
 
 # game/church.rpy#L1343
 translate chinese lorequeen_83a0199b:
 
     # "Satisfied with her work, she lifts her butt even further so the tip of my cock is mushed up against her vulva."
-    "Satisfied with her work, she lifts her butt even further so the tip of my cock is mushed up against her vulva."
+    "轻轻松松地就让我完全勃起，她对此自得非常，翘臀紧接着继续向后推，我的龟头直抵外阴。"
 
 # game/church.rpy#L1344
 translate chinese lorequeen_65d9f498:
 
     # "Swaying her bubble butt back and forth seductively, she uses her right hand to hold my throbbing member steady as she guides it inside."
-    "Swaying her bubble butt back and forth seductively, she uses her right hand to hold my throbbing member steady as she guides it inside."
+    "她诱人地前后推进着自己的圆臀，右手执住我跃跃欲试的鸡巴，引导它顺利嵌入她的肉缝当中。"
 
 # game/church.rpy#L1347
 translate chinese lorequeen_4e705ac9:
 
     # "Pushing her rear down, she keeps going until I’m completely submerged in her wet and ready pussy. Did she have that buttplug in the entire time? Sneaky."
-    "Pushing her rear down, she keeps going until I’m completely submerged in her wet and ready pussy. Did she have that buttplug in the entire time? Sneaky."
+    "屁股也开始亵慢地下沉，直到鸡巴整根没入她早已浸湿的蜜穴当中。我不禁心生疑问，她的臀部对接一直都这么准吗？"
 
 # game/church.rpy#L1348
 translate chinese lorequeen_5ae85cf2:
 
     # augusta "Ah-ha, I knew your juicy cock couldn’t resist such an amazing pussy like mine… With just a little zap of magic, I’m going to make you feel so, so, so good…"
-    augusta "Ah-ha, I knew your juicy cock couldn’t resist such an amazing pussy like mine… With just a little zap of magic, I’m going to make you feel so, so, so good…"
+    augusta "啊哈~就算是你这样的巨炮也对抗不了我这样的名器...现在只要我再伴以少许魔法，就能让你欲，仙，欲，死......"
 
 # game/church.rpy#L1351
 translate chinese lorequeen_27dc7cbb:
 
     # "She winks as she casts a subtle spell. I don’t feel anything at first, but I’m sure the effects will soon become apparent."
-    "She winks as she casts a subtle spell. I don’t feel anything at first, but I’m sure the effects will soon become apparent."
+    "她顽皮地眨了眨眼，口中念念有词，释放法术。我最开始感觉没什么明显变化，不过我相信法术的效力不久就会浮出水面。"
 
 # game/church.rpy#L1352
 translate chinese lorequeen_d22a23c4:
 
     # "Her pussy squeezes slightly, reminding me of how amazing her warm insides feel. A few drops of pre-cum escape my tip as she begins to work her hips like a true goddess of sex."
-    "Her pussy squeezes slightly, reminding me of how amazing her warm insides feel. A few drops of pre-cum escape my tip as she begins to work her hips like a true goddess of sex."
+    "她并不心急，肉壁缓缓地挤压着我的长枪，让我充分体会她温暖无暇的名器。接着她开始像真正的爱之神一样施展自己的腰力技巧，我完全招架不住，几滴前列腺液从龟头不争气地被挤出。"
 
 # game/church.rpy#L1353
 translate chinese lorequeen_65cb0bf5:
 
     # "It’s all in the hips with this mare as she begins to swing them in little circles with the grace of a dancer."
-    "It’s all in the hips with this mare as she begins to swing them in little circles with the grace of a dancer."
+    "雌驹的丰臀开始像一位优雅的舞者一样转圈。"
 
 # game/church.rpy#L1354
 translate chinese lorequeen_e968b02e:
 
     # "Her circular movements gradually become elliptical as her tight lips slide up and down the base of my shaft with increasingly long thrusts."
-    "Her circular movements gradually become elliptical as her tight lips slide up and down the base of my shaft with increasingly long thrusts."
+    "随着她的蜜穴开始上下起伏抽插，她臀部完美的圆周运动也逐渐变成了椭圆运动。"
 
 # game/church.rpy#L1355
 translate chinese lorequeen_15f2dc4f:
 
     # "Each thrust gaining intensity and vigour… *Thwap… thwap… thwap… thwap, thwap, thwap! *"
-    "Each thrust gaining intensity and vigour… *Thwap… thwap… thwap… thwap, thwap, thwap! *"
+    "而且每一次起伏的力道都那么精准和高昂...*啪… 啪… 啪… 啪, 啪, 啪! *"
 
 # game/church.rpy#L1357
 translate chinese lorequeen_237f78bd:
 
     # "As a lover of pleasure herself, her movements are expertly hitting all the pleasure points deep within her pussy while also creating some friction on her clit."
-    "As a lover of pleasure herself, her movements are expertly hitting all the pleasure points deep within her pussy while also creating some friction on her clit."
+    "她抽插的每一下都能让我的肉棒击到她小穴里的每一处敏感点，同时还能让棒身摩擦到她的阴蒂，如此极上的愉悦她非常受用。"
 
 # game/church.rpy#L1358
 translate chinese lorequeen_e22c6529:
@@ -4286,19 +4286,19 @@ translate chinese lorequeen_e22c6529:
 translate chinese lorequeen_d6eb38b9:
 
     # "She may be right, although her technique is slow right now, her purposeful movements are maximising and heightening the pleasure I feel… It’s really fucking good."
-    "She may be right, although her technique is slow right now, her purposeful movements are maximising and heightening the pleasure I feel… It’s really fucking good."
+    "她可能是对的，虽然现在她的节奏稍有放缓，但每一个动作都能最大限度地放大我的快感...真特么的劲爆。"
 
 # game/church.rpy#L1360
 translate chinese lorequeen_2f2ab5c3:
 
     # augusta "Of course, this is just the starter… But I think it’s time for the main course, don’t you?"
-    augusta "Of course, this is just the starter… But I think it’s time for the main course, don’t you?"
+    augusta "不过，好戏还在后头呢...现在是时候上重头戏了，对吧？"
 
 # game/church.rpy#L1361
 translate chinese lorequeen_b863e4c8:
 
     # "Augusta drops her weight down and lets out a satisfying moan as she sinks all the way down my cock again. She then shimmies around in place for a few seconds as she gets into a comfortable position… A comfortable position for what?"
-    "Augusta drops her weight down and lets out a satisfying moan as she sinks all the way down my cock again. She then shimmies around in place for a few seconds as she gets into a comfortable position… A comfortable position for what?"
+    "Augusta终于完全放开姿态，完全蹲下，整个身子的体重毫无保留地压在我身上，肉棒插至最深处又激起了她满足的浪叫。每当她插到一个舒服的位置时就会稍作停顿并晃动腰部...这节奏有点奇怪。"
 
 # game/church.rpy#L1362
 translate chinese lorequeen_d6c39eb2:
@@ -4670,13 +4670,13 @@ translate chinese lorequeen_9a33baa5:
 translate chinese lorequeen_8dc0825e:
 
     # augusta "Eh?! How often?!"
-    augusta "Eh?! How often?!"
+    augusta "嗯？多久一次?!"
 
 # game/church.rpy#L1477
 translate chinese lorequeen_c9d4ee11:
 
     # mc "... Uhhmm... Like... More than you."
-    mc "... Uhhmm... Like... More than you."
+    mc "...嗯...额...比和你的次数还多。"
 
 # game/church.rpy#L1479
 translate chinese lorequeen_03b00a26:
@@ -4724,7 +4724,7 @@ translate chinese lorequeen_86691929:
 translate chinese lorequeen_20fd986c:
 
     # "Later that evening..."
-    "Later that evening..."
+    "后半夜..."
 
 translate chinese strings:
 

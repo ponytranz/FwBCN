@@ -1502,7 +1502,7 @@ translate chinese clibrary_3b48d631:
 translate chinese clibrary_1565c3ca:
 
     # lily "O-Oh my goodness, I can’t… W-What? Morrigan! I need to stop Morrigan!"
-    lily "啊，哦我的女神啊,我不能…？什 什么？Morrigan！对了我要赶紧阻止Morrigan！"
+    lily "啊，哦我的老天啊,我不…？什-什么？Morrigan！对了，我要赶紧去阻止Morrigan！"
 
 # game/finalroute.rpy#L688
 translate chinese clibrary_bd65eb3c:
@@ -1568,19 +1568,19 @@ translate chinese clibrary_57149521:
 translate chinese clibrary_52763636:
 
     # mc "Ahh… So… Moxie is a real person? The Moxie I know?"
-    mc "啊…所以…Moxie是个真实的人？是我所认识的那位Moxie？"
+    mc "啊…所以…Moxie是真实存在的？是我所认识的那位Moxie？"
 
 # game/finalroute.rpy#L712
 translate chinese clibrary_b6d9b746:
 
     # lily "Mhm, the Moxie we know is still alive inside that shared body of Morrigan’s. The Moxie you know is real."
-    lily "emm，我们知道Moxie还在那个和Morrigan共享的身体里活着。那个真正的Moxie。"
+    lily "emm，我们认识的那个Moxie还在和那个Morrigan共享着身体。那个真正的Moxie。"
 
 # game/finalroute.rpy#L713
 translate chinese clibrary_fd22bd9c:
 
     # lily "I’m not sure when Morrigan started possessing her, but it would seem she let a lot of Moxie’s original personality shine, because I didn’t notice any difference."
-    lily "我不确定Morrigan是什么时候开始占据她的，但似乎她让Moxie的许多原始人格发光发彩了，因为我没有注意到任何不同。"
+    lily "我不确定Morrigan是什么时候开始占据她的，但似乎她让Moxie的许多原始人格发光发彩了，因为我没有注意到她俩有任何不同。"
 
 # game/finalroute.rpy#L714
 translate chinese clibrary_6301a9f2:
@@ -2126,7 +2126,7 @@ translate chinese cfarm_e92b3ace:
 translate chinese cfarm_292560ef:
 
     # "With a quick explanation, Honeycrisp agrees to meet with us at the tree."
-    "在一番简要的说明后，Honeycrisp同意在树旁边与我们见面。"
+    "在一番简要的说明后，Honeycrisp同意在树旁边与我们会面。"
 
 # game/finalroute.rpy#L897
 translate chinese cfarm_da49e7a1:
@@ -2150,7 +2150,7 @@ translate chinese cfarm_dbf41bc0:
 translate chinese cfarm_edc5806d:
 
     # blossom "Eep! H-He did imply that, didn’t he? I-I’m sorry sis…"
-    blossom "Eep! H-He did imply that, didn’t he? I-I’m sorry sis…"
+    blossom "不！他的确暗示了，对吧？对不起，姐姐…"
 
 # game/finalroute.rpy#L908
 translate chinese cfarm_bbaab4eb:
@@ -2564,7 +2564,7 @@ translate chinese cboutique_bb4b854d:
 translate chinese cboutique_af3dc803:
 
     # "It seems Ruby is getting a lot of additional pleasure being watched. This kind of perverted situation is perfect to get someone like her off."
-    "It seems Ruby is getting a lot of additional pleasure being watched. This kind of perverted situation is perfect to get someone like her off."
+    "Ruby似乎从被观赏中得到了很多乐趣。这种变态的情况很适合让她这样的人离开。"
 
 # game/finalroute.rpy#L1033
 translate chinese cboutique_375b10cc:
@@ -2678,7 +2678,7 @@ translate chinese cboutique_31f529b9:
 translate chinese cboutique_8beb51bc:
 
     # melody "U-Uhm, o-okay sis? Wormy boy, hurry up and cum! Something’s wrong with Rubes."
-    melody "啊，好吧，姐姐?小虫子，快点射！Ruby你好像有点不对劲呀？"
+    melody "啊，好吧，姐姐?小虫子，快点射呀！Ruby你好像有点不对劲呀？"
 
 # game/finalroute.rpy#L1063
 translate chinese cboutique_4bbecaff:
@@ -2702,7 +2702,7 @@ translate chinese cboutique_4f6de2bb:
 translate chinese cboutique_6eb9af6c:
 
     # "She was aching with desire and quickly forgot about Ruby's eyes, as her body relaxed and melted into Ruby’s."
-    "She was aching with desire and quickly forgot about Ruby's eyes, as her body relaxed and melted into Ruby’s."
+    "她因渴望性欲而痛苦着，很快就忘记了Ruby的眼睛，随着她身体的放松，她融入到了Ruby的眼睛里。"
 
 # game/finalroute.rpy#L1067
 translate chinese cboutique_9cee3e47:
@@ -2750,7 +2750,7 @@ translate chinese cboutique_cf5704d4:
 translate chinese cboutique_e399c10d:
 
     # "Indirectly the amount of clit rubbing from the intense fuck causes Ruby to wriggle with pleasure below us"
-    "Indirectly the amount of clit rubbing from the intense fuck causes Ruby to wriggle with pleasure below us"
+    "间接地说，在激烈的做爱中摩擦阴蒂的量导致Ruby的扭动与喜悦低于我们"
 
 # game/finalroute.rpy#L1076
 translate chinese cboutique_df003469:
@@ -2942,7 +2942,7 @@ translate chinese cboutique_5ae60e07:
 translate chinese cboutique_8494fec1:
 
     # mc "Hm… I don’t think it does that…"
-    mc "嗯…我认为咒语可没让我变漂亮……"
+    mc "嗯…我觉得咒语可没让我变漂亮……"
 
 # game/finalroute.rpy#L1145
 translate chinese cboutique_05a9d7d3:
@@ -2966,7 +2966,7 @@ translate chinese cboutique_4e5c74d2:
 translate chinese cbar_ef2ee31a:
 
     # "I don't have time to meet with Riku, I need to complete my fucking conquest!"
-    "我没时间去见Riku了，我要完成我的操马大业!"
+    "我没时间去见Riku了，我还要完成我的操马大业呢!"
 
 # game/finalroute.rpy#L1162
 translate chinese cbar_4819dc70:
@@ -2984,7 +2984,7 @@ translate chinese cbar_5f43c1e9:
 translate chinese cbar_f2575b3e:
 
     # mc "Yeah, I guess, how's it going?"
-    mc "Yeah, I guess, how's it going?"
+    mc "对，我想是的，最近怎么样？"
 
 # game/finalroute.rpy#L1169
 translate chinese cbar_2ce197c3:
@@ -3008,7 +3008,7 @@ translate chinese cbar_ade29b24:
 translate chinese cbar_112266d4:
 
     # riku "Well... Me and the other elements did kick her ass in the past, so she'll probably want a teeny bit of revenge..."
-    riku "嗯…我和其他马之前确实踢了下她的屁股，所以她可能想要报复一下咱们……"
+    riku "嗯…我和其他马之前确实把她狠狠地击败了，所以她可能想要报复一下咱们……"
 
 # game/finalroute.rpy#L1174
 translate chinese cbar_1bc5a496:
@@ -3020,7 +3020,7 @@ translate chinese cbar_1bc5a496:
 translate chinese cbar_272265e4:
 
     # mc "Do you think she can be defeated again?"
-    mc "Do you think she can be defeated again?"
+    mc "你认为她还能被打败吗？"
 
 # game/finalroute.rpy#L1177
 translate chinese cbar_d43268a5:
@@ -3086,217 +3086,217 @@ translate chinese cbar_b1ac94f7:
 translate chinese cbar2_9c7dd9b8:
 
     # "I’ll visit the bar next; it should be a quick in-and-out experience."
-    "I’ll visit the bar next; it should be a quick in-and-out experience."
+    "接下来我准备前往酒吧；而这次一定要做到雷厉风行。"
 
 # game/finalroute.rpy#L1202
 translate chinese cbar2_d2873689:
 
     # "As I knock on the door, the green-eyed Riku opens the door with her usual merriment."
-    "As I knock on the door, the green-eyed Riku opens the door with her usual merriment."
+    "我一敲门，Riku眼中闪烁着喜悦与绿芒，像往常一样打开了门。"
 
 # game/finalroute.rpy#L1203
 translate chinese cbar2_8c2ad9a8:
 
     # "To her, it really feels like nothing’s wrong."
-    "To her, it really feels like nothing’s wrong."
+    "对她来说，真的没什么东西是感到不对劲的。"
 
 # game/finalroute.rpy#L1207
 translate chinese cbar2_f3122381:
 
     # riku "Hey, how’s it goin’? I was just getting ready to go to the gym, are you coming with?"
-    riku "Hey, how’s it goin’? I was just getting ready to go to the gym, are you coming with?"
+    riku "嘿，最近怎么样？我正准备去健身房呢，你也要一起去吗？"
 
 # game/finalroute.rpy#L1208
 translate chinese cbar2_ed72d679:
 
     # mc "Hey Riku… Are you really going to the gym at this time?"
-    mc "Hey Riku… Are you really going to the gym at this time?"
+    mc "嘿，Riku…这个时候你真的要去健身房吗？"
 
 # game/finalroute.rpy#L1210
 translate chinese cbar2_1a92f4df:
 
     # riku "Of course, our Queen doesn’t have any urgent orders; so, I’ll just operate as normal."
-    riku "Of course, our Queen doesn’t have any urgent orders; so, I’ll just operate as normal."
+    riku "当然啦，我们的女王没有任何的紧急命令；所以我会像往常一样。"
 
 # game/finalroute.rpy#L1211
 translate chinese cbar2_ee2bc164:
 
     # riku "I’m not doing anything wrong, am I?"
-    riku "I’m not doing anything wrong, am I?"
+    riku "我没做错什么吧，没吧？"
 
 # game/finalroute.rpy#L1212
 translate chinese cbar2_60ff0a34:
 
     # mc "Oh, no, of course not… But the Queen has ordered me to fuck you."
-    mc "Oh, no, of course not… But the Queen has ordered me to fuck you."
+    mc "哦，没，当然没有…但是女王下达了命令让我来操你。"
 
 # game/finalroute.rpy#L1214
 translate chinese cbar2_5183dbdf:
 
     # riku "Huh? I haven’t received any orders like that… You’re not gonna knock me up with magic, are you?"
-    riku "Huh? I haven’t received any orders like that… You’re not gonna knock me up with magic, are you?"
+    riku "嗯？我没有接到过任何像这样的命令呀...你不会是想用魔法把我肚子搞大吧？"
 
 # game/finalroute.rpy#L1215
 translate chinese cbar2_681a6355:
 
     # mc "I’m not gonna knock you up, it’s just to raise morale."
-    mc "I’m not gonna knock you up, it’s just to raise morale."
+    mc "我不会把你肚子搞大的，这只是为了鼓舞一下士气而已。"
 
 # game/finalroute.rpy#L1217
 translate chinese cbar2_0ea5647d:
 
     # riku "Alright boss, don’t need an order for that one. Let’s go upstairs and you can have your fill."
-    riku "Alright boss, don’t need an order for that one. Let’s go upstairs and you can have your fill."
+    riku "好吧老大，这个不需要提前预定。过会儿我们就上楼去满足你。"
 
 # game/finalroute.rpy#L1218
 translate chinese cbar2_6f17a85a:
 
     # mc "Actually, let me take you right here and now."
-    mc "Actually, let me take you right here and now."
+    mc "其实，我想现在就带你去吧。"
 
 # game/finalroute.rpy#L1220
 translate chinese cbar2_53efd8ee:
 
     # riku "Oh? Whatever you say, boss."
-    riku "Oh? Whatever you say, boss."
+    riku "噢？随你便，老大。"
 
 # game/finalroute.rpy#L1224
 translate chinese cbar2_afc4f883:
 
     # "She bends over the bar’s counter and wiggles her petite butt. I like it when everything goes to plan."
-    "She bends over the bar’s counter and wiggles her petite butt. I like it when everything goes to plan."
+    "她在吧台前弯下了腰，扭动着她娇小的屁股。我喜欢这样一切按计划进行着。"
 
 # game/finalroute.rpy#L1225
 translate chinese cbar2_36e8122e:
 
     # "But this is no good, I can’t fuck all these girls standing up; I need to save some energy."
-    "But this is no good, I can’t fuck all these girls standing up; I need to save some energy."
+    "这可不太妙呀，要是我都站着操这些女孩儿，我会累死的；所以我得想办法省点力气。"
 
 # game/finalroute.rpy#L1226
 translate chinese cbar2_e1f72824:
 
     # "Who better to fuck me than Riku herself? She has so much energy and sexual prowess that she could make me cum even faster than I could."
-    "Who better to fuck me than Riku herself? She has so much energy and sexual prowess that she could make me cum even faster than I could."
+    "还有谁比Riku自己更适合干我呢?她活力满满又性欲充沛，让她来肯定比我自己来要更快。"
 
 # game/finalroute.rpy#L1227
 translate chinese cbar2_2d1de232:
 
     # mc "Actually, do you think you can be on top?"
-    mc "Actually, do you think you can be on top?"
+    mc "话说，你想不想你来当攻呀?"
 
 # game/finalroute.rpy#L1232
 translate chinese cbar2_22422155:
 
     # riku "Oohh, that’s a first for us… Okay, lay down and I’ll service you with my butt."
-    riku "Oohh, that’s a first for us… Okay, lay down and I’ll service you with my butt."
+    riku "哦，咱们这还是第一次这样搞呢…好吧，躺下，让我动动屁股来给你服务吧。"
 
 # game/finalroute.rpy#L1237
 translate chinese cbar2_7fc349f4:
 
     # "I lay down on one of the sofas at the back of the bar, and Riku eagerly mounts me."
-    "I lay down on one of the sofas at the back of the bar, and Riku eagerly mounts me."
+    "我躺在吧台后面的一张沙发上，Riku饥渴地骑到了我上面。"
 
 # game/finalroute.rpy#L1238
 translate chinese cbar2_e6803ed8:
 
     # "She grinds her plump labia back and forth against the tip of my cock. Occasionally she prods downwards onto it, teasing the idea of penetration."
-    "She grinds her plump labia back and forth against the tip of my cock. Occasionally she prods downwards onto it, teasing the idea of penetration."
+    "她用她丰满的阴唇来来回回地舔舐我的龟头。偶尔她还会装个样子往下戳，挑逗着我想要插入的念头。"
 
 # game/finalroute.rpy#L1239
 translate chinese cbar2_de47a12d:
 
     # "In only a few seconds, her moist pussy has already drooled and dribbled an impressive amount of lubricants onto my cock’s head."
-    "In only a few seconds, her moist pussy has already drooled and dribbled an impressive amount of lubricants onto my cock’s head."
+    "不过短短几分钟，她的小穴已经湿得淌水了，还在我的龟头上滴了大量的阴液充当润滑剂。"
 
 # game/finalroute.rpy#L1240
 translate chinese cbar2_8272200e:
 
     # "That however, is when she surprises me."
-    "That however, is when she surprises me."
+    "不过接下来，才是她让我大吃一惊的时候。"
 
 # game/finalroute.rpy#L1241
 translate chinese cbar2_f3a26ee7:
 
     # "Moving her hips forward, I suddenly feel my lubricated tip prodding against the tight pucker of her anus."
-    "Moving her hips forward, I suddenly feel my lubricated tip prodding against the tight pucker of her anus."
+    "她把她的屁股向前一推，我立马感觉到了润滑的肉棒戳进了她紧皱的肛门里。"
 
 # game/finalroute.rpy#L1242
 translate chinese cbar2_49bc4b69:
 
     # riku "Ehehe, you never told me which hole you wanted!"
-    riku "Ehehe, you never told me which hole you wanted!"
+    riku "呵呵，你可从没告诉过我你想要哪个洞呢!"
 
 # game/finalroute.rpy#L1246
 translate chinese cbar2_46196e1f:
 
     # "Before I can even protest, her sphincter eases around my cock and she slowly takes me inside. I can only hope that I can cure her from anal too."
-    "Before I can even protest, her sphincter eases around my cock and she slowly takes me inside. I can only hope that I can cure her from anal too."
+    "在我抗议之前，她的肌肉一松，让我的肉棒慢慢陷进她的肛门里。我现在只希望射在直肠里不会影响疗效。"
 
 # game/finalroute.rpy#L1247
 translate chinese cbar2_2f399519:
 
     # "Also… I’m gonna need to wash after this now. So much for Riku being faster."
-    "Also… I’m gonna need to wash after this now. So much for Riku being faster."
+    "还有，结束之后我还得去洗个澡。So much for Riku being faster."
 
 # game/finalroute.rpy#L1248
 translate chinese cbar2_e5e282dd:
 
     # "God damn, her ass feels so fucking good though. The tight ring slowly descends my shaft until she has my entire cock at hilt."
-    "God damn, her ass feels so fucking good though. The tight ring slowly descends my shaft until she has my entire cock at hilt."
+    "妈的，她的屁股感觉真他妈爽。她的肛门口慢慢地沿着我的肉棒下降，直到将我的整个肉棒包裹。"
 
 # game/finalroute.rpy#L1249
 translate chinese cbar2_f3174c5f:
 
     # riku "Mmmphh, heh, I’m gonna be your butt slut until the end."
-    riku "Mmmphh, heh, I’m gonna be your butt slut until the end."
+    riku "嗯-嗯-嗯~哼~，我的后庭永远只属于你哟。"
 
 # game/finalroute.rpy#L1250
 translate chinese cbar2_873f3f04:
 
     # mc "Damn Riku, I didn’t expect you to have this more dominant side."
-    mc "Damn Riku, I didn’t expect you to have this more dominant side."
+    mc "卧槽，Riku，我没想到你还有这么强势的一面呢。"
 
 # game/finalroute.rpy#L1251
 translate chinese cbar2_2e473225:
 
     # riku "What can I say? I need a bit of revenge for all your shenanigans!"
-    riku "What can I say? I need a bit of revenge for all your shenanigans!"
+    riku "怎么说呢?以前是你对我做恶作剧，现在风水轮流转嘛!"
 
 # game/finalroute.rpy#L1252
 translate chinese cbar2_a1f97377:
 
     # "Pressing a hand against my chest, she lifts herself up slowly. The tightness of her ass scaling up each and every nerve ending of my throbbing shaft until it reaches the glans."
-    "Pressing a hand against my chest, she lifts herself up slowly. The tightness of her ass scaling up each and every nerve ending of my throbbing shaft until it reaches the glans."
+    "她把一只手按在我的胸口，慢慢地站了起来。她紧绷的屁眼让我身体颤抖，肉棒感到越来越紧，这种感觉一直延伸到龟头才止住。"
 
 # game/finalroute.rpy#L1253
 translate chinese cbar2_778a1d46:
 
     # "And then she sinks back down again, reigniting another flash of pleasure."
-    "And then she sinks back down again, reigniting another flash of pleasure."
+    "紧接着她又往下一坐，重燃了欢淫的火花。"
 
 # game/finalroute.rpy#L1254
 translate chinese cbar2_40f87063:
 
     # "And again, again, again. She fucks me with passion, precision and speed; relentlessly providing my cock with immense pleasure."
-    "And again, again, again. She fucks me with passion, precision and speed; relentlessly providing my cock with immense pleasure."
+    "一遍、一遍又一遍。她激情，精准和快速地操我;无情地给我的肉棒带来巨大的快感。"
 
 # game/finalroute.rpy#L1256
 translate chinese cbar2_b01ad817:
 
     # riku "Mmphh, mmm! *Slap, slap, slap! * *Squish, slap! * You like my butt, don’cha?"
-    riku "Mmphh, mmm! *Slap, slap, slap! * *Squish, slap! * You like my butt, don’cha?"
+    riku "嗯-嗯!*啪，啪，啪!* *嘎吱,啪!*你喜欢我的屁股，是不是呀?"
 
 # game/finalroute.rpy#L1257
 translate chinese cbar2_f53ea759:
 
     # "It wasn’t just me enjoying this though. Riku’s elation would have been obvious from her body language, but the really amazing thing is her pussy which constantly drips and squirts onto my pelvis from the light orgasms she’s experiencing."
-    "It wasn’t just me enjoying this though. Riku’s elation would have been obvious from her body language, but the really amazing thing is her pussy which constantly drips and squirts onto my pelvis from the light orgasms she’s experiencing."
+    "但享受的不只是我。Riku兴奋得手舞足蹈，但她的小穴更为惊人，在不断的高潮刺激下那淫水简直是飞流直下，不断地流到了到我的下体上。"
 
 # game/finalroute.rpy#L1258
 translate chinese cbar2_609bed01:
 
     # riku "Ahhhaa, mmm! Use me, fuck me, I’m all yours, [playername]!"
-    riku "Ahhhaa, mmm! Use me, fuck me, I’m all yours, [playername]!"
+    riku "啊-啊-啊,嗯~!快呀，操我，随便你怎么干都行，[playername]!"
 
 # game/finalroute.rpy#L1259
 translate chinese cbar2_152043d3:
@@ -3308,37 +3308,37 @@ translate chinese cbar2_152043d3:
 translate chinese cbar2_522e2908:
 
     # "As she starts feeling better and better, her eyes roll back and her fervent moaning intensifies as she nears her climax."
-    "As she starts feeling better and better, her eyes roll back and her fervent moaning intensifies as she nears her climax."
+    "她开始渐入佳境，眼球上翻，呻吟越发的强烈起来，距离高潮越来越近。"
 
 # game/finalroute.rpy#L1261
 translate chinese cbar2_a4793652:
 
     # "In a surge of energy, she races to an orgasm, her body shivering and pucker tensing."
-    "In a surge of energy, she races to an orgasm, her body shivering and pucker tensing."
+    "在一波充满力量的起伏中，她立马达到了高潮，她的身体颤抖，眉头紧皱。"
 
 # game/finalroute.rpy#L1263
 translate chinese cbar2_ae8c4457:
 
     # riku "Haahh, ahhh, g-gonna come, haahhh, yesss, yesss!"
-    riku "Haahh, ahhh, g-gonna come, haahhh, yesss, yesss!"
+    riku "啊哈，啊哈，要来了，啊哈，太棒，太棒了!"
 
 # game/finalroute.rpy#L1264
 translate chinese cbar2_e502a882:
 
     # "My throbbing cock stiffens and my muscles grow tense as her assault on my cock brings me extremely close to cumming."
-    "My throbbing cock stiffens and my muscles grow tense as her assault on my cock brings me extremely close to cumming."
+    "她的挑逗让我接近射精，我的肉棒僵硬的勃起，身体变得紧张。"
 
 # game/finalroute.rpy#L1269
 translate chinese cbar2_85fe4efa:
 
     # "The additional speed is enough as we push past both our limits. Climaxing, my cock starts spraying thick loads of cum into her butt."
-    "The additional speed is enough as we push past both our limits. Climaxing, my cock starts spraying thick loads of cum into her butt."
+    "再一次的加速超出了我们的极限，迎来了高潮。我的肉棒开始向她的屁股迸发大量的精液。"
 
 # game/finalroute.rpy#L1274
 translate chinese cbar2_2b90f046:
 
     # riku "Haahh, yesssshhhh! F-Fuck! Fill my belly!"
-    riku "Haahh, yesssshhhh! F-Fuck! Fill my belly!"
+    riku "哈啊啊啊，爽呀！快-快操呀！填满我吧！"
 
 # game/finalroute.rpy#L1277
 translate chinese cbar2_2ea333e9:
@@ -3350,55 +3350,55 @@ translate chinese cbar2_2ea333e9:
 translate chinese cbar2_43271914:
 
     # "Satisfied, she huffs and slides my cock out with a pop."
-    "Satisfied, she huffs and slides my cock out with a pop."
+    "她屁股里胀胀的，并且心满意足地把我的肉棒“啵”的一声拔了出来。"
 
 # game/finalroute.rpy#L1283
 translate chinese cbar2_de853e7f:
 
     # riku "Phew! that was really good!"
-    riku "Phew! that was really good!"
+    riku "唷！针不戳呀！"
 
 # game/finalroute.rpy#L1285
 translate chinese cbar2_fe4f7a8a:
 
     # riku "Heyyy, wait a minute… Why was I thinking Morrigan was my Queen earlier?"
-    riku "Heyyy, wait a minute… Why was I thinking Morrigan was my Queen earlier?"
+    riku "嘿，等等…我之前为啥会认为Morrigan是我的女王呀?"
 
 # game/finalroute.rpy#L1286
 translate chinese cbar2_fe9a7cf6:
 
     # mc "Ahh perfect. Even though it was anal, my dick still snapped you out of your brainwashing."
-    mc "Ahh perfect. Even though it was anal, my dick still snapped you out of your brainwashing."
+    mc "啊哈，完美。虽然是肛交，但我的肉棒还是帮你解除了洗脑。"
 
 # game/finalroute.rpy#L1288
 translate chinese cbar2_9d5c48e7:
 
     # riku "Hmm, I don’t get it, but it sounds like you have some explaining to do."
-    riku "Hmm, I don’t get it, but it sounds like you have some explaining to do."
+    riku "喔，我脑袋有点转不过来，但听起来你可以给我解释一下。"
 
 # game/finalroute.rpy#L1289
 translate chinese cbar2_60f323a4:
 
     # mc "I certainly do, so listen up!"
-    mc "I certainly do, so listen up!"
+    mc "乐意效劳，听好了!"
 
 # game/finalroute.rpy#L1291
 translate chinese cbar2_2b65c5ba:
 
     # "I give Riku a quick explanation of the events, and she agrees to meet at Lily’s tree at the designated time."
-    "I give Riku a quick explanation of the events, and she agrees to meet at Lily’s tree at the designated time."
+    "我快速地向Riku解释了事情的经过，她也同意在指定的时间在Lily的树上会面。"
 
 # game/finalroute.rpy#L1292
 translate chinese cbar2_9a8e3880:
 
     # "I have a quick five-minute shower to clean up and reinvigorate."
-    "I have a quick five-minute shower to clean up and reinvigorate."
+    "我得洗个五分钟的澡清理一下身子，顺便恢复一下精神。"
 
 # game/finalroute.rpy#L1297
 translate chinese cbar2_9cc2086c:
 
     # riku "Curse Morrigan, I can’t believe she used you and Moxie like that…"
-    riku "Curse Morrigan, I can’t believe she used you and Moxie like that…"
+    riku "操他妈的Morrigan，我不敢相信她像那样利用你和Moxie…"
 
 # game/finalroute.rpy#L1298
 translate chinese cbar2_a4079a79:
@@ -3410,31 +3410,31 @@ translate chinese cbar2_a4079a79:
 translate chinese cbar2_635aeaf4:
 
     # mc "Your red fur can't get any redder. Don’t worry, we’ll get her."
-    mc "Your red fur can't get any redder. Don’t worry, we’ll get her."
+    mc "你的红鬃毛红得都快滴出血来了。别心急，我们肯定会把Moxie救回来的。"
 
 # game/finalroute.rpy#L1301
 translate chinese cbar2_1f632564:
 
     # riku "Heck yes we will, we’re all gonna save Moxie together, promise!"
-    riku "Heck yes we will, we’re all gonna save Moxie together, promise!"
+    riku "当然，我们一定能行，我对天发誓，我们会一起救出Moxie的!"
 
 # game/finalroute.rpy#L1302
 translate chinese cbar2_ef092aaa:
 
     # "She gives me a thumbs up and I set off."
-    "She gives me a thumbs up and I set off."
+    "她对我竖起大拇指，我又一次踏上了征途。"
 
 # game/finalroute.rpy#L1307
 translate chinese cbakery_89ea16d7:
 
     # "I don't have time to fuck Cream again, there are others that need my dick!"
-    "I don't have time to fuck Cream again, there are others that need my dick!"
+    "我没时间再操Cream了，还有其他人需要我的肉棒呢!"
 
 # game/finalroute.rpy#L1313
 translate chinese cbakery_fc73cdd3:
 
     # "When I arrive at the bakery it’s open and running business as usual. Cream is working the till, and baking cakes simultaneously, despite her brainwashing."
-    "When I arrive at the bakery it’s open and running business as usual. Cream is working the till, and baking cakes simultaneously, despite her brainwashing."
+    "我到达了面包店，发现它仍然在照常营业。尽管Cream已经洗脑了，但她还是在收银台工作，同时烘焙蛋糕。"
 
 # game/finalroute.rpy#L1315
 translate chinese cbakery_1ab96695:
@@ -3446,163 +3446,163 @@ translate chinese cbakery_1ab96695:
 translate chinese cbakery_94e57b8a:
 
     # cream "Wanna help, [playername]? I’ll pay ya!"
-    cream "Wanna help, [playername]? I’ll pay ya!"
+    cream "想要来搭把手吗，[playername]？我会付你钱的哟!"
 
 # game/finalroute.rpy#L1317
 translate chinese cbakery_46428c63:
 
     # mc "What happened Cream, you have a new Queen?"
-    mc "What happened Cream, you have a new Queen?"
+    mc "咋回事儿呀Cream，你们的新女王登基了?"
 
 # game/finalroute.rpy#L1319
 translate chinese cbakery_6ee7e1d7:
 
     # cream "Yup! You were the one that enlightened me, I think!"
-    cream "Yup! You were the one that enlightened me, I think!"
+    cream "是呀!我想，你刚刚启发了我呢!"
 
 # game/finalroute.rpy#L1320
 translate chinese cbakery_09d26b49:
 
     # mc "How do you know that, exactly?"
-    mc "How do you know that, exactly?"
+    mc "你怎么知道这回事儿的呀？"
 
 # game/finalroute.rpy#L1322
 translate chinese cbakery_dfbe3f0b:
 
     # cream "Gosh, I don’t really know… For some reason, I just know I really have to do a good job serving the Queen, Penelope and you."
-    cream "Gosh, I don’t really know… For some reason, I just know I really have to do a good job serving the Queen, Penelope and you."
+    cream "天哪，我也不清楚呢…貌似出于某种原因，我刚才只想着必须为女王、Penelope和你做好服务的工作。"
 
 # game/finalroute.rpy#L1323
 translate chinese cbakery_dc8a0760:
 
     # cream "And it’s all your fault! Ehehe…"
-    cream "And it’s all your fault! Ehehe…"
+    cream "还有，这都是你的整出来的幺蛾子!嗯哼哼…"
 
 # game/finalroute.rpy#L1324
 translate chinese cbakery_c6829b0e:
 
     # mc "I wonder if there’s some kind of soft hivemind… Cream, do you know if anyone else is brainwa- enlightened?"
-    mc "I wonder if there’s some kind of soft hivemind… Cream, do you know if anyone else is brainwa- enlightened?"
+    mc "我得来确认一下这种洗脑是不是种虫巢思维…Cream，你知道还有那些其他人被洗那——启发了吗?"
 
 # game/finalroute.rpy#L1326
 translate chinese cbakery_7375d56a:
 
     # cream "I dunno, I saw a customer with green eyes earlier, does that count?"
-    cream "I dunno, I saw a customer with green eyes earlier, does that count?"
+    cream "我也不知道，我之前看到一个绿色眼睛的顾客，这算吗?"
 
 # game/finalroute.rpy#L1327
 translate chinese cbakery_39031ea0:
 
     # mc "Eh, no… I guess it’s not a hivemind then, thank goodness, it’d be terrible if Morrigan could tell if she was losing influence."
-    mc "Eh, no… I guess it’s not a hivemind then, thank goodness, it’d be terrible if Morrigan could tell if she was losing influence."
+    mc "呃，不是…我想这不是虫巢思维，谢天谢地，要是Morrigan能判断出她是否脱离控制，那就太糟糕了。"
 
 # game/finalroute.rpy#L1329
 translate chinese cbakery_7ea3a0f9:
 
     # cream "Nahh, there’s no way she could do that! That’s why she needs to siphon up all the energy from the royal sisters!"
-    cream "Nahh, there’s no way she could do that! That’s why she needs to siphon up all the energy from the royal sisters!"
+    cream "不，她本身是不可能做到的!所以她才需要从王室姐妹身上吸取能量!"
 
 # game/finalroute.rpy#L1330
 translate chinese cbakery_aba2321c:
 
     # mc "Now how the hell do you know that?"
-    mc "Now how the hell do you know that?"
+    mc "你他妈怎么知道我在想啥？"
 
 # game/finalroute.rpy#L1332
 translate chinese cbakery_6da2ecbc:
 
     # cream "Oh, uhm?! I have no idea, ahah!"
-    cream "Oh, uhm?! I have no idea, ahah!"
+    cream "哦,嗯? !我也不清楚呀，啊哈!"
 
 # game/finalroute.rpy#L1334
 translate chinese cbakery_fda0c601:
 
     # "I return to the bakery which is still operating as normal."
-    "I return to the bakery which is still operating as normal."
+    "我回到面包房，那里仍然在照常营业。"
 
 # game/finalroute.rpy#L1337
 translate chinese cbakery_b7f85de9:
 
     # cream "Heyyy, you're still fumbling around? Need something to do?"
-    cream "Heyyy, you're still fumbling around? Need something to do?"
+    cream "嘿~还在这儿磨叽啥呢？需要我帮忙吗？"
 
 # game/finalroute.rpy#L1338
 translate chinese cbakery_7a5e3b1b:
 
     # mc "Kinda, I'm a bit lost right now."
-    mc "Kinda, I'm a bit lost right now."
+    mc "没事，我现在就是有点儿迷路而已。"
 
 # game/finalroute.rpy#L1340
 translate chinese cbakery_ac8b33c0:
 
     # cream "Awh bless you, would you like a cake, maybe some cummies?"
-    cream "Awh bless you, would you like a cake, maybe some cummies?"
+    cream "哦，愿你平安，你想要来块蛋糕吗，或者来点色色的服务?"
 
 # game/finalroute.rpy#L1343
 translate chinese cbakery_8d897862:
 
     # mc "I don't really feel like working or buying anything, so I'll just leave."
-    mc "I don't really feel like working or buying anything, so I'll just leave."
+    mc "其实我不想工作，也不想买东西，所以我马上就走。"
 
 # game/finalroute.rpy#L1344
 translate chinese cbakery_ca706f20:
 
     # cream "Okie dokie! Maybe you should go see Butters? She can look after you in this miserable weather."
-    cream "Okie dokie! Maybe you should go see Butters? She can look after you in this miserable weather."
+    cream "哦，好吧！或许你应该去看看Butters?她有能力在这么恶劣的天气下照顾你哟。"
 
 # game/finalroute.rpy#L1345
 translate chinese cbakery_a9467ad2:
 
     # mc "Hmm... That's a bit random, but thanks for the suggestion."
-    mc "Hmm... That's a bit random, but thanks for the suggestion."
+    mc "嗯…虽然这有点随意，不过还是谢谢你的建议。"
 
 # game/finalroute.rpy#L1351
 translate chinese cbakery_8dd89ae1:
 
     # mc "I need you to close the store for a few minutes, I need to cum in you, the fate of the world depends on it."
-    mc "I need you to close the store for a few minutes, I need to cum in you, the fate of the world depends on it."
+    mc "我需要你关几分钟的店，因为我要在你小穴里来一发，世界的命运就靠它了。"
 
 # game/finalroute.rpy#L1353
 translate chinese cbakery_72639a6e:
 
     # cream "Awwhh! I bet you say that to all the girls, [playername]"
-    cream "Awwhh! I bet you say that to all the girls, [playername]"
+    cream "啊噫 !我敢打赌你对所有的女孩儿都这么说过，[playername]。"
 
 # game/finalroute.rpy#L1354
 translate chinese cbakery_ee51ec18:
 
     # mc "Only recently…"
-    mc "Only recently…"
+    mc "只有这次说过…"
 
 # game/finalroute.rpy#L1356
 translate chinese cbakery_eae7525c:
 
     # cream "Okie, well, I can’t argue with cummies (or your order)!"
-    cream "Okie, well, I can’t argue with cummies (or your order)!"
+    cream "哦，好吧，我可不能拒绝干炮（或者你的命令）！"
 
 # game/finalroute.rpy#L1358
 translate chinese cbakery_333ce176:
 
     # "Cream temporarily closes the shop and just as she closes the curtains she bends over on the counter."
-    "Cream temporarily closes the shop and just as she closes the curtains she bends over on the counter."
+    "Cream暂时关闭了商店，她拉上窗帘，在柜台上弯下了腰。"
 
 # game/finalroute.rpy#L1361
 translate chinese cbakery_4026999f:
 
     # cream "I’ll be the cream if you’ll be the pie, hehe…"
-    cream "I’ll be the cream if you’ll be the pie, hehe…"
+    cream "你若是派，我便是奶油（cream），呵呵…"
 
 # game/finalroute.rpy#L1362
 translate chinese cbakery_9fc33a0e:
 
     # "No time for foreplay, and no need with this girl. Her crotch is always a soaking mess that’s ready for cock."
-    "No time for foreplay, and no need with this girl. Her crotch is always a soaking mess that’s ready for cock."
+    "没时间做什么前戏了，而且她这个样子也不需要做。她的下体湿得一塌糊涂，早就准备好迎接肉棒了。"
 
 # game/finalroute.rpy#L1363
 translate chinese cbakery_4209b1cb:
 
     # "Her messy tail swishes back and forth as I position myself behind her quivering pussy."
-    "Her messy tail swishes back and forth as I position myself behind her quivering pussy."
+    "我站在她的身后，而她小穴颤抖，凌乱的尾巴前后摇摆。"
 
 # game/finalroute.rpy#L1367
 translate chinese cbakery_bdf7e7a9:

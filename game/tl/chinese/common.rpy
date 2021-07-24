@@ -26,7 +26,7 @@ translate chinese strings:
 
     # renpy/common/00accessibility.rpy_L35_0
     old "horizontal scroll"
-    new "上下滚动设置"
+    new "horizontal scroll"
 
     # renpy/common/00accessibility.rpy_L36_0
     old "vertical scroll"
@@ -482,7 +482,7 @@ translate chinese strings:
 
     # renpy/common/00preferences.rpy_L261_0
     old "skip transitions"
-    new "skip transitions"
+    new "跳过转场"
 
     # renpy/common/00preferences.rpy_L263_0
     old "video sprites"
@@ -498,11 +498,11 @@ translate chinese strings:
 
     # renpy/common/00preferences.rpy_L289_0
     old "joystick"
-    new "joystick"
+    new "摇杆"
 
     # renpy/common/00preferences.rpy_L289_1
     old "joystick..."
-    new "joystick..."
+    new "摇杆..."
 
     # renpy/common/00preferences.rpy_L296_0
     old "skip"
@@ -522,7 +522,7 @@ translate chinese strings:
 
     # renpy/common/00preferences.rpy_L310_0
     old "after choices"
-    new "after choices"
+    new "选项后继续跳过"
 
     # renpy/common/00preferences.rpy_L317_0
     old "skip after choices"
@@ -534,7 +534,7 @@ translate chinese strings:
 
     # renpy/common/00preferences.rpy_L333_0
     old "auto-forward"
-    new "auto-forward"
+    new "自动播放"
 
     # renpy/common/00preferences.rpy_L340_0
     old "Auto forward"
@@ -714,7 +714,7 @@ translate chinese strings:
 
     # renpy/common/_developer/developer.rpym_L143_0
     old "Nothing to inspect."
-    new "Nothing to inspect."
+    new "无错误"
 
     # renpy/common/_developer/developer.rpym_L154_0
     old "Hide deleted"
@@ -734,7 +734,7 @@ translate chinese strings:
 
     # renpy/common/_developer/developer.rpym_L448_0
     old "Mouse position: %r"
-    new "Mouse position: %r"
+    new "鼠标位置: %r"
 
     # renpy/common/_developer/developer.rpym_L453_0
     old "Right-click or escape to quit."
@@ -866,7 +866,7 @@ translate chinese strings:
 
     # renpy/common/00updater.rpy_L1442_0
     old "Checking for updates."
-    new "请检查更新。"
+    new "检查更新。"
 
     # renpy/common/00updater.rpy_L1444_0
     old "This program is up to date."
@@ -918,7 +918,7 @@ translate chinese strings:
 
     # renpy/common/00gallery.rpy_L611_0
     old "next"
-    new "next"
+    new "下一个"
 
     # renpy/common/00gallery.rpy_L612_0
     old "slideshow"
@@ -1034,15 +1034,15 @@ translate chinese strings:
 
     # renpy/common/00gltest.rpy_L281_0
     old "Change render options"
-    new "Change render options"
+    new "调整渲染选项"
 
     # renpy/common/00gamepad.rpy_L32_0
     old "Select Gamepad to Calibrate"
-    new "Select Gamepad to Calibrate"
+    new "选择需要校准的控制器"
 
     # renpy/common/00gamepad.rpy_L35_0
     old "No Gamepads Available"
-    new "没有可用的游戏手柄"
+    new "没有可用的控制器"
 
     # renpy/common/00gamepad.rpy_L54_0
     old "Calibrating [name] ([i]/[total])"

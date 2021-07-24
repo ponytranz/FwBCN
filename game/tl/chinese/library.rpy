@@ -9242,7 +9242,7 @@ translate chinese lilylegsupmissionary_a0652f45:
 translate chinese lilylegsupmissionary_da80486f:
 
     # moxie "Okay, we'll trim the fat too, so you can get back to sleep, your majesty."
-    moxie "明白，我们也会减肥的，所以请继续睡吧，陛下。"
+    moxie "明白了，我们也会减肥的，所以请继续睡吧，陛下。"
 
 # game/library.rpy#L2614
 translate chinese lilylegsupmissionary_895275f6:
@@ -9254,103 +9254,103 @@ translate chinese lilylegsupmissionary_895275f6:
 translate chinese lilylegsupmissionary_e584e772:
 
     # "She stares at us with a patient yet confused expression. Then I realize she's staring at me."
-    "She stares at us with a patient yet confused expression. Then I realize she's staring at me."
+    "她用一种困惑的表情看着我们。然后我意识到她在盯着我。"
 
 # game/library.rpy#L2618
 translate chinese lilylegsupmissionary_ab74e979:
 
     # selene "So... You're the human..."
-    selene "So... You're the human..."
+    selene "所以…你就是人类……"
 
 # game/library.rpy#L2619
 translate chinese lilylegsupmissionary_003e6c91:
 
     # selene "This is a first for me, I've never seen a human in this universe before."
-    selene "This is a first for me, I've never seen a human in this universe before."
+    selene "这是我第一次看到，我还从来没在我的世界里见过人类。"
 
 # game/library.rpy#L2620
 translate chinese lilylegsupmissionary_1201243f:
 
     # mc "Yeah, Aurora told me that I’m from a parallel universe, meaning Moxie accidentally transferred me from one universe to another."
-    mc "Yeah, Aurora told me that I’m from a parallel universe, meaning Moxie accidentally transferred me from one universe to another."
+    mc "是啊，Aurora说我来不同平行宇宙，也就是说Moxie不小心把我从一个宇宙转移到了另一个宇宙。"
 
 # game/library.rpy#L2622
 translate chinese lilylegsupmissionary_dbfec811:
 
     # "Immediately upon hearing the universal transfer Selene’s weary eyes snap wide open and she takes a more serious stance."
-    "Immediately upon hearing the universal transfer Selene’s weary eyes snap wide open and she takes a more serious stance."
+    "一听到平行宇宙转移，Selene原本疲惫的眼睛立刻睁得大大的，她的神情变的更加严肃了起来。"
 
 # game/library.rpy#L2624
 translate chinese lilylegsupmissionary_2bf2f9ed:
 
     # selene "Yeah, that definitely sounds like my expertise."
-    selene "Yeah, that definitely sounds like my expertise."
+    selene "嗯，这听起来像是我的专长。"
 
 # game/library.rpy#L2625
 translate chinese lilylegsupmissionary_766b4614:
 
     # selene "Shit, pardon the bed hair and grogginess."
-    selene "Shit, pardon the bed hair and grogginess."
+    selene "干，请原谅我这幅昏昏沉沉的样子。"
 
 # game/library.rpy#L2626
 translate chinese lilylegsupmissionary_f526af4a:
 
     # "I’m surprised to hear a princess swear. It’s clear that she’s a lot less regal and a lot more casual than Aurora."
-    "I’m surprised to hear a princess swear. It’s clear that she’s a lot less regal and a lot more casual than Aurora."
+    "我很惊讶能听到一个公主说脏话。很明显，她没有Aurora那么威严，也比Aurora随和多了。"
 
 # game/library.rpy#L2628
 translate chinese lilylegsupmissionary_0f000407:
 
     # selene "Moxie, could you tell me what spell you were trying to cast?"
-    selene "Moxie, could you tell me what spell you were trying to cast?"
+    selene "Moxie，你能告诉我你当时施的什么咒语吗?"
 
 # game/library.rpy#L2630
 translate chinese lilylegsupmissionary_fbe55727:
 
     # moxie "Of course your majesty, uh, uhm, it was 'Summon Familiar'."
-    moxie "Of course your majesty, uh, uhm, it was 'Summon Familiar'."
+    moxie "当然陛下，额，额，是“召唤熟人”。"
 
 # game/library.rpy#L2632
 translate chinese lilylegsupmissionary_0bc4a011:
 
     # selene "I haven’t had a situation like this in hundreds of years, I can see why Aurora sent you."
-    selene "I haven’t had a situation like this in hundreds of years, I can see why Aurora sent you."
+    selene "我已经有几百年没遇到过这种情况了，我现在晓得Aurora为什么派你来了。"
 
 # game/library.rpy#L2633
 translate chinese lilylegsupmissionary_37f251d9:
 
     # mc "Is it bad?"
-    mc "Is it bad?"
+    mc "坏事了？"
 
 # game/library.rpy#L2635
 translate chinese lilylegsupmissionary_f07c89c8:
 
     # selene "Bad? I guess not, it's not even urgent. But it’s just my job to deal with these problems."
-    selene "Bad? I guess not, it's not even urgent. But it’s just my job to deal with these problems."
+    selene "坏?这在我看来不要紧，甚至都算不上事。不过我的工作就是处理这些问题。"
 
 # game/library.rpy#L2636
 translate chinese lilylegsupmissionary_f5745d29:
 
     # moxie "May I ask how you deal with them?"
-    moxie "May I ask how you deal with them?"
+    moxie "请问陛下您是怎么处理的?"
 
 # game/library.rpy#L2638
 translate chinese lilylegsupmissionary_425936c5:
 
     # selene "Usually by securing and containing anomalies, in the case that they may be dangerous. Parallel universes can be oddly terrifying."
-    selene "Usually by securing and containing anomalies, in the case that they may be dangerous. Parallel universes can be oddly terrifying."
+    selene "通常是通过收客和控制异常现象，以防它们可能有危险。平行宇宙可是非常可怕的存在。"
 
 # game/library.rpy#L2639
 translate chinese lilylegsupmissionary_3ca6180a:
 
     # mc "Uhh… Am I an anomaly?"
-    mc "Uhh… Am I an anomaly?"
+    mc "额…那我算是异常吗?"
 
 # game/library.rpy#L2641
 translate chinese lilylegsupmissionary_675e6b77:
 
     # selene "Nah, I'm talking real dangerous unexplainable shit."
-    selene "Nah, I'm talking real dangerous unexplainable shit."
+    selene "不，我说的是非常危险且无法理解的存在。"
 
 # game/library.rpy#L2643
 translate chinese lilylegsupmissionary_a8dc9703:

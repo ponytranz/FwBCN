@@ -1124,7 +1124,7 @@ translate chinese arisex_fa6aa0df:
 translate chinese arisex_69aaed46:
 
     # "With a familiar tension building in my groin, I methodically pound Ari’s pussy as I push for my climax."
-    "我的腹股沟传来了一种熟悉的紧张感，我有条不紊地抽插着Ari的下体，推向我自己的高潮。"
+    "我的下面传来了一种熟悉的紧张感，我有条不紊地抽插着Ari的下体，推向我自己的高潮。"
 
 # game/3map.rpy#L416
 translate chinese arisex_27cad567:
@@ -1172,7 +1172,7 @@ translate chinese arisex_b2981af5:
 translate chinese arisex_c957ae0a:
 
     # ari "Yeah… I really enjoyed that, [playername]…"
-    ari "是的，[playername],我真的好喜欢你...."
+    ari "是的，[playername]，刚才真的令人享受...."
 
 # game/3map.rpy#L431
 translate chinese arisex_a0e93b8b:
@@ -1196,13 +1196,13 @@ translate chinese arisex_0aac1a1e:
 translate chinese arisex_ad56d5a6:
 
     # ari "I’m sorry for being such a pain…"
-    ari "我很抱歉之前让你那么痛苦…"
+    ari "很抱歉我们要分别了…"
 
 # game/3map.rpy#L435
 translate chinese arisex_f46f09d5:
 
     # mc "Don’t apologize for giving me a good time."
-    mc "不必道歉，你给我一段美好的记忆。"
+    mc "不必道歉，你给了我一段美好的记忆。"
 
 # game/3map.rpy#L436
 translate chinese arisex_2fbf5c56:
@@ -1310,7 +1310,7 @@ translate chinese arisex_e51820f9:
 translate chinese arisex_5c84d74d:
 
     # mc "Maybe... If that’s something you’d like, but it’d just be for fun."
-    mc "也许吧.....这对你而言只是好玩而已。"
+    mc "也许吧.....如果你喜欢的话，这只会是打炮而已。"
 
 # game/3map.rpy#L469
 translate chinese arisex_3735e394:
@@ -1352,7 +1352,7 @@ translate chinese arisex_e9e2caec:
 translate chinese arisex_b706196b:
 
     # ari "Hm… I guess you’re right. You really were a stepping stone to help me understand myself a little better."
-    ari "嗯，我想你是对的。你真的是一个好的垫脚石，帮助我更好地了解自己。"
+    ari "嗯，我想你是对的。你真的是一个好的台阶，帮助我更好地了解自己。"
 
 # game/3map.rpy#L477
 translate chinese arisex_eca3dc0d:
@@ -1370,7 +1370,7 @@ translate chinese arisex_fe02c80a:
 translate chinese arisex_8a60145a:
 
     # ari "Now then, back to business. Before you head out, is there anything you'd like to buy? You came here earlier and I didn't even give you the chance to ask."
-    ari "好了，话说回来。在你离开前，有什么想买的吗?我来的很早，甚至没有给你机会说。"
+    ari "好了，话说回来。在你离开前，有什么想买的吗?你之前来的太早，我甚至没有机会问。"
 
 # game/3map.rpy#L484
 translate chinese arisex_6c8764ca:
@@ -1520,7 +1520,7 @@ translate chinese giftshop_6d77271f:
 translate chinese giftshop_d2ee089e:
 
     # mc "I feel like there are better excuses at 8:00am."
-    mc "我感觉如果到了早上8:00，我能有更好的借口."
+    mc "我感觉在早上8:00，应该有更好的借口."
 
 # game/3map.rpy#L537
 translate chinese giftshop_a70298a5:
@@ -1586,13 +1586,13 @@ translate chinese giftshop_df31d9ed:
 translate chinese giftshop_651fffff:
 
     # "Ari gasps and squirms slightly, her fingers digging into the bedsheets as she happily watches the action."
-    "Ari喘着气，微微扭动着身体，她的手指戳进床单里，开心地看着这一幕"
+    "Ari喘着气，微微扭动着身体，她的手指戳进床单里，开心地看着这一幕。"
 
 # game/3map.rpy#L555
 translate chinese giftshop_4d489779:
 
     # "I push myself to the hilt and allow my lover’s tightness to ease around my shaft, her pussy constantly clenching and squeezing around me as she grows comfortable with the sensation."
-    "我把重心移到下体，让她紧绷的阴道完完全全包裹着它，她的私处不断地紧捏和挤压着我，我对这种感觉已经越来越适应了"
+    "我把重心移到下体，让她紧绷的阴道完完全全包裹着它，她的私处不断地紧捏和挤压着我，我对这种感觉已经越来越适应了。"
 
 # game/3map.rpy#L556
 translate chinese giftshop_6bdd3d91:
@@ -1604,7 +1604,7 @@ translate chinese giftshop_6bdd3d91:
 translate chinese giftshop_ce1340df:
 
     # "Going steady, I start to rock back and forth. Her pussy gradually yields and my cock becomes slick with her juices, allowing me to increase the pace of each thrust."
-    "于是我开始规律地抽插，我的肉棒被她的淫液弄得无比光滑，让我可以更猛烈地抽插"
+    "于是我开始规律地抽插，我的肉棒被她的淫液弄得无比光滑，让我可以更猛烈地抽插。"
 
 # game/3map.rpy#L559
 translate chinese giftshop_b47de1d6:
@@ -1628,7 +1628,7 @@ translate chinese giftshop_55c17799:
 translate chinese giftshop_38ab4cf1:
 
     # "The feeling of her insides become even more pleasurable over time as they become warmer and wetter. The point of our connection squelching with the lewd sounds of her juices as her tight lips grip around my shaft."
-    "她冰冷的心，随着时间的推移逐渐温暖、湿润起来，她那如果汁般淫荡的叫声将我和她紧密相连。"
+    "她冰冷的心，随着时间的推移逐渐温暖、湿润起来，我和她紧密相连，湿漉的果汁发出淫荡的声音。"
 
 # game/3map.rpy#L563
 translate chinese giftshop_5a66012f:
@@ -1646,19 +1646,19 @@ translate chinese giftshop_b125fd65:
 translate chinese giftshop_836fc991:
 
     # "She moans happily and her pussy squeezes my cock tightly as she begins to come hard."
-    "她快乐地呻吟着，开始用她的阴道紧紧压着我的肉棒"
+    "她快乐地呻吟着，开始用她的阴道紧紧压着我的肉棒。"
 
 # game/3map.rpy#L567
 translate chinese giftshop_fa6aa0df:
 
     # "The tightness in turn causes my cock to throb and stiffen, almost creating a feedback loop that intensifies my pleasure."
-    "这种挤压感又让我的肉棒变得更加兴奋，像一个快感的良性循环，加强着我们的性快感"
+    "这种挤压感又让我的肉棒变得更加兴奋，像一个快感的良性循环，加强着我们的性快感。"
 
 # game/3map.rpy#L568
 translate chinese giftshop_69aaed46:
 
     # "With a familiar tension building in my groin, I methodically pound Ari’s pussy as I push for my climax."
-    "我的腹股沟传来了一种熟悉的紧张感，我有条不紊地抽插着Ari的下体，推向我自己的高潮。"
+    "我的下面传来了一种熟悉的紧张感，我有条不紊地抽插着Ari的下体，推向我自己的高潮。"
 
 # game/3map.rpy#L573
 translate chinese giftshop_cbbc37a8:
@@ -1706,7 +1706,7 @@ translate chinese giftshop_b2981af5:
 translate chinese giftshop_c957ae0a:
 
     # ari "Yeah… I really enjoyed that, [playername]…"
-    ari "是的，[playername],我真的好喜欢你...."
+    ari "是的，[playername]，刚才真的令人享受...."
 
 # game/3map.rpy#L588
 translate chinese giftshop_a670a04c:
@@ -1736,13 +1736,13 @@ translate chinese giftshop_39713382:
 translate chinese giftshop_1a378a84:
 
     # "It just doesn't feel right flirting with Ari in front of Dawn... Sorry Ari!"
-    "在Dawn面前和Ari调情感觉不太妥…对不起了，Ari!"
+    "在Dawn面前和Ari调情感觉不太妥…对不起，Ari!"
 
 # game/3map.rpy#L605
 translate chinese giftshop_257a4259:
 
     # ari "Oohh, we've already had sex today! Teasing me more is just bullying! Hehe."
-    ari "我们今天已经做过爱了，你这是在取笑、欺负我，哼哼"
+    ari "我们今天已经做过爱了，你这是在取笑、欺负我，哼哼。"
 
 # game/3map.rpy#L609
 translate chinese giftshop_87f84f47:

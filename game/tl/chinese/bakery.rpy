@@ -3188,7 +3188,7 @@ translate chinese creamvmissionary_3d68d6f8:
 translate chinese creamvmissionary_c94990df:
 
     # "Despite her dominance, I recall that she likes to be spanked. So I reach back and despite the slightly awkward position I give her ass a lil slap that causes her to giggle."
-    "Despite her dominance, I recall that she likes to be spanked. So I reach back and despite the slightly awkward position I give her ass a lil slap that causes her to giggle."
+    "尽管她占主导地位，但我记得她喜欢被打屁股。所以我把手伸回来，虽然有点尴尬，我还是给了她一记小耳光，让她咯咯地笑。"
 
 # game/bakery.rpy#L1007
 translate chinese creamvmissionary_99a4b133:
@@ -3332,25 +3332,25 @@ translate chinese creamvmissionary_09e4d238:
 translate chinese creamvmissionary_ce276cf1:
 
     # "We sleep through the night cuddled together."
-    "We sleep through the night cuddled together."
+    "我们依偎在一起，度过了一个晚上。"
 
 # game/bakery.rpy#L1070
 translate chinese creamvmissionary_081be9df:
 
     # "In the morning I return home, satisfied after the party and 'one' night stand."
-    "In the morning I return home, satisfied after the party and 'one' night stand."
+    "早上我回到家里，对昨天的派对和一夜情很满意。"
 
 # game/bakery.rpy#L1073
 translate chinese creamvmissionary_72c99965:
 
     # "I talk to Blossom a lot tonight, she's a little more quiet than everyone else but provides great conversation none-the-less."
-    "I talk to Blossom a lot tonight, she's a little more quiet than everyone else but provides great conversation none-the-less."
+    "今晚我和Blossom聊了很多，她比其他马都内向一些，但我们之间的交谈仍然是愉快的。"
 
 # game/bakery.rpy#L1074
 translate chinese creamvmissionary_e2c1c78b:
 
     # "We agree to go back to her place that night."
-    "We agree to go back to her place that night."
+    "我们一致决定今晚回她家。"
 
 # game/bakery.rpy#L1078
 translate chinese creamvmissionary_4a551ed1:
@@ -3464,31 +3464,31 @@ translate chinese creamvmissionary_e0b32a6e:
 translate chinese creamvmissionary_b6f33902:
 
     # "We sleep together, and in the morning I return home."
-    "We sleep together, and in the morning I return home."
+    "我们睡在一起，第二天早上，我就回家了。"
 
 # game/bakery.rpy#L1118
 translate chinese creamvmissionary_03d05e02:
 
     # "Ruby and I spend the majority of the night talking together, she handles her drink quite well."
-    "Ruby and I spend the majority of the night talking together, she handles her drink quite well."
+    "晚上大部分时间我都在和Ruby一起聊天，她的酒量很好。"
 
 # game/bakery.rpy#L1119
 translate chinese creamvmissionary_f91a15ce:
 
     # "She's a little more subtle than the other ladies with her flirts, at one time while we're alone she kisses me and encourages me to come to her place that night."
-    "She's a little more subtle than the other ladies with her flirts, at one time while we're alone she kisses me and encourages me to come to her place that night."
+    "她在调情方面的经验比其他雌驹要老练不少。在我们单独在一起的片刻，她趁机吻了我，希望我过会儿拜访她家。"
 
 # game/bakery.rpy#L1120
 translate chinese creamvmissionary_a153ecbe:
 
     # "You know I'll be there."
-    "You know I'll be there."
+    "你知道我会在那儿等着你的。"
 
 # game/bakery.rpy#L1123
 translate chinese creamvmissionary_953f7b8a:
 
     # ruby "Oh darling... It's so unlady like to fuck while I'm so drunk! *Giggles*"
-    ruby "Oh darling... It's so unlady like to fuck while I'm so drunk! *Giggles*"
+    ruby "哦亲爱的…在我喝得烂醉的时候搞事情真的太不像话了！*咯咯笑*"
 
 # game/bakery.rpy#L1125
 translate chinese creamvmissionary_087cd77a:

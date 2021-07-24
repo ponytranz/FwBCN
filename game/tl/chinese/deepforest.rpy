@@ -2306,7 +2306,7 @@ translate chinese zoelum_b903596f:
 translate chinese zoelum_7d5d79a0:
 
     # "Contractions attempt to wring my shaft, although I had paced myself well enough as to not be too close to cumming quite yet."
-    "她的子宫一紧，试图切断我老二的退路，幸好我控制得足够好，不然这次就射进去了。"
+    "她的子宫一紧，试图切断我肉棒的退路，幸好我节奏控制得足够好，不然这次就射进去了。"
 
 # game/deepforest.rpy#L748
 translate chinese zoelum_6fe602d8:
@@ -2444,7 +2444,7 @@ translate chinese zoelum_bfd3df19:
 translate chinese zoelum_83abe488:
 
     # zo "I don’t know if her, or your intention was to ‘fuck’ the fetish out of me, but honestly that’d be silly."
-    zo "I don’t know if her, or your intention was to ‘fuck’ the fetish out of me, but honestly that’d be silly."
+    zo "我不知道是她还是你想要把我“操”出恋物癖来，但有一说一，太蠢了"
 
 # game/deepforest.rpy#L795
 translate chinese zoelum_dcb5bb12:
@@ -3452,7 +3452,7 @@ translate chinese werewolfhunting_82965137:
 translate chinese werewolfhunting_15f8b462:
 
     # "I can’t resist. I wonder if she’s talking to it in rhyme."
-    "我按捺不住去想：她是不是在跟它玩儿押韵呀。"
+    "我忍不住去想：她是不是在跟它玩儿押韵呀。"
 
 # game/deepforest.rpy#L1104
 translate chinese werewolfhunting_ed000a03:
@@ -3470,7 +3470,7 @@ translate chinese werewolfhunting_a1839eae:
 translate chinese werewolfhunting_b4843fef:
 
     # zo "Oohh, you’re a big bad boy, aren’t you? Do you like the view? Hehe."
-    zo "哦！~噢~！你可真是个带坏蛋，是不是呀？我这个骚样是不是让你大饱眼福了？呵~呵~"
+    zo "哦！~噢~！你可不就是个大坏蛋？我这个骚样是不是很好看？呵~呵~"
 
 # game/deepforest.rpy#L1110
 translate chinese werewolfhunting_fce1fd42:
@@ -3866,7 +3866,7 @@ translate chinese werewolfsex_6ad33e3e:
 translate chinese werewolfsex_e53c9619:
 
     # "The two of us ride our orgasms out until the heightened sensitivity wears off and physical fatigue sets in."
-    "我们俩一起经历我们的高潮，直到强烈的敏感性消退，身体开始疲劳。"
+    "我们俩一起经历高潮，直到强烈的敏感消退，身体开始疲劳。"
 
 # game/deepforest.rpy#L1225
 translate chinese werewolfsex_06d797c3:
