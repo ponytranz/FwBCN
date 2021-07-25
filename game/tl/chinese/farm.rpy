@@ -1766,7 +1766,7 @@ translate chinese farmvisit1_3fe6c071:
 translate chinese farmvisit1_1565514f:
 
     # blossom "Here’s your tea sir, I hope you enjoy it."
-    blossom "Here’s your tea sir, I hope you enjoy it."
+    blossom "你的茶水儿，先生，我希望您能好好享受。"
 
 # game/farm.rpy#L576
 translate chinese farmvisit1_18e584ec:
@@ -1814,7 +1814,7 @@ translate chinese farmvisit1_0a63f9bb:
 translate chinese farmvisit1_623924e3:
 
     # "Alright, one more peek."
-    "Alright, one more peek."
+    "行吧，再多看一眼。"
 
 # game/farm.rpy#L590
 translate chinese farmvisit1_31e5010f:
@@ -1862,7 +1862,7 @@ translate chinese farmvisit1_18654d33:
 translate chinese farmvisit1_98f07afd:
 
     # blossom "M-Maybe I can get you milk next time though…"
-    blossom "M-Maybe I can get you milk next time though…"
+    blossom "也...也许我能下次再给你拿牛奶......"
 
 # game/farm.rpy#L605
 translate chinese farmvisit1_51081c81:
@@ -1886,7 +1886,7 @@ translate chinese farmvisit1_27935ddf:
 translate chinese farmvisit1_9b52b760:
 
     # blossom "Ooo, thank you, I made it myself!"
-    blossom "Ooo, thank you, I made it myself!"
+    blossom "哇！谢谢你！这是我亲手弄得！"
 
 # game/farm.rpy#L611
 translate chinese farmvisit1_061d3026:
@@ -1916,7 +1916,7 @@ translate chinese farmvisit1_728f08d2:
 translate chinese farmvisit1_89fd6089:
 
     # "… Hm…"
-    "… Hm…"
+    "......呃......."
 
 # game/farm.rpy#L620
 translate chinese farmvisit1_180965fa:
@@ -1928,13 +1928,13 @@ translate chinese farmvisit1_180965fa:
 translate chinese farmvisit1_6e8e24b9:
 
     # mc "So, about your sister."
-    mc "So, about your sister."
+    mc "所以，关于你的姐姐......"
 
 # game/farm.rpy#L623
 translate chinese farmvisit1_69982075:
 
     # blossom "Uhm, yes! About my sister?"
-    blossom "Uhm, yes! About my sister?"
+    blossom "呃...嗯！关于我老姐？"
 
 # game/farm.rpy#L624
 translate chinese farmvisit1_730dd436:
@@ -1952,7 +1952,7 @@ translate chinese farmvisit1_aa5d74c5:
 translate chinese farmvisit1_98e9b20b:
 
     # blossom "Y-yes…"
-    blossom "Y-yes…"
+    blossom "额...额滴....."
 
 # game/farm.rpy#L629
 translate chinese farmvisit1_30718f13:
@@ -1970,19 +1970,19 @@ translate chinese farmvisit1_60e1b60c:
 translate chinese farmvisit1_72516a5b:
 
     # mc "Do you have any ideas?"
-    mc "Do you have any ideas?"
+    mc "你有主意吗？"
 
 # game/farm.rpy#L634
 translate chinese farmvisit1_10aa3e45:
 
     # blossom "How long will you be working here, Sir?"
-    blossom "How long will you be working here, Sir?"
+    blossom "先生，你惦着从这儿干多久活计？"
 
 # game/farm.rpy#L635
 translate chinese farmvisit1_22f8ebab:
 
     # mc "Who knows, I have a few places I want to work at, but I don't want to make any permanant decisions yet."
-    mc "Who knows, I have a few places I want to work at, but I don't want to make any permanant decisions yet."
+    mc "谁知道呢，我想去的可以工作的地方不是很多。但我还不想做任何永久性决定"
 
 # game/farm.rpy#L637
 translate chinese farmvisit1_cbf0a654:
@@ -1994,7 +1994,7 @@ translate chinese farmvisit1_cbf0a654:
 translate chinese farmvisit1_b1ac94f7:
 
     # mc "Yeah, sure."
-    mc "Yeah, sure."
+    mc "嗯，好的。"
 
 # game/farm.rpy#L640
 translate chinese farmvisit1_549880f6:
@@ -2006,7 +2006,7 @@ translate chinese farmvisit1_549880f6:
 translate chinese farmvisit1_da21d0a7:
 
     # mc "Ohh, that’s perfect."
-    mc "Ohh, that’s perfect."
+    mc "哦，那再好不过了。"
 
 # game/farm.rpy#L643
 translate chinese farmvisit1_406fbe3c:
@@ -2036,7 +2036,7 @@ translate chinese farmvisit1_7db51fbd:
 translate chinese farmvisit1_2d2e73ae:
 
     # mc "That’s a great plan."
-    mc "That’s a great plan."
+    mc "是个好主意。"
 
 # game/farm.rpy#L651
 translate chinese farmvisit1_7a5f3ee8:
@@ -2054,7 +2054,7 @@ translate chinese farmvisit1_01975587:
 translate chinese farmvisit1_a31340dd:
 
     # mc "Really?"
-    mc "Really?"
+    mc "真的吗？"
 
 # game/farm.rpy#L655
 translate chinese farmvisit1_ff23283a:
@@ -2102,13 +2102,13 @@ translate chinese farmvisit1_af20eb80:
 translate chinese farmvisit1_95c7633a:
 
     # mc "Are you okay?"
-    mc "Are you okay?"
+    mc "你还好吗？"
 
 # game/farm.rpy#L669
 translate chinese farmvisit1_c32a3630:
 
     # blossom "I-I, uh… May… Uh…"
-    blossom "I-I, uh… May… Uh…"
+    blossom "我......我......呃.....也许...额...."
 
 # game/farm.rpy#L670
 translate chinese farmvisit1_2e2a9b77:
@@ -2138,7 +2138,7 @@ translate chinese farmvisit1_67557245:
 translate chinese farmvisit1_8bb7f789:
 
     # blossom "S-sure? What do you mean?"
-    blossom "S-sure? What do you mean?"
+    blossom "当...当然？你啥意思？"
 
 # game/farm.rpy#L678
 translate chinese farmvisit1_9de22f0f:
@@ -2270,7 +2270,7 @@ translate chinese farmvisit1_2b72d280:
 translate chinese farmvisit1_eb87d1ca:
 
     # mc "It’s been great meeting you Blossom, thank you for your tea, it was delicious."
-    mc "It’s been great meeting you Blossom, thank you for your tea, it was delicious."
+    mc "见到你真好Blossom, 谢谢你的茶，茶水很可口"
 
 # game/farm.rpy#L720
 translate chinese farmvisit1_5d96704e:
@@ -2378,7 +2378,7 @@ translate chinese farmvisit1_7804563a:
 translate chinese farmvisit1_3abc0d00:
 
     # mc "Interesting… I met Blossom too, she seemed really shy, not at all assertive like her sister."
-    mc "Interesting… I met Blossom too, she seemed really shy, not at all assertive like her sister."
+    mc "有趣......我也见到Blossom了，她看起来真的很害羞，一点也不像她姐姐那样有主见。"
 
 # game/farm.rpy#L756
 translate chinese farmvisit1_20aa7703:
@@ -2504,7 +2504,7 @@ translate chinese farmvisit1_b9ab5504:
 translate chinese farmvisit1_ce617998:
 
     # "…"
-    "…"
+    "......"
 
 # game/farm.rpy#L790
 translate chinese farmvisit1_fc78cdbe:
@@ -2588,7 +2588,7 @@ translate chinese farmvisit1_1e8bd3f5:
 translate chinese farmvisit1_3abc0d00_1:
 
     # mc "Interesting… I met Blossom too, she seemed really shy, not at all assertive like her sister."
-    mc "Interesting… I met Blossom too, she seemed really shy, not at all assertive like her sister."
+    mc "有趣......我也见到Blossom了，她看起来真的很害羞，一点也不像她姐姐那样有主见。"
 
 # game/farm.rpy#L811
 translate chinese farmvisit1_e661722a:
@@ -2666,7 +2666,7 @@ translate chinese farmvisit1_7f813115:
 translate chinese farmvisit1_ce617998_1:
 
     # "…"
-    "…"
+    "......"
 
 # game/farm.rpy#L835
 translate chinese farmvisit2_3b75eca3:
@@ -2870,25 +2870,25 @@ translate chinese farmvisit2_244cfeee:
 translate chinese farmvisit2_875646f2:
 
     # honeycrisp "I bet you're getting excited too."
-    honeycrisp "I bet you're getting excited too."
+    honeycrisp "我敢打赌你也很兴奋。"
 
 # game/farm.rpy#L888
 translate chinese farmvisit2_27320961:
 
     # mc "A little."
-    mc "A little."
+    mc "一点点而已。"
 
 # game/farm.rpy#L890
 translate chinese farmvisit2_0fceeaec:
 
     # honeycrisp "How about now, hm?"
-    honeycrisp "How about now, hm?"
+    honeycrisp "现在怎么样,嗯哼？"
 
 # game/farm.rpy#L891
 translate chinese farmvisit2_26f967e8:
 
     # mc "Damn Honey..."
-    mc "Damn Honey..."
+    mc "很兴奋，甜心"
 
 # game/farm.rpy#L892
 translate chinese farmvisit2_3e8acdf6:
@@ -2984,7 +2984,7 @@ translate chinese farmvisit2_08b8b71a:
 translate chinese farmvisit2_b2faa59a:
 
     # honeycrisp "I think I see her!"
-    honeycrisp "I think I see her!"
+    honeycrisp "我想我见到她了！"
 
 # game/farm.rpy#L921
 translate chinese farmvisit2_9f59fd50:
@@ -3032,13 +3032,13 @@ translate chinese farmvisit2_e9f56971:
 translate chinese farmvisit2_53da69cb:
 
     # "Woah-ho! She's thicc!"
-    "Woah-ho! She's thicc!"
+    "哇哦！她身材真火辣！"
 
 # game/farm.rpy#L942
 translate chinese farmvisit2_3ccae305:
 
     # "Look at the size of those-"
-    "Look at the size of those-"
+    "看看那些玩意的尺寸..."
 
 # game/farm.rpy#L950
 translate chinese farmvisit2_b7b57f8b:
@@ -3074,7 +3074,7 @@ translate chinese farmvisit2_1de88505:
 translate chinese farmvisit2_e521284e:
 
     # mc "I know right?"
-    mc "I know right?"
+    mc "我知道。"
 
 # game/farm.rpy#L962
 translate chinese farmvisit2_42bf0d2c:
@@ -3218,7 +3218,7 @@ translate chinese farm2annameet_79b4f6d6:
 translate chinese farm2annameet_1d16b093:
 
     # mc "Uh, what’s a heifer?"
-    mc "Uh, what’s a heifer?"
+    mc "呃，小母牛是什么？"
 
 # game/farm.rpy#L1006
 translate chinese farm2annameet_90811395:
@@ -3344,13 +3344,13 @@ translate chinese farm2annameet_b2f48895:
 translate chinese farm2annameet_aa0c17e8:
 
     # mc "This is a first for me too."
-    mc "This is a first for me too."
+    mc "这也是我的第一次。"
 
 # game/farm.rpy#L1038
 translate chinese farm2annameet_c55de8c6:
 
     # anna "Let’s just have some fun, [playername]."
-    anna "Let’s just have some fun, [playername]."
+    anna "我们还是只享受乐趣吧，[playername]。"
 
 # game/farm.rpy#L1039
 translate chinese farm2annameet_7f7c3ae7:
@@ -3740,7 +3740,7 @@ translate chinese annamilking_18667364:
 translate chinese annamilking_606c1a29:
 
     # anna "Right!"
-    anna "Right!"
+    anna "是的。"
 
 # game/farm.rpy#L1149
 translate chinese annamilking_1fe6117e:
@@ -3788,7 +3788,7 @@ translate chinese annamilking_e6125c66:
 translate chinese annamilking_4e8f2da5:
 
     # mc "Sucking? Are you sure?"
-    mc "Sucking? Are you sure?"
+    mc "吮吸？宁确定？"
 
 # game/farm.rpy#L1157
 translate chinese annamilking_313bc7c5:
@@ -3908,13 +3908,13 @@ translate chinese annamilking_6f17756c:
 translate chinese annamilking_c2a448f3:
 
     # mc "Please do."
-    mc "Please do."
+    mc "请务必这么干。"
 
 # game/farm.rpy#L1202
 translate chinese annamilking_22835efe:
 
     # anna "Mmm…"
-    anna "Mmm…"
+    anna "呃......"
 
 # game/farm.rpy#L1207
 translate chinese annamilking_6b8aaef4:
@@ -3968,19 +3968,19 @@ translate chinese annamilking_9a4c0fcb:
 translate chinese annamilking_7ba8ff67:
 
     # honeycrisp "Anna, your head is so cloudy with erotic thoughts, that you forgot your best assets."
-    honeycrisp "Anna, your head is so cloudy with erotic thoughts, that you forgot your best assets."
+    honeycrisp "Anna，你满脑子都是瞎搞，结果你忘了你最好的本钱。"
 
 # game/farm.rpy#L1227
 translate chinese annamilking_b2b9e19d:
 
     # mc "What do you mean?"
-    mc "What do you mean?"
+    mc "你什么意思？"
 
 # game/farm.rpy#L1228
 translate chinese annamilking_8b82333f:
 
     # "Anna turns to Honey, to get quite a surprise."
-    "Anna turns to Honey, to get quite a surprise."
+    "Anna转向Honey，有点吃惊。"
 
 # game/farm.rpy#L1229
 translate chinese annamilking_14517897:
@@ -4010,7 +4010,7 @@ translate chinese annamilking_cabaf639:
 translate chinese annamilking_16100a6b:
 
     # anna "Ahh, I get it!"
-    anna "Ahh, I get it!"
+    anna "啊哈哈，我懂了！"
 
 # game/farm.rpy#L1239
 translate chinese annamilking_cea15661:
@@ -4052,7 +4052,7 @@ translate chinese annamilking_b0d30e60:
 translate chinese annamilking_6e672c21:
 
     # anna "Mmphh, so good…"
-    anna "Mmphh, so good…"
+    anna "嗯~真舒坦..."
 
 # game/farm.rpy#L1254
 translate chinese annamilking_e5915f84:
@@ -4628,7 +4628,7 @@ translate chinese annamilking_39036f8c:
 translate chinese annamilking_07e5ff0a:
 
     # anna "Oh?"
-    anna "Oh?"
+    anna "哦？"
 
 # game/farm.rpy#L1442
 translate chinese honeyannathreesome_2dd62f4f:
@@ -4676,7 +4676,7 @@ translate chinese honeyannathreesome_28b8986b:
 translate chinese honeyannathreesome_e767d2e8:
 
     # anna "Aaahhhh, ahh!"
-    anna "Aaahhhh, ahh!"
+    anna "啊哈哈哈，啊哈！"
 
 # game/farm.rpy#L1457
 translate chinese honeyannathreesome_d0916f7f:
@@ -4766,7 +4766,7 @@ translate chinese honeyannathreesome_036b3e75:
 translate chinese honeyannathreesome_08b2008a:
 
     # anna "F-F… F-F-Fuck!"
-    anna "F-F… F-F-Fuck!"
+    anna "c...c....c..操！"
 
 # game/farm.rpy#L1474
 translate chinese honeyannathreesome_d8216572:
@@ -4856,7 +4856,7 @@ translate chinese honeyannathreesome_f33baaac:
 translate chinese honeyannathreesome_fba94218:
 
     # "*Splurt, splurt, squirt*."
-    "*Splurt, splurt, squirt*."
+    "*喷射,喷射,喷射*！"
 
 # game/farm.rpy#L1501
 translate chinese honeyannathreesome_13c3365b:
@@ -5084,7 +5084,7 @@ translate chinese honeyannathreesome_a65091b8:
 translate chinese honeyannathreesome_a511f0fc:
 
     # honeycrisp "Ahh… C-Cum inside!"
-    honeycrisp "Ahh… C-Cum inside!"
+    honeycrisp "啊啊啊...把你的精液射在里面吧！"
 
 # game/farm.rpy#L1551
 translate chinese honeyannathreesome_74285cdd:
@@ -5186,7 +5186,7 @@ translate chinese honeyannathreesome_88d8d5fe:
 translate chinese honeyannathreesome_bc74f57c:
 
     # "Deep breaths, birds singing, ponies, farm… Right, I’m back."
-    "Deep breaths, birds singing, ponies, farm… Right, I’m back."
+    "深呼吸，鸟儿在歌唱，马儿，农场......好，我该回去了。"
 
 # game/farm.rpy#L1608
 translate chinese honeyannathreesome_4e1eb0c9:
@@ -5198,7 +5198,7 @@ translate chinese honeyannathreesome_4e1eb0c9:
 translate chinese honeyannathreesome_ca8b03c1:
 
     # mc "Next time?"
-    mc "Next time?"
+    mc "下次再来？"
 
 # game/farm.rpy#L1613
 translate chinese honeyannathreesome_63de5f8b:
@@ -5228,7 +5228,7 @@ translate chinese honeyannathreesome_e313348f:
 translate chinese honeyannathreesome_3bac6dca:
 
     # honeycrisp "Naturally!"
-    honeycrisp "Naturally!"
+    honeycrisp "当然！"
 
 # game/farm.rpy#L1621
 translate chinese honeyannathreesome_fc77cfef:
@@ -5264,7 +5264,7 @@ translate chinese honeyannathreesome_dfcc9eee:
 translate chinese honeyannathreesome_ce617998:
 
     # "…"
-    "…"
+    "......"
 
 # game/farm.rpy#L1636
 translate chinese honeyannathreesome_7b71e55c:
@@ -5432,19 +5432,19 @@ translate chinese honeyannathreesome_30fc42a1:
 translate chinese honeyannathreesome_ede89779:
 
     # blossom "Hmm… I already know."
-    blossom "Hmm… I already know."
+    blossom "呃......我已经知道了。"
 
 # game/farm.rpy#L1693
 translate chinese honeyannathreesome_81709362:
 
     # mc "You do?"
-    mc "You do?"
+    mc "真的吗？"
 
 # game/farm.rpy#L1696
 translate chinese honeyannathreesome_6e36b23e:
 
     # blossom "Well too late, I already know."
-    blossom "Well too late, I already know."
+    blossom "呃...太晚了，我已经知道了。"
 
 # game/farm.rpy#L1697
 translate chinese honeyannathreesome_1148a5e8:
@@ -5456,7 +5456,7 @@ translate chinese honeyannathreesome_1148a5e8:
 translate chinese honeyannathreesome_07c1566b:
 
     # blossom "Nuh uh..."
-    blossom "Nuh uh..."
+    blossom "不，呃......"
 
 # game/farm.rpy#L1700
 translate chinese honeyannathreesome_e803b2bc:
@@ -5576,7 +5576,7 @@ translate chinese honeyannathreesome_838e66f7:
 translate chinese honeyannathreesome_e70128a2:
 
     # blossom "L-Lewd."
-    blossom "L-Lewd."
+    blossom "流...流氓！"
 
 # game/farm.rpy#L1730
 translate chinese honeyannathreesome_de462385:
@@ -5636,7 +5636,7 @@ translate chinese honeyannathreesome_584af3a5:
 translate chinese honeyannathreesome_3ed84780:
 
     # blossom "Uhmm… Hmm… "
-    blossom "Uhmm… Hmm… "
+    blossom "呃....嗯..."
 
 # game/farm.rpy#L1746
 translate chinese honeyannathreesome_e44df3e0:
@@ -5684,7 +5684,7 @@ translate chinese honeyannathreesome_a2bb2aa3:
 translate chinese honeyannathreesome_7497e295:
 
     # blossom "That’s good!"
-    blossom "That’s good!"
+    blossom "好耶！"
 
 # game/farm.rpy#L1758
 translate chinese honeyannathreesome_8acb5852:
@@ -5834,7 +5834,7 @@ translate chinese honeyannathreesome_bcc67097:
 translate chinese honeyannathreesome_9a3875e7:
 
     # blossom "Of course, mister."
-    blossom "Of course, mister."
+    blossom "中，先生。"
 
 # game/farm.rpy#L1798
 translate chinese honeyannathreesome_1f4d1758:
@@ -5882,25 +5882,25 @@ translate chinese honeyannathreesome_b39b0698:
 translate chinese honeyannathreesome_0520328a:
 
     # mc "Hey Blossom."
-    mc "Hey Blossom."
+    mc "嘿！Blossom。"
 
 # game/farm.rpy#L1807
 translate chinese honeyannathreesome_39c7c31a:
 
     # blossom "Hm?"
-    blossom "Hm?"
+    blossom "嗯？"
 
 # game/farm.rpy#L1808
 translate chinese honeyannathreesome_25448776:
 
     # mc "I notice you call me mister or sir a lot, call me [playername]."
-    mc "I notice you call me mister or sir a lot, call me [playername]."
+    mc "我发现你总是叫我先生，直接叫我[playername]就可以了。"
 
 # game/farm.rpy#L1810
 translate chinese honeyannathreesome_bbf72403:
 
     # blossom "Okay, [playername]"
-    blossom "Okay, [playername]"
+    blossom "好，[playername]"
 
 # game/farm.rpy#L1816
 translate chinese farmvisit2choice1_5b0299be:
@@ -5972,25 +5972,25 @@ translate chinese farmvisit2choice1_43630509:
 translate chinese farmvisit2choice1_360e00b5:
 
     # blossom "Oooo… You’re at college too?"
-    blossom "Oooo… You’re at college too?"
+    blossom "哦…你也在上大学？"
 
 # game/farm.rpy#L1833
 translate chinese farmvisit2choice1_182c8501:
 
     # mc "Well... I was."
-    mc "Well... I was."
+    mc "是的......我曾经。"
 
 # game/farm.rpy#L1834
 translate chinese farmvisit2choice1_c378b875:
 
     # "I best not talk too much about my old life, especially to Blossom."
-    "I best not talk too much about my old life, especially to Blossom."
+    "我最好不要再讨论我的旧人生了，尤其是和Blossom"
 
 # game/farm.rpy#L1835
 translate chinese farmvisit2choice1_ce2fcf16:
 
     # mc "What else do you do?"
-    mc "What else do you do?"
+    mc "你还有什么事要做吗？"
 
 # game/farm.rpy#L1836
 translate chinese farmvisit2choice1_f1d3e740:
@@ -6062,19 +6062,19 @@ translate chinese farmvisit2choice1_49669ddd:
 translate chinese farmvisit2choice1_515bee20:
 
     # blossom "Hm, yeah…"
-    blossom "Hm, yeah…"
+    blossom "嗯...额滴......"
 
 # game/farm.rpy#L1858
 translate chinese farmvisit2choice1_db72cd24:
 
     # blossom "I want to have sex with you, because I’m horny."
-    blossom "I want to have sex with you, because I’m horny."
+    blossom "我想你让你操一下子儿，因为我现在在发情期。"
 
 # game/farm.rpy#L1859
 translate chinese farmvisit2choice1_f591ee7c:
 
     # mc "Is that it?"
-    mc "Is that it?"
+    mc "是吗？"
 
 # game/farm.rpy#L1860
 translate chinese farmvisit2choice1_8a4eea15:
@@ -6128,7 +6128,7 @@ translate chinese farmvisit2choice1_a349c42e:
 translate chinese farmvisit2choice1_b4ee6750:
 
     # blossom "Hehe, I like that..."
-    blossom "Hehe, I like that..."
+    blossom "呵呵，我稀罕这样儿..."
 
 # game/farm.rpy#L1875
 translate chinese farmvisit2choice1_f5a4a651:
@@ -6266,19 +6266,19 @@ translate chinese farmvisit2choice1_2eb9f59d:
 translate chinese farmvisit2choice1_e2483a1c:
 
     # mc "Slowly leaving!"
-    mc "Slowly leaving!"
+    mc "慢点走！"
 
 # game/farm.rpy#L1910
 translate chinese farmvisit2choice1_8fb38894:
 
     # blossom "I’m going to have sex with you when you come back."
-    blossom "I’m going to have sex with you when you come back."
+    blossom "等你回来的时候我还惦着跟你再搞一回儿。"
 
 # game/farm.rpy#L1911
 translate chinese farmvisit2choice1_991feeae:
 
     # mc "I’m leaving!"
-    mc "I’m leaving!"
+    mc "那我先走了。"
 
 # game/farm.rpy#L1914
 translate chinese farmvisit2choice1_ab7055b6:
@@ -6296,7 +6296,7 @@ translate chinese farmvisit2choice1_d0b3fae7:
 translate chinese farmvisit2choice1_059ed639:
 
     # blossom "Mm… Mmmm…"
-    blossom "Mm… Mmmm…"
+    blossom "嗯...嗯嗯......"
 
 # game/farm.rpy#L1918
 translate chinese farmvisit2choice1_83bac1d2:
@@ -6512,7 +6512,7 @@ translate chinese farmvisit2choice1_c99227e1:
 translate chinese farmvisit2choice1_3fcb50fb:
 
     # mc "You know it."
-    mc "You know it."
+    mc "你知道的"
 
 # game/farm.rpy#L1982
 translate chinese farmvisit2choice1_06f2955d:
@@ -6746,7 +6746,7 @@ translate chinese farmvisit3_bf27b472:
 translate chinese farmvisit3_794c4ae2:
 
     # blossom "Do you want some?"
-    blossom "Do you want some?"
+    blossom "你惦着要点吗？"
 
 # game/farm.rpy#L2050
 translate chinese farmvisit3_31e846d9:
@@ -6914,7 +6914,7 @@ translate chinese farmvisit3_332f2d60:
 translate chinese farmvisit3_2b4d7ff9:
 
     # blossom "Bully, drink your tea!"
-    blossom "Bully, drink your tea!"
+    blossom "赶紧的，把你的茶给我喝了。"
 
 # game/farm.rpy#L2091
 translate chinese farmvisit3_c929db5d:
@@ -10604,7 +10604,7 @@ translate chinese blossomvisit_664a893c:
 translate chinese blossomvisit_fd807853:
 
     # blossom "Uhm, wha?"
-    blossom "Uhm, wha?"
+    blossom "呃.....啥玩楞？"
 
 # game/farm.rpy#L3200
 translate chinese blossomvisit_ea9da4f9:
@@ -13280,7 +13280,7 @@ translate chinese annasex_f1678d52:
 translate chinese annasex_8f1cb80c:
 
     # mc "Really? That’s great news."
-    mc "Really? That’s great news."
+    mc "真的吗？真是个好消息。"
 
 # game/farm.rpy#L4001
 translate chinese annasex_de8e5984:
@@ -13736,7 +13736,7 @@ translate chinese farmsexduringwork_e3a1658f:
 translate chinese farmsexduringwork_4a461056:
 
     # "Much later on..."
-    "Much later on..."
+    "再晚一会儿......"
 
 # game/farm.rpy#L4118
 translate chinese farmsexduringwork_c287edc4:

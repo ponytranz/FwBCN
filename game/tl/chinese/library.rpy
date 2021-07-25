@@ -9356,157 +9356,157 @@ translate chinese lilylegsupmissionary_675e6b77:
 translate chinese lilylegsupmissionary_a8dc9703:
 
     # selene "If you were dangerous I don’t think Aurora would have waited this long to send you to me. She’s been keeping an eye on you longer than she cares to admit."
-    selene "If you were dangerous I don’t think Aurora would have waited this long to send you to me. She’s been keeping an eye on you longer than she cares to admit."
+    selene "如果你是危险人物我想Aurora不会等这么久才把你送过来。她观察你的时间比她愿意承认的要长。"
 
 # game/library.rpy#L2645
 translate chinese lilylegsupmissionary_1a9d7e8d:
 
     # mc "That explains what happened with Augusta, and also the letter she sent me."
-    mc "That explains what happened with Augusta, and also the letter she sent me."
+    mc "这就解释了我与Augusta发生的事，还有她寄给我的那封信。"
 
 # game/library.rpy#L2647
 translate chinese lilylegsupmissionary_d9fc1c5e:
 
     # mc "That explains the letter she gave me."
-    mc "That explains the letter she gave me."
+    mc "这就解释了她给我的那封信。"
 
 # game/library.rpy#L2649
 translate chinese lilylegsupmissionary_83cbd0d8:
 
     # selene "My sister will only tell you what you need to know. She undoubtedly deemed you safe and moved on, but that doesn’t mean we’re rude enough to refuse to help you."
-    selene "My sister will only tell you what you need to know. She undoubtedly deemed you safe and moved on, but that doesn’t mean we’re rude enough to refuse to help you."
+    selene "我姐姐只会告诉你该知道的事。毫无疑问她认为你是安全的，就不继续盯着你了，但这并不意味着我们无礼到拒绝帮助你。"
 
 # game/library.rpy#L2654
 translate chinese libraryvisit3choice5_adc35a66:
 
     # selene "Hmm, well they're all supposed to be classified..."
-    selene "Hmm, well they're all supposed to be classified..."
+    selene "这些都是机密文件……"
 
 # game/library.rpy#L2656
 translate chinese libraryvisit3choice5_ed29e30b:
 
     # "Moxie awkwardly looks at me and then away. Maybe I shouldn't have asked that."
-    "Moxie awkwardly looks at me and then away. Maybe I shouldn't have asked that."
+    "Moxie尴尬地看了我一眼，然后走开了。看来我不该问这个。"
 
 # game/library.rpy#L2658
 translate chinese libraryvisit3choice5_fc603c8e:
 
     # selene "Haha, no need to look so glum Moxie. I never get to tell people about these things, so I'll tell you about one I dealt with a few centuries back."
-    selene "Haha, no need to look so glum Moxie. I never get to tell people about these things, so I'll tell you about one I dealt with a few centuries back."
+    selene "哈哈，Moxie，别这么闷闷不乐的。我一直没机会跟别人说这些事情，所以我要告诉你们我几个世纪前处理过的一件事。"
 
 # game/library.rpy#L2660
 translate chinese libraryvisit3choice5_ee8641db:
 
     # moxie "W-What was it?"
-    moxie "W-What was it?"
+    moxie "啥，这啥啊？"
 
 # game/library.rpy#L2663
 translate chinese libraryvisit3choice5_0c462b14:
 
     # selene "It was a special vine from an unknown universe, it would initially attach itself to a host like a plant/parasite hybrid."
-    selene "It was a special vine from an unknown universe, it would initially attach itself to a host like a plant/parasite hybrid."
+    selene "这是一种来自未知宇宙的特殊藤蔓，它最初会像寄生虫一样附着在宿主上。"
 
 # game/library.rpy#L2664
 translate chinese libraryvisit3choice5_dbe6063b:
 
     # selene "It would eventually replace hair and more with vines, leaves, et cetera."
-    selene "It would eventually replace hair and more with vines, leaves, et cetera."
+    selene "它会用藤蔓、树叶等来代替宿主的头发。"
 
 # game/library.rpy#L2665
 translate chinese libraryvisit3choice5_bf62e743:
 
     # selene "Until eventually the host completely transforms into a plant."
-    selene "Until eventually the host completely transforms into a plant."
+    selene "直到最终完全把宿主完全转化为植物。"
 
 # game/library.rpy#L2666
 translate chinese libraryvisit3choice5_2f848f2f:
 
     # selene "Given its extremely high infection rate and nearly infinite lifespan as a plant, it'd eventually consume entire planets."
-    selene "Given its extremely high infection rate and nearly infinite lifespan as a plant, it'd eventually consume entire planets."
+    selene "还鉴于它极高的感染率和作为植物近乎无限的生命力，它最终可以吞噬整颗星球。"
 
 # game/library.rpy#L2667
 translate chinese libraryvisit3choice5_e50f9398:
 
     # mc "Woah, that's terrifying."
-    mc "Woah, that's terrifying."
+    mc "哇,太恐怖了。"
 
 # game/library.rpy#L2669
 translate chinese libraryvisit3choice5_fed4fb8f:
 
     # selene "Don't you think it's kinda cool?"
-    selene "Don't you think it's kinda cool?"
+    selene "你不觉得这很酷吗?"
 
 # game/library.rpy#L2670
 translate chinese libraryvisit3choice5_3e4b7edd:
 
     # selene "Heh, either way, I think this world has enough dangerous flora without a plant that could potentially infect the entire planet."
-    selene "Heh, either way, I think this world has enough dangerous flora without a plant that could potentially infect the entire planet."
+    selene "不管怎样，我觉得这个世界上的植物已经够危险的了，但可没有一种植物可以感染整颗星球。"
 
 # game/library.rpy#L2674
 translate chinese libraryvisit3choice5_8c672bbc:
 
     # selene "Me and my sister have exceptionally distinct roles to play in this universe."
-    selene "Me and my sister have exceptionally distinct roles to play in this universe."
+    selene "我和我姐姐在这个世界上扮演着截然不同的角色。"
 
 # game/library.rpy#L2675
 translate chinese libraryvisit3choice5_0709f57e:
 
     # selene "She deals with the people, alteration, and whatever you can see."
-    selene "She deals with the people, alteration, and whatever you can see."
+    selene "她负责跟人打交道，跟能看到的一切打交道。"
 
 # game/library.rpy#L2677
 translate chinese libraryvisit3choice5_5c9139d1:
 
     # selene "I focus on mysticism, the cosmic, and phenomena."
-    selene "I focus on mysticism, the cosmic, and phenomena."
+    selene "而我专注于神秘主义，宇宙现象。"
 
 # game/library.rpy#L2679
 translate chinese libraryvisit3choice5_ed83177f:
 
     # "I can feel Moxie’s eyes light up; she’s hanging on Selene’s every word."
-    "I can feel Moxie’s eyes light up; she’s hanging on Selene’s every word."
+    "我能感到Moxie的眼睛一亮，她对Selene的每一个字都念念不忘。"
 
 # game/library.rpy#L2683
 translate chinese libraryvisit3choice5_a67e8cc4:
 
     # selene "Everything? No, not even close. Her magic is powerful, but all magic has limitations."
-    selene "Everything? No, not even close. Her magic is powerful, but all magic has limitations."
+    selene "强大到无穷无尽？不，她的魔法是很强大，但是只要是魔法就都有局限性。"
 
 # game/library.rpy#L2684
 translate chinese libraryvisit3choice5_28e6f08f:
 
     # mc "How would she know about me before meeting me then?"
-    mc "How would she know about me before meeting me then?"
+    mc "那她怎么会在遇见我之前知道我的事呢？"
 
 # game/library.rpy#L2686
 translate chinese libraryvisit3choice5_d87310f3:
 
     # selene "She keeps track of anything new around Arcadia, she almost certainly noticed a strange creature pop up in her kingdom."
-    selene "She keeps track of anything new around Arcadia, she almost certainly noticed a strange creature pop up in her kingdom."
+    selene "她跟踪Arcadia周围的任何新事物，可以肯定她注意到Arcadia的王国中突然出现了一个奇怪的生物。"
 
 # game/library.rpy#L2687
 translate chinese libraryvisit3choice5_fcd29c43:
 
     # selene "I think she always analyses Arcadian newcomers to see if they’re troublemakers or not."
-    selene "I think she always analyses Arcadian newcomers to see if they’re troublemakers or not."
+    selene "她总是在分析闯入Arcadian新来者，我想这是为了确认他们是否会闯祸。"
 
 # game/library.rpy#L2688
 translate chinese libraryvisit3choice5_ff94777c:
 
     # "'Harmless and horny'… Right, she must have been the one that analysed me, not Lily."
-    "'Harmless and horny'… Right, she must have been the one that analysed me, not Lily."
+    "“无害又色气十足”…对，她一定是分析我的人，不是Lily。"
 
 # game/library.rpy#L2689
 translate chinese libraryvisit3choice5_97e1c617:
 
     # mc "So, she’s always watching?"
-    mc "So, she’s always watching?"
+    mc "所以，她一直在监视咱们？"
 
 # game/library.rpy#L2691
 translate chinese libraryvisit3choice5_da04f780:
 
     # selene "It’s not like she has her eyes trained on everyone at once, she can only watch individuals one at a time."
-    selene "It’s not like she has her eyes trained on everyone at once, she can only watch individuals one at a time."
+    selene "她的眼睛也不是一下子就可以监视所有小马身上，她一次只能监视一匹小马。"
 
 # game/library.rpy#L2692
 translate chinese libraryvisit3choice5_e99782db:
@@ -9518,7 +9518,7 @@ translate chinese libraryvisit3choice5_e99782db:
 translate chinese libraryvisit3choice5_2e1bad21:
 
     # mc "It’s kinda scary how powerful she is…"
-    mc "It’s kinda scary how powerful she is…"
+    mc "恐怖如斯，她的实力真的是深不可测……"
 
 # game/library.rpy#L2694
 translate chinese libraryvisit3choice5_ed85b771:

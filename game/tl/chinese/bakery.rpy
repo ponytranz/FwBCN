@@ -3128,7 +3128,7 @@ translate chinese creamvmissionary_dd6bcf56:
 translate chinese creamvmissionary_f0f67ab3:
 
     # honeycrisp "Ahh, I love your cock... Ever since rut in the barn I've been thinking about this while I masturbate..."
-    honeycrisp "啊，我爱你的下面那个大东西……自从在谷仓里发情之后，我在自我安慰的时候就一直在想这个…"
+    honeycrisp "啊，我爱死你肉棒了……自从在谷仓里发情之后，我只要一自慰的就想着你的肉棒…"
 
 # game/bakery.rpy#L979
 translate chinese creamvmissionary_552f7f5b:
@@ -3170,7 +3170,7 @@ translate chinese creamvmissionary_93ac4268:
 translate chinese creamvmissionary_6f92827d:
 
     # "Her hips start to twist and gyrate as she speeds up, the sensations of sex surge through my body, racking it with pleasure."
-    "Her hips start to twist and gyrate as she speeds up, the sensations of sex surge through my body, racking it with pleasure."
+    "随着她的加速运动，她的臀部开始转动起来，被长期抑制的快感在我的身体中涌动，愉悦地折磨着我。"
 
 # game/bakery.rpy#L998
 translate chinese creamvmissionary_36c63ee8:
@@ -3182,7 +3182,7 @@ translate chinese creamvmissionary_36c63ee8:
 translate chinese creamvmissionary_3d68d6f8:
 
     # "I reach back and give her a slap on the ass causing her to jolt up with surprise and giggle."
-    "我给了她一个耳光，她惊讶地向后跳，我咯咯地笑了起来"
+    "我给了她一个耳光，她惊讶地向后跳，我咯咯地笑了起来。"
 
 # game/bakery.rpy#L1004
 translate chinese creamvmissionary_c94990df:
@@ -3200,7 +3200,7 @@ translate chinese creamvmissionary_99a4b133:
 translate chinese creamvmissionary_8e0796f8:
 
     # "Taking the spank as a challenge, she begins to speed up, going almost hysterically fast and overwhelming my senses."
-    "以拍打PP为开始，她加速运动了，以疯一样地速度运动着，我的感官已经跟不上了！"
+    "Taking the spank as a challenge, she begins to speed up, going almost hysterically fast and overwhelming my senses."
 
 # game/bakery.rpy#L1012
 translate chinese creamvmissionary_26a72224:
@@ -3224,7 +3224,7 @@ translate chinese creamvmissionary_8297eba5:
 translate chinese creamvmissionary_297b4fa5:
 
     # "Unable to hold back any longer, a few moans slip out of the orange mares mouth while even lewder sounds slip out of her pussy as wetness freely dribbles and bubbles at our point of contact."
-    "她再也无法控制住，几声呻吟从小雌驹的嘴里飘了出来，甚至淫荡的汁液从她的下面流出，湿漉漉的液体滴露在地上，还冒着泡泡"
+    "她再也无法控制住，几声呻吟从小雌驹的嘴里飘了出来，甚至淫荡的汁液从她的下面流出，湿漉漉的液体滴露在地上，还冒着泡泡。"
 
 # game/bakery.rpy#L1022
 translate chinese creamvmissionary_5c2ec407:
@@ -3236,49 +3236,49 @@ translate chinese creamvmissionary_5c2ec407:
 translate chinese creamvmissionary_ef36abc9:
 
     # "Giving herself completely to the lust, Honey rides me with complete focus as she pushes herself to her orgasm. All while I try to hold back mine."
-    "Giving herself completely to the lust, Honey rides me with complete focus as she pushes herself to her orgasm. All while I try to hold back mine."
+    "Honey让自己完全满足于欲望，她将自己推向高潮时全神贯注地骑着我，似乎怕我逃跑。"
 
 # game/bakery.rpy#L1027
 translate chinese creamvmissionary_ddecad70:
 
     # "She grits her teeth and her eyes roll back as she clearly orgasms, her pussy tightly contracting around the base of my cock pushing me closer to my own orgasm."
-    "She grits her teeth and her eyes roll back as she clearly orgasms, her pussy tightly contracting around the base of my cock pushing me closer to my own orgasm."
+    "当她明显地达到高潮时，她咬紧牙关，眼睛止不住地向后转动，她的阴道紧紧地围绕着我的大宝贝收缩，将我推向高潮。"
 
 # game/bakery.rpy#L1029
 translate chinese creamvmissionary_2ffa5059:
 
     # "It doesn't take long for her to be pushed over the edge as her entire body shakes with orgasmic energy. Yet somehow her riding doesn't falter for a second."
-    "It doesn't take long for her to be pushed over the edge as her entire body shakes with orgasmic energy. Yet somehow her riding doesn't falter for a second."
+    "没过多久，她的体力就开始渐渐地下降了，因为她的整个身体都被运动带走了能量。然而不知何故，她仍然在我身上骑着马。"
 
 # game/bakery.rpy#L1032
 translate chinese creamvmissionary_8c001d78:
 
     # honeycrisp "Mmphhh fuck, I came already..."
-    honeycrisp "Mmphhh fuck, I came already..."
+    honeycrisp "哼~操，我高潮了！"
 
 # game/bakery.rpy#L1033
 translate chinese creamvmissionary_2a6f8dac:
 
     # honeycrisp "But I'm not done with you yet, I'm gonna make this cock blow its load straight into my pussy."
-    honeycrisp "But I'm not done with you yet, I'm gonna make this cock blow its load straight into my pussy."
+    honeycrisp "我可还玩够哟，我要把这个肉棒直接插进我的阴道里。"
 
 # game/bakery.rpy#L1035
 translate chinese creamvmissionary_ff375eb0:
 
     # honeycrisp "Ahh, I-I'm coming! Cum with me [playername], fill up my pussy!"
-    honeycrisp "Ahh, I-I'm coming! Cum with me [playername], fill up my pussy!"
+    honeycrisp "啊，我-我要来了！向我发射你壮观的大爆射吧[playername]，我已经急不可待了！快点！"
 
 # game/bakery.rpy#L1038
 translate chinese creamvmissionary_b66e10d0:
 
     # "Honeycrisp bites her lip as she continues to ride me, wanting to enjoy her time on top of me as long as she can before I inevitably cum inside."
-    "Honeycrisp bites her lip as she continues to ride me, wanting to enjoy her time on top of me as long as she can before I inevitably cum inside."
+    "Honeycrisp咬着嘴唇继续骑在我身上，我想在不可避免地大爆射之前尽可能地享受她在我身上的时间，也许这是最后一次了……"
 
 # game/bakery.rpy#L1040
 translate chinese creamvmissionary_ab5cda37:
 
     # "Honeycrisp enjoys every second of her intense riding, she intentionally puts all her effort into pushing me over the edge, and soon she succeeds."
-    "Honeycrisp enjoys every second of her intense riding, she intentionally puts all her effort into pushing me over the edge, and soon she succeeds."
+    "Honeycrisp享受着她激烈骑行的每一秒，她故意把所有的体力都消耗殆尽，很快她就成功了！她做到了！"
 
 # game/bakery.rpy#L1047
 translate chinese creamvmissionary_e12dce82:
@@ -3290,37 +3290,37 @@ translate chinese creamvmissionary_e12dce82:
 translate chinese creamvmissionary_32ae230b:
 
     # "My cock begins to erupt inside her, flooding her pussy and womb with my thick cum."
-    "My cock begins to erupt inside her, flooding her pussy and womb with my thick cum."
+    "我的阴茎开始在她体内喷发汁液，用我粘稠的汁液填满她的肚子。"
 
 # game/bakery.rpy#L1053
 translate chinese creamvmissionary_3c577794:
 
     # "The feeling of my cum inside her causes Honey to swoon and orgasm again as the familiar contractions of an orgasming mare return to my cock."
-    "The feeling of my cum inside her causes Honey to swoon and orgasm again as the familiar contractions of an orgasming mare return to my cock."
+    "当高潮的时候来临，雌驹阴部的收缩，传递到我的阴茎时，我在她体内大爆射的感觉使苹果杰克再次晕倒并再次达到高潮。"
 
 # game/bakery.rpy#L1055
 translate chinese creamvmissionary_71bb6a77:
 
     # "The hot feeling of my semen inside Honey excites her so much she seems to orgasm again while riding, her back and eyes falling back with pure euphoria."
-    "The hot feeling of my semen inside Honey excites her so much she seems to orgasm again while riding, her back and eyes falling back with pure euphoria."
+    "我在Honey体内发射的汁液产生的灼热感让她非常兴奋，她似乎在骑马时再次达到高潮，她的背部和眼睛带着纯粹的​​欣快感向后倒下。"
 
 # game/bakery.rpy#L1061
 translate chinese creamvmissionary_1bab4345:
 
     # "Once we've both finished our final orgasms, Honey rolls off and pants heavily, although considering her superior physique it doesn't take her long to gain her breath back."
-    "Once we've both finished our final orgasms, Honey rolls off and pants heavily, although considering her superior physique it doesn't take her long to gain her breath back."
+    "我们都完成了最后的高潮，Honey终于滚了下来，在地上重重地喘着粗气，因为她优越的体格，她很快就恢复了呼吸。"
 
 # game/bakery.rpy#L1063
 translate chinese creamvmissionary_cb0e3e86:
 
     # "After her climatic finishes, we're both left panting, although we quickly recover since I barely moved and Honey is no stranger to intense cardio."
-    "After her climatic finishes, we're both left panting, although we quickly recover since I barely moved and Honey is no stranger to intense cardio."
+    "在她的呼吸恢复后，虽然我们都气喘吁吁，但我们很快就恢复了，因为我几乎没有动弹过，而Honey对这种高强度有氧运动并不陌生。"
 
 # game/bakery.rpy#L1065
 translate chinese creamvmissionary_76f483bd:
 
     # honeycrisp "Your cock is amazing, stud."
-    honeycrisp "Your cock is amazing, stud."
+    honeycrisp "你的柱子太棒了！兄弟！"
 
 # game/bakery.rpy#L1066
 translate chinese creamvmissionary_09e4d238:
@@ -3356,7 +3356,7 @@ translate chinese creamvmissionary_e2c1c78b:
 translate chinese creamvmissionary_4a551ed1:
 
     # "I climb into bed with Blossom and she playfully rolls me over."
-    "I climb into bed with Blossom and she playfully rolls me over."
+    "我与Blossom一起爬上床，她调皮地把我翻了个身。"
 
 # game/bakery.rpy#L1079
 translate chinese creamvmissionary_bdd8e98b:
@@ -3368,7 +3368,7 @@ translate chinese creamvmissionary_bdd8e98b:
 translate chinese creamvmissionary_825744b8:
 
     # "As much as I'd like to protest, I'm left mesmerised as Blossom straddles me and starts to rub her pussy on my cock whilst giggling girlishly"
-    "As much as I'd like to protest, I'm left mesmerised as Blossom straddles me and starts to rub her pussy on my cock whilst giggling girlishly"
+    "尽管我很想抗议，但当Blossom跨坐在我身上并开始在我的阴茎上摩擦她的阴道时，我还是被迷住了，我少女般地咯咯笑着。"
 
 # game/bakery.rpy#L1086
 translate chinese creamvmissionary_6d841c25:
@@ -3380,43 +3380,43 @@ translate chinese creamvmissionary_6d841c25:
 translate chinese creamvmissionary_4184ea01:
 
     # "Blossom bites her lips and wiggles her hips, she's already eager for more, and the dripping wetness between her legs signals that she's ready to take me."
-    "Blossom bites her lips and wiggles her hips, she's already eager for more, and the dripping wetness between her legs signals that she's ready to take me."
+    "Blossom咬着嘴唇扭动着臀部，她开始已经迫不及待了，双腿间滴落的湿意表明她已经准备好接受我的大宝贝了。"
 
 # game/bakery.rpy#L1090
 translate chinese creamvmissionary_8e231741:
 
     # "With a bit of her teasing, my cock is now raging hard and throbbing. Fortunately, Blossom is all too willing to satisfy as she lifts herself over me and allows my cock to sink deeply into her."
-    "With a bit of her teasing, my cock is now raging hard and throbbing. Fortunately, Blossom is all too willing to satisfy as she lifts herself over me and allows my cock to sink deeply into her."
+    "由于她玩弄着我的阴茎，它现在正在剧烈地跳动着。她仿佛看透我心思一般，Blossom竟然非常愿意满足我，因为她主动把自己抬到我身上，让我的阴茎深深地插入进她的身体里。"
 
 # game/bakery.rpy#L1091
 translate chinese creamvmissionary_27f61b7d:
 
     # "She takes her time sliding down my thick cock, I can feel my cock spread her lips apart with a delectable slowness until I'm finally at the hilt."
-    "She takes her time sliding down my thick cock, I can feel my cock spread her lips apart with a delectable slowness until I'm finally at the hilt."
+    "她慢慢地坐在我厚实的阴茎上，我能感觉到我的阴茎以一种令人愉快的缓慢撑开她的阴唇，直到终于到达了我阴茎的终点。"
 
 # game/bakery.rpy#L1092
 translate chinese creamvmissionary_4a5cc0b1:
 
     # "Blossom let's out a satisfied sigh and stares into my eyes with dreamy longingless, she merely nods before her hips begin to move with a passion."
-    "Blossom let's out a satisfied sigh and stares into my eyes with dreamy longingless, she merely nods before her hips begin to move with a passion."
+    "Blossom满足地点了点头，她开始用梦幻般的渴望注视着我的眼睛，她虽然只是点了点头，但与此同时她的臀部就开始激情的动了起来。"
 
 # game/bakery.rpy#L1094
 translate chinese creamvmissionary_ebb469b5:
 
     # "As she rises and falls along my member a mixture of gasps and moans slip from her lips as she loses herself in the throes of passion."
-    "As she rises and falls along my member a mixture of gasps and moans slip from her lips as she loses herself in the throes of passion."
+    "当她在我的大宝贝上做活塞运动时，她在激情的阵痛中终于迷失了自我，从她的口中滑出喘息和呻吟的混合声音。"
 
 # game/bakery.rpy#L1095
 translate chinese creamvmissionary_27c06a36:
 
     # "Every drop of the hips is accompanied by a lewd, arousing schlick as her wetness gleams off my cock and driplets of her lust pool at my pelvis."
-    "Every drop of the hips is accompanied by a lewd, arousing schlick as her wetness gleams off my cock and driplets of her lust pool at my pelvis."
+    "臀部的每一滴都伴随着一种淫荡的声音，我说不上来那是什么，总而言之……是种奇妙的声音，因为她落下来的汁液在我的阴茎上闪闪发光，她的欲望滴落在我的骨盆上。"
 
 # game/bakery.rpy#L1097
 translate chinese creamvmissionary_ab10c47d:
 
     # blossom "Aahhh, mmmphh, we should do this every day, haahh, ahh..."
-    blossom "Aahhh, mmmphh, we should do this every day, haahh, ahh..."
+    blossom "啊！继续！继续！"
 
 # game/bakery.rpy#L1098
 translate chinese creamvmissionary_d4a24dca:

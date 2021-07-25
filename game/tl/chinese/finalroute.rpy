@@ -1484,7 +1484,7 @@ translate chinese clibrary_ab1e4210:
 translate chinese clibrary_3d9d100c:
 
     # "Satisfied, I pull out and leave Lily panting on the counter as she continues to enjoy her longer orgasm."
-    "我心满意足的拔了出来，把她留在柜台上来让她多享受一会儿高潮的快感。"
+    "我心满意足地把肉棒拔了出来，让她留在柜台上来多享受一会儿高潮的快感。"
 
 # game/finalroute.rpy#L683
 translate chinese clibrary_2020c58c:
@@ -3284,7 +3284,7 @@ translate chinese cbar2_40f87063:
 translate chinese cbar2_b01ad817:
 
     # riku "Mmphh, mmm! *Slap, slap, slap! * *Squish, slap! * You like my butt, don’cha?"
-    riku "嗯-嗯!*啪，啪，啪!* *嘎吱,啪!*你喜欢我的屁股，是不是呀?"
+    riku "嗯-嗯!*啪，啪，啪!* *嘎吱，啪!*你喜欢我的屁股，是不是呀?"
 
 # game/finalroute.rpy#L1257
 translate chinese cbar2_f53ea759:
@@ -3302,7 +3302,7 @@ translate chinese cbar2_609bed01:
 translate chinese cbar2_152043d3:
 
     # "Her petite breasts shake wildly as she continues to deliver more vigorous thrusts, her ass pumping away at my cock."
-    "Her petite breasts shake wildly as she continues to deliver more vigorous thrusts, her ass pumping away at my cock."
+    "她娇小的乳房剧烈地颤抖着，她继续发出更有力的推力，她的屁股在我的阴茎上抽动。"
 
 # game/finalroute.rpy#L1260
 translate chinese cbar2_522e2908:
@@ -3344,13 +3344,13 @@ translate chinese cbar2_2b90f046:
 translate chinese cbar2_2ea333e9:
 
     # "Riku excitedly rides out both our orgasms."
-    "Riku excitedly rides out both our orgasms."
+    "Riku兴奋地驾驭着高潮。"
 
 # game/finalroute.rpy#L1278
 translate chinese cbar2_43271914:
 
     # "Satisfied, she huffs and slides my cock out with a pop."
-    "她屁股里胀胀的，并且心满意足地把我的肉棒“啵”的一声拔了出来。"
+    "她屁股里胀胀的，心满意足地把我的肉棒“啵”的一声拔了出来。"
 
 # game/finalroute.rpy#L1283
 translate chinese cbar2_de853e7f:
@@ -3440,7 +3440,7 @@ translate chinese cbakery_fc73cdd3:
 translate chinese cbakery_1ab96695:
 
     # cream "Gotta bake, gotta cake, all for our new Queenie!"
-    cream "Gotta bake, gotta cake, all for our new Queenie!"
+    cream "必须烘烤，必须蛋糕，这一切都是为了我们的新孩子！"
 
 # game/finalroute.rpy#L1316
 translate chinese cbakery_94e57b8a:
@@ -3608,115 +3608,115 @@ translate chinese cbakery_4209b1cb:
 translate chinese cbakery_bdf7e7a9:
 
     # "Stroking my cock to full attention, I press it against her dripping fuck-hole. Grasping her hips firmly, I slowly thrust in, her body moving back into mine."
-    "Stroking my cock to full attention, I press it against her dripping fuck-hole. Grasping her hips firmly, I slowly thrust in, her body moving back into mine."
+    "我全身贯注地握住肉棒，把它抵在她滴水的小穴上。紧接着，我就紧紧地抓住她的臀部，慢慢地推进去，感受着我们身体的交合。"
 
 # game/finalroute.rpy#L1368
 translate chinese cbakery_b8d71142:
 
     # cream "Ahhahaheheaaahh! So goooood, hehe! Faster, faster!"
-    cream "Ahhahaheheaaahh! So goooood, hehe! Faster, faster!"
+    cream "啊哈哈哈哈！这感觉太好了，嘿嘿！快点！快点！再来一次！"
 
 # game/finalroute.rpy#L1369
 translate chinese cbakery_bd321c03:
 
     # "I start thrusting, and she thrusts back with equal energy."
-    "I start thrusting, and she thrusts back with equal energy."
+    "我开始用力推进，她也以相同的力道向我这边推来。"
 
 # game/finalroute.rpy#L1370
 translate chinese cbakery_a1bd9a2c:
 
     # "As I kept smacking my hips into Cream’s thick ass, it created an obscene slapping sound."
-    "As I kept smacking my hips into Cream’s thick ass, it created an obscene slapping sound."
+    "我不断地用臀部拍打着Cream丰满的屁股，手上发出拍在烂泥上的声音。"
 
 # game/finalroute.rpy#L1371
 translate chinese cbakery_90555194:
 
     # cream "Mmphh, yesh! Ohhh, it feels great! Whether it’s for the Queen or you, I love it when you take me!"
-    cream "Mmphh, yesh! Ohhh, it feels great! Whether it’s for the Queen or you, I love it when you take me!"
+    cream "嗯，是的！哈哈，太棒了！就算抛开你和女王的命令不谈，我也很喜欢你来操我！"
 
 # game/finalroute.rpy#L1372
 translate chinese cbakery_ddc7aea9:
 
     # "She may be brainwashed, but she’s still one of the many mares that have become obsessed with my human cock in the time I’ve been in Arcadia."
-    "She may be brainwashed, but she’s still one of the many mares that have become obsessed with my human cock in the time I’ve been in Arcadia."
+    "虽然她被洗脑了，但她仍然是我在Arcadia期间对我的肉棒着迷的众多母马之一。"
 
 # game/finalroute.rpy#L1373
 translate chinese cbakery_1fe52774:
 
     # "*Squish, slap, squish, slap!*"
-    "*Squish, slap, squish, slap!*"
+    "*嘎吱，啪，嘎吱，啪!*"
 
 # game/finalroute.rpy#L1375
 translate chinese cbakery_a4163e56:
 
     # cream "Mmphh, mm, mm! Ohhh, your cock is pounding so hard! Ahhhaahhhhhaaa!"
-    cream "Mmphh, mm, mm! Ohhh, your cock is pounding so hard! Ahhhaahhhhhaaa!"
+    cream "唔唔…唔…啊…啊！噢噢，你的鸡巴实在太猛了！ 啊啊啊啊啊啊啊！"
 
 # game/finalroute.rpy#L1376
 translate chinese cbakery_7a66125f:
 
     # "Maybe it’s due to Morrigan’s magic, but there’s no denying the abnormal pleasure I’m able to give Cream as her body shudders with lust and she tightly clings onto the bakery counter."
-    "Maybe it’s due to Morrigan’s magic, but there’s no denying the abnormal pleasure I’m able to give Cream as her body shudders with lust and she tightly clings onto the bakery counter."
+    "也许是因为Morrigan的魔法，但不可否认，当她的身体因欲望而颤抖，她紧紧地抓住面包店柜台的时候，我知道我能给Cream带来异常的快感。"
 
 # game/finalroute.rpy#L1377
 translate chinese cbakery_00680dd4:
 
     # "Taking a note from previous sexual encounters, I reach over and start groping her large tits from behind, squeezing them and toying with her sensitive nipples."
-    "Taking a note from previous sexual encounters, I reach over and start groping her large tits from behind, squeezing them and toying with her sensitive nipples."
+    "受到之前一些干炮经历的启发，我伸手开始从后面摸索，握着了她的大奶子，并且挑逗她敏感的乳头。"
 
 # game/finalroute.rpy#L1378
 translate chinese cbakery_13932df0:
 
     # cream "Ahaaa, m-my nipples? They’re sooo sensitive!! Kyahhhaaaa! I love it!"
-    cream "Ahaaa, m-my nipples? They’re sooo sensitive!! Kyahhhaaaa! I love it!"
+    cream "啊哈哈！我…我的乳头？它们太敏感了！啊啊啊啊啊啊啊！不过我喜欢这样子！"
 
 # game/finalroute.rpy#L1379
 translate chinese cbakery_89c220ef:
 
     # "The combined pleasure of our sex and my teasing makes Cream’s legs tremble with pleasure."
-    "The combined pleasure of our sex and my teasing makes Cream’s legs tremble with pleasure."
+    "做爱的快感再加上我对她的挑逗，让Cream的腿高兴得发抖。"
 
 # game/finalroute.rpy#L1380
 translate chinese cbakery_9b3dd727:
 
     # "She howled in ecstasy as I kept up the pace, anyone walking past the bakery right now would definitely be able to hear her slutty moaning."
-    "She howled in ecstasy as I kept up the pace, anyone walking past the bakery right now would definitely be able to hear her slutty moaning."
+    "她欣喜若狂地低吼着，我跟上了她的节奏，任何走过面包店的小马现在肯定都能听到她淫荡的呻吟吧。"
 
 # game/finalroute.rpy#L1381
 translate chinese cbakery_ff6a9f7f:
 
     # cream "Ghhhhaaaaahhh! C-Coming, your cock is making me come! Ooohhh!!"
-    cream "Ghhhhaaaaahhh! C-Coming, your cock is making me come! Ooohhh!!"
+    cream "啊啊啊啊啊啊啊！来-来了！你的肉棒让我的高潮来了！哦哦哦哦！"
 
 # game/finalroute.rpy#L1382
 translate chinese cbakery_487d8bc4:
 
     # "After only two minutes of rutting her pussy is already contracting and squeezing around my thick cock, plunging me into intense pleasure."
-    "After only two minutes of rutting her pussy is already contracting and squeezing around my thick cock, plunging me into intense pleasure."
+    "仅仅两分钟后，她的小穴就已经开始收缩，挤压着我粗壮的肉棒，让我沉浸在强烈的快感中。"
 
 # game/finalroute.rpy#L1383
 translate chinese cbakery_7824289c:
 
     # "Her pussy was already a tight delight, but now I can’t hold back any longer; my orgasm rapidly wells up."
-    "Her pussy was already a tight delight, but now I can’t hold back any longer; my orgasm rapidly wells up."
+    "她的小穴让我流连忘返，多想多操一会儿呀。但现在我再也忍不住了！我的高潮迅速奔涌爆发！"
 
 # game/finalroute.rpy#L1388
 translate chinese cbakery_006e7729:
 
     # "My cock explodes inside her. My cum coats her insides while her orgasming pussy clamps down tightly around my shaft, milking as much cum as it can out of me."
-    "My cock explodes inside her. My cum coats her insides while her orgasming pussy clamps down tightly around my shaft, milking as much cum as it can out of me."
+    "我的肉棒在她体内迸发出精液，灌满了着她的阴道。她正在高潮的小穴紧紧地夹在我的肉棒上，企图从我身上挤出尽可能多的精液来！"
 
 # game/finalroute.rpy#L1395
 translate chinese cbakery_e0143452:
 
     # "As I pull out, her body twitches and jerks as she continues to climax; drool spilling from her lips."
-    "As I pull out, her body twitches and jerks as she continues to climax; drool spilling from her lips."
+    "我一抽出我的肉棒，她的身体就随着她高潮而持续不断地抽搐；口水也从她的唇边溢出。"
 
 # game/finalroute.rpy#L1397
 translate chinese cbakery_2765e347:
 
     # cream "Ooohh… Ohh… Your cock fucked me so good! It filled me up so much with its thick hot cum, I love it so much…"
-    cream "Ooohh… Ohh… Your cock fucked me so good! It filled me up so much with its thick hot cum, I love it so much…"
+    cream "哦哦哦……哦！你的肉棒太棒了！那热乎乎浓厚的精液真是太舒服了，我爱死它了！"
 
 # game/finalroute.rpy#L1398
 translate chinese cbakery_6f41ab94:
@@ -3728,199 +3728,199 @@ translate chinese cbakery_6f41ab94:
 translate chinese cbakery_7a8fc1b4:
 
     # "And, just as I had hoped, the spell wears off."
-    "And, just as I had hoped, the spell wears off."
+    "而且，正如我所希望的那样，咒语消失了。"
 
 # game/finalroute.rpy#L1401
 translate chinese cbakery_e13188b0:
 
     # cream "Oohhh?! Well that’s weird, it feels like I just spent this morning being brainwashed by Morrigan… Am I being delirious?"
-    cream "Oohhh?! Well that’s weird, it feels like I just spent this morning being brainwashed by Morrigan… Am I being delirious?"
+    cream "嗯，今天早上感觉真奇怪，就像我被Morrigan洗脑了一样…… 那个我问一下，我刚刚是神情怪异呀？"
 
 # game/finalroute.rpy#L1402
 translate chinese cbakery_251736f2:
 
     # cream "Did I remember that right, [playername]?"
-    cream "Did I remember that right, [playername]?"
+    cream "我没有记错吧？ [playername]？"
 
 # game/finalroute.rpy#L1405
 translate chinese cbakery_8dc0dff8:
 
     # "I quickly explain everything to Cream, including the plan and the time we need to meet up at the tree."
-    "I quickly explain everything to Cream, including the plan and the time we need to meet up at the tree."
+    "我很快向Cream解释了一切，包括我的计划和我们需要在树图书馆见面的时间。"
 
 # game/finalroute.rpy#L1408
 translate chinese cbakery_ccc640f4:
 
     # cream "Ohh my gosh, oh my gosh! I’m totally not prepared to fight a big bad! She totally caught me with my tail up!"
-    cream "Ohh my gosh, oh my gosh! I’m totally not prepared to fight a big bad! She totally caught me with my tail up!"
+    cream "天啦噜！现在我完全没有准备好与大坏蛋作斗争呀！而她已经完全抓住了我的弱点！"
 
 # game/finalroute.rpy#L1409
 translate chinese cbakery_00571e6f:
 
     # cream "And she would have gotten away with it too, if it wasn’t for you being such a kind soul."
-    cream "And she would have gotten away with it too, if it wasn’t for you being such a kind soul."
+    cream "就算没有你的帮助，她也会侥幸逃脱的。"
 
 # game/finalroute.rpy#L1410
 translate chinese cbakery_58855ad9:
 
     # mc "I am fortunate in a sense that no one blames me for this, so far anyway."
-    mc "I am fortunate in a sense that no one blames me for this, so far anyway."
+    mc "从某种意义上说，我还是很幸运的，因为到目前为止，没有人为此而责怪我。"
 
 # game/finalroute.rpy#L1412
 translate chinese cbakery_5f2e0bab:
 
     # cream "How could anyone blame you? You’re a victim in this too!"
-    cream "How could anyone blame you? You’re a victim in this too!"
+    cream "他们怎么能怪你呢？你也是这件事的受害者呀！"
 
 # game/finalroute.rpy#L1413
 translate chinese cbakery_9f1653f5:
 
     # cream "We’ll get justice for everyone, and then have the most amazing party afterwards to celebrate!"
-    cream "We’ll get justice for everyone, and then have the most amazing party afterwards to celebrate!"
+    cream "我们将为每个人讨回公道，然后举行最精彩的派对来庆祝！"
 
 # game/finalroute.rpy#L1414
 translate chinese cbakery_1755e480:
 
     # mc "You got a deal, Cream. Okay, let’s go!"
-    mc "You got a deal, Cream. Okay, let’s go!"
+    mc "好主意呀！Cream。来，我们出发吧！"
 
 # game/finalroute.rpy#L1416
 translate chinese cbakery_014a60c5:
 
     # cream "Yes! See you at the treehouse!"
-    cream "Yes! See you at the treehouse!"
+    cream "好耶！到时候咱们树屋见喽！"
 
 # game/finalroute.rpy#L1422
 translate chinese treemeeting_1b82a6dc:
 
     # "Meanwhile in the castle…"
-    "Meanwhile in the castle…"
+    "此时此刻，在城堡中……"
 
 # game/finalroute.rpy#L1437
 translate chinese treemeeting_c935e0ca:
 
     # morrigan "There we go... Nearly half absorbed..."
-    morrigan "There we go... Nearly half absorbed..."
+    morrigan "就快好了…吸收将近一半了……"
 
 # game/finalroute.rpy#L1438
 translate chinese treemeeting_8f84c44e:
 
     # morrigan "I feel so powerful! Is this how strong an alicorn is?"
-    morrigan "I feel so powerful! Is this how strong an alicorn is?"
+    morrigan "我觉得自己充满了力量!这就是天角兽的伟力吗?"
 
 # game/finalroute.rpy#L1439
 translate chinese treemeeting_f17a200c:
 
     # morrigan "If I'm twice as strong as even this, no one would be able to stop me! Ihihi!"
-    morrigan "If I'm twice as strong as even this, no one would be able to stop me! Ihihi!"
+    morrigan "等到我完全掌握这股力量，我将无人能敌!I哈哈哈哈!"
 
 # game/finalroute.rpy#L1440
 translate chinese treemeeting_2d61008c:
 
     # aurora "I... feel dizzy... Mistress..."
-    aurora "I... feel dizzy... Mistress..."
+    aurora "我的…头好晕呐…你这贱人..."
 
 # game/finalroute.rpy#L1442
 translate chinese treemeeting_0d398f5e:
 
     # morrigan "Shut it, minion."
-    morrigan "Shut it, minion."
+    morrigan "闭嘴，你这奴才。"
 
 # game/finalroute.rpy#L1447
 translate chinese treemeeting_b29e5f6a:
 
     # penelope "Everything going well?"
-    penelope "Everything going well?"
+    penelope "计划进展得还顺利吗？"
 
 # game/finalroute.rpy#L1451
 translate chinese treemeeting_75cdf21d:
 
     # morrigan "Oh, you're back! Where's [playername]?"
-    morrigan "Oh, you're back! Where's [playername]?"
+    morrigan "哦，你回来了！[playername]在哪儿?"
 
 # game/finalroute.rpy#L1453
 translate chinese treemeeting_0e7e89e4:
 
     # penelope "[playername]? Sheesh, why are you so obsessed with him? How am I supposed to know where he is?"
-    penelope "[playername]? Sheesh, why are you so obsessed with him? How am I supposed to know where he is?"
+    penelope "[playername]？真奇怪，你为什么对他这么着迷呀？我怎么知道他在哪里?"
 
 # game/finalroute.rpy#L1455
 translate chinese treemeeting_630f35ba:
 
     # morrigan "What a fucking useless spymaster you turned out to be..."
-    morrigan "What a fucking useless spymaster you turned out to be..."
+    morrigan "你养这个间谍头子是让你吃干饭的吗…"
 
 # game/finalroute.rpy#L1457
 translate chinese treemeeting_d6952562:
 
     # penelope "I'm sorry, your majesty... Is there anything else I can do for you?"
-    penelope "I'm sorry, your majesty... Is there anything else I can do for you?"
+    penelope "对不起，陛下……还有什么需要我来执行的吗?"
 
 # game/finalroute.rpy#L1459
 translate chinese treemeeting_adf21faa:
 
     # morrigan "Hmm... You're pretty useless to me now that I have all this power. Maybe stick around and become a breeding drone after I clear out Arcadia."
-    morrigan "Hmm... You're pretty useless to me now that I have all this power. Maybe stick around and become a breeding drone after I clear out Arcadia."
+    morrigan "嗯…现在我手握大权，你这个棋子对我来说已经没什么用了。或许等我清除了Arcadia后，你可以成为一台繁殖机器。"
 
 # game/finalroute.rpy#L1461
 translate chinese treemeeting_5c499289:
 
     # penelope "Breeding drone? Clear out Arcadia? What are you planning?"
-    penelope "Breeding drone? Clear out Arcadia? What are you planning?"
+    penelope "繁殖机器？清除Arcadia？你究竟要干什么？"
 
 # game/finalroute.rpy#L1463
 translate chinese treemeeting_ab190b1e:
 
     # morrigan "Well... I was considering keeping the elements and sisters for [playername]'s harem, but if he isn't interested then I'll just kill them."
-    morrigan "Well... I was considering keeping the elements and sisters for [playername]'s harem, but if he isn't interested then I'll just kill them."
+    morrigan "嗯…我想的是留下和谐之源的掌控者们和皇家姐妹给[playername]充当后宫，但如果他对此不感兴趣，那我把她们都杀了吧。"
 
 # game/finalroute.rpy#L1465
 translate chinese treemeeting_c95920cd:
 
     # penelope "Kill them? You can't! You promised there would be no violence!"
-    penelope "Kill them? You can't! You promised there would be no violence!"
+    penelope "你要杀了她们？你不能这样做！你保证过不会使用暴力的!"
 
 # game/finalroute.rpy#L1467
 translate chinese treemeeting_cd3794f8:
 
     # morrigan "Nothing violent about it, it'll be a peaceful and respectable execution, ihihi!"
-    morrigan "Nothing violent about it, it'll be a peaceful and respectable execution, ihihi!"
+    morrigan "一点儿也不暴力哟，她们会被和平而又体面地处决呀，啊哈哈哈!"
 
 # game/finalroute.rpy#L1469
 translate chinese treemeeting_c37cc494:
 
     # morrigan "But maaayybe if you can convince [playername] to come back, I'd have a vested interest in keeping his little harem alive."
-    morrigan "But maaayybe if you can convince [playername] to come back, I'd have a vested interest in keeping his little harem alive."
+    morrigan "但要是你能说服[playername]回来，我就能保住他的小后宫哟。"
 
 # game/finalroute.rpy#L1471
 translate chinese treemeeting_9c3cb90d:
 
     # penelope "Morrigan! I am ashamed! I told you that I'd only help if there was no killing. You must respect that!"
-    penelope "Morrigan! I am ashamed! I told you that I'd only help if there was no killing. You must respect that!"
+    penelope "Morrigan！我真为你感到羞愧！我告诉过你，我会帮忙，但是前提是你不许滥杀无辜。你得尊重这一点!"
 
 # game/finalroute.rpy#L1473
 translate chinese treemeeting_4f9eff97:
 
     # morrigan "Hah, respect, you? You're just a minion. You're lucky that I deem to notice you."
-    morrigan "Hah, respect, you? You're just a minion. You're lucky that I deem to notice you."
+    morrigan "哈，尊重，你？你只是个奴才罢了。我能注意到你，是你上辈子修来的福气。"
 
 # game/finalroute.rpy#L1475
 translate chinese treemeeting_09c564ff:
 
     # penelope "Ah- minion? You're awful! My Que... no... I can't..."
-    penelope "Ah- minion? You're awful! My Que... no... I can't..."
+    penelope "啊——奴才?你这个烂人!我的女王…不…我不能……"
 
 # game/finalroute.rpy#L1477
 translate chinese treemeeting_069ef81f:
 
     # morrigan "Then fuck off, you'll only burden me with your softness at this rate."
-    morrigan "Then fuck off, you'll only burden me with your softness at this rate."
+    morrigan "那就滚吧，你的软弱只会拖累我。"
 
 # game/finalroute.rpy#L1480
 translate chinese treemeeting_0c65aa26:
 
     # "Penelope grits her teeth before storming out of the throne room."
-    "Penelope grits her teeth before storming out of the throne room."
+    "Penelope牙关紧闭，走出了正殿。"
 
 # game/finalroute.rpy#L1483
 translate chinese treemeeting_03bc4e6f:
@@ -3932,25 +3932,25 @@ translate chinese treemeeting_03bc4e6f:
 translate chinese treemeeting_2d8a26d4:
 
     # "Back at the library..."
-    "回到图书馆中..."
+    "花开两朵，各表一枝。此时此刻，图书馆中..."
 
 # game/finalroute.rpy#L1489
 translate chinese treemeeting_77877b8a:
 
     # "After sleeping with Lily, I went downstairs to the library just before the meet time."
-    "After sleeping with Lily, I went downstairs to the library just before the meet time."
+    "和Lily睡过之后，我按照之前约定好的时间下楼前往图书馆。"
 
 # game/finalroute.rpy#L1490
 translate chinese treemeeting_29a1831b:
 
     # "What impeccable timing, my dick really held out on me. Drinking that milk was a great idea, I don’t think I would have enough stamina to fuck the little sisters without it."
-    "What impeccable timing, my dick really held out on me. Drinking that milk was a great idea, I don’t think I would have enough stamina to fuck the little sisters without it."
+    "多么完美的时机呀，我的肉棒都快累死了。我觉得要是不来一瓶牛奶的话，我都没有力气来和这些小婆娘们上床了。"
 
 # game/finalroute.rpy#L1491
 translate chinese treemeeting_60c2bbe2:
 
     # "Downstairs quite a few of the girls are already here and are discussing tactics."
-    "Downstairs quite a few of the girls are already here and are discussing tactics."
+    "好几个姑娘已经到楼下了，正在讨论进攻策略。"
 
 # game/finalroute.rpy#L1492
 translate chinese treemeeting_85711887:
@@ -3962,31 +3962,31 @@ translate chinese treemeeting_85711887:
 translate chinese treemeeting_87adba93:
 
     # "Having finished fucking the last of the elements, I have ten minutes to return to the treehouse."
-    "Having finished fucking the last of the elements, I have ten minutes to return to the treehouse."
+    "干完最后一位和谐之源的掌握者后，我还有十分钟要回树屋。"
 
 # game/finalroute.rpy#L1496
 translate chinese treemeeting_29a1831b_1:
 
     # "What impeccable timing, my dick really held out on me. Drinking that milk was a great idea, I don’t think I would have enough stamina to fuck the little sisters without it."
-    "What impeccable timing, my dick really held out on me. Drinking that milk was a great idea, I don’t think I would have enough stamina to fuck the little sisters without it."
+    "多么完美的时机呀，我的肉棒都快累死了。我觉得要是不来一瓶牛奶的话，我都没有力气来和这些小婆娘们上床了。"
 
 # game/finalroute.rpy#L1497
 translate chinese treemeeting_73f7e4b9:
 
     # "When I return, quite a few of the girls are already here and are discussing tactics."
-    "When I return, quite a few of the girls are already here and are discussing tactics."
+    "等我回来的时候，好几个姑娘已经到楼下了，正在讨论进攻策略。"
 
 # game/finalroute.rpy#L1504
 translate chinese skipaltreemeeting_3b19bcc5:
 
     # "Naturally, as someone Morrigan potentially trusts, I’m playing a key role…"
-    "Naturally, as someone Morrigan potentially trusts, I’m playing a key role…"
+    "当然，作为Morrigan可能信任的人，我毫无疑问会扮演关键角色……"
 
 # game/finalroute.rpy#L1512
 translate chinese skipaltreemeeting_ab0a5fd9:
 
     # lily "Judging by the situation, it seems natural that Morrigan has used the authority of the Royal Sisters to bypass the guards."
-    lily "Judging by the situation, it seems natural that Morrigan has used the authority of the Royal Sisters to bypass the guards."
+    lily "从目前的情况来看，Morrigan似乎是利用皇家姐妹的权威了来绕过守卫的。"
 
 # game/finalroute.rpy#L1513
 translate chinese skipaltreemeeting_bae9e97c:
@@ -3998,7 +3998,7 @@ translate chinese skipaltreemeeting_bae9e97c:
 translate chinese skipaltreemeeting_72009fe9:
 
     # butters "And it has been two hours so far… That means the sisters have already lost about 40 percent of their power no matter what… M-Maybe even more before we’re finished!"
-    butters "And it has been two hours so far… That means the sisters have already lost about 40 percent of their power no matter what… M-Maybe even more before we’re finished!"
+    butters "到目前为止已经过去两个小时了，这意味着姐妹们已经失去了至少40%的力量，而且在我们结束之前可能会失去更多！"
 
 # game/finalroute.rpy#L1519
 translate chinese skipaltreemeeting_ec124125:
@@ -4046,7 +4046,7 @@ translate chinese skipaltreemeeting_14aabd70:
 translate chinese skipaltreemeeting_acf34826:
 
     # lily "Perhaps she’ll turn the sisters against us, that’d be an uncomfortable fight…"
-    lily "也许她会让姐妹们来针对我们，那将是一场不安的战斗…"
+    lily "也许她会让姐妹们来针对我们，那将会是一场苦战…"
 
 # game/finalroute.rpy#L1550
 translate chinese skipaltreemeeting_5c4bb3db:

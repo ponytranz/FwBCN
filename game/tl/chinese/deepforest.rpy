@@ -3032,7 +3032,7 @@ translate chinese zoelum_dd78daf3:
 translate chinese zoelum_ffe30585:
 
     # alraune "Ohh man… But I’m still so horny! You’re such a dick!"
-    alraune "哦，老天……老子还没干够呢！你个孬种！"
+    alraune "哦，老天……老娘还没干够呢！你个孬种！"
 
 # game/deepforest.rpy#L965
 translate chinese zoelum_a1c32144:
@@ -4484,7 +4484,7 @@ translate chinese werewolfsex_960bacda:
 translate chinese werewolfsex_ec8c33f7:
 
     # "While that may be the strangest request I’ve ever had during sex, my one-track mind doesn’t even double take as one of my hands begins to caress her sensitive tummy, while I pump in and out of her pussy."
-    "这可能是我开始性生活以来所听到的最奇怪的请求了，我的老二在她的花园里兴风作浪，这让我的脑子有点转不过弯来，管他呢。于是我便开始用手抚摸她敏感的小肚子。"
+    "这可能是我在交媾中所听到的最奇怪的请求了，不过我还是没有迟疑，抽插小穴之余腾出一只手去揉摸她敏感的腹部。"
 
 # game/deepforest.rpy#L1458
 translate chinese werewolfsex_ac637dbf:
@@ -4532,7 +4532,7 @@ translate chinese werewolfsex_390259b5:
 translate chinese werewolfsex_62810400:
 
     # "The two of us continue to fuck passionately throughout the duration of my orgasm. Shivers of pleasure running down my spine with each deep thrust in my hyper-sensitive state."
-    "我们俩在我高潮的过程中继续激情做爱。在我极度敏感的状态下，随着每一次深度的刺击，快感的战栗顺着我的脊柱直泻而下。"
+    "在高潮期间我们两个也没消停，继续充满激情地抽插和迎合。在我极度敏感的状况下，每一次抽插都能激起我极致的快感。"
 
 # game/deepforest.rpy#L1474
 translate chinese werewolfsex_75e142c6:

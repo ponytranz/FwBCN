@@ -7010,19 +7010,19 @@ translate chinese rikumaidblowjob_f9521584:
 translate chinese rikumaidblowjob_bdb54dde:
 
     # moxie "Wouldn’t be my first time licking there, hehe."
-    moxie "Wouldn’t be my first time licking there, hehe."
+    moxie "这不是我第一次舔那里，嘿嘿嘿。"
 
 # game/bar.rpy#L1896
 translate chinese rikumaidblowjob_d544333a:
 
     # riku "Shut up, that was a one-time thing!"
-    riku "Shut up, that was a one-time thing!"
+    riku "闭嘴，那事儿只有过一次！"
 
 # game/bar.rpy#L1898
 translate chinese rikumaidblowjob_0818e0fa:
 
     # moxie "Fairly sure I just made it a three-time thing, struggling to keep count?"
-    moxie "Fairly sure I just made it a three-time thing, struggling to keep count?"
+    moxie "我很确定我做了三次，要不你努力数数？"
 
 # game/bar.rpy#L1900
 translate chinese rikumaidblowjob_c851cec2:

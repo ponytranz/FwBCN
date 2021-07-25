@@ -8840,7 +8840,7 @@ translate chinese melodyevening_17e57461:
 translate chinese melodyevening_dfef3867:
 
     # melody "What's your poison tonight? Wanna chat, wanna bang? I'm game."
-    melody "今晚您打算用什么方法毒死我？吹逼猜拳还是搞大爆炸？我在玩游戏。"
+    melody "今晚您打算用什么方法毒死我？吹逼猜拳还是直接开搞？我都奉陪。"
 
 # game/boutique.rpy#L2643
 translate chinese melodyeveningmenu_322c9c7c:
@@ -8852,7 +8852,7 @@ translate chinese melodyeveningmenu_322c9c7c:
 translate chinese melodyeveningmenu_61db58ee:
 
     # mc "Right now?"
-    mc "Right now?"
+    mc "现在？"
 
 # game/boutique.rpy#L2645
 translate chinese melodyeveningmenu_8079273b:
@@ -8870,43 +8870,43 @@ translate chinese melodyeveningmenu_377a9879:
 translate chinese melodyeveningmenu_0b539054:
 
     # melody "Sometimes it's nice to just have a normal conversation for once."
-    melody "Sometimes it's nice to just have a normal conversation for once."
+    melody "有时候，只进行一次正常的谈话也是很好的。"
 
 # game/boutique.rpy#L2649
 translate chinese melodyeveningmenu_05da87be:
 
     # mc "What do you want to talk about?"
-    mc "What do you want to talk about?"
+    mc "你想谈什么？"
 
 # game/boutique.rpy#L2651
 translate chinese melodyeveningmenu_8c84df83:
 
     # melody "Humm, with my exams coming up, I've been thinking a lot about what I'm going to do after college."
-    melody "Humm, with my exams coming up, I've been thinking a lot about what I'm going to do after college."
+    melody "嗯，随着毕业前考试的临近，我一直在想我大学毕业后要做什么。"
 
 # game/boutique.rpy#L2653
 translate chinese melodyeveningmenu_3af3ebbe:
 
     # melody "You're a pretty real dude, and some outside perspective could give me a few ideas."
-    melody "You're a pretty real dude, and some outside perspective could give me a few ideas."
+    melody "你是一个很真诚的人，我想一些来自外界的观点可以给我一些启发。"
 
 # game/boutique.rpy#L2654
 translate chinese melodyeveningmenu_42055779:
 
     # mc "As a musician there are only a few career paths I can think of. An actual composer, someone that plays professionally, or a teacher."
-    mc "As a musician there are only a few career paths I can think of. An actual composer, someone that plays professionally, or a teacher."
+    mc "作为一个学音乐的学生，我能想到的职业道路只有几条。作曲家、专业演奏家、或者是音乐老师。"
 
 # game/boutique.rpy#L2656
 translate chinese melodyeveningmenu_e698a55f:
 
     # melody "Eugh, that's all so boring... I hate rules, y'know? And I hate the fact that the musical industry is just a shitty excuse to sleep with attractive peeople."
-    melody "Eugh, that's all so boring... I hate rules, y'know? And I hate the fact that the musical industry is just a shitty excuse to sleep with attractive peeople."
+    melody "啊这，那太无聊了…我讨厌世俗规则，你知道吗？我最不喜欢的一点是，搞音乐只是一个和有魅力的人睡觉的蹩脚借口。"
 
 # game/boutique.rpy#L2657
 translate chinese melodyeveningmenu_b2b9e19d:
 
     # mc "What do you mean?"
-    mc "What do you mean?"
+    mc "这话怎讲？"
 
 # game/boutique.rpy#L2659
 translate chinese melodyeveningmenu_580f79ef:
@@ -8924,13 +8924,13 @@ translate chinese melodyeveningmenu_bc989b1f:
 translate chinese melodyeveningmenu_6b9d99d4:
 
     # mc "Eugh... I can see why that'd be very problematic in this society, I guess even I'm guilty of that."
-    mc "Eugh... I can see why that'd be very problematic in this society, I guess even I'm guilty of that."
+    mc "呃…我明白为什么在这个社会这会是一个很大的问题，我想我也会为此感到内疚。"
 
 # game/boutique.rpy#L2663
 translate chinese melodyeveningmenu_30527e2d:
 
     # melody "You may be working and sleeping with a few mares, but you're not grooming anyone with the potential of fame."
-    melody "You may be working and sleeping with a few mares, but you're not grooming anyone with the potential of fame."
+    melody "你可能和几只雌驹一起工作和睡觉，但你不可能培养出任何有名望的人才。"
 
 # game/boutique.rpy#L2664
 translate chinese melodyeveningmenu_33df1354:
@@ -8948,7 +8948,7 @@ translate chinese melodyeveningmenu_6ad8593b:
 translate chinese melodyeveningmenu_d2a85c68:
 
     # mc "There, there... What are you going to do in the future to avoid this shit?"
-    mc "There, there... What are you going to do in the future to avoid this shit?"
+    mc "好了，好了…你以后要怎么做才能避免沦落到这种下场？"
 
 # game/boutique.rpy#L2669
 translate chinese melodyeveningmenu_a9fbcbf9:
@@ -9284,7 +9284,7 @@ translate chinese melodyeveningmenu_9ce6cbad:
 translate chinese melodyeveningmenu_aa9663d4:
 
     # melody "Victim, that is, mehehe."
-    melody "Victim, that is, mehehe."
+    melody "受害者，这就是，嘿嘿嘿…"
 
 # game/boutique.rpy#L2782
 translate chinese mspt1_a2805e4b:
@@ -9308,13 +9308,13 @@ translate chinese mspt1_bd5ad45f:
 translate chinese mspt1_bd0b296b:
 
     # melody "I think for once, I'll choose what to do with you."
-    melody "I think for once, I'll choose what to do with you."
+    melody "我想这一次，我会选择怎么处置你。"
 
 # game/boutique.rpy#L2788
 translate chinese mspt1_151b9042:
 
     # melody "Hmm... What to do, what to do..."
-    melody "Hmm... What to do, what to do..."
+    melody "呃…你想干什么，你想干什么…"
 
 # game/boutique.rpy#L2791
 translate chinese mspt1_03c88736:
@@ -9710,7 +9710,7 @@ translate chinese mspt1_3f91df15:
 translate chinese mspt1_fabb58c1:
 
     # melody "At least we didn't make a mess this time."
-    melody "At least we didn't make a mess this time."
+    melody "至少这次我们没有搞砸。"
 
 # game/boutique.rpy#L2928
 translate chinese melodyeveningsex_2af029ed:
@@ -9950,7 +9950,7 @@ translate chinese melodyeveningsex_a68eb108:
 translate chinese melodyeveningsex_f8aa7095:
 
     # melody "You staying overnight?"
-    melody "You staying overnight?"
+    melody "你想在这儿过夜？"
 
 # game/boutique.rpy#L3007
 translate chinese melodyeveningsex_4f34812c:
@@ -9962,61 +9962,61 @@ translate chinese melodyeveningsex_4f34812c:
 translate chinese melodyeveningsex_5b4914a4:
 
     # "Melody and I snuggle together in her bed, drifting off to sleep together."
-    "Melody and I snuggle together in her bed, drifting off to sleep together."
+    "Melody和我依偎在她的床上，睡过一晚上。"
 
 # game/boutique.rpy#L3013
 translate chinese melodyeveningsex_a20cefa7:
 
     # "..."
-    "..."
+    "…"
 
 # game/boutique.rpy#L3017
 translate chinese melodyeveningsex_4238b56a:
 
     # "When I wake up it's because Melody is shaking me."
-    "When I wake up it's because Melody is shaking me."
+    "我是被Melody摇醒的。"
 
 # game/boutique.rpy#L3019
 translate chinese melodyeveningsex_2c114dab:
 
     # melody "Come on sleepyworm, you sleep in far too late!"
-    melody "Come on sleepyworm, you sleep in far too late!"
+    melody "懒虫，起床啦！你睡的真死！"
 
 # game/boutique.rpy#L3020
 translate chinese melodyeveningsex_4f5b6928:
 
     # mc "Mehh, you always wake up too early."
-    mc "Mehh, you always wake up too early."
+    mc "呃呃呃，你老是这么早就起床了。"
 
 # game/boutique.rpy#L3022
 translate chinese melodyeveningsex_d201e49b:
 
     # melody "I'll make you breakfast, come on."
-    melody "I'll make you breakfast, come on."
+    melody "起来，我给你做早餐。"
 
 # game/boutique.rpy#L3025
 translate chinese melodyeveningsex_1af1bbc7:
 
     # "I begrudgingly go downstairs and enjoy some breakfast with Melody, Ruby hasn't even woken up yet. Makes sense because it's 7:15am."
-    "I begrudgingly go downstairs and enjoy some breakfast with Melody, Ruby hasn't even woken up yet. Makes sense because it's 7:15am."
+    "我不情愿地下楼和Melody一起吃早餐，Ruby还没醒来。这并不让人意外，现在才早上7点15分。"
 
 # game/boutique.rpy#L3027
 translate chinese melodyeveningsex_e1b664ac:
 
     # melody "I'm gonna leave for college. Feel free to shower, or whatever."
-    melody "I'm gonna leave for college. Feel free to shower, or whatever."
+    melody "我要去上学了。你随便洗个澡吧。"
 
 # game/boutique.rpy#L3028
 translate chinese melodyeveningsex_9b52a10e:
 
     # melody "I don't think Ruby would be that confused if you were here when she wakes up, heh."
-    melody "I don't think Ruby would be that confused if you were here when she wakes up, heh."
+    melody "如果Ruby醒来的时候发现你在这里，我想她也不会感到奇怪的，哈哈。"
 
 # game/boutique.rpy#L3029
 translate chinese melodyeveningsex_ff75de01:
 
     # mc "No worries, I'll go shower at home I think, I live close enough anyway."
-    mc "No worries, I'll go shower at home I think, I live close enough anyway."
+    mc "不用担心，我觉得我会在家里洗澡，反正我家离这儿不远。"
 
 # game/boutique.rpy#L3030
 translate chinese melodyeveningsex_f45249c8:
@@ -10028,25 +10028,25 @@ translate chinese melodyeveningsex_f45249c8:
 translate chinese melodyeveningsex_83442926:
 
     # "I finish my breakfast and drink before returning home for a shower."
-    "I finish my breakfast and drink before returning home for a shower."
+    "我吃完早餐，喝了点小酒，然后回家洗澡。"
 
 # game/boutique.rpy#L3036
 translate chinese melodyeveningsex_1dd389dd:
 
     # melody "Alright, I don't see why you feel like walking home at this time, but I won't judge."
-    melody "Alright, I don't see why you feel like walking home at this time, but I won't judge."
+    melody "好吧，我不明白你为什么想在这个时候走回家，但我不会对此做出评价。"
 
 # game/boutique.rpy#L3037
 translate chinese melodyeveningsex_51b119c1:
 
     # mc "Sorry Mel, I'll see you around."
-    mc "Sorry Mel, I'll see you around."
+    mc "对不起，Mel，咱们回头见。"
 
 # game/boutique.rpy#L3039
 translate chinese melodyeveningsex_a8e35fdf:
 
     # melody "See ya."
-    melody "See ya."
+    melody "拜。"
 
 # game/boutique.rpy#L3048
 translate chinese melodyeveningvisit1_f29ef10d:

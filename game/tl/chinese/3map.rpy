@@ -5198,7 +5198,7 @@ translate chinese strings:
 
     # game/3map.rpy_L278_0
     old "The ol' fuck and chuck. Alright, sure."
-    new "使用她们然后避免和她们有任何接触，好吧，当然……"
+    new "The ol' fuck and chuck. Alright, sure."
 
     # game/3map.rpy_L278_1
     old "Sounds like you're taking the idea of being a cum dumpster literally."

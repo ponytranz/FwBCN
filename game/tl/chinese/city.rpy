@@ -1520,13 +1520,13 @@ translate chinese musicstudiomenub_f823261e:
 translate chinese musicstudiomenub_0743cd6c:
 
     # melody "Our stuff is pretty niche, but some of the videos I've uploaded on the internet have a few hits."
-    melody "我们的东西非常小众，但我在互联网上传的一些视频有些点击率"
+    melody "尽管我们的商品非常小众，但些我在互联网上传的一视频还是有些点击量的。"
 
 # game/city.rpy#L528
 translate chinese musicstudiomenub_efb85316:
 
     # claire "A lot of people say that luck is a big factor on succeeding as an artist, but in this internet age if you make something good and put it out there, it'll attract a crowd."
-    claire "很多人说运气是艺术家成功的一个重要原因，但在这个互联网时代，如果你做出好的东西并公之于众，这将会吸引一大群的人。"
+    claire "很多人说运气是艺术家成功的一个重要因素，但在这个互联网时代呀，酒香不怕巷子深，只要质量好，总有一天会出名的。"
 
 # game/city.rpy#L529
 translate chinese musicstudiomenub_b6a5fca0:

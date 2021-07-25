@@ -227,14 +227,14 @@
   {
     "id": 79442734,
     "createdAt": "2021-05-30T19:47:46.000Z",
-    "updatedAt": "2021-07-17T17:04:15.000Z",
+    "updatedAt": "2021-07-24T11:38:59.000Z",
     "key": "game/3map.rpy_L278_0",
     "original": "The ol' fuck and chuck. Alright, sure.",
-    "translation": "使用她们然后避免和她们有任何接触，好吧，当然……",
+    "translation": "",
     "file": 272371,
-    "stage": 1,
+    "stage": 2,
     "project": 2414,
-    "uid": 22504,
+    "uid": 22440,
     "extra": null,
     "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/3map.rpy#L278",
     "words": 7
