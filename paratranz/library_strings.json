@@ -1127,14 +1127,14 @@
   {
     "id": 79443911,
     "createdAt": "2021-05-30T19:47:49.000Z",
-    "updatedAt": "2021-06-03T10:31:53.000Z",
+    "updatedAt": "2021-07-25T02:09:58.000Z",
     "key": "game/library.rpy_L3603_2",
     "original": "Could you tell me what it's like being a Morphling, and perhaps some more detail about your involvement before we met?",
-    "translation": "你可以告诉我成为变体精灵是种什么感觉吗？或许你还可以告诉我一些你之前与这件事的联系，可以吗？",
+    "translation": "你可以告诉我成为幻型灵是种什么感觉吗？或许你还可以告诉我一些你之前与这件事的联系，可以吗？",
     "file": 272385,
     "stage": 1,
     "project": 2414,
-    "uid": 19759,
+    "uid": 20927,
     "extra": null,
     "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/library.rpy#L3603",
     "words": 21

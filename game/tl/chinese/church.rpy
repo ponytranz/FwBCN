@@ -3800,7 +3800,7 @@ translate chinese lorequeen_5f4335dd:
 translate chinese lorequeen_a7ec4c3d:
 
     # augusta "But there are also more evil beings, such as the 'Morphlings'."
-    augusta "但恶魔一族分支不少，比如“幻形灵”。"
+    augusta "但恶魔一族分支不少，比如“幻型灵”。"
 
 # game/church.rpy#L1225
 translate chinese lorequeen_f5307325:
@@ -3890,7 +3890,7 @@ translate chinese lorequeen_a412b7bc:
 translate chinese lorequeen_ba249a8b:
 
     # augusta "That's how you get Morphlings..."
-    augusta "幻形灵就这么干的......"
+    augusta "幻型灵就这么干的......"
 
 # game/church.rpy#L1245
 translate chinese lorequeen_fa1cd046:
@@ -3914,7 +3914,7 @@ translate chinese lorequeen_3a3eeb01:
 translate chinese lorequeen_62c16a78:
 
     # augusta "And their numbers right now are low, since they're an all female race that can only breed with males of other species; most men won't fuck a morphling, they'd have to get tricked into it through a disguise."
-    augusta "现在不过只剩些散兵游勇，她们是一个纯雌性种族，只有和外族雄性交配才能繁育后代；没有哪个男性会蠢到去和一只幻形灵交媾，她们只能靠伪装来欺骗男性上钩。"
+    augusta "现在不过只剩些散兵游勇，她们是一个纯雌性种族，只有和外族雄性交配才能繁育后代；没有哪个男性会蠢到去和一只幻型灵交媾，她们只能靠伪装来欺骗男性上钩。"
 
 # game/church.rpy#L1249
 translate chinese lorequeen_7bcf5dc0:
@@ -4894,7 +4894,7 @@ translate chinese strings:
 
     # game/church.rpy_L1209_1
     old "What's a Morphling?"
-    new "什么是变体精灵？"
+    new "什么是幻型灵？"
 
     # game/church.rpy_L1209_2
     old "Do you really fuck as a 'bargaining' chip?"

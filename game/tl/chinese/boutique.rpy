@@ -10826,19 +10826,19 @@ translate chinese rubylingeriesex_f3010e01:
 translate chinese rubylingeriesex_6a08269e:
 
     # mc "Will I get paid extra for this? Haha."
-    mc "Will I get paid extra for this? Haha."
+    mc "我会额外付款吗？哈哈。"
 
 # game/boutique.rpy#L3286
 translate chinese rubylingeriesex_43595e23:
 
     # ruby "My, my... Do I look like a prostitute to you, [playername]?"
-    ruby "My, my... Do I look like a prostitute to you, [playername]?"
+    ruby "我的天哪...在你眼里我就像是个妓女吗，[playername]？"
 
 # game/boutique.rpy#L3287
 translate chinese rubylingeriesex_1cfbd80e:
 
     # mc "Oh, no, no. I didn’t mean to imply that."
-    mc "Oh, no, no. I didn’t mean to imply that."
+    mc "不不不，我不是那个意思。"
 
 # game/boutique.rpy#L3288
 translate chinese rubylingeriesex_428dac08:

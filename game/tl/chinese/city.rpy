@@ -2084,55 +2084,55 @@ translate chinese melodylaptop_328c0055:
 translate chinese melodylaptop_d7252fad:
 
     # melody "To make it up to you, I won't be mean to you for an entire day, honest!"
-    melody "To make it up to you, I won't be mean to you for an entire day, honest!"
+    melody "为了补偿你，我一整天都不会对你刻薄，真的！"
 
 # game/city.rpy#L1070
 translate chinese melodylaptop_72c47da9:
 
     # mc "You're going to be nice to me? I think you've already grown quite a sweet spot for me."
-    mc "You're going to be nice to me? I think you've already grown quite a sweet spot for me."
+    mc "你要对我这么好吗？我想你已经开始对我有好感了。"
 
 # game/city.rpy#L1072
 translate chinese melodylaptop_c49fbcd9:
 
     # melody "You're gonna make me vomit with that lovey crap."
-    melody "You're gonna make me vomit with that lovey crap."
+    melody "别撩了，我快yue了"
 
 # game/city.rpy#L1073
 translate chinese melodylaptop_9d55ee85:
 
     # mc "Heh, I guess being mean is just an inescapable part of you."
-    mc "Heh, I guess being mean is just an inescapable part of you."
+    mc "嘿，我想刻薄只是你避免不了的一部分。"
 
 # game/city.rpy#L1075
 translate chinese melodylaptop_8ef90bc3:
 
     # melody "Not true! I'm adorable, bitch! Alright... I'll think of something to make it up to you, 150 monies is quite a lot."
-    melody "Not true! I'm adorable, bitch! Alright... I'll think of something to make it up to you, 150 monies is quite a lot."
+    melody "放屁！我可是很惹人爱的，傻逼！好吧好吧...我会想办法补偿你的，150块钱实在是太多了。"
 
 # game/city.rpy#L1076
 translate chinese melodylaptop_24d71fcc:
 
     # mc "Are you saying you didn't have anything in mind?"
-    mc "Are you saying you didn't have anything in mind?"
+    mc "你的意思就是你都没想到怎么补偿我？"
 
 # game/city.rpy#L1078
 translate chinese melodylaptop_9028824e:
 
     # melody "Well, I kinda did! Once my laptop is fixed you'll be able to listen to tons of music."
-    melody "Well, I kinda did! Once my laptop is fixed you'll be able to listen to tons of music."
+    melody "好吧，确实！一旦我的笔记本电脑修好了，你就可以听很多音乐了。"
 
 # game/city.rpy#L1079
 translate chinese melodylaptop_fb3362e6:
 
     # mc "Right, is that it?"
-    mc "Right, is that it?"
+    mc "就这？"
 
 # game/city.rpy#L1081
 translate chinese melodylaptop_f770b6d5:
 
     # melody "Mmm, there was something else on my mind. But that'll have to wait, the shop's right here."
-    melody "Mmm, there was something else on my mind. But that'll have to wait, the shop's right here."
+    melody "嗯，我还有别的想法。但那得等一下，商店就在这儿。"
 
 # game/city.rpy#L1083
 translate chinese melodylaptop_084a77ea:

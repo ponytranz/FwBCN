@@ -767,14 +767,14 @@
   {
     "id": 79443658,
     "createdAt": "2021-05-30T19:47:48.000Z",
-    "updatedAt": "2021-07-08T09:48:09.000Z",
+    "updatedAt": "2021-07-25T02:09:54.000Z",
     "key": "game/dawn.rpy_L2214_0",
     "original": "Do you think there's a Morphling disguising themselves as you?",
-    "translation": "你觉得这里有一个伪装成你模样的幻形灵？",
+    "translation": "你觉得这里有一个伪装成你模样的幻型灵？",
     "file": 272380,
     "stage": 3,
     "project": 2414,
-    "uid": 22062,
+    "uid": 20927,
     "extra": null,
     "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/dawn.rpy#L2214",
     "words": 10

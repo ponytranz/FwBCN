@@ -9488,7 +9488,7 @@ translate chinese libraryvisit3choice5_d87310f3:
 translate chinese libraryvisit3choice5_fcd29c43:
 
     # selene "I think she always analyses Arcadian newcomers to see if they’re troublemakers or not."
-    selene "她总是在分析闯入Arcadian新来者，我想这是为了确认他们是否会闯祸。"
+    selene "她总是在分析闯入Arcadia的新来者，我想这是为了确认他们是否会闯祸。"
 
 # game/library.rpy#L2688
 translate chinese libraryvisit3choice5_ff94777c:
@@ -9530,13 +9530,13 @@ translate chinese libraryvisit3choice5_ed85b771:
 translate chinese libraryvisit3choice5_b9c58acf:
 
     # selene "We’ve got your back, [playername]."
-    selene "We’ve got your back, [playername]."
+    selene "我们支持你，[playername]。"
 
 # game/library.rpy#L2698
 translate chinese libraryvisit3choice5_0b3db84e:
 
     # "She smiles warmly, there’s no insincerity behind that smile. It quells any fears I have about evil rampaging goddesses."
-    "She smiles warmly, there’s no insincerity behind that smile. It quells any fears I have about evil rampaging goddesses."
+    "她的笑容很真诚，减轻了我对邪恶女神的恐惧感。"
 
 # game/library.rpy#L2703
 translate chinese libraryvisit3choice5_b98cc80d:
@@ -9548,7 +9548,7 @@ translate chinese libraryvisit3choice5_b98cc80d:
 translate chinese libraryvisit3choice5_6b7918c1:
 
     # moxie "Yeah, it was Midnight’s third edition."
-    moxie "Yeah, it was Midnight’s third edition."
+    moxie "好耶，是午夜第三册。"
 
 # game/library.rpy#L2706
 translate chinese libraryvisit3choice5_175620a9:
@@ -14276,7 +14276,7 @@ translate chinese strings:
 
     # game/library.rpy_L3603_2
     old "Could you tell me what it's like being a Morphling, and perhaps some more detail about your involvement before we met?"
-    new "你可以告诉我成为变体精灵是种什么感觉吗？或许你还可以告诉我一些你之前与这件事的联系，可以吗？"
+    new "你可以告诉我成为幻型灵是种什么感觉吗？或许你还可以告诉我一些你之前与这件事的联系，可以吗？"
 
     # game/library.rpy_L3836_0
     old "Cunnilingus and Facesitting"

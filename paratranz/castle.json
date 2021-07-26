@@ -14777,14 +14777,14 @@
   {
     "id": 79429503,
     "createdAt": "2021-05-30T17:55:36.000Z",
-    "updatedAt": "2021-07-04T11:50:44.000Z",
+    "updatedAt": "2021-07-25T01:27:46.000Z",
     "key": "selenevisit_3419c696",
     "original": "Probably thinkin’ that me and Blossom would be out here kickin’ ass. I must admit, I’m flattered.",
-    "translation": "肯定是觉得有我和Blossom可以100%保证农场安全才来的吧。我承认我有被惊到哦。",
+    "translation": "肯定是觉得有我和Blossom可以100%% 保证农场安全才来的吧。我承认我有被惊到哦。",
     "file": 272342,
     "stage": 1,
     "project": 2414,
-    "uid": 22062,
+    "uid": 20927,
     "extra": null,
     "context": "说话人: honeycrisp \n代码: https://github.com/ponytranz/FwBCN/blob/main/game/castle.rpy#L1724",
     "words": 17

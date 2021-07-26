@@ -7376,7 +7376,7 @@ translate chinese dawnvisit5_c8a6d439:
 translate chinese dawnvisit5_a56115f0:
 
     # dawn2 "This is a little creepy, it makes my skin shiver, especially considering the recent 'Morphling' incident..."
-    dawn2 "这有点可怕，连我的皮肤都在颤抖，尤其是最近还出了“幻形灵”那档子事儿......"
+    dawn2 "这有点可怕，连我的皮肤都在颤抖，尤其是最近还出了“幻型灵”那档子事儿......"
 
 # game/dawn.rpy#L2211
 translate chinese dawnvisit5_3026b2ea:
@@ -7514,7 +7514,7 @@ translate chinese dawnvisit5_db361b7d:
 translate chinese dawnvisit5_a2d34e21:
 
     # dawn2 "And when a morphling army attempted to take over Arcadia, they were given a thrashing! It was spectacular!"
-    dawn2 "在幻形灵大军压境Arcadia的时候，它们被胖揍了一顿！壮观得很！"
+    dawn2 "在幻型灵大军压境Arcadia的时候，它们被胖揍了一顿！壮观得很！"
 
 # game/dawn.rpy#L2249
 translate chinese dawnvisit5_f6fdbc31:
@@ -9110,7 +9110,7 @@ translate chinese strings:
 
     # game/dawn.rpy_L2214_0
     old "Do you think there's a Morphling disguising themselves as you?"
-    new "你觉得这里有一个伪装成你模样的幻形灵？"
+    new "你觉得这里有一个伪装成你模样的幻型灵？"
 
     # game/dawn.rpy_L2214_1
     old "Sounds like you're being paranoid."

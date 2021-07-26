@@ -617,14 +617,14 @@
   {
     "id": 79443197,
     "createdAt": "2021-05-30T19:47:47.000Z",
-    "updatedAt": "2021-06-05T10:20:24.000Z",
+    "updatedAt": "2021-07-25T02:09:51.000Z",
     "key": "game/church.rpy_L1209_1",
     "original": "What's a Morphling?",
-    "translation": "什么是变体精灵？",
+    "translation": "什么是幻型灵？",
     "file": 272377,
     "stage": 1,
     "project": 2414,
-    "uid": 19759,
+    "uid": 20927,
     "extra": null,
     "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/church.rpy#L1209",
     "words": 3

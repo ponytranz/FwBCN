@@ -5912,7 +5912,7 @@ translate chinese selenevisit_a0b7c6d1:
 translate chinese selenevisit_3419c696:
 
     # honeycrisp "Probably thinkin’ that me and Blossom would be out here kickin’ ass. I must admit, I’m flattered."
-    honeycrisp "肯定是觉得有我和Blossom可以100%保证农场安全才来的吧。我承认我有被惊到哦。"
+    honeycrisp "肯定是觉得有我和Blossom可以100%% 保证农场安全才来的吧。我承认我有被惊到哦。"
 
 # game/castle.rpy#L1727
 translate chinese selenevisit_1c49590f:

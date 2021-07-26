@@ -3200,7 +3200,7 @@ translate chinese creamvmissionary_99a4b133:
 translate chinese creamvmissionary_8e0796f8:
 
     # "Taking the spank as a challenge, she begins to speed up, going almost hysterically fast and overwhelming my senses."
-    "Taking the spank as a challenge, she begins to speed up, going almost hysterically fast and overwhelming my senses."
+    "她把打屁股当作一种挑战，并开始加速，速度快得离谱，几乎制服了我的感官。"
 
 # game/bakery.rpy#L1012
 translate chinese creamvmissionary_26a72224:
@@ -3284,7 +3284,7 @@ translate chinese creamvmissionary_ab5cda37:
 translate chinese creamvmissionary_e12dce82:
 
     # "As her pussy continues to grip around my shaft I find the pleasure is too much and I unload my cum deep inside her womb."
-    "As her pussy continues to grip around my shaft I find the pleasure is too much and I unload my cum deep inside her womb."
+    "她的小穴持续的吮吸着我的肉棒，我实在忍不住了，便狠狠的把精液射进了她的子宫深处。"
 
 # game/bakery.rpy#L1049
 translate chinese creamvmissionary_32ae230b:
@@ -3326,7 +3326,7 @@ translate chinese creamvmissionary_76f483bd:
 translate chinese creamvmissionary_09e4d238:
 
     # mc "Only half as good as your riding Honey."
-    mc "Only half as good as your riding Honey."
+    mc "只比你的骑术一半好Honey。"
 
 # game/bakery.rpy#L1068
 translate chinese creamvmissionary_ce276cf1:
@@ -3362,7 +3362,7 @@ translate chinese creamvmissionary_4a551ed1:
 translate chinese creamvmissionary_bdd8e98b:
 
     # blossom "I'll be on top, all that alcohol has filled me with energy."
-    blossom "I'll be on top, all that alcohol has filled me with energy."
+    blossom "她下我上，因为喝了太多酒的缘故，我觉得我有用不完的力气。"
 
 # game/bakery.rpy#L1085
 translate chinese creamvmissionary_825744b8:
@@ -3374,7 +3374,7 @@ translate chinese creamvmissionary_825744b8:
 translate chinese creamvmissionary_6d841c25:
 
     # "She wraps her spare hand around my member and starts to give it gentle strokes up and down, causing my cock to swell up and stiffen completely."
-    "She wraps her spare hand around my member and starts to give it gentle strokes up and down, causing my cock to swell up and stiffen completely."
+    "她用空出的手握住我的肉棒，开始上下轻轻抚摸，使我的肉棒膨胀起来，完全起竿了。"
 
 # game/bakery.rpy#L1087
 translate chinese creamvmissionary_4184ea01:
@@ -3422,13 +3422,13 @@ translate chinese creamvmissionary_ab10c47d:
 translate chinese creamvmissionary_d4a24dca:
 
     # "Her riding gains speed and she arches her back in response to the quaking pleasure throughout her body, I too feel tense from the overwhelming sensation she's providing me."
-    "Her riding gains speed and she arches her back in response to the quaking pleasure throughout her body, I too feel tense from the overwhelming sensation she's providing me."
+    "她的速度加快了，她拱起背来回应全身颤抖的快感，我也因为她给我带来的压倒性感觉而感到紧张。"
 
 # game/bakery.rpy#L1099
 translate chinese creamvmissionary_5ea023bd:
 
     # "With each deep thrust I can feel myself getting closer and closer, her pussy trying to milk my cock with all its worth."
-    "With each deep thrust I can feel myself getting closer and closer, her pussy trying to milk my cock with all its worth."
+    "每一次深深地插进去，我都能感觉到自己离射精越来越近了，她的阴穴试图用所有的力气来挤压我的肉棒。"
 
 # game/bakery.rpy#L1100
 translate chinese creamvmissionary_f878bccf:
@@ -5276,25 +5276,25 @@ translate chinese bakeryvisit2_ab0feb1b:
 translate chinese bakeryvisit2_26372f5d:
 
     # "Her tone is unusually bright and curious, even for this bubbly girl of positivity."
-    "Her tone is unusually bright and curious, even for this bubbly girl of positivity."
+    "即使她是个乐观的女孩，但她的语气异乎寻常的快活和好奇"
 
 # game/bakery.rpy#L1607
 translate chinese bakeryvisit2_6168682c:
 
     # mc "Uh, uh… Yeah, the unicorns can cast magic, with their horns."
-    mc "Uh, uh… Yeah, the unicorns can cast magic, with their horns."
+    mc "嗯，嗯…是的，独角兽可以用它们的角施展魔法。"
 
 # game/bakery.rpy#L1609
 translate chinese bakeryvisit2_031af2fe:
 
     # cream "Ohh… So, you see that as magic? Or maybe I'm not talking to the right person..."
-    cream "Ohh… So, you see that as magic? Or maybe I'm not talking to the right person..."
+    cream "哦…所以，你觉得那是魔法？或者我只是没和合适的人说话..."
 
 # game/bakery.rpy#L1610
 translate chinese bakeryvisit2_5155aa49:
 
     # mc "And you don’t?"
-    mc "And you don’t?"
+    mc "你不觉得是吗？"
 
 # game/bakery.rpy#L1612
 translate chinese bakeryvisit2_009117e8:

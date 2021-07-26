@@ -548,7 +548,7 @@ translate chinese events_33ddde5d:
 translate chinese events_09ea0b35:
 
     # "(100%% completion bonus unlocked at the Castle.)"
-    "（于城堡完成100%%时解锁奖励。）"
+    "（于城堡完成100%% 时解锁奖励。）"
 
 # game/2morning.rpy#L270
 translate chinese events_f1b54ad9:

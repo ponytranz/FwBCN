@@ -74,7 +74,7 @@ translate chinese mapmarket_2ea6d676:
 translate chinese mapmarket_d9d75a85:
 
     # dawn2 "If you were to be such a gentleman as to help a lady carry her bags home, you'd be welcome to a delicious cup of tea with me. I'd love to hear more about how you defeated the evil Morphling Queen."
-    dawn2 "如果你足够绅士，愿意帮这样一位女士把行李搬回家，欢迎你和我一起喝杯可口的茶。我很想听听你是怎么打败邪恶的Morphling女皇的"
+    dawn2 "如果你足够绅士，愿意帮这样一位女士把行李搬回家，欢迎你和我一起喝杯可口的茶。我很想听听你是怎么打败邪恶的幻型灵女皇的"
 
 # game/3map.rpy#L78
 translate chinese mapmarket_256e19e5:
@@ -5126,7 +5126,7 @@ translate chinese doubledragon_ebe8e1f7:
 translate chinese doubledragon_688ecb72:
 
     # "It took all day because I needed long breaks between each orgasm. There’s something really tiring about having sex with a dragon. The heat just saps all your energy."
-    "所以花了我一整天，因为每次高潮间我都需要很长的调整时间。跟一条龙做爱真的很累人。只会消耗光你所有的能量。"
+    "所以花了我一整天，因为每次高潮后我都会有很长的贤者时间。跟一条龙做爱真的很累人。只会消耗光你所有的能量。"
 
 # game/3map.rpy#L2354
 translate chinese doubledragon_d9e7121e:

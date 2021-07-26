@@ -704,7 +704,7 @@ translate chinese cforest_8ecfc5b0:
 translate chinese cforest_d636eca7:
 
     # butters "Jesus, shit! You son of a bitch! Morrigan is an evil morphling that I helped defeat in the past."
-    butters "天呐，干！你个沙滩之子！ Morrigan可是我以前助以击败的幻形灵。"
+    butters "天呐，干！你个沙滩之子！ Morrigan可是我以前助以击败的幻型灵。"
 
 # game/finalroute.rpy#L446
 translate chinese cforest_94c9d2ed:
@@ -1544,7 +1544,7 @@ translate chinese clibrary_01f894ca:
 translate chinese clibrary_fd58eb72:
 
     # lily "No, no, you don’t understand! Morrigan is a Morphling, not only does she have the ability to shapeshift into any form, but she also has the ability to possess hosts…"
-    lily "不不，你不明白！Morrigan是一只幻形灵，她不仅能变形成任何形态，甚至还能掌控宿主…"
+    lily "不不，你不明白！Morrigan是一只幻型灵，她不仅能变形成任何形态，甚至还能掌控宿主…"
 
 # game/finalroute.rpy#L706
 translate chinese clibrary_791b8ff9:
@@ -3074,7 +3074,7 @@ translate chinese cbar_312625cb:
 translate chinese cbar_4fa495f1:
 
     # riku "Sure thing, uhm... Try to stay out of the rain, 'kay?"
-    riku "好吧,嗯…你要是能避开那些雨就避开，好吗?"
+    riku "好吧,嗯…尽可能避开那些雨，好吗?"
 
 # game/finalroute.rpy#L1194
 translate chinese cbar_b1ac94f7:
@@ -3404,7 +3404,7 @@ translate chinese cbar2_9cc2086c:
 translate chinese cbar2_a4079a79:
 
     # riku "She’s really gone and made it personal for me, I’m fuming with anger."
-    riku "She’s really gone and made it personal for me, I’m fuming with anger."
+    riku "她真的离开了，这令我感到很气愤"
 
 # game/finalroute.rpy#L1299
 translate chinese cbar2_635aeaf4:
@@ -3452,7 +3452,7 @@ translate chinese cbakery_94e57b8a:
 translate chinese cbakery_46428c63:
 
     # mc "What happened Cream, you have a new Queen?"
-    mc "咋回事儿呀Cream，你们的新女王登基了?"
+    mc "你在说什么呀Cream，新女王登基?"
 
 # game/finalroute.rpy#L1319
 translate chinese cbakery_6ee7e1d7:
@@ -3860,13 +3860,13 @@ translate chinese treemeeting_d6952562:
 translate chinese treemeeting_adf21faa:
 
     # morrigan "Hmm... You're pretty useless to me now that I have all this power. Maybe stick around and become a breeding drone after I clear out Arcadia."
-    morrigan "嗯…现在我手握大权，你这个棋子对我来说已经没什么用了。或许等我清除了Arcadia后，你可以成为一台繁殖机器。"
+    morrigan "嗯…现在我手握大权，你这个棋子对我来说已经没什么用了。或许等我扫清了Arcadia后，你可以成为一台繁殖机器。"
 
 # game/finalroute.rpy#L1461
 translate chinese treemeeting_5c499289:
 
     # penelope "Breeding drone? Clear out Arcadia? What are you planning?"
-    penelope "繁殖机器？清除Arcadia？你究竟要干什么？"
+    penelope "繁殖机器？扫清Arcadia？你究竟要干什么？"
 
 # game/finalroute.rpy#L1463
 translate chinese treemeeting_ab190b1e:
@@ -3926,7 +3926,7 @@ translate chinese treemeeting_0c65aa26:
 translate chinese treemeeting_03bc4e6f:
 
     # morrigan "Time for some good ol' fashioned revenge. I want to kill one of these pony bastards for each of my own they slaughtered."
-    morrigan "Time for some good ol' fashioned revenge. I want to kill one of these pony bastards for each of my own they slaughtered."
+    morrigan "是时候来点经典款式的复仇了。那些家伙每杀害我的一个幻型灵子民，我就对应干死一个杂种驹子。"
 
 # game/finalroute.rpy#L1487
 translate chinese treemeeting_2d8a26d4:
@@ -3998,7 +3998,7 @@ translate chinese skipaltreemeeting_bae9e97c:
 translate chinese skipaltreemeeting_72009fe9:
 
     # butters "And it has been two hours so far… That means the sisters have already lost about 40 percent of their power no matter what… M-Maybe even more before we’re finished!"
-    butters "到目前为止已经过去两个小时了，这意味着姐妹们已经失去了至少40%的力量，而且在我们结束之前可能会失去更多！"
+    butters "到目前为止已经过去两个小时了，这意味着姐妹们已经失去了至少40%% 的力量，而且在我们结束之前可能会失去更多！"
 
 # game/finalroute.rpy#L1519
 translate chinese skipaltreemeeting_ec124125:
@@ -4052,7 +4052,7 @@ translate chinese skipaltreemeeting_acf34826:
 translate chinese skipaltreemeeting_5c4bb3db:
 
     # honeycrisp "There’s no way we’d win in a fight against a super powered Morrigan and both sisters!"
-    honeycrisp "There’s no way we’d win in a fight against a super powered Morrigan and both sisters!"
+    honeycrisp "我们决无可能战胜拥有超能力的Morrigan与两姐妹！"
 
 # game/finalroute.rpy#L1552
 translate chinese skipaltreemeeting_5a6b7233:
@@ -4070,13 +4070,13 @@ translate chinese skipaltreemeeting_f8894194:
 translate chinese skipaltreemeeting_03641ac6:
 
     # penelope "You guys... You're all... okay?"
-    penelope "You guys... You're all... okay?"
+    penelope "你们… 你们都还… 好吧?"
 
 # game/finalroute.rpy#L1573
 translate chinese skipaltreemeeting_f94894cd:
 
     # riku "Why you... I heard about everything! Come on girls, let's get her quickly!"
-    riku "Why you... I heard about everything! Come on girls, let's get her quickly!"
+    riku "为什么是你……我可是啥都知道了！来吧姑娘们，快点把她给解决了！"
 
 # game/finalroute.rpy#L1575
 translate chinese skipaltreemeeting_ac9f74d2:
@@ -4166,7 +4166,7 @@ translate chinese skipaltreemeeting_ad36a747:
 translate chinese skipaltreemeeting_b4308091:
 
     # butters "That'll be [playername]'s magical cum! One womb full of that will almost instantly knock out the brainwashing."
-    butters "That'll be [playername]'s magical cum! One womb full of that will almost instantly knock out the brainwashing."
+    butters "那都归功于 [playername]的魔法精液！一个满是这玩意的子宫将会打断洗脑的进程。"
 
 # game/finalroute.rpy#L1621
 translate chinese skipaltreemeeting_42412fb1:
@@ -4178,7 +4178,7 @@ translate chinese skipaltreemeeting_42412fb1:
 translate chinese skipaltreemeeting_e5cfc623:
 
     # penelope "I'd say we have two priorities right now. One, evacuate the castle, and two, break the brainwashing of Aurora and Selene."
-    penelope "I'd say we have two priorities right now. One, evacuate the castle, and two, break the brainwashing of Aurora and Selene."
+    penelope "我想说我们现在有两个重点。首先，疏散城堡；其次，打破对Aurora和Selene的洗脑。"
 
 # game/finalroute.rpy#L1623
 translate chinese skipaltreemeeting_b18591dd:
@@ -4244,7 +4244,7 @@ translate chinese skipaltreemeeting_17139547:
 translate chinese skipaltreemeeting_58dc7941:
 
     # honeycrisp "Don't hold back too much Lily, we gotta eradicate that bug."
-    honeycrisp "不要过于拘谨了 Lily, 我们得消灭那只虫子。"
+    honeycrisp "别跟她客气 Lily, 我们是来消灭那只臭虫的。"
 
 # game/finalroute.rpy#L1655
 translate chinese skipaltreemeeting_420b2649:
