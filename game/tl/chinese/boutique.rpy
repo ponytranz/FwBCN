@@ -10826,7 +10826,7 @@ translate chinese rubylingeriesex_f3010e01:
 translate chinese rubylingeriesex_6a08269e:
 
     # mc "Will I get paid extra for this? Haha."
-    mc "我会额外付款吗？哈哈。"
+    mc "我要额外付钱吗？哈哈。"
 
 # game/boutique.rpy#L3286
 translate chinese rubylingeriesex_43595e23:

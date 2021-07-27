@@ -2144,19 +2144,19 @@ translate chinese melodylaptop_084a77ea:
 translate chinese melodylaptop_fb3beaac:
 
     # "However, rather than immediately entering Claire's room, Melody leads me into an empty studio."
-    "However, rather than immediately entering Claire's room, Melody leads me into an empty studio."
+    "然而，Melody并没有马上进入Claire的房间，而是把我领进了一间空荡荡的工作室。"
 
 # game/city.rpy#L1089
 translate chinese melodylaptop_11460f75:
 
     # melody "Alright, we should be left alone in this room."
-    melody "Alright, we should be left alone in this room."
+    melody "好吧，我们应该单独呆在这个房间里。"
 
 # game/city.rpy#L1090
 translate chinese melodylaptop_77ddb714:
 
     # mc "Should be alone?"
-    mc "Should be alone?"
+    mc "为什么？"
 
 # game/city.rpy#L1092
 translate chinese melodylaptop_0ed567d4:

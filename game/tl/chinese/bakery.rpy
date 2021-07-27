@@ -3434,19 +3434,19 @@ translate chinese creamvmissionary_5ea023bd:
 translate chinese creamvmissionary_f878bccf:
 
     # blossom "Mmphh, please cum in your lil' cumslut, please give me your cum!"
-    blossom "Mmphh, please cum in your lil' cumslut, please give me your cum!"
+    blossom "嗯，请射进您的小肉便器里，请给我您的精液！"
 
 # game/bakery.rpy#L1101
 translate chinese creamvmissionary_7f0db20d:
 
     # "She begs as our sex devolves into an orgasmic mess, her pussy clamps down around my cock tightly which in turn pushes me over the edge."
-    "She begs as our sex devolves into an orgasmic mess, her pussy clamps down around my cock tightly which in turn pushes me over the edge."
+    "当我们的动作幅度和速度达到顶峰时，她呻吟出声，小穴紧紧的收缩着，反过来又让我达到了射精的临界点。"
 
 # game/bakery.rpy#L1106
 translate chinese creamvmissionary_6eb48bbb:
 
     # "And in sudden orgasm I shoot several thick loads deep into her womb which squelch and drip down our point of connection."
-    "And in sudden orgasm I shoot several thick loads deep into her womb which squelch and drip down our point of connection."
+    "在一瞬的高潮中，我向她的子宫深处射出浓厚的白浊，精液从我们的交合处溢出并滴落下来。"
 
 # game/bakery.rpy#L1111
 translate chinese creamvmissionary_72890639:

@@ -1490,13 +1490,13 @@ translate chinese farmvisit1_6597b401:
 translate chinese farmvisit1_68715cad:
 
     # "Fortunately, the air has grown cool and there’s occasionally a soft breeze that calms the skin."
-    "Fortunately, the air has grown cool and there’s occasionally a soft breeze that calms the skin."
+    "好在气温也在逐渐降低，时不时吹来一阵微风，给我带来一片凉爽。"
 
 # game/farm.rpy#L495
 translate chinese farmvisit1_e3aac263:
 
     # honeycrisp "Fantastic work, partner! Part of me always wanted a strong capable man to work with."
-    honeycrisp "Fantastic work, partner! Part of me always wanted a strong capable man to work with."
+    honeycrisp "针不戳！老兄！知道吗，我一直想要一个像你这样的男人帮我。"
 
 # game/farm.rpy#L499
 translate chinese farmvisit1_1a366b79:
@@ -1508,7 +1508,7 @@ translate chinese farmvisit1_1a366b79:
 translate chinese farmvisit1_1277c614:
 
     # honeycrisp "You’re not entirely wrong either, but let’s not rush anything."
-    honeycrisp "You’re not entirely wrong either, but let’s not rush anything."
+    honeycrisp "你也没完全错，但至少也得知道“心急吃不了热豆腐”吧..."
 
 # game/farm.rpy#L503
 translate chinese farmvisit1_bbcd417b:

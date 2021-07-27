@@ -3344,7 +3344,7 @@ translate chinese cbar2_2b90f046:
 translate chinese cbar2_2ea333e9:
 
     # "Riku excitedly rides out both our orgasms."
-    "Riku兴奋地驾驭着高潮。"
+    "Riku兴奋地感受着咱们俩的高潮。"
 
 # game/finalroute.rpy#L1278
 translate chinese cbar2_43271914:
@@ -3380,7 +3380,7 @@ translate chinese cbar2_9d5c48e7:
 translate chinese cbar2_60f323a4:
 
     # mc "I certainly do, so listen up!"
-    mc "乐意效劳，听好了!"
+    mc "乐意效劳，听好了！"
 
 # game/finalroute.rpy#L1291
 translate chinese cbar2_2b65c5ba:
@@ -3404,13 +3404,13 @@ translate chinese cbar2_9cc2086c:
 translate chinese cbar2_a4079a79:
 
     # riku "She’s really gone and made it personal for me, I’m fuming with anger."
-    riku "她真的离开了，这令我感到很气愤"
+    riku "她真tm该死，我要一匹马干死她，老娘现在都快气炸了。"
 
 # game/finalroute.rpy#L1299
 translate chinese cbar2_635aeaf4:
 
     # mc "Your red fur can't get any redder. Don’t worry, we’ll get her."
-    mc "你的红鬃毛红得都快滴出血来了。别心急，我们肯定会把Moxie救回来的。"
+    mc "你的红鬃毛气得都快滴出血来了呀。别着急，我们肯定会把Moxie救回来的。"
 
 # game/finalroute.rpy#L1301
 translate chinese cbar2_1f632564:
@@ -3818,7 +3818,7 @@ translate chinese treemeeting_f17a200c:
 translate chinese treemeeting_2d61008c:
 
     # aurora "I... feel dizzy... Mistress..."
-    aurora "我的…头好晕呐…你这贱人..."
+    aurora "我的…头好晕呐…大人..."
 
 # game/finalroute.rpy#L1442
 translate chinese treemeeting_0d398f5e:
@@ -3860,7 +3860,7 @@ translate chinese treemeeting_d6952562:
 translate chinese treemeeting_adf21faa:
 
     # morrigan "Hmm... You're pretty useless to me now that I have all this power. Maybe stick around and become a breeding drone after I clear out Arcadia."
-    morrigan "嗯…现在我手握大权，你这个棋子对我来说已经没什么用了。或许等我扫清了Arcadia后，你可以成为一台繁殖机器。"
+    morrigan "嗯…现在我大权在手，你这个棋子对我来说已经没什么用了。或许等我扫清了Arcadia后，你可以成为一台繁殖机器。"
 
 # game/finalroute.rpy#L1461
 translate chinese treemeeting_5c499289:
@@ -3908,7 +3908,7 @@ translate chinese treemeeting_4f9eff97:
 translate chinese treemeeting_09c564ff:
 
     # penelope "Ah- minion? You're awful! My Que... no... I can't..."
-    penelope "啊——奴才?你这个烂人!我的女王…不…我不能……"
+    penelope "啊——奴才？你这个烂人!我的女王…不…我不能……"
 
 # game/finalroute.rpy#L1477
 translate chinese treemeeting_069ef81f:
@@ -3980,7 +3980,7 @@ translate chinese treemeeting_73f7e4b9:
 translate chinese skipaltreemeeting_3b19bcc5:
 
     # "Naturally, as someone Morrigan potentially trusts, I’m playing a key role…"
-    "当然，作为Morrigan可能信任的人，我毫无疑问会扮演关键角色……"
+    "当然，作为Morrigan可能信任的人，我毫无疑问会起到重要作用……"
 
 # game/finalroute.rpy#L1512
 translate chinese skipaltreemeeting_ab0a5fd9:
@@ -4004,31 +4004,31 @@ translate chinese skipaltreemeeting_72009fe9:
 translate chinese skipaltreemeeting_ec124125:
 
     # lily "Yes… It’s devastating… By the time we confront Morrigan we need to assume she’s as powerful as an alicorn and definitely more powerful than the sisters."
-    lily "Yes… It’s devastating… By the time we confront Morrigan we need to assume she’s as powerful as an alicorn and definitely more powerful than the sisters."
+    lily "好吧...这简直开挂了呀...等到我们面对Morrigan，我们需要假设她的力量达到了天角兽级别，而且肯定比皇家姐妹俩加起来还强大。"
 
 # game/finalroute.rpy#L1523
 translate chinese skipaltreemeeting_372d1b41:
 
     # honeycrisp "Well that’s alright, ain’t it? Us elements are more powerful than an alicorn. That’s why Aurora and Selene made us the elements, so we can take care of threats even more dangerous than that."
-    honeycrisp "Well that’s alright, ain’t it? Us elements are more powerful than an alicorn. That’s why Aurora and Selene made us the elements, so we can take care of threats even more dangerous than that."
+    honeycrisp "其实还好吧？咱们的元素之力可是相较于天角兽更上一层楼呢。我们可以处理比这更危险的威胁，这也是为啥Aurora和Selene让我们来掌握元素之力。"
 
 # game/finalroute.rpy#L1529
 translate chinese skipaltreemeeting_3a02069e:
 
     # ruby "And we were still all brainwashed… What fools we are."
-    ruby "And we were still all brainwashed… What fools we are."
+    ruby "然而我们一开始都被洗脑了…我们这也太傻了啊。"
 
 # game/finalroute.rpy#L1538
 translate chinese skipaltreemeeting_f48edb5a:
 
     # riku "Look, there’s no point in worrying about what happened, let’s focus on the mission and get it done, ‘kay?"
-    riku "Look, there’s no point in worrying about what happened, let’s focus on the mission and get it done, ‘kay?"
+    riku "听着，无论发生了什么，我们都要集中精力完成任务，清楚了吗?"
 
 # game/finalroute.rpy#L1540
 translate chinese skipaltreemeeting_8e14cb8e:
 
     # lily "Riku is correct, every minute is a tangible loss of power for the sisters."
-    lily "Riku is correct, every minute is a tangible loss of power for the sisters."
+    lily "Riku说得不错，对皇家姐妹俩来说，每过一分钟都是实实在在的力量损失。"
 
 # game/finalroute.rpy#L1541
 translate chinese skipaltreemeeting_3bb6830e:
@@ -4052,7 +4052,7 @@ translate chinese skipaltreemeeting_acf34826:
 translate chinese skipaltreemeeting_5c4bb3db:
 
     # honeycrisp "There’s no way we’d win in a fight against a super powered Morrigan and both sisters!"
-    honeycrisp "我们决无可能战胜拥有超能力的Morrigan与两姐妹！"
+    honeycrisp "我们决无可能战胜拥有超能力的Morrigan与两姐妹呀！"
 
 # game/finalroute.rpy#L1552
 translate chinese skipaltreemeeting_5a6b7233:
@@ -4064,7 +4064,7 @@ translate chinese skipaltreemeeting_5a6b7233:
 translate chinese skipaltreemeeting_f8894194:
 
     # "In a sprint, Penelope sprints into the tree library. She spots us, and comes over while panting."
-    "In a sprint, Penelope sprints into the tree library. She spots us, and comes over while panting."
+    "一个健步，Penelope冲进了树图书馆。她看见了我们，气喘吁吁地走了过来。"
 
 # game/finalroute.rpy#L1559
 translate chinese skipaltreemeeting_03641ac6:
@@ -4076,7 +4076,7 @@ translate chinese skipaltreemeeting_03641ac6:
 translate chinese skipaltreemeeting_f94894cd:
 
     # riku "Why you... I heard about everything! Come on girls, let's get her quickly!"
-    riku "为什么是你……我可是啥都知道了！来吧姑娘们，快点把她给解决了！"
+    riku "你竟然还主动送上门来……我可是啥都知道了！来吧姑娘们，快点把她给解决了！"
 
 # game/finalroute.rpy#L1575
 translate chinese skipaltreemeeting_ac9f74d2:
@@ -4100,79 +4100,79 @@ translate chinese skipaltreemeeting_9f551a67:
 translate chinese skipaltreemeeting_52613f79:
 
     # honeycrisp "Hmph, fine... But if I don't like what you've got to say, I won't pull my punches."
-    honeycrisp "Hmph, fine... But if I don't like what you've got to say, I won't pull my punches."
+    honeycrisp "哼，好吧...你要是再整出什么幺蛾子，我是不会放过你的。"
 
 # game/finalroute.rpy#L1593
 translate chinese skipaltreemeeting_966e1222:
 
     # butters "I can't believe Penelope is a morphling..."
-    butters "I can't believe Penelope is a morphling..."
+    butters "我不敢相信Penelope竟然是一只幻型灵…"
 
 # game/finalroute.rpy#L1595
 translate chinese skipaltreemeeting_2cddab43:
 
     # penelope "Yes, well... I first have to deeply apologize for everything I've done..."
-    penelope "Yes, well... I first have to deeply apologize for everything I've done..."
+    penelope "好的，不过…首先我要对我所做的一切深表歉意。"
 
 # game/finalroute.rpy#L1596
 translate chinese skipaltreemeeting_4271c05a:
 
     # penelope "I appreciate that an apology is not enough, but as far as I'm concerned, it's more important that I do everything in my power to revert this catastrophic mistake, and for that I'll need your help."
-    penelope "I appreciate that an apology is not enough, but as far as I'm concerned, it's more important that I do everything in my power to revert this catastrophic mistake, and for that I'll need your help."
+    penelope "我知道一份道歉是远远不够的，但是在我看来，更重要的是我要尽我所能挽回这个灾难性的错误，所以我需要你们的帮助。"
 
 # game/finalroute.rpy#L1597
 translate chinese skipaltreemeeting_5da602cb:
 
     # penelope "I thought I could trust Morrigan to be a fair ruler, I thought I'd helped her become a better person... But I was wrong, so wrong..."
-    penelope "I thought I could trust Morrigan to be a fair ruler, I thought I'd helped her become a better person... But I was wrong, so wrong..."
+    penelope "我本以为Morrigan会是一个公正的统治者，我本以为我帮她成为了一个更好的人…但是我错了，大错特错…"
 
 # game/finalroute.rpy#L1599
 translate chinese skipaltreemeeting_81763b21:
 
     # honeycrisp "... What do y'all think? She tellin' the truth?"
-    honeycrisp "... What do y'all think? She tellin' the truth?"
+    honeycrisp "...大伙儿，你们怎么想?她说的是实话吗?"
 
 # game/finalroute.rpy#L1608
 translate chinese skipaltreemeeting_76e986de:
 
     # lily "All of Penny's actions right now fit her personality, wouldn't you say? She was always kind and loving. Always wanted to help others and bring the best out of them."
-    lily "All of Penny's actions right now fit her personality, wouldn't you say? She was always kind and loving. Always wanted to help others and bring the best out of them."
+    lily "Penny现在所有的行为都符合她的性格，你觉得呢？她总是和蔼可亲。总是想帮助其他马，让他们发挥出最好的一面。"
 
 # game/finalroute.rpy#L1609
 translate chinese skipaltreemeeting_4f9e276d:
 
     # lily "I'm far more surprised by her uncharacteristic betrayal, than I am of how she's acting now..."
-    lily "I'm far more surprised by her uncharacteristic betrayal, than I am of how she's acting now..."
+    lily "比起她现在的表现，她那非同寻常的背叛才更让我震惊。"
 
 # game/finalroute.rpy#L1610
 translate chinese skipaltreemeeting_a4c4624f:
 
     # lily "I... trust you, Penelope."
-    lily "我... 相信你, Penelope。"
+    lily "我...还是相信你, Penelope。"
 
 # game/finalroute.rpy#L1611
 translate chinese skipaltreemeeting_17c9c32b:
 
     # lily "And since you know Morrigan better than the rest of us, do you have a plan?"
-    lily "既然你比我们更了解Morrigan，那你有什么计划吗？"
+    lily "既然你比我们更了解Morrigan，那你肯定有什么计划，对吗？"
 
 # game/finalroute.rpy#L1613
 translate chinese skipaltreemeeting_ad36a747:
 
     # penelope "A plan? I might have an idea... But you'll have to explain to me how you broke the brainwashing."
-    penelope "一个计划吗?我可能有个主意…但你得向我解释你是怎样破坏洗脑的。"
+    penelope "一个计划吗?我可能有个主意…但你得向我解释你是怎样解除洗脑的。"
 
 # game/finalroute.rpy#L1619
 translate chinese skipaltreemeeting_b4308091:
 
     # butters "That'll be [playername]'s magical cum! One womb full of that will almost instantly knock out the brainwashing."
-    butters "那都归功于 [playername]的魔法精液！一个满是这玩意的子宫将会打断洗脑的进程。"
+    butters "那都要归功于 [playername]的魔法精液呀！一个满是这玩意儿的子宫将会打断洗脑的进程哟。"
 
 # game/finalroute.rpy#L1621
 translate chinese skipaltreemeeting_42412fb1:
 
     # penelope "Well damn, I don't know what you did, but that's pretty convinient!"
-    penelope "Well damn, I don't know what you did, but that's pretty convinient!"
+    penelope "卧槽，虽然我不清楚你是怎么做到的，但这也太方便了吧!"
 
 # game/finalroute.rpy#L1622
 translate chinese skipaltreemeeting_e5cfc623:
@@ -4184,7 +4184,7 @@ translate chinese skipaltreemeeting_e5cfc623:
 translate chinese skipaltreemeeting_b18591dd:
 
     # penelope "There's absolutely no way we can fight three alicorn-power creatures at once. And even if we defeat Morrigan, unless we completely kill her, the brainwashing won't fade and the sisters will attack."
-    penelope "There's absolutely no way we can fight three alicorn-power creatures at once. And even if we defeat Morrigan, unless we completely kill her, the brainwashing won't fade and the sisters will attack."
+    penelope "我们绝对不可能同时对付三个拥有天角伟力的生物。即便我们打败了Morrigan，洗脑也不会消失。除非我们得顶着皇家姐妹的攻击，彻底杀了她。"
 
 # game/finalroute.rpy#L1627
 translate chinese skipaltreemeeting_dea7cbfd:
@@ -4196,13 +4196,13 @@ translate chinese skipaltreemeeting_dea7cbfd:
 translate chinese skipaltreemeeting_1bb818a8:
 
     # penelope "But I have an idea... I'm sorry to ask you of this, [playername], but you're the only person that can fool her."
-    penelope "但我有个主意…我很抱歉向你问这个，[playername]，但你是唯一能骗过她的人。"
+    penelope "但我有个主意…我很抱歉向你说起这个，[playername]，但你是唯一能骗过她的人。"
 
 # game/finalroute.rpy#L1630
 translate chinese skipaltreemeeting_fbbe2238:
 
     # mc "I'm listening..."
-    mc "我在听着呢..."
+    mc "我听着呢..."
 
 # game/finalroute.rpy#L1632
 translate chinese skipaltreemeeting_73ab7b03:
@@ -4214,19 +4214,19 @@ translate chinese skipaltreemeeting_73ab7b03:
 translate chinese skipaltreemeeting_bc53dfc8:
 
     # penelope "If you can convince her to let you sleep with the sisters, which should be pretty easy, you could cure their brainwashing and she’d no longer be able to use them as shields."
-    penelope "如果你能说服她让你和姐妹俩上床的话，这应该会很简单.. 你便可以治愈她们的洗脑，她就不能再用她们做盾牌了。"
+    penelope "如果你能说服她让你和姐妹俩上床的话，这应该会很简单.. 你便可以治愈她们的洗脑，她就不能再用她们做人质了。"
 
 # game/finalroute.rpy#L1634
 translate chinese skipaltreemeeting_e29365a1:
 
     # mc "Putting my dick to good use, I like it."
-    mc "把我的老二用在对的方面，我喜欢它。"
+    mc "能让我的老二物尽其用，这计划还不赖嘛。"
 
 # game/finalroute.rpy#L1636
 translate chinese skipaltreemeeting_47a9aa74:
 
     # penelope "And! While we're doing that, we can evacuate the castle. We'll have about fifteen minutes."
-    penelope "以及！当我们那么做的时候，我们便可以疏散城堡里的人。我们大约有15分钟时间。"
+    penelope "还有一点！与此同时，我们可以趁机疏散城堡里的人。我们大约有15分钟时间。"
 
 # game/finalroute.rpy#L1638
 translate chinese skipaltreemeeting_707073ac:
@@ -4238,25 +4238,25 @@ translate chinese skipaltreemeeting_707073ac:
 translate chinese skipaltreemeeting_17139547:
 
     # lily "As soon as the six of us have a clear shot of Morrigan, we can immediately burn her in one super-powerful blast. Well… Maybe not too powerful, I don’t want to hurt Moxie…"
-    lily "As soon as the six of us have a clear shot of Morrigan, we can immediately burn her in one super-powerful blast. Well… Maybe not too powerful, I don’t want to hurt Moxie…"
+    lily "只要我们六个一瞅见Morrigan，我们就能立刻用超级无敌大魔爆把她炸了。额…也许我们应该下手轻点，我可不想伤害到Moxie……"
 
 # game/finalroute.rpy#L1645
 translate chinese skipaltreemeeting_58dc7941:
 
     # honeycrisp "Don't hold back too much Lily, we gotta eradicate that bug."
-    honeycrisp "别跟她客气 Lily, 我们是来消灭那只臭虫的。"
+    honeycrisp "别跟她客气 Lily, 我们是去消灭那只臭虫的。"
 
 # game/finalroute.rpy#L1655
 translate chinese skipaltreemeeting_420b2649:
 
     # riku "Wait, am I hearing this right, [playername]’s job is to sleep with the Queen and Princess? Guess it’s not the first time, hah!"
-    riku "Wait, am I hearing this right, [playername]’s job is to sleep with the Queen and Princess? Guess it’s not the first time, hah!"
+    riku "等等，我没听错吧，[playername]的任务是和女王和公主干炮？看来这可不是第一次了呀，哈哈！"
 
 # game/finalroute.rpy#L1661
 translate chinese skipaltreemeeting_fa5e7e03:
 
     # butters "My my, I can’t believe [playername] managed to sleep with them both..."
-    butters "My my, I can’t believe [playername] managed to sleep with them both..."
+    butters "我的妈呀，我真不敢相信[playername]居然和她们两个都上了床…"
 
 # game/finalroute.rpy#L1665
 translate chinese skipaltreemeeting_cdf87640:
@@ -4268,7 +4268,7 @@ translate chinese skipaltreemeeting_cdf87640:
 translate chinese skipaltreemeeting_7c070845:
 
     # lily "Guh, y-you guys! Now is not the time for expository banter! Tease him after we save Arcadia!"
-    lily "Guh, y-you guys! Now is not the time for expository banter! Tease him after we save Arcadia!"
+    lily "噢，大伙儿！现在可不是开玩笑的时候！等到咱们拯救了Arcadia之后再来捉弄他好吗！"
 
 # game/finalroute.rpy#L1671
 translate chinese skipaltreemeeting_fa9eb764:
@@ -4286,7 +4286,7 @@ translate chinese skipaltreemeeting_72d7e11f:
 translate chinese skipaltreemeeting_ee1ad3c6:
 
     # mc "I see… Timing is crucial then; I have to cum in them both at once."
-    mc "我看见了… 因此，时机是至关重要的，我必须同时兼得两者。"
+    mc "我明白了… 因此，时机至关重要，我必须同时干翻皇家姐妹俩。"
 
 # game/finalroute.rpy#L1678
 translate chinese skipaltreemeeting_f27f538d:

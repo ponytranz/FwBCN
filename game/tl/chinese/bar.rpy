@@ -7118,19 +7118,19 @@ translate chinese rikumaidblowjob_a108ef6a:
 translate chinese rikumaidblowjob_bfc3df4d:
 
     # riku "Ugh… I’m sorry you two, I shouldn’t act so slutty…"
-    riku "Ugh… I’m sorry you two, I shouldn’t act so slutty…"
+    riku "额……我对不起你们俩，我不该这么放荡……"
 
 # game/bar.rpy#L1928
 translate chinese rikumaidblowjob_bdec0592:
 
     # riku "I guess I should leave? I feel like a bit of a homewrecker right now."
-    riku "I guess I should leave? I feel like a bit of a homewrecker right now."
+    riku "要不我先走了?我感觉我现在就像一颗电灯泡。"
 
 # game/bar.rpy#L1930
 translate chinese rikumaidblowjob_38c1fa49:
 
     # moxie "Sounds like we need to punish her, what do you think, [playername]?"
-    moxie "Sounds like we need to punish her, what do you think, [playername]?"
+    moxie "看来我们需要惩罚她，你意下如何，[playername]？"
 
 # game/bar.rpy#L1932
 translate chinese rikumaidblowjob_7cc2eb77:
@@ -7166,13 +7166,13 @@ translate chinese rikumaidblowjob_149fe21a:
 translate chinese rikumaidblowjob_d1b78b41:
 
     # riku "Don’t I get a say in this? W-Wait, I’ve been downgraded from a maid to a slave?"
-    riku "Don’t I get a say in this? W-Wait, I’ve been downgraded from a maid to a slave?"
+    riku "我在这是不是没有发言权?等等，我从女仆变成奴隶了？"
 
 # game/bar.rpy#L1941
 translate chinese rikumaidblowjob_4fca838f:
 
     # moxie "Come on you filthy slut, get on the bed."
-    moxie "Come on you filthy slut, get on the bed."
+    moxie "来啊，你这个小骚货，给我到床上去。"
 
 # game/bar.rpy#L1945
 translate chinese rikumaidblowjob_d6b01a18:

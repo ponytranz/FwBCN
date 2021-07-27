@@ -9338,7 +9338,7 @@ translate chinese lilylegsupmissionary_f5745d29:
 translate chinese lilylegsupmissionary_425936c5:
 
     # selene "Usually by securing and containing anomalies, in the case that they may be dangerous. Parallel universes can be oddly terrifying."
-    selene "通常是通过收客和控制异常现象，以防它们可能有危险。平行宇宙可是非常可怕的存在。"
+    selene "通常是通过收容和控制异常现象，以防止危险情况发生。平行宇宙可是非常可怕的存在。"
 
 # game/library.rpy#L2639
 translate chinese lilylegsupmissionary_3ca6180a:
@@ -9356,7 +9356,7 @@ translate chinese lilylegsupmissionary_675e6b77:
 translate chinese lilylegsupmissionary_a8dc9703:
 
     # selene "If you were dangerous I don’t think Aurora would have waited this long to send you to me. She’s been keeping an eye on you longer than she cares to admit."
-    selene "如果你是危险人物我想Aurora不会等这么久才把你送过来。她观察你的时间比她愿意承认的要长。"
+    selene "如果你是危险人物的话我想Aurora不会等这么久才把你送过来。其实她观察你的时间比她愿意承认的要长。"
 
 # game/library.rpy#L2645
 translate chinese lilylegsupmissionary_1a9d7e8d:
@@ -9416,13 +9416,13 @@ translate chinese libraryvisit3choice5_dbe6063b:
 translate chinese libraryvisit3choice5_bf62e743:
 
     # selene "Until eventually the host completely transforms into a plant."
-    selene "直到最终完全把宿主完全转化为植物。"
+    selene "直到最终完全把宿主转化为植物。"
 
 # game/library.rpy#L2666
 translate chinese libraryvisit3choice5_2f848f2f:
 
     # selene "Given its extremely high infection rate and nearly infinite lifespan as a plant, it'd eventually consume entire planets."
-    selene "还鉴于它极高的感染率和作为植物近乎无限的生命力，它最终可以吞噬整颗星球。"
+    selene "还鉴于它极高的感染率和作为植物近乎无限的生命力，到最后甚至可以吞噬整颗星球。"
 
 # game/library.rpy#L2667
 translate chinese libraryvisit3choice5_e50f9398:
@@ -9446,7 +9446,7 @@ translate chinese libraryvisit3choice5_3e4b7edd:
 translate chinese libraryvisit3choice5_8c672bbc:
 
     # selene "Me and my sister have exceptionally distinct roles to play in this universe."
-    selene "我和我姐姐在这个世界上扮演着截然不同的角色。"
+    selene "我和姐姐在这个世界上扮演着截然不同的角色。"
 
 # game/library.rpy#L2675
 translate chinese libraryvisit3choice5_0709f57e:
@@ -9482,7 +9482,7 @@ translate chinese libraryvisit3choice5_28e6f08f:
 translate chinese libraryvisit3choice5_d87310f3:
 
     # selene "She keeps track of anything new around Arcadia, she almost certainly noticed a strange creature pop up in her kingdom."
-    selene "她跟踪Arcadia周围的任何新事物，可以肯定她注意到Arcadia的王国中突然出现了一个奇怪的生物。"
+    selene "我姐姐一直关注在Arcadia出现的任何新事物，只到有一天她注意到在她的王国里突然出现了一个奇怪的生物。"
 
 # game/library.rpy#L2687
 translate chinese libraryvisit3choice5_fcd29c43:
