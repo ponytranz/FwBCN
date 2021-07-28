@@ -3674,7 +3674,7 @@ translate chinese cbakery_13932df0:
 translate chinese cbakery_89c220ef:
 
     # "The combined pleasure of our sex and my teasing makes Cream’s legs tremble with pleasure."
-    "做爱的快感再加上我对她的挑逗，让Cream的腿高兴得发抖。"
+    "做爱的快感再加上我对她的挑逗，让Cream的腿兴奋得发抖。"
 
 # game/finalroute.rpy#L1380
 translate chinese cbakery_9b3dd727:
@@ -3734,7 +3734,7 @@ translate chinese cbakery_7a8fc1b4:
 translate chinese cbakery_e13188b0:
 
     # cream "Oohhh?! Well that’s weird, it feels like I just spent this morning being brainwashed by Morrigan… Am I being delirious?"
-    cream "嗯，今天早上感觉真奇怪，就像我被Morrigan洗脑了一样…… 那个我问一下，我刚刚是神情怪异呀？"
+    cream "嗯，今天早上感觉真奇怪，就像被Morrigan洗脑了一样…… 那个我问一下，我刚刚是不是神情怪异呀？"
 
 # game/finalroute.rpy#L1402
 translate chinese cbakery_251736f2:
@@ -8078,25 +8078,25 @@ translate chinese badend_a20cefa7_1:
 translate chinese badend_c668ac42:
 
     # "And with that decision, Morrigan went on to rule Arcadia."
-    "And with that decision, Morrigan went on to rule Arcadia."
+    "我做出了那个决定，Morrigan便统治了Arcadia。"
 
 # game/finalroute.rpy#L3587
 translate chinese badend_dd6a8d0f:
 
     # "She absorbed every droplet of magical energy from both ex-Queen Aurora and ex-Princess Selene."
-    "She absorbed every droplet of magical energy from both ex-Queen Aurora and ex-Princess Selene."
+    "她吸干了前女皇Aurora与前公主Selene的每一丝魔法能量。"
 
 # game/finalroute.rpy#L3588
 translate chinese badend_33077a39:
 
     # "And she ruled with a mighty fist."
-    "And she ruled with a mighty fist."
+    "而她，以重拳统治。"
 
 # game/finalroute.rpy#L3591
 translate chinese badend_7b9c5bd6:
 
     # "The mares I had brainwashed were turned into breeding slaves, and constant breeding slowly transformed them into egg laying Morphlings"
-    "The mares I had brainwashed were turned into breeding slaves, and constant breeding slowly transformed them into egg laying Morphlings"
+    "我洗了脑的母马们变为了繁殖用的奴隶，而持久的繁殖最终令其变成了生蛋的幻型灵。"
 
 # game/finalroute.rpy#L3593
 translate chinese badend_4248ce1a:
@@ -8108,13 +8108,13 @@ translate chinese badend_4248ce1a:
 translate chinese badend_fe315212:
 
     # "And who was responsible for impregnating all these mares to strengthen the army?"
-    "And who was responsible for impregnating all these mares to strengthen the army?"
+    "猜猜看，透这些母马来强化幻型灵大军的家伙是谁？"
 
 # game/finalroute.rpy#L3596
 translate chinese badend_890db4ec:
 
     # "That was my job, I’d have sex with several of the mares per day, impregnating them through magic."
-    "That was my job, I’d have sex with several of the mares per day, impregnating them through magic."
+    "是我的活，每一天我都要和几匹母马做爱，用魔法上她们。"
 
 # game/finalroute.rpy#L3597
 translate chinese badend_32070e0d:

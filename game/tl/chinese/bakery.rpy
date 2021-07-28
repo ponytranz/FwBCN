@@ -3452,13 +3452,13 @@ translate chinese creamvmissionary_6eb48bbb:
 translate chinese creamvmissionary_72890639:
 
     # "She rides out both of our orgasms with glee before the climax fades and with that our energy."
-    "She rides out both of our orgasms with glee before the climax fades and with that our energy."
+    "她满足的感受着我们彼此的高潮，之后我们的激情也逐渐消退。"
 
 # game/bakery.rpy#L1114
 translate chinese creamvmissionary_e0b32a6e:
 
     # "Blossom finds herself snuggled against against my chest and we cuddle, still joined at the hips."
-    "Blossom finds herself snuggled against against my chest and we cuddle, still joined at the hips."
+    "Blossom 发现自己依偎在我的胸前，我们拥抱在一起，私处仍然相连。"
 
 # game/bakery.rpy#L1115
 translate chinese creamvmissionary_b6f33902:
@@ -3494,49 +3494,49 @@ translate chinese creamvmissionary_953f7b8a:
 translate chinese creamvmissionary_087cd77a:
 
     # ruby "I've been having a lot of naughty thoughts about you today [playername], look how wet you made me."
-    ruby "I've been having a lot of naughty thoughts about you today [playername], look how wet you made me."
+    ruby "我今天一直对你有很多有趣的想法[playername]，看看你让我湿成什么样了。"
 
 # game/bakery.rpy#L1126
 translate chinese creamvmissionary_16e99a4a:
 
     # ruby "A gentlemen needs to help a lady relieve some stress, how about it?"
-    ruby "A gentlemen needs to help a lady relieve some stress, how about it?"
+    ruby "一个绅士需要帮助女士缓解压力，这样如何？"
 
 # game/bakery.rpy#L1129
 translate chinese creamvmissionary_a502d133:
 
     # "As she sinks that tight pussy over my cock and begins to hump me it feels as good as I imagined."
-    "As she sinks that tight pussy over my cock and begins to hump me it feels as good as I imagined."
+    "当她把那紧致的阴户压在我的肉棒上并开始让我硬起来时，那感觉和想象中的一样爽。"
 
 # game/bakery.rpy#L1130
 translate chinese creamvmissionary_775859aa:
 
     # ruby "Mmmphhh, you feel so good inside me..."
-    ruby "Mmmphhh, you feel so good inside me..."
+    ruby "嗯嗯，你在我里面的感觉真好..."
 
 # game/bakery.rpy#L1131
 translate chinese creamvmissionary_7af434d3:
 
     # "She bites her lip, and starts to ride my cock up and down at a teasing yet pleasureful pace."
-    "She bites her lip, and starts to ride my cock up and down at a teasing yet pleasureful pace."
+    "她咬着嘴唇，开始以一种戏谑而又愉悦的速度上下扭动挤压着我的肉棒。"
 
 # game/bakery.rpy#L1132
 translate chinese creamvmissionary_9c2679b8:
 
     # ruby "Just sit back and relax dear, and try not to cum before me, hehe."
-    ruby "Just sit back and relax dear, and try not to cum before me, hehe."
+    ruby "坐下来放松一下亲爱的，尽量不要去的比我还快，嘿嘿。"
 
 # game/bakery.rpy#L1135
 translate chinese creamvmissionary_d1dcc70d:
 
     # "Her hips start to gain speed as she leans forward, and balances herself so she can put more oomph into the riding."
-    "Her hips start to gain speed as she leans forward, and balances herself so she can put more oomph into the riding."
+    "当她向前倾的同时开始加快她翘臀的速度，并保持身体平衡，这样她就可以将更多精力投入进与我的交媾中。"
 
 # game/bakery.rpy#L1140
 translate chinese creamvmissionary_28b6e727:
 
     # ruby "Mmphh, your cock is so thick inside me, I love fucking you darling."
-    ruby "Mmphh, your cock is so thick inside me, I love fucking you darling."
+    ruby "唔，你的肉棒在我的里面这么粗，我好爱和你做，亲爱的。"
 
 # game/bakery.rpy#L1141
 translate chinese creamvmissionary_f641160f:

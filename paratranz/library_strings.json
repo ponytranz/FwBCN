@@ -992,14 +992,14 @@
   {
     "id": 79443902,
     "createdAt": "2021-05-30T19:47:49.000Z",
-    "updatedAt": "2021-06-02T15:58:02.000Z",
+    "updatedAt": "2021-07-27T10:59:23.000Z",
     "key": "game/library.rpy_L2976_1",
     "original": "Ask her what kind of porn she likes",
-    "translation": "询问她喜欢哪类色情的事。",
+    "translation": "询问她喜欢哪类色情片的事。",
     "file": 272385,
     "stage": 1,
     "project": 2414,
-    "uid": null,
+    "uid": 22062,
     "extra": null,
     "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/library.rpy#L2976",
     "words": 8

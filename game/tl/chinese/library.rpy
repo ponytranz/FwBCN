@@ -9494,7 +9494,7 @@ translate chinese libraryvisit3choice5_fcd29c43:
 translate chinese libraryvisit3choice5_ff94777c:
 
     # "'Harmless and horny'… Right, she must have been the one that analysed me, not Lily."
-    "“无害又色气十足”…对，她一定是分析我的人，不是Lily。"
+    "“无害又色气十足”…对，就是她一直在分析我，不是Lily。"
 
 # game/library.rpy#L2689
 translate chinese libraryvisit3choice5_97e1c617:
@@ -9512,7 +9512,7 @@ translate chinese libraryvisit3choice5_da04f780:
 translate chinese libraryvisit3choice5_e99782db:
 
     # "Come to think of it, the mirrors in the portal room would show certain individuals if they were mentioned, was that a part of Aurora’s magic?"
-    "Come to think of it, the mirrors in the portal room would show certain individuals if they were mentioned, was that a part of Aurora’s magic?"
+    "仔细想想，如果是提到某些人的话，传送室的镜子同样可以显示出这些人的影像，这也是Aurora魔法的一部分吗？"
 
 # game/library.rpy#L2693
 translate chinese libraryvisit3choice5_2e1bad21:
@@ -9524,7 +9524,7 @@ translate chinese libraryvisit3choice5_2e1bad21:
 translate chinese libraryvisit3choice5_ed85b771:
 
     # moxie "It’s not scary at all, it’s a relief that both her and Selene are always protecting us."
-    moxie "It’s not scary at all, it’s a relief that both her and Selene are always protecting us."
+    moxie "这一点都不可怕，她和Selene一直在保护着我们，这让我们感到欣慰。"
 
 # game/library.rpy#L2696
 translate chinese libraryvisit3choice5_b9c58acf:
@@ -9542,7 +9542,7 @@ translate chinese libraryvisit3choice5_0b3db84e:
 translate chinese libraryvisit3choice5_b98cc80d:
 
     # selene "Of course. Moxie, you mentioned a 'Summon Familiar' spell, could you tell me which book that’s in? Seems like it may well be the late Midnight’s work."
-    selene "Of course. Moxie, you mentioned a 'Summon Familiar' spell, could you tell me which book that’s in? Seems like it may well be the late Midnight’s work."
+    selene "当然可以。Moxie，你之前提到了一个“召唤熟人”的咒语，你能告诉我那是出自哪本书吗?这看来很可能是午夜的工作。"
 
 # game/library.rpy#L2705
 translate chinese libraryvisit3choice5_6b7918c1:
@@ -9554,181 +9554,181 @@ translate chinese libraryvisit3choice5_6b7918c1:
 translate chinese libraryvisit3choice5_175620a9:
 
     # selene "Ohh, that’s a valuable one, I didn’t realize the suburbs library had a copy available to the public."
-    selene "Ohh, that’s a valuable one, I didn’t realize the suburbs library had a copy available to the public."
+    selene "哦，甚好，本宫没想到镇内图书馆也会有这本书的馆藏供庶民阅读呢。"
 
 # game/library.rpy#L2707
 translate chinese libraryvisit3choice5_646080a9:
 
     # "With great ease, Selene uses telekinesis to promptly whoosh a book between us."
-    "With great ease, Selene uses telekinesis to promptly whoosh a book between us."
+    "Selene轻轻松松地用心灵传动在我俩面前快速变出一本书来。"
 
 # game/library.rpy#L2708
 translate chinese libraryvisit3choice5_bdcd19f4:
 
     # "Not only was her telekinesis so quick it caused a slight gust, she had it opened precisely to the correct page."
-    "Not only was her telekinesis so quick it caused a slight gust, she had it opened precisely to the correct page."
+    "她快速的心灵传动不光掀起一阵微风，而且书还翻到了对的页面。"
 
 # game/library.rpy#L2710
 translate chinese libraryvisit3choice5_3717a407:
 
     # selene "’Bring forth that which I desire, summon familiar’"
-    selene "’Bring forth that which I desire, summon familiar’"
+    selene "“称我心意，召唤傀儡”"
 
 # game/library.rpy#L2712
 translate chinese libraryvisit3choice5_380c09ce:
 
     # selene "Bring forth that which I desire, hah, I got it. That ol’ girl and her indolently stuck together spells."
-    selene "Bring forth that which I desire, hah, I got it. That ol’ girl and her indolently stuck together spells."
+    selene "趁我心意，哈，本宫了然。定是那个老女孩把俩咒语混一起了。"
 
 # game/library.rpy#L2713
 translate chinese libraryvisit3choice5_aea3a5dd:
 
     # selene "Unfortunately old dusty spell tomes aren’t entirely accurate. New ones aren’t either for that matter."
-    selene "Unfortunately old dusty spell tomes aren’t entirely accurate. New ones aren’t either for that matter."
+    selene "不巧的是，这个老咒语不太精确。新的迭代法术也没达到应有的效果。"
 
 # game/library.rpy#L2714
 translate chinese libraryvisit3choice5_02bc2aca:
 
     # selene "The notes on this spell are more a suggestion than anything, the spell is a melange of a summoning spell and a desire satisfaction spell."
-    selene "The notes on this spell are more a suggestion than anything, the spell is a melange of a summoning spell and a desire satisfaction spell."
+    selene "这条法术的注释也是建议向的，算是一个召唤术+欲望满足术的混合法术。"
 
 # game/library.rpy#L2715
 translate chinese libraryvisit3choice5_1e916eed:
 
     # selene "These two mixed together would ideally result in the summoning of a something that meets your desires"
-    selene "These two mixed together would ideally result in the summoning of a something that meets your desires"
+    selene "在最理想的情况下，这个混合法术可以召唤出满足你心愿的东西。"
 
 # game/library.rpy#L2716
 translate chinese libraryvisit3choice5_2a3c9322:
 
     # mc "That explains why Penelope’s familiar was female..."
-    mc "That explains why Penelope’s familiar was female..."
+    mc "Penelope的傀儡是个女性就是这个原因对吧......"
 
 # game/library.rpy#L2718
 translate chinese libraryvisit3choice5_7009e3f7:
 
     # moxie "Wait, so… I wanted [playername], and summoned him as my familiar? That doesn’t explain how he can talk and think."
-    moxie "Wait, so… I wanted [playername], and summoned him as my familiar? That doesn’t explain how he can talk and think."
+    moxie "等下，就是说...我想要的就是[playername]，把他当作傀儡召唤出来了？这个解释不了他怎么能说话和思考。"
 
 # game/library.rpy#L2720
 translate chinese libraryvisit3choice5_ed1550af:
 
     # selene "Spells like this are rarely as simple as those spell books make them seem, they’re often multi-layered. I’m certain you know that even slight changes of dialect and magical intensity can change the outcome of the spell."
-    selene "Spells like this are rarely as simple as those spell books make them seem, they’re often multi-layered. I’m certain you know that even slight changes of dialect and magical intensity can change the outcome of the spell."
+    selene "真正的法术可不止法术书上写得那么简单，而是非常多元深层化的。你也明白，就算施咒咒语的微小差异，魔法强度的不同也会导致法术结果不同。"
 
 # game/library.rpy#L2721
 translate chinese libraryvisit3choice5_5a2a0857:
 
     # selene "As a result, spells are both magical and psychological."
-    selene "As a result, spells are both magical and psychological."
+    selene "所以呢，施法不仅靠魔力，还得靠心术。"
 
 # game/library.rpy#L2722
 translate chinese libraryvisit3choice5_dc9d06bf:
 
     # selene "This ‘summon familiar’ spell is more accurately a ‘bring an object of which I desire to me spell’."
-    selene "This ‘summon familiar’ spell is more accurately a ‘bring an object of which I desire to me spell’."
+    selene "这个“召唤傀儡”法术更像是个“召唤一个我想要的东西”的法术。"
 
 # game/library.rpy#L2724
 translate chinese libraryvisit3choice5_f2b8b907:
 
     # moxie "Oh, so it works on other things too?"
-    moxie "Oh, so it works on other things too?"
+    moxie "那么，“东西”二字涵盖的范围可就广了？"
 
 # game/library.rpy#L2726
 translate chinese libraryvisit3choice5_bddb2d14:
 
     # selene "Yes Moxie, if you were to just cast this nonchalantly while you were hungry, maybe it’d give you some food."
-    selene "Yes Moxie, if you were to just cast this nonchalantly while you were hungry, maybe it’d give you some food."
+    selene "没错Moxie，如果你的腹中空空如也施放这个咒语，说不定会变出点吃的呢。"
 
 # game/library.rpy#L2728
 translate chinese libraryvisit3choice5_d1fd7f24:
 
     # selene "However if you were to read the book, you’re told that this spell specifically creates a familiar, your psychological state will affect the result of your magic."
-    selene "However if you were to read the book, you’re told that this spell specifically creates a familiar, your psychological state will affect the result of your magic."
+    selene "不过呢，如果你先读这本书，就会被先入为主地植入这个法术能创造一个傀儡的想法，你心中所想自然会对结果造成影响。"
 
 # game/library.rpy#L2729
 translate chinese libraryvisit3choice5_3e862170:
 
     # "This is the same stuff Lily is researching! Finally, something I know a little about."
-    "This is the same stuff Lily is researching! Finally, something I know a little about."
+    "Lily也在研究这方面的东西！她们说的话我总算有能听懂的了。"
 
 # game/library.rpy#L2730
 translate chinese libraryvisit3choice5_049ef790:
 
     # mc "So just because you think it happens, it does?"
-    mc "So just because you think it happens, it does?"
+    mc "这法术能心想事成，是这意思吗？"
 
 # game/library.rpy#L2732
 translate chinese libraryvisit3choice5_832d7993:
 
     # moxie "That's how all magic works, you need to think about something specific to get the desired result."
-    moxie "That's how all magic works, you need to think about something specific to get the desired result."
+    moxie "魔法就是这么运作的，心有所想，才能有结果。"
 
 # game/library.rpy#L2734
 translate chinese libraryvisit3choice5_92de591e:
 
     # moxie "But that’s only the psychological aspect, what about the magical aspect? Ponies can only do so much with magic."
-    moxie "But that’s only the psychological aspect, what about the magical aspect? Ponies can only do so much with magic."
+    moxie "不过这只是心术方面的，那魔力方面的因素呢？小马们用魔法也只能做到这些了。"
 
 # game/library.rpy#L2736
 translate chinese libraryvisit3choice5_38894cbd:
 
     # selene "I’m glad you’re following; with these psychological parameters most unicorns will cast the 'summon familiar' spell, and the limits of their magic will conjure up a blank, brainless familiar."
-    selene "I’m glad you’re following; with these psychological parameters most unicorns will cast the 'summon familiar' spell, and the limits of their magic will conjure up a blank, brainless familiar."
+    selene "听课又聪明的学生本宫喜欢；心里一旦有了具体所想，大部分独角兽都能施展“召唤傀儡”魔法，出于法力限制，它们只能召唤出没有思想的傀儡。"
 
 # game/library.rpy#L2738
 translate chinese libraryvisit3choice5_5168771f:
 
     # selene "This isn’t necessarily what they desire most. But it’s a product of their imagination as much as their magical power will allow."
-    selene "This isn’t necessarily what they desire most. But it’s a product of their imagination as much as their magical power will allow."
+    selene "变出的东西并非完全符合心中所想，但是相似程度会跟法力强度挂钩。"
 
 # game/library.rpy#L2739
 translate chinese libraryvisit3choice5_895a4f94:
 
     # selene "But… What if you took away that magical limit and cast the ‘bring an object of which I desire to me’ spell."
-    selene "But… What if you took away that magical limit and cast the ‘bring an object of which I desire to me’ spell."
+    selene "但...如果排除法力强度限制的因素施展“召唤一个我想要的东西”魔法，情况可就不一样了。"
 
 # game/library.rpy#L2740
 translate chinese libraryvisit3choice5_5461e1ed:
 
     # moxie "Without a limit, would the spell aggressively pull any object you desired?"
-    moxie "Without a limit, would the spell aggressively pull any object you desired?"
+    moxie "没有法术强度限制，这个魔法就能变出完全符合你心中所想的东西对吧？"
 
 # game/library.rpy#L2741
 translate chinese libraryvisit3choice5_6d564bfb:
 
     # selene "Yup."
-    selene "Yup."
+    selene "正是。"
 
 # game/library.rpy#L2743
 translate chinese libraryvisit3choice5_285b8a07:
 
     # moxie "Then… [playername] was my object?"
-    moxie "Then… [playername] was my object?"
+    moxie "也就是说...[playername]是我心中所想的“东西”？"
 
 # game/library.rpy#L2745
 translate chinese libraryvisit3choice5_2da45c56:
 
     # selene "Mhm, I remember the evening you cast your spell, I could feel that energy."
-    selene "Mhm, I remember the evening you cast your spell, I could feel that energy."
+    selene "嗯，本宫记得你施法的那个晚上，有强大的魔力波动。"
 
 # game/library.rpy#L2747
 translate chinese libraryvisit3choice5_0f53e312:
 
     # moxie "I didn't know I had that kind of magic input within me... That explains why I was so tired that evening..."
-    moxie "I didn't know I had that kind of magic input within me... That explains why I was so tired that evening..."
+    moxie "原来我体内蕴含着如此强大的魔力...怪不得那晚施法后累坏了......"
 
 # game/library.rpy#L2748
 translate chinese libraryvisit3choice5_c9c893d9:
 
     # mc "We did end up going to sleep around 10:30pm."
-    mc "We did end up going to sleep around 10:30pm."
+    mc "我们最后是晚上10：30分入的睡。"
 
 # game/library.rpy#L2750
 translate chinese libraryvisit3choice5_b631c23e:
 
     # moxie "Heh yeah, then we slept for about 14 hours. Even though I was the only one that was tired, I don’t know why you were in there so long."
-    moxie "Heh yeah, then we slept for about 14 hours. Even though I was the only one that was tired, I don’t know why you were in there so long."
+    moxie "对的，我们睡了有大概14个小时。讲道理，累虚脱的应该只有我才对吖，你怎么也睡那么久。"
 
 # game/library.rpy#L2751
 translate chinese libraryvisit3choice5_f55aa335:
@@ -9740,85 +9740,85 @@ translate chinese libraryvisit3choice5_f55aa335:
 translate chinese libraryvisit3choice5_d5d34fc5:
 
     # moxie "Still… I don’t understand why [playername] is from a different universe?"
-    moxie "Still… I don’t understand why [playername] is from a different universe?"
+    moxie "不过...我还是搞不明白，为什么[playername]是从其他宇宙来的？"
 
 # game/library.rpy#L2755
 translate chinese libraryvisit3choice5_40c2b533:
 
     # selene "That's because this is a specific universe where [playername] doesn't exist, therefore your spell couldn't find a [playername] in this universe."
-    selene "That's because this is a specific universe where [playername] doesn't exist, therefore your spell couldn't find a [playername] in this universe."
+    selene "因为在我们的宇宙中符合你所想的[playername]并不存在，法术没办法在这个宇宙中给你找到[playername]。"
 
 # game/library.rpy#L2756
 translate chinese libraryvisit3choice5_812d513e:
 
     # selene "So your spell tore a boundary into the closest universe it could, and pulled [playername]."
-    selene "So your spell tore a boundary into the closest universe it could, and pulled [playername]."
+    selene "所以你的法术只好打破了最近一个宇宙的次元壁，把里面的[playername]拉了进来。"
 
 # game/library.rpy#L2758
 translate chinese libraryvisit3choice5_cc7fed95:
 
     # moxie "But… That’s absurd, I’m just a regular unicorn."
-    moxie "But… That’s absurd, I’m just a regular unicorn."
+    moxie "可...这也太离谱了，我不过是只普通的独角兽而已，怎么会有这么强大的魔力。"
 
 # game/library.rpy#L2759
 translate chinese libraryvisit3choice5_0e7f56e2:
 
     # selene "It seems that there’s more to you than meets the eye, Moxie."
-    selene "It seems that there’s more to you than meets the eye, Moxie."
+    selene "看来你身上的潜力无穷，只是你尚未发觉，Moxie。"
 
 # game/library.rpy#L2761
 translate chinese libraryvisit3choice5_46c925dd:
 
     # moxie "How did I do that… A-And why [playername]? I adore him, but I didn’t even know he existed."
-    moxie "How did I do that… A-And why [playername]? I adore him, but I didn’t even know he existed."
+    moxie "我到底是怎么做到的呢...还，还有[playername]？我确实很喜欢他，可在遇到他之前我完全不知晓他的存在啊。"
 
 # game/library.rpy#L2763
 translate chinese libraryvisit3choice5_cfdf8796:
 
     # selene "Spells are ignorant to the whims of ponies and humans, they’re objective."
-    selene "Spells are ignorant to the whims of ponies and humans, they’re objective."
+    selene "魔法始终是客观存在的，并不特定地作用于小马或者人类。"
 
 # game/library.rpy#L2765
 translate chinese libraryvisit3choice5_b31d2d3d:
 
     # selene "It doesn’t matter if you know he exists or not, what matters is that you asked for what you desired most, and the spell brought the thing you desired most at that time."
-    selene "It doesn’t matter if you know he exists or not, what matters is that you asked for what you desired most, and the spell brought the thing you desired most at that time."
+    selene "你知不知道他无关紧要，最关键的是你心中所想，魔法只是为你带来了最符合你心中所想的人而已。"
 
 # game/library.rpy#L2766
 translate chinese libraryvisit3choice5_f1c90240:
 
     # selene "You two had such a strong bond at that time in other universes that the spell persisted."
-    selene "You two had such a strong bond at that time in other universes that the spell persisted."
+    selene "你们两个之间无形的纽带异常牢固，强度能跨宇宙。"
 
 # game/library.rpy#L2768
 translate chinese libraryvisit3choice5_5ebfa0a0:
 
     # moxie "Well... That makes sense, when I was casting the spell I was thinking a lot about a boyfriend..."
-    moxie "Well... That makes sense, when I was casting the spell I was thinking a lot about a boyfriend..."
+    moxie "啊这...我懂了，我施咒的时候想要的其实是个男朋友......"
 
 # game/library.rpy#L2770
 translate chinese libraryvisit3choice5_3b0b7b03:
 
     # "Selene looks at me expectantly. She’s smart, she knows I would have some extra information that could add to the discussion."
-    "Selene looks at me expectantly. She’s smart, she knows I would have some extra information that could add to the discussion."
+    "Selene向我投来期待的目光。她真是秀外慧中，知道我身上肯定还有更多信息可以丰富目前的谈话。"
 
 # game/library.rpy#L2771
 translate chinese libraryvisit3choice5_eae991ac:
 
     # "If there’s anything I’ve learnt from this, it’s that Moxie probably loves me. Although in retrospect she was bad at hiding it."
-    "If there’s anything I’ve learnt from this, it’s that Moxie probably loves me. Although in retrospect she was bad at hiding it."
+    "目前我了解到的事情就是，Moxie可能深爱着我。想在回想起来，她的很多举动都透露着对我的爱意。"
 
 # game/library.rpy#L2772
 translate chinese libraryvisit3choice5_74c33625:
 
     # "Was she was only letting me sleep with others to keep herself detached and distant?"
-    "Was she was only letting me sleep with others to keep herself detached and distant?"
+    "她只是让我和其他马上床，然后疏远她吗？"
 
 # game/library.rpy#L2773
 translate chinese libraryvisit3choice5_f0dac055:
 
     # mc "Uhm, I met a human Moxie the day you cast that spell."
-    mc "Uhm, I met a human Moxie the day you cast that spell."
+    mc "呃，在你施咒的当天白天，我遇到过人类Moxie。"
 
 # game/library.rpy#L2775
 translate chinese libraryvisit3choice5_43ffa6a0:
@@ -9830,37 +9830,37 @@ translate chinese libraryvisit3choice5_43ffa6a0:
 translate chinese libraryvisit3choice5_daf00515:
 
     # mc "Well, you don't share many similarities other than your name. She doesn't have a mane, blue hair, or purple eyes. She was just a regular human with brown hair."
-    mc "Well, you don't share many similarities other than your name. She doesn't have a mane, blue hair, or purple eyes. She was just a regular human with brown hair."
+    mc "嘛，你们两个除了名字外没有多少相似之处。她没有鬃毛，没有蓝头发，也没有你的紫瞳。她就是个很普通的棕发人类。"
 
 # game/library.rpy#L2777
 translate chinese libraryvisit3choice5_79879471:
 
     # mc "It was only a first date, it was such an insignificant moment that I wrote it off as a coincidence that you shared a name, but..."
-    mc "It was only a first date, it was such an insignificant moment that I wrote it off as a coincidence that you shared a name, but..."
+    mc "我只跟她约过一次会，不过是我人生中的一个小过场，所以我忘了你和她重名这个巧合，但是......"
 
 # game/library.rpy#L2780
 translate chinese libraryvisit3choice5_ca31603a:
 
     # selene "If I were a betting mare, I'd say if [playername] existed within this universe, you would have met him on that day."
-    selene "If I were a betting mare, I'd say if [playername] existed within this universe, you would have met him on that day."
+    selene "如果本宫有赌的嗜好，本宫会说[playername]在这个宇宙中存在，你可能还遇到过这个宇宙的[playername]。"
 
 # game/library.rpy#L2782
 translate chinese libraryvisit3choice5_be243ef4:
 
     # moxie "Oohh... So me and him met in all these different universes."
-    moxie "Oohh... So me and him met in all these different universes."
+    moxie "哦...所以我跟他在不同的宇宙里都打过照面。"
 
 # game/library.rpy#L2784
 translate chinese libraryvisit3choice5_f9ba40a7:
 
     # moxie "And the spell I cast probably realized that?"
-    moxie "And the spell I cast probably realized that?"
+    moxie "而我施放的魔法是根据这个运作的？"
 
 # game/library.rpy#L2786
 translate chinese libraryvisit3choice5_d5cab150:
 
     # selene "Yeah, in a sense your spell recognized that the Moxies in all the other universes desired [playername], and as a result it attempted to correct the difference between this universe and those by bringing you your own [playername]."
-    selene "Yeah, in a sense your spell recognized that the Moxies in all the other universes desired [playername], and as a result it attempted to correct the difference between this universe and those by bringing you your own [playername]."
+    selene "不错，某种意义上，你施放的法术意识到其他所有宇宙中的Moxie们都想要[playername]，结果就是魔法把其他宇宙的[playername]给你传送到我们的宇宙里来修正差异。"
 
 # game/library.rpy#L2788
 translate chinese libraryvisit3choice5_16d40dac:
@@ -9872,7 +9872,7 @@ translate chinese libraryvisit3choice5_16d40dac:
 translate chinese libraryvisit3choice5_7ee42624:
 
     # moxie "I'm really sorry [playername], I guess I just really aggressively liked you."
-    moxie "I'm really sorry [playername], I guess I just really aggressively liked you."
+    moxie "我很抱歉[playername]，我应该是太喜欢你了。"
 
 # game/library.rpy#L2791
 translate chinese libraryvisit3choice5_10a5a780:
@@ -9884,91 +9884,91 @@ translate chinese libraryvisit3choice5_10a5a780:
 translate chinese libraryvisit3choice5_f09fc0ee:
 
     # mc "Imagine loving someone so much you pull your perfect match from another universe."
-    mc "Imagine loving someone so much you pull your perfect match from another universe."
+    mc "爱一个人或者马爱到深沉，魔法从另外一个宇宙给你逮过来一个符合你条件的，我都不敢想。"
 
 # game/library.rpy#L2794
 translate chinese libraryvisit3choice5_91a6c4ce:
 
     # moxie "Heheh, I still can't believe I did that... Gosh... Am I dangerous? What if I accidentally pull another [playername], or worse?"
-    moxie "Heheh, I still can't believe I did that... Gosh... Am I dangerous? What if I accidentally pull another [playername], or worse?"
+    moxie "嘿嘿嘿，我也不敢相信我做到了...天啊...我是不是成了什么危险的马儿啊？要是我不小心又拉进来一个其他宇宙的[playername]或其他的东西怎么办？"
 
 # game/library.rpy#L2795
 translate chinese libraryvisit3choice5_9bb7d3fe:
 
     # selene "Naturally I'd like to offer my hand to you Moxie, I am extremely interested in your unique magical abilities."
-    selene "Naturally I'd like to offer my hand to you Moxie, I am extremely interested in your unique magical abilities."
+    selene "这个时候就该本宫对你施以援手了Moxie，本宫对你独一无二的魔法能力十分感兴趣。"
 
 # game/library.rpy#L2796
 translate chinese libraryvisit3choice5_b25d1fb5:
 
     # selene "You seem to have a rare affinity for space time magic, I’d like to find out more."
-    selene "You seem to have a rare affinity for space time magic, I’d like to find out more."
+    selene "你对宇宙时间魔法有一种罕见的亲和力，本宫想弄明白其中的秘辛。"
 
 # game/library.rpy#L2797
 translate chinese libraryvisit3choice5_fe3ebeaf:
 
     # selene "Usually only my family members can cast interuniversal magic. You will have to come and see me again, so I can teach you how to control your powers."
-    selene "Usually only my family members can cast interuniversal magic. You will have to come and see me again, so I can teach you how to control your powers."
+    selene "这种跨宇宙的魔法通常只有本宫家族的马才能施放出来。你记得再来寻本宫，本宫会教你如何控制自己的力量。"
 
 # game/library.rpy#L2799
 translate chinese libraryvisit3choice5_90e59841:
 
     # moxie "Really? I’d love to, your majesty!"
-    moxie "Really? I’d love to, your majesty!"
+    moxie "真的？荣幸之至，殿下！"
 
 # game/library.rpy#L2801
 translate chinese libraryvisit3choice5_897cdf89:
 
     # "Moxie cries tears of joy as the two plan to meet once again."
-    "Moxie cries tears of joy as the two plan to meet once again."
+    "Selene的邀请让Moxie流下了激动的泪水。"
 
 # game/library.rpy#L2802
 translate chinese libraryvisit3choice5_0d40f907:
 
     # "Selene even teases the idea of Moxie becoming her student if she works hard enough, Moxie remains unflinchingly courageous and excited."
-    "Selene even teases the idea of Moxie becoming her student if she works hard enough, Moxie remains unflinchingly courageous and excited."
+    "就算Moxie足够努力，Selene对收Moxie作学生还是觉得有些好笑，不过Moxie仍然表现得非常激动和果敢。"
 
 # game/library.rpy#L2803
 translate chinese libraryvisit3choice5_82cd2bd9:
 
     # "Moxie’s enthusiasm greatly pleases Selene. It's such a wholesome display, I can't help but smile."
-    "Moxie’s enthusiasm greatly pleases Selene. It's such a wholesome display, I can't help but smile."
+    "Moxie的振奋传染到Selene身上。我也不例外，脸上浮现着笑容。"
 
 # game/library.rpy#L2806
 translate chinese libraryvisit3choice5_ce617998:
 
     # "…"
-    "，，，"
+    "..."
 
 # game/library.rpy#L2808
 translate chinese libraryvisit3choice5_a608105a:
 
     # "The two of us leave Selene to her daytime beauty sleep and it’s clear Moxie’s mind is racing."
-    "The two of us leave Selene to her daytime beauty sleep and it’s clear Moxie’s mind is racing."
+    "我们两个随后离开了，Selene白天得睡美容觉，Moxie显然卷入了头脑风暴。"
 
 # game/library.rpy#L2811
 translate chinese libraryvisit3choice5_f52aefa1:
 
     # moxie "Ohhh, this is why I’m so good at the invisibility spell!"
-    moxie "Ohhh, this is why I’m so good at the invisibility spell!"
+    moxie "嗷嗷~怪说不得人家隐身术这么好！"
 
 # game/library.rpy#L2812
 translate chinese libraryvisit3choice5_e357c961:
 
     # mc "I’m still wondering just how powerful you have to be to be a universal level kidnapper."
-    mc "I’m still wondering just how powerful you have to be to be a universal level kidnapper."
+    mc "我倒是在寻思你什么时候能成为一个能跨宇宙级别的人贩子。"
 
 # game/library.rpy#L2814
 translate chinese libraryvisit3choice5_ced8f5aa:
 
     # moxie "It’s okay, from now on, I’ll use these powers for good, hehe."
-    moxie "It’s okay, from now on, I’ll use these powers for good, hehe."
+    moxie "不会的啦，从今以后，我的力量只会用在正道上，嘿嘿。"
 
 # game/library.rpy#L2816
 translate chinese libraryvisit3choice5_f7542d75:
 
     # moxie "I want nothing more than to understand what’s so special about me, I’m so excited."
-    moxie "I want nothing more than to understand what’s so special about me, I’m so excited."
+    moxie "我想要的只是了解我为什么如此特别而已，现在真是好兴奋啊。"
 
 # game/library.rpy#L2818
 translate chinese libraryvisit3choice5_a20cefa7:
@@ -9980,19 +9980,19 @@ translate chinese libraryvisit3choice5_a20cefa7:
 translate chinese libraryvisit3choice5_1815b405:
 
     # "The two of us soon meet up with Lily again and we return to the Arcadian suburbs, the three of us slightly livelier than we were on the way here."
-    "The two of us soon meet up with Lily again and we return to the Arcadian suburbs, the three of us slightly livelier than we were on the way here."
+    "我们不一会又和Lily碰上了头，踏上了返回Arcadia镇区的路，路上的氛围比来时活泼不少。"
 
 # game/library.rpy#L2832
 translate chinese libraryvisit3choice5_c77d4a0d:
 
     # mc "Yeah, so it really was another universe."
-    mc "Yeah, so it really was another universe."
+    mc "好吧，看来真是另外一个宇宙。"
 
 # game/library.rpy#L2834
 translate chinese libraryvisit3choice5_4fe32e61:
 
     # lily "That’s… Uh, what do I even say to that? The logical part of my brain is screaming."
-    lily "That’s… Uh, what do I even say to that? The logical part of my brain is screaming."
+    lily "那个...呃，我还能说什么呢？我大脑里的逻辑部分已经混乱了。"
 
 # game/library.rpy#L2835
 translate chinese libraryvisit3choice5_52ffab47:
@@ -10004,385 +10004,385 @@ translate chinese libraryvisit3choice5_52ffab47:
 translate chinese libraryvisit3choice5_e5802d35:
 
     # lily "I’m intrigued now, I want to see what these other universes are like."
-    lily "I’m intrigued now, I want to see what these other universes are like."
+    lily "我只是好奇，其他宇宙是什么样子的。"
 
 # game/library.rpy#L2839
 translate chinese libraryvisit3choice5_815ceb85:
 
     # moxie "Selene said she wants to see me again, she thinks I have a ton of potential, maybe I’ll even become her student."
-    moxie "Selene said she wants to see me again, she thinks I have a ton of potential, maybe I’ll even become her student."
+    moxie "Selene还邀我再见一面，她觉得我天赋异禀，或许我能做她的学生呢。"
 
 # game/library.rpy#L2842
 translate chinese libraryvisit3choice5_1e41545b:
 
     # lily "Pfft, unbelievable, I’ve worked so hard to be the Queen’s student!"
-    lily "Pfft, unbelievable, I’ve worked so hard to be the Queen’s student!"
+    lily "切，不敢相信，我做女王学生可花了不少功夫呢！"
 
 # game/library.rpy#L2844
 translate chinese libraryvisit3choice5_7661481e:
 
     # lily "Don't think dumb deus ex magical powers can just skip all that challenging work."
-    lily "Don't think dumb deus ex magical powers can just skip all that challenging work."
+    lily "别觉得天赋能凌驾于勤劳之上。"
 
 # game/library.rpy#L2846
 translate chinese libraryvisit3choice5_64231b12:
 
     # lily "I don’t believe it, must be a fluke, some kind of cosmic anomaly."
-    lily "I don’t believe it, must be a fluke, some kind of cosmic anomaly."
+    lily "我不信，肯定是侥幸，哪里出了差错。"
 
 # game/library.rpy#L2847
 translate chinese libraryvisit3choice5_6d5489e0:
 
     # mc "Lily you went from trying to be as rational and logical as possible, and now you’re deducing it to a fluke?"
-    mc "Lily you went from trying to be as rational and logical as possible, and now you’re deducing it to a fluke?"
+    mc "Lily，你一直都以理性和逻辑著称，怎么会觉得这是侥幸呢？"
 
 # game/library.rpy#L2850
 translate chinese libraryvisit3choice5_088ad108:
 
     # moxie "Hmph, I don’t appreciate being undermined. I’ve been an avid fan and reader of Selene’s work since I was a filly."
-    moxie "Hmph, I don’t appreciate being undermined. I’ve been an avid fan and reader of Selene’s work since I was a filly."
+    moxie "哼，我可不喜欢被冤枉。我小时候就是Selene作品的忠实拥趸。"
 
 # game/library.rpy#L2851
 translate chinese libraryvisit3choice5_4fee08a9:
 
     # moxie "Anyway, the only reason you got the opportunity to be the Queen’s student is because your brother is head of the royal guard, and you have connections."
-    moxie "Anyway, the only reason you got the opportunity to be the Queen’s student is because your brother is head of the royal guard, and you have connections."
+    moxie "你能做公主的学生还不是因为你哥哥是皇家护卫的队长，攀亲戚走后门。"
 
 # game/library.rpy#L2852
 translate chinese libraryvisit3choice5_d5faed50:
 
     # mc "Really? Damn I didn’t know that."
-    mc "Really? Damn I didn’t know that."
+    mc "当真？卧槽，这我还不知道呢。"
 
 # game/library.rpy#L2855
 translate chinese libraryvisit3choice5_7377b97e:
 
     # lily "Tch, how did you- ah, Penelope told you..."
-    lily "Tch, how did you- ah, Penelope told you..."
+    lily "切，你从哪里听-啊，Penelope跟你讲的吧......"
 
 # game/library.rpy#L2856
 translate chinese libraryvisit3choice5_9a997664:
 
     # lily "Y-You b-b-b..."
-    lily "Y-You b-b-b..."
+    lily "你，你个贱，贱......"
 
 # game/library.rpy#L2857
 translate chinese libraryvisit3choice5_26b3a37e:
 
     # "I take the opportunity to poke Lily and she gets the hint."
-    "I take the opportunity to poke Lily and she gets the hint."
+    "我找机会用胳膊肘捅了下Lily，她随即会意。"
 
 # game/library.rpy#L2861
 translate chinese libraryvisit3choice5_733d906d:
 
     # lily "Fine… I’m being unfair; I’ll give you that."
-    lily "Fine… I’m being unfair; I’ll give you that."
+    lily "好吧...是我咄咄逼人了；你确实很有天赋。"
 
 # game/library.rpy#L2863
 translate chinese libraryvisit3choice5_b401bff7:
 
     # lily "Honestly? You’ve done well."
-    lily "Honestly? You’ve done well."
+    lily "我的真心话是？你做得很棒。"
 
 # game/library.rpy#L2865
 translate chinese libraryvisit3choice5_49360e35:
 
     # lily "You've come a long way since the ursa incident."
-    lily "You've come a long way since the ursa incident."
+    lily "自从大熊事件后，你成长了很多，士别三日当刮目相看。"
 
 # game/library.rpy#L2866
 translate chinese libraryvisit3choice5_a0f0effd:
 
     # lily "And being recognized by Selene is no light achievement."
-    lily "And being recognized by Selene is no light achievement."
+    lily "为Selene殿下所赏识绝非易事。"
 
 # game/library.rpy#L2868
 translate chinese libraryvisit3choice5_0a7be91a:
 
     # moxie "You mean it?"
-    moxie "You mean it?"
+    moxie "这都是你掏心窝子的话？"
 
 # game/library.rpy#L2871
 translate chinese libraryvisit3choice5_c6793200:
 
     # lily "Yeah, clearly you’re doing something right. I don’t really care if it’s just some born talent or arduous work, I’ll support a fellow student."
-    lily "Yeah, clearly you’re doing something right. I don’t really care if it’s just some born talent or arduous work, I’ll support a fellow student."
+    lily "嗯哼，你显然某些地方异于常马。你的天赋或者后天努力对我来说不重要，我只会对一位新进的学生伸出援手。"
 
 # game/library.rpy#L2873
 translate chinese libraryvisit3choice5_a255a169:
 
     # lily "Because I’m a superior with more experience, so you’ll need my guidance."
-    lily "Because I’m a superior with more experience, so you’ll need my guidance."
+    lily "毕竟我做学生也有些时日了，能教你一些东西。"
 
 # game/library.rpy#L2875
 translate chinese libraryvisit3choice5_18f0849c:
 
     # moxie "That sounds great Lily but… If it’s okay, maybe we could just be friends?"
-    moxie "That sounds great Lily but… If it’s okay, maybe we could just be friends?"
+    moxie "谢谢好意Lily，不过...如果可能的话，我们只做朋友好吗？"
 
 # game/library.rpy#L2877
 translate chinese libraryvisit3choice5_ff0d46fb:
 
     # lily "Friends..?"
-    lily "Friends..?"
+    lily "做朋友..？"
 
 # game/library.rpy#L2881
 translate chinese libraryvisit3choice5_432ab41a:
 
     # lily "Yeah, a friend sounds great."
-    lily "Yeah, a friend sounds great."
+    lily "好呀，做朋友挺好的。"
 
 # game/library.rpy#L2882
 translate chinese libraryvisit3choice5_70090dcd:
 
     # "I'm sure they'll figure out their differences, in time..."
-    "I'm sure they'll figure out their differences, in time..."
+    "我肯定她们会及时发现彼此的不同之处的。"
 
 # game/library.rpy#L2887
 translate chinese libraryvisit3choice5_ce617998_1:
 
     # "…"
-    "…"
+    "..."
 
 # game/library.rpy#L2891
 translate chinese libraryvisit3choice5_5715c24c:
 
     # "Moxie and I return to the wagon, rather exhausted we collapse onto the sofa."
-    "Moxie and I return to the wagon, rather exhausted we collapse onto the sofa."
+    "我和Moxie回到了篷车，筋疲力竭地倒在沙发上。"
 
 # game/library.rpy#L2892
 translate chinese libraryvisit3choice5_a466309e:
 
     # "There isn’t much more than needs to be said after a day like today."
-    "There isn’t much more than needs to be said after a day like today."
+    "今日之事繁多，无需多言。"
 
 # game/library.rpy#L2894
 translate chinese libraryvisit3choice5_3d901689:
 
     # moxie "I'm so tired! We barely did anything but I'm so low on energy."
-    moxie "I'm so tired! We barely did anything but I'm so low on energy."
+    moxie "累死啦！我们也没干什么，但就是累坏了。"
 
 # game/library.rpy#L2895
 translate chinese libraryvisit3choice5_0bd0a06a:
 
     # mc "Wanna order some food?"
-    mc "Wanna order some food?"
+    mc "点些外卖？"
 
 # game/library.rpy#L2897
 translate chinese libraryvisit3choice5_c85d0d1d:
 
     # moxie "Let's get the same pizza from the second night you spent here."
-    moxie "Let's get the same pizza from the second night you spent here."
+    moxie "来些我们第二晚吃的披萨如何啊。"
 
 # game/library.rpy#L2898
 translate chinese libraryvisit3choice5_bcb70c22:
 
     # mc "How romantic, a callback to our first proper meal together."
-    mc "How romantic, a callback to our first proper meal together."
+    mc "你还真是浪漫，重温咱们的第一餐。"
 
 # game/library.rpy#L2900
 translate chinese libraryvisit3choice5_f1acaaab:
 
     # mc "If you do become Selene's student, you're gonna earn bajillions of monies anyway."
-    mc "If you do become Selene's student, you're gonna earn bajillions of monies anyway."
+    mc "如果你真成了Selene的学生，那口袋里能有花不完的钱。"
 
 # game/library.rpy#L2901
 translate chinese libraryvisit3choice5_ced38f43:
 
     # moxie "Awhh yes! Did you see how beautiful Selene's living quarters were? She had a balcony overlooking the entire city!"
-    moxie "Awhh yes! Did you see how beautiful Selene's living quarters were? She had a balcony overlooking the entire city!"
+    moxie "啊对哦！Selene的寝宫真的好漂亮，不知道你留意没？阳台上整个城市尽收眼底！"
 
 # game/library.rpy#L2903
 translate chinese libraryvisit3choice5_111c70ee:
 
     # moxie "That'll be us in ten years!"
-    moxie "That'll be us in ten years!"
+    moxie "10年内，咱们也能搞一套这样的房子！"
 
 # game/library.rpy#L2904
 translate chinese libraryvisit3choice5_d3cc59f0:
 
     # mc "Us?"
-    mc "Us?"
+    mc "咱们？"
 
 # game/library.rpy#L2906
 translate chinese libraryvisit3choice5_69d5636f:
 
     # moxie "U-Uhm..."
-    moxie "U-Uhm..."
+    moxie "呃，这个......"
 
 # game/library.rpy#L2908
 translate chinese libraryvisit3choice5_3ae5283d:
 
     # moxie "I guess there's a chance we won't be lovers, and that's okay."
-    moxie "I guess there's a chance we won't be lovers, and that's okay."
+    moxie "我知道咱们最后可能也不会成，不过没关系。"
 
 # game/library.rpy#L2910
 translate chinese libraryvisit3choice5_2e969870:
 
     # moxie "But you'll always be welcome as my roommate, and snuggle buddy, hehe."
-    moxie "But you'll always be welcome as my roommate, and snuggle buddy, hehe."
+    moxie "我的房门随时对你敞开，随时可以找人家抱抱，嘿嘿。"
 
 # game/library.rpy#L2911
 translate chinese libraryvisit3choice5_8c725a2e:
 
     # mc "Are you sure? I know how you feel about me now."
-    mc "Are you sure? I know how you feel about me now."
+    mc "真的吗？我现在知道你对我是什么感觉了。"
 
 # game/library.rpy#L2913
 translate chinese libraryvisit3choice5_7a0d9017:
 
     # moxie "I mean sure, I like you a lot, but..."
-    moxie "I mean sure, I like you a lot, but..."
+    moxie "当然是真的，我对你颇有好感，不过......"
 
 # game/library.rpy#L2914
 translate chinese libraryvisit3choice5_a0e56769:
 
     # moxie "Ever since we met I made our relationship pretty clear, we're friends with benefits."
-    moxie "Ever since we met I made our relationship pretty clear, we're friends with benefits."
+    moxie "我们最开始就划清了关系，只能算是炮友罢了。"
 
 # game/library.rpy#L2915
 translate chinese libraryvisit3choice5_75a58232:
 
     # moxie "I even encouraged you to sleep around with other mares."
-    moxie "I even encouraged you to sleep around with other mares."
+    moxie "我还煽动你去睡其他雌驹呢。"
 
 # game/library.rpy#L2916
 translate chinese libraryvisit3choice5_0a2eb0e8:
 
     # mc "You don't get jealous?"
-    mc "You don't get jealous?"
+    mc "你不嫉妒吗？"
 
 # game/library.rpy#L2918
 translate chinese libraryvisit3choice5_f6c4f7e6:
 
     # moxie "Jealous? Nah... When you get back from work and tell me about all the naughty things you've done... It's kinda hot actually.."
-    moxie "Jealous? Nah... When you get back from work and tell me about all the naughty things you've done... It's kinda hot actually.."
+    moxie "嫉妒？没有的事啦...每次你上完班回家跟我讲那些涩涩的事情...我还蛮性奋的......"
 
 # game/library.rpy#L2919
 translate chinese libraryvisit3choice5_14c7a363:
 
     # moxie "Even if we get serious, I'd probably still let you do that."
-    moxie "Even if we get serious, I'd probably still let you do that."
+    moxie "就算咱两真成了一对儿，你在外面沾花惹草的我也不会说什么的。"
 
 # game/library.rpy#L2922
 translate chinese libraryvisit3choice5_3e36a9b5:
 
     # moxie "Why do you think I'm so happy letting you live with Butters?"
-    moxie "Why do you think I'm so happy letting you live with Butters?"
+    moxie "不然你觉得为什么你住Butters那儿之后我会高兴呢？"
 
 # game/library.rpy#L2923
 translate chinese libraryvisit3choice5_ec10f84c:
 
     # moxie "But... Do you wanna stay here tonight?"
-    moxie "But... Do you wanna stay here tonight?"
+    moxie "但...你今晚没其他事儿吧？"
 
 # game/library.rpy#L2925
 translate chinese libraryvisit3choice5_e19a5fd5:
 
     # moxie "You're the alpha after all."
-    moxie "You're the alpha after all."
+    moxie "你说什么我都依你。"
 
 # game/library.rpy#L2927
 translate chinese libraryvisit3choice5_0981a509:
 
     # "Moxie and I order pizza for dinner, then cuddle on the sofa."
-    "Moxie and I order pizza for dinner, then cuddle on the sofa."
+    "我和Moxie晚上订了份披萨，晚饭后彼此依偎在沙发上。"
 
 # game/library.rpy#L2932
 translate chinese librarymenu_e3ad7b43:
 
     # "As usual, Lily lets me into the library using her magic. I'm an hour early so I have an opportunity to spend some time with her."
-    "As usual, Lily lets me into the library using her magic. I'm an hour early so I have an opportunity to spend some time with her."
+    "就同往常一样，Lily用魔法开门让我进图书馆。我特意早到一小时，这样的话就能和Lily独处一会儿。"
 
 # game/library.rpy#L2942
 translate chinese librarymenu_369ca771:
 
     # lily "Good morning, it's nice to see you again. Want to talk about something?"
-    lily "Good morning, it's nice to see you again. Want to talk about something?"
+    lily "早安呀，别来无恙。想聊些啥？"
 
 # game/library.rpy#L2951
 translate chinese lilymenu_b16ac028:
 
     # lily "Oh? You wanna fuck? I'll be your slut any time, babe."
-    lily "Oh? You wanna fuck? I'll be your slut any time, babe."
+    lily "哦？想“深入交流”？我的双腿随时能为你张开，宝贝。"
 
 # game/library.rpy#L2957
 translate chinese lilymenu_10f01c3d:
 
     # "You found a secret scene! Requirements met: Beat Morrigan and work at the library."
-    "You found a secret scene! Requirements met: Beat Morrigan and work at the library."
+    "你发现了一个秘密场景！满足要求：击败Morrigan后在图书馆工作。"
 
 # game/library.rpy#L2958
 translate chinese lilymenu_66013f57:
 
     # lily "[playername], do you think you can work with me today? I’ll pay you the same rate as Penelope."
-    lily "[playername], do you think you can work with me today? I’ll pay you the same rate as Penelope."
+    lily "[playername]，你能给我打一天工嘛？我的报酬跟Penelope一样的。"
 
 # game/library.rpy#L2959
 translate chinese lilymenu_7956bb22:
 
     # lily "I could really use a second pair of hands to help me with some things today. A bit like a personal assistant. I’ll make it easy for you."
-    lily "I could really use a second pair of hands to help me with some things today. A bit like a personal assistant. I’ll make it easy for you."
+    lily "今天我可是忙得不可开交，有人或者马搭把手最好。大概是助理那种职务啦，不会太难的。"
 
 # game/library.rpy#L2960
 translate chinese lilymenu_a93db6c0:
 
     # mc "Sure thing, what do you need?"
-    mc "Sure thing, what do you need?"
+    mc "好啊，你想要什么？"
 
 # game/library.rpy#L2962
 translate chinese lilymenu_911c13ad:
 
     # lily "Yeah, let’s begin right away! First thing is…"
-    lily "Yeah, let’s begin right away! First thing is…"
+    lily "嗯，我们这就开始吧！第一件要做的事情是......"
 
 # game/library.rpy#L2971
 translate chinese lilymenu_e79c7030:
 
     # lily "Leaving so soon? Have a good day [playername]!"
-    lily "Leaving so soon? Have a good day [playername]!"
+    lily "要走了？祝今天愉快[playername]！"
 
 # game/library.rpy#L2978
 translate chinese lilytalk_b43d2fe2:
 
     # mc "Hey Lily, can I ask you a personal question?"
-    mc "Hey Lily, can I ask you a personal question?"
+    mc "嘿Lily，能不能问你一些私密的问题呢？"
 
 # game/library.rpy#L2980
 translate chinese lilytalk_5c3c1b03:
 
     # lily "Oh, of course, I'm happy to answer anything."
-    lily "Oh, of course, I'm happy to answer anything."
+    lily "哦，问吧，问题我可是来者不拒。"
 
 # game/library.rpy#L2981
 translate chinese lilytalk_67b4f2f9:
 
     # mc "I don't think it'd be vulgar to say you've gotten a lot more sexually confident around me, right?"
-    mc "I don't think it'd be vulgar to say you've gotten a lot more sexually confident around me, right?"
+    mc "我的到来会让你更加具有性自信，我这么说不会冒犯到你，对吧？"
 
 # game/library.rpy#L2983
 translate chinese lilytalk_cd78cd17:
 
     # lily "Uhhmm, I think so! I enjoy being your little slut."
-    lily "Uhhmm, I think so! I enjoy being your little slut."
+    lily "呃，是的！人家喜欢做你的小母狗。"
 
 # game/library.rpy#L2984
 translate chinese lilytalk_9cc5f3d6:
 
     # mc "You remember how shy you were the first time, right?"
-    mc "You remember how shy you were the first time, right?"
+    mc "还记得你第一次有多拧巴吗？"
 
 # game/library.rpy#L2986
 translate chinese lilytalk_c2c7eaed:
 
     # lily "Vaguely... It's normal to be shy on your first time!"
-    lily "Vaguely... It's normal to be shy on your first time!"
+    lily "依稀记得...吧，第一次拧巴点不是很正常嘛！"
 
 # game/library.rpy#L2987
 translate chinese lilytalk_0f69b065:
 
     # mc "And you got that confident because you really enjoyed sleeping with me?"
-    mc "And you got that confident because you really enjoyed sleeping with me?"
+    mc "你觉得你增长的性自信是因为和我滚过床单吗？"
 
 # game/library.rpy#L2989
 translate chinese lilytalk_1626acfd:
@@ -10394,7 +10394,7 @@ translate chinese lilytalk_1626acfd:
 translate chinese lilytalk_e2ccb51d:
 
     # mc "Does your enjoyment have anything to do with the fact I'm interspecies, and perhaps, 'alien'?"
-    mc "Does your enjoyment have anything to do with the fact I'm interspecies, and perhaps, 'alien'?"
+    mc "你的快感是不是因为我跟你是跨物种性交，比如，我是个“天外来客”？"
 
 # game/library.rpy#L2992
 translate chinese lilytalk_1959dc93:
@@ -10406,403 +10406,403 @@ translate chinese lilytalk_1959dc93:
 translate chinese lilytalk_02e1cf04:
 
     # lily "I've been schlicking to interspecies porn for as long as I can remember, female pony on anything."
-    lily "I've been schlicking to interspecies porn for as long as I can remember, female pony on anything."
+    lily "跨物种XXOO一直很戳我xp，我喜欢雌驹X什么什么的。"
 
 # game/library.rpy#L2996
 translate chinese lilytalk_93c841f1:
 
     # lily "But then I found a world of art, where it was female pony with aliens, and monsters! It was so hot!"
-    lily "But then I found a world of art, where it was female pony with aliens, and monsters! It was so hot!"
+    lily "然后我又发现了一片堪比艺术的新天地----雌驹X异种生物或者怪物！和我xp简直不要太合！"
 
 # game/library.rpy#L2998
 translate chinese lilytalk_3b150e36:
 
     # lily "Now that stuff is my go-to for masturbating."
-    lily "Now that stuff is my go-to for masturbating."
+    lily "我现在就看这些自慰。"
 
 # game/library.rpy#L2999
 translate chinese lilytalk_6faabb82:
 
     # mc "Art, you say?"
-    mc "Art, you say?"
+    mc "你刚刚说，堪比艺术？"
 
 # game/library.rpy#L3001
 translate chinese lilytalk_a54be016:
 
     # lily "Y-You don't think that's weird, do you?"
-    lily "Y-You don't think that's weird, do you?"
+    lily "你，你不会觉得这个毛片类型很奇怪吧？"
 
 # game/library.rpy#L3002
 translate chinese lilytalk_c30bf0de:
 
     # mc "Not at all, I think it's perfectly normal. I do it too sometimes."
-    mc "Not at all, I think it's perfectly normal. I do it too sometimes."
+    mc "不完全吧，我觉得挺正常。我偶尔也这么干。"
 
 # game/library.rpy#L3004
 translate chinese lilytalk_14996154:
 
     # lily "Awhh, this is why you're so cool [playername], you're like a living, breathing fantasy."
-    lily "Awhh, this is why you're so cool [playername], you're like a living, breathing fantasy."
+    lily "啊，怪不得你这么有魅力[playername]，你就像一件鲜活的艺术品。"
 
 # game/library.rpy#L3006
 translate chinese lilytalk_a4cf0095:
 
     # lily "We're such a good match."
-    lily "We're such a good match."
+    lily "咱们可是绝配哎。"
 
 # game/library.rpy#L3009
 translate chinese lilytalk_49a7c6a5:
 
     # lily "You wanna see? Maybe we can look at some porn and have sex after."
-    lily "You wanna see? Maybe we can look at some porn and have sex after."
+    lily "想康康嘛？我们可以先看点片片助助兴，然后再上床实践一番。"
 
 # game/library.rpy#L3010
 translate chinese lilytalk_2789f018:
 
     # mc "If we have time, sure."
-    mc "If we have time, sure."
+    mc "时间充裕，我看行。"
 
 # game/library.rpy#L3017
 translate chinese lilytalk_3e53c58c:
 
     # lily "Okie well, come over here to my desktop."
-    lily "Okie well, come over here to my desktop."
+    lily "那行吧，来我桌子前坐好。"
 
 # game/library.rpy#L3018
 translate chinese lilytalk_b0e1984c:
 
     # "She sits down at her computer chair and opens up a folder in her documents named 'important work', it's full of finely curated, high quality porn."
-    "She sits down at her computer chair and opens up a folder in her documents named 'important work', it's full of finely curated, high quality porn."
+    "她坐在自己的电脑椅上，点开了一个叫做“学习资料”的文件夹，里面全是万里挑一，精心制作的黄片。"
 
 # game/library.rpy#L3019
 translate chinese lilytalk_887cb5ca:
 
     # lily "These are my favourites, anything I could get myself off to goes in here."
-    lily "These are my favourites, anything I could get myself off to goes in here."
+    lily "这些可都是我的珍藏，任何能撩起我性欲的东西都在这儿了。"
 
 # game/library.rpy#L3020
 translate chinese lilytalk_8031615a:
 
     # mc "Well I'll be, you're a big fan of... dicks."
-    mc "Well I'll be, you're a big fan of... dicks."
+    mc "我也是，你真的很喜欢...呃，大屌。"
 
 # game/library.rpy#L3025
 translate chinese lilytalk_456eb9f0:
 
     # lily "Hehe of course I am..."
-    lily "Hehe of course I am..."
+    lily "嘿嘿，那不然呢......"
 
 # game/library.rpy#L3026
 translate chinese lilytalk_3a2728ed:
 
     # mc "What kind of fetishes do you have saved on here?"
-    mc "What kind of fetishes do you have saved on here?"
+    mc "你有些什么癖好呢？"
 
 # game/library.rpy#L3027
 translate chinese lilytalk_0ac5f004:
 
     # lily "Ohh, all sorts... We have interspecies of course, but there's also alien stuff."
-    lily "Ohh, all sorts... We have interspecies of course, but there's also alien stuff."
+    lily "哦，多得很...跨物种XXOO，还有异种XXOO。"
 
 # game/library.rpy#L3028
 translate chinese lilytalk_16e718a5:
 
     # lily "Egg laying/oviposition, some hyponosis... Facehuggers, but not guro!"
-    lily "Egg laying/oviposition, some hyponosis... Facehuggers, but not guro!"
+    lily "育子，还有些催眠类的...抱脸虫，不过不是特别猎奇的那种！"
 
 # game/library.rpy#L3029
 translate chinese lilytalk_73800955:
 
     # mc "Is that one there incest?"
-    mc "Is that one there incest?"
+    mc "这算乱伦吗？"
 
 # game/library.rpy#L3034
 translate chinese lilytalk_443f90d9:
 
     # lily "N-NO! Those two aren't related!"
-    lily "N-NO! Those two aren't related!"
+    lily "才，才不是呢！这两个没血缘关系的！"
 
 # game/library.rpy#L3035
 translate chinese lilytalk_19d3da49:
 
     # "She scrolls down to hide a certain picture where the word 'sis' was mentioned."
-    "She scrolls down to hide a certain picture where the word 'sis' was mentioned."
+    "她继续向下滚动页面，想藏住标着“姐妹”一词的图片。"
 
 # game/library.rpy#L3036
 translate chinese lilytalk_596984d4:
 
     # lily "Eh-hem, anyway..."
-    lily "Eh-hem, anyway..."
+    lily "嗯哼，反正......"
 
 # game/library.rpy#L3037
 translate chinese lilytalk_62ae7e97:
 
     # mc "Are those... Insects? That's pretty hardcore..."
-    mc "Are those... Insects? That's pretty hardcore..."
+    mc "这都是...昆虫？对我来说过于硬核了......."
 
 # game/library.rpy#L3042
 translate chinese lilytalk_14e5bddb:
 
     # lily "Uuu, maybe showing you this was a bad idea... I forgot how fucked up some of these pics are to normal people..."
-    lily "Uuu, maybe showing you this was a bad idea... I forgot how fucked up some of these pics are to normal people..."
+    lily "唔，你可能不太适合看这些...我忘了这些照片对一个正常马冲击有多大了......"
 
 # game/library.rpy#L3043
 translate chinese lilytalk_4da564f5:
 
     # mc "You can enjoy whatever you want to enjoy, I won't judge."
-    mc "You can enjoy whatever you want to enjoy, I won't judge."
+    mc "你看什么是你的自由，我无权干涉和评判。"
 
 # game/library.rpy#L3048
 translate chinese lilytalk_62b74528:
 
     # lily "It-It's only a fantasy! W-Wait no, not even that! I just appreciate the art!"
-    lily "It-It's only a fantasy! W-Wait no, not even that! I just appreciate the art!"
+    lily "它，它们都是意淫的作品啦！不，不对，不能这么说！我只是在欣赏艺术！"
 
 # game/library.rpy#L3049
 translate chinese lilytalk_2d0a8d3c:
 
     # mc "Right, right. I get it, it's just art."
-    mc "Right, right. I get it, it's just art."
+    mc "行啊，行。我懂了，这些都是艺术。"
 
 # game/library.rpy#L3050
 translate chinese lilytalk_2a03c74a:
 
     # lily "Mhm, mhm!"
-    lily "Mhm, mhm!"
+    lily "嗯，嗯，没错！"
 
 # game/library.rpy#L3052
 translate chinese lilytalk_51d67a8a:
 
     # mc "As far as I'm aware, you're friends with the other girls I'm working with, right?"
-    mc "As far as I'm aware, you're friends with the other girls I'm working with, right?"
+    mc "以我目前了解到的事情来看，那些我去打工的女孩都是你的朋友，对吧？"
 
 # game/library.rpy#L3053
 translate chinese lilytalk_80d7178c:
 
     # mc "That's how Penelope met them in the first place."
-    mc "That's how Penelope met them in the first place."
+    mc "至少Penelope当时是以这种标准看待她们的。"
 
 # game/library.rpy#L3054
 translate chinese lilytalk_a94d8691:
 
     # mc "So why aren't you closer friends with a lot of them anymore?"
-    mc "So why aren't you closer friends with a lot of them anymore?"
+    mc "你为什么不想再和她们维持更亲密的朋友关系呢。"
 
 # game/library.rpy#L3057
 translate chinese lilytalk_d56fe7b6:
 
     # lily "You mean Honeycrisp, Ruby and a few others?"
-    lily "You mean Honeycrisp, Ruby and a few others?"
+    lily "你是指Honeycrisp，Ruby还有其他几个马？"
 
 # game/library.rpy#L3059
 translate chinese lilytalk_c875e0cf:
 
     # lily "The six of us used to be close friends back when we were all younger, we'd do things almost every day."
-    lily "The six of us used to be close friends back when we were all younger, we'd do things almost every day."
+    lily "我们六个在更小的时候可谓亲密无间，每天都在一起玩耍。"
 
 # game/library.rpy#L3060
 translate chinese lilytalk_515682b4:
 
     # lily "But we got older, burdened by responsibilities, and slowly drifted away."
-    lily "But we got older, burdened by responsibilities, and slowly drifted away."
+    lily "但岁月是把杀猪刀，我们都要肩负自己的责任，渐渐就分开了。"
 
 # game/library.rpy#L3061
 translate chinese lilytalk_a4827209:
 
     # lily "Some of them still hang out, but it's a weekly affair..."
-    lily "Some of them still hang out, but it's a weekly affair..."
+    lily "还有几个偶尔也出来玩，不过也就一周一次的频率......"
 
 # game/library.rpy#L3063
 translate chinese lilytalk_15438806:
 
     # lily "For a while I isolated myself a lot, you know about that."
-    lily "For a while I isolated myself a lot, you know about that."
+    lily "有段时间我刻意地孤立自己，你懂什么原因。"
 
 # game/library.rpy#L3065
 translate chinese lilytalk_6a73c58b:
 
     # lily "But thanks to your encouragement I'm reaching out to them again."
-    lily "But thanks to your encouragement I'm reaching out to them again."
+    lily "不过多亏了你的鼓励，我现在又有了出去面见她们的勇气。"
 
 # game/library.rpy#L3067
 translate chinese lilytalk_5f844593:
 
     # lily "It's not easy for me, everyone else has an important job, like running a bar or shop."
-    lily "It's not easy for me, everyone else has an important job, like running a bar or shop."
+    lily "对我来说并非易事，大家都有很重要的事情要做，比如经营酒吧，开商店之类的。"
 
 # game/library.rpy#L3068
 translate chinese lilytalk_e63fb8c2:
 
     # lily "But for me, I'm often cooped up in the lab and on my computer for eight hours a day."
-    lily "But for me, I'm often cooped up in the lab and on my computer for eight hours a day."
+    lily "我呢，我经常每天得在实验室和电脑前待上八个小时。"
 
 # game/library.rpy#L3070
 translate chinese lilytalk_93da12d4:
 
     # lily "Penelope is helping me by organising evening meet-ups at the bar, it'll be like all those years back..."
-    lily "Penelope is helping me by organising evening meet-ups at the bar, it'll be like all those years back..."
+    lily "Penelope帮我在晚上安排了一些小型聚会，感觉又回到了当年......"
 
 # game/library.rpy#L3072
 translate chinese lilytalk_081b5dc9:
 
     # lily "Sorry to bore you with that long rant, I got lost reminiscing."
-    lily "Sorry to bore you with that long rant, I got lost reminiscing."
+    lily "抱歉我太沉迷于回忆，叨逼叨了这么久。"
 
 # game/library.rpy#L3073
 translate chinese lilytalk_93835993:
 
     # mc "That's okay, I'm really happy to hear you're challenging yourself again."
-    mc "That's okay, I'm really happy to hear you're challenging yourself again."
+    mc "无妨，你能迈出改进自己的那一步，我也很高兴。"
 
 # game/library.rpy#L3075
 translate chinese lilytalk_c33de052:
 
     # lily "Mhm, I got so stuck in my own comfort zone, it ended up shrinking into a tiny bubble."
-    lily "Mhm, I got so stuck in my own comfort zone, it ended up shrinking into a tiny bubble."
+    lily "嗯，我一直依赖在自己的舒适区泡泡里，全然不顾它的缩小。"
 
 # game/library.rpy#L3077
 translate chinese lilytalk_75381b84:
 
     # mc "And then I came in and popped it, right?"
-    mc "And then I came in and popped it, right?"
+    mc "我把泡泡戳破了，对吧？"
 
 # game/library.rpy#L3078
 translate chinese lilytalk_35b8239a:
 
     # lily "Exactly!"
-    lily "Exactly!"
+    lily "没错！"
 
 # game/library.rpy#L3080
 translate chinese lilytalk_9e238822:
 
     # mc "So... There's an elephant in the room that I've wanted to discuss, but I've never really found a good way to ask about it."
-    mc "So... There's an elephant in the room that I've wanted to discuss, but I've never really found a good way to ask about it."
+    mc "现在呢...我有件要紧的事情要和你讨论，不过我有点不好开口。"
 
 # game/library.rpy#L3082
 translate chinese lilytalk_105382a0:
 
     # lily "What's that?"
-    lily "What's that?"
+    lily "但说无妨？"
 
 # game/library.rpy#L3083
 translate chinese lilytalk_1d05c30b:
 
     # mc "Why exactly are you the Queen's student?"
-    mc "Why exactly are you the Queen's student?"
+    mc "你能成为女王的学生究竟是因为什么原因？"
 
 # game/library.rpy#L3085
 translate chinese lilytalk_a4e65bb7:
 
     # lily "Well uh, apparently it's potential..."
-    lily "Well uh, apparently it's potential..."
+    lily "那个，呃，是因为潜质不错......"
 
 # game/library.rpy#L3086
 translate chinese lilytalk_ad97af3b:
 
     # mc "Potential?"
-    mc "Potential?"
+    mc "潜质？"
 
 # game/library.rpy#L3088
 translate chinese lilytalk_2221488f:
 
     # lily "I'm supposed to become an alicorn, but... It's so hard!"
-    lily "I'm supposed to become an alicorn, but... It's so hard!"
+    lily "我本来是要成为一只天角兽的，但是...过程绝非易事！"
 
 # game/library.rpy#L3089
 translate chinese lilytalk_8d7abf6e:
 
     # mc "Wait, you're going to become one of those immortal goddesses?"
-    mc "Wait, you're going to become one of those immortal goddesses?"
+    mc "等下，你会成为那些永生的天角兽神明之一？"
 
 # game/library.rpy#L3091
 translate chinese lilytalk_a806acc8:
 
     # lily "Yeah, that's what I'm studying for, in legends there was a spell that could turn a regular unicorn into an alicorn."
-    lily "Yeah, that's what I'm studying for, in legends there was a spell that could turn a regular unicorn into an alicorn."
+    lily "对的，我现在学习也是为了这个，在传说里有一个法术可以把普通的独角兽变成天角兽。"
 
 # game/library.rpy#L3092
 translate chinese lilytalk_389b8dbc:
 
     # lily "The Queen put me in charge of discovering that spell, she believes I'm the only unicorn that could do it."
-    lily "The Queen put me in charge of discovering that spell, she believes I'm the only unicorn that could do it."
+    lily "女王让我来寻找那个咒语，她觉得我是唯一合适的马选。"
 
 # game/library.rpy#L3094
 translate chinese lilytalk_56206daa:
 
     # lily "But I'm at a standstill, and it feels like I'm missing something, I've been running around in circles with that mystery for almost a year now."
-    lily "But I'm at a standstill, and it feels like I'm missing something, I've been running around in circles with that mystery for almost a year now."
+    lily "但我目前遇到瓶颈了，感觉自己错过了一些关键的东西，一直停滞不前大概一年了。"
 
 # game/library.rpy#L3095
 translate chinese lilytalk_8c0fcb69:
 
     # lily "Aurora keeps telling me to take a break and see my friends instead, maybe she's right, maybe I'm overworking myself."
-    lily "Aurora keeps telling me to take a break and see my friends instead, maybe she's right, maybe I'm overworking myself."
+    lily "Aurora一直跟我说，休息下，找朋友聚聚，别给自己太大压力，可能真该听她的，我给自立揽太多包袱了。"
 
 # game/library.rpy#L3097
 translate chinese lilytalk_0d8cb9d6:
 
     # lily "But that's just the kind of mare I am."
-    lily "But that's just the kind of mare I am."
+    lily "不过，我就是那种马啊。"
 
 # game/library.rpy#L3098
 translate chinese lilytalk_77e3d503:
 
     # mc "I don't know much about magic, but I know overworking yourself deteriorates the quality of work."
-    mc "I don't know much about magic, but I know overworking yourself deteriorates the quality of work."
+    mc "我对魔法所知不多，但我知道过度劳累对工作效率没好处。"
 
 # game/library.rpy#L3099
 translate chinese lilytalk_e2d931b6:
 
     # mc "Work from nine to five, sure, but after five? That's you time."
-    mc "Work from nine to five, sure, but after five? That's you time."
+    mc "早上九点上班，晚上五点下班，五点之后的时间？全看你自己安排了。"
 
 # game/library.rpy#L3100
 translate chinese lilytalk_de00fdcc:
 
     # mc "And yeah, you should spend some of that time with friends, even if you're an introvert."
-    mc "And yeah, you should spend some of that time with friends, even if you're an introvert."
+    mc "她是对的，你该多花时间陪陪朋友才是，内向并不能成为怯生的理由。"
 
 # game/library.rpy#L3101
 translate chinese lilytalk_dabc900b:
 
     # mc "It's extremely healthy just to spend a little bit of time with good friends every week."
-    mc "It's extremely healthy just to spend a little bit of time with good friends every week."
+    mc "每周固定花点时间和朋友聚聚可是大有脾益。"
 
 # game/library.rpy#L3103
 translate chinese lilytalk_9a76615e:
 
     # lily "So... I need to increase my quality of life to improve my quality of work."
-    lily "So... I need to increase my quality of life to improve my quality of work."
+    lily "这么说...我得先过好日子，才能做好工作，对吧。"
 
 # game/library.rpy#L3104
 translate chinese lilytalk_0f361e0b:
 
     # mc "Absolutely, high achievers often have a balanced work and social life."
-    mc "Absolutely, high achievers often have a balanced work and social life."
+    mc "是这个意思，工作生活两不误，事业才能出奇迹啊。"
 
 # game/library.rpy#L3105
 translate chinese lilytalk_716adeb0:
 
     # lily "Any personal advice?"
-    lily "Any personal advice?"
+    lily "能给点具体的建议吗？"
 
 # game/library.rpy#L3106
 translate chinese lilytalk_a2d6c6f1:
 
     # mc "Well, you like books right? Read a book on it."
-    mc "Well, you like books right? Read a book on it."
+    mc "嗯，你不是个带书虫嘛？读一本这方面的书就行。"
 
 # game/library.rpy#L3107
 translate chinese lilytalk_d5f1e618:
 
     # lily "Ohh, good idea!"
-    lily "Ohh, good idea!"
+    lily "哦哦，好主意！"
 
 # game/library.rpy#L3123
 translate chinese lilysex_15f1fb32:
 
     # lily "I want you to slide your cock between my legs and fuck my thighs."
-    lily "I want you to slide your cock between my legs and fuck my thighs."
+    lily "我要你把鸡巴塞进我两腿间，再狠狠捣鼓。"
 
 # game/library.rpy#L3130
 translate chinese lilysex_a393457f:
@@ -14240,7 +14240,7 @@ translate chinese strings:
 
     # game/library.rpy_L2976_1
     old "Ask her what kind of porn she likes"
-    new "询问她喜欢哪类色情的事。"
+    new "询问她喜欢哪类色情片的事。"
 
     # game/library.rpy_L2976_2
     old "Talk to her about the other girls"

@@ -9302,7 +9302,7 @@ translate chinese mspt1_56ac684b:
 translate chinese mspt1_bd5ad45f:
 
     # melody "Ahahahahahaha! Have you forgotten who I am? I'm the one that fucks you, you're merely a participant."
-    melody "Ahahahahahaha! Have you forgotten who I am? I'm the one that fucks you, you're merely a participant."
+    melody "啊哈哈哈哈！你忘了我是谁了吗？我是那个操你的人，你只是个参与者。"
 
 # game/boutique.rpy#L2786
 translate chinese mspt1_bd0b296b:
@@ -9452,13 +9452,13 @@ translate chinese mspt1_c122b628:
 translate chinese mspt1_e8a1a2f8:
 
     # melody "Alright, enough, enough!"
-    melody "Alright, enough, enough!"
+    melody "行了，够了够了！"
 
 # game/boutique.rpy#L2841
 translate chinese mspt1_2664f92f:
 
     # "I slip into the bathroom and grab some tissue to wipe down Melody and the floor."
-    "I slip into the bathroom and grab some tissue to wipe down Melody and the floor."
+    "我溜进浴室，拿了些纸巾来擦地。"
 
 # game/boutique.rpy#L2846
 translate chinese mspt1_1ce01296:
@@ -9608,7 +9608,7 @@ translate chinese mspt1_48b99b4e:
 translate chinese mspt1_2705f1ad:
 
     # melody "Yeahh, you're such a good boy."
-    melody "Yeahh, you're such a good boy."
+    melody "耶～你真是个好孩子。"
 
 # game/boutique.rpy#L2887
 translate chinese mspt1_e97dbb73:
@@ -9956,7 +9956,7 @@ translate chinese melodyeveningsex_f8aa7095:
 translate chinese melodyeveningsex_4f34812c:
 
     # melody "Awesome... Your skin is really soft, so... Yeah."
-    melody "Awesome... Your skin is really soft, so... Yeah."
+    melody "太棒了…你的皮肤可真软，感觉非常好。"
 
 # game/boutique.rpy#L3009
 translate chinese melodyeveningsex_5b4914a4:
@@ -10022,7 +10022,7 @@ translate chinese melodyeveningsex_ff75de01:
 translate chinese melodyeveningsex_f45249c8:
 
     # melody "See you around champ."
-    melody "See you around champ."
+    melody "回头见。"
 
 # game/boutique.rpy#L3032
 translate chinese melodyeveningsex_83442926:
@@ -10052,109 +10052,109 @@ translate chinese melodyeveningsex_a8e35fdf:
 translate chinese melodyeveningvisit1_f29ef10d:
 
     # "I walk up to the boutique and just as I'm about to knock on the door, a familiar she-devil appears."
-    "I walk up to the boutique and just as I'm about to knock on the door, a familiar she-devil appears."
+    "我前往精品店，就在我正要敲门的时候，一个熟悉的女魔头出现了。"
 
 # game/boutique.rpy#L3050
 translate chinese melodyeveningvisit1_6d6e65fd:
 
     # melody "Hello stranger, what are you doing stalking about at this hour? Tryna' spy on my sister again?"
-    melody "Hello stranger, what are you doing stalking about at this hour? Tryna' spy on my sister again?"
+    melody "你好，陌生人，你现在在跟踪什么？又想偷窥我姐姐？"
 
 # game/boutique.rpy#L3052
 translate chinese melodyeveningvisit1_4eb970d7:
 
     # mc "I came here to visit you actually, tried in the morning but you'd already left."
-    mc "I came here to visit you actually, tried in the morning but you'd already left."
+    mc "其实我是来拜访你的，早上我已经来过一遍了，但那时你已经走了。"
 
 # game/boutique.rpy#L3053
 translate chinese melodyeveningvisit1_af7dadf5:
 
     # melody "Oh yeah, I have an exam soon so I'm studying overtime."
-    melody "Oh yeah, I have an exam soon so I'm studying overtime."
+    melody "哦，是的，我马上就要考试了，所以在加班加点地看书复习。"
 
 # game/boutique.rpy#L3055
 translate chinese melodyeveningvisit1_e6d5285c:
 
     # mc "I'm just visiting, maybe with pervy motivations, maybe not."
-    mc "I'm just visiting, maybe with pervy motivations, maybe not."
+    mc "我只是来找你的，也许动机很强烈，又也许不是。"
 
 # game/boutique.rpy#L3056
 translate chinese melodyeveningvisit1_8354ed8a:
 
     # mc "What are you up to anyway?"
-    mc "What are you up to anyway?"
+    mc "你到底在干什么？"
 
 # game/boutique.rpy#L3058
 translate chinese melodyeveningvisit1_b5834f26:
 
     # melody "Just going to bury a dead body, wanna join me?"
-    melody "Just going to bury a dead body, wanna join me?"
+    melody "只是要埋葬一具死尸，你想加入我吗？"
 
 # game/boutique.rpy#L3059
 translate chinese melodyeveningvisit1_4d80fe7b:
 
     # mc "What kind of answer is that?"
-    mc "What kind of answer is that?"
+    mc "你这话是什么意思？"
 
 # game/boutique.rpy#L3061
 translate chinese melodyeveningvisit1_ce29f14a:
 
     # melody "Ask dumb questions, get dumb answers!"
-    melody "Ask dumb questions, get dumb answers!"
+    melody "以牙还牙，以眼还眼！你问这种愚蠢的问题，那我只能原样奉还了。"
 
 # game/boutique.rpy#L3062
 translate chinese melodyeveningvisit1_95296eef:
 
     # mc "Why was my question dumb?"
-    mc "Why was my question dumb?"
+    mc "为什么说我的问题愚蠢？"
 
 # game/boutique.rpy#L3064
 translate chinese melodyeveningvisit1_cabcda16:
 
     # melody "Come on man, what does it look like I'm doing?"
-    melody "Come on man, what does it look like I'm doing?"
+    melody "拜托，伙计，我看起来像在做什么？"
 
 # game/boutique.rpy#L3065
 translate chinese melodyeveningvisit1_3b84c9e8:
 
     # mc "Going for a walk?"
-    mc "Going for a walk?"
+    mc "散步？"
 
 # game/boutique.rpy#L3067
 translate chinese melodyeveningvisit1_cba3d5a2:
 
     # melody "Bingo! Didn't have to get up early to study for that one."
-    melody "Bingo! Didn't have to get up early to study for that one."
+    melody "答对了！总算不必早起学习了。"
 
 # game/boutique.rpy#L3068
 translate chinese melodyeveningvisit1_b7022a43:
 
     # mc "At this time?"
-    mc "At this time?"
+    mc "在这个时间点出去散步？"
 
 # game/boutique.rpy#L3070
 translate chinese melodyeveningvisit1_12225d1f:
 
     # melody "It's only 7:00pm, it's not like I'm having a midlife crisis quite yet."
-    melody "It's only 7:00pm, it's not like I'm having a midlife crisis quite yet."
+    melody "现在才晚上7点，我还没到中年危机。"
 
 # game/boutique.rpy#L3071
 translate chinese melodyeveningvisit1_d70f9790:
 
     # melody "Come with me, Arcadia is beautiful at night."
-    melody "Come with me, Arcadia is beautiful at night."
+    melody "跟我来，Arcadia的夜晚也很漂亮。"
 
 # game/boutique.rpy#L3072
 translate chinese melodyeveningvisit1_e24e1486:
 
     # mc "Alright. As long as there's no funny business."
-    mc "Alright. As long as there's no funny business."
+    mc "行吧。看来你没有什么见不得人的勾当。"
 
 # game/boutique.rpy#L3081
 translate chinese melodyeveningvisit1_5114aa04:
 
     # melody "I love just wandering around, and thinking..."
-    melody "I love just wandering around, and thinking..."
+    melody "我喜欢到处闲逛，同时思考一些问题…"
 
 # game/boutique.rpy#L3083
 translate chinese melodyeveningvisit1_6c67c2ea:
@@ -10166,61 +10166,61 @@ translate chinese melodyeveningvisit1_6c67c2ea:
 translate chinese melodyeveningvisit1_09576434:
 
     # mc "Anything on your mind?"
-    mc "Anything on your mind?"
+    mc "你现在有什么想法吗？"
 
 # game/boutique.rpy#L3086
 translate chinese melodyeveningvisit1_e547f93e:
 
     # melody "Actually, since you came along, I've been thinking about you."
-    melody "Actually, since you came along, I've been thinking about you."
+    melody "事实上，自从你到这儿来了，我就一直在想你。"
 
 # game/boutique.rpy#L3087
 translate chinese melodyeveningvisit1_054c5ee0:
 
     # mc "I see."
-    mc "I see."
+    mc "我知道了。"
 
 # game/boutique.rpy#L3088
 translate chinese melodyeveningvisit1_d2f1be0a:
 
     # melody "Look up."
-    melody "Look up."
+    melody "抬头看。"
 
 # game/boutique.rpy#L3089
 translate chinese melodyeveningvisit1_1a3124c3:
 
     # "She says as she points into the night sky."
-    "She says as she points into the night sky."
+    "她一边说着一边指了指夜空。"
 
 # game/boutique.rpy#L3094
 translate chinese melodyeveningvisit1_29c4abb7:
 
     # mc "It's beautiful."
-    mc "It's beautiful."
+    mc "天空真好看。"
 
 # game/boutique.rpy#L3095
 translate chinese melodyeveningvisit1_03b78287:
 
     # "Melody lays down on the grass, arms behind her head, I do the same and join her in star gazing."
-    "Melody lays down on the grass, arms behind her head, I do the same and join her in star gazing."
+    "Melody躺在草地上，双臂枕在脑后，我也这样做，和她一起凝视星空。"
 
 # game/boutique.rpy#L3098
 translate chinese melodyeveningvisit1_d21e66bc:
 
     # "As the air gets a little cooler, my furless body starts to get a bit of a chill. Melody takes notice and cuddles closer to me, she feels warm."
-    "As the air gets a little cooler, my furless body starts to get a bit of a chill. Melody takes notice and cuddles closer to me, she feels warm."
+    "当气温开始下降时，我感觉我那没有毛皮覆盖的身体有点发冷。Melody注意到了我，把我搂得更紧了，她觉得很温暖。"
 
 # game/boutique.rpy#L3101
 translate chinese melodyeveningvisit1_c543435d:
 
     # melody "Remember when you told me you were from another world?"
-    melody "Remember when you told me you were from another world?"
+    melody "还记得你告诉我你来自另一个世界吗？"
 
 # game/boutique.rpy#L3102
 translate chinese melodyeveningvisit1_f49fff8f:
 
     # mc "Yeah?"
-    mc "Yeah?"
+    mc "是的？"
 
 # game/boutique.rpy#L3103
 translate chinese melodyeveningvisit1_265dc98a:
@@ -10232,127 +10232,127 @@ translate chinese melodyeveningvisit1_265dc98a:
 translate chinese melodyeveningvisit1_56f95f40:
 
     # mc "It's fine, I think that's a fairly normal response to hearing something like that."
-    mc "It's fine, I think that's a fairly normal response to hearing something like that."
+    mc "没关系，我觉得听到这样的话以后有这种反应很正常。"
 
 # game/boutique.rpy#L3105
 translate chinese melodyeveningvisit1_47a805ec:
 
     # melody "It's true though, right? You're not from around here..."
-    melody "It's true though, right? You're not from around here..."
+    melody "但这是真的，对吧？你不来自这附近的地区…"
 
 # game/boutique.rpy#L3106
 translate chinese melodyeveningvisit1_221ed179:
 
     # mc "Yeah, I'm from a world like this, but at the same time... Everything's different."
-    mc "Yeah, I'm from a world like this, but at the same time... Everything's different."
+    mc "是的，我来自一个和这儿很像的世界，但同时…一切又不一样。"
 
 # game/boutique.rpy#L3107
 translate chinese melodyeveningvisit1_8045aeed:
 
     # melody "Could you tell me more about your world?"
-    melody "Could you tell me more about your world?"
+    melody "你能告诉我更多关于你世界的东西吗？"
 
 # game/boutique.rpy#L3108
 translate chinese melodyeveningvisit1_1ebc3c52:
 
     # mc "Where to even begin..."
-    mc "Where to even begin..."
+    mc "该从哪里开始说呢…"
 
 # game/boutique.rpy#L3110
 translate chinese melodyeveningvisit1_77d66355:
 
     # "Melody and I spend maybe an hour discussing my previous life, my college, friends, and family."
-    "Melody and I spend maybe an hour discussing my previous life, my college, friends, and family."
+    "我和Melody花了大概一个小时来讨论我以前的生活，我的大学，朋友和家庭。"
 
 # game/boutique.rpy#L3111
 translate chinese melodyeveningvisit1_21f2d2dc:
 
     # "Eventually it grows late, and the two of us return to the boutique."
-    "Eventually it grows late, and the two of us return to the boutique."
+    "天色渐晚，我们两个回到了精品店。"
 
 # game/boutique.rpy#L3121
 translate chinese melodyeveningvisit1_17fc541f:
 
     # melody "Thanks for coming with me tonight, I really enjoyed our walk and talk."
-    melody "Thanks for coming with me tonight, I really enjoyed our walk and talk."
+    melody "谢谢你今晚的陪伴，我真的很享受我们散步和交谈的时光。"
 
 # game/boutique.rpy#L3122
 translate chinese melodyeveningvisit1_5d637230:
 
     # mc "It was my pleasure, with all the work I've been doing lately it was a nice change of pace."
-    mc "It was my pleasure, with all the work I've been doing lately it was a nice change of pace."
+    mc "这是我的荣幸，我最近做了这么多工作，这是一个漂亮的转变。"
 
 # game/boutique.rpy#L3123
 translate chinese melodyeveningvisit1_ae8d2ff3:
 
     # melody "Do you wanna come in? Maybe a drink?"
-    melody "Do you wanna come in? Maybe a drink?"
+    melody "你想进来吗？来喝点什么怎么样？"
 
 # game/boutique.rpy#L3124
 translate chinese melodyeveningvisit1_8b8a764a:
 
     # mc "I'd love to."
-    mc "I'd love to."
+    mc "可以。"
 
 # game/boutique.rpy#L3125
 translate chinese melodyeveningvisit1_8b6bd577:
 
     # melody "Oh, and if you're ever visiting at night, we won't hear you knocking from upstairs. Key's under this plant pot."
-    melody "Oh, and if you're ever visiting at night, we won't hear you knocking from upstairs. Key's under this plant pot."
+    melody "哦，如果你晚上来的话，我们在楼上听不到你的敲门声。钥匙在这个花盆下面。"
 
 # game/boutique.rpy#L3126
 translate chinese melodyeveningvisit1_f0c54518:
 
     # mc "Gotcha."
-    mc "Gotcha."
+    mc "明白了。"
 
 # game/boutique.rpy#L3129
 translate chinese melodyeveningvisit1_beb6c647:
 
     # "Melody makes us both drinks and we go upstairs quietly, taking care not to disturb Ruby."
-    "Melody makes us both drinks and we go upstairs quietly, taking care not to disturb Ruby."
+    "我们两个喝了点饮料，然后悄悄地上楼，小心翼翼地避免打扰到Ruby。"
 
 # game/boutique.rpy#L3132
 translate chinese melodyeveningvisit1_c4dc3d05:
 
     # melody "I always get a warm drink after my walks, especially during the colder seasons."
-    melody "I always get a warm drink after my walks, especially during the colder seasons."
+    melody "我总是在晚间散步后喝一杯热饮料，在寒冷的季节里尤甚。"
 
 # game/boutique.rpy#L3133
 translate chinese melodyeveningvisit1_7007a7e2:
 
     # mc "How cold does it get? I might need Ruby to make me something to wear if it gets any worse."
-    mc "How cold does it get? I might need Ruby to make me something to wear if it gets any worse."
+    mc "天气有多冷？如果情况更糟的话，我可能需要让Ruby给我做点衣服穿。"
 
 # game/boutique.rpy#L3134
 translate chinese melodyeveningvisit1_83d1ec3f:
 
     # melody "It doesn't get too bad here, only snow on the tips of the mountains. Some colder northern settlements do wear clothes to stay warm, I bet you could find something cheap in a city shop."
-    melody "It doesn't get too bad here, only snow on the tips of the mountains. Some colder northern settlements do wear clothes to stay warm, I bet you could find something cheap in a city shop."
+    melody "这里不算太糟，只有山顶上会有积雪。北方一些较冷地区的居民确实会穿衣服保暖，我敢打赌你可以在城市里的商店内找到那些价格实惠的衣服。"
 
 # game/boutique.rpy#L3136
 translate chinese melodyeveningvisit1_a1088bb1:
 
     # melody "Wouldn't want my cute wormy boy to freeze."
-    melody "Wouldn't want my cute wormy boy to freeze."
+    melody "千万不能让我的小可爱受凉了。"
 
 # game/boutique.rpy#L3137
 translate chinese melodyeveningvisit1_f033ddde:
 
     # mc "Well, that's very kind of you Melody."
-    mc "Well, that's very kind of you Melody."
+    mc "哈，Melody，你真是太好了。"
 
 # game/boutique.rpy#L3139
 translate chinese melodyeveningvisit1_7b04d2c2:
 
     # melody "Of course, I'm nice and warm. This fur is thicker than it looks, check it out!"
-    melody "Of course, I'm nice and warm. This fur is thicker than it looks, check it out!"
+    melody "当然，我又好又暖和。看看，我这毛皮可比你想象的更厚。"
 
 # game/boutique.rpy#L3140
 translate chinese melodyeveningvisit1_00f75c14:
 
     # "She puffs her chest out, is she encouraging me to caress her breasts? Or just her fur? Is this a test? Am I thinking too much into this?"
-    "She puffs her chest out, is she encouraging me to caress her breasts? Or just her fur? Is this a test? Am I thinking too much into this?"
+    "她鼓起胸膛，是不是在鼓励我抚摸她的乳房？或者只是她的皮毛？这是一种考验吗？我是不是想得太多了？"
 
 # game/boutique.rpy#L3143
 translate chinese melodyeveningvisit1_983748d0:
@@ -10364,31 +10364,31 @@ translate chinese melodyeveningvisit1_983748d0:
 translate chinese melodyeveningvisit1_bd0cf7d3:
 
     # "It's fuzzy and furry, like a shetland pony."
-    "It's fuzzy and furry, like a shetland pony."
+    "它的手感像一只设得兰矮种马那样，摸起来毛茸茸的。"
 
 # game/boutique.rpy#L3146
 translate chinese melodyeveningvisit1_41d343bc:
 
     # melody "Tch, you're such a perv! You'll take any opportunity to get to molest me, clearly!"
-    melody "Tch, you're such a perv! You'll take any opportunity to get to molest me, clearly!"
+    melody "天哪，你真变态！毫无疑问，你会利用任何机会来骚扰我！"
 
 # game/boutique.rpy#L3148
 translate chinese melodyeveningvisit1_cd17fce1:
 
     # "I bring a hand to the middle of her chest, and start to ruffle my fingers through the furry texture."
-    "I bring a hand to the middle of her chest, and start to ruffle my fingers through the furry texture."
+    "我把一只手放在她的胸口中间，开始用手指抚摸毛皮覆盖的肌肤。"
 
 # game/boutique.rpy#L3149
 translate chinese melodyeveningvisit1_bd0cf7d3_1:
 
     # "It's fuzzy and furry, like a shetland pony."
-    "It's fuzzy and furry, like a shetland pony."
+    "它的手感像一只设得兰矮种马那样，摸起来毛茸茸的。"
 
 # game/boutique.rpy#L3151
 translate chinese melodyeveningvisit1_5b701c05:
 
     # melody "Hmph, can't you take a hint? I push my boobs out to you and somehow you miss them both! Useless!"
-    melody "Hmph, can't you take a hint? I push my boobs out to you and somehow you miss them both! Useless!"
+    melody "嘿，你不能明白我的暗示吗？我把我的胸部推给你，不知怎的你两个都错过了！真是没用的东西！"
 
 # game/boutique.rpy#L3154
 translate chinese melodyeveningvisit1_9f17e7dd:
@@ -10700,91 +10700,91 @@ translate chinese melodyeveningvisit1_e2777144:
 translate chinese melodyeveningvisit1_2c7efe47:
 
     # melody "Morning sleepyhead."
-    melody "Morning sleepyhead."
+    melody "早上睡过头了。"
 
 # game/boutique.rpy#L3249
 translate chinese melodyeveningvisit1_aed9bc2b:
 
     # "I turn around to see Melody drying herself with a towel, post-shower."
-    "I turn around to see Melody drying herself with a towel, post-shower."
+    "我转过身来，看到Melody在洗澡后用毛巾擦干身子。"
 
 # game/boutique.rpy#L3251
 translate chinese melodyeveningvisit1_96da44e7:
 
     # melody "Can't say I anticipated you staying the night, but it's no harm. It was nice cuddling with you."
-    melody "Can't say I anticipated you staying the night, but it's no harm. It was nice cuddling with you."
+    melody "我没有料到你会在这儿过夜，但这没什么坏处。和你搂在一起感觉真好。"
 
 # game/boutique.rpy#L3252
 translate chinese melodyeveningvisit1_4a4fab37:
 
     # melody "You gonna join me for breakfast?"
-    melody "You gonna join me for breakfast?"
+    melody "你想和我一起吃早餐吗？"
 
 # game/boutique.rpy#L3253
 translate chinese melodyeveningvisit1_b9710c73:
 
     # mc "Sure thing."
-    mc "Sure thing."
+    mc "当然可以。"
 
 # game/boutique.rpy#L3256
 translate chinese melodyeveningvisit1_71a26ad6:
 
     # "I go downstairs and enjoy some breakfast with Melody, Ruby hasn't even woken up yet. Makes sense because it's 7:15am."
-    "I go downstairs and enjoy some breakfast with Melody, Ruby hasn't even woken up yet. Makes sense because it's 7:15am."
+    "我下楼和Melody一起吃早餐，Ruby还没醒呢。不过这很正常，现在才早上7点15分。"
 
 # game/boutique.rpy#L3258
 translate chinese melodyeveningvisit1_e1b664ac:
 
     # melody "I'm gonna leave for college. Feel free to shower, or whatever."
-    melody "I'm gonna leave for college. Feel free to shower, or whatever."
+    melody "我要去上学了。你随便洗个澡吧。"
 
 # game/boutique.rpy#L3259
 translate chinese melodyeveningvisit1_9b52a10e:
 
     # melody "I don't think Ruby would be that confused if you were here when she wakes up, heh."
-    melody "I don't think Ruby would be that confused if you were here when she wakes up, heh."
+    melody "如果Ruby醒来的时候发现你在这里，我想她应该不会感到奇怪的，哈哈。"
 
 # game/boutique.rpy#L3260
 translate chinese melodyeveningvisit1_ff75de01:
 
     # mc "No worries, I'll go shower at home I think, I live close enough anyway."
-    mc "No worries, I'll go shower at home I think, I live close enough anyway."
+    mc "没关系，我想我还是回去洗澡算了。我家离这儿很近。"
 
 # game/boutique.rpy#L3261
 translate chinese melodyeveningvisit1_9157fbb3:
 
     # melody "See you around, champ."
-    melody "See you around, champ."
+    melody "小可爱，回头见。"
 
 # game/boutique.rpy#L3263
 translate chinese melodyeveningvisit1_83442926:
 
     # "I finish my breakfast and drink before returning home for a shower."
-    "I finish my breakfast and drink before returning home for a shower."
+    "我吃完早餐，喝了点小酒，然后回家洗澡。"
 
 # game/boutique.rpy#L3267
 translate chinese rubylingeriesex_b3e1d2f4:
 
     # "You unlocked a secret scene! Requirements met: Work with Ruby after finishing her route. 50%% chance."
-    "You unlocked a secret scene! Requirements met: Work with Ruby after finishing her route. 50%% chance."
+    "你解锁了一个秘密场景！达成条件：完成Ruby的剧情。几率为50%% 。"
 
 # game/boutique.rpy#L3268
 translate chinese rubylingeriesex_3f497396:
 
     # "During work…"
-    "During work…"
+    "在工作的时候…"
 
 # game/boutique.rpy#L3271
 translate chinese rubylingeriesex_1bdbfb37:
 
     # ruby "Hey, darling. Could you help me with a particular task? I'll need you to come to my room."
-    ruby "Hey, darling. Could you help me with a particular task? I'll need you to come to my room."
+    ruby "嘿，亲爱的。你能帮我完成一项特别的工作吗？我需要你到我房间来。"
 
 # game/boutique.rpy#L3272
 translate chinese rubylingeriesex_f6c6d7c4:
 
     # mc "What about the shop floor?"
-    mc "What about the shop floor?"
+    mc "那工作区该怎么办？"
 
 # game/boutique.rpy#L3273
 translate chinese rubylingeriesex_57b0e6c2:
@@ -10808,19 +10808,19 @@ translate chinese rubylingeriesex_ce617998:
 translate chinese rubylingeriesex_c2d67d47:
 
     # ruby "You see, darling? Quite the problem indeed, I can’t concentrate at all when I’m this aroused."
-    ruby "You see, darling? Quite the problem indeed, I can’t concentrate at all when I’m this aroused."
+    ruby "亲爱的，你发现了吗？当我这么激动的时候，我一点也不能集中精神工作，这真是个大问题。"
 
 # game/boutique.rpy#L3283
 translate chinese rubylingeriesex_59ff7d93:
 
     # mc "Hmm, yes. I believe I do see the problem."
-    mc "Hmm, yes. I believe I do see the problem."
+    mc "啊，是这样。我确信我发现了这个问题。"
 
 # game/boutique.rpy#L3284
 translate chinese rubylingeriesex_f3010e01:
 
     # ruby "Could you pound this frustration out of me, perhaps?"
-    ruby "Could you pound this frustration out of me, perhaps?"
+    ruby "你能帮我把沮丧劲儿发泄出来吗？"
 
 # game/boutique.rpy#L3285
 translate chinese rubylingeriesex_6a08269e:
@@ -10844,13 +10844,13 @@ translate chinese rubylingeriesex_1cfbd80e:
 translate chinese rubylingeriesex_428dac08:
 
     # ruby "Hehe, I could roleplay that if you’d like, debasing myself is arousing."
-    ruby "Hehe, I could roleplay that if you’d like, debasing myself is arousing."
+    ruby "嘿嘿，如果你愿意的话，我们可以玩角色扮演“游戏”，贬低自己也是一种激励。"
 
 # game/boutique.rpy#L3289
 translate chinese rubylingeriesex_e1538be9:
 
     # ruby "Perhaps I could throw you another five monies as a tip for an excellent job."
-    ruby "Perhaps I could throw you another five monies as a tip for an excellent job."
+    ruby "也许我可以再给你五块钱作为你完美完成工作的小费。"
 
 # game/boutique.rpy#L3291
 translate chinese rubylingeriesex_4a72c6a8:
