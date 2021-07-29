@@ -1472,7 +1472,7 @@ translate chinese farmvisit1_4da248f3:
 translate chinese farmvisit1_f1817b6a:
 
     # "I just got an idea though, I’ll pick all the apples Honeycrisp asks of me, then I’ll stick around and talk to her sister, maybe she can help me."
-    "I just got an idea though, I’ll pick all the apples Honeycrisp asks of me, then I’ll stick around and talk to her sister, maybe she can help me."
+    "不过，我刚有个主意，我会把Honeycrisp要我摘的苹果都摘下来，然后我会留下来和她妹妹谈谈，也许她能帮我。"
 
 # game/farm.rpy#L489
 translate chinese farmvisit1_9875f257:
@@ -1520,13 +1520,13 @@ translate chinese farmvisit1_bbcd417b:
 translate chinese farmvisit1_63aa36b0:
 
     # honeycrisp "Oh I bet you are stud; your physical performance has more than met my standards today."
-    honeycrisp "Oh I bet you are stud; your physical performance has more than met my standards today."
+    honeycrisp "哦，我敢打赌你跟种马的精力差不多；你今天的表现超过了我的预期标准。"
 
 # game/farm.rpy#L509
 translate chinese farmvisit1_fc822341:
 
     # honeycrisp "We sure did stud, if you ever come back here, I’ll make sure there’s plenty of fun work we can do together."
-    honeycrisp "We sure did stud, if you ever come back here, I’ll make sure there’s plenty of fun work we can do together."
+    honeycrisp "我们之间的配合真的很好，如果你下次再来，我会确保我们可以一起做更多有趣的工作。"
 
 # game/farm.rpy#L510
 translate chinese farmvisit1_1c65411d:

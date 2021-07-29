@@ -1778,7 +1778,7 @@ translate chinese lilytj_cd1e4773:
 translate chinese lilytj_ce16c4d2:
 
     # "She pushes me against a wall and leans on me with the sexual aggression of a mare in heat."
-    "她把我推到墙上，发情母兽用性侵犯的姿态倚在我身上。"
+    "她把我推到墙上，就像其他狂热的发情雌驹一样，娇躯将我狠狠压住。"
 
 # game/library.rpy#L537
 translate chinese lilytj_9a1f4f9a:
@@ -1892,7 +1892,7 @@ translate chinese lilytj_7d5cbd0c:
 translate chinese lilytj_6b68ef58:
 
     # "Her movements are silky smooth as her hips gyrate up and down my shaft. She’s getting faster too."
-    "她的动作如丝绸般顺滑，她的臀部在我的轴上回旋。速度也越来越快了。"
+    "她的动作如丝绸般顺滑，她的臀部在我的长枪上回旋。速度也越来越快了。"
 
 # game/library.rpy#L559
 translate chinese lilytj_88e9afcb:
@@ -7898,7 +7898,7 @@ translate chinese libraryvisit2choice11_bd0fca69:
 translate chinese libraryvisit2choice11_053cc272:
 
     # moxie "No hints, I'm seconds away from sliding your cock inside me."
-    moxie "没有任何暗示，我马上就要把你的肉棒滑进我体内了。"
+    moxie "不来前戏，我马上就要把你的肉棒滑进我体内了。"
 
 # game/library.rpy#L2183
 translate chinese libraryvisit2choice11_6a8da381:
@@ -7916,7 +7916,7 @@ translate chinese libraryvisit2choice11_da6b4c73:
 translate chinese libraryvisit2choice11_adb52f40:
 
     # moxie "Can I come shower too? Hehe, no, no, I showered this morning."
-    moxie "我也可以来洗澡吗？哈哈，不不，我早上就已经洗了。"
+    moxie "让我也来洗澡吗？哈哈，我早上就已经洗了。"
 
 # game/library.rpy#L2192
 translate chinese libraryvisit2choice11_0c5221d3:
@@ -7928,25 +7928,25 @@ translate chinese libraryvisit2choice11_0c5221d3:
 translate chinese libraryvisit2choice11_f242f3ea:
 
     # moxie "You could always have one here, but... I bet her cooking is delicious heh."
-    moxie "你可以一直在这里，但是.......我打赌她做的菜很好吃。"
+    moxie "你其实可以一直在这，不过.......我想她做的菜更好吃吧。"
 
 # game/library.rpy#L2195
 translate chinese libraryvisit2choice11_e24a86b8:
 
     # moxie "Come finish me off later, hehehe..."
-    moxie "晚点来干掉我，嘿嘿......"
+    moxie "之后再来解决我吧，嘿嘿......"
 
 # game/library.rpy#L2197
 translate chinese libraryvisit2choice11_a20cefa7:
 
     # "..."
-    "..."
+    "...…"
 
 # game/library.rpy#L2200
 translate chinese libraryvisit2choice11_5c4aad6f:
 
     # moxie "You go shower, and I’ll start cooking, it’ll nearly be done by the time you get back."
-    moxie "你去洗澡，我开始做饭，等你回来的时候就快做完了。"
+    moxie "你去洗澡，我做饭，等你回来的时候就做完了。"
 
 # game/library.rpy#L2201
 translate chinese libraryvisit2choice11_67bccabd:
@@ -7958,19 +7958,19 @@ translate chinese libraryvisit2choice11_67bccabd:
 translate chinese libraryvisit2choice11_ce617998_1:
 
     # "…"
-    "..."
+    "...…"
 
 # game/library.rpy#L2206
 translate chinese libraryvisit3_1e02ca2f:
 
     # "Today’s the big day, I’m going to visit the castle with Moxie and Lily. I hope they don’t bicker too much amongst themselves."
-    "今天可是个大日子！我要和Moxie、Lily一起去参观城堡。希望她们俩之间不会有过多的争吵"
+    "今天可是个大日子！我要和Moxie、Lily一起去参观城堡。希望她们俩位之间不会起冲突。"
 
 # game/library.rpy#L2207
 translate chinese libraryvisit3_58002e83:
 
     # "Although it’s more likely to be quiet and awkward between us."
-    "虽然我们之间更可能是安静和尴尬。"
+    "虽然更可能是安静和尴尬。"
 
 # game/library.rpy#L2208
 translate chinese libraryvisit3_afa82419:
@@ -8000,13 +8000,13 @@ translate chinese libraryvisit3_7c116098:
 translate chinese libraryvisit3_2a3b56da:
 
     # mc "What time are we leaving?"
-    mc "我们什么时候走？"
+    mc "我们什么时候出发？"
 
 # game/library.rpy#L2223
 translate chinese libraryvisit3_901e8d0a:
 
     # lily "I’d say we should head out in two hours; we’ll be able to catch the Queen before lunch."
-    lily "我想我们应该两小时后出发；我们可以在午饭前赶上女王。"
+    lily "我想我们应该两小时后出发；我们可以在午饭前赶上陛下。"
 
 # game/library.rpy#L2224
 translate chinese libraryvisit3_f49978b1:
@@ -8018,13 +8018,13 @@ translate chinese libraryvisit3_f49978b1:
 translate chinese lilylegsupmissionary_f04bc9f7:
 
     # lily "Actually uhh, there's one thing I want to do with you..."
-    lily "事实上，我想和你做一件事......"
+    lily "其实嘛，我想和你做一件事......"
 
 # game/library.rpy#L2233
 translate chinese lilylegsupmissionary_62868030:
 
     # "She closes the distance and places a hand on my chest, which slowly falls to my pelvis and then my cock."
-    "她拉近了距离，把一只手放在我的胸前，慢慢地落在我的骨盆上，接着伸向我的鸡儿。"
+    "她逐渐拉近了距离，开始把一只手放在我的胸前，然后慢慢地落在我的骨盆上，最终伸向我的鸡儿。"
 
 # game/library.rpy#L2234
 translate chinese lilylegsupmissionary_2d3a868c:
@@ -8060,25 +8060,25 @@ translate chinese lilylegsupmissionary_7bec6882:
 translate chinese lilylegsupmissionary_a8d89454:
 
     # mc "No build up, no flirting, just sex?"
-    mc "没有造势，没有调情，只有做爱？"
+    mc "没有前戏，没有调情，直接开做？"
 
 # game/library.rpy#L2247
 translate chinese lilylegsupmissionary_2b442289:
 
     # lily "All I have to do is spread my legs and you can put it in, it's easy!"
-    lily "我所要做的就是伸开我的腿，你可以把它放进去，很简单！"
+    lily "我要做的就是张开我的双腿，你把它塞进去，就那么简单！"
 
 # game/library.rpy#L2248
 translate chinese lilylegsupmissionary_60960ec1:
 
     # "Awh sheesh, she was an innocent virgin only a few days ago."
-    "她几天前还是个无辜的处女。"
+    "她明明几天前还是位清纯处女。"
 
 # game/library.rpy#L2252
 translate chinese lilylegsupmissionary_557f2fe9:
 
     # "She presses my now erect cock between her thighs and starts to grind against me, I can't help but fondle her cute ass."
-    "她把我现在勃起的长枪压在大腿之间，开始与我磨擦，我情不自禁地抚摸着她可爱的屁股。"
+    "现在她把我勃起的长枪压在大腿之间开始磨擦，而我则情不自禁地抚摸着她可爱的屁股。"
 
 # game/library.rpy#L2253
 translate chinese lilylegsupmissionary_e9ca453a:
@@ -10808,139 +10808,139 @@ translate chinese lilysex_15f1fb32:
 translate chinese lilysex_a393457f:
 
     # "Before I can even comprehend her lecherous words, the cute purple mare takes charge by straddling my cock between her thighs."
-    "Before I can even comprehend her lecherous words, the cute purple mare takes charge by straddling my cock between her thighs."
+    "我对她突如其来的污言秽语还没来得及反应，这匹可爱的紫色雌驹就已经跨坐在我的肉棒之间用她丰腴的腿沟夹紧抽拉了。"
 
 # game/library.rpy#L3131
 translate chinese lilysex_41bea2ee:
 
     # lily "Mmphh, look how wet my pussy is already, I'm just aching for your cock..."
-    lily "Mmphh, look how wet my pussy is already, I'm just aching for your cock..."
+    lily "嗯，看人家下面都湿成什么样儿了，你的鸡巴让我神魂颠倒......"
 
 # game/library.rpy#L3132
 translate chinese lilysex_73e6bd2e:
 
     # lily "Hehe, you always make me horny [playername], you're my ideal lover."
-    lily "Hehe, you always make me horny [playername], you're my ideal lover."
+    lily "嘿嘿，[playername]，每次见了你我都把持不住，你就是我的理想型爱侣。"
 
 # game/library.rpy#L3133
 translate chinese lilysex_3356f6fe:
 
     # "She stands on her tippy toes and positions herself against my chest. My shaft is comfortably nestled between her warm thighs and dripping wet vulva."
-    "She stands on her tippy toes and positions herself against my chest. My shaft is comfortably nestled between her warm thighs and dripping wet vulva."
+    "她踮起脚尖，靠在我的胸口。我的肉棒舒适地依偎在她温暖的大腿和滴湿的桃花源口之间。"
 
 # game/library.rpy#L3134
 translate chinese lilysex_4dda44e0:
 
     # lily "Ooo, I feel like I could melt when I'm this close to you."
-    lily "Ooo, I feel like I could melt when I'm this close to you."
+    lily "哦，离你这么近，我都感觉自己快融化了。"
 
 # game/library.rpy#L3135
 translate chinese lilysex_ce16c4d2:
 
     # "She pushes me against a wall and leans on me with the sexual aggression of a mare in heat."
-    "She pushes me against a wall and leans on me with the sexual aggression of a mare in heat."
+    "她把我推到墙上，就像其他狂热的发情雌驹一样，娇躯将我狠狠压住。"
 
 # game/library.rpy#L3136
 translate chinese lilysex_6fcd4c36:
 
     # "Her hips gently gyrate against my shaft. It’s such a subtle motion that it seems subconscious."
-    "Her hips gently gyrate against my shaft. It’s such a subtle motion that it seems subconscious."
+    "她的臀部轻轻地在我的长枪上扭动。这动作是如此的微妙，似乎是下意识的。"
 
 # game/library.rpy#L3137
 translate chinese lilysex_3f4ba541:
 
     # lily "Ohh fuck yeah, make me your little slut."
-    lily "Ohh fuck yeah, make me your little slut."
+    lily "哦淦啊，人家是你的小母狗。"
 
 # game/library.rpy#L3138
 translate chinese lilysex_07c41b22:
 
     # "Her arms wrap behind my back as she nuzzles my chest and grinds against my erection in a lewd embrace."
-    "Her arms wrap behind my back as she nuzzles my chest and grinds against my erection in a lewd embrace."
+    "她的手臂缠抱在我的背后，俏脸不忘在我的胸口轻吻，我的肉棒在这个淫靡的拥抱中被摩擦挤弄着。"
 
 # game/library.rpy#L3139
 translate chinese lilysex_2068ebc1:
 
     # lily "Haahh, this feels so good... I love squishing your dick between my thighs."
-    lily "Haahh, this feels so good... I love squishing your dick between my thighs."
+    lily "哈啊，人家喜欢用两腿摩擦你的肉棒...真是心旷神怡。"
 
 # game/library.rpy#L3140
 translate chinese lilysex_e7b4ff46:
 
     # mc "You're such a dirty girl."
-    mc "You're such a dirty girl."
+    mc "你真是个骚气的女孩纸。"
 
 # game/library.rpy#L3141
 translate chinese lilysex_b395d0d8:
 
     # "Her slow and methodic thrusts are tight and pleasureful as she smoothly glides her wet folds up and down against my erection."
-    "Her slow and methodic thrusts are tight and pleasureful as she smoothly glides her wet folds up and down against my erection."
+    "她缓慢却又紧致的抽拉令我飘飘欲仙，湿漉漉的穴口在我的肉棒上顺滑的来回摩擦。"
 
 # game/library.rpy#L3142
 translate chinese lilysex_298b24b3:
 
     # "Her thighs are also immensely soft and furry, it’s like a soft, erotic hug around my cock."
-    "Her thighs are also immensely soft and furry, it’s like a soft, erotic hug around my cock."
+    "她的大腿也非常柔软，毛茸茸的，紧紧包裹着我的肉棒。"
 
 # game/library.rpy#L3143
 translate chinese lilysex_61226f72:
 
     # lily "You've really brought out the slut in me [playername], I feel like I can do, and say anything to you."
-    lily "You've really brought out the slut in me [playername], I feel like I can do, and say anything to you."
+    lily "你真的把人家变成一条小母狗了[playername]，我什么都能为你做，什么都能和你说。"
 
 # game/library.rpy#L3144
 translate chinese lilysex_30114eee:
 
     # "She starts rocking back and forth quite fast now, she’s really getting into it."
-    "She starts rocking back and forth quite fast now, she’s really getting into it."
+    "她开始加快前后晃动的速度，显然是进入了状态。"
 
 # game/library.rpy#L3145
 translate chinese lilysex_7d5cbd0c:
 
     # "The tightness of her thighs combined with her speed feels surprisingly good. Especially as her wetness drips down my cock."
-    "The tightness of her thighs combined with her speed feels surprisingly good. Especially as her wetness drips down my cock."
+    "她的大腿紧绷，加上她律动的节奏让我感觉出奇的好。尤其是她的爱液顺着我的肉棒上滴滴滑落。"
 
 # game/library.rpy#L3146
 translate chinese lilysex_d892404d:
 
     # lily "Ahhh… [playername], I can feel you throbbing, I want you to cum for your naughty little slut."
-    lily "Ahhh… [playername], I can feel you throbbing, I want you to cum for your naughty little slut."
+    lily "啊啊...[playername]，你的鸡巴在悸动哦，能不能赏我这条顽皮的小母狗一些精液呢。"
 
 # game/library.rpy#L3147
 translate chinese lilysex_ff686f78:
 
     # "Her movements are silky smooth as her hips gyrate up and down my shaft. Even faster now."
-    "Her movements are silky smooth as her hips gyrate up and down my shaft. Even faster now."
+    "她的动作如丝绸般顺滑，她的美臀在我的长枪上回旋。速度也越来越快了。"
 
 # game/library.rpy#L3148
 translate chinese lilysex_d4e4b6a4:
 
     # "She sinks her head back into my chest and continues to grind against my shaft."
-    "She sinks her head back into my chest and continues to grind against my shaft."
+    "她把头埋进我的胸膛，继续在我的肉棒上磨蹭。"
 
 # game/library.rpy#L3149
 translate chinese lilysex_65f9727a:
 
     # lily "Mmphh, my pussy feels so good."
-    lily "Mmphh, my pussy feels so good."
+    lily "嗯，人家的小穴痒得不行了。"
 
 # game/library.rpy#L3150
 translate chinese lilysex_bbf2f496:
 
     # "She starts to rub her clit as she bounces against my pelvis, with more recklessness by the moment."
-    "She starts to rub her clit as she bounces against my pelvis, with more recklessness by the moment."
+    "在我的胯部不断摩擦时，还不忘越来越激烈地摩擦自己的阴蒂。"
 
 # game/library.rpy#L3151
 translate chinese lilysex_8d3ad7d6:
 
     # "Passion rises and so does my orgasm, as I get closer and closer to cumming."
-    "Passion rises and so does my orgasm, as I get closer and closer to cumming."
+    "绵绵的情欲同我的射精欲望节节攀升，我快把持不住了。"
 
 # game/library.rpy#L3152
 translate chinese lilysex_f423a037:
 
     # lily "Ahh, ahhh, I'm gonna come baby, cum with me! Ahhh, ah!"
-    lily "Ahh, ahhh, I'm gonna come baby, cum with me! Ahhh, ah!"
+    lily "啊，啊啊，我要去了，宝贝，和我一起高潮吧！啊，啊！"
 
 # game/library.rpy#L3157
 translate chinese lilysex_f747280d:
@@ -10964,25 +10964,25 @@ translate chinese lilysex_9b2bcac6:
 translate chinese lilysex_7e7035e4:
 
     # lily "Ehehe, hehehe, it's going to be a productive day today."
-    lily "Ehehe, hehehe, it's going to be a productive day today."
+    lily "哈哈，今天将会是富有成效的一天。"
 
 # game/library.rpy#L3173
 translate chinese lilysex_c4cba3bd:
 
     # lily "You know what I really enjoyed? When you took me from behind while we were standing."
-    lily "You know what I really enjoyed? When you took me from behind while we were standing."
+    lily "你知道我最喜欢什么感觉吗？你后入我的感觉。"
 
 # game/library.rpy#L3174
 translate chinese lilysex_14efa6fe:
 
     # lily "There's something so primal and aggressive about it, makes me swoon."
-    lily "There's something so primal and aggressive about it, makes me swoon."
+    lily "这种狂野和被侵犯的感觉让我神魂颠倒。"
 
 # game/library.rpy#L3176
 translate chinese lilysex_ef33ed35:
 
     # mc "Primal? Alright, let's do it."
-    mc "Primal? Alright, let's do it."
+    mc "狂野？行吧，那就开始吧。"
 
 # game/library.rpy#L3183
 translate chinese lilysex_72dee0fd:
@@ -12044,73 +12044,73 @@ translate chinese penelopework_b1cd4701:
 translate chinese penelopework_a2d8901c:
 
     # penelope "I had been under Morrigan's care for years after she saved my life, took me in, and taught me everything I knew."
-    penelope "I had been under Morrigan's care for years after she saved my life, took me in, and taught me everything I knew."
+    penelope "在Morrigan救了我的命，收留了我，教会了我所知道的一切之后，我已经在她的照顾下生活了好几年了。"
 
 # game/library.rpy#L3529
 translate chinese penelopework_fe9048f8:
 
     # penelope "I was kinda... manipulated, I guess..."
-    penelope "I was kinda... manipulated, I guess..."
+    penelope "我有点…我想是我被操纵了…"
 
 # game/library.rpy#L3530
 translate chinese penelopework_d14b8a44:
 
     # penelope "But Morrigan made one big mistake, she taught me too well so I eventually outgrew her aggressive and toxic philosophies."
-    penelope "But Morrigan made one big mistake, she taught me too well so I eventually outgrew her aggressive and toxic philosophies."
+    penelope "但Morrigan犯了一个大错，她把我教的太好了，所以我最终摆脱了她咄咄逼人和毒辣的哲学。"
 
 # game/library.rpy#L3531
 translate chinese penelopework_f80251e1:
 
     # penelope "Like an idiot I stuck around hoping I could 'change', or 'improve' her."
-    penelope "Like an idiot I stuck around hoping I could 'change', or 'improve' her."
+    penelope "我像个白痴一样一直希望能“改变”她，或者“改善”她。"
 
 # game/library.rpy#L3532
 translate chinese penelopework_1fc59257:
 
     # penelope "Ahh, ahh, and I was kinda infatuated with her... I'll be honest, I still am..."
-    penelope "Ahh, ahh, and I was kinda infatuated with her... I'll be honest, I still am..."
+    penelope "啊，啊，还有，我有点迷恋她…老实说，我还是…"
 
 # game/library.rpy#L3533
 translate chinese penelopework_eee8d662:
 
     # penelope "But even I have my limits."
-    penelope "But even I have my limits."
+    penelope "不过我还是有自己的底线的。"
 
 # game/library.rpy#L3534
 translate chinese penelopework_d6e04478:
 
     # mc "Well, she almost killed you..."
-    mc "Well, she almost killed you..."
+    mc "她差点杀了你…"
 
 # game/library.rpy#L3536
 translate chinese penelopework_638ecda0:
 
     # penelope "Y-Yeah... I am so full of shame right now, euughh..."
-    penelope "Y-Yeah... I am so full of shame right now, euughh..."
+    penelope "是-是的…我现在很羞愧，呃…"
 
 # game/library.rpy#L3537
 translate chinese penelopework_41e4c14f:
 
     # penelope "Hey, think you can cheer me up?"
-    penelope "Hey, think you can cheer me up?"
+    penelope "嘿，你能让我振作起来吗？"
 
 # game/library.rpy#L3538
 translate chinese penelopework_4e8ac1a5:
 
     # mc "Huh? How can do I do that?"
-    mc "Huh? How can do I do that?"
+    mc "呃？我能做啥？"
 
 # game/library.rpy#L3540
 translate chinese penelopework_72ef0ba9:
 
     # penelope "Meeehhh, I want a good dicking."
-    penelope "Meeehhh, I want a good dicking."
+    penelope "呐呐，我想被好好的透上一发。"
 
 # game/library.rpy#L3541
 translate chinese penelopework_742901db:
 
     # mc "Wha?!"
-    mc "Wha?!"
+    mc "哇？！"
 
 # game/library.rpy#L3543
 translate chinese penelopework_388d53dc:
@@ -12122,19 +12122,19 @@ translate chinese penelopework_388d53dc:
 translate chinese penelopework_c5f14dda:
 
     # mc "I thought you were gay!"
-    mc "I thought you were gay!"
+    mc "我记得你说过你是个gay!"
 
 # game/library.rpy#L3546
 translate chinese penelopework_4561920d:
 
     # penelope "Oh? The only reason I made that excuse is because I didn't want to fall under the spells Morrigan placed on you."
-    penelope "Oh? The only reason I made that excuse is because I didn't want to fall under the spells Morrigan placed on you."
+    penelope "哦？我找这个借口的唯一原因是因为我不想你被我的咒语迷住。"
 
 # game/library.rpy#L3547
 translate chinese penelopework_9b5c407e:
 
     # penelope "Truth is I'm bisexual. Sorry if that feels cheap to you, but I feel like I need to stop lying to people now."
-    penelope "Truth is I'm bisexual. Sorry if that feels cheap to you, but I feel like I need to stop lying to people now."
+    penelope "事实上我是双性恋。抱歉，你可能觉得这很尴尬，但我觉得我现在需要停止对别人撒谎。"
 
 # game/library.rpy#L3548
 translate chinese penelopework_6dec4620:

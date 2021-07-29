@@ -1838,19 +1838,19 @@ translate chinese cfarm_e3d545dd:
 translate chinese cfarm_560cc9e0:
 
     # honeycrisp "Well I’ll be, I haven’t heard anything from the Queen; but if it’s coming from you, it must be true."
-    honeycrisp "我会的，尽管我没有收到女王的任何消息;但如果是你说的，那肯定是真的。"
+    honeycrisp "我会的，尽管我没有收到女王的任何消息；但如果是你说的，那肯定是真的。"
 
 # game/finalroute.rpy#L797
 translate chinese cfarm_94581e67:
 
     # mc "{i}Exactly!{/i} Blossom is preparing your bedroom I think, let’s go."
-    mc "{i}正是如此！{/i}Blossom正在准备你的卧室呢，咱们走吧。"
+    mc "{i}好样儿的！{/i}Blossom正在准备你的卧室呢，咱们走吧。"
 
 # game/finalroute.rpy#L799
 translate chinese cfarm_1ec322b3:
 
     # honeycrisp "Absolutely stud, me and my little sister will always be eager to serve."
-    honeycrisp "当然了，我和我的妹妹时刻准备威为您服务。"
+    honeycrisp "当然了，我和我的妹妹时刻准备为您服务。"
 
 # game/finalroute.rpy#L800
 translate chinese cfarm_9b2d488d:
@@ -3752,7 +3752,7 @@ translate chinese cbakery_8dc0dff8:
 translate chinese cbakery_ccc640f4:
 
     # cream "Ohh my gosh, oh my gosh! I’m totally not prepared to fight a big bad! She totally caught me with my tail up!"
-    cream "天啦噜！现在我完全没有准备好与大坏蛋作斗争呀！而她已经完全抓住了我的弱点！"
+    cream "天啦噜！我现在完全没有准备好与大坏蛋作斗争呀！而她已经完全抓住了我的弱点！"
 
 # game/finalroute.rpy#L1409
 translate chinese cbakery_00571e6f:
@@ -3806,13 +3806,13 @@ translate chinese treemeeting_c935e0ca:
 translate chinese treemeeting_8f84c44e:
 
     # morrigan "I feel so powerful! Is this how strong an alicorn is?"
-    morrigan "我觉得自己充满了力量!这就是天角兽的伟力吗?"
+    morrigan "我觉得自己充满了力量！这就是天角兽的伟力吗?"
 
 # game/finalroute.rpy#L1439
 translate chinese treemeeting_f17a200c:
 
     # morrigan "If I'm twice as strong as even this, no one would be able to stop me! Ihihi!"
-    morrigan "等到我完全掌握这股力量，我将无人能敌!I哈哈哈哈!"
+    morrigan "等到我完全掌握这股力量，我将无人能敌！哈哈哈哈！"
 
 # game/finalroute.rpy#L1440
 translate chinese treemeeting_2d61008c:
@@ -3896,19 +3896,19 @@ translate chinese treemeeting_c37cc494:
 translate chinese treemeeting_9c3cb90d:
 
     # penelope "Morrigan! I am ashamed! I told you that I'd only help if there was no killing. You must respect that!"
-    penelope "Morrigan！我真为你感到羞愧！我告诉过你，我会帮忙，但是前提是你不许滥杀无辜。你得尊重这一点!"
+    penelope "Morrigan！我真为你感到羞愧！我告诉过你，我会帮忙，但是前提是你不许滥杀无辜。你得尊重这一点！"
 
 # game/finalroute.rpy#L1473
 translate chinese treemeeting_4f9eff97:
 
     # morrigan "Hah, respect, you? You're just a minion. You're lucky that I deem to notice you."
-    morrigan "哈，尊重，你？你只是个奴才罢了。我能注意到你，是你上辈子修来的福气。"
+    morrigan "哈，尊重——你？你只是个奴才罢了。我能注意到你，是你上辈子修来的福气。"
 
 # game/finalroute.rpy#L1475
 translate chinese treemeeting_09c564ff:
 
     # penelope "Ah- minion? You're awful! My Que... no... I can't..."
-    penelope "啊——奴才？你这个烂人!我的女王…不…我不能……"
+    penelope "啊——奴才？你这个烂人！我的女王…不…我不能……"
 
 # game/finalroute.rpy#L1477
 translate chinese treemeeting_069ef81f:
@@ -3962,7 +3962,7 @@ translate chinese treemeeting_85711887:
 translate chinese treemeeting_87adba93:
 
     # "Having finished fucking the last of the elements, I have ten minutes to return to the treehouse."
-    "干完最后一位和谐之源的掌握者后，我还有十分钟要回树屋。"
+    "干完最后一位和谐之源的掌握者后，我还有十分钟赶到树屋。"
 
 # game/finalroute.rpy#L1496
 translate chinese treemeeting_29a1831b_1:
@@ -4250,7 +4250,7 @@ translate chinese skipaltreemeeting_58dc7941:
 translate chinese skipaltreemeeting_420b2649:
 
     # riku "Wait, am I hearing this right, [playername]’s job is to sleep with the Queen and Princess? Guess it’s not the first time, hah!"
-    riku "等等，我没听错吧，[playername]的任务是和女王和公主干炮？看来这可不是第一次了呀，哈哈！"
+    riku "等等，我没听错吧，[playername]的任务是和女王和公主干炮？看来这可不是第一次干了呀，哈哈！"
 
 # game/finalroute.rpy#L1661
 translate chinese skipaltreemeeting_fa5e7e03:

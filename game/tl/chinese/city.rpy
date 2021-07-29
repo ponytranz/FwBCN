@@ -2162,7 +2162,7 @@ translate chinese melodylaptop_77ddb714:
 translate chinese melodylaptop_0ed567d4:
 
     # melody "Well, you never know! We're not exactly strangers to having someone walk in on us..."
-    melody "Well, you never know! We're not exactly strangers to having someone walk in on us..."
+    melody "好吧，很难说！我们对有人朝我们走过来并不陌生..."
 
 # game/city.rpy#L1094
 translate chinese melodylaptop_7a47378f:
@@ -2306,7 +2306,7 @@ translate chinese melodylaptop_525bb82f:
 translate chinese melodylaptop_dc119958:
 
     # "However, Melody's moans and sweet talking tips me over the edge and I begin to orgasm."
-    "However, Melody's moans and sweet talking tips me over the edge and I begin to orgasm."
+    "但是，Melody的呻吟和甜言蜜语还是把我推向了高潮。"
 
 # game/city.rpy#L1135
 translate chinese melodylaptop_b8eff837:
@@ -2432,7 +2432,7 @@ translate chinese melodylaptop_431b2bb6:
 translate chinese melodylaptop_ddf9bbc4:
 
     # "Feeling daring, I take advantage of her position to cuddle her. She welcomes the move, and takes it a step further by moving in for a tender kiss."
-    "Feeling daring, I take advantage of her position to cuddle her. She welcomes the move, and takes it a step further by moving in for a tender kiss."
+    "我觉得很大胆，就顺势搂住她。她对这一举动表示欢迎，于是我乘机得寸进尺，开始亲吻她。"
 
 # game/city.rpy#L1181
 translate chinese melodylaptop_501e84b7:

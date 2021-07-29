@@ -3512,7 +3512,7 @@ translate chinese creamvmissionary_a502d133:
 translate chinese creamvmissionary_775859aa:
 
     # ruby "Mmmphhh, you feel so good inside me..."
-    ruby "嗯嗯，你在我里面的感觉真好..."
+    ruby "嗯嗯，你在我里面的感觉真好……"
 
 # game/bakery.rpy#L1131
 translate chinese creamvmissionary_7af434d3:
@@ -3590,7 +3590,7 @@ translate chinese creamvmissionary_4e893d9d:
 translate chinese creamvmissionary_2d7c9785:
 
     # ruby "Ohh, yes… Mmm…"
-    ruby "Ohh, yes… Mmm…"
+    ruby "哦，没错……嗯……"
 
 # game/bakery.rpy#L1174
 translate chinese creamvmissionary_ce2b3485:
