@@ -2822,7 +2822,7 @@ translate chinese zoelum_67ffbee5:
 translate chinese zoelum_459bebb8:
 
     # "Her cute breasts, and their function of which I’m not entirely sure, sport two green nipples which had become noticeably puffy and erect since penetration."
-    "她可爱的乳房，（虽然我不清楚花妖张长这玩意儿有啥用）在我入侵她的花园后，它们明显大了一圈，乳头也勃了起来。"
+    "她可爱的乳房，（虽然我不清楚花妖长这玩意儿有啥用）在我入侵她的花园后，它们明显大了一圈，乳头也勃了起来。"
 
 # game/deepforest.rpy#L898
 translate chinese zoelum_2e279a46:

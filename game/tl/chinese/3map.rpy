@@ -3266,7 +3266,7 @@ translate chinese cindylum_35a1b6a1:
 translate chinese cindylum_bc418a4a:
 
     # "Fucking missionary with her legs up like this makes her pussy feel even tighter, her walls squishing against my cock with every deep thrust which immensely adds to the elicited pleasure."
-    "该死的传教士姿势！她腿像这样的抬起让她的阴道感觉更紧，阴道壁紧压在我cock上，我每一次冲刺都极大地增加她的快感。"
+    "该死的男上位姿势！她腿像这样的抬起让她的阴道感觉更紧，阴道壁紧压在我的长枪上，我每一次冲刺都极大地增加她的快感。"
 
 # game/3map.rpy#L1150
 translate chinese cindylum_c8249831:
@@ -3536,7 +3536,7 @@ translate chinese cindylum_07cf3d78:
 translate chinese cindylum_1e90f006:
 
     # "Fucking missionary with her legs up like this makes her ass feel even tighter, and her insides squishing against my cock with every deep thrust immensely adds to the elicited pleasure."
-    "该死的男上位姿势！她腿像这样的抬起让她的肛门感觉更紧，温暖的肉壁紧压在我cock上，我每一次冲刺都极大地增加她的快感。"
+    "该死的男上位姿势！她腿像这样的抬起让她的肛门感觉更紧，温暖的肉壁紧压在我的长枪上，我每一次冲刺都极大地增加她的快感。"
 
 # game/3map.rpy#L1220
 translate chinese cindylum_7bd05df4:
