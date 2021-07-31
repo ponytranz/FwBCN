@@ -5522,7 +5522,7 @@ translate chinese strings:
 
     # game/3map.rpy_L1551_2
     old "Lily Legs-Up Missionary"
-    new "Lily抬腿传教士位"
+    new "Lily抬腿男上位"
 
     # game/3map.rpy_L1551_3
     old "Penelope Cunnilingus and Facesitting"

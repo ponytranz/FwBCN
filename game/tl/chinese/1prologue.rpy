@@ -3722,7 +3722,7 @@ translate chinese day2label3_fbdcf60c:
 translate chinese day2label3_304df1d9:
 
     # moxie "Right? I was curious myself, so Penny lent me some books on the subject, and I’ve done some reading."
-    moxie "或许吧？算了，我自己也参不透其中的奥秘，所以Penny借了我一些这方面的书供我研读。"
+    moxie "达什么？算了，我自己也参不透其中的奥秘，所以Penny借了我一些这方面的书供我研读。"
 
 # game/1prologue.rpy#L1123
 translate chinese day2label3_54e253eb:

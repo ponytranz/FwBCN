@@ -1067,14 +1067,14 @@
   {
     "id": 79443907,
     "createdAt": "2021-05-30T19:47:49.000Z",
-    "updatedAt": "2021-06-03T11:41:28.000Z",
+    "updatedAt": "2021-07-30T12:35:52.000Z",
     "key": "game/library.rpy_L3119_2",
     "original": "Legs-Up Missionary",
-    "translation": "抬腿传教士位",
+    "translation": "抬腿男上位",
     "file": 272385,
     "stage": 1,
     "project": 2414,
-    "uid": 21833,
+    "uid": 22062,
     "extra": null,
     "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/library.rpy#L3119",
     "words": 2

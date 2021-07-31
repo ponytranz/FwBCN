@@ -2624,7 +2624,7 @@ translate chinese succbuttersrcg_a20cefa7_3:
 translate chinese succbuttersrcg_b666840d:
 
     # butters "Sorry love, but I don't accept take-backsies."
-    butters "抱歉亲爱的，我现在可不想回去。"
+    butters "抱歉亲爱的，我这儿开弓没有回头箭。"
 
 # game/2evening%20butters.rpy#L970
 translate chinese eveningbutterssucctalk_bcc14786:

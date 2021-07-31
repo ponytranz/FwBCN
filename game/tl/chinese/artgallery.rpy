@@ -432,7 +432,7 @@ translate chinese strings:
 
     # game/artgallery.rpy_L1377_1
     old "Cindy Legs-Up Missionary (Vaginal then Anal)"
-    new "Cindy抬腿传教士位（先阴交后肛交）"
+    new "Cindy抬腿男上位（先阴交后肛交）"
 
     # game/artgallery.rpy_L1419_0
     old "Zoe"

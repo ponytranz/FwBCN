@@ -3440,7 +3440,7 @@ translate chinese creamvmissionary_f878bccf:
 translate chinese creamvmissionary_7f0db20d:
 
     # "She begs as our sex devolves into an orgasmic mess, her pussy clamps down around my cock tightly which in turn pushes me over the edge."
-    "当我们的动作幅度和速度达到顶峰时，她呻吟出声，小穴紧紧的收缩着，反过来又让我达到了射精的临界点。"
+    "当我们的动作幅度达到最高时，她乞求着，阴道剧烈的收缩刺激着我的肉棒，这让我又忍不住想要射精了。"
 
 # game/bakery.rpy#L1106
 translate chinese creamvmissionary_6eb48bbb:
@@ -3458,7 +3458,7 @@ translate chinese creamvmissionary_72890639:
 translate chinese creamvmissionary_e0b32a6e:
 
     # "Blossom finds herself snuggled against against my chest and we cuddle, still joined at the hips."
-    "Blossom 发现自己依偎在我的胸前，我们拥抱在一起，私处仍然相连。"
+    "Blossom靠过来依偎在我怀里，我们互相抱在一起，我已经瘫软的肉棒仍然在她的体内。"
 
 # game/bakery.rpy#L1115
 translate chinese creamvmissionary_b6f33902:

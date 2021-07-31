@@ -9302,14 +9302,14 @@
   {
     "id": 79420520,
     "createdAt": "2021-05-30T17:55:32.000Z",
-    "updatedAt": "2021-06-22T23:46:53.000Z",
+    "updatedAt": "2021-07-30T05:39:39.000Z",
     "key": "day2label3_304df1d9",
     "original": "Right? I was curious myself, so Penny lent me some books on the subject, and I’ve done some reading.",
-    "translation": "或许吧？算了，我自己也参不透其中的奥秘，所以Penny借了我一些这方面的书供我研读。",
+    "translation": "达什么？算了，我自己也参不透其中的奥秘，所以Penny借了我一些这方面的书供我研读。",
     "file": 272331,
     "stage": 3,
     "project": 2414,
-    "uid": 21396,
+    "uid": 22062,
     "extra": null,
     "context": "说话人: moxie \n代码: https://github.com/ponytranz/FwBCN/blob/main/game/1prologue.rpy#L1122",
     "words": 19

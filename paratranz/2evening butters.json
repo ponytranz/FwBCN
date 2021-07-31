@@ -6557,14 +6557,14 @@
   {
     "id": 79421389,
     "createdAt": "2021-05-30T17:55:32.000Z",
-    "updatedAt": "2021-06-29T07:02:30.000Z",
+    "updatedAt": "2021-07-30T12:35:01.000Z",
     "key": "succbuttersrcg_b666840d",
     "original": "Sorry love, but I don't accept take-backsies.",
-    "translation": "抱歉亲爱的，我现在可不想回去。",
+    "translation": "抱歉亲爱的，我这儿开弓没有回头箭。",
     "file": 272332,
     "stage": 3,
     "project": 2414,
-    "uid": 21396,
+    "uid": 22062,
     "extra": null,
     "context": "说话人: butters \n代码: https://github.com/ponytranz/FwBCN/blob/main/game/2evening%20butters.rpy#L965",
     "words": 7

@@ -1116,7 +1116,7 @@ translate chinese strings:
 
     # game/spa.rpy_L20_1
     old "Massage with Happy Ending - 50 monies"
-    new "Massage with Happy Ending - 50 monies"
+    new "一次舒服的按摩 - 50元"
 
     # game/spa.rpy_L20_2
     old "Massage with Blowjob - 75 monies"

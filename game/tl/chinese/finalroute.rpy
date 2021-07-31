@@ -1376,7 +1376,7 @@ translate chinese clibrary_6ee0444e:
 translate chinese clibrary_61df5792:
 
     # "Watching such a lustful display causes me to easily get an erection. I didn’t even have to ask, or order her, she just assumed the position."
-    "看着这一出淫相我一下就硬了。连问都不用问，也不用讲，她便喝下了药水。"
+    "看着这一出淫相我一下就硬了。都不用我主动表态要求，她便摆好了姿势。"
 
 # game/finalroute.rpy#L649
 translate chinese clibrary_017e88ec:
@@ -1388,7 +1388,7 @@ translate chinese clibrary_017e88ec:
 translate chinese clibrary_386528d7:
 
     # "I close the distance and prod the tip of my cock against her wet labia, not willing to waste any more time than I need to."
-    "我靠近了后把肉棒的顶端戳顶着它湿嫩的淫唇，舍不得多耗费一丝一毫本所要的时间"
+    "我向她靠近了点，然后用龟头顶着它湿嫩的阴唇，不想再浪费哪怕一分一秒的时间。"
 
 # game/finalroute.rpy#L651
 translate chinese clibrary_e4e7dcca:
@@ -1448,7 +1448,7 @@ translate chinese clibrary_580854f3:
 translate chinese clibrary_3cd2b5b3:
 
     # "She’s been indulging in light orgasmic pleasure repeatedly during the entire session. Her squelching pussy is dripping with an overabundance of juices and lust."
-    "在整个过程中她一直沉浸在轻微的高潮快感中.她滋滋作响的外阴正在释放着过多的汁液和欲望。"
+    "在整个过程中她一直沉浸在轻微的高潮快感中。她滋滋作响的外阴正在释放着过多的汁液和欲望。"
 
 # game/finalroute.rpy#L666
 translate chinese clibrary_90298718:
@@ -1466,19 +1466,19 @@ translate chinese clibrary_234f8a41:
 translate chinese clibrary_25faeacc:
 
     # "I grit my teeth and pull on her tail as a familiar feeling in my taint signals an impending orgasm."
-    "我咬紧牙关，拽着她的尾巴，我的身体里有一种熟悉的感觉,预示着即将到来的高潮。"
+    "我咬紧牙关，拽着她的尾巴，我的身体里有一种熟悉的感觉，预示着即将到来的高潮。"
 
 # game/finalroute.rpy#L673
 translate chinese clibrary_d3458e69:
 
     # "With a few last deep thrusts my cock finally releases its load deep into her vagina and womb."
-    "在最后的几次深度插入后我的肉棒终于将它的存货深入释放到了她的阴道和小穴中。"
+    "在最后的几次直至深处的插入后我的肉棒终于将它的存货深深地释放到了她的小穴和子宫中。"
 
 # game/finalroute.rpy#L680
 translate chinese clibrary_ab1e4210:
 
     # lily "Kyaaaahhhh, I want you to breed me like the slut I am! Fill my belly with your cum!"
-    lily "呃啊啊啊，我想让你把我当成荡妇来交配!用你的精液灌满我的小穴！"
+    lily "呃啊啊啊，我想让你把我当成荡妇来交配！用你的精液灌满我的小穴！"
 
 # game/finalroute.rpy#L681
 translate chinese clibrary_3d9d100c:

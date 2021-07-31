@@ -1442,14 +1442,14 @@
   {
     "id": 79442815,
     "createdAt": "2021-05-30T19:47:46.000Z",
-    "updatedAt": "2021-06-05T10:37:59.000Z",
+    "updatedAt": "2021-07-30T12:35:37.000Z",
     "key": "game/3map.rpy_L1551_2",
     "original": "Lily Legs-Up Missionary",
-    "translation": "Lily抬腿传教士位",
+    "translation": "Lily抬腿男上位",
     "file": 272371,
     "stage": 3,
     "project": 2414,
-    "uid": 21855,
+    "uid": 22062,
     "extra": null,
     "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/3map.rpy#L1551",
     "words": 3

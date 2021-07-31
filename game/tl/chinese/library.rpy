@@ -11486,145 +11486,145 @@ translate chinese lilysex_e0eef55d:
 translate chinese lilysex_bdf259cf:
 
     # "Watching such a lustful display causes me to easily get an erection. I only uttered the word and she just assumed the position..."
-    "Watching such a lustful display causes me to easily get an erection. I only uttered the word and she just assumed the position..."
+    "看着这一出淫相我一下就硬了。我刚开口要求，她便摆好了姿势。"
 
 # game/library.rpy#L3360
 translate chinese lilysex_84121637:
 
     # "I could get used to this, Lily would be great girlfriend material, and a future princess too!"
-    "I could get used to this, Lily would be great girlfriend material, and a future princess too!"
+    "我以后多半会习惯的，Lily可是块做女友的好料，更是块做公主的好料！"
 
 # game/library.rpy#L3361
 translate chinese lilysex_9414f85f:
 
     # mc "Hmm... You make a good argument."
-    mc "Hmm... You make a good argument."
+    mc "嗯...你真是主动。"
 
 # game/library.rpy#L3362
 translate chinese lilysex_68b61a99:
 
     # lily "Hey, hey! No teasing!"
-    lily "Hey, hey! No teasing!"
+    lily "喂，喂！少废话，人家要你也主动点！"
 
 # game/library.rpy#L3363
 translate chinese lilysex_6d3cf474:
 
     # mc "Heh, I'm only teasing myself if I wait."
-    mc "Heh, I'm only teasing myself if I wait."
+    mc "嘿，我要是不主动就是在给自己找罪受。"
 
 # game/library.rpy#L3364
 translate chinese lilysex_386528d7:
 
     # "I close the distance and prod the tip of my cock against her wet labia, not willing to waste any more time than I need to."
-    "I close the distance and prod the tip of my cock against her wet labia, not willing to waste any more time than I need to."
+    "我向她靠近了点，然后用龟头顶着它湿嫩的阴唇，不想再浪费哪怕一分一秒的时间。"
 
 # game/library.rpy#L3365
 translate chinese lilysex_9c4e6dfd:
 
     # lily "Mmphh, I hope my pussy is still nice and tight for your thick cock!"
-    lily "Mmphh, I hope my pussy is still nice and tight for your thick cock!"
+    lily "嗯，希望人家的小穴还是紧致如初，能把你的大肉棒侍候的服服帖帖的！"
 
 # game/library.rpy#L3366
 translate chinese lilysex_e62bf4c1:
 
     # mc "Just as tight as the first time, cutie."
-    mc "Just as tight as the first time, cutie."
+    mc "就像第一次一样紧，小可爱。"
 
 # game/library.rpy#L3369
 translate chinese lilysex_35708e77:
 
     # "I thrust my hips forward, plunging my cock into the depths of her tightness in an instant."
-    "I thrust my hips forward, plunging my cock into the depths of her tightness in an instant."
+    "我往前猛地一挺，一瞬间就将我的肉棒插入她紧绷的深处。"
 
 # game/library.rpy#L3370
 translate chinese lilysex_6663e29d:
 
     # "Lily coos and starts to rhythmically grind her butt back and forth playfully, as her pussy eases to the girth of my cock."
-    "Lily coos and starts to rhythmically grind her butt back and forth playfully, as her pussy eases to the girth of my cock."
+    "Lily低喘着，屁股开始有节奏地调戏般来回拍击着，骚逼也软滑着我肉棒的边沿。"
 
 # game/library.rpy#L3372
 translate chinese lilysex_0ef83b44:
 
     # "Knowing she has a growing kinky side, I give her a playful spank on the ass, she yelps and I start to pound her pussy."
-    "Knowing she has a growing kinky side, I give her a playful spank on the ass, she yelps and I start to pound her pussy."
+    "我知道她脑内的春意越来越盎然，给了她的小屁屁一巴掌，激出她的一声浪叫，我随即开始抽插她的蜜穴。"
 
 # game/library.rpy#L3373
 translate chinese lilysex_e74f30fe:
 
     # lily "Hahh! S-So eager! I hope my t-taaaaahhh, ahhh!"
-    lily "Hahh! S-So eager! I hope my t-taaaaahhh, ahhh!"
+    lily "哈啊！好，好想要啊！希望人家紧紧的啊啊啊啊，啊！"
 
 # game/library.rpy#L3374
 translate chinese lilysex_30cf2121:
 
     # "The pleasure overrides her ability to talk, any attempt at words is replaced with a lustful moan."
-    "The pleasure overrides her ability to talk, any attempt at words is replaced with a lustful moan."
+    "极上的快感让她难以言语，任何脱口而出的话语都变成了阵阵娇喘。"
 
 # game/library.rpy#L3375
 translate chinese lilysex_e54c391c:
 
     # lily "Gaahh, I love it when you're roughhhhhh!"
-    lily "Gaahh, I love it when you're roughhhhhh!"
+    lily "呃啊啊啊，你打得越使劲，人家越喜又欠！"
 
 # game/library.rpy#L3376
 translate chinese lilysex_c5fb0de6:
 
     # "Lily's pussy feels almost too good, and her technique has even been improving slightly."
-    "Lily's pussy feels almost too good, and her technique has even been improving slightly."
+    "Lily的小穴堪称名器，性爱技巧也越来越熟练。"
 
 # game/library.rpy#L3377
 translate chinese lilysex_e9ed1cc0:
 
     # "She's contracting and squeezing her insides around my cock similarly to how Ruby does; I wonder which book she must have learnt this from?"
-    "She's contracting and squeezing her insides around my cock similarly to how Ruby does; I wonder which book she must have learnt this from?"
+    "她的肉壁像Ruby那样开始有节律地收缩挤压着我的肉棒；不知道她是不是看了一些有关这方面的书？"
 
 # game/library.rpy#L3378
 translate chinese lilysex_d530e21d:
 
     # "With this added technique Lily’s tight pussy easily brings me close."
-    "With this added technique Lily’s tight pussy easily brings me close."
+    "Lily愈发熟练的性爱技巧和紧致的小穴让我想更快地一泻千里。"
 
 # game/library.rpy#L3379
 translate chinese lilysex_580854f3:
 
     # "My cock grows tighter and harder as it throbs in her clenching pussy."
-    "My cock grows tighter and harder as it throbs in her clenching pussy."
+    "我的肉棒在她窄紧小穴的刺激下变得更加肿胀，生硬。"
 
 # game/library.rpy#L3380
 translate chinese lilysex_3cd2b5b3:
 
     # "She’s been indulging in light orgasmic pleasure repeatedly during the entire session. Her squelching pussy is dripping with an overabundance of juices and lust."
-    "She’s been indulging in light orgasmic pleasure repeatedly during the entire session. Her squelching pussy is dripping with an overabundance of juices and lust."
+    "在整个过程中她一直沉浸在轻微的高潮快感中。她滋滋作响的外阴正在释放着过多的汁液和欲望。"
 
 # game/library.rpy#L3382
 translate chinese lilysex_90298718:
 
     # lily "Hahhh, you’re getting even harder! Y-You’re gonna make me come!"
-    lily "Hahhh, you’re getting even harder! Y-You’re gonna make me come!"
+    lily "哈啊,你下面甚至比以前更硬了！我，我快要去了！"
 
 # game/library.rpy#L3383
 translate chinese lilysex_a46ad15e:
 
     # "Lily’s pussy tightly clenches around my member, rhythmically increasing the pleasure with each passing second."
-    "Lily’s pussy tightly clenches around my member, rhythmically increasing the pleasure with each passing second."
+    "Lily的小穴紧紧裹住我的肉棒，有节律地增加着每分每秒的快乐。"
 
 # game/library.rpy#L3384
 translate chinese lilysex_25faeacc:
 
     # "I grit my teeth and pull on her tail as a familiar feeling in my taint signals an impending orgasm."
-    "I grit my teeth and pull on her tail as a familiar feeling in my taint signals an impending orgasm."
+    "我咬紧牙关，拽着她的尾巴，熟悉的感觉再次萦绕心头，预示着即将到来的高潮。"
 
 # game/library.rpy#L3389
 translate chinese lilysex_d3458e69:
 
     # "With a few last deep thrusts my cock finally releases its load deep into her vagina and womb."
-    "With a few last deep thrusts my cock finally releases its load deep into her vagina and womb."
+    "在最后的几次直至深处的插入后我的肉棒终于将它的存货深深地释放到了她的小穴和子宫中。"
 
 # game/library.rpy#L3396
 translate chinese lilysex_ab1e4210:
 
     # lily "Kyaaaahhhh, I want you to breed me like the slut I am! Fill my belly with your cum!"
-    lily "Kyaaaahhhh, I want you to breed me like the slut I am! Fill my belly with your cum!"
+    lily "呃啊啊啊，我想让你把我当成荡妇来抽插！用你的精液灌满我的小穴！"
 
 # game/library.rpy#L3397
 translate chinese lilysex_3d9d100c:
@@ -11654,7 +11654,7 @@ translate chinese lilysex_26fae9dc:
 translate chinese lilysplitsex_ce617998:
 
     # "…"
-    "…"
+    "……"
 
 # game/library.rpy#L3419
 translate chinese lilysplitsex_7b737b3e:
@@ -11972,7 +11972,7 @@ translate chinese lilysplitsex_5e6e1862:
 translate chinese lilysplitsex_ce617998_1:
 
     # "…"
-    "…"
+    "……"
 
 # game/library.rpy#L3512
 translate chinese penelopework_28323d18:
@@ -14260,7 +14260,7 @@ translate chinese strings:
 
     # game/library.rpy_L3119_2
     old "Legs-Up Missionary"
-    new "抬腿传教士位"
+    new "抬腿男上位"
 
     # game/library.rpy_L3119_3
     old "Standing Sex view from in front"

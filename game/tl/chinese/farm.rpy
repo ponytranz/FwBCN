@@ -1544,19 +1544,19 @@ translate chinese farmvisit1_cf0f7e68:
 translate chinese farmvisit1_45e87c03:
 
     # mc "Just so you know Honeycrisp, I won't be able to work here everyday, and I’m concerned about your wrist."
-    mc "Just so you know Honeycrisp, I won't be able to work here everyday, and I’m concerned about your wrist."
+    mc "你知道的，Honeycrisp，我不可能长期在这工作，所以我有点担心你的伤。"
 
 # game/farm.rpy#L517
 translate chinese farmvisit1_07f9098e:
 
     # honeycrisp "If you’re leaving soon, then maybe I should savour the moment."
-    honeycrisp "If you’re leaving soon, then maybe I should savour the moment."
+    honeycrisp "如果你现在就要走了，那我应该好好享受这一时刻。"
 
 # game/farm.rpy#L518
 translate chinese farmvisit1_6c1c7bc2:
 
     # "She looks at me flirtatiously as I’m reminded of her heat, working hot and sweaty with her all day seems to have left us both a little horny."
-    "She looks at me flirtatiously as I’m reminded of her heat, working hot and sweaty with her all day seems to have left us both a little horny."
+    "她眼神迷离地看着我，因此我突然想到由于我们今天在一起汗流浃背的劳动了一整天，搞得我们俩都有点想来一发的冲动。"
 
 # game/farm.rpy#L519
 translate chinese farmvisit1_34a85d1a:
