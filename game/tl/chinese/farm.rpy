@@ -1616,7 +1616,7 @@ translate chinese farmvisit1_342da7fb:
 translate chinese farmvisit1_e3dfa0a8:
 
     # honeycrisp "Next time, let’s put an emphasis on the hard part of the work."
-    honeycrisp "Next time, let’s put an emphasis on the hard part of the work."
+    honeycrisp "下一回，让我们把重点放在工作中困难的部分上。"
 
 # game/farm.rpy#L537
 translate chinese farmvisit1_80db3faf:
@@ -1628,7 +1628,7 @@ translate chinese farmvisit1_80db3faf:
 translate chinese farmvisit1_a95ad60f:
 
     # "Her tail briefly brushes itself against my crotch as she walks past me to leave, I peek at her ass and she keeps her tail tucked out the way almost purposely."
-    "Her tail briefly brushes itself against my crotch as she walks past me to leave, I peek at her ass and she keeps her tail tucked out the way almost purposely."
+    "当她从我身边走过要离开时，她的尾巴轻拂着我的胯部；我回过头偷看她的屁股，她几乎是故意把尾巴翘起来的。"
 
 # game/farm.rpy#L541
 translate chinese farmvisit1_572188df:
@@ -1640,19 +1640,19 @@ translate chinese farmvisit1_572188df:
 translate chinese farmvisit1_d9404d91:
 
     # "Unfortunately, I can’t enjoy the view for long as she steps outside and returns to the barn, leaving me with a slight erection. What a tease."
-    "Unfortunately, I can’t enjoy the view for long as she steps outside and returns to the barn, leaving me with a slight erection. What a tease."
+    "不幸的是，当她走出去回到谷仓时，我不能长时间欣赏这美好的光景，只给我留下了一阵勃起。多可笑啊。"
 
 # game/farm.rpy#L544
 translate chinese farmvisit1_eff26679:
 
     # "She's definitely hungry for some action, but even now with an opportunity she's too busy."
-    "She's definitely hungry for some action, but even now with an opportunity she's too busy."
+    "她肯定渴望于一些行动，但即使现在有机会，她也太忙了。"
 
 # game/farm.rpy#L545
 translate chinese farmvisit1_92572f6c:
 
     # "More than ever, I want to solve her plight."
-    "More than ever, I want to solve her plight."
+    "我比以往任何时候都想解决她的困境。"
 
 # game/farm.rpy#L546
 translate chinese farmvisit1_a20cefa7:
@@ -1664,7 +1664,7 @@ translate chinese farmvisit1_a20cefa7:
 translate chinese farmvisit1_ccf133bc:
 
     # "Ah, great, I have a erection. There's no way I'm walking home with this."
-    "Ah, great, I have a erection. There's no way I'm walking home with this."
+    "啊，太好了，我勃起了。我不可能带着这玩意儿走回家。"
 
 # game/farm.rpy#L548
 translate chinese farmvisit1_317aae00:

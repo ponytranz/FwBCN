@@ -7028,7 +7028,7 @@ translate chinese rikumaidblowjob_0818e0fa:
 translate chinese rikumaidblowjob_c851cec2:
 
     # moxie "I love how feisty she tries to be, yet how compellingly submissive she is under the slightest bit of pressure."
-    moxie "I love how feisty she tries to be, yet how compellingly submissive she is under the slightest bit of pressure."
+    moxie "她努力想活泼一点的样子真可爱，给她点颜色就服服帖帖的。"
 
 # game/bar.rpy#L1901
 translate chinese rikumaidblowjob_dd25bc69:
@@ -7106,13 +7106,13 @@ translate chinese rikumaidblowjob_99930f3a:
 translate chinese rikumaidblowjob_860a5aca:
 
     # moxie "Tsk tsk, she’s been playing us this whole time for sexual gratification."
-    moxie "Tsk tsk, she’s been playing us this whole time for sexual gratification."
+    moxie "呐呐，她在玩弄咱们呢，这样才能让她获得性满足。"
 
 # game/bar.rpy#L1925
 translate chinese rikumaidblowjob_a108ef6a:
 
     # moxie "Looks like she was just about to succeed again, if I hadn’t come in and saved you last second."
-    moxie "Looks like she was just about to succeed again, if I hadn’t come in and saved you last second."
+    moxie "要不是我千钧一发之际赶回来，她就又得逞了。"
 
 # game/bar.rpy#L1927
 translate chinese rikumaidblowjob_bfc3df4d:
@@ -7148,19 +7148,19 @@ translate chinese rikumaidblowjob_efd5352f:
 translate chinese rikumaidblowjob_ea6313e0:
 
     # moxie "I think she needs a good pounding, how about a spit roast?"
-    moxie "I think she needs a good pounding, how about a spit roast?"
+    moxie "她应该被好好抽插一番才是，咱们给她来套前口后插？"
 
 # game/bar.rpy#L1937
 translate chinese rikumaidblowjob_14a0382f:
 
     # riku "Oh gosh, one of you was bad enough, but both of you?"
-    riku "Oh gosh, one of you was bad enough, but both of you?"
+    riku "我天，光是你们其中的一个我就应付不过来了，两个一起上我哪里遭得住？"
 
 # game/bar.rpy#L1938
 translate chinese rikumaidblowjob_149fe21a:
 
     # mc "It’s decided, come on slave girl, go to the bedroom."
-    mc "It’s decided, come on slave girl, go to the bedroom."
+    mc "你没得选，过来小女奴，去卧室吧。"
 
 # game/bar.rpy#L1940
 translate chinese rikumaidblowjob_d1b78b41:
@@ -7178,43 +7178,43 @@ translate chinese rikumaidblowjob_4fca838f:
 translate chinese rikumaidblowjob_d6b01a18:
 
     # riku "N-Now a slut? That’s so mean!"
-    riku "N-Now a slut? That’s so mean!"
+    riku "你，你们把人家当成骚货？太恶俗了吧！"
 
 # game/bar.rpy#L1951
 translate chinese rikumaidblowjob_bdc60209:
 
     # "Moxie spanks Riku’s ass causing her to yelp and scurry along, she knows exactly which door leads to the bedroom."
-    "Moxie spanks Riku’s ass causing her to yelp and scurry along, she knows exactly which door leads to the bedroom."
+    "Moxie给了Riku的翘臀一巴掌，她大叫一声，往卧室飞奔而去，她知道卧室在哪里嘛。"
 
 # game/bar.rpy#L1953
 translate chinese rikumaidblowjob_b7c10b80:
 
     # "Moxie undresses and takes a second to whisper something to me before we follow her in."
-    "Moxie undresses and takes a second to whisper something to me before we follow her in."
+    "Moxie脱光身上的衣物，在我耳边悄悄交代了些事情，然后我们两个才跟Riku进了卧室。"
 
 # game/bar.rpy#L1955
 translate chinese rikumaidblowjob_d759d098:
 
     # moxie "Psst, she really likes it when you degrade and humiliate her, she’s a complete sub. You should definitely try and push her."
-    moxie "Psst, she really likes it when you degrade and humiliate her, she’s a complete sub. You should definitely try and push her."
+    moxie "切，只有羞辱和贬低才能让她性奋起来，彻头彻尾的抖M。你试试吧，有时候刺激下她效果蛮不错的。"
 
 # game/bar.rpy#L1956
 translate chinese rikumaidblowjob_ed5b0a07:
 
     # moxie "Although, considering the maid dress, you’re already doing an excellent job."
-    moxie "Although, considering the maid dress, you’re already doing an excellent job."
+    moxie "不过嘛，你给她套了件女仆群，算是已经刺激她了。"
 
 # game/bar.rpy#L1957
 translate chinese rikumaidblowjob_be8dffed:
 
     # mc "What are we gonna do?"
-    mc "我们要去干什么？"
+    mc "我们要怎么干她？"
 
 # game/bar.rpy#L1959
 translate chinese rikumaidblowjob_7c3cfd50:
 
     # moxie "One of us at each end, she can lick me out and you can fuck her."
-    moxie "One of us at each end, she can lick me out and you can fuck her."
+    moxie "你在她后面干她，我在她前面让她给我口。"
 
 # game/bar.rpy#L1960
 translate chinese rikumaidblowjob_85785fdb:
@@ -7226,7 +7226,7 @@ translate chinese rikumaidblowjob_85785fdb:
 translate chinese rikumaidblowjob_bb485f56:
 
     # riku "Heyy! Don’t get freaky without me, come on you two!"
-    riku "Heyy! Don’t get freaky without me, come on you two!"
+    riku "嘿！在偷偷计划些什么东西呢，快过来啊！"
 
 # game/bar.rpy#L1965
 translate chinese rikumaidblowjob_ce617998:
@@ -7238,7 +7238,7 @@ translate chinese rikumaidblowjob_ce617998:
 translate chinese rikuthreesome_5bc9c71b:
 
     # moxie "You have such a cute butt Riku, you know that?"
-    moxie "You have such a cute butt Riku, you know that?"
+    moxie "Riku你的屁股煞是可爱，你心里应该有数？"
 
 # game/bar.rpy#L1972
 translate chinese rikuthreesome_2addbbaf:
@@ -7256,7 +7256,7 @@ translate chinese rikuthreesome_64d42250:
 translate chinese rikuthreesome_64b0a525:
 
     # "She says as she firmly holds the tail out of the way, revealing Riku’s genitals to me."
-    "She says as she firmly holds the tail out of the way, revealing Riku’s genitals to me."
+    "她一边说着，一把死死拉住她的尾巴，Riku的神秘部位一览无余。"
 
 # game/bar.rpy#L1975
 translate chinese rikuthreesome_ce2399fd:
@@ -7268,19 +7268,19 @@ translate chinese rikuthreesome_ce2399fd:
 translate chinese rikuthreesome_5d12fb7f:
 
     # "With her other hand, Moxie starts to jack me off and it doesn’t take long for my cock to become fully erect."
-    "With her other hand, Moxie starts to jack me off and it doesn’t take long for my cock to become fully erect."
+    "Moxie的另一只手则开始套弄我的肉棒，不一会我的兄弟就完全勃起了。"
 
 # game/bar.rpy#L1977
 translate chinese rikuthreesome_9bd8ebc2:
 
     # riku "I can’t believe this is happening, one of you was bad enough, but this is too embarrassing!"
-    riku "我不敢相信这发生了，你们的其中之一坏透了，但是这太尴尬了！"
+    riku "我不敢相信我居然在干这事儿，你们的其中之一坏透了，但是这太尴尬了！"
 
 # game/bar.rpy#L1978
 translate chinese rikuthreesome_930bed0f:
 
     # mc "You’re enjoying each and every second of this, admit it."
-    mc "You’re enjoying each and every second of this, admit it."
+    mc "还嘴硬，你很享受每一秒，承认吧。"
 
 # game/bar.rpy#L1979
 translate chinese rikuthreesome_f45cd451:
@@ -7298,7 +7298,7 @@ translate chinese rikuthreesome_899d01de:
 translate chinese rikuthreesome_e330f63d:
 
     # "I start to lift my cock up and down against Riku’s genitals, causing her to quiver with anticipation."
-    "I start to lift my cock up and down against Riku’s genitals, causing her to quiver with anticipation."
+    "我开始拿肉棒在Riku的桃花源口上下磨蹭，她激动得花枝乱颤。"
 
 # game/bar.rpy#L1982
 translate chinese rikuthreesome_9501a604:
@@ -7310,13 +7310,13 @@ translate chinese rikuthreesome_9501a604:
 translate chinese rikuthreesome_aa9f8ae2:
 
     # moxie "Now how about I make some better use out of that tongue?"
-    moxie "Now how about I make some better use out of that tongue?"
+    moxie "光嘴上说不行啊，舌头别光在嘴巴里待着？"
 
 # game/bar.rpy#L1988
 translate chinese rikuthreesome_0446fb1c:
 
     # "Moxie crawls up the bed and lays in front of our subservient maid, spreading her legs and subsequently her pussy for Riku."
-    "Moxie crawls up the bed and lays in front of our subservient maid, spreading her legs and subsequently her pussy for Riku."
+    "Moxie在我们百依百顺的女仆前蜷着躺下，张开双腿，把自己的小穴凑到了Riku嘴边。"
 
 # game/bar.rpy#L1989
 translate chinese rikuthreesome_904b405c:
@@ -7328,13 +7328,13 @@ translate chinese rikuthreesome_904b405c:
 translate chinese rikuthreesome_e2f8423d:
 
     # "Riku nods and readily gets in between Moxie’s legs, her tongue starting to lap at Moxie’s clit."
-    "Riku nods and readily gets in between Moxie’s legs, her tongue starting to lap at Moxie’s clit."
+    "Riku点头会意，随后急忙把头扎进Moxie的腿间，香舌蜿蜒而出开始舔舐Moxie的豆豆。"
 
 # game/bar.rpy#L1991
 translate chinese rikuthreesome_47569ea5:
 
     # "Moxie brings a fist to one of Riku's braids and grips onto it tightly, holding her down dominantly."
-    "Moxie brings a fist to one of Riku's braids and grips onto it tightly, holding her down dominantly."
+    "Moxie用一只手紧紧拉住Riku的一支辫子，霸道地钳制住了她。"
 
 # game/bar.rpy#L1992
 translate chinese rikuthreesome_a26e7532:
@@ -7346,37 +7346,37 @@ translate chinese rikuthreesome_a26e7532:
 translate chinese rikuthreesome_9c6752d1:
 
     # moxie "Ahh, what a good slut, wasting no time with her tongue at all."
-    moxie "Ahh, what a good slut, wasting no time with her tongue at all."
+    moxie "啊，真的骚，舌头功夫真不戳。"
 
 # game/bar.rpy#L1994
 translate chinese rikuthreesome_8e070376:
 
     # moxie "Mmmphh, ahhh, and she's great with her tongue as always."
-    moxie "Mmmphh, ahhh, and she's great with her tongue as always."
+    moxie "嗯嗯，啊，她的舌头功夫一直是一绝。"
 
 # game/bar.rpy#L1995
 translate chinese rikuthreesome_6ac2eb0a:
 
     # riku "Mmpphh, I’m only horny because I’m in heat, it’s not fair…"
-    riku "Mmpphh, I’m only horny because I’m in heat, it’s not fair…"
+    riku "嗯呣，人家只有发情的时候才这么骚，不公平......"
 
 # game/bar.rpy#L1996
 translate chinese rikuthreesome_97e229af:
 
     # moxie "Only because you’re in heat? You weren’t in heat when you let me sit on your face."
-    moxie "Only because you’re in heat? You weren’t in heat when you let me sit on your face."
+    moxie "就只是因为发情而已吗？你让人家坐你脸上的时候可没到发情期哦。"
 
 # game/bar.rpy#L1997
 translate chinese rikuthreesome_4e385063:
 
     # riku "N-Nuu, I was drunk!"
-    riku "N-Nuu, I was drunk!"
+    riku "不，不细的，我当时喝高了！"
 
 # game/bar.rpy#L1998
 translate chinese rikuthreesome_04dfab9f:
 
     # mc "More excuses? I won’t fuck you until you admit how much of a slut you are."
-    mc "More excuses? I won’t fuck you until you admit how much of a slut you are."
+    mc "还找借口？你要是不承认自己骚浪贱，我可不会插进去哦。"
 
 # game/bar.rpy#L1999
 translate chinese rikuthreesome_305a8024:
@@ -7424,31 +7424,31 @@ translate chinese rikuthreesome_59a18ff5:
 translate chinese rikuthreesome_8de34cdc:
 
     # "I abide by her humble request, pressing my cock against her cute butthole."
-    "I abide by her humble request, pressing my cock against her cute butthole."
+    "我尊崇了她卑微的要求，把我的肉棒抵在她幽幽可爱的后庭洞口。"
 
 # game/bar.rpy#L2008
 translate chinese rikuthreesome_00c3cb77:
 
     # riku "Mmphhh fuck yeah, I need it badly, please!"
-    riku "Mmphhh fuck yeah, I need it badly, please!"
+    riku "嗯终于特么的快进来了，我要你快点，求求了！"
 
 # game/bar.rpy#L2009
 translate chinese rikuthreesome_6a303aff:
 
     # moxie "What a surprise, I didn’t take you for an anal queen."
-    moxie "What a surprise, I didn’t take you for an anal queen."
+    moxie "哎呀呀，没想到你还喜欢肛交呢。"
 
 # game/bar.rpy#L2010
 translate chinese rikuthreesome_0f1168bc:
 
     # riku "B-because I’m responsible and don’t want to get pregnant."
-    riku "B-because I’m responsible and don’t want to get pregnant."
+    riku "因，因为我得负责，不想怀孕啊。"
 
 # game/bar.rpy#L2011
 translate chinese rikuthreesome_8bcfd643:
 
     # moxie "Ohhh, that’s how you have all the sex you could possibly want. Our little slut has creative solutions."
-    moxie "Ohhh, that’s how you have all the sex you could possibly want. Our little slut has creative solutions."
+    moxie "哦，这就是咱们的小骚货爱爱时顾忌的东西。倒也不失为一个好办法。"
 
 # game/bar.rpy#L2012
 translate chinese rikuthreesome_481501e1:
@@ -7460,37 +7460,37 @@ translate chinese rikuthreesome_481501e1:
 translate chinese rikuthreesome_c1011c39:
 
     # mc "Mmm, what a cute lil butt, I bet it has seen a lot of action."
-    mc "Mmm, what a cute lil butt, I bet it has seen a lot of action."
+    mc "嗯，你的小屁股真可爱，想必经历过不少风雨了吧。"
 
 # game/bar.rpy#L2015
 translate chinese rikuthreesome_eb205cd5:
 
     # moxie "Lots of pounding from thick cocks like [playername]’s."
-    moxie "Lots of pounding from thick cocks like [playername]’s."
+    moxie "肯定被[playername]这种粗鸡巴给调教过很多次了吧。"
 
 # game/bar.rpy#L2016
 translate chinese rikuthreesome_03d5a7f6:
 
     # riku "Mmm yes, I’m a butt slut!"
-    riku "Mmm yes, I’m a butt slut!"
+    riku "嗯没错，我就是个喜欢肛交的贱货！"
 
 # game/bar.rpy#L2018
 translate chinese rikuthreesome_9826093f:
 
     # moxie "Go on, slide your cock deep in her ass, [playername]."
-    moxie "Go on, slide your cock deep in her ass, [playername]."
+    moxie "这还差不多，你现在可以把鸡巴插进她后庭捣鼓了，[playername]。"
 
 # game/bar.rpy#L2019
 translate chinese rikuthreesome_c4113ee0:
 
     # riku "Yes, yes! Please!"
-    riku "是的，是的！请进来吧！"
+    riku "是的，是的！快插进来吧！"
 
 # game/bar.rpy#L2020
 translate chinese rikuthreesome_f661f7bb:
 
     # "I push the tip of my cock against her pucker, applying pressure, although it’s a tight fit."
-    "I push the tip of my cock against her pucker, applying pressure, although it’s a tight fit."
+    "我拿龟头在她的菊门上挑动，慢慢施加压力，想插进去还有点费力。"
 
 # game/bar.rpy#L2021
 translate chinese rikuthreesome_2585385c:
@@ -7502,121 +7502,121 @@ translate chinese rikuthreesome_2585385c:
 translate chinese rikuthreesome_87fe1c70:
 
     # "I drool a little on the point of contact to add just a tiny bit of lubrication."
-    "I drool a little on the point of contact to add just a tiny bit of lubrication."
+    "我把一些口涎滴在我们的交合处，应该能起到些润滑作用。"
 
 # game/bar.rpy#L2023
 translate chinese rikuthreesome_d3c6ab73:
 
     # "The wetness helps a lot. As I continue apply pressure to Riku’s pucker it slowly loosens, and I edge myself inside."
-    "The wetness helps a lot. As I continue apply pressure to Riku’s pucker it slowly loosens, and I edge myself inside."
+    "润滑果真有用。我继续向前缓缓挺去，Riku的菊门也被我一点一点地顶开，最终成功插入。"
 
 # game/bar.rpy#L2026
 translate chinese rikuthreesome_b1642c2e:
 
     # "The saliva is surprisingly slippery. Before I know it, the tip of my cock is inside, and the rest slides in with ease."
-    "The saliva is surprisingly slippery. Before I know it, the tip of my cock is inside, and the rest slides in with ease."
+    "唾液的润滑效果比我预想的要好。龟头率先插入，棒身再挺进去容易了很多。"
 
 # game/bar.rpy#L2027
 translate chinese rikuthreesome_a8a8249f:
 
     # riku "Mmmm! Fuck yeah! *Lick, schlurp*"
-    riku "Mmmm! Fuck yeah! *Lick, schlurp*"
+    riku "嗯！终于特么的插进去了！*舔， 吮吸*"
 
 # game/bar.rpy#L2030
 translate chinese rikuthreesome_c617700e:
 
     # "Riku’s ass is incredibly tight as it squeezes around my shaft, I fuck her gently as she continues to loosen and adjust to my throbbing cock."
-    "Riku’s ass is incredibly tight as it squeezes around my shaft, I fuck her gently as she continues to loosen and adjust to my throbbing cock."
+    "Riku的后庭窄紧异常，紧紧地裹着我的长枪，她还在努力地放松适应我蠢蠢欲动的肉棒，所以我的抽插速度并不快。"
 
 # game/bar.rpy#L2032
 translate chinese rikuthreesome_bca6cc95:
 
     # "Her ass has finally started to loosen up now and I’m able to fuck her at a good pace."
-    "Her ass has finally started to loosen up now and I’m able to fuck her at a good pace."
+    "她的后庭渐渐放松到了一定程度，我可以加快速度抽插了。"
 
 # game/bar.rpy#L2034
 translate chinese rikuthreesome_cd8bc010:
 
     # riku "Mmphhh *Lick, lick*! Ahhh *schlurp*."
-    riku "Mmphhh *Lick, lick*! Ahhh *schlurp*."
+    riku "嗯呼*舔，舔*！啊*吸*。"
 
 # game/bar.rpy#L2036
 translate chinese rikuthreesome_cc042aa5:
 
     # "It’s definitely tighter than her pussy, and a lot of the tightness is concentrated at the sphincter which feels particularly amazing as it glides over my glans."
-    "It’s definitely tighter than her pussy, and a lot of the tightness is concentrated at the sphincter which feels particularly amazing as it glides over my glans."
+    "里面比她的小穴还要紧，括约肌的咬合力非常出色，我的龟头在里面来回挺进，每每滑过括约肌时都能感到这种奇妙的感觉。"
 
 # game/bar.rpy#L2038
 translate chinese rikuthreesome_4f7ac6cc:
 
     # "There’s more friction too. It feels different overall, but I could probably cum just as easily from this."
-    "There’s more friction too. It feels different overall, but I could probably cum just as easily from this."
+    "摩擦力也比小穴更甚。完全是云泥之别，但也能让我很快交货就是了。"
 
 # game/bar.rpy#L2040
 translate chinese rikuthreesome_659e6af1:
 
     # "Meanwhile Moxie’s head is thrown back against the pillow, she’s in utter joy as Riku’s tongue makes miracles on her clit. I’m almost jealous at how much pleasure Moxie is getting out of that."
-    "Meanwhile Moxie’s head is thrown back against the pillow, she’s in utter joy as Riku’s tongue makes miracles on her clit. I’m almost jealous at how much pleasure Moxie is getting out of that."
+    "与此同时Moxie的头后仰倒在枕头上，Riku香舌对她阴蒂的每一次奇袭都能激发她最大的快慰。Moxie能获得如此多的快感甚至让我起了妒心。"
 
 # game/bar.rpy#L2043
 translate chinese rikuthreesome_e39dc53e:
 
     # "It’s reminding me of how good Penelope was when she was licking me out."
-    "It’s reminding me of how good Penelope was when she was licking me out."
+    "我不禁回想起被Penelope舔到高潮时的妙曼感觉。"
 
 # game/bar.rpy#L2045
 translate chinese rikuthreesome_d1891c32:
 
     # moxie "Aahhh, ahh! Ahhh! Right there, yes!"
-    moxie "Aahhh, ahh! Ahhh! Right there, yes!"
+    moxie "啊啊，啊！啊啊！就是那里，就这样！"
 
 # game/bar.rpy#L2047
 translate chinese rikuthreesome_7f856a03:
 
     # "She moans while assertively pressing Riku’s muzzle into her clit."
-    "She moans while assertively pressing Riku’s muzzle into her clit."
+    "她一边高声呻吟，一边把Riku的嘴往自己阴蒂上按。"
 
 # game/bar.rpy#L2049
 translate chinese rikuthreesome_84b36f95:
 
     # "Even while being spit roast, Riku is going above and beyond, her hips are rocking back and forth causing her ass to slide up and down my cock, matching my rhythm making for harder thrusts."
-    "Even while being spit roast, Riku is going above and beyond, her hips are rocking back and forth causing her ass to slide up and down my cock, matching my rhythm making for harder thrusts."
+    "就算被前口后插，Riku也渐渐地掌控了全场的节奏，她开始向后有节律地挺起腰来迎合我肉棒的抽插，让每一下都插得更深。"
 
 # game/bar.rpy#L2051
 translate chinese rikuthreesome_dab0d3b5:
 
     # "At this rate, all three of us are going to cum soon."
-    "At this rate, all three of us are going to cum soon."
+    "掌握完美的节奏后，我们三个都已经接近高潮的边缘了。"
 
 # game/bar.rpy#L2053
 translate chinese rikuthreesome_0fd0ecd0:
 
     # "I’m glad it doesn’t take long for a mare in heat to climax, because Riku is rocking her hips far too fast for me to hold back."
-    "I’m glad it doesn’t take long for a mare in heat to climax, because Riku is rocking her hips far too fast for me to hold back."
+    "还好发情的雌驹高潮比较快，按Riku这个动腰速度，我已经快高潮了。"
 
 # game/bar.rpy#L2055
 translate chinese rikuthreesome_47eda69e:
 
     # "Eventually her thrusts overpower mine, leaving me staying still behind her as she bounces up and down against my cock. All whilst her tongue drives Moxie ecstatic."
-    "Eventually her thrusts overpower mine, leaving me staying still behind her as she bounces up and down against my cock. All whilst her tongue drives Moxie ecstatic."
+    "最终她挺动的速度战胜了我抽插的速度，我只能乖乖站在她后面任她肆意挺动，迎合着我的肉棒。她的香舌也把Moxie伺候得服服帖帖。"
 
 # game/bar.rpy#L2057
 translate chinese rikuthreesome_5cc5bca4:
 
     # moxie "Ahhh, I’m gonna come!"
-    moxie "Ahhh, I’m gonna come!"
+    moxie "啊，我要去了！"
 
 # game/bar.rpy#L2059
 translate chinese rikuthreesome_68d7b602:
 
     # riku "Mmphhh *Lick, sclurp*."
-    riku "Mmphhh *Lick, sclurp*."
+    riku "嗯呼*舔，吸*。"
 
 # game/bar.rpy#L2061
 translate chinese rikuthreesome_abeed71b:
 
     # "I can’t hold back either, my cock is growing tense and throbbing."
-    "I can’t hold back either, my cock is growing tense and throbbing."
+    "我也要射了，肿胀感在我悸动的长枪上蔓延。"
 
 # game/bar.rpy#L2066
 translate chinese rikuthreesome_362339be:
@@ -11522,103 +11522,103 @@ translate chinese eveningbarmenu_54298feb_1:
 translate chinese eveningbarmenu_7887593c:
 
     # "Butters decided to come with me to the bar tonight, so I'll keep her some company rather than chatting up another girl."
-    "Butters decided to come with me to the bar tonight, so I'll keep her some company rather than chatting up another girl."
+    "Butters今晚打算跟我一同去酒吧快活下，我得一直陪着她，不能跟其他女孩再胡搅蛮缠了。"
 
 # game/bar.rpy#L3354
 translate chinese eveningbarmenu_3cb25776:
 
     # "As we order a drink and take a seat, Riku joins us during her shift."
-    "As we order a drink and take a seat, Riku joins us during her shift."
+    "我们点了喝的，找位置坐了下来，工作中的Riku也找到了我们。"
 
 # game/bar.rpy#L3356
 translate chinese eveningbarmenu_4b1600a3:
 
     # "I spot Butters having a drink, as I sit down and say hello, a third person shows up!"
-    "I spot Butters having a drink, as I sit down and say hello, a third person shows up!"
+    "我瞄了一眼小啜酒品的Butters，坐下来朝她问了声好，Riku来了！"
 
 # game/bar.rpy#L3364
 translate chinese eveningbarmenu_a41abe0a:
 
     # riku "Hey, I haven't seen you in ages Butters, how's it going?"
-    riku "Hey, I haven't seen you in ages Butters, how's it going?"
+    riku "嘿，你可是稀客啊Butters，最近日子过得如何？"
 
 # game/bar.rpy#L3365
 translate chinese eveningbarmenu_1bdd6996:
 
     # butters "Ohh, hello Riku. I'm sorry I've been so quiet lately, I had some important business to take care of recently."
-    butters "Ohh, hello Riku. I'm sorry I've been so quiet lately, I had some important business to take care of recently."
+    butters "哦，别来无恙啊Riku。抱歉最近没怎么露面，生意上的事情忙不开。"
 
 # game/bar.rpy#L3367
 translate chinese eveningbarmenu_c2805733:
 
     # riku "I see you've had a chance to meet the fine [playername] though!"
-    riku "I see you've had a chance to meet the fine [playername] though!"
+    riku "那你怎么有空见咱们马见马爱的[playername]捏！"
 
 # game/bar.rpy#L3369
 translate chinese eveningbarmenu_de7f6b22:
 
     # butters "Hehe, he is good, isn't he?"
-    butters "Hehe, he is good, isn't he?"
+    butters "嘿嘿，不就是因为他马见马爱嘛，有问题吗？"
 
 # game/bar.rpy#L3370
 translate chinese eveningbarmenu_6245043f:
 
     # mc "Awh girls, you flatter me."
-    mc "Awh girls, you flatter me."
+    mc "啊姑娘们，过奖了。"
 
 # game/bar.rpy#L3372
 translate chinese eveningbarmenu_e8ec8ca1:
 
     # riku "My shift is ending soon, so how about I join you and grab the next round of drinks?"
-    riku "My shift is ending soon, so how about I join you and grab the next round of drinks?"
+    riku "我这班马上能轮换了，给我留个位子，等会我再给各位上一轮酒如何？"
 
 # game/bar.rpy#L3373
 translate chinese eveningbarmenu_8fa93b74:
 
     # mc "Sounds good to me, right Butters?"
-    mc "Sounds good to me, right Butters?"
+    mc "如此甚好，对吧Butters？"
 
 # game/bar.rpy#L3375
 translate chinese eveningbarmenu_fcbf8f32:
 
     # butters "Uhm, yeah! Thank you Riku."
-    butters "Uhm, yeah! Thank you Riku."
+    butters "嗯，好耶！谢谢你Riku。"
 
 # game/bar.rpy#L3379
 translate chinese eveningbarmenu_d749c282:
 
     # "Riku disappears momentarily to finish off her shift leaving Butters and I to chat."
-    "Riku disappears momentarily to finish off her shift leaving Butters and I to chat."
+    "Riku说完马上又去忙自己的工作了，现在又是我和Butters的二人世界。"
 
 # game/bar.rpy#L3381
 translate chinese eveningbarmenu_f4272207:
 
     # butters "Hmm... [playername], I don't know how well I'll be able to handle my drink."
-    butters "Hmm... [playername], I don't know how well I'll be able to handle my drink."
+    butters "嗯...[playername]，我对我的酒量没有谱。"
 
 # game/bar.rpy#L3382
 translate chinese eveningbarmenu_f286d890:
 
     # mc "What? I'm sure you'll be fine, you can always stop if you're feeling unwell."
-    mc "What? I'm sure you'll be fine, you can always stop if you're feeling unwell."
+    mc "担心什么？我肯定不会出什么事儿的，觉得不舒服了不喝不就行了。"
 
 # game/bar.rpy#L3383
 translate chinese eveningbarmenu_4a28738f:
 
     # butters "W-well, I haven't had anything to drink in a very, very long time, that means I'll be a 'lightweight', right?"
-    butters "W-well, I haven't had anything to drink in a very, very long time, that means I'll be a 'lightweight', right?"
+    butters "好，好吧，我平常不怎么喝酒，应该是基本上不怎么喝，我是个“三杯就倒”的马，懂吗？"
 
 # game/bar.rpy#L3384
 translate chinese eveningbarmenu_8b4dd958:
 
     # mc "That's a good thing though, you'll get drunk faster!"
-    mc "That's a good thing though, you'll get drunk faster!"
+    mc "那也不见得是坏事，这样的话你也能更快喝醉！"
 
 # game/bar.rpy#L3386
 translate chinese eveningbarmenu_c4ac684a:
 
     # butters "Ooohh, drunk faster? That's a good thing? Okay!"
-    butters "Ooohh, drunk faster? That's a good thing? Okay!"
+    butters "嗷哦，喝醉？是一件好事？那就听你的！"
 
 # game/bar.rpy#L3389
 translate chinese eveningbarmenu_14924e89:
@@ -11630,277 +11630,277 @@ translate chinese eveningbarmenu_14924e89:
 translate chinese eveningbarmenu_ef7f772d:
 
     # butters "Gaahahaaa, I swear if I ever seeeee thaaaat plant again, I'll return the favour!"
-    butters "Gaahahaaa, I swear if I ever seeeee thaaaat plant again, I'll return the favour!"
+    butters "嘎哈哈哈哈，要是人家再撞见~那~些~植物，我肯定会狠狠揍她们一顿的！"
 
 # game/bar.rpy#L3404
 translate chinese eveningbarmenu_095c0ec0:
 
     # riku "I can't believe you actually found such a scary Alraune in Arcadia!"
-    riku "I can't believe you actually found such a scary Alraune in Arcadia!"
+    riku "真不敢相信你能在Arcadia遇到这么凶恶的一只Alraune。"
 
 # game/bar.rpy#L3405
 translate chinese eveningbarmenu_b3106831:
 
     # mc "It's a long story..."
-    mc "It's a long story..."
+    mc "说来话长了......"
 
 # game/bar.rpy#L3407
 translate chinese eveningbarmenu_7d1dfc59:
 
     # butters "Pshhh, yeeeaaah, weellll... Thaaat plant can go fuck herself next time!"
-    butters "Pshhh, yeeeaaah, weellll... Thaaat plant can go fuck herself next time!"
+    butters "切~是啊~~~，那个...那个~植物还不如干自己呢！"
 
 # game/bar.rpy#L3409
 translate chinese eveningbarmenu_3ad7bfb0:
 
     # riku "Butters is really opening up after a few drinks! I didn't expect this."
-    riku "Butters is really opening up after a few drinks! I didn't expect this."
+    riku "Butters几杯酒下肚就开放了许多嘛！没想到这样就能撬开她的话匣子。"
 
 # game/bar.rpy#L3410
 translate chinese eveningbarmenu_fce47147:
 
     # butters "O-Opening up? I'm not some cheeeaap slut that just opens up for any man!"
-    butters "O-Opening up? I'm not some cheeeaap slut that just opens up for any man!"
+    butters "开，开放？我可不是那种用下面~想事情的骚货，见到个男的就张腿欢迎！"
 
 # game/bar.rpy#L3412
 translate chinese eveningbarmenu_35ec6962:
 
     # mc "She didn't mean opening your legs."
-    mc "She didn't mean opening your legs."
+    mc "她说的开放是指性格，不是指你的腿。"
 
 # game/bar.rpy#L3414
 translate chinese eveningbarmenu_b1558d91:
 
     # butters "For you [playername]? Any time! Aaahahaha."
-    butters "For you [playername]? Any time! Aaahahaha."
+    butters "不过你的话[playername]？我的腿随时能为你张开哦！啊啊哈哈哈哈。"
 
 # game/bar.rpy#L3416
 translate chinese eveningbarmenu_473500b8:
 
     # riku "O-Oh my, I didn't realize you two had a relationship like that."
-    riku "O-Oh my, I didn't realize you two had a relationship like that."
+    riku "哦，天，天啊，我都不知道你俩的关系如此亲密。"
 
 # game/bar.rpy#L3417
 translate chinese eveningbarmenu_c2111cc1:
 
     # mc "Ahh, yeah... That came out quite bluntly, but Butters and I are close."
-    mc "Ahh, yeah... That came out quite bluntly, but Butters and I are close."
+    mc "啊，是这样的...有点突兀，不过我和Butters确实蛮亲近的。"
 
 # game/bar.rpy#L3419
 translate chinese eveningbarmenu_b65561e9:
 
     # riku "W-Wow, you really are good with the ladies."
-    riku "W-Wow, you really are good with the ladies."
+    riku "哇，哇哦，你马见马爱的外号真不是说说而已的。"
 
 # game/bar.rpy#L3420
 translate chinese eveningbarmenu_9ec41ba9:
 
     # butters "Good with 'em? I'm the one on-top more often than not, lemme show you!"
-    butters "Good with 'em? I'm the one on-top more often than not, lemme show you!"
+    butters "马见马爱？我绝对是她的最爱的那个，不信你看！"
 
 # game/bar.rpy#L3424
 translate chinese eveningbarmenu_d66a4bb9:
 
     # "The lecherously drunk Butters tries to crawl onto my lap."
-    "The lecherously drunk Butters tries to crawl onto my lap."
+    "烂醉发浪的Butters想坐到我的腿上。"
 
 # game/bar.rpy#L3425
 translate chinese eveningbarmenu_b6646eea:
 
     # mc "Wahh? What are you doing, Butters?"
-    mc "Wahh? What are you doing, Butters?"
+    mc "啥子哦？你在干嘛，Butters？"
 
 # game/bar.rpy#L3426
 translate chinese eveningbarmenu_9d8af3c3:
 
     # butters "Ehehe, I'm just sitting on your lap [playername], I'm not gonna fuck you in the bar!"
-    butters "Ehehe, I'm just sitting on your lap [playername], I'm not gonna fuck you in the bar!"
+    butters "欸嘿嘿~人家只是想坐到你的大腿上嘛[playername]，我们就在酒吧里来一炮！"
 
 # game/bar.rpy#L3427
 translate chinese eveningbarmenu_3289e7b3:
 
     # "She says that, but she's very subtly grinding against me. The mental fortitude required to avoid getting an erection is intense."
-    "She says that, but she's very subtly grinding against me. The mental fortitude required to avoid getting an erection is intense."
+    "她嘴上这么说着，身子也开始在我的腿上摩擦起来，这种情况下想不让小弟弟勃起可需要非常强的毅力才行。"
 
 # game/bar.rpy#L3429
 translate chinese eveningbarmenu_c916e1df:
 
     # riku "Phew, you had me worried for a second there..."
-    riku "Phew, you had me worried for a second there..."
+    riku "呼，我刚才可为你捏了把汗呢......"
 
 # game/bar.rpy#L3430
 translate chinese eveningbarmenu_eaa6f357:
 
     # butters "As tempting as it maaay beeee... We can do that when we get home, right babe?"
-    butters "As tempting as it maaay beeee... We can do that when we get home, right babe?"
+    butters "这就是~~~诱惑下你...咱们等会回家能干个够，对吧心肝？"
 
 # game/bar.rpy#L3431
 translate chinese eveningbarmenu_28d6a35d:
 
     # mc "Uhh, sure! But wouldn't it be more fun if Riku joined in?"
-    mc "Uhh, sure! But wouldn't it be more fun if Riku joined in?"
+    mc "呃，没问题！不过我觉得让Riku参与进来岂不更好？"
 
 # game/bar.rpy#L3433
 translate chinese eveningbarmenu_75b25d9d:
 
     # riku "Huh, what?"
-    riku "Huh, what?"
+    riku "哈，爬哦？"
 
 # game/bar.rpy#L3434
 translate chinese eveningbarmenu_77fceb16:
 
     # butters "Ohh, of course, you should play with us Rikki!"
-    butters "Ohh, of course, you should play with us Rikki!"
+    butters "哦，为什么不呢，你应该跟我们两个一起玩玩才是Rikki！"
 
 # game/bar.rpy#L3436
 translate chinese eveningbarmenu_020b7f69:
 
     # riku "Hmph... Sure, I'm in..."
-    riku "Hmph... Sure, I'm in..."
+    riku "哼...好吧，我答应......"
 
 # game/bar.rpy#L3437
 translate chinese eveningbarmenu_a6011944:
 
     # "Riku takes a long chug from her cider; finishing it off, before she offers an idea."
-    "Riku takes a long chug from her cider; finishing it off, before she offers an idea."
+    "Riku将一瓶苹果酒一饮而尽；然后给了我们这个答复。"
 
 # game/bar.rpy#L3438
 translate chinese eveningbarmenu_a56c2a1b:
 
     # riku "How about the three of us take this conversation upstairs? I think we're disturbing some of the patrons."
-    riku "How about the three of us take this conversation upstairs? I think we're disturbing some of the patrons."
+    riku "咱们三个上楼聊怎么样？附近还有顾客呢，吵到她们可不好。"
 
 # game/bar.rpy#L3439
 translate chinese eveningbarmenu_557b59ad:
 
     # mc "I think that's a great idea, come on Butters."
-    mc "I think that's a great idea, come on Butters."
+    mc "也好，来吧Butters。"
 
 # game/bar.rpy#L3441
 translate chinese eveningbarmenu_e2b5db8a:
 
     # butters "Wait, where are we going? Whaa..."
-    butters "Wait, where are we going? Whaa..."
+    butters "等下，去哪儿？呜啊啊啊......"
 
 # game/bar.rpy#L3451
 translate chinese eveningbarmenu_128b7753:
 
     # riku "We can go wild here, o-oh, you're already taking off your clothes."
-    riku "We can go wild here, o-oh, you're already taking off your clothes."
+    riku "楼上咱们想怎么玩就怎么玩，呃，哦，你怎么就开始脱衣服了。"
 
 # game/bar.rpy#L3452
 translate chinese eveningbarmenu_7148735b:
 
     # mc "Come on Butters, behave yourself! Oh, wait, I guess taking off your clothes isn't actually naughty."
-    mc "Come on Butters, behave yourself! Oh, wait, I guess taking off your clothes isn't actually naughty."
+    mc "别在这儿闹啊Butters，清醒点！哦，等下，在这儿脱衣服可不是什么玩味的行为。"
 
 # game/bar.rpy#L3454
 translate chinese eveningbarmenu_88bec00b:
 
     # butters "Being drunk is so wonderful! I can finally do and say anything I want!"
-    butters "Being drunk is so wonderful! I can finally do and say anything I want!"
+    butters "醉酒真是太棒了！我现在能做我喜欢的任何事情！"
 
 # game/bar.rpy#L3455
 translate chinese eveningbarmenu_8bc14ed7:
 
     # riku "Woah! Butters, you have bat wings?"
-    riku "Woah! Butters, you have bat wings?"
+    riku "哇哦！Butters，你有一对蝙蝠翅膀？"
 
 # game/bar.rpy#L3456
 translate chinese eveningbarmenu_b3851d61:
 
     # butters "Oh! I do! D-Do you like them?"
-    butters "Oh! I do! D-Do you like them?"
+    butters "哦！没错！泥，泥喜欢嘛？"
 
 # game/bar.rpy#L3457
 translate chinese eveningbarmenu_c05f7f21:
 
     # riku "Yeah! They're so cool, I had no idea!"
-    riku "Yeah! They're so cool, I had no idea!"
+    riku "当然！看起来好几把炫酷，找不到其他表达方式了！"
 
 # game/bar.rpy#L3458
 translate chinese eveningbarmenu_ccc9498a:
 
     # butters "Awwwhh youuu, they're not as awesome as your wings! C'mere!"
-    butters "Awwwhh youuu, they're not as awesome as your wings! C'mere!"
+    butters "啊啊啊呃，泥，塌们可没你的翅膀炫酷！来我这儿！"
 
 # game/bar.rpy#L3465
 translate chinese eveningbarmenu_77cba0e7:
 
     # "The drunk Butters pushes Riku down, and the duo start making out with each other. Riku is too submissive, and probably horny, to resist."
-    "The drunk Butters pushes Riku down, and the duo start making out with each other. Riku is too submissive, and probably horny, to resist."
+    "醉醺醺的Butters把Riku推倒，两只雌驹开始互相亲热起来。Riku十分听话，可能也是欲火中烧，没有任何反抗。"
 
 # game/bar.rpy#L3466
 translate chinese eveningbarmenu_b88a0d3c:
 
     # "To my surprise though, Riku gets the upperhand on Butters and straddles her."
-    "To my surprise though, Riku gets the upperhand on Butters and straddles her."
+    "Riku在亲昵间占据了上风，跨坐在Butters的娇躯上，我有点意外。"
 
 # game/bar.rpy#L3469
 translate chinese eveningbarmenu_e327ad9f:
 
     # riku "Ehehe, my turn to be in charge for once."
-    riku "Ehehe, my turn to be in charge for once."
+    riku "欸嘿嘿，总算能占一次主导位了。"
 
 # game/bar.rpy#L3470
 translate chinese eveningbarmenu_7adc6f00:
 
     # butters "Mmphh, wait... P-Riku... I-I've never done it with a girl before."
-    butters "Mmphh, wait... P-Riku... I-I've never done it with a girl before."
+    butters "嗯呼，别急啊...P-Riku...人家还没和女孩子做过呢。"
 
 # game/bar.rpy#L3471
 translate chinese eveningbarmenu_27c48858:
 
     # "That's technically not true, but I won't say anything."
-    "That's technically not true, but I won't say anything."
+    "据我所知，她说的应该不是真的，不过我不会揭穿她的。"
 
 # game/bar.rpy#L3472
 translate chinese eveningbarmenu_e144fbbe:
 
     # riku "Is that so? Well... you're not doing it with just a girl tonight..."
-    riku "Is that so? Well... you're not doing it with just a girl tonight..."
+    riku "真滴咩？再说...你今晚的对象可不止是女孩哦......"
 
 # game/bar.rpy#L3473
 translate chinese eveningbarmenu_cbfcc881:
 
     # riku "You're up [playername], sate this slut's lust."
-    riku "You're up [playername], sate this slut's lust."
+    riku "别傻站着[playername]，好好满足这个骚货的欲望吧。"
 
 # game/bar.rpy#L3474
 translate chinese eveningbarmenu_7ba15c05:
 
     # mc "Impressive... I wasn't expecting you to act so dominant Riku."
-    mc "Impressive... I wasn't expecting you to act so dominant Riku."
+    mc "刮目相看啊...没想到你还能这么主动制霸，Riku。"
 
 # game/bar.rpy#L3475
 translate chinese eveningbarmenu_ce660393:
 
     # riku "Hehe, I picked up a few tricks from you and Moxie. You and her are such bad influences after all..."
-    riku "Hehe, I picked up a few tricks from you and Moxie. You and her are such bad influences after all..."
+    riku "嘿嘿，我可是从你和Moxie那儿学到不少技巧呢。你俩真把我教坏了......"
 
 # game/bar.rpy#L3476
 translate chinese eveningbarmenu_4fcd370a:
 
     # butters "Less talkies, more cummies! I really want that cock inside me... Ahhh..."
-    butters "Less talkies, more cummies! I really want that cock inside me... Ahhh..."
+    butters "少废话，都动起来啊！人家的下面痒死了，想要一根大鸡巴进去...啊......"
 
 # game/bar.rpy#L3477
 translate chinese eveningbarmenu_3bcfe194:
 
     # riku "Need some oral help getting it up?"
-    riku "Need some oral help getting it up?"
+    riku "需要我用嘴巴润滑下嘛？"
 
 # game/bar.rpy#L3478
 translate chinese eveningbarmenu_612d95bd:
 
     # mc "I'm good, just keep teasing our plaything."
-    mc "I'm good, just keep teasing our plaything."
+    mc "不必，你继续挑逗咱们的小淫娃就行。"
 
 # game/bar.rpy#L3479
 translate chinese eveningbarmenu_d4529840:
 
     # "Riku shuts up the rambling Butters with a tongue-filled kiss as I position myself between Butters' legs."
-    "Riku shuts up the rambling Butters with a tongue-filled kiss as I position myself between Butters' legs."
+    "Riku用一记舌吻成功封住了Butters喋喋不休，词句不清的香唇。我得以在Butters的双腿间摆好体位。"
 
 # game/bar.rpy#L3480
 translate chinese eveningbarmenu_2fb3fd2b:

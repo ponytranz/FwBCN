@@ -3566,19 +3566,19 @@ translate chinese rubyphotoshoot2_bfea1bd1:
 translate chinese rubyphotoshoot2_e19feb44:
 
     # camshowaudience "'Twist60 has donated 5 monies' – 'keep going!' – 'NotPrincessAurora has donated 10 monies' – 'XAshleeX has donated 10 monies.'"
-    camshowaudience "“Twist60捐赠了5块钱”–“继续！”NotPrincessAurora捐赠了10块钱–“XAshleeX捐赠了10块钱。”"
+    camshowaudience "“蜷蜷60捐赠了5块钱”–“继续！”我不是Aurora捐赠了10块钱–“X碍事梨X捐赠了10块钱。”"
 
 # game/boutique.rpy#L1063
 translate chinese rubyphotoshoot2_13234d25:
 
     # ruby "Mmphh, the heck, that’s so much monie. Here, let me set a sex goal, how about… 50?"
-    ruby "嗯，见鬼，居然有这么多钱。来吧，让我设定一个性爱目标，捐赠达到50元怎么样？"
+    ruby "嗯，惊了，居然有这么多钱。来吧，让我设定一个性爱目标，捐赠达到50元怎么样？"
 
 # game/boutique.rpy#L1064
 translate chinese rubyphotoshoot2_73e51610:
 
     # camshowaudience "'ponyluv has donated 25 monies.'"
-    camshowaudience "“ponyluv捐了25块钱。”"
+    camshowaudience "“小马宝贝捐了25块钱。”"
 
 # game/boutique.rpy#L1065
 translate chinese rubyphotoshoot2_630d7a92:

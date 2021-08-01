@@ -1382,7 +1382,7 @@ translate chinese clibrary_61df5792:
 translate chinese clibrary_017e88ec:
 
     # mc "Very well, I’ll make you my personal breeding slut."
-    mc "很好，我要把你操成我的专属生产婊"
+    mc "很好，我要把你操成我的专属生产婊。"
 
 # game/finalroute.rpy#L650
 translate chinese clibrary_386528d7:
@@ -4280,7 +4280,7 @@ translate chinese skipaltreemeeting_fa9eb764:
 translate chinese skipaltreemeeting_72d7e11f:
 
     # lily "And as you know, the moment you cum inside them, they’ll turn…"
-    lily "And as you know, the moment you cum inside them, they’ll turn…"
+    lily "正如你所知道的，当你把精子射入她们体内的时候，她们就会…"
 
 # game/finalroute.rpy#L1673
 translate chinese skipaltreemeeting_ee1ad3c6:
@@ -4316,7 +4316,7 @@ translate chinese skipaltreemeeting_37df6acf:
 translate chinese skipaltreemeeting_ca76c0be:
 
     # penelope "I... I'm sure... I'll focus on the evacuating..."
-    penelope "I... I'm sure... I'll focus on the evacuating..."
+    penelope "我... 我确定... 我会集中精力去疏散的..."
 
 # game/finalroute.rpy#L1689
 translate chinese skipaltreemeeting_1028a218:
@@ -8024,7 +8024,7 @@ translate chinese finale_076937b8:
 translate chinese finale_f1001080:
 
     # "In addition to 1,000 monies, you’ve also unlocked some new things!"
-    "In addition to 1,000 monies, you’ve also unlocked some new things!"
+    "除了1,000 monies外，您还解锁了一些新东西！"
 
 # game/finalroute.rpy#L3567
 translate chinese finale_2cfb4efd:
