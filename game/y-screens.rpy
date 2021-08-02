@@ -787,7 +787,7 @@ screen preferences():
                     style_prefix "radio"
                     label _("Language")
                     textbutton _("Default") action Language(None)
-                    textbutton _("Chinese") action Language("chinese")
+                    textbutton "中文" action Language("chinese")
 
                 ## Additional vboxes of type "radio_pref" or "check_pref" can be
                 ## added here, to add additional creator-defined preferences.
