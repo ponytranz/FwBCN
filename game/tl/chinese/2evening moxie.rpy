@@ -218,7 +218,7 @@ translate chinese moxieblowjob_ee47a462:
 translate chinese moxieblowjob_407bb269:
 
     # "She lowers her head up and down against my cock in short unfocused motions."
-    "她的头上下起伏，同时快速吮吸着我的cock"
+    "她的头上下起伏，同时快速吮吸着我的肉棒。"
 
 # game/2evening%20moxie.rpy#L172
 translate chinese moxieblowjob_b7bb1901:
@@ -764,7 +764,7 @@ translate chinese moxiedoggystyle_46cee809:
 translate chinese moxiedoggystyle_3c60c1b0:
 
     # "Once at the hilt, Moxie lets out a soft sigh that's reminiscent of pure bliss."
-    "直到她的阴道入口紧紧地缠绕在我的cock上。Moxie轻轻地叹了口气，这应该就是纯粹的幸福吧"
+    "直到她的阴道入口紧紧地缠绕在我的老二上。Moxie轻轻地叹了口气，这应该就是纯粹的幸福吧"
 
 # game/2evening%20moxie.rpy#L400
 translate chinese moxiedoggystyle_60f2ec1e:
@@ -2528,7 +2528,7 @@ translate chinese strings:
 
     # game/2evening moxie.rpy_L915_3
     old "Talk about Moxie's past"
-    new "谈谈Moxie&apos的过去"
+    new "谈谈Moxie的过去"
 
     # game/2evening moxie.rpy_L915_4
     old "Ask Moxie what she thinks about Arcadia"

@@ -74,7 +74,7 @@ translate chinese mapmarket_2ea6d676:
 translate chinese mapmarket_d9d75a85:
 
     # dawn2 "If you were to be such a gentleman as to help a lady carry her bags home, you'd be welcome to a delicious cup of tea with me. I'd love to hear more about how you defeated the evil Morphling Queen."
-    dawn2 "如果你足够绅士，愿意帮这样一位女士把行李搬回家，欢迎你和我一起喝杯可口的茶。我很想听听你是怎么打败邪恶的幻型灵女皇的"
+    dawn2 "如果你足够绅士，愿意帮这位女士把行李搬回家，欢迎和我一起喝杯可口的茶~我会很想听听你是怎么打败邪恶的幻型灵女皇的。"
 
 # game/3map.rpy#L78
 translate chinese mapmarket_256e19e5:
@@ -1802,7 +1802,7 @@ translate chinese giftshop_d4b834d9:
 translate chinese giftshop_4307bdf7:
 
     # ari "Thank you I guess."
-    ari "谢谢你。"
+    ari "我想...谢谢你..."
 
 # game/3map.rpy#L627
 translate chinese giftshop_4ddc920e:
@@ -1832,7 +1832,7 @@ translate chinese giftshop_8da59eb3:
 translate chinese giftshop_7639721d:
 
     # ari "Maybe you should go bother Agatha and Sonia instead..."
-    ari "也许你该去找Agatha和Sonia...."
+    ari "也许你该去找Agatha或者Sonia...."
 
 # game/3map.rpy#L635
 translate chinese giftshop_44f1ed73:

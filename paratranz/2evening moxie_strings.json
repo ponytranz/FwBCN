@@ -182,14 +182,14 @@
   {
     "id": 79442705,
     "createdAt": "2021-05-30T19:47:45.000Z",
-    "updatedAt": "2021-07-08T13:49:03.000Z",
+    "updatedAt": "2021-08-02T05:09:17.000Z",
     "key": "game/2evening moxie.rpy_L915_3",
     "original": "Talk about Moxie's past",
-    "translation": "谈谈Moxie&apos的过去",
+    "translation": "谈谈Moxie的过去",
     "file": 272368,
-    "stage": 5,
+    "stage": 3,
     "project": 2414,
-    "uid": 21396,
+    "uid": 20927,
     "extra": null,
     "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/2evening%20moxie.rpy#L915",
     "words": 4

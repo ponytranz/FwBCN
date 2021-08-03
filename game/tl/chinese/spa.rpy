@@ -1132,7 +1132,7 @@ translate chinese strings:
 
     # game/spa.rpy_L20_5
     old "Nothing"
-    new "什么也没有"
+    new "什么也不做"
 
     # game/spa.rpy_L197_0
     old "Sounds like you were planning a strategy to relax yourselves."

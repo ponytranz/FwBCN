@@ -812,7 +812,7 @@ translate chinese farmvisit1_6427f59d:
 translate chinese farmvisit1_8eea5f59:
 
     # mc "This is perfect then, let no injury slow us down, we’ll harvest these apples twice as fast!"
-    mc "这太完美了，不要让伤害阻碍我们，我们会以两倍的速度收获这些苹果！"
+    mc "这太完美了，不要让伤痛阻碍我们，我们会以两倍的速度收获这些苹果！"
 
 # game/farm.rpy#L298
 translate chinese farmvisit1_479d4904:

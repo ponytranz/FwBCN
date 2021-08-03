@@ -20,7 +20,7 @@ translate chinese barvisit1_f57f6b3b:
 translate chinese barvisit1_cc7a30d0:
 
     # riku "Oh hey! It's Ruby's boyfriend, from the party!"
-    riku "噢！嗨！这是Ruby的男朋友，来自派对！"
+    riku "噢！嗨！这不是Ruby派对上的那个男朋友嘛！"
 
 # game/bar.rpy#L21
 translate chinese barvisit1_f015cb36:
@@ -7550,7 +7550,7 @@ translate chinese rikuthreesome_cc042aa5:
 translate chinese rikuthreesome_4f7ac6cc:
 
     # "There’s more friction too. It feels different overall, but I could probably cum just as easily from this."
-    "摩擦力也比小穴更甚。完全是云泥之别，但也能让我很快交货就是了。"
+    "摩擦力也比小穴更甚。完全就是不一样的感觉，但也能让我很快交货就是了。"
 
 # game/bar.rpy#L2040
 translate chinese rikuthreesome_659e6af1:

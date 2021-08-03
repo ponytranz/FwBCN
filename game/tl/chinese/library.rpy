@@ -3260,7 +3260,7 @@ translate chinese lilytj_d01a5adb:
 translate chinese lilytj_111ed8a8:
 
     # penelope "Oh there you are, what do you think of Lily then?"
-    penelope "噢，你来了，觉得Lily怎么样?"
+    penelope "噢，你来了，觉得Lily她怎么样?"
 
 # game/library.rpy#L963
 translate chinese lilytj_b215e0b1:
@@ -6494,7 +6494,7 @@ translate chinese libraryvisit2choice7_7074fe9d:
 translate chinese libraryvisit2choice7_8a768699:
 
     # "It takes a few seconds for my nervous system to readjust, but it’s much faster than last time."
-    "我的神经系统花了几秒钟适应这个新身体，必上次要快得多。"
+    "我的神经系统花了几秒钟适应这个新身体，比上次要快得多。"
 
 # game/library.rpy#L1857
 translate chinese libraryvisit2choice7_6425defe:
@@ -7082,7 +7082,7 @@ translate chinese peneloperubbing_25828b0e:
 translate chinese peneloperubbing_b28b0afc:
 
     # "I wrapped my arms around the pinkish mare and cuddled her closely. Her fur was nestled against me, she felt extremely soft."
-    "我环开双臂，紧紧将这只粉红的小雌驹拥入怀中。她的皮毛在我的皮肤上刮蹭着，感觉十分柔软。"
+    "我环开双臂，紧紧将这只脸色泛粉的小雌驹拥入怀中。她的皮毛在我的皮肤上刮蹭着，感觉十分柔软。"
 
 # game/library.rpy#L1983
 translate chinese peneloperubbing_f9a1ec52:
@@ -7448,7 +7448,7 @@ translate chinese peneloperubbing_b87ca183:
 translate chinese peneloperubbing_87882572:
 
     # penelope "I’m going to give myself some time to clear my thoughts and re-explore myself."
-    penelope "我会自己找些时间精华心灵，重新审视自己。"
+    penelope "我会自己找些时间净化心灵，重新审视自己。"
 
 # game/library.rpy#L2075
 translate chinese peneloperubbing_e96a8cfc:
@@ -9308,7 +9308,7 @@ translate chinese lilylegsupmissionary_0f000407:
 translate chinese lilylegsupmissionary_fbe55727:
 
     # moxie "Of course your majesty, uh, uhm, it was 'Summon Familiar'."
-    moxie "当然陛下，额，额，是“召唤熟人”。"
+    moxie "当然陛下，额，额，是“召唤使魔”。"
 
 # game/library.rpy#L2632
 translate chinese lilylegsupmissionary_0bc4a011:
@@ -9536,7 +9536,7 @@ translate chinese libraryvisit3choice5_b9c58acf:
 translate chinese libraryvisit3choice5_0b3db84e:
 
     # "She smiles warmly, there’s no insincerity behind that smile. It quells any fears I have about evil rampaging goddesses."
-    "她的笑容很真诚，减轻了我对邪恶女神的恐惧感。"
+    "她的笑容很温暖，背后没有什么虚情假意，减轻了我对邪恶女神的恐惧感。"
 
 # game/library.rpy#L2703
 translate chinese libraryvisit3choice5_b98cc80d:
@@ -11630,25 +11630,25 @@ translate chinese lilysex_ab1e4210:
 translate chinese lilysex_3d9d100c:
 
     # "Satisfied, I pull out and leave Lily panting on the counter as she continues to enjoy her longer orgasm."
-    "Satisfied, I pull out and leave Lily panting on the counter as she continues to enjoy her longer orgasm."
+    "我心满意足地把肉棒拔了出来，Lily则留在柜台上大口喘气着多享受一会儿高潮的快感。"
 
 # game/library.rpy#L3399
 translate chinese lilysex_20a98b03:
 
     # lily "Ohhh, sheesh, I just said something really embarassing right now..."
-    lily "Ohhh, sheesh, I just said something really embarassing right now..."
+    lily "哦不，我刚刚说了一些非常尴尬的话……"
 
 # game/library.rpy#L3400
 translate chinese lilysex_7dff2f82:
 
     # lily "And... It was totally hot, I'd definitely say it again, hehe..."
-    lily "And... It was totally hot, I'd definitely say it again, hehe..."
+    lily "不过...也蛮性感的，我下次还会说，嘿嘿......"
 
 # game/library.rpy#L3401
 translate chinese lilysex_26fae9dc:
 
     # "Damn, what a character arc Lily has had."
-    "Damn, what a character arc Lily has had."
+    "操，Lily性格还真有点怪啊。"
 
 # game/library.rpy#L3417
 translate chinese lilysplitsex_ce617998:
@@ -11660,121 +11660,121 @@ translate chinese lilysplitsex_ce617998:
 translate chinese lilysplitsex_7b737b3e:
 
     # "After many hours of genuine work, it’s clear that Lily is getting slightly sexually aroused. That’s pretty normal for her, but she still managed to surprise me with what happened next."
-    "After many hours of genuine work, it’s clear that Lily is getting slightly sexually aroused. That’s pretty normal for her, but she still managed to surprise me with what happened next."
+    "在把工作都忙完过后，Lily的情欲显然被我挑高了不少。对她来说不算奇怪，不过她还是想给我点惊喜。"
 
 # game/library.rpy#L3423
 translate chinese lilysplitsex_d1aa2ec5:
 
     # lily "Did you know that I used to be a ballet dancer? It had me thinking, I could use some of my flexibility for more interesting sex positions."
-    lily "Did you know that I used to be a ballet dancer? It had me thinking, I could use some of my flexibility for more interesting sex positions."
+    lily "知不知道人家以前跳过芭蕾舞？正正好好，我的韧性可以摆出更多有趣的体位。"
 
 # game/library.rpy#L3424
 translate chinese lilysplitsex_662b84d2:
 
     # "We’d been talking about sex intermittently for a while now. Lily seemed to like the idea of discussing how we could make our sex more fun and interesting."
-    "We’d been talking about sex intermittently for a while now. Lily seemed to like the idea of discussing how we could make our sex more fun and interesting."
+    "我们这会的话题总是三句不离性。Lily好像非常热衷于丰富我们性生活乐趣的想法。"
 
 # game/library.rpy#L3425
 translate chinese lilysplitsex_4ab13ccc:
 
     # mc "Ballet, right? Show me what you can do."
-    mc "Ballet, right? Show me what you can do."
+    mc "你跳过芭蕾，对吧？那就让我看看你有什么本事吧。"
 
 # game/library.rpy#L3427
 translate chinese lilysplitsex_4e84df8e:
 
     # lily "Mmh, let’s see… Can I still do this?"
-    lily "Mmh, let’s see… Can I still do this?"
+    lily "嗯，试试吧...不知道还能不能做到以前的高难度动作？"
 
 # game/library.rpy#L3428
 translate chinese lilysplitsex_cd8bada0:
 
     # "With one hand on a wooden surface, and the other on her hips, she slowly raises her left leg upwards."
-    "With one hand on a wooden surface, and the other on her hips, she slowly raises her left leg upwards."
+    "她一只手撑在木制桌面上，另外一只手放在腰部，慢慢抬起了自己的左腿。"
 
 # game/library.rpy#L3432
 translate chinese lilysplitsex_962fd38c:
 
     # "Higher, higher, higher… A complete split!"
-    "Higher, higher, higher… A complete split!"
+    "再高点，高点，高点...好家伙，相当于劈叉了！"
 
 # game/library.rpy#L3433
 translate chinese lilysplitsex_5c8e5d6d:
 
     # lily "I did it!"
-    lily "I did it!"
+    lily "宝刀未老！"
 
 # game/library.rpy#L3434
 translate chinese lilysplitsex_3aee357c:
 
     # mc "I had no idea you could do that. Although I should have noticed your flexibility whenever we fucked legs up missionary. I can’t even get my legs that high."
-    mc "I had no idea you could do that. Although I should have noticed your flexibility whenever we fucked legs up missionary. I can’t even get my legs that high."
+    mc "你的韧性简直让我瞠目结舌。咱俩摆抬腿男上位爱爱的时候我就应该料到你的韧性如此出色才对。我的腿不可能抬你那么高。"
 
 # game/library.rpy#L3435
 translate chinese lilysplitsex_7aa5fb46:
 
     # lily "I bet you could fuck me like this, hehe!"
-    lily "I bet you could fuck me like this, hehe!"
+    lily "那人家就保持这个姿势，等你大屌咯，嘿嘿！"
 
 # game/library.rpy#L3436
 translate chinese lilysplitsex_5d439bdf:
 
     # mc "Well, uh.."
-    mc "Well, uh.."
+    mc "行啊，呃......"
 
 # game/library.rpy#L3437
 translate chinese lilysplitsex_1c157b3e:
 
     # "Lily is probably only somewhat aware of how wet her pussy is right now. But judging by her nodding, she might be more aware than I realize."
-    "Lily is probably only somewhat aware of how wet her pussy is right now. But judging by her nodding, she might be more aware than I realize."
+    "Lily应该能意识到自己的小穴流出的淫水达到了多惊人的量。不过从她迫切地点头速率来看，无需我亲口告诉她。"
 
 # game/library.rpy#L3438
 translate chinese lilysplitsex_a56c3a6f:
 
     # lily "Go on, do whatever you want… I’m your little slut."
-    lily "Go on, do whatever you want… I’m your little slut."
+    lily "来嘛，想怎么插都可以...人家是你的小骚货。"
 
 # game/library.rpy#L3439
 translate chinese lilysplitsex_353d153e:
 
     # mc "Where do I even begin? Hmm…"
-    mc "Where do I even begin? Hmm…"
+    mc "我该从哪里下手呢？嗯......"
 
 # game/library.rpy#L3441
 translate chinese lilysplitsex_72be8670:
 
     # "Kneeling down, I bring my face level to her delicious spread pussy. I decide to slide my tongue across her clit, starting an assault of pleasure."
-    "Kneeling down, I bring my face level to her delicious spread pussy. I decide to slide my tongue across her clit, starting an assault of pleasure."
+    "我先跪下，把脸凑到她饥渴的小穴前。我打算先刺激她的阴蒂，来一波快感突袭。"
 
 # game/library.rpy#L3442
 translate chinese lilysplitsex_8ba30fed:
 
     # "I figured this would be a good test to see if Lily can keep her leg held upright under the pleasure, and I’m mighty impressed when she does."
-    "I figured this would be a good test to see if Lily can keep her leg held upright under the pleasure, and I’m mighty impressed when she does."
+    "我想用这个方法试试Lily能不能在快感的冲击下保持这个高抬腿的姿势，如果她能做到的话我定会吃一惊。"
 
 # game/library.rpy#L3443
 translate chinese lilysplitsex_bff757cf:
 
     # "Meanwhile I also gently stroke my cock to full erection. Doesn’t take long at all while munching Lily’s carpet."
-    "Meanwhile I also gently stroke my cock to full erection. Doesn’t take long at all while munching Lily’s carpet."
+    "我正好腾出一只手套动起自己的长枪，让其充血硬起。舌头一边在Lily的蜜穴口大快朵颐，肉棒也很快勃起了。"
 
 # game/library.rpy#L3444
 translate chinese lilysplitsex_da0a56dd:
 
     # lily "Ahh, ohhh… You’re really good at that, haaahh… I bet you could get me off really easily, but… I’d much rather…"
-    lily "Ahh, ohhh… You’re really good at that, haaahh… I bet you could get me off really easily, but… I’d much rather…"
+    lily "啊，哦...你这方面不赖嘛，哈啊啊...你再这么舔，不一会人家就高潮了，不过...人家更想要你的......"
 
 # game/library.rpy#L3445
 translate chinese lilysplitsex_a57fbf96:
 
     # mc "My cock? Don’t worry, I got you."
-    mc "My cock? Don’t worry, I got you."
+    mc "我的肉棒？别担心，少不了的。"
 
 # game/library.rpy#L3446
 translate chinese lilysplitsex_023b7098:
 
     # "I stand up beside Lily, looks like her pussy is the perfect height for my erection to slide right inside."
-    "I stand up beside Lily, looks like her pussy is the perfect height for my erection to slide right inside."
+    "我在Lily身旁直起身子，这个高度要把我的长枪挺进小穴刚刚好。"
 
 # game/library.rpy#L3447
 translate chinese lilysplitsex_bb47eefc:
@@ -14008,7 +14008,7 @@ translate chinese strings:
 
     # game/library.rpy_L221_4
     old "What did Moxie do to cause such ill-feelings?"
-    new "Moxie究竟做了什么才会让我有这种奇怪的感觉？"
+    new "Moxie究竟做了什么才会让你有这么差的印象？"
 
     # game/library.rpy_L221_5
     old "That’s all"

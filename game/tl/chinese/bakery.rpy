@@ -2,13 +2,13 @@
 translate chinese bakeryvisit1_2f4adbe4:
 
     # "The bakery will be fun to work at, if I’m lucky I might be able to lick the spoons! Actually, that’s a terrible idea, this is a professional establishment, not my grandma’s kitchen."
-    "The bakery will be fun to work at, if I’m lucky I might be able to lick the spoons! Actually, that’s a terrible idea, this is a professional establishment, not my grandma’s kitchen."
+    "在烘焙店工作会很有趣的，要是我运气好的话，可能还会有机会舔舔勺子！事实上，这主意很糟，这是个专业的设施，可不是我奶奶的厨房。"
 
 # game/bakery.rpy#L16
 translate chinese bakeryvisit1_eb1421a6:
 
     # "When I arrive at the bakery I move to give the door a knock but it immediately bursts open!"
-    "When I arrive at the bakery I move to give the door a knock but it immediately bursts open!"
+    "当我到达烘焙店的时候，我本来是要敲门的，没想到门一下子就冲开了！"
 
 # game/bakery.rpy#L19
 translate chinese bakeryvisit1_c8098308:
@@ -1214,7 +1214,7 @@ translate chinese creamquickie_50598653:
 translate chinese creamquickie_82c39e83:
 
     # mc "If ‘alien’ is paying attention in school, sure!"
-    mc "如果“外星人”愿意把注意力集中在学业上，当然可以！"
+    mc "如果“怪人”指的是在学校认真听了课的家伙，当然啦！"
 
 # game/bakery.rpy#L368
 translate chinese creamquickie_79fe0590:

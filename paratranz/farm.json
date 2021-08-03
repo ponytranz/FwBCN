@@ -2027,14 +2027,14 @@
   {
     "id": 79434220,
     "createdAt": "2021-05-30T17:55:39.000Z",
-    "updatedAt": "2021-06-26T09:23:10.000Z",
+    "updatedAt": "2021-08-02T12:27:42.000Z",
     "key": "farmvisit1_8eea5f59",
     "original": "This is perfect then, let no injury slow us down, we’ll harvest these apples twice as fast!",
-    "translation": "这太完美了，不要让伤害阻碍我们，我们会以两倍的速度收获这些苹果！",
+    "translation": "这太完美了，不要让伤痛阻碍我们，我们会以两倍的速度收获这些苹果！",
     "file": 272347,
     "stage": 1,
     "project": 2414,
-    "uid": 21929,
+    "uid": 20927,
     "extra": null,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L297",
     "words": 17

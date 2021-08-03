@@ -26,7 +26,7 @@ translate chinese boutiquevisit1_cfc8f217:
 translate chinese boutiquevisit1_15aa3381:
 
     # "As I knock on the door I can hear ruffling on the other side which opens to reveal a serene beauty."
-    "As I knock on the door I can hear ruffling on the other side which opens to reveal a serene beauty."
+    "在我敲门的时候，我能听到对面传来杂乱的声音，打开门，出现了一位端庄的淑女。"
 
 # game/boutique.rpy#L28
 translate chinese boutiquevisit1_a4db6d61:
@@ -86,13 +86,13 @@ translate chinese boutiquevisit1_848a3f56:
 translate chinese boutiquevisit1_1dbb91ae:
 
     # ruby "It's nice to see you, however it's important to reiterate that this is a favour. Truth is, I’m stretched thin, so I won’t be able to pay you much."
-    ruby "很高兴见到你，但我要重申这是你的好意。实际上，我身无分文，所以我付不了你多少钱。"
+    ruby "很高兴见到你，但我要重申这是你的好意。实际上，我现在捉襟见肘，所以我付不了你多少钱。"
 
 # game/boutique.rpy#L43
 translate chinese boutiquevisit1_56e8aa56:
 
     # mc "Stretched thin you say? Hopefully I can help you out with that."
-    mc "你说拉长了?希望我能帮到你。"
+    mc "你说捉襟见肘？希望我能帮到你。"
 
 # game/boutique.rpy#L45
 translate chinese boutiquevisit1_9249db1a:
@@ -110,7 +110,7 @@ translate chinese boutiquevisit1_ed4aaaa5:
 translate chinese boutiquevisit1_67b49aca:
 
     # "I need to get a 'slave' outfit for Riku's truth or dare punishment."
-    "我得买套“奴隶”专用的服装，我跟Riku玩真心话大冒险玩输了，这是惩罚。"
+    "我得买套“奴隶”专用的服装，Riku玩真心话大冒险玩输了，这是惩罚。"
 
 # game/boutique.rpy#L50
 translate chinese boutiquevisit1_ec895afb:
@@ -260,7 +260,7 @@ translate chinese rubymaidmenu1_a6b61969:
 translate chinese rubymaidmenu1_799dca5b:
 
     # "Perhaps this is just an old design that has been already been approved and mass produced for a clothes shop, I can’t really say, I don’t know how it works in Arcadia. While it's similar in some aspects of my world, in other areas there’s a notable disconnect."
-    "也许这只是一个旧的设计，已经被批准可以被服装店大量生产，我不能保证，我不知道它在阿卡迪亚是如何工作的。虽然在我的世界的某些方面是相似的，但在其他领域却有明显的脱节。"
+    "也许这只是一个旧的设计，已经被批准可以被服装店大量生产，我不能保证，我不知道它在Arcadia是如何工作的。虽然在我的世界的某些方面是相似的，但在其他领域却有明显的脱节。"
 
 # game/boutique.rpy#L90
 translate chinese rubymaidmenu1_d1cf7ef6:
@@ -536,7 +536,7 @@ translate chinese rubymaidmenu1_764de1f3:
 translate chinese rubymaidmenu1_89be1939:
 
     # "Yeah, I need to tell her I'm done, so I'll push onward."
-    "是啊，我得告诉她我受够了，所以我得继续努力。"
+    "是啊，我得告诉她做完了，所以我得进去。"
 
 # game/boutique.rpy#L154
 translate chinese rubymaidmenu1_9d5d22e5:
@@ -800,7 +800,7 @@ translate chinese rubymaidmenu1_ef468dcc:
 translate chinese rubymaidmenu1_afde054b:
 
     # unknown "Or are you an ass man? Maybe you want to feel my pussy? It's mating season so it's nice and wet."
-    unknown "还是说你是个混蛋?还是说你想摸摸我的这根?现在是交配季节，所以天气又好又潮湿。"
+    unknown "还是说你是个混蛋?还是说你想摸摸我的小穴?现在是交配季节，所以它又美丽又湿润。"
 
 # game/boutique.rpy#L232
 translate chinese rubymaidmenu1_b1a77313:
@@ -872,7 +872,7 @@ translate chinese rubymaidmenu1_f980fa45:
 translate chinese rubymaidmenu1_4dbd77fd:
 
     # unknown "Heheh, look at you, pushed down into a cleaning errand boy."
-    unknown "看看你，成了一个扫除男孩。"
+    unknown "看看你，沦落成了一个扫房子的小弟。"
 
 # game/boutique.rpy#L255
 translate chinese rubymaidmenu1_b2a7417b:
@@ -992,13 +992,13 @@ translate chinese melodyhandjob2_ab3079aa:
 translate chinese melodyhandjob2_cb05e884:
 
     # "She pushes me back against the wall and kneels down beside my erection, she leers at it with intrigue before daintily wrapping her cold fingers around my cock."
-    "她把我推回墙，跪在我的那根旁边，她斜着眼看着它，优雅地用她冰冷的手指绕着我的cock"
+    "她把我推回墙，跪在我的那根旁边，她斜着眼看着它，优雅地用她冰冷的手指绕着我的老二。"
 
 # game/boutique.rpy#L309
 translate chinese melodyhandjob2_f69bc29c:
 
     # unknown "Heheh, nice cock, I give it an 8/10."
-    unknown "嘿，不错的cock，我给它打8分。"
+    unknown "嘿，不错的玩意，我给它打8分。"
 
 # game/boutique.rpy#L310
 translate chinese melodyhandjob2_f21631d8:
@@ -1016,7 +1016,7 @@ translate chinese melodyhandjob2_99e5bdbf:
 translate chinese melodyhandjob2_7232ad1d:
 
     # unknown "Mmm… I bet you want to slide this thing deep inside of her…"
-    unknown "我猜你肯定想把这东西深深植入她体内..."
+    unknown "我猜你肯定想把这东西深深插入她体内..."
 
 # game/boutique.rpy#L314
 translate chinese melodyhandjob2_68024ded:
@@ -1076,13 +1076,13 @@ translate chinese melodyhandjob2_0faa46ad:
 translate chinese melodyhandjob2_6cc79745:
 
     # unknown "Gross, gross! You’re no better than the stallions, always thinking with the head of their cock instead of the head of their body."
-    unknown "真恶心!你比种马好不了多少，总是用cock去思考。"
+    unknown "真恶心!你比种马好不了多少，总是用下体去思考。"
 
 # game/boutique.rpy#L327
 translate chinese melodyhandjob2_732d91d8:
 
     # "Her hand speeds up around my cock, like… really speeds up, she seems giddy. She's masturbating too, I can see them both masturbating..."
-    "她的手在cock上加速的动起来，…真的很快，她看起来有点性奋。她也在手淫，我能看到他们都在手淫……"
+    "她的手在肉棒上加速的动起来，…真的很快，她看起来有点性奋。她也在手淫，我能看到他们都在手淫……"
 
 # game/boutique.rpy#L329
 translate chinese melodyhandjob2_01d339be:
@@ -1244,7 +1244,7 @@ translate chinese melodyhandjob2_16ad155f:
 translate chinese melodyhandjob2_505234be:
 
     # unknown "Kehehe, were you now?"
-    unknown "库库库，你还在射？"
+    unknown "库库库，你现在还在看？"
 
 # game/boutique.rpy#L388
 translate chinese melodyhandjob2_bcb53e92:
@@ -3968,7 +3968,7 @@ translate chinese rubyphotoshoot2_cd218a26:
 translate chinese rubyphotoshoot2_363fbe3f:
 
     # melody "You say manipulative, I say supportive. She wanted to do those things with you anyway, but that girl is too much of a softie, not like me at all. I’m a girl that gets what I want, she just shyly twiddles her thumbs and hopes it comes to her."
-    melody "你说善于摆布人，我支持。她想和你一起做那些事，但那个女孩太温柔了，一点也不像我。我是一个得到我想要的东西的女孩，她只是害羞地转动着拇指，希望它能来到她身边。"
+    melody "你说善于摆布人，我支持。反正她也想和你一起做那些事，但那女孩太软弱了，不像我。我是个想要啥就会去主动争取的女孩，而她只会羞涩地转动着拇指，希望东西自己就能来到她身边。"
 
 # game/boutique.rpy#L1174
 translate chinese rubyphotoshoot2_1f04124c:
@@ -4826,7 +4826,7 @@ translate chinese melodyblowjob2_4327b49e:
 translate chinese melodyblowjob2_427a162e:
 
     # "This certainly explains her personality. Doesn’t explain that weird hand job when we met though, but I guess I can use my imagination to fill those gaps."
-    "这当然可以解释她的个性。不过，这并不能解释我们见面时那种奇怪的"手工活"，但我想我可以用我的想象力来填补这些空白。"
+    "这当然可以解释她的个性。不过，这并不能解释我们见面时那种奇怪的“手工活”，但我想我可以用我的想象力来填补这些空白。"
 
 # game/boutique.rpy#L1419
 translate chinese melodyblowjob2_cc063bea:
@@ -11196,15 +11196,15 @@ translate chinese strings:
 
     # game/boutique.rpy_L238_1
     old "I prefer you over your sister, how about we go to your room?"
-    new "比起你妹妹，我更喜欢你。我们到你的房间去怎么样？"
+    new "比起你姐姐，我更喜欢你。我们到你的房间去怎么样？"
 
     # game/boutique.rpy_L238_2
     old "You're not a tasty mare, but your sister is."
-    new "你虽然不合我的口味，但你妹妹却很合我的口味。"
+    new "你虽然不合我的口味，但你姐姐却很合我的口味。"
 
     # game/boutique.rpy_L280_0
     old "You're right, she's camming because she wants people to see."
-    new "你说得对，她拍照片是因为她想让其他人都能看到。"
+    new "你说得对，她直播那个是因为她想让其他人都能看到。"
 
     # game/boutique.rpy_L280_1
     old "You're wrong, watching her like this is an invasion of privacy."
@@ -11228,7 +11228,7 @@ translate chinese strings:
 
     # game/boutique.rpy_L385_0
     old "Actually, I was watching you rub your pussy."
-    new "说实话，我当时看到你正在摩擦自己的下体。"
+    new "说实话，我刚才看到你正在摩擦自己的下体。"
 
     # game/boutique.rpy_L385_1
     old "I can't wait to fuck Ruby."

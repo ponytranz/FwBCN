@@ -122,14 +122,14 @@
   {
     "id": 79443844,
     "createdAt": "2021-05-30T19:47:49.000Z",
-    "updatedAt": "2021-06-02T15:58:02.000Z",
+    "updatedAt": "2021-08-02T08:03:24.000Z",
     "key": "game/library.rpy_L221_4",
     "original": "What did Moxie do to cause such ill-feelings?",
-    "translation": "Moxie究竟做了什么才会让我有这种奇怪的感觉？",
+    "translation": "Moxie究竟做了什么才会让你有这么差的印象？",
     "file": 272385,
     "stage": 3,
     "project": 2414,
-    "uid": null,
+    "uid": 20927,
     "extra": null,
     "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/library.rpy#L221",
     "words": 8
