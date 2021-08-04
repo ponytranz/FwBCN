@@ -5434,7 +5434,7 @@ translate chinese strings:
 
     # game/3map.rpy_L1454_2
     old "The Sixty-Nine"
-    new "69式"
+    new "彼此舔抵私处"
 
     # game/3map.rpy_L1454_3
     old "The Doggystyle Sex"

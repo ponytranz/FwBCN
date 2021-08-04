@@ -11780,193 +11780,193 @@ translate chinese lilysplitsex_023b7098:
 translate chinese lilysplitsex_bb47eefc:
 
     # "With one hand wrapped around her left thigh, I hold her steady as I guide my cock into her pussy."
-    "With one hand wrapped around her left thigh, I hold her steady as I guide my cock into her pussy."
+    "我一只手环抱住她抬起的左腿，扣紧了，然后再扶起自己的肉棒，对准小穴插去。"
 
 # game/library.rpy#L3450
 translate chinese lilysplitsex_bf423aae:
 
     # "A lewd schlick can be heard as I part her dripping wet lips. Lily moans and shivers with pleasure as I push as far as her tight pussy would allow."
-    "A lewd schlick can be heard as I part her dripping wet lips. Lily moans and shivers with pleasure as I push as far as her tight pussy would allow."
+    "她肥硕湿润的阴唇随着淫靡的“噗叽”一声被我的龟头顶开。Lily愉悦的呻吟随着我的愈发深入，也愈发大声起来，身体也止不住颤抖。"
 
 # game/library.rpy#L3451
 translate chinese lilysplitsex_f0cc3e15:
 
     # lily "Oohh, that feels good! This is fun, hehe."
-    lily "Oohh, that feels good! This is fun, hehe."
+    lily "哦哦，好舒服啊！这个体位很棒啊，嘿嘿。"
 
 # game/library.rpy#L3453
 translate chinese lilysplitsex_2011c136:
 
     # "Wrapping my other hand around to the right side of her hips, I support both thighs and body as I start to gently make love to her."
-    "Wrapping my other hand around to the right side of her hips, I support both thighs and body as I start to gently make love to her."
+    "我另一只手从右侧环抱住她的香臀，给自己找到了两个完美的借力点，接着开始轻柔地向前挺动。"
 
 # game/library.rpy#L3454
 translate chinese lilysplitsex_536209ee:
 
     # "At the peak of each thrust, almost on cue, Lily lets slip a cute moan. Her tail lazily swishes back and forth, signalling her enjoyment."
-    "At the peak of each thrust, almost on cue, Lily lets slip a cute moan. Her tail lazily swishes back and forth, signalling her enjoyment."
+    "每次我插到最深处，Lily就以一声娇吟作为回复。她的尾巴无力地甩来甩去，很明显已经沉浸在快感中无法自拔了。"
 
 # game/library.rpy#L3455
 translate chinese lilysplitsex_4d716950:
 
     # mc "You’re pretty good at holding this position. Think I can speed up?"
-    mc "You’re pretty good at holding this position. Think I can speed up?"
+    mc "你很能保持这个体位嘛。我再加速的话还能坚持吗？"
 
 # game/library.rpy#L3456
 translate chinese lilysplitsex_1c097817:
 
     # lily "Easy! Give it to me hard."
-    lily "Easy! Give it to me hard."
+    lily "小菜一碟！你尽管加速好了。"
 
 # game/library.rpy#L3457
 translate chinese lilysplitsex_3f7e165f:
 
     # mc "You asked for it."
-    mc "You asked for it."
+    mc "这个是你说的啊。"
 
 # game/library.rpy#L3458
 translate chinese lilysplitsex_91c777fd:
 
     # "Squeezing my fingers into her fur, I grip onto her thigh and hip tightly as I begin to pummel away with my hips."
-    "Squeezing my fingers into her fur, I grip onto her thigh and hip tightly as I begin to pummel away with my hips."
+    "我抓住她腿和屁股的手突然发力，手指甲深深嵌进她的毛皮之下，使尽全力开始动腰抽插起她来。"
 
 # game/library.rpy#L3459
 translate chinese lilysplitsex_559158a7:
 
     # "*Slap, slap, slap.* Each successful connect of our bodies manages to create a palpable slap sound even against her sheer fur."
-    "*Slap, slap, slap.* Each successful connect of our bodies manages to create a palpable slap sound even against her sheer fur."
+    "*啪，啪，啪*我的身体每一次撞击在她毛茸茸的娇躯上都会发出响亮的啪啪声。"
 
 # game/library.rpy#L3460
 translate chinese lilysplitsex_e685333a:
 
     # lily "Ohh, ohhh gosh! Harder, fill up your slut!"
-    lily "Ohh, ohhh gosh! Harder, fill up your slut!"
+    lily "哦，哦哦天啊！再狠一点，把你的小婊砸塞满！"
 
 # game/library.rpy#L3461
 translate chinese lilysplitsex_b4697290:
 
     # "Even though we’ve only just started, it’s hard to resist the temptation to go all out and cum inside her now. Although she could use magic to get me going again, it’s still very tiring to orgasm twice."
-    "Even though we’ve only just started, it’s hard to resist the temptation to go all out and cum inside her now. Although she could use magic to get me going again, it’s still very tiring to orgasm twice."
+    "虽然我才刚刚开始抽插不久，但现在已经难以抵抗在她体内倾泻浓精的欲望了。就算她有魔法可以让我跳过贤者时间再来一炮，但那样会比较累。"
 
 # game/library.rpy#L3462
 translate chinese lilysplitsex_b76ff46a:
 
     # "Begrudgingly, I make an effort to hold my orgasm back, but still keep my speed up. Not only do I get to savour this divine pleasure a little longer, but I pamper Lily with excess amounts of pleasure."
-    "Begrudgingly, I make an effort to hold my orgasm back, but still keep my speed up. Not only do I get to savour this divine pleasure a little longer, but I pamper Lily with excess amounts of pleasure."
+    "于是我勉强控制住了自己的射精欲望，但下体还是加快了抽插的速度。这么做不单单是因为我还想多体会这天仙般的快感，也考虑到我正给Lily灌入着成堆的欢愉，不能就这么草草了事。"
 
 # game/library.rpy#L3463
 translate chinese lilysplitsex_6c4f15e9:
 
     # "Her thighs tremble as sparks of bliss course through her nerves. Yes, she seems to be getting closer."
-    "Her thighs tremble as sparks of bliss course through her nerves. Yes, she seems to be getting closer."
+    "随着极乐的火花在她的每根神经末梢上相继绽放，她的大腿开始激烈地颤抖起来。很好，她也快高潮了。"
 
 # game/library.rpy#L3464
 translate chinese lilysplitsex_eb78f12a:
 
     # "I wonder if I could… Yeah, I’ll rub her clit too, and really push her over the edge."
-    "I wonder if I could… Yeah, I’ll rub her clit too, and really push her over the edge."
+    "我想想我还能做点什么...哦对，我还可以揉捏她的小豆豆，这应该能让她更快高潮。"
 
 # game/library.rpy#L3465
 translate chinese lilysplitsex_e3e2842a:
 
     # "My fingers find her swollen little nub and begin to rub. The simultaneous pleasures shock her briefly, her poor body spasming as it’s overloaded with stimulation."
-    "My fingers find her swollen little nub and begin to rub. The simultaneous pleasures shock her briefly, her poor body spasming as it’s overloaded with stimulation."
+    "我的手指找准了她肿胀的阴蒂，随即开始摩擦起来。突如其来的两种快感让她欲仙欲死，她可怜的娇躯开始痉挛，好像快承受不了的样子。"
 
 # game/library.rpy#L3466
 translate chinese lilysplitsex_a148514f:
 
     # lily "Ack! Ahhha, ahhh! O-Ohhhhh! Y-You’re… Ahhhh…"
-    lily "Ack! Ahhha, ahhh! O-Ohhhhh! Y-You’re… Ahhhh…"
+    lily "啊啊呃！啊哈哈，啊啊！哦，哦哦哦！你，你快把人家...啊啊......"
 
 # game/library.rpy#L3467
 translate chinese lilysplitsex_a0ec67b7:
 
     # "She can barely get a sentence out, and within ten seconds of squirming she’s easily brought to an orgasm. I’m really impressed that she manages to hold her leg up, although she is resting it on my chest right now."
-    "She can barely get a sentence out, and within ten seconds of squirming she’s easily brought to an orgasm. I’m really impressed that she manages to hold her leg up, although she is resting it on my chest right now."
+    "在快感的冲击下，她已经讲不出一句完整的句子了，在大概十秒钟的痉挛后，她很快就高潮了。我非常惊讶，就算是在这种情况下她还能保持自己的左腿高高抬起，不过接下来她的上半身就靠在我的胸膛处好好歇息了。"
 
 # game/library.rpy#L3468
 translate chinese lilysplitsex_5a577f5b:
 
     # "I could probably keep going and get her off 2-3 times until she gets sensitive. But if I did that her legs might get stuck like this forever."
-    "I could probably keep going and get her off 2-3 times until she gets sensitive. But if I did that her legs might get stuck like this forever."
+    "我大可以再继续抽插，趁她还很敏感的机会再让她高潮个两三次。但要是我真这么干，她的腿就得一直这么悬着。"
 
 # game/library.rpy#L3469
 translate chinese lilysplitsex_ceb48b2e:
 
     # "Alright, my turn… I stop rubbing her clit and start pounding at a pace that’ll get me off soon."
-    "Alright, my turn… I stop rubbing her clit and start pounding at a pace that’ll get me off soon."
+    "差不多了，我该交货了...我不再揉搓她的阴蒂，而是以最快的速度开始抽插，按这个速度下去，不一会就要射精。"
 
 # game/library.rpy#L3470
 translate chinese lilysplitsex_6f5a6e40:
 
     # "It doesn’t take long for Lily’s tight pussy to bring me close, and as her orgasm tapers off mine begins to surface."
-    "It doesn’t take long for Lily’s tight pussy to bring me close, and as her orgasm tapers off mine begins to surface."
+    "在Lily紧致蜜穴的加持下，我很快就来到了高潮的边缘，在她的高潮逐渐褪去后，我自己的高潮紧随其后。"
 
 # game/library.rpy#L3471
 translate chinese lilysplitsex_68003aff:
 
     # lily "Ahh, yesss… Cum in my slutty pussy! Haahh, haaahh…"
-    lily "Ahh, yesss… Cum in my slutty pussy! Haahh, haaahh…"
+    lily "啊啊，射了...肉棒牛奶射进我的淫荡穴儿里了！哈啊啊啊，哈啊啊啊啊……"
 
 # game/library.rpy#L3476
 translate chinese lilysplitsex_ed1d66c4:
 
     # "*Spurt, squirt* My mind is briefly lost in bliss as my cock explodes deep inside Lily."
-    "*Spurt, squirt* My mind is briefly lost in bliss as my cock explodes deep inside Lily."
+    "喷射，喷射*我的意识短时间内只剩如仙般的极乐，肉棒在Lily的深处开始了爆发。"
 
 # game/library.rpy#L3483
 translate chinese lilysplitsex_ecaf2426:
 
     # "*Thrust, thrust, thrust* I squeeze as much as I can out of my seven seconds of heaven, before I gradually come back down to earth and my cock begins to tap out."
-    "*Thrust, thrust, thrust* I squeeze as much as I can out of my seven seconds of heaven, before I gradually come back down to earth and my cock begins to tap out."
+    "*抽插，抽插，抽插*我要在肉棒射精之前在她的名器里尽可能地多抽插几下。"
 
 # game/library.rpy#L3485
 translate chinese lilysplitsex_6869d775:
 
     # "I pull myself out and allow a drip of cum to ooze down her thighs. She actually keeps her leg up a little longer just to let me marvel at my work."
-    "I pull myself out and allow a drip of cum to ooze down her thighs. She actually keeps her leg up a little longer just to let me marvel at my work."
+    "我先把肉棒拔了出来，好先射在她的大腿上。她也很配合地继续保持左腿抬起的姿势让我完成这一“壮举”。"
 
 # game/library.rpy#L3486
 translate chinese lilysplitsex_ecd1c9cd:
 
     # lily "Mm, look at what you did… I’m your cum dumpster. *Pant, pant*"
-    lily "Mm, look at what you did… I’m your cum dumpster. *Pant, pant*"
+    lily "嗯，看看你弄的这些...人家是你的肉便器啦。*喘气，喘气*"
 
 # game/library.rpy#L3491
 translate chinese lilysplitsex_39c07106:
 
     # "She drops her leg almost immediately after that. Her thighs trembling slightly as she tries to hold herself upright."
-    "She drops her leg almost immediately after that. Her thighs trembling slightly as she tries to hold herself upright."
+    "在我射完后她几乎是立刻就把腿放了下来。她想重新站稳，不过腿还在微微颤抖着。"
 
 # game/library.rpy#L3492
 translate chinese lilysplitsex_59fa6c04:
 
     # lily "Ooww, my legs are aching. Maybe I overdid it?"
-    lily "Ooww, my legs are aching. Maybe I overdid it?"
+    lily "呜啊，腿好酸痛。可能我玩得有点过火了？"
 
 # game/library.rpy#L3493
 translate chinese lilysplitsex_693ea55f:
 
     # mc "I think so. Can you stand?"
-    mc "I think so. Can you stand?"
+    mc "应该是。你能站直吗？"
 
 # game/library.rpy#L3495
 translate chinese lilysplitsex_cb3c97b9:
 
     # lily "Mhm. It hurts a bit though. Maybe we’ll do it lying down next instead."
-    lily "Mhm. It hurts a bit though. Maybe we’ll do it lying down next instead."
+    lily "嗯。现在还疼得很，咱们以后还是躺着爱爱比较好。"
 
 # game/library.rpy#L3496
 translate chinese lilysplitsex_d6f0e613:
 
     # mc "Haha, if you say so."
-    mc "Haha, if you say so."
+    mc "哈哈，都听你的。"
 
 # game/library.rpy#L3501
 translate chinese lilysplitsex_5e6e1862:
 
     # "We spend the rest of the day finishing off her tasks before I return home."
-    "We spend the rest of the day finishing off her tasks before I return home."
+    "我们剩下来的一天都在忙她吩咐下来的事情，然后我回了家。"
 
 # game/library.rpy#L3502
 translate chinese lilysplitsex_ce617998_1:
@@ -11978,31 +11978,31 @@ translate chinese lilysplitsex_ce617998_1:
 translate chinese penelopework_28323d18:
 
     # "I work at the library alone while Lily occasionally comes down to help or give me orders."
-    "I work at the library alone while Lily occasionally comes down to help or give me orders."
+    "我独自一个人在图书馆工作，期间Lily会下楼来帮我，或者给我派发新的任务。"
 
 # game/library.rpy#L3513
 translate chinese penelopework_e999e813:
 
     # "Eventually as it nears closing time a familiar face catches the corner of my eye."
-    "Eventually as it nears closing time a familiar face catches the corner of my eye."
+    "到工作快结束的时候，角落里一闪而过的熟面孔引起了我的注意。"
 
 # game/library.rpy#L3515
 translate chinese penelopework_56e29a42:
 
     # penelope "Oh, it's you!"
-    penelope "Oh, it's you!"
+    penelope "哦，是你啊！"
 
 # game/library.rpy#L3517
 translate chinese penelopework_fb9b3d56:
 
     # penelope "I just wanted to apologize again."
-    penelope "I just wanted to apologize again."
+    penelope "我还想再道一次谦来着。"
 
 # game/library.rpy#L3518
 translate chinese penelopework_fabb0791:
 
     # mc "Well... I don't really know what to say."
-    mc "Well... I don't really know what to say."
+    mc "可以啊...只是我不知道该说什么好。"
 
 # game/library.rpy#L3520
 translate chinese penelopework_95c422c8:

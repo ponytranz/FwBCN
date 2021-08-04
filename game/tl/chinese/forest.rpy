@@ -674,13 +674,13 @@ translate chinese forestvisit1choice1_1408eb8b:
 translate chinese forestvisit1choice1_fc03e844:
 
     # butters "Spooky living plants with many writhing, wriggling vines."
-    butters "它们是很可怕的蔓生植物，有很多扭曲缠绕的藤曼。"
+    butters "它们是很可怕的蔓生植物，有很多扭曲缠绕的藤蔓。"
 
 # game/forest.rpy#L190
 translate chinese forestvisit1choice1_f380a10b:
 
     # butters "In scary books, they allegedly trap creatures with the vines until they rot and turn into nutrients for the plant."
-    butters "我们这里的恐怖小说里是这么描写它们的，它们会用藤曼困住猎物，直至其腐烂为植物养份为止。"
+    butters "我们这里的恐怖小说里是这么描写它们的，它们会用藤蔓困住猎物，直至其腐烂为植物养份为止。"
 
 # game/forest.rpy#L191
 translate chinese forestvisit1choice1_0a273b45:
@@ -698,7 +698,7 @@ translate chinese forestvisit1choice1_572b2189:
 translate chinese forestvisit1choice1_4d152da2:
 
     # butters "Fortunately, these plants are just that, plants! You can easily snap the vines and walk away. The only ‘nutrients’ it’ll ever get is from tiny bugs."
-    butters "但小说只是小说，现实情况是，它们只是植物而已！要想挣脱藤曼逃之夭夭不过是小菜一碟。它们唯一的“养份”来源只有靠捕猎小虫子。"
+    butters "但小说只是小说，现实情况是，它们只是植物而已！要想挣脱藤蔓逃之夭夭不过是小菜一碟。它们唯一的“养份”来源只有靠捕猎小虫子。"
 
 # game/forest.rpy#L195
 translate chinese forestvisit1choice1_49129dde:
@@ -722,7 +722,7 @@ translate chinese forestvisit1choice1_0ad25b8b:
 translate chinese forestvisit1choice1_01d24f73:
 
     # butters "The Folium Polypus tries to suck fluid out of larger creatures, so it may try to force its vines into your orifices."
-    butters "瘤叶会试图吸取大型生物的体液，它们可能会找寻你身上可能的孔洞，把藤曼插进去吸取养份。"
+    butters "瘤叶会试图吸取大型生物的体液，它们可能会找寻你身上可能的孔洞，把藤蔓插进去吸取养份。"
 
 # game/forest.rpy#L201
 translate chinese forestvisit1choice1_bed23ec5:
@@ -3794,7 +3794,7 @@ translate chinese buttersandalraune_fe011825:
 translate chinese buttersandalraune_53528924:
 
     # "Everything is covered in vines; the roof, walls and even the ground. Occasionally dotted around the vines are massive reddish pink bulbs which ooze pink mist."
-    "放眼望去目光所及全是藤曼；洞顶，洞壁，地上全是。有些藤曼上长得有巨大的粉色球茎，往外散播着一种粉色的雾气。"
+    "放眼望去目光所及全是藤蔓；洞顶，洞壁，地上全是。有些藤蔓上长得有巨大的粉色球茎，往外散播着一种粉色的雾气。"
 
 # game/forest.rpy#L1051
 translate chinese buttersandalraune_f4c19af2:
@@ -3956,19 +3956,19 @@ translate chinese buttersandalraune_6c3d5d1e:
 translate chinese buttersandalraune_bc8fc6b9:
 
     # "I definitely have an erection now as the two of us step over an obnoxious amount of vines in search of some specific leaves in the mist and darkness."
-    "我们跨过了许多恶心的藤曼，在迷雾和黑暗中摸索需要的叶子，在信息素的刺激下我的下体已经完全勃起了。"
+    "我们跨过了许多恶心的藤蔓，在迷雾和黑暗中摸索需要的叶子，在信息素的刺激下我的下体已经完全勃起了。"
 
 # game/forest.rpy#L1084
 translate chinese buttersandalraune_529c595f:
 
     # "With each step, the vines writhe and react. I know it's just a plant, but I feel like it's aware of me."
-    "我每走一步，藤曼都会有所反应，扭动翻腾着。我知道这只是株植物而已，但感觉它像是活生生的动物，对我的到来十分警惕。"
+    "我每走一步，藤蔓都会有所反应，扭动翻腾着。我知道这只是株植物而已，但感觉它像是活生生的动物，对我的到来十分警惕。"
 
 # game/forest.rpy#L1086
 translate chinese buttersandalraune_b1e994cd:
 
     # butters "Eugh, where is it? All I see are vines and no leaves."
-    butters "唔，到底哪有呢？这儿全都是藤曼，不见半片叶子。"
+    butters "唔，到底哪有呢？这儿全都是藤蔓，不见半片叶子。"
 
 # game/forest.rpy#L1087
 translate chinese buttersandalraune_e1eb3e65:
@@ -4010,7 +4010,7 @@ translate chinese buttersandalraune_55e734dd:
 translate chinese buttersandalraune_ba79e11a:
 
     # "What's worse is the writhing vines beneath us are starting to rise, slowly trying to coil around our feet and ankles."
-    "更糟糕的是我俩脚下的藤曼开始蠕动起来，笨拙地试图缠住我们的脚和脚踝。"
+    "更糟糕的是我俩脚下的藤蔓开始蠕动起来，笨拙地试图缠住我们的脚和脚踝。"
 
 # game/forest.rpy#L1098
 translate chinese buttersandalraune_7f686e76:
@@ -4022,19 +4022,19 @@ translate chinese buttersandalraune_7f686e76:
 translate chinese buttersandalraune_e34ec39f:
 
     # butters "Mmmph, stupid plant! I don't wanna have sex with you! Break the vines, [playername]!"
-    butters "嗯呼，笨植物！我才不想被你强暴！把这些藤曼都弄开，[playername]！"
+    butters "嗯呼，笨植物！我才不想被你强暴！把这些藤蔓都弄开，[playername]！"
 
 # game/forest.rpy#L1101
 translate chinese buttersandalraune_a5b08e99:
 
     # "She’s right, if I just lift my leg with a bit more force, the vines rip and tear."
-    "她说得对，只要我轻轻一抬脚的力度就足以把藤曼撕裂扯断。"
+    "她说得对，只要我轻轻一抬脚的力度就足以把藤蔓撕裂扯断。"
 
 # game/forest.rpy#L1102
 translate chinese buttersandalraune_57723f8a:
 
     # "The vines are concerning, however that's not what's on my mind right now..."
-    "藤曼虽然令我身处险境，但这不是我现在最该担心的东西......"
+    "藤蔓虽然令我身处险境，但这不是我现在最该担心的东西......"
 
 # game/forest.rpy#L1103
 translate chinese buttersandalraune_4fa4c72a:
@@ -4112,7 +4112,7 @@ translate chinese buttersandalraune_374687fb:
 translate chinese buttersandalraune_f691d6ac:
 
     # "I push forward, trying to avoid letting the vines hold me back."
-    "我向前挪动着，试图挣脱藤曼的束缚。"
+    "我向前挪动着，试图挣脱藤蔓的束缚。"
 
 # game/forest.rpy#L1132
 translate chinese forestfuckbutters_2ebf6330:
@@ -4280,13 +4280,13 @@ translate chinese forestfuckbutters_40f40e25:
 translate chinese forestfuckbutters_e247fc27:
 
     # "In my horny daze, I barely noticed the vines coiling up even higher on me too, the temptation to let my hand roam between my legs and start masturbating is unbearable."
-    "我也陷入了性奋的呆滞中，丝毫没有注意到藤曼也紧紧缠住了我的大腿，迫切地想把手滑向大腿之间，开始自慰。"
+    "我也陷入了性奋的呆滞中，丝毫没有注意到藤蔓也紧紧缠住了我的大腿，迫切地想把手滑向大腿之间，开始自慰。"
 
 # game/forest.rpy#L1176
 translate chinese forestfuckbutters_712bd6da:
 
     # "I struggle and fight the vines; the more I fight the more aggressively they try to wrap around and restrain me."
-    "我继续与藤曼搏斗；我挣扎得越用力，藤曼也就越来越用力缠紧。"
+    "我继续与藤蔓搏斗；我挣扎得越用力，藤蔓也就越来越用力缠紧。"
 
 # game/forest.rpy#L1177
 translate chinese forestfuckbutters_813082d9:
@@ -4298,7 +4298,7 @@ translate chinese forestfuckbutters_813082d9:
 translate chinese forestfuckbutters_09c01ed7:
 
     # "Eventually my struggle slows down as the vines overwhelm me and hold my feet completely in place."
-    "最终藤曼完全束缚住了我，把我的双脚死死缠住，我的反抗也愈发显得微弱无力。"
+    "最终藤蔓完全束缚住了我，把我的双脚死死缠住，我的反抗也愈发显得微弱无力。"
 
 # game/forest.rpy#L1179
 translate chinese forestfuckbutters_3e8fa493:
@@ -4316,7 +4316,7 @@ translate chinese forestfuckbutters_7d938f1b:
 translate chinese forestrelax_f61b8386:
 
     # "Maybe these vines are reacting to my presence, they weren’t moving before I came in here."
-    "也许这些藤曼是根据行动作出反应的，我没来这里之前这些藤曼都是一动不动的。"
+    "也许这些藤蔓是根据行动作出反应的，我没来这里之前这些藤蔓都是一动不动的。"
 
 # game/forest.rpy#L1186
 translate chinese forestrelax_f97fc32d:
@@ -4382,7 +4382,7 @@ translate chinese forestrelax_1f7caf66:
 translate chinese forestrelax_2156e8f3:
 
     # butters "Mmphh, do you think these vines will calm down after we come?"
-    butters "嗯呼，你觉得这些藤曼在我们双双高潮后会放过我们吗？"
+    butters "嗯呼，你觉得这些藤蔓在我们双双高潮后会放过我们吗？"
 
 # game/forest.rpy#L1199
 translate chinese forestrelax_08b3b803:
@@ -4406,13 +4406,13 @@ translate chinese forestrelax_d7d55e7a:
 translate chinese forestrelax_358f2671:
 
     # "Two particularly thick vines slowly reach up Butters’s legs then thighs, I can only assume they’re about to fuck her in both holes at once."
-    "两根特别粗的藤曼已经慢慢由小腿处爬到Butters的大腿上，应该是准备同时插她的小穴和后庭。"
+    "两根特别粗的藤蔓已经慢慢由小腿处爬到Butters的大腿上，应该是准备同时插她的小穴和后庭。"
 
 # game/forest.rpy#L1207
 translate chinese forestrelax_2c1bdb11:
 
     # butters "Kyyaah! The vines are pressing against my pussy and butt!"
-    butters "呜啊啊啊！藤曼在试探我的下面和后面！"
+    butters "呜啊啊啊！藤蔓在试探我的下面和后面！"
 
 # game/forest.rpy#L1208
 translate chinese forestrelax_489791bd:
@@ -4424,13 +4424,13 @@ translate chinese forestrelax_489791bd:
 translate chinese forestrelax_66cdff84:
 
     # "One of the vines immediately slips into her pussy, she’s so extremely wet that it readily pistons inside of her."
-    "一根藤曼很快地溜进她的阴道当中，因为她的下体早已爱液泛滥，所以藤蔓很顺畅地开始了活塞运动。"
+    "一根藤蔓很快地溜进她的阴道当中，因为她的下体早已爱液泛滥，所以藤蔓很顺畅地开始了活塞运动。"
 
 # game/forest.rpy#L1213
 translate chinese forestrelax_299d3011:
 
     # "The one at her butt is slightly slower though, it gently eases into her pucker before softly pushing itself inside."
-    "后庭的那根藤曼没有另外一根那么急躁，它轻轻地推挤着菊门，然后慢慢地向里面滑了进去。"
+    "后庭的那根藤蔓没有另外一根那么急躁，它轻轻地推挤着菊门，然后慢慢地向里面滑了进去。"
 
 # game/forest.rpy#L1214
 translate chinese forestrelax_052376d7:
@@ -4472,7 +4472,7 @@ translate chinese forestrelax_e7e43cfa:
 translate chinese forestrelax_20180cd3:
 
     # butters "Ahh! T-The vines absorb, ahhh… fluids... There’s no point in doing this to males."
-    butters "啊！藤，藤曼在里面吸着，啊啊...我的爱液...男性体内吸不到，所以它们不会对你下手。"
+    butters "啊！藤，藤蔓在里面吸着，啊啊...我的爱液...男性体内吸不到，所以它们不会对你下手。"
 
 # game/forest.rpy#L1221
 translate chinese forestrelax_600ef5b6:
@@ -4820,7 +4820,7 @@ translate chinese forestrelax_8ee7a703:
 translate chinese forestrelax_c78cb681:
 
     # "The once aggressive vines and flowers drop to the floor lifelessly, and the flower that had just been having sex with me recedes into its budded form and returns to the Alraune."
-    "曾经霸道的藤曼触手像死了一般坠到地上，刚刚和我XXOO的球茎花也恢复成原先的闭合状态，缩回到Alraune身边。"
+    "曾经霸道的藤蔓触手像死了一般坠到地上，刚刚和我XXOO的球茎花也恢复成原先的闭合状态，缩回到Alraune身边。"
 
 # game/forest.rpy#L1355
 translate chinese forestrelax_9e8e1e36:

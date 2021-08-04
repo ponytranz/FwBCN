@@ -4427,14 +4427,14 @@
   {
     "id": 79433620,
     "createdAt": "2021-05-30T17:55:39.000Z",
-    "updatedAt": "2021-07-11T12:39:07.000Z",
+    "updatedAt": "2021-08-03T09:56:33.000Z",
     "key": "zoe2_65fcf26f",
     "original": "Alraune, you must sexually please [playername] to repent. Hopefully one day you can stop acting like an ass, and stop harassing every man you pass.",
-    "translation": "Alraune，你必须和[玩家名]好好干一次来弥补你的所作所为。希望有一天你不再像个骚扰你所见过的每一个男人的混蛋。",
+    "translation": "Alraune，你必须和[playername]好好干一次来弥补你的所作所为。希望有一天你不再像个骚扰你所见过的每一个男人的混蛋。",
     "file": 272346,
     "stage": 2,
     "project": 2414,
-    "uid": 22440,
+    "uid": 20927,
     "extra": null,
     "context": "说话人: zo \n代码: https://github.com/ponytranz/FwBCN/blob/main/game/deepforest.rpy#L565",
     "words": 25

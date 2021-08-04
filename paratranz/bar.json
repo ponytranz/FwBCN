@@ -12902,14 +12902,14 @@
   {
     "id": 79425346,
     "createdAt": "2021-05-30T17:55:35.000Z",
-    "updatedAt": "2021-07-08T12:57:33.000Z",
+    "updatedAt": "2021-08-03T07:35:29.000Z",
     "key": "barvisit2_ea19706f",
     "original": "Yeah, slow build-up and all that.",
-    "translation": "是啊，慢慢增进感情。",
+    "translation": "是啊，慢慢积攒嘛。",
     "file": 272340,
-    "stage": 2,
+    "stage": 1,
     "project": 2414,
-    "uid": 22136,
+    "uid": 20927,
     "extra": null,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwBCN/blob/main/game/bar.rpy#L1425",
     "words": 6

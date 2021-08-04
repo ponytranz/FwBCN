@@ -284,13 +284,13 @@ translate chinese finalroute_59e59a44:
 translate chinese finalroute_6776eebd:
 
     # morrigan "With this spell, I shall activate the seed of obedience you planted into each and every mare you’ve slept with!"
-    morrigan "以此咒,我将唤醒你睡过的每只雌驹体内种下的奴役之种!"
+    morrigan "以此咒，我将唤醒你睡过的每只雌驹体内种下的奴役之种!"
 
 # game/finalroute.rpy#L149
 translate chinese finalroute_fa70f2dd:
 
     # morrigan "Follow me and obey, loyal pets! You’re now under the rule of Queen Morrigan, Penelope, and [playername] until further notice!"
-    morrigan "从我,尊我吧,忠诚的贱宠们!你们将臣服于Morrigan女王,Penelope,和[playername]的统治之下,直到下步听令!"
+    morrigan "从我，尊我吧,忠诚的贱宠们!你们将臣服于Morrigan女王,Penelope,和[playername]的统治之下,直到下步听令!"
 
 # game/finalroute.rpy#L181
 translate chinese finalroute_b4c09f26:
@@ -356,7 +356,7 @@ translate chinese finalroute_2ad6712b:
 translate chinese finalroute_b1fd48fe:
 
     # morrigan "You were never supposed to sleep with royalty, my plan was to infiltrate Arcadia from the inside as Moxie. But I’d say there’s been a change of plan."
-    morrigan "可没料到你会睡皇室，我原本计划以Moxie之身渗入Arcadia中央。可看来计划有变了。"
+    morrigan "可没料到你会睡皇室成员，我原本计划以Moxie之身渗入Arcadia中央。可看来计划有变了。"
 
 # game/finalroute.rpy#L204
 translate chinese finalroute_d9937da3:
@@ -482,7 +482,7 @@ translate chinese finalroute_e43cdfcc:
 translate chinese finalroute_99067dcd:
 
     # mc "No… I couldn’t… Knowing I’ve done this to all my friends, all the people that have trusted me…"
-    mc "不...我不能这么做...特别是在知道我对朋友们做出了这糟事后，那些信任我的朋友们..."
+    mc "不...我不能这么做...特别是在知道我对朋友们做出了这糟事后，那些信任我的朋友们......"
 
 # game/finalroute.rpy#L285
 translate chinese finalroute_26774822:
@@ -776,7 +776,7 @@ translate chinese cforest_13017bfd:
 translate chinese cforest_afc38f61:
 
     # butters "I can’t believe you slept with everyone, b-but that’s not really the point… That explains how the royal sisters didn’t notice…"
-    butters "我不敢相信你和所有人都睡过，但-但这不是重点... 这解释了为什么皇室姐妹们没有注意到..."
+    butters "我不敢相信你和所有马都睡过，但，但这不是重点... 这解释了为什么皇室姐妹们没有注意到这个......"
 
 # game/finalroute.rpy#L462
 translate chinese cforest_ed4e790e:
@@ -860,19 +860,19 @@ translate chinese cforest_5ef1eacd:
 translate chinese cforest_535c8151:
 
     # butters "A powerful cleansing effect too! We had sex quite a few times and I'm completely fine."
-    butters "一个强大的清洁效果！我们做爱了好几次并且我还很好。"
+    butters "有着非常强大的净化效果！我们做爱了好几次并且我还很好。"
 
 # game/finalroute.rpy#L479
 translate chinese cforest_9ad879db:
 
     # butters "So... if you drink the potion you'll also get a cleansing effect around your genitals, and then if you have sex with a girl suffering from a sexual curse or spell, you might just cure them from the residual power of the potion."
-    butters "所以…如果你喝下这瓶药水，你的Dick也许会受影响从而拥有净化的能力，此时你和一个受到性诅咒的女孩欢爱，你也许能用这药水残留的力量来治疗她。"
+    butters "所以…如果你喝下这瓶药水，你的下体也许会受影响从而拥有净化的能力，此时你和一个受到性诅咒的女孩欢爱，你也许能用这药水残留的力量来治疗她。"
 
 # game/finalroute.rpy#L480
 translate chinese cforest_da4a160c:
 
     # mc "Your theory is interesting, but why didn't {i}you{/i} cure me when we had sex then?"
-    mc "有趣的理论(思考），那为何{i}你不在我们欢爱之时治好我？"
+    mc "有趣的理论，那为何{i}你{/i}不在我们欢爱之时治好我？"
 
 # game/finalroute.rpy#L481
 translate chinese cforest_58e8a52d:
@@ -884,13 +884,13 @@ translate chinese cforest_58e8a52d:
 translate chinese cforest_e74b0aec:
 
     # butters "Heh, I like your rebuttal, but I think it works exactly because you're male and can implant 'genetic material' internally."
-    butters "嘿！我喜欢你的问题，但你应该知道你是男人，只有男人才能给女孩的体内通风报信。"
+    butters "嘿！我喜欢你的问题，但你应该知道你是男人，只有男人才能给女孩的体内注入“遗传物质”。"
 
 # game/finalroute.rpy#L483
 translate chinese cforest_c27d6c31:
 
     # butters "I, as a female, am unable to spread the effect into you because my sexual fluids were only against the skin of your penis."
-    butters "当然我作为一个女人，肯定无法将净化的力量带到你的身上，毕竟我的爱液最多附着在你Dick的包皮上。"
+    butters "我呢，是雌性，肯定无法将净化的力量带到你的身上，毕竟我的爱液最多附着在你性器的包皮上。"
 
 # game/finalroute.rpy#L485
 translate chinese cforest_e6b8bb8e:
@@ -908,7 +908,7 @@ translate chinese cforest_fdc105bb:
 translate chinese cforest_180d740b:
 
     # mc "Holy bunnies Butters, you’re a genius!"
-    mc "我的老天爷啊小蝶，你他娘的还真是个天才！"
+    mc "我的老天爷啊Butters，你他娘的还真是个天才！"
 
 # game/finalroute.rpy#L489
 translate chinese cforest_d994b577:
@@ -920,25 +920,25 @@ translate chinese cforest_d994b577:
 translate chinese cforest_2a95dba6:
 
     # butters "I bet it won’t be too hard convincing each of the elements to sleep with you again, if they were brainwashed by you, they’ll be drooling over your cock."
-    butters "我敢打赌，让每一个信任你的女孩再一次与你共枕不会是一件难事，如果她们被你洗脑成功的话，甚至会对你的阴茎垂涎欲滴，饥渴难耐。"
+    butters "我敢打赌，让每一个信任你的女孩再一次与你共枕不会是一件难事，如果她们被你洗脑成功的话，甚至会对你的棒棒垂涎欲滴，饥渴难耐。"
 
 # game/finalroute.rpy#L492
 translate chinese cforest_110df074:
 
     # mc "Right… What a beautiful irony that I’ll be curing people with the instrument of their demise."
-    mc "好吧…我要用一个令她们死亡的方式来治疗她们，这可真是一个出色的笑话。"
+    mc "好吧…我怎么把她们推入火坑的，还要用同样的方式把她们给救出来，解铃还须系铃人。"
 
 # game/finalroute.rpy#L494
 translate chinese cforest_7879b0a0:
 
     # butters "No need to be poetic, you’re just doing more fucking."
-    butters "别这么温柔！不用想着如何才能更加富有情调，你只需要给我更多。"
+    butters "别这么温柔！不用想着如何才能更加富有情调，“干”就完了。"
 
 # game/finalroute.rpy#L495
 translate chinese cforest_d295685f:
 
     # "I take a deep breath before swallowing the potion. It’s clumpy and disgusting; the taste and smell are foul."
-    "在我吞下药饮之前我深吸了一口气，这玩意属实是混浊而恶心，无论是它尝起来或是闻起来"
+    "在我吞下药饮之前我深吸了一口气，这玩意无论是它尝起来或是闻起来属实是混浊又恶心。"
 
 # game/finalroute.rpy#L496
 translate chinese cforest_b49c3a63:
@@ -1046,13 +1046,13 @@ translate chinese cforest_cad36165:
 translate chinese cforest_57bae6d0:
 
     # mc "I think I’ll pass on the title, but I’ll absolutely get to work curing everyone."
-    mc "我想我会接受这个名头的，但同时我也绝对会给每一个人提供治疗"
+    mc "我想我会接受这个名头的，但同时我也绝对会给大家提供治疗。"
 
 # game/finalroute.rpy#L523
 translate chinese cforest_cfbcda0d:
 
     # butters "Perfect, there’s no time left to talk. Try to take no longer than two hours fucking everyone. Let’s say 10:30am, let’s all meet at the tree at 10:30am!"
-    butters "那真是好极了！现在没有时间再聊了，尽量在两个小时之内操翻所有人。假设那时是十点半，那我们就十点半在树下集合。"
+    butters "那真是好极了！现在没有时间再聊了，尽量在两个小时之内操翻所有马。假设那时是十点半，那我们就十点半在树下集合。"
 
 # game/finalroute.rpy#L524
 translate chinese cforest_24e3bce8:
@@ -1070,7 +1070,7 @@ translate chinese cforest_5747aa51:
 translate chinese cforest_a3998efe:
 
     # "Butters nods and I sprint out of the cottage."
-    "Butters轻轻点头，而我快速地冲出了屋子."
+    "Butters轻轻点头，而我快速地冲出了屋子。"
 
 # game/finalroute.rpy#L529
 translate chinese cforest_bede9a9d:
@@ -1166,7 +1166,7 @@ translate chinese cforest_73eb3d54:
 translate chinese cforest_901ca010:
 
     # morrigan "And he’d make a perfect mate for breeding, I do hope he returns sometime…"
-    morrigan "他会成为繁殖的完美伴侣，我真的希望他能回来…"
+    morrigan "他会成为完美的育种机器，我真的希望他能回来…..."
 
 # game/finalroute.rpy#L576
 translate chinese cforest_7a033084:
@@ -2870,13 +2870,13 @@ translate chinese cboutique_8de3eaf9:
 translate chinese cboutique_e6cd81b9:
 
     # melody "For some reason Morrigan’s brainwashing gave me an overwhelming desire to get impregnated as a breeding drone or whatever, gross…I guess you have my gratitude, [playername]."
-    melody "Morrigan的洗脑让我有一种强烈的欲望，想要成为一个繁殖机器啥的，忒恶心了…我想我还是得感谢一下你，[玩家名]。"
+    melody "Morrigan的洗脑让我有一种强烈的欲望，想要成为一个繁殖机器啥的，忒恶心了…我想我还是得感谢一下你，[playername]。"
 
 # game/finalroute.rpy#L1121
 translate chinese cboutique_0788851f:
 
     # ruby "I’m afraid if it wasn’t for [playername], we’d likely all be subservient hosts for breeding Morrigan’s army."
-    ruby "我担心，要是没有[玩家名]的话，我们都可能会成为Morrigan军队的慰安妇吧。"
+    ruby "我担心，要是没有[playername]的话，我们都可能会成为Morrigan军队的慰安妇吧。"
 
 # game/finalroute.rpy#L1123
 translate chinese cboutique_0d2a53ab:
@@ -3956,7 +3956,7 @@ translate chinese treemeeting_60c2bbe2:
 translate chinese treemeeting_85711887:
 
     # "Soon, Lily returns after a quick brainstorm to plan, although she didn't have very long. I probably should have slept with her first..."
-    "Soon, Lily returns after a quick brainstorm to plan, although she didn't have very long. I probably should have slept with her first..."
+    "不一会，Lily在一阵短暂的头脑风暴后想出了主意。也许我应该先睡她帮她解除洗脑的......"
 
 # game/finalroute.rpy#L1495
 translate chinese treemeeting_87adba93:
@@ -3992,7 +3992,7 @@ translate chinese skipaltreemeeting_ab0a5fd9:
 translate chinese skipaltreemeeting_bae9e97c:
 
     # lily "Right now, Morrigan and the sisters will be alone somewhere as the siphoning process commences, it’ll only take a total of five hours to drain them dry using her dark powers."
-    lily "Right now, Morrigan and the sisters will be alone somewhere as the siphoning process commences, it’ll only take a total of five hours to drain them dry using her dark powers."
+    lily "现在，Morrigan应该在对皇家姐妹施放榨取法术，以她的黑暗力量，五小时就能把姐妹给抽干。"
 
 # game/finalroute.rpy#L1517
 translate chinese skipaltreemeeting_72009fe9:
@@ -4088,13 +4088,13 @@ translate chinese skipaltreemeeting_ac9f74d2:
 translate chinese skipaltreemeeting_634ec798:
 
     # honeycrisp "Yeah? And? It's because of you betraying us that we got into this whole mess!"
-    honeycrisp "是吗？然后呢？都是因为你背叛了我们，才让我们陷入这一团糟！"
+    honeycrisp "是吗？然后呢？都是因为你背叛了我们，才让我们陷入这一团糟的！"
 
 # game/finalroute.rpy#L1584
 translate chinese skipaltreemeeting_9f551a67:
 
     # lily "Girls, let's hear her out... She seems genuinely distressed right now."
-    lily "姑娘们，让我们听她把话说完... 她现在看起来真的很痛苦。"
+    lily "姑娘们，让我们听她把话说完... 她现在看起来真的很紧张。"
 
 # game/finalroute.rpy#L1586
 translate chinese skipaltreemeeting_52613f79:
@@ -4190,7 +4190,7 @@ translate chinese skipaltreemeeting_b18591dd:
 translate chinese skipaltreemeeting_dea7cbfd:
 
     # lily "*Gasp* I didn't know that!"
-    lily "*Gasp* I didn't know that!"
+    lily "*喘气*我现在也没法子了！"
 
 # game/finalroute.rpy#L1629
 translate chinese skipaltreemeeting_1bb818a8:
@@ -4280,7 +4280,7 @@ translate chinese skipaltreemeeting_fa9eb764:
 translate chinese skipaltreemeeting_72d7e11f:
 
     # lily "And as you know, the moment you cum inside them, they’ll turn…"
-    lily "正如你所知道的，当你把精子射入她们体内的时候，她们就会…"
+    lily "正如你所知道的，一旦你把精子射入她们体内，她们立刻就会意识到…"
 
 # game/finalroute.rpy#L1673
 translate chinese skipaltreemeeting_ee1ad3c6:
@@ -4292,25 +4292,25 @@ translate chinese skipaltreemeeting_ee1ad3c6:
 translate chinese skipaltreemeeting_f27f538d:
 
     # ruby "And as soon as Morrigan notices she’s lost control, we need to immediately jump in while she’s defenseless!"
-    ruby "And as soon as Morrigan notices she’s lost control, we need to immediately jump in while she’s defenseless!"
+    ruby "一旦Morrigan发现她失去了掌控权，我们就得趁她毫无防备的时候立即趁虚而入！"
 
 # game/finalroute.rpy#L1680
 translate chinese skipaltreemeeting_99b53d6f:
 
     # lily "She’ll still be extremely powerful, but with no meat shields she won’t be able to stop us from charging up the elements, it’ll be checkmate."
-    lily "She’ll still be extremely powerful, but with no meat shields she won’t be able to stop us from charging up the elements, it’ll be checkmate."
+    lily "虽然她依旧无比强大，但是少了两位人质，她要阻止我们也会分身乏术。所以到时候咱们只需要等待和谐之源充能完毕，将她一军。"
 
 # game/finalroute.rpy#L1684
 translate chinese skipaltreemeeting_ed561f47:
 
     # penelope "Perfect... If anyone can do it, it's you Lily..."
-    penelope "Perfect... If anyone can do it, it's you Lily..."
+    penelope "天衣无缝的计划...也只有Lily你能想出来吧..."
 
 # game/finalroute.rpy#L1686
 translate chinese skipaltreemeeting_37df6acf:
 
     # lily "Are you sure about this, Penelope? You're shaking..."
-    lily "Are you sure about this, Penelope? You're shaking..."
+    lily "你看起来有点不确定呀，Penelope？你在发抖耶..."
 
 # game/finalroute.rpy#L1688
 translate chinese skipaltreemeeting_ca76c0be:
@@ -4388,7 +4388,7 @@ translate chinese confrontingmorrigan_346c268c:
 translate chinese confrontingmorrigan_c2562a43:
 
     # "Okay, so these guards are completely useless."
-    "好吧，这些守卫是完全没卵用的。"
+    "好吧，这些守卫是完全卵用没有。"
 
 # game/finalroute.rpy#L1707
 translate chinese confrontingmorrigan_9c7d14be:
@@ -4418,7 +4418,7 @@ translate chinese confrontingmorrigan_a266801a:
 translate chinese confrontingmorrigan_ae3e86b3:
 
     # "I go down the spiral staircase that Aurora once took me up, and enter the throne room from the back."
-    "I go down the spiral staircase that Aurora once took me up, and enter the throne room from the back."
+    "我沿着Aurora曾带我走过的螺旋梯从后面进入了正殿。"
 
 # game/finalroute.rpy#L1717
 translate chinese confrontingmorrigan_4c1b5c5d:
@@ -4430,7 +4430,7 @@ translate chinese confrontingmorrigan_4c1b5c5d:
 translate chinese confrontingmorrigan_59254334:
 
     # morrigan "Well, well, well! I knew you’d be back, ‘alpha’, ihihihee!"
-    morrigan "Well, well, well! I knew you’d be back, ‘alpha’, ihihihee!"
+    morrigan "喔，喔，喔呜~! 我就知道你会回来的，‘大功臣’，噫嘿嘿！"
 
 # game/finalroute.rpy#L1733
 translate chinese confrontingmorrigan_697ff64c:
@@ -4448,19 +4448,19 @@ translate chinese confrontingmorrigan_f801b767:
 translate chinese confrontingmorrigan_bfe92c4a:
 
     # aurora "Mmphh, yoursh pusshhyy is shoo tastyyy my Queen!!"
-    aurora "Mmphh, yoursh pusshhyy is shoo tastyyy my Queen!!"
+    aurora "哦呜，我的女王殿下，您的蜜穴真是太好吃了！"
 
 # game/finalroute.rpy#L1737
 translate chinese confrontingmorrigan_819e7dbf:
 
     # selene "Haahh, ohh, [playername] is here! Maybe we’ll be bred today!"
-    selene "Haahh, ohh, [playername] is here! Maybe we’ll be bred today!"
+    selene "哈哈，哦，[playername]来了呀！说不定咱们今天就能怀孕了呢！"
 
 # game/finalroute.rpy#L1739
 translate chinese confrontingmorrigan_a705a4fc:
 
     # morrigan "They’re even better than Penelope! *Giggles* Damn, where did that rat get off to anyway?"
-    morrigan "They’re even better than Penelope! *Giggles* Damn, where did that rat get off to anyway?"
+    morrigan "她们甚至比Penelope还要棒！*咯咯笑*哦该死，话说那个贱人到底跑哪儿去了?"
 
 # game/finalroute.rpy#L1740
 translate chinese confrontingmorrigan_2ed20986:
@@ -4472,7 +4472,7 @@ translate chinese confrontingmorrigan_2ed20986:
 translate chinese confrontingmorrigan_d2b67325:
 
     # morrigan "Have you decided to join me, [playername]?"
-    morrigan "Have you decided to join me, [playername]?"
+    morrigan "[playername]，你决定加入我了吗?"
 
 # game/finalroute.rpy#L1747
 translate chinese confrontingmorrigan_0697b3e5:

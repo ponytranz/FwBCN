@@ -5162,7 +5162,7 @@ translate chinese barvisit2_663025ef:
 translate chinese barvisit2_ea19706f:
 
     # mc "Yeah, slow build-up and all that."
-    mc "是啊，慢慢增进感情。"
+    mc "是啊，慢慢积攒嘛。"
 
 # game/bar.rpy#L1426
 translate chinese barvisit2_91d425a6:

@@ -2882,7 +2882,7 @@ translate chinese dawnvisit3_24e1fbe4:
 translate chinese dawnvisit3_b5fbca44:
 
     # "A challenge to have sex with a ‘cougar’? I wanna have sex with you Dawn, not some random human."
-    "和一只饥渴难耐的‘美洲豹’性交的挑战？Dawn，我想和你性交，而不是随便某一个人类。"
+    "和一只饥渴难耐的“美洲豹熟女”性交的挑战？Dawn，我想和你性交，而不是随便某一个人类。"
 
 # game/dawn.rpy#L882
 translate chinese dawnvisit3_508bd77f:
@@ -3254,19 +3254,19 @@ translate chinese dawnvisit3_b10ebee8:
 translate chinese dawnvisit3_88847d6a:
 
     # "Wait… Is this… the cougar?"
-    "等等……难道她就是……‘美洲豹’？"
+    "等等……难道她就是……“美洲豹熟女”？"
 
 # game/dawn.rpy#L983
 translate chinese dawnvisit3_b21c68b6:
 
     # "Is Aurora the cougar I was challenged to sleep with by Dawn?"
-    "Aurora就是Dawn挑战我去上的美洲豹？"
+    "Aurora就是Dawn挑战我去上的熟女？"
 
 # game/dawn.rpy#L984
 translate chinese dawnvisit3_2c3bcb08:
 
     # "I'm not sure who I'm more ashamed in... Myself for not realizing Aurora was the cougar, or Dawn for so obviously setting us up. Sheesh, that girl…"
-    "我不知道我更为谁感到羞耻……没意识到Aurora是美洲豹的我，还是有意掺和我两的Dawn。Sheesh，哪个女孩……"
+    "我不知道我更为谁感到羞耻……没意识到Aurora是美洲豹熟女的我，还是有意掺和我两的Dawn。天呐，那个女孩……"
 
 # game/dawn.rpy#L989
 translate chinese dawnvisit3_d2f1f5c3:
@@ -3416,7 +3416,7 @@ translate chinese ppclsex_ff4ab193:
 translate chinese ppclsex_f9f0e695:
 
     # "The woman who is so blatantly a cougar, wraps her slender fingers around my growing cock and gently starts to jack me off into a full throbbing erection."
-    "那个女人完全就是只美洲豹，用苗条的手指握住我挺立的鸡巴，然后轻轻地拉拽直到阴茎完全勃起。"
+    "那个女人简直就是如狼似虎，用苗条的手指握住我挺立的鸡巴，然后轻轻地拉拽直到阴茎完全勃起。"
 
 # game/dawn.rpy#L1039
 translate chinese ppclsex_ff0bac28:

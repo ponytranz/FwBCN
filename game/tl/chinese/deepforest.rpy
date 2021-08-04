@@ -1772,7 +1772,7 @@ translate chinese zoe2_53029f0a:
 translate chinese zoe2_65fcf26f:
 
     # zo "Alraune, you must sexually please [playername] to repent. Hopefully one day you can stop acting like an ass, and stop harassing every man you pass."
-    zo "Alraune，你必须和[玩家名]好好干一次来弥补你的所作所为。希望有一天你不再像个骚扰你所见过的每一个男人的混蛋。"
+    zo "Alraune，你必须和[playername]好好干一次来弥补你的所作所为。希望有一天你不再像个骚扰你所见过的每一个男人的混蛋。"
 
 # game/deepforest.rpy#L566
 translate chinese zoe2_ca6a6649:
