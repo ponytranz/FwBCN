@@ -2120,7 +2120,7 @@ translate chinese cindytalkmenu1_3af4995f:
 translate chinese cindytalkmenu1_30a18a2d:
 
     # ci "Yep! I just started when heat season began."
-    ci "是的!我自打夏季开始就这么做了。"
+    ci "是的！我自打夏季开始就这么做了。"
 
 # game/3map.rpy#L784
 translate chinese cindytalkmenu1_52562e84:
@@ -2540,7 +2540,7 @@ translate chinese cindyrcg_c66ba3ce:
 translate chinese cindyrcg_1b70b679:
 
     # "My cock throbs and stiffens as the hot hug of her pussy encapsulates the entirety of my member. The heat of her pussy seemingly increasing the sensitivity, as I can feel each ridge and bump of her insides."
-    "我坚硬的cock悸动着，因为她阴道的热烈拥抱完完全全包裹住了它，让它动弹不得。她炽热的体温似乎还增加了我的敏感度，我能感觉到她阴道的每一寸突起。"
+    "我坚硬的肉棒悸动着，因为她阴道的热烈拥抱完完全全包裹住了它，让它动弹不得。她炽热的体温似乎还增加了我的敏感度，我能感觉到她阴道的每一寸突起。"
 
 # game/3map.rpy#L926
 translate chinese cindyrcg_69afb253:
@@ -3926,7 +3926,7 @@ translate chinese cbmenus2_739a1745:
 translate chinese cbmenus2_cf81e5cf:
 
     # "This cheat will beat Selene's route, Bar, Forest, Library, Boutique and Farm routes, set your monies to 450 and set the number of days to 15."
-    "启用这个作弊选项将自动完成击败Selene、森林、图书馆、精品店和农场路线，将你的钱重置为450元，天数重置为第15天。"
+    "启用这个作弊选项将自动完成Selene、森林、图书馆、精品店和农场路线，将你的钱重置为450元，天数重置为第15天。"
 
 # game/3map.rpy#L1945
 translate chinese cbmenus2_7506f685:

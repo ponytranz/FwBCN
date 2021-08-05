@@ -1562,7 +1562,7 @@ translate chinese farmvisit1_6c1c7bc2:
 translate chinese farmvisit1_34a85d1a:
 
     # "I don’t even have time to dwell on the fact she ignored my concern."
-    "I don’t even have time to dwell on the fact she ignored my concern."
+    "我甚至没空去纠结于她无视我的担忧的事实。"
 
 # game/farm.rpy#L521
 translate chinese farmvisit1_c7f1f572:
@@ -1634,7 +1634,7 @@ translate chinese farmvisit1_a95ad60f:
 translate chinese farmvisit1_572188df:
 
     # "It’s well-lit in here, so I catch a glimpse of a glisten between her thighs."
-    "It’s well-lit in here, so I catch a glimpse of a glisten between her thighs."
+    "流淌的淫水像闪耀的宝石一般点缀在她的双腿之间，要不是这里采光很好，我怕是也欣赏不到这光景呀。"
 
 # game/farm.rpy#L542
 translate chinese farmvisit1_d9404d91:
@@ -1670,37 +1670,37 @@ translate chinese farmvisit1_ccf133bc:
 translate chinese farmvisit1_317aae00:
 
     # "I could jack off right now, or maybe I could let Moxie deal with it later. There’s one thing for sure though, I will absolutely not walk back in public until my erection is gone, it would be far too embarrassing."
-    "I could jack off right now, or maybe I could let Moxie deal with it later. There’s one thing for sure though, I will absolutely not walk back in public until my erection is gone, it would be far too embarrassing."
+    "我可以现在就打手冲，或者让Moxie 稍后帮我来处理它。不过一件事是肯定的，在我的老二软下来之前，我绝不能回到公共场所，否则我将当场社死。"
 
 # game/farm.rpy#L551
 translate chinese farmvisit1_f6233e18:
 
     # blossom "Eep! A strange creature with a boner!"
-    blossom "Eep! A strange creature with a boner!"
+    blossom "哎！是个鸡儿梆硬的怪家伙"
 
 # game/farm.rpy#L552
 translate chinese farmvisit1_33a8fd56:
 
     # "Regrettably, embarrassment didn’t wait and came to me instead as a new figure walked in the door and stared at me, shocked, mouth agape."
-    "Regrettably, embarrassment didn’t wait and came to me instead as a new figure walked in the door and stared at me, shocked, mouth agape."
+    "悲催的是，尴尬不请自来，一个新的身影走进了门，随即便大惊失色地盯着我，嘴里还念念有词。"
 
 # game/farm.rpy#L553
 translate chinese farmvisit1_fcfe18d1:
 
     # mc "N-no, you misunderstand, I've been with your sister!"
-    mc "N-no, you misunderstand, I've been with your sister!"
+    mc "额不，你误会我了，是我和你姐在一起了！"
 
 # game/farm.rpy#L555
 translate chinese farmvisit1_74b65365:
 
     # "This new mare was a little shorter than Honeycrisp, she had a orange coat with cute fluffy blonde hair."
-    "This new mare was a little shorter than Honeycrisp, she had a orange coat with cute fluffy blonde hair."
+    "刚才这匹比Honeycrisp要矮一些的母马，有一身橙色的皮毛和可爱的蓬松金发。"
 
 # game/farm.rpy#L556
 translate chinese farmvisit1_bb4c54b4:
 
     # "She was staring at my cock, neither of us have said anything for a few seconds, and there was definitely awkward air."
-    "She was staring at my cock, neither of us have said anything for a few seconds, and there was definitely awkward air."
+    "她直勾勾盯着我挺立的鸡儿，我们彼此都沉默不语，空气中弥漫着尴尬的气息。"
 
 # game/farm.rpy#L558
 translate chinese farmvisit1_d95232f0:

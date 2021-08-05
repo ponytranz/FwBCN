@@ -2,14 +2,14 @@
   {
     "id": 79443923,
     "createdAt": "2021-05-30T19:47:49.000Z",
-    "updatedAt": "2021-06-23T01:23:37.000Z",
+    "updatedAt": "2021-08-04T07:33:51.000Z",
     "key": "game/y-init.rpy_L7_0",
     "original": "Male Familiar?",
-    "translation": "Male Familiar?",
+    "translation": "雄性傀儡？",
     "file": 272387,
     "stage": 3,
     "project": 2414,
-    "uid": 21396,
+    "uid": 20927,
     "extra": null,
     "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-init.rpy#L7",
     "words": 2

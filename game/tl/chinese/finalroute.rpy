@@ -2,31 +2,31 @@
 translate chinese finalroute_240762c1:
 
     # "After I do my daily routine, I receive a magic mail from Moxie."
-    "After I do my daily routine, I receive a magic mail from Moxie."
+    "我做完自己的日常事务之后，收到了Moxie的魔法邮件。"
 
 # game/finalroute.rpy#L7
 translate chinese finalroute_cf5e96d6:
 
     # "She wants to see me, preferably ‘now’. It’s probably because her interview with Selene is today. I should go give her some emotional support."
-    "She wants to see me, preferably ‘now’. It’s probably because her interview with Selene is today. I should go give her some emotional support."
+    "她希望见见我，尤其是“现在”。或许是因为Selene对她的面试就在今天。我应该给她点情感支持。"
 
 # game/finalroute.rpy#L10
 translate chinese finalroute_20802db8:
 
     # "After I do my daily routine, I can hear Moxie is still in the main room rambling to herself."
-    "After I do my daily routine, I can hear Moxie is still in the main room rambling to herself."
+    "我做完自己的日常事务之后，能听到Moxie在主屋里自言自语。"
 
 # game/finalroute.rpy#L11
 translate chinese finalroute_5f043472:
 
     # "Her interview with Selene is today, so I’ll give her some emotional support."
-    "Her interview with Selene is today, so I’ll give her some emotional support."
+    "Selene对她的面试就在今天。我应该给她点情感支持。"
 
 # game/finalroute.rpy#L12
 translate chinese finalroute_85b74289:
 
     # "Although, she’s taking it surprisingly well; she doesn’t seem nervous at all."
-    "Although, she’s taking it surprisingly well; she doesn’t seem nervous at all."
+    "然而，她的状态相当好；看起来一点也不紧张。"
 
 # game/finalroute.rpy#L16
 translate chinese finalroute_38ae87ac:
@@ -56,7 +56,7 @@ translate chinese finalroute_99456aef:
 translate chinese finalroute_c4466a12:
 
     # mc "Is the stress of the interview getting you down? I bet it’s not easy to find out how powerful you are, and what those responsibilities entail."
-    mc "是采访的压力拉跨你了么?估计找到自己能力所在和责任所在一定不容易吧。"
+    mc "是面试的压力拉跨你了么?估计找到自己能力所在和责任所在一定不容易吧。"
 
 # game/finalroute.rpy#L25
 translate chinese finalroute_ae2ee9cd:
@@ -578,7 +578,7 @@ translate chinese finalroute_fd4f0814:
 translate chinese finalroute_54483d4b:
 
     # morrigan "But for now, I believe I had an interview with the Royal Sisters, yes?"
-    morrigan "而现在的话，我想着我已经安排好去见皇家姐妹了，对吧？"
+    morrigan "而现在的话，我想着我有一场和皇家姐妹的会面了，对吧？"
 
 # game/finalroute.rpy#L327
 translate chinese finalroute_d311a196:
@@ -3440,7 +3440,7 @@ translate chinese cbakery_fc73cdd3:
 translate chinese cbakery_1ab96695:
 
     # cream "Gotta bake, gotta cake, all for our new Queenie!"
-    cream "必须烘烤，必须蛋糕，这一切都是为了我们的新孩子！"
+    cream "Gotta bake, gotta cake, all for our new Queenie!"
 
 # game/finalroute.rpy#L1316
 translate chinese cbakery_94e57b8a:
@@ -3542,7 +3542,7 @@ translate chinese cbakery_ac8b33c0:
 translate chinese cbakery_8d897862:
 
     # mc "I don't really feel like working or buying anything, so I'll just leave."
-    mc "其实我不想工作，也不想买东西，所以我马上就走。"
+    mc "其实我不想工作，也不想买东西，我马上就走。"
 
 # game/finalroute.rpy#L1344
 translate chinese cbakery_ca706f20:
@@ -3560,13 +3560,13 @@ translate chinese cbakery_a9467ad2:
 translate chinese cbakery_8dd89ae1:
 
     # mc "I need you to close the store for a few minutes, I need to cum in you, the fate of the world depends on it."
-    mc "我需要你关几分钟的店，因为我要在你小穴里来一发，世界的命运就靠它了。"
+    mc "我需要你关几分钟的店，因为我要在你小穴里来一发，这关系到世界的命运。"
 
 # game/finalroute.rpy#L1353
 translate chinese cbakery_72639a6e:
 
     # cream "Awwhh! I bet you say that to all the girls, [playername]"
-    cream "啊噫 !我敢打赌你对所有的女孩儿都这么说过，[playername]。"
+    cream "啊噫 !我敢打赌你对其他姑娘们都这么说过，[playername]。"
 
 # game/finalroute.rpy#L1354
 translate chinese cbakery_ee51ec18:
@@ -3602,7 +3602,7 @@ translate chinese cbakery_9fc33a0e:
 translate chinese cbakery_4209b1cb:
 
     # "Her messy tail swishes back and forth as I position myself behind her quivering pussy."
-    "我站在她的身后，而她小穴颤抖，凌乱的尾巴前后摇摆。"
+    "我站在她的身后，而她小穴颤抖着，凌乱的尾巴前后摇摆。"
 
 # game/finalroute.rpy#L1367
 translate chinese cbakery_bdf7e7a9:
@@ -3872,7 +3872,7 @@ translate chinese treemeeting_5c499289:
 translate chinese treemeeting_ab190b1e:
 
     # morrigan "Well... I was considering keeping the elements and sisters for [playername]'s harem, but if he isn't interested then I'll just kill them."
-    morrigan "嗯…我想的是留下和谐之源的掌控者们和皇家姐妹给[playername]充当后宫，但如果他对此不感兴趣，那我把她们都杀了吧。"
+    morrigan "嗯…我想的是留下谐律元素的掌控者们和皇家姐妹给[playername]充当后宫，但如果他对此不感兴趣，那我把她们都杀了吧。"
 
 # game/finalroute.rpy#L1465
 translate chinese treemeeting_c95920cd:
@@ -4058,7 +4058,7 @@ translate chinese skipaltreemeeting_5c4bb3db:
 translate chinese skipaltreemeeting_5a6b7233:
 
     # riku "Tch, what the heck do we do? If that bitch is gonna play unfair and use the weakened Queen and Princess as meat bags, we need to find a way to separate the two!"
-    riku "Tch, what the heck do we do? If that bitch is gonna play unfair and use the weakened Queen and Princess as meat bags, we need to find a way to separate the two!"
+    riku "切，我们能干些什么啊？要是那个崽种玩阴的，拿公主和女王当肉盾怎么办，我们得先想个办法先把公主们救出来才行！"
 
 # game/finalroute.rpy#L1558
 translate chinese skipaltreemeeting_f8894194:
@@ -4262,7 +4262,7 @@ translate chinese skipaltreemeeting_fa5e7e03:
 translate chinese skipaltreemeeting_cdf87640:
 
     # cream "Come on you guys, it was totally obvious that he's a huge player!"
-    cream "Come on you guys, it was totally obvious that he's a huge player!"
+    cream "得了吧大家伙，他可是个“运动带师”呢！"
 
 # game/finalroute.rpy#L1670
 translate chinese skipaltreemeeting_7c070845:
@@ -4274,7 +4274,7 @@ translate chinese skipaltreemeeting_7c070845:
 translate chinese skipaltreemeeting_fa9eb764:
 
     # lily "[playername], it’s likely that Morrigan won’t leave the sisters alone with you. Meaning you’ll likely be having sex with them while she’s siphoning."
-    lily "[playername], it’s likely that Morrigan won’t leave the sisters alone with you. Meaning you’ll likely be having sex with them while she’s siphoning."
+    lily "[playername]，Morrigan大概率不会让你单独和皇家姐妹相处。这也意味着你得在Morrigan施放虹吸法术的时候和她们做爱。"
 
 # game/finalroute.rpy#L1672
 translate chinese skipaltreemeeting_72d7e11f:
@@ -4394,7 +4394,7 @@ translate chinese confrontingmorrigan_c2562a43:
 translate chinese confrontingmorrigan_9c7d14be:
 
     # "I arrive in Aurora’s quarters, as before I’m left alone thanks to my personal connection with the Queen, as concubinator I can secretly come and go whenever I want."
-    "I arrive in Aurora’s quarters, as before I’m left alone thanks to my personal connection with the Queen, as concubinator I can secretly come and go whenever I want."
+    "我来到了Aurora的寝宫，因为我和她特殊的私人关系，所以我能找到这里。我算她的情人，在宫殿里畅通无阻。"
 
 # game/finalroute.rpy#L1709
 translate chinese confrontingmorrigan_17daee1e:
@@ -4430,7 +4430,7 @@ translate chinese confrontingmorrigan_4c1b5c5d:
 translate chinese confrontingmorrigan_59254334:
 
     # morrigan "Well, well, well! I knew you’d be back, ‘alpha’, ihihihee!"
-    morrigan "喔，喔，喔呜~! 我就知道你会回来的，‘大功臣’，噫嘿嘿！"
+    morrigan "喔，喔，喔呜~! 我就知道你会回来的，‘大—功—臣’，噫嘿嘿！"
 
 # game/finalroute.rpy#L1733
 translate chinese confrontingmorrigan_697ff64c:
@@ -4442,7 +4442,7 @@ translate chinese confrontingmorrigan_697ff64c:
 translate chinese confrontingmorrigan_f801b767:
 
     # morrigan "I couldn’t resist putting these girl’s tongues to good use. Gosh, I had no idea the ex-royalty around here were such good carpet munchers!"
-    morrigan "I couldn’t resist putting these girl’s tongues to good use. Gosh, I had no idea the ex-royalty around here were such good carpet munchers!"
+    morrigan "我真是抗拒不了这些女孩的舌头。天啊，真没想到这些前皇室成员都是舔下体的一把好手！"
 
 # game/finalroute.rpy#L1736
 translate chinese confrontingmorrigan_bfe92c4a:
@@ -4460,7 +4460,7 @@ translate chinese confrontingmorrigan_819e7dbf:
 translate chinese confrontingmorrigan_a705a4fc:
 
     # morrigan "They’re even better than Penelope! *Giggles* Damn, where did that rat get off to anyway?"
-    morrigan "她们甚至比Penelope还要棒！*咯咯笑*哦该死，话说那个贱人到底跑哪儿去了?"
+    morrigan "她们甚至比Penelope还要棒！*咯咯笑*哦该死，话说那个婊砸到底跑哪儿去了?"
 
 # game/finalroute.rpy#L1740
 translate chinese confrontingmorrigan_2ed20986:
@@ -4478,13 +4478,13 @@ translate chinese confrontingmorrigan_d2b67325:
 translate chinese confrontingmorrigan_0697b3e5:
 
     # "I grit my teeth and try to come up with a conversation that'll lack suspicion and lead to having sex with the sisters."
-    "I grit my teeth and try to come up with a conversation that'll lack suspicion and lead to having sex with the sisters."
+    "我牙关紧闭，试着找一个不会让她怀疑的话题，好让我可以和皇家姐妹来上两发。"
 
 # game/finalroute.rpy#L1748
 translate chinese confrontingmorrigan_c1af373f:
 
     # "I need to appear slightly stand-offish, otherwise Morrigan will be sceptical of my sudden change in heart."
-    "I need to appear slightly stand-offish, otherwise Morrigan will be sceptical of my sudden change in heart."
+    "我得表现得冷淡点，不然Morrigan可能会对我这么快变心起疑。"
 
 # game/finalroute.rpy#L1749
 translate chinese confrontingmorrigan_8f10aac6:
@@ -4496,7 +4496,7 @@ translate chinese confrontingmorrigan_8f10aac6:
 translate chinese confrontingmorrigan_fd44f4f9:
 
     # morrigan "Hmph… I mean… That’s a complicated question, I am Moxie and I’m not!"
-    morrigan "Hmph… I mean… That’s a complicated question, I am Moxie and I’m not!"
+    morrigan "嗯...我想说...这个问题不好回答，本王既是Moxie，也不是！"
 
 # game/finalroute.rpy#L1752
 translate chinese confrontingmorrigan_4e790749:
@@ -4508,595 +4508,595 @@ translate chinese confrontingmorrigan_4e790749:
 translate chinese confrontingmorrigan_9029153a:
 
     # morrigan "Eh… What are you talking about? I am Moxie and Morrigan, we’re the same person."
-    morrigan "Eh… What are you talking about? I am Moxie and Morrigan, we’re the same person."
+    morrigan "呃...你说什么呢？我既是Moxie和Morrigan，我们是同一匹马。"
 
 # game/finalroute.rpy#L1755
 translate chinese confrontingmorrigan_52f475db:
 
     # morrigan "Wait, did one of the Elements of Har’Mony tell you about me?"
-    morrigan "Wait, did one of the Elements of Har’Mony tell you about me?"
+    morrigan "等下，其他谐律精华是不是跟你提起过我？"
 
 # game/finalroute.rpy#L1756
 translate chinese confrontingmorrigan_2a135924:
 
     # "Shit, did I blow it already?! I should have just kept my damn mouth shut!"
-    "Shit, did I blow it already?! I should have just kept my damn mouth shut!"
+    "沃日，我好像出师不利！？真应该闭好自己的嘴！"
 
 # game/finalroute.rpy#L1758
 translate chinese confrontingmorrigan_15be53be:
 
     # morrigan "Sheesh, of course those yappy bastards bragged about that… No wonder you were so hesitant when I revealed myself and told you I was called Morrigan."
-    morrigan "Sheesh, of course those yappy bastards bragged about that… No wonder you were so hesitant when I revealed myself and told you I was called Morrigan."
+    morrigan "呐，那些傲慢不逊的马儿们肯定跟你吹嘘过自己的丰功伟绩...难怪我显出真身，要你叫我Morrigan的时候你会如此犹豫。"
 
 # game/finalroute.rpy#L1759
 translate chinese confrontingmorrigan_4a1551aa:
 
     # "No, I’m fine… She thinks someone told me before the brainwashing…"
-    "No, I’m fine… She thinks someone told me before the brainwashing…"
+    "不，还不算出师不利...她现在单方面认为在洗脑前有其他马告诉过我这些事情......"
 
 # game/finalroute.rpy#L1761
 translate chinese confrontingmorrigan_d2c2eb85:
 
     # morrigan "I guess we got off on a bad foot, shit happens! But what I wanna know, is how much do you know?"
-    morrigan "I guess we got off on a bad foot, shit happens! But what I wanna know, is how much do you know?"
+    morrigan "我想咱两都走了几步臭棋，闹了这些不愉快！不过我现在想知道的是，你小脑瓜子里都塞了些什么秘密？"
 
 # game/finalroute.rpy#L1762
 translate chinese confrontingmorrigan_3d99b73a:
 
     # "Her tone is a confusing mixture of sincere and sinister; I don't know why, she just exudes a hostile aura. I feel like I need to be very careful with what I say next."
-    "Her tone is a confusing mixture of sincere and sinister; I don't know why, she just exudes a hostile aura. I feel like I need to be very careful with what I say next."
+    "她的语气里既有真诚，也有赤果果的威胁；我不知为何，她只是对外散发出敌意的气息。接下来我讲话必须小心翼翼才是。"
 
 # game/finalroute.rpy#L1763
 translate chinese confrontingmorrigan_6db3157c:
 
     # mc "I don’t know a lot… But I want to know how much of you is the Moxie I knew."
-    mc "I don’t know a lot… But I want to know how much of you is the Moxie I knew."
+    mc "我知道的不多...我只是想知道你和我所熟知的Moxie有几分相似。"
 
 # game/finalroute.rpy#L1764
 translate chinese confrontingmorrigan_477c0c0b:
 
     # mc "All the times we’ve talked together, all the times you opened your heart to me, was that you, or Moxie?"
-    mc "All the times we’ve talked together, all the times you opened your heart to me, was that you, or Moxie?"
+    mc "那个和我交谈甚欢，对我敞开心扉的女孩，是你，还是Moxie？"
 
 # game/finalroute.rpy#L1765
 translate chinese confrontingmorrigan_860065d6:
 
     # mc "Are you the same girl that wants to fill the world with cheer and excitement? I don’t believe it."
-    mc "Are you the same girl that wants to fill the world with cheer and excitement? I don’t believe it."
+    mc "你也跟她一样，想通过振奋和激励其他马来让世界变得更美好吗？我不信。"
 
 # game/finalroute.rpy#L1767
 translate chinese confrontingmorrigan_9801f881:
 
     # morrigan "Tch… I-I am the Moxie you knew, this is what I want!"
-    morrigan "Tch… I-I am the Moxie you knew, this is what I want!"
+    morrigan "啊这...我，我当然是你认识的那个Moxie，我想要的就是这个！"
 
 # game/finalroute.rpy#L1769
 translate chinese confrontingmorrigan_479c063d:
 
     # morrigan "It’s complicated… You still love me though, don’t you [playername]?"
-    morrigan "It’s complicated… You still love me though, don’t you [playername]?"
+    morrigan "想解释清楚很复杂...你还爱着我，对吧[playername]？"
 
 # game/finalroute.rpy#L1770
 translate chinese confrontingmorrigan_ae3597b7:
 
     # morrigan "We’ve been through so much together, I’m sorry I had to hide some things from you. It was always to protect you!"
-    morrigan "We’ve been through so much together, I’m sorry I had to hide some things from you. It was always to protect you!"
+    morrigan "咱两也算经历过不少事儿了，抱歉对你有所隐瞒。毕竟都是为了保护你！"
 
 # game/finalroute.rpy#L1771
 translate chinese confrontingmorrigan_e2916f34:
 
     # "She's lying! She truly is an evil creature using Moxie and her name like this..."
-    "She's lying! She truly is an evil creature using Moxie and her name like this..."
+    "撒谎！她就是个蛇蝎心肠的歹毒妇人，用Moxie的名义骗我......"
 
 # game/finalroute.rpy#L1772
 translate chinese confrontingmorrigan_17d9ef8c:
 
     # "But... Why would she lie? She has all the power, why lie to keep me around..?"
-    "But... Why would she lie? She has all the power, why lie to keep me around..?"
+    "但...为什么她要撒谎？她已经神力在握，还有对我撒谎的必要吗..？"
 
 # game/finalroute.rpy#L1773
 translate chinese confrontingmorrigan_979f9f3d:
 
     # "Maybe it's what Penelope said before... There's a part of Moxie still in Morrigan that's 'protecting' me. Otherwise, Morrigan would have no reason to keep me around, she could kill me whenever she wanted."
-    "Maybe it's what Penelope said before... There's a part of Moxie still in Morrigan that's 'protecting' me. Otherwise, Morrigan would have no reason to keep me around, she could kill me whenever she wanted."
+    "可能就像之前Penelope说的那样...Moxie的一部分仍然存在于Morrigan心中在“保护”着我。毕竟，我对Morrigan来说并没有多大意义，她随时随地就能取我小命。"
 
 # game/finalroute.rpy#L1774
 translate chinese confrontingmorrigan_29f83dd3:
 
     # "That'd make sense, right? If Morrigan had some control of Moxie before, then the reverse must be true while they share the same body, right?"
-    "That'd make sense, right? If Morrigan had some control of Moxie before, then the reverse must be true while they share the same body, right?"
+    "应该是这样，对吧？如果之前Morrigan就对Moxie的身体有一定的控制权，那反过来应该也一样，应该是这样？"
 
 # game/finalroute.rpy#L1775
 translate chinese confrontingmorrigan_a9d1448d:
 
     # "I’ll play along regardless, it’s the only way I’ll be able to complete the plan. If I’m too confrontational now I’ll blow it."
-    "I’ll play along regardless, it’s the only way I’ll be able to complete the plan. If I’m too confrontational now I’ll blow it."
+    "我只能孤军奋战了，这是目前唯一可行的一条路子。如果我把她惹火了，最后的希望也会跟着破灭。"
 
 # game/finalroute.rpy#L1777
 translate chinese confrontingmorrigan_95439dd2:
 
     # morrigan "It’s these two bitches that ruined everything for me, they stole my kingdom!"
-    morrigan "It’s these two bitches that ruined everything for me, they stole my kingdom!"
+    morrigan "这两个婊子毁了我的一切，偷走了我的黄袍！"
 
 # game/finalroute.rpy#L1778
 translate chinese confrontingmorrigan_9f2c9e29:
 
     # morrigan "Arcadia was supposed to be mine! These warmongers took it from my family!"
-    morrigan "Arcadia was supposed to be mine! These warmongers took it from my family!"
+    morrigan "Arcadia是我的才对！都是这些战犯从我大家庭那儿偷来的！"
 
 # game/finalroute.rpy#L1779
 translate chinese confrontingmorrigan_ba663988:
 
     # morrigan "It was my birth right! These two are nothing but dictators, all they know is how to force people to live the way they want, with their morals and ideas of ‘good’ and ‘evil’."
-    morrigan "It was my birth right! These two are nothing but dictators, all they know is how to force people to live the way they want, with their morals and ideas of ‘good’ and ‘evil’."
+    morrigan "这是我生来就应得的！这两个就是搞独裁的，脑子里只知道让臣民照她两的“善恶”道德观过日子。"
 
 # game/finalroute.rpy#L1780
 translate chinese confrontingmorrigan_0bbe0afe:
 
     # morrigan "But who gave them the right to dictate that?"
-    morrigan "But who gave them the right to dictate that?"
+    morrigan "谁赋予了她们决定这样或者那样的权力？"
 
 # game/finalroute.rpy#L1788
 translate chinese confrontingmorrigan_4aded501:
 
     # aurora "I’m sho shorry my Queen!"
-    aurora "I’m sho shorry my Queen!"
+    aurora "兑布起，我的女王！"
 
 # game/finalroute.rpy#L1790
 translate chinese confrontingmorrigan_f4d398c4:
 
     # morrigan "Less talk, more tongue."
-    morrigan "Less talk, more tongue."
+    morrigan "少废话，多动点舌头。"
 
 # game/finalroute.rpy#L1794
 translate chinese confrontingmorrigan_29934f1a:
 
     # mc "Alright, I believe you Morrigan… I haven't been here very long, so Arcadia doesn’t mean much to me. What I really want is for things to go back to the way they were before."
-    mc "Alright, I believe you Morrigan… I haven't been here very long, so Arcadia doesn’t mean much to me. What I really want is for things to go back to the way they were before."
+    mc "好了，我相信你的话，Morrigan...我来这个世界也没多久，Arcadia对我来说无所谓。我想要的只是一切都如从前一样照常运转。"
 
 # game/finalroute.rpy#L1795
 translate chinese confrontingmorrigan_1d6fb750:
 
     # mc "I want to live a comfortable life with you, and to be able to sleep with others."
-    mc "I want to live a comfortable life with you, and to be able to sleep with others."
+    mc "我只是想和你好好过日子，还能和其他马滚滚床单。"
 
 # game/finalroute.rpy#L1797
 translate chinese confrontingmorrigan_70ab95a4:
 
     # morrigan "Ohh, perfect! Have you finally decided to enjoy a harem of any girl you could possibly want?"
-    morrigan "Ohh, perfect! Have you finally decided to enjoy a harem of any girl you could possibly want?"
+    morrigan "哦，这才像话！你终于肯接受一个你能随意翻云覆雨的后宫了吗？"
 
 # game/finalroute.rpy#L1798
 translate chinese confrontingmorrigan_79930fac:
 
     # mc "Guess I’ve got nothing better to do, it’ll take me a while to get used to your new ‘Morrigan’ form though, Moxie."
-    mc "Guess I’ve got nothing better to do, it’ll take me a while to get used to your new ‘Morrigan’ form though, Moxie."
+    mc "我猜我也没什么更好的抉择了，我会花点时间熟悉你的新“Morrigan”型态的，Moxie。"
 
 # game/finalroute.rpy#L1800
 translate chinese confrontingmorrigan_47fe0d9d:
 
     # morrigan "Ooohh, music to my ears… I’ll make it worth it, you’ll have me, these slutty alicorns, and any one of those girls you fucked since you arrived- no, even more than just that!"
-    morrigan "Ooohh, music to my ears… I’ll make it worth it, you’ll have me, these slutty alicorns, and any one of those girls you fucked since you arrived- no, even more than just that!"
+    morrigan "哦哦，多么动听的回答...我怎能不从命呢，我，这些淫荡的天角兽，还有你来这上过的所有，不，不止这些，都任你摆布！"
 
 # game/finalroute.rpy#L1801
 translate chinese confrontingmorrigan_035647d2:
 
     # morrigan "You’ll be a part of my inner circle, and you’ll become a respected member of my empire."
-    morrigan "You’ll be a part of my inner circle, and you’ll become a respected member of my empire."
+    morrigan "你会在我的权力中心之内，我会赋予你一个在我帝国里德高望重的地位。"
 
 # game/finalroute.rpy#L1802
 translate chinese confrontingmorrigan_437e2f25:
 
     # "What makes her think I want to be part of {i}her{/i} empire? She’s either deluded or completely lacking empathy if she thinks I’d be okay with this."
-    "What makes her think I want to be part of {i}her{/i} empire? She’s either deluded or completely lacking empathy if she thinks I’d be okay with this."
+    "我的话术有指向我贪图{i}她{/i}帝国的权力吗？她这么分析我的话意味着要么她已经利欲熏心，要么就是完全没有共情能力。"
 
 # game/finalroute.rpy#L1803
 translate chinese confrontingmorrigan_e2d3869e:
 
     # mc "Sounds great! How about we start with the ex-royalty? Lemme smash."
-    mc "Sounds great! How about we start with the ex-royalty? Lemme smash."
+    mc "不错！我们先从前皇室成员开始如何？我有点小“鸡动”。"
 
 # game/finalroute.rpy#L1805
 translate chinese confrontingmorrigan_ed3a48f4:
 
     # morrigan "Ohoh, eager! But I like the sound of that a lot…"
-    morrigan "Ohoh, eager! But I like the sound of that a lot…"
+    morrigan "哦，你可真饥渴！不过嘛，我喜欢你这个样子......"
 
 # game/finalroute.rpy#L1806
 translate chinese confrontingmorrigan_d1195fe8:
 
     # morrigan "Well, as tempted as I am to join in the fun, I need to focus on siphoning their power."
-    morrigan "Well, as tempted as I am to join in the fun, I need to focus on siphoning their power."
+    morrigan "行啊，虽然我也想加入到这场滥交当中，不过我得专注吸取她们的魔法力量才行。"
 
 # game/finalroute.rpy#L1807
 translate chinese confrontingmorrigan_bae74370:
 
     # morrigan "I’ll happily watch the show though."
-    morrigan "I’ll happily watch the show though."
+    morrigan "不过能在一旁看着我也心满意足了。"
 
 # game/finalroute.rpy#L1808
 translate chinese confrontingmorrigan_f92d49bd:
 
     # morrigan "Aurora, Selene, get on top of each other and mash your pussies together!"
-    morrigan "Aurora, Selene, get on top of each other and mash your pussies together!"
+    morrigan "Aurora，Selene，你两给本王上下抱住，把小穴紧紧挤在一起。"
 
 # game/finalroute.rpy#L1809
 translate chinese confrontingmorrigan_4a712713:
 
     # "This is my third incestuous threesome of the day, what are the odds of that?"
-    "This is my third incestuous threesome of the day, what are the odds of that?"
+    "这是我这些天来第三次玩3p了，这是闹哪样？"
 
 # game/finalroute.rpy#L1811
 translate chinese confrontingmorrigan_0cbcdea0:
 
     # aurora "Yes my Queen!"
-    aurora "Yes my Queen!"
+    aurora "遵命，我的女王！"
 
 # game/finalroute.rpy#L1812
 translate chinese confrontingmorrigan_fa06d6fa:
 
     # selene "I’ll go on top!"
-    selene "I’ll go on top!"
+    selene "我坐上面！"
 
 # game/finalroute.rpy#L1817
 translate chinese confrontingmorrigan_8bbe3300:
 
     # "Even though I’m only doing this to cure them, I’d be lying if I said I didn’t enjoy it a little."
-    "Even though I’m only doing this to cure them, I’d be lying if I said I didn’t enjoy it a little."
+    "虽然我和她们干炮是为了救她们，但要说我一点也不享受，那就是在骗鬼。"
 
 # game/finalroute.rpy#L1818
 translate chinese confrontingmorrigan_bd63e786:
 
     # "They both look so happy too, as they wiggle their butts and flick their tails with lustful enthusiasm."
-    "They both look so happy too, as they wiggle their butts and flick their tails with lustful enthusiasm."
+    "她俩看起来都挺兴奋的，绵绵的淫欲让她两不停地摇尾扭臀。"
 
 # game/finalroute.rpy#L1822
 translate chinese confrontingmorrigan_2b7b132f:
 
     # "Considering my sex strategy, I get an idea. Rather than penetrate either one of them, I slide my cock between their labia."
-    "Considering my sex strategy, I get an idea. Rather than penetrate either one of them, I slide my cock between their labia."
+    "我想想按我平时的性爱技巧，我该这么办。我把自己的肉棒塞进了她们两个的小穴中间，而没有插进去。"
 
 # game/finalroute.rpy#L1823
 translate chinese confrontingmorrigan_555afc3d:
 
     # "They’re both wet enough to easily let my cock slide back and forth."
-    "They’re both wet enough to easily let my cock slide back and forth."
+    "她俩分泌的大量淫水让我能轻易地来回抽拉。"
 
 # game/finalroute.rpy#L1824
 translate chinese confrontingmorrigan_cc7a8c92:
 
     # selene "Ohhh, I can feel your cock throbbing against my clit!"
-    selene "Ohhh, I can feel your cock throbbing against my clit!"
+    selene "哦，我的阴蒂能感觉到你肉棒在挑动！"
 
 # game/finalroute.rpy#L1825
 translate chinese confrontingmorrigan_dd3c35d3:
 
     # "As I push my cock forward, their labia and vulva squish against my shaft providing a suitable tightness concentrated in one area."
-    "As I push my cock forward, their labia and vulva squish against my shaft providing a suitable tightness concentrated in one area."
+    "当我的肉棒向前推动时，她俩的外阴和阴唇都挤压着我的棒身，形成了一个舒适的肉环挤压区域。"
 
 # game/finalroute.rpy#L1826
 translate chinese confrontingmorrigan_330aea11:
 
     # morrigan "Oohh? That’s an interesting method."
-    morrigan "Oohh? That’s an interesting method."
+    morrigan "哦？这方法有趣。"
 
 # game/finalroute.rpy#L1827
 translate chinese confrontingmorrigan_ba3e8e5a:
 
     # mc "I’m gonna tease these sluts first, and make them beg before I give them any penetration."
-    mc "I’m gonna tease these sluts first, and make them beg before I give them any penetration."
+    mc "我得先和这俩骚货好好玩玩，到最后乖乖乞求我插进去为止。"
 
 # game/finalroute.rpy#L1828
 translate chinese confrontingmorrigan_bbb3bea9:
 
     # morrigan "Meheheh, I love it!"
-    morrigan "Meheheh, I love it!"
+    morrigan "嗯哼哼～对我胃口！"
 
 # game/finalroute.rpy#L1829
 translate chinese confrontingmorrigan_60dc8078:
 
     # "With this technique, I won’t even have to move; which is great, because I’m exhausted from all this fucking."
-    "With this technique, I won’t even have to move; which is great, because I’m exhausted from all this fucking."
+    "在这种体位下，我基本上不需要做很多动作；省事又舒心，毕竟今天我滚床单已经滚得相当累了。"
 
 # game/finalroute.rpy#L1830
 translate chinese confrontingmorrigan_8b53e419:
 
     # mc "Alright bitches, grind on my cock!"
-    mc "Alright bitches, grind on my cock!"
+    mc "好了，小母狗们，动起来，摩擦我的鸡巴！"
 
 # game/finalroute.rpy#L1831
 translate chinese confrontingmorrigan_4042d5b1:
 
     # aurora "Yes sir! Let’s go sis!"
-    aurora "Yes sir! Let’s go sis!"
+    aurora "好的先生！动起来吧妹妹！"
 
 # game/finalroute.rpy#L1832
 translate chinese confrontingmorrigan_53a8796c:
 
     # "The horny mares grind their hips back and forth. Their technique is sloppy at first, but they soon find a rhythm which compliments each other’s movements."
-    "The horny mares grind their hips back and forth. Their technique is sloppy at first, but they soon find a rhythm which compliments each other’s movements."
+    "两只淫乱的雌驹来回摩擦着彼此的丰臀。她们一开始的动作还很慢，但她们很快就找到了一种能契合彼此的摩擦节奏。"
 
 # game/finalroute.rpy#L1833
 translate chinese confrontingmorrigan_fbc73b33:
 
     # "Both mares apply pressure as their pussies slip back and forth, the sensation perfectly pleasuring my glans; sucking and squishing like penetration."
-    "Both mares apply pressure as their pussies slip back and forth, the sensation perfectly pleasuring my glans; sucking and squishing like penetration."
+    "两只雌驹互相发力，来回滑动自己的小穴，舒适的感觉从我的龟头蔓延至全身；快感丝毫不亚于插进小穴当中。"
 
 # game/finalroute.rpy#L1834
 translate chinese confrontingmorrigan_044d3244:
 
     # selene "Ahhh, ahh, why can’t you just put it inside? *Squish, squish*"
-    selene "Ahhh, ahh, why can’t you just put it inside? *Squish, squish*"
+    selene "啊，啊，你怎么就不能插进去呢？*啪唧，啪唧*"
 
 # game/finalroute.rpy#L1835
 translate chinese confrontingmorrigan_b120b409:
 
     # aurora "Sister! Be quiet and grind! Ohhh, ahhh…"
-    aurora "Sister! Be quiet and grind! Ohhh, ahhh…"
+    aurora "妹妹！少说话，多动啊！哦哦，啊啊......"
 
 # game/finalroute.rpy#L1836
 translate chinese confrontingmorrigan_11fda6d1:
 
     # morrigan "Ihihihi, they’re so subservient! It’s so pathetic and I love it."
-    morrigan "Ihihihi, they’re so subservient! It’s so pathetic and I love it."
+    morrigan "啊hia～hia～hia，她们真是听话啊！看起来可悲至极，本王很是享受。"
 
 # game/finalroute.rpy#L1837
 translate chinese confrontingmorrigan_ce7809b1:
 
     # "With overwhelming desire, their pussies drip and squirt all over my cock and each other, leaving my cock with a glistening sheen which allows them to move even faster."
-    "With overwhelming desire, their pussies drip and squirt all over my cock and each other, leaving my cock with a glistening sheen which allows them to move even faster."
+    "她们的蜜穴在强烈的欲望下，不断地向彼此和我的肉棒上滴落爱液，让我肉棒的棒身上泛起黏滑的水光，可以更加顺畅地来回抽插。"
 
 # game/finalroute.rpy#L1838
 translate chinese confrontingmorrigan_02d36f87:
 
     # "As amazing as the pressure from their scissoring feels, I’ll never be able to cum from just this, especially after having previously ejaculated so many times."
-    "As amazing as the pressure from their scissoring feels, I’ll never be able to cum from just this, especially after having previously ejaculated so many times."
+    "虽然她们“夹逼”的力度不小，但仅仅靠这是没办法让我交货的，而且我今天射了很多次，无疑是难上加难。"
 
 # game/finalroute.rpy#L1839
 translate chinese confrontingmorrigan_59f7c6b2:
 
     # "Straining myself slightly, I begin to thrust back and forth, squishing and indenting their labia as they try to keep up."
-    "Straining myself slightly, I begin to thrust back and forth, squishing and indenting their labia as they try to keep up."
+    "我开始慢慢调整起自己的动作，主动在穴间抽拉起来，在二女的阴唇上来回摩擦，她们也尽力配合着我的节奏。"
 
 # game/finalroute.rpy#L1840
 translate chinese confrontingmorrigan_1d488038:
 
     # selene "Ohh, ohhhh, yes! Keep pushing my clit like that!"
-    selene "Ohh, ohhhh, yes! Keep pushing my clit like that!"
+    selene "哦，哦哦，没错！把人家的阴蒂擦得好舒服！"
 
 # game/finalroute.rpy#L1841
 translate chinese confrontingmorrigan_159cc63a:
 
     # aurora "I hope you don’t waste your cummies on our tummies! *Squish, grind, squelch*"
-    aurora "I hope you don’t waste your cummies on our tummies! *Squish, grind, squelch*"
+    aurora "希望你不要把宝贵的精液射在我两的肚肚上哦，那样就浪费了！*挤压，摩擦，噗叽*"
 
 # game/finalroute.rpy#L1842
 translate chinese confrontingmorrigan_6e62e4ae:
 
     # morrigan "Hmm… It’s taking you a while to cum. Their technique must be bad, they’re probably weak from the siphoning, hehe."
-    morrigan "Hmm… It’s taking you a while to cum. Their technique must be bad, they’re probably weak from the siphoning, hehe."
+    morrigan "嗯...你到现在都还没射。她们的技术可真烂，可能是因为我汲取魔法的缘故吧，嘿嘿。"
 
 # game/finalroute.rpy#L1843
 translate chinese confrontingmorrigan_6de668a2:
 
     # morrigan "But don’t worry, I’ll put that strength to good use when I bed you tonight."
-    morrigan "But don’t worry, I’ll put that strength to good use when I bed you tonight."
+    morrigan "不过别担心，今晚和你同床共枕的时候，本王会好生使用她们的力量的。"
 
 # game/finalroute.rpy#L1844
 translate chinese confrontingmorrigan_8c675be9:
 
     # "With all three of us grinding against each other, the sensations are increased and I get ever closer to my important climax."
-    "With all three of us grinding against each other, the sensations are increased and I get ever closer to my important climax."
+    "我们三个彼此间的相互摩擦让我的快感告诉攀升，我的高潮已近。"
 
 # game/finalroute.rpy#L1845
 translate chinese confrontingmorrigan_c372e828:
 
     # "The sisters hump like rabbits as they try to steal as much pleasure as they can, fortunately that serves my purposes too."
-    "The sisters hump like rabbits as they try to steal as much pleasure as they can, fortunately that serves my purposes too."
+    "两姐妹像兔子一样弓起身试图贪得更多的快感，这个姿势也让我的快感倍增。"
 
 # game/finalroute.rpy#L1847
 translate chinese confrontingmorrigan_16f5cf67:
 
     # aurora "Ahh, ohhh, harder sis, grind harder! It’s too hard on the bottom, aaahhhh!"
-    aurora "Ahh, ohhh, harder sis, grind harder! It’s too hard on the bottom, aaahhhh!"
+    aurora "啊，哦，再用点力摩擦啊妹妹！我的屁股快动不了了，啊啊啊啊！"
 
 # game/finalroute.rpy#L1848
 translate chinese confrontingmorrigan_fbc02749:
 
     # selene "Ohh f-fuuuck! I-I’m gonna come, I’m coming from just grinding on this cock! Ahh, ahh! *Squish, grind*"
-    selene "Ohh f-fuuuck! I-I’m gonna come, I’m coming from just grinding on this cock! Ahh, ahh! *Squish, grind*"
+    selene "哦妹，妹的！我，我要去了，就一根鸡巴在下面摩擦，我居然就要这么去了！啊，啊！*啪唧，摩擦*"
 
 # game/finalroute.rpy#L1849
 translate chinese confrontingmorrigan_e4513575:
 
     # morrigan "Goodness, this is positively obscene, the noises are so lewd! Ihihihi!"
-    morrigan "Goodness, this is positively obscene, the noises are so lewd! Ihihihi!"
+    morrigan "天啊，这动静真激烈，听起来好淫荡！啊哈哈哈哈！"
 
 # game/finalroute.rpy#L1850
 translate chinese confrontingmorrigan_e3f179b8:
 
     # "Selene’s pussy contracts and squirts slightly as she orgasms, her hips bucking and applying more pressure to my cock."
-    "Selene’s pussy contracts and squirts slightly as she orgasms, her hips bucking and applying more pressure to my cock."
+    "Selene的小穴在高潮中慢慢收紧，丰臀死死地往下压，把我的肉棒挤得更紧。"
 
 # game/finalroute.rpy#L1851
 translate chinese confrontingmorrigan_1c94fc9c:
 
     # "Aurora, frustrated that she hasn’t achieved orgasm from her more awkward position, irately pushes back with more vigour."
-    "Aurora, frustrated that she hasn’t achieved orgasm from her more awkward position, irately pushes back with more vigour."
+    "Aurora因为处于不利姿势，所以没能高潮，恼火的她开始拼命地来回摩擦起来。"
 
 # game/finalroute.rpy#L1852
 translate chinese confrontingmorrigan_779bd183:
 
     # morrigan "They’re so controlled by their pleasure! Ihihih, they’ll do anything to get more of it! If I realized they were such whores for pleasure, I wouldn’t have even bothered brainwashing them *giggles*!"
-    morrigan "They’re so controlled by their pleasure! Ihihih, they’ll do anything to get more of it! If I realized they were such whores for pleasure, I wouldn’t have even bothered brainwashing them *giggles*!"
+    morrigan "她俩在快感下爆发出的力量令本王吃惊！啊哈哈，为了更大的快感，她们只会越来越夸张！早知道这俩匹马是这种骚浪贱货，我当初就不废那么大心机去洗脑她们了*咯咯笑*！"
 
 # game/finalroute.rpy#L1853
 translate chinese confrontingmorrigan_1ebc8ccb:
 
     # "The increase of intensity from both sides rapidly begins to overwhelm my cock, finally I can feel that familiar tension in my taint."
-    "The increase of intensity from both sides rapidly begins to overwhelm my cock, finally I can feel that familiar tension in my taint."
+    "两姐妹的下体以庞大的压力疯狂挤压着我的肉棒，熟悉的感觉又涌上心头。"
 
 # game/finalroute.rpy#L1854
 translate chinese confrontingmorrigan_68fdd4e3:
 
     # "My cock stiffens and my muscles grow tense, my mind clouds up as a potent orgasm rises throughout my core."
-    "My cock stiffens and my muscles grow tense, my mind clouds up as a potent orgasm rises throughout my core."
+    "我的鸡巴开始胀痛，身体紧绷，当滚烫的岩浆即将喷涌而出时，我的思绪早已飘入了性福的云端。"
 
 # game/finalroute.rpy#L1855
 translate chinese confrontingmorrigan_ab90d37f:
 
     # selene "Ahhhaa, ghhaahh! *Pant, pant* *Squish, squirt*"
-    selene "Ahhhaa, ghhaahh! *Pant, pant* *Squish, squirt*"
+    selene "啊啊啊，嘎啊啊！*喘气，喘气* *啪唧，扑哧*"
 
 # game/finalroute.rpy#L1856
 translate chinese confrontingmorrigan_1bff5cc8:
 
     # aurora "F-Finally, I-I’m gonna come, yesshh! I’m coming for you [playername], gimme your cummies too!"
-    aurora "F-Finally, I-I’m gonna come, yesshh! I’m coming for you [playername], gimme your cummies too!"
+    aurora "终，终于，我，我要去了，爽，爽啊！[playername]让我去了，把你的肉棒牛奶也喂给人家啊！"
 
 # game/finalroute.rpy#L1857
 translate chinese confrontingmorrigan_ce75e65e:
 
     # "This is it! Instantly I pull back from the sisters to their immediate dismay, as I deny them pleasure from their orgasms."
-    "This is it! Instantly I pull back from the sisters to their immediate dismay, as I deny them pleasure from their orgasms."
+    "是时候了，我立马将肉棒从俩姐妹的穴间抽出，肉缝间突然的真空把她们两个弄得有点不高兴，我不想让她们俩觉得我不想射出来。"
 
 # game/finalroute.rpy#L1862
 translate chinese confrontingmorrigan_fbf4d548:
 
     # "However as if to rectify that problem, with one thrust I plunge my cock into Selene’s pussy, just as my cock erupts, and launches several loads deep into her womb."
-    "However as if to rectify that problem, with one thrust I plunge my cock into Selene’s pussy, just as my cock erupts, and launches several loads deep into her womb."
+    "为了安抚她们的情绪，我在高潮前的千钧一发之际，把鸡巴使劲地插进了Selene的蜜穴中，几发滚烫的精液奔涌而出，灌进她的子宫。"
 
 # game/finalroute.rpy#L1867
 translate chinese confrontingmorrigan_58c49e71:
 
     # "Less than a second after, I pull back and lunge my shaft deep into Aurora’s pussy, a stray dollop of cum escaping and splattering her vulva."
-    "Less than a second after, I pull back and lunge my shaft deep into Aurora’s pussy, a stray dollop of cum escaping and splattering her vulva."
+    "在一秒钟都不到的时间里我又拔出鸡巴，立即向Aurora的蜜穴里狠狠挺去，浓厚的一团精液从我们的交合处飞溅溢出。"
 
 # game/finalroute.rpy#L1873
 translate chinese confrontingmorrigan_9fdb7262:
 
     # "Sinking into the white mare, I breathe a sigh of relief as I unload the second half of my orgasm into her womb."
-    "Sinking into the white mare, I breathe a sigh of relief as I unload the second half of my orgasm into her womb."
+    "再插进白色雌驹，将我后半部分高潮的精液也倾泻进她的子宫后，我总算松了口气，这下算雨露均沾了吧。"
 
 # game/finalroute.rpy#L1876
 translate chinese confrontingmorrigan_548f77e4:
 
     # "I did it, I came in both of them…"
-    "I did it, I came in both of them…"
+    "我成功了，把她们都内射了......."
 
 # game/finalroute.rpy#L1877
 translate chinese confrontingmorrigan_bf347d02:
 
     # morrigan "What the hell kind of trick was that? I {i}loved{/i} it! Filling both those breeding whores up was so perfect."
-    morrigan "What the hell kind of trick was that? I {i}loved{/i} it! Filling both those breeding whores up was so perfect."
+    morrigan "这是哪门子的把戏？我太{i}喜欢{/i}了！把那俩骚浪贱货灌满了，真不戳。"
 
 # game/finalroute.rpy#L1879
 translate chinese confrontingmorrigan_ce617998:
 
     # "…"
-    "…"
+    "..."
 
 # game/finalroute.rpy#L1885
 translate chinese finale_9ee01119:
 
     # "And so, it begins..."
-    "And so, it begins..."
+    "OK，好戏开场了......"
 
 # game/finalroute.rpy#L1887
 translate chinese finale_2dec912d:
 
     # selene "Who are you calling breeding whores?"
-    selene "Who are you calling breeding whores?"
+    selene "你叫谁骚浪贱货呢？"
 
 # game/finalroute.rpy#L1889
 translate chinese finale_d5746ff1:
 
     # aurora "Morrigan… You’ve gone too far this time…"
-    aurora "Morrigan… You’ve gone too far this time…"
+    aurora "Morrigan...这下你没有回头路了......"
 
 # game/finalroute.rpy#L1892
 translate chinese finale_d7902e0a:
 
     # morrigan "Eh? Ehhh?!? M-My control, it’s gone? What hap- "
-    morrigan "Eh? Ehhh?!? M-My control, it’s gone? What hap- "
+    morrigan "呃？呃？！？我，我的心灵控制，失效了？亻十"
 
 # game/finalroute.rpy#L1894
 translate chinese finale_c87cbbac:
 
     # morrigan "No… The cum?! [playername]! You used my own weapon against me?"
-    morrigan "No… The cum?! [playername]! You used my own weapon against me?"
+    morrigan "不...那些精液？！[playername]！你用我的路子来对付我自己？"
 
 # game/finalroute.rpy#L1896
 translate chinese finale_94f8209f:
 
     # morrigan "No matter, hehehe! I’ve absorbed so much power that you two can’t oppose me!"
-    morrigan "No matter, hehehe! I’ve absorbed so much power that you two can’t oppose me!"
+    morrigan "不过没关系，嘿嘿嘿！我已经吸收了足够多的力量，就凭你们两个，挡不了我！"
 
 # game/finalroute.rpy#L1897
 translate chinese finale_a24d8b63:
 
     # morrigan "I’ll make you breeding whores with or without your consent! With or without brainwashing!"
-    morrigan "I’ll make you breeding whores with or without your consent! With or without brainwashing!"
+    morrigan "不管你们想还是不想，我都能把你们变成骚浪贱货！就算没有洗脑也可以！"
 
 # game/finalroute.rpy#L1898
 translate chinese finale_086f75ba:
 
     # morrigan "It’s too late! I’m too powerful! You’re all mine now! Feel the wrath of Morrig- guh?"
-    morrigan "It’s too late! I’m too powerful! You’re all mine now! Feel the wrath of Morrig- guh?"
+    morrigan "太晚了！我现在无马能挡！你们都只能被我玩弄于掌心！感受Morrigan的怒...呀？"
 
 # game/finalroute.rpy#L1917
 translate chinese finale_a9cb05b6:
 
     # lily "Now, girls! Begin formation! Ruby, Selene, Aurora, make a barrier!"
-    lily "Now, girls! Begin formation! Ruby, Selene, Aurora, make a barrier!"
+    lily "趁现在，姐妹们！摆好阵形！Ruby，Selene，Aurora，构筑防线！"
 
 # game/finalroute.rpy#L1921
 translate chinese finale_95775412:
 
     # ruby "Queen, Princess and [playername], over here!"
-    ruby "Queen, Princess and [playername], over here!"
+    ruby "女王，公主还有[playername]，来这边！"
 
 # game/finalroute.rpy#L1935
 translate chinese finale_9c5c6d3c:
 
     # morrigan "W-Wha? What the hell?"
-    morrigan "W-Wha? What the hell?"
+    morrigan "啥，啥啊？什么鬼？"
 
 # game/finalroute.rpy#L1955
 translate chinese finale_522802c1:
 
     # "The three of us take cover behind a growing surge of energy culminating in Lily’s horn."
-    "The three of us take cover behind a growing surge of energy culminating in Lily’s horn."
+    "我们三个都迅速闪进Lily角织成的能量屏障背后。"
 
 # game/finalroute.rpy#L1973
 translate chinese finale_160d8d32:
 
     # "Each of the Elements of Har’Mony feed energy to her, and she acts like a conduit."
-    "Each of the Elements of Har’Mony feed energy to her, and she acts like a conduit."
+    "每一个谐律精华都在向她输送能量，她就像一个容器一样。"
 
 # game/finalroute.rpy#L2002
 translate chinese finale_d94e9116:
 
     # "No matter how much Morrigan tries to attack with powerful whip magics, magic arrows, or anything lethal that she can fathom, her magic is merely absorbed by the great energy."
-    "No matter how much Morrigan tries to attack with powerful whip magics, magic arrows, or anything lethal that she can fathom, her magic is merely absorbed by the great energy."
+    "Morrigan试图用致命的鞭型魔法，魔法箭，或者任何她能想到的进攻性魔法的攻击均以失败告终，她的魔法都为巨大的能量屏障所吸收。"
 
 # game/finalroute.rpy#L2005
 translate chinese finale_ea6fc378:
 
     # morrigan "I-Impossible!! Y-You’re all supposed to be… brain… washed…"
-    morrigan "I-Impossible!! Y-You’re all supposed to be… brain… washed…"
+    morrigan "不，不可能！！你，你应该被...洗...脑了才对......"
 
 # game/finalroute.rpy#L2008
 translate chinese finale_4a09606a:
 
     # lily "Morrigan, it’s over!"
-    lily "Morrigan, it’s over!"
+    lily "Morrigan，你大势已去！"
 
 # game/finalroute.rpy#L2013
 translate chinese finale_c5ea82d0:
 
     # "An overwhelming powerful surge of energy concentrated directly at Morrigan floods the room with a blinding white aura."
-    "An overwhelming powerful surge of energy concentrated directly at Morrigan floods the room with a blinding white aura."
+    "一股压倒性的魔法能量瞬间直击Morrigan，整个房间都被耀眼的白光所笼罩。"
 
 # game/finalroute.rpy#L2015
 translate chinese finale_a20cefa7:
@@ -5108,391 +5108,391 @@ translate chinese finale_a20cefa7:
 translate chinese finale_96292945:
 
     # lily "Did we do it?"
-    lily "Did we do it?"
+    lily "我们成功了吗？"
 
 # game/finalroute.rpy#L2025
 translate chinese finale_8c2802f4:
 
     # lily "No… N-No way!"
-    lily "No… N-No way!"
+    lily "不...不，不可能！"
 
 # game/finalroute.rpy#L2030
 translate chinese finale_527938a5:
 
     # morrigan "Tch, that really fucking hurt! You cunt!"
-    morrigan "Tch, that really fucking hurt! You cunt!"
+    morrigan "切，这一下把我还弄得挺疼！你们这些杂碎！"
 
 # game/finalroute.rpy#L2040
 translate chinese finale_de291f70:
 
     # "With a quick surge of magical energy, Morrigan lashes Lily across the chest with a quick whip."
-    "With a quick surge of magical energy, Morrigan lashes Lily across the chest with a quick whip."
+    "魔力快速催动，Morrigan召唤出一道快鞭回抽中Lily的胸口。"
 
 # game/finalroute.rpy#L2041
 translate chinese finale_44ad9e0e:
 
     # "It’s powerful, but aimless as it lashes Lily’s chest and shoulder, knocking her down to the ground. She’s okay, but too weak to get back up."
-    "It’s powerful, but aimless as it lashes Lily’s chest and shoulder, knocking her down to the ground. She’s okay, but too weak to get back up."
+    "虽然威力不容小觑，但并没有打准，只打中了Lily的胸膛和肩膀，将她重重抽倒在地。她没有生命危险，但想再爬起来并非易事。"
 
 # game/finalroute.rpy#L2044
 translate chinese finale_302c1b54:
 
     # morrigan "Did you really think some Deus Ex Machina bullshit could stop my rise to power?"
-    morrigan "Did you really think some Deus Ex Machina bullshit could stop my rise to power?"
+    morrigan "你们真觉得靠什么制胜法宝之类的完蛋玩意就能阻止我东山再起？"
 
 # game/finalroute.rpy#L2045
 translate chinese finale_9fbd450c:
 
     # morrigan "I am so sick of you all!"
-    morrigan "I am so sick of you all!"
+    morrigan "你们都他妈烦死了！"
 
 # game/finalroute.rpy#L2047
 translate chinese finale_b3feb3cc:
 
     # morrigan "Forget breeding whores, I’m just gonna fucking kill you."
-    morrigan "Forget breeding whores, I’m just gonna fucking kill you."
+    morrigan "还变骚浪贱货，我他妈不如直接杀了你们。"
 
 # game/finalroute.rpy#L2048
 translate chinese finale_7ee15643:
 
     # "With overwhelming murderous intent, Morrigan closes the distance between herself and us."
-    "With overwhelming murderous intent, Morrigan closes the distance between herself and us."
+    "Morrigan身上散发着咄咄逼人的杀气，朝我们步步逼近。"
 
 # game/finalroute.rpy#L2060
 translate chinese finale_56e045b9:
 
     # aurora "We’ll do everything in our power, to stop you!"
-    aurora "We’ll do everything in our power, to stop you!"
+    aurora "我会拼尽我们的全力，来阻止你！"
 
 # game/finalroute.rpy#L2069
 translate chinese finale_0474d3ac:
 
     # "Together the royal sisters combine their magic, a powerful spell of sun and moon surges towards Morrigan."
-    "Together the royal sisters combine their magic, a powerful spell of sun and moon surges towards Morrigan."
+    "皇家姐妹们开始施放融合法术，一股强大的日月冲击波直奔Morrigan而去。"
 
 # game/finalroute.rpy#L2079
 translate chinese finale_54050bd5:
 
     # "But it’s instantly deflected to the side."
-    "But it’s instantly deflected to the side."
+    "但冲击波不一会就偏转了方向。"
 
 # game/finalroute.rpy#L2081
 translate chinese finale_a0668b24:
 
     # "The impact shakes the entire room as it leaves sizable cracks and holes in the brickwork, thank goodness that didn’t hit anyone."
-    "The impact shakes the entire room as it leaves sizable cracks and holes in the brickwork, thank goodness that didn’t hit anyone."
+    "冲击波让整个房间都撼动了起来，墙上被打出一面相当大的洞，所幸没有击中任何友方。"
 
 # game/finalroute.rpy#L2085
 translate chinese finale_47488491:
 
     # morrigan "IT’S USELESS! GET OUT OF MY WAY!"
-    morrigan "IT’S USELESS! GET OUT OF MY WAY!"
+    morrigan "没用的！挡！我！者！死！"
 
 # game/finalroute.rpy#L2114
 translate chinese finale_38fdbe78:
 
     # "With a retaliation, Morrigan uses telekinesis to launch them both into the walls, with such power that the impact is almost comparable to the reflected blast of the sisters. Both of them instantly incapacitated."
-    "With a retaliation, Morrigan uses telekinesis to launch them both into the walls, with such power that the impact is almost comparable to the reflected blast of the sisters. Both of them instantly incapacitated."
+    "作为报复，Morrigan用心灵传动把俩姐妹重重地摔在了墙壁上，力度丝毫不逊于她俩刚刚发射的冲击波。姐妹俩一下子就失去了行动能力。"
 
 # game/finalroute.rpy#L2115
 translate chinese finale_82a92a4a:
 
     # "Even now, her power is devastating and incomparable. Not the elements nor the royal sisters can stop her."
-    "Even now, her power is devastating and incomparable. Not the elements nor the royal sisters can stop her."
+    "现在，她的力量已经膨胀到无坚不摧，无人可敌的程度，连谐律精华和皇家姐妹都无法与之抗衡。"
 
 # game/finalroute.rpy#L2143
 translate chinese finale_4f99ed7b:
 
     # "Honeycrisp and Riku attempt to launch themselves at the insane pseudo-Goddness, but their failures are the most miserable of all as they’re thrown back like trash."
-    "Honeycrisp and Riku attempt to launch themselves at the insane pseudo-Goddness, but their failures are the most miserable of all as they’re thrown back like trash."
+    "Honeycrisp和Riku试图冲向已经陷入癫狂的伪神拼个你死我活，但她们的下场就是像丢一根羽毛一样被甩在了两边。"
 
 # game/finalroute.rpy#L2145
 translate chinese finale_a40246d7:
 
     # "The other mares stand terrified in position, knowing that any braveness would end in folly."
-    "The other mares stand terrified in position, knowing that any braveness would end in folly."
+    "其他的雌驹只能乖乖站定，努力按捺住心中的恐惧，她们都清楚拼硬的无异于自寻死路。"
 
 # game/finalroute.rpy#L2146
 translate chinese finale_d88a63bb:
 
     # "What is she doing? She keeps walking forward… She… She’s coming for me!"
-    "What is she doing? She keeps walking forward… She… She’s coming for me!"
+    "她现在在干嘛？她越过了其他雌驹...她...她正朝我这边走！"
 
 # game/finalroute.rpy#L2150
 translate chinese finale_82522a1a:
 
     # morrigan "You… YOU DID THIS!"
-    morrigan "You… YOU DID THIS!"
+    morrigan "你...都！是！你！害！的！"
 
 # game/finalroute.rpy#L2152
 translate chinese finale_1e1cc936:
 
     # morrigan "You ruined everything!"
-    morrigan "You ruined everything!"
+    morrigan "你毁了我完美伟大的布局！"
 
 # game/finalroute.rpy#L2154
 translate chinese finale_92d3d793:
 
     # morrigan "I brought you into this world, so now I’m gonna take you out of it!"
-    morrigan "I brought you into this world, so now I’m gonna take you out of it!"
+    morrigan "带你来这个世界的是我，那现在就由我来把你抹去吧！"
 
 # game/finalroute.rpy#L2158
 translate chinese finale_d06cfce7:
 
     # mc "Guh!"
-    mc "Guh!"
+    mc "呃！"
 
 # game/finalroute.rpy#L2162
 translate chinese finale_a6c4ac67:
 
     # "With a magically imbued claw-hand, she plunged it through my chest faster than my mind could interpret the action."
-    "With a magically imbued claw-hand, she plunged it through my chest faster than my mind could interpret the action."
+    "她用魔力幻化出一双爪子，以我大脑完全反应不过来的速度刺进了我的胸膛。"
 
 # game/finalroute.rpy#L2169
 translate chinese finale_29ee34b7:
 
     # "My vision goes blurry, and my ears ring painfully, drowning out the desperate cries of the girls."
-    "My vision goes blurry, and my ears ring painfully, drowning out the desperate cries of the girls."
+    "我的视线逐渐模糊，眼睛的嗡嗡声也越来越大，女孩们绝望的哭声也越来越模糊。"
 
 # game/finalroute.rpy#L2174
 translate chinese finale_8d223aeb:
 
     # "As I wearily look downwards, Morrigan retracts her hand from my chest, leaving a sizable wound."
-    "As I wearily look downwards, Morrigan retracts her hand from my chest, leaving a sizable wound."
+    "我无力地将视线下移，Morrigan抽回了自己的手，我的胸腔处留下了一道巨大的伤口。"
 
 # game/finalroute.rpy#L2190
 translate chinese finale_b4e51b44:
 
     # morrigan "No… No! NO!!"
-    morrigan "No… No! NO!!"
+    morrigan "不...别这样！不是这样的！"
 
 # game/finalroute.rpy#L2194
 translate chinese finale_d1581d86:
 
     # morrigan "Ahhhhhhhh, AHHHHHHHHHHHHHHHHHH!! How could this happen, how could I do this?"
-    morrigan "Ahhhhhhhh, AHHHHHHHHHHHHHHHHHH!! How could this happen, how could I do this?"
+    morrigan "啊啊啊啊，啊啊啊啊啊啊啊啊啊！！怎么会这样 我都做了些什么？"
 
 # game/finalroute.rpy#L2198
 translate chinese finale_2698dd2c:
 
     # morrigan "Noooooooooooooo!!"
-    morrigan "Noooooooooooooo!!"
+    morrigan "不！！！！！"
 
 # game/finalroute.rpy#L2202
 translate chinese finale_df23da3c:
 
     # morrigan "This is horrible, this is the worst! I hate this! Stop it, stop it!"
-    morrigan "This is horrible, this is the worst! I hate this! Stop it, stop it!"
+    morrigan "太可怕了，无法想象！我不要这样！停下，停下！"
 
 # game/finalroute.rpy#L2207
 translate chinese finale_6b8381b2:
 
     # "Suddenly the world was lost in a pale white light, I couldn’t tell if it was my body failing me or an aura of magic."
-    "Suddenly the world was lost in a pale white light, I couldn’t tell if it was my body failing me or an aura of magic."
+    "突然间，整个世界都沉浸在了一片白光之中，我分不清到底是我上了天堂，还是这只是魔法的作用。"
 
 # game/finalroute.rpy#L2208
 translate chinese finale_ab70a12f:
 
     # "But as the light slowly dissipated, my vision slowly returned. The hole in my chest began sealing, the intense pain fading."
-    "But as the light slowly dissipated, my vision slowly returned. The hole in my chest began sealing, the intense pain fading."
+    "但在白光逐渐褪去后，我的视野又开始清晰起来。胸腔被贯穿的大洞也开始高速愈合，剜心的痛感也消失了。"
 
 # game/finalroute.rpy#L2209
 translate chinese finale_c8162a13:
 
     # "Is Morrigan healing me?"
-    "Is Morrigan healing me?"
+    "是Morrigan在治愈我？"
 
 # game/finalroute.rpy#L2210
 translate chinese finale_26a0e097:
 
     # "No… It’s…"
-    "No… It’s…"
+    "不...而是......"
 
 # game/finalroute.rpy#L2215
 translate chinese finale_cf516d8f:
 
     # mc "Moxie!"
-    mc "Moxie!"
+    mc "是Moxie！"
 
 # game/finalroute.rpy#L2216
 translate chinese finale_268f1a15:
 
     # moxie "Oh my goodness… I-I can’t believe it…"
-    moxie "Oh my goodness… I-I can’t believe it…"
+    moxie "哦我的天啊...我，我不敢相信......"
 
 # game/finalroute.rpy#L2223
 translate chinese finale_5bca3812:
 
     # morrigan "W-What the hell is this? I lost control of my host?!"
-    morrigan "W-What the hell is this? I lost control of my host?!"
+    morrigan "这，这他妈是什么情况？我失去了对宿主的控制！？"
 
 # game/finalroute.rpy#L2224
 translate chinese finale_e50845ea:
 
     # "Before me stood both Moxie and Morrigan who had split."
-    "Before me stood both Moxie and Morrigan who had split."
+    "在我面前站着已经完全分开的Moxie和Morrigan。"
 
 # game/finalroute.rpy#L2226
 translate chinese finale_e4fe76db:
 
     # moxie "Thank goodness, Lily’s blast weakened Morrigan enough for us to split…"
-    moxie "Thank goodness, Lily’s blast weakened Morrigan enough for us to split…"
+    moxie "感谢上苍，Lily的冲击波削弱了Morrigan的力量，让我能摆脱她的控制......"
 
 # game/finalroute.rpy#L2227
 translate chinese finale_d7887a6d:
 
     # moxie "Are you okay, [playername]? I’m so sorry!"
-    moxie "Are you okay, [playername]? I’m so sorry!"
+    moxie "你怎么样，[playername]？我对不起你！"
 
 # game/finalroute.rpy#L2229
 translate chinese finale_9ee4c74b:
 
     # morrigan "W-What is this bullshit? There's no way I lost control, y-you should be weak..."
-    morrigan "W-What is this bullshit? There's no way I lost control, y-you should be weak..."
+    morrigan "这，这都什么鬼？我怎么可能失去对宿主的控制呢，你，你应该奄奄一息的才对......"
 
 # game/finalroute.rpy#L2231
 translate chinese finale_9a629030:
 
     # moxie "Haven’t you noticed Morrigan? When we split, I took half of your power; you’re weak."
-    moxie "Haven’t you noticed Morrigan? When we split, I took half of your power; you’re weak."
+    moxie "你还没注意到吗Morrigan？在你我剥离的时候，我分走了你一半的力量，现在奄奄一息的是你。"
 
 # game/finalroute.rpy#L2233
 translate chinese finale_e28ad379:
 
     # morrigan "Weak? *Giggles* Look around you, those are the real weaklings."
-    morrigan "Weak? *Giggles* Look around you, those are the real weaklings."
+    morrigan "奄奄一息？*轻笑*看看你周围，这些才是奄奄一息的家伙。"
 
 # game/finalroute.rpy#L2234
 translate chinese finale_1e1f2482:
 
     # morrigan "Lily, ass kicked. Aurora and Selene, incapacitated."
-    morrigan "Lily, ass kicked. Aurora and Selene, incapacitated."
+    morrigan "Lily，被打得满地找牙。Aurora和Selene，现在时一对废马。"
 
 # game/finalroute.rpy#L2235
 translate chinese finale_06f6978b:
 
     # morrigan "Do you really think you can stop me all by yourself?"
-    morrigan "Do you really think you can stop me all by yourself?"
+    morrigan "觉得光凭你，就能阻止我？"
 
 # game/finalroute.rpy#L2237
 translate chinese finale_3d456027:
 
     # moxie "I can try, damnit…"
-    moxie "I can try, damnit…"
+    moxie "不试试怎么知道，死鬼......"
 
 # game/finalroute.rpy#L2239
 translate chinese finale_78bfd983:
 
     # morrigan "Ihihihi, even if our power is equal, you’re a pathetic and useless magic caster. You’re three thousand years too early to match up against me."
-    morrigan "Ihihihi, even if our power is equal, you’re a pathetic and useless magic caster. You’re three thousand years too early to match up against me."
+    morrigan "啊哈哈哈，就算我们的力量五五开，你不过就是个蹩脚法师而已。想和本王一较高下，再等三千年吧。"
 
 # game/finalroute.rpy#L2241
 translate chinese finale_8c8ba746:
 
     # moxie "Pathetic and useless, huh? Is that why you needed my power to enact your plan?"
-    moxie "Pathetic and useless, huh? Is that why you needed my power to enact your plan?"
+    moxie "蹩脚的法师，是吧？所以你才拿我做你计划的走卒？"
 
 # game/finalroute.rpy#L2242
 translate chinese finale_207c352d:
 
     # moxie "Without me, you’re the useless one."
-    moxie "Without me, you’re the useless one."
+    moxie "没了我，你才是蹩脚货。"
 
 # game/finalroute.rpy#L2244
 translate chinese finale_cdd3cc69:
 
     # morrigan "I don’t need you anymore! You just held me back with your lovey-dovey feelings!"
-    morrigan "I don’t need you anymore! You just held me back with your lovey-dovey feelings!"
+    morrigan "我现在不需要你了！你那情意绵绵的想法只会拖累本王！"
 
 # game/finalroute.rpy#L2251
 translate chinese finale_2c8d1abd:
 
     # "Morrigan attacks Moxie multiple times with powerful lashes, but each is deflected with ease."
-    "Morrigan attacks Moxie multiple times with powerful lashes, but each is deflected with ease."
+    "Morrigan又用魔法鞭狠抽了几下Moxie，但每次都被她轻松躲开。"
 
 # game/finalroute.rpy#L2254
 translate chinese finale_17fee7e7:
 
     # morrigan "… Huuuhh…? What the hell?"
-    morrigan "… Huuuhh…? What the hell?"
+    morrigan "...嗯...？怎么可能？"
 
 # game/finalroute.rpy#L2256
 translate chinese finale_69add167:
 
     # moxie "Hohoh… So that’s how it is…"
-    moxie "Hohoh… So that’s how it is…"
+    moxie "哈哈...原来是这么一回事......"
 
 # game/finalroute.rpy#L2257
 translate chinese finale_59f8409b:
 
     # moxie "The reason the elements didn’t vaporise you is because Lily didn’t use the full power of the elements, she didn’t want to kill me too."
-    moxie "The reason the elements didn’t vaporise you is because Lily didn’t use the full power of the elements, she didn’t want to kill me too."
+    moxie "谐律精华的冲击波没把你秒杀，就是因为Lily并没有用精华的全力，她不想把我也杀了。"
 
 # game/finalroute.rpy#L2259
 translate chinese finale_d40a49d1:
 
     # morrigan "So what? You’re telling me that she held back because she didn’t want to hurt a friend? That’ll be your downfall!"
-    morrigan "So what? You’re telling me that she held back because she didn’t want to hurt a friend? That’ll be your downfall!"
+    morrigan "那又怎样？你现在告诉我，她们不杀我就是因为不想连带杀死一个朋友？这就是你们千里之堤上的蚁穴。"
 
 # game/finalroute.rpy#L2261
 translate chinese finale_af1c74b6:
 
     # moxie "On the contrary, that exact friendship is our strength."
-    moxie "On the contrary, that exact friendship is our strength."
+    moxie "你大错特错，我们心有灵犀的友谊，就是坚不可摧的长堤。"
 
 # game/finalroute.rpy#L2262
 translate chinese finale_b3b5347e:
 
     # moxie "Because of Lily, you’re weak and injured; I’m still at full strength."
-    moxie "Because of Lily, you’re weak and injured; I’m still at full strength."
+    moxie "多亏了Lily，你现在身负重伤，虚弱不堪；我可还是满状态呢。"
 
 # game/finalroute.rpy#L2263
 translate chinese finale_07a2a462:
 
     # moxie "And because of that, I had the opportunity to overpower your control and split from you. Lily... You truly are amazing."
-    moxie "And because of that, I had the opportunity to overpower your control and split from you. Lily... You truly are amazing."
+    moxie "正因如此，我才有足够强大的力量脱离你的控制，和你剥离开来。Lily...你真的很厉害。"
 
 # game/finalroute.rpy#L2266
 translate chinese finale_553dbc2d:
 
     # morrigan "So what? I’m still far more talented and experienced than you! Take this!!"
-    morrigan "So what? I’m still far more talented and experienced than you! Take this!!"
+    morrigan "那又如何？你这初生牛犊还能辣得过我这块老姜！接招！！"
 
 # game/finalroute.rpy#L2294
 translate chinese finale_759c4567:
 
     # "The two super-powered mares duke it out, slugging at each other with various magical blows."
-    "The two super-powered mares duke it out, slugging at each other with various magical blows."
+    "两只手握神力的雌驹开始互相用强大的魔法攻击，有来有回。"
 
 # game/finalroute.rpy#L2295
 translate chinese finale_44add622:
 
     # "At this point, all the bystanders beholding to the sheer display of power have hidden behind cover."
-    "At this point, all the bystanders beholding to the sheer display of power have hidden behind cover."
+    "此时此刻，我们这些一旁的观战者恐被误伤，纷纷找掩体躲了起来。"
 
 # game/finalroute.rpy#L2298
 translate chinese finale_fcbcd021:
 
     # "Since Moxie’s magic wasn’t quite enough to heal me fully, Ruby comes to my side, and tries her best to bandage and heal me."
-    "Since Moxie’s magic wasn’t quite enough to heal me fully, Ruby comes to my side, and tries her best to bandage and heal me."
+    "因为Moxie的魔法并不能完全治愈我的伤势，Ruby赶到了我身边，开始尽可能地帮我止血愈伤。"
 
 # game/finalroute.rpy#L2299
 translate chinese finale_17a02978:
 
     # ruby "Phew, it's not too serious, you'll be fine [playername]."
-    ruby "Phew, it's not too serious, you'll be fine [playername]."
+    ruby "呼，伤势不算太严重，你会没事儿的[playername]。"
 
 # game/finalroute.rpy#L2316
 translate chinese finale_43d1492c:
 
     # "What Morrigan said is true, her experience with magic is giving her a slight edge. But Moxie’s healthy condition is allowing her to push Morrigan further than she might expect."
-    "What Morrigan said is true, her experience with magic is giving her a slight edge. But Moxie’s healthy condition is allowing her to push Morrigan further than she might expect."
+    "Morrigan所言没错，她丰富的经验让她在战斗中勉强占据上峰。但Moxie的健康状况更佳，屡屡打乱Morrigan的节奏。"
 
 # game/finalroute.rpy#L2323
 translate chinese finale_5f093236:
 
     # "Lash, beam, arrow, slash, all deflected by Moxie’s shield."
-    "Lash, beam, arrow, slash, all deflected by Moxie’s shield."
+    "鞭打，光束攻击，魔法箭，劈砍，都被Moxie的魔法盾偏移了。"
 
 # game/finalroute.rpy#L2330
 translate chinese finale_9c4ee4f3:
@@ -8024,37 +8024,37 @@ translate chinese finale_076937b8:
 translate chinese finale_f1001080:
 
     # "In addition to 1,000 monies, you’ve also unlocked some new things!"
-    "除了1,000 monies外，您还解锁了一些新东西！"
+    "除了1000块钱外，您还解锁了一些新东西！"
 
 # game/finalroute.rpy#L3567
 translate chinese finale_2cfb4efd:
 
     # "1. You’ve unlocked all the new sex scenes from the last route, they can be accessed by interacting with characters during the day or evening, and asking them from the ‘sex’ option."
-    "1. You’ve unlocked all the new sex scenes from the last route, they can be accessed by interacting with characters during the day or evening, and asking them from the ‘sex’ option."
+    "1.解锁了最终路线之后的新的性爱场景，可以通过在白天或者夜晚和角色进行交互，并在“做爱”选项中询问。"
 
 # game/finalroute.rpy#L3568
 translate chinese finale_b7d1f4ae:
 
     # "This includes: Lily standing sex, Cream standing sex, Riku riding anal, Melody + Ruby threesome, Honey + Blossom threesome, and Aurora + Selene threesome. Although the threesomes may take some convincing!"
-    "This includes: Lily standing sex, Cream standing sex, Riku riding anal, Melody + Ruby threesome, Honey + Blossom threesome, and Aurora + Selene threesome. Although the threesomes may take some convincing!"
+    "这包括：Lily站立性交、Cream站立性交、Riku骑跨式肛交、Melody+Ruby3p、Honey+Blossom3p以及Aurora+Selene3p。尽管3p可能需要多劝说一下！"
 
 # game/finalroute.rpy#L3569
 translate chinese finale_8146f75c:
 
     # "2. There is also a new unseen sex scene with Penelope, prospect her at the library!"
-    "2. There is also a new unseen sex scene with Penelope, prospect her at the library!"
+    "2.和Penelope也有一个新的性爱场景，在图书馆找她！"
 
 # game/finalroute.rpy#L3570
 translate chinese finale_8b712c32:
 
     # "3. The final two parts to Dawn's route can now be accessed."
-    "3. The final two parts to Dawn's route can now be accessed."
+    "3.可以进入Dawn线路最后的两部分。"
 
 # game/finalroute.rpy#L3571
 translate chinese finale_fc28a99f:
 
     # "4. Don't forget the 100 percent completion bonus!"
-    "4. Don't forget the 100 percent completion bonus!"
+    "4.不要忘记百分百完成游戏的奖励！"
 
 # game/finalroute.rpy#L3581
 translate chinese badend_a20cefa7:
@@ -8102,7 +8102,7 @@ translate chinese badend_7b9c5bd6:
 translate chinese badend_4248ce1a:
 
     # "Not even Penelope managed to escape this fate, as she was half-betrayed into becoming a breeding slave too."
-    "Not even Penelope managed to escape this fate, as she was half-betrayed into becoming a breeding slave too."
+    "即使是Penelope也没能逃脱这种命运，她也被某种程度背叛，也成为了繁殖用奴隶。"
 
 # game/finalroute.rpy#L3594
 translate chinese badend_fe315212:
@@ -8120,247 +8120,247 @@ translate chinese badend_890db4ec:
 translate chinese badend_32070e0d:
 
     # "Morrigan could have used anyone to do this, yet she entrusted me to do it. I always wondered why she chose me, but I had no room to complain."
-    "Morrigan could have used anyone to do this, yet she entrusted me to do it. I always wondered why she chose me, but I had no room to complain."
+    "Morrigan可以安排任何家伙来搞，但是她把任务交给了我。我一直在想她为什么会选我，但是我可没有抱怨的余裕。"
 
 # game/finalroute.rpy#L3599
 translate chinese badend_973b41fb:
 
     # "While Morrigan’s army grew in strength, society in Arcadia slowly crumbled into a lawless land of debauchery and sin."
-    "While Morrigan’s army grew in strength, society in Arcadia slowly crumbled into a lawless land of debauchery and sin."
+    "随着Morrigan军队实力的增长，Arcadia的社会一步步沦为一片无法与邪淫之地。"
 
 # game/finalroute.rpy#L3600
 translate chinese badend_c1b8e6d7:
 
     # "The only remaining residents were crooked, brainwashed or Morphlings."
-    "The only remaining residents were crooked, brainwashed or Morphlings."
+    "剩下的居民都是奸邪者，被洗脑的，还有幻型灵。"
 
 # game/finalroute.rpy#L3601
 translate chinese badend_374432b5:
 
     # "So, what was my position beside sleeping with the mares that had once welcomed me to this world?"
-    "So, what was my position beside sleeping with the mares that had once welcomed me to this world?"
+    "那么，除去透那些曾经欢迎我来到这个世界的母马之外，我还有什么地位呢？"
 
 # game/finalroute.rpy#L3602
 translate chinese badend_10a463e4:
 
     # "I was Morrigan’s… boyfriend, I guess? It’s not like it was an official position, but for some reason Morrigan kept me around for loving."
-    "I was Morrigan’s… boyfriend, I guess? It’s not like it was an official position, but for some reason Morrigan kept me around for loving."
+    "我觉着自己是，Morrigan的男朋友？这不是什么官方的地位，但是出于某种原因，Morrigan把我留在身边，爱着我。"
 
 # game/finalroute.rpy#L3603
 translate chinese badend_8671cdc3:
 
     # "She always had a soft spot for me, so I gulped down any complaints and tried to live the best life I could in the circumstances."
-    "She always had a soft spot for me, so I gulped down any complaints and tried to live the best life I could in the circumstances."
+    "她总会对我露出柔软的一面，所以我咽下了一切抱怨，尝试在目前条件下尽可能地过最好的生活。"
 
 # game/finalroute.rpy#L3604
 translate chinese badend_b5a78d6c:
 
     # "It wasn’t so bad, I had great food, entertainment, sexy girls. I’d be lying if I said I wasn’t enjoying myself, but… I always had some regrets for my decisions."
-    "It wasn’t so bad, I had great food, entertainment, sexy girls. I’d be lying if I said I wasn’t enjoying myself, but… I always had some regrets for my decisions."
+    "其实不那么糟糕，我吃得好，玩的舒服，还有性感的女孩子。我说我没有好好享受那肯定是扯谎，但是……我对我的选择总有些悔恨。"
 
 # game/finalroute.rpy#L3607
 translate chinese badend_ee46fdc1:
 
     # "I know this isn’t right. I know this is awful. But I had no choice, right?"
-    "I know this isn’t right. I know this is awful. But I had no choice, right?"
+    "我知道这不对。我知道这很可怕。但我没有选择，对吧？"
 
 # game/finalroute.rpy#L3610
 translate chinese badend_51eb5655:
 
     # morrigan "Ihihihi, excellent job today stud, I think you got cute lil’ Lily pregnant again."
-    morrigan "Ihihihi, excellent job today stud, I think you got cute lil’ Lily pregnant again."
+    morrigan "噫嘻嘻嘻，今天干得不错啊，小种马，我想你把可爱的Lily酱又搞怀孕了。"
 
 # game/finalroute.rpy#L3611
 translate chinese badend_8e071894:
 
     # morrigan "Once the drones lay another batch of eggs, we’ll be able to occupy another city, and with my power, there will be no one to oppose me!"
-    morrigan "Once the drones lay another batch of eggs, we’ll be able to occupy another city, and with my power, there will be no one to oppose me!"
+    morrigan "一旦那些繁殖子个体生下另一波卵，我们就能占领另一座城市了，依靠我的力量，没有谁敢反对我！"
 
 # game/finalroute.rpy#L3612
 translate chinese badend_180c1342:
 
     # morrigan "Oh, but enough about those whores, it’s time for you to service your Queen!"
-    morrigan "Oh, but enough about those whores, it’s time for you to service your Queen!"
+    morrigan "不过呢，别说那些婊子了，是时候为你的女皇服务了！"
 
 # game/finalroute.rpy#L3613
 translate chinese badend_908517c2:
 
     # "Every night I’d fuck Morrigan, she was a creature that gained strength purely from the act of sex itself."
-    "Every night I’d fuck Morrigan, she was a creature that gained strength purely from the act of sex itself."
+    "每天晚上我都会操Morrigan，她是一种单凭做爱行为就能获得力量的生物。"
 
 # game/finalroute.rpy#L3614
 translate chinese badend_3553afef:
 
     # "I grab my cock and guide it smoothly up and down Morrigan’s wet and waiting cunt."
-    "I grab my cock and guide it smoothly up and down Morrigan’s wet and waiting cunt."
+    "我抓住我的肉棒，让其在Morrigan湿润且等候多时的肉穴中平稳抽插。"
 
 # game/finalroute.rpy#L3617
 translate chinese badend_da8826f8:
 
     # "She gasps as I enter her tightness; her hips eagerly pushing upwards, forcing me deeper."
-    "She gasps as I enter her tightness; her hips eagerly pushing upwards, forcing me deeper."
+    "当我进入紧窄的小穴时她惊呼一声；她的臀部迫不及待地向前挤压，迫使我进入得更深。"
 
 # game/finalroute.rpy#L3619
 translate chinese badend_866f5eec:
 
     # "Her vaginal muscles contract tightly around my cock, squeezing wonderfully with each thrust."
-    "Her vaginal muscles contract tightly around my cock, squeezing wonderfully with each thrust."
+    "她的肉壁在我的老二周围紧紧地收缩着，随着每次冲击，都舒服地挤压着。"
 
 # game/finalroute.rpy#L3620
 translate chinese badend_de4ab7a5:
 
     # "I hold onto my lover, kissing and caressing her body as we make love."
-    "I hold onto my lover, kissing and caressing her body as we make love."
+    "我紧紧抓住我的伴侣，在做爱时亲吻和抚摸她的身体。"
 
 # game/finalroute.rpy#L3621
 translate chinese badend_7ca141a1:
 
     # morrigan "You’re the best, babe… No other man in all the world can compete with you…"
-    morrigan "You’re the best, babe… No other man in all the world can compete with you…"
+    morrigan "小宝贝，你是最棒的……全世界没有男性可以和你媲美……"
 
 # game/finalroute.rpy#L3623
 translate chinese badend_7bf37f7e:
 
     # "She moans lewdly as she abandons her queenly visage for a more loving and passionate tone. Her legs wrapping around my waist, burying just a little more of my cock inside her with each thrust."
-    "She moans lewdly as she abandons her queenly visage for a more loving and passionate tone. Her legs wrapping around my waist, burying just a little more of my cock inside her with each thrust."
+    "她发出淫荡的呻吟声，抛弃了女王的架子，换上了更加关爱和热情的语气。她的双腿环绕着我的腰，每一次插入都将我的肉棒多深入她体内一点。"
 
 # game/finalroute.rpy#L3624
 translate chinese badend_6b04b191:
 
     # "Morrigan likes to talk big, but in bed she’s a complete softy. It almost reminds me of Moxie… Well, I guess she is Moxie, right?"
-    "Morrigan likes to talk big, but in bed she’s a complete softy. It almost reminds me of Moxie… Well, I guess she is Moxie, right?"
+    "Morrigan喜欢豪言壮语，但是在床上她却完全是个温柔的女子。这几乎让我回想到了Moxie……嗯，我猜她就是Moxie，对吧？"
 
 # game/finalroute.rpy#L3625
 translate chinese badend_1ebbdaaf:
 
     # "Fucking her with quick, short strokes that keep the two of us locked close together, her internal muscles contract faster now."
-    "Fucking her with quick, short strokes that keep the two of us locked close together, her internal muscles contract faster now."
+    "我用快速、短促的动作干她，让我们两个人紧紧贴在一起，她体内的肌肉现在收缩得更快。"
 
 # game/finalroute.rpy#L3627
 translate chinese badend_343decb6:
 
     # morrigan "Haahh, haah… Maybe one day I can bear your child too… Hahh, mmmmphh… *Squelch, squish*"
-    morrigan "Haahh, haah… Maybe one day I can bear your child too… Hahh, mmmmphh… *Squelch, squish*"
+    morrigan "哈啊啊，啊啊啊……也许有一天我也能怀上你的孩子……哈啊啊，嗯嗯嗯嗯……*水声*"
 
 # game/finalroute.rpy#L3629
 translate chinese badend_18426cb7:
 
     # "Her lavish vaginal lubricants leak all over my shaft allowing me to fuck relentlessly."
-    "Her lavish vaginal lubricants leak all over my shaft allowing me to fuck relentlessly."
+    "大量的润滑液泼洒在我的肉棒上，使我能够坚持不懈地进行性交。"
 
 # game/finalroute.rpy#L3630
 translate chinese badend_6e909813:
 
     # "Moaning lustfully, her body begins to squirm as rising pleasure takes control, her large breasts jiggling back and forth with each thrust."
-    "Moaning lustfully, her body begins to squirm as rising pleasure takes control, her large breasts jiggling back and forth with each thrust."
+    "她淫荡地娇喘着，渐增的愉悦感控制了她，让身体开始来回扭动，每次撞击，她巨大的乳房都会前后摇摆。"
 
 # game/finalroute.rpy#L3631
 translate chinese badend_334d3fe6:
 
     # "Some light orgasms cause Morrigan to squirt juices between our sexes, her pussy twitches as it tries to wring me for every drop of cum it can."
-    "Some light orgasms cause Morrigan to squirt juices between our sexes, her pussy twitches as it tries to wring me for every drop of cum it can."
+    "一些轻微的高潮让Morrigan在我们的性器之间喷洒汁液，她的小穴抽搐着，想要榨干我的每一滴精液。"
 
 # game/finalroute.rpy#L3632
 translate chinese badend_685c9e71:
 
     # "Morrigan’s special Morphling pussy is far more efficient at milking cocks than your average monster girl, it constantly tightens and squeezes at multiple pleasure points that could push an amateur to the edge in only a minute."
-    "Morrigan’s special Morphling pussy is far more efficient at milking cocks than your average monster girl, it constantly tightens and squeezes at multiple pleasure points that could push an amateur to the edge in only a minute."
+    "Morrigan的特殊幻型灵小穴不停地收紧着，挤压着多个愉悦点，能让一个业余的家伙在一分钟之内缴械，这榨精能力可比常规的魔物娘不知道高到哪里去了。"
 
 # game/finalroute.rpy#L3633
 translate chinese badend_1431f953:
 
     # "However, I’ve fucked Morrigan over 1000 times now, I can overcome the assault to my senses and continue to a new level of pleasure and satisfaction."
-    "However, I’ve fucked Morrigan over 1000 times now, I can overcome the assault to my senses and continue to a new level of pleasure and satisfaction."
+    "但是，我已经搞了Morrigan一千多次了，我现在可以忍耐那些感受上的刺激，并坚持下来，跨入快感与享受的新境界。"
 
 # game/finalroute.rpy#L3635
 translate chinese badend_8bff4186:
 
     # morrigan "Ahhh! Oh god, oh yes! Haaahh, k-keep going! Ooohhh!"
-    morrigan "Ahhh! Oh god, oh yes! Haaahh, k-keep going! Ooohhh!"
+    morrigan "啊啊！哦天哪，哈啊啊啊，继——继续！噢噢噢噢！"
 
 # game/finalroute.rpy#L3637
 translate chinese badend_042e4b9e:
 
     # "Her light orgasm quickly becomes a full blown one under the assault of my consistent pounding."
-    "Her light orgasm quickly becomes a full blown one under the assault of my consistent pounding."
+    "在我持久的冲撞之下，她的小高潮很快就变成了全面爆发。"
 
 # game/finalroute.rpy#L3638
 translate chinese badend_0c674f2b:
 
     # morrigan "Ahhh, yes, yesss babe! Oohh, fuck! *Squish, slap, squish*!"
-    morrigan "Ahhh, yes, yesss babe! Oohh, fuck! *Squish, slap, squish*!"
+    morrigan "啊啊，好，好啊宝贝！哦哦，妙极了！*挤压声*"
 
 # game/finalroute.rpy#L3639
 translate chinese badend_137edcb3:
 
     # "My lover throws her head back as her entire body contorts from the sensations."
-    "My lover throws her head back as her entire body contorts from the sensations."
+    "我的伴侣把头往后一甩，她的整个身体因快感而扭曲。"
 
 # game/finalroute.rpy#L3640
 translate chinese badend_64e310e9:
 
     # "I continue pumping my cock back and forth as best as I’m able, but even I can’t handle the spasming of her pussy for long as the feeling of climax rises in my loins."
-    "I continue pumping my cock back and forth as best as I’m able, but even I can’t handle the spasming of her pussy for long as the feeling of climax rises in my loins."
+    "我继续尽最大努力将肉棒前后抽动，但即使是我也无法再长期忍耐她小穴不停的抽搐，高潮的感觉在我腰部积攒着。"
 
 # game/finalroute.rpy#L3641
 translate chinese badend_0ed801b8:
 
     # "Despite having already fucked multiple other mares today, the orgasm is as potent as two intense climaxes simultaneously."
-    "Despite having already fucked multiple other mares today, the orgasm is as potent as two intense climaxes simultaneously."
+    "尽管今天搞了很多雌驹，但这次高潮就像是两次普通高潮叠加起来的感觉一样。"
 
 # game/finalroute.rpy#L3642
 translate chinese badend_200e1c0d:
 
     # "In response, I intensify my rutting even more, pounding in and out of the Queen almost recklessly."
-    "In response, I intensify my rutting even more, pounding in and out of the Queen almost recklessly."
+    "作为回应，我更抽插得更激烈了，几乎不顾一切地在女王身上进进出出。"
 
 # game/finalroute.rpy#L3643
 translate chinese badend_44bc4cd2:
 
     # "Eventually pleasure consumes my body, and we both cry out in pleasure as my cock erupts within her."
-    "Eventually pleasure consumes my body, and we both cry out in pleasure as my cock erupts within her."
+    "快感终于吞没了我的身体，我的肉棒在她体内爆发，我们都叫唤了出来。"
 
 # game/finalroute.rpy#L3648
 translate chinese badend_dbe7c902:
 
     # "Morrigan doesn’t just gain power when someone cums inside her, she also gains an immense amount of pleasure rivalling that of the very male orgasm filling her."
-    "Morrigan doesn’t just gain power when someone cums inside her, she also gains an immense amount of pleasure rivalling that of the very male orgasm filling her."
+    "Morrigan不仅能从体内射精中获得能量，也能获得和那个填满她的男性相媲美的大量快感。"
 
 # game/finalroute.rpy#L3653
 translate chinese badend_f1f9da2a:
 
     # "The feeling of hot cum surging and pulsing within Morrigan throws her into an immediate second orgasm, her back arching and her breasts jiggling wildly as she thrashes on the bed."
-    "The feeling of hot cum surging and pulsing within Morrigan throws her into an immediate second orgasm, her back arching and her breasts jiggling wildly as she thrashes on the bed."
+    "炽热的精液在Morrigan体内激荡着、涌动着，让她立刻进入了第二次高潮，她在床上扭动，后背弓了起来，胸部疯狂地摇摆。"
 
 # game/finalroute.rpy#L3658
 translate chinese badend_d4c328da:
 
     # "We continue fucking throughout the immense pleasure of our orgasms, until we both slowly come back to reality."
-    "We continue fucking throughout the immense pleasure of our orgasms, until we both slowly come back to reality."
+    "我们在整个高潮的巨大快感中继续做爱，直到我们都慢慢回到现实中来。"
 
 # game/finalroute.rpy#L3662
 translate chinese badend_2ab31217:
 
     # "I pull out and cuddle next to my Queen ‘girlfriend’."
-    "I pull out and cuddle next to my Queen ‘girlfriend’."
+    "我拔出肉棒，蜷缩在我女皇“女友”的身边。"
 
 # game/finalroute.rpy#L3664
 translate chinese badend_98413de4:
 
     # "I guess I could get used to this…"
-    "I guess I could get used to this…"
+    "我想我能适应这个……"
 
 # game/finalroute.rpy#L3666
 translate chinese badend_90ac2b96:
 
     # "But… Every night I fall asleep, I wonder if there was another way?"
-    "But… Every night I fall asleep, I wonder if there was another way?"
+    "但是……每天晚上我睡觉的时候，我都会想，有没有其他的道路呢？"
 
 # game/finalroute.rpy#L3668
 translate chinese badend_97900b32:
 
     # "The End"
-    "The End"
+    "全剧终"
 
 translate chinese strings:
 

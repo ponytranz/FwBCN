@@ -3542,7 +3542,7 @@ translate chinese werewolfhunting_adad6c89:
 translate chinese werewolfhunting_be57ed11:
 
     # "She reaches over to a nearby bag and takes out the lycanthropy cure. Taking advantage of the Werewolf’s immobility, she manages to make him drink it."
-    "她伸手到旁边的袋子里拿出了治疗狼人的解药。趁着木狼的片刻的僵直，她成功让他喝了下去。"
+    "她伸手到旁边的袋子里拿出了治疗狼人的解药。趁着狼人的片刻的僵直，她成功让他喝了下去。"
 
 # game/deepforest.rpy#L1130
 translate chinese werewolfhunting_68c65aff:

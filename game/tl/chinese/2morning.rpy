@@ -566,7 +566,7 @@ translate chinese events_83d144a5:
 translate chinese events_d89c1634:
 
     # "I do my morning routine and have breakfast with Butters."
-    "我做着自己早上常会做的事，然后和Butters一起吃了早餐。"
+    "我做完晨起的洗漱，然后和Butters一起吃了早餐。"
 
 # game/2morning.rpy#L297
 translate chinese events_193243d0:
@@ -608,7 +608,7 @@ translate chinese events_fc6eef56:
 translate chinese events_458dc51e:
 
     # "I do my morning routine and then head out."
-    "我做着自己早上常做之事，然后就出门了。"
+    "我做完晨起的洗漱，然后就出门了。"
 
 # game/2morning.rpy#L320
 translate chinese events_c6c1f093:

@@ -2,7 +2,7 @@ translate chinese strings:
 
     # game/y-init.rpy_L7_0
     old "Male Familiar?"
-    new "Male Familiar?"
+    new "雄性傀儡？"
 
     # game/y-init.rpy_L9_0
     old "[playername]"

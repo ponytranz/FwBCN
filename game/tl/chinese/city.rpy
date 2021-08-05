@@ -2168,55 +2168,55 @@ translate chinese melodylaptop_0ed567d4:
 translate chinese melodylaptop_7a47378f:
 
     # "She casually sits on table adjacent to me and gradually gets into an increasingly compromising position."
-    "She casually sits on table adjacent to me and gradually gets into an increasingly compromising position."
+    "她随意地坐在我旁边的桌子上，渐渐变得越来越顺从。"
 
 # game/city.rpy#L1095
 translate chinese melodylaptop_a0f0b6df:
 
     # mc "Ohh, we're doing that now?"
-    mc "Ohh, we're doing that now?"
+    mc "啊?我们现在就这么做?"
 
 # game/city.rpy#L1100
 translate chinese melodylaptop_fa088956:
 
     # melody "Heh, I'm repaying the favour in a manner fit for a perv like you."
-    melody "Heh, I'm repaying the favour in a manner fit for a perv like you."
+    melody "喂，我是在想方设法还你这个变态的人情！"
 
 # game/city.rpy#L1101
 translate chinese melodylaptop_f921beaf:
 
     # "Upon seeing Melody's erotic form and wet snatch, my cock starts to grow in expectation of the upcoming fuck."
-    "Upon seeing Melody's erotic form and wet snatch, my cock starts to grow in expectation of the upcoming fuck."
+    "在看到Melody的妩媚模样以及自慰动作后，我下面的老二开始期待即将到来的暧昧时刻。"
 
 # game/city.rpy#L1102
 translate chinese melodylaptop_62dd7866:
 
     # melody "Oohh, lil' wormy is growing, you're such a peeerv!"
-    melody "Oohh, lil' wormy is growing, you're such a peeerv!"
+    melody "好家伙，你那玩意在勃起，你就是个老色逼！"
 
 # game/city.rpy#L1103
 translate chinese melodylaptop_4fc9104d:
 
     # mc "And your pussy is already drooling like a starving stallion at a banquet."
-    mc "And your pussy is already drooling like a starving stallion at a banquet."
+    mc "你的小穴已经饥渴的春水肆虐了。"
 
 # game/city.rpy#L1104
 translate chinese melodylaptop_054a8cfa:
 
     # melody "Meh, blame it on the heat and lust. Now are you going to admire me, or are you gonna fuck me?"
-    melody "Meh, blame it on the heat and lust. Now are you going to admire me, or are you gonna fuck me?"
+    melody "Meh，把这归咎于性欲吧。所以你现在是要崇拜我，还是要把我上了？"
 
 # game/city.rpy#L1105
 translate chinese melodylaptop_b5a08e2f:
 
     # "She teases her petite breasts and nipples as I get into position next to the table she's laying on."
-    "She teases her petite breasts and nipples as I get into position next to the table she's laying on."
+    "当我坐到她躺的桌子旁边时，她还在爱抚着自己小巧的乳房和乳头。"
 
 # game/city.rpy#L1108
 translate chinese melodylaptop_2a57e237:
 
     # "Eagerly I slide the length of my erection inside her pussy, immediately feeling the tender warmth of her insides."
-    "Eagerly I slide the length of my erection inside her pussy, immediately feeling the tender warmth of her insides."
+    "我迫不及待地将我已经挺起的大肉棒插进她的小穴，立即感受到了她私处的温度和柔软。"
 
 # game/city.rpy#L1109
 translate chinese melodylaptop_1a193633:
@@ -2228,7 +2228,7 @@ translate chinese melodylaptop_1a193633:
 translate chinese melodylaptop_41b62b3a:
 
     # mc "Making me do all the work? And here I was thinking this was a reward."
-    mc "Making me do all the work? And here I was thinking this was a reward."
+    mc "让我把这些事都干了?!我倒觉得这是奖赏。"
 
 # game/city.rpy#L1111
 translate chinese melodylaptop_9d3f824c:

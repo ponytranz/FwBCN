@@ -3086,7 +3086,7 @@ translate chinese selenemenu_ce7809b1:
 translate chinese selenemenu_c343c6c7:
 
     # "As amazing as the pressure from their scissoring feels, I’ll never be able to cum from just this."
-    "虽然她们“夹逼”的力度不小，但仅仅靠着是没办法让我交货的。"
+    "虽然她们“夹逼”的力度不小，但仅仅靠这是没办法让我交货的。"
 
 # game/castle.rpy#L927
 translate chinese selenemenu_59f7c6b2:
@@ -3188,7 +3188,7 @@ translate chinese selenemenu_58c49e71:
 translate chinese selenemenu_9fdb7262:
 
     # "Sinking into the white mare, I breathe a sigh of relief as I unload the second half of my orgasm into her womb."
-    "在插进白色雌驹，将我后半部分高潮的精液也倾泻进她的子宫后，我总算松了口气，这下算雨露均沾了吧。"
+    "再插进白色雌驹，将我后半部分高潮的精液也倾泻进她的子宫后，我总算松了口气，这下算雨露均沾了吧。"
 
 # game/castle.rpy#L960
 translate chinese selenemenu_9e77185f:
