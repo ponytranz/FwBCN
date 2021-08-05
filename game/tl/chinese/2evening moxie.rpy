@@ -1,5 +1,3 @@
-# Translation updated at Sat Jul 03 2021 19:14:54 GMT+0800 (香港标准时间)
-
 # game/2evening%20moxie.rpy#L11
 translate chinese eveningmoxie_80cb7a87:
 

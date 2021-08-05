@@ -1,5 +1,3 @@
-# Translation updated at Sat Jul 03 2021 19:14:54 GMT+0800 (香港标准时间)
-
 # game/y-screens.rpy#L1551
 translate chinese todolist_5a4038dc:
 

@@ -1,5 +1,3 @@
-# Translation updated at Sat Jul 03 2021 19:14:54 GMT+0800 (香港标准时间)
-
 # game/library.rpy#L18
 translate chinese libraryvisit1_98593462:
 

@@ -1,5 +1,3 @@
-# Translation updated at Sat Jul 03 2021 19:14:54 GMT+0800 (香港标准时间)
-
 # game/2morning.rpy#L14
 translate chinese morning_f5b564ef:
 

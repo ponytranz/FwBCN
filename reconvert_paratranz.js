@@ -3,7 +3,7 @@ const fs = require('fs')
 try {
   for (let file of fs.readdirSync('game/tl/chinese').filter(file => /\.rpy$/.test(file))) {
     let name = file.match(/^(.+)\.rpy$/)[1]
-    let result = `# Translation updated at ${new Date()}\n\n`
+    let result = ''
     if (fs.existsSync(`paratranz/${name}.json`)) {
       let dialogs = JSON.parse(fs.readFileSync(`paratranz/${name}.json`, 'utf-8'))
       for (let item of dialogs) {

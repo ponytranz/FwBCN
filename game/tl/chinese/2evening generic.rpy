@@ -1,5 +1,3 @@
-# Translation updated at Sat Jul 03 2021 19:14:54 GMT+0800 (香港标准时间)
-
 # game/2evening%20generic.rpy#L16
 translate chinese evening_f9a4bca4:
 

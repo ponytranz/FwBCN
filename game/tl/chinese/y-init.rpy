@@ -1,5 +1,3 @@
-# Translation updated at Sat Jul 03 2021 19:14:54 GMT+0800 (香港标准时间)
-
 translate chinese strings:
 
     # game/y-init.rpy_L7_0

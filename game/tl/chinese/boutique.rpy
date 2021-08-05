@@ -1,5 +1,3 @@
-# Translation updated at Sat Jul 03 2021 19:14:54 GMT+0800 (香港标准时间)
-
 # game/boutique.rpy#L20
 translate chinese boutiquevisit1_9babdb27:
 

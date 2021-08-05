@@ -1,5 +1,3 @@
-# Translation updated at Sat Jul 03 2021 19:14:54 GMT+0800 (香港标准时间)
-
 # game/castle.rpy#L6
 translate chinese castle_38f72bb5:
 
