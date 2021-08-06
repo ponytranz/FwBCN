@@ -8,7 +8,7 @@ translate chinese augustapost_d42bf085:
 translate chinese augustapost_52970eb3:
 
     # augusta "Hello, have you come to pray with me? Ah-ha, I bet you won’t fall for that one again."
-    augusta "你好啊[playername]，你也是来和我一起祈祷的吗？啊哈，我打赌你不会再爱上那个了。"
+    augusta "你好啊[playername]，你也是来和我一起祈祷的吗？啊哈，我打赌你不会再相信那个了。"
 
 # game/church.rpy#L18
 translate chinese augustapost_d8321a75:
@@ -20,13 +20,13 @@ translate chinese augustapost_d8321a75:
 translate chinese augustapost_eb4a2cc4:
 
     # mc "Woah, woah, woah. I haven't agreed to anything yet!"
-    mc "哇哇哇，我还是不同意任何条件！"
+    mc "哇哇哇，我还没有说同意呢！"
 
 # game/church.rpy#L21
 translate chinese augustapost_331c36ae:
 
     # augusta "Ah, sure. What's up then?"
-    augusta "啊,行。那怎么一回子事？"
+    augusta "啊,行。那要做什么呢？"
 
 # game/church.rpy#L28
 translate chinese augustamenu_2fa394ea:
@@ -98,7 +98,7 @@ translate chinese augustamenu_daf9495b:
 translate chinese augustamenu_20a690e2:
 
     # augusta "I'd like to see you perform [aure] more acts at work."
-    augusta "我想看你在工作中做更多的行为。"
+    augusta "我想看你在工作中做[aure]项更多的行为。"
 
 # game/church.rpy#L52
 translate chinese augustamenu_8c858d6f:

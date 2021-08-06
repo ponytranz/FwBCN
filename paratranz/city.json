@@ -2582,14 +2582,14 @@
   {
     "id": 79430800,
     "createdAt": "2021-05-30T17:55:37.000Z",
-    "updatedAt": "2021-06-20T11:51:49.000Z",
+    "updatedAt": "2021-08-05T05:29:55.000Z",
     "key": "musicstudio_82b8386a",
     "original": "It's just so strange to think that my twin sister is out there doing vulgar things like that.",
-    "translation": "想到我的孪生妹妹在外面做这种粗俗的事情，真是太奇怪了。",
+    "translation": "想到我的孪生姐姐在外面做这种粗俗的事情，真是太奇怪了。",
     "file": 272344,
     "stage": 1,
     "project": 2414,
-    "uid": 21929,
+    "uid": 20927,
     "extra": null,
     "context": "说话人: claire \n代码: https://github.com/ponytranz/FwBCN/blob/main/game/city.rpy#L357",
     "words": 18

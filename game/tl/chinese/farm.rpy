@@ -1676,7 +1676,7 @@ translate chinese farmvisit1_317aae00:
 translate chinese farmvisit1_f6233e18:
 
     # blossom "Eep! A strange creature with a boner!"
-    blossom "哎！是个鸡儿梆硬的怪家伙"
+    blossom "哎！是个鸡儿梆硬的怪家伙！"
 
 # game/farm.rpy#L552
 translate chinese farmvisit1_33a8fd56:
@@ -1730,13 +1730,13 @@ translate chinese farmvisit1_c778e4ea:
 translate chinese farmvisit1_6f42ad6c:
 
     # "Her eyes light up, looks like I said the right thing. She bounces over in a similar gait to her sister and begins making herself a cup of tea."
-    "Her eyes light up, looks like I said the right thing. She bounces over in a similar gait to her sister and begins making herself a cup of tea."
+    "她的眼睛一亮，看来我说对了。她以和她姐姐相似的步态蹦蹦跳跳的过来，并给自己泡了杯茶。"
 
 # game/farm.rpy#L567
 translate chinese farmvisit1_f5aa9f29:
 
     # blossom "This is so wonderful, yes! I’ve been worried sick about my sister! I’m so glad to hear we have an employee."
-    blossom "This is so wonderful, yes! I’ve been worried sick about my sister! I’m so glad to hear we have an employee."
+    blossom "是的，这太棒了！我一直都很担心我妹妹！我很高兴听说我们有员工了。"
 
 # game/farm.rpy#L568
 translate chinese farmvisit1_81b90279:
@@ -1748,19 +1748,19 @@ translate chinese farmvisit1_81b90279:
 translate chinese farmvisit1_ffa8129c:
 
     # blossom "Ohh, I see, just one second and I’ll be with you."
-    blossom "Ohh, I see, just one second and I’ll be with you."
+    blossom "噢,  我知道了,  等一下我就来陪你。"
 
 # game/farm.rpy#L572
 translate chinese farmvisit1_f19f2755:
 
     # "I take a seat by the kitchen table and wait a few moments."
-    "I take a seat by the kitchen table and wait a few moments."
+    "我在餐桌旁坐下，等了一小会儿。"
 
 # game/farm.rpy#L574
 translate chinese farmvisit1_3fe6c071:
 
     # "To my surprise she hands me a cup of tea."
-    "To my surprise she hands me a cup of tea."
+    "令我吃惊的是，她递给了我一杯茶。"
 
 # game/farm.rpy#L575
 translate chinese farmvisit1_1565514f:
@@ -1778,13 +1778,13 @@ translate chinese farmvisit1_18e584ec:
 translate chinese farmvisit1_ad9637d7:
 
     # "She sits opposite me with her legs slightly agape."
-    "She sits opposite me with her legs slightly agape."
+    "她正坐在我对面，两腿微微张着。"
 
 # game/farm.rpy#L580
 translate chinese farmvisit1_d18b2f8b:
 
     # "It’s not particularly lady-like, I can see her cute innie vulva neatly tucked between her thighs…"
-    "It’s not particularly lady-like, I can see her cute innie vulva neatly tucked between her thighs…"
+    "这不是特别的淑女，我甚至可以看到她可爱的阴户整齐地夹在她的大腿之间..."
 
 # game/farm.rpy#L581
 translate chinese farmvisit1_a6a01ff2:
@@ -1808,7 +1808,7 @@ translate chinese farmvisit1_e058007b:
 translate chinese farmvisit1_0a63f9bb:
 
     # "No more perverted thoughts, time to think seriously. I look up to Blossom and make a mental note to keep eye contact with her, not staring at her breasts or in-between her legs..."
-    "No more perverted thoughts, time to think seriously. I look up to Blossom and make a mental note to keep eye contact with her, not staring at her breasts or in-between her legs..."
+    "不再胡思乱想，该认真思考了。我抬头看着Blossom，并在心里记着要和她保持眼神交流，而不是盯着她的胸部或胯下..."
 
 # game/farm.rpy#L587
 translate chinese farmvisit1_623924e3:
@@ -1826,13 +1826,13 @@ translate chinese farmvisit1_31e5010f:
 translate chinese farmvisit1_45e0ec71:
 
     # mc "Thank you for the tea, that’s generous of you. I don’t mean to seem ungrateful, but do you have any milk?"
-    mc "Thank you for the tea, that’s generous of you. I don’t mean to seem ungrateful, but do you have any milk?"
+    mc "谢谢你请我喝茶，您真的非常慷慨。我不想显得忘恩负义，但请问您有牛奶吗 ?"
 
 # game/farm.rpy#L595
 translate chinese farmvisit1_236daa86:
 
     # "She looks down and blushes for a moment."
-    "She looks down and blushes for a moment."
+    "她低下头，脸红了一会儿。"
 
 # game/farm.rpy#L596
 translate chinese farmvisit1_cbd58651:
@@ -1868,7 +1868,7 @@ translate chinese farmvisit1_98f07afd:
 translate chinese farmvisit1_51081c81:
 
     # blossom "You mean without milk? That’s normal for fruit tea."
-    blossom "You mean without milk? That’s normal for fruit tea."
+    blossom "你是说没有牛奶吗？这对水果茶来说很正常。"
 
 # game/farm.rpy#L606
 translate chinese farmvisit1_9222e3bc:
@@ -1880,7 +1880,7 @@ translate chinese farmvisit1_9222e3bc:
 translate chinese farmvisit1_27935ddf:
 
     # "As predicted the tea emanates an apple fragrance."
-    "As predicted the tea emanates an apple fragrance."
+    "不出所料，茶散发出一股苹果香味。"
 
 # game/farm.rpy#L609
 translate chinese farmvisit1_9b52b760:
@@ -1892,13 +1892,13 @@ translate chinese farmvisit1_9b52b760:
 translate chinese farmvisit1_061d3026:
 
     # "She’s just as kind and generous as her sister in creating and giving me apple-based drinks."
-    "She’s just as kind and generous as her sister in creating and giving me apple-based drinks."
+    "她简直和她姐姐一样善良大方，并给我制作了苹果饮料。"
 
 # game/farm.rpy#L612
 translate chinese farmvisit1_1236ce22:
 
     # "The warmth of the cup around my hands is relaxing, for the first time I can feel a wave of tension being released that was pent up by the day’s physical activity."
-    "The warmth of the cup around my hands is relaxing, for the first time I can feel a wave of tension being released that was pent up by the day’s physical activity."
+    "手上杯子的温暖令我放松下来，我第一次感到一天的体力活动所带来的紧张感被释放了出来。"
 
 # game/farm.rpy#L614
 translate chinese farmvisit1_cf47e5cc:

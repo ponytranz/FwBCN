@@ -8306,7 +8306,7 @@ translate chinese badend_64e310e9:
 translate chinese badend_0ed801b8:
 
     # "Despite having already fucked multiple other mares today, the orgasm is as potent as two intense climaxes simultaneously."
-    "尽管今天搞了很多雌驹，但这次高潮就像是两次普通高潮叠加起来的感觉一样。"
+    "尽管今天搞了很多雌驹，但这就像是两次激烈的高潮叠加起来的感觉一样。"
 
 # game/finalroute.rpy#L3642
 translate chinese badend_200e1c0d:

@@ -3830,7 +3830,7 @@ translate chinese creamvmissionary_c8f58ff9:
 translate chinese creamvmissionary_62ef6796:
 
     # "I spank her again and the mare's eyes practically roll back, overwhelmed with pleasure as her hips buck and her pussy dribbles with a few droplets of squirt."
-    "I spank her again and the mare's eyes practically roll back, overwhelmed with pleasure as her hips buck and her pussy dribbles with a few droplets of squirt."
+    "我又拍了一下她的屁股，这让这匹小雌驹的眼睛几乎完全翻了上去。Lily已经被快感冲昏了头脑，她的臀部抖动起来，几滴水珠也顺着她的小穴滴了下来。"
 
 # game/bakery.rpy#L1240
 translate chinese creamvmissionary_caa0db29:
@@ -3848,43 +3848,43 @@ translate chinese creamvmissionary_83a5b531:
 translate chinese creamvmissionary_28c0087e:
 
     # "The next spank seems to really push her over the edge, her muscles tense up and her pussy tightens. She squirts a bit more onto my cock as she has an extremely powerful orgasm."
-    "The next spank seems to really push her over the edge, her muscles tense up and her pussy tightens. She squirts a bit more onto my cock as she has an extremely powerful orgasm."
+    "下一巴掌真的将她推到了高潮边缘，她的肌肉绷紧，肉壁也裹得更死。强大的高潮让她朝我的肉棒上泄出了不少液体。"
 
 # game/bakery.rpy#L1243
 translate chinese creamvmissionary_9b6d0410:
 
     # "Now that she's coming, I no longer have to hold my orgasm down, immediately I let down my guard and my hips start to speed up. I couldn't hold back even if I wanted to."
-    "Now that she's coming, I no longer have to hold my orgasm down, immediately I let down my guard and my hips start to speed up. I couldn't hold back even if I wanted to."
+    "现在她已经达到了高潮，我也不用再压抑自己了。于是我马上放下顾虑，腰部开始加快了抽插。我再也憋不住了。"
 
 # game/bakery.rpy#L1244
 translate chinese creamvmissionary_6eaa668f:
 
     # "I fuck Lily's wet pussy as fast as I can and my cock starts to throb as my orgasm quickly builds."
-    "I fuck Lily's wet pussy as fast as I can and my cock starts to throb as my orgasm quickly builds."
+    "我以最快的速度抽插着Lily的小穴。随着快感的越发强烈，我的肉棒也开始悸动起来。"
 
 # game/bakery.rpy#L1245
 translate chinese creamvmissionary_4569b761:
 
     # lily "Mmmmm, I want you to cum inside me! Make me your lil' cum dump! Aaahhh, aaaahh…"
-    lily "Mmmmm, I want you to cum inside me! Make me your lil' cum dump! Aaahhh, aaaahh…"
+    lily "嗯，快射到我身体里吧！让我成为你的肉便器吧！啊，啊……"
 
 # game/bakery.rpy#L1246
 translate chinese creamvmissionary_8608545a:
 
     # "Eager to fill up this dirty mare's pussy, my cock stiffens and prepares to unload itself as I reach my climax."
-    "Eager to fill up this dirty mare's pussy, my cock stiffens and prepares to unload itself as I reach my climax."
+    "一想到要射满这淫荡小雌驹的小穴，我的肉棒一下就变得坚挺起来了。我准备在自己达到高潮时好好来上一发。"
 
 # game/bakery.rpy#L1251
 translate chinese creamvmissionary_a9a6a8b6:
 
     # "I release my load deep into her pussy, my thick, hot cum seeps throughout her as I continue to fuck her throughout my orgasm, maximising the brief heightened pleasure."
-    "I release my load deep into her pussy, my thick, hot cum seeps throughout her as I continue to fuck her throughout my orgasm, maximising the brief heightened pleasure."
+    "我的精液在她的淫穴深处喷涌而出。浓厚而滚烫的精液随着我的继续抽插阵射而出，使得这短暂的快感变得更加愉悦。"
 
 # game/bakery.rpy#L1258
 translate chinese creamvmissionary_09644e1e:
 
     # "After a few more loads of cum, I pull out and catch my breath, cum oozing from our point of contact."
-    "After a few more loads of cum, I pull out and catch my breath, cum oozing from our point of contact."
+    "在射出更多精液后，我将肉棒拔出，喘息着，精液也顺着我们的交合处溢了出来。"
 
 # game/bakery.rpy#L1260
 translate chinese creamvmissionary_6935e58f:
@@ -3902,19 +3902,19 @@ translate chinese creamvmissionary_81a742c4:
 translate chinese creamvmissionary_7c8dec46:
 
     # mc "Phew… I’d let a tight pussy like that milk me every morning if I could."
-    mc "Phew… I’d let a tight pussy like that milk me every morning if I could."
+    mc "唷……如果可以的话，我希望每天早上都能有这样一个紧逼来给我挤奶。"
 
 # game/bakery.rpy#L1263
 translate chinese creamvmissionary_a94c81d1:
 
     # lily "Mmm, but it could… You just need to visit me every day, hehe."
-    lily "Mmm, but it could… You just need to visit me every day, hehe."
+    lily "嗯，当然可以……只要你每天早上过来看我就行了，嘿嘿。"
 
 # game/bakery.rpy#L1265
 translate chinese creamvmissionary_334a8826:
 
     # "Lily and I snuggle together sleeping long into the night."
-    "Lily and I snuggle together sleeping long into the night."
+    "我和Lily依偎在一起，共度了一晚。"
 
 # game/bakery.rpy#L1266
 translate chinese creamvmissionary_468a8bea:
@@ -3950,13 +3950,13 @@ translate chinese creamvmissionary_60554f45:
 translate chinese creamvmissionary_3ae638c3:
 
     # "She lays forward on the sofa, presenting her ass. Her eyes glossed over and expectant."
-    "She lays forward on the sofa, presenting her ass. Her eyes glossed over and expectant."
+    "她来到沙发上，身体前倾，露出自己的臀部。她的眼中闪烁着期待的光芒。"
 
 # game/bakery.rpy#L1278
 translate chinese creamvmissionary_0937ffa0:
 
     # riku "Do you like my cute lil' butt?"
-    riku "Do you like my cute lil' butt?"
+    riku "喜欢我可爱的小屁屁吗？"
 
 # game/bakery.rpy#L1279
 translate chinese creamvmissionary_bb383e9a:
@@ -3968,7 +3968,7 @@ translate chinese creamvmissionary_bb383e9a:
 translate chinese creamvmissionary_3f6e84e0:
 
     # "I waste no time crawling behind her and positioning my shaft against her entrance."
-    "I waste no time crawling behind her and positioning my shaft against her entrance."
+    "我迫不及待地来到她的身后，然后将肉棒抵在了她的蜜穴上。"
 
 # game/bakery.rpy#L1281
 translate chinese creamvmissionary_e6592895:
@@ -3980,13 +3980,13 @@ translate chinese creamvmissionary_e6592895:
 translate chinese creamvmissionary_40ee8862:
 
     # "I push myself inside of her and immediately start moving my hips back and forth."
-    "I push myself inside of her and immediately start moving my hips back and forth."
+    "我立刻将肉棒塞进了她的下体，然后腰部便开始前后扭动起来。"
 
 # game/bakery.rpy#L1285
 translate chinese creamvmissionary_1286fbda:
 
     # riku "Aahhh, ahhh! I love the way your cock fills me up, mmm..."
-    riku "Aahhh, ahhh! I love the way your cock fills me up, mmm..."
+    riku "啊，啊！我好喜欢你大棒棒插我的感觉啊，嗯……"
 
 # game/bakery.rpy#L1286
 translate chinese creamvmissionary_01613490:
@@ -3998,19 +3998,19 @@ translate chinese creamvmissionary_01613490:
 translate chinese creamvmissionary_a6d942da:
 
     # "With both my hands I fondle and quish her thick and juicy ass."
-    "With both my hands I fondle and quish her thick and juicy ass."
+    "我用双手抚摸揉捏着她丰满而柔嫩的臀部。"
 
 # game/bakery.rpy#L1288
 translate chinese creamvmissionary_54979bd6:
 
     # riku "Mmm… Hehe, you really do love my butt."
-    riku "Mmm… Hehe, you really do love my butt."
+    riku "嗯……嘿嘿，你真的很喜欢我的小屁屁哦。"
 
 # game/bakery.rpy#L1289
 translate chinese creamvmissionary_2a10faa4:
 
     # "She’s so soaking wet, every time I sink deep inside of her it’s accompanied by a saccharine squelching sound."
-    "She’s so soaking wet, every time I sink deep inside of her it’s accompanied by a saccharine squelching sound."
+    "她的身体已经湿透了。每当我深深插入她下体时，都会发出一阵甜蜜的挤压声。"
 
 # game/bakery.rpy#L1291
 translate chinese creamvmissionary_89e8dec8:
@@ -4028,7 +4028,7 @@ translate chinese creamvmissionary_f3601f9e:
 translate chinese creamvmissionary_83633923:
 
     # riku "Spank me [playername], spank your little slut."
-    riku "Spank me [playername], spank your little slut."
+    riku "使劲打我吧，[playername]，使劲抽打你的小荡妇吧。"
 
 # game/bakery.rpy#L1295
 translate chinese creamvmissionary_44135372:
@@ -4100,7 +4100,7 @@ translate chinese creamvmissionary_f7605d18:
 translate chinese creamvmissionary_04a6a15e:
 
     # riku "Mmphh fuck! Spank me harder! *Pant, pant*."
-    riku "Mmphh fuck! Spank me harder! *Pant, pant*."
+    riku "嗯……操！拍得用力点！*喘气*。"
 
 # game/bakery.rpy#L1317
 translate chinese creamvmissionary_81793b62:

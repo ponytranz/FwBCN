@@ -1034,7 +1034,7 @@ translate chinese musicstudio_f9d143c2:
 translate chinese musicstudio_82b8386a:
 
     # claire "It's just so strange to think that my twin sister is out there doing vulgar things like that."
-    claire "想到我的孪生妹妹在外面做这种粗俗的事情，真是太奇怪了。"
+    claire "想到我的孪生姐姐在外面做这种粗俗的事情，真是太奇怪了。"
 
 # game/city.rpy#L358
 translate chinese musicstudio_03a1a70e:
