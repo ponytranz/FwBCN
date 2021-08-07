@@ -5498,115 +5498,115 @@ translate chinese finale_5f093236:
 translate chinese finale_9c4ee4f3:
 
     # "But the reverse is true, any offense by Moxie is impervious to Morrigan’s concentrated shield."
-    "But the reverse is true, any offense by Moxie is impervious to Morrigan’s concentrated shield."
+    "不过反过来也一样，Moxie的攻击都没办法对Morrigan变出的护盾造成伤害。"
 
 # game/finalroute.rpy#L2351
 translate chinese finale_9720a8d5:
 
     # "It’s like a slugging match, they’re trading extremely powerful blows with complete concentration."
-    "It’s like a slugging match, they’re trading extremely powerful blows with complete concentration."
+    "这就像一场激烈的比赛，双方都在对彼此发出致命的冲击波。"
 
 # game/finalroute.rpy#L2356
 translate chinese finale_e626bca0:
 
     # "Wounds and cuts gradually wear the two down as the occasional spell penetrates or blindsides their shield."
-    "Wounds and cuts gradually wear the two down as the occasional spell penetrates or blindsides their shield."
+    "再坚固的防御总有一疏，少部分法术穿透了护盾，不断产生的新伤和割伤让她们两个都疲惫不堪。"
 
 # game/finalroute.rpy#L2361
 translate chinese finale_4e2031c3:
 
     # honeycrisp "We’ve got to do something, they’re evenly matched!"
-    honeycrisp "We’ve got to do something, they’re evenly matched!"
+    honeycrisp "我们得帮点忙才行，她们两个的实力难分上下！"
 
 # game/finalroute.rpy#L2365
 translate chinese finale_314bb152:
 
     # butters "Anything we try will just be deflected by those magic shields; we’d be nothing but a hinderance!"
-    butters "Anything we try will just be deflected by those magic shields; we’d be nothing but a hinderance!"
+    butters "我们的所有攻击都会被护盾化解掉；除了躲一边还有别的法子吗！"
 
 # game/finalroute.rpy#L2370
 translate chinese finale_991795d5:
 
     # cream "But maybe it’ll be a distraction long enough for Moxie to get a good blow!"
-    cream "But maybe it’ll be a distraction long enough for Moxie to get a good blow!"
+    cream "不过咱们也许能转移一些注意力，让Moxie能发起致命一击！"
 
 # game/finalroute.rpy#L2375
 translate chinese finale_722f6cef:
 
     # ruby "If we get involved, we’ll be turned into dust…"
-    ruby "If we get involved, we’ll be turned into dust…"
+    ruby "如果我们擅自出击，可能会被打得连灰都不剩......"
 
 # game/finalroute.rpy#L2384
 translate chinese finale_744e9ac4:
 
     # lily "Ugh… Girls…"
-    lily "Ugh… Girls…"
+    lily "呃...姐妹们......"
 
 # game/finalroute.rpy#L2386
 translate chinese finale_8882e60d:
 
     # ruby "Lily, are you okay darling? Let me heal you too."
-    ruby "Lily, are you okay darling? Let me heal you too."
+    ruby "Lily，你还好吗亲爱的？我也来治一下你的伤。"
 
 # game/finalroute.rpy#L2388
 translate chinese finale_efb1283a:
 
     # lily "My head is throbbing, but… That doesn’t matter right now, stabilise [playername]’s condition and charge up another Har'Mony blast."
-    lily "My head is throbbing, but… That doesn’t matter right now, stabilise [playername]’s condition and charge up another Har'Mony blast."
+    lily "我头里现在一团浆糊，但是...现在并不重要，把[playername]的伤势稳定下来，然后重新组织下，我们再来一次谐律精华冲击。"
 
 # game/finalroute.rpy#L2390
 translate chinese finale_8715b05a:
 
     # ruby "Mhm, let’s do it."
-    ruby "Mhm, let’s do it."
+    ruby "嗯，就这么办。"
 
 # game/finalroute.rpy#L2398
 translate chinese finale_b6f43921:
 
     # "Moxie’s expression never once faltered, the pure composure that she had so often used in her theatrical performances put Morrigan on edge."
-    "Moxie’s expression never once faltered, the pure composure that she had so often used in her theatrical performances put Morrigan on edge."
+    "Moxie神色异常坚毅，她在演出表演中的那种镇定自若让Morrigan慌了阵脚。"
 
 # game/finalroute.rpy#L2399
 translate chinese finale_bc744fb4:
 
     # "Never once did Moxie show a weakness, even as her muscles began to ache or as she took the occasional hit."
-    "Never once did Moxie show a weakness, even as her muscles began to ache or as she took the occasional hit."
+    "即使肌肉开始酸痛，偶尔被攻击魔法击中，Moxie也没有丝毫为之动容。"
 
 # game/finalroute.rpy#L2422
 translate chinese finale_5ce33be6:
 
     # "Immediately the air between the two pseudo-gods exploded with sparks as the intensity of the magic soared."
-    "Immediately the air between the two pseudo-gods exploded with sparks as the intensity of the magic soared."
+    "两个半神之间的空气瞬间爆炸，魔法涌动。"
 
 # game/finalroute.rpy#L2423
 translate chinese finale_753dfc77:
 
     # "While it’d be easy to assume the girls were getting gradually weaker as they kept fighting, the opposite was true."
-    "While it’d be easy to assume the girls were getting gradually weaker as they kept fighting, the opposite was true."
+    "以目前的形式很容易得出一个结论，如果她们两个再这样打下去，很快就会耗尽实力，不过事实正好相反。"
 
 # game/finalroute.rpy#L2424
 translate chinese finale_2c7b45e9:
 
     # "They were quickly acclimating to their new exponentially large magic pools through a trial by fire."
-    "They were quickly acclimating to their new exponentially large magic pools through a trial by fire."
+    "在经过一番激烈交锋后，她们两个很快就适应了巨大的魔法池。"
 
 # game/finalroute.rpy#L2425
 translate chinese finale_ebb9e8fc:
 
     # "Even they didn’t know the full extent of their new alicorn power."
-    "Even they didn’t know the full extent of their new alicorn power."
+    "甚至她们还不完全了解天角兽的力量范围。"
 
 # game/finalroute.rpy#L2427
 translate chinese finale_757eb81d:
 
     # moxie "I will purge you Morrigan, and correct all the wrong doings that you stained my hands with!"
-    moxie "I will purge you Morrigan, and correct all the wrong doings that you stained my hands with!"
+    moxie "我会净化你，Morrigan，你以我手犯下的种种恶行，我会一一拨乱反正！"
 
 # game/finalroute.rpy#L2429
 translate chinese finale_29ef8a61:
 
     # morrigan "Ihihihi, know your place Moxie!"
-    morrigan "Ihihihi, know your place Moxie!"
+    morrigan "啊哈哈哈，就凭你Moxie！"
 
 # game/finalroute.rpy#L2439
 translate chinese finale_17f62e14:
