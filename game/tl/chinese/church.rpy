@@ -4394,7 +4394,7 @@ translate chinese lorequeen_3786052c:
 translate chinese lorequeen_fe20ea7b:
 
     # "Although she doesn’t remain in place for too long as she crashes onto the sofa, idly rubbing her pussy while catching her breath with an expression of pure satisfaction."
-    "Although she doesn’t remain in place for too long as she crashes onto the sofa, idly rubbing her pussy while catching her breath with an expression of pure satisfaction."
+    "虽然她并没有坐在沙发上停留太久，她懒洋洋地搓着她的阴部，带着一种纯真满意的表情屏住了呼吸。"
 
 # game/church.rpy#L1402
 translate chinese lorequeen_f4e20403:
