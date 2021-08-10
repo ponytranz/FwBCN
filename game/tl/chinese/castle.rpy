@@ -110,13 +110,13 @@ translate chinese auroramenu_6ed6025d:
 translate chinese auroramenu_7c513991:
 
     # aurora "Mmmm, ahhh! You nudge my clit slightly at the peak of each thrust, fuck that’s good."
-    aurora "嗯~~啊!每次高潮时别忘轻推我的阴蒂，真他妈爽。"
+    aurora "嗯~~啊!每次高潮你还轻推我的阴蒂，真他妈爽。"
 
 # game/castle.rpy#L62
 translate chinese auroramenu_db31958a:
 
     # aurora "Uuuuahhh, ahhh… A stallion would have cum by now, but it looks like I’m the one that’s going to come… Haahhh, Aah-Aaahhh!"
-    aurora "啊…一匹种马应该已经射精了，但现在貌似我才是那个要高潮的…啊，啊~啊!"
+    aurora "啊…如果是种马的话，此刻应该已经射精了，但现在貌似我才是那个要高潮的…啊，啊~啊!"
 
 # game/castle.rpy#L63
 translate chinese auroramenu_d27652db:
@@ -164,13 +164,13 @@ translate chinese auroramenu_6ce7c0ed:
 translate chinese auroramenu_91bdada4:
 
     # "She was trembling with pleasure as she rambled almost incoherently about me and sex."
-    "她愉快地颤抖着，几乎语无伦次地谈论着我和性知识。"
+    "她愉快地颤抖着，几乎语无伦次地谈论着我，还有做爱。"
 
 # game/castle.rpy#L72
 translate chinese auroramenu_4b5b65a5:
 
     # aurora "Yeah, yeah! [playername], fuck my regal pussy with this cock that has fucked so many peasant mares!"
-    aurora "是,是的![playername]，你听好了，你这个用来操我高贵阴道的cock已经操过了那么多卑微的母马!"
+    aurora "是,是的![playername]，你听好了，你这个用来操我高贵阴道的肉棒已经操过了那么多卑微的母马!"
 
 # game/castle.rpy#L76
 translate chinese auroramenu_42bd829d:
@@ -200,7 +200,7 @@ translate chinese auroramenu_8a1cf40b:
 translate chinese auroramenu_c1a992e3:
 
     # "I started to thrust faster into her tight vagina, her insides gripped tightly around my shaft, as if it were trying to bring me over the edge."
-    "我开始更快地抽插她的阴道，她的肉壁紧紧压迫着我的cock，试图把我挤回边缘。"
+    "我开始更快地抽插她的阴道，她的肉壁紧紧压迫着我的下体，试图让我跨过极限。"
 
 # game/castle.rpy#L84
 translate chinese auroramenu_c4fd5487:
@@ -506,7 +506,7 @@ translate chinese auroramenu_9a52d6b6:
 translate chinese auroramenu_cc370517:
 
     # aurora "And, hoho, you're meeting with the Queen and have relations with her student, I'd keep tabs on that."
-    aurora "还有，哈，我派你去见女王并和她的学生发生关系，我会密切关注你的。"
+    aurora "还有，呵呵，你此刻正去见女王并和她的学生发生关系，我会密切关注你的。"
 
 # game/castle.rpy#L191
 translate chinese auroramenu_1bee19e2:
@@ -656,13 +656,13 @@ translate chinese auroravisit1_80b22dd4:
 translate chinese auroravisit1_2e40c635:
 
     # "At first it looked like the guards were about to take me to the portal room, however they stopped short at a certain section of the castle, and that’s when I realized..."
-    "起初，守卫们似乎要把我带到the portal room，但他们在城堡的某个地方停了下来，那时我才意识到……"
+    "起初，守卫们似乎要把我带到传送门室，但他们在城堡的某个地方停了下来，那时我才意识到……"
 
 # game/castle.rpy#L236
 translate chinese auroravisit1_1876a0f8:
 
     # "When Aurora had taken me to the portal room before, we walked through here, these are her personal living quarters."
-    "这是Aurora的私人住所，之前她带我去the portal room的时候，我们路过这里。"
+    "这是Aurora的私人住所，之前她带我去传送门室的时候，我们路过这里。"
 
 # game/castle.rpy#L237
 translate chinese auroravisit1_e9ed055d:
@@ -770,7 +770,7 @@ translate chinese auroravisit1_40d6b4f5:
 translate chinese auroravisit1_c03ef94a:
 
     # "My ears have tuned to hear the sloppy wet sounds that are constantly spilling from the point of contact, I can feel my nether tingle with arousal at the erotic sight."
-    "我的耳朵已经调谐，可以清楚听到从阴道口不断溢出的湿漉漉的声响，我能感觉到，我的下体正兴奋地勃起。"
+    "我的耳朵开始仔细倾听，能清楚听到从阴道口不断溢出的湿漉漉的声响，我能感觉到，我的下体正兴奋地勃起。"
 
 # game/castle.rpy#L266
 translate chinese auroravisit1_25c1db72:
@@ -830,7 +830,7 @@ translate chinese auroravisit1_14f0e24d:
 translate chinese auroravisit1_dea5a4f8:
 
     # "I love the way the dildo presses against her, indenting her skin; what I wouldn’t give to be able to do that with my cock."
-    "我喜欢假阳具插在她阴道里，把她的腹部顶起的情景，只要能让我的cock做那件事，我愿付出任何代价。"
+    "我喜欢假阳具插在她阴道里，把她的腹部顶起的情景，只要能让我的下体做那件事，我愿付出任何代价。"
 
 # game/castle.rpy#L282
 translate chinese auroravisit1_3b5fbf35_1:
@@ -1448,13 +1448,13 @@ translate chinese auroravsex_580a58a1:
 translate chinese auroravsex_0ba38b0b:
 
     # "Biting her lip, she uses some magic to spread her lips open invitingly. I take my rock-hard erection and press it against her labia, the spread of the magic allowing me to immediately sink inside."
-    "她咬着嘴唇，用魔法把她的诱人阴唇张开。我拿起我勃起的坚实cock，压在她的阴唇上，魔法释放，它被立即勾入其中。"
+    "她咬着嘴唇，用魔法把她的诱人阴唇张开。我拿起我勃起的坚实肉棒，压在她的阴唇上，魔法释放，它被立即勾入其中。"
 
 # game/castle.rpy#L446
 translate chinese auroravsex_fa6955a7:
 
     # "Sliding deeply into the Queen up to the hilt, her pussy squeezes and sucks around each inch of my shaft with a unique, warm pleasure that radiates throughout my loins."
-    "深滑入女王阴道的末端，阴道壁贪婪地挤压并吮吸我的每一寸cock,辐射出独特温暖的快乐。"
+    "深滑入女王阴道的末端，阴道壁贪婪地挤压并吮吸我肉棒的每一寸,辐射出独特温暖的快乐。"
 
 # game/castle.rpy#L447
 translate chinese auroravsex_4c748e2b:
@@ -1502,7 +1502,7 @@ translate chinese auroravsex_7c513991:
 translate chinese auroravsex_ace677e6:
 
     # aurora "Uuuuahhh, ahhh… A stallion would have cum by now, but it looks like I am the one that’s going to come… Haahhh, Aah-Aaahhh!"
-    aurora "啊…一匹种马应该已经射精了，但现在貌似我才是那个要高潮的…啊，啊~啊!"
+    aurora "啊…如果是种马的话，此刻应该已经射精了，但现在貌似我才是那个要高潮的…啊，啊~啊!"
 
 # game/castle.rpy#L458
 translate chinese auroravsex_d27652db:
@@ -1580,7 +1580,7 @@ translate chinese auroravsex_a86cb0fd:
 translate chinese auroravsex_c1a992e3:
 
     # "I started to thrust faster into her tight vagina, her insides gripped tightly around my shaft, as if it were trying to bring me over the edge."
-    "我开始更快地抽插她的阴道，她的肉壁紧紧压迫着我的cock，试图把我挤回边缘。"
+    "我开始更快地抽插她的阴道，她的肉壁紧紧压迫着我的下体，试图让我跨过极限。"
 
 # game/castle.rpy#L472
 translate chinese auroravsex_c4fd5487:

@@ -9512,7 +9512,7 @@ translate chinese libraryvisit3choice5_da04f780:
 translate chinese libraryvisit3choice5_e99782db:
 
     # "Come to think of it, the mirrors in the portal room would show certain individuals if they were mentioned, was that a part of Aurora’s magic?"
-    "仔细想想，如果是提到某些人的话，传送室的镜子同样可以显示出这些人的影像，这也是Aurora魔法的一部分吗？"
+    "仔细想想，如果是提到某些人的话，传送门室的镜子同样可以显示出这些人的影像，这也是Aurora魔法的一部分吗？"
 
 # game/library.rpy#L2693
 translate chinese libraryvisit3choice5_2e1bad21:

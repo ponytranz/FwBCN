@@ -194,7 +194,7 @@ translate chinese altmorning_f1376a86:
 translate chinese altmorning_e527c2c0:
 
     # butters "Welcome back, hope you weren't having too much fun without me, hehe. My succubus side might end up jealous."
-    butters "欢迎回来，希望我没在的这段时间里你没去找太多乐子，嘿嘿，我的肉体可都要吃醋了。"
+    butters "欢迎回来，希望我没在的这段时间里你没去找太多乐子，嘿嘿，我的魅魔形态可都要吃醋了。"
 
 # game/2morning.rpy#L105
 translate chinese morningvariables_a20cefa7:
@@ -548,7 +548,7 @@ translate chinese events_33ddde5d:
 translate chinese events_09ea0b35:
 
     # "(100%% completion bonus unlocked at the Castle.)"
-    "（于城堡完成100%% 时解锁奖励。）"
+    "（在城堡解锁了100%% 完成游戏的奖励。）"
 
 # game/2morning.rpy#L270
 translate chinese events_f1b54ad9:
