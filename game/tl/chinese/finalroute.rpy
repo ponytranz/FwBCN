@@ -5612,7 +5612,7 @@ translate chinese finale_29ef8a61:
 translate chinese finale_17f62e14:
 
     # "The very roof of the castle caved in as their battle took to the skies, rubble and debris littering the once sacred throne room."
-    "The very roof of the castle caved in as their battle took to the skies, rubble and debris littering the once sacred throne room."
+    "当她们的战斗冲向天空时，城堡的屋顶塌陷了，碎石和瓦砾散落在曾经神圣的王座房间里。"
 
 # game/finalroute.rpy#L2440
 translate chinese finale_f11c7b21:

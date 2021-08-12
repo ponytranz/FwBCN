@@ -14027,14 +14027,14 @@
   {
     "id": 79437306,
     "createdAt": "2021-05-30T17:55:40.000Z",
-    "updatedAt": "2021-06-18T17:45:16.000Z",
+    "updatedAt": "2021-08-11T07:18:26.000Z",
     "key": "finale_17f62e14",
     "original": "The very roof of the castle caved in as their battle took to the skies, rubble and debris littering the once sacred throne room.",
-    "translation": "",
+    "translation": "当她们的战斗冲向天空时，城堡的屋顶塌陷了，碎石和瓦砾散落在曾经神圣的王座房间里。",
     "file": 272348,
-    "stage": 0,
+    "stage": 1,
     "project": 2414,
-    "uid": null,
+    "uid": 21929,
     "extra": null,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwBCN/blob/main/game/finalroute.rpy#L2439",
     "words": 24

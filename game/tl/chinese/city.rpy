@@ -1742,7 +1742,7 @@ translate chinese musicstudiomenub_41870e04:
 translate chinese musicstudiomenub_a38b279b:
 
     # "Desiring to make the most of this, I start to pump into her soaking cunt with reckless abandon."
-    "为了充分利用这一点，我开始在她湿漉漉的小穴里抽插。"
+    "为了好好享受这一刻，我开始不顾一切地在她湿漉漉的小穴里抽插。"
 
 # game/city.rpy#L592
 translate chinese musicstudiomenub_1d51a024:
@@ -2222,7 +2222,7 @@ translate chinese melodylaptop_2a57e237:
 translate chinese melodylaptop_1a193633:
 
     # melody "Mmphh, I think it'll be nice to make you do all the work for once."
-    melody "Mmphh, I think it'll be nice to make you do all the work for once."
+    melody "嗯，我觉得让你一次做所有的工作也不赖哦。"
 
 # game/city.rpy#L1110
 translate chinese melodylaptop_41b62b3a:
@@ -2234,13 +2234,13 @@ translate chinese melodylaptop_41b62b3a:
 translate chinese melodylaptop_9d3f824c:
 
     # melody "This is a reward, ehehe! This marvellous pussy is all yours to enjoy."
-    melody "This is a reward, ehehe! This marvellous pussy is all yours to enjoy."
+    melody "这是奖励，哈哈!这个神奇的浦西归你了"
 
 # game/city.rpy#L1113
 translate chinese melodylaptop_a38b279b:
 
     # "Desiring to make the most of this, I start to pump into her soaking cunt with reckless abandon."
-    "Desiring to make the most of this, I start to pump into her soaking cunt with reckless abandon."
+    "为了好好享受这一刻，我开始不顾一切地在她湿漉漉的小穴里抽插。"
 
 # game/city.rpy#L1115
 translate chinese melodylaptop_1d51a024:

@@ -7622,103 +7622,103 @@ translate chinese rikuthreesome_abeed71b:
 translate chinese rikuthreesome_362339be:
 
     # "The pressure in my loins reaches its peak as I begin to have a powerful orgasm, ejaculating several loads into Riku’s ass."
-    "The pressure in my loins reaches its peak as I begin to have a powerful orgasm, ejaculating several loads into Riku’s ass."
+    "当我进行强而有力的大爆射时，腰上的力到了顶点。连着几次都射到Riku的屁屁上。"
 
 # game/bar.rpy#L2073
 translate chinese rikuthreesome_82e94ad8:
 
     # "All whilst Moxie wriggles with pleasure, her back arched as she too begins to orgasm."
-    "All whilst Moxie wriggles with pleasure, her back arched as she too begins to orgasm."
+    "同时Moxie性♂奋的扭动着，身体后仰着也开始了高潮"
 
 # game/bar.rpy#L2076
 translate chinese rikuthreesome_79de0139:
 
     # "After an intense feeling of euphoria, my climax fades and I pull out, splattering her ass with a few last blasts of jism as I do."
-    "After an intense feeling of euphoria, my climax fades and I pull out, splattering her ass with a few last blasts of jism as I do."
+    "在一阵强烈的性快感之后，我进入了贤者模式。抽出来把最后几阵精液射在了他的屁屁上"
 
 # game/bar.rpy#L2084
 translate chinese rikuthreesome_4b4a4efe:
 
     # "Riku lifts up from Moxie’s legs and rolls to the other side of the bed. She looks just as satisfied as Moxie and I, her tongue lulling out dramatically as she pants."
-    "Riku lifts up from Moxie’s legs and rolls to the other side of the bed. She looks just as satisfied as Moxie and I, her tongue lulling out dramatically as she pants."
+    "Riku从Moxie的腿上爬起来，滚到床的另一边。她看起来就像莫克西和我一样满意，吐着舌头喘着气"
 
 # game/bar.rpy#L2085
 translate chinese rikuthreesome_3b8392c9:
 
     # moxie "Good, isn’t she? I had to jump at the opportunity when I realized you two were about to have sex, hahaha."
-    moxie "Good, isn’t she? I had to jump at the opportunity when I realized you two were about to have sex, hahaha."
+    moxie "很好,不是吗?当我意识到你们俩要交配时，我不得不抓住这个机会，哈哈哈。"
 
 # game/bar.rpy#L2089
 translate chinese rikuthreesome_6020a8e4:
 
     # mc "Yeah she’s a trooper for sure."
-    mc "Yeah she’s a trooper for sure."
+    mc "是啊，她是个好“骑”手"
 
 # game/bar.rpy#L2091
 translate chinese rikuthreesome_eb235896:
 
     # riku "That was fun, you two have definitely been my favourite sex partners."
-    riku "That was fun, you two have definitely been my favourite sex partners."
+    riku "有意思，你俩绝对是我最喜欢的性伴侣。"
 
 # game/bar.rpy#L2093
 translate chinese rikuthreesome_f1af97df:
 
     # moxie "The competition wasn't exactly tough! We’ll do this again, don’t you worry."
-    moxie "The competition wasn't exactly tough! We’ll do this again, don’t you worry."
+    moxie "竞争不会很激烈!别担心，我们会再来的。"
 
 # game/bar.rpy#L2095
 translate chinese rikuthreesome_f3c92bae:
 
     # riku "Mmm, yes please, I’ll be your slut any day."
-    riku "Mmm, yes please, I’ll be your slut any day."
+    riku "嗯，我随时可以做你的小母狗"
 
 # game/bar.rpy#L2096
 translate chinese rikuthreesome_08681059:
 
     # mc "She isn’t even resisting anymore, she’s completely subservient."
-    mc "She isn’t even resisting anymore, she’s completely subservient."
+    mc "她甚至不再抗拒，完全的顺从了"
 
 # game/bar.rpy#L2098
 translate chinese rikuthreesome_388288ec:
 
     # moxie "Haha, she’s always like this after sex, give her a few hours and she’ll be a brat again."
-    moxie "Haha, she’s always like this after sex, give her a few hours and she’ll be a brat again."
+    moxie "哈哈，她交配后总是这样，几个小时后她又会变成一个淘气鬼。"
 
 # game/bar.rpy#L2100
 translate chinese rikuthreesome_dbdded58:
 
     # riku "Nuh-uh, I’m a good girl, I’ll do whatever you say."
-    riku "Nuh-uh, I’m a good girl, I’ll do whatever you say."
+    riku "不不不，我是个好女孩，你说什么我就做什么。"
 
 # game/bar.rpy#L2101
 translate chinese rikuthreesome_8543073d:
 
     # mc "Alright, you’re starting to weird me out Riku. I’m going to go grab a shower, anyone of you two ladies want to join me?"
-    mc "Alright, you’re starting to weird me out Riku. I’m going to go grab a shower, anyone of you two ladies want to join me?"
+    mc "好吧，你开始吓到我了Riku。你们两位要不要一起去洗个澡啊？"
 
 # game/bar.rpy#L2103
 translate chinese rikuthreesome_7d2a05f0:
 
     # moxie "I’ll need to make some lunch and go back to work; slave, you go join him."
-    moxie "I’ll need to make some lunch and go back to work; slave, you go join him."
+    moxie "我得做点午饭，然后回去工作;奴隶，你去找他。"
 
 # game/bar.rpy#L2104
 translate chinese rikuthreesome_5854cfad:
 
     # moxie "Wash his back really well."
-    moxie "Wash his back really well."
+    moxie "好好洗他的背。"
 
 # game/bar.rpy#L2106
 translate chinese rikuthreesome_ecca4d8d:
 
     # riku "Oh thank god, an excuse to get out of this stupid maid outfit."
-    riku "Oh thank god, an excuse to get out of this stupid maid outfit."
+    riku "感谢塞拉斯蒂娅，终于有借口脱下这身愚蠢的女仆装了。"
 
 # game/bar.rpy#L2107
 translate chinese rikuthreesome_ef573e1b:
 
     # mc "There’s the brat we know and love."
-    mc "There’s the brat we know and love."
+    mc "这才是我们认识和喜欢的小可爱"
 
 # game/bar.rpy#L2109
 translate chinese rikuthreesome_ce617998:
@@ -7730,103 +7730,103 @@ translate chinese rikuthreesome_ce617998:
 translate chinese rikuthreesome_5e9a6e20:
 
     # "The two of us head into the shower and she gives me a good scrubbing. I can’t help myself and I fuck her again while pressing her against the wall."
-    "The two of us head into the shower and she gives me a good scrubbing. I can’t help myself and I fuck her again while pressing her against the wall."
+    "我们俩进了浴室，她给我好好地擦洗了一下。我控制不住自己，把她摁在墙上又操了一遍"
 
 # game/bar.rpy#L2113
 translate chinese rikuthreesome_85bcb3dd:
 
     # "Pounding her ass again and filling it with another load of cum as she loses her mind to pleasure and arousal."
-    "Pounding her ass again and filling it with another load of cum as she loses her mind to pleasure and arousal."
+    "重击她的屁屁，用高潮填满她失去的理智。"
 
 # game/bar.rpy#L2114
 translate chinese rikuthreesome_56b69718:
 
     # "She’s even more sheepish than usual as we get out the shower."
-    "She’s even more sheepish than usual as we get out the shower."
+    "洗完澡后她变得更害羞了"
 
 # game/bar.rpy#L2116
 translate chinese rikuthreesome_6bdb3994:
 
     # "The three of us share the lunch that Moxie cooked before she returns to work, leaving both me and Riku alone for the rest of the day."
-    "The three of us share the lunch that Moxie cooked before she returns to work, leaving both me and Riku alone for the rest of the day."
+    "在Moxie上班前我们一起吃了她做的午餐，剩下的时间里都是我和Riku独处。"
 
 # game/bar.rpy#L2120
 translate chinese rikuthreesome_e10e5aa0:
 
     # riku "Feels weird taking a day off work, but a day of fucking will probably increase my work-efficiency over the coming days to make up for it."
-    riku "Feels weird taking a day off work, but a day of fucking will probably increase my work-efficiency over the coming days to make up for it."
+    riku "休息一天感觉很奇怪，但一天的交配可能会提高我的工作效率，在接下来的几天来弥补它。"
 
 # game/bar.rpy#L2121
 translate chinese rikuthreesome_1c7a37bc:
 
     # mc "How was your first threesome?"
-    mc "How was your first threesome?"
+    mc "你的第一次3p怎么样？"
 
 # game/bar.rpy#L2123
 translate chinese rikuthreesome_c9ce18e2:
 
     # riku "Still feels surreal to me, give it a week and I still won’t realize I was in a threesome."
-    riku "Still feels surreal to me, give it a week and I still won’t realize I was in a threesome."
+    riku "对我来说还是有点不现实，再给我一周我也不会意识到我在3p"
 
 # game/bar.rpy#L2125
 translate chinese rikuthreesome_0b31386a:
 
     # riku "Trust my slutty ass in heat to get into these kinds of situations."
-    riku "Trust my slutty ass in heat to get into these kinds of situations."
+    riku "相信我这个发情的骚货不会遇上这种事的。"
 
 # game/bar.rpy#L2126
 translate chinese rikuthreesome_a7167c61:
 
     # mc "You’ve completely surrendered to your sexual nature today."
-    mc "You’ve completely surrendered to your sexual nature today."
+    mc "你今天完全屈服于你的本性了"
 
 # game/bar.rpy#L2128
 translate chinese rikuthreesome_34fd0a64:
 
     # riku "Yeah, that twisted part of me wants nothing more than to be used like a slut and a slave."
-    riku "Yeah, that twisted part of me wants nothing more than to be used like a slut and a slave."
+    riku "是啊，我那扭曲的一面只想被人当成贱货和奴隶。"
 
 # game/bar.rpy#L2129
 translate chinese rikuthreesome_00a0f188:
 
     # riku "I like watching hardcore porn, and I want to try that kinda stuff, but my last partner was boring."
-    riku "I like watching hardcore porn, and I want to try that kinda stuff, but my last partner was boring."
+    riku "我喜欢看好康的，我也想试试那种东西，但我上一个搭档很无聊。"
 
 # game/bar.rpy#L2131
 translate chinese rikuthreesome_79ae03ac:
 
     # riku "So thanks for letting me live out that fantasy, even if it’s a little bit."
-    riku "So thanks for letting me live out that fantasy, even if it’s a little bit."
+    riku "所以谢谢你让我实现了梦想，即使有点..."
 
 # game/bar.rpy#L2132
 translate chinese rikuthreesome_ac64ca4e:
 
     # mc "Got any other sick fantasies you want to live out?"
-    mc "Got any other sick fantasies you want to live out?"
+    mc "你还有其他变态的幻想吗?"
 
 # game/bar.rpy#L2134
 translate chinese rikuthreesome_1161fea4:
 
     # riku "Pfft, no! Even if I did, I wouldn’t tell you, perv."
-    riku "Pfft, no! Even if I did, I wouldn’t tell you, perv."
+    riku "噗,不!就算我有也不会告诉你，变态。"
 
 # game/bar.rpy#L2138
 translate chinese rikuthreesome_66a8e72e:
 
     # riku "By Aurora, I almost forgot about that slave stuff."
-    riku "By Aurora, I almost forgot about that slave stuff."
+    riku "天啊，我差点忘记了当奴隶的事"
 
 # game/bar.rpy#L2139
 translate chinese rikuthreesome_882d50a2:
 
     # riku "Fiiinnee… I’ll tell you what you want to know."
-    riku "Fiiinnee… I’ll tell you what you want to know."
+    riku "Fiiinnee...我会告诉你，你想知道的事"
 
 # game/bar.rpy#L2141
 translate chinese rikuthreesome_f2180fe2:
 
     # riku "I have this fetish doing it with other species. I usually watch interspecies porn with a mare."
-    riku "I have this fetish doing it with other species. I usually watch interspecies porn with a mare."
+    riku "我有恋物癖，喜欢和其他物种做这种事。我通常和母马一起看跨种族小黄片。"
 
 # game/bar.rpy#L2142
 translate chinese rikuthreesome_c74797f8:
@@ -7844,61 +7844,61 @@ translate chinese rikuthreesome_7e01c0f3:
 translate chinese rikuthreesome_68f4a286:
 
     # riku "The fact you’re another species does interest me a lot."
-    riku "The fact you’re another species does interest me a lot."
+    riku "你是另一个物种的事实确实让我很感性趣。"
 
 # game/bar.rpy#L2145
 translate chinese rikuthreesome_ad172621:
 
     # riku "But I much prefer wolves and dragons, I wanna get dominated, knotted, bred."
-    riku "But I much prefer wolves and dragons, I wanna get dominated, knotted, bred."
+    riku "但我更喜欢狼和龙。我想被支配，捆绑，受孕"
 
 # game/bar.rpy#L2147
 translate chinese rikuthreesome_f0c562fb:
 
     # "She managed to say that completely straight faced, before clumsily realizing how embarrassing that was to openly say."
-    "She managed to say that completely straight faced, before clumsily realizing how embarrassing that was to openly say."
+    "她试图在说这些话的时候面无表情，后来才笨拙地意识到公开说这话是多么尴尬"
 
 # game/bar.rpy#L2148
 translate chinese rikuthreesome_39bc264f:
 
     # mc "Sounds like an extension of your desire to be dominated."
-    mc "Sounds like an extension of your desire to be dominated."
+    mc "听起来像是你渴望被支配的延伸。"
 
 # game/bar.rpy#L2149
 translate chinese rikuthreesome_da071542:
 
     # mc "Which is strange considering you try to make yourself out to be such a strong and independent mare."
-    mc "Which is strange considering you try to make yourself out to be such a strong and independent mare."
+    mc "奇怪的是你一直想把自己塑造成坚强独立的母马"
 
 # game/bar.rpy#L2151
 translate chinese rikuthreesome_4df74198:
 
     # riku "Is that strange? I’m a strong woman in my personal life, and I want someone to break that in my sexual life by dominating and overpowering me."
-    riku "Is that strange? I’m a strong woman in my personal life, and I want someone to break that in my sexual life by dominating and overpowering me."
+    riku "奇怪吗?我在个人生活中是个坚强的母马，我希望有人能通过控制和支配我来打破我的性生活。"
 
 # game/bar.rpy#L2152
 translate chinese rikuthreesome_ca9bda67:
 
     # riku "Reducing me to bare primal instincts, sex and stuff, right?"
-    riku "Reducing me to bare primal instincts, sex and stuff, right?"
+    riku "让我暴露出原始的本能，被性灌满，对吗？"
 
 # game/bar.rpy#L2153
 translate chinese rikuthreesome_81f47d7f:
 
     # mc "You’re making a lot of sense, sounds hot."
-    mc "You’re making a lot of sense, sounds hot."
+    mc "你说的有道理啊，听起来是很不错"
 
 # game/bar.rpy#L2154
 translate chinese rikuthreesome_0e35c4eb:
 
     # "I guess that means heat itself is one of her kinks."
-    "I guess that means heat itself is one of her kinks."
+    "我想这意味着发情本身就是她的癖好之一"
 
 # game/bar.rpy#L2156
 translate chinese rikuthreesome_2e2234fa:
 
     # riku "That’s why today has been so sexually satisfying for me."
-    riku "That’s why today has been so sexually satisfying for me."
+    riku "这就是为什么今天对我来说是如此的性满足。"
 
 # game/bar.rpy#L2157
 translate chinese rikuthreesome_f8af5d12:
@@ -7910,79 +7910,79 @@ translate chinese rikuthreesome_f8af5d12:
 translate chinese rikuthreesome_9c30e6ce:
 
     # riku "I’m not a perv. I just like it rough. That’s normal, right?"
-    riku "I’m not a perv. I just like it rough. That’s normal, right?"
+    riku "我不是变态。我只是喜欢重口。这是正常的,对吧?"
 
 # game/bar.rpy#L2161
 translate chinese rikuthreesome_54eaedc3:
 
     # mc "Yeah that’s rather normal, although you’re on more of the extreme end."
-    mc "Yeah that’s rather normal, although you’re on more of the extreme end."
+    mc "是啊，这很正常，虽然你有点极端。"
 
 # game/bar.rpy#L2163
 translate chinese rikuthreesome_a982d2a6:
 
     # riku "Was Moxie serious when she said we’re gonna have more threesomes?"
-    riku "Was Moxie serious when she said we’re gonna have more threesomes?"
+    riku "Moxie说我们要再来几次3p是认真的吗?"
 
 # game/bar.rpy#L2164
 translate chinese rikuthreesome_382dd086:
 
     # mc "Only as serious as you are willing, the two of us often have sex in the evenings anyway."
-    mc "Only as serious as you are willing, the two of us often have sex in the evenings anyway."
+    mc "如果你愿意的话，反正我们每天晚上都有在“交配”"
 
 # game/bar.rpy#L2165
 translate chinese rikuthreesome_3e024591:
 
     # mc "If you ever want to join us in the evening, you’re more than welcome."
-    mc "If you ever want to join us in the evening, you’re more than welcome."
+    mc "欢迎你加入我们的夜生活"
 
 # game/bar.rpy#L2166
 translate chinese rikuthreesome_1b92b8d8:
 
     # "She’d be the star of the show with her sexual prowess, that’s for sure."
-    "She’d be the star of the show with her sexual prowess, that’s for sure."
+    "她肯定会因为性方面成为明星的"
 
 # game/bar.rpy#L2168
 translate chinese rikuthreesome_ef08bbe7:
 
     # riku "You two can come visit me at the bar if you want some fun, just lemme know. Drinks on me!"
-    riku "You two can come visit me at the bar if you want some fun, just lemme know. Drinks on me!"
+    riku "如果你们想找点乐子就跟我说一声，可以去酒吧找我。我请客！"
 
 # game/bar.rpy#L2169
 translate chinese rikuthreesome_941e702b:
 
     # mc "Thanks, I’ll put you up to that."
-    mc "Thanks, I’ll put you up to that."
+    mc "谢谢，我会的"
 
 # game/bar.rpy#L2171
 translate chinese rikuthreesome_0e2cb307:
 
     # riku "We got another four hours until I should head back, do you want me on top this time?"
-    riku "We got another four hours until I should head back, do you want me on top this time?"
+    riku "离我回去还有四个小时，这次你想让我在上面吗?"
 
 # game/bar.rpy#L2172
 translate chinese rikuthreesome_ca433541:
 
     # "She’s trying to fuck me again, but I’ve already cum three times in the past two hours. This girl is on a lust high right now."
-    "She’s trying to fuck me again, but I’ve already cum three times in the past two hours. This girl is on a lust high right now."
+    "她又想干我了，但我已经强而有力的大爆射三次了。这女孩现在性欲高涨"
 
 # game/bar.rpy#L2173
 translate chinese rikuthreesome_c88376cc:
 
     # mc "How about we go to the gym and have a work-out to release all that pent-up frustration?"
-    mc "How about we go to the gym and have a work-out to release all that pent-up frustration?"
+    mc "不如我们去健身房释放一下被压抑的不满吧"
 
 # game/bar.rpy#L2175
 translate chinese rikuthreesome_50079e6e:
 
     # riku "Hmm, working out with men usually makes me hornier, but okay!"
-    riku "Hmm, working out with men usually makes me hornier, but okay!"
+    riku "Hmm，和雄性一起锻炼通常会让我更饥渴，不过没关系!"
 
 # game/bar.rpy#L2176
 translate chinese rikuthreesome_74cf9ea8:
 
     # "That should at least buy my dick some time."
-    "That should at least buy my dick some time."
+    "至少能给我的老二争取点时间。"
 
 # game/bar.rpy#L2180
 translate chinese rikuthreesome_ce617998_1:
@@ -7994,19 +7994,19 @@ translate chinese rikuthreesome_ce617998_1:
 translate chinese rikuthreesome_7d4cf2f3:
 
     # "The day passes, Riku and I work out at the gym before going back to her place. We have a few drinks, play a few of her games then fuck again before I head home."
-    "The day passes, Riku and I work out at the gym before going back to her place. We have a few drinks, play a few of her games then fuck again before I head home."
+    "一天过去了，我和Riku在健身房锻炼，然后回到她家。我们喝了几杯，玩玩她的游戏，在回家之前交配"
 
 # game/bar.rpy#L2187
 translate chinese rikuthreesome_8fe8a1fc:
 
     # "As you can expect, I don't get paid today. I didn't do any work!"
-    "As you can expect, I don't get paid today. I didn't do any work!"
+    "如你所料，我今天拿不到钱。我什么工作都没做!"
 
 # game/bar.rpy#L2191
 translate chinese rikuthreesome_cb0b270f:
 
     # "When I get back to the wagon Moxie seems rather relaxed, she’s resting on the sofa after a long day of work."
-    "When I get back to the wagon Moxie seems rather relaxed, she’s resting on the sofa after a long day of work."
+    "当我回到蓬车上时，Moxie看起来相当放松，结束了一天漫长的工作后，她正在沙发上休息"
 
 # game/bar.rpy#L2193
 translate chinese rikuthreesome_63d7e412:
