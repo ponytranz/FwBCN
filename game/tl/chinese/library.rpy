@@ -12008,37 +12008,37 @@ translate chinese penelopework_fabb0791:
 translate chinese penelopework_95c422c8:
 
     # penelope "Y-Yeah... You were one of the people that got burnt most by my actions, so I'd understand your apprehension..."
-    penelope "Y-Yeah... You were one of the people that got burnt most by my actions, so I'd understand your apprehension..."
+    penelope "是-是的……你是被我的所作所为伤害最深的人之一，我能理解你的感受……"
 
 # game/library.rpy#L3521
 translate chinese penelopework_fefa83aa:
 
     # penelope "I won't ask you to understand why I did what I did, but I will ask if you'd find it in your heart to forgive me."
-    penelope "I won't ask you to understand why I did what I did, but I will ask if you'd find it in your heart to forgive me."
+    penelope "所以我不求你理解我为什么要这么做，我只希望你能从心里原谅我。"
 
 # game/library.rpy#L3522
 translate chinese penelopework_39683c09:
 
     # mc "To be honest, I don't know enough to not forgive you."
-    mc "To be honest, I don't know enough to not forgive you."
+    mc "说实话，我还不知道该怎样原谅你。"
 
 # game/library.rpy#L3523
 translate chinese penelopework_03c149b0:
 
     # mc "I can kinda work out your reasonings, but... Could you tell me your motive?"
-    mc "I can kinda work out your reasonings, but... Could you tell me your motive?"
+    mc "我理解你的想法，不过…你这样做又是为何呢?"
 
 # game/library.rpy#L3525
 translate chinese penelopework_33351947:
 
     # penelope "M-My motive? Well... My motive sucks!"
-    penelope "M-My motive? Well... My motive sucks!"
+    penelope "问-问我的动机?额…我的动机非常糟糕!"
 
 # game/library.rpy#L3527
 translate chinese penelopework_b1cd4701:
 
     # penelope "It was a mixture of unreciprocated love, jealousy, greed and a desire to fulfill a debt owed."
-    penelope "It was a mixture of unreciprocated love, jealousy, greed and a desire to fulfill a debt owed."
+    penelope "这是一种未得到回报的爱、嫉妒、还有贪婪和履行欠债欲望的混合物。"
 
 # game/library.rpy#L3528
 translate chinese penelopework_a2d8901c:
@@ -12116,7 +12116,7 @@ translate chinese penelopework_742901db:
 translate chinese penelopework_388d53dc:
 
     # penelope "Like, an aggressively good fucking to just melt my brain."
-    penelope "Like, an aggressively good fucking to just melt my brain."
+    penelope "就像一场激烈的做爱，只为让我的大脑融化。"
 
 # game/library.rpy#L3544
 translate chinese penelopework_c5f14dda:
@@ -12140,19 +12140,19 @@ translate chinese penelopework_9b5c407e:
 translate chinese penelopework_6dec4620:
 
     # penelope "No more disguises, just you and I having raw sex."
-    penelope "No more disguises, just you and I having raw sex."
+    penelope "没有任何伪装，只有你跟我赤裸裸的性爱。"
 
 # game/library.rpy#L3549
 translate chinese penelopework_99289bf6:
 
     # penelope "Oh, and maybe you'd be able to get me pregnant too!"
-    penelope "Oh, and maybe you'd be able to get me pregnant too!"
+    penelope "噢，没准你也能让我怀孕!"
 
 # game/library.rpy#L3550
 translate chinese penelopework_498344be:
 
     # mc "Pregnant? Aren't we moving a little fast?"
-    mc "Pregnant? Aren't we moving a little fast?"
+    mc "怀孕?我们是不是发展得有点快了?"
 
 # game/library.rpy#L3551
 translate chinese penelopework_01b611be:

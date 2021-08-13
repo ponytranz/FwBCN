@@ -2636,7 +2636,7 @@ translate chinese farmvisit1_5832e485:
 translate chinese farmvisit1_6e5d241c_1:
 
     # mc "Are those moments of weakness normal for heat?"
-    mc "Are those moments of weakness normal for heat?"
+    mc "那些软弱的表现对发情来说正常吗？"
 
 # game/farm.rpy#L824
 translate chinese farmvisit1_26e669bd:
@@ -5270,25 +5270,25 @@ translate chinese honeyannathreesome_ce617998:
 translate chinese honeyannathreesome_7b71e55c:
 
     # "Thankfully my erection disappeared after about twenty minutes. Then the three of us enjoyed some conversation and lunch before Anna returned to her farm."
-    "Thankfully my erection disappeared after about twenty minutes. Then the three of us enjoyed some conversation and lunch before Anna returned to her farm."
+    "谢天谢地，大约20分钟后我的勃起便消失了。在Anna回到她的农场之前，我们三个人聊了会儿，并吃了午饭。"
 
 # game/farm.rpy#L1637
 translate chinese honeyannathreesome_5a68a730:
 
     # "Anna’s bubbly and fun-loving personality really grew on me during the short time I got to know her, I hope I get to see her again."
-    "Anna’s bubbly and fun-loving personality really grew on me during the short time I got to know her, I hope I get to see her again."
+    "Anna开朗风趣的性格在我认识她的短短时间里就深深吸引了我，我希望能再见到她。"
 
 # game/farm.rpy#L1639
 translate chinese honeyannathreesome_432b7374:
 
     # "Honey on the other hand, is still here sat opposite to me, she’s positively glowing, she’s been unable to stop smiling ever since we left the barn."
-    "Honey on the other hand, is still here sat opposite to me, she’s positively glowing, she’s been unable to stop smiling ever since we left the barn."
+    "另一方面，Honey还坐在我对面，她容光焕发，自从我们离开谷仓后她就一直在笑。"
 
 # game/farm.rpy#L1642
 translate chinese honeyannathreesome_b4664a26:
 
     # honeycrisp "Ahh… What a wearisome morning, you not only managed to rut all the pent-up horniness out of me, but also some frustrations I’ve been having lately."
-    honeycrisp "Ahh… What a wearisome morning, you not only managed to rut all the pent-up horniness out of me, but also some frustrations I’ve been having lately."
+    honeycrisp "啊哈... 多么令人厌倦的早晨啊，你不仅让我压抑已久的性欲发泄出来了，还让我最近经历了一些挫折。"
 
 # game/farm.rpy#L1643
 translate chinese honeyannathreesome_a1a7f568:

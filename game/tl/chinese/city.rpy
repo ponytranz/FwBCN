@@ -2234,7 +2234,7 @@ translate chinese melodylaptop_41b62b3a:
 translate chinese melodylaptop_9d3f824c:
 
     # melody "This is a reward, ehehe! This marvellous pussy is all yours to enjoy."
-    melody "这是奖励，哈哈!这个神奇的浦西归你了"
+    melody "这是奖励，哈哈!这个神奇的小穴归你了。"
 
 # game/city.rpy#L1113
 translate chinese melodylaptop_a38b279b:
@@ -3758,7 +3758,7 @@ translate chinese agathasoniathreesome2_649bfe01:
 translate chinese agathasoniathreesome2_3a83ec51:
 
     # "Finally like a pressurized tank being released, my cock ejaculates many thick loads of hot cum into the pink mare."
-    "最后，我的cock像一个被释放的高压水枪一样，向这匹粉红骚马喷射出大量炽热的精液。"
+    "最后，我的肉棒像一个被释放的高压水枪一样，向这匹粉红骚马喷射出大量炽热的精液。"
 
 # game/city.rpy#L1654
 translate chinese agathasoniathreesome2_beb5b460:

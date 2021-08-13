@@ -722,7 +722,7 @@ translate chinese zoe1_88396dc7:
 translate chinese zoe1_dc08b5c3:
 
     # "Her drippy pussy is clearly wet and ready, so I skip teasing and begin the session by aligning the tip of my cock against her pussy and pushing inside."
-    "她的小穴已经湿润了，她已经做好了准备。所以我跳过了前戏，直接将我的cock抵在她的小穴上，然后插了进去。"
+    "她的小穴已经湿润了，她已经做好了准备。所以我跳过了前戏，直接将我的肉棒抵在她的小穴上，然后插了进去。"
 
 # game/deepforest.rpy#L223
 translate chinese zoe1_57dac435:
@@ -800,7 +800,7 @@ translate chinese zoe1_d09fa5d8:
 translate chinese zoe1_61ec8c15:
 
     # "After her first orgasm, almost impatiently, I feel her own hips begin to rise and fall on my cock. Matching my own pace with some immediacy, and then outmatching it as she speeds up."
-    "第一次高潮过后，我感觉到她又迫不及待地骑到了我的cock上扭动起来。刚开始的时候，我还能跟上她的速度，可当她加快速度后，我就没法再跟上她的速度了。"
+    "第一次高潮过后，我感觉到她又迫不及待地骑到了我的肉棒上扭动起来。刚开始的时候，我还能跟上她的速度，可当她加快速度后，我就没法再跟上她的速度了。"
 
 # game/deepforest.rpy#L238
 translate chinese zoe1_4b890717:
@@ -824,7 +824,7 @@ translate chinese zoe1_5bb01b6d:
 translate chinese zoe1_0b9380dc:
 
     # "My cock begins to twitch and get tighter as my impending orgasm draws closer and closer."
-    "由于我马上就要高潮了，所以我的cock开始紧绷起来。"
+    "我马上就要高潮了，我的肉棒也开始紧绷起来。"
 
 # game/deepforest.rpy#L242
 translate chinese zoe1_4befed0c:
@@ -1952,7 +1952,7 @@ translate chinese zoedog_be84a796:
 translate chinese zoedog_f319b762:
 
     # zo "Considering your equally appreciable cock, you can take my ass anytime."
-    zo "你的cock也又粗又大，所以我的屁股可以随时和你分享。"
+    zo "你的肉棒也又粗又大，所以我的屁股可以随时和你分享。"
 
 # game/deepforest.rpy#L653
 translate chinese zoedog_3bae563f:
@@ -1976,7 +1976,7 @@ translate chinese zoedog_88396dc7:
 translate chinese zoedog_0cb78772:
 
     # "Her drippy pussy is clearly wet and ready, so I skip teasing and begin the session by pressing aligning the tip of my cock against her pussy and pushing inside."
-    "她的小穴已经湿润了，她已经做好了准备。所以我跳过了前戏，直接将我的cock抵在她的小穴上，然后插了进去。"
+    "她的小穴已经湿润了，她已经做好了准备。所以我跳过了前戏，直接将我的肉棒抵在她的小穴上，然后插了进去。"
 
 # game/deepforest.rpy#L659
 translate chinese zoedog_57dac435:
@@ -2054,7 +2054,7 @@ translate chinese zoedog_d09fa5d8:
 translate chinese zoedog_acbba6c3:
 
     # "After her first orgasm, almost impatiently, I feel her hips begin to rock back and forth on my cock. Matching my own pace with some immediacy, and then outmatching it as she speeds up."
-    "第一次高潮过后，我感觉到她又迫不及待地骑到了我的cock上扭动起来。刚开始的时候，我还能跟上她的速度，可当她加快速度后，我就没法再跟上她的速度了。"
+    "第一次高潮过后，我感觉到她又迫不及待地骑到了我的肉棒上扭动起来。刚开始的时候，我还能跟上她的速度，可当她加快速度后，我就没法再跟上她的速度了。"
 
 # game/deepforest.rpy#L674
 translate chinese zoedog_4b890717:
@@ -2078,7 +2078,7 @@ translate chinese zoedog_5bb01b6d:
 translate chinese zoedog_0b9380dc:
 
     # "My cock begins to twitch and get tighter as my impending orgasm draws closer and closer."
-    "我马上就要高潮了，我的cock也开始紧绷起来。"
+    "我马上就要高潮了，我的肉棒也开始紧绷起来。"
 
 # game/deepforest.rpy#L678
 translate chinese zoedog_743c3d97:

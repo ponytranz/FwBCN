@@ -56,7 +56,7 @@ translate chinese auroramenu_a4e6078f:
 translate chinese auroramenu_9ea9a78c:
 
     # "She gazes at me with lecherous bedroom eyes, I feel my cock throb merely at the sexual power behind the look."
-    "她用惺忪的睡眼淫荡地盯着我，光是料想她的性能力，便让我的cock无法控制的勃起了。"
+    "她用惺忪的睡眼淫荡地盯着我，光是料想她的性能力，便让我的肉棒无法控制的勃起了。"
 
 # game/castle.rpy#L49
 translate chinese auroramenu_19b4bdb6:
@@ -68,13 +68,13 @@ translate chinese auroramenu_19b4bdb6:
 translate chinese auroramenu_0ba38b0b:
 
     # "Biting her lip, she uses some magic to spread her lips open invitingly. I take my rock-hard erection and press it against her labia, the spread of the magic allowing me to immediately sink inside."
-    "她咬着嘴唇，用魔法把她的诱人阴唇张开。我拿起我勃起的坚实cock，压在她的阴唇上，魔法释放，它被立即勾入其中。"
+    "她咬着嘴唇，用魔法把她的诱人阴唇张开。我拿起我勃起的坚实肉棒，压在她的阴唇上，魔法释放，它被立即勾入其中。"
 
 # game/castle.rpy#L53
 translate chinese auroramenu_495608e1:
 
     # "Sliding deeply in the Queen up to the hilt, her pussy squeezes and sucks around each inch of my shaft with a unique, warm pleasure that radiates throughout my loin."
-    "深滑入女王阴道的末端，阴道壁贪婪地挤压并吮吸我的每一寸cock,辐射出独特温暖的快乐。"
+    "深滑入女王阴道的末端，阴道壁贪婪地挤压并吮吸我的每一寸肉棒,辐射出独特温暖的快乐。"
 
 # game/castle.rpy#L54
 translate chinese auroramenu_0ba70f7f:
@@ -92,13 +92,13 @@ translate chinese auroramenu_417d7402:
 translate chinese auroramenu_2842c274:
 
     # "*Prod*, *Thrust*… My hips start to rock back and forth, my cock sliding inside her sopping wet pussy with ease."
-    "“啪啪啪.....”臀部用力晃动，我的cock在她那湿透的阴道里来去自如。"
+    "“啪啪啪.....”臀部用力晃动，我的肉棒在她那湿透的阴道里来去自如。"
 
 # game/castle.rpy#L58
 translate chinese auroramenu_127818e1:
 
     # aurora "Ahhh… Yes…. The way it grinds against every inch of my pussy... Your cock is truly exquisite."
-    aurora "啊…就是这样…我下面的每一寸都被它碾磨得粉碎……你的cock真不错。"
+    aurora "啊…就是这样…我下面的每一寸都被它碾磨得粉碎……你的肉棒真不错。"
 
 # game/castle.rpy#L59
 translate chinese auroramenu_6ed6025d:
@@ -236,7 +236,7 @@ translate chinese auroramenu_8ca1d51c:
 translate chinese auroramenu_4c34dd7e:
 
     # "Her entire body started to shiver as I shot my cum deep within her, her already tight insides clung to my penis over and over, especially due to the way her hips buckled and spasmed as she climaxed."
-    "当我把精液射入她的身体深处时，她的整个身体开始高兴地颤抖，应该是出于她高潮时的臀部痉挛，她已经很紧的肉壁仍在一次又一次地挤压我的cock。"
+    "当我把精液射入她的身体深处时，她的整个身体开始高兴地颤抖，应该是出于她高潮时的臀部痉挛，她已经很紧的肉壁仍在一次又一次地挤压我的肉棒。"
 
 # game/castle.rpy#L109
 translate chinese auroramenu_ef8d2bbb:
@@ -1436,7 +1436,7 @@ translate chinese auroravsex_b6dac4e6:
 translate chinese auroravsex_9ea9a78c:
 
     # "She gazes at me with lecherous bedroom eyes, I feel my cock throb merely at the sexual power behind the look."
-    "她用惺忪的睡眼淫荡地盯着我，光是料想她的性能力，便让我的cock无法控制的勃起了。"
+    "她用惺忪的睡眼淫荡地盯着我，光是料想她的性能力，便让我的肉棒无法控制的勃起了。"
 
 # game/castle.rpy#L442
 translate chinese auroravsex_580a58a1:
@@ -1616,7 +1616,7 @@ translate chinese auroravsex_8ca1d51c:
 translate chinese auroravsex_4c34dd7e:
 
     # "Her entire body started to shiver as I shot my cum deep within her, her already tight insides clung to my penis over and over, especially due to the way her hips buckled and spasmed as she climaxed."
-    "当我把精液射入她的身体深处时，她的整个身体开始高兴地颤抖，应该是出于她高潮时的臀部痉挛，她已经很紧的肉壁仍在一次又一次地挤压我的cock。"
+    "当我把精液射入她的身体深处时，她的整个身体开始高兴地颤抖，应该是出于她高潮时的臀部痉挛，她已经很紧的肉壁仍在一次又一次地挤压我的肉棒。"
 
 # game/castle.rpy#L493
 translate chinese auroravsex_ef8d2bbb:

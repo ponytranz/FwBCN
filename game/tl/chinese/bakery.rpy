@@ -824,7 +824,7 @@ translate chinese creamquickie_ff055c6a:
 translate chinese creamquickie_dca27217:
 
     # "I begin to fuck her. Her pussy continues to tighten around my member, but thanks to how absurdly wet the heated mare is, my cock becomes slick with her juices and easily slides back and forth."
-    "于是，我开始干她。她的小穴紧紧地包裹在我的肉棒周围，不过好在这匹小马的小穴已经变得异常湿润，所以我的cock可以轻松地在其中前后抽插着。"
+    "于是，我开始干她。她的小穴紧紧地包裹在我的肉棒周围，不过好在这匹小马的小穴已经变得异常湿润，所以我的肉棒可以轻松地在其中前后抽插着。"
 
 # game/bakery.rpy#L240
 translate chinese creamquickie_af24c3f3:
@@ -3164,7 +3164,7 @@ translate chinese creamvmissionary_0a462e6e:
 translate chinese creamvmissionary_93ac4268:
 
     # honeycrisp "Mmm, you like it when I squeeze my pussy like that? I can feel your cock throb every time I do it, ehehe..."
-    honeycrisp "你喜欢我像这样摸自己的浦西？我能感觉到你的小兄弟躁动起来了，诶嘿。"
+    honeycrisp "你喜欢我像这样摸自己的小穴？我能感觉到你的小兄弟躁动起来了，诶嘿。"
 
 # game/bakery.rpy#L996
 translate chinese creamvmissionary_6f92827d:
@@ -6086,7 +6086,7 @@ translate chinese creamgangbang_b8ed3173:
 translate chinese creamgangbang_57dd2f51:
 
     # "Eventually I begin to feel myself coming to a climax, my movements getting faster as my cock stiffens and begins to release."
-    "终于，我感觉自己要到高潮了。我的cock越来越硬，抽插的速度也越来越快。最后，我终于射了出来。"
+    "终于，我感觉自己要到高潮了。我的肉棒越来越硬，抽插的速度也越来越快。最后，我终于射了出来。"
 
 # game/bakery.rpy#L1858
 translate chinese creamgangbang_560657a5:
@@ -6146,7 +6146,7 @@ translate chinese creamgangbang_617d2c10:
 translate chinese creamgangbang_1f30f8b6:
 
     # "Not wanting to 'hold back', I spank her too, causing Blueberry to squirm and moan."
-    "我不想再“忍”了，我一巴掌打向她的屁股，这使得Blueberry蜷缩着呻吟"
+    "我不想再“忍”了，我一巴掌打向她的屁股，这使得Blueberry蜷缩着呻吟。"
 
 # game/bakery.rpy#L1871
 translate chinese creamgangbang_bf1c83b9:
@@ -6398,13 +6398,13 @@ translate chinese creamgangbang_8470fb5e:
 translate chinese creamgangbang_a8a93ac6:
 
     # mc "The edge of reality..? It’s just an endless black ocean."
-    mc "现实的边缘...？这开起来就像是一片无边际的黑色海洋呀。"
+    mc "现实的边缘...？这看起来就像是一片无边际的黑色海洋呀。"
 
 # game/bakery.rpy#L1950
 translate chinese creamgangbang_aaa09d79:
 
     # cream "Yeah, when you turn off the game, everyone returns to their own personal void. However, everyone else sleeps during this process."
-    cream "Yeah, when you turn off the game, everyone returns to their own personal void. However, everyone else sleeps during this process."
+    cream "是的，当你关闭游戏的时候，所有马都会回到自己的空间里，但除了我之外，其它马都只会在这个阶段睡觉。"
 
 # game/bakery.rpy#L1951
 translate chinese creamgangbang_fc861c34:
@@ -7634,7 +7634,7 @@ translate chinese bakeryeveningmenu_d4c0a85b:
 translate chinese creamlingeriesex_c443ac92:
 
     # "You found a secret scene! Requirements met: Work with Cream after beating her route. 50%% chance."
-    "You found a secret scene! Requirements met: Work with Cream after beating her route. 50%% chance."
+    "你发现了一个秘密场景！完成条件：在完成Cream的剧情后再来找她。有50%%几率触发。"
 
 # game/bakery.rpy#L2341
 translate chinese creamlingeriesex_08b75616:
@@ -7706,7 +7706,7 @@ translate chinese creamlingeriesex_27506468:
 translate chinese creamlingeriesex_b4a8bbbd:
 
     # cream "I can’t wait around for you to proposition me forever, so I’m going to ask you instead!"
-    cream "I can’t wait around for you to proposition me forever, so I’m going to ask you instead!"
+    cream "我不能总是等着你来找我吧，所以我决定主动出击！"
 
 # game/bakery.rpy#L2365
 translate chinese creamlingeriesex_31e4d4a8:
@@ -7868,13 +7868,13 @@ translate chinese creamlingeriesex_76752f5c:
 translate chinese creamlingeriesex_ba392523:
 
     # "After a few remaining moments of heated passion, we finish and relax. I remain cuddled on top of the cuddly, angelic pony, her arms still wrapped around me."
-    "After a few remaining moments of heated passion, we finish and relax. I remain cuddled on top of the cuddly, angelic pony, her arms still wrapped around me."
+    "在热烈的激情之后剩下的几分钟里，我们放松下来。我搂着那可爱的、天使般的小马，她的胳膊也环抱着我。"
 
 # game/bakery.rpy#L2406
 translate chinese creamlingeriesex_c7d42935:
 
     # cream "Mmm… If only that could put a bun in my oven. Hehe."
-    cream "Mmm… If only that could put a bun in my oven. Hehe."
+    cream "唔...要是这能让我怀孕就好了。呵呵。"
 
 # game/bakery.rpy#L2407
 translate chinese creamlingeriesex_5d094a88:
@@ -7886,7 +7886,7 @@ translate chinese creamlingeriesex_5d094a88:
 translate chinese creamlingeriesex_f404253c:
 
     # mc "I hope you didn’t give me a hickey!"
-    mc "我可不希望你给我装什么奇怪的设备！"
+    mc "希望你没在我脖子上种草莓。"
 
 # game/bakery.rpy#L2409
 translate chinese creamlingeriesex_ef73422b:

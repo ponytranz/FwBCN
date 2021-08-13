@@ -2060,7 +2060,7 @@ translate chinese dawnv2c1d_8ee7504d:
 translate chinese dawnv2c1d_078ca3ac:
 
     # dawn "Oohhh, did your cock just twitch? Looks like it wants to come out to play; it wouldn’t be the only thing…"
-    dawn "哦，你的cock勃起了？看起来它很想出来玩耍呀；想玩的可不只有它一个……"
+    dawn "哦，你的肉棒勃起了？看起来它很想出来玩耍呀；想玩的可不只有它一个……"
 
 # game/dawn.rpy#L638
 translate chinese dawnv2c1d_6815686f:
@@ -2108,7 +2108,7 @@ translate chinese dawnv2bj_20b68a30:
 translate chinese dawnv2bj_d6cf4d9f:
 
     # "I can merely hear an obscene schlicking sound which causes my member to stand to attention in record time."
-    "我刚好能听到那自慰摩擦的细小声音，这让我的cock马上立正稍息。"
+    "我刚好能听到那自慰摩擦的细小声音，这让我的肉棒马上立正稍息。"
 
 # game/dawn.rpy#L655
 translate chinese dawnv2bj_228fdf03:

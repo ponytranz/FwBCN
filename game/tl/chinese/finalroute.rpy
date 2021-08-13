@@ -110,7 +110,7 @@ translate chinese finalroute_3823a6a5:
 translate chinese finalroute_a5bb42e8:
 
     # moxie "Lily, Honeycrisp, Ruby, Riku, Cream and Butters… And now Selene, they’re all taken care of."
-    moxie "Lily，Honeycrisp，Ruby，Riku，Cream和Butters...现在再加上Selene，她们都被照顾好了。"
+    moxie "Lily，Honeycrisp，Ruby，Riku，Cream和Butters...现在再加上Selene，她们都收拾地服服帖帖的了。"
 
 # game/finalroute.rpy#L40
 translate chinese finalroute_47c8c6ac:
@@ -3440,7 +3440,7 @@ translate chinese cbakery_fc73cdd3:
 translate chinese cbakery_1ab96695:
 
     # cream "Gotta bake, gotta cake, all for our new Queenie!"
-    cream "Gotta bake, gotta cake, all for our new Queenie!"
+    cream "必须烘烤，必须蛋糕，这一切都是为了我们的新女王！"
 
 # game/finalroute.rpy#L1316
 translate chinese cbakery_94e57b8a:
@@ -5492,7 +5492,7 @@ translate chinese finale_43d1492c:
 translate chinese finale_5f093236:
 
     # "Lash, beam, arrow, slash, all deflected by Moxie’s shield."
-    "鞭打，光束攻击，魔法箭，劈砍，都被Moxie的魔法盾偏移了。"
+    "鞭打，光束攻击，魔法箭，劈砍，都被Moxie的魔法盾抵挡住了。"
 
 # game/finalroute.rpy#L2330
 translate chinese finale_9c4ee4f3:
@@ -5618,73 +5618,73 @@ translate chinese finale_17f62e14:
 translate chinese finale_f11c7b21:
 
     # "Fortunately, this put a barrier between the warring mares and the bystanders watching in awe."
-    "Fortunately, this put a barrier between the warring mares and the bystanders watching in awe."
+    "不过还好，在交战双方和旁观者之间设置了一道屏障。"
 
 # game/finalroute.rpy#L2533
 translate chinese finale_016bddb9:
 
     # riku "N-No way!? I can’t keep track of their movements at all anymore!"
-    riku "N-No way!? I can’t keep track of their movements at all anymore!"
+    riku "这-这怎么可能呢! ?我没法跟踪她们的行踪了!"
 
 # game/finalroute.rpy#L2537
 translate chinese finale_6e5aabce:
 
     # cream "Holy shit!!"
-    cream "Holy shit!!"
+    cream "艹！！"
 
 # game/finalroute.rpy#L2545
 translate chinese finale_da5fb946:
 
     # aurora "Selene, the last of our power, let’s make a protective barrier!"
-    aurora "Selene, the last of our power, let’s make a protective barrier!"
+    aurora "Selene，用我们最后的力量，来建个保护罩吧!"
 
 # game/finalroute.rpy#L2549
 translate chinese finale_672ed434:
 
     # selene "Right! Stay back girls, things are about to heat up!"
-    selene "Right! Stay back girls, things are about to heat up!"
+    selene "没问题！退后，姑娘们，好戏就要开场了！"
 
 # game/finalroute.rpy#L2553
 translate chinese finale_5e0e52dc:
 
     # morrigan "*Giggle* How do you like this? The power of a goddess!"
-    morrigan "*Giggle* How do you like this? The power of a goddess!"
+    morrigan "*咯咯*尝尝这个怎么样?这可是来自女神的伟力呀!"
 
 # game/finalroute.rpy#L2562
 translate chinese finale_f178398f:
 
     # moxie "You think you’ll win?"
-    moxie "You think you’ll win?"
+    moxie "你真觉得你能赢？"
 
 # game/finalroute.rpy#L2565
 translate chinese finale_4727bf17:
 
     # morrigan "*Cackle* Yes, absolutely! I’m prepared to wreck this whole city to win! Watch meeee! Ihihihih!"
-    morrigan "*Cackle* Yes, absolutely! I’m prepared to wreck this whole city to win! Watch meeee! Ihihihih!"
+    morrigan "*咯咯咯*是的,那是当然！我决定血洗整个城市来为我加冕！给我看好了！哈哈哈哈！"
 
 # game/finalroute.rpy#L2577
 translate chinese finale_69f22076:
 
     # "With a crunch of powerful magic that warps the very air, two giant towers of Arcadia are torn from their foundation and lifted into the air."
-    "With a crunch of powerful magic that warps the very air, two giant towers of Arcadia are torn from their foundation and lifted into the air."
+    "随着一种足以扭曲空气的强大魔法发出的嘎吱声，Arcadia的两座巨塔从地基上被撕裂，升向空中。"
 
 # game/finalroute.rpy#L2578
 translate chinese finale_d1e8a034:
 
     # "The very earth tremored and shifted as the castle was split."
-    "The very earth tremored and shifted as the castle was split."
+    "城堡裂成两半了，连大地都在震颤和移动。"
 
 # game/finalroute.rpy#L2581
 translate chinese finale_49b7dd2a:
 
     # "Debris almost swallowed up Penelope who had been watching from the side-lines. Morrigan had in-fact noticed she was there and ignored her regardless of the danger she might have been put in."
-    "Debris almost swallowed up Penelope who had been watching from the side-lines. Morrigan had in-fact noticed she was there and ignored her regardless of the danger she might have been put in."
+    "掉落的残骸碎片几乎吞没了一直在一旁观望的Penelope。Morrigan其实早就注意到了她的存在，并对她可能会陷入的危险视而不见。"
 
 # game/finalroute.rpy#L2582
 translate chinese finale_7a30f622:
 
     # penelope "W-What the? Morrigan, what are you doing? Ahhh!"
-    penelope "W-What the? Morrigan, what are you doing? Ahhh!"
+    penelope "什么鬼呀?Morrigan，你在干什么呀?啊—!"
 
 # game/finalroute.rpy#L2586
 translate chinese finale_bc953624:
@@ -5702,19 +5702,19 @@ translate chinese finale_973189d2:
 translate chinese finale_70a68d7d:
 
     # morrigan "Ihihihihahayaaaa, I don’t think you can deflect this!"
-    morrigan "Ihihihihahayaaaa, I don’t think you can deflect this!"
+    morrigan "噫嘿嘿哈哈哈~，胜负已分，成王败寇！"
 
 # game/finalroute.rpy#L2590
 translate chinese finale_d23a38c6:
 
     # morrigan "Even if you do, the pure density of the rubble and bricks will shower the whole city in destruction! *Cackle*"
-    morrigan "Even if you do, the pure density of the rubble and bricks will shower the whole city in destruction! *Cackle*"
+    morrigan "即使你挡得下来，这座城市也会跟着化为乌有！*咯咯*"
 
 # game/finalroute.rpy#L2593
 translate chinese finale_08e797c6:
 
     # moxie "Are you done running your mouth?"
-    moxie "Are you done running your mouth?"
+    moxie "你哔哔完了吗?"
 
 # game/finalroute.rpy#L2600
 translate chinese finale_4ebf224e:

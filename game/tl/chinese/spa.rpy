@@ -194,7 +194,7 @@ translate chinese spa1_5ef20d88:
 translate chinese spa1_793f2db2:
 
     # "They had applied massage oil to my cock thoroughly before mounting me, so their movements are slick and smooth against my glistening cock."
-    "在骑到我身上前，她们已经将按摩油涂满了我cock的每一个角落。因此，对于我那亮闪闪的cock来说，她们所做的每一个动作都是那么的柔滑。"
+    "在骑到我身上前，她们已经将按摩油涂满了我肉棒的每一个角落。因此，对于我那亮闪闪的肉棒来说，她们所做的每一个动作都是那么的柔滑。"
 
 # game/spa.rpy#L82
 translate chinese spa1_92d78b39:
@@ -218,7 +218,7 @@ translate chinese spa1_f554f56c:
 translate chinese spa1_0d4a8aaa:
 
     # "There's a surprisingly snug tightness between the indents of their labia and thighs, the sensation around my cock is like an extremely erotic and wet boob job."
-    "这两匹小母马阴唇和大腿之间的凹陷处又紧致又舒适。这让我的cock产生了一种极其色情，同时又很像乳交的感觉。"
+    "这两匹小母马阴唇和大腿之间的凹陷处又紧致又舒适。这让我的肉棒产生了一种极其色情，同时又很像乳交的感觉。"
 
 # game/spa.rpy#L86
 translate chinese spa1_c6e90b73:
@@ -230,7 +230,7 @@ translate chinese spa1_c6e90b73:
 translate chinese spa1_e4d7f205:
 
     # "The mares buck their hips faster, pressing against my cock with more pressure as they exert themselves."
-    "两匹小母马的腰部突然加快了扭动。她们给我cock施加的压力与她们自己啪啪啪时的所用的力度基本相同。"
+    "两匹小母马的腰部突然加快了扭动。她们给我肉棒施加的压力与她们自己啪啪啪时的所用的力度基本相同。"
 
 # game/spa.rpy#L88
 translate chinese spa1_77b9d9eb:
@@ -254,7 +254,7 @@ translate chinese spa1_722c8c7d:
 translate chinese spa1_b8f14057:
 
     # "Both mares have already lost themselves to the pure pleasure and lust of my hard cock."
-    "两匹小母马已经完全沉浸在了对我那硬挺的cock的渴望和纯粹的快感之中，无法自拔。"
+    "两匹小母马已经完全沉浸在了对我那硬挺的肉棒的渴望和纯粹的快感之中，无法自拔。"
 
 # game/spa.rpy#L92
 translate chinese spa1_968ffca0:
@@ -428,7 +428,7 @@ translate chinese spa2_b8388caf:
 translate chinese spa2_04d99ba2:
 
     # "As my cock stiffens and throbs, the girls get bolder. I moan encouragingly as one of the mares takes my cock into her mouth and begins to suck on the head."
-    "随着我的cock变得越发坚挺，抖动越发剧烈，两匹小母马的胆子也开始大了起来。当其中一匹小母马将我的cock放进自己嘴里并开始吸吮龟头时，我就会发出呻吟声来呼应她。"
+    "随着我的肉棒变得越发坚挺，抖动越发剧烈，两匹小母马的胆子也开始大了起来。当其中一匹小母马将我的肉棒放进自己嘴里并开始吸吮龟头时，我就会发出呻吟声来呼应她。"
 
 # game/spa.rpy#L148
 translate chinese spa2_929a122a:
@@ -440,13 +440,13 @@ translate chinese spa2_929a122a:
 translate chinese spa2_2fa1e865:
 
     # "The experience of having two mares servicing my cock is difficult to describe, it's almost like receiving two blowjobs at once."
-    "让两匹小母马来摆弄我的cock，这种体验真的是难以形容，这感觉就像是同时进行两次口交一样。"
+    "让两匹小母马来摆弄我的肉棒，这种体验真的是难以形容，这感觉就像是同时进行两次口交一样。"
 
 # game/spa.rpy#L150
 translate chinese spa2_47dab187:
 
     # "The grey mare clearly has the deep throating experience as she takes my cock inside her mouth, I can feel the tip bumping against the back of her throat."
-    "显然，灰色小母马肯定有深喉的经验。当她将我的cock放到嘴里时，我可以感受到龟头已经顶到了她喉咙的深处。"
+    "显然，灰色小母马肯定有深喉的经验。当她将我的肉棒放到嘴里时，我可以感受到龟头已经顶到了她喉咙的深处。"
 
 # game/spa.rpy#L151
 translate chinese spa2_2f21ae17:
@@ -476,7 +476,7 @@ translate chinese spa2_b1590716:
 translate chinese spa2_5732d956:
 
     # "She gulps every drop down valiantly, and as I finally finish she releases my cock with a wet pop."
-    "她将我每一滴精液都吞了下去。在我射完之后，她才将我那湿漉漉的cock放开。"
+    "她将我每一滴精液都吞了下去。在我射完之后，她才将我那湿漉漉的肉棒放开。"
 
 # game/spa.rpy#L166
 translate chinese spa2_5337f676:
@@ -488,7 +488,7 @@ translate chinese spa2_5337f676:
 translate chinese spa2_a59745b5:
 
     # greymare "Mmm, what a delicious cock."
-    greymare "嗯……你的cock真是太美味了。"
+    greymare "嗯……你的肉棒真是太美味了。"
 
 # game/spa.rpy#L168
 translate chinese spa2_c0802735:
@@ -704,13 +704,13 @@ translate chinese spa3_55c69875:
 translate chinese spa3_3ecc6ce9:
 
     # "The softness of their bodies is extremely enticing. My tongue readily swipes at the grey mare’s clit, while my cock throbs in anticipation of penetration."
-    "两匹小母马的身体又柔软又迷人。在我的cock即将插入白色小母马的阴道时，我的舌头也已经触碰到了灰色小母马的阴蒂。"
+    "两匹小母马的身体又柔软又迷人。在我的肉棒即将插入白色小母马的阴道时，我的舌头也已经触碰到了灰色小母马的阴蒂。"
 
 # game/spa.rpy#L224
 translate chinese spa3_0ce82ab9:
 
     # "A soft hand grasps my member and guides me down until she’s poised to sink right in."
-    "她用一只温柔的手握着我的cock。在准备好啪啪啪前，她引导着我让我躺下。"
+    "她用一只温柔的手握着我的肉棒。在准备好啪啪啪前，她引导着我让我躺下。"
 
 # game/spa.rpy#L225
 translate chinese spa3_07d0bd9c:
@@ -734,7 +734,7 @@ translate chinese spa3_5f4e9008:
 translate chinese spa3_179f7b7d:
 
     # "My cock is so fucking hard right now, I can feel every millimetre of her lips parted around my cock, squeezing and throbbing."
-    "我的cock现在已经硬得不行了。通过cock，我可以感受到她阴唇每一寸肌肤的挤压和颤动。"
+    "我的肉棒现在已经硬得不行了。通过肉棒，我可以感受到她阴唇每一寸肌肤的挤压和颤动。"
 
 # game/spa.rpy#L229
 translate chinese spa3_c5588ce4:
@@ -782,7 +782,7 @@ translate chinese spa3_3c98caf0:
 translate chinese spa3_e4756e77:
 
     # greymare "Oh shush, you. I'm already jealous that you're riding that delicious, fat cock."
-    greymare "哦，嘘，你呀。你能骑在那么美味的大cock上就已经很让我吃醋了。"
+    greymare "哦，嘘，你呀。你能骑在那么美味的大肉棒上就已经很让我吃醋了。"
 
 # game/spa.rpy#L238
 translate chinese spa3_e3c18a28:
@@ -812,7 +812,7 @@ translate chinese spa3_0c0d49ea:
 translate chinese spa3_85ecbdae:
 
     # "The riding mare moans with pleasure as she pounds her ass against me, frantic for more of my cock."
-    "当骑在我身上的小母马用她的屁股用力撞击着我的腰身，迫切地渴望着我的cock时，她发出了愉悦的呻吟声。"
+    "当骑在我身上的小母马用她的屁股用力撞击着我的腰身，迫切地渴望着我的肉棒时，她发出了愉悦的呻吟声。"
 
 # game/spa.rpy#L243
 translate chinese spa3_6d39bed6:

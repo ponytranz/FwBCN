@@ -2456,7 +2456,7 @@ translate chinese cindyrcg_2c7cbbb9:
 translate chinese cindyrcg_baf4cd23:
 
     # ci "Ooohh, oooo… Okay, I’m ready for that thick cock."
-    ci "啊.....唔......嗯，我想我准备好迎接你的cock了。"
+    ci "啊.....唔......嗯，我想我准备好迎接你的肉棒了。"
 
 # game/3map.rpy#L903
 translate chinese cindyrcg_5282ea96:
@@ -2474,25 +2474,25 @@ translate chinese cindyrcg_fb93cf34:
 translate chinese cindyrcg_9b93b327:
 
     # "She shifts her body into a position where her lustful labia drips warm fluid over my hardening member."
-    "她扭捏着身体，因欲望越发膨胀的阴唇将温热体液滴在我兴奋的cock上。"
+    "她扭捏着身体，因欲望越发膨胀的阴唇将温热体液滴在我兴奋的肉棒上。"
 
 # game/3map.rpy#L906
 translate chinese cindyrcg_343912c9:
 
     # "Each drip isn’t just warm, but arguably hot, and as the soft scaly labia presses against my slick shaft the true nature of the warmth is realised."
-    "或许相比“温热”，用“炽热”这个词更准确些，当柔软的鳞状阴唇压在我光滑的cock上时，我体验到了从未有过的温暖。"
+    "或许相比“温热”，用“炽热”这个词更准确些，当柔软的鳞状阴唇压在我光滑的肉棒上时，我体验到了从未有过的温暖。"
 
 # game/3map.rpy#L908
 translate chinese cindyrcg_87f7a1f9:
 
     # "The core temperature of a dragon must be leagues above a typical human, as simply having my cock resting against her wet lips is equivalent to a hot bath, at a temperature I can just barely handle."
-    "龙的体温比一般的物种高了好几度，当我把cock靠在她潮湿的阴唇上时，感觉像洗了个滚烫的热水澡，差点让我无法承受。"
+    "龙的体温比一般的物种高了好几度，当我把肉棒靠在她潮湿的阴唇上时，感觉像洗了个滚烫的热水澡，差点让我无法承受。"
 
 # game/3map.rpy#L910
 translate chinese cindyrcg_fd3e5379:
 
     # "The core temperature of the dragoness is leagues beyond a typical human, and simply having my cock resting against her wet lips feels like a hot bath."
-    "龙的体温比一般的物种高了好几度，当我把cock靠在她潮湿的阴唇上时，感觉像洗了个滚烫的热水澡"
+    "龙的体温比一般的物种高了好几度，当我把肉棒靠在她潮湿的阴唇上时，感觉像洗了个滚烫的热水澡"
 
 # game/3map.rpy#L911
 translate chinese cindyrcg_241b0582:
@@ -2528,7 +2528,7 @@ translate chinese cindyrcg_b0a3b1e2:
 translate chinese cindyrcg_0d8df20a:
 
     # "And this wet softness is pushed against my cock as she teasingly grinds back and forth."
-    "湿漉漉的柔软阴蒂在我的cock上挑逗地来回碾磨。"
+    "湿漉漉的柔软阴蒂在我的肉棒上挑逗地来回碾磨。"
 
 # game/3map.rpy#L923
 translate chinese cindyrcg_c66ba3ce:
@@ -2552,7 +2552,7 @@ translate chinese cindyrcg_69afb253:
 translate chinese cindyrcg_78c8f076:
 
     # "With all my thoughts as to how hot she feels, I hadn’t considered that I’d feel cold to her. It seems like we’ll both be able to enjoy these unusual hot/cold sensations together."
-    "我满脑子想的都是她有多热多热，却没有想到我的cock竟还会让她感到冷。看来我们可以一起享受这场热与冷交织缠绵的做爱了。"
+    "我满脑子想的都是她有多热多热，却没有想到我的肉棒竟还会让她感到冷。看来我们可以一起享受这场热与冷交织缠绵的做爱了。"
 
 # game/3map.rpy#L929
 translate chinese cindyrcg_dd0ddb7a:
@@ -2564,19 +2564,19 @@ translate chinese cindyrcg_dd0ddb7a:
 translate chinese cindyrcg_e4c2832a:
 
     # "Splaying her wings out as a theatrical counterbalance, she begins to shift her pussy up and down my member. All the way from the tip, to the hilt. With precision, she fucks herself on every inch of my cock."
-    "她伸出龙翅保持平衡，在我的身体上上下下。精确地说，从龟头一直到根部，她简直操了我cock的每一寸。"
+    "她伸出龙翅保持平衡，在我的身体上上下下。精确地说，从龟头一直到根部，她简直操了我肉棒的每一寸。"
 
 # game/3map.rpy#L932
 translate chinese cindyrcg_639d4106:
 
     # "Despite how well she took my cock, her tightness is immense. Her lips just keep squeezing and constricting, and it takes me a while to realize that’s the pull of her abdomen every time she wags her tail back and forth."
-    "不管她把我的cock包裹得有多好，她的阴道实在是太紧了。我花了一段时间才意识到，她每次来回摆动尾巴时，她的腹部都会拉拽她的阴唇，进行相应的挤压和收缩。"
+    "不管她把我的肉棒包裹得有多好，她的阴道实在是太紧了。我花了一段时间才意识到，她每次来回摆动尾巴时，她的腹部都会拉拽她的阴唇，进行相应的挤压和收缩。"
 
 # game/3map.rpy#L934
 translate chinese cindyrcg_fa3e3a8e:
 
     # "Additionally, her vaginal lubricants are so atypical from what I’ve seen before. As if to handle the intense heat of her pussy, the juices are thick, gooey and hot. Sliding down my cock like a viscous honey, but providing a great amount of give rather than stick."
-    "另外，她的淫液和我以前见过的都不一样。也许是为了帮她炽热的阴道降温，她的淫液是浓稠的，滚烫的。像黏黏的蜂蜜一样裹着我的cock，但却让我的cock更加顺滑。"
+    "另外，她的淫液和我以前见过的都不一样。也许是为了帮她炽热的阴道降温，她的淫液是浓稠的，滚烫的。像黏黏的蜂蜜一样裹着我的肉棒，但却让我的肉棒更加顺滑。"
 
 # game/3map.rpy#L935
 translate chinese cindyrcg_4a1ff6fa:
@@ -2588,7 +2588,7 @@ translate chinese cindyrcg_4a1ff6fa:
 translate chinese cindyrcg_ac54a140:
 
     # "Her thick, gooey and hot juices slide down my cock like a viscous honey, providing a great amount of give as she rides me faster and faster."
-    "浓浓、黏黏的、烫烫的淫液像蜂蜜一样从我的cock上滚下来，随着她起伏得越来越快，我的感觉也越来越强烈。"
+    "浓浓、黏黏的、烫烫的淫液像蜂蜜一样从我的肉棒上滚下来，随着她起伏得越来越快，我的感觉也越来越强烈。"
 
 # game/3map.rpy#L938
 translate chinese cindyrcg_25f41cdc:
@@ -2666,13 +2666,13 @@ translate chinese cindyrcg_5c8a04e6:
 translate chinese cindyrcg_a4b3096c:
 
     # "Her pussy squelches with each rock of her hips, mixing with the sound of her supple abdomen slapping against my skin."
-    "她阴道磨蹭的仿佛不是cock，而是紧贴臀部的巨岩。她柔软的腹部也顺着拍打着我的肌肤。"
+    "她阴道磨蹭的仿佛不是肉棒，而是紧贴臀部的巨岩。她柔软的腹部也顺着拍打着我的肌肤。"
 
 # game/3map.rpy#L955
 translate chinese cindyrcg_6c49d2bb:
 
     # "My cock feels harder than ever as she repeatedly pounds against my pelvis, throbbing more and more, I can feel the weight of an orgasm rise in my loins."
-    "我的cock感觉比以往任何时候都更硬，她反复碾压着，上上下下，越来越快，我可以感觉到性高潮正顺着我的腰部上升。"
+    "我的肉棒感觉比以往任何时候都更硬，她反复碾压着，上上下下，越来越快，我可以感觉到性高潮正顺着我的腰部上升。"
 
 # game/3map.rpy#L956
 translate chinese cindyrcg_87e74bfe:
@@ -2702,7 +2702,7 @@ translate chinese cindyrcg_989346e3:
 translate chinese cindyrcg_9c89808f:
 
     # "As the built tension of my orgasmic bliss fades, my release is combined with an instant coolness of air, as my cock is released from the vice-like grip of the dragoness’s warm insides."
-    "当我的cock从那难以抗拒的温暖阴道里挣脱出来时，凉爽的空气给我的cock来了个彻底的放松。"
+    "当我的肉棒从那难以抗拒的温暖阴道里挣脱出来时，凉爽的空气给我的肉棒来了个彻底的放松。"
 
 # game/3map.rpy#L975
 translate chinese cindyrcg_131cd2cb:
@@ -3176,7 +3176,7 @@ translate chinese cindylum_790db07d:
 translate chinese cindylum_429522eb:
 
     # "Straddling her thick tail, I position myself and my cock just before the upside-down heart of her butt."
-    "我拖着她的粗尾巴，把cock和自己挪到她臀部的正上方。"
+    "我拖着她的粗尾巴，把肉棒和自己挪到她臀部的正上方。"
 
 # game/3map.rpy#L1128
 translate chinese cindylum_f49c084f:
@@ -3218,25 +3218,25 @@ translate chinese cindylum_d2c03cf1:
 translate chinese cindylum_fce806a0:
 
     # "I recoil initially, but bravely push onwards and force myself to adapt to the heat. Guiding my cock forwards, I sink into the heat of her warm pussy, grasping her ass at the area her scales turn into soft flesh as I do."
-    "一开始我有些畏畏缩缩，但我强忍着，抓紧她的屁股，把cock向里猛推，强迫自己去适应阴道的高温。出乎预料，我立刻沦陷在她温暖的热淫水里，她的鳞片也似乎变成了柔软的肉，和我相融。"
+    "一开始我有些畏畏缩缩，但我强忍着，抓紧她的屁股，把肉棒向里猛推，强迫自己去适应阴道的高温。出乎预料，我立刻沦陷在她温暖的热淫水里，她的鳞片也似乎变成了柔软的肉，和我相融。"
 
 # game/3map.rpy#L1139
 translate chinese cindylum_77b8b2db:
 
     # "Her pussy is even warmer inside, as it squeezes and envelopes my entire being. Plunging inwards to the hilt, I let out a satisfied sigh as if entering a bath of perfect temperature for the first time; this feeling really is something else."
-    "她的宫颈甚至更温暖，挤压包裹我的整个cock。我向内顶到头，满意地长吁一口气，感觉躺进了一个温度完美的浴缸，这种感觉真特别！"
+    "她的宫颈甚至更温暖，挤压包裹我的整个肉棒。我向内顶到头，满意地长吁一口气，感觉躺进了一个温度完美的浴缸，这种感觉真特别！"
 
 # game/3map.rpy#L1140
 translate chinese cindylum_07b74f2e:
 
     # "And Cindy feels the exact opposite, a satisfying cooling sensation emanating from her hot cunt, her muscles already contracting around my cock in response to the pleasure."
-    "Cindy的感觉恰恰相反，惬意的冰凉从她火辣的下体散发，她阴道的肌肉贴着我的cock不断收缩，发生着性爱的化学反应。"
+    "Cindy的感觉恰恰相反，惬意的冰凉从她火辣的下体散发，她阴道的肌肉贴着我的肉棒不断收缩，发生着性爱的化学反应。"
 
 # game/3map.rpy#L1142
 translate chinese cindylum_737ac02c:
 
     # ci "Oooohhh … I may need to start paying you at this rate… It’s sooo nice…"
-    ci "啊........我恨不得花钱把你的cock买下来........太舒服了......."
+    ci "啊........我恨不得花钱把你的肉棒买下来........太舒服了......."
 
 # game/3map.rpy#L1143
 translate chinese cindylum_dd087779:
@@ -3302,7 +3302,7 @@ translate chinese cindylum_14ebe3b4:
 translate chinese cindylum_9e244466:
 
     # "As she gets increasingly aroused and stimulated over the course of our copulation, her copious, hot, gooey fluids increasingly coat my cock, allowing me to fuck comfortably at any pace I’d like."
-    "在我们做爱的过程中，她变得越来越兴奋，大量又热又粘的液体越来越多地覆盖在我的cock上，让我得以随心所欲。"
+    "在我们做爱的过程中，她变得越来越兴奋，大量又热又粘的液体越来越多地覆盖在我的肉棒上，让我得以随心所欲。"
 
 # game/3map.rpy#L1157
 translate chinese cindylum_927a251e:
@@ -3332,7 +3332,7 @@ translate chinese cindylum_2983bc2e:
 translate chinese cindylum_7408ae2e:
 
     # "More and more, this pleasure boils up as I fuck the dragon’s hot pussy. My body grows tense, and my cock throbs as my climax gets ever closer."
-    "来自火辣阴道的感觉越来越剧烈，很快这种快感如开水沸腾起来了。我身体僵硬起来，高潮逼近，我的cock开始悸动。"
+    "来自火辣阴道的感觉越来越剧烈，很快这种快感如开水沸腾起来了。我身体僵硬起来，高潮逼近，我的肉棒开始悸动。"
 
 # game/3map.rpy#L1162
 translate chinese cindylum_3bcb332f:
@@ -3380,7 +3380,7 @@ translate chinese cindylum_11d28054:
 translate chinese cindylum_429522eb_1:
 
     # "Straddling her thick tail, I position myself and my cock just before the upside-down heart of her butt."
-    "我拖着她的粗尾巴，把cock和自己挪到她臀部的正上方。"
+    "我拖着她的粗尾巴，把肉棒和自己挪到她臀部的正上方。"
 
 # game/3map.rpy#L1181
 translate chinese cindylum_7126dff5:
@@ -3422,7 +3422,7 @@ translate chinese cindylum_1cb18cd6:
 translate chinese cindylum_356fde20:
 
     # "So, I take the opportunity to tentatively press my cock against her pussy lips, pushing myself inwards and temporarily fucking her pussy."
-    "所以，我抓住这个机会把我的cock试探性地压在她的阴唇上，往里推，暂时操她的阴部来润滑。"
+    "所以，我抓住这个机会把我的肉棒试探性地压在她的阴唇上，往里推，暂时操她的阴部来润滑。"
 
 # game/3map.rpy#L1193
 translate chinese cindylum_838c19fc:
@@ -3434,7 +3434,7 @@ translate chinese cindylum_838c19fc:
 translate chinese cindylum_ad80d9bc:
 
     # mc "Have some patience Cindy, I need to get my cock wet first."
-    mc "耐心点，我得先把cock湿润湿润。"
+    mc "耐心点，我得先把肉棒湿润湿润。"
 
 # game/3map.rpy#L1195
 translate chinese cindylum_78dd6591:
@@ -3446,13 +3446,13 @@ translate chinese cindylum_78dd6591:
 translate chinese cindylum_aa43ed8e:
 
     # ci "Mmm… My gooey pussy will get your cock nice and wet."
-    ci "嗯......我的软绵绵的阴道会让你的cock又湿又爽。"
+    ci "嗯......我的软绵绵的阴道会让你的肉棒又湿又爽。"
 
 # game/3map.rpy#L1199
 translate chinese cindylum_393d68b0:
 
     # "After fucking her pussy for about half a minute, I pull out and my cock is slick with her pussy juices. A liquid that won’t dissolve even in her internal heat."
-    "操了她半分钟后，我拔出盖满她淫水的光滑cock。这种液体即使长期处于高温状态也不会蒸发。"
+    "操了她半分钟后，我拔出盖满她淫水的光滑肉棒。这种液体即使长期处于高温状态也不会蒸发。"
 
 # game/3map.rpy#L1200
 translate chinese cindylum_e26b3816:
@@ -3464,7 +3464,7 @@ translate chinese cindylum_e26b3816:
 translate chinese cindylum_e26a54d7:
 
     # "Pushing onwards, I guide my cock inside, slowly sinking into the heat of her warm ass. Grasping her hips at the area her scales turn into soft flesh for leverage."
-    "我抓紧她的屁股，把cock向里猛推，她腹部的鳞片似乎变成了柔软的肉，和我相融。"
+    "我抓紧她的屁股，把肉棒向里猛推，她腹部的鳞片似乎变成了柔软的肉，和我相融。"
 
 # game/3map.rpy#L1204
 translate chinese cindylum_64d769e6:
@@ -3476,19 +3476,19 @@ translate chinese cindylum_64d769e6:
 translate chinese cindylum_831e601c:
 
     # "Cindy coos and wriggles under the feeling of my thick cock sliding deep into her, the bizarre feeling exciting her in new and unusual ways."
-    "我坚实的cock深入她的身体，这种全新的不寻常的方式刺激着她，她扭动着，娇喘着。"
+    "我坚实的肉棒深入她的身体，这种全新的不寻常的方式刺激着她，她扭动着，娇喘着。"
 
 # game/3map.rpy#L1206
 translate chinese cindylum_7fc8eafb:
 
     # "Her sphincter squeezes and envelopes my entire being, tightly squeezing around my cock like a tight fist."
-    "她的括约肌紧紧地挤压和包裹着我的整个cock，就像攥紧的拳头。"
+    "她的括约肌紧紧地挤压和包裹着我的整个肉棒，就像攥紧的拳头。"
 
 # game/3map.rpy#L1207
 translate chinese cindylum_2f081a19:
 
     # "Her muscles are constantly contracting around my cock in response to her pleasure. And as I pull out, I have to fight for almost every inch as her squeezing almost pulls me back in."
-    "她肛门的肌肉贴着我的cock不断收缩，发生着性爱的化学反应，我每次拔出都要费点力气，好几次差点被她拉回去。"
+    "她肛门的肌肉贴着我的肉棒不断收缩，发生着性爱的化学反应，我每次拔出都要费点力气，好几次差点被她拉回去。"
 
 # game/3map.rpy#L1209
 translate chinese cindylum_c4720ab5:
@@ -3500,7 +3500,7 @@ translate chinese cindylum_c4720ab5:
 translate chinese cindylum_6ee4d5a4:
 
     # ci "Oooohhh… That feels really good, I may need to start paying you at this rate… It’s sooo nice…"
-    ci "啊........我恨不得花钱把你的cock买下来........太舒服了......."
+    ci "啊........我恨不得花钱把你的肉棒买下来........太舒服了......."
 
 # game/3map.rpy#L1212
 translate chinese cindylum_dd087779_1:
@@ -3584,7 +3584,7 @@ translate chinese cindylum_30053293:
 translate chinese cindylum_c7eaac6d:
 
     # "She gets wet to such a degree that it meets our point of sex around the anus, adding even more lubricants to the mix and allowing me to fuck comfortably at any pace I’d like."
-    "它们淋湿肛门，滴落在我的cock上。补充了更多的润滑剂，我可以舒适地性交，达到任何我想要的节奏。"
+    "它们淋湿肛门，滴落在我的肉棒上。补充了更多的润滑剂，我可以舒适地性交，达到任何我想要的节奏。"
 
 # game/3map.rpy#L1229
 translate chinese cindylum_927a251e_1:
@@ -3614,7 +3614,7 @@ translate chinese cindylum_2983bc2e_1:
 translate chinese cindylum_32f655b1:
 
     # "More and more, this pleasure boils up as I fuck the dragon’s hot ass. My body grows tense, and my cock throbs as my climax gets ever closer."
-    "来自火辣肛门的感觉越来越剧烈，很快这种快感如开水沸腾起来了。我身体僵硬起来，高潮逼近，我的cock开始悸动。"
+    "来自火辣肛门的感觉越来越剧烈，很快这种快感如开水沸腾起来了。我身体僵硬起来，高潮逼近，我的肉棒开始悸动。"
 
 # game/3map.rpy#L1234
 translate chinese cindylum_bd99276f:
@@ -3650,7 +3650,7 @@ translate chinese cindylum_3289c147_1:
 translate chinese cindylum_9af7a4b4:
 
     # "As the pleasure dissipates, I pull out of my lover and her legs immediately fall down as she exhaustively starts panting on the ground."
-    "快感褪去后，我把cock拔了出来，她的大腿立刻趴了下来，精疲力竭地在地上喘气。"
+    "快感褪去后，我把肉棒拔了出来，她立刻趴下了她的大腿，精疲力竭地在地上喘气。"
 
 # game/3map.rpy#L1252
 translate chinese cindylum_29c7baf7:
@@ -4694,7 +4694,7 @@ translate chinese doubledragon_bdbff662:
 translate chinese doubledragon_25165bca:
 
     # "Rather than simply standing by, I take a proactive approach and move beside Sandy. We kiss, and I feel her warm hand wrap around my growing cock, giving me a snug hand job."
-    "我不能简单地袖手旁观，站在Sandy旁边看戏，得主动点。于是我和Sandy开始舌吻，我感到她温暖的手环搂捏揉我正在勃起的cock上。"
+    "我不能简单地袖手旁观，站在Sandy旁边看戏，得主动点。于是我和Sandy开始舌吻，我感到她温暖的手环搂捏揉我正在勃起的肉棒上。"
 
 # game/3map.rpy#L2241
 translate chinese doubledragon_ac6853a1:
@@ -4730,7 +4730,7 @@ translate chinese doubledragon_5a8f6128:
 translate chinese doubledragon_5d62c972:
 
     # "Gradually I get harder, and the girls’ wetter. The temperature in the room heats up as the three of us build up to sex."
-    "我的cock变得更硬了，女孩们的下体也湿了。房间也温暖起来，适合做爱。"
+    "我的肉棒变得更硬了，女孩们的下体也湿了。房间也温暖起来，适合做爱。"
 
 # game/3map.rpy#L2249
 translate chinese doubledragon_f0966d51:
@@ -4796,7 +4796,7 @@ translate chinese doubledragon_72629d57:
 translate chinese doubledragon_f88eb364:
 
     # "Already fully standing to attention, I bring my cock to her pussy and teasingly grind it up and down the length of her labia."
-    "我的cock昂首待命，我把它放到她的阴部，上下挑逗她的阴唇。"
+    "我的肉棒昂首待命，我把它放到她的阴部，上下挑逗她的阴唇。"
 
 # game/3map.rpy#L2266
 translate chinese doubledragon_d28873e3:
@@ -4946,7 +4946,7 @@ translate chinese doubledragon_8aeb0017:
 translate chinese doubledragon_7d349e26:
 
     # "The moans echo in combination with the slapping of her abdomen against my skin. The mixture of visual and auditory stimulation clearly gets Cindy going."
-    "呻吟的回响与cock的撞击声相互呼应，视觉和听觉的双重刺激让Cindy更加兴奋。"
+    "呻吟的回响与肉棒的撞击声相互呼应，视觉和听觉的双重刺激让Cindy更加兴奋。"
 
 # game/3map.rpy#L2294
 translate chinese doubledragon_fe421a88:
@@ -4994,7 +4994,7 @@ translate chinese doubledragon_d09f6fd6:
 translate chinese doubledragon_abb63267:
 
     # "Her orgasmic moans push me over the edge. My cock rapidly swells as I feel cum surge through my loins. Here it comes!"
-    "她的高潮呻吟逼得我兽性大发。我的cock迅速膨胀，精液涌过我的跨部，迫切得想要冲出来！"
+    "她的高潮呻吟逼得我兽性大发。我的肉棒迅速膨胀，精液涌过我的跨部，迫切得想要冲出来！"
 
 # game/3map.rpy#L2306
 translate chinese doubledragon_7079318d:
@@ -5084,7 +5084,7 @@ translate chinese doubledragon_0e074418:
 translate chinese doubledragon_1a69229d:
 
     # "Brain: Silence, they’re offering to suck your dick."
-    "大脑:闭嘴,他们吸你的cock呢。"
+    "大脑:闭嘴,他们吸你的肉棒呢。"
 
 # game/3map.rpy#L2342
 translate chinese doubledragon_bc0882e4:
