@@ -9206,13 +9206,13 @@ translate chinese rikumoxiethreesome_9406e22f:
 translate chinese rikumoxiethreesome_7c0c0199:
 
     # riku "Hahh, just the way I like it, hehe. I wish we had a unicorn right now so we could go for anal seconds!"
-    riku "Hahh, just the way I like it, hehe. I wish we had a unicorn right now so we could go for anal seconds!"
+    riku "哈哈，这正合我意，呵呵。真希望我们现在有只独角兽这样我们就可以玩屁股了!"
 
 # game/bar.rpy#L2634
 translate chinese rikumoxiethreesome_39aee141:
 
     # mc "You shoulda said, I could have arranged something."
-    mc "You shoulda said, I could have arranged something."
+    mc "你应该早点说的，我本来可以安排的。"
 
 # game/bar.rpy#L2639
 translate chinese rikumoxiethreesome_b778436e:
@@ -9224,43 +9224,43 @@ translate chinese rikumoxiethreesome_b778436e:
 translate chinese rikumoxiethreesome_7267eb27:
 
     # "I lay down on Riku's sofa and she eagerly mounts me."
-    "I lay down on Riku's sofa and she eagerly mounts me."
+    "我躺在Riku的沙发上，而她则饥渴地骑到了我的身上。"
 
 # game/bar.rpy#L2645
 translate chinese rikumoxiethreesome_e6803ed8:
 
     # "She grinds her plump labia back and forth against the tip of my cock. Occasionally she prods downwards onto it, teasing the idea of penetration."
-    "She grinds her plump labia back and forth against the tip of my cock. Occasionally she prods downwards onto it, teasing the idea of penetration."
+    "她用她丰满的阴唇来来回回地摩擦着我的龟头。偶尔她还会假装将身体往下移，欲插又止，挑逗着我。"
 
 # game/bar.rpy#L2646
 translate chinese rikumoxiethreesome_de47a12d:
 
     # "In only a few seconds, her moist pussy has already drooled and dribbled an impressive amount of lubricants onto my cock’s head."
-    "不过短短几分钟，她的小穴已经湿得淌水了，还在我的龟头上滴了大量的阴液充当润滑剂。"
+    "不过短短几秒钟，她的小穴就已经变得湿漉漉的了，大量湿滑的爱液也淌了出来，流到了我的龟头上。"
 
 # game/bar.rpy#L2647
 translate chinese rikumoxiethreesome_8272200e:
 
     # "That however, is when she surprises me."
-    "That however, is when she surprises me."
+    "不过接下来，她的举动让我大吃一惊。"
 
 # game/bar.rpy#L2648
 translate chinese rikumoxiethreesome_f3a26ee7:
 
     # "Moving her hips forward, I suddenly feel my lubricated tip prodding against the tight pucker of her anus."
-    "Moving her hips forward, I suddenly feel my lubricated tip prodding against the tight pucker of her anus."
+    "她将臀部向前一顶，我立马就感受到了润滑的肉棒戳进了她紧皱的肛门里的快感。"
 
 # game/bar.rpy#L2649
 translate chinese rikumoxiethreesome_1257ab3f:
 
     # riku "Ehehe, butt slut for life!"
-    riku "Ehehe, butt slut for life!"
+    riku "嘿嘿，永远喜欢肛交的小母狗！"
 
 # game/bar.rpy#L2653
 translate chinese rikumoxiethreesome_e65ac38e:
 
     # "Her sphincter eases around cock and she slowly take me inside."
-    "Her sphincter eases around cock and she slowly take me inside."
+    "她把肌肉放松，让我的肉棒慢慢陷进她的肛门里。"
 
 # game/bar.rpy#L2654
 translate chinese rikumoxiethreesome_e5e282dd:
@@ -9278,7 +9278,7 @@ translate chinese rikumoxiethreesome_8ca67e27:
 translate chinese rikumoxiethreesome_376b9c93:
 
     # riku "What can I say? Maybe my athleticism and speed is just too much for the average 'human' to handle!"
-    riku "What can I say? Maybe my athleticism and speed is just too much for the average 'human' to handle!"
+    riku "我能说什么呢？也许我的运动能力和速度对于普通的“淫类”来说太难应付了！"
 
 # game/bar.rpy#L2657
 translate chinese rikumoxiethreesome_a1f97377:
@@ -9326,97 +9326,97 @@ translate chinese rikumoxiethreesome_152043d3:
 translate chinese rikumoxiethreesome_522e2908:
 
     # "As she starts feeling better and better, her eyes roll back and her fervent moaning intensifies as she nears her climax."
-    "As she starts feeling better and better, her eyes roll back and her fervent moaning intensifies as she nears her climax."
+    "她开始渐入佳境，眼球上翻，浪叫越发的强烈起来，距离高潮越来越近。"
 
 # game/bar.rpy#L2666
 translate chinese rikumoxiethreesome_a4793652:
 
     # "In a surge of energy, she races to an orgasm, her body shivering and pucker tensing."
-    "In a surge of energy, she races to an orgasm, her body shivering and pucker tensing."
+    "在一波充满力量的起伏中，她立马达到了高潮，她的身体颤抖，眉头紧皱。"
 
 # game/bar.rpy#L2667
 translate chinese rikumoxiethreesome_ae8c4457:
 
     # riku "Haahh, ahhh, g-gonna come, haahhh, yesss, yesss!"
-    riku "Haahh, ahhh, g-gonna come, haahhh, yesss, yesss!"
+    riku "啊哈，啊哈，要来了，啊哈，太棒，太棒了!"
 
 # game/bar.rpy#L2668
 translate chinese rikumoxiethreesome_e502a882:
 
     # "My throbbing cock stiffens and my muscles grow tense as her assault on my cock brings me extremely close to cumming."
-    "My throbbing cock stiffens and my muscles grow tense as her assault on my cock brings me extremely close to cumming."
+    "她的挑逗把我推向大爆射的边缘，我的老二坚硬的勃起，身体变得紧张。"
 
 # game/bar.rpy#L2673
 translate chinese rikumoxiethreesome_85fe4efa:
 
     # "The additional speed is enough as we push past both our limits. Climaxing, my cock starts spraying thick loads of cum into her butt."
-    "The additional speed is enough as we push past both our limits. Climaxing, my cock starts spraying thick loads of cum into her butt."
+    "再一次的加速超出了我们的极限，迎来了高潮。我的肉棒开始向她的屁股迸发大量的精液。"
 
 # game/bar.rpy#L2678
 translate chinese rikumoxiethreesome_2b90f046:
 
     # riku "Haahh, yesssshhhh! F-Fuck! Fill my belly!"
-    riku "Haahh, yesssshhhh! F-Fuck! Fill my belly!"
+    riku "哈啊啊啊，爽呀！快-快操呀！填满我吧！"
 
 # game/bar.rpy#L2682
 translate chinese rikumoxiethreesome_2ea333e9:
 
     # "Riku excitedly rides out both our orgasms."
-    "Riku excitedly rides out both our orgasms."
+    "Riku兴奋地感受着咱们俩的高潮。"
 
 # game/bar.rpy#L2683
 translate chinese rikumoxiethreesome_43271914:
 
     # "Satisfied, she huffs and slides my cock out with a pop."
-    "Satisfied, she huffs and slides my cock out with a pop."
+    "她屁股里胀胀的，心满意足地把我的老二“啵”的一声拔了出来。"
 
 # game/bar.rpy#L2688
 translate chinese rikumoxiethreesome_564a9de7:
 
     # riku "Phew that was really good! Sorry if I made you cum too quickly."
-    riku "Phew that was really good! Sorry if I made you cum too quickly."
+    riku "唷！针不戳！抱歉我让你的大爆射来的太快了。"
 
 # game/bar.rpy#L2689
 translate chinese rikumoxiethreesome_600e58b4:
 
     # riku "Maybe we could go shower together?"
-    riku "Maybe we could go shower together?"
+    riku "也许我们可以一起去洗个澡?"
 
 # game/bar.rpy#L2690
 translate chinese rikumoxiethreesome_b9710c73:
 
     # mc "Sure thing."
-    mc "Sure thing."
+    mc "当然。"
 
 # game/bar.rpy#L2693
 translate chinese rikumoxiethreesome_bb1dc8fb:
 
     # "After a quick shower, Riku and I return to the sofa with a canned drink each."
-    "After a quick shower, Riku and I return to the sofa with a canned drink each."
+    "冲了个澡后，我和Riku回到沙发上，每人拿着一瓶饮料。"
 
 # game/bar.rpy#L2694
 translate chinese rikumoxiethreesome_0a3e8242:
 
     # "This is relaxing, I could get used to this."
-    "This is relaxing, I could get used to this."
+    "这很放松，我想我会习惯的。"
 
 # game/bar.rpy#L2703
 translate chinese rikumoxiethreesome_a20cefa7_1:
 
     # "..."
-    "..."
+    "……"
 
 # game/bar.rpy#L2709
 translate chinese rikuclimbingsex_9669528e:
 
     # "Later..."
-    "Later..."
+    "晚些时候……"
 
 # game/bar.rpy#L2715
 translate chinese rikuclimbingsex_50296d9d:
 
     # riku "Simple enough when you get the hang of it, right? One limb at a time."
-    riku "Simple enough when you get the hang of it, right? One limb at a time."
+    riku "掌握了窍门就会简单多了，对吧？一步一步来，身体各个部位的运动要相互配合。"
 
 # game/bar.rpy#L2716
 translate chinese rikuclimbingsex_64d1b408:
@@ -9428,37 +9428,37 @@ translate chinese rikuclimbingsex_64d1b408:
 translate chinese rikuclimbingsex_79469baa:
 
     # mc "Ahh, so one wall can have multiple difficulties. Interesting!"
-    mc "Ahh, so one wall can have multiple difficulties. Interesting!"
+    mc "啊哈哈，一面墙可能有多种困难，有趣！"
 
 # game/bar.rpy#L2718
 translate chinese rikuclimbingsex_4813bfe7:
 
     # riku "Heh, you’re still so slow on the beginner difficulty. Not that I’d expect you to keep up with me!"
-    riku "Heh, you’re still so slow on the beginner difficulty. Not that I’d expect you to keep up with me!"
+    riku "嘿嘿，新手难度你的速度都这么慢。我还想着你能跟上我呢！"
 
 # game/bar.rpy#L2719
 translate chinese rikuclimbingsex_6f7d888e:
 
     # mc "Why would I want to keep up with you? The view from just behind you is excellent!"
-    mc "Why would I want to keep up with you? The view from just behind you is excellent!"
+    mc "为什么要跟上你呢？你身后的风光可是无限好啊！"
 
 # game/bar.rpy#L2721
 translate chinese rikuclimbingsex_768db941:
 
     # riku "Wah?! Have you been staring at my ass?"
-    riku "Wah?! Have you been staring at my ass?"
+    riku "啥？你是不是一直都在盯着我的屁股看呢？"
 
 # game/bar.rpy#L2722
 translate chinese rikuclimbingsex_69c803a2:
 
     # mc "Stare is a harsh word… It’s just kinda… there, above me, where I’m looking."
-    mc "Stare is a harsh word… It’s just kinda… there, above me, where I’m looking."
+    mc "用“盯”这个字不太好吧……我只是……抬头向上看了看而已。"
 
 # game/bar.rpy#L2724
 translate chinese rikuclimbingsex_ba305869:
 
     # riku "Eep! This got ten times more embarrassing."
-    riku "Eep! This got ten times more embarrassing."
+    riku "呃！如果是这样的话，情况可就更尴尬了。"
 
 # game/bar.rpy#L2725
 translate chinese rikuclimbingsex_ceac2657:
@@ -12554,7 +12554,7 @@ translate chinese doubledoggo_69260b9f:
 translate chinese doubledoggo_5e3c71f4:
 
     # doggirl "Hey [playername]!"
-    doggirl "Hey [playername]!"
+    doggirl "嘿，[playername]！"
 
 # game/bar.rpy#L3728
 translate chinese doubledoggo_b3a4e9c7:
@@ -12566,7 +12566,7 @@ translate chinese doubledoggo_b3a4e9c7:
 translate chinese doubledoggo_12c320ca:
 
     # "Uh oh."
-    "Uh oh."
+    "啊哦。"
 
 # game/bar.rpy#L3733
 translate chinese doubledoggo_3632ebd7:
@@ -12800,13 +12800,13 @@ translate chinese doubledoggo_42ce8e30:
 translate chinese doubledoggo_c80d4933:
 
     # "My other hand wraps itself to her mons, pressing tenderly against her as I position my cock beneath her rear and prepare to push inside."
-    "My other hand wraps itself to her mons, pressing tenderly against her as I position my cock beneath her rear and prepare to push inside."
+    "在我将肉棒挪动到她的下体并准备插入其中的同时，我的另一只手也伸向了她的阴唇，并开始了轻柔的揉捏和挤压。"
 
 # game/bar.rpy#L3780
 translate chinese doubledoggo_d9122539:
 
     # "Holding her steady, I push forwards. The tip of my cock slips through her wet folds and penetrates her tightness."
-    "Holding her steady, I push forwards. The tip of my cock slips through her wet folds and penetrates her tightness."
+    "我一边紧紧抓着她的细腰，一边向前突进着。这样一来，肉棒便顺利滑入了她湿润的阴唇，并插进了她紧致的小穴。"
 
 # game/bar.rpy#L3781
 translate chinese doubledoggo_fc1971f8:
@@ -12818,7 +12818,7 @@ translate chinese doubledoggo_fc1971f8:
 translate chinese doubledoggo_66da6e90:
 
     # "Hilda arches her back into me slightly as I fill her up entirely. A hot wetness slowly coats my cock, dripping freely from the wolf’s pussy."
-    "Hilda arches her back into me slightly as I fill her up entirely. A hot wetness slowly coats my cock, dripping freely from the wolf’s pussy."
+    "在我将肉棒完全插入Hilda的下体后，她的后背稍稍向后仰去。一股温热而湿润的液体包裹住了我的肉棒，同时，这股液体也顺着她的蜜穴流了出来。"
 
 # game/bar.rpy#L3785
 translate chinese doubledoggo_e3257b49:
@@ -12950,7 +12950,7 @@ translate chinese doubledoggo_f51fc628:
 translate chinese doubledoggo_d428040b:
 
     # "Dick in hand, I push the tip of my erection against her soft folds and they easily part, inviting me inside."
-    "Dick in hand, I push the tip of my erection against her soft folds and they easily part, inviting me inside."
+    "我手握着坚挺的肉棒，然后将它顶在了她柔软的阴唇上。她的小穴随后缓缓张开，欢迎着肉棒的到来。"
 
 # game/bar.rpy#L3825
 translate chinese doubledoggo_a98f4b77:

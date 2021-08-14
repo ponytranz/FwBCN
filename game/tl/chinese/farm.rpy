@@ -470,7 +470,7 @@ translate chinese honeycrispmenu_26255370:
 translate chinese honeycrispmenu_fac7153e:
 
     # honeycrisp "I like to pop down to the Riding Mare for a pint of cider and Ruby often visits."
-    honeycrisp "我喜欢顺路去雌驹善堕酒吧来一品脱苹果酒，Ruby也经常去。"
+    honeycrisp "我喜欢顺路去骑驹酒吧来一品脱苹果酒，Ruby也经常去。"
 
 # game/farm.rpy#L179
 translate chinese honeycrispmenu_601c5e29:

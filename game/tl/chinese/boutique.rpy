@@ -6332,7 +6332,7 @@ translate chinese melodycowgirl2_90572081:
 translate chinese melodycowgirl2_ad34dd92:
 
     # melody "Mmphh, I can feel your cock inside my pussy. Savour this moment you’ve awaited so long, you filthy pervert."
-    melody "Mmphh, I can feel your cock inside my pussy. Savour this moment you’ve awaited so long, you filthy pervert."
+    melody "唔，我能感觉到你的肉棒正塞在我的下面。你期待这一刻是不是已经很久了，你个死变态。"
 
 # game/boutique.rpy#L1845
 translate chinese melodycowgirl2_5ff264e6:
@@ -6356,19 +6356,19 @@ translate chinese melodycowgirl2_317c2823:
 translate chinese melodycowgirl2_755e30a8:
 
     # melody "And to me, that's hot as fuck."
-    melody "And to me, that's hot as fuck."
+    melody "对我来说，这感觉和爱爱一样爽。"
 
 # game/boutique.rpy#L1849
 translate chinese melodycowgirl2_5d119a39:
 
     # "She leaned back slightly, so I had a better view of our sexes. She was so tight her skin would indent slightly as she took me all the way in, it was an erotic sight only made more erotic with the squelching wet sounds."
-    "She leaned back slightly, so I had a better view of our sexes. She was so tight her skin would indent slightly as she took me all the way in, it was an erotic sight only made more erotic with the squelching wet sounds."
+    "她将身体稍稍后倾，这让我更清晰地看到了我们爱爱的画面。可她小穴周围的肌肤略显紧致，所以当她让我插入时，我都能感受到她肌肤的紧密感。而湿润的身体相互撞击的声音则让这个画面变得更加具有色意了。"
 
 # game/boutique.rpy#L1850
 translate chinese melodycowgirl2_03d41344:
 
     # "Using her hands on my thighs to support her, she bounced up and down at a growing pace."
-    "Using her hands on my thighs to support her, she bounced up and down at a growing pace."
+    "她双手扶在我的腿上，以此作为支撑，然后加快了上下滑动的速度。"
 
 # game/boutique.rpy#L1851
 translate chinese melodycowgirl2_babaf046:
@@ -6440,13 +6440,13 @@ translate chinese melodycowgirl2_86a8cd6f:
 translate chinese melodycowgirl2_38ae40f4:
 
     # melody "I don’t know what you’re talking about toy, this feels heavenly to me."
-    melody "I don’t know what you’re talking about toy, this feels heavenly to me."
+    melody "我不明白你在说些什么，我的小玩物，可我感觉爽极了。"
 
 # game/boutique.rpy#L1865
 translate chinese melodycowgirl2_3a02a385:
 
     # melody "I love the way your cock feels, grinding deep inside my pussy. It’s definitely going to make me come."
-    melody "I love the way your cock feels, grinding deep inside my pussy. It’s definitely going to make me come."
+    melody "我好喜欢你大棒棒的触感啊，深深插进下体的感觉好爽，真让我快爽死了。"
 
 # game/boutique.rpy#L1866
 translate chinese melodycowgirl2_68618617:
@@ -6506,13 +6506,13 @@ translate chinese melodycowgirl2_ee9cdbd7:
 translate chinese melodycowgirl2_79c3b1f5:
 
     # "*Squish*, *Squish*, *Grind, grind*, *Hump, hump*!"
-    "*Squish*, *Squish*, *Grind, grind*, *Hump, hump*!"
+    "*啪唧*，*啪唧*，*挤压，挤压*，*啪，啪*！"
 
 # game/boutique.rpy#L1879
 translate chinese melodycowgirl2_8f0d09b9:
 
     # melody "Ah! Does that mean you’re gonna cum?"
-    melody "Ah! Does that mean you’re gonna cum?"
+    melody "啊！你是不是要射了？"
 
 # game/boutique.rpy#L1880
 translate chinese melodycowgirl2_036f2083:
@@ -6524,7 +6524,7 @@ translate chinese melodycowgirl2_036f2083:
 translate chinese melodycowgirl2_b11ad8f3:
 
     # melody "Ahh, mm… I bet you wanna cum, right?"
-    melody "Ahh, mm… I bet you wanna cum, right?"
+    melody "啊，嗯……我敢说，你快要射了，对吧？"
 
 # game/boutique.rpy#L1882
 translate chinese melodycowgirl2_962943b8:
@@ -6536,13 +6536,13 @@ translate chinese melodycowgirl2_962943b8:
 translate chinese melodycowgirl2_3f9319d2:
 
     # melody "Aaahhh… Aaaahhh! Aauuuuhhhhhh…… Haaahhhaaaaaaaa!"
-    melody "Aaahhh… Aaaahhh! Aauuuuhhhhhh…… Haaahhhaaaaaaaa!"
+    melody "啊啊啊……啊啊啊！嗷嗷嗷……哈啊啊啊啊啊！"
 
 # game/boutique.rpy#L1884
 translate chinese melodycowgirl2_b0bdba5b:
 
     # melody "Mmmphh, Cum inside my filthy, wet pussy…"
-    melody "Mmmphh, Cum inside my filthy, wet pussy…"
+    melody "嗯嗯嗯，快射到我淫荡的小湿穴里吧……"
 
 # game/boutique.rpy#L1885
 translate chinese melodycowgirl2_6d2b6619:

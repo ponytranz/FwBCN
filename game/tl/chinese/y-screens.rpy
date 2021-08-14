@@ -352,7 +352,7 @@ translate chinese strings:
 
     # game/y-screens.rpy_L1568_0
     old "{color=#00000000}I should buy Moxie some gifts {p}to increase her affection.{/color}"
-    new "{color=#00000000}我应该给Moxie买些礼物来增加好感度。 {/color}"
+    new "{color=#00000000}我应该给Moxie买些礼物{p}来增加好感度。 {/color}"
 
     # game/y-screens.rpy_L1576_0
     old "{color=#00000000}Complete!{/color}"
@@ -396,7 +396,7 @@ translate chinese strings:
 
     # game/y-screens.rpy_L1651_0
     old "{color=#00000000}You can meet four unique girls {p}at the bar or nightclub{p} in the evening.{/color}"
-    new "{color=#00000000}你能在傍晚的酒吧或者夜总会遇到四位特别的女孩。{/color}"
+    new "{color=#00000000}你能在傍晚的酒吧或者夜总会{p}遇到四位特别的女孩。{/color}"
 
     # game/y-screens.rpy_L1657_0
     old "{color=#00000000}$20 Patron or Steam version{p}only. Note: Steam version{p} isn't out yet.{/color}"

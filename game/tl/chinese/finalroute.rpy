@@ -5690,13 +5690,13 @@ translate chinese finale_7a30f622:
 translate chinese finale_bc953624:
 
     # "At either side of Morrigan’s shoulders were the two castle turrets, 100 meters long, and threatening to tear a hole through the sky itself."
-    "At either side of Morrigan’s shoulders were the two castle turrets, 100 meters long, and threatening to tear a hole through the sky itself."
+    "Morrigan肩膀的两侧分别矗立着两座100米长的城堡塔楼，欲与天公试比高。"
 
 # game/finalroute.rpy#L2588
 translate chinese finale_973189d2:
 
     # "Enjoying the feeling of her overwhelming power, Morrigan soared up between the gap of the two towers, sneering over the entire castle with absolute dominance."
-    "Enjoying the feeling of her overwhelming power, Morrigan soared up between the gap of the two towers, sneering over the entire castle with absolute dominance."
+    "Morrigan享受着自身势不可挡的力量，从两座塔楼的缝隙间腾空而起，好似胜券在握，冷笑着俯视着整个城堡。"
 
 # game/finalroute.rpy#L2589
 translate chinese finale_70a68d7d:
@@ -5720,7 +5720,7 @@ translate chinese finale_08e797c6:
 translate chinese finale_4ebf224e:
 
     # morrigan "Ihihihi, I’ll wipe that smug look off your face…"
-    morrigan "Ihihihi, I’ll wipe that smug look off your face…"
+    morrigan "噫哈哈哈，你就等着对我俯首称臣吧…"
 
 # game/finalroute.rpy#L2603
 translate chinese finale_46412d10:
