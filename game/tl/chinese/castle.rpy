@@ -4562,7 +4562,7 @@ translate chinese selenevisit_c6c9f937:
 translate chinese selenevisit_506b94d7:
 
     # "I get closer and reach my hand out to Ruby, she takes it and hugs me tightly."
-    "我朝Ruby跑去伸手朝她搭去，她马上结果我的手，和我轻轻拥抱在一起。"
+    "我朝Ruby跑去伸出手向她搭去，我们十指相扣，紧紧相拥在一起。"
 
 # game/castle.rpy#L1353
 translate chinese selenevisit_82fa3867:

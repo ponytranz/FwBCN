@@ -11402,14 +11402,14 @@
   {
     "id": 79429278,
     "createdAt": "2021-05-30T17:55:36.000Z",
-    "updatedAt": "2021-07-03T16:00:40.000Z",
+    "updatedAt": "2021-08-14T13:06:45.000Z",
     "key": "selenevisit_506b94d7",
     "original": "I get closer and reach my hand out to Ruby, she takes it and hugs me tightly.",
-    "translation": "我朝Ruby跑去伸手朝她搭去，她马上结果我的手，和我轻轻拥抱在一起。",
+    "translation": "我朝Ruby跑去伸出手向她搭去，我们十指相扣，紧紧相拥在一起。",
     "file": 272342,
     "stage": 1,
     "project": 2414,
-    "uid": 22062,
+    "uid": 21858,
     "extra": null,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwBCN/blob/main/game/castle.rpy#L1352",
     "words": 17

@@ -5246,7 +5246,7 @@ translate chinese honeyannathreesome_ea3a1f23:
 translate chinese honeyannathreesome_f99bed88:
 
     # mc "By the way… Those aphrodisiacs were great, but… When is my erection going to go away?"
-    mc "By the way… Those aphrodisiacs were great, but… When is my erection going to go away?"
+    mc "顺便说一下... 那些春药很好，但是... 我的勃起什么时候才能消失？"
 
 # game/farm.rpy#L1627
 translate chinese honeyannathreesome_858cd37e:
@@ -5258,7 +5258,7 @@ translate chinese honeyannathreesome_858cd37e:
 translate chinese honeyannathreesome_dfcc9eee:
 
     # anna "Aha… Uhm… Soon?"
-    anna "Aha… Uhm… Soon?"
+    anna "啊哈… 嗯… 很快？"
 
 # game/farm.rpy#L1634
 translate chinese honeyannathreesome_ce617998:
@@ -5294,19 +5294,19 @@ translate chinese honeyannathreesome_b4664a26:
 translate chinese honeyannathreesome_a1a7f568:
 
     # mc "Oh yeah? Other frustrations?"
-    mc "Oh yeah? Other frustrations?"
+    mc "噢 是吗？其他的挫折？"
 
 # game/farm.rpy#L1645
 translate chinese honeyannathreesome_5a714e2a:
 
     # honeycrisp "Let’s just say, that was intensely liberating. I feel like I can breathe and think clearer now."
-    honeycrisp "Let’s just say, that was intensely liberating. I feel like I can breathe and think clearer now."
+    honeycrisp "这么说吧，这是一种极大的解放。我觉得我现在可以呼吸和思考的更加清楚了。"
 
 # game/farm.rpy#L1646
 translate chinese honeyannathreesome_a2d09df6:
 
     # mc "That’s good, I'm still catching my breath, you’re a lot tougher than me, Honey."
-    mc "That’s good, I'm still catching my breath, you’re a lot tougher than me, Honey."
+    mc "那很好，我仍然喘不过气来，你比我坚强多了，Honey。"
 
 # game/farm.rpy#L1647
 translate chinese honeyannathreesome_e1c488ce:

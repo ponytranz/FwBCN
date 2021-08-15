@@ -436,7 +436,7 @@ translate chinese strings:
 
     # game/y-screens.rpy_L1728_0
     old "{color=#00000000}I should visit the muffin {p}stall in the market.{/color}"
-    new "{color=#00000000}我应该和muffin在集市货摊上见面。{/color}"
+    new "{color=#00000000}我应该看看集市的玛芬货摊。{/color}"
 
     # game/y-screens.rpy_L1736_0
     old "{color=#00000000}I should buy Cindy's {p}'services'!{/color}"
@@ -468,7 +468,7 @@ translate chinese strings:
 
     # game/y-screens.rpy_L1795_0
     old "{color=#00000000}Visit the deep forest at {p}night.{/color}"
-    new "{color=#00000000}前往深入丛林 在晚上.{/color}"
+    new "{color=#00000000}在晚上前往深入丛林.{/color}"
 
     # game/y-screens.rpy_L1799_0
     old "{color=#00000000}Buy all of the equipment {p}for Butters.{/color}"
