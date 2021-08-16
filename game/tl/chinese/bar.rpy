@@ -9422,7 +9422,7 @@ translate chinese rikuclimbingsex_50296d9d:
 translate chinese rikuclimbingsex_64d1b408:
 
     # riku "Stick to all three colours at first, but the better you get, the fewer colours you can use."
-    riku "Stick to all three colours at first, but the better you get, the fewer colours you can use."
+    riku "一开始你得一直用全部三种颜色,但你取得的成绩越好,你所能用的颜色就越少."
 
 # game/bar.rpy#L2717
 translate chinese rikuclimbingsex_79469baa:
@@ -9464,13 +9464,13 @@ translate chinese rikuclimbingsex_ba305869:
 translate chinese rikuclimbingsex_ceac2657:
 
     # mc "What’s the deal? You’re usually nude anyway."
-    mc "What’s the deal? You’re usually nude anyway."
+    mc "咋了？反正你一直都是裸的."
 
 # game/bar.rpy#L2726
 translate chinese rikuclimbingsex_a7b6b756:
 
     # riku "Pft, yeah, but… Not normally so exposed to a man I’m sexually attracted to."
-    riku "Pft, yeah, but… Not normally so exposed to a man I’m sexually attracted to."
+    riku "噗嗤,是这样没错,但...我通常不会那样暴露在那些被我性方面所吸引的男人面前."
 
 # game/bar.rpy#L2728
 translate chinese rikuclimbingsex_3a294380:

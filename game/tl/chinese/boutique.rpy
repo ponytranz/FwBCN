@@ -8216,19 +8216,19 @@ translate chinese rubyeveningmenu_137e1d90:
 translate chinese rubyeveningmenu_f58fd22b:
 
     # "Melody’s pussy drools slightly onto Ruby’s, creating a lewd connection between the two."
-    "Melody’s pussy drools slightly onto Ruby’s, creating a lewd connection between the two."
+    "Melody小穴的淫水轻轻滴落到了Ruby的小穴上，这场景似乎在两人之间形成了一种色情暧昧的联系。"
 
 # game/boutique.rpy#L2425
 translate chinese rubyeveningmenu_86d84f1e:
 
     # "After admiring the sight for perhaps a little too long, I position myself adjacent to the table."
-    "After admiring the sight for perhaps a little too long, I position myself adjacent to the table."
+    "大饱眼福过后，我来到一旁的桌子前坐了下来，并思索着。"
 
 # game/boutique.rpy#L2429
 translate chinese rubyeveningmenu_71aef175:
 
     # "Ruby's pussy throbs as I line the tip of my cock against her vagina and push forward."
-    "Ruby's pussy throbs as I line the tip of my cock against her vagina and push forward."
+    "在我将肉棒顶端抵在Ruby的小穴上并开始向前推进时，她的小穴突然颤抖了起来。"
 
 # game/boutique.rpy#L2430
 translate chinese rubyeveningmenu_84c1093b:
@@ -8240,7 +8240,7 @@ translate chinese rubyeveningmenu_84c1093b:
 translate chinese rubyeveningmenu_6c889aa1:
 
     # "My cock sinks into Ruby, enjoying the intense tightness of her pussy. Her thighs quiver as I plunge inch and every inch inside."
-    "My cock sinks into Ruby, enjoying the intense tightness of her pussy. Her thighs quiver as I plunge inch and every inch inside."
+    "我的肉棒插入到了Ruby的体内，享受着她的小穴所带来的挤压感。我的每一次的深入都让她的大腿颤抖。"
 
 # game/boutique.rpy#L2432
 translate chinese rubyeveningmenu_7e4c6313:
@@ -8252,7 +8252,7 @@ translate chinese rubyeveningmenu_7e4c6313:
 translate chinese rubyeveningmenu_2d6ee2f3:
 
     # "The slightly immoral situation excites all three of us."
-    "The slightly immoral situation excites all three of us."
+    "虽然这有点违反伦理道德，不过我们三个人却都感到很兴奋。"
 
 # game/boutique.rpy#L2434
 translate chinese rubyeveningmenu_c08edb34:
@@ -8276,7 +8276,7 @@ translate chinese rubyeveningmenu_18cb27e2:
 translate chinese rubyeveningmenu_e6f8c5ff:
 
     # ruby "Mmmhhh, your dick feels so great darling!"
-    ruby "Mmmhhh, your dick feels so great darling!"
+    ruby "嗯……亲爱的，你的肉棒真舒服呀！"
 
 # game/boutique.rpy#L2438
 translate chinese rubyeveningmenu_7bfa95aa:
@@ -8288,13 +8288,13 @@ translate chinese rubyeveningmenu_7bfa95aa:
 translate chinese rubyeveningmenu_e19e4a59:
 
     # ruby "Ooohh, i-it's so embarrassing and hot!"
-    ruby "Ooohh, i-it's so embarrassing and hot!"
+    ruby "哦哦哦，这……这种情况可真是又尴尬又让人欲罢不能啊！"
 
 # game/boutique.rpy#L2440
 translate chinese rubyeveningmenu_bb4b854d:
 
     # "Ruby’s entire body quivers with excitement, her pussy clamps down in intervals, squeezing my cock as it buries itself inside of her."
-    "Ruby’s entire body quivers with excitement, her pussy clamps down in intervals, squeezing my cock as it buries itself inside of her."
+    "Ruby全身都在因快感而激烈地颤抖着，她的小穴不停的尝试夹住我的肉棒，想让它留在自己的小穴里。"
 
 # game/boutique.rpy#L2441
 translate chinese rubyeveningmenu_af3dc803:
@@ -8306,13 +8306,13 @@ translate chinese rubyeveningmenu_af3dc803:
 translate chinese rubyeveningmenu_375b10cc:
 
     # "Her hips wouldn’t stop meekly shaking in an attempt to maximise the pleasure, inadvertently grinding her clit with her sister’s."
-    "Her hips wouldn’t stop meekly shaking in an attempt to maximise the pleasure, inadvertently grinding her clit with her sister’s."
+    "为了最大限度地享受快感，她的臀部不停地微微颤抖，并且无意中与她妹妹的阴蒂摩擦。"
 
 # game/boutique.rpy#L2444
 translate chinese rubyeveningmenu_a287a850:
 
     # melody "Agghh?! Y-You’re fucking like a crazy person sis! Nnnghh…"
-    melody "Agghh?! Y-You’re fucking like a crazy person sis! Nnnghh…"
+    melody "啊啊啊？！姐姐，你他妈简直就像个疯婆娘！嗯嗯嗯嗯……"
 
 # game/boutique.rpy#L2445
 translate chinese rubyeveningmenu_e0c2f3ad:
@@ -8330,31 +8330,31 @@ translate chinese rubyeveningmenu_16485c33:
 translate chinese rubyeveningmenu_2854082e:
 
     # ruby "T-This is t-too much, ahhh, I-I’m cominnggg! I’m cooommminnggg! I’m coommmmiingggg!! "
-    ruby "T-This is t-too much, ahhh, I-I’m cominnggg! I’m cooommminnggg! I’m coommmmiingggg!! "
+    ruby "这……这也，太……太爽了，呃啊，我……我要去了！要……去了！要……去……了！！"
 
 # game/boutique.rpy#L2448
 translate chinese rubyeveningmenu_4447165d:
 
     # "Putting some more strength into my limbs, I push myself as fast as possible to orgasm. Aided by Ruby’s rhythmic orgasmic contractions, I was soon pushed to my limit."
-    "Putting some more strength into my limbs, I push myself as fast as possible to orgasm. Aided by Ruby’s rhythmic orgasmic contractions, I was soon pushed to my limit."
+    "我将更多的力量放在我的四肢上，迫使自己以最快速度达到高潮。在Ruby有节奏的性高潮收缩的帮助下，我很快就被推向了极限。"
 
 # game/boutique.rpy#L2453
 translate chinese rubyeveningmenu_5691804c:
 
     # "Finally, unable to bear it, I blew a huge load into the climaxing mare."
-    "Finally, unable to bear it, I blew a huge load into the climaxing mare."
+    "最终，我再也忍受不住了，我将所有的精液全部射进了这匹已经完全高潮的小母马体内。"
 
 # game/boutique.rpy#L2458
 translate chinese rubyeveningmenu_c1f513db:
 
     # "Like a rushing wave, her pussy was immediately filled with my hot seed."
-    "Like a rushing wave, her pussy was immediately filled with my hot seed."
+    "我炽热的精液犹如奔腾的巨浪一般，瞬间席卷并灌满了她的小穴。"
 
 # game/boutique.rpy#L2460
 translate chinese rubyeveningmenu_aa9b74fc:
 
     # ruby "Mmmphhhh, ohhh my gosshhhhh! I can’t believe my little sister is watching me being creampied!"
-    ruby "Mmmphhhh, ohhh my gosshhhhh! I can’t believe my little sister is watching me being creampied!"
+    ruby "嗯嗯嗯嗯！哦，我的天啊！真不敢相信，我竟然当着妹妹的面被人爆射了！"
 
 # game/boutique.rpy#L2461
 translate chinese rubyeveningmenu_a70d1b1a:
@@ -8366,7 +8366,7 @@ translate chinese rubyeveningmenu_a70d1b1a:
 translate chinese rubyeveningmenu_6150b4be:
 
     # "Catching Melody off guard, I plunge my cock into her tight snatch."
-    "Catching Melody off guard, I plunge my cock into her tight snatch."
+    "趁Melody不备之时，我以迅雷不及掩耳之势把我的肉棒插进她的小穴里。"
 
 # game/boutique.rpy#L2464
 translate chinese rubyeveningmenu_858ee7d6:
@@ -8378,13 +8378,13 @@ translate chinese rubyeveningmenu_858ee7d6:
 translate chinese rubyeveningmenu_46e7cb81:
 
     # "Ruby was still paralyzed in the glow of her orgasm. Meanwhile Melody’s body twitches, and her toes curl in response to the sudden spike of pleasure."
-    "Ruby was still paralyzed in the glow of her orgasm. Meanwhile Melody’s body twitches, and her toes curl in response to the sudden spike of pleasure."
+    "Ruby仍然沉浸在高潮的喜悦中。与此同时，面对这突如其来的快感，Melody的身体开始抽搐起来，脚趾也突然卷曲起来。"
 
 # game/boutique.rpy#L2466
 translate chinese rubyeveningmenu_4b753fbc:
 
     # melody "Ahahahhh, haaahhhh, finally, you fucker! Nnghhh, surprised a man like you has the energy to go immediately."
-    melody "Ahahahhh, haaahhhh, finally, you fucker! Nnghhh, surprised a man like you has the energy to go immediately."
+    melody "啊哈哈，哈啊啊，终于，你这个混蛋！嗯嗯，真没想到，你居然还有精神，这么快就能进行下一轮了。"
 
 # game/boutique.rpy#L2467
 translate chinese rubyeveningmenu_951a4064:
@@ -8396,13 +8396,13 @@ translate chinese rubyeveningmenu_951a4064:
 translate chinese rubyeveningmenu_543e06d2:
 
     # melody "You jealous Rubes? I'm getting this amazing cock now, ahaha!"
-    melody "You jealous Rubes? I'm getting this amazing cock now, ahaha!"
+    melody "我的小ruby，你是不是吃醋了？现在这根大棒棒归我所有了，啊哈哈哈！"
 
 # game/boutique.rpy#L2469
 translate chinese rubyeveningmenu_dbe5e0fd:
 
     # ruby "Haahhh… S-So lewd..."
-    ruby "Haahhh… S-So lewd..."
+    ruby "哈哈……太……太涩了……"
 
 # game/boutique.rpy#L2470
 translate chinese rubyeveningmenu_8f8c0e2d:
@@ -8414,7 +8414,7 @@ translate chinese rubyeveningmenu_8f8c0e2d:
 translate chinese rubyeveningmenu_4f6de2bb:
 
     # melody "Hahh, haah, haah, gfffhhh, yes, t-that’s it, ya horny bastard!"
-    melody "Hahh, haah, haah, gfffhhh, yes, t-that’s it, ya horny bastard!"
+    melody "哈，哈，哈，呃嗯，对，就是这样，你个又色又饥渴的小混蛋！"
 
 # game/boutique.rpy#L2472
 translate chinese rubyeveningmenu_96fc6f3f:

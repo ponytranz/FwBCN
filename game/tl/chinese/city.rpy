@@ -56,13 +56,13 @@ translate chinese nightclubcm_38b6d0cc:
 translate chinese nightclubcm_fbfe5f55:
 
     # "I could probably visit Dawn whenever I want, but she's often away for work."
-    "I could probably visit Dawn whenever I want, but she's often away for work."
+    "我想什么时候去看Dawn都可以，但她经常外出工作。"
 
 # game/city.rpy#L54
 translate chinese nightclubcm_6bcb94ed:
 
     # "I'd have a better chance to catch her in the evening, she seems to sleep here often."
-    "I'd have a better chance to catch her in the evening, she seems to sleep here often."
+    "我有更好的机会在晚上抓到她，她似乎经常睡在这里。"
 
 # game/city.rpy#L69
 translate chinese musicstudio_d9de54f7:

@@ -5348,7 +5348,7 @@ translate chinese honeyannathreesome_5e50e85a:
 translate chinese honeyannathreesome_57e7154e:
 
     # "As Honey is handing me my pay, Blossom modestly walks in the door, and closes it gently behind her."
-    "As Honey is handing me my pay, Blossom modestly walks in the door, and closes it gently behind her."
+    "当Honey递给我报酬时，Blossom谦虚地走进了门，轻轻地把门关上。"
 
 # game/farm.rpy#L1664
 translate chinese honeyannathreesome_74b57f6b:
@@ -5366,13 +5366,13 @@ translate chinese honeyannathreesome_f648d3a6:
 translate chinese honeyannathreesome_5e2fa2ef:
 
     # honeycrisp "Howdy Blossom, how was college?"
-    honeycrisp "Howdy Blossom, how was college?"
+    honeycrisp "你好啊 Blossom，大学怎么样？"
 
 # game/farm.rpy#L1668
 translate chinese honeyannathreesome_9b864ef4:
 
     # blossom "Mhm, it was good."
-    blossom "Mhm, it was good."
+    blossom "嗯，很不错。"
 
 # game/farm.rpy#L1670
 translate chinese honeyannathreesome_0254ee2c:
@@ -5390,7 +5390,7 @@ translate chinese honeyannathreesome_ac533870:
 translate chinese honeyannathreesome_d06e8a57:
 
     # blossom "See you soon, Sis."
-    blossom "See you soon, Sis."
+    blossom "回头见，姐姐。"
 
 # game/farm.rpy#L1678
 translate chinese honeyannathreesome_bea91544:
@@ -5408,25 +5408,25 @@ translate chinese honeyannathreesome_0db1080d:
 translate chinese honeyannathreesome_0f828401:
 
     # blossom "What in tarnation did I just overhear?"
-    blossom "What in tarnation did I just overhear?"
+    blossom "我刚才不小心听到了什么？"
 
 # game/farm.rpy#L1683
 translate chinese honeyannathreesome_49f37691:
 
     # "Oh no, did she overhear me and Honey talking about the threesome?"
-    "Oh no, did she overhear me and Honey talking about the threesome?"
+    "不是吧，她是不是无意中听到我和Honey在谈论3p ？"
 
 # game/farm.rpy#L1688
 translate chinese honeyannathreesome_5d900c50:
 
     # blossom "Nuh uh, you totally had sex with my sister, I can tell…"
-    blossom "Nuh uh, you totally had sex with my sister, I can tell…"
+    blossom "额呃，你跟我妹妹做过爱，我能看出来..."
 
 # game/farm.rpy#L1689
 translate chinese honeyannathreesome_30fc42a1:
 
     # mc "You can tell?"
-    mc "You can tell?"
+    mc "你可以告诉我吗？"
 
 # game/farm.rpy#L1692
 translate chinese honeyannathreesome_ede89779:
@@ -5444,13 +5444,13 @@ translate chinese honeyannathreesome_81709362:
 translate chinese honeyannathreesome_6e36b23e:
 
     # blossom "Well too late, I already know."
-    blossom "呃...太晚了，我已经知道了。"
+    blossom "呃...太迟了，我已经知道了。"
 
 # game/farm.rpy#L1697
 translate chinese honeyannathreesome_1148a5e8:
 
     # mc "You saw us?"
-    mc "You saw us?"
+    mc "你看见我们了？"
 
 # game/farm.rpy#L1698
 translate chinese honeyannathreesome_07c1566b:
@@ -5462,61 +5462,61 @@ translate chinese honeyannathreesome_07c1566b:
 translate chinese honeyannathreesome_e803b2bc:
 
     # blossom "You two smell of sex."
-    blossom "You two smell of sex."
+    blossom "你们俩身上有性爱的味道。"
 
 # game/farm.rpy#L1701
 translate chinese honeyannathreesome_bd0b770d:
 
     # "Is she bluffing? Or do ponies have much sharper senses of smell than humans?"
-    "Is she bluffing? Or do ponies have much sharper senses of smell than humans?"
+    "是她在虚张声势吗？还是说小马的嗅觉比人类灵敏得多？"
 
 # game/farm.rpy#L1703
 translate chinese honeyannathreesome_9cf61049:
 
     # "Blossom sits on the same chair as last time. She leans over and takes a cover off a peculiar box in the corner of the room."
-    "Blossom sits on the same chair as last time. She leans over and takes a cover off a peculiar box in the corner of the room."
+    "Blossom和上次坐在同一把椅子上。她俯下身去，拿掉房间角落里一个奇怪的盒子的盖子。"
 
 # game/farm.rpy#L1704
 translate chinese honeyannathreesome_62747ed1:
 
     # blossom "Ohh, Anna was here, she brought the week’s milk."
-    blossom "Ohh, Anna was here, she brought the week’s milk."
+    blossom "喔，Anna来了，她带来了一周的牛奶。"
 
 # game/farm.rpy#L1705
 translate chinese honeyannathreesome_c2d162cb:
 
     # "I look down at the box and I see that it’s full of bottles. Bottles of… milk?"
-    "I look down at the box and I see that it’s full of bottles. Bottles of… milk?"
+    "我低头看了看盒子，看到里面装满了瓶子。瓶装... 牛奶吗？"
 
 # game/farm.rpy#L1706
 translate chinese honeyannathreesome_eddebf40:
 
     # mc "Wait a second, is that really a box full of milk?"
-    mc "Wait a second, is that really a box full of milk?"
+    mc "等等，那真的是一盒牛奶吗？"
 
 # game/farm.rpy#L1708
 translate chinese honeyannathreesome_771f17a1:
 
     # blossom "Oh uh, yes, Anna milks this and delivers it to us every week, and we distribute it around here."
-    blossom "Oh uh, yes, Anna milks this and delivers it to us every week, and we distribute it around here."
+    blossom "是的，Anna每周从这里挤奶，然后送到我们这里，我们在这里分发。"
 
 # game/farm.rpy#L1709
 translate chinese honeyannathreesome_84a75915:
 
     # mc "You’re kidding, I spent all that time milking her only for there to be this much?"
-    mc "You’re kidding, I spent all that time milking her only for there to be this much?"
+    mc "你在开玩笑吧，我花了如此多时间挤她的奶就换来这么多？"
 
 # game/farm.rpy#L1712
 translate chinese honeyannathreesome_5bcee0fd:
 
     # blossom "You milked her? Oh, my goodness that’s kinda lewd…"
-    blossom "You milked her? Oh, my goodness that’s kinda lewd…"
+    blossom "你给她挤奶了？哦，我的天哪，那是有些下流的..."
 
 # game/farm.rpy#L1713
 translate chinese honeyannathreesome_b16a6193:
 
     # mc "Oh, is it?"
-    mc "Oh, is it?"
+    mc "喔，是吗？"
 
 # game/farm.rpy#L1715
 translate chinese honeyannathreesome_9a8a9052:

@@ -5726,49 +5726,49 @@ translate chinese finale_4ebf224e:
 translate chinese finale_46412d10:
 
     # "The towers launched towards Moxie, shattering as the overwhelming power of magic barely held the crumbling structures together."
-    "The towers launched towards Moxie, shattering as the overwhelming power of magic barely held the crumbling structures together."
+    "塔楼向Moxie冲去，强大的魔力只能勉强将摇摇欲坠的建筑连在一起，塔楼被震得粉碎。"
 
 # game/finalroute.rpy#L2621
 translate chinese finale_7ee1a634:
 
     # "What resulted was a beautiful slurry of shrapnel, capable of piercing the earth; firing like a sea of death."
-    "What resulted was a beautiful slurry of shrapnel, capable of piercing the earth; firing like a sea of death."
+    "这造成了一团壮观的碎块从天而降，威力足以贯穿地面；顷刻间天空化为一片火海。"
 
 # game/finalroute.rpy#L2624
 translate chinese finale_c0ef72cf:
 
     # "From one side of the battlefield Penelope begged the Queen to cease her destruction."
-    "From one side of the battlefield Penelope begged the Queen to cease her destruction."
+    "在战场的一边，Penelope正恳求女王停下她的手中的毁灭。"
 
 # game/finalroute.rpy#L2625
 translate chinese finale_65ea5fcf:
 
     # penelope "What are you doing my Queen?! You promised me that it wouldn't be like this! Stop, stop!"
-    penelope "What are you doing my Queen?! You promised me that it wouldn't be like this! Stop, stop!"
+    penelope "你在做什么呀，我的女王？！你答应过我不会这样的！停,停下！"
 
 # game/finalroute.rpy#L2630
 translate chinese finale_dc261f6a:
 
     # "From the other side, Lily yelled out to Moxie."
-    "From the other side, Lily yelled out to Moxie."
+    "而在另一边，Lily对Moxie喊道。"
 
 # game/finalroute.rpy#L2631
 translate chinese finale_7a2e8a1a:
 
     # lily "Don’t worry Moxie, the castle has been evacuated! Do your best!"
-    lily "Don’t worry Moxie, the castle has been evacuated! Do your best!"
+    lily "别担心，Moxie，城堡里的人都已经被疏散了！放开拳脚大干一场吧！"
 
 # game/finalroute.rpy#L2634
 translate chinese finale_36e53a27:
 
     # moxie "Right, in that case… Two can play at that…"
-    moxie "Right, in that case… Two can play at that…"
+    moxie "好吧，如果是这样的话…就不必有什么保留了..."
 
 # game/finalroute.rpy#L2639
 translate chinese finale_c9205ee7:
 
     # "The sky was blemished with a blazing incandescent red as the castle crumbled from the structural damage Morrigan had caused."
-    "The sky was blemished with a blazing incandescent red as the castle crumbled from the structural damage Morrigan had caused."
+    "城堡因Morrigan的破坏而坍塌，天空被炽热的红色染得斑驳不堪。"
 
 # game/finalroute.rpy#L2640
 translate chinese finale_62f38a4d:
@@ -5780,145 +5780,145 @@ translate chinese finale_62f38a4d:
 translate chinese finale_df628f2e:
 
     # "And it worked; tens of thousands of rocks were blocked by the floating tower. Not a single stray rock managed to find itself near Moxie or the bystanders."
-    "And it worked; tens of thousands of rocks were blocked by the floating tower. Not a single stray rock managed to find itself near Moxie or the bystanders."
+    "这成效显著；数以万计的岩石被浮塔挡住了去路。没有一块被偏移的岩石打到Moxie或旁观者附近。"
 
 # game/finalroute.rpy#L2661
 translate chinese finale_b5e6b853:
 
     # "With the collision over, the towers were reduced to nothing but a mass of rocks and debris as they collapsed to the ground lifeless."
-    "With the collision over, the towers were reduced to nothing but a mass of rocks and debris as they collapsed to the ground lifeless."
+    "随着撞击的结束，双塔变成了一堆岩石和碎片，倒在地上毫无生气。"
 
 # game/finalroute.rpy#L2663
 translate chinese finale_5d1ea8c7:
 
     # morrigan "Not afraid to get your hands dirtied with blood, are you? Ihihihi, how many people do you think were in that tower that you just killed?! *Cackle, cackle*"
-    morrigan "Not afraid to get your hands dirtied with blood, are you? Ihihihi, how many people do you think were in that tower that you just killed?! *Cackle, cackle*"
+    morrigan "哦，你不怕双手沾满鲜血吧？噫嘿嘿，你觉得你刚杀了多少塔里的马呀！*咯咯咯咯*"
 
 # game/finalroute.rpy#L2666
 translate chinese finale_3d41cb37:
 
     # moxie "Hmph, no one was in that tower, don’t try to bluff me with that manipulative bullshit."
-    moxie "Hmph, no one was in that tower, don’t try to bluff me with that manipulative bullshit."
+    moxie "那座塔里没马，别想用那种唬人的鬼话吓唬我。"
 
 # game/finalroute.rpy#L2667
 translate chinese finale_8bec9c2c:
 
     # moxie "It’s my turn now, you won’t catch me resorting to such dirty tactics!"
-    moxie "It’s my turn now, you won’t catch me resorting to such dirty tactics!"
+    moxie "现在轮到我了，你休想用这种卑鄙的手段击垮我！"
 
 # game/finalroute.rpy#L2679
 translate chinese finale_2c6d4915:
 
     # "With pure magic, Moxie formed her own weapon. An innumerable group of magical javelins formed around her."
-    "With pure magic, Moxie formed her own weapon. An innumerable group of magical javelins formed around her."
+    "Moxie将纯净的魔力化作了自己的武器。数不清的魔法标枪围绕着她。"
 
 # game/finalroute.rpy#L2680
 translate chinese finale_e38c45c7:
 
     # "With such an overwhelming display, Moxie felt certain that victory was within her grasp."
-    "With such an overwhelming display, Moxie felt certain that victory was within her grasp."
+    "有了这样锐不可当的武器，莫克西确信胜利在握。"
 
 # game/finalroute.rpy#L2681
 translate chinese finale_000751d4:
 
     # moxie "Using your surroundings in such a reckless way was idiotic, you gave me a chance to concentrate my magic into these weapons."
-    moxie "Using your surroundings in such a reckless way was idiotic, you gave me a chance to concentrate my magic into these weapons."
+    moxie "你还真是有勇无谋呀，鲁莽地利用你周围的环境，给了我一个让魔法聚集成这些武器机会。"
 
 # game/finalroute.rpy#L2684
 translate chinese finale_14231e08:
 
     # morrigan "So you were using all that time to charge up your magic? Perhaps I underestimated you Moxie, truly impreeeesssiivee!!"
-    morrigan "So you were using all that time to charge up your magic? Perhaps I underestimated you Moxie, truly impreeeesssiivee!!"
+    morrigan "所以你用这些时间来准备你的魔法？也许我小瞧你了Moxie，真是好~计~谋~呀!!"
 
 # game/finalroute.rpy#L2685
 translate chinese finale_fbf91bef:
 
     # morrigan "But do you think I’m so naïve to not do the exact same thiiinnngg?"
-    morrigan "But do you think I’m so naïve to not do the exact same thiiinnngg?"
+    morrigan "但你觉得我就傻到不会做和你同样的事吗？"
 
 # game/finalroute.rpy#L2702
 translate chinese finale_01142a77:
 
     # "With a snap, Moxie launched the army of javelins directly towards Morrigan with complete accuracy. Each acting with the velocity and power of a lightning bolt."
-    "With a snap, Moxie launched the army of javelins directly towards Morrigan with complete accuracy. Each acting with the velocity and power of a lightning bolt."
+    "刹那间，Moxie将标枪大军径直地朝Morrigan扔去。每一个动作都饱含雷霆般的速度和力量。"
 
 # game/finalroute.rpy#L2716
 translate chinese finale_5b5692e0:
 
     # "Morrigan herself exploded with a radiant green aura as she used the stone from the mountain itself. With an extremely powerful alteration spell, she turned the mountains into powerful giant golems."
-    "Morrigan herself exploded with a radiant green aura as she used the stone from the mountain itself. With an extremely powerful alteration spell, she turned the mountains into powerful giant golems."
+    "Morrigan在群山之间爆发出一股绿光。她用一种极其强大的变形咒，把山脉变成了强大的巨魔。"
 
 # game/finalroute.rpy#L2717
 translate chinese finale_520999e0:
 
     # "Each of the golems reached 50 meters high, able to protect Morrigan with massive stone bodies so gargantuan they could eclipse the sun."
-    "Each of the golems reached 50 meters high, able to protect Morrigan with massive stone bodies so gargantuan they could eclipse the sun."
+    "每一个巨魔都有50米高，能够用遮天蔽日的岩石躯体来保护Morrigan。"
 
 # game/finalroute.rpy#L2718
 translate chinese finale_5b2cec51:
 
     # "The mountain range itself had been converted into an army. Morrigan who hid behind them was like a true insect in comparison."
-    "The mountain range itself had been converted into an army. Morrigan who hid behind them was like a true insect in comparison."
+    "山脉本身已经化为了一支军队。相比之下，躲在它们后面的Morrigan就像一只灰溜溜的小虫子。"
 
 # game/finalroute.rpy#L2721
 translate chinese finale_74a7e64b:
 
     # moxie "Ghh, do you really think some rocks are going to stop magic this powerful?"
-    moxie "Ghh, do you really think some rocks are going to stop magic this powerful?"
+    moxie "哈，你真的认为一些石头就能阻止这么强大的魔法吗?"
 
 # game/finalroute.rpy#L2726
 translate chinese finale_a5e084c3:
 
     # "Milliseconds before the impact of Moxie’s attack, green lightning sprayed and crackled from Morrigan’s horn, illuminating each of the golems and applying a concentrated dose of her magic to each one."
-    "Milliseconds before the impact of Moxie’s attack, green lightning sprayed and crackled from Morrigan’s horn, illuminating each of the golems and applying a concentrated dose of her magic to each one."
+    "就在Moxie攻击迎来的几毫秒前，一道绿色闪电从Morrigan的角中喷射出来，噼啪作响，照亮了每一个巨魔并将庞大魔力施加到它们身上。"
 
 # game/finalroute.rpy#L2738
 translate chinese finale_12e2b312:
 
     # "Like a rain of comets, each of the javelins shattered and crumbled as the agile mountain golems flawlessly intercepted the attack."
-    "Like a rain of comets, each of the javelins shattered and crumbled as the agile mountain golems flawlessly intercepted the attack."
+    "就像一场彗星雨划过，每一根标枪都被敏捷的山脉巨魔完美地拦截了下来。"
 
 # game/finalroute.rpy#L2741
 translate chinese finale_cbe20023:
 
     # moxie "How did we get here… This is ridiculous…"
-    moxie "How did we get here… This is ridiculous…"
+    moxie "我们竟然走到了这一步...挺离谱的..."
 
 # game/finalroute.rpy#L2744
 translate chinese finale_13b0ae65:
 
     # morrigan "Struggling to keep up? Hah! You could barely lift a book with telekinesis last week, you’re completely outmatched!"
-    morrigan "Struggling to keep up? Hah! You could barely lift a book with telekinesis last week, you’re completely outmatched!"
+    morrigan "怎么不跳了呀？哈！上周你可是连一本书都差点飘不起来呢，你已经输了！"
 
 # game/finalroute.rpy#L2747
 translate chinese finale_aaf01683:
 
     # moxie "No, that's wrong! You were sharing my body… Which means we shared magic pools, so your magic was equally as pathetic!"
-    moxie "No, that's wrong! You were sharing my body… Which means we shared magic pools, so your magic was equally as pathetic!"
+    moxie "不，你错了！我们先前共用着一个身体，也就是说我们的魔法量相差无几，魔法能力也是半斤八两！"
 
 # game/finalroute.rpy#L2750
 translate chinese finale_907f175b:
 
     # morrigan "Is that so? Allow me to show you how to do that javelin attack properly, and you’ll see that we’re far from equal!"
-    morrigan "Is that so? Allow me to show you how to do that javelin attack properly, and you’ll see that we’re far from equal!"
+    morrigan "哦，真的是这样么？请允许我向你展示如何正确地进行标枪攻击，你会发现我们俩的实力一个在天上一个在地下！"
 
 # game/finalroute.rpy#L2754
 translate chinese finale_4ec06689:
 
     # "A storm of energy consumed the golems. The magic imbuing them morphed into javelins of pure lightning crackling with potent magical power."
-    "A storm of energy consumed the golems. The magic imbuing them morphed into javelins of pure lightning crackling with potent magical power."
+    "能量风暴吞噬了这些巨魔。它们身体里的魔力被抽出，变成了具有强大魔力的闪电标枪。"
 
 # game/finalroute.rpy#L2755
 translate chinese finale_8e5c018a:
 
     # "Each golem resumed a Zeus-like throwing stance as they prepared to launch an attack that Moxie was completely unprepared to defend against."
-    "Each golem resumed a Zeus-like throwing stance as they prepared to launch an attack that Moxie was completely unprepared to defend against."
+    "每个巨魔都保持着雷神宙斯式的投掷姿势，准备向毫无防备的Moxie发动攻击。"
 
 # game/finalroute.rpy#L2756
 translate chinese finale_1a2d4e48:
 
     # "Moxie scoffed; she must have been certain that she’d be able to block this attack with her magic shield, even without time to bolster a proper defence."
-    "Moxie scoffed; she must have been certain that she’d be able to block this attack with her magic shield, even without time to bolster a proper defence."
+    "Moxie不以为意；尽管没有时间去好好部署防御，但她坚信她的魔法盾牌能够抵挡住这次攻击。"
 
 # game/finalroute.rpy#L2757
 translate chinese finale_5a60999e:
@@ -5930,7 +5930,7 @@ translate chinese finale_5a60999e:
 translate chinese finale_31ee2f2f:
 
     # moxie "What the-? Why the sky?"
-    moxie "What the-? Why the sky?"
+    moxie "什么鬼？为什么扔到了天上..？"
 
 # game/finalroute.rpy#L2762
 translate chinese finale_76a5d671:
@@ -5942,13 +5942,13 @@ translate chinese finale_76a5d671:
 translate chinese finale_fbc1e587:
 
     # "Each of the many thousand lightning bolts all targeted directly at Moxie."
-    "Each of the many thousand lightning bolts all targeted directly at Moxie."
+    "上千道闪电，每一道都径直向Moxie射去。"
 
 # game/finalroute.rpy#L2780
 translate chinese finale_6838bf4c:
 
     # "However, just before impact she vanishes!"
-    "However, just before impact she vanishes!"
+    "然而，在这千钧一发之际，她突然消失了!"
 
 # game/finalroute.rpy#L2782
 translate chinese finale_cf395554:
@@ -5960,67 +5960,67 @@ translate chinese finale_cf395554:
 translate chinese finale_d8410699:
 
     # "However, Morrigan sensed something was wrong."
-    "However, Morrigan sensed something was wrong."
+    "然而，Morrigan察觉到有些不对劲。"
 
 # game/finalroute.rpy#L2786
 translate chinese finale_de4860c3:
 
     # morrigan "Ghh, did I… win?"
-    morrigan "Ghh, did I… win?"
+    morrigan "额，我...赢了？"
 
 # game/finalroute.rpy#L2787
 translate chinese finale_84019b61:
 
     # "Morrigan froze, growing increasingly tense and anxious."
-    "Morrigan froze, growing increasingly tense and anxious."
+    "Morrigan突然一愣，情绪变得越来越紧张和焦虑。"
 
 # game/finalroute.rpy#L2792
 translate chinese finale_99cc2ce4:
 
     # "Using a power practiced for many nights, Moxie reappeared behind Morrigan."
-    "Using a power practiced for many nights, Moxie reappeared behind Morrigan."
+    "Moxie使用了一种训练了好几个夜晚的能力，在Morrigan身后再次出现。"
 
 # game/finalroute.rpy#L2793
 translate chinese finale_0a1a249b:
 
     # moxie "It’s over."
-    moxie "It’s over."
+    moxie "结束了。"
 
 # game/finalroute.rpy#L2794
 translate chinese finale_c810f375:
 
     # morrigan "N-No way, invisibility?!"
-    morrigan "N-No way, invisibility?!"
+    morrigan "什-什么，你能隐身？！"
 
 # game/finalroute.rpy#L2806
 translate chinese finale_06817f4a:
 
     # "Morrigan grit her teeth as Moxie released an aggressive magical attack from behind."
-    "Morrigan grit her teeth as Moxie released an aggressive magical attack from behind."
+    "Moxie给Morrigan来了一记魔法背刺，Morrigan痛得咬紧牙关。"
 
 # game/finalroute.rpy#L2807
 translate chinese finale_34fd5329:
 
     # "Morrigan was stuck, she couldn't turn around to attack, all she could was defend in this vulnerable position."
-    "Morrigan was stuck, she couldn't turn around to attack, all she could was defend in this vulnerable position."
+    "Morrigan被困住了，她不能转身进攻，只得在这样被动处境下防御。"
 
 # game/finalroute.rpy#L2808
 translate chinese finale_ed902979:
 
     # "Moxie's magic was point blank and concentrated directly at all Morrigan’s vital areas. If Morrigan let down her shield even for a second, she'd be decimated."
-    "Moxie's magic was point blank and concentrated directly at all Morrigan’s vital areas. If Morrigan let down her shield even for a second, she'd be decimated."
+    "Moxie的魔法攻击直击Morrigan的要害。假使Morrigan再晚一点释放她的盾牌，哪怕一秒，她就会横尸当场。"
 
 # game/finalroute.rpy#L2809
 translate chinese finale_57a2f521:
 
     # "This immediate close-range barrage hit Morrigan directly, and even though she tried to shield it, she was on the backfoot."
-    "This immediate close-range barrage hit Morrigan directly, and even though she tried to shield it, she was on the backfoot."
+    "这样直接的近距离攻击径直击中了Morrigan，即使她尝试阻挡它，也是无济于事。"
 
 # game/finalroute.rpy#L2820
 translate chinese finale_e25890d9:
 
     # "Spear, after sword after javelin, Moxie gave it her all. Morrigan couldn’t even begin to retaliate. Even if she did, the magical mess of close-range lights blinded her eyes."
-    "Spear, after sword after javelin, Moxie gave it her all. Morrigan couldn’t even begin to retaliate. Even if she did, the magical mess of close-range lights blinded her eyes."
+    "Moxie将矛，剑，标枪一股脑地向她射去。打的Morrigan甚至无法还手。即使她可以出手，这些近距离的魔法闪光也会闪瞎她的眼睛。"
 
 # game/finalroute.rpy#L2821
 translate chinese finale_3fc2c656:
@@ -6032,31 +6032,31 @@ translate chinese finale_3fc2c656:
 translate chinese finale_41439376:
 
     # morrigan "Mountain golems, stop her!"
-    morrigan "Mountain golems, stop her!"
+    morrigan "巨魔，让她给我停下！"
 
 # game/finalroute.rpy#L2824
 translate chinese finale_3b9c28db:
 
     # "From this advantageous position, even the golems were incapable of retaliating."
-    "From this advantageous position, even the golems were incapable of retaliating."
+    "然而这个位置相当有利，即使巨魔也无法无从下手。"
 
 # game/finalroute.rpy#L2827
 translate chinese finale_1e23fe9f:
 
     # "No longer imbued by Morrigan’s magic, any attempt to close the distance shredded their stone bodies. Not even rain could enter the sphere of destruction as it was instantly boiled."
-    "No longer imbued by Morrigan’s magic, any attempt to close the distance shredded their stone bodies. Not even rain could enter the sphere of destruction as it was instantly boiled."
+    "没有了Morrigan的魔法buff加持，任何接近的尝试只会粉碎他们的岩石躯体。即便是雨水进入这片区域也会被瞬间蒸发。"
 
 # game/finalroute.rpy#L2842
 translate chinese finale_062ed104:
 
     # "At an increasing rate, magical slashes pierced Morrigan’s shield, she was growing weaker by the second."
-    "At an increasing rate, magical slashes pierced Morrigan’s shield, she was growing weaker by the second."
+    "魔法的刀痕在Morrigan的盾牌上出现得越来越快，她的身体不断虚弱。"
 
 # game/finalroute.rpy#L2853
 translate chinese finale_4b607889:
 
     # "All whilst Moxie only increased the offensive, growing more concentrated and deadly."
-    "All whilst Moxie only increased the offensive, growing more concentrated and deadly."
+    "而Moxie只专注于进攻，攻击变得越来越集中和致命。"
 
 # game/finalroute.rpy#L2864
 translate chinese finale_d03be39c:
@@ -6068,67 +6068,67 @@ translate chinese finale_d03be39c:
 translate chinese finale_8330a9d5:
 
     # "And then, in that instant, Morrigan's shield shattered!"
-    "And then, in that instant, Morrigan's shield shattered!"
+    "就在那一瞬间，Morrigan的盾牌破裂！"
 
 # game/finalroute.rpy#L2882
 translate chinese finale_40ebad42:
 
     # "The battle was over, Arcadia had won."
-    "The battle was over, Arcadia had won."
+    "战斗结束了，Arcadia迎来了胜利。"
 
 # game/finalroute.rpy#L2885
 translate chinese finale_11df86ed:
 
     # "With a flash, all magic finally ceased."
-    "With a flash, all magic finally ceased."
+    "随着一道闪电，魔法攻击总算停止了。"
 
 # game/finalroute.rpy#L2886
 translate chinese finale_ceede186:
 
     # "The golems lost their magic and returned to stone as the sky grew dull."
-    "The golems lost their magic and returned to stone as the sky grew dull."
+    "天空变成了沉闷的灰色，巨魔失去了魔法，变成了石头。"
 
 # game/finalroute.rpy#L2887
 translate chinese finale_37512364:
 
     # "From the empty castle below, the elements, myself and the royal sisters had been watching the fight unblinkingly."
-    "From the empty castle below, the elements, myself and the royal sisters had been watching the fight unblinkingly."
+    "在空无一人的城堡下面，我和皇家姐妹一直目不转睛地看着这场战斗。"
 
 # game/finalroute.rpy#L2888
 translate chinese finale_feb4d46a:
 
     # "As emotions gently cooled, the sound of rain and wind returned, the occasional snap of lightning ringing and blinding."
-    "As emotions gently cooled, the sound of rain and wind returned, the occasional snap of lightning ringing and blinding."
+    "正当我们心情刚平复下来，雨声和风声又响起来了，偶尔还会有电闪雷鸣。"
 
 # game/finalroute.rpy#L2895
 translate chinese finale_96e8b3db:
 
     # "Morrigan had been pierced by a beam of energy, in the exact same location she had hit me previously."
-    "Morrigan had been pierced by a beam of energy, in the exact same location she had hit me previously."
+    "Morrigan在她之前击中我的位置，被一束魔力贯穿了身体。"
 
 # game/finalroute.rpy#L2896
 translate chinese finale_3362c0a7:
 
     # morrigan "Grrhh, guhh… *Cough* Ghhh… You got me…"
-    morrigan "Grrhh, guhh… *Cough* Ghhh… You got me…"
+    morrigan "呃，呃…咳嗽…呃…你打败了我…"
 
 # game/finalroute.rpy#L2897
 translate chinese finale_321a5c60:
 
     # "The pierced mare tried to grin, she tried taking her death with pride; but she repeatedly failed to keep composure, only making her appear more pathetic."
-    "The pierced mare tried to grin, she tried taking her death with pride; but she repeatedly failed to keep composure, only making her appear more pathetic."
+    "身体被贯穿的母马试着微笑，她试着骄傲地面对死亡；但她总是无法保持镇静，因为这只会让她显得更可悲。"
 
 # game/finalroute.rpy#L2900
 translate chinese finale_2515e7ad:
 
     # "Moxie sheathes her magical beam, causing Morrigan to fall to the ground; pale and weak."
-    "Moxie sheathes her magical beam, causing Morrigan to fall to the ground; pale and weak."
+    "Moxie收起了她的魔法光束，Morrigan应声倒地；脸色苍白而虚弱。"
 
 # game/finalroute.rpy#L2908
 translate chinese finale_12402025:
 
     # moxie "It's finally done..."
-    moxie "It's finally done..."
+    moxie "总算是结束了…"
 
 # game/finalroute.rpy#L2918
 translate chinese finale_a06f49e3:
@@ -6140,325 +6140,325 @@ translate chinese finale_a06f49e3:
 translate chinese finale_49fdf03f:
 
     # morrigan "You fool! Ahahaha, you dare look down on me?! *Cough*"
-    morrigan "You fool! Ahahaha, you dare look down on me?! *Cough*"
+    morrigan "你这个傻逼！哈哈，你竟敢小瞧我？！*咳嗽*"
 
 # game/finalroute.rpy#L2920
 translate chinese finale_3b966c0d:
 
     # "Moxie fell down clutching her thigh, pain like nothing she had ever felt before seared through her body."
-    "Moxie fell down clutching her thigh, pain like nothing she had ever felt before seared through her body."
+    "Moxie扑倒在地，抓着自己的大腿，从未有过的疼痛灼烧着她的全身。"
 
 # game/finalroute.rpy#L2922
 translate chinese finale_e74afe87:
 
     # moxie "Y-You bitch… Argh, ahhh! Ahh, damnit, you were acting?!"
-    moxie "Y-You bitch… Argh, ahhh! Ahh, damnit, you were acting?!"
+    moxie "你个婊子…啊，啊!啊，该死，你在演戏？！"
 
 # game/finalroute.rpy#L2924
 translate chinese finale_be2e7e41:
 
     # morrigan "Echh, ghhh… I told you Moxie, I’ll do anything for this! You’re far too naïve to beat me!"
-    morrigan "Echh, ghhh… I told you Moxie, I’ll do anything for this! You’re far too naïve to beat me!"
+    morrigan "我告诉过你，Moxie，我愿意为了我的大业做任何事！你还是太嫩了，打不过我的！"
 
 # game/finalroute.rpy#L2925
 translate chinese finale_58652131:
 
     # morrigan "It’s over, I’ve won! Dieee, die!!"
-    morrigan "It’s over, I’ve won! Dieee, die!!"
+    morrigan "结束了，是我赢了！给我去死吧——! !"
 
 # game/finalroute.rpy#L2926
 translate chinese finale_cd71d023:
 
     # "It was only a small wound, but the pain was real, Moxie raised her magical shield once again and prepared to finish off Morrigan."
-    "It was only a small wound, but the pain was real, Moxie raised her magical shield once again and prepared to finish off Morrigan."
+    "这虽然只是一个小伤口，但这真的很痛。Moxie再次举起她的魔法盾牌，准备与Morrigan决一死战。"
 
 # game/finalroute.rpy#L2927
 translate chinese finale_58906f9c:
 
     # "Both pierced and injured, both girls on the verge of defeat, prepared to enter one final and desperate clash of magic."
-    "Both pierced and injured, both girls on the verge of defeat, prepared to enter one final and desperate clash of magic."
+    "两个女孩儿都被刺穿了，也受了伤，都处于失败的边缘，她们也都准备进入最后一场绝望的魔法对决了。"
 
 # game/finalroute.rpy#L2928
 translate chinese finale_e0fa7945:
 
     # "That is until…"
-    "That is until…"
+    "直到……"
 
 # game/finalroute.rpy#L2930
 translate chinese finale_813a38ab:
 
     # lily "Elements, fire now!"
-    lily "Elements, fire now!"
+    lily "谐律精华充能完毕，开火！"
 
 # game/finalroute.rpy#L2934
 translate chinese finale_9b714103:
 
     # morrigan "You?! Lily!! I-I’LL KILL YOU ALL…"
-    morrigan "You?! Lily!! I-I’LL KILL YOU ALL…"
+    morrigan "你？！Lily！！我把你们千刀万剐…"
 
 # game/finalroute.rpy#L2941
 translate chinese finale_f547da3a:
 
     # "With one final blast, the wreckage of the castle was consumed in light."
-    "With one final blast, the wreckage of the castle was consumed in light."
+    "随着这最后一次爆炸，城堡的残骸在阳光中化为灰烬。"
 
 # game/finalroute.rpy#L2942
 translate chinese finale_77f2fedf:
 
     # "As it settled, Morrigan was utterly vaporised."
-    "As it settled, Morrigan was utterly vaporised."
+    "Morrigan被完全蒸发了，一切尘埃落定。"
 
 # game/finalroute.rpy#L2943
 translate chinese finale_03c0f4ba:
 
     # "Utterly, vaporised."
-    "Utterly, vaporised."
+    "完全，蒸发。渣都不剩。"
 
 # game/finalroute.rpy#L2950
 translate chinese finale_ab78b350:
 
     # moxie "Ohhh, goshhh… that was so tiring… Eugh, my thigh, it’s bleeding… can’t move an inch…"
-    moxie "Ohhh, goshhh… that was so tiring… Eugh, my thigh, it’s bleeding… can’t move an inch…"
+    moxie "哦，天啦噜…这也太累人了吧…唉，我的大腿还在淌血呀……一点都动不了……"
 
 # game/finalroute.rpy#L2951
 translate chinese finale_f51e9da2:
 
     # mc "Moxie, are you okay?"
-    mc "Moxie, are you okay?"
+    mc "Moxie，你还好吗?"
 
 # game/finalroute.rpy#L2953
 translate chinese finale_e8a5cac2:
 
     # moxie "Y-Yeah, help me, I need a bandage…"
-    moxie "Y-Yeah, help me, I need a bandage…"
+    moxie "还-还行，快来帮我，我需要绷带…"
 
 # game/finalroute.rpy#L2956
 translate chinese finale_5c330ed8:
 
     # selene "Here, let me tend to your wounds."
-    selene "Here, let me tend to your wounds."
+    selene "来，让我帮你处理伤口吧。"
 
 # game/finalroute.rpy#L2957
 translate chinese finale_e631a3c1:
 
     # moxie "Where’s Morrigan, what happened? Did we win?"
-    moxie "Where’s Morrigan, what happened? Did we win?"
+    moxie "Morrigan在哪儿，发生啥事儿了?咱们赢了?"
 
 # game/finalroute.rpy#L2966
 translate chinese finale_f8cb2d74:
 
     # lily "Yep, we got her! Blasted into a million pieces! And we couldn't have done it without you."
-    lily "Yep, we got her! Blasted into a million pieces! And we couldn't have done it without you."
+    lily "是的，咱们打败了她！轰的渣都不剩哟！没有你，我们是不可能成功的。"
 
 # game/finalroute.rpy#L2968
 translate chinese finale_82e4db78:
 
     # moxie "Thank you…"
-    moxie "Thank you…"
+    moxie "谢谢你们，大伙儿…"
 
 # game/finalroute.rpy#L2969
 translate chinese finale_5d4594d7:
 
     # "Moxie closes her eyes, she’s not sleeping, but she’s clearly exhausted."
-    "Moxie closes her eyes, she’s not sleeping, but she’s clearly exhausted."
+    "Moxie闭上眼睛，她没有睡着，但她显然筋疲力尽了。"
 
 # game/finalroute.rpy#L2971
 translate chinese finale_5ef936b6:
 
     # mc "Just what the hell was Morrigan, and those ‘morphlings’ anyway? What a crazy situation to find myself in."
-    mc "Just what the hell was Morrigan, and those ‘morphlings’ anyway? What a crazy situation to find myself in."
+    mc "Morrigan到底™是什么鬼东西，还有那些“幻型灵”？我发现这里简直太疯狂了。"
 
 # game/finalroute.rpy#L2978
 translate chinese finale_f4cb1d46:
 
     # aurora "Morrigan is, or rather was, the corrupt leader of the morphlings, a species similar to unicorns. We've had to repeatedly deal with her aggressions over the past millenia."
-    aurora "Morrigan is, or rather was, the corrupt leader of the morphlings, a species similar to unicorns. We've had to repeatedly deal with her aggressions over the past millenia."
+    aurora "Morrigan是，或者说曾经是幻型灵的邪恶领袖，幻型灵是一种类似于独角兽的物种。在过去的一千年里，我们不得不反复抵挡她的扩张与侵略。"
 
 # game/finalroute.rpy#L2981
 translate chinese finale_3f953497:
 
     # selene "No matter how much we attempted peaceful cohabitation, Morrigan and her lineage would always abuse their powers… Forcing us into repeated bitter wars... to the detriment of us, and even her own species."
-    selene "No matter how much we attempted peaceful cohabitation, Morrigan and her lineage would always abuse their powers… Forcing us into repeated bitter wars... to the detriment of us, and even her own species."
+    selene "无论我们如何尝试和平共处，Morrigan和她的氏族总是滥用他们的权力，迫使我们不断陷入痛苦的战争…这对我们，甚至对她的同类都是百害无一利的。"
 
 # game/finalroute.rpy#L2983
 translate chinese finale_e6456ae6:
 
     # aurora "We’ve had trouble with Morrigan for an extremely long time. This incident may be the closest she has ever gotten to winning though."
-    aurora "We’ve had trouble with Morrigan for an extremely long time. This incident may be the closest she has ever gotten to winning though."
+    aurora "我们和Morrigan之间的矛盾已经持续了很长时间。不过，这次可能是她最接近胜利的一次。"
 
 # game/finalroute.rpy#L2991
 translate chinese finale_dec0ba54:
 
     # lily "Can we expect any retaliation from her brood?"
-    lily "Can we expect any retaliation from her brood?"
+    lily "她的子民会来报复我们吗?"
 
 # game/finalroute.rpy#L2993
 translate chinese finale_858dd49d:
 
     # aurora "Hmm… I doubt her brood cares much for what she's been doing. Didn't you notice that she was operating more or less alone?"
-    aurora "Hmm… I doubt her brood cares much for what she's been doing. Didn't you notice that she was operating more or less alone?"
+    aurora "我觉得她的子民不会关心她在做什么。你没注意到她几乎是单独在行动吗?"
 
 # game/finalroute.rpy#L2994
 translate chinese finale_6d9b9cc1:
 
     # lily "Ohh, that's true! Even Penelope came to help us."
-    lily "Ohh, that's true! Even Penelope came to help us."
+    lily "哦,确实！就连Penelope也都来帮我们了。"
 
 # game/finalroute.rpy#L2996
 translate chinese finale_08aec8c3:
 
     # selene "It's true, there has been much political strife among the morphlings as of late."
-    selene "It's true, there has been much political strife among the morphlings as of late."
+    selene "的确，最近在幻型灵之间也有很多政治冲突。"
 
 # game/finalroute.rpy#L2997
 translate chinese finale_8b8c260d:
 
     # selene "That doesn't excuse my carelessness... I’m so sorry sis, I really should have noticed [playername]’s curse, and Moxie was being used as a host... I feel so pathetic..."
-    selene "That doesn't excuse my carelessness... I’m so sorry sis, I really should have noticed [playername]’s curse, and Moxie was being used as a host... I feel so pathetic..."
+    selene "这不能作为我掉以轻心的借口。我很抱歉姐姐，我真的应该注意到[playername]的诅咒，以及Moxie被用作容器……我觉得很可怜…"
 
 # game/finalroute.rpy#L2999
 translate chinese finale_c0ab42b8:
 
     # aurora "Please don't apologize... Morphling magic is inherently difficult for us to detect... I couldn't even tell that my pupil's housemate was a morphling! How do you think I feel?"
-    aurora "Please don't apologize... Morphling magic is inherently difficult for us to detect... I couldn't even tell that my pupil's housemate was a morphling! How do you think I feel?"
+    aurora "甭提了…幻型灵法术本身来讲很难被我们发现…我甚至看不出我关门弟子的室友是一只幻型灵呢！你觉得我心里是咋想的吗？"
 
 # game/finalroute.rpy#L3000
 translate chinese finale_1659e8f1:
 
     # aurora "As far as I’m concerned, no one here is to blame, not you, nor Moxie, nor [playername]."
-    aurora "As far as I’m concerned, no one here is to blame, not you, nor Moxie, nor [playername]."
+    aurora "在我看来，这里没有人应该受到责备，包括你，Moxie和[playername]。"
 
 # game/finalroute.rpy#L3004
 translate chinese finale_aaa86fd7:
 
     # "Running in the throne room in a deranged panic, Penelope emerges, her eyes quickly scanning the room."
-    "Running in the throne room in a deranged panic, Penelope emerges, her eyes quickly scanning the room."
+    "Penelope惊慌失措地跑进正殿，她一进来，眼睛迅速扫视着房间。"
 
 # game/finalroute.rpy#L3005
 translate chinese finale_c99b8c40:
 
     # penelope "Morrigan? Where is she? Did she surrender?!"
-    penelope "Morrigan? Where is she? Did she surrender?!"
+    penelope "Morrigan呢？她在哪里？她投降了吗？！"
 
 # game/finalroute.rpy#L3011
 translate chinese finale_c039e0a7:
 
     # lily "She's gone... It's finally over."
-    lily "She's gone... It's finally over."
+    lily "她死了…一切终于结束了。"
 
 # game/finalroute.rpy#L3013
 translate chinese finale_ba662ff5:
 
     # penelope "No way... I thought..."
-    penelope "No way... I thought..."
+    penelope "不会吧…我还以为……"
 
 # game/finalroute.rpy#L3016
 translate chinese finale_2e4fa142:
 
     # moxie "P-Penny… Why?"
-    moxie "P-Penny… Why?"
+    moxie "P-Penny… 为什么？"
 
 # game/finalroute.rpy#L3017
 translate chinese finale_aa46814f:
 
     # "Moxie tries to stand up, but slumps down as her body fails her; fatigue overwhelming her body after the big fight."
-    "Moxie tries to stand up, but slumps down as her body fails her; fatigue overwhelming her body after the big fight."
+    "Moxie试图站起来，却支撑不起她的身体，又倒下了；一番激烈交战后，她全身疲惫不堪。"
 
 # game/finalroute.rpy#L3021
 translate chinese finale_9890f020:
 
     # penelope "Moxie? Oh my god, your thigh… Are you okay?"
-    penelope "Moxie? Oh my god, your thigh… Are you okay?"
+    penelope "Moxie?天啊，你的大腿…你没事吧?"
 
 # game/finalroute.rpy#L3024
 translate chinese finale_7fa9fdf4:
 
     # moxie "Ugh, Penny… Why did you betray us?"
-    moxie "Ugh, Penny… Why did you betray us?"
+    moxie "嗨，Penny…你为什么背叛我们呢?"
 
 # game/finalroute.rpy#L3028
 translate chinese finale_e79923bc:
 
     # penelope "I never wanted this! I just wanted peace and prosperity for my species... Morrigan always told me that she'd make everything right when she was restored to the throne..."
-    penelope "I never wanted this! I just wanted peace and prosperity for my species... Morrigan always told me that she'd make everything right when she was restored to the throne..."
+    penelope "我从来都没想过背叛你们！我只是想为我的种族争取和平与繁荣…Morrigan总是告诉我，等她重登王位，一切问题都会迎刃而解…"
 
 # game/finalroute.rpy#L3034
 translate chinese finale_f5edb12f:
 
     # aurora "Morrigan mislead you, peace was never her intent."
-    aurora "Morrigan mislead you, peace was never her intent."
+    aurora "Morrigan欺骗了你，和平不是她的本意。"
 
 # game/finalroute.rpy#L3036
 translate chinese finale_cd00e897:
 
     # penelope "No way… My Queen…"
-    penelope "No way… My Queen…"
+    penelope "不可能…我的女王…"
 
 # game/finalroute.rpy#L3037
 translate chinese finale_7f912089:
 
     # "Penelope broke down, everyone watched, aghast by the emotional outburst. No one could have foreseen her reaction."
-    "Penelope broke down, everyone watched, aghast by the emotional outburst. No one could have foreseen her reaction."
+    "Penelope崩溃了，每个人都默默地看着她，被她的情绪爆发惊呆了。没有人能料想到她是这个反应。"
 
 # game/finalroute.rpy#L3039
 translate chinese finale_e2d427d6:
 
     # penelope "I never wanted it to be like this... When we first arrived in Arcadia, she told me that she wouldn’t hurt anyone!"
-    penelope "I never wanted it to be like this... When we first arrived in Arcadia, she told me that she wouldn’t hurt anyone!"
+    penelope "我从没想过事情会演变成这样呀……我们刚到Arcadia时，她告诉过我她不会伤害任何人的!"
 
 # game/finalroute.rpy#L3040
 translate chinese finale_29a8e157:
 
     # penelope "But... I heard her... She said she wanted to kill everyone…"
-    penelope "But... I heard her... She said she wanted to kill everyone…"
+    penelope "但是…我听到她…她说她想把你们全都杀光…"
 
 # game/finalroute.rpy#L3042
 translate chinese finale_a53fd854:
 
     # aurora "She would have let all of Arcadia burn in her hubris, even if that meant killing you in the collateral."
-    aurora "She would have let all of Arcadia burn in her hubris, even if that meant killing you in the collateral."
+    aurora "她会让整个Arcadia因她的傲慢而付之一炬，即使把你当作棋子，杀了也无所谓。"
 
 # game/finalroute.rpy#L3044
 translate chinese finale_243ac0c2:
 
     # penelope "… Y-Yeah… I was in that tower she lifted; she knew I was! God damnit!"
-    penelope "… Y-Yeah… I was in that tower she lifted; she knew I was! God damnit!"
+    penelope "…是-是呀…她把塔抬起来的时候我就在那里面；而且她已经看到我了！操他妈的！"
 
 # game/finalroute.rpy#L3045
 translate chinese finale_4166fa65:
 
     # penelope "I nearly died… Yet the way she looked at me, so cold and uncaring…"
-    penelope "I nearly died… Yet the way she looked at me, so cold and uncaring…"
+    penelope "我差点就死了…可是她看我的眼神，那么冷漠，那么漠不关心…"
 
 # game/finalroute.rpy#L3046
 translate chinese finale_4c1f6ee2:
 
     # "Penelope holds herself and shivers, clearer inspection of her body reveals some nasty cuts and injuries from the collateral damage on one of her legs."
-    "Penelope holds herself and shivers, clearer inspection of her body reveals some nasty cuts and injuries from the collateral damage on one of her legs."
+    "Penelope强打精神支撑着自己颤抖的身体，更仔细地检查了她的身体，发现她的一条腿上有一些严重的割伤和其他伤痕。"
 
 # game/finalroute.rpy#L3048
 translate chinese finale_f3ea6493:
 
     # aurora "Is that really the type of person you want ruling over the country? Someone willing to sacrifice everyone, even their closest allies?"
-    aurora "Is that really the type of person you want ruling over the country? Someone willing to sacrifice everyone, even their closest allies?"
+    aurora "你真想让这样的货色来统治国家吗？一位合格的君主会愿意牺牲无辜民众，甚至是最亲密的盟友吗?"
 
 # game/finalroute.rpy#L3049
 translate chinese finale_5cd9622b:
 
     # penelope "I know she was always childish, but I really thought I could change her…"
-    penelope "I know she was always childish, but I really thought I could change her…"
+    penelope "虽然我知道她总是小孩子气，但我以为我真的能改变她…"
 
 # game/finalroute.rpy#L3050
 translate chinese finale_fd27b250:
 
     # mc "Penelope, don’t forget that everything that has happened was your plan…"
-    mc "Penelope, don’t forget that everything that has happened was your plan…"
+    mc "Penelope，别忘了发生的一切都是你一手策划的…"
 
 # game/finalroute.rpy#L3051
 translate chinese finale_d391c680:
 
     # penelope "Huh? What are you saying?"
-    penelope "Huh? What are you saying?"
+    penelope "嗯？你在说什么？"
 
 # game/finalroute.rpy#L3052
 translate chinese finale_2f827b9b:
@@ -6476,19 +6476,19 @@ translate chinese finale_c6c53f02:
 translate chinese finale_afce99e5:
 
     # penelope "S-So? I mean… s-sorry…"
-    penelope "S-So? I mean… s-sorry…"
+    penelope "所-所以？我的意思是……抱-抱歉……"
 
 # game/finalroute.rpy#L3056
 translate chinese finale_97f9eb30:
 
     # mc "You seem to think Morrigan was special, but from my perspective... You're the mastermind, and even in your genius, you let yourself be used by Morrigan."
-    mc "You seem to think Morrigan was special, but from my perspective... You're the mastermind, and even in your genius, you let yourself be used by Morrigan."
+    mc "你似乎觉得Morrigan很特别，但在我看来…你是一个谋士，你很天赋，但是你甘愿让Morrigan利用你。"
 
 # game/finalroute.rpy#L3057
 translate chinese finale_61724114:
 
     # mc "You did all of this just to all appease a childish tyrant that sat at home, doing nothing but having sex and hiding behind her host."
-    mc "You did all of this just to all appease a childish tyrant that sat at home, doing nothing but having sex and hiding behind her host."
+    mc "你做的这一切都是为了安抚一个坐在家里，除了做爱什么都不做，躲藏在宿主背后的幼稚暴君。"
 
 # game/finalroute.rpy#L3058
 translate chinese finale_7dee6657:
@@ -6500,43 +6500,43 @@ translate chinese finale_7dee6657:
 translate chinese finale_b4665c11:
 
     # penelope "But… I did it to make her happy… I-I loved her…"
-    penelope "But… I did it to make her happy… I-I loved her…"
+    penelope "但…我这么做是为了让她开心呀...我-我爱她呀..."
 
 # game/finalroute.rpy#L3061
 translate chinese finale_818da07a:
 
     # mc "Penelope… Morrigan never cared about you, she was using you from the beginning."
-    mc "Penelope… Morrigan never cared about you, she was using you from the beginning."
+    mc "Penelope，Morrigan从来都不在乎你，她从始至终都在利用你。"
 
 # game/finalroute.rpy#L3063
 translate chinese finale_58aedd53:
 
     # penelope "*Sob* She almost killed me, [playername]! She looked me right in the eye as she tore the foundation of the castle from beneath my feet!"
-    penelope "*Sob* She almost killed me, [playername]! She looked me right in the eye as she tore the foundation of the castle from beneath my feet!"
+    penelope "*呜咽*她还差点杀了我，[playername]！她把我脚下的城堡地基撕成碎片的时候，她就直直地看着我呀！"
 
 # game/finalroute.rpy#L3064
 translate chinese finale_ac0edb47:
 
     # penelope "*Sob, sob*"
-    penelope "*Sob, sob*"
+    penelope "*呜咽,抽泣*"
 
 # game/finalroute.rpy#L3065
 translate chinese finale_91fc3a63:
 
     # penelope "Maybe... this was for the best..."
-    penelope "Maybe... this was for the best..."
+    penelope "也许…这就是最好的结果了…"
 
 # game/finalroute.rpy#L3066
 translate chinese finale_342a8911:
 
     # penelope "I hope we as a species can move on, and learn from this."
-    penelope "I hope we as a species can move on, and learn from this."
+    penelope "我希望我们这个物种能够继续前进，并从中吸取教训。"
 
 # game/finalroute.rpy#L3067
 translate chinese finale_7a99cf1c:
 
     # "As the castle guards finally arrived, Penelope slumped down and raised her hands in surrender."
-    "As the castle guards finally arrived, Penelope slumped down and raised her hands in surrender."
+    "等到城堡守卫终于到达时，Penelope跪在地上，举起双手投降。"
 
 # game/finalroute.rpy#L3068
 translate chinese finale_d6bacf1a:
@@ -6554,19 +6554,19 @@ translate chinese finale_fccf63aa:
 translate chinese finale_94170911:
 
     # selene "Can you stand, Moxie?"
-    selene "Can you stand, Moxie?"
+    selene "Moxie，现在你能站起来吗？"
 
 # game/finalroute.rpy#L3078
 translate chinese finale_c01d77ed:
 
     # moxie "Yeah, I think so. Thanks Selene, it feels better now."
-    moxie "Yeah, I think so. Thanks Selene, it feels better now."
+    moxie "哦，我觉得可以。谢谢你Selene，我现在感觉好多了。"
 
 # game/finalroute.rpy#L3080
 translate chinese finale_9fb3fcef:
 
     # selene "I tried healing your injuries a little, but ugh… I’m so weak. It might even be better to get the castle doctors in here, which is embarrassing to say. Morrigan really took a lot of juice out of us, I feel like half the alicorn I was."
-    selene "I tried healing your injuries a little, but ugh… I’m so weak. It might even be better to get the castle doctors in here, which is embarrassing to say. Morrigan really took a lot of juice out of us, I feel like half the alicorn I was."
+    selene "我试着帮你疗了一点伤，但，额...我现在实力大减。让城堡里的医生来这里可能更好，说起来有点尴尬。Morrigan真把我们榨干了，我感觉自己身体有一半都被掏空了。"
 
 # game/finalroute.rpy#L3088
 translate chinese finale_abd25d0f:
@@ -6578,55 +6578,55 @@ translate chinese finale_abd25d0f:
 translate chinese finale_86a1de98:
 
     # moxie "Uhm… If my math is right, does that mean I’m just as powerful as one of you were?"
-    moxie "Uhm… If my math is right, does that mean I’m just as powerful as one of you were?"
+    moxie "额...我没算错的话，这难道意味着我和你们中的一个一样强大?"
 
 # game/finalroute.rpy#L3092
 translate chinese finale_5ce16291:
 
     # selene "Seems that way."
-    selene "Seems that way."
+    selene "好像确实是这样。"
 
 # game/finalroute.rpy#L3094
 translate chinese finale_ff6e5979:
 
     # moxie "Please, take the energy back then! I don’t deserve it!"
-    moxie "Please, take the energy back then! I don’t deserve it!"
+    moxie "请把你们的能量收回去吧！我把握不住的！"
 
 # game/finalroute.rpy#L3096
 translate chinese finale_7ed17464:
 
     # selene "Heh, gosh… Aurora, what do you think?"
-    selene "Heh, gosh… Aurora, what do you think?"
+    selene "啊这...Aurora，你觉得呢?"
 
 # game/finalroute.rpy#L3098
 translate chinese finale_eba86857:
 
     # aurora "Well… It’s ten years earlier than I anticipated making this decision, but with the recent shift of power, I think we need to tell our students their real purpose."
-    aurora "Well… It’s ten years earlier than I anticipated making this decision, but with the recent shift of power, I think we need to tell our students their real purpose."
+    aurora "好家伙...这个决定比我预计的早了10年呀，但随着最近权力更替，我认为我们需要告诉我们的学生他们的真正目标。"
 
 # game/finalroute.rpy#L3104
 translate chinese finale_8f671474:
 
     # lily "Real… purpose?"
-    lily "Real… purpose?"
+    lily "真正的...目标？"
 
 # game/finalroute.rpy#L3106
 translate chinese finale_6c22dfa3:
 
     # aurora "The true purpose of our students is to take our places as guardians for Arcadia."
-    aurora "The true purpose of our students is to take our places as guardians for Arcadia."
+    aurora "我们学生的真正目标是代替我们成为Arcadia的守护者。"
 
 # game/finalroute.rpy#L3108
 translate chinese finale_6ec2df18:
 
     # moxie "But… I’m not a student…"
-    moxie "But… I’m not a student…"
+    moxie "但...我也不是你的学生呀…"
 
 # game/finalroute.rpy#L3110
 translate chinese finale_c381cbbe:
 
     # selene "You may have missed the interview Moxie, tsk tsk! But you’ve more than proven your capability."
-    selene "You may have missed the interview Moxie, tsk tsk! But you’ve more than proven your capability."
+    selene "虽然你可能错过了测试Moxie，啧啧！但你已经完全证明了你的能力。"
 
 # game/finalroute.rpy#L3111
 translate chinese finale_866f3c8a:
