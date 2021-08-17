@@ -7940,7 +7940,7 @@ translate chinese rikuthreesome_3e024591:
 translate chinese rikuthreesome_1b92b8d8:
 
     # "She’d be the star of the show with her sexual prowess, that’s for sure."
-    "她肯定会因为性方面成为明星的。"
+    "她有那么出众的性爱技巧，肯定能在演出中大放异彩。"
 
 # game/bar.rpy#L2168
 translate chinese rikuthreesome_ef08bbe7:
@@ -9470,43 +9470,43 @@ translate chinese rikuclimbingsex_ceac2657:
 translate chinese rikuclimbingsex_a7b6b756:
 
     # riku "Pft, yeah, but… Not normally so exposed to a man I’m sexually attracted to."
-    riku "噗嗤,是这样没错,但...我通常不会那样暴露在那些被我性方面所吸引的男人面前."
+    riku "噗嗤,是这样没错啦,但...我通常是不会暴露在那些馋我身子的男性面前的。"
 
 # game/bar.rpy#L2728
 translate chinese rikuclimbingsex_3a294380:
 
     # "The two of us step down from the climbing wall and look around the room. It’s a sports centre divided into several sections, and this is just one of those."
-    "The two of us step down from the climbing wall and look around the room. It’s a sports centre divided into several sections, and this is just one of those."
+    "我们俩从攀爬墙上下来后环顾四周。这是一个分成几个区域的体育中心，这里是其中之一。"
 
 # game/bar.rpy#L2729
 translate chinese rikuclimbingsex_ba82cd25:
 
     # "Thing is, the room is completely empty apart from us. A benefit of coming here at 8:30AM."
-    "Thing is, the room is completely empty apart from us. A benefit of coming here at 8:30AM."
+    "而且，除了我俩空无一人。这就是早上八点半来这里的好处。"
 
 # game/bar.rpy#L2730
 translate chinese rikuclimbingsex_98992704:
 
     # mc "You thinking what I’m thinking?"
-    mc "You thinking what I’m thinking?"
+    mc "咱俩是不是想到一块儿去了？"
 
 # game/bar.rpy#L2734
 translate chinese rikuclimbingsex_46fa6dd0:
 
     # riku "Huh? What? Are you thinking about my ass?"
-    riku "Huh? What? Are you thinking about my ass?"
+    riku "哈?什么?你满脑子只想着我的屁股?"
 
 # game/bar.rpy#L2735
 translate chinese rikuclimbingsex_2a9767c3:
 
     # mc "Yes, I guess. Ever had sex on a climbing wall?"
-    mc "Yes, I guess. Ever had sex on a climbing wall?"
+    mc "我想是的,你有没有趴在墙上做过爱？"
 
 # game/bar.rpy#L2737
 translate chinese rikuclimbingsex_813fe95a:
 
     # riku "What kind of outlandish question is that? Oh shit, {i}that’s{/i} what you were thinking?"
-    riku "What kind of outlandish question is that? Oh shit, {i}that’s{/i} what you were thinking?"
+    riku "这是什么奇怪的问题？我靠哦，{i}你就是这么想的？"
 
 # game/bar.rpy#L2738
 translate chinese rikuclimbingsex_f059ed6f:
@@ -9518,7 +9518,7 @@ translate chinese rikuclimbingsex_f059ed6f:
 translate chinese rikuclimbingsex_cf266843:
 
     # mc "Don’t you worry, just me and you."
-    mc "Don’t you worry, just me and you."
+    mc "放心吧，这里只有我和你而已。"
 
 # game/bar.rpy#L2741
 translate chinese rikuclimbingsex_ba407dc8:
@@ -9536,7 +9536,7 @@ translate chinese rikuclimbingsex_1361e8d4:
 translate chinese rikuclimbingsex_a0a4a438:
 
     # riku "That’s the dumbest idea I’ve ever heard!"
-    riku "That’s the dumbest idea I’ve ever heard!"
+    riku "这是我这辈子听过最傻逼的想法!"
 
 # game/bar.rpy#L2745
 translate chinese rikuclimbingsex_e811e651:
@@ -9590,7 +9590,7 @@ translate chinese rikuclimbingsex_0d108671:
 translate chinese rikuclimbingsex_05b791cc:
 
     # riku "Damn! No fair! You are real low! You know that?"
-    riku "Damn! No fair! You are real low! You know that?"
+    riku "淦，这太不公平了，你就是个小人你知道吗?"
 
 # game/bar.rpy#L2764
 translate chinese rikuclimbingsex_0fb3bec7:
@@ -9614,7 +9614,7 @@ translate chinese rikuclimbingsex_0b662141:
 translate chinese rikuclimbingsex_44e381cc:
 
     # riku "I bet you're loving this, aren't you?"
-    riku "I bet you're loving this, aren't you?"
+    riku "我敢肯定你会喜欢的，对吧?"
 
 # game/bar.rpy#L2769
 translate chinese rikuclimbingsex_1959d8df:
@@ -9770,7 +9770,7 @@ translate chinese rikuclimbingsex_5cb79588:
 translate chinese rikuclimbingsex_9019346c:
 
     # riku "Oh, [playername]… That’s good, ahhh… Keep going that deep… Aaaahhhnn…"
-    riku "Oh, [playername]… That’s good, ahhh… Keep going that deep… Aaaahhhnn…"
+    riku "噢,[playername]...真舒服,啊~再插深点...啊啊啊啊啊啊啊~"
 
 # game/bar.rpy#L2804
 translate chinese rikuclimbingsex_e1a166e6:
@@ -9788,7 +9788,7 @@ translate chinese rikuclimbingsex_a0819c2e:
 translate chinese rikuclimbingsex_78625616:
 
     # riku "Ahhh… This feels too good, I’m gonna… Ahhh…"
-    riku "Ahhh… This feels too good, I’m gonna… Ahhh…"
+    riku "啊...这感觉真是太棒了,我要...啊..."
 
 # game/bar.rpy#L2807
 translate chinese rikuclimbingsex_40d0481f:

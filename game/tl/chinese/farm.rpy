@@ -1922,7 +1922,7 @@ translate chinese farmvisit1_89fd6089:
 translate chinese farmvisit1_180965fa:
 
     # "She just seems to be waiting for me to say something... Oh, right! I was going to ask about trying to find employees for her sister."
-    "她好像在等我说些什么..。哦，对了！我本来是想问帮她妹妹找员工的事。"
+    "她好像在等我说些什么... 哦，对了！我本来是想问帮她妹妹找员工的事。"
 
 # game/farm.rpy#L622
 translate chinese farmvisit1_6e8e24b9:
@@ -1952,7 +1952,7 @@ translate chinese farmvisit1_aa5d74c5:
 translate chinese farmvisit1_98e9b20b:
 
     # blossom "Y-yes…"
-    blossom "额...额滴....."
+    blossom "额...是滴....."
 
 # game/farm.rpy#L629
 translate chinese farmvisit1_30718f13:
@@ -2270,7 +2270,7 @@ translate chinese farmvisit1_2b72d280:
 translate chinese farmvisit1_eb87d1ca:
 
     # mc "It’s been great meeting you Blossom, thank you for your tea, it was delicious."
-    mc "见到你真好Blossom, 谢谢你的茶，茶水很可口"
+    mc "见到你真好Blossom, 谢谢你的茶，茶水很可口。"
 
 # game/farm.rpy#L720
 translate chinese farmvisit1_5d96704e:
@@ -2288,7 +2288,7 @@ translate chinese farmvisit1_57e6b3ba:
 translate chinese farmvisit1_00e75b63:
 
     # "On my way back, I wave goodbye to Honey who spots me from the barn as I leave."
-    "在我往回走的途中，我向在谷仓中干活的苹果杰克挥手告别。"
+    "在我往回走的途中，我向在谷仓中干活的Honey挥手告别。"
 
 # game/farm.rpy#L728
 translate chinese farmvisit1_a20cefa7_1:
@@ -2342,7 +2342,7 @@ translate chinese farmvisit1_19f7a1c7:
 translate chinese farmvisit1_fb610d45:
 
     # mc "Except maybe the spelunking Butters made me do."
-    mc "可能和小蝶一起去洞穴探险让我浑身酸疼的。"
+    mc "可能和Butters一起去洞穴探险让我浑身酸疼的。"
 
 # game/farm.rpy#L747
 translate chinese farmvisit1_d63b5915:
@@ -2456,7 +2456,7 @@ translate chinese farmvisit1_db485bd0:
 translate chinese farmvisit1_ccefe8c1:
 
     # moxie "That’s an awful metaphor [playername], although I can definitely relate to Blossom."
-    moxie "这真是个差劲的比喻[playername]，虽然我绝对理解小苹花"
+    moxie "这真是个差劲的比喻[playername]，虽然我绝对理解Blossom。"
 
 # game/farm.rpy#L776
 translate chinese farmvisit1_dc7a9273:
@@ -5366,7 +5366,7 @@ translate chinese honeyannathreesome_f648d3a6:
 translate chinese honeyannathreesome_5e2fa2ef:
 
     # honeycrisp "Howdy Blossom, how was college?"
-    honeycrisp "你好啊 Blossom，大学怎么样？"
+    honeycrisp "你好啊 Blossom，大学生活怎么样？"
 
 # game/farm.rpy#L1668
 translate chinese honeyannathreesome_9b864ef4:
@@ -5378,7 +5378,7 @@ translate chinese honeyannathreesome_9b864ef4:
 translate chinese honeyannathreesome_0254ee2c:
 
     # honeycrisp "Welp, I best get back to work. I’ve been slackin’ and I’ve got a to-do list before sundown, I’ll see you two later."
-    honeycrisp "Welp, I best get back to work. I’ve been slackin’ and I’ve got a to-do list before sundown, I’ll see you two later."
+    honeycrisp "好了，我最好得回去工作了。最近我一直很懈怠，赶在太阳下山前我还有个任务清单得做完，回头见。"
 
 # game/farm.rpy#L1671
 translate chinese honeyannathreesome_ac533870:
@@ -5396,7 +5396,7 @@ translate chinese honeyannathreesome_d06e8a57:
 translate chinese honeyannathreesome_bea91544:
 
     # "Honey nonchalantly makes her way out, starting to hum to herself once she’s outside."
-    "Honey nonchalantly makes her way out, starting to hum to herself once she’s outside."
+    "Honey若无其事地走了出来，一到外面就开始哼歌。"
 
 # game/farm.rpy#L1679
 translate chinese honeyannathreesome_0db1080d:

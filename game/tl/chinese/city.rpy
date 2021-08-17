@@ -2252,55 +2252,55 @@ translate chinese melodylaptop_1d51a024:
 translate chinese melodylaptop_c80a2f95:
 
     # mc "If you moan like a bitch, we'll get caught like before."
-    mc "If you moan like a bitch, we'll get caught like before."
+    mc "如果你像个婊子一样呻吟，我们会像以前一样被抓的。"
 
 # game/city.rpy#L1118
 translate chinese melodylaptop_557e9340:
 
     # melody "Pfft, you'd hate that, wouldn't you? Ahhah, damn perv... Mmmphh..."
-    melody "Pfft, you'd hate that, wouldn't you? Ahhah, damn perv... Mmmphh..."
+    melody "噗~ 你不会喜欢的，对吧? 啊哈，老色批... 呣..."
 
 # game/city.rpy#L1120
 translate chinese melodylaptop_686c18dd:
 
     # "Occasionally she takes her spare hand and moves it between groping her cute breasts and her clit, rubbing to enhance her pleasure."
-    "Occasionally she takes her spare hand and moves it between groping her cute breasts and her clit, rubbing to enhance her pleasure."
+    "偶尔，她用另一只手在可爱的奶子和阴蒂之间来回抚摸、摩擦来让她更爽。"
 
 # game/city.rpy#L1121
 translate chinese melodylaptop_61038555:
 
     # "As I thrust, I can feel her pussy tingle and drool with need. It's even wetter than usual as it occasionally gushes fluids, especially when she rubs her clit."
-    "As I thrust, I can feel her pussy tingle and drool with need. It's even wetter than usual as it occasionally gushes fluids, especially when she rubs her clit."
+    "当我插入的时候，我能感觉到她的阴部激动的颤抖，阴液不停淌出。它甚至比平时更湿，因为它偶尔会喷射出爱液，特别是当她摩擦自己阴蒂的时候。"
 
 # game/city.rpy#L1123
 translate chinese melodylaptop_e6967701:
 
     # melody "F-fuck, I-I'm squirting? Mmmhh, mmh!"
-    melody "F-fuck, I-I'm squirting? Mmmhh, mmh!"
+    melody "操，我。。我射出来了吗？嗯，嗯，啊！"
 
 # game/city.rpy#L1124
 translate chinese melodylaptop_490afae3:
 
     # "Her vagina begins to clench even harder around my throbbing cock as her mare pussy begs to be filled up by my semen."
-    "Her vagina begins to clench even harder around my throbbing cock as her mare pussy begs to be filled up by my semen."
+    "她的阴道将我颤动的阴茎包裹的更加紧实仿佛她的阴道正乞求被我的精液填满。"
 
 # game/city.rpy#L1125
 translate chinese melodylaptop_0fad396d:
 
     # melody "C-Coming! Mmphh, mmmmphh... *Squelch, squish!* *Squirt!*"
-    melody "C-Coming! Mmphh, mmmmphh... *Squelch, squish!* *Squirt!*"
+    melody "要--要来了！啊，哈啊..."噗呲！““射出来了”"
 
 # game/city.rpy#L1126
 translate chinese melodylaptop_ff4bfc2c:
 
     # "I bite my lip as I try to hold back my own orgasm to savour this amazing pleasure for as long as I can."
-    "I bite my lip as I try to hold back my own orgasm to savour this amazing pleasure for as long as I can."
+    "我咬着嘴唇，努力控制自己的高潮，尽可能长时间地享受这种美妙的快感。"
 
 # game/city.rpy#L1127
 translate chinese melodylaptop_525bb82f:
 
     # melody "C-Cum for me, [playername]!"
-    melody "C-Cum for me, [playername]!"
+    melody "填-填满我，[playername]！"
 
 # game/city.rpy#L1128
 translate chinese melodylaptop_dc119958:
@@ -2312,73 +2312,73 @@ translate chinese melodylaptop_dc119958:
 translate chinese melodylaptop_b8eff837:
 
     # "I begin to release my load deep inside of her soppy pussy, pumping several jets of cum into her hungry womb."
-    "I begin to release my load deep inside of her soppy pussy, pumping several jets of cum into her hungry womb."
+    "我开始在她的深渊深处释放我积攒的能量，向她饥渴的子宫里射入一股股精液。"
 
 # game/city.rpy#L1142
 translate chinese melodylaptop_d4fb9e27:
 
     # "Her strong legs lock around my waist and pull me in deeper as her pussy continues to gush."
-    "Her strong legs lock around my waist and pull me in deeper as her pussy continues to gush."
+    "她健美的双腿缠住我的腰，让我插得更深她的不停喷涌的阴道中。"
 
 # game/city.rpy#L1145
 translate chinese melodylaptop_5196fc5c:
 
     # "Eventually my climax dries up and her legs let me go, allowing me to pull my cock out and watch the cum dribble out."
-    "Eventually my climax dries up and her legs let me go, allowing me to pull my cock out and watch the cum dribble out."
+    "最后我的高潮逐渐干竭，她的腿也松开了我，让我可以把我的肉棒拔出来，看着精液流出来。"
 
 # game/city.rpy#L1147
 translate chinese melodylaptop_02c70f04:
 
     # melody "Mmphh... What a messy fuck, and... my best one yet, I think... Phew."
-    melody "Mmphh... What a messy fuck, and... my best one yet, I think... Phew."
+    melody "呜...喷得到处都是，而且，我觉得这是我做爱做得最好的一次。"
 
 # game/city.rpy#L1149
 translate chinese melodylaptop_2aa7100a:
 
     # melody "Hey, how about a second go? I know a good spell."
-    melody "Hey, how about a second go? I know a good spell."
+    melody "嘿，再来一次怎么样? 我知道一个有用的魔法。"
 
 # game/city.rpy#L1151
 translate chinese melodylaptop_aa4a3b11:
 
     # "Before I even have a chance to agree or disagree, the spell already goes off with a flash and the sensitivity in my cock dissipates."
-    "Before I even have a chance to agree or disagree, the spell already goes off with a flash and the sensitivity in my cock dissipates."
+    "在我还没来得及同意或反对之前，魔法已经一闪而过，我肉棒的敏感度就消失了。"
 
 # game/city.rpy#L1152
 translate chinese melodylaptop_9e848f21:
 
     # melody "Come on, don't be shy... My heat's pretty bad today, so you're going to have to give my pussy a second beating."
-    melody "Come on, don't be shy... My heat's pretty bad today, so you're going to have to give my pussy a second beating."
+    melody "来嘛，不要害羞... 我今天很热，所以你要给我的阴部再操一次。"
 
 # game/city.rpy#L1153
 translate chinese melodylaptop_7099733a:
 
     # mc "Well, given that you forced me to have another erection, I'm not in a position to argue."
-    mc "Well, given that you forced me to have another erection, I'm not in a position to argue."
+    mc "鉴于你逼我再次勃起，我没资格跟你争论。"
 
 # game/city.rpy#L1154
 translate chinese melodylaptop_e3aacf62:
 
     # melody "That's the attitude, you're such a good 'toy', hehe."
-    melody "That's the attitude, you're such a good 'toy', hehe."
+    melody "这个态度。。你真是个好“玩具”啊，呵呵。"
 
 # game/city.rpy#L1157
 translate chinese melodylaptop_11dad98e:
 
     # "With her legs still spread out eagerly, I reposition myself and reinsert my cock. My shaft still slick with her glistening juices."
-    "With her legs still spread out eagerly, I reposition myself and reinsert my cock. My shaft still slick with her glistening juices."
+    "她的腿还在急切地张开，我重新调整自己的位置，重新插入我的肉棒。我的阴茎还是因为她的爱液而光滑。"
 
 # game/city.rpy#L1158
 translate chinese melodylaptop_9a0722dc:
 
     # "The heat from her juicy cunt once again consumes my member and her legs wrap around my torso as we resume our reckless fuck."
-    "The heat from her juicy cunt once again consumes my member and her legs wrap around my torso as we resume our reckless fuck."
+    "她阴部的燥热又一次吞噬了我的肉棒，她的腿缠绕着我的躯干，继续我们疯狂的做爱。"
 
 # game/city.rpy#L1159
 translate chinese melodylaptop_0fd65144:
 
     # melody "Mmmphh, fuck yeah..."
-    melody "Mmmphh, fuck yeah..."
+    melody "呜啊，操我..."
 
 # game/city.rpy#L1160
 translate chinese melodylaptop_b254fb31:
