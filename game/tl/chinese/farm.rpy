@@ -1412,7 +1412,7 @@ translate chinese farmvisit1_691a1f0d:
 translate chinese farmvisit1_7ff86d54:
 
     # honeycrisp "Although, I think you'll do just fine."
-    honeycrisp "尽管我认为你能够做好"
+    honeycrisp "不过，我想你会做得很好的。"
 
 # game/farm.rpy#L468
 translate chinese farmvisit1_8891f926:

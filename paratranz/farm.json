@@ -3527,14 +3527,14 @@
   {
     "id": 79434320,
     "createdAt": "2021-05-30T17:55:39.000Z",
-    "updatedAt": "2021-07-17T05:12:40.000Z",
+    "updatedAt": "2021-08-17T02:05:22.000Z",
     "key": "farmvisit1_7ff86d54",
     "original": "Although, I think you'll do just fine.",
-    "translation": "尽管我认为你能够做好",
+    "translation": "不过，我想你会做得很好的。",
     "file": 272347,
     "stage": 1,
     "project": 2414,
-    "uid": 22549,
+    "uid": 21929,
     "extra": null,
     "context": "说话人: honeycrisp \n代码: https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L466",
     "words": 7

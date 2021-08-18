@@ -377,10 +377,10 @@
   {
     "id": 79443346,
     "createdAt": "2021-05-30T19:47:47.000Z",
-    "updatedAt": "2021-06-06T07:46:57.000Z",
+    "updatedAt": "2021-08-17T02:22:51.000Z",
     "key": "renpy/common/00accessibility.rpy_L202_0",
     "original": "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was.",
-    "translation": "此菜单上的选项旨在提高可访问性。它们可能不适用于所有游戏，某些选项的组合可能会导致游戏无法游玩。这不是游戏或引擎的问题。为了在更改字体时获得最佳效果，请尽量保持文本大小与原来一致。",
+    "translation": "此菜单上的选项旨在提高可访问性。它们可能不适用于所有游戏，某些选项的组合可能会导致游戏无法游玩。这不是游戏或引擎的问题。为了在更改字体时取得最佳效果，请尽量保持文本大小与原来一致。",
     "file": 272379,
     "stage": 1,
     "project": 2414,

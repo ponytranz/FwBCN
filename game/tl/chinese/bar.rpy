@@ -8378,7 +8378,7 @@ translate chinese rikutalk_a9d16e51:
 translate chinese rikutalk_c095374e:
 
     # riku "Trouble? Like a bar fight? Never, Arcadia is such a peaceful location."
-    riku "麻烦？像是一场打斗？从没有过，Arcadia是一个核平的地方。"
+    riku "麻烦？打斗之类的？从没有过，Arcadia是一个非常和平的地方。"
 
 # game/bar.rpy#L2330
 translate chinese rikutalk_54907148:
@@ -8696,7 +8696,7 @@ translate chinese rikumoxiethreesome_68d7b602:
 translate chinese rikumoxiethreesome_abeed71b:
 
     # "I can’t hold back either, my cock is growing tense and throbbing."
-    "我也忍不住了，我的男子气概越来越感到紧张悸动。"
+    "我也忍不住了，我的肉棒越来越紧张，不停地悸动。"
 
 # game/bar.rpy#L2421
 translate chinese rikumoxiethreesome_362339be:
@@ -9512,7 +9512,7 @@ translate chinese rikuclimbingsex_813fe95a:
 translate chinese rikuclimbingsex_f059ed6f:
 
     # riku "You degenerate! Can’t I go anywhere without a sex scene? Is Moxie gonna walk in here and pin me down?"
-    riku "You degenerate! Can’t I go anywhere without a sex scene? Is Moxie gonna walk in here and pin me down?"
+    riku "你堕落了！我不能去任何没有性元素的地方吗？Moxie会来给我个承诺吗？（我心里想）"
 
 # game/bar.rpy#L2739
 translate chinese rikuclimbingsex_cf266843:
@@ -9524,13 +9524,13 @@ translate chinese rikuclimbingsex_cf266843:
 translate chinese rikuclimbingsex_ba407dc8:
 
     # riku "Hmph… Well… ‘Course I wanna fuck you now you’ve teased me. But how on earth am I supposed to have sex with you on the climbing wall? There’s no room."
-    riku "Hmph… Well… ‘Course I wanna fuck you now you’ve teased me. But how on earth am I supposed to have sex with you on the climbing wall? There’s no room."
+    riku "哼... 好吧... 你都已经这么戏弄我了，我当然想上你了。但是我到底怎么才能在岩壁上和你做爱呢？这没地方施展。"
 
 # game/bar.rpy#L2742
 translate chinese rikuclimbingsex_1361e8d4:
 
     # mc "Easy, I’ll be on the ground, and you’ll be clinging on tightly."
-    mc "Easy, I’ll be on the ground, and you’ll be clinging on tightly."
+    mc "有蹄就行！我会趴在这里，你只需抓紧岩壁就好了。"
 
 # game/bar.rpy#L2744
 translate chinese rikuclimbingsex_a0a4a438:

@@ -2288,7 +2288,7 @@ translate chinese melodylaptop_490afae3:
 translate chinese melodylaptop_0fad396d:
 
     # melody "C-Coming! Mmphh, mmmmphh... *Squelch, squish!* *Squirt!*"
-    melody "要--要来了！啊，哈啊..."噗呲！““射出来了”"
+    melody "要~要去了！嗯~嗯~~~ *啪唧,啪唧 !* *扑哧!*"
 
 # game/city.rpy#L1126
 translate chinese melodylaptop_ff4bfc2c:

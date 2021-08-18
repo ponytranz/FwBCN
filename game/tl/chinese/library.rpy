@@ -12032,19 +12032,19 @@ translate chinese penelopework_03c149b0:
 translate chinese penelopework_33351947:
 
     # penelope "M-My motive? Well... My motive sucks!"
-    penelope "问-问我的动机?额…我的动机非常糟糕!"
+    penelope "我-我的动机?额…我的动机非常糟糕!"
 
 # game/library.rpy#L3527
 translate chinese penelopework_b1cd4701:
 
     # penelope "It was a mixture of unreciprocated love, jealousy, greed and a desire to fulfill a debt owed."
-    penelope "这是一种未得到回报的爱、嫉妒、还有贪婪和履行欠债欲望的混合物。"
+    penelope "这是一种不求回报的爱、嫉妒、贪婪和偿还债务的欲望混合物。"
 
 # game/library.rpy#L3528
 translate chinese penelopework_a2d8901c:
 
     # penelope "I had been under Morrigan's care for years after she saved my life, took me in, and taught me everything I knew."
-    penelope "在Morrigan救了我的命，收留了我，教会了我所知道的一切之后，我已经在她的照顾下生活了好几年了。"
+    penelope "Morrigan救了我的命，收留了我，教会了我所知道的一切之后，我已经在她的照顾下生活了好几年了。"
 
 # game/library.rpy#L3529
 translate chinese penelopework_fe9048f8:
@@ -12056,7 +12056,7 @@ translate chinese penelopework_fe9048f8:
 translate chinese penelopework_d14b8a44:
 
     # penelope "But Morrigan made one big mistake, she taught me too well so I eventually outgrew her aggressive and toxic philosophies."
-    penelope "但Morrigan犯了一个大错，她把我教的太好了，所以我最终摆脱了她咄咄逼人和毒辣的哲学。"
+    penelope "但Morrigan犯了一个大错，她把我教的太好了，所以我最终摆脱了她咄咄逼人的有害观念。"
 
 # game/library.rpy#L3531
 translate chinese penelopework_f80251e1:

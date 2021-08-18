@@ -5717,14 +5717,14 @@
   {
     "id": 79431009,
     "createdAt": "2021-05-30T17:55:37.000Z",
-    "updatedAt": "2021-08-16T14:41:20.000Z",
+    "updatedAt": "2021-08-17T03:51:53.000Z",
     "key": "melodylaptop_0fad396d",
     "original": "C-Coming! Mmphh, mmmmphh... *Squelch, squish!* *Squirt!*",
-    "translation": "要--要来了！啊，哈啊...\"噗呲！““射出来了”",
+    "translation": "要~要去了！嗯~嗯~~~ *啪唧,啪唧 !* *扑哧!*",
     "file": 272344,
     "stage": 1,
     "project": 2414,
-    "uid": 21902,
+    "uid": 20927,
     "extra": null,
     "context": "说话人: melody \n代码: https://github.com/ponytranz/FwBCN/blob/main/game/city.rpy#L1125",
     "words": 6

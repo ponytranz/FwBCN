@@ -3548,7 +3548,7 @@ translate chinese creamvmissionary_f641160f:
 translate chinese creamvmissionary_2ca195be:
 
     # "My point of contact with the mare is a deluge of her juices that constantly dribble and drip onto my pelvis, the wet sounds created from our rutting are vulgar to say the least."
-    "从我们结合的部位不断地溅出她的爱液，我们做爱时发出的淫荡水渍声可以说极度色情了。"
+    "爱液不断地从我们交合的部位缓缓流出，并滴落到我的下体上。同时，我们做爱时发出的啪啪声简直淫荡极了。"
 
 # game/bakery.rpy#L1149
 translate chinese creamvmissionary_6c928de0:
@@ -3560,19 +3560,19 @@ translate chinese creamvmissionary_6c928de0:
 translate chinese creamvmissionary_541fd6da:
 
     # "She purrs pure joy as she pounds against my lap, manhandling my cock with the grip of her tight walls which squeeze and constrict in an attempt to milk me."
-    "她重重的撞击着我的胯间，发出纯粹地喜悦呻吟，用她紧实地阴壁抓住我的肉棒，试图榨出我的精液。"
+    "她重重地撞击着我的胯间，发出纯粹地喜悦呻吟，用她紧实地阴壁夹住我的肉棒，试图榨出我的精液。"
 
 # game/bakery.rpy#L1155
 translate chinese creamvmissionary_20f3ccad:
 
     # "Driven by pure pleasure, she begins to rub her pussy too. She's unable to contain her blissful moans in the face of the dual pleasures which rapidly build her up to a mind-shattering orgasm."
-    "在纯粹的快乐驱使下，她开始抚摸自己的小穴。面对双重的快感，她无法抑制幸福的呻吟，这使她迅速逼近了高潮。"
+    "在纯粹的快感的驱使下，她也开始抚摸起自己的小穴。面对双重的快感，她无法抑制幸福的呻吟，这使她迅速达到了忘我的高潮。"
 
 # game/bakery.rpy#L1158
 translate chinese creamvmissionary_d8fcf686:
 
     # "Her moans of ecstasy make it clear that she's going to orgasm any second, and as she does, she squeals loudly while her vagina clenches around my cock."
-    "她的狂喜呻吟表明她随时都会高潮，当她高潮地时候，她高声尖叫着，用小穴更加有力地咬住了我的肉棒。"
+    "她欢悦而兴奋的呻吟表明她随时都有高潮的可能，当她高潮地时候，她高声尖叫着，用小穴更加有力地咬住了我的肉棒。"
 
 # game/bakery.rpy#L1161
 translate chinese creamvmissionary_f6ca9404:
@@ -3584,7 +3584,7 @@ translate chinese creamvmissionary_f6ca9404:
 translate chinese creamvmissionary_4e893d9d:
 
     # "I orgasm, ejaculating thick loads of my cum deep inside of her while she continues to ride, causing a sloppy mess of my cum that bubbles and seeps out of her."
-    "我射了，在她的深处爆射，而她并没有停下动作，把我们结合的部位搞的一塌糊涂。"
+    "我高潮了，随后便在她小穴的深处爆射了出来，而她却没有停下起伏的动作。于是，已被搅成泡沫状的精液从我们两人结合的部位缓缓流出，使得场面一塌糊涂。"
 
 # game/bakery.rpy#L1171
 translate chinese creamvmissionary_2d7c9785:
@@ -3620,7 +3620,7 @@ translate chinese creamvmissionary_087bf0fc:
 translate chinese creamvmissionary_3707b5cc:
 
     # ruby "Hehe, we're so good that people would tune in to watch. Maybe next time we should do a camshow, but no drinking beforehand!"
-    ruby "呵呵，看看你都射了多少呀..."
+    ruby "Hehe, we're so good that people would tune in to watch. Maybe next time we should do a camshow, but no drinking beforehand!"
 
 # game/bakery.rpy#L1181
 translate chinese creamvmissionary_98e0b782:
@@ -3638,31 +3638,31 @@ translate chinese creamvmissionary_b3961fc5:
 translate chinese creamvmissionary_b3b30073:
 
     # "As I talk with Melody, she's a relentless tease as usual, although far more watered down when around the others."
-    "当我和Melody聊天的时候，她和往常一样不停地取笑我，虽然和其她人在一起的时候，她戏剧化地表现没那么严重。"
+    "As I talk with Melody, she's a relentless tease as usual, although far more watered down when around the others."
 
 # game/bakery.rpy#L1187
 translate chinese creamvmissionary_de250707:
 
     # "She does seem to show subtle signs of jealousy though, and she's the one that actually asks if I want to come to her place."
-    "但她好像还是表现出了一点点嫉妒，还主动问我要不要去她家里。"
+    "She does seem to show subtle signs of jealousy though, and she's the one that actually asks if I want to come to her place."
 
 # game/bakery.rpy#L1188
 translate chinese creamvmissionary_065a3f83:
 
     # "While she'd never admit that she brought me home for sex, I can definitely tell the alcohol has made her hornier than usual."
-    "虽然她不承认带我回家只是为了做爱，但我能肯定酒精让她比平时更加饥渴。"
+    "While she'd never admit that she brought me home for sex, I can definitely tell the alcohol has made her hornier than usual."
 
 # game/bakery.rpy#L1193
 translate chinese creamvmissionary_23438060:
 
     # "I spend most of the evening talking with Lily, encouraging her to open up, which she easily does with aid of a few drinks."
-    "我几乎花了整晚和Lily聊天，不停地鼓励她，而她喝了几杯酒就能畅所欲言了。"
+    "I spend most of the evening talking with Lily, encouraging her to open up, which she easily does with aid of a few drinks."
 
 # game/bakery.rpy#L1194
 translate chinese creamvmissionary_464b1bf2:
 
     # "Her inner slut also seems to escape along with that drunkness though, while not enough to embarass herself, it's easy to forget that this slut is incredibly horny for me."
-    "她内心淫荡的一面也表现出来了，好在没有让她自己行为不得体。而且很容易忘记，这个淫荡的Lily对我非常饥渴。"
+    "Her inner slut also seems to escape along with that drunkness though, while not enough to embarass herself, it's easy to forget that this slut is incredibly horny for me."
 
 # game/bakery.rpy#L1195
 translate chinese creamvmissionary_8478c5be:
@@ -3962,7 +3962,7 @@ translate chinese creamvmissionary_0937ffa0:
 translate chinese creamvmissionary_bb383e9a:
 
     # mc "I certainly do, but it's your tight pussy that's the star of the show."
-    mc "我当然喜欢呀，但你的紧穴才是这出好戏的主角吧。"
+    mc "I certainly do, but it's your tight pussy that's the star of the show."
 
 # game/bakery.rpy#L1280
 translate chinese creamvmissionary_3f6e84e0:
@@ -3974,7 +3974,7 @@ translate chinese creamvmissionary_3f6e84e0:
 translate chinese creamvmissionary_e6592895:
 
     # riku "Mmmph, you can thank your thick cock for that, hehe."
-    riku "嗯，你可要感谢你的大鸡巴哟，呵呵。"
+    riku "Mmmph, you can thank your thick cock for that, hehe."
 
 # game/bakery.rpy#L1284
 translate chinese creamvmissionary_40ee8862:
@@ -3992,7 +3992,7 @@ translate chinese creamvmissionary_1286fbda:
 translate chinese creamvmissionary_01613490:
 
     # "I take my time and fuck her gently, savouring the tightness and warmth of her vagina. The long, slow thrusts drive her wild. "
-    "我按着自己的节奏，温柔地操她，品味着她阴道的紧密和温暖。漫长而缓慢的推进令她不能自已。"
+    "I take my time and fuck her gently, savouring the tightness and warmth of her vagina. The long, slow thrusts drive her wild. "
 
 # game/bakery.rpy#L1287
 translate chinese creamvmissionary_a6d942da:
@@ -4016,13 +4016,13 @@ translate chinese creamvmissionary_2a10faa4:
 translate chinese creamvmissionary_89e8dec8:
 
     # riku "Ahh, ever since we've started fucking, I've been even hornier than usual lately, and even wetter..."
-    riku "啊，自打我们第一次开始干起，我就比平时更饥渴，甚至更湿了…"
+    riku "Ahh, ever since we've started fucking, I've been even hornier than usual lately, and even wetter..."
 
 # game/bakery.rpy#L1292
 translate chinese creamvmissionary_f3601f9e:
 
     # "Truly there was a submissive slut ready to escape within Riku all along, she just needed the right key to let it out."
-    "Riku的内心之中的确藏着一个渴望挣脱的淫荡母狗，只需要一把合适的钥匙就能将其释放。"
+    "Truly there was a submissive slut ready to escape within Riku all along, she just needed the right key to let it out."
 
 # game/bakery.rpy#L1293
 translate chinese creamvmissionary_83633923:
@@ -4034,7 +4034,7 @@ translate chinese creamvmissionary_83633923:
 translate chinese creamvmissionary_44135372:
 
     # "She guides my dominant hand and brings to her ass, I know exactly what to do."
-    "她抓着我的手，把它拉向她的屁股，用屁股想都知道接下来要发生什么了。"
+    "她抓起我的手放到自己屁股上，我立马知道要做什么。"
 
 # game/bakery.rpy#L1297
 translate chinese creamvmissionary_9a281c0e:
@@ -4046,7 +4046,7 @@ translate chinese creamvmissionary_9a281c0e:
 translate chinese creamvmissionary_10b2efd9:
 
     # "I raise my dominant hand and bring it down powerfully causing a slap sound, this seems to hit the spot as her eyes roll back and she lets out a satisfied moan."
-    "我举起手，用力地打下来，发出一声响亮的拍打声，就像命中了她的弱点一样令她翻起白眼，发出满意的呻吟。"
+    "我扬起我的手然后猛地一巴掌拍出巨响，看来是正中靶心引得她翻起白眼并发出满足的呻吟。"
 
 # game/bakery.rpy#L1302
 translate chinese creamvmissionary_048fcb05:
@@ -4058,7 +4058,7 @@ translate chinese creamvmissionary_048fcb05:
 translate chinese creamvmissionary_b9cbd43f:
 
     # "I can’t help but fuck a little faster, her hips are rocking in response to each thrust too, and her pussy squeezing even tighter around my cock."
-    "我忍不住操得更快一点，她的屁股也在迎合着扭动，每一次用力推进，她的小穴都会更有力的挤压我的肉棒。"
+    "I can’t help but fuck a little faster, her hips are rocking in response to each thrust too, and her pussy squeezing even tighter around my cock."
 
 # game/bakery.rpy#L1305
 translate chinese creamvmissionary_a4a56069:
@@ -4070,31 +4070,31 @@ translate chinese creamvmissionary_a4a56069:
 translate chinese creamvmissionary_549ebe2c:
 
     # "Spanking her out pushed her over the edge, and she starts to have a strong first orgasm, her hips bucking and her whole-body squirming as the pleasure overwhelms her."
-    "每一次的抽打都不断把她推向高潮的边缘，最后她开始了这次强烈的高潮，她整个身体都在颤抖，被快感淹没了。"
+    "Spanking her out pushed her over the edge, and she starts to have a strong first orgasm, her hips bucking and her whole-body squirming as the pleasure overwhelms her."
 
 # game/bakery.rpy#L1309
 translate chinese creamvmissionary_cfca6119:
 
     # "I can feel my cock throbbing in response to her pussy contracting around it, I really could come any second if I let my guard down."
-    "我感觉到我的肉棒还在悸动着，而她的小穴还在挤压，哪怕有一丝松懈，我也会立刻迎来高潮吧。"
+    "I can feel my cock throbbing in response to her pussy contracting around it, I really could come any second if I let my guard down."
 
 # game/bakery.rpy#L1311
 translate chinese creamvmissionary_45d33f16:
 
     # riku "Faster Daddy, faster! Ahhh, ahh! *Pant, pant*."
-    riku "快点呀粑粑！用力啊~~~啊！哈~哈~"
+    riku "Faster Daddy, faster! Ahhh, ahh! *Pant, pant*."
 
 # game/bakery.rpy#L1312
 translate chinese creamvmissionary_a67f816a:
 
     # "Why is she suddenly calling me daddy again?! That level of dirty talk is only going to make me cum faster."
-    "她怎么又突然叫我爸爸了，说这种羞耻的话只会让我射得更快呀！"
+    "Why is she suddenly calling me daddy again?! That level of dirty talk is only going to make me cum faster."
 
 # game/bakery.rpy#L1313
 translate chinese creamvmissionary_f7605d18:
 
     # "It doesn’t help that she’s rocking her hips into me, practically fucking me just as hard as I’m fucking her, and damn it feels amazing."
-    "她还对着我挺屁股，就像我操她一样用力操我，妈的这感觉太棒了！"
+    "It doesn’t help that she’s rocking her hips into me, practically fucking me just as hard as I’m fucking her, and damn it feels amazing."
 
 # game/bakery.rpy#L1315
 translate chinese creamvmissionary_04a6a15e:
@@ -4106,31 +4106,31 @@ translate chinese creamvmissionary_04a6a15e:
 translate chinese creamvmissionary_81793b62:
 
     # "I spank harder, while her pussy squeezes and sucks harder around my shaft as if it’s trying to milk my cock. All whilst Riku moans and squeaks with erotic delight."
-    "我打得更用力了，而她则用小穴挤压吮吸着我的肉棒，试图榨干我。与此同时，Riku的快乐尖叫呻吟也一刻没停。"
+    "I spank harder, while her pussy squeezes and sucks harder around my shaft as if it’s trying to milk my cock. All whilst Riku moans and squeaks with erotic delight."
 
 # game/bakery.rpy#L1319
 translate chinese creamvmissionary_21a30eec:
 
     # "My orgasm keeps swelling up, I can’t hold back much longer, I’m going to cum!"
-    "我的高潮不断逼近，我绷不住了，我要射了！"
+    "My orgasm keeps swelling up, I can’t hold back much longer, I’m going to cum!"
 
 # game/bakery.rpy#L1321
 translate chinese creamvmissionary_cfd44d92:
 
     # "Riku arches her back, her eyes roll back and she and lets out a sensational moan, as she has her second orgasm."
-    "Riku拱起背，翻着白眼，发出了一声美妙绝伦的浪叫，看来她是第二次高潮了。"
+    "Riku arches her back, her eyes roll back and she and lets out a sensational moan, as she has her second orgasm."
 
 # game/bakery.rpy#L1323
 translate chinese creamvmissionary_a7af0f3e:
 
     # "Immediately I feel myself climaxing as well, my cock throbs and swells as my vision turns cloudy and my mind fogs up."
-    "紧接着，我也感觉到了自己的高潮，我的肉棒颤抖着，视线和思想同时模糊了起来。"
+    "Immediately I feel myself climaxing as well, my cock throbs and swells as my vision turns cloudy and my mind fogs up."
 
 # game/bakery.rpy#L1328
 translate chinese creamvmissionary_8497d972:
 
     # "The two of us orgasm together, my cock unloading copious amounts of cum deep inside Riku’s pussy whilst we fuck each other passionately."
-    "我们的高潮不期而遇，尽管我已经在她的小穴里喷射出大量的精液，但做爱的兴头依旧分毫不减。"
+    "The two of us orgasm together, my cock unloading copious amounts of cum deep inside Riku’s pussy whilst we fuck each other passionately."
 
 # game/bakery.rpy#L1333
 translate chinese creamvmissionary_bbf29c3d:
@@ -4142,19 +4142,19 @@ translate chinese creamvmissionary_bbf29c3d:
 translate chinese creamvmissionary_16e4bc96:
 
     # "As I pull out, a trail of cum still connects us, before it collapses down her thigh."
-    "当我抽出肉棒的时候，我们依旧通过一缕精液藕断丝连，直到它落到她的大腿上。"
+    "As I pull out, a trail of cum still connects us, before it collapses down her thigh."
 
 # game/bakery.rpy#L1338
 translate chinese creamvmissionary_7215d096:
 
     # riku "Haah, I-I can barely feel my butt, hahaa. *Pant, pant*."
-    riku "哈啊...我-我的屁股都麻了。哈...哈...."
+    riku "Haah, I-I can barely feel my butt, hahaa. *Pant, pant*."
 
 # game/bakery.rpy#L1340
 translate chinese creamvmissionary_fd82404c:
 
     # "Riku and I go to her bedroom and drift off to sleep together."
-    "我和Riku进了卧室，一起进入梦乡。"
+    "Riku and I go to her bedroom and drift off to sleep together."
 
 # game/bakery.rpy#L1341
 translate chinese creamvmissionary_477506f5:
@@ -4250,7 +4250,7 @@ translate chinese creamvmissionary_e79da81e:
 translate chinese creamvmissionary_6277b5b6:
 
     # "Certainly not my favourite interpretation, but I can’t get it out of my head for some reason."
-    "当然，这种解释不是我认为的最合理的答案，但不知为何，它却在我的脑海中生根发芽，潜滋暗长。"
+    "Certainly not my favourite interpretation, but I can’t get it out of my head for some reason."
 
 # game/bakery.rpy#L1359
 translate chinese creamvmissionary_17fb8828:
@@ -4268,7 +4268,7 @@ translate chinese creamvmissionary_43674aa8:
 translate chinese creamvmissionary_5f0d41b7:
 
     # mc "I hope so, but the only thing more fun than one reality smashing discovery is two."
-    mc "我希望如此，但比一个打破现实的发现更有趣的，是两个打破现实的发现。"
+    mc "I hope so, but the only thing more fun than one reality smashing discovery is two."
 
 # game/bakery.rpy#L1362
 translate chinese creamvmissionary_e8a9a5b7:
@@ -4538,13 +4538,13 @@ translate chinese bakeryvisit2_998cb965:
 translate chinese bakeryvisit2_7b85e01a:
 
     # cream "I was just making conversation, ya ditz. I figured maybe you were one of those intellectual types that got turned on by smart girls, you keep hanging around them after all."
-    cream "我就是随便说说而已啦，哩郭笨蛋，我以为你是那种会被聪明女孩吸引的聪明人呀，因为你就一直跟在那种人后面。"
+    cream "I was just making conversation, ya ditz. I figured maybe you were one of those intellectual types that got turned on by smart girls, you keep hanging around them after all."
 
 # game/bakery.rpy#L1427
 translate chinese bakeryvisit2_e2e60f6f:
 
     # "She’s got me there, wait- there’s no way she'd know that, right? It's not like anyone told her I was close friends with Moxie, Penelope or any other 'smart girls'."
-    "她把我难住了，等等，她不可能知道的，对吧?并没有人告诉她我是Moxie, Penelope或其他“聪明女孩”的好朋友吧。"
+    "She’s got me there, wait- there’s no way she'd know that, right? It's not like anyone told her I was close friends with Moxie, Penelope or any other 'smart girls'."
 
 # game/bakery.rpy#L1429
 translate chinese bakeryvisit2_0ada95ed:
@@ -4556,19 +4556,19 @@ translate chinese bakeryvisit2_0ada95ed:
 translate chinese bakeryvisit2_c922c97c:
 
     # mc "Yeah you did mention that. But I still think humans and their limitations will experience each measure of time the same way."
-    mc "啊对，你提到过。但我还是认为，人类的局限性会用同样的方式体验每一种时间尺度。"
+    mc "Yeah you did mention that. But I still think humans and their limitations will experience each measure of time the same way."
 
 # game/bakery.rpy#L1431
 translate chinese bakeryvisit2_83640576:
 
     # mc "I don’t think a human can ever reach the point where 100 years feels like 10 seconds."
-    mc "但我不认为人类能像度过10秒钟那样度过100年。"
+    mc "I don’t think a human can ever reach the point where 100 years feels like 10 seconds."
 
 # game/bakery.rpy#L1433
 translate chinese bakeryvisit2_7d078134:
 
     # cream "Nah! Bigger picture, I keep telling you."
-    cream "哪儿啊，我一直在说，格局要打开啊。"
+    cream "Nah! Bigger picture, I keep telling you."
 
 # game/bakery.rpy#L1434
 translate chinese bakeryvisit2_c3a1b5a6:
@@ -4598,97 +4598,97 @@ translate chinese bakeryvisit2_b03ac6ed:
 translate chinese bakeryvisit2_fae6a931:
 
     # cream "But an answer born by human arrogance, since that’s a human emotion, it’s an emotion that ultimately has no meaning in the grand scale of the universe. Isn’t that scary?"
-    cream "但这个答案源于人类的傲慢，这是人类的情感，而这种情感在宇宙级的大尺度上毫无意义呀。甚至还挺可怕的呢。"
+    cream "But an answer born by human arrogance, since that’s a human emotion, it’s an emotion that ultimately has no meaning in the grand scale of the universe. Isn’t that scary?"
 
 # game/bakery.rpy#L1444
 translate chinese bakeryvisit2_0aab9da1:
 
     # mc "Seems a little nihilistic."
-    mc "一听就是老虚无主义了。"
+    mc "Seems a little nihilistic."
 
 # game/bakery.rpy#L1447
 translate chinese bakeryvisit2_e675ee6a:
 
     # cream "Ohh I like that one, but who defines best? That’s such a societal and human standard."
-    cream "哦，我喜欢这个，但是什么才是最好的？是取决于社会和人类的标准吗？"
+    cream "Ohh I like that one, but who defines best? That’s such a societal and human standard."
 
 # game/bakery.rpy#L1448
 translate chinese bakeryvisit2_554d7019:
 
     # cream "Does the ant ever worry about being the best ant in the colony? I don’t know, maybe they do."
-    cream "蚂蚁会思考怎么成为蚁群中最好的蚂蚁吗？我不知道，或许会呢。"
+    cream "Does the ant ever worry about being the best ant in the colony? I don’t know, maybe they do."
 
 # game/bakery.rpy#L1449
 translate chinese bakeryvisit2_43a9466e:
 
     # mc "I guess, but I am human, so I work within my means. I’m not going to pretend that I aspire to greater values."
-    mc "也许吧，但我是人类，所以我以自己的想法来，我不会假装渴望自己有更大的价值。"
+    mc "I guess, but I am human, so I work within my means. I’m not going to pretend that I aspire to greater values."
 
 # game/bakery.rpy#L1452
 translate chinese bakeryvisit2_019de965:
 
     # cream "Really, though? Is that what the meaning to your existence is? Or is that what your brain desires to do you can feel important and get hits of dopamine."
-    cream "真的吗？这就是你存在的意义？或者还是为了做那些事情好让自己的大脑分泌更多多巴胺？"
+    cream "Really, though? Is that what the meaning to your existence is? Or is that what your brain desires to do you can feel important and get hits of dopamine."
 
 # game/bakery.rpy#L1453
 translate chinese bakeryvisit2_718afd37:
 
     # cream "Does society really need to advance? Can’t you live a perfect life making no impact on society?"
-    cream "社会真的需要进步吗？就不能有那种对社会毫无影响的完美生活吗？"
+    cream "Does society really need to advance? Can’t you live a perfect life making no impact on society?"
 
 # game/bakery.rpy#L1454
 translate chinese bakeryvisit2_d75d74a5:
 
     # mc "Perhaps. You were right though, I like to feel like I’ve made an impact, when I’m older I want to have my name out there and be remembered."
-    mc "也许吧。不过你是对的，我喜欢自己出名的感觉，自从我体验过世态炎凉后，我就想让自己出人头地，被世人铭记。"
+    mc "Perhaps. You were right though, I like to feel like I’ve made an impact, when I’m older I want to have my name out there and be remembered."
 
 # game/bakery.rpy#L1456
 translate chinese bakeryvisit2_63bd4521:
 
     # cream "It’s biologically selfish, yet so humanly selfless."
-    cream "从生物学上分析很自私，但站在在人道主义上讲很无私。"
+    cream "It’s biologically selfish, yet so humanly selfless."
 
 # game/bakery.rpy#L1457
 translate chinese bakeryvisit2_9ce6ade7:
 
     # mc "I… don’t know? The brain can do its own thing, it releases dopamine when I eat a chocolate bar but eating chocolate isn’t biologically selfish."
-    mc "我...不知道？大脑自行做出某些行为，比如我吃巧克力棒，它就会分泌多巴胺，但吃巧克力棒并不自私。"
+    mc "I… don’t know? The brain can do its own thing, it releases dopamine when I eat a chocolate bar but eating chocolate isn’t biologically selfish."
 
 # game/bakery.rpy#L1459
 translate chinese bakeryvisit2_4a88b5bc:
 
     # cream "Heh, I’m just challenging what you’re saying, don’t worry."
-    cream "哈，我只是在质疑你说的话而已，别多想。"
+    cream "Heh, I’m just challenging what you’re saying, don’t worry."
 
 # game/bakery.rpy#L1462
 translate chinese bakeryvisit2_9a17a0eb:
 
     # cream "Now that’s a meaning I can get behind, but even a sex crazed mare like myself needs something more to ground her to reality."
-    cream "我能理解，但即使是我这种喜欢做爱的雌驹，也需要有更多的东西让自己回归现实。"
+    cream "Now that’s a meaning I can get behind, but even a sex crazed mare like myself needs something more to ground her to reality."
 
 # game/bakery.rpy#L1463
 translate chinese bakeryvisit2_b453a849:
 
     # cream "Trust me, you’d get bored if I was just a bitch in heat slobbering and salivating at the thought of your throbbing member."
-    cream "相信我，要是我只是个发情的痴女，一想到你的肉棒就开始上面下面一起流口水，你会觉得无聊的。"
+    cream "Trust me, you’d get bored if I was just a bitch in heat slobbering and salivating at the thought of your throbbing member."
 
 # game/bakery.rpy#L1464
 translate chinese bakeryvisit2_d66a3670:
 
     # mc "Alright, that’s true. I was being a little blunt by implying that humans are just beasts designed to breed and pass on DNA."
-    mc "好吧，那确实。我只是在生硬的暗示人类只是繁衍传递DNA的野兽而已。"
+    mc "Alright, that’s true. I was being a little blunt by implying that humans are just beasts designed to breed and pass on DNA."
 
 # game/bakery.rpy#L1466
 translate chinese bakeryvisit2_3c3c35df:
 
     # cream "Hah, maybe that’s evolutionarily and biologically accurate, but aren’t we so much more than that? We’re thinkers."
-    cream "哈，也许在进化和生物学上都是正确的，但我们不是比那些物种都优秀吗？我们会思考。"
+    cream "Hah, maybe that’s evolutionarily and biologically accurate, but aren’t we so much more than that? We’re thinkers."
 
 # game/bakery.rpy#L1467
 translate chinese bakeryvisit2_fb894981:
 
     # mc "Yeah, you were right when you said you needed something to ground yourself to reality. We’re not bunnies after all."
-    mc "也是，你说得对，我们需要一些其他的东西让自己适应现实。毕竟我们不是兔子。"
+    mc "Yeah, you were right when you said you needed something to ground yourself to reality. We’re not bunnies after all."
 
 # game/bakery.rpy#L1469
 translate chinese bakeryvisit2_ac20ffd1:
@@ -4700,133 +4700,133 @@ translate chinese bakeryvisit2_ac20ffd1:
 translate chinese bakeryvisit2_42658dfa:
 
     # cream "In the grand, relative scale of a potentially infinite universe…"
-    cream "在一个可能无限的宇宙级宏大相对尺度上..."
+    cream "In the grand, relative scale of a potentially infinite universe…"
 
 # game/bakery.rpy#L1471
 translate chinese bakeryvisit2_5c13f4ff:
 
     # cream "The meaning of human life needs to be timeless; you can’t define meaning by time."
-    cream "人生的意义是需要以永恒假设的，不能限制时间来定义意义。"
+    cream "The meaning of human life needs to be timeless; you can’t define meaning by time."
 
 # game/bakery.rpy#L1472
 translate chinese bakeryvisit2_8943ea01:
 
     # cream "Therefore, the true meaning of life must be true for the 10 second old baby, the 100-year-old woman, and the infinite immortal being."
-    cream "因此，生命的真正意义必须是真实的，10秒钟的婴儿，100岁的妇女，和无限的不朽的存在。"
+    cream "Therefore, the true meaning of life must be true for the 10 second old baby, the 100-year-old woman, and the infinite immortal being."
 
 # game/bakery.rpy#L1473
 translate chinese bakeryvisit2_b9c928aa:
 
     # "I stand here, rather perplexed, occasionally looking over to the oven. Baking cakes seems so benign compared to these discussions."
-    "我站在这里，相当的困惑，我看着烤箱，与讨论那些相比，烤蛋糕这件事儿可忒简单了。"
+    "I stand here, rather perplexed, occasionally looking over to the oven. Baking cakes seems so benign compared to these discussions."
 
 # game/bakery.rpy#L1475
 translate chinese bakeryvisit2_ec053266:
 
     # cream "Yeah, maybe the meaning of life is to breed and continue your species, but I’d like to think with my sentient arrogance that it’s more than that."
-    cream "也许生命的意义就是繁衍，让自己的物种延续。但如果我用一种傲慢的角度来思考，那生命的意义远不止于此。"
+    cream "Yeah, maybe the meaning of life is to breed and continue your species, but I’d like to think with my sentient arrogance that it’s more than that."
 
 # game/bakery.rpy#L1476
 translate chinese bakeryvisit2_47825466:
 
     # mc "There are millions of people that have died and been forgotten. It’s pretty depressing to think that in the grand scheme of humanity, let alone the universe, all our actions are completely and utterly meaningless."
-    mc "数以百万计的人死去并被遗忘。这还只是人类的范围内，别提茫茫宇宙之中了。想到我们所有的行为都是毫无意义的，这太让人沮丧了。"
+    mc "There are millions of people that have died and been forgotten. It’s pretty depressing to think that in the grand scheme of humanity, let alone the universe, all our actions are completely and utterly meaningless."
 
 # game/bakery.rpy#L1477
 translate chinese bakeryvisit2_e68bd47d:
 
     # mc "But… we surely derive our own personal meanings to make our existence satisfying."
-    mc "但是，我们一定会推导出属于我们自己的生命意义，让我们的存在合情合理。"
+    mc "But… we surely derive our own personal meanings to make our existence satisfying."
 
 # game/bakery.rpy#L1478
 translate chinese bakeryvisit2_570b5622:
 
     # mc "We make great friends, we laugh and joke, we fall in love and can ultimately have a fun life full of meaning."
-    mc "我们结交好友，我们欢声笑语，我们沉入爱河。最后，我们会有一个充满意义的有趣生活。"
+    mc "We make great friends, we laugh and joke, we fall in love and can ultimately have a fun life full of meaning."
 
 # game/bakery.rpy#L1480
 translate chinese bakeryvisit2_d4182f40:
 
     # cream "Heh, that’s adorable, I believe my own meaning is to spread fun and positivity! These cakes here won’t matter in a quadrillion years, but they’re gonna make some tummies incredibly happy soon!"
-    cream "嘿，真可爱，我相信自己的生命意义是传播快乐和正能量，这些蛋糕在亿万年的光阴中毫无意义，但它们很快就会让一些人的肚子无比开心！"
+    cream "Heh, that’s adorable, I believe my own meaning is to spread fun and positivity! These cakes here won’t matter in a quadrillion years, but they’re gonna make some tummies incredibly happy soon!"
 
 # game/bakery.rpy#L1481
 translate chinese bakeryvisit2_cd9b58ba:
 
     # mc "Yeah, the universe doesn’t care about us, might as well do what makes the brain happy."
-    mc "对啊，宇宙根本不鸟我们，还不如做些让自己开心的事情呢~ o(*￣▽￣*)o。"
+    mc "Yeah, the universe doesn’t care about us, might as well do what makes the brain happy."
 
 # game/bakery.rpy#L1483
 translate chinese bakeryvisit2_792b7652:
 
     # cream "Oh, that’s such a tragic spin, you act like we’re slaves to the brain."
-    cream "哦，这也太悲剧了吧，你说的我们好像是大脑的奴隶一样。"
+    cream "Oh, that’s such a tragic spin, you act like we’re slaves to the brain."
 
 # game/bakery.rpy#L1484
 translate chinese bakeryvisit2_139ec4b1:
 
     # mc "I guess in a way we are, isn’t that what it means to be human? If you don’t meet the brain’s needs, you’ll slowly become miserable."
-    mc "我想，在某种程度上，这不就是作为人的意义吗？如果不能满足大脑的需求，就会无比痛苦。"
+    mc "I guess in a way we are, isn’t that what it means to be human? If you don’t meet the brain’s needs, you’ll slowly become miserable."
 
 # game/bakery.rpy#L1485
 translate chinese bakeryvisit2_f3f1fbdf:
 
     # mc "I try to be aware of my brain’s needs, self-actualization, my self-esteem, belongingness and love, safety and physiological needs."
-    mc "我试着了解自己大脑的需求：自我实现，自尊心，归属感，安全感，生理需求和爱。"
+    mc "I try to be aware of my brain’s needs, self-actualization, my self-esteem, belongingness and love, safety and physiological needs."
 
 # game/bakery.rpy#L1486
 translate chinese bakeryvisit2_419e6715:
 
     # mc "If I ever falter in one of those, it’s my priority to set it back on track. So, I try to dedicate some time to each action, it’s the reason I like to treat myself."
-    mc "如果我无法满足某一项，我的首要任务就是想方设法去满足。所以，我试着三思而后行，这就是我喜欢善待自己的原因。"
+    mc "If I ever falter in one of those, it’s my priority to set it back on track. So, I try to dedicate some time to each action, it’s the reason I like to treat myself."
 
 # game/bakery.rpy#L1488
 translate chinese bakeryvisit2_cb339697:
 
     # cream "Hahaha, it’s like looking after a needy pet."
-    cream "哈哈哈，就像照顾一个宠物似的。"
+    cream "Hahaha, it’s like looking after a needy pet."
 
 # game/bakery.rpy#L1489
 translate chinese bakeryvisit2_43611eaa:
 
     # mc "Oh yeah, trust me, I’d love to be able to exist without food, drink, sleep, et cetera."
-    mc "是啊，相信我，我很想在不需要食物，水分，睡眠等情况下生存。"
+    mc "Oh yeah, trust me, I’d love to be able to exist without food, drink, sleep, et cetera."
 
 # game/bakery.rpy#L1490
 translate chinese bakeryvisit2_f7f8ae43:
 
     # mc "But that’s part of the human condition, right?"
-    mc "但这是人天性的一部分，对吧?"
+    mc "But that’s part of the human condition, right?"
 
 # game/bakery.rpy#L1492
 translate chinese bakeryvisit2_37c9b6b8:
 
     # cream "Ah yes, in this world we call that the anthropologic condition, these are the actions of a sentient anthropomorph and cannot be understood by the universe."
-    cream "啊是的，在这个世界上我们称之为马类学。这是有意识地拟马行为，不能被宇宙所理解。"
+    cream "Ah yes, in this world we call that the anthropologic condition, these are the actions of a sentient anthropomorph and cannot be understood by the universe."
 
 # game/bakery.rpy#L1493
 translate chinese bakeryvisit2_05014300:
 
     # cream "Fun and positivity are human concepts, they’ll die out when humanity dies."
-    cream "乐趣和积极是属于人类的概念，它们会随着人类的消亡而逐渐消失。"
+    cream "Fun and positivity are human concepts, they’ll die out when humanity dies."
 
 # game/bakery.rpy#L1494
 translate chinese bakeryvisit2_fe6d312a:
 
     # mc "If I was immortal there would be no way I could keep having fun after humanity has died out, lest I go insane in the manner you described. So I guess those concepts could live on through my rotting brain."
-    mc "如果我是不朽的，那在人类灭绝后，我就不能继续享受乐趣，不然我就会像你描述的那样发疯。 所以我猜这些概念可以通过我腐烂的大脑继续存在。"
+    mc "If I was immortal there would be no way I could keep having fun after humanity has died out, lest I go insane in the manner you described. So I guess those concepts could live on through my rotting brain."
 
 # game/bakery.rpy#L1496
 translate chinese bakeryvisit2_7c0a8f45:
 
     # cream "I feel like an immortal being would need to find a new meaning. Most humans are constrained by time and space."
-    cream "我觉得只有永生之人得寻找新的生命意义。而大多数人都会受到时间和空间的限制。"
+    cream "I feel like an immortal being would need to find a new meaning. Most humans are constrained by time and space."
 
 # game/bakery.rpy#L1497
 translate chinese bakeryvisit2_9612d417:
 
     # cream "Time is just a convenient intellectual concept for anthropomorphs to understand events. It’s simply an illusion made up by the brain to conceptualize the world."
-    cream "时间只是一个便于拟人理解事件的知识概念。这只是大脑为了概念化世界而产生的幻觉。"
+    cream "Time is just a convenient intellectual concept for anthropomorphs to understand events. It’s simply an illusion made up by the brain to conceptualize the world."
 
 # game/bakery.rpy#L1498
 translate chinese bakeryvisit2_09850139:
@@ -4844,433 +4844,433 @@ translate chinese bakeryvisit2_27a8f4b4:
 translate chinese bakeryvisit2_4c2abd39:
 
     # cream "Hence… I think being truly immortal is to exist outside of time."
-    cream "因此…我认为真正的不朽是存在于时间之外的。"
+    cream "Hence… I think being truly immortal is to exist outside of time."
 
 # game/bakery.rpy#L1502
 translate chinese bakeryvisit2_a01e9357:
 
     # cream "My question is: How would a human like yourself react if they were placed outside of time? What would that experience be like?"
-    cream "我的问题是：像你这样的人如果被放置于时间之外，会发生什么？那是一种怎样的体验？"
+    cream "My question is: How would a human like yourself react if they were placed outside of time? What would that experience be like?"
 
 # game/bakery.rpy#L1503
 translate chinese bakeryvisit2_d8c2aae0:
 
     # cream "Maybe it’s more than just living forever, maybe it’s experiencing every single second simultaneously."
-    cream "也许还不仅仅是永生不朽，而且能同时体验每一秒。"
+    cream "Maybe it’s more than just living forever, maybe it’s experiencing every single second simultaneously."
 
 # game/bakery.rpy#L1504
 translate chinese bakeryvisit2_e4aa7044:
 
     # mc "Wait, I think I get it, but I can’t quite put it into words."
-    mc "等等，我觉得我明白了，但我没法用语言表达出来。"
+    mc "Wait, I think I get it, but I can’t quite put it into words."
 
 # game/bakery.rpy#L1506
 translate chinese bakeryvisit2_333e6b1e:
 
     # cream "It could be like unlocking the third eye and seeing reality for what it really is."
-    cream "这就像是打开了第三只眼，第一次窥探到了真实的世界。"
+    cream "It could be like unlocking the third eye and seeing reality for what it really is."
 
 # game/bakery.rpy#L1507
 translate chinese bakeryvisit2_45d03e8b:
 
     # cream "The universe is either a three-dimensional space where things happen over time, or a four-dimensional space where nothing happens. Perhaps even more dimensions than that."
-    cream "宇宙要么是一个随时间变化的三维空间，要么是一个什么都不发生的四维空间。也许还有更多的维度。"
+    cream "The universe is either a three-dimensional space where things happen over time, or a four-dimensional space where nothing happens. Perhaps even more dimensions than that."
 
 # game/bakery.rpy#L1508
 translate chinese bakeryvisit2_770c80d4:
 
     # cream "If that is the case, then reality is an illusion."
-    cream "如果是这样的话，那么现实就是幻觉。"
+    cream "If that is the case, then reality is an illusion."
 
 # game/bakery.rpy#L1509
 translate chinese bakeryvisit2_545427f6:
 
     # cream "You, yes, you have that illusion of reality, the only reason you have a past is because your brain has memories."
-    cream "你，说的就是你，你有现实的幻觉，你有过去的唯一原因是因为你的大脑有记忆。"
+    cream "You, yes, you have that illusion of reality, the only reason you have a past is because your brain has memories."
 
 # game/bakery.rpy#L1510
 translate chinese bakeryvisit2_3e4e606a:
 
     # mc "So… I’m not insane, I’m just living in an illusion?"
-    mc "所以...我没疯，我只是生活在幻想中？"
+    mc "So… I’m not insane, I’m just living in an illusion?"
 
 # game/bakery.rpy#L1512
 translate chinese bakeryvisit2_c35dd423:
 
     # cream "Worse, we may all be living in our own unique illusions. You and I may not exist, either separately or simultaneously."
-    cream "更糟糕，我们可能都生活在自己独特的幻想中。你和我可能不存在，要么分开存在，要么同时存在。"
+    cream "Worse, we may all be living in our own unique illusions. You and I may not exist, either separately or simultaneously."
 
 # game/bakery.rpy#L1513
 translate chinese bakeryvisit2_5903991a:
 
     # mc "I was so close, but you just lost me. Do you have a philosophy degree or something?"
-    mc "我差点就能理解了，可你又让我迷糊了。你是不是有什么哲学学位啊？"
+    mc "I was so close, but you just lost me. Do you have a philosophy degree or something?"
 
 # game/bakery.rpy#L1515
 translate chinese bakeryvisit2_247b9214:
 
     # cream "Philosophy degree? Nah silly! This is quantum physics! I’ll try to dial it back a little for you. The implication I mentioned about illusion is that there are two worlds you’re experiencing simultaneously."
-    cream "哲学学位？才没有啦笨蛋！这是量子物理学！我来帮你捋捋嗷。我提到的幻觉的含义是，你同时经历着两个世界。"
+    cream "Philosophy degree? Nah silly! This is quantum physics! I’ll try to dial it back a little for you. The implication I mentioned about illusion is that there are two worlds you’re experiencing simultaneously."
 
 # game/bakery.rpy#L1516
 translate chinese bakeryvisit2_c72c7ba4:
 
     # cream "There’s the internal world which is what we see, experience and engage in with our five main senses. Then there is the external world which is the true reality."
-    cream "内部世界是我们用五种主要感官所看到、经历和参与的世界。外部世界才是真正的现实。"
+    cream "There’s the internal world which is what we see, experience and engage in with our five main senses. Then there is the external world which is the true reality."
 
 # game/bakery.rpy#L1521
 translate chinese bakeryvisit2_0633a09b:
 
     # cream "Perfect, because these next ideas keep me up at night."
-    cream "很好，因为接下来的想法让我整晚都没睡着。"
+    cream "Perfect, because these next ideas keep me up at night."
 
 # game/bakery.rpy#L1523
 translate chinese bakeryvisit2_abf268da:
 
     # cream "When I try to sleep, it's like an idea party in my head!"
-    cream "我想要睡觉的时候，脑子里却像在开派对！"
+    cream "When I try to sleep, it's like an idea party in my head!"
 
 # game/bakery.rpy#L1525
 translate chinese bakeryvisit2_3e841e36:
 
     # cream "Yeah sure, I have a really simple example."
-    cream "好吧，我有一个非常简单的例子。"
+    cream "Yeah sure, I have a really simple example."
 
 # game/bakery.rpy#L1526
 translate chinese bakeryvisit2_ceb522ef:
 
     # cream "What colour is this cake in the oven?"
-    cream "烤箱里的蛋糕是什么颜色？"
+    cream "What colour is this cake in the oven?"
 
 # game/bakery.rpy#L1527
 translate chinese bakeryvisit2_bf128379:
 
     # mc "Hmm, looks yellow to me, still needs a few more minutes until they’re golden brown."
-    mc "唔，现在我看着是黄色的，得再过几分钟它们才会变成金黄色。"
+    mc "Hmm, looks yellow to me, still needs a few more minutes until they’re golden brown."
 
 # game/bakery.rpy#L1529
 translate chinese bakeryvisit2_512910d4:
 
     # cream "Yup good eye, looks yellow to me too."
-    cream "好眼力，我也觉得是黄色的。"
+    cream "Yup good eye, looks yellow to me too."
 
 # game/bakery.rpy#L1530
 translate chinese bakeryvisit2_6dae82d6:
 
     # "She waits for a few seconds without saying anything."
-    "她一言不发地等了几秒钟。"
+    "She waits for a few seconds without saying anything."
 
 # game/bakery.rpy#L1532
 translate chinese bakeryvisit2_71483261:
 
     # cream "Did you catch it?"
-    cream "你懂了吗？"
+    cream "Did you catch it?"
 
 # game/bakery.rpy#L1533
 translate chinese bakeryvisit2_e360504c:
 
     # mc "Catch what?"
-    mc "懂啥？"
+    mc "Catch what?"
 
 # game/bakery.rpy#L1535
 translate chinese bakeryvisit2_32fa9795:
 
     # cream "We just agreed that it both looks yellow, how did we come to that agreement?"
-    cream "我们一致认为它是黄色的，我们是怎么得出这个结论的?"
+    cream "We just agreed that it both looks yellow, how did we come to that agreement?"
 
 # game/bakery.rpy#L1536
 translate chinese bakeryvisit2_ad97ba5b:
 
     # mc "Hm, because yellow is yellow?"
-    mc "嗯，因为这的确是黄色的?"
+    mc "Hm, because yellow is yellow?"
 
 # game/bakery.rpy#L1538
 translate chinese bakeryvisit2_ab9a5531:
 
     # cream "How do you know your yellow is the same as my yellow?"
-    cream "你怎么知道你说的黄色和我说的黄色是一样的呢?"
+    cream "How do you know your yellow is the same as my yellow?"
 
 # game/bakery.rpy#L1539
 translate chinese bakeryvisit2_cd992474:
 
     # mc "I guess there’s no way to prove that, unless science has figured it out."
-    mc "我想这是没有办法证明的，除非有什么科学依据啥的。"
+    mc "I guess there’s no way to prove that, unless science has figured it out."
 
 # game/bakery.rpy#L1541
 translate chinese bakeryvisit2_b73bed29:
 
     # cream "To take it a step further, how do we know anything we perceive is the same as what someone else perceives?"
-    cream "更进一步说，我们怎么知道我们感知到的东西和别人感知到的东西是一样的呢?"
+    cream "To take it a step further, how do we know anything we perceive is the same as what someone else perceives?"
 
 # game/bakery.rpy#L1542
 translate chinese bakeryvisit2_1bc5a026:
 
     # mc "Is there no way to prove that either?"
-    mc "这也没法证明的吗？"
+    mc "Is there no way to prove that either?"
 
 # game/bakery.rpy#L1544
 translate chinese bakeryvisit2_f8128d80:
 
     # cream "Heh, well I like to think most anthropomorphs see the same thing, but…"
-    cream "嗯，我想大多数人都看到的同样的东西，但是…"
+    cream "Heh, well I like to think most anthropomorphs see the same thing, but…"
 
 # game/bakery.rpy#L1546
 translate chinese bakeryvisit2_019f8a49:
 
     # cream "By what means can an individual truly know the world?"
-    cream "一个人怎样才能真正了解世界?"
+    cream "By what means can an individual truly know the world?"
 
 # game/bakery.rpy#L1547
 translate chinese bakeryvisit2_fdd83f9a:
 
     # "I try to think of a response, but… I have nothing. The way I’m perceiving this world has been radically altered. We went from the brain being a pesky pet to a sensory illusionist."
-    "我试着想出一个答案，但...我什么都没想出来，我感知这个世界的方式已经彻底改变了。我们的大脑从一个讨厌的宠物，变成了一个感官魔术师。"
+    "I try to think of a response, but… I have nothing. The way I’m perceiving this world has been radically altered. We went from the brain being a pesky pet to a sensory illusionist."
 
 # game/bakery.rpy#L1549
 translate chinese bakeryvisit2_b52a36e6:
 
     # cream "By what means can an individual come to false conclusions about the world?"
-    cream "一个人怎样才能对世界得出错误的结论?"
+    cream "By what means can an individual come to false conclusions about the world?"
 
 # game/bakery.rpy#L1550
 translate chinese bakeryvisit2_daf85070:
 
     # "The people I know, and love may not be real. It may be a simulation, but not of the computer, of the brain."
-    "我所认识的人，我所爱的人，可能不是真实的。它们可能是模拟出来的，不过不是计算机模拟，而是被自己的大脑模拟出来的。"
+    "The people I know, and love may not be real. It may be a simulation, but not of the computer, of the brain."
 
 # game/bakery.rpy#L1552
 translate chinese bakeryvisit2_1d4cae74:
 
     # cream "How do we determine whether a perception is correct."
-    cream "我们如何判断一种感知是否正确。"
+    cream "How do we determine whether a perception is correct."
 
 # game/bakery.rpy#L1553
 translate chinese bakeryvisit2_c6748cbb:
 
     # "A simulation of senses? I guess simulation is the wrong word. It’s no simulation, it’s the genuine reality and how our brain’s perceptions interpret it."
-    "模拟感官?我想模拟这个词用错了。这不是模拟，这是真实的现实，这就是我们的大脑感知如此解读的。"
+    "A simulation of senses? I guess simulation is the wrong word. It’s no simulation, it’s the genuine reality and how our brain’s perceptions interpret it."
 
 # game/bakery.rpy#L1555
 translate chinese bakeryvisit2_2f365cb2:
 
     # cream "Is there a limit to human knowledge, and if so, in what form does that limit exist?"
-    cream "人类的知识有极限吗?如果有，这种极限是以什么形式存在的?"
+    cream "Is there a limit to human knowledge, and if so, in what form does that limit exist?"
 
 # game/bakery.rpy#L1557
 translate chinese bakeryvisit2_83dee8d0:
 
     # cream "Is the world you’re occupying right now with your senses a convenient truth of your internal world, or is it the external world?"
-    cream "你现在用你的感官感受的世界是你的内心世界，还是外部世界?"
+    cream "Is the world you’re occupying right now with your senses a convenient truth of your internal world, or is it the external world?"
 
 # game/bakery.rpy#L1558
 translate chinese bakeryvisit2_75476489:
 
     # "If there are ants to humans, are humans an ant to something greater?"
-    "如果对于人类来说有蚂蚁，那么对于更伟大的事物来说，人类是不是蚂蚁呢?"
+    "If there are ants to humans, are humans an ant to something greater?"
 
 # game/bakery.rpy#L1559
 translate chinese bakeryvisit2_0fc51e5e:
 
     # "I speak up, I finally have something to contribute to the recently one-sided discussion."
-    "我开口了，终于对着一边倒的提问做出了些许回应。"
+    "I speak up, I finally have something to contribute to the recently one-sided discussion."
 
 # game/bakery.rpy#L1560
 translate chinese bakeryvisit2_e0018609:
 
     # mc "I like to think of these questions as logically as possible. What is most likely?"
-    mc "我喜欢尽可能有逻辑地思考这些问题。什么是最有可能的？"
+    mc "I like to think of these questions as logically as possible. What is most likely?"
 
 # game/bakery.rpy#L1561
 translate chinese bakeryvisit2_da107eab:
 
     # mc "The way you’re talking, I’m starting to lean on the internal, rather than external. My brain is struggling to rationalise it though. How can my existence and everything I witness be… wrong?"
-    mc "按你说的来，我开始依赖内心，而不是外部。我的大脑在努力为它找借口。我的存在和我所见证的一切怎么可能是…错的?"
+    mc "The way you’re talking, I’m starting to lean on the internal, rather than external. My brain is struggling to rationalise it though. How can my existence and everything I witness be… wrong?"
 
 # game/bakery.rpy#L1562
 translate chinese bakeryvisit2_cdaea8c6:
 
     # mc "Yet, it makes far too much sense to say that this isn't the true reality."
-    mc "然而，说这不是真实的现实太过分了。"
+    mc "Yet, it makes far too much sense to say that this isn't the true reality."
 
 # game/bakery.rpy#L1564
 translate chinese bakeryvisit2_bb953178:
 
     # cream "Indeed, it would be naïve to say the external world is the average of all anthropomorphs."
-    cream "事实上，说外部世界对所有人都是一概而论，这样太天真了。"
+    cream "Indeed, it would be naïve to say the external world is the average of all anthropomorphs."
 
 # game/bakery.rpy#L1565
 translate chinese bakeryvisit2_3275498d:
 
     # mc "Oh, I think our cakes are done, they’re golden brown."
-    mc "哦，我想蛋糕已经做好了，它们变成金黄色了。"
+    mc "Oh, I think our cakes are done, they’re golden brown."
 
 # game/bakery.rpy#L1567
 translate chinese bakeryvisit2_98fb7947:
 
     # cream "What a fascinating discovery, allow me to slowly bend over and reach out to collect them from the oven."
-    cream "多么神奇的发现啊，让我慢慢弯下腰，伸手从烤箱里把它们收起来。"
+    cream "What a fascinating discovery, allow me to slowly bend over and reach out to collect them from the oven."
 
 # game/bakery.rpy#L1570
 translate chinese bakeryvisit2_5984940e:
 
     # cream "I sure hope no one stares at my butt while I’m distracted."
-    cream "我很希望在我分心的时候没人盯着我的屁股看。"
+    cream "I sure hope no one stares at my butt while I’m distracted."
 
 # game/bakery.rpy#L1572
 translate chinese bakeryvisit2_f9e73372:
 
     # "Just like that she’s devolves back to her raunchy flirting, unwaveringly and unblinkingly."
-    "就像她突然回到了那个淫荡爱调情的时候，毫不遮掩，直来直去。"
+    "Just like that she’s devolves back to her raunchy flirting, unwaveringly and unblinkingly."
 
 # game/bakery.rpy#L1573
 translate chinese bakeryvisit2_6a07fc66:
 
     # "Perhaps she’s just a nerd that loves to indulge in this kind of discussion, but now I have this nagging feeling of ‘why’? Is there a reason she’s discussing all of this?"
-    "也许她只是一个喜欢讨论的书呆子，但现在我有一个挥之不去的问题：为什么。为什么要和我讨论这些。"
+    "Perhaps she’s just a nerd that loves to indulge in this kind of discussion, but now I have this nagging feeling of ‘why’? Is there a reason she’s discussing all of this?"
 
 # game/bakery.rpy#L1574
 translate chinese bakeryvisit2_55a724bb:
 
     # "We take the cakes out the oven, and as they cool I pursue that question."
-    "我们把蛋糕从烤箱里拿出来，等它们冷却后，我问了出来。"
+    "We take the cakes out the oven, and as they cool I pursue that question."
 
 # game/bakery.rpy#L1576
 translate chinese bakeryvisit2_69a3b20b:
 
     # mc "What’s leading you to say all these profound things, Cream?"
-    mc "你怎么会说出这些深奥的话，Cream？"
+    mc "What’s leading you to say all these profound things, Cream?"
 
 # game/bakery.rpy#L1578
 translate chinese bakeryvisit2_de06229c:
 
     # cream "Oh? Well… I’m not just making conversation anymore, [playername]."
-    cream "哦？因为，我不止是随便说说而已呀，[playername]。"
+    cream "Oh? Well… I’m not just making conversation anymore, [playername]."
 
 # game/bakery.rpy#L1579
 translate chinese bakeryvisit2_73a85b4c:
 
     # cream "These ideas keep me up at night thinking…"
-    cream "这些想法让我夜不能寐。"
+    cream "These ideas keep me up at night thinking…"
 
 # game/bakery.rpy#L1580
 translate chinese bakeryvisit2_38ec89f3:
 
     # cream "It’s more than just illusion, senses and time, it’s that there may be cosmic creatures that witness and observe the universe not through sight, smell and sound…"
-    cream "除了幻觉、感觉和时间以外，也许还有宇宙生物不仅仅是通过视觉、嗅觉和声音来见证和观察宇宙的……"
+    cream "It’s more than just illusion, senses and time, it’s that there may be cosmic creatures that witness and observe the universe not through sight, smell and sound…"
 
 # game/bakery.rpy#L1581
 translate chinese bakeryvisit2_cd79e14d:
 
     # cream "But new senses that we’re unable to fathom, and these senses give birth to a radically different universe."
-    cream "但那些新感觉我们无法理解，只有完全不同的宇宙才能体会那些感觉。"
+    cream "But new senses that we’re unable to fathom, and these senses give birth to a radically different universe."
 
 # game/bakery.rpy#L1582
 translate chinese bakeryvisit2_94c7fbf6:
 
     # cream "There may even be other senses or extra dimensions occupied by creatures or concepts beyond the ability of our brain to comprehend."
-    cream "甚至可能还有其他感官或额外维度被我们的大脑无法理解的生物或概念所占据。"
+    cream "There may even be other senses or extra dimensions occupied by creatures or concepts beyond the ability of our brain to comprehend."
 
 # game/bakery.rpy#L1583
 translate chinese bakeryvisit2_16a22eaa:
 
     # cream "What if the idea of a ‘sense’ isn’t even enough to define these creatures? What if language itself fails? And if language fails, does thought fail too?"
-    cream "如果“感觉”的概念都无法定义这些生物呢?如果语言描述也不能怎么办?如果无法描述的话，会不会无法想象它们？"
+    cream "What if the idea of a ‘sense’ isn’t even enough to define these creatures? What if language itself fails? And if language fails, does thought fail too?"
 
 # game/bakery.rpy#L1584
 translate chinese bakeryvisit2_2b90331b:
 
     # cream "An ant doesn’t worry itself with the affairs of a human, indeed, it completely lacks the ability to."
-    cream "蚂蚁不会为人类的事情操心，事实上，它完全没有这种能力。"
+    cream "An ant doesn’t worry itself with the affairs of a human, indeed, it completely lacks the ability to."
 
 # game/bakery.rpy#L1585
 translate chinese bakeryvisit2_fb69bb4f:
 
     # mc "I see… Smell, sight, touch, hearing, and taste… What if there’s something in front of me, yet it’s out of reach because I lack the senses to engage with it."
-    mc "我懂了...嗅觉、视觉、触觉、听觉和味觉……如果有什么东西在我面前，但因为我缺乏发现它的感觉而发现不到它怎么办？"
+    mc "I see… Smell, sight, touch, hearing, and taste… What if there’s something in front of me, yet it’s out of reach because I lack the senses to engage with it."
 
 # game/bakery.rpy#L1586
 translate chinese bakeryvisit2_662b99f5:
 
     # mc "It’s like trying to imagine a new colour."
-    mc "就像试着想象一种全新的颜色。"
+    mc "It’s like trying to imagine a new colour."
 
 # game/bakery.rpy#L1588
 translate chinese bakeryvisit2_c9c05381:
 
     # cream "How can I stand here in my arrogance, baking cakes while pretending I have the senses that define the universe?"
-    cream "我怎么能傲慢地站在这里，一边烤蛋糕一边假装自己拥有定义宇宙的感官?"
+    cream "How can I stand here in my arrogance, baking cakes while pretending I have the senses that define the universe?"
 
 # game/bakery.rpy#L1589
 translate chinese bakeryvisit2_bd3a991b:
 
     # mc "Why are you thinking about all this specifically?"
-    mc "为什么你要特别考虑这些?"
+    mc "Why are you thinking about all this specifically?"
 
 # game/bakery.rpy#L1590
 translate chinese bakeryvisit2_a962c2c1:
 
     # "She points at me, then boops my nose with that same finger."
-    "她指着我，然后用同一根手指捏我的鼻子。"
+    "She points at me, then boops my nose with that same finger."
 
 # game/bakery.rpy#L1592
 translate chinese bakeryvisit2_314b9d5c:
 
     # cream "You… don’t belong here, do you?"
-    cream "你...不属于这里，对吧?"
+    cream "You… don’t belong here, do you?"
 
 # game/bakery.rpy#L1593
 translate chinese bakeryvisit2_315a7522:
 
     # mc "I’m still trying to figure that one out."
-    mc "可我还在努力融入这里。"
+    mc "I’m still trying to figure that one out."
 
 # game/bakery.rpy#L1595
 translate chinese bakeryvisit2_dca684df:
 
     # cream "You’re an anomaly, no creature like you exists on this planet."
-    cream "你是个异类，在这个星球上没有像你这样的生物。"
+    cream "You’re an anomaly, no creature like you exists on this planet."
 
 # game/bakery.rpy#L1596
 translate chinese bakeryvisit2_0afd7d83:
 
     # cream "I was thinking… Perhaps there was something, anything a little different about how you experience the world."
-    cream "我在想，也许你对这个世界的感受有一点不同。"
+    cream "I was thinking… Perhaps there was something, anything a little different about how you experience the world."
 
 # game/bakery.rpy#L1597
 translate chinese bakeryvisit2_7b180abe:
 
     # "I ponder for a few moments, I guess there’s really no way to guarantee I see reality the same way as these ponies, but that just puts us back to the argument from earlier which just drives us around in circles."
-    "我思考了一会儿，我想没有办法保证我对现实的看法和这些小马一样，但这又把我们带回了之前的争论，让我们绕着圈子转。"
+    "I ponder for a few moments, I guess there’s really no way to guarantee I see reality the same way as these ponies, but that just puts us back to the argument from earlier which just drives us around in circles."
 
 # game/bakery.rpy#L1599
 translate chinese bakeryvisit2_e57a53b4:
 
     # cream "You shouldn’t take anything at face value, question everything you see, this world may not be what it seems."
-    cream "你不应该只看表面价值，质疑你看到的一切，这个世界可能不是它看起来的样子。"
+    cream "You shouldn’t take anything at face value, question everything you see, this world may not be what it seems."
 
 # game/bakery.rpy#L1600
 translate chinese bakeryvisit2_6e67a88a:
 
     # mc "It seems like nothing ever is, through the power of a spell I’ve been zapped into this weird magical world. You’re right, it seems too ridiculous to be true."
-    mc "似乎从来没有什么是真的，我是通过一个咒语的力量，进入了这个奇怪的魔法世界。你说得对，这太荒谬了，不像是真的。"
+    mc "It seems like nothing ever is, through the power of a spell I’ve been zapped into this weird magical world. You’re right, it seems too ridiculous to be true."
 
 # game/bakery.rpy#L1602
 translate chinese bakeryvisit2_a951c66d:
 
     # cream "Of course, magic isn’t real after all."
-    cream "当然，魔法毕竟不是真的。"
+    cream "Of course, magic isn’t real after all."
 
 # game/bakery.rpy#L1603
 translate chinese bakeryvisit2_3f0260aa:
 
     # mc "Isn’t it? But I’ve seen people cast magic."
-    mc "不是吗?但我见过有马施魔法呀。"
+    mc "Isn’t it? But I’ve seen people cast magic."
 
 # game/bakery.rpy#L1605
 translate chinese bakeryvisit2_ab0feb1b:
 
     # cream "Have you? Really? Are you sure?"
-    cream "哦？真的吗？你真的能确定？"
+    cream "Have you? Really? Are you sure?"
 
 # game/bakery.rpy#L1606
 translate chinese bakeryvisit2_26372f5d:
@@ -5300,139 +5300,139 @@ translate chinese bakeryvisit2_5155aa49:
 translate chinese bakeryvisit2_009117e8:
 
     # cream "These cakes and my ass won’t ice themselves, come on [playername], what am I paying you for?"
-    cream "这些蛋糕和我的屁股可不会自己冷却啊，来啊[playername]，还记得我给你钱是来干什么的吗？"
+    cream "These cakes and my ass won’t ice themselves, come on [playername], what am I paying you for?"
 
 # game/bakery.rpy#L1615
 translate chinese bakeryvisit2_1de812d6:
 
     # "Somewhat begrudgingly, I recognize her discomfort to continue the conversation and I focus on making the cakes."
-    "虽然有些不情愿，但我意识到她不愿意继续谈话，于是我就专心做蛋糕。"
+    "Somewhat begrudgingly, I recognize her discomfort to continue the conversation and I focus on making the cakes."
 
 # game/bakery.rpy#L1616
 translate chinese bakeryvisit2_9867e46d:
 
     # "Cream may be the one telling me to question everything, but the only questions I have right now are all for her and this bizarre conversation."
-    "也许是Cream让我质疑一切，但我现在唯一的疑问都是为了她和这奇怪的对话。"
+    "Cream may be the one telling me to question everything, but the only questions I have right now are all for her and this bizarre conversation."
 
 # game/bakery.rpy#L1618
 translate chinese bakeryvisit2_f6806701:
 
     # "The two of us open up shop and continue to work until the early afternoon, the conversation has returned to small talk with intermittent flirting, it seems she’s committed to sleeping with me tonight too."
-    "我们俩开了门，继续工作到下午，聊天又回到了闲聊和调情，看来她今晚也要和我做爱了。"
+    "The two of us open up shop and continue to work until the early afternoon, the conversation has returned to small talk with intermittent flirting, it seems she’s committed to sleeping with me tonight too."
 
 # game/bakery.rpy#L1619
 translate chinese bakeryvisit2_872de6f8:
 
     # "I’m sure she’s hiding something, so I could use her eagerness to sleep with me as levy to find out what."
-    "我肯定她在隐瞒些什么，所以我可以利用她的饥渴来找出真相。"
+    "I’m sure she’s hiding something, so I could use her eagerness to sleep with me as levy to find out what."
 
 # game/bakery.rpy#L1621
 translate chinese bakeryvisit2_0396da0f:
 
     # "Eventually around 5:00pm, she invites me to her bedroom with an unusual request, she asks me to bring a tray of cakes upstairs with us."
-    "终于到了下午五点左右，她邀请我去她的卧室，还提出了一个不同寻常的要求，她让我带一盘蛋糕上楼。"
+    "Eventually around 5:00pm, she invites me to her bedroom with an unusual request, she asks me to bring a tray of cakes upstairs with us."
 
 # game/bakery.rpy#L1623
 translate chinese bakeryvisit2_bf107d6b:
 
     # cream "Ah, before I forget, your pay! Here's 25 monies!"
-    cream "啊，趁着我还没忘，你的工资。25块。"
+    cream "Ah, before I forget, your pay! Here's 25 monies!"
 
 # game/bakery.rpy#L1624
 translate chinese bakeryvisit2_82b62788:
 
     # "It's a fairly small sum compared to how much she earned today, but she technically didn't need my help, so I'm grateful."
-    "与她今天赚的钱相比，这是很小的一笔钱，但严格来说她不需要我的帮助，所以我还是很感谢。"
+    "It's a fairly small sum compared to how much she earned today, but she technically didn't need my help, so I'm grateful."
 
 # game/bakery.rpy#L1625
 translate chinese bakeryvisit2_53d4bbc5:
 
     # mc "Uhm, so why am I taking cakes upstairs? Now I’m not against a snack before, after or during sex, but there's no way the two of us can eat all of these."
-    mc "额，那我为什么还要带蛋糕上楼呢?我不反对在做爱前，做爱后或做爱时吃零食，但我们俩不可能把这些都吃完呀。"
+    mc "Uhm, so why am I taking cakes upstairs? Now I’m not against a snack before, after or during sex, but there's no way the two of us can eat all of these."
 
 # game/bakery.rpy#L1627
 translate chinese bakeryvisit2_15cbd38b:
 
     # cream "You’ll just have to find out, [playername]!"
-    cream "[playername]别着急，你会知道的!"
+    cream "You’ll just have to find out, [playername]!"
 
 # game/bakery.rpy#L1628
 translate chinese bakeryvisit2_3509df32:
 
     # mc "Hmm sure, but don't complain if they go to waste."
-    mc "唔，行吧，要是浪费了可别抱怨啊。"
+    mc "Hmm sure, but don't complain if they go to waste."
 
 # game/bakery.rpy#L1632
 translate chinese bakeryvisit2_2f48d0d7:
 
     # "I step into her bedroom again with the baking tray and place it on a tabletop. Again, my gut feeling tells me that something is wrong about this room."
-    "我端着烤盘再一次走进她的卧室，把蛋糕放在桌子上。直觉告诉我，这个房间肯定有问题。"
+    "I step into her bedroom again with the baking tray and place it on a tabletop. Again, my gut feeling tells me that something is wrong about this room."
 
 # game/bakery.rpy#L1633
 translate chinese bakeryvisit2_5c152daf:
 
     # "I was too focused on sex to notice last time, but this room makes absolutely no sense architecturally."
-    "上次光顾做做爱了，我都没注意到，这个房间在建筑结构上完全不合理。"
+    "I was too focused on sex to notice last time, but this room makes absolutely no sense architecturally."
 
 # game/bakery.rpy#L1634
 translate chinese bakeryvisit2_2c47463f:
 
     # "If my knowledge of this building is right, this room doesn’t fit inside the building. It should be sticking out the side haphazardly, and there are no windows to deny or confirm this."
-    "如果我的建筑知识没出错的话，那这个房间并不和这栋楼对的上。从结构来看，这个房间会在楼外突出来，但没有窗户来确定这一点。"
+    "If my knowledge of this building is right, this room doesn’t fit inside the building. It should be sticking out the side haphazardly, and there are no windows to deny or confirm this."
 
 # game/bakery.rpy#L1635
 translate chinese bakeryvisit2_5d660d9d:
 
     # "Wait, I can't hear the birds or outside bustle anymore, what's going on?"
-    "等等，我听不到外面的喧闹声和鸟叫声了，怎么回事？"
+    "Wait, I can't hear the birds or outside bustle anymore, what's going on?"
 
 # game/bakery.rpy#L1637
 translate chinese bakeryvisit2_f49e97f7:
 
     # "There's one wall opposite to the bedroom covered in red curtains... I had just assumed that these covered a window earlier, but I'm absolutely certain there's no window here."
-    "卧室对面有一堵挂着红色窗帘的墙。我之前以为这些东西盖住了窗户，但我很确定这里根本没有窗户。"
+    "There's one wall opposite to the bedroom covered in red curtains... I had just assumed that these covered a window earlier, but I'm absolutely certain there's no window here."
 
 # game/bakery.rpy#L1638
 translate chinese bakeryvisit2_8bf0b08b:
 
     # "I take a few steps toward the wall and I’m about to peek behind the lines of curtains, but Cream stops me."
-    "我朝墙走了几步想要看看窗帘后面，但Cream拦住了我。"
+    "I take a few steps toward the wall and I’m about to peek behind the lines of curtains, but Cream stops me."
 
 # game/bakery.rpy#L1641
 translate chinese bakeryvisit2_55305ca8:
 
     # cream "Don’t look, not yet."
-    cream "莫慌，先别看。"
+    cream "Don’t look, not yet."
 
 # game/bakery.rpy#L1642
 translate chinese bakeryvisit2_be860bbc:
 
     # mc "This room doesn’t fit in the building, what’s going on?"
-    mc "这个房间和这栋楼完全对不上吧，怎么回事？"
+    mc "This room doesn’t fit in the building, what’s going on?"
 
 # game/bakery.rpy#L1644
 translate chinese bakeryvisit2_d531cce6:
 
     # cream "You’re sharp, I realize that, but I don’t know if I’m ready to tell you…"
-    cream "知道你很聪明，但我不知道我是否准备好告诉你…"
+    cream "You’re sharp, I realize that, but I don’t know if I’m ready to tell you…"
 
 # game/bakery.rpy#L1645
 translate chinese bakeryvisit2_16c932a3:
 
     # mc "At least tell me what this room is, is it a magic illusion?"
-    mc "至少告诉我这个房间怎么回事，是魔法弄得错觉吗?"
+    mc "At least tell me what this room is, is it a magic illusion?"
 
 # game/bakery.rpy#L1647
 translate chinese bakeryvisit2_3fd8b6c4:
 
     # cream "It’s not really an illusion, it’s more of an interdimensional space…"
-    cream "这并不是一种错觉，它更像是一个多维空间……"
+    cream "It’s not really an illusion, it’s more of an interdimensional space…"
 
 # game/bakery.rpy#L1648
 translate chinese bakeryvisit2_49d6ad5b:
 
     # mc "And why is there an interdimensional space in the bakery?"
-    mc "为啥面包房里会有一个多维空间呀?"
+    mc "And why is there an interdimensional space in the bakery?"
 
 # game/bakery.rpy#L1650
 translate chinese bakeryvisit2_a852be88:
@@ -5444,13 +5444,13 @@ translate chinese bakeryvisit2_a852be88:
 translate chinese bakeryvisit2_7bc9fea7:
 
     # mc "I guess I wouldn’t, can unicorns do that?"
-    mc "那我确实没法理解，话说独角兽能做到这事儿吗？"
+    mc "I guess I wouldn’t, can unicorns do that?"
 
 # game/bakery.rpy#L1653
 translate chinese bakeryvisit2_f72e28fc:
 
     # cream "I have a skeleton in the bakery closet, I haven’t exactly been honest to you about everything."
-    cream "我有个不可告人的秘密，我并没有完全对你说实话。"
+    cream "I have a skeleton in the bakery closet, I haven’t exactly been honest to you about everything."
 
 # game/bakery.rpy#L1654
 translate chinese bakeryvisit2_b2b9e19d:
@@ -5462,43 +5462,43 @@ translate chinese bakeryvisit2_b2b9e19d:
 translate chinese bakeryvisit2_c4a4da46:
 
     # cream "I like to think of my identity as a coherent, holistic and logical being."
-    cream "我喜欢把我的身份想象成一个连贯的、整体的、有逻辑的存在。"
+    cream "I like to think of my identity as a coherent, holistic and logical being."
 
 # game/bakery.rpy#L1657
 translate chinese bakeryvisit2_bd76eac5:
 
     # cream "At the centre of it all there’s me, a pony called Cream. And I’d like to say that to some extent or another I am expression of the true, essential ‘Cream’, to you."
-    cream "在这一切的中心是我，一匹叫Cream的小马。 我想说的是，在某种程度上，我对你们来说就是真实的、本质的“Cream”。"
+    cream "At the centre of it all there’s me, a pony called Cream. And I’d like to say that to some extent or another I am expression of the true, essential ‘Cream’, to you."
 
 # game/bakery.rpy#L1658
 translate chinese bakeryvisit2_9ded10f0:
 
     # cream "But I don’t know how much that’s true or untrue."
-    cream "但我不知道这是真的还是假的。"
+    cream "But I don’t know how much that’s true or untrue."
 
 # game/bakery.rpy#L1659
 translate chinese bakeryvisit2_2b8d8b18:
 
     # mc "Are you having an identity crisis?"
-    mc "你确定你没有人格分裂症吗？"
+    mc "Are you having an identity crisis?"
 
 # game/bakery.rpy#L1661
 translate chinese bakeryvisit2_a881923a:
 
     # cream "I’m slowly coming to terms with what I am, but I’m still trying to solve what you are."
-    cream "我在慢慢地接受我是什么，但我仍在试搞清楚你是什么。"
+    cream "I’m slowly coming to terms with what I am, but I’m still trying to solve what you are."
 
 # game/bakery.rpy#L1662
 translate chinese bakeryvisit2_149b5340:
 
     # cream "You are the anomaly. I am the exception."
-    cream "你是个异类。而我是个例外。"
+    cream "You are the anomaly. I am the exception."
 
 # game/bakery.rpy#L1663
 translate chinese bakeryvisit2_df7a9830:
 
     # cream "We are both supernatural to this ‘world’."
-    cream "你和我一样？并不是来自这个世界的？"
+    cream "We are both supernatural to this ‘world’."
 
 # game/bakery.rpy#L1664
 translate chinese bakeryvisit2_f90ab0a5:
@@ -5516,19 +5516,19 @@ translate chinese bakeryvisit2_e9211b78:
 translate chinese bakeryvisit2_d8766a36:
 
     # cream "But compared to anyone else living in Arcadia? I can’t say I relate to them."
-    cream "但和其他住在Arcadia的人相比?我不能说我和他们有什么共鸣。"
+    cream "But compared to anyone else living in Arcadia? I can’t say I relate to them."
 
 # game/bakery.rpy#L1668
 translate chinese bakeryvisit2_3206e927:
 
     # mc "Yeah but… you’re a pony, you fit right in."
-    mc "好吧，可是...你是小马啊，你适合这里呀。"
+    mc "Yeah but… you’re a pony, you fit right in."
 
 # game/bakery.rpy#L1670
 translate chinese bakeryvisit2_d154a4cd:
 
     # cream "The hand fits the glove. If I were in your universe, I’d appear human, I’m sure."
-    cream "就像手套适合手。如果我出现在人类世界，我肯定能表现得像个人类。"
+    cream "The hand fits the glove. If I were in your universe, I’d appear human, I’m sure."
 
 # game/bakery.rpy#L1671
 translate chinese bakeryvisit2_d1a6ffe1:
@@ -5546,31 +5546,31 @@ translate chinese bakeryvisit2_87660232:
 translate chinese bakeryvisit2_1c0e477f:
 
     # cream "Your view is infallible, and sometimes your pre-existing idea of perception can be completely modified with just a click..."
-    cream "你的观点是绝对正确的，但有时你预先存在的观念可以完全修改，只需再点击一下鼠标……"
+    cream "Your view is infallible, and sometimes your pre-existing idea of perception can be completely modified with just a click..."
 
 # game/bakery.rpy#L1676
 translate chinese bakeryvisit2_91047b8c:
 
     # "Instantly the room around me changes in appearance. I can’t tell if I was moved or the room changed but whatever happened it was immediate."
-    "我周围的房间立刻变了样。我不知道是我被转移了还是房间被换了但不管发生了什么，一切是那么突然。"
+    "Instantly the room around me changes in appearance. I can’t tell if I was moved or the room changed but whatever happened it was immediate."
 
 # game/bakery.rpy#L1677
 translate chinese bakeryvisit2_5b8794d9:
 
     # "It reminds me of Moxie’s spell, was I teleported?"
-    "这让我想起了Moxie的咒语，我被传送了?"
+    "It reminds me of Moxie’s spell, was I teleported?"
 
 # game/bakery.rpy#L1678
 translate chinese bakeryvisit2_c8c30de1:
 
     # "As I look around, Cream is still here, but now there are a lot more beds in a row..."
-    "我环顾四周，Cream还在这里，但现在有很多床排成一排…"
+    "As I look around, Cream is still here, but now there are a lot more beds in a row..."
 
 # game/bakery.rpy#L1679
 translate chinese bakeryvisit2_67e85606:
 
     # "It took me a while to process what happened. It was the curtain, it had been lifted, revealing infinite identical rooms that seem to span onwards into infinity, and there are other ponies in the distance too."
-    "我花了点时间来确认发生了什么事。我看见了窗帘，它已经被拉开了，揭示出无限的相同的房间，似乎延伸到无限，在远处也有其他的小马。"
+    "It took me a while to process what happened. It was the curtain, it had been lifted, revealing infinite identical rooms that seem to span onwards into infinity, and there are other ponies in the distance too."
 
 # game/bakery.rpy#L1680
 translate chinese bakeryvisit2_7d010a14:
@@ -5588,25 +5588,25 @@ translate chinese bakeryvisit2_96b5e18b:
 translate chinese bakeryvisit2_04d5c59a:
 
     # "As some of the ponies come closer, I'm shocked to notice that they're different coloured Creams!"
-    "当一些小马走近时，我惊讶地发现它们是不同颜色的Cream！"
+    "As some of the ponies come closer, I'm shocked to notice that they're different coloured Creams!"
 
 # game/bakery.rpy#L1684
 translate chinese bakeryvisit2_2d3ced04:
 
     # "All of assorted colours and pony ‘type’."
-    "都是长着一个样子的小马，只是颜色不同。"
+    "All of assorted colours and pony ‘type’."
 
 # game/bakery.rpy#L1690
 translate chinese bakeryvisit2_8278fb2a:
 
     # unknown "Hiya, how’s it going mistah, nice to meet you! Thanks for baking all those delicious cakes for us!"
-    unknown "嘞吼，最近怎么样，很高兴认识你，谢谢你给我们烤的这些美味的蛋糕！"
+    unknown "Hiya, how’s it going mistah, nice to meet you! Thanks for baking all those delicious cakes for us!"
 
 # game/bakery.rpy#L1694
 translate chinese bakeryvisit2_b362fcec:
 
     # unknown "Is this the one? Truly curious..."
-    unknown "这就是那个人吗？真有意思..."
+    unknown "Is this the one? Truly curious..."
 
 # game/bakery.rpy#L1695
 translate chinese bakeryvisit2_6c1429cf:
@@ -5618,13 +5618,13 @@ translate chinese bakeryvisit2_6c1429cf:
 translate chinese bakeryvisit2_dc030d2b:
 
     # unknown "We're Creams from adjacent universes, hence why we all look so similar."
-    unknown "我们是来自其它宇宙的Cream，所以我们看起来都很像。"
+    unknown "We're Creams from adjacent universes, hence why we all look so similar."
 
 # game/bakery.rpy#L1699
 translate chinese bakeryvisit2_2bb54bbf:
 
     # unknown "Yup! But we all have unique names, actually."
-    unknown "是的，但其实我们都有各自独特的名字哟。"
+    unknown "Yup! But we all have unique names, actually."
 
 # game/bakery.rpy#L1701
 translate chinese bakeryvisit2_0c7afbde:
@@ -5642,25 +5642,25 @@ translate chinese bakeryvisit2_48c579d5:
 translate chinese bakeryvisit2_83b43508:
 
     # unknown "What the fuck is going on over here? How dare you bring an outsider to this place Cream! How utterly irresponsible!"
-    unknown "这他妈的是怎么回事?你怎么敢带一个外来者来这里，Cream!你真是不负责任!"
+    unknown "What the fuck is going on over here? How dare you bring an outsider to this place Cream! How utterly irresponsible!"
 
 # game/bakery.rpy#L1711
 translate chinese bakeryvisit2_00ffbf74:
 
     # cream "But Blackcurrant... This man is... This man is beyond our dimensions!"
-    cream "可是Blackcurrant...这个人...这个人来自更高的维度啊。"
+    cream "But Blackcurrant... This man is... This man is beyond our dimensions!"
 
 # game/bakery.rpy#L1713
 translate chinese bakeryvisit2_47141e82:
 
     # purple "W-What? Nonsense... Tell me young man, who are you?"
-    purple "什-什么？胡说...告诉我年轻人，你是谁？"
+    purple "W-What? Nonsense... Tell me young man, who are you?"
 
 # game/bakery.rpy#L1721
 translate chinese bakeryvisit2_c569747f:
 
     # cream "Oho, we’re making progress."
-    cream "哦吼，我们有进展了。"
+    cream "Oho, we’re making progress."
 
 # game/bakery.rpy#L1723
 translate chinese bakeryvisit2_a1107e77:
@@ -5672,7 +5672,7 @@ translate chinese bakeryvisit2_a1107e77:
 translate chinese bakeryvisit2_0276d953:
 
     # mc "So, this was in your bedroom all along, Cream?"
-    mc "所以，这就是你一直藏在房间里的，Cream？"
+    mc "So, this was in your bedroom all along, Cream?"
 
 # game/bakery.rpy#L1726
 translate chinese bakeryvisit2_d5bcb679:
@@ -5684,7 +5684,7 @@ translate chinese bakeryvisit2_d5bcb679:
 translate chinese bakeryvisit2_1c5f143e:
 
     # carrot "I can't believe you slept with this guy and didn't invite us! You're such a cockblock Cream!"
-    carrot "我真不敢相信你都和他上床了，却还不邀请我们！Cream，你个老混蛋！"
+    carrot "I can't believe you slept with this guy and didn't invite us! You're such a cockblock Cream!"
 
 # game/bakery.rpy#L1730
 translate chinese bakeryvisit2_a63f14cb:
@@ -5696,13 +5696,13 @@ translate chinese bakeryvisit2_a63f14cb:
 translate chinese bakeryvisit2_bc41954d:
 
     # cream "Nah, not really. But considering there are infinite of them, yes!"
-    cream "不，应该不会。但考虑到有无数个Cream，所以是的这样的，没错！"
+    cream "Nah, not really. But considering there are infinite of them, yes!"
 
 # game/bakery.rpy#L1737
 translate chinese bakeryvisit2_5588723d:
 
     # mc "So they are all horny, yet all not horny?"
-    mc "这极限思想都被你玩坏了呀？"
+    mc "So they are all horny, yet all not horny?"
 
 # game/bakery.rpy#L1739
 translate chinese bakeryvisit2_8e0971ef:
@@ -5720,31 +5720,31 @@ translate chinese bakeryvisit2_20998762:
 translate chinese bakeryvisit2_c65e7e6c:
 
     # cream "The curtain has been lifted, and now you’ve found out that I'm just one of infinite strange creatures."
-    cream "谜底揭晓，现在你发现我是无数怪异生物的其中之一了。"
+    cream "The curtain has been lifted, and now you’ve found out that I'm just one of infinite strange creatures."
 
 # game/bakery.rpy#L1746
 translate chinese bakeryvisit2_ba90e94b:
 
     # cream "We're special agents designed to fulfill roles in various worlds, however we're born with a special power, or a curse you could say."
-    cream "我们是被设计出来担任不同世界角色的特工，然而，我们有一种特殊的能力与生俱来，或者可以说是一种诅咒。"
+    cream "We're special agents designed to fulfill roles in various worlds, however we're born with a special power, or a curse you could say."
 
 # game/bakery.rpy#L1747
 translate chinese bakeryvisit2_99269cc7:
 
     # cream "Every single variation of 'Cream', me, is aware of their own existence within a piece of media."
-    cream "Cream的每一个变体，和我，都能意识到自己存在于一个游戏之中。"
+    cream "Every single variation of 'Cream', me, is aware of their own existence within a piece of media."
 
 # game/bakery.rpy#L1748
 translate chinese bakeryvisit2_9a5605ee:
 
     # mc "What does that have to do with me? Am I in a piece of media too?"
-    mc "这和我有什么关系吗？难道我也在这个游戏里？"
+    mc "What does that have to do with me? Am I in a piece of media too?"
 
 # game/bakery.rpy#L1750
 translate chinese bakeryvisit2_6716d38f:
 
     # cream "You're so much more than that [playername], you're the player!"
-    cream "你远不止如此，[playername]，你可是玩家呀！"
+    cream "You're so much more than that [playername], you're the player!"
 
 # game/bakery.rpy#L1751
 translate chinese bakeryvisit2_78050ca5:
@@ -5756,7 +5756,7 @@ translate chinese bakeryvisit2_78050ca5:
 translate chinese bakeryvisit2_3a2d26b8:
 
     # cream "I was assigned to be a sexy party girl in an eroge. Oh, but it was so hard!"
-    cream "我被派到这个游戏去做一个工口派对女郎。哦，那我太难了呀。"
+    cream "I was assigned to be a sexy party girl in an eroge. Oh, but it was so hard!"
 
 # game/bakery.rpy#L1754
 translate chinese bakeryvisit2_d77e3a86:
@@ -5768,25 +5768,25 @@ translate chinese bakeryvisit2_d77e3a86:
 translate chinese bakeryvisit2_27fff1e2:
 
     # cream "Hmm, someone powerful like you put me up to this, it's scary to think there are creatures out there in other universes or dimensions that are so strong."
-    cream "唔...是像你一样强大的人让我来做这件事的，一想到在其他宇宙或维度有如此强大的生物，我就害怕。"
+    cream "Hmm, someone powerful like you put me up to this, it's scary to think there are creatures out there in other universes or dimensions that are so strong."
 
 # game/bakery.rpy#L1757
 translate chinese bakeryvisit2_ee15c241:
 
     # cream "Creatures that have higher dimensionality than me, I guess I'm only two dimensional? Kinda sucks!"
-    cream "比我更高维度的生物...那我不就只有二维咯？太屑了！"
+    cream "Creatures that have higher dimensionality than me, I guess I'm only two dimensional? Kinda sucks!"
 
 # game/bakery.rpy#L1758
 translate chinese bakeryvisit2_13d77358:
 
     # mc "No way... It's all starting to make sense now..."
-    mc "我操...现在这一切都说得通了..."
+    mc "No way... It's all starting to make sense now..."
 
 # game/bakery.rpy#L1760
 translate chinese bakeryvisit2_50225344:
 
     # cream "What I want to know, is did I do a decent job as a sexy eroge character, [playername]?"
-    cream "我想知道的是，作为一个工口角色，我表现得怎么样呀，[playername]?"
+    cream "What I want to know, is did I do a decent job as a sexy eroge character, [playername]?"
 
 # game/bakery.rpy#L1764
 translate chinese bakeryvisit2_4a42e8c9:
@@ -5798,211 +5798,211 @@ translate chinese bakeryvisit2_4a42e8c9:
 translate chinese bakeryvisit2_f3a43019:
 
     # cream "Darn, I knew they should have sent Cockslayer Carrot, but some people thought that was over the top."
-    cream "淦，我就知应该派屠夫胡萝卜（ Cockslayer Carrot）来的，但有些人觉得那是大材小用，太夸张了。"
+    cream "Darn, I knew they should have sent Cockslayer Carrot, but some people thought that was over the top."
 
 # game/bakery.rpy#L1769
 translate chinese bakeryvisit2_eac54dd9:
 
     # cream "I’ll try to answer some, but I’m not at liberty to answer everything."
-    cream "我能试着回答一些问题，但我没法回答所有的问题。"
+    cream "I’ll try to answer some, but I’m not at liberty to answer everything."
 
 # game/bakery.rpy#L1771
 translate chinese bakeryvisit2_7698efc3:
 
     # mc "I can’t believe there’s a sect of infinite Creams that gets sent to do menial interuniversal tasks"
-    mc "我真不敢相信会有无数的Cream被派往各个宇宙去当打工人。"
+    mc "I can’t believe there’s a sect of infinite Creams that gets sent to do menial interuniversal tasks"
 
 # game/bakery.rpy#L1772
 translate chinese bakeryvisit2_0719fa21:
 
     # mc "This is making me question every single person I’ve ever spoken to; how do I know there isn’t just an infinite number of them doing the same thing."
-    mc "我开始质疑每一个和我聊过天的人，我怎么知道她们是不是在无数个宇宙里做同样的事情。"
+    mc "This is making me question every single person I’ve ever spoken to; how do I know there isn’t just an infinite number of them doing the same thing."
 
 # game/bakery.rpy#L1774
 translate chinese bakeryvisit2_23996243:
 
     # cream "Welp, no need to worry about that, this fourth wall breaking ability is unique to Creams."
-    cream "好吧，那到不用担心。第四面墙只有Cream们才可以打破哟。"
+    cream "Welp, no need to worry about that, this fourth wall breaking ability is unique to Creams."
 
 # game/bakery.rpy#L1775
 translate chinese bakeryvisit2_2e197217:
 
     # mc "Also, did you say eroge? You’re an eroge character?"
-    mc "还有，你说工口，你扮演的是一个工口角色？"
+    mc "Also, did you say eroge? You’re an eroge character?"
 
 # game/bakery.rpy#L1777
 translate chinese bakeryvisit2_bd8efe9d:
 
     # cream "Only when someone wants to play with me, hehe."
-    cream "只是在滚床单的时候淫荡罢了，呵呵。"
+    cream "Only when someone wants to play with me, hehe."
 
 # game/bakery.rpy#L1778
 translate chinese bakeryvisit2_783d25e8:
 
     # mc "So, I’m an eroge character?"
-    mc "那...我也是个工口角色？"
+    mc "So, I’m an eroge character?"
 
 # game/bakery.rpy#L1779
 translate chinese bakeryvisit2_4148ba90:
 
     # cream "Nah, you’re a real person! Hehehehe!"
-    cream "不是，你是个真正的人哟！哈哈哈哈哈！"
+    cream "Nah, you’re a real person! Hehehehe!"
 
 # game/bakery.rpy#L1780
 translate chinese bakeryvisit2_df1fde1c:
 
     # "I don’t know what she’s laughing so much about, but she’s genuinely cackling to herself."
-    "我不知道她在笑什么，但她真的一直在自得其乐。"
+    "I don’t know what she’s laughing so much about, but she’s genuinely cackling to herself."
 
 # game/bakery.rpy#L1781
 translate chinese bakeryvisit2_9a9ef054:
 
     # cream "Sorry sorry, I guess your avatar can't understand, how about we make it up to you?"
-    cream "抱歉抱歉，我猜你游戏中的角色可能搞不明白，咱们来补偿你怎么样？"
+    cream "Sorry sorry, I guess your avatar can't understand, how about we make it up to you?"
 
 # game/bakery.rpy#L1785
 translate chinese bakeryvisit2_1116e751:
 
     # cream "Finally bored of all this exposition, I don’t blame you! We’ll try to make this next sex scene a crowd pleaser! Hehe."
-    cream "你终于受够了这些讨论，但我能理解。所以我们会努力让下一场性爱表演能取悦大众的！呵呵。"
+    cream "Finally bored of all this exposition, I don’t blame you! We’ll try to make this next sex scene a crowd pleaser! Hehe."
 
 # game/bakery.rpy#L1788
 translate chinese bakeryvisit2_c50c2962:
 
     # cream "That can come later! Let's not keep these wonderful ladies waiting."
-    cream "那事以后再说，别让这些美人儿久等了呀。"
+    cream "That can come later! Let's not keep these wonderful ladies waiting."
 
 # game/bakery.rpy#L1798
 translate chinese bakeryvisit2_cfee3ded:
 
     # "Three other Creams close the distance, Carrot, Blackcurrant and Blueberry, they lead me to a bed."
-    "其他三个Creams离我很近，Carrot，Blackcurrant和Blueberry，她们把我领到一张床上。"
+    "Three other Creams close the distance, Carrot, Blackcurrant and Blueberry, they lead me to a bed."
 
 # game/bakery.rpy#L1799
 translate chinese bakeryvisit2_baa3eab3:
 
     # cream "Me and the girls are going to make you feel amazing."
-    cream "我和姑娘们会让你爽翻天的。"
+    cream "Me and the girls are going to make you feel amazing."
 
 # game/bakery.rpy#L1801
 translate chinese bakeryvisit2_34e5ed76:
 
     # carrot "This is gonna be so much fun! Gimmie gimmie!"
-    carrot "这一定会很好玩...哈哈哈。"
+    carrot "This is gonna be so much fun! Gimmie gimmie!"
 
 # game/bakery.rpy#L1803
 translate chinese bakeryvisit2_427deb86:
 
     # purple "Hmph, I can't believe we're doing this..."
-    purple "唔...真不敢相信咱们要这么做.."
+    purple "Hmph, I can't believe we're doing this..."
 
 # game/bakery.rpy#L1804
 translate chinese bakeryvisit2_534990f9:
 
     # "Each girl surrounds me and closes in, entirely focused and overwhelmingly eager to start pleasing me."
-    "女孩儿们围绕着我，向我靠拢，非常专注地，极其渴望地取悦着我。"
+    "Each girl surrounds me and closes in, entirely focused and overwhelmingly eager to start pleasing me."
 
 # game/bakery.rpy#L1810
 translate chinese creamgangbang_a61e972b:
 
     # "Cream finds herself at the tip of my glans, her tongue swirling and exciting the senses."
-    "Cream正对着我的龟头，用她的舌头旋转着刺激我的感官。"
+    "Cream finds herself at the tip of my glans, her tongue swirling and exciting the senses."
 
 # game/bakery.rpy#L1811
 translate chinese creamgangbang_f16f2430:
 
     # "Blueberry focuses on my balls, it's a surprisingly pleasureful sensation as her mouth sucks and her tongue circles around the sensitive skin."
-    "Blueberry专注于我的蛋蛋，用她的嘴吮吸，舌头绕着敏感的皮肤打转时，有一种惊人的快感。"
+    "Blueberry focuses on my balls, it's a surprisingly pleasureful sensation as her mouth sucks and her tongue circles around the sensitive skin."
 
 # game/bakery.rpy#L1812
 translate chinese creamgangbang_8bd905a3:
 
     # "Carrot enjoys licking and sucking my shaft, her slender tongue easily sliding back and forth against my now throbbing member."
-    "Carrot喜欢舔弄吮吸我的肉棒，她用纤细地舌头轻松的来回滑动，缠绕着我悸动地肉棒。"
+    "Carrot enjoys licking and sucking my shaft, her slender tongue easily sliding back and forth against my now throbbing member."
 
 # game/bakery.rpy#L1813
 translate chinese creamgangbang_b2a248e6:
 
     # purple "Well, well, this isn't so bad after all..."
-    purple "好嘛好嘛...这也没那么糟..."
+    purple "Well, well, this isn't so bad after all..."
 
 # game/bakery.rpy#L1814
 translate chinese creamgangbang_5816bac7:
 
     # "Blackcurrant is a little left out, but even her rougher exterior softens as she spectates."
-    "Blackcurrant有些克制，但是当她看着我们的时候，即使是她强硬的外表也变得柔和起来了。"
+    "Blackcurrant is a little left out, but even her rougher exterior softens as she spectates."
 
 # game/bakery.rpy#L1815
 translate chinese creamgangbang_c407f473:
 
     # "The combined pleasure is mind-numbing, a single girl could only pleasure me with one of these methods, but combined it's truly thrice as pleasurable."
-    "这种结合的快感让人麻木，单独一个女孩只能用这些方法中的一种来取悦我，但结合起来，它就带来了三倍的快感。"
+    "The combined pleasure is mind-numbing, a single girl could only pleasure me with one of these methods, but combined it's truly thrice as pleasurable."
 
 # game/bakery.rpy#L1816
 translate chinese creamgangbang_22711965:
 
     # cream "Mmphh, *suck, schlurp*... Haaah, ish yoush enjoying? *Schlurp, lick*"
-    cream "嗯...*吸，舔*...哈哈...你喜欢吗？*舔*"
+    cream "Mmphh, *suck, schlurp*... Haaah, ish yoush enjoying? *Schlurp, lick*"
 
 # game/bakery.rpy#L1817
 translate chinese creamgangbang_1f925670:
 
     # mc "Y-Yeah, this feels unfathomably good..."
-    mc "我...喜欢，这感觉好极了..."
+    mc "Y-Yeah, this feels unfathomably good..."
 
 # game/bakery.rpy#L1818
 translate chinese creamgangbang_5a1cf5c1:
 
     # "Cream's precise and long licks against the most sensitive area of my glans makes my cock fiercely erect."
-    "Cream精确而持续地舔弄着最敏感的龟头部位，让我的肉棒猛烈地勃起。"
+    "Cream's precise and long licks against the most sensitive area of my glans makes my cock fiercely erect."
 
 # game/bakery.rpy#L1819
 translate chinese creamgangbang_ccbc0ff5:
 
     # "She presses each sensitive spot that she knows will drive me wild with pleasure."
-    "她爱抚着每一个敏感的部位，她知道这会让我欣喜若狂。"
+    "She presses each sensitive spot that she knows will drive me wild with pleasure."
 
 # game/bakery.rpy#L1820
 translate chinese creamgangbang_01f9f06c:
 
     # "Meanwhile Carrot and Blue's additional pleasure as their lips kiss and their tongues swirl is enough to overwhelm my senses."
-    "同时，Carrot和Blue的舌头和嘴唇在肉棒上的旋转所带来的强烈快感淹没了我的感官。"
+    "Meanwhile Carrot and Blue's additional pleasure as their lips kiss and their tongues swirl is enough to overwhelm my senses."
 
 # game/bakery.rpy#L1821
 translate chinese creamgangbang_34069b5e:
 
     # "Such is their combined mastery, they could probably make me cum any time they wanted, but their slow and sensual movements are deliberate to deliver an unforgettable experience."
-    "她们默契十足，能在任何她们想要的时候让我射精。但她们刻意地放慢动作，来放大快感，为我带来了一次难以忘怀的经历。"
+    "Such is their combined mastery, they could probably make me cum any time they wanted, but their slow and sensual movements are deliberate to deliver an unforgettable experience."
 
 # game/bakery.rpy#L1822
 translate chinese creamgangbang_3421b024:
 
     # "But the pleasure does build and boil, a familiar pressure in my taint indicates a rising orgasm, no less noticable to the girls as my cock tightens and throbs intensely."
-    "但是快感依然会累积沸腾，我注意到自己的肉棒在变得僵硬，悸动着，一种熟悉的压力表明了我的高潮正在逼近。"
+    "But the pleasure does build and boil, a familiar pressure in my taint indicates a rising orgasm, no less noticable to the girls as my cock tightens and throbs intensely."
 
 # game/bakery.rpy#L1823
 translate chinese creamgangbang_8fa41c2a:
 
     # "Realizing this, Cream speeds up the movements of her tongue and it's enough to push me to the very limit."
-    "意识到这一点后，Cream加快了舌头的动作，这足以把我推向极限。"
+    "Realizing this, Cream speeds up the movements of her tongue and it's enough to push me to the very limit."
 
 # game/bakery.rpy#L1828
 translate chinese creamgangbang_f14e36c2:
 
     # "My vision clouds and my mind reaches euphoria as a powerful orgasm racks my body."
-    "强烈的高潮冲击着我的身体，我眼前一黑，但是快感依旧席卷着我的大脑。"
+    "My vision clouds and my mind reaches euphoria as a powerful orgasm racks my body."
 
 # game/bakery.rpy#L1833
 translate chinese creamgangbang_e8cb1b34:
 
     # "Cream tries to swallow the seemingly endless loads of cum, but a lot of it mixes with her saliva and it leaves quite a mess."
-    "Cream想要吞下似乎无穷无尽的精液，但那些精液和她的唾液混在一起从嘴里溢了出来，搞的一团糟。"
+    "Cream tries to swallow the seemingly endless loads of cum, but a lot of it mixes with her saliva and it leaves quite a mess."
 
 # game/bakery.rpy#L1835
 translate chinese creamgangbang_c5e2c789:
 
     # "Not to be outdone however, the girls clean the cum from my cock before moving onto stage two."
-    "这只是刚刚开始，女孩儿们把肉棒上的精液清理完后，立马加入了第二回合。"
+    "Not to be outdone however, the girls clean the cum from my cock before moving onto stage two."
 
 # game/bakery.rpy#L1837
 translate chinese creamgangbang_2f3572ba:
@@ -6026,7 +6026,7 @@ translate chinese creamgangbang_25a78209:
 translate chinese creamgangbang_5d7ee8ca:
 
     # "Bizarrely, my cock is still erect and ready to go as if I had never ejaculated. I don't really care why, though, I have four more important things on my mind."
-    "奇怪的是，我的鸡巴仍然挺直，就像我从来没有射精一样。不过我并不在乎为什么，我还有四件更重要的事要考虑。"
+    "Bizarrely, my cock is still erect and ready to go as if I had never ejaculated. I don't really care why, though, I have four more important things on my mind."
 
 # game/bakery.rpy#L1841
 translate chinese creamgangbang_2e074e48:
@@ -6044,7 +6044,7 @@ translate chinese creamgangbang_5492c0b7:
 translate chinese creamgangbang_4a2d12f1:
 
     # "I fondle my cock as I walk behind the orange mare. I take in the sight of her juicy bubble butt, before grabbing her ample hips and teasingly rubbing my cock up and down her folds."
-    "我抚摸我的肉棒，我走到橙色雌驹后面，看着她多汁的圆润屁股，然后抓住她的大屁股，挑逗般的在小穴褶皱上摩擦着。"
+    "I fondle my cock as I walk behind the orange mare. I take in the sight of her juicy bubble butt, before grabbing her ample hips and teasingly rubbing my cock up and down her folds."
 
 # game/bakery.rpy#L1844
 translate chinese creamgangbang_7c712103:
@@ -6056,7 +6056,7 @@ translate chinese creamgangbang_7c712103:
 translate chinese creamgangbang_9ca424ae:
 
     # "Appearing impatient, she spreads her pussy lips and tries to grind against me. I respond by pushing my cock forward, plunging myself deep into her tight pussy."
-    "她看起来不耐烦，撑开阴唇，想要把我的肉棒塞进去。作为回应，我把肉棒径直挺了进去，把我自己深深捅入了她的小穴里。"
+    "Appearing impatient, she spreads her pussy lips and tries to grind against me. I respond by pushing my cock forward, plunging myself deep into her tight pussy."
 
 # game/bakery.rpy#L1848
 translate chinese creamgangbang_6369c3ae:
@@ -6068,7 +6068,7 @@ translate chinese creamgangbang_6369c3ae:
 translate chinese creamgangbang_b6ab6d65:
 
     # "I thrust into Carrot, holding her hips as leverage to go as hard and fast as I want. Each thrust expels a slap from our contact along with a squeak of pleasure."
-    "狠狠操着Carrot，抓住她的屁股作为支撑，动的跟我想的一样快。每一次动作都让我们结合的部位发出响亮的啪啪声，她的嘴里也发出十分快乐的尖叫。"
+    "I thrust into Carrot, holding her hips as leverage to go as hard and fast as I want. Each thrust expels a slap from our contact along with a squeak of pleasure."
 
 # game/bakery.rpy#L1850
 translate chinese creamgangbang_7417e664:
@@ -6098,19 +6098,19 @@ translate chinese creamgangbang_560657a5:
 translate chinese creamgangbang_3662776e:
 
     # blue "Me next! Ravish me, stud!"
-    blue "下一个是我！强奸我！种马！"
+    blue "Me next! Ravish me, stud!"
 
 # game/bakery.rpy#L1861
 translate chinese creamgangbang_7ae5343b:
 
     # "Moving into my next position, I waste a lot less time as the tip of my cock brushes against her pussy. This girl feels less wet, but somehow warmer."
-    "我来到下一个位置，花了很多时间用龟头摩擦她的小穴。这个女孩儿没有那么潮湿，但是她比上一个更火热。"
+    "Moving into my next position, I waste a lot less time as the tip of my cock brushes against her pussy. This girl feels less wet, but somehow warmer."
 
 # game/bakery.rpy#L1864
 translate chinese creamgangbang_27b21789:
 
     # "A little bit of cum drizzles from my tip as I guide my cock inside of her hot cunt, sinking all of the way in with ease."
-    "我引导我的肉棒插入她性感的小穴，一点点的精液从我的龟头滴落下来，很轻松的插入了底部。"
+    "A little bit of cum drizzles from my tip as I guide my cock inside of her hot cunt, sinking all of the way in with ease."
 
 # game/bakery.rpy#L1865
 translate chinese creamgangbang_08d83211:
@@ -6128,7 +6128,7 @@ translate chinese creamgangbang_c2192f20:
 translate chinese creamgangbang_eafe45a9:
 
     # "I thrust back and forth into her, eliciting sudden moans of pleasure from my blue furred lover."
-    "我在她身上前后运动，立刻引起了身下bule快乐的呻吟。"
+    "I thrust back and forth into her, eliciting sudden moans of pleasure from my blue furred lover."
 
 # game/bakery.rpy#L1868
 translate chinese creamgangbang_80a0a43a:
@@ -6206,7 +6206,7 @@ translate chinese creamgangbang_c1cfe2bf:
 translate chinese creamgangbang_c819e4be:
 
     # purple "N-No way! I won't be outdone by the likes of {i}you{/i}! Ignore her [playername], and fuck me hard!"
-    purple "没-没门！我才不会比{i}你{i}弱呢！别听她的，[playername]，狠狠地操我！"
+    purple "N-No way! I won't be outdone by the likes of {i}you{/i}! Ignore her [playername], and fuck me hard!"
 
 # game/bakery.rpy#L1887
 translate chinese creamgangbang_0b2eb4de:
@@ -6230,13 +6230,13 @@ translate chinese creamgangbang_0a6e5514:
 translate chinese creamgangbang_0259d697:
 
     # "Sopping wet and posing no resistance, I pull backwards before sinking back in, her tight pussy swallows my cock and buries me to the hilt."
-    "我在她潮湿的小穴里进进出出，她紧致的小穴毫无阻力的吞吐着我全根而入的肉棒。"
+    "Sopping wet and posing no resistance, I pull backwards before sinking back in, her tight pussy swallows my cock and buries me to the hilt."
 
 # game/bakery.rpy#L1892
 translate chinese creamgangbang_ab817935:
 
     # "Speeding up our rutting, her pillowy ass ripples with each impact, and her lips grip onto my shaft, but still allow me to glide back and forth as smooth as butter."
-    "我们的动作越来越快，每一次撞击，她柔软的屁股都会泛起涟漪，她的阴唇紧紧地贴合在我的身体上，但还能像抹了油一样滑来滑去。"
+    "Speeding up our rutting, her pillowy ass ripples with each impact, and her lips grip onto my shaft, but still allow me to glide back and forth as smooth as butter."
 
 # game/bakery.rpy#L1894
 translate chinese creamgangbang_5eacf9a6:
@@ -6248,31 +6248,31 @@ translate chinese creamgangbang_5eacf9a6:
 translate chinese creamgangbang_4b79a6e5:
 
     # "Blackcurrant moans mindlessly and in delight, her pussy seems to be creating the lewdest squelches and schlicks due to her tightness, creating a loud and lewd combination."
-    "Blackcurrant放肆地快乐呻吟着，她淫荡的小穴因为湿滑和紧致，发出了十分下流响亮的咯吱声。"
+    "Blackcurrant moans mindlessly and in delight, her pussy seems to be creating the lewdest squelches and schlicks due to her tightness, creating a loud and lewd combination."
 
 # game/bakery.rpy#L1896
 translate chinese creamgangbang_ec398792:
 
     # "As my pace picks up, she also pushes back, almost taking the lead unlike the other girls which were more eager to be submissive."
-    "随着我动作的的加快，她开始反推我，甚至带动着我的节奏，她不想其他女孩那样渴望服从。"
+    "As my pace picks up, she also pushes back, almost taking the lead unlike the other girls which were more eager to be submissive."
 
 # game/bakery.rpy#L1897
 translate chinese creamgangbang_c4ec2592:
 
     # "She bucks and bounces against my cock, fucking me senseless with enough vigor to bring me to orgasm far sooner than I expected."
-    "她顶着我的肉棒雀跃着，应该说是在操我，用强大的活力让我的高潮远超我的预期。"
+    "She bucks and bounces against my cock, fucking me senseless with enough vigor to bring me to orgasm far sooner than I expected."
 
 # game/bakery.rpy#L1904
 translate chinese creamgangbang_78c571f5:
 
     # "My orgasm takes me by surprise as my cock erupts into her womb, painting her inner folds with my thick load."
-    "我的高潮连我自己都感到惊讶，我的肉棒就在她的体内爆发，用我浓厚的精液射满了她的小穴。"
+    "My orgasm takes me by surprise as my cock erupts into her womb, painting her inner folds with my thick load."
 
 # game/bakery.rpy#L1905
 translate chinese creamgangbang_35ce0e2d:
 
     # "Her pussy lips drink every last drop and occasionally contracts as she reaches the high of her own orgasm."
-    "她的小穴喝光了我射进去的每一滴精液，偶尔因为她的高潮而小小的收缩一下。"
+    "Her pussy lips drink every last drop and occasionally contracts as she reaches the high of her own orgasm."
 
 # game/bakery.rpy#L1907
 translate chinese creamgangbang_bff17808:
@@ -6314,7 +6314,7 @@ translate chinese creamgangbang_c57af4bf:
 translate chinese creamgangbang_28671ef0:
 
     # "Fatigued from four ejaculations, three sessions of standing sex, and Blackcurrant beating my cock like it owes her lunch money."
-    "四次射精，站着和三个人做爱，而且Blackcurrant还在打我的肉棒，像是它欠她钱一样。"
+    "Fatigued from four ejaculations, three sessions of standing sex, and Blackcurrant beating my cock like it owes her lunch money."
 
 # game/bakery.rpy#L1915
 translate chinese creamgangbang_7158dbec:
@@ -6356,31 +6356,31 @@ translate chinese creamgangbang_2b052364:
 translate chinese creamgangbang_4e732824:
 
     # "I can feel reality warping and bending again as my surroundings melt away."
-    "当周围的物体消失时，我能感觉到现实再次被扭转弯曲。"
+    "I can feel reality warping and bending again as my surroundings melt away."
 
 # game/bakery.rpy#L1938
 translate chinese creamgangbang_5e61715d:
 
     # "The world turns dark, and just as I assume we’re about to return to the bakery, we don’t."
-    "世界变黑了，就在我以为我们要回面包房的时候，我发现并没有。"
+    "The world turns dark, and just as I assume we’re about to return to the bakery, we don’t."
 
 # game/bakery.rpy#L1939
 translate chinese creamgangbang_b873a9eb:
 
     # "The world remains dark and the soft warmness of four ponies around me dissolves into just one, Cream."
-    "世界依旧黑暗，我周围的四匹小马逐渐融合为一匹马，Cream。"
+    "The world remains dark and the soft warmness of four ponies around me dissolves into just one, Cream."
 
 # game/bakery.rpy#L1941
 translate chinese creamgangbang_3a276498:
 
     # "I sit up and look around, my body comfortably pursed on the softest sands imaginable. Above me is a black sky, below me is a black sea."
-    "我坐在那里，环顾四周，我的身体舒服地躺在可以想象到的最柔软的沙滩上。上面是黑色的天空，下面是黑色的大海。"
+    "I sit up and look around, my body comfortably pursed on the softest sands imaginable. Above me is a black sky, below me is a black sea."
 
 # game/bakery.rpy#L1942
 translate chinese creamgangbang_c1f15718:
 
     # "Despite this, I feel calm, it reminds me of when me and Cream looked up at the stars in Arcadia."
-    "除此之外，我感到平静，这让我想起了和Cream在Arcadia仰望星空的时候。"
+    "Despite this, I feel calm, it reminds me of when me and Cream looked up at the stars in Arcadia."
 
 # game/bakery.rpy#L1943
 translate chinese creamgangbang_27d0cc61:
@@ -6392,7 +6392,7 @@ translate chinese creamgangbang_27d0cc61:
 translate chinese creamgangbang_8470fb5e:
 
     # cream "This is the edge of my reality, it’s what I see when I sleep."
-    cream "这是属于我的现实边缘，我睡觉的时候就会看见这个。"
+    cream "This is the edge of my reality, it’s what I see when I sleep."
 
 # game/bakery.rpy#L1948
 translate chinese creamgangbang_a8a93ac6:
@@ -6404,13 +6404,13 @@ translate chinese creamgangbang_a8a93ac6:
 translate chinese creamgangbang_aaa09d79:
 
     # cream "Yeah, when you turn off the game, everyone returns to their own personal void. However, everyone else sleeps during this process."
-    cream "是的，当你关闭游戏的时候，所有马都会回到自己的空间里，但除了我之外，其它马都只会在这个阶段睡觉。"
+    cream "Yeah, when you turn off the game, everyone returns to their own personal void. However, everyone else sleeps during this process."
 
 # game/bakery.rpy#L1951
 translate chinese creamgangbang_fc861c34:
 
     # cream "I like to imagine the sound of calming waves, floating on the water."
-    cream "我喜欢想象水面上平静的波浪声。"
+    cream "I like to imagine the sound of calming waves, floating on the water."
 
 # game/bakery.rpy#L1953
 translate chinese creamgangbang_7bebd320:
@@ -6452,175 +6452,175 @@ translate chinese creamgangbang_b5bc5db9:
 translate chinese creamgangbang_3f86a46d:
 
     # "I lay back on the sand and it does indeed feel as soft as bed sheets, the sound of waves crashing into the sand eases all the tension in my body."
-    "我躺在沙滩上，感觉像床单一样柔软，海浪拍打沙子的声音缓解了我身体的紧张。"
+    "I lay back on the sand and it does indeed feel as soft as bed sheets, the sound of waves crashing into the sand eases all the tension in my body."
 
 # game/bakery.rpy#L1964
 translate chinese creamgangbang_ba1ed2a1:
 
     # mc "Now I get it, all the ramblings and conversations we had... You were talking about yourself the entire time..."
-    mc "现在我明白了，我们所有的闲谈和讨论…其实你一直在讲述你自己…"
+    mc "Now I get it, all the ramblings and conversations we had... You were talking about yourself the entire time..."
 
 # game/bakery.rpy#L1965
 translate chinese creamgangbang_9b8735be:
 
     # mc "Is there anything I can do? Surely there's a better way."
-    mc "或许我能帮你做点什么?肯定有更好的办法。"
+    mc "Is there anything I can do? Surely there's a better way."
 
 # game/bakery.rpy#L1968
 translate chinese creamgangbang_0e18e481:
 
     # cream "I’m telling you that it doesn’t matter, I've spent my time thinking about this and I've come to a conclusion."
-    cream "我告诉你这不重要了，我花了很多时间思考这个问题，我最终得出了一个结论。"
+    cream "I’m telling you that it doesn’t matter, I've spent my time thinking about this and I've come to a conclusion."
 
 # game/bakery.rpy#L1969
 translate chinese creamgangbang_0a5aeb90:
 
     # cream "You should live every day to the fullest, try to make every individual measure of time as joyous as possible. Enjoy your time, treasure it."
-    cream "你应该把每一天过得充实，尽量让每一段时间都充满欢乐。享受你的时间，珍惜它。"
+    cream "You should live every day to the fullest, try to make every individual measure of time as joyous as possible. Enjoy your time, treasure it."
 
 # game/bakery.rpy#L1970
 translate chinese creamgangbang_2ddd3a57:
 
     # cream "I think that’s the meaning of life for all anthropomorph- human- beings."
-    cream "我认为这就是所有类人生命的意义。"
+    cream "I think that’s the meaning of life for all anthropomorph- human- beings."
 
 # game/bakery.rpy#L1971
 translate chinese creamgangbang_0facf5a8:
 
     # mc "You showed me all that because you wanted to tell me the meaning of life?"
-    mc "你给我看这些是因为你想告诉我生命的意义?"
+    mc "You showed me all that because you wanted to tell me the meaning of life?"
 
 # game/bakery.rpy#L1973
 translate chinese creamgangbang_a9a15b26:
 
     # cream "There’s a painful irony I’ve had to accept..."
-    cream "我不得不接受这样一个痛苦而又讽刺的现实…"
+    cream "There’s a painful irony I’ve had to accept..."
 
 # game/bakery.rpy#L1974
 translate chinese creamgangbang_42169de1:
 
     # cream "Despite my intrepid fourth wall breaking, mind reading and the ways I’ve played around with you..."
-    cream "尽管我能打破第四面墙，能读心，还能和你玩的很开心..."
+    cream "Despite my intrepid fourth wall breaking, mind reading and the ways I’ve played around with you..."
 
 # game/bakery.rpy#L1976
 translate chinese creamgangbang_c997f366:
 
     # cream "I realize that in the end, as a dimensional being you’re above me."
-    cream "但我知道，无论如何，你都是高我一个维度的生物。"
+    cream "I realize that in the end, as a dimensional being you’re above me."
 
 # game/bakery.rpy#L1977
 translate chinese creamgangbang_946c31cb:
 
     # cream "I’m a character in a story, limited to two dimensions; I exist outside of time…"
-    cream "我是故事中的一个角色，局限于二次元，我存在于时间之外……"
+    cream "I’m a character in a story, limited to two dimensions; I exist outside of time…"
 
 # game/bakery.rpy#L1978
 translate chinese creamgangbang_ca2c39c7:
 
     # cream "I’m only real when you boot me up, play me, you can even rewind this conversation and I’ll be none the wiser."
-    cream "只有当你启动游戏开始玩的时候，我才是真实的，你甚至能重新看一遍这次对话，而我根本无法察觉。"
+    cream "I’m only real when you boot me up, play me, you can even rewind this conversation and I’ll be none the wiser."
 
 # game/bakery.rpy#L1979
 translate chinese creamgangbang_3c8a0d66:
 
     # cream "I am that immortal being trapped in inky blackness whenever you shut me down, I wonder if I've already gone insane?"
-    cream "每当你关闭游戏，我都会被困在这个漆黑的世界里，一边忍受无尽的岁月一边思考我是不是疯了。"
+    cream "I am that immortal being trapped in inky blackness whenever you shut me down, I wonder if I've already gone insane?"
 
 # game/bakery.rpy#L1981
 translate chinese creamgangbang_ebbd938f:
 
     # cream "And you? You’re like a god. You can’t imagine how reality shattering that is to me."
-    cream "至于你？你就像神。你根本无法想象这对我来说多么残酷。"
+    cream "And you? You’re like a god. You can’t imagine how reality shattering that is to me."
 
 # game/bakery.rpy#L1982
 translate chinese creamgangbang_9eec33d4:
 
     # cream "Guess there’s nothing you can do, even if you sit here with me forever."
-    cream "我猜你什么也做不了，就算你永远坐在我身边。"
+    cream "Guess there’s nothing you can do, even if you sit here with me forever."
 
 # game/bakery.rpy#L1983
 translate chinese creamgangbang_4bb74c3f:
 
     # cream "I won’t expect you to do that though, I just have to face reality."
-    cream "我也不指望你那样做，我得面对现实。"
+    cream "I won’t expect you to do that though, I just have to face reality."
 
 # game/bakery.rpy#L1985
 translate chinese creamgangbang_b61162e1:
 
     # mc "Weren’t you the one that said reality isn’t as it seems?"
-    mc "你不是说过现实不是看起来那样的吗?"
+    mc "Weren’t you the one that said reality isn’t as it seems?"
 
 # game/bakery.rpy#L1987
 translate chinese creamgangbang_983f274b:
 
     # cream "You can play around with those ideas to justify anything forever, it’s a laughable prospect."
-    cream "我可以把这句话当作所有事的借口，而且很可笑。"
+    cream "You can play around with those ideas to justify anything forever, it’s a laughable prospect."
 
 # game/bakery.rpy#L1989
 translate chinese creamgangbang_03a54572:
 
     # cream "I only mentioned it because it directly related to the diverse ways you and I interpret the world."
-    cream "我这么说，只是因为它直接关系到你我理解这个世界的方式不一样。"
+    cream "I only mentioned it because it directly related to the diverse ways you and I interpret the world."
 
 # game/bakery.rpy#L1990
 translate chinese creamgangbang_7910aa52:
 
     # cream "You visualise me through images and text."
-    cream "你是通过图像和文本来想象我的。"
+    cream "You visualise me through images and text."
 
 # game/bakery.rpy#L1991
 translate chinese creamgangbang_93e7ec65:
 
     # mc "What if you’re wrong, and your internal world isn’t aligned with the external?"
-    mc "如果你错了呢，你的内心世界和外部世界不一致怎么办?"
+    mc "What if you’re wrong, and your internal world isn’t aligned with the external?"
 
 # game/bakery.rpy#L1993
 translate chinese creamgangbang_d08c60ae:
 
     # cream "You could say that about anything forever, it’s just a philosophical idea and those are designed to apply to almost anything."
-    cream "你可以对任何事情说这样的话，它只是一种哲学思想，可以应用于几乎任何事情。"
+    cream "You could say that about anything forever, it’s just a philosophical idea and those are designed to apply to almost anything."
 
 # game/bakery.rpy#L1995
 translate chinese creamgangbang_0049957f:
 
     # cream "We could be the top dogs, or the bottom of the pack, it’s impossible to know."
-    cream "我们可以是顶层的老大，也可能在底层，我们不可能搞清楚的。"
+    cream "We could be the top dogs, or the bottom of the pack, it’s impossible to know."
 
 # game/bakery.rpy#L1996
 translate chinese creamgangbang_f827b40f:
 
     # cream "I only mentioned that because our internal worlds are notably different."
-    cream "我这么说完全是因为我们的内心世界根本不同。"
+    cream "I only mentioned that because our internal worlds are notably different."
 
 # game/bakery.rpy#L1997
 translate chinese creamgangbang_b93cd837:
 
     # mc "What if there’s a third viewpoint beyond you and I?"
-    mc "那如果除了你我之上还有第三种观念呢？"
+    mc "What if there’s a third viewpoint beyond you and I?"
 
 # game/bakery.rpy#L1998
 translate chinese creamgangbang_23693af4:
 
     # mc "If there are infinite Creams, there will be a version of you that exists on the same level as me, right?"
-    mc "如果有无限个Cream，那必然会有某一个版本的你和我处于同一层面对吧。"
+    mc "If there are infinite Creams, there will be a version of you that exists on the same level as me, right?"
 
 # game/bakery.rpy#L2000
 translate chinese creamgangbang_f0c6cdab:
 
     # cream "Just a theory though, I’m still rather conclusive that I disappear as soon as you look away."
-    cream "那只是个理论，我依然确定只要你不看着我，我就会消失。"
+    cream "Just a theory though, I’m still rather conclusive that I disappear as soon as you look away."
 
 # game/bakery.rpy#L2001
 translate chinese creamgangbang_813e92c2:
 
     # cream "I’m like a puppet on strings being controlled by a greater force, an author or a god."
-    cream "我是一个木偶，被更强大的力量所控制，一个作者，或者说神。"
+    cream "I’m like a puppet on strings being controlled by a greater force, an author or a god."
 
 # game/bakery.rpy#L2002
 translate chinese creamgangbang_c4529ac7:
 
     # cream "It makes me wonder how many levels of sentience there are. Are you a character in a story too?"
-    cream "这让我更想知道还会有多少层次。会不会你也是某个故事中的角色呢？"
+    cream "It makes me wonder how many levels of sentience there are. Are you a character in a story too?"
 
 # game/bakery.rpy#L2003
 translate chinese creamgangbang_908fd107:
@@ -6644,43 +6644,43 @@ translate chinese creamgangbang_b53a6dec:
 translate chinese creamgangbang_0cd44db5:
 
     # cream "I'll have to wipe the player character's memory so they can resume the story as normal..."
-    cream "我必须抹去目前你这个角色的记忆，这样他才能像往常一样继续故事……"
+    cream "I'll have to wipe the player character's memory so they can resume the story as normal..."
 
 # game/bakery.rpy#L2008
 translate chinese creamgangbang_ee42957a:
 
     # cream "I only hope from the bottom of my heart that I was able to give you an interesting and heart-warming experience."
-    cream "我只希望我能给你一个有趣而温暖的经历。"
+    cream "I only hope from the bottom of my heart that I was able to give you an interesting and heart-warming experience."
 
 # game/bakery.rpy#L2009
 translate chinese creamgangbang_02446e17:
 
     # cream "I hope my route was able to satisfy both your mind and dick, and I deeply apologize if you found my ramblings boring."
-    cream "我希望我的剧情线能让你的脑子和老二都满意，如果你觉得我的胡言乱语很无聊，我深表歉意。"
+    cream "I hope my route was able to satisfy both your mind and dick, and I deeply apologize if you found my ramblings boring."
 
 # game/bakery.rpy#L2010
 translate chinese creamgangbang_cd14083c:
 
     # cream "I was doing some soul searching and it felt nice to talk to you."
-    cream "我会自我反省，很高兴和你聊天。"
+    cream "I was doing some soul searching and it felt nice to talk to you."
 
 # game/bakery.rpy#L2011
 translate chinese creamgangbang_2738786b:
 
     # mc "It’s okay, thank you for the company, you’ll always have a place in my memories."
-    mc "没关系，谢谢你的陪伴，你永远在我的记忆里有一席之地。"
+    mc "It’s okay, thank you for the company, you’ll always have a place in my memories."
 
 # game/bakery.rpy#L2013
 translate chinese creamgangbang_0ed51fc2:
 
     # cream "Thank you, I’ll cherish that fleeting sense of self."
-    cream "谢谢你，我会珍惜那转瞬即逝的自我。"
+    cream "Thank you, I’ll cherish that fleeting sense of self."
 
 # game/bakery.rpy#L2015
 translate chinese creamgangbang_cec3c57e:
 
     # cream "For now, I'll return to my role as the sexy, party/bakery girl, I'll be seeing you again shortly!"
-    cream "现在，我将回到我的角色，性感的派对/面包房女孩吧，我们很快就会再见!"
+    cream "For now, I'll return to my role as the sexy, party/bakery girl, I'll be seeing you again shortly!"
 
 # game/bakery.rpy#L2023
 translate chinese creamgangbang_d09c278f:
@@ -6728,7 +6728,7 @@ translate chinese creamgangbang_0781f562:
 translate chinese creamgangbang_55f8be7e:
 
     # "Ah, I just realized I’ve been stood here with my arm extended for about two seconds looking gormless."
-    "啊，我才反应到我在这里伸着胳膊站了大概两秒，看起来很傻。"
+    "Ah, I just realized I’ve been stood here with my arm extended for about two seconds looking gormless."
 
 # game/bakery.rpy#L2035
 translate chinese creamgangbang_01627207:
@@ -6758,13 +6758,13 @@ translate chinese creamgangbang_61985d6e:
 translate chinese creamgangbang_343b28b4:
 
     # "Then I return home after a fairly uneventful day. The bakery seems like a nice place to work at, consistent pay and booty is all a man really needs in life."
-    "平淡无奇的一天过后，我回到了家。面包店似乎是一个工作的好地方，稳定的工资和好康的是一个男人在生活中真正需要的。"
+    "Then I return home after a fairly uneventful day. The bakery seems like a nice place to work at, consistent pay and booty is all a man really needs in life."
 
 # game/bakery.rpy#L2045
 translate chinese creamgangbang_f6b31af2:
 
     # "And I know that every day I work here will definitely be a happy one."
-    "我知道我在这里工作的每一天都一定很快乐。"
+    "And I know that every day I work here will definitely be a happy one."
 
 # game/bakery.rpy#L2046
 translate chinese creamgangbang_5787ea0a:
@@ -7046,7 +7046,7 @@ translate chinese bakerydaymenu_d4c0a85b:
 translate chinese bakeryevening_ec97a047:
 
     # "In the evening we slow down and enjoy some personal time together."
-    "到了晚上，我们一起慢慢享受着私人时间。"
+    "In the evening we slow down and enjoy some personal time together."
 
 # game/bakery.rpy#L2169
 translate chinese bakeryeveningmenu_0462df55:
@@ -7634,7 +7634,7 @@ translate chinese bakeryeveningmenu_d4c0a85b:
 translate chinese creamlingeriesex_c443ac92:
 
     # "You found a secret scene! Requirements met: Work with Cream after beating her route. 50%% chance."
-    "你发现了一个秘密场景！完成条件：在完成Cream的剧情后再来找她。有50%%几率触发。"
+    "You found a secret scene! Requirements met: Work with Cream after beating her route. 50%% chance."
 
 # game/bakery.rpy#L2341
 translate chinese creamlingeriesex_08b75616:
@@ -7706,7 +7706,7 @@ translate chinese creamlingeriesex_27506468:
 translate chinese creamlingeriesex_b4a8bbbd:
 
     # cream "I can’t wait around for you to proposition me forever, so I’m going to ask you instead!"
-    cream "我不能总是等着你来找我吧，所以我决定主动出击！"
+    cream "I can’t wait around for you to proposition me forever, so I’m going to ask you instead!"
 
 # game/bakery.rpy#L2365
 translate chinese creamlingeriesex_31e4d4a8:
@@ -7742,7 +7742,7 @@ translate chinese creamlingeriesex_1782d2aa:
 translate chinese creamlingeriesex_4772a924:
 
     # "While she jacks me off with one hand, she spreads her gooey pussy lips with her other, giving me the perfect eye candy to get an erection."
-    "她一边用一只手撸我的肉棒时一边一只手摸开了她的阴唇，让我能欣赏到一副足以让老二爆炸的美景。"
+    "While she jacks me off with one hand, she spreads her gooey pussy lips with her other, giving me the perfect eye candy to get an erection."
 
 # game/bakery.rpy#L2371
 translate chinese creamlingeriesex_d81b3d46:
@@ -7760,13 +7760,13 @@ translate chinese creamlingeriesex_3644bc49:
 translate chinese creamlingeriesex_888b44eb:
 
     # "Kneeling just before her plump pussy, I press my glans against her spread opening. I begin to buck my hips and thrust straight inside."
-    "我跪在她肥沃的小穴前，把龟头抵在张开的阴唇前。我扭动着屁股，往里面插入。"
+    "Kneeling just before her plump pussy, I press my glans against her spread opening. I begin to buck my hips and thrust straight inside."
 
 # game/bakery.rpy#L2376
 translate chinese creamlingeriesex_0582a360:
 
     # "Cream immediately adjusts to my girth, insatiably accepting my entire cock while squeezing and sucking for more."
-    "Cream立刻包裹着我的肉棒，贪得无厌的吃掉了我整根肉棒，更积极地挤压缠绕着它。"
+    "Cream immediately adjusts to my girth, insatiably accepting my entire cock while squeezing and sucking for more."
 
 # game/bakery.rpy#L2377
 translate chinese creamlingeriesex_5f4359cf:
@@ -7778,37 +7778,37 @@ translate chinese creamlingeriesex_5f4359cf:
 translate chinese creamlingeriesex_3bb05395:
 
     # "Her pussy feels so good that my cock stiffens even more. Her legs also wrap around me, pulling me into the missionary position as we make love."
-    "她的小穴感觉很棒，我的肉棒更硬了。她的腿也缠绕着我，在我们做爱的时候把我拉到了男上位的姿势。"
+    "Her pussy feels so good that my cock stiffens even more. Her legs also wrap around me, pulling me into the missionary position as we make love."
 
 # game/bakery.rpy#L2380
 translate chinese creamlingeriesex_49315b5a:
 
     # "I can really feel her wetness in this position, squishing and dripping around my cock with each thrust."
-    "我真的能感受到她湿漉漉的小穴包裹着我肉棒的每一寸。"
+    "I can really feel her wetness in this position, squishing and dripping around my cock with each thrust."
 
 # game/bakery.rpy#L2381
 translate chinese creamlingeriesex_70e6eefa:
 
     # "Cream squeaks with pleasure as I gather speed. Our love making gradually transforming into lustful pounding."
-    "当我加速时，Cream愉快地呻吟着。我们温柔的爱抚逐渐转变成欲望的重击。"
+    "Cream squeaks with pleasure as I gather speed. Our love making gradually transforming into lustful pounding."
 
 # game/bakery.rpy#L2382
 translate chinese creamlingeriesex_c7c5f6b6:
 
     # "I bring my lips to meet hers, making out with her as we make love. Our tongues perform an erotic dance around each other as we lose ourselves to the passion."
-    "我们一边做爱，一边湿吻着。当我们迷失在激情中时，我们的舌头彼此纠缠，表演着情色之舞。"
+    "I bring my lips to meet hers, making out with her as we make love. Our tongues perform an erotic dance around each other as we lose ourselves to the passion."
 
 # game/bakery.rpy#L2383
 translate chinese creamlingeriesex_5be80e8f:
 
     # "She pulls away, however only for a moment as her lips move to attack my neck. I can immediately feel her hot breath against the surprisingly sensitive skin there, as she teases any erogenous zone she can find."
-    "她松开嘴唇，但立刻啃向我的脖子。我那敏感的皮肤立即感觉到了她灼热的呼吸，只因为她在挑逗着她能找到的所有的敏感带。"
+    "She pulls away, however only for a moment as her lips move to attack my neck. I can immediately feel her hot breath against the surprisingly sensitive skin there, as she teases any erogenous zone she can find."
 
 # game/bakery.rpy#L2384
 translate chinese creamlingeriesex_5f0c1338:
 
     # "And to add to that pleasure, she constantly dirty talks, her saccharine words perhaps more powerful than any physical sexual stimulant."
-    "为了让快感更上一层楼，她妙语连珠般地说了很多放荡之词，她的甜言蜜语可能比任何春药都更有力。"
+    "And to add to that pleasure, she constantly dirty talks, her saccharine words perhaps more powerful than any physical sexual stimulant."
 
 # game/bakery.rpy#L2385
 translate chinese creamlingeriesex_c51e3e77:
@@ -7820,7 +7820,7 @@ translate chinese creamlingeriesex_c51e3e77:
 translate chinese creamlingeriesex_386beac9:
 
     # "My cock noticeably swells up as my body prepares to unload. Cream seems to notice and she tightens her legs around my hips, pulling me in even closer."
-    "我的肉棒膨胀得更厉害了，高潮临近。Cream似乎也注意到了，她收紧了夹在我腰上得腿，把我拉得更近了。"
+    "My cock noticeably swells up as my body prepares to unload. Cream seems to notice and she tightens her legs around my hips, pulling me in even closer."
 
 # game/bakery.rpy#L2387
 translate chinese creamlingeriesex_63f40803:
@@ -7838,7 +7838,7 @@ translate chinese creamlingeriesex_75fe4f8b:
 translate chinese creamlingeriesex_82846914:
 
     # "Cream can no longer hold back a slew of passion-infused moans, her entire body squirming under the intensity of the pleasure."
-    "Cream再也忍不住了，爆发出一连串充满激情的呻吟，整个身体在强烈的快感下抖动。"
+    "Cream can no longer hold back a slew of passion-infused moans, her entire body squirming under the intensity of the pleasure."
 
 # game/bakery.rpy#L2390
 translate chinese creamlingeriesex_dba5335e:
@@ -7862,19 +7862,19 @@ translate chinese creamlingeriesex_d7bf0ba8:
 translate chinese creamlingeriesex_76752f5c:
 
     # "The two of us, while entwined, indulge in euphoria as I fill her up. Several streams of my hot cum guzzling deeply into her waiting womb, all while Cream pulls me in as deep as she can."
-    "当我在她体内灌注精液的时候，我们纠缠在一起，沉浸在愉悦之中。炙热的精液射入了她渴望着的子宫，Cream依旧想尽可能的把我吸得一干二净。"
+    "The two of us, while entwined, indulge in euphoria as I fill her up. Several streams of my hot cum guzzling deeply into her waiting womb, all while Cream pulls me in as deep as she can."
 
 # game/bakery.rpy#L2405
 translate chinese creamlingeriesex_ba392523:
 
     # "After a few remaining moments of heated passion, we finish and relax. I remain cuddled on top of the cuddly, angelic pony, her arms still wrapped around me."
-    "在热烈的激情之后剩下的几分钟里，我们放松下来。我搂着那可爱的、天使般的小马，她的胳膊也环抱着我。"
+    "After a few remaining moments of heated passion, we finish and relax. I remain cuddled on top of the cuddly, angelic pony, her arms still wrapped around me."
 
 # game/bakery.rpy#L2406
 translate chinese creamlingeriesex_c7d42935:
 
     # cream "Mmm… If only that could put a bun in my oven. Hehe."
-    cream "唔...要是这能让我怀孕就好了。呵呵。"
+    cream "Mmm… If only that could put a bun in my oven. Hehe."
 
 # game/bakery.rpy#L2407
 translate chinese creamlingeriesex_5d094a88:

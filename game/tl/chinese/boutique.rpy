@@ -8696,7 +8696,7 @@ translate chinese rubyeveningmenu_8364bbe6:
 translate chinese rubyeveningmenu_b04c53a0:
 
     # "The audience is loving her enthusiasm as more viewers and donations come through."
-    "The audience is loving her enthusiasm as more viewers and donations come through."
+    "观众对她所展示出的热情十分喜爱，所以，越来越多的观众被吸引了过来，打赏的人也多了起来。"
 
 # game/boutique.rpy#L2574
 translate chinese rubyeveningmenu_d8fcf686:
@@ -8708,7 +8708,7 @@ translate chinese rubyeveningmenu_d8fcf686:
 translate chinese rubyeveningmenu_f6ca9404:
 
     # "I can’t hold back any longer. The combination of her moans and her contractions push me over the edge..."
-    "I can’t hold back any longer. The combination of her moans and her contractions push me over the edge..."
+    "我的忍耐已经达到了极限。她的呻吟声伴随着强烈的宫缩不断刺激着我，将我推到了高潮的边缘……"
 
 # game/boutique.rpy#L2582
 translate chinese rubyeveningmenu_4e893d9d:
@@ -8732,13 +8732,13 @@ translate chinese rubyeveningmenu_ce2b3485:
 translate chinese rubyeveningmenu_7b4d7542:
 
     # ruby "Phew, I hope you're enjoying the show darlings. Feel free to take a fifteen minute break before part two, hehe."
-    ruby "Phew, I hope you're enjoying the show darlings. Feel free to take a fifteen minute break before part two, hehe."
+    ruby "呼，各位亲们，我希望你们喜欢这次直播。在进行第二部分前，请大家先休息十五分钟，嘿嘿。"
 
 # game/boutique.rpy#L2595
 translate chinese rubyeveningmenu_31adc524:
 
     # "After a cleanup and break, we fuck again for the audience before finishing up."
-    "After a cleanup and break, we fuck again for the audience before finishing up."
+    "清理和休息完毕后，我们又为观众送上了一段性爱表演，然后才结束了录制。"
 
 # game/boutique.rpy#L2598
 translate chinese rubyeveningmenu_5ab82cf6:
@@ -8762,7 +8762,7 @@ translate chinese rubyeveningmenu_4a290592:
 translate chinese rubyeveningmenu_6e598490:
 
     # "She hands me an extra ten monies, sweet."
-    "She hands me an extra ten monies, sweet."
+    "她给了我5块钱，太棒了。"
 
 # game/boutique.rpy#L2604
 translate chinese rubyeveningmenu_a3efe9b8:
@@ -8774,19 +8774,19 @@ translate chinese rubyeveningmenu_a3efe9b8:
 translate chinese rubyeveningmenu_9d09d471:
 
     # ruby "Hehe, look how much you came..."
-    ruby "Hehe, look how much you came..."
+    ruby "嘿嘿，看看你射了多少啊……"
 
 # game/boutique.rpy#L2608
 translate chinese rubyeveningmenu_1cd90dda:
 
     # ruby "Darling, you are a wonderful sex partner…"
-    ruby "Darling, you are a wonderful sex partner…"
+    ruby "亲爱的，你可真是个很不错的好炮友呢……"
 
 # game/boutique.rpy#L2609
 translate chinese rubyeveningmenu_087bf0fc:
 
     # mc "I think you're one of my favourites too, but don't tell the others!"
-    mc "I think you're one of my favourites too, but don't tell the others!"
+    mc "我觉得你也是个不错的炮友，但这件事千万别告诉别人！"
 
 # game/boutique.rpy#L2610
 translate chinese rubyeveningmenu_9327f82c:
@@ -8858,13 +8858,13 @@ translate chinese melodyeveningmenu_61db58ee:
 translate chinese melodyeveningmenu_8079273b:
 
     # melody "Hoooornyy!"
-    melody "Hoooornyy!"
+    melody "好～色～啊！"
 
 # game/boutique.rpy#L2647
 translate chinese melodyeveningmenu_377a9879:
 
     # melody "And I just masturbated. No need to get hard though. I'm not a sex monster, I have some restraint."
-    melody "And I just masturbated. No need to get hard though. I'm not a sex monster, I have some restraint."
+    melody "我只需要自慰就可以，没必要来真的。我可不是淫魔，我也有自己的原则。"
 
 # game/boutique.rpy#L2648
 translate chinese melodyeveningmenu_0b539054:
@@ -8966,13 +8966,13 @@ translate chinese melodyeveningmenu_62279408:
 translate chinese melodyeveningmenu_2bbf2f3c:
 
     # melody "My... What? Female fatal?"
-    melody "My... What? Female fatal?"
+    melody "我的……什么？红颜祸水？"
 
 # game/boutique.rpy#L2674
 translate chinese melodyeveningmenu_65aa4e0d:
 
     # "Eugh, are there no french ponies in this world?"
-    "Eugh, are there no french ponies in this world?"
+    "呃，难道这世界上就没有懂法语的小马吗？"
 
 # game/boutique.rpy#L2675
 translate chinese melodyeveningmenu_3e7bd1db:
@@ -9212,7 +9212,7 @@ translate chinese melodyeveningmenu_34b9187a:
 translate chinese melodyeveningmenu_23ad6c34:
 
     # mc "Was it not?"
-    mc "Was it not?"
+    mc "真的？"
 
 # game/boutique.rpy#L2738
 translate chinese melodyeveningmenu_82523928:
@@ -9248,25 +9248,25 @@ translate chinese melodyeveningmenu_e788b234:
 translate chinese melodyeveningmenu_75645812:
 
     # melody "Hmm... Ahh, you know what? Forget it."
-    melody "Hmm... Ahh, you know what? Forget it."
+    melody "嗯……啊，你知道什么啊？算了，不提这事了。"
 
 # game/boutique.rpy#L2753
 translate chinese melodyeveningmenu_871e8aeb:
 
     # melody "What do you wanna do?"
-    melody "What do you wanna do?"
+    melody "你想干什么？"
 
 # game/boutique.rpy#L2755
 translate chinese melodyeveningmenu_19dd7eeb:
 
     # mc "Wha? How'd you know?"
-    mc "Wha? How'd you know?"
+    mc "什么？你是怎么知道的？"
 
 # game/boutique.rpy#L2757
 translate chinese melodyeveningmenu_3f47dd1b:
 
     # melody "She's really noisy, and the walls are thin..."
-    melody "She's really noisy, and the walls are thin..."
+    melody "她太吵了，而且这墙也太薄了……"
 
 # game/boutique.rpy#L2759
 translate chinese melodyeveningmenu_29294ad0:
@@ -9320,55 +9320,55 @@ translate chinese mspt1_151b9042:
 translate chinese mspt1_03c88736:
 
     # melody "I'm spoiling you too much lately, so how about we settle on a simple handjob?"
-    melody "I'm spoiling you too much lately, so how about we settle on a simple handjob?"
+    melody "我最近真是太娇惯你了。咱们先来撸一撸怎么样？"
 
 # game/boutique.rpy#L2796
 translate chinese mspt1_1975adb9:
 
     # "She wraps her hand around my shaft and starts to masturbate me."
-    "She wraps her hand around my shaft and starts to masturbate me."
+    "说着，她用手握住我的肉棒，开始撸了起来。"
 
 # game/boutique.rpy#L2797
 translate chinese mspt1_482fd7eb:
 
     # "Immediately she strokes quickly, pleasuring my dick as it stiffens into erection."
-    "Immediately she strokes quickly, pleasuring my dick as it stiffens into erection."
+    "突然，她加快了撸动的速度，这我的肉棒感受到了无比较的愉悦，随后便硬了起来。"
 
 # game/boutique.rpy#L2798
 translate chinese mspt1_17a4a848:
 
     # melody "Does my flat chest and small body get you erect this fast? Hehehe, such a pervert!"
-    melody "Does my flat chest and small body get you erect this fast? Hehehe, such a pervert!"
+    melody "难道你是因为看到我娇小的身体和平胸才硬得这么快吗？嘿嘿嘿，你真是个大变态！"
 
 # game/boutique.rpy#L2799
 translate chinese mspt1_f4b87fc4:
 
     # "Her hands wander between her legs and over her pussy lips as she teases herself too."
-    "Her hands wander between her legs and over her pussy lips as she teases herself too."
+    "说着，她用双手在自己的两腿和阴唇间滑动游走起来，借此抚慰着自己。"
 
 # game/boutique.rpy#L2800
 translate chinese mspt1_16e9c4f6:
 
     # melody "Mmm, my drippy cunt is aching for something to fill it."
-    melody "Mmm, my drippy cunt is aching for something to fill it."
+    melody "嗯嗯嗯，我湿漉漉的小穴已经饥渴难耐了，快来吧。"
 
 # game/boutique.rpy#L2802
 translate chinese mspt1_6c60803d:
 
     # melody "Since there's nothing acceptable around, I guess I'll have to use my fingers, hehe."
-    melody "Since there's nothing acceptable around, I guess I'll have to use my fingers, hehe."
+    melody "由于身边没有适合插入的物品，所以我想，只能用我的手来满足她的愿望了，嘿嘿。"
 
 # game/boutique.rpy#L2803
 translate chinese mspt1_ed7be4c9:
 
     # "Her fingers sink into the folds and she fingers herself like she's mimicking the jerking motions of her other hand."
-    "Her fingers sink into the folds and she fingers herself like she's mimicking the jerking motions of her other hand."
+    "她将手指插入小穴，扣动着自己的下体。她这么做，就像是在模仿着抽插的动作一样。"
 
 # game/boutique.rpy#L2806
 translate chinese mspt1_fb9c571a:
 
     # melody "Fahh, haaahhh, do you like watching little girls masturbate? Fucking pervert, haahh..."
-    melody "Fahh, haaahhh, do you like watching little girls masturbate? Fucking pervert, haahh..."
+    melody "唔，哈……你喜欢看小姑娘自慰，对不对？你个死变态，哈……"
 
 # game/boutique.rpy#L2807
 translate chinese mspt1_f7c00b20:
@@ -9380,25 +9380,25 @@ translate chinese mspt1_f7c00b20:
 translate chinese mspt1_6f7b8485:
 
     # "I can feel the pressure of my orgasm welling up within me, a tightness as I get closer and closer to orgasm."
-    "I can feel the pressure of my orgasm welling up within me, a tightness as I get closer and closer to orgasm."
+    "我能感到高潮越来越近了，同时，我的身体也变得越发地紧张起来。"
 
 # game/boutique.rpy#L2809
 translate chinese mspt1_e7d06ce0:
 
     # melody "Haahh, ahhh... Come on, cum for me..."
-    melody "Haahh, ahhh... Come on, cum for me..."
+    melody "哈啊，啊……快啊，快给我射吧……"
 
 # game/boutique.rpy#L2810
 translate chinese mspt1_35dae50b:
 
     # "My body quivers as pleasurable spasms overwhelm my muscles and my desire to coat this angsty mare with cum grows. And then..."
-    "My body quivers as pleasurable spasms overwhelm my muscles and my desire to coat this angsty mare with cum grows. And then..."
+    "我全身的肌肉因为无比的快感而颤抖抽搐起来，同时，我想要爆射这匹饥渴小马的欲望也越来越强了。之后……"
 
 # game/boutique.rpy#L2815
 translate chinese mspt1_04eeffa2:
 
     # "My hips jerk as I spray an eruption of cum into the air, of which Melody entirely avoids as it pitifully pools on the wooden floor below."
-    "My hips jerk as I spray an eruption of cum into the air, of which Melody entirely avoids as it pitifully pools on the wooden floor below."
+    "在精液喷涌而出，射向空中的同时，我的腰身剧烈地抽动起来，而Melody却丝毫没有在意那洒到木地板上的精液。"
 
 # game/boutique.rpy#L2820
 translate chinese mspt1_14e6aa22:
@@ -9410,43 +9410,43 @@ translate chinese mspt1_14e6aa22:
 translate chinese mspt1_01a1b09a:
 
     # "She quivers with pleasure enjoying her own orgasm shortly after I finish cumming."
-    "She quivers with pleasure enjoying her own orgasm shortly after I finish cumming."
+    "在我高潮后不久，她也达到了高潮，她的身体因这快感而不停地颤抖着。"
 
 # game/boutique.rpy#L2827
 translate chinese mspt1_d06fd009:
 
     # melody "If I was a real bad bitch, I'd make you clean up this cum with your tongue. But instead, I'll let you get some toilet tissue, so go."
-    melody "If I was a real bad bitch, I'd make you clean up this cum with your tongue. But instead, I'll let you get some toilet tissue, so go."
+    melody "如果我真是个名副其实的臭婊子的话，我肯定会让你用舌头亲自把你的精液舔干净的。可我才不会这么做呢，我肯定会给你一些纸巾的。快去吧。"
 
 # game/boutique.rpy#L2830
 translate chinese mspt1_b23e6527:
 
     # "Like the obedient toy I am, I graciously lick the cum off my mistress's fingers before cleaning it up off the pristine wooden floors."
-    "Like the obedient toy I am, I graciously lick the cum off my mistress's fingers before cleaning it up off the pristine wooden floors."
+    "此时的我，就像个任人摆布的玩物一样。首先，我仔细地舔干净了粘在这位女主人手指上的精液，然后才开始清理地板。"
 
 # game/boutique.rpy#L2832
 translate chinese mspt1_c6aab2bc:
 
     # melody "Ooo, good boy..."
-    melody "Ooo, good boy..."
+    melody "哦，真是个好孩子……"
 
 # game/boutique.rpy#L2833
 translate chinese mspt1_b3c61bc0:
 
     # "While I'm cleaning the floor, Melody pushes her fluffy toes in my way as to really degrade me."
-    "While I'm cleaning the floor, Melody pushes her fluffy toes in my way as to really degrade me."
+    "在我清理地板时，Melody将她毛茸茸的脚挡在我面前，借此羞辱着我。"
 
 # game/boutique.rpy#L2835
 translate chinese mspt1_96d43cc5:
 
     # melody "Clean these, worm."
-    melody "Clean these, worm."
+    melody "把这儿擦干净，你个懒鬼。"
 
 # game/boutique.rpy#L2836
 translate chinese mspt1_c122b628:
 
     # "I bring one of her clean fluffy toes into my mouth and start to suckle and lick."
-    "I bring one of her clean fluffy toes into my mouth and start to suckle and lick."
+    "我将她一根干净的脚趾含在嘴里，然后舔舐吸吮起来。"
 
 # game/boutique.rpy#L2838
 translate chinese mspt1_e8a1a2f8:
@@ -9464,103 +9464,103 @@ translate chinese mspt1_2664f92f:
 translate chinese mspt1_1ce01296:
 
     # melody "I think your lonely worm could use a blowjob."
-    melody "I think your lonely worm could use a blowjob."
+    melody "我觉得你那条寂寞的小虫虫需要口交一下哦。"
 
 # game/boutique.rpy#L2847
 translate chinese mspt1_e870301f:
 
     # mc "Yeah, it could use a nice warm place to wriggle into."
-    mc "Yeah, it could use a nice warm place to wriggle into."
+    mc "是啊，它现在想到一个又舒服又温暖的地方好好地钻一钻呢。"
 
 # game/boutique.rpy#L2849
 translate chinese mspt1_5f604e78:
 
     # melody "... Ew! That's gross man!"
-    melody "... Ew! That's gross man!"
+    melody "……呃！太恶心了，伙计！"
 
 # game/boutique.rpy#L2850
 translate chinese mspt1_688b8170:
 
     # mc "It was gonna happen eventually if you kept calling it a worm."
-    mc "It was gonna happen eventually if you kept calling it a worm."
+    mc "如果你还继续叫它小虫虫的话，我刚才说的话可就要成真了。"
 
 # game/boutique.rpy#L2852
 translate chinese mspt1_3b36af10:
 
     # melody "Eugh you're right, why would I call something I wanna suck a worm?"
-    melody "Eugh you're right, why would I call something I wanna suck a worm?"
+    melody "呃，说得是啊。为什么我要说想舔一条小虫虫呢？"
 
 # game/boutique.rpy#L2854
 translate chinese mspt1_ade7f966:
 
     # melody "Alright, you can shut up and watch."
-    melody "Alright, you can shut up and watch."
+    melody "好了，你闭嘴吧，好好看着。"
 
 # game/boutique.rpy#L2859
 translate chinese mspt1_aa4cac58:
 
     # "Melody's fingers coil around my shaft and begin to jerk it back and forth with a hidden enthusiasm that she'd never admit to."
-    "Melody's fingers coil around my shaft and begin to jerk it back and forth with a hidden enthusiasm that she'd never admit to."
+    "Melody的手指缠绕在我的肉棒上，之后，她强忍着内心的情欲，故作镇静地来回撸动着它。"
 
 # game/boutique.rpy#L2860
 translate chinese mspt1_fdc1b7a8:
 
     # "Her cool grip and movements quickly cause my cock to stiffen and throb."
-    "Her cool grip and movements quickly cause my cock to stiffen and throb."
+    "她冷冰冰的手，加上她来回的撸动，很快就使我的肉棒坚挺和悸动起来。"
 
 # game/boutique.rpy#L2861
 translate chinese mspt1_57aad20d:
 
     # "She looks at my cock with surprising admiration."
-    "She looks at my cock with surprising admiration."
+    "她又惊奇又羡慕地盯着我的肉棒。"
 
 # game/boutique.rpy#L2862
 translate chinese mspt1_e7d6b559:
 
     # "I can tell deep down that she was looking forward to this."
-    "I can tell deep down that she was looking forward to this."
+    "我十分肯定，她一定相当期待着这个时刻的到来。"
 
 # game/boutique.rpy#L2863
 translate chinese mspt1_519c4af8:
 
     # melody "Hehe, I actually relaly like your cock, it's so cute."
-    melody "Hehe, I actually relaly like your cock, it's so cute."
+    melody "哈哈，我好喜欢你的大棒棒啊，好可爱哦。"
 
 # game/boutique.rpy#L2864
 translate chinese mspt1_63ed57fd:
 
     # melody "It's far more attractive than a horsecock."
-    melody "It's far more attractive than a horsecock."
+    melody "这可比马鞭诱人多了。"
 
 # game/boutique.rpy#L2866
 translate chinese mspt1_23dc1d00:
 
     # "Her fingers lock around my cock and start to jack me off even faster."
-    "Her fingers lock around my cock and start to jack me off even faster."
+    "她的手指紧紧地握着我的肉棒，然后加快了撸动的速度。"
 
 # game/boutique.rpy#L2867
 translate chinese mspt1_b7dee296:
 
     # "The rubbing fingers between her own legs also speed up, she even stifles a few moans as she gets more excited."
-    "The rubbing fingers between her own legs also speed up, she even stifles a few moans as she gets more excited."
+    "在她两腿之间的手指也加快了摩擦的速度。但在她变得更加性奋时，她竟然有好几次都抑制住了自己的呻吟声。"
 
 # game/boutique.rpy#L2869
 translate chinese mspt1_0fbb967b:
 
     # melody "Ooohh, it's throbbing! I better slow down, hehe."
-    melody "Ooohh, it's throbbing! I better slow down, hehe."
+    melody "哦，它在一动一动的呢！我还是慢一点好了，嘿嘿。"
 
 # game/boutique.rpy#L2870
 translate chinese mspt1_38acd7b4:
 
     # mc "I thought you were going to suck it."
-    mc "I thought you were going to suck it."
+    mc "我以为你会去舔它呢。"
 
 # game/boutique.rpy#L2871
 translate chinese mspt1_937c7664:
 
     # melody "Mm, I wanted to get you rock hard first."
-    melody "Mm, I wanted to get you rock hard first."
+    melody "嗯，我想先把它弄硬再说。"
 
 # game/boutique.rpy#L2876
 translate chinese mspt1_74fb2377:
@@ -9572,13 +9572,13 @@ translate chinese mspt1_74fb2377:
 translate chinese mspt1_1e98fe6f:
 
     # melody "Mmphh, ehehe, it's so big... *Lick*, *Lick*"
-    melody "Mmphh, ehehe, it's so big... *Lick*, *Lick*"
+    melody "唔嗯，呃呵呵，好大哦…… *舔*，*舔*"
 
 # game/boutique.rpy#L2879
 translate chinese mspt1_0c85d943:
 
     # "Her tongue slides around my shaft, leaving a wet sheen and sparks of pleasure in its deft licks."
-    "Her tongue slides around my shaft, leaving a wet sheen and sparks of pleasure in its deft licks."
+    "她的舌头绕着我的肉棒滑动着。在舔舐的过程中，她舌头所经之处留下了一片片湿润的痕迹，而且发着亮闪闪的光泽，同时散射着欢乐的火花。"
 
 # game/boutique.rpy#L2880
 translate chinese mspt1_022270e4:
@@ -9590,19 +9590,19 @@ translate chinese mspt1_022270e4:
 translate chinese mspt1_ab9bd251:
 
     # mc "That feels--"
-    mc "That feels--"
+    mc "这感觉……"
 
 # game/boutique.rpy#L2883
 translate chinese mspt1_56d5099d:
 
     # melody "Shhh, shh… No talking."
-    melody "Shhh, shh… No talking."
+    melody "嘘，嘘……不许说话。"
 
 # game/boutique.rpy#L2884
 translate chinese mspt1_48b99b4e:
 
     # mc "Mm..."
-    mc "Mm..."
+    mc "唔……"
 
 # game/boutique.rpy#L2886
 translate chinese mspt1_2705f1ad:
@@ -9614,43 +9614,43 @@ translate chinese mspt1_2705f1ad:
 translate chinese mspt1_e97dbb73:
 
     # "Her hand continues rubbing her pussy quickly as her long tongue swipes from my glans to the base with ease."
-    "Her hand continues rubbing her pussy quickly as her long tongue swipes from my glans to the base with ease."
+    "当她用长长的舌头从我的龟头轻松地滑动到肉棒底部时，她的手仍在快速地摩擦着自己的阴部。"
 
 # game/boutique.rpy#L2888
 translate chinese mspt1_26db9806:
 
     # "I wonder if she had already fantasised about this before I arrived."
-    "I wonder if she had already fantasised about this before I arrived."
+    "我在想，在我来之前，她是不是就已经幻想过这种场景了。"
 
 # game/boutique.rpy#L2890
 translate chinese mspt1_86becc72:
 
     # melody "Mmmh, you’re just a sex toy for a fine lady like me… That’s right…"
-    melody "Mmmh, you’re just a sex toy for a fine lady like me… That’s right…"
+    melody "嗯，你只是个像我这样的好女人的一个玩具而已……没错……"
 
 # game/boutique.rpy#L2891
 translate chinese mspt1_a4dfee76:
 
     # "My cock tightens and throbs as I get closer and closer to cumming in her mouth."
-    "My cock tightens and throbs as I get closer and closer to cumming in her mouth."
+    "当我越发接近射精的时候，我的阴茎开始在她的嘴中紧绷和悸动起来。"
 
 # game/boutique.rpy#L2893
 translate chinese mspt1_b96c0235:
 
     # melody "Ohh, it’s throbbing again, does that mean you’re going to cum soon?"
-    melody "Ohh, it’s throbbing again, does that mean you’re going to cum soon?"
+    melody "哦，它又抖起来了，这是不是说明你马上就要射了？"
 
 # game/boutique.rpy#L2894
 translate chinese mspt1_0dc934d9:
 
     # mc "Bit faster…"
-    mc "Bit faster…"
+    mc "再快一点……"
 
 # game/boutique.rpy#L2896
 translate chinese mspt1_4618d002:
 
     # melody "Hehe, okay..."
-    melody "Hehe, okay..."
+    melody "嘿嘿，没问题……"
 
 # game/boutique.rpy#L2898
 translate chinese mspt1_b6ef8d22:
@@ -9680,31 +9680,31 @@ translate chinese mspt1_ce75e607:
 translate chinese mspt1_2f855060:
 
     # melody "Aahhh, ahh, aahhh..."
-    melody "Aahhh, ahh, aahhh..."
+    melody "啊，啊，啊啊啊……"
 
 # game/boutique.rpy#L2911
 translate chinese mspt1_f4e10820:
 
     # melody "Your hot sticky cum, so gross…"
-    melody "Your hot sticky cum, so gross…"
+    melody "你的精液又热又粘，好恶心……"
 
 # game/boutique.rpy#L2912
 translate chinese mspt1_ef20b026:
 
     # "She's really good at blowjobs, her tongue is so long and hot."
-    "She's really good at blowjobs, her tongue is so long and hot."
+    "她口交的技术相当不错，她的舌头也是又长又温暖。"
 
 # game/boutique.rpy#L2915
 translate chinese mspt1_59c57a5f:
 
     # melody "You came a lot more than last time... Icky!"
-    melody "You came a lot more than last time... Icky!"
+    melody "这次你射的比上次多很多诶……但是好恶心啊！"
 
 # game/boutique.rpy#L2917
 translate chinese mspt1_3f91df15:
 
     # melody "You need to eat some sweet food, fruit or something. I heard it makes your cum taste better."
-    melody "You need to eat some sweet food, fruit or something. I heard it makes your cum taste better."
+    melody "你应该多吃一些甜食、水果这类的食物。我听说，吃这些东西可以让你精液的味道变得更好。"
 
 # game/boutique.rpy#L2919
 translate chinese mspt1_fabb58c1:
@@ -9716,31 +9716,31 @@ translate chinese mspt1_fabb58c1:
 translate chinese melodyeveningsex_2af029ed:
 
     # melody "Alright, I'm horny, let's fuck!"
-    melody "Alright, I'm horny, let's fuck!"
+    melody "好了，我想做了，咱们开干吧！"
 
 # game/boutique.rpy#L2929
 translate chinese melodyeveningsex_118060aa:
 
     # mc "Ohh, we're finally having sex?"
-    mc "Ohh, we're finally having sex?"
+    mc "哦，咱们终于要做了吗？"
 
 # game/boutique.rpy#L2931
 translate chinese melodyeveningsex_35ebc70c:
 
     # melody "I'll allow it, hehe. Lay down on the bed, worm!"
-    melody "I'll allow it, hehe. Lay down on the bed, worm!"
+    melody "做的时候我会告诉你的，嘿嘿。快躺到床上去，小虫虫！"
 
 # game/boutique.rpy#L2932
 translate chinese melodyeveningsex_26f03563:
 
     # "I nod and lay down on her on bed, my half-erection limply resting on my belly."
-    "I nod and lay down on her on bed, my half-erection limply resting on my belly."
+    "我点了点头，然后躺到了她的床上。我未完全勃起的肉棒此时就瘫软在我的腹部上。"
 
 # game/boutique.rpy#L2933
 translate chinese melodyeveningsex_cb4a8f82:
 
     # melody "Well this is just pathetic, let's fix that."
-    melody "Well this is just pathetic, let's fix that."
+    melody "嗯，这样可不太好呢，让我来好好帮帮你吧。"
 
 # game/boutique.rpy#L2938
 translate chinese melodyeveningsex_be0c33fb:
@@ -9764,7 +9764,7 @@ translate chinese melodyeveningsex_788e9786:
 translate chinese melodyeveningsex_42d5d8b4:
 
     # melody "Mmphh, phahh... *Schlurp*. *Lick*."
-    melody "Mmphh, phahh... *Schlurp*. *Lick*."
+    melody "嗯嗯，呃啊…… *呲溜* *舔*。"
 
 # game/boutique.rpy#L2945
 translate chinese melodyeveningsex_2eb20dc6:
@@ -9794,7 +9794,7 @@ translate chinese melodyeveningsex_450b40bf:
 translate chinese melodyeveningsex_28ab5122:
 
     # melody "Here we go..."
-    melody "Here we go..."
+    melody "咱们开始吧……"
 
 # game/boutique.rpy#L2956
 translate chinese melodyeveningsex_ab261e7c:
@@ -9872,7 +9872,7 @@ translate chinese melodyeveningsex_1e957608:
 translate chinese melodyeveningsex_c2cc1802:
 
     # melody "Hahh, haahh, c-coming!"
-    melody "Hahh, haahh, c-coming!"
+    melody "哈，哈啊，要……要去了！"
 
 # game/boutique.rpy#L2973
 translate chinese melodyeveningsex_2dd3ac9b:

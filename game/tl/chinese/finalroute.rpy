@@ -5732,19 +5732,19 @@ translate chinese finale_46412d10:
 translate chinese finale_7ee1a634:
 
     # "What resulted was a beautiful slurry of shrapnel, capable of piercing the earth; firing like a sea of death."
-    "这造成了一团壮观的碎块从天而降，威力足以贯穿地面；顷刻间天空化为一片火海。"
+    "一团壮观的碎块从天而降，威力足以贯穿地面；顷刻间天空化为一片火海。"
 
 # game/finalroute.rpy#L2624
 translate chinese finale_c0ef72cf:
 
     # "From one side of the battlefield Penelope begged the Queen to cease her destruction."
-    "在战场的一边，Penelope正恳求女王停下她的手中的毁灭。"
+    "在战场的一边，Penelope正恳求女王停下她毁灭般的攻势。"
 
 # game/finalroute.rpy#L2625
 translate chinese finale_65ea5fcf:
 
     # penelope "What are you doing my Queen?! You promised me that it wouldn't be like this! Stop, stop!"
-    penelope "你在做什么呀，我的女王？！你答应过我不会这样的！停,停下！"
+    penelope "你在做什么呀，我的女王？！你答应过我不会这样的！停，停下！"
 
 # game/finalroute.rpy#L2630
 translate chinese finale_dc261f6a:
@@ -5756,7 +5756,7 @@ translate chinese finale_dc261f6a:
 translate chinese finale_7a2e8a1a:
 
     # lily "Don’t worry Moxie, the castle has been evacuated! Do your best!"
-    lily "别担心，Moxie，城堡里的人都已经被疏散了！放开拳脚大干一场吧！"
+    lily "别担心，Moxie，城堡里的马都已经被疏散了！放开拳脚大干一场吧！"
 
 # game/finalroute.rpy#L2634
 translate chinese finale_36e53a27:
@@ -5774,7 +5774,7 @@ translate chinese finale_c9205ee7:
 translate chinese finale_62f38a4d:
 
     # "There was another tower falling that Moxie took advantage of, imbuing the falling structure with magic, she used it as a shield to block the tidal wave of rocks and shrapnel launched by Morrigan."
-    "There was another tower falling that Moxie took advantage of, imbuing the falling structure with magic, she used it as a shield to block the tidal wave of rocks and shrapnel launched by Morrigan."
+    "Moxie趁着另外一座坠落的高塔，向其中灌输了魔力，使之成为了一面完美的盾牌，抵挡住了Morrigan发出的岩石碎片和魔浪冲击。"
 
 # game/finalroute.rpy#L2659
 translate chinese finale_df628f2e:
@@ -5786,7 +5786,7 @@ translate chinese finale_df628f2e:
 translate chinese finale_b5e6b853:
 
     # "With the collision over, the towers were reduced to nothing but a mass of rocks and debris as they collapsed to the ground lifeless."
-    "随着撞击的结束，双塔变成了一堆岩石和碎片，倒在地上毫无生气。"
+    "随着撞击的结束，双塔变成了一堆岩石和碎片，成了一堆废墟瓦砾。"
 
 # game/finalroute.rpy#L2663
 translate chinese finale_5d1ea8c7:
@@ -5816,7 +5816,7 @@ translate chinese finale_2c6d4915:
 translate chinese finale_e38c45c7:
 
     # "With such an overwhelming display, Moxie felt certain that victory was within her grasp."
-    "有了这样锐不可当的武器，莫克西确信胜利在握。"
+    "有了这样锐不可当的武器，Moxie确信胜利在握。"
 
 # game/finalroute.rpy#L2681
 translate chinese finale_000751d4:
@@ -5900,7 +5900,7 @@ translate chinese finale_aaf01683:
 translate chinese finale_907f175b:
 
     # morrigan "Is that so? Allow me to show you how to do that javelin attack properly, and you’ll see that we’re far from equal!"
-    morrigan "哦，真的是这样么？请允许我向你展示如何正确地进行标枪攻击，你会发现我们俩的实力一个在天上一个在地下！"
+    morrigan "哦，真的是这样么？现在看看我是怎么扔标枪的，你会发现我们俩的实力一个在天上一个在地下！"
 
 # game/finalroute.rpy#L2754
 translate chinese finale_4ec06689:
@@ -6398,7 +6398,7 @@ translate chinese finale_cd00e897:
 translate chinese finale_7f912089:
 
     # "Penelope broke down, everyone watched, aghast by the emotional outburst. No one could have foreseen her reaction."
-    "Penelope崩溃了，每个人都默默地看着她，被她的情绪爆发惊呆了。没有人能料想到她是这个反应。"
+    "Penelope崩溃了，大家都默默地看着她，被她的情绪爆发惊呆了。都没料想到她是这个反应。"
 
 # game/finalroute.rpy#L3039
 translate chinese finale_e2d427d6:
@@ -6464,13 +6464,13 @@ translate chinese finale_d391c680:
 translate chinese finale_2f827b9b:
 
     # mc "{i}You{/i} were the one that suggested that Moxie should summon a familiar, {i}you{/i} were the person that realized my potential and convinced me to stay."
-    mc "{i}You{/i} were the one that suggested that Moxie should summon a familiar, {i}you{/i} were the person that realized my potential and convinced me to stay."
+    mc "{i}是你{/i}，建议Moxie应该召唤一个傀儡；{i}是你{/i}发现了我的潜力，说服我留下来。"
 
 # game/finalroute.rpy#L3053
 translate chinese finale_c6c53f02:
 
     # mc "{i}You{/i} were the one that wanted to make me a pawn, and {i}you{/i} got me to work and hence sleep with the elements."
-    mc "{i}You{/i} were the one that wanted to make me a pawn, and {i}you{/i} got me to work and hence sleep with the elements."
+    mc "{i}是你{/i}将我当成棋子，{i}也是你{/i}让我去工作，和谐律精华们一起睡觉。"
 
 # game/finalroute.rpy#L3055
 translate chinese finale_afce99e5:
@@ -6542,13 +6542,13 @@ translate chinese finale_7a99cf1c:
 translate chinese finale_d6bacf1a:
 
     # "She was nearly arrested, but Aurora and Lily agreed it’d be best to work with her through this."
-    "She was nearly arrested, but Aurora and Lily agreed it’d be best to work with her through this."
+    "她险些被逮捕，但在了解到真相后，Aurora和Lily一致认为最好和她共事。"
 
 # game/finalroute.rpy#L3069
 translate chinese finale_fccf63aa:
 
     # "Someone could assume that the castle guards were slacking on the job, but in reality, it has only been four minutes since I creampied the Queen and Princess."
-    "Someone could assume that the castle guards were slacking on the job, but in reality, it has only been four minutes since I creampied the Queen and Princess."
+    "有人可能会认为城堡守卫工作摸鱼，但事实上，距离我和女王和公主翻云覆雨仅仅过去了四分钟。"
 
 # game/finalroute.rpy#L3074
 translate chinese finale_94170911:
@@ -6680,7 +6680,7 @@ translate chinese finale_6cbffae7:
 translate chinese finale_9e8c2dd3:
 
     # aurora "Wings, right? They’ve earned that much; they can both fly anyway."
-    aurora "Wings, right? They’ve earned that much; they can both fly anyway."
+    aurora "翅膀，是吧？她们已经做出这么大的贡献了；也是时候让她们体验一下飞翔的感觉了。"
 
 # game/finalroute.rpy#L3127
 translate chinese finale_60ff2731:
@@ -6692,13 +6692,13 @@ translate chinese finale_60ff2731:
 translate chinese finale_d9c14a29:
 
     # aurora "Moxie and Lily, as recognition of saving Arcadia and as a collateral for becoming a future guardian for the city, I extend an offer to each of you."
-    aurora "Moxie and Lily, as recognition of saving Arcadia and as a collateral for becoming a future guardian for the city, I extend an offer to each of you."
+    aurora "Moxie和Lily，出于对拯救Arcadia的认可以及成为这座城市未来守护者的担保，我向你们每匹马提出一个提议。"
 
 # game/finalroute.rpy#L3130
 translate chinese finale_3d3ba3f5:
 
     # aurora "Would you like to become alicorns, right now?"
-    aurora "我啪的一下施个法，很快呀，你们就可以变成天角兽了。要不要现在就试试？"
+    aurora "想不想现在就变成天角兽呀？"
 
 # game/finalroute.rpy#L3132
 translate chinese finale_4e0a7d7f:
@@ -6956,55 +6956,55 @@ translate chinese finale_ddc980c8:
 translate chinese finale_5fcf634b:
 
     # moxie "But the opposite was also true! That’s why Morrigan had a soft spot for you at first, it was because of me! That softness gave you the opportunity to cure all the brainwashed mares."
-    moxie "But the opposite was also true! That’s why Morrigan had a soft spot for you at first, it was because of me! That softness gave you the opportunity to cure all the brainwashed mares."
+    moxie "但反过来也是一样的！这就是Morrigan一开始对你有好感的原因，都是因为我！她对你的好感让你有机会治愈所有被洗脑的母马。"
 
 # game/finalroute.rpy#L3233
 translate chinese finale_6a23180b:
 
     # mc "Awhh, so even then you were looking out for me."
-    mc "Awhh, so even then you were looking out for me."
+    mc "哇呜，所以你即使身不由己也在照顾我。"
 
 # game/finalroute.rpy#L3235
 translate chinese finale_511918ef:
 
     # moxie "You must have noticed too, but as soon as Morrigan and I separated, she became crazy and ruthless!"
-    moxie "You must have noticed too, but as soon as Morrigan and I separated, she became crazy and ruthless!"
+    moxie "你一定也注意到了，一旦我和Morrigan分开，她就变得疯狂又无情!"
 
 # game/finalroute.rpy#L3236
 translate chinese finale_1c533d17:
 
     # mc "Ohh? {i}All{/i} the niceties of that fiend were from you?"
-    mc "Ohh? {i}All{/i} the niceties of that fiend were from you?"
+    mc "哦？那个暴君的{i}所有{/i}善念都来自你?"
 
 # game/finalroute.rpy#L3238
 translate chinese finale_f4dbdbb9:
 
     # moxie "Pretty much, she was a cold bitch…"
-    moxie "Pretty much, she was a cold bitch…"
+    moxie "差不多，她本身是个铁石心肠的婊砸…"
 
 # game/finalroute.rpy#L3239
 translate chinese finale_bab8098b:
 
     # moxie "And because of that, now that Morrigan is gone, there might be some small differences in my personality… I can think of one big thing, actually…"
-    moxie "And because of that, now that Morrigan is gone, there might be some small differences in my personality… I can think of one big thing, actually…"
+    moxie "正因为如此，现在Morrigan走了，我的性格可能会有一些细微的差异…其实，我能想起了一件很重要的事…"
 
 # game/finalroute.rpy#L3240
 translate chinese finale_db7b11fd:
 
     # mc "What’s that?"
-    mc "What’s that?"
+    mc "什么事呀？"
 
 # game/finalroute.rpy#L3242
 translate chinese finale_65dd83f8:
 
     # moxie "Uhmm… It would seem I tricked you into sleeping with everyone, I'm sorry!"
-    moxie "Uhmm… It would seem I tricked you into sleeping with everyone, I'm sorry!"
+    moxie "嗯...说来好像是我骗你跟所有人上床的，对不起！"
 
 # game/finalroute.rpy#L3243
 translate chinese finale_13922b8c:
 
     # mc "Oh?!"
-    mc "Oh?!"
+    mc "噢?!"
 
 # game/finalroute.rpy#L3245
 translate chinese finale_9756f153:
@@ -7016,55 +7016,55 @@ translate chinese finale_9756f153:
 translate chinese finale_3552a99a:
 
     # mc "Oh, you don't like it when I sleep around?"
-    mc "Oh, you don't like it when I sleep around?"
+    mc "额，你不喜欢我到处沾花惹草吗？"
 
 # game/finalroute.rpy#L3248
 translate chinese finale_b378e4ae:
 
     # moxie "Well... That's up to you, I don't mind it..."
-    moxie "Well... That's up to you, I don't mind it..."
+    moxie "嗐…这看你自己。我,不介意的..."
 
 # game/finalroute.rpy#L3250
 translate chinese finale_ea71ff27:
 
     # moxie "It's pretty hot getting to sleep with such a stud, but that's just my biology talking."
-    moxie "It's pretty hot getting to sleep with such a stud, but that's just my biology talking."
+    moxie "跟这样的帅哥在床上睡觉挺热的，但这只是生理上的正常反应。"
 
 # game/finalroute.rpy#L3252
 translate chinese finale_b8f554cd:
 
     # mc "Phew, I’ve lost count of the number of girls that want to fuck me."
-    mc "Phew, I’ve lost count of the number of girls that want to fuck me."
+    mc "我已经记不清有多少女孩想上我了。"
 
 # game/finalroute.rpy#L3254
 translate chinese finale_3b860a51:
 
     # moxie "Well… Are you ever gonna settle down?"
-    moxie "Well… Are you ever gonna settle down?"
+    moxie "对了…你打算安定下来吗?"
 
 # game/finalroute.rpy#L3255
 translate chinese finale_a1766f2f:
 
     # mc "I’ll let you know when all this is over and life regains a little normality."
-    mc "I’ll let you know when all this is over and life regains a little normality."
+    mc "等这一切结束，生活恢复正常，我再告诉你吧。"
 
 # game/finalroute.rpy#L3257
 translate chinese finale_38917264:
 
     # moxie "Fiiiine…"
-    moxie "Fiiiine…"
+    moxie "好—吧…"
 
 # game/finalroute.rpy#L3258
 translate chinese finale_b509f106:
 
     # mc "Do you think you still summoned me because I’m the ‘one’, like Selene described?"
-    mc "Do you think you still summoned me because I’m the ‘one’, like Selene described?"
+    mc "你觉得你召唤我还是因为我就是那个“唯一”吗，就像Selene描述的那样?"
 
 # game/finalroute.rpy#L3260
 translate chinese finale_1ec3ad94:
 
     # moxie "Maybe… But I realize now that the whole ‘give me what I want most’ schtick also applied to Morrigan."
-    moxie "Maybe… But I realize now that the whole ‘give me what I want most’ schtick also applied to Morrigan."
+    moxie "也许吧…但我现在意识到，“把我最想要的给我”这句话也适用于Morrigan。"
 
 # game/finalroute.rpy#L3261
 translate chinese finale_ed0004d2:
@@ -7076,37 +7076,37 @@ translate chinese finale_ed0004d2:
 translate chinese finale_b92ed60a:
 
     # moxie "And... No offence, you were a fucking efficient pawn! Literally, fucking- efficient, get it? Heh..."
-    moxie "And... No offence, you were a fucking efficient pawn! Literally, fucking- efficient, get it? Heh..."
+    moxie "无意冒犯，不过你还真是个效率爆表的棋子呢！真的，真™的很有效率，你知道吗?哈哈…"
 
 # game/finalroute.rpy#L3263
 translate chinese finale_5557523e:
 
     # mc "Heh... My bad…"
-    mc "Heh... My bad…"
+    mc "哈哈...那确实…"
 
 # game/finalroute.rpy#L3264
 translate chinese finale_6094e9aa:
 
     # mc "I guess it doesn’t really matter who summoned me. Dwelling on the past won’t help us move on. What matters is what we do now."
-    mc "I guess it doesn’t really matter who summoned me. Dwelling on the past won’t help us move on. What matters is what we do now."
+    mc "我想谁召唤我来并不重要。沉湎于过去无助于我们继续前进。重要的是，我们现在做什么。"
 
 # game/finalroute.rpy#L3266
 translate chinese finale_3a4708ab:
 
     # moxie "Well… You know what I wanna do now?"
-    moxie "Well… You know what I wanna do now?"
+    moxie "这样呀…你知道我现在想做什么吗？"
 
 # game/finalroute.rpy#L3267
 translate chinese finale_f1cf1099:
 
     # mc "Hm? What’s that?"
-    mc "Hm? What’s that?"
+    mc "嗯？你想做啥？"
 
 # game/finalroute.rpy#L3269
 translate chinese finale_1964a79e:
 
     # moxie "I wannaaaaaa, I really wannnaa… Fuck!"
-    moxie "I wannaaaaaa, I really wannnaa… Fuck!"
+    moxie "我想——！我真！的！很想！…干你!"
 
 # game/finalroute.rpy#L3270
 translate chinese finale_402dddf9:

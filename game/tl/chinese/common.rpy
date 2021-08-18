@@ -102,7 +102,7 @@ translate chinese strings:
 
     # renpy/common/00accessibility.rpy_L202_0
     old "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
-    new "此菜单上的选项旨在提高可访问性。它们可能不适用于所有游戏，某些选项的组合可能会导致游戏无法游玩。这不是游戏或引擎的问题。为了在更改字体时获得最佳效果，请尽量保持文本大小与原来一致。"
+    new "此菜单上的选项旨在提高可访问性。它们可能不适用于所有游戏，某些选项的组合可能会导致游戏无法游玩。这不是游戏或引擎的问题。为了在更改字体时取得最佳效果，请尽量保持文本大小与原来一致。"
 
     # renpy/common/00accessibility.rpy_L207_0
     old "Return"
