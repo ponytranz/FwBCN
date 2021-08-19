@@ -4682,14 +4682,14 @@
   {
     "id": 79434397,
     "createdAt": "2021-05-30T17:55:39.000Z",
-    "updatedAt": "2021-08-08T06:42:02.000Z",
+    "updatedAt": "2021-08-18T06:48:07.000Z",
     "key": "farmvisit1_9222e3bc",
     "original": "Oohhh, right, I haven’t had a fruity tea in years, the aroma is tantalising.",
-    "translation": "哦，对了，我好几年没喝过水果茶了，这茶香很诱人",
+    "translation": "哦，对了，我好几年没喝过水果茶了，这茶香很诱人。",
     "file": 272347,
     "stage": 1,
     "project": 2414,
-    "uid": 22916,
+    "uid": 21929,
     "extra": null,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L606",
     "words": 14

@@ -1874,7 +1874,7 @@ translate chinese farmvisit1_51081c81:
 translate chinese farmvisit1_9222e3bc:
 
     # mc "Oohhh, right, I haven’t had a fruity tea in years, the aroma is tantalising."
-    mc "哦，对了，我好几年没喝过水果茶了，这茶香很诱人"
+    mc "哦，对了，我好几年没喝过水果茶了，这茶香很诱人。"
 
 # game/farm.rpy#L607
 translate chinese farmvisit1_27935ddf:

@@ -12284,7 +12284,7 @@ translate chinese eveningbarmenu_abd277cc:
 translate chinese eveningbarmenu_0f842a3b:
 
     # butters "Ish not fair! We've had the same to drink!"
-    butters "哲不公平！凭什么你喝了酒就不醉成我这样！"
+    butters "泥讨厌！凭什么你喝了酒不会醉成我这样！"
 
 # game/bar.rpy#L3628
 translate chinese eveningbarmenu_5c06d01e:

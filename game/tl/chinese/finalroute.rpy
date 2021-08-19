@@ -5924,7 +5924,7 @@ translate chinese finale_1a2d4e48:
 translate chinese finale_5a60999e:
 
     # "The very earth itself quaked with a thunderous sound as the golems slammed their feet down and deftly spun the lightning javelins in their arms simply for style, before throwing each of them up into the air."
-    "The very earth itself quaked with a thunderous sound as the golems slammed their feet down and deftly spun the lightning javelins in their arms simply for style, before throwing each of them up into the air."
+    "巨魔们的践踏让整个大地都为之颤抖，手中紧握着闪电标枪，随后将其尽数投到空中。"
 
 # game/finalroute.rpy#L2761
 translate chinese finale_31ee2f2f:
@@ -5936,7 +5936,7 @@ translate chinese finale_31ee2f2f:
 translate chinese finale_76a5d671:
 
     # "The javelins pierced the clouds as they rose, and as they fell, they did so multiplicatively as each split into a rain of murder. A few javelins had become a thousand."
-    "The javelins pierced the clouds as they rose, and as they fell, they did so multiplicatively as each split into a rain of murder. A few javelins had become a thousand."
+    "窜天的标枪刺破了云层，在落下时又成倍地扩增，每一根都变成了一场毁灭之雨。仅仅几只标枪，瞬间扩增成了千上万支。"
 
 # game/finalroute.rpy#L2770
 translate chinese finale_fbc1e587:
@@ -5954,7 +5954,7 @@ translate chinese finale_6838bf4c:
 translate chinese finale_cf395554:
 
     # "Anyone watching would assume that Moxie had been destroyed, the barrage consumed an entire 30-meter volume in a storm for exhaustively long seconds."
-    "Anyone watching would assume that Moxie had been destroyed, the barrage consumed an entire 30-meter volume in a storm for exhaustively long seconds."
+    "Moxie在这种绝境下几乎必死无疑，屏障在数秒的时间里被削减了整整30米厚。"
 
 # game/finalroute.rpy#L2785
 translate chinese finale_d8410699:
@@ -5978,7 +5978,7 @@ translate chinese finale_84019b61:
 translate chinese finale_99cc2ce4:
 
     # "Using a power practiced for many nights, Moxie reappeared behind Morrigan."
-    "Moxie使用了一种训练了好几个夜晚的能力，在Morrigan身后再次出现。"
+    "Moxie祭出了自己勤学苦练的拿手好戏，在Morrigan身后再次出现。"
 
 # game/finalroute.rpy#L2793
 translate chinese finale_0a1a249b:
@@ -6020,13 +6020,13 @@ translate chinese finale_57a2f521:
 translate chinese finale_e25890d9:
 
     # "Spear, after sword after javelin, Moxie gave it her all. Morrigan couldn’t even begin to retaliate. Even if she did, the magical mess of close-range lights blinded her eyes."
-    "Moxie将矛，剑，标枪一股脑地向她射去。打的Morrigan甚至无法还手。即使她可以出手，这些近距离的魔法闪光也会闪瞎她的眼睛。"
+    "Moxie将矛，剑，标枪一股脑地向她射去。打的Morrigan甚至无法还手。即使她可以及时防御，这些近距离施法造成的闪光也会闪瞎她的眼睛，乱她的阵脚。"
 
 # game/finalroute.rpy#L2821
 translate chinese finale_3fc2c656:
 
     # "At this point, it was no longer mere weapons attacking Morrigan, but a tornado of magic endlessly crashing into her shield."
-    "At this point, it was no longer mere weapons attacking Morrigan, but a tornado of magic endlessly crashing into her shield."
+    "此时，一场魔法风暴疯狂席卷着Morrigan的盾牌，程度远超之前简单的魔法武器攻击。"
 
 # game/finalroute.rpy#L2822
 translate chinese finale_41439376:
@@ -6062,7 +6062,7 @@ translate chinese finale_4b607889:
 translate chinese finale_d03be39c:
 
     # "Morrigan was going to be blended in this cacophony."
-    "Morrigan was going to be blended in this cacophony."
+    "Morrigan的惨叫几乎快被魔法的混乱声音所吞没。"
 
 # game/finalroute.rpy#L2881
 translate chinese finale_8330a9d5:
@@ -6416,7 +6416,7 @@ translate chinese finale_29a8e157:
 translate chinese finale_a53fd854:
 
     # aurora "She would have let all of Arcadia burn in her hubris, even if that meant killing you in the collateral."
-    aurora "她会让整个Arcadia因她的傲慢而付之一炬，即使把你当作棋子，杀了也无所谓。"
+    aurora "她会让整个Arcadia因她的傲慢而付之一炬，你不过是她一枚随时可以牺牲的棋子罢了。"
 
 # game/finalroute.rpy#L3044
 translate chinese finale_243ac0c2:
@@ -6434,7 +6434,7 @@ translate chinese finale_4166fa65:
 translate chinese finale_4c1f6ee2:
 
     # "Penelope holds herself and shivers, clearer inspection of her body reveals some nasty cuts and injuries from the collateral damage on one of her legs."
-    "Penelope强打精神支撑着自己颤抖的身体，更仔细地检查了她的身体，发现她的一条腿上有一些严重的割伤和其他伤痕。"
+    "Penelope强打精神支撑着自己颤抖的身体，我更仔细地观察了下她的身体，发现她的一条腿上有一些严重的割伤和其他伤痕。"
 
 # game/finalroute.rpy#L3048
 translate chinese finale_f3ea6493:
@@ -6470,7 +6470,7 @@ translate chinese finale_2f827b9b:
 translate chinese finale_c6c53f02:
 
     # mc "{i}You{/i} were the one that wanted to make me a pawn, and {i}you{/i} got me to work and hence sleep with the elements."
-    mc "{i}是你{/i}将我当成棋子，{i}也是你{/i}让我去工作，和谐律精华们一起睡觉。"
+    mc "{i}是你{/i}将我当成棋子，{i}也是你{/i}让我去工作，和谐律精华们一起滚床单。"
 
 # game/finalroute.rpy#L3055
 translate chinese finale_afce99e5:
@@ -6512,7 +6512,7 @@ translate chinese finale_818da07a:
 translate chinese finale_58aedd53:
 
     # penelope "*Sob* She almost killed me, [playername]! She looked me right in the eye as she tore the foundation of the castle from beneath my feet!"
-    penelope "*呜咽*她还差点杀了我，[playername]！她把我脚下的城堡地基撕成碎片的时候，她就直直地看着我呀！"
+    penelope "*呜咽*她还差点杀了我，[playername]！她把我脚下的城堡地基撕成碎片的时候，她就在那儿冷眼地看着我呀！"
 
 # game/finalroute.rpy#L3064
 translate chinese finale_ac0edb47:
@@ -6542,7 +6542,7 @@ translate chinese finale_7a99cf1c:
 translate chinese finale_d6bacf1a:
 
     # "She was nearly arrested, but Aurora and Lily agreed it’d be best to work with her through this."
-    "她险些被逮捕，但在了解到真相后，Aurora和Lily一致认为最好和她共事。"
+    "她理应被逮捕下狱，但在了解到真相后，Aurora和Lily一致认为最好和她共事。"
 
 # game/finalroute.rpy#L3069
 translate chinese finale_fccf63aa:
@@ -6674,7 +6674,7 @@ translate chinese finale_af8c5cfd:
 translate chinese finale_6cbffae7:
 
     # aurora "Sure, it’d be nice to have a fancy coronation in a few years, but I always thought we put too much emphasis on what is ultimately the addition of wings."
-    aurora "Sure, it’d be nice to have a fancy coronation in a few years, but I always thought we put too much emphasis on what is ultimately the addition of wings."
+    aurora "没错，过几年再办可以搞个隆重的典礼，不过嘛，最重要的还是翅膀。"
 
 # game/finalroute.rpy#L3125
 translate chinese finale_9e8c2dd3:
@@ -6692,7 +6692,7 @@ translate chinese finale_60ff2731:
 translate chinese finale_d9c14a29:
 
     # aurora "Moxie and Lily, as recognition of saving Arcadia and as a collateral for becoming a future guardian for the city, I extend an offer to each of you."
-    aurora "Moxie和Lily，出于对拯救Arcadia的认可以及成为这座城市未来守护者的担保，我向你们每匹马提出一个提议。"
+    aurora "Moxie和Lily，出于对拯救Arcadia的认可以及成为这座城市未来守护者的担保，本宫向你们每匹马提出一个提议。"
 
 # game/finalroute.rpy#L3130
 translate chinese finale_3d3ba3f5:
@@ -6854,7 +6854,7 @@ translate chinese finale_35cd7fbe:
 translate chinese finale_4a25afb4:
 
     # "After everyone was checked and treated by medical staff, we gathered to enjoy a feast of food to regain our strength. Later we joined with castle staff and disaster recovery teams to help with the immediate damage and effort."
-    "After everyone was checked and treated by medical staff, we gathered to enjoy a feast of food to regain our strength. Later we joined with castle staff and disaster recovery teams to help with the immediate damage and effort."
+    "在大家都被医疗小组悉心检查和照料过后，我们又聚在一起吃了顿好的，好好犒劳自己。之后便和城堡维护小组和救灾小组一起投入到灾后重建的工作中去了。"
 
 # game/finalroute.rpy#L3207
 translate chinese finale_2050fc2e:
@@ -6878,7 +6878,7 @@ translate chinese finale_0f25d5bb:
 translate chinese finale_aff4e5ab:
 
     # moxie "A little, I guess? I didn’t realize I was a host for a morphling, but I noticed there was {i}something{/i} wrong with me... But I couldn’t even speak out to tell anyone that something was wrong, it was so weird!"
-    moxie "我想有一点吧？但我没有意识到我是一个幻型灵的宿主，但我注意到有{i}什么{/ i}不对劲…但我甚至不能说出来告诉别人有什么不对劲，真是诡异！"
+    moxie "我想有一点吧？但我没有意识到我是一个幻型灵的宿主，但我注意到有{i}什么{/ i}不对劲…但我甚至没办法把心里的怪异给其他马透露，真是诡异！"
 
 # game/finalroute.rpy#L3215
 translate chinese finale_fa783ea9:
@@ -6908,7 +6908,7 @@ translate chinese finale_91ffcd00:
 translate chinese finale_aae1dcf0:
 
     # moxie "Yeah, I think so… It must have been months before we met, even. I’m still pondering on whether they chose me because of my unusual powers or not. I guess I could ask Penny, but a part of me doesn't even care anymore."
-    moxie "Yeah, I think so… It must have been months before we met, even. I’m still pondering on whether they chose me because of my unusual powers or not. I guess I could ask Penny, but a part of me doesn't even care anymore."
+    moxie "嗯，应该是这样的...甚至在好几个月前就如此了。我还在疑惑，她是不是因为我的魔法天分才选我做宿主的。可能Penny知道缘由，但不知怎的，我现在不在乎了。"
 
 # game/finalroute.rpy#L3222
 translate chinese finale_d10b9348:
@@ -6926,7 +6926,7 @@ translate chinese finale_4d40a1b8:
 translate chinese finale_433b68b2:
 
     # moxie "I kinda gathered that Morrigan didn't have much faith in my abilities, but Penelope kept insisting on using my body as an experiment... *Sigh*..."
-    moxie "I kinda gathered that Morrigan didn't have much faith in my abilities, but Penelope kept insisting on using my body as an experiment... *Sigh*..."
+    moxie "我只能猜测，Morrigan对我的能力并不抱太高期望，但Penelope建议她拿我的身体先做个实验...*叹气*......"
 
 # game/finalroute.rpy#L3227
 translate chinese finale_56e9d5d6:
@@ -6950,7 +6950,7 @@ translate chinese finale_61394a74:
 translate chinese finale_ddc980c8:
 
     # moxie "Well... Morrigan had a lot of influence on my thoughts and emotions while we shared a body… There were things I couldn't do, or say, because of her."
-    moxie "嗯…我们共享一个身体的时候，Morrigan对我的思想和情绪有很大的影响。她让我不能做，不能提及一些事情。"
+    moxie "嗯…我们共享一个身体的时候，Morrigan对我的思想和情绪有很大的影响...她能影响我的言行，让我不能做一些特定的事情，一些话也讲不出来。"
 
 # game/finalroute.rpy#L3232
 translate chinese finale_5fcf634b:
@@ -6998,7 +6998,7 @@ translate chinese finale_db7b11fd:
 translate chinese finale_65dd83f8:
 
     # moxie "Uhmm… It would seem I tricked you into sleeping with everyone, I'm sorry!"
-    moxie "嗯...说来好像是我骗你跟所有人上床的，对不起！"
+    moxie "嗯...说来好像是我骗你跟所有雌驹上床的，对不起！"
 
 # game/finalroute.rpy#L3243
 translate chinese finale_13922b8c:
@@ -7010,7 +7010,7 @@ translate chinese finale_13922b8c:
 translate chinese finale_9756f153:
 
     # moxie "Eeee, Morrigan’s influence kept making me ask you to sleep around for her brainwashing purposes, but that’s not like me at all!"
-    moxie "Eeee, Morrigan’s influence kept making me ask you to sleep around for her brainwashing purposes, but that’s not like me at all!"
+    moxie "呃，因为Morrigan洗脑作梗，所以我一直在鼓励你和其他雌驹滚床单，但我平常不会这个样子！"
 
 # game/finalroute.rpy#L3246
 translate chinese finale_3552a99a:
@@ -7028,7 +7028,7 @@ translate chinese finale_b378e4ae:
 translate chinese finale_ea71ff27:
 
     # moxie "It's pretty hot getting to sleep with such a stud, but that's just my biology talking."
-    moxie "跟这样的帅哥在床上睡觉挺热的，但这只是生理上的正常反应。"
+    moxie "跟你这样的帅哥在床上睡觉想想就刺激，但这只是生理上的正常反应。"
 
 # game/finalroute.rpy#L3252
 translate chinese finale_b8f554cd:
@@ -7070,7 +7070,7 @@ translate chinese finale_1ec3ad94:
 translate chinese finale_ed0004d2:
 
     # moxie "She really wanted a male to sleep with and use as a pawn too… I guess that muddies the idea, it could have been Morrigan’s extremely powerful and specific desire that created you, rather than me."
-    moxie "She really wanted a male to sleep with and use as a pawn too… I guess that muddies the idea, it could have been Morrigan’s extremely powerful and specific desire that created you, rather than me."
+    moxie "她十分渴求一位爱侣，和一枚棋子...这种要求让思想变得十分扭曲，可能是Morrigan强烈而又具体的欲望让你来到这个世界的，而不是我。"
 
 # game/finalroute.rpy#L3262
 translate chinese finale_b92ed60a:
@@ -7106,175 +7106,175 @@ translate chinese finale_f1cf1099:
 translate chinese finale_1964a79e:
 
     # moxie "I wannaaaaaa, I really wannnaa… Fuck!"
-    moxie "我想——！我真！的！很想！…干你!"
+    moxie "我想——！我真！的！很想！…来一炮!"
 
 # game/finalroute.rpy#L3270
 translate chinese finale_402dddf9:
 
     # "She may be exhausted, but she always has enough energy reserved for sex."
-    "She may be exhausted, but she always has enough energy reserved for sex."
+    "她还真是身疲，那个却心不疲。"
 
 # game/finalroute.rpy#L3271
 translate chinese finale_7f43e033:
 
     # mc "Oh yeah? If you have the energy, show me how alicorn Moxie does it."
-    mc "Oh yeah? If you have the energy, show me how alicorn Moxie does it."
+    mc "哦真的吗？如果你已经掌握了天角兽的力量，那就让我好好见识见识天角兽Moxie有些什么本事。"
 
 # game/finalroute.rpy#L3273
 translate chinese finale_b769f9a5:
 
     # moxie "Ohoho, I will! I’ll make all the trouble you’ve gone through worth it."
-    moxie "Ohoho, I will! I’ll make all the trouble you’ve gone through worth it."
+    moxie "嗷嗷，我会滴！人家会好好报答你所有的英雄壮举。"
 
 # game/finalroute.rpy#L3274
 translate chinese finale_bcd25358:
 
     # mc "Uhm, could you use a spell to make it feel better? I’ve had so much sex today that my little dude is feeling tired."
-    mc "Uhm, could you use a spell to make it feel better? I’ve had so much sex today that my little dude is feeling tired."
+    mc "嗯，你有什么咒语之类的能用用吗？今天我滚的床单不少了，小兄弟有点抬不起头。"
 
 # game/finalroute.rpy#L3276
 translate chinese finale_c9e0dfe6:
 
     # moxie "Ah, right… I forgot that you basically fucked {i}everyone{/i} today…"
-    moxie "Ah, right… I forgot that you basically fucked {i}everyone{/i} today…"
+    moxie "啊，对哦...我差点忘了，你今天把{i}大家{/i}都上了个遍......"
 
 # game/finalroute.rpy#L3278
 translate chinese finale_cc56826f:
 
     # moxie "Damn, you really did turn out to become that Arcadian alpha I mentioned when we first met."
-    moxie "Damn, you really did turn out to become that Arcadian alpha I mentioned when we first met."
+    moxie "我去，你还真成了你刚来这个世界时，我跟你讲的Arcadia父系氏族头领。"
 
 # game/finalroute.rpy#L3279
 translate chinese finale_1761f4f4:
 
     # moxie "Hmm, maybe this spell will work on men too! It’s one that I use on my clit sometimes when masturbating; it usually makes it feel a little better."
-    moxie "Hmm, maybe this spell will work on men too! It’s one that I use on my clit sometimes when masturbating; it usually makes it feel a little better."
+    moxie "嗯，我试试这个咒语会不会对男性有效！我有时候自慰会用在阴蒂上；感觉会好一些。"
 
 # game/finalroute.rpy#L3283
 translate chinese finale_27671ae0:
 
     # "With a glow of Moxie’s horn, a spell is put upon my cock."
-    "With a glow of Moxie’s horn, a spell is put upon my cock."
+    "Moxie的角一阵闪光，就对我的小兄弟施起了法。"
 
 # game/finalroute.rpy#L3284
 translate chinese finale_4832d1be:
 
     # "A building sensation rises in me, and the blood rapidly flows to my nether."
-    "A building sensation rises in me, and the blood rapidly flows to my nether."
+    "一种性奋的感觉又萦绕心头，血液快速涌向下体。"
 
 # game/finalroute.rpy#L3285
 translate chinese finale_acc920bc:
 
     # mc "It feels… amazing!"
-    mc "It feels… amazing!"
+    mc "这感觉...给力！"
 
 # game/finalroute.rpy#L3286
 translate chinese finale_8d43668f:
 
     # "It’s like my cock has been blessed with a threshold of immense pleasure. With the effortless spell, Moxie has left my cock throbbing and dripping with precum in ten seconds flat."
-    "It’s like my cock has been blessed with a threshold of immense pleasure. With the effortless spell, Moxie has left my cock throbbing and dripping with precum in ten seconds flat."
+    "好似我的肉棒瞬间升入极乐世界似的。Moxie一个小小的咒语，十秒内就让我的肉棒再次抬头挺胸，滴出前列腺液了。"
 
 # game/finalroute.rpy#L3287
 translate chinese finale_2c47b33f:
 
     # "It was so pleasureful I could almost lose myself to the building lust, it was difficult not to immediately masturbate or pin Moxie down and fuck; but I resisted because I’m a good boy."
-    "It was so pleasureful I could almost lose myself to the building lust, it was difficult not to immediately masturbate or pin Moxie down and fuck; but I resisted because I’m a good boy."
+    "我爱死这沉溺于淫欲中的感觉了，一股打手冲和把Moxie压在身下一顿狠干的冲动在心中挥之不去；不过我还是忍住了，毕竟要做个乖宝宝才是。"
 
 # game/finalroute.rpy#L3289
 translate chinese finale_2ae24ac3:
 
     # moxie "Oohh, it’s not usually this good… Must be my alicorn touch, hehe."
-    moxie "Oohh, it’s not usually this good… Must be my alicorn touch, hehe."
+    moxie "哦，以前不会有这般奇效的...肯定是因为人家现在是天角兽了，嘿嘿。"
 
 # game/finalroute.rpy#L3290
 translate chinese finale_4e7cc099:
 
     # moxie "I’m gonna try it on me too."
-    moxie "I’m gonna try it on me too."
+    moxie "我也要试试。"
 
 # game/finalroute.rpy#L3293
 translate chinese finale_aa8b037f:
 
     # "Moxie casts another spell and rubs her pussy a little. She’s already wet, but that’s not exactly a surprise to me anymore."
-    "Moxie casts another spell and rubs her pussy a little. She’s already wet, but that’s not exactly a surprise to me anymore."
+    "Moxie也对自己施放了咒语，开始摩擦桃花源口。她已经潮水泛滥了，我对此表示习以为常。"
 
 # game/finalroute.rpy#L3295
 translate chinese finale_922105f0:
 
     # moxie "Woah… WOAH!! That’s way better than usua- ahhh, haaahhh, oh gosh!"
-    moxie "Woah… WOAH!! That’s way better than usua- ahhh, haaahhh, oh gosh!"
+    moxie "哇...哇啊！这可比以前给劲儿多，啊，哈啊啊，哦天啊！"
 
 # game/finalroute.rpy#L3296
 translate chinese finale_6ab5b8ce:
 
     # moxie "It’s like, it’s like a vibrator is being pressed on my clit, mmmmphh!"
-    moxie "It’s like, it’s like a vibrator is being pressed on my clit, mmmmphh!"
+    moxie "描述一下，就像一个震动按摩器压在我的阴蒂上一样，嗯嗯嗯呼！"
 
 # game/finalroute.rpy#L3297
 translate chinese finale_d2bf93c1:
 
     # "Moxie lecherously lifts her legs up; spreading eagle. My cock stiffens and pulses in response."
-    "Moxie lecherously lifts her legs up; spreading eagle. My cock stiffens and pulses in response."
+    "Moxie用挑逗的动作抬起自己的玉腿；又急不可耐地分开。我的肉棒见了此情此景，开始变得更加肿胀，蠢蠢欲动。"
 
 # game/finalroute.rpy#L3299
 translate chinese finale_6dee0170:
 
     # moxie "Is it just meee, or does this spell really make you wanna get fuuucked?"
-    moxie "Is it just meee, or does this spell really make you wanna get fuuucked?"
+    moxie "是我，还是我的咒语让你情欲难抑的？"
 
 # game/finalroute.rpy#L3300
 translate chinese finale_d0267dde:
 
     # mc "Hmm, yeah… There is a slight itch in my shaft that makes me really want to fill up a pussy."
-    mc "Hmm, yeah… There is a slight itch in my shaft that makes me really want to fill up a pussy."
+    mc "嗯，没错...我的长枪现在痒得很，想找个小穴好好磨磨。"
 
 # game/finalroute.rpy#L3303
 translate chinese finale_f4c9c1c8:
 
     # "Moxie falls back onto the bed and spreads her legs."
-    "Moxie falls back onto the bed and spreads her legs."
+    "Moxie往床上一倒，玉腿分开。"
 
 # game/finalroute.rpy#L3304
 translate chinese finale_50a81fbc:
 
     # moxie "Oh really? That’s perfect, because I feel so empty right now…"
-    moxie "Oh really? That’s perfect, because I feel so empty right now…"
+    moxie "别撒谎哦？这样正好，因为人家现在也饥渴难耐，下面想要东西塞进去......"
 
 # game/finalroute.rpy#L3305
 translate chinese finale_4ca59e7f:
 
     # "As I get into position, her tail rises up; obscuring her pussy."
-    "As I get into position, her tail rises up; obscuring her pussy."
+    "在我摆好姿势准备插入时，她的尾巴突然抬起；遮住了妙曼的桃花源口。"
 
 # game/finalroute.rpy#L3306
 translate chinese finale_43e892ba:
 
     # "With a light giggle her tail then playfully swipes at me, bristles of her hair softly rubbing over my tense shaft."
-    "With a light giggle her tail then playfully swipes at me, bristles of her hair softly rubbing over my tense shaft."
+    "随后她莞尔一笑，尾巴又玩味地朝我打来，头发在我的棒身上轻轻摩挲。"
 
 # game/finalroute.rpy#L3307
 translate chinese finale_0be2081b:
 
     # mc "Damn, this spell you’ve put on me made even that feel good."
-    mc "Damn, this spell you’ve put on me made even that feel good."
+    mc "妈耶，你的这个咒语让我舒服得要命。"
 
 # game/finalroute.rpy#L3308
 translate chinese finale_1140edca:
 
     # moxie "Ahah, don’t cum yet!"
-    moxie "Ahah, don’t cum yet!"
+    moxie "啊哈，别那么早就射啊！"
 
 # game/finalroute.rpy#L3309
 translate chinese finale_74436719:
 
     # "I get a nice long view at her soaked pussy, her cute clit twitching as I align my cock with her moist cunt."
-    "I get a nice long view at her soaked pussy, her cute clit twitching as I align my cock with her moist cunt."
+    "我远远地欣赏着她水漫金山的穴口，分红的小豆豆在我把肉棒对准穴口时轻轻地颤抖着。"
 
 # game/finalroute.rpy#L3312
 translate chinese finale_be7914c8:
 
     # "I press my girthy cock against her entrance and it sinks into the warmth and wetness. It’s immensely pleasurable around my throbbing member, almost too pleasurable as her insides squeeze and suck my magically enhanced cock."
-    "I press my girthy cock against her entrance and it sinks into the warmth and wetness. It’s immensely pleasurable around my throbbing member, almost too pleasurable as her insides squeeze and suck my magically enhanced cock."
+    "我把已经倍感胀痛的肉棒塞进了她的桃花源口，她则用温暖湿润的穴肉欢迎着我。肉壁紧紧吸裹着我被魔法增大后的肉棒，里面的感觉简直不要太爽。"
 
 # game/finalroute.rpy#L3319
 translate chinese finale_ea5a8826:
@@ -7286,241 +7286,241 @@ translate chinese finale_ea5a8826:
 translate chinese finale_a013aa42:
 
     # "My guard was down, and the overwhelming pleasure caused me to ejaculate almost immediately upon penetrating her tight pussy. I hadn’t realized my cock was this sensitive from the spell."
-    "My guard was down, and the overwhelming pleasure caused me to ejaculate almost immediately upon penetrating her tight pussy. I hadn’t realized my cock was this sensitive from the spell."
+    "我的精关瞬间崩溃，压倒性的快感让我在插进她小穴的一瞬就一泻千里。适时我才意识到在被施法过后我的肉棒居然这么敏感。"
 
 # game/finalroute.rpy#L3328
 translate chinese finale_475d9f69:
 
     # moxie "Ahh, noooo! I told you not to cuuuum! That was way too soon!!"
-    moxie "Ahh, noooo! I told you not to cuuuum! That was way too soon!!"
+    moxie "啊，别啊！人家不是告诉过你不要这么快就射嘛！这才刚插进去呢！"
 
 # game/finalroute.rpy#L3329
 translate chinese finale_bb64932a:
 
     # mc "It’s your spells fault! Oh, hang on… *Throb, throb* I think I can keep going."
-    mc "It’s your spells fault! Oh, hang on… *Throb, throb* I think I can keep going."
+    mc "这锅得你的咒语来背！哦，别急...*悸动，悸动*我还没软，能继续。"
 
 # game/finalroute.rpy#L3330
 translate chinese finale_9c05c379:
 
     # moxie "Niiiiiceee."
-    moxie "Niiiiiceee."
+    moxie "女子耳阝。"
 
 # game/finalroute.rpy#L3333
 translate chinese finale_33ed9b73:
 
     # "I start to hump her perfect, dripping pussy. Schlicking and sliding back and forth with ease as the cum froths, bubbles and mixes with her juices."
-    "I start to hump her perfect, dripping pussy. Schlicking and sliding back and forth with ease as the cum froths, bubbles and mixes with her juices."
+    "我开始抽插她满是爱液的名器。她的爱液与我之前射出的浓精混杂在一起，形成了湿滑的液体和泡泡，我能更顺滑地挺动和抽插。"
 
 # game/finalroute.rpy#L3334
 translate chinese finale_ad9e3695:
 
     # "Her pussy feels even hotter and wetter than usual, occasional contractions deep inside intensify the pleasure."
-    "Her pussy feels even hotter and wetter than usual, occasional contractions deep inside intensify the pleasure."
+    "她的蜜穴比过去更加温润和潮湿，肉壁偶尔会夹紧一次，让这种快感更甚。"
 
 # game/finalroute.rpy#L3336
 translate chinese finale_ca637e4c:
 
     # moxie "Ahhhahahaieee, I-I’m coming, a-already! Ahhaahhh, ooohhh, mmmphhh!"
-    moxie "Ahhhahahaieee, I-I’m coming, a-already! Ahhaahhh, ooohhh, mmmphhh!"
+    moxie "啊哈啊啊啊欸欸，我，我要去了，已，已经去了！啊哈啊啊啊，哦哦，嗯！"
 
 # game/finalroute.rpy#L3337
 translate chinese finale_54e5a62a:
 
     # "Moxie moans and squirms as a full-body orgasm racks her with pleasure."
-    "Moxie moans and squirms as a full-body orgasm racks her with pleasure."
+    "一股全身性的高潮让Moxie的娇躯不住地扭动和颤抖。"
 
 # game/finalroute.rpy#L3338
 translate chinese finale_831a56c8:
 
     # "Her spell seems to have dramatically increased the baseline of pleasure that we experience, so we’re both stuck in a state of near-orgasm pleasure until it wears off."
-    "Her spell seems to have dramatically increased the baseline of pleasure that we experience, so we’re both stuck in a state of near-orgasm pleasure until it wears off."
+    "她的这个咒语貌似都让我们两个的最低快感拔高到了一个恐怖的位置，所以我们两个都处在一个临近高潮的状态，到法术持续时间过了才算罢休。"
 
 # game/finalroute.rpy#L3339
 translate chinese finale_2bb8b131:
 
     # "Sixty seconds into our passionate rutting, I can already feel my second orgasm boiling up."
-    "Sixty seconds into our passionate rutting, I can already feel my second orgasm boiling up."
+    "离我又开始猛烈抽插不过一分钟而已，我感觉到我又要射了。"
 
 # game/finalroute.rpy#L3341
 translate chinese finale_c750e2c4:
 
     # moxie "Oooofft, ghhh, I-I made the spell too strong, we’re totally gonna lose our minds!"
-    moxie "Oooofft, ghhh, I-I made the spell too strong, we’re totally gonna lose our minds!"
+    moxie "哦哦哦呼，咕啊，我，我的施的法好像过头了，现在咱们俩都快丧失理智了！"
 
 # game/finalroute.rpy#L3342
 translate chinese finale_291193f2:
 
     # "Her body ignores her concern as her hips continually wriggle and push into me as a means to maximise the pleasure she receives."
-    "Her body ignores her concern as her hips continually wriggle and push into me as a means to maximise the pleasure she receives."
+    "她的娇躯则完全无视她的担忧，非常诚实地扭动着，迎合我的抽送，让自己获取更强烈的快感。"
 
 # game/finalroute.rpy#L3343
 translate chinese finale_d48f1c52:
 
     # "With both of our bodies dancing in tune, another orgasm consumes my body and mind with euphoria."
-    "With both of our bodies dancing in tune, another orgasm consumes my body and mind with euphoria."
+    "我们两个的身体都随着欢愉翩翩起舞，另一阵袭来的高潮和快感几乎将我们吞没。"
 
 # game/finalroute.rpy#L3348
 translate chinese finale_066de764:
 
     # moxie "Aaahhh, aaahhaaahh, y-you’re c-ccuumminngg?!? Ahhh, agains?!"
-    moxie "Aaahhh, aaahhaaahh, y-you’re c-ccuumminngg?!? Ahhh, agains?!"
+    moxie "啊啊啊，啊啊哈啊啊啊，你，你射，射了？！？啊，又射了？！"
 
 # game/finalroute.rpy#L3353
 translate chinese finale_51ea62f5:
 
     # "Moxie’s already cum-filled pussy is repeatedly splattered in excess, some of the jism filling her womb, some of it leaking out at our point of connection."
-    "Moxie’s already cum-filled pussy is repeatedly splattered in excess, some of the jism filling her womb, some of it leaking out at our point of connection."
+    "Moxie已经被浓精填满的小穴又迎来了一轮爱的浇灌，一些新的浓精射入了她的子宫，另外一些从我们的交合处溢出。"
 
 # game/finalroute.rpy#L3354
 translate chinese finale_11eeaccb:
 
     # "Without missing a beat, I keep fucking my lover. She lustfully moans throughout, high-pitched squeaks of enjoyment and pleasure constantly spilling from her lips."
-    "Without missing a beat, I keep fucking my lover. She lustfully moans throughout, high-pitched squeaks of enjoyment and pleasure constantly spilling from her lips."
+    "我继续对着爱侣抽送着，一刻也不打算停歇。她淫靡的叫床声就一直没停过，亢奋地高叫和愉悦的呻吟声不断地从她的朱唇中送出。"
 
 # game/finalroute.rpy#L3355
 translate chinese finale_99d9dbe0:
 
     # "She writhes and pants, her pristine blue fur growing moist with sweat. At this point she can barely form sentences between her moans."
-    "She writhes and pants, her pristine blue fur growing moist with sweat. At this point she can barely form sentences between her moans."
+    "她一边扭动着身体，一边大口大口喘着气。她洁净的蓝色毛发也被汗水浸湿了。此时的她，只能在两次呻吟之间的空隙勉强说出几个字了"
 
 # game/finalroute.rpy#L3357
 translate chinese finale_198f4848:
 
     # moxie "Ooohh, I-I’aahmmm, aahhhh, I-ahh! C-Comminiggghh, agaaainn?! Ahhahaahhh!"
-    moxie "Ooohh, I-I’aahmmm, aahhhh, I-ahh! C-Comminiggghh, agaaainn?! Ahhahaahhh!"
+    moxie "哦 ~ 我……我……嗯啊啊，啊啊啊，我……啊！我，我又……又去了吗？！啊啊啊……！"
 
 # game/finalroute.rpy#L3358
 translate chinese finale_e2c9f351:
 
     # "Yep, she’s completely inarticulate as she loses herself in the ecstasy of her second orgasm."
-    "Yep, she’s completely inarticulate as she loses herself in the ecstasy of her second orgasm."
+    "的确，在经历了第二次高潮的狂喜后，她完全迷失了自我，连说话也已经语无伦次了"
 
 # game/finalroute.rpy#L3359
 translate chinese finale_a7f401f9:
 
     # "I thrust hard into her clenching pussy, it squeezes and sucks around my cock relentlessly."
-    "I thrust hard into her clenching pussy, it squeezes and sucks around my cock relentlessly."
+    "我又用力抽插着她紧缩的小穴，紧致的肉壁也在不停挤压着我的肉棒。"
 
 # game/finalroute.rpy#L3360
 translate chinese finale_e5a752aa:
 
     # "Squirts of her juices drip and dribble from her thighs with each body-rocking impact."
-    "Squirts of her juices drip and dribble from her thighs with each body-rocking impact."
+    "随着彼此之间每次身体的碰撞，蜜汁从她的蜜穴中喷涌而出，然后顺着大腿流了下来。"
 
 # game/finalroute.rpy#L3362
 translate chinese finale_e23f7e91:
 
     # moxie "F-Fuck, ahhhhh, ahhh… It’s so good! I want more! Ahhhh, fuck me more!"
-    moxie "F-Fuck, ahhhhh, ahhh… It’s so good! I want more! Ahhhh, fuck me more!"
+    moxie "操……操，啊啊啊，啊……要死了！我还要！啊，再来狂操我吧！"
 
 # game/finalroute.rpy#L3363
 translate chinese finale_1a8e8004:
 
     # "I fuck her faster, pounding her insides with every ounce of strength my body can muster. Truly my fatigue will override my pleasure and slow me down at this rate."
-    "I fuck her faster, pounding her insides with every ounce of strength my body can muster. Truly my fatigue will override my pleasure and slow me down at this rate."
+    "我加快了抽插速度，用尽我身体所能迸发出的每一份力量向她的肉缝中插去。如果我一直用这种速度抽插下去，疲劳无疑迟早会战胜快感。"
 
 # game/finalroute.rpy#L3364
 translate chinese finale_a1c8bd79:
 
     # "Her hips rock with just as much vigour as mine, each of us fucking hard, fast and desperate."
-    "Her hips rock with just as much vigour as mine, each of us fucking hard, fast and desperate."
+    "她的腰也在和我做同样的努力，都更加卖力地迎合对方，速度越来越快，越来越疯狂。"
 
 # game/finalroute.rpy#L3365
 translate chinese finale_9b95fda0:
 
     # "I can feel my cock twitching again, her consistently clenching pussy combined with my thrusts is too much to endure."
-    "I can feel my cock twitching again, her consistently clenching pussy combined with my thrusts is too much to endure."
+    "我可以感觉到自己的肉棒又开始悸动了。我的抽插，加上她小穴的窒息般的挤压，让我难以再继续坚持下去了。"
 
 # game/finalroute.rpy#L3370
 translate chinese finale_311919ee:
 
     # "Cum erupts from my cock, glazing her hot pussy in complete white; her pussy and womb completely stuffed with my semen."
-    "Cum erupts from my cock, glazing her hot pussy in complete white; her pussy and womb completely stuffed with my semen."
+    "于是，精液喷射而出，不仅注满了她的阴道和子宫，而且还将她那滚烫的蜜穴彻底染成了乳白色。"
 
 # game/finalroute.rpy#L3376
 translate chinese finale_32bc9190:
 
     # "Moxie has the chance to indulge in another climax too, her body thrashing around wildly; lost in control by an explosive orgasm."
-    "Moxie has the chance to indulge in another climax too, her body thrashing around wildly; lost in control by an explosive orgasm."
+    "Moxie也将迎来自己的高潮，身体疯狂地抽动着；爆发的高潮彻底让她的身体失去了控制。"
 
 # game/finalroute.rpy#L3377
 translate chinese finale_63c0b019:
 
     # "Too exhausted to continue thrusting, I fall to the side completely spent; my cock still twitching."
-    "Too exhausted to continue thrusting, I fall to the side completely spent; my cock still twitching."
+    "我累极了，没办法再继续插下去了，只能偃旗息鼓，放弃抽插，倒在一旁；不过肉棒仍然在悸动着。"
 
 # game/finalroute.rpy#L3379
 translate chinese finale_d4fd41c6:
 
     # moxie "Haahh… I don’t know my own power… *Pant, pant*"
-    moxie "Haahh… I don’t know my own power… *Pant, pant*"
+    moxie "哈啊啊啊...我还无法准确拿捏自己的力量...*喘气，喘气*"
 
 # game/finalroute.rpy#L3380
 translate chinese finale_3842ab30:
 
     # mc "Learn a spell to keep us both cool and full of energy next time."
-    mc "Learn a spell to keep us both cool and full of energy next time."
+    mc "你最好学个新法术，让咱们俩下次能干劲十足。"
 
 # game/finalroute.rpy#L3382
 translate chinese finale_48384234:
 
     # mc "Woah-!"
-    mc "Woah-!"
+    mc "哇-！"
 
 # game/finalroute.rpy#L3387
 translate chinese finale_0d614e5f:
 
     # "Clearly not completely satisfied with the pounding, Moxie’s lips wrap around my cock. Her tongue eagerly slurps up all the residue cum."
-    "Clearly not completely satisfied with the pounding, Moxie’s lips wrap around my cock. Her tongue eagerly slurps up all the residue cum."
+    "显然之前的颠鸾倒凤是不足以让Moxie尽兴的，她张开玉嘴，含住了我的肉棒。香舌贪婪地舔舐吸吮着残留在上面的阳精。"
 
 # game/finalroute.rpy#L3389
 translate chinese finale_28da0431:
 
     # moxie "Mmphh, moreee cummiessshhh plsshh!"
-    moxie "Mmphh, moreee cummiessshhh plsshh!"
+    moxie "嗯，哉~射~多~点~嘛！"
 
 # game/finalroute.rpy#L3391
 translate chinese finale_607ae9ec:
 
     # "Her tongue swirls round and round my throbbing glans as she tries to milk me for another orgasm."
-    "Her tongue swirls round and round my throbbing glans as she tries to milk me for another orgasm."
+    "她开始为我口交，舌头在我悸动的龟头上打转游走，想让我再射一次。"
 
 # game/finalroute.rpy#L3392
 translate chinese finale_0b343161:
 
     # "The mare’s hand still between her legs, fervently rubbing in a near-perpetual state of orgasm."
-    "The mare’s hand still between her legs, fervently rubbing in a near-perpetual state of orgasm."
+    "这只雌驹的一只手仍然饥渴地停留在两腿之间，在近乎永久高潮的状态下继续摩擦着。"
 
 # game/finalroute.rpy#L3393
 translate chinese finale_0c99c7c7:
 
     # "With the addition of her other hand jacking me off, it takes almost no time at all for Moxie to push me to another orgasm."
-    "With the addition of her other hand jacking me off, it takes almost no time at all for Moxie to push me to another orgasm."
+    "另外一只手则撸动着我的棒身，这种刺激下Moxie让我又射只是分分钟的事情。"
 
 # game/finalroute.rpy#L3398
 translate chinese finale_85f82d99:
 
     # "Taking my cock deep in her mouth, she accepts the copious amounts of semen as it splashes against her throat."
-    "Taking my cock deep in her mouth, she accepts the copious amounts of semen as it splashes against her throat."
+    "她将我的肉棒深吞进喉中，在我的精液于深喉中喷射时，她几乎全盘接收。"
 
 # game/finalroute.rpy#L3409
 translate chinese finale_71a19435:
 
     # "Satisfied, she rolls to the side, masturbating into a stupor. Her hips bucking and thighs quivering as she seems to have yet another orgasm."
-    "Satisfied, she rolls to the side, masturbating into a stupor. Her hips bucking and thighs quivering as she seems to have yet another orgasm."
+    "这下她总算满意了，翻身去了一边，不过自慰的手还是没停下来，仍然在忘我地摩擦着私处。她的柳腰和大腿都抖个不停，似乎又高潮了。"
 
 # game/finalroute.rpy#L3410
 translate chinese finale_97cbf449:
 
     # "And then almost in a blink of the eye, the heightened rush of pleasure dissipates as my cock rapidly turns semi-erect and Moxie woozily sits up-right."
-    "And then almost in a blink of the eye, the heightened rush of pleasure dissipates as my cock rapidly turns semi-erect and Moxie woozily sits up-right."
+    "然后几乎是在弹指之间，我都小兄弟软了下来，Moxie也睡眼惺忪地坐了起来，强烈的快感烟消云散。"
 
 # game/finalroute.rpy#L3412
 translate chinese finale_6bac49b7:
 
     # moxie "Phew… *Pant* Sorry about that!"
-    moxie "Phew… *Pant* Sorry about that!"
+    moxie "呼~...*喘气*抱歉啦！"
 
 # game/finalroute.rpy#L3413
 translate chinese finale_e18456b9:
@@ -7532,31 +7532,31 @@ translate chinese finale_e18456b9:
 translate chinese finale_a9743e7c:
 
     # moxie "Well… it’s a masturbation spell, it’s only supposed to last five minutes. As you can probably guess, I accidentally turbo charged it with my new supa magic!"
-    moxie "Well… it’s a masturbation spell, it’s only supposed to last five minutes. As you can probably guess, I accidentally turbo charged it with my new supa magic!"
+    moxie "这个嘛...是自慰魔法啦，应该只能持续五分钟左右的。不过这次持续这么久的原因，你大概也能猜到，我的超能法力让这个法术的时间延长了那么亿点点！"
 
 # game/finalroute.rpy#L3417
 translate chinese finale_f983bbf5:
 
     # moxie "You sure came a lot… Are you feeling alright?"
-    moxie "You sure came a lot… Are you feeling alright?"
+    moxie "你确实射了好多...现在感觉如何？"
 
 # game/finalroute.rpy#L3418
 translate chinese finale_7328b34e:
 
     # mc "Hmm… Tired… Came 12 times today…"
-    mc "Hmm… Tired… Came 12 times today…"
+    mc "嗯...就一个字，累...我今天射了12发了......"
 
 # game/finalroute.rpy#L3422
 translate chinese finale_55b19793:
 
     # "Moxie doesn’t know whether to feel proud, guilty or satisfied as her face mixes and matches between the three emotions."
-    "Moxie doesn’t know whether to feel proud, guilty or satisfied as her face mixes and matches between the three emotions."
+    "Moxie不知自己是该觉得骄傲，愧疚还是满足才好，这三种情绪都混杂在她的脸上。"
 
 # game/finalroute.rpy#L3424
 translate chinese finale_f2d86dae:
 
     # "I don’t let that confusion remain for long, as I move in for the passionate kiss, which we carry under the blankets. With heads on pillows, we snuggle together in loving embrace until we drift off to sleep."
-    "I don’t let that confusion remain for long, as I move in for the passionate kiss, which we carry under the blankets. With heads on pillows, we snuggle together in loving embrace until we drift off to sleep."
+    "我们盖上了毛毯，这种奇怪的表情我可看不惯，被我一个热吻顺利打破。头靠在枕头上，我们互相依偎缠绵着彼此，进入甜美的梦乡。"
 
 # game/finalroute.rpy#L3426
 translate chinese finale_a20cefa7_1:
@@ -7598,7 +7598,7 @@ translate chinese finale_bc3cd427:
 translate chinese finale_cfa086cf:
 
     # "Leaving Aurora and Selene at 20 percent each, then Morrigan and Moxie at 30 percent each."
-    "Leaving Aurora and Selene at 20 percent each, then Morrigan and Moxie at 30 percent each."
+    "Aurora和Selene各有百分之二十，Morrigan和Moxie各有百分之三十。"
 
 # game/finalroute.rpy#L3436
 translate chinese finale_ae7753c5:
@@ -7754,7 +7754,7 @@ translate chinese finale_82b58f32:
 translate chinese finale_803d7097:
 
     # "What exactly is she implying? Hmm…"
-    "What exactly is she implying? Hmm…"
+    "她到底在暗示什么？嗯..."
 
 # game/finalroute.rpy#L3485
 translate chinese finale_a458afff:
@@ -7838,7 +7838,7 @@ translate chinese finale_4f9d41a3:
 translate chinese finale_1ee53003:
 
     # moxie "Of course! To be honest, I just want things to go back to normal as soon as possible."
-    moxie "Of course! To be honest, I just want things to go back to normal as soon as possible."
+    moxie "当然了！说实话，我只是希望一切能够尽快恢复正常。"
 
 # game/finalroute.rpy#L3515
 translate chinese finale_dba64008:

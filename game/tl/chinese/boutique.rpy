@@ -4616,13 +4616,13 @@ translate chinese melodyblowjob2_138cd897:
 translate chinese melodyblowjob2_bb6443b9:
 
     # "With each thrust I can feel myself getting closer to my orgasm, until finally she pushes me over the edge and I release my load into her mouth."
-    "每次我都能感觉到自己离高潮越来越近，直到最后她把我推到边缘，我把肉棒放进她的嘴里。"
+    "每一次吸吮都让我感觉自己离高潮越来越近了。最终，在她将我推向高潮一瞬间，我将精液全部射进了她的嘴里。"
 
 # game/boutique.rpy#L1352
 translate chinese melodyblowjob2_ce75e607:
 
     # "Until she finally pushes me to the limit, her tongue and hand cause me to start cumming into her mouth."
-    "直到她最后把我逼到极限，她的舌头和手使我的肉棒塞进了她的嘴里。"
+    "最终，在她用舌头和手将我逼到忍耐的极限时，我将精液射进了她的嘴里。"
 
 # game/boutique.rpy#L1357
 translate chinese melodyblowjob2_2f855060:
@@ -8744,7 +8744,7 @@ translate chinese rubyeveningmenu_31adc524:
 translate chinese rubyeveningmenu_5ab82cf6:
 
     # ruby "Sex with you is one thing, sex with an audience is peak happiness."
-    ruby "Sex with you is one thing, sex with an audience is peak happiness."
+    ruby "和你爱爱是一回事，但和观众爱爱可是一种顶级的享受。"
 
 # game/boutique.rpy#L2599
 translate chinese rubyeveningmenu_921ae09a:
@@ -8756,7 +8756,7 @@ translate chinese rubyeveningmenu_921ae09a:
 translate chinese rubyeveningmenu_4a290592:
 
     # ruby "Oh, and one more thing, we earned a lil' bit of cash doing that stream. Not as much as last time, but here's your share."
-    ruby "Oh, and one more thing, we earned a lil' bit of cash doing that stream. Not as much as last time, but here's your share."
+    ruby "哦，还有一件事，咱们靠直播赚到了些钱。虽然挣的没有上次多，但还是有你的那份。"
 
 # game/boutique.rpy#L2602
 translate chinese rubyeveningmenu_6e598490:
@@ -8792,7 +8792,7 @@ translate chinese rubyeveningmenu_087bf0fc:
 translate chinese rubyeveningmenu_9327f82c:
 
     # ruby "Hehe, we're so good that people would tune in to watch. Maybe next time we should do a camshow, what do you think?"
-    ruby "Hehe, we're so good that people would tune in to watch. Maybe next time we should do a camshow, what do you think?"
+    ruby "嘿嘿，咱们配合太牛了，观众肯定会来看咱们的直播的。下一次也许咱们可以办一个摄影展，你觉得呢？"
 
 # game/boutique.rpy#L2612
 translate chinese rubyeveningmenu_a3efe9b8_1:
@@ -8918,7 +8918,7 @@ translate chinese melodyeveningmenu_580f79ef:
 translate chinese melodyeveningmenu_bc989b1f:
 
     # melody "Having sex to climb up the career ladder is extremely common, and I won't be a part of that."
-    melody "Having sex to climb up the career ladder is extremely common, and I won't be a part of that."
+    melody "在事业上靠性和色上位的事相当普遍，可我不想这么干。"
 
 # game/boutique.rpy#L2661
 translate chinese melodyeveningmenu_6b9d99d4:
@@ -8996,7 +8996,7 @@ translate chinese melodyeveningmenu_38382547:
 translate chinese melodyeveningmenu_6039b8d2:
 
     # mc "I mean, do you like, get off on acting like that? Is it a fetish for you?"
-    mc "I mean, do you like, get off on acting like that? Is it a fetish for you?"
+    mc "我的意思是，你能不能……别再这样了？你是不是有什么癖好呢？"
 
 # game/boutique.rpy#L2682
 translate chinese melodyeveningmenu_1d3287db:
@@ -9062,7 +9062,7 @@ translate chinese melodyeveningmenu_9cb2f6e6:
 translate chinese melodyeveningmenu_d2bdc4fb:
 
     # melody "That's the only reason I had sex with you. Handjob, blowjob, whatever, I wouldn't have let you take my virginity unless I was absolutely sure."
-    melody "That's the only reason I had sex with you. Handjob, blowjob, whatever, I wouldn't have let you take my virginity unless I was absolutely sure."
+    melody "这就是我和你爱爱的唯一原因。不管是撸，还是口交，除非我做出了决定，否则我是不会让你破我的处女之身的。"
 
 # game/boutique.rpy#L2699
 translate chinese melodyeveningmenu_50214fe4:
@@ -9074,7 +9074,7 @@ translate chinese melodyeveningmenu_50214fe4:
 translate chinese melodyeveningmenu_340fbca6:
 
     # melody "I sure was, champ."
-    melody "I sure was, champ."
+    melody "我当然确定了，帅哥。"
 
 # game/boutique.rpy#L2702
 translate chinese melodyeveningmenu_5c7e94f4:
@@ -9098,7 +9098,7 @@ translate chinese melodyeveningmenu_7bdf8fe7:
 translate chinese melodyeveningmenu_64309a9e:
 
     # melody "Melody and worm, with benefits! Geheheh."
-    melody "Melody and worm, with benefits! Geheheh."
+    melody "Melody和小虫虫，一对好炮友！呃呵呵。"
 
 # game/boutique.rpy#L2708
 translate chinese melodyeveningmenu_9e6f4975:
@@ -9224,13 +9224,13 @@ translate chinese melodyeveningmenu_82523928:
 translate chinese melodyeveningmenu_e9b3942e:
 
     # melody "Ruby can always see through me though. She probably knew from the start that I was interested in you."
-    melody "Ruby can always see through me though. She probably knew from the start that I was interested in you."
+    melody "Ruby总能看透我的心思，她应该从一开始就已经知道我对你有意思了。"
 
 # game/boutique.rpy#L2740
 translate chinese melodyeveningmenu_e7a08c80:
 
     # melody "I don't know to what extent you realize this, but Ruby's a lot like me, but she keeps her thoughts to herself. She's dangerously sharp sometimes."
-    melody "I don't know to what extent you realize this, but Ruby's a lot like me, but she keeps her thoughts to herself. She's dangerously sharp sometimes."
+    melody "我不知道你是怎么认为的，但Ruby和我有很多相同点，可她不会把自己的想法表达出来，而且，她有时会特别尖锐。"
 
 # game/boutique.rpy#L2749
 translate chinese melodyeveningmenu_a32c5d48:
@@ -9242,7 +9242,7 @@ translate chinese melodyeveningmenu_a32c5d48:
 translate chinese melodyeveningmenu_e788b234:
 
     # mc "You gonna let that stop you, even after everything we've been through?"
-    mc "You gonna let that stop you, even after everything we've been through?"
+    mc "咱们已经经历过那么多事了，难道这点小事就让你退缩了吗？"
 
 # game/boutique.rpy#L2752
 translate chinese melodyeveningmenu_75645812:
@@ -9656,25 +9656,25 @@ translate chinese mspt1_4618d002:
 translate chinese mspt1_b6ef8d22:
 
     # "Graciously she speeds up, not sparing a second to tease me as her lips pull back and forth along my glans like a fucking motion."
-    "Graciously she speeds up, not sparing a second to tease me as her lips pull back and forth along my glans like a fucking motion."
+    "她缓缓地加快了速度，同时，她还和性交时的动作一样，用嘴唇反复吸吮着我的龟头，并不遗余力地挑逗着我。"
 
 # game/boutique.rpy#L2899
 translate chinese mspt1_138cd897:
 
     # "All whilst her tongue dances around the tip, overwhelming me with two distinctly pleasurable stimuli."
-    "All whilst her tongue dances around the tip, overwhelming me with two distinctly pleasurable stimuli."
+    "同时，她的舌头还一直在我的龟头上舞动着，在这两种完全不同的愉悦感的刺激之下，我已经彻底迷失了自我。"
 
 # game/boutique.rpy#L2900
 translate chinese mspt1_bb6443b9:
 
     # "With each thrust I can feel myself getting closer to my orgasm, until finally she pushes me over the edge and I release my load into her mouth."
-    "With each thrust I can feel myself getting closer to my orgasm, until finally she pushes me over the edge and I release my load into her mouth."
+    "每一次吸吮都让我感觉自己离高潮越来越近了。最终，在她将我推向高潮一瞬间，我将精液全部射进了她的嘴里。"
 
 # game/boutique.rpy#L2905
 translate chinese mspt1_ce75e607:
 
     # "Until she finally pushes me to the limit, her tongue and hand cause me to start cumming into her mouth."
-    "Until she finally pushes me to the limit, her tongue and hand cause me to start cumming into her mouth."
+    "最终，在她用舌头和手将我逼到忍耐的极限时，我将精液射进了她的嘴里。"
 
 # game/boutique.rpy#L2910
 translate chinese mspt1_2f855060:
@@ -9746,13 +9746,13 @@ translate chinese melodyeveningsex_cb4a8f82:
 translate chinese melodyeveningsex_be0c33fb:
 
     # "She lowers her muzzle over my cock and starts to suck and lick, within seconds my shaft engorges within her mouth until I'm fully erect and almost too big for her to handle."
-    "She lowers her muzzle over my cock and starts to suck and lick, within seconds my shaft engorges within her mouth until I'm fully erect and almost too big for her to handle."
+    "她低下头，将口部移动到了我肉棒的上方，随后开始了舔舐和吸吮。没过多久，我的肉棒便在她的嘴里膨胀起来。最终，当肉棒完全勃起后，她变得有些展架不住了。"
 
 # game/boutique.rpy#L2940
 translate chinese melodyeveningsex_213bd4bb:
 
     # melody "Mmphh, damn, I phorgot how big you were."
-    melody "Mmphh, damn, I phorgot how big you were."
+    melody "唔嗯，靠，我都忘了你这玩意的尺寸有这么大了。"
 
 # game/boutique.rpy#L2943
 translate chinese melodyeveningsex_788e9786:
@@ -9902,7 +9902,7 @@ translate chinese melodyeveningsex_6b0a2601:
 translate chinese melodyeveningsex_44e712a7:
 
     # melody "Ohh! Ahhh! You cheeky bastard! Ahh, ahhhh!"
-    melody "Ohh! Ahhh! You cheeky bastard! Ahh, ahhhh!"
+    melody "哦！啊啊啊！你个无耻的大混蛋！啊，啊啊啊！"
 
 # game/boutique.rpy#L2981
 translate chinese melodyeveningsex_a9e4f23d:

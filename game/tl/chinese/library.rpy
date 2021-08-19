@@ -12116,7 +12116,7 @@ translate chinese penelopework_742901db:
 translate chinese penelopework_388d53dc:
 
     # penelope "Like, an aggressively good fucking to just melt my brain."
-    penelope "就像一场激烈的做爱，只为让我的大脑融化。"
+    penelope "就像一场激烈的性爱，只为让我的大脑融化。"
 
 # game/library.rpy#L3544
 translate chinese penelopework_c5f14dda:

@@ -1580,13 +1580,13 @@ translate chinese moxiemissionary_e2c9f351:
 translate chinese moxiemissionary_a7f401f9:
 
     # "I thrust hard into her clenching pussy, it squeezes and sucks around my cock relentlessly."
-    "我又用力抽插着她紧缩的小穴，紧致的肉壁也在不停挤压着我的阴茎"
+    "我又用力抽插着她紧缩的小穴，紧致的肉壁也在不停挤压着我的肉棒。"
 
 # game/2evening%20moxie.rpy#L765
 translate chinese moxiemissionary_e5a752aa:
 
     # "Squirts of her juices drip and dribble from her thighs with each body-rocking impact."
-    "随着每一次身体之间的撞击，蜜汁从她的蜜穴中喷涌而出，然后顺着大腿流了下来"
+    "随着彼此之间每次身体的碰撞，蜜汁从她的蜜穴中喷涌而出，然后顺着大腿流了下来。"
 
 # game/2evening%20moxie.rpy#L766
 translate chinese moxiemissionary_e23f7e91:
@@ -1604,19 +1604,19 @@ translate chinese moxiemissionary_3bb7123d:
 translate chinese moxiemissionary_a1c8bd79:
 
     # "Her hips rock with just as much vigour as mine, each of us fucking hard, fast and desperate."
-    "和我一样，她的臀部也在用力摆动着。这让我们两人的动作越来越剧烈，也越来越快"
+    "她的腰也在和我做同样的努力，都更加卖力地迎合对方，速度越来越快，越来越疯狂。"
 
 # game/2evening%20moxie.rpy#L769
 translate chinese moxiemissionary_32110dba:
 
     # "I can feel my cock twitching, her consistently clenching pussy combined with my thrusts is too much to endure."
-    "我可以感觉到自己的肉棒在颤抖。我的抽插，加上她小穴的强烈挤压，让我难以再继续坚持下去了"
+    "我可以感觉到自己的肉棒又开始悸动了。我的抽插，加上她小穴的窒息般的挤压，让我难以再继续坚持下去了。"
 
 # game/2evening%20moxie.rpy#L774
 translate chinese moxiemissionary_311919ee:
 
     # "Cum erupts from my cock, glazing her hot pussy in complete white; her pussy and womb completely stuffed with my semen."
-    "于是，精液喷射而出，不仅注满了她的阴道和子宫，而且还将她那滚烫的蜜穴彻底染成了乳白色"
+    "于是，精液喷射而出，不仅注满了她的阴道和子宫，而且还将她那滚烫的蜜穴彻底染成了乳白色。"
 
 # game/2evening%20moxie.rpy#L780
 translate chinese moxiemissionary_f7e3e11f:
