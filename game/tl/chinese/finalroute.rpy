@@ -2294,7 +2294,7 @@ translate chinese cboutique_96b9bb11:
 translate chinese cboutique_495f1402:
 
     # melody "… B-But I don’t wanna stop! You jerk! Power abuser! Don’t ever order me to stop being myself!"
-    melody "…但-但是我不想停下来呀!你混蛋!暴君!我想毒蛇就毒蛇，别对我指手画脚的！"
+    melody "…但-但是我不想停下来呀!你混蛋!暴君!我想毒舌就毒舌，别对我指手画脚的！"
 
 # game/finalroute.rpy#L957
 translate chinese cboutique_7d60f65b:
@@ -7574,13 +7574,13 @@ translate chinese finale_3b6a1c28:
 translate chinese finale_e64e5a1d:
 
     # "Life returned to normalcy rather quickly, it was fortunate that Morrigan was defeated as promptly as she was."
-    "生活很快便恢复了正常，幸运的是Morrigan就像她之前一样很快被击败了。"
+    "幸好Morrigan这次也未能得逞，生活很快便恢复了平静。"
 
 # game/finalroute.rpy#L3432
 translate chinese finale_9e01733e:
 
     # "It’s still a shock to everyone that Lily and Moxie had become alicorns."
-    "Lily和Moxie已经变成了天角兽，这对每个人来说仍然是一件令人震惊的事。"
+    "Lily和Moxie已经变成了天角兽，每匹马都对此唏嘘不已。"
 
 # game/finalroute.rpy#L3433
 translate chinese finale_eb2a531f:
@@ -7604,49 +7604,49 @@ translate chinese finale_cfa086cf:
 translate chinese finale_ae7753c5:
 
     # "The power of the royal sisters was cripplingly crushed by over a half. Imagine having half your muscles deteriorate, or half your intelligence vanish."
-    "The power of the royal sisters was cripplingly crushed by over a half. Imagine having half your muscles deteriorate, or half your intelligence vanish."
+    "相当于皇家姐妹的力量直接没了一半。相当于自己一半的肌肉，一半的智力凭空蒸发，那种滋味不好受。"
 
 # game/finalroute.rpy#L3437
 translate chinese finale_8d69103f:
 
     # "And at their age it became increasingly difficult to get that power back, in the same way learning new things gets harder with age."
-    "And at their age it became increasingly difficult to get that power back, in the same way learning new things gets harder with age."
+    "在她们这个年龄，要恢复起力量来不太容易，跟我们物种年纪大了过后学东西也会变得吃力是一个道理。"
 
 # game/finalroute.rpy#L3438
 translate chinese finale_b08ba528:
 
     # "Moxie with her new surge of power was brimming with potential, it’d be a mistake not to invest in her."
-    "Moxie with her new surge of power was brimming with potential, it’d be a mistake not to invest in her."
+    "Moxie在这场权力更迭中算是个潜力股，傻子才不投她。"
 
 # game/finalroute.rpy#L3439
 translate chinese finale_705b26db:
 
     # "And making her an alicorn was the perfect theatrical boon needed to sell her on the gruelling road to becoming royalty."
-    "And making her an alicorn was the perfect theatrical boon needed to sell her on the gruelling road to becoming royalty."
+    "而且让她成为天角兽也算是一个顺水推舟，可以让她在成为王室成员的艰难道路上走得更顺利。"
 
 # game/finalroute.rpy#L3440
 translate chinese finale_aa99df80:
 
     # "That’s how Selene explained it to us anyway."
-    "That’s how Selene explained it to us anyway."
+    "Selene就是这么跟我们解释的。"
 
 # game/finalroute.rpy#L3445
 translate chinese finale_41be887b:
 
     # moxie "So… I’m gonna be a princess, or something?"
-    moxie "So… I’m gonna be a princess, or something?"
+    moxie "所以…我要当个公主什么的?"
 
 # game/finalroute.rpy#L3449
 translate chinese finale_09d3d0c8:
 
     # selene "Hmm, I haven’t thought about it. It’s not like we’re explicitly a monarchy…"
-    selene "Hmm, I haven’t thought about it. It’s not like we’re explicitly a monarchy…"
+    selene "嗯，我还没想过呢。我们又不是完全的君主政体……"
 
 # game/finalroute.rpy#L3450
 translate chinese finale_348d2a74:
 
     # mc "It would be weird if Moxie and Lily were both princesses at the same time."
-    mc "It would be weird if Moxie and Lily were both princesses at the same time."
+    mc "要是Moxie和Lily都成了公主，这不就尬起来了吗。"
 
 # game/finalroute.rpy#L3452
 translate chinese finale_5e1de350:
@@ -7658,13 +7658,13 @@ translate chinese finale_5e1de350:
 translate chinese finale_379419b5:
 
     # selene "True, I guess Lily would be a prime minister, and you’d be a deputy minister."
-    selene "True, I guess Lily would be a prime minister, and you’d be a deputy minister."
+    selene "确实，我猜Lily可以当个首相，而你会担任副部长。"
 
 # game/finalroute.rpy#L3455
 translate chinese finale_08a2ebab:
 
     # selene "Anyway, thanks for helping with the reconstruction; both of you."
-    selene "Anyway, thanks for helping with the reconstruction; both of you."
+    selene "无论如何，感谢你们俩帮助重建城堡。"
 
 # game/finalroute.rpy#L3457
 translate chinese finale_d26c682b:
@@ -7838,109 +7838,109 @@ translate chinese finale_4f9d41a3:
 translate chinese finale_1ee53003:
 
     # moxie "Of course! To be honest, I just want things to go back to normal as soon as possible."
-    moxie "当然了！说实话，我只是希望一切能够尽快恢复正常。"
+    moxie "当然了！说实话，我只是希望一切能够尽快回到正轨上。"
 
 # game/finalroute.rpy#L3515
 translate chinese finale_dba64008:
 
     # penelope "Thank you Moxie."
-    penelope "Thank you Moxie."
+    penelope "谢谢你Moxie。"
 
 # game/finalroute.rpy#L3517
 translate chinese finale_97e66758:
 
     # moxie "What's next for you? It can't be easy."
-    moxie "What's next for you? It can't be easy."
+    moxie "前路漫漫，你接下来准备干什么呢？"
 
 # game/finalroute.rpy#L3519
 translate chinese finale_317a7de2:
 
     # penelope "Well... Fingers crossed I can become an ambassador between Arcadia and the remaining morphling hive..."
-    penelope "Well... Fingers crossed I can become an ambassador between Arcadia and the remaining morphling hive..."
+    penelope "其实...我希望我能成为连接Arcadia和其余幻型灵巢穴的大使。"
 
 # game/finalroute.rpy#L3521
 translate chinese finale_48243270:
 
     # moxie "Yikes, that probably won't be easy!"
-    moxie "Yikes, that probably won't be easy!"
+    moxie "哎呀，那可不容易呀！"
 
 # game/finalroute.rpy#L3523
 translate chinese finale_1b77d9ff:
 
     # penelope "Eheh, probably not. But I think there will be plenty of jaded morphlings eager to reintegrate back into society. The hive has been impoverished for five years now."
-    penelope "Eheh, probably not. But I think there will be plenty of jaded morphlings eager to reintegrate back into society. The hive has been impoverished for five years now."
+    penelope "哈..哈..这确实有点异想天开了。但我认为会有很多厌倦了的幻型灵渴望重新融入社会。毕竟这个巢穴已经贫困五年之久了。"
 
 # game/finalroute.rpy#L3524
 translate chinese finale_671d2960:
 
     # penelope "Before that though, I’m going to apologize to Lily next, I think it’ll take a little longer for her to forgive me."
-    penelope "Before that though, I’m going to apologize to Lily next, I think it’ll take a little longer for her to forgive me."
+    penelope "不过，在那之前，我接下来要向Lily道歉，我想她需要更长的时间才能原谅我。"
 
 # game/finalroute.rpy#L3526
 translate chinese finale_3015faea:
 
     # moxie "Perhaps, but even Lily is becoming more open minded lately."
-    moxie "Perhaps, but even Lily is becoming more open minded lately."
+    moxie "也许吧，但就连Lily最近也变得更加开放包容了。"
 
 # game/finalroute.rpy#L3527
 translate chinese finale_b1b6fcb7:
 
     # moxie "As long as you behave, right?"
-    moxie "As long as you behave, right?"
+    moxie "只要你规矩点就行了，是吧？"
 
 # game/finalroute.rpy#L3529
 translate chinese finale_e4af12a4:
 
     # penelope "Yeah! I’m not going to cause any more trouble, I never wanted to! My simple actions were blown far beyond what I wanted."
-    penelope "Yeah! I’m not going to cause any more trouble, I never wanted to! My simple actions were blown far beyond what I wanted."
+    penelope "没错！我不想再惹麻烦了，绝对不会！我不会食言的。"
 
 # game/finalroute.rpy#L3531
 translate chinese finale_fd8119e3:
 
     # moxie "Very well then, otherwise I’ll have to kick your butt!"
-    moxie "Very well then, otherwise I’ll have to kick your butt!"
+    moxie "好吧，你要是敢食言我就踢你屁股！"
 
 # game/finalroute.rpy#L3533
 translate chinese finale_8e46f41d:
 
     # penelope "Mmh, it’s weird hearing that from you, but kinda nice. You’ll make a good princess in the future."
-    penelope "Mmh, it’s weird hearing that from you, but kinda nice. You’ll make a good princess in the future."
+    penelope "额，你嘴里竟然还能蹦出来这种话来，挺不错的嘛。你将来肯定会是个好公主。"
 
 # game/finalroute.rpy#L3535
 translate chinese finale_4090b72e:
 
     # moxie "P-Princess?! S-Sure…"
-    moxie "P-Princess?! S-Sure…"
+    moxie "公-公主？！肯-肯定的啦..."
 
 # game/finalroute.rpy#L3538
 translate chinese finale_e9319935:
 
     # penelope "Later, you two."
-    penelope "Later, you two."
+    penelope "你们俩，后会有期了。"
 
 # game/finalroute.rpy#L3539
 translate chinese finale_dfd0e56e:
 
     # mc "Take care."
-    mc "Take care."
+    mc "路上小心。"
 
 # game/finalroute.rpy#L3541
 translate chinese finale_45991f3f:
 
     # "Moxie and I leave the castle and city together as we return to the wagon."
-    "Moxie and I leave the castle and city together as we return to the wagon."
+    "我和Moxie一起离开城堡和城市，回到篷车上。"
 
 # game/finalroute.rpy#L3543
 translate chinese finale_17d69594:
 
     # moxie "Oh my gosshh, I’m still so exhausted! My wings are kinda aching, like a muscle I haven’t used before!"
-    moxie "Oh my gosshh, I’m still so exhausted! My wings are kinda aching, like a muscle I haven’t used before!"
+    moxie "天啦噜，太累了！我的翅膀有点痛，像一块我以前没用过的肌肉！"
 
 # game/finalroute.rpy#L3544
 translate chinese finale_ae7850bf:
 
     # mc "I guess that’s true? You should rest, your lessons with Selene start tomorrow."
-    mc "I guess that’s true? You should rest, your lessons with Selene start tomorrow."
+    mc "我想你确实没用过。你该休息了，明儿还要去上Selene的课呢。"
 
 # game/finalroute.rpy#L3546
 translate chinese finale_43892736:
@@ -7952,19 +7952,19 @@ translate chinese finale_43892736:
 translate chinese finale_51919316:
 
     # mc "You certainly have a lot to live up to."
-    mc "You certainly have a lot to live up to."
+    mc "你还有很多东西要去学呢。"
 
 # game/finalroute.rpy#L3549
 translate chinese finale_9788cf59:
 
     # moxie "But you’ll always be here, by my side. That’ll give me enough strength to push through anything!"
-    moxie "But you’ll always be here, by my side. That’ll give me enough strength to push through anything!"
+    moxie "但你会一直在我身边，给我足够的力量去战胜任何困难！"
 
 # game/finalroute.rpy#L3550
 translate chinese finale_e8fdb015:
 
     # mc "Just like you broke Morrigan’s control; you can do anything if you try hard enough, you’ve demonstrated that much."
-    mc "Just like you broke Morrigan’s control; you can do anything if you try hard enough, you’ve demonstrated that much."
+    mc "就像你打破了Morrigan的控制；你已经证明了，精诚所至金石为开。"
 
 # game/finalroute.rpy#L3552
 translate chinese finale_96eb0f77:
@@ -7976,31 +7976,31 @@ translate chinese finale_96eb0f77:
 translate chinese finale_ad1cf96f:
 
     # moxie "Oh, speaking of Morrigan’s influence! I think you’ve got an important job left to do!"
-    moxie "Oh, speaking of Morrigan’s influence! I think you’ve got an important job left to do!"
+    moxie "哦，说到Morrigan的影响！我觉得你还有个重要的工作去完成！"
 
 # game/finalroute.rpy#L3555
 translate chinese finale_db7b11fd_1:
 
     # mc "What’s that?"
-    mc "What’s that?"
+    mc "什么工作？"
 
 # game/finalroute.rpy#L3557
 translate chinese finale_fd39ff47:
 
     # moxie "There are still some girls you haven’t cured, aren’t there?"
-    moxie "There are still some girls you haven’t cured, aren’t there?"
+    moxie "还有一些女孩儿没有被你治好，对吧?"
 
 # game/finalroute.rpy#L3558
 translate chinese finale_c1f8dc34:
 
     # mc "Wait, you mean they’re still brainwashed?!"
-    mc "Wait, you mean they’re still brainwashed?!"
+    mc "等下，你是说她们还在被洗脑？！"
 
 # game/finalroute.rpy#L3560
 translate chinese finale_ab807107:
 
     # moxie "Well, no… they’re not brainwashed anymore, their eyes are back to normal, but they’re still technically under the influence of her magic."
-    moxie "Well, no… they’re not brainwashed anymore, their eyes are back to normal, but they’re still technically under the influence of her magic."
+    moxie "其实没有…她们不再被洗脑了，她们的眼睛恢复了正常，但严格来说，她们仍然受她魔法的影响。"
 
 # game/finalroute.rpy#L3561
 translate chinese finale_3a8c9121:
@@ -8012,13 +8012,13 @@ translate chinese finale_3a8c9121:
 translate chinese finale_5324a923:
 
     # moxie "Well, I’m gonna nap in the meantime, don't have too much fun!"
-    moxie "Well, I’m gonna nap in the meantime, don't have too much fun!"
+    moxie "那行，我要在此期间小睡一下，别玩过头了哟！"
 
 # game/finalroute.rpy#L3565
 translate chinese finale_076937b8:
 
     # "Congratulations, wielding your trusty cock, you’re the saviour of Arcadia! Don’t worry, you don’t really have to go and sleep with every other character to ‘cure’ them."
-    "Congratulations, wielding your trusty cock, you’re the saviour of Arcadia! Don’t worry, you don’t really have to go and sleep with every other character to ‘cure’ them."
+    "恭喜你，挥着你值得信赖的肉棒，你成为了Arcadia的救世主！别担心，你不需要真的去和其他角色睡觉来“治愈”他们。"
 
 # game/finalroute.rpy#L3566
 translate chinese finale_f1001080:

@@ -3428,7 +3428,7 @@ translate chinese ppclsex_ff0bac28:
 translate chinese ppclsex_6de2112e:
 
     # "Sheesh, just who's idea was this in the first place? Dawn's or Principal Aurora's?"
-    "Sheesh，这到底是谁的注意？Dawn还是Aurora校长？"
+    "Sheesh，这到底是谁的主意？Dawn还是Aurora校长？"
 
 # game/dawn.rpy#L1042
 translate chinese ppclsex_85989ad8:
@@ -3608,7 +3608,7 @@ translate chinese ppclsex_0b0f6c66:
 translate chinese ppclsex_bf06591b:
 
     # "The moment I feel her pussy clench around my shaft, my orgasm hits, exploding forcefully from my tip, borderline prematurely."
-    "当我感受到她的阴道紧紧夹住我的阳具是，我的高潮达到了极点，从龟头猛烈地射出，就像早泄一样。"
+    "当我感受到她的阴道紧紧夹住我的阳具时，我的高潮达到了极点，从龟头猛烈地射出，就像早泄一样。"
 
 # game/dawn.rpy#L1088
 translate chinese ppclsex_6c75a4fe:

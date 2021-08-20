@@ -4556,7 +4556,7 @@ translate chinese lorequeen_af8cc639:
 translate chinese lorequeen_f2a6272d:
 
     # mc "Alright, I’m leaving, bye-bye."
-    mc "好了，我要走了，再见。"
+    mc "好了，我要走了，拜~拜~咯。"
 
 # game/church.rpy#L1442
 translate chinese lorequeen_2de2d8e0:

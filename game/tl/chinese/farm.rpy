@@ -2324,7 +2324,7 @@ translate chinese farmvisit1_3871f872:
 translate chinese farmvisit1_ea6c808b:
 
     # "I lay on her sofa, feeling exhausted, my muscles are heavy and aching. Moxie comes over and joins me."
-    "我躺在沙发上，感到累极了，我浑身酸疼。这时Moxie过来跟我躺在了一起。"
+    "我躺在沙发上，浑身酸疼，感觉累极了。这时Moxie过来跟我躺在了一起。"
 
 # game/farm.rpy#L742
 translate chinese farmvisit1_8e9e77c2:

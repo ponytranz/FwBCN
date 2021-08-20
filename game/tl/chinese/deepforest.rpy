@@ -3368,7 +3368,7 @@ translate chinese werewolfhunting_f2711475:
 translate chinese werewolfhunting_15803032:
 
     # zo "You really are sweet. Hanging around you is always a treat."
-    zo "你真可爱，和你散步可真是一种享受呢。"
+    zo "你真是可爱，在你身边心情总是无比畅快。"
 
 # game/deepforest.rpy#L1082
 translate chinese werewolfhunting_0826c5f0:
@@ -3392,7 +3392,7 @@ translate chinese werewolfhunting_f47d717f:
 translate chinese werewolfhunting_15c2ec97:
 
     # "That spell should have just triggered the werewolf transformations of our targets. Lily is a helpful ally indeed. If it wasn’t for her we’d have to wait almost an entire month between each attempt."
-    "那个咒语应该已经触发我们的目标狼人现形了。Lily真是一个好帮手。要是没了她，我们下次的尝试可能还得等上个把月吧。"
+    "那个咒语应该已经让我们的目标狼人现形了。Lily真是一个好帮手。要是没了她，我们下次的尝试可能还得等上个把月吧。"
 
 # game/deepforest.rpy#L1090
 translate chinese werewolfhunting_a8e8e05a:

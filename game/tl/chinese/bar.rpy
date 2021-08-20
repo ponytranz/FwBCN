@@ -9632,7 +9632,7 @@ translate chinese rikuclimbingsex_2d1daf2a:
 translate chinese rikuclimbingsex_03f54b2c:
 
     # "To my surprise, as my fingers brush against her pussy, she’s already very wet."
-    "To my surprise, as my fingers brush against her pussy, she’s already very wet."
+    "没想到在我的手指抚弄她的小穴之前,她就已经湿了."
 
 # game/bar.rpy#L2772
 translate chinese rikuclimbingsex_095963f3:
@@ -9668,7 +9668,7 @@ translate chinese rikuclimbingsex_0c48d25d:
 translate chinese rikuclimbingsex_f3b5d645:
 
     # mc "Is the challenge too hard for you?"
-    mc "Is the challenge too hard for you?"
+    mc "这挑战对你来说太过艰难了吗?"
 
 # game/bar.rpy#L2780
 translate chinese rikuclimbingsex_2182b9f3:
@@ -9872,7 +9872,7 @@ translate chinese rikuclimbingsex_068b1aa9:
 translate chinese rikuclimbingsex_fe943978:
 
     # mc "Eh? H-Hey, how long have you been there?"
-    mc "Eh? H-Hey, how long have you been there?"
+    mc "呃？嘿-你到那里多久了？"
 
 # game/bar.rpy#L2848
 translate chinese rikuclimbingsex_2b15d617:
@@ -9884,7 +9884,7 @@ translate chinese rikuclimbingsex_2b15d617:
 translate chinese rikuclimbingsex_b26cfb6c:
 
     # mc "And you didn’t say anything?"
-    mc "And you didn’t say anything?"
+    mc "然后你什么也没说？"
 
 # game/bar.rpy#L2851
 translate chinese rikuclimbingsex_9967e863:
@@ -9920,145 +9920,145 @@ translate chinese rikuclimbingsex_1d285295:
 translate chinese rikuclimbingsex_8e415b9a:
 
     # blossom "Uhm anyway, who’s up for some more climbing?"
-    blossom "Uhm anyway, who’s up for some more climbing?"
+    blossom "嗯...不论如何,谁还想继续去爬山？"
 
 # game/bar.rpy#L2869
 translate chinese rikuclimbingsex_c63e4ca9:
 
     # "Later on..."
-    "Later on..."
+    "不久后..."
 
 # game/bar.rpy#L2876
 translate chinese barvisitevening_cecdf24b:
 
     # "Even at this time the bar is bright and busy."
-    "Even at this time the bar is bright and busy."
+    "即使到了这个时候，酒吧里仍然是灯红酒绿。"
 
 # game/bar.rpy#L2885
 translate chinese eveningbarmenu_302a2aa2:
 
     # "There's a cute smol dog girl sat alone at the bar, her legs swaying back and forth on the stool."
-    "There's a cute smol dog girl sat alone at the bar, her legs swaying back and forth on the stool."
+    "有一个可爱的狗娘独自坐在酒吧里，她的腿在凳子上来回摆动。"
 
 # game/bar.rpy#L2886
 translate chinese eveningbarmenu_399f5123:
 
     # "Looks like she's waiting for someone to approach her, I'll take my chance."
-    "Looks like she's waiting for someone to approach her, I'll take my chance."
+    "看起来她现在在等人接近她，我要把握住这个机会。"
 
 # game/bar.rpy#L2889
 translate chinese eveningbarmenu_c9538459:
 
     # mc "Hey, how's it going?"
-    mc "Hey, how's it going?"
+    mc "嘿，你最近过得怎么样？"
 
 # game/bar.rpy#L2890
 translate chinese eveningbarmenu_9828dca5:
 
     # doggirl "Ahh, just drinking by my lonesome. Care to join me?"
-    doggirl "Ahh, just drinking by my lonesome. Care to join me?"
+    doggirl "啊~就只是独自一人喝酒而已，想来一起喝一杯吗？"
 
 # game/bar.rpy#L2891
 translate chinese eveningbarmenu_22097edd:
 
     # mc "With a cute girl like yourself? I'd love to."
-    mc "With a cute girl like yourself? I'd love to."
+    mc "和像你这样可爱的女孩一起喝酒？荣幸至极。"
 
 # game/bar.rpy#L2892
 translate chinese eveningbarmenu_fb74a93c:
 
     # doggirl "How about a whiskey with cola? I'll buy two."
-    doggirl "How about a whiskey with cola? I'll buy two."
+    doggirl "来杯威士忌配可乐怎么样？你的我也算上。"
 
 # game/bar.rpy#L2893
 translate chinese eveningbarmenu_6960f28d:
 
     # mc "Ohh, that's very sweet of you. The name's [playername] by the way, when I saw you I just knew I had to say hi."
-    mc "Ohh, that's very sweet of you. The name's [playername] by the way, when I saw you I just knew I had to say hi."
+    mc "你真是太贴心了。顺便说一下，我的名字是[playername]，你一下子就把我的眼球吸引住了。"
 
 # game/bar.rpy#L2895
 translate chinese eveningbarmenu_00896310:
 
     # mc "Hey, fancy a drink? I'm buying."
-    mc "Hey, fancy a drink? I'm buying."
+    mc "嘿，想来一杯吗？我请客。"
 
 # game/bar.rpy#L2896
 translate chinese eveningbarmenu_4ec2bf90:
 
     # doggirl "Ohh! This is a surprise, how about a whiskey with cola?"
-    doggirl "Ohh! This is a surprise, how about a whiskey with cola?"
+    doggirl "哦！真想不到，来杯威士忌加可乐怎么样?"
 
 # game/bar.rpy#L2897
 translate chinese eveningbarmenu_468f1713:
 
     # mc "Awesome, I'll get two. The name's [playername] by the way, when I saw such a cute girl by herself I just knew I had to say hi."
-    mc "Awesome, I'll get two. The name's [playername] by the way, when I saw such a cute girl by herself I just knew I had to say hi."
+    mc "太棒了，给我来俩瓶。顺便说一下，我的名字是[playername]，你一下子就把我的眼球吸引住了。"
 
 # game/bar.rpy#L2899
 translate chinese eveningbarmenu_357bf0af:
 
     # doggirl "My name's Rosa, and it's not every day someone else does the approaching. Least not a charming man such as yourself."
-    doggirl "My name's Rosa, and it's not every day someone else does the approaching. Least not a charming man such as yourself."
+    doggirl "我叫Rosa，不是每天都有客来接近我的。尤其是像你这样有魅力的男性。"
 
 # game/bar.rpy#L2900
 translate chinese eveningbarmenu_018836ad:
 
     # mc "Really? I thought you'd be quite popular, you are beautiful."
-    mc "Really? I thought you'd be quite popular, you are beautiful."
+    mc "真的吗？你这么漂亮，我以为你会很抢手呢。"
 
 # game/bar.rpy#L2901
 translate chinese eveningbarmenu_2eb1ede0:
 
     # doggirl "Hehe... I'm not popular at all, the stallions around here are much more interested in mares."
-    doggirl "Hehe... I'm not popular at all, the stallions around here are much more interested in mares."
+    doggirl "呵呵…我可是一点都不抢手呢，这里的公马对母马要更感兴趣。"
 
 # game/bar.rpy#L2902
 translate chinese eveningbarmenu_6210e2f7:
 
     # doggirl "If I ever want to talk to someone I have to do the approaching and drink buying, honestly this is overwhelming."
-    doggirl "If I ever want to talk to someone I have to do the approaching and drink buying, honestly this is overwhelming."
+    doggirl "如果我想和别人说话，我就得先靠近他，接着点一杯。老实说，这让人受不了。"
 
 # game/bar.rpy#L2903
 translate chinese eveningbarmenu_2f126481:
 
     # mc "Well, I'm not exactly clued in with the local culture."
-    mc "Well, I'm not exactly clued in with the local culture."
+    mc "抱歉，我对这里的习俗不太了解。"
 
 # game/bar.rpy#L2904
 translate chinese eveningbarmenu_8a099a6a:
 
     # doggirl "Hehe, you're not from around here, I can tell that much."
-    doggirl "Hehe, you're not from around here, I can tell that much."
+    doggirl "呵呵，我能看出来，你不是本地居民。"
 
 # game/bar.rpy#L2905
 translate chinese eveningbarmenu_0b426d45:
 
     # mc "What about you? I think you're the first... what's your species called?"
-    mc "What about you? I think you're the first... what's your species called?"
+    mc "你呢？我想你是我第一个见过的…额，你是什么物种呀？"
 
 # game/bar.rpy#L2906
 translate chinese eveningbarmenu_44125c5f:
 
     # doggirl "Just call me a dog girl! And actually, I am from around here! I work in the city as an accountant."
-    doggirl "Just call me a dog girl! And actually, I am from around here! I work in the city as an accountant."
+    doggirl "就叫我狗娘吧！其实，我就住在这附近！在城里做个会计。"
 
 # game/bar.rpy#L2909
 translate chinese eveningbarmenu_4ffd3a09:
 
     # "Rosa and I talk at length while drinking more and more alcohol."
-    "Rosa and I talk at length while drinking more and more alcohol."
+    "Rosa和我聊了很久，喝了越来越多的酒。"
 
 # game/bar.rpy#L2910
 translate chinese eveningbarmenu_03dfa26f:
 
     # "With more booze she gets increasingly giggly and flirty, after two hours of impassioned conversation she blushes and asks me if I'd walk her home."
-    "With more booze she gets increasingly giggly and flirty, after two hours of impassioned conversation she blushes and asks me if I'd walk her home."
+    "酒喝得越多，她就越咯咯地笑，越喜欢调情。在激情交谈了两个小时后，她面带红潮，问我是否可以送她回家。"
 
 # game/bar.rpy#L2911
 translate chinese eveningbarmenu_d4e41baa:
 
     # "But she wasn't planning on letting me walk back that night."
-    "But she wasn't planning on letting me walk back that night."
+    "但她那晚没打算让我走回去。"
 
 # game/bar.rpy#L2913
 translate chinese eveningbarmenu_181ba73e:
@@ -10070,229 +10070,229 @@ translate chinese eveningbarmenu_181ba73e:
 translate chinese eveningbarmenu_ba2a7408:
 
     # doggirl "Ohh, [playername]! It's great to see you."
-    doggirl "Ohh, [playername]! It's great to see you."
+    doggirl "哦,[playername]！很高兴见到你。"
 
 # game/bar.rpy#L2916
 translate chinese eveningbarmenu_0e0188d3:
 
     # mc "How about a whiskey and cola, Rosa?"
-    mc "How about a whiskey and cola, Rosa?"
+    mc "来杯威士忌兑可乐怎么样，Rosa？"
 
 # game/bar.rpy#L2917
 translate chinese eveningbarmenu_9b3c286b:
 
     # doggirl "Hehe, I'll pay for the next round. You really make an unpopular girl like me feel cherished."
-    doggirl "Hehe, I'll pay for the next round. You really make an unpopular girl like me feel cherished."
+    doggirl "呵呵，下一轮我请客。你真的让我这样一个不受欢迎的女孩感到体贴。"
 
 # game/bar.rpy#L2920
 translate chinese eveningbarmenu_c8b911f9:
 
     # "Two hours later..."
-    "Two hours later..."
+    "两小时以后..."
 
 # game/bar.rpy#L2927
 translate chinese eveningbarmenu_d837ecea:
 
     # doggirl "Haahh, f-fuck! I betcha didn't know us doggies go into heat too."
-    doggirl "Haahh, f-fuck! I betcha didn't know us doggies go into heat too."
+    doggirl "哈啊啊，操！我敢肯定你不知道我们狗狗也会发情。"
 
 # game/bar.rpy#L2928
 translate chinese eveningbarmenu_d9e508d3:
 
     # doggirl "T-That's right, hehehe, I'm your little bitch tonight."
-    doggirl "T-That's right, hehehe, I'm your little bitch tonight."
+    doggirl "算-算了，今晚我就是你的小贱人了。"
 
 # game/bar.rpy#L2930
 translate chinese eveningbarmenu_2c3e6583:
 
     # doggirl "F-fuck me [playername]! I have a lust that only your magical cock can sate!"
-    doggirl "F-fuck me [playername]! I have a lust that only your magical cock can sate!"
+    doggirl "干-干我呀[playername] ！只有你的神奇肉棒能满足我的欲望!"
 
 # game/bar.rpy#L2931
 translate chinese eveningbarmenu_6a6af92f:
 
     # "The drunken dog girl slurs her lustful words and spreads her cheeks."
-    "The drunken dog girl slurs her lustful words and spreads her cheeks."
+    "醉酒的狗娘含糊地说着她的淫荡的话，哈拉着嘴。"
 
 # game/bar.rpy#L2933
 translate chinese eveningbarmenu_a2cd374e:
 
     # doggirl "I'm no stranger to a stallion cock in the asssss, so you can fuck me any which way you want, sexy."
-    doggirl "I'm no stranger to a stallion cock in the asssss, so you can fuck me any which way you want, sexy."
+    doggirl "我的后庭可是从未过他人来侵扰哟，你随便干那个洞都行，亲爱的。"
 
 # game/bar.rpy#L2934
 translate chinese eveningbarmenu_c7e0cd37:
 
     # "She's so much smaller than I am, but if she says she can take it, I'll give it to her."
-    "She's so much smaller than I am, but if she says she can take it, I'll give it to her."
+    "她比我小得多，但如果她说她能接受，我就恭敬不如从命吧。"
 
 # game/bar.rpy#L2936
 translate chinese eveningbarmenu_f0d17961:
 
     # doggirl "Maybe give my other hole some attention this time? I love being FUCKED in both equally."
-    doggirl "Maybe give my other hole some attention this time? I love being FUCKED in both equally."
+    doggirl "也许这次该注意一下我的另一个洞？我喜欢双管齐下。"
 
 # game/bar.rpy#L2939
 translate chinese eveningbarmenu_0c5df4fe:
 
     # "I kneel in position, thoughts of sliding my cock deep into her pussy slowly drive my drunken state into a frenzied lust."
-    "I kneel in position, thoughts of sliding my cock deep into her pussy slowly drive my drunken state into a frenzied lust."
+    "我跪那里，喝醉了，想着滑动我的肉棒深深插入她的蜜穴。这种想法慢慢转成了欲望。"
 
 # game/bar.rpy#L2940
 translate chinese eveningbarmenu_b22f6304:
 
     # "Her pussy is drooling with sexual lubricants, giving the vague idea that she has been anticipating this for a while."
-    "Her pussy is drooling with sexual lubricants, giving the vague idea that she has been anticipating this for a while."
+    "她的阴部早已水漫金山，或许她已经等了很久了。"
 
 # game/bar.rpy#L2941
 translate chinese eveningbarmenu_ed7a4a66:
 
     # "Rosa coos as I get into position and press my erection against her delicate folds."
-    "Rosa coos as I get into position and press my erection against her delicate folds."
+    "Rosa看着我摆好姿势，一面发出娇喘，一面把我挺立的肉棒压在她娇嫩的蜜穴上。"
 
 # game/bar.rpy#L2944
 translate chinese eveningbarmenu_30b53269:
 
     # "Her tail won't stop thrashing around, so I grab it and pull it whilst simultaneously sinking my member into the tight, welcoming warmth of her vagina."
-    "Her tail won't stop thrashing around, so I grab it and pull it whilst simultaneously sinking my member into the tight, welcoming warmth of her vagina."
+    "她的尾巴不停地甩来甩去，所以我抓住了它，同时把我的身体插进她的蜜穴里。"
 
 # game/bar.rpy#L2945
 translate chinese eveningbarmenu_d12bea10:
 
     # "She yelps at the feeling of the first insertion, although the blissful and eager expression on her face signals that she wants more."
-    "She yelps at the feeling of the first insertion, although the blissful and eager expression on her face signals that she wants more."
+    "第一次插入的舒爽令她尖叫，不过她脸上的幸福和渴望的表情表明她还要更多。"
 
 # game/bar.rpy#L2946
 translate chinese eveningbarmenu_9d25a354:
 
     # doggirl "Mmphhh, eheh, I didn't take you for a rough lover..."
-    doggirl "Mmphhh, eheh, I didn't take you for a rough lover..."
+    doggirl "嗯，嗯，我没想到你这么不怜香惜玉…"
 
 # game/bar.rpy#L2948
 translate chinese eveningbarmenu_a99189e7:
 
     # "I grab her by the ass for leverage and begin slow thrusts, giving her tight pussy time to adjust to my thick shaft."
-    "I grab her by the ass for leverage and begin slow thrusts, giving her tight pussy time to adjust to my thick shaft."
+    "我抓住她的屁股并开始缓慢的推进，给她紧致的蜜穴一点时间来调整我巨大的肉棒。"
 
 # game/bar.rpy#L2949
 translate chinese eveningbarmenu_10be0bfe:
 
     # doggirl "Aahh, ahhh... T-That's sho fuckin' gooood! Haaah, ahhh, aaaaahhhhhhhh!"
-    doggirl "Aahh, ahhh... T-That's sho fuckin' gooood! Haaah, ahhh, aaaaahhhhhhhh!"
+    doggirl "哈，啊…这-这也太他妈爽了!啊，哈啊啊啊 !"
 
 # game/bar.rpy#L2950
 translate chinese eveningbarmenu_13ab5dcc:
 
     # "Gradually I increase the tempo, the sound of our lovemaking increasing in volume as she moans, gasps and pants with increasing volume; she's an extremely vocal lover."
-    "Gradually I increase the tempo, the sound of our lovemaking increasing in volume as she moans, gasps and pants with increasing volume; she's an extremely vocal lover."
+    "渐渐地，我加快了节奏，我们做爱的声音随着她的呻吟、喘息和裤子的声音越来越大；她是个话痨呢。"
 
 # game/bar.rpy#L2951
 translate chinese eveningbarmenu_778c584a:
 
     # "Before long, I'm pounding her plump pussy so hard it makes her entire body and bed jiggle back and forth."
-    "Before long, I'm pounding her plump pussy so hard it makes her entire body and bed jiggle back and forth."
+    "没过多久，我使劲地抽插她的丰满的蜜穴，让她的整个身体带着床摇来摇去。"
 
 # game/bar.rpy#L2952
 translate chinese eveningbarmenu_cefe2f45:
 
     # "The drunk dog girl seems to lose herself in the moment, her thighs quivering and her tensed fingers grappling at the bedsheets."
-    "The drunk dog girl seems to lose herself in the moment, her thighs quivering and her tensed fingers grappling at the bedsheets."
+    "那个喝醉的狗女似乎在那一刻爽得放飞了自我，她的大腿在颤抖，她紧张的手指抓住了床单。"
 
 # game/bar.rpy#L2953
 translate chinese eveningbarmenu_8e504502:
 
     # doggirl "Aahhh, aaaahhhh! *Schlick, schlick!* Ahhhh, fuck me! Ahhhhhhhh!"
-    doggirl "Aahhh, aaaahhhh! *Schlick, schlick!* Ahhhh, fuck me! Ahhhhhhhh!"
+    doggirl "啊啊啊！*吸溜，吸溜*啊啊，干我！啊啊啊！"
 
 # game/bar.rpy#L2955
 translate chinese eveningbarmenu_1f32d660:
 
     # "With her tail already being pulled, I add to the roughness by giving her furry ass a hard slap, the thwack of my palm ripples her bubbily butt and causes her to cry out in euphoria."
-    "With her tail already being pulled, I add to the roughness by giving her furry ass a hard slap, the thwack of my palm ripples her bubbily butt and causes her to cry out in euphoria."
+    "她的尾巴已经被拉扯了，我给了她毛茸茸的屁股一个沉重的耳光，让它更加粗糙，我的掌心的一击荡漾了她毛茸茸的屁股，让她兴奋地大叫起来。"
 
 # game/bar.rpy#L2956
 translate chinese eveningbarmenu_22e3b7f1:
 
     # doggirl "Phaaahhhh aahhh, f-fuck! I-I want you! Cum in me, please!"
-    doggirl "Phaaahhhh aahhh, f-fuck! I-I want you! Cum in me, please!"
+    doggirl "啊…，继续干呀 !我-我想要你！中出，拜托了！"
 
 # game/bar.rpy#L2957
 translate chinese eveningbarmenu_87d6fab4:
 
     # "She barely finds the word between a mix of moans and incoherent gibberish."
-    "She barely finds the word between a mix of moans and incoherent gibberish."
+    "在呻吟和语无伦次的胡言乱语中几乎听不清她说的话。"
 
 # game/bar.rpy#L2958
 translate chinese eveningbarmenu_5c96fe3e:
 
     # doggirl "Aahhh, ahhh! *Schlick, squelch, prod!* Fuck me! Ravage my p-pussy! Hahhh, fill me with cum!"
-    doggirl "Aahhh, ahhh! *Schlick, squelch, prod!* Fuck me! Ravage my p-pussy! Hahhh, fill me with cum!"
+    doggirl "啊啊啊！*吸溜，吸溜*啊啊，干我呀！尽情蹂躏我的蜜穴吧！啊啊啊！填满我吧！"
 
 # game/bar.rpy#L2959
 translate chinese eveningbarmenu_96f346cc:
 
     # "Rosa's entire body shudders as her words escaped on erratic breath, her increasingly lewd words alone are pushing me to an early orgasm, even against my attempts to hold back and savour her pussy."
-    "Rosa's entire body shudders as her words escaped on erratic breath, her increasingly lewd words alone are pushing me to an early orgasm, even against my attempts to hold back and savour her pussy."
+    "Rosa的整个身体都在颤抖，她的话语在不稳定的呼吸中流出，即使我试图忍住并享受她的蜜穴，她越来越淫荡的话语还是在推动我提前达到高潮。"
 
 # game/bar.rpy#L2960
 translate chinese eveningbarmenu_118c5e18:
 
     # doggirl "AAHHHH! BREED ME LIKE A BITCH! CUM IN ME! I WANT IT ALL! AAHHHHH-HAAAAHH!!"
-    doggirl "AAHHHH! BREED ME LIKE A BITCH! CUM IN ME! I WANT IT ALL! AAHHHHH-HAAAAHH!!"
+    doggirl "啊啊啊啊！快使劲干我呀！中出吧！都射进来！啊啊啊-啊啊啊！"
 
 # game/bar.rpy#L2961
 translate chinese eveningbarmenu_d9c48b25:
 
     # "She enthusiastically howls as her body is overwhelmed with an orgasm to be jealous of, all whilst I ferociously fuck her cunt."
-    "She enthusiastically howls as her body is overwhelmed with an orgasm to be jealous of, all whilst I ferociously fuck her cunt."
+    "她热情洋溢地嚎叫，她的身体沉醉于激烈的高潮。与此同时，我疯狂地蹂躏着她的蜜穴。"
 
 # game/bar.rpy#L2962
 translate chinese eveningbarmenu_ad5afe8a:
 
     # "Her clenching insides drive me over the point of no return, and I can feel the release surging through my nethers."
-    "Her clenching insides drive me over the point of no return, and I can feel the release surging through my nethers."
+    "她紧致的蜜穴让我的肉棒无法回头。我能感觉到我的肉棒在大肆宣泄它的怒火。"
 
 # game/bar.rpy#L2967
 translate chinese eveningbarmenu_8f52de8f:
 
     # "The slutty dog finally gets her wish as I begin to shoot my hot load into her fuckhole, enveloping her insides with my seed."
-    "The slutty dog finally gets her wish as I begin to shoot my hot load into her fuckhole, enveloping her insides with my seed."
+    "炙热的精液涌入她的洞里，狗娘终于如愿以偿，蜜穴和子宫里充满了我的精华。"
 
 # game/bar.rpy#L2972
 translate chinese eveningbarmenu_a95eaacc:
 
     # doggirl "Yesss, haaahh... Yeeeesssssss... Haah.... Haaah..."
-    doggirl "Yesss, haaahh... Yeeeesssssss... Haah.... Haaah..."
+    doggirl "舒~服~，哈啊啊...太舒服了...哈..哈哈..."
 
 # game/bar.rpy#L2975
 translate chinese eveningbarmenu_85b99845:
 
     # "My exhausted partner swoons as she catches her breath, with a deep breath of my own I pull loose and cuddle up to her side."
-    "My exhausted partner swoons as she catches her breath, with a deep breath of my own I pull loose and cuddle up to her side."
+    "我精疲力尽的炮友说着说着就昏迷了，我自己深吸一口气，放松身体，依偎在她的身边。"
 
 # game/bar.rpy#L2976
 translate chinese eveningbarmenu_10f2dd2b:
 
     # doggirl "By the sisters, that was... amazing... I didn't think I could cum that hard..."
-    doggirl "By the sisters, that was... amazing... I didn't think I could cum that hard..."
+    doggirl "姐妹们，那真是…太棒的…我都没想到我高潮得那么激烈…"
 
 # game/bar.rpy#L2977
 translate chinese eveningbarmenu_a2d36246:
 
     # doggirl "F-Fuck stallions, I mean, no, don't fuck stallions! Fuck you! Haha, fuck you, fuck you... I-I'm sleepy..."
-    doggirl "F-Fuck stallions, I mean, no, don't fuck stallions! Fuck you! Haha, fuck you, fuck you... I-I'm sleepy..."
+    doggirl "操种马，我是说，别操种马!去你妈的!哈哈，去你的，去你的…我很困……（胡言乱语中）"
 
 # game/bar.rpy#L2978
 translate chinese eveningbarmenu_ce5cc161:
 
     # "With her as the little spoon, I give her one last sensual kiss before the two of us drift off to sleep."
-    "With her as the little spoon, I give her one last sensual kiss before the two of us drift off to sleep."
+    "她就像小勺子一样，我给了她最后一个肉肉的吻，接着我们俩就睡着了。"
 
 # game/bar.rpy#L2980
 translate chinese eveningbarmenu_be096814:
 
     # "I kneel in position, thoughts of sliding my cock deep into her ass slowly drive my drunken state into a frenzied lust."
-    "I kneel in position, thoughts of sliding my cock deep into her ass slowly drive my drunken state into a frenzied lust."
+    "我跪那里，喝醉了，想着滑动我的肉棒深深插入她的后庭。这种想法慢慢转成了欲望。"
 
 # game/bar.rpy#L2981
 translate chinese eveningbarmenu_12617889:
@@ -10310,43 +10310,43 @@ translate chinese eveningbarmenu_f77b40ac:
 translate chinese eveningbarmenu_bb18bbb8:
 
     # "Rosa coos as I apply the cool, sensual lubrication and then press my erection against her pucker."
-    "Rosa coos as I apply the cool, sensual lubrication and then press my erection against her pucker."
+    "Rosa看着我摆好姿势，一面发出娇喘，一面把我挺立的肉棒压在她娇嫩的后庭上。"
 
 # game/bar.rpy#L2986
 translate chinese eveningbarmenu_a90fb194:
 
     # "Her tail won't stop thrashing around, so I grab it and pull it whilst simultaneously sinking my member into the tight, welcoming warmth of her ass."
-    "Her tail won't stop thrashing around, so I grab it and pull it whilst simultaneously sinking my member into the tight, welcoming warmth of her ass."
+    "她的尾巴不停地甩来甩去，所以我抓住了它，同时把我的身体插进她的后庭里。"
 
 # game/bar.rpy#L2987
 translate chinese eveningbarmenu_d12bea10_1:
 
     # "She yelps at the feeling of the first insertion, although the blissful and eager expression on her face signals that she wants more."
-    "She yelps at the feeling of the first insertion, although the blissful and eager expression on her face signals that she wants more."
+    "第一次插入的舒爽令她尖叫，不过她脸上的幸福和渴望的表情表明她还要更多。"
 
 # game/bar.rpy#L2988
 translate chinese eveningbarmenu_9d25a354_1:
 
     # doggirl "Mmphhh, eheh, I didn't take you for a rough lover..."
-    doggirl "Mmphhh, eheh, I didn't take you for a rough lover..."
+    doggirl "嗯，嗯，我没想到你这么不怜香惜玉…"
 
 # game/bar.rpy#L2990
 translate chinese eveningbarmenu_184f2141:
 
     # "I grab her by the ass for leverage and begin slow thrusts, her ass clenches around my shaft, giving way to a soft and slick massaging beyond."
-    "I grab her by the ass for leverage and begin slow thrusts, her ass clenches around my shaft, giving way to a soft and slick massaging beyond."
+    "我抓住她的屁股并开始缓慢的推进，给她紧致的后庭一点时间来调整我巨大的肉棒。"
 
 # game/bar.rpy#L2991
 translate chinese eveningbarmenu_10be0bfe_1:
 
     # doggirl "Aahh, ahhh... T-That's sho fuckin' gooood! Haaah, ahhh, aaaaahhhhhhhh!"
-    doggirl "Aahh, ahhh... T-That's sho fuckin' gooood! Haaah, ahhh, aaaaahhhhhhhh!"
+    doggirl "哈，啊…这-这也太他妈爽了!啊，哈啊啊啊 !"
 
 # game/bar.rpy#L2992
 translate chinese eveningbarmenu_13ab5dcc_1:
 
     # "Gradually I increase the tempo, the sound of our lovemaking increasing in volume as she moans, gasps and pants with increasing volume; she's an extremely vocal lover."
-    "Gradually I increase the tempo, the sound of our lovemaking increasing in volume as she moans, gasps and pants with increasing volume; she's an extremely vocal lover."
+    "渐渐地，我加快了节奏，我们做爱的声音随着她的呻吟、喘息和裤子的声音越来越大；她是个话痨呢。"
 
 # game/bar.rpy#L2993
 translate chinese eveningbarmenu_02276054:
@@ -10358,97 +10358,97 @@ translate chinese eveningbarmenu_02276054:
 translate chinese eveningbarmenu_cefe2f45_1:
 
     # "The drunk dog girl seems to lose herself in the moment, her thighs quivering and her tensed fingers grappling at the bedsheets."
-    "The drunk dog girl seems to lose herself in the moment, her thighs quivering and her tensed fingers grappling at the bedsheets."
+    "那个喝醉的狗女似乎在那一刻爽得放飞了自我，她的大腿在颤抖，她紧张的手指抓住了床单。"
 
 # game/bar.rpy#L2995
 translate chinese eveningbarmenu_8e504502_1:
 
     # doggirl "Aahhh, aaaahhhh! *Schlick, schlick!* Ahhhh, fuck me! Ahhhhhhhh!"
-    doggirl "Aahhh, aaaahhhh! *Schlick, schlick!* Ahhhh, fuck me! Ahhhhhhhh!"
+    doggirl "啊啊啊！*吸溜，吸溜*啊啊，干我！啊啊啊！"
 
 # game/bar.rpy#L2996
 translate chinese eveningbarmenu_1f32d660_1:
 
     # "With her tail already being pulled, I add to the roughness by giving her furry ass a hard slap, the thwack of my palm ripples her bubbily butt and causes her to cry out in euphoria."
-    "With her tail already being pulled, I add to the roughness by giving her furry ass a hard slap, the thwack of my palm ripples her bubbily butt and causes her to cry out in euphoria."
+    "她的尾巴已经被拉扯了，我给了她毛茸茸的屁股一个沉重的耳光，让它更加粗糙，我的掌心的一击荡漾了她毛茸茸的屁股，让她兴奋地大叫起来。"
 
 # game/bar.rpy#L2997
 translate chinese eveningbarmenu_22e3b7f1_1:
 
     # doggirl "Phaaahhhh aahhh, f-fuck! I-I want you! Cum in me, please!"
-    doggirl "Phaaahhhh aahhh, f-fuck! I-I want you! Cum in me, please!"
+    doggirl "啊…，继续干呀 !我-我想要你！中出，拜托了！"
 
 # game/bar.rpy#L2998
 translate chinese eveningbarmenu_87d6fab4_1:
 
     # "She barely finds the word between a mix of moans and incoherent gibberish."
-    "She barely finds the word between a mix of moans and incoherent gibberish."
+    "在呻吟和语无伦次的胡言乱语中几乎听不清她说的话。"
 
 # game/bar.rpy#L2999
 translate chinese eveningbarmenu_76b18bb8:
 
     # doggirl "Aahhh, ahhh! *Schlick, squelch, prod!* Fuck me! Ravage my a-ass! Hahhh, fill me with cum!"
-    doggirl "Aahhh, ahhh! *Schlick, squelch, prod!* Fuck me! Ravage my a-ass! Hahhh, fill me with cum!"
+    doggirl "啊啊啊！*吸溜，吸溜*啊啊，干我呀！尽情蹂躏我的后庭吧！啊啊啊！填满我吧！"
 
 # game/bar.rpy#L3000
 translate chinese eveningbarmenu_ce873249:
 
     # "Rosa's entire body shudders as her words escaped on erratic breath, her increasingly lewd words alone are pushing me to an early orgasm, even against my attempts to hold back and savour her ass."
-    "Rosa's entire body shudders as her words escaped on erratic breath, her increasingly lewd words alone are pushing me to an early orgasm, even against my attempts to hold back and savour her ass."
+    "Rosa的整个身体都在颤抖，她的话语在不稳定的呼吸中流出，即使我试图忍住并享受她的后庭，她越来越淫荡的话语还是在推动我提前达到高潮。"
 
 # game/bar.rpy#L3001
 translate chinese eveningbarmenu_1fd3c4b1:
 
     # doggirl "AAHHHH! BREED ME LIKE A BITCH! CUM IN ME! I WANT IT ALL! AAHHHHH-HAAAAHH."
-    doggirl "AAHHHH! BREED ME LIKE A BITCH! CUM IN ME! I WANT IT ALL! AAHHHHH-HAAAAHH."
+    doggirl "啊啊啊啊！快使劲干我呀！中出吧！都射进来！啊啊啊-啊啊啊！"
 
 # game/bar.rpy#L3002
 translate chinese eveningbarmenu_55ba67b1:
 
     # "She enthusiastically howls as her body is overwhelmed with an orgasm to be jealous of, all whilst I ferociously fuck her asshole."
-    "She enthusiastically howls as her body is overwhelmed with an orgasm to be jealous of, all whilst I ferociously fuck her asshole."
+    "她热情洋溢地嚎叫，她的身体沉醉于激烈的高潮。与此同时，我疯狂地蹂躏着她的后庭。"
 
 # game/bar.rpy#L3003
 translate chinese eveningbarmenu_ad5afe8a_1:
 
     # "Her clenching insides drive me over the point of no return, and I can feel the release surging through my nethers."
-    "Her clenching insides drive me over the point of no return, and I can feel the release surging through my nethers."
+    "她紧致的后庭让我的肉棒无法回头。我能感觉到我的肉棒在大肆宣泄它的怒火。"
 
 # game/bar.rpy#L3008
 translate chinese eveningbarmenu_8f52de8f_1:
 
     # "The slutty dog finally gets her wish as I begin to shoot my hot load into her fuckhole, enveloping her insides with my seed."
-    "The slutty dog finally gets her wish as I begin to shoot my hot load into her fuckhole, enveloping her insides with my seed."
+    "炙热的精液涌入她的洞里，狗娘终于如愿以偿，直肠里充满了我的精华。"
 
 # game/bar.rpy#L3013
 translate chinese eveningbarmenu_a95eaacc_1:
 
     # doggirl "Yesss, haaahh... Yeeeesssssss... Haah.... Haaah..."
-    doggirl "Yesss, haaahh... Yeeeesssssss... Haah.... Haaah..."
+    doggirl "舒~服~，哈啊啊...太舒服了...哈..哈哈..."
 
 # game/bar.rpy#L3016
 translate chinese eveningbarmenu_85b99845_1:
 
     # "My exhausted partner swoons as she catches her breath, with a deep breath of my own I pull loose and cuddle up to her side."
-    "My exhausted partner swoons as she catches her breath, with a deep breath of my own I pull loose and cuddle up to her side."
+    "我精疲力尽的炮友说着说着就昏迷了，我自己深吸一口气，放松身体，依偎在她的身边。"
 
 # game/bar.rpy#L3017
 translate chinese eveningbarmenu_10f2dd2b_1:
 
     # doggirl "By the sisters, that was... amazing... I didn't think I could cum that hard..."
-    doggirl "By the sisters, that was... amazing... I didn't think I could cum that hard..."
+    doggirl "姐妹们，那真是…太棒的…我都没想到我高潮得那么激烈…"
 
 # game/bar.rpy#L3018
 translate chinese eveningbarmenu_a2d36246_1:
 
     # doggirl "F-Fuck stallions, I mean, no, don't fuck stallions! Fuck you! Haha, fuck you, fuck you... I-I'm sleepy..."
-    doggirl "F-Fuck stallions, I mean, no, don't fuck stallions! Fuck you! Haha, fuck you, fuck you... I-I'm sleepy..."
+    doggirl "操种马，我是说，别操种马!去你妈的!哈哈，去你的，去你的…我很困……（胡言乱语中）"
 
 # game/bar.rpy#L3019
 translate chinese eveningbarmenu_ce5cc161_1:
 
     # "With her as the little spoon, I give her one last sensual kiss before the two of us drift off to sleep."
-    "With her as the little spoon, I give her one last sensual kiss before the two of us drift off to sleep."
+    "她就像小勺子一样，我给了她最后一个肉肉的吻，接着我们俩就睡着了。"
 
 # game/bar.rpy#L3022
 translate chinese eveningbarmenu_6f5d0842:

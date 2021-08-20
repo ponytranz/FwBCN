@@ -2978,7 +2978,7 @@ translate chinese creamvmissionary_36122974:
 translate chinese creamvmissionary_dbc7553f:
 
     # ruby "Almost a full house, but we never seem to have the luck these days. It's such a shame that the Elements of Har'Mony have grown apart after everything we've been through."
-    ruby "看起来几乎满座了，但这些天我们似乎从来没有这种运气。在我们所经历的一切之后，斜率元素似乎已经开始渐渐疏远了，真是太可惜了。"
+    ruby "看起来几乎满座了，但这些天我们似乎从来没有这种运气。在我们所经历的一切之后，谐律元素似乎已经开始渐渐疏远了，真是太可惜了。"
 
 # game/bakery.rpy#L914
 translate chinese creamvmissionary_3ca4626e:
@@ -3548,7 +3548,7 @@ translate chinese creamvmissionary_f641160f:
 translate chinese creamvmissionary_2ca195be:
 
     # "My point of contact with the mare is a deluge of her juices that constantly dribble and drip onto my pelvis, the wet sounds created from our rutting are vulgar to say the least."
-    "爱液不断地从我们交合的部位缓缓流出，并滴落到我的下体上。同时，我们做爱时发出的啪啪声简直淫荡极了。"
+    "My point of contact with the mare is a deluge of her juices that constantly dribble and drip onto my pelvis, the wet sounds created from our rutting are vulgar to say the least."
 
 # game/bakery.rpy#L1149
 translate chinese creamvmissionary_6c928de0:
@@ -3572,7 +3572,7 @@ translate chinese creamvmissionary_20f3ccad:
 translate chinese creamvmissionary_d8fcf686:
 
     # "Her moans of ecstasy make it clear that she's going to orgasm any second, and as she does, she squeals loudly while her vagina clenches around my cock."
-    "她欢悦而兴奋的呻吟表明她随时都有高潮的可能，当她高潮地时候，她高声尖叫着，用小穴更加有力地咬住了我的肉棒。"
+    "Her moans of ecstasy make it clear that she's going to orgasm any second, and as she does, she squeals loudly while her vagina clenches around my cock."
 
 # game/bakery.rpy#L1161
 translate chinese creamvmissionary_f6ca9404:
@@ -4046,7 +4046,7 @@ translate chinese creamvmissionary_9a281c0e:
 translate chinese creamvmissionary_10b2efd9:
 
     # "I raise my dominant hand and bring it down powerfully causing a slap sound, this seems to hit the spot as her eyes roll back and she lets out a satisfied moan."
-    "我扬起我的手然后猛地一巴掌拍出巨响，看来是正中靶心引得她翻起白眼并发出满足的呻吟。"
+    "I raise my dominant hand and bring it down powerfully causing a slap sound, this seems to hit the spot as her eyes roll back and she lets out a satisfied moan."
 
 # game/bakery.rpy#L1302
 translate chinese creamvmissionary_048fcb05:

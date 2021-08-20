@@ -1790,7 +1790,7 @@ translate chinese auroravsex_09b83d16:
 translate chinese auroravsex_4c877794:
 
     # "She takes a final puff of her cigarette before playfully patting her mound of venus, bringing attention to her sloppy, fucked pussy, cum still oozing."
-    "她吸了最后一口烟，开玩笑地拍了拍她的“”维纳斯之丘”，把我的注意力集中到她邋遢，刚被操过的阴部，精液仍在渗出呢。"
+    "她吸了最后一口烟，开玩笑地拍了拍她的“维纳斯之丘”，把我的注意力集中到她邋遢，刚被操过的阴部，精液仍在渗出呢。"
 
 # game/castle.rpy#L535
 translate chinese auroravsex_3c48ac17:

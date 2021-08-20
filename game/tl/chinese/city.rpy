@@ -3218,7 +3218,7 @@ translate chinese agathasoniathreesome_ce617998:
 translate chinese agathasoniathreesome_b5838c6f:
 
     # "Three hours later..."
-    "过了三个小时后..."
+    "三小时后..."
 
 # game/city.rpy#L1505
 translate chinese agathasoniathreesome_9c3c555f:
@@ -4280,13 +4280,13 @@ translate chinese honeycrisprubythreesome_ce617998:
 translate chinese honeycrisprubythreesome_7ca2dd43:
 
     # "We had some drinks, we danced… It’s a bit of a blur…"
-    "We had some drinks, we danced… It’s a bit of a blur…"
+    "我们喝了点酒，跳了点舞... 有点记不清了..."
 
 # game/city.rpy#L1804
 translate chinese honeycrisprubythreesome_240a3938:
 
     # "But for some reason, I’m really conscious right now… I can probably figure out why too."
-    "But for some reason, I’m really conscious right now… I can probably figure out why too."
+    "但出于某种原因，我现在非常清醒... 不过我可能也能找出原因。"
 
 # game/city.rpy#L1810
 translate chinese honeycrisprubythreesome_1c07eec8:
@@ -4856,25 +4856,25 @@ translate chinese honeycrisprubythreesome_16c90a97:
 translate chinese honeycrisprubythreesome_d7587e91:
 
     # "Honey is the first to wake up, and her movements stir both Ruby and I."
-    "Honey is the first to wake up, and her movements stir both Ruby and I."
+    "Honey是第一只醒来的小马，她的动作搅醒了Ruby和我。"
 
 # game/city.rpy#L1950
 translate chinese honeycrisprubythreesome_79a193b4:
 
     # "After a short and sweet conversation, she kisses us both on the forehead, and heads out early to work at her farm."
-    "After a short and sweet conversation, she kisses us both on the forehead, and heads out early to work at her farm."
+    "在简短而甜蜜的交谈过后，她吻了我们俩的额头，然后早早地出发去她的农场工作了。"
 
 # game/city.rpy#L1951
 translate chinese honeycrisprubythreesome_14da05fa:
 
     # "This leaves Ruby and I to spend the morning cuddling together. Cuddling with a soft mare is the best thing in the world…"
-    "This leaves Ruby and I to spend the morning cuddling together. Cuddling with a soft mare is the best thing in the world…"
+    "这样一来，Ruby和我就只能在一起拥抱了。与柔软的母马依偎在一起是世界上最幸福的事情..."
 
 # game/city.rpy#L1953
 translate chinese honeycrisprubythreesome_a5db7150:
 
     # "About an hour later, we both wake up. Ruby treats me to some delicious pancakes before I take my leave."
-    "About an hour later, we both wake up. Ruby treats me to some delicious pancakes before I take my leave."
+    "大约一小时后，我们俩都从床上起来了。在我离去之前，Ruby请我享用了一些美味的薄煎饼。"
 
 # game/city.rpy#L1957
 translate chinese honeyrubythreesome2_acfe644b:
