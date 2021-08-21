@@ -9758,7 +9758,7 @@ translate chinese melodyeveningsex_213bd4bb:
 translate chinese melodyeveningsex_788e9786:
 
     # "Melody spends a few moments teasing the tip of my cock with her tongue, enjoying the way it feels as it throbs in her mouth."
-    "Melody spends a few moments teasing the tip of my cock with her tongue, enjoying the way it feels as it throbs in her mouth."
+    "Melody花了一段时间用舌头舔舐挑逗着我的龟头，享受着它在口中抖动的感觉。"
 
 # game/boutique.rpy#L2944
 translate chinese melodyeveningsex_42d5d8b4:
@@ -9770,13 +9770,13 @@ translate chinese melodyeveningsex_42d5d8b4:
 translate chinese melodyeveningsex_2eb20dc6:
 
     # "Every few licks or so, she pushes it deep and fucks it with her lips. My shaft gleams with her saliva."
-    "Every few licks or so, she pushes it deep and fucks it with her lips. My shaft gleams with her saliva."
+    "每舔舐一次，她都会将肉棒向自己的嘴里插得更深，同时用嘴唇爱抚着它。此时，我的肉棒上已经沾满了她的口水，整根肉棒变得亮闪闪的。"
 
 # game/boutique.rpy#L2947
 translate chinese melodyeveningsex_69df9c8e:
 
     # melody "My pussy is tight you know, so I need to make sure your cock is dripping wet."
-    melody "My pussy is tight you know, so I need to make sure your cock is dripping wet."
+    melody "你知道的，我的小穴可紧了。所以，我要保证你的小弟弟足够湿才行。"
 
 # game/boutique.rpy#L2951
 translate chinese melodyeveningsex_d9424182:
@@ -9788,7 +9788,7 @@ translate chinese melodyeveningsex_d9424182:
 translate chinese melodyeveningsex_450b40bf:
 
     # melody "You like my tight, little pussy don't you? You're a filthy worm like that, always fantastising about it."
-    melody "You like my tight, little pussy don't you? You're a filthy worm like that, always fantastising about it."
+    melody "你是不是很喜欢我紧紧的小穴呢？你就是个下流的贱货，每天都对它想入非非。"
 
 # game/boutique.rpy#L2953
 translate chinese melodyeveningsex_28ab5122:

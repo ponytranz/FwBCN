@@ -2672,7 +2672,7 @@ translate chinese farmvisit1_ce617998_1:
 translate chinese farmvisit2_3b75eca3:
 
     # "Time to go back to Honey’s farm and help her. Hopefully it won’t be eight hours of plucking apples again."
-    "Time to go back to Honey’s farm and help her. Hopefully it won’t be eight hours of plucking apples again."
+    "是时候回去Honey的农场帮她干些活了。但希望不再是干那种八个小时马不停蹄地摘苹果的活儿。"
 
 # game/farm.rpy#L836
 translate chinese farmvisit2_8cc8a852:
@@ -2690,7 +2690,7 @@ translate chinese farmvisit2_91700695:
 translate chinese farmvisit2_48ba07d1:
 
     # "Whether it’s Blossom or Honey, one of them is probably going to make their move onto my dick today, I’m excited."
-    "Whether it’s Blossom or Honey, one of them is probably going to make their move onto my dick today, I’m excited."
+    "不管是Blossom还是Honey，今天她们中的一个肯定会和我上垒，想想就性奋。"
 
 # game/farm.rpy#L841
 translate chinese farmvisit2_3180c178:

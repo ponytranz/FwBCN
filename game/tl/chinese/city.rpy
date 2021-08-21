@@ -2504,7 +2504,7 @@ translate chinese melodylaptop_85904fb1:
 translate chinese melodycunnilingus_bbb9ca87:
 
     # "I step into the music studio and spot Melody alone tinkering on her laptop. Not an unusual activity for Melody to do in her spare time."
-    "I step into the music studio and spot Melody alone tinkering on her laptop. Not an unusual activity for Melody to do in her spare time."
+    "我走进音乐工作室，发现Melody一只马在摆弄她的笔记本电脑。对Melody来说，在业余时间做这样的事情并不少见。"
 
 # game/city.rpy#L1206
 translate chinese melodycunnilingus_8ccc9557:

@@ -1040,7 +1040,7 @@ translate chinese cforest_eb883d62:
 translate chinese cforest_cad36165:
 
     # butters "Hehe, you’ll be an honorary element of cum!"
-    butters "哈哈，你将成为和谐之元的名誉成员！"
+    butters "哈哈，你将成为谐律精华的名誉成员！"
 
 # game/finalroute.rpy#L521
 translate chinese cforest_57bae6d0:
@@ -3962,7 +3962,7 @@ translate chinese treemeeting_85711887:
 translate chinese treemeeting_87adba93:
 
     # "Having finished fucking the last of the elements, I have ten minutes to return to the treehouse."
-    "干完最后一位和谐之源的掌握者后，我还有十分钟赶到树屋。"
+    "干完最后一位谐律精华的掌握者后，我还有十分钟赶到树屋。"
 
 # game/finalroute.rpy#L1496
 translate chinese treemeeting_29a1831b_1:
@@ -4298,7 +4298,7 @@ translate chinese skipaltreemeeting_f27f538d:
 translate chinese skipaltreemeeting_99b53d6f:
 
     # lily "She’ll still be extremely powerful, but with no meat shields she won’t be able to stop us from charging up the elements, it’ll be checkmate."
-    lily "虽然她依旧无比强大，但是少了两位人质，她要阻止我们也会分身乏术。所以到时候咱们只需要等待和谐之源充能完毕，将她一军。"
+    lily "虽然她依旧无比强大，但是少了两位人质，她要阻止我们也会分身乏术。所以到时候咱们只需要等待谐律精华充能完毕，将她一军。"
 
 # game/finalroute.rpy#L1684
 translate chinese skipaltreemeeting_ed561f47:
@@ -7652,7 +7652,7 @@ translate chinese finale_348d2a74:
 translate chinese finale_5e1de350:
 
     # moxie "Yeah! People would get the wrong idea!"
-    moxie "Yeah! People would get the wrong idea!"
+    moxie "对呀！民众们会想歪的！"
 
 # game/finalroute.rpy#L3454
 translate chinese finale_379419b5:
@@ -7688,13 +7688,13 @@ translate chinese finale_7fe78cc8:
 translate chinese finale_a7169c7b:
 
     # moxie "Woaahhhohh! Nice!"
-    moxie "Woaahhhohh! Nice!"
+    moxie "芜湖！好耶！"
 
 # game/finalroute.rpy#L3467
 translate chinese finale_cf26c253:
 
     # mc "Damn, that’s a lot… Thank you Selene."
-    mc "Damn, that’s a lot… Thank you Selene."
+    mc "我去，这也太多了...谢谢你，Selene。"
 
 # game/finalroute.rpy#L3468
 translate chinese finale_8b9f4b6d:
@@ -7706,19 +7706,19 @@ translate chinese finale_8b9f4b6d:
 translate chinese finale_fbedea54:
 
     # selene "And of course, if you want the other part of {i}your{/i} reward, just visit me at night, stud… If I’m going to retire soon, I’ll need to settle down, got it? *Giggle*"
-    selene "And of course, if you want the other part of {i}your{/i} reward, just visit me at night, stud… If I’m going to retire soon, I’ll need to settle down, got it? *Giggle*"
+    selene "当然啦，如果你想要{i}你的{/i}奖励的另一部分，就晚上来找我吧，小帅哥……如果我很快就要退休了，我就得好好放松一下，明白吗?*咯咯*"
 
 # game/finalroute.rpy#L3472
 translate chinese finale_6e9dae0b:
 
     # moxie "Hm? What are you two talking about?"
-    moxie "Hm? What are you two talking about?"
+    moxie "嗯？你们俩在说什么呢？"
 
 # game/finalroute.rpy#L3474
 translate chinese finale_c2143acc:
 
     # selene "I was just telling [playername] that we’ll leave construction to a company from now on, so that’ll give you and me a chance to focus on lessons."
-    selene "I was just telling [playername] that we’ll leave construction to a company from now on, so that’ll give you and me a chance to focus on lessons."
+    selene "我刚刚告诉[playername]，从现在开始，我们将把城堡重建工作留给了一家公司，这样你和我就有机会集中精力学习了。"
 
 # game/finalroute.rpy#L3476
 translate chinese finale_6f4bd4c7:
@@ -7736,13 +7736,13 @@ translate chinese finale_6b14b3c5:
 translate chinese finale_b8f79099:
 
     # moxie "You got it!"
-    moxie "You got it!"
+    moxie "那就交给你啦！"
 
 # game/finalroute.rpy#L3481
 translate chinese finale_00970966:
 
     # mc "Four hours every evening? That’s gonna be tough!"
-    mc "Four hours every evening? That’s gonna be tough!"
+    mc "每晚四个小时！长夜漫漫呀！"
 
 # game/finalroute.rpy#L3483
 translate chinese finale_82b58f32:
@@ -7766,7 +7766,7 @@ translate chinese finale_a458afff:
 translate chinese finale_30b12662:
 
     # selene "Heheh, alright then. Stay safe you two, no more world ending disasters."
-    selene "Heheh, alright then. Stay safe you two, no more world ending disasters."
+    selene "哈哈，差不多得了。你们俩注意安全，不要再搞一场毁灭世界的灾难了。"
 
 # game/finalroute.rpy#L3489
 translate chinese finale_2ffbf7e5:
@@ -7778,19 +7778,19 @@ translate chinese finale_2ffbf7e5:
 translate chinese finale_99d14465:
 
     # "We step out of Selene’s living quarters where a familiar face is waiting."
-    "We step out of Selene’s living quarters where a familiar face is waiting."
+    "我们走出Selene的寝宫，一个熟悉的面孔在那里等着我们。"
 
 # game/finalroute.rpy#L3495
 translate chinese finale_6dc247cf:
 
     # penelope "Um, are you guys done?"
-    penelope "Um, are you guys done?"
+    penelope "额，你们都处理好了吗？"
 
 # game/finalroute.rpy#L3499
 translate chinese finale_03c64e3a:
 
     # moxie "Yup, I have the rest of the day off, and all the Elements of Har’Mony are back to work."
-    moxie "Yup, I have the rest of the day off, and all the Elements of Har’Mony are back to work."
+    moxie "是啊，我今天休息，谐律元素们也都回去工作了。"
 
 # game/finalroute.rpy#L3501
 translate chinese finale_74268ac7:
@@ -8006,13 +8006,13 @@ translate chinese finale_ab807107:
 translate chinese finale_3a8c9121:
 
     # mc "Riiight… I’ve got some cleaning up to do then. Let’s see here…"
-    mc "Riiight… I’ve got some cleaning up to do then. Let’s see here…"
+    mc "辣行吧...那我还得去处理一下。要不我们一起去吧…"
 
 # game/finalroute.rpy#L3563
 translate chinese finale_5324a923:
 
     # moxie "Well, I’m gonna nap in the meantime, don't have too much fun!"
-    moxie "那行，我要在此期间小睡一下，别玩过头了哟！"
+    moxie "那啥，我要在此期间小睡一下，别玩过头了哟！"
 
 # game/finalroute.rpy#L3565
 translate chinese finale_076937b8:

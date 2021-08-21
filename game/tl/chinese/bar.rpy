@@ -10298,13 +10298,13 @@ translate chinese eveningbarmenu_be096814:
 translate chinese eveningbarmenu_12617889:
 
     # "Her pussy may be drooling with desire, but the tight ass on this small dog girl will provide more of a challenge."
-    "Her pussy may be drooling with desire, but the tight ass on this small dog girl will provide more of a challenge."
+    "尽管她的蜜穴早已饥渴难耐，但狗娘那紧致的后庭看似更加有挑战性。"
 
 # game/bar.rpy#L2982
 translate chinese eveningbarmenu_f77b40ac:
 
     # doggirl "Hehe, if you wanna put it up my butt, there's some lube in the bedside drawer."
-    doggirl "Hehe, if you wanna put it up my butt, there's some lube in the bedside drawer."
+    doggirl "如果你想把它塞进我后庭里，床边抽屉里就有润滑剂哟。"
 
 # game/bar.rpy#L2983
 translate chinese eveningbarmenu_bb18bbb8:
@@ -10352,7 +10352,7 @@ translate chinese eveningbarmenu_13ab5dcc_1:
 translate chinese eveningbarmenu_02276054:
 
     # "Her anal experience is clear, and before long, I'm pounding her ass so hard it makes her entire body and bed jiggle back and forth."
-    "Her anal experience is clear, and before long, I'm pounding her ass so hard it makes her entire body and bed jiggle back and forth."
+    "她的后庭的确是第一次，不久之后，我就会用力抽插她的后庭，让她的整个身体带着床来回抖动。"
 
 # game/bar.rpy#L2994
 translate chinese eveningbarmenu_cefe2f45_1:
@@ -10454,19 +10454,19 @@ translate chinese eveningbarmenu_ce5cc161_1:
 translate chinese eveningbarmenu_6f5d0842:
 
     # "Our morning is short-lived, as a business lady she needs to get to work, so we end up parting ways early."
-    "Our morning is short-lived, as a business lady she needs to get to work, so we end up parting ways early."
+    "作为一名职场女性，她需要去上班，这让我们的早晨略显仓促，所以我们早早地分手了。"
 
 # game/bar.rpy#L3025
 translate chinese eveningbarmenu_3229c7b8:
 
     # "However, she tells me that she'd really like to do this again sometime. We exchange addresses for magic mail, and vow to perhaps meet each other again in the bar."
-    "However, she tells me that she'd really like to do this again sometime. We exchange addresses for magic mail, and vow to perhaps meet each other again in the bar."
+    "不过呢，她告诉我她真的很想再来一次。我们交换了魔法邮件的地址，并许诺会在酒吧里再时不时见上一面。"
 
 # game/bar.rpy#L3027
 translate chinese eveningbarmenu_e68fa020:
 
     # "She tells me that if I show up in the bar, she'll drop anything to come talk to me now."
-    "She tells me that if I show up in the bar, she'll drop anything to come talk to me now."
+    "她告诉我，只要我一出现在酒吧，她就会放下一切事情来找我聊天。"
 
 # game/bar.rpy#L3032
 translate chinese eveningbarmenu_49c2d50b:
