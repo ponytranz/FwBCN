@@ -348,7 +348,7 @@ translate chinese strings:
 
     # game/y-screens.rpy_L1563_0
     old "{color=#00000000}Secret Scenes: [secretsunlocked]/13{/color}"
-    new "{color=#00000000}隐藏场景: [secretsunlocked]/13{/color}"
+    new "{color=#00000000}秘密场景: [secretsunlocked]/13{/color}"
 
     # game/y-screens.rpy_L1568_0
     old "{color=#00000000}I should buy Moxie some gifts {p}to increase her affection.{/color}"

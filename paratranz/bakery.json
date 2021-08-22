@@ -19082,14 +19082,14 @@
   {
     "id": 79424445,
     "createdAt": "2021-05-30T17:55:35.000Z",
-    "updatedAt": "2021-08-17T12:59:13.000Z",
+    "updatedAt": "2021-08-21T10:46:50.000Z",
     "key": "creamlingeriesex_c443ac92",
     "original": "You found a secret scene! Requirements met: Work with Cream after beating her route. 50%% chance.",
-    "translation": "",
+    "translation": "你解锁了一个秘密场景！达成条件：完成Cream的剧情后和她工作。几率为50%% 。",
     "file": 272339,
-    "stage": 0,
+    "stage": 1,
     "project": 2414,
-    "uid": 22440,
+    "uid": 20927,
     "extra": null,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwBCN/blob/main/game/bakery.rpy#L2339",
     "words": 16

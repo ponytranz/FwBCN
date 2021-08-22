@@ -7634,7 +7634,7 @@ translate chinese bakeryeveningmenu_d4c0a85b:
 translate chinese creamlingeriesex_c443ac92:
 
     # "You found a secret scene! Requirements met: Work with Cream after beating her route. 50%% chance."
-    "You found a secret scene! Requirements met: Work with Cream after beating her route. 50%% chance."
+    "你解锁了一个秘密场景！达成条件：完成Cream的剧情后和她工作。几率为50%% 。"
 
 # game/bakery.rpy#L2341
 translate chinese creamlingeriesex_08b75616:

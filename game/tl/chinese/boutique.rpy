@@ -9806,7 +9806,7 @@ translate chinese melodyeveningsex_ab261e7c:
 translate chinese melodyeveningsex_57d3faa1:
 
     # melody "Oohhh... I've picked a good toy, I'm gonna get a few orgasms out of you yet."
-    melody "Oohhh... I've picked a good toy, I'm gonna get a few orgasms out of you yet."
+    melody "哦哦哦……看来我已经找到了个不错的玩物，我要让你好好爽个够。"
 
 # game/boutique.rpy#L2960
 translate chinese melodyeveningsex_75784f2a:
@@ -9878,7 +9878,7 @@ translate chinese melodyeveningsex_c2cc1802:
 translate chinese melodyeveningsex_2dd3ac9b:
 
     # "She utters with a few well-kept moans as her insides spasm, clamping down on my cock with a rhythmic tightness."
-    "She utters with a few well-kept moans as her insides spasm, clamping down on my cock with a rhythmic tightness."
+    "在她的小穴开始抽搐起来时，她发出了几声满足的呻吟声，同时，她的下体也在有节奏地挤压着我的肉棒。"
 
 # game/boutique.rpy#L2974
 translate chinese melodyeveningsex_9f535f96:
@@ -10550,19 +10550,19 @@ translate chinese melodyeveningvisit1_5cc50212:
 translate chinese melodyeveningvisit1_211360ca:
 
     # "My throbbing shaft couldn't be any harder than it is now, and she knows this as she teases me."
-    "My throbbing shaft couldn't be any harder than it is now, and she knows this as she teases me."
+    "现在，我那根悸动的肉棒已经硬到了极点。在她玩弄的时候，她肯定也感觉到了。"
 
 # game/boutique.rpy#L3201
 translate chinese melodyeveningvisit1_9ab37349:
 
     # melody "You're quite the catch, y'know? A stallion would have cum by now."
-    melody "You're quite the catch, y'know? A stallion would have cum by now."
+    melody "你的忍耐力可真强，你知道吗？要是其他种马遇到这种情况，现在应该早就射了。"
 
 # game/boutique.rpy#L3202
 translate chinese melodyeveningvisit1_60a985c8:
 
     # melody "But you and me, we can have a lot of fun..."
-    melody "But you and me, we can have a lot of fun..."
+    melody "如果是你和我的话，咱们就可以享受更多有意思的事了……"
 
 # game/boutique.rpy#L3203
 translate chinese melodyeveningvisit1_c901a0f8:
@@ -10592,13 +10592,13 @@ translate chinese melodyeveningvisit1_9bc7b3d7:
 translate chinese melodyeveningvisit1_c2cc1802:
 
     # melody "Hahh, haahh, c-coming!"
-    melody "Hahh, haahh, c-coming!"
+    melody "哈，哈哈哈，要……要去了！"
 
 # game/boutique.rpy#L3209
 translate chinese melodyeveningvisit1_2dd3ac9b:
 
     # "She utters with a few well-kept moans as her insides spasm, clamping down on my cock with a rhythmic tightness."
-    "She utters with a few well-kept moans as her insides spasm, clamping down on my cock with a rhythmic tightness."
+    "在她的小穴开始抽搐起来时，她发出了几声满足的呻吟声，同时，她的下体也在有节奏地挤压着我的肉棒。"
 
 # game/boutique.rpy#L3210
 translate chinese melodyeveningvisit1_9f535f96:
@@ -10628,7 +10628,7 @@ translate chinese melodyeveningvisit1_44e712a7:
 translate chinese melodyeveningvisit1_a9e4f23d:
 
     # "She cries out in girly pleasure as I take control from below, fucking her tight cunt with my rapid thrusts."
-    "She cries out in girly pleasure as I take control from below, fucking her tight cunt with my rapid thrusts."
+    "当我从下方控制住她并快速抽插她紧致的蜜穴时，她发出了娇嫩而愉快的呻吟声。"
 
 # game/boutique.rpy#L3219
 translate chinese melodyeveningvisit1_93f793f1:
@@ -10640,7 +10640,7 @@ translate chinese melodyeveningvisit1_93f793f1:
 translate chinese melodyeveningvisit1_c72ee89a:
 
     # melody "Ahhh, ahh! I am the one that fucks, b-bastaaaahhhh! Haaahh!"
-    melody "Ahhh, ahh! I am the one that fucks, b-bastaaaahhhh! Haaahh!"
+    melody "啊，啊！干你的人可是我，你个大~混~蛋！哈啊啊啊！"
 
 # game/boutique.rpy#L3221
 translate chinese melodyeveningvisit1_299eb673:
@@ -10766,7 +10766,7 @@ translate chinese melodyeveningvisit1_83442926:
 translate chinese rubylingeriesex_b3e1d2f4:
 
     # "You unlocked a secret scene! Requirements met: Work with Ruby after finishing her route. 50%% chance."
-    "你解锁了一个秘密场景！达成条件：完成Ruby的剧情。几率为50%% 。"
+    "你解锁了一个秘密场景！达成条件：完成Ruby的剧情后和她工作。几率为50%% 。"
 
 # game/boutique.rpy#L3268
 translate chinese rubylingeriesex_3f497396:
@@ -10874,85 +10874,85 @@ translate chinese rubylingeriesex_a7bf440b:
 translate chinese rubylingeriesex_c81540fe:
 
     # mc "Well, let’s get on with the plot."
-    mc "Well, let’s get on with the plot."
+    mc "好了，咱们一步一步来吧。"
 
 # game/boutique.rpy#L3295
 translate chinese rubylingeriesex_3c4c3f7a:
 
     # "Ruby’s exquisite ass is presented to me as she waits on all fours. I have to spend a moment admiring it."
-    "Ruby’s exquisite ass is presented to me as she waits on all fours. I have to spend a moment admiring it."
+    "Ruby四肢着地，然后翘起自己优美丰满的臀部，等待着我的加入。可我还要再花些时间来好好欣赏一下才行。"
 
 # game/boutique.rpy#L3296
 translate chinese rubylingeriesex_23bce79c:
 
     # "I even have to appreciate her hair; it looks exquisite today."
-    "I even have to appreciate her hair; it looks exquisite today."
+    "而且，她今天的头发也打理得十分精致。所以，我还要好好欣赏欣赏她的头发。"
 
 # game/boutique.rpy#L3297
 translate chinese rubylingeriesex_1c9183f3:
 
     # ruby "No need to window shop, darling, I’m all yours."
-    ruby "No need to window shop, darling, I’m all yours."
+    ruby "亲爱的，别只看不摸啊，我已经是你的了。"
 
 # game/boutique.rpy#L3298
 translate chinese rubylingeriesex_447827de:
 
     # "Taking the hint, I stand at the edge of the bed, and pull her in to me, so her butt is level with my hips."
-    "Taking the hint, I stand at the edge of the bed, and pull her in to me, so her butt is level with my hips."
+    "收到她的提示后，我来到床边，将她拉到了我身前。此时，她臀部的位置刚好与我下体的位置处在一条线上。"
 
 # game/boutique.rpy#L3299
 translate chinese rubylingeriesex_f5438095:
 
     # "At this point my cock is basically already erect. That’s just the kind of effect Ruby has on me."
-    "At this point my cock is basically already erect. That’s just the kind of effect Ruby has on me."
+    "此时，我的肉棒基本已经完全坚挺起来了。这就是Ruby给我施放的魔法。"
 
 # game/boutique.rpy#L3300
 translate chinese rubylingeriesex_2bee9408:
 
     # "I’ll just check to see if she’s ready to take my cock first. With a finger I slide it from the tip of her vulva to the clit, collecting a generous amount of lubricants as I do."
-    "I’ll just check to see if she’s ready to take my cock first. With a finger I slide it from the tip of her vulva to the clit, collecting a generous amount of lubricants as I do."
+    "首先，我要确认一下她是不是已经做好了被插的准备。于是，我用一根手指轻轻地从她的外阴部位滑到了阴蒂部位。在此期间，我的手上沾满了大量湿滑的淫液。"
 
 # game/boutique.rpy#L3301
 translate chinese rubylingeriesex_e2acf627:
 
     # mc "You’re really wet…"
-    mc "你身上好湿啊……"
+    mc "你下面好湿啊……"
 
 # game/boutique.rpy#L3302
 translate chinese rubylingeriesex_d12c3ab3:
 
     # ruby "Did you not catch me squirming earlier? Haha, a lady has her needs too."
-    ruby "Did you not catch me squirming earlier? Haha, a lady has her needs too."
+    ruby "你之前不是已经知道我早就饥渴难耐了吗？哈哈，本姑娘也是有这方面需求的。"
 
 # game/boutique.rpy#L3303
 translate chinese rubylingeriesex_20d2c848:
 
     # mc "No need for foreplay, then."
-    mc "No need for foreplay, then."
+    mc "那就没必要进行什么前戏了。"
 
 # game/boutique.rpy#L3306
 translate chinese rubylingeriesex_42152031:
 
     # "I lift my cock up and jack it off until I’m perfectly solid. Then, gently easing between the plush lips of her labia, I push forward into her delicate folds and sink into my lover."
-    "I lift my cock up and jack it off until I’m perfectly solid. Then, gently easing between the plush lips of her labia, I push forward into her delicate folds and sink into my lover."
+    "我握住自己的肉棒撸动起来，让它完全硬了起来。然后，我轻轻扒开她的阴唇，将肉棒放在了她的小穴前，随后缓缓地插进了她层层叠叠的阴道里。"
 
 # game/boutique.rpy#L3307
 translate chinese rubylingeriesex_b82bdc41:
 
     # "She takes it like a champ, cooing at the sensation of being filled up."
-    "She takes it like a champ, cooing at the sensation of being filled up."
+    "在她的小穴被肉棒塞满时，她就像一匹发情的母马，满怀激情地呻吟着。"
 
 # game/boutique.rpy#L3308
 translate chinese rubylingeriesex_45af4001:
 
     # ruby "Ahhhahhh. Getting filled at the start always feels amazing."
-    ruby "Ahhhahhh. Getting filled at the start always feels amazing."
+    ruby "啊啊啊啊，刚一开始就被插的感觉真是太爽了。"
 
 # game/boutique.rpy#L3309
 translate chinese rubylingeriesex_74ba4b26:
 
     # "And sinking deeply inside of her for the first time in a while also feels amazing."
-    "And sinking deeply inside of her for the first time in a while also feels amazing."
+    "再过不久之后深深插入她下体的感觉肯定也很不错，这可是我和她的第一次。"
 
 # game/boutique.rpy#L3311
 translate chinese rubylingeriesex_a64c429a:
@@ -10976,7 +10976,7 @@ translate chinese rubylingeriesex_ecce7cb2:
 translate chinese rubylingeriesex_6a5734a2:
 
     # ruby "Aahhh, ahhh… I love your thick cock, darling… Mmphh, tighten it for me, ahhh…"
-    ruby "Aahhh, ahhh… I love your thick cock, darling… Mmphh, tighten it for me, ahhh…"
+    ruby "啊啊啊，啊啊啊……我好喜欢你的大屌啊，亲爱的……嗯嗯嗯，是为了我才硬起来的吧，啊……"
 
 # game/boutique.rpy#L3315
 translate chinese rubylingeriesex_3e01f91e:
@@ -10988,19 +10988,19 @@ translate chinese rubylingeriesex_3e01f91e:
 translate chinese rubylingeriesex_596f1865:
 
     # ruby "Mmphhh, so fucking good, haah… hahh…"
-    ruby "Mmphhh, so fucking good, haah… hahh…"
+    ruby "嗯嗯嗯，太他妈爽了，哈……哈哈……"
 
 # game/boutique.rpy#L3317
 translate chinese rubylingeriesex_9e55dc0b:
 
     # mc "I didn’t realize your wonderful pussy could get any tighter."
-    mc "I didn’t realize your wonderful pussy could get any tighter."
+    mc "我感觉你的小蜜穴没法再变得更紧了。"
 
 # game/boutique.rpy#L3318
 translate chinese rubylingeriesex_80d66b7a:
 
     # ruby "Nnnh, that sounds like a challenge."
-    ruby "Nnnh, that sounds like a challenge."
+    ruby "嗯，这听起来感觉很有挑战性呢。"
 
 # game/boutique.rpy#L3319
 translate chinese rubylingeriesex_dbcf1896:
@@ -11060,7 +11060,7 @@ translate chinese rubylingeriesex_cc50d61f:
 translate chinese rubylingeriesex_b983e123:
 
     # ruby "Haahh, yeesss… That’s exactly what I needed."
-    ruby "Haahh, yeesss… That’s exactly what I needed."
+    ruby "哈啊啊，没错……这就是我想要的。"
 
 # game/boutique.rpy#L3340
 translate chinese rubylingeriesex_f45449ca:
@@ -11072,7 +11072,7 @@ translate chinese rubylingeriesex_f45449ca:
 translate chinese rubylingeriesex_148ca135:
 
     # ruby "Look at all this mess you made… All that cum… Was my pussy really that good? Hehe."
-    ruby "Look at all this mess you made… All that cum… Was my pussy really that good? Hehe."
+    ruby "看看你干的好事，你把这儿弄得一团糟……全是你射的……我的小穴真的有这么爽吗？嘿嘿。"
 
 # game/boutique.rpy#L3342
 translate chinese rubylingeriesex_1163d04d:
@@ -11084,31 +11084,31 @@ translate chinese rubylingeriesex_1163d04d:
 translate chinese rubylingeriesex_c47c9636:
 
     # ruby "Oh! I suppose I did, hehe. I still have a lot of her in me."
-    ruby "Oh! I suppose I did, hehe. I still have a lot of her in me."
+    ruby "哦 ！可能是吧，嘿嘿。我身上有很多地方都和她很像。"
 
 # game/boutique.rpy#L3344
 translate chinese rubylingeriesex_4e954ec4:
 
     # mc "You also have a lot of me in you, literally."
-    mc "You also have a lot of me in you, literally."
+    mc "说真的，现在你身上也有我的痕迹了。"
 
 # game/boutique.rpy#L3345
 translate chinese rubylingeriesex_50b67990:
 
     # ruby "Hah, you’re so bad."
-    ruby "Hah, you’re so bad."
+    ruby "哈啊，你好坏哦。"
 
 # game/boutique.rpy#L3347
 translate chinese rubylingeriesex_13dda42f:
 
     # "Ruby gets off the bed and stands beside me, giving me a quick kiss on the cheek."
-    "Ruby gets off the bed and stands beside me, giving me a quick kiss on the cheek."
+    "Ruby站起身，走到我身边，然后在我的脸上轻轻吻了一下。"
 
 # game/boutique.rpy#L3348
 translate chinese rubylingeriesex_2a5c78c5:
 
     # ruby "Going to clean up. Can you open the shop back up? I’ll be down in a second."
-    ruby "Going to clean up. Can you open the shop back up? I’ll be down in a second."
+    ruby "我要收拾一下。你能帮我把店门打开吗？我马上就下来。"
 
 # game/boutique.rpy#L3349
 translate chinese rubylingeriesex_a7a92e8f:

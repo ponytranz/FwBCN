@@ -2726,7 +2726,7 @@ translate chinese farmvisit2_9f4a120f:
 translate chinese farmvisit2_9617ac81:
 
     # mc "A perfect job? You’ve piqued my interest."
-    mc "A perfect job? You’ve piqued my interest."
+    mc "一份绝佳的工作？你这提起了我的兴致。"
 
 # game/farm.rpy#L852
 translate chinese farmvisit2_c4031d4a:
@@ -13436,7 +13436,7 @@ translate chinese farmsexduringwork_3f497396:
 translate chinese farmsexduringwork_2a65a922:
 
     # "You found a secret scene! Requirements met: Work with Honeycrisp after her arm is out of a cast. 50%% chance."
-    "You found a secret scene! Requirements met: Work with Honeycrisp after her arm is out of a cast. 50%% chance."
+    "你发现了一个秘密场景！完成条件：在Honeycrisp拆了石膏后和她工作。有50%%几率触发。"
 
 # game/farm.rpy#L4036
 translate chinese farmsexduringwork_365a38d0:

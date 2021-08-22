@@ -1142,14 +1142,14 @@
   {
     "id": 85228927,
     "createdAt": "2021-07-03T10:30:42.000Z",
-    "updatedAt": "2021-07-03T11:29:50.000Z",
+    "updatedAt": "2021-08-21T10:47:17.000Z",
     "key": "game/y-screens.rpy_L1563_0",
     "original": "{color=#00000000}Secret Scenes: [secretsunlocked]/13{/color}",
-    "translation": "{color=#00000000}隐藏场景: [secretsunlocked]/13{/color}",
+    "translation": "{color=#00000000}秘密场景: [secretsunlocked]/13{/color}",
     "file": 272389,
     "stage": 1,
     "project": 2414,
-    "uid": 21832,
+    "uid": 20927,
     "extra": null,
     "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/y-screens.rpy#L1563",
     "words": 3
