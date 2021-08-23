@@ -1472,14 +1472,14 @@
   {
     "id": 79433423,
     "createdAt": "2021-05-30T17:55:39.000Z",
-    "updatedAt": "2021-07-12T05:12:03.000Z",
+    "updatedAt": "2021-08-22T02:56:30.000Z",
     "key": "zoe1_0da98eac",
     "original": "A male! A male… Perhaps you are looking for someone to nail?",
-    "translation": "颇有姿色大帅哥，与我巫山云雨乐？",
+    "translation": "姿色出众小帅哥，与我巫山云雨乐？",
     "file": 272346,
     "stage": 1,
     "project": 2414,
-    "uid": 22440,
+    "uid": 22108,
     "extra": null,
     "context": "说话人: zo \n代码: https://github.com/ponytranz/FwBCN/blob/main/game/deepforest.rpy#L191",
     "words": 12

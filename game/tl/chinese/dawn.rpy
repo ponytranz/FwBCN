@@ -3290,7 +3290,7 @@ translate chinese dawnvisit3_92e7873f:
 translate chinese dawnvisit3_ae78af67:
 
     # paurora "Must be good! *Giggle*"
-    paurora "一定很棒哦！咯咯笑"
+    paurora "一定很棒哦！*咯咯笑*"
 
 # game/dawn.rpy#L1000
 translate chinese dawnvisit3_d60aa4a8:
@@ -3812,7 +3812,7 @@ translate chinese ppclsex_fb264048:
 translate chinese ppclsex_e5cf4931:
 
     # paurora "That was quite pleasant, [playername]. I hope I was able to make this trip sufficiently ‘nostalgic’. *Giggle*"
-    paurora "刚才很尽兴，[playername]?。我希望你会‘怀念’这趟旅程。咯咯笑"
+    paurora "刚才很尽兴，[playername]?。我希望你会‘怀念’这趟旅程。*咯咯笑*"
 
 # game/dawn.rpy#L1151
 translate chinese ppclsex_50234ab5:
@@ -4214,7 +4214,7 @@ translate chinese ppclsex_ca8b03c1:
 translate chinese ppclsex_2e837e43:
 
     # paurora "Oohh, next time… I see, I see… The office is always open for that sort of business from between 8:00am to 9:00am. *Giggle*"
-    paurora "哦哦，下一次……我懂了，我懂了……在早上八点到九点之间，这件办公室都对那种事情开放。咯咯笑"
+    paurora "哦哦，下一次……我懂了，我懂了……在早上八点到九点之间，这件办公室都对那种事情开放。*咯咯笑*"
 
 # game/dawn.rpy#L1257
 translate chinese ppclsex_d221ff1c:

@@ -7562,7 +7562,7 @@ translate chinese boutiqueaftermenu_373ba7d5:
 translate chinese boutiqueaftermenu_0a1e35d4:
 
     # ruby "Rather than imagining myself as the girl in the sex scenes, I'd imagine myself watching. Not as a cuckold mind you, as a voyeur."
-    ruby "Rather than imagining myself as the girl in the sex scenes, I'd imagine myself watching. Not as a cuckold mind you, as a voyeur."
+    ruby "我不会把自己想像成剧情中的女主，而是会把自己当成旁观者。我并不喜欢给别人戴绿帽子，而是喜欢偷窥。"
 
 # game/boutique.rpy#L2220
 translate chinese boutiqueaftermenu_4ed3ba45:
@@ -8138,7 +8138,7 @@ translate chinese rubyeveningmenu_0e522fab:
 translate chinese rubyeveningmenu_2fd4d2e7:
 
     # melody "Don't pretend I'm the one sucking up to you, when you're always sucking up to me."
-    melody "Don't pretend I'm the one sucking up to you, when you're always sucking up to me."
+    melody "你想找我快活的时候，千万不要假装成是我想快活了，所以才会来找你。"
 
 # game/boutique.rpy#L2406
 translate chinese rubyeveningmenu_e291b42e:
@@ -8156,25 +8156,25 @@ translate chinese rubyeveningmenu_88816298_1:
 translate chinese rubyeveningmenu_a1d7cb25:
 
     # melody "N-No way, no way! It's a lie!"
-    melody "N-No way, no way! It's a lie!"
+    melody "不……不可能，不可能！是骗人的！"
 
 # game/boutique.rpy#L2412
 translate chinese rubyeveningmenu_f7e4a716:
 
     # melody "I accidentally said so many embarrassing things while under the influence, eep!"
-    melody "I accidentally said so many embarrassing things while under the influence, eep!"
+    melody "啊哦，我在受到影响和干扰的时候，可能会在无意之中说出很多让人尴尬的事！"
 
 # game/boutique.rpy#L2413
 translate chinese rubyeveningmenu_06da4f18:
 
     # ruby "Hah, the secret is out Melody! You're just as much of a degenerate as I am!"
-    ruby "Hah, the secret is out Melody! You're just as much of a degenerate as I am!"
+    ruby "哈，Melody，你的秘密已经公之于众了！原来你和我一样，也是个这么龌龊的人！"
 
 # game/boutique.rpy#L2414
 translate chinese rubyeveningmenu_9d573f88:
 
     # mc "Hehe, that's true."
-    mc "嘿嘿，没错。"
+    mc "嘿嘿，这倒是。"
 
 # game/boutique.rpy#L2415
 translate chinese rubyeveningmenu_2c08a6f1:
@@ -8300,7 +8300,7 @@ translate chinese rubyeveningmenu_bb4b854d:
 translate chinese rubyeveningmenu_af3dc803:
 
     # "It seems Ruby is getting a lot of additional pleasure being watched. This kind of perverted situation is perfect to get someone like her off."
-    "It seems Ruby is getting a lot of additional pleasure being watched. This kind of perverted situation is perfect to get someone like her off."
+    "看来，在一旁欣赏的Ruby也感受到了许多额外的乐趣。在看到这种十分变态的画面后，让人有一种想上她的冲动。"
 
 # game/boutique.rpy#L2442
 translate chinese rubyeveningmenu_375b10cc:
@@ -8324,7 +8324,7 @@ translate chinese rubyeveningmenu_e0c2f3ad:
 translate chinese rubyeveningmenu_16485c33:
 
     # "After about a minute fucking and the pleasure constantly rising, Ruby's back curls as a mind shattering orgasm robs her from her body's control."
-    "After about a minute fucking and the pleasure constantly rising, Ruby's back curls as a mind shattering orgasm robs her from her body's control."
+    "经历了大约一分钟的啪啪啪之后，Ruby的快感持续飙升。由于极度的快感，使得她完全达到了高潮，她的精神也开始变得恍惚起来，身体也失去了控制。因此，她的后背开始不自主地弯曲起来。"
 
 # game/boutique.rpy#L2447
 translate chinese rubyeveningmenu_2854082e:
@@ -8360,7 +8360,7 @@ translate chinese rubyeveningmenu_aa9b74fc:
 translate chinese rubyeveningmenu_a70d1b1a:
 
     # melody "Quit it with the hentai dialogue! It's disgustin- mmmgghhh?!"
-    melody "Quit it with the hentai dialogue! It's disgustin- mmmgghhh?!"
+    melody "别再说那么变态的话了！太恶心了……嗯呃呃？！"
 
 # game/boutique.rpy#L2463
 translate chinese rubyeveningmenu_6150b4be:
@@ -8372,7 +8372,7 @@ translate chinese rubyeveningmenu_6150b4be:
 translate chinese rubyeveningmenu_858ee7d6:
 
     # "She’s so immensely wet that I sink in even faster than I expected. Her pussy is usually tighter than this, but she’s so aroused that she accepts my girth far easier."
-    "She’s so immensely wet that I sink in even faster than I expected. Her pussy is usually tighter than this, but she’s so aroused that she accepts my girth far easier."
+    "她的里面已经完完全全地湿透了，所以，我插入的速度比预想中快了很多。在平时，她的小穴要比现在紧得多。但现在，她的性欲已经被完全唤醒了，因此，为了欢迎我粗粗的肉棒的到来，她的小穴变得松弛了很多。"
 
 # game/boutique.rpy#L2465
 translate chinese rubyeveningmenu_46e7cb81:
@@ -8534,7 +8534,7 @@ translate chinese rubyeveningmenu_19341b51:
 translate chinese rubyeveningmenu_d1b1bba9:
 
     # "We didn't mention the sex a single time, but we were all satisfied."
-    "We didn't mention the sex a single time, but we were all satisfied."
+    "虽然我们不是在同一时间进行的爱爱，但我们每个人都获得了满足。"
 
 # game/boutique.rpy#L2508
 translate chinese rubyeveningmenu_6b91c85a:
@@ -9272,7 +9272,7 @@ translate chinese melodyeveningmenu_3f47dd1b:
 translate chinese melodyeveningmenu_29294ad0:
 
     # melody "Least you could do is shower first, if you put your dick in me now, that's borderline incest!"
-    melody "Least you could do is shower first, if you put your dick in me now, that's borderline incest!"
+    melody "如果你现在就想上我的话，至少应该先去洗个澡才对，要不然这会算是间接乱伦的！"
 
 # game/boutique.rpy#L2762
 translate chinese melodyeveningmenu_9ce6cbad:
@@ -9290,7 +9290,7 @@ translate chinese melodyeveningmenu_aa9663d4:
 translate chinese mspt1_a2805e4b:
 
     # melody "Pfft, did you really think I'd give you a choice on how you want to fuck me?"
-    melody "Pfft, did you really think I'd give you a choice on how you want to fuck me?"
+    melody "切，你真以为我会让你选你喜欢的爱爱方式吗？"
 
 # game/boutique.rpy#L2783
 translate chinese mspt1_56ac684b:
@@ -9374,7 +9374,7 @@ translate chinese mspt1_fb9c571a:
 translate chinese mspt1_f7c00b20:
 
     # "Her handjob speeds up, mirroring the speed of her hasty fingering. The growing sensations cause my cock to throb and drip with precum."
-    "Her handjob speeds up, mirroring the speed of her hasty fingering. The growing sensations cause my cock to throb and drip with precum."
+    "她加快了撸动的速度，手指的动作也变得急促起来。由于快感的不断增强，我的肉棒开始抖动起来，前列腺液也顺着它的顶端流了出来。"
 
 # game/boutique.rpy#L2808
 translate chinese mspt1_6f7b8485:
@@ -9566,7 +9566,7 @@ translate chinese mspt1_937c7664:
 translate chinese mspt1_74fb2377:
 
     # "She kneels down bringing her face level with my cock and begins idly licking it with her tongue."
-    "She kneels down bringing her face level with my cock and begins idly licking it with her tongue."
+    "她跪在我面前，将自己的脸移动到了与我肉棒高度相当的地方，然后开始用舌头慵懒地舔舐起来。"
 
 # game/boutique.rpy#L2877
 translate chinese mspt1_1e98fe6f:
@@ -9584,7 +9584,7 @@ translate chinese mspt1_0c85d943:
 translate chinese mspt1_022270e4:
 
     # "She's doesn't hold back at all as she twirls her tongue around the tip of my cock, licking off any precum as it drips."
-    "She's doesn't hold back at all as she twirls her tongue around the tip of my cock, licking off any precum as it drips."
+    "她卷起舌头舔舐着我肉棒的顶端，同时吸吮着上面的每一滴前列腺液，丝毫没有停下来的意思。"
 
 # game/boutique.rpy#L2881
 translate chinese mspt1_ab9bd251:
@@ -9782,7 +9782,7 @@ translate chinese melodyeveningsex_69df9c8e:
 translate chinese melodyeveningsex_d9424182:
 
     # "With a quick movement, she pulls back and climbs on top of me, beginning to grind her cute pussy lips against my wet shaft."
-    "With a quick movement, she pulls back and climbs on top of me, beginning to grind her cute pussy lips against my wet shaft."
+    "说着，她以迅雷不及掩耳之势骑到了我的身上，并将自己小巧可爱的阴唇抵在了我湿漉漉的肉棒上。"
 
 # game/boutique.rpy#L2952
 translate chinese melodyeveningsex_450b40bf:
@@ -9812,7 +9812,7 @@ translate chinese melodyeveningsex_57d3faa1:
 translate chinese melodyeveningsex_75784f2a:
 
     # "The angry flat-chested mare starts to gently lift her hips up and down with far more control than last time, sensually gyrating and twisting her hips as my cock throbs against the deepest reaches of her pussy."
-    "The angry flat-chested mare starts to gently lift her hips up and down with far more control than last time, sensually gyrating and twisting her hips as my cock throbs against the deepest reaches of her pussy."
+    "这匹愤怒的平胸小母马开始缓缓地上下移动起自己的腰身。这一次，她对身体的控制要比上一次好很多。当我的肉棒深深插入到她小穴的最深处时，她便开始满怀激情地扭动起自己的腰身。"
 
 # game/boutique.rpy#L2961
 translate chinese melodyeveningsex_f5c82fe3:
@@ -9830,19 +9830,19 @@ translate chinese melodyeveningsex_5cc50212:
 translate chinese melodyeveningsex_211360ca:
 
     # "My throbbing shaft couldn't be any harder than it is now, and she knows this as she teases me."
-    "My throbbing shaft couldn't be any harder than it is now, and she knows this as she teases me."
+    "现在，我那根悸动的肉棒已经硬到了极点。在她玩弄的时候，她肯定也感觉到了。"
 
 # game/boutique.rpy#L2965
 translate chinese melodyeveningsex_9ab37349:
 
     # melody "You're quite the catch, y'know? A stallion would have cum by now."
-    melody "You're quite the catch, y'know? A stallion would have cum by now."
+    melody "你的忍耐力可真强，你知道吗？要是其他种马遇到这种情况，现在应该早就射了。"
 
 # game/boutique.rpy#L2966
 translate chinese melodyeveningsex_60a985c8:
 
     # melody "But you and me, we can have a lot of fun..."
-    melody "But you and me, we can have a lot of fun..."
+    melody "如果是你和我的话，咱们就可以享受更多有意思的事了……"
 
 # game/boutique.rpy#L2967
 translate chinese melodyeveningsex_c901a0f8:
@@ -9908,7 +9908,7 @@ translate chinese melodyeveningsex_44e712a7:
 translate chinese melodyeveningsex_a9e4f23d:
 
     # "She cries out in girly pleasure as I take control from below, fucking her tight cunt with my rapid thrusts."
-    "She cries out in girly pleasure as I take control from below, fucking her tight cunt with my rapid thrusts."
+    "当我从下方控制住她并快速抽插她紧致的蜜穴时，她发出了娇嫩而愉快的呻吟声。"
 
 # game/boutique.rpy#L2983
 translate chinese melodyeveningsex_93f793f1:
@@ -9920,19 +9920,19 @@ translate chinese melodyeveningsex_93f793f1:
 translate chinese melodyeveningsex_c72ee89a:
 
     # melody "Ahhh, ahh! I am the one that fucks, b-bastaaaahhhh! Haaahh!"
-    melody "Ahhh, ahh! I am the one that fucks, b-bastaaaahhhh! Haaahh!"
+    melody "啊，啊！干你的人可是我，你个大~混~蛋！哈啊啊啊！"
 
 # game/boutique.rpy#L2985
 translate chinese melodyeveningsex_299eb673:
 
     # "Her ludicrous riding speed pushes us both to an orgasmic mess within ten seconds, as she orgasms again."
-    "Her ludicrous riding speed pushes us both to an orgasmic mess within ten seconds, as she orgasms again."
+    "当她再次达到高潮时，她加快了扭动的速度。在短短十秒钟内，我们两人就同时高潮了。这简直无法想象。"
 
 # game/boutique.rpy#L2990
 translate chinese melodyeveningsex_7ee8b536:
 
     # "My cock erupts within, and the insane riding causes it to go almost everywhere but inside her as it splurts and squirts in all directions."
-    "My cock erupts within, and the insane riding causes it to go almost everywhere but inside her as it splurts and squirts in all directions."
+    "我的肉棒在她的体内暴射了。由于她骑乘位的动作太过剧烈，因此，精液在她的体内四处喷射流淌着。"
 
 # game/boutique.rpy#L2997
 translate chinese melodyeveningsex_af72e5bb:
@@ -9968,7 +9968,7 @@ translate chinese melodyeveningsex_5b4914a4:
 translate chinese melodyeveningsex_a20cefa7:
 
     # "..."
-    "…"
+    "……"
 
 # game/boutique.rpy#L3017
 translate chinese melodyeveningsex_4238b56a:
@@ -10154,13 +10154,13 @@ translate chinese melodyeveningvisit1_e24e1486:
 translate chinese melodyeveningvisit1_5114aa04:
 
     # melody "I love just wandering around, and thinking..."
-    melody "我喜欢到处闲逛，同时思考一些问题…"
+    melody "我喜欢到处闲逛，同时思考一些问题……"
 
 # game/boutique.rpy#L3083
 translate chinese melodyeveningvisit1_6c67c2ea:
 
     # melody "It's very meditative"
-    melody "It's very meditative"
+    melody "很喜欢思考一些事情。"
 
 # game/boutique.rpy#L3084
 translate chinese melodyeveningvisit1_09576434:
@@ -10220,13 +10220,13 @@ translate chinese melodyeveningvisit1_c543435d:
 translate chinese melodyeveningvisit1_f49fff8f:
 
     # mc "Yeah?"
-    mc "是的？"
+    mc "记得，怎么了？"
 
 # game/boutique.rpy#L3103
 translate chinese melodyeveningvisit1_265dc98a:
 
     # melody "I'm sorry I called you crazy, and that I didn't care."
-    melody "I'm sorry I called you crazy, and that I didn't care."
+    melody "真对不起，我之前说你疯了，而且对你的事一点也不在乎。"
 
 # game/boutique.rpy#L3104
 translate chinese melodyeveningvisit1_56f95f40:
@@ -10394,19 +10394,19 @@ translate chinese melodyeveningvisit1_5b701c05:
 translate chinese melodyeveningvisit1_9f17e7dd:
 
     # melody "Hehe, go on then, play with them."
-    melody "Hehe, go on then, play with them."
+    melody "嘿嘿，继续吧，去和她们好好玩一玩吧。"
 
 # game/boutique.rpy#L3155
 translate chinese melodyeveningvisit1_2f378f35:
 
     # "Not one to turn down a lewd prospect, I bring both of my hands to Melody's breasts and start to fondle them."
-    "Not one to turn down a lewd prospect, I bring both of my hands to Melody's breasts and start to fondle them."
+    "没人能抵挡着住色欲的诱惑。于是，我张开双手，抓住了Melody的双乳，然后开始抚摸起来。"
 
 # game/boutique.rpy#L3156
 translate chinese melodyeveningvisit1_9d36e260:
 
     # mc "They're so soft and squishy."
-    mc "They're so soft and squishy."
+    mc "这对乳房不仅非常柔软，而且还十分湿滑。"
 
 # game/boutique.rpy#L3158
 translate chinese melodyeveningvisit1_5e42807d:
@@ -10532,13 +10532,13 @@ translate chinese melodyeveningvisit1_57d3faa1:
 translate chinese melodyeveningvisit1_75784f2a:
 
     # "The angry flat-chested mare starts to gently lift her hips up and down with far more control than last time, sensually gyrating and twisting her hips as my cock throbs against the deepest reaches of her pussy."
-    "The angry flat-chested mare starts to gently lift her hips up and down with far more control than last time, sensually gyrating and twisting her hips as my cock throbs against the deepest reaches of her pussy."
+    "这匹愤怒的平胸小母马开始缓缓地上下移动起自己的腰身。这一次，她对身体的控制要比上一次好很多。当我的肉棒深深插入到她小穴的最深处时，她便开始满怀激情地扭动起自己的腰身。"
 
 # game/boutique.rpy#L3197
 translate chinese melodyeveningvisit1_b1230d44:
 
     # "No doubt filling her with great pleasure, as indicated by the quivering in her thighs at the peak of each thrust."
-    "No doubt filling her with great pleasure, as indicated by the quivering in her thighs at the peak of each thrust."
+    "每一次插入到最深处时，她的双腿都会剧烈地颤抖着，这说明，她肯定感受到了无比的愉悦。"
 
 # game/boutique.rpy#L3198
 translate chinese melodyeveningvisit1_5cc50212:
@@ -10568,25 +10568,25 @@ translate chinese melodyeveningvisit1_60a985c8:
 translate chinese melodyeveningvisit1_c901a0f8:
 
     # "She sighs as she once again sinks downwards along the length of my cock, it's a surprise that she can take the entire thing so easily."
-    "She sighs as she once again sinks downwards along the length of my cock, it's a surprise that she can take the entire thing so easily."
+    "当她再次将我的整根肉棒塞进自己的下体时，她轻轻地发出了几声叹息。令我感到意外的是，她居然可以很轻松地将它完全插进去。"
 
 # game/boutique.rpy#L3204
 translate chinese melodyeveningvisit1_7957b06f:
 
     # "I feel her hands squeeze at my legs as she grips onto me for leverage, her hips beginning to speed up their assault."
-    "I feel her hands squeeze at my legs as she grips onto me for leverage, her hips beginning to speed up their assault."
+    "在她扶着我，并以我为支撑点时，我可以感觉到她的双手正在用力地压在我的双腿上。随后，她的臀部开始加快了抖动的速度。"
 
 # game/boutique.rpy#L3205
 translate chinese melodyeveningvisit1_021fe9c4:
 
     # "Her cute breasts bounce up and down with each thrust, I can't help but bring my hands up to them and fondle them."
-    "Her cute breasts bounce up and down with each thrust, I can't help but bring my hands up to them and fondle them."
+    "每抽插一次，她那对娇乳就会上下晃动起来。见此情景，我不由自主地将手伸向了它们，并开始了抚摸。"
 
 # game/boutique.rpy#L3207
 translate chinese melodyeveningvisit1_9bc7b3d7:
 
     # "Despite the fact that I'm a 'toy', Melody allows the action with glee, biting her lip as I toy with her sensitive nipples."
-    "Despite the fact that I'm a 'toy', Melody allows the action with glee, biting her lip as I toy with her sensitive nipples."
+    "尽管我现在已经成为了Melody的玩物，但在我玩弄她敏感的乳头时，她还是边微笑着，边轻咬着双唇默许了。"
 
 # game/boutique.rpy#L3208
 translate chinese melodyeveningvisit1_c2cc1802:
@@ -10604,7 +10604,7 @@ translate chinese melodyeveningvisit1_2dd3ac9b:
 translate chinese melodyeveningvisit1_9f535f96:
 
     # "Unlike last time she's paced herself incredibly well, I'm not even close to cumming yet."
-    "Unlike last time she's paced herself incredibly well, I'm not even close to cumming yet."
+    "和上次不同的是，这次她的节奏掌握得很好，因为我到现在还没有任何高潮的感觉。"
 
 # game/boutique.rpy#L3212
 translate chinese melodyeveningvisit1_3be175a8:
@@ -10646,13 +10646,13 @@ translate chinese melodyeveningvisit1_c72ee89a:
 translate chinese melodyeveningvisit1_299eb673:
 
     # "Her ludicrous riding speed pushes us both to an orgasmic mess within ten seconds, as she orgasms again."
-    "Her ludicrous riding speed pushes us both to an orgasmic mess within ten seconds, as she orgasms again."
+    "当她再次达到高潮时，她加快了扭动的速度。在短短十秒钟内，我们两人就同时高潮了。这简直无法想象。"
 
 # game/boutique.rpy#L3226
 translate chinese melodyeveningvisit1_7ee8b536:
 
     # "My cock erupts within, and the insane riding causes it to go almost everywhere but inside her as it splurts and squirts in all directions."
-    "My cock erupts within, and the insane riding causes it to go almost everywhere but inside her as it splurts and squirts in all directions."
+    "我的肉棒在她的体内暴射了。由于她骑乘位的动作太过剧烈，因此，精液在她的体内四处喷射流淌着。"
 
 # game/boutique.rpy#L3233
 translate chinese melodyeveningvisit1_af72e5bb:
@@ -10688,7 +10688,7 @@ translate chinese melodyeveningvisit1_2f000a02:
 translate chinese melodyeveningvisit1_a20cefa7:
 
     # "..."
-    "..."
+    "……"
 
 # game/boutique.rpy#L3246
 translate chinese melodyeveningvisit1_e2777144:
@@ -10970,19 +10970,19 @@ translate chinese rubylingeriesex_3b10b888:
 translate chinese rubylingeriesex_ecce7cb2:
 
     # "The view from up here is amazing, Ruby’s cute bubble butt is always a marvel to witness in action. She doesn’t simply let herself be fucked, she wiggles her hips back and forth to meet mine, making each thrust that much better."
-    "The view from up here is amazing, Ruby’s cute bubble butt is always a marvel to witness in action. She doesn’t simply let herself be fucked, she wiggles her hips back and forth to meet mine, making each thrust that much better."
+    "从这个角度欣赏Ruby的身姿简直太完美了，在爱爱的过程中，她可爱而圆润的臀部总是让人垂涎。但她可不是那种能轻易被人上的小马。只见她在我的下体前前后晃动着自己的腰身，这使得每一次抽插的感觉越发地愉悦起来。"
 
 # game/boutique.rpy#L3314
 translate chinese rubylingeriesex_6a5734a2:
 
     # ruby "Aahhh, ahhh… I love your thick cock, darling… Mmphh, tighten it for me, ahhh…"
-    ruby "啊啊啊，啊啊啊……我好喜欢你的大屌啊，亲爱的……嗯嗯嗯，是为了我才硬起来的吧，啊……"
+    ruby "啊啊啊，啊啊啊……我好喜欢你的大屌啊，亲爱的……嗯嗯嗯，快为我硬起来吧，啊……"
 
 # game/boutique.rpy#L3315
 translate chinese rubylingeriesex_3e01f91e:
 
     # "I tighten my cock slightly at her request, and in turn she tightens her pussy slightly."
-    "I tighten my cock slightly at her request, and in turn she tightens her pussy slightly."
+    "我遵照她的请求，让自己的肉棒又稍稍坚挺了一些。同样地，她也将自己的小穴微微缩紧了一些。"
 
 # game/boutique.rpy#L3316
 translate chinese rubylingeriesex_596f1865:
@@ -11006,55 +11006,55 @@ translate chinese rubylingeriesex_80d66b7a:
 translate chinese rubylingeriesex_dbcf1896:
 
     # "Now rhythmically clenching around my cock, Ruby does her best to milk me dry as I pound into her sloppy wet puss."
-    "Now rhythmically clenching around my cock, Ruby does her best to milk me dry as I pound into her sloppy wet puss."
+    "现在，Ruby的蜜穴正在有节奏地包裹挤压着我的肉棒。在我用力抽插撞击着她丰满而湿漉漉的小穴时，她也在尽自己的全力榨取着我的精液。"
 
 # game/boutique.rpy#L3320
 translate chinese rubylingeriesex_736b00e5:
 
     # "At this rate, it wouldn’t take either of us long to come. But while Ruby does her best to get me off, I still have a trick up my sleeve."
-    "At this rate, it wouldn’t take either of us long to come. But while Ruby does her best to get me off, I still have a trick up my sleeve."
+    "按照现在的节奏，用不了多久，我们两个就都会高潮的。但在Ruby用尽全力让我达到高潮的同时，我也用了一些小手段。"
 
 # game/boutique.rpy#L3321
 translate chinese rubylingeriesex_044839e9:
 
     # "With one hand clenching tightly around her hips for leverage, I bring my other between her legs and start to rub her clit."
-    "With one hand clenching tightly around her hips for leverage, I bring my other between her legs and start to rub her clit."
+    "我一只手紧紧地抓住她的腰部，然后以此为支点，我又将另一只手放在了她双腿之间，随后开始揉搓摩擦起她的阴蒂。"
 
 # game/boutique.rpy#L3322
 translate chinese rubylingeriesex_a4ac0477:
 
     # "Now she’s really starting to moan. Her eyes close tight and her fingers clench the bedsheets in response to the spike in pleasure."
-    "Now she’s really starting to moan. Her eyes close tight and her fingers clench the bedsheets in response to the spike in pleasure."
+    "现在，她终于发出了呻吟声。只见她双眼紧闭，双手牢牢地抓着床单。显然，她一定是感受到了无比的愉悦和快感，所以才会有这些表现。"
 
 # game/boutique.rpy#L3323
 translate chinese rubylingeriesex_be12d29f:
 
     # ruby "Ahhh, aaahhh… Wh-What a gentleman, ahhaah… Ahhhhh, you’re gonna make me come, so quickly!"
-    ruby "Ahhh, aaahhh… Wh-What a gentleman, ahhaah… Ahhhhh, you’re gonna make me come, so quickly!"
+    ruby "啊，啊啊啊……你……你还真是个绅士呢，哈啊啊……啊啊啊，你要让我高潮了，这也太快了吧！"
 
 # game/boutique.rpy#L3324
 translate chinese rubylingeriesex_291d6723:
 
     # "Ruby seems easier to get off than most girls, especially by rubbing her clit. Within only thirty seconds orgasmic pleasure seems to completely consume her body."
-    "Ruby seems easier to get off than most girls, especially by rubbing her clit. Within only thirty seconds orgasmic pleasure seems to completely consume her body."
+    "看来，Ruby达到高潮的速度要比其他的姑娘快很多，在揉搓摩擦她的阴蒂时更是如此。揉捏进行了还不到三十秒钟，她就已经被高潮所带来的快感完全淹没了。"
 
 # game/boutique.rpy#L3325
 translate chinese rubylingeriesex_c3bbec34:
 
     # "My own orgasm is creeping ever closer. As I continue to pound Ruby, at an accelerating pace, I can feel the urge to cum rising."
-    "My own orgasm is creeping ever closer. As I continue to pound Ruby, at an accelerating pace, I can feel the urge to cum rising."
+    "同时，我自己也即将到达高潮的边缘。在继续抽插着Ruby的蜜穴时，我逐渐加快了速度，这使我感觉到自己射精的冲动变得越来越明显了。"
 
 # game/boutique.rpy#L3330
 translate chinese rubylingeriesex_964c6e17:
 
     # "And almost before I know it, her tight squeezing cunt robs my orgasm from me and my cum spills freely into her."
-    "And almost before I know it, her tight squeezing cunt robs my orgasm from me and my cum spills freely into her."
+    "在我还没有回过神时，她包裹在我肉棒周围的紧致小穴让我高潮顿起，精液瞬间喷射而出，流向了她小穴的深处。"
 
 # game/boutique.rpy#L3337
 translate chinese rubylingeriesex_cc50d61f:
 
     # "Several loads of ejaculate seep deeply into my lover. Enough to overflow and spill down her white fluffy thighs."
-    "Several loads of ejaculate seep deeply into my lover. Enough to overflow and spill down her white fluffy thighs."
+    "一番狂射过后，精液全部射向了她小穴的深处。由于射的量过多，一部分精液从小穴中流了出来，滴到了她满是白色茸毛的双腿上。"
 
 # game/boutique.rpy#L3338
 translate chinese rubylingeriesex_b983e123:
@@ -11066,7 +11066,7 @@ translate chinese rubylingeriesex_b983e123:
 translate chinese rubylingeriesex_f45449ca:
 
     # "Ruby crawls ahead slightly, causing my cock to slip out. She gives me a good view of her cum soaked pussy."
-    "Ruby crawls ahead slightly, causing my cock to slip out. She gives me a good view of her cum soaked pussy."
+    "Ruby随后向前爬了爬，我的肉棒随即从她的小穴中滑了出来。然后，我亲眼目睹了她那被精液浸湿灌满的蜜穴。"
 
 # game/boutique.rpy#L3341
 translate chinese rubylingeriesex_148ca135:

@@ -9536,49 +9536,49 @@ translate chinese rikuclimbingsex_1361e8d4:
 translate chinese rikuclimbingsex_a0a4a438:
 
     # riku "That’s the dumbest idea I’ve ever heard!"
-    riku "这是我这辈子听过最傻逼的想法!"
+    riku "这是我这辈子听过最傻逼的想法！"
 
 # game/bar.rpy#L2745
 translate chinese rikuclimbingsex_e811e651:
 
     # mc "Think of it like a challenge. Can you hold on until you’ve been creampied?"
-    mc "Think of it like a challenge. Can you hold on until you’ve been creampied?"
+    mc "感觉这就像是个挑战。等我狂射完你，你还能坚持得住吗？"
 
 # game/bar.rpy#L2747
 translate chinese rikuclimbingsex_4bd1aa1b:
 
     # riku "You’re on. We’re doing this."
-    riku "You’re on. We’re doing this."
+    riku "好啊，咱们开始吧。"
 
 # game/bar.rpy#L2748
 translate chinese rikuclimbingsex_4e14a4a8:
 
     # "Heh, Riku is so easy to lead on."
-    "Heh, Riku is so easy to lead on."
+    "嘿嘿，Riku可真好骗啊。"
 
 # game/bar.rpy#L2750
 translate chinese rikuclimbingsex_ab32395f:
 
     # "Riku: Heh, [playername] is so easy to lead on."
-    "Riku: Heh, [playername] is so easy to lead on."
+    "Riku：嘿嘿，[playername]可真好骗。"
 
 # game/bar.rpy#L2754
 translate chinese rikuclimbingsex_3ea8474d:
 
     # "Anyway, Riku gets into position on the climbing frame. Given the actual position required to have sex with her, I won’t get a good view of her ass. But the image of her glorious ass is burned into my mind."
-    "Anyway, Riku gets into position on the climbing frame. Given the actual position required to have sex with her, I won’t get a good view of her ass. But the image of her glorious ass is burned into my mind."
+    "管他呢。总之，Riku已经爬上了攀岩墙。然后，她摆好姿势，等着我上去和她啪啪啪。从我现在所在的位置来看，根本不清她臀部的样貌。不过，她光滑臀部的样子却早已牢牢地印在了我的脑海中。"
 
 # game/bar.rpy#L2759
 translate chinese rikuclimbingsex_a82b48df:
 
     # "On my knees, I shuffle closer and start to rub her pussy. Spreading her lips. Teasing her clit. All the motions that’ll tease her so she can readily take my cock."
-    "On my knees, I shuffle closer and start to rub her pussy. Spreading her lips. Teasing her clit. All the motions that’ll tease her so she can readily take my cock."
+    "我跪在地上，缓缓地挪到她身边，然后开始揉捏起她的阴部。我扒开她的阴唇，挑逗着她的阴蒂。所有这些动作都会唤起她的欲望，这也是为了她能好好抓住我的肉棒所做的准备。"
 
 # game/bar.rpy#L2760
 translate chinese rikuclimbingsex_49459340:
 
     # riku "Heyy, what’re you teasing me for? I thought we were going to have sex."
-    riku "Heyy, what’re you teasing me for? I thought we were going to have sex."
+    riku "嘿，你挑逗我到底是为了什么呀？我以为咱们已经开始做了呢。"
 
 # game/bar.rpy#L2761
 translate chinese rikuclimbingsex_0d108671:
@@ -9590,25 +9590,25 @@ translate chinese rikuclimbingsex_0d108671:
 translate chinese rikuclimbingsex_05b791cc:
 
     # riku "Damn! No fair! You are real low! You know that?"
-    riku "淦，这太不公平了，你就是个小人你知道吗?"
+    riku "淦，这太不公平了，你就是个小人你知道吗？"
 
 # game/bar.rpy#L2764
 translate chinese rikuclimbingsex_0fb3bec7:
 
     # mc "Just think of this as payback for that truth or dare game."
-    mc "Just think of this as payback for that truth or dare game."
+    mc "你只需要把它想成是对真心话大冒险的补偿就可以了。"
 
 # game/bar.rpy#L2766
 translate chinese rikuclimbingsex_96cbe35f:
 
     # riku "You already got payback for that!"
-    riku "You already got payback for that!"
+    riku "可你已经得到补偿了！"
 
 # game/bar.rpy#L2767
 translate chinese rikuclimbingsex_0b662141:
 
     # mc "Ohh yeah…"
-    mc "Ohh yeah…"
+    mc "哦，是啊……"
 
 # game/bar.rpy#L2768
 translate chinese rikuclimbingsex_44e381cc:
@@ -9620,43 +9620,43 @@ translate chinese rikuclimbingsex_44e381cc:
 translate chinese rikuclimbingsex_1959d8df:
 
     # mc "Nooo, of course not."
-    mc "Nooo, of course not."
+    mc "不不不，当然不喜欢了。"
 
 # game/bar.rpy#L2770
 translate chinese rikuclimbingsex_2d1daf2a:
 
     # "I am totally loving this."
-    "I am totally loving this."
+    "说真的，我已经完全爱上它了。"
 
 # game/bar.rpy#L2771
 translate chinese rikuclimbingsex_03f54b2c:
 
     # "To my surprise, as my fingers brush against her pussy, she’s already very wet."
-    "没想到在我的手指抚弄她的小穴之前,她就已经湿了."
+    "没想到，在我的手指抚弄她的小穴之前，她的下面就已经湿了。"
 
 # game/bar.rpy#L2772
 translate chinese rikuclimbingsex_095963f3:
 
     # mc "How are you this wet already?"
-    mc "How are you this wet already?"
+    mc "你怎么已经湿了？"
 
 # game/bar.rpy#L2773
 translate chinese rikuclimbingsex_bfe4b703:
 
     # riku "Ehh, well… I’m kinda always this wet…"
-    riku "Ehh, well… I’m kinda always this wet…"
+    riku "呃，是啊……我这里总是很湿的……"
 
 # game/bar.rpy#L2774
 translate chinese rikuclimbingsex_db8e39e6:
 
     # mc "That’s nice to know."
-    mc "That’s nice to know."
+    mc "能知道这事真是太好了。"
 
 # game/bar.rpy#L2775
 translate chinese rikuclimbingsex_b0633a85:
 
     # "I bring the tip of my dick towards her pussy, but, instead of entering deeper, I teasingly glide my glans up and down the length of her vulva."
-    "I bring the tip of my dick towards her pussy, but, instead of entering deeper, I teasingly glide my glans up and down the length of her vulva."
+    "我将龟头对准她的小穴。但我并没有将它直接插入到小穴深处，而是将它放在外阴部位，然后在其中上下滑动起来。"
 
 # game/bar.rpy#L2777
 translate chinese rikuclimbingsex_0c48d25d:
@@ -9668,13 +9668,13 @@ translate chinese rikuclimbingsex_0c48d25d:
 translate chinese rikuclimbingsex_f3b5d645:
 
     # mc "Is the challenge too hard for you?"
-    mc "这挑战对你来说太过艰难了吗?"
+    mc "这挑战对你来说是不是太难了呢？"
 
 # game/bar.rpy#L2780
 translate chinese rikuclimbingsex_2182b9f3:
 
     # riku "Ghh, ahh… No way!"
-    riku "Ghh, ahh… No way!"
+    riku "额，啊……不可能！"
 
 # game/bar.rpy#L2784
 translate chinese rikuclimbingsex_9f8be9a0:
@@ -9698,25 +9698,25 @@ translate chinese rikuclimbingsex_27b006c6:
 translate chinese rikuclimbingsex_55464b91:
 
     # riku "You’re not uh, planning on going that slowly this entire time, are you? We are kind of in a public place."
-    riku "You’re not uh, planning on going that slowly this entire time, are you? We are kind of in a public place."
+    riku "你该不会是要……啊，是要在这地方慢慢地做吧，是吗？咱们现在可是在公共场所啊。"
 
 # game/bar.rpy#L2789
 translate chinese rikuclimbingsex_41d3e5c4:
 
     # mc "Relax, if anyone comes inside, we’re in subtle enough of a position to pull out and not seem suspicious."
-    mc "Relax, if anyone comes inside, we’re in subtle enough of a position to pull out and not seem suspicious."
+    mc "别担心，咱们现在的位置很隐蔽，如果有人进来了，他们也不会起疑心的。"
 
 # game/bar.rpy#L2790
 translate chinese rikuclimbingsex_d90b8062:
 
     # riku "Mmphh.. If you say so…"
-    riku "Mmphh.. If you say so…"
+    riku "嗯……就听你的吧……"
 
 # game/bar.rpy#L2792
 translate chinese rikuclimbingsex_f12fbb8c:
 
     # "I begin thrusting, back and forth. I deliberately slide my cock almost all the way out, before allowing it to sink back in."
-    "I begin thrusting, back and forth. I deliberately slide my cock almost all the way out, before allowing it to sink back in."
+    "于是，我开始前后抽插起来。在肉棒还没有完全插入之前，我便将它小心翼翼地拔了出来。"
 
 # game/bar.rpy#L2793
 translate chinese rikuclimbingsex_f15d7c4b:
@@ -9782,19 +9782,19 @@ translate chinese rikuclimbingsex_e1a166e6:
 translate chinese rikuclimbingsex_a0819c2e:
 
     # "I kept going, thrusting deep inside her and soon I could feel her vagina tremble and tighten around my throbbing shaft. Is she getting close to coming already? She’s such a perv."
-    "I kept going, thrusting deep inside her and soon I could feel her vagina tremble and tighten around my throbbing shaft. Is she getting close to coming already? She’s such a perv."
+    "我不停地在她的下体来回抽插着。不久后，我就感觉到她的阴道开始颤抖起来，而且它还紧紧地包裹着我悸动的肉棒。她是不是马上就要高潮了？她可真是个变态。"
 
 # game/bar.rpy#L2806
 translate chinese rikuclimbingsex_78625616:
 
     # riku "Ahhh… This feels too good, I’m gonna… Ahhh…"
-    riku "啊...这感觉真是太棒了,我要...啊..."
+    riku "啊……这感觉真是太棒了，我要……啊……"
 
 # game/bar.rpy#L2807
 translate chinese rikuclimbingsex_40d0481f:
 
     # riku "I can’t take it any longer, ahh… I’m gonna come! Ahhhh!"
-    riku "I can’t take it any longer, ahh… I’m gonna come! Ahhhh!"
+    riku "我坚持不住了，啊……我要高潮了！啊啊啊！"
 
 # game/bar.rpy#L2808
 translate chinese rikuclimbingsex_a51a11f1:
@@ -12548,7 +12548,7 @@ translate chinese doubledoggo_ca467085:
 translate chinese doubledoggo_69260b9f:
 
     # "Ah, it’s one of my favourite canine gals."
-    "Ah, it’s one of my favourite canine gals."
+    "啊，这可是我最喜欢的犬女之一了。"
 
 # game/bar.rpy#L3727
 translate chinese doubledoggo_5e3c71f4:
@@ -12560,7 +12560,7 @@ translate chinese doubledoggo_5e3c71f4:
 translate chinese doubledoggo_b3a4e9c7:
 
     # mc "Hey Rosa. how’s it-?"
-    mc "Hey Rosa. how’s it-?"
+    mc "嘿，Rosa。今天过得怎……？"
 
 # game/bar.rpy#L3729
 translate chinese doubledoggo_12c320ca:
@@ -12572,7 +12572,7 @@ translate chinese doubledoggo_12c320ca:
 translate chinese doubledoggo_3632ebd7:
 
     # wolfgirl "Oh, [playername]. I saw you in the corner of my eye and thought I’d say hello. Are you with a friend?"
-    wolfgirl "Oh, [playername]. I saw you in the corner of my eye and thought I’d say hello. Are you with a friend?"
+    wolfgirl "哦，[playername]。我刚才无意中看见了你，所以想过来打个招呼。你是和朋友一起来的吗？"
 
 # game/bar.rpy#L3734
 translate chinese doubledoggo_db94e3a7:
@@ -12584,13 +12584,13 @@ translate chinese doubledoggo_db94e3a7:
 translate chinese doubledoggo_97df4eda:
 
     # mc "Friend, yes. You’re both my friends."
-    mc "Friend, yes. You’re both my friends."
+    mc "对，我是和朋友一起来的，没错。你们两个都是我朋友。"
 
 # game/bar.rpy#L3736
 translate chinese doubledoggo_c0d11814:
 
     # "This situation has become complicated."
-    "This situation has become complicated."
+    "现在的情况变得有些复杂了。"
 
 # game/bar.rpy#L3737
 translate chinese doubledoggo_511df9ef:
@@ -12602,13 +12602,13 @@ translate chinese doubledoggo_511df9ef:
 translate chinese doubledoggo_92601685:
 
     # "Or… maybe not?"
-    "Or… maybe not?"
+    "或者……还是算了吧。"
 
 # game/bar.rpy#L3739
 translate chinese doubledoggo_1ebada85:
 
     # doggirl "Hell yeah! Anyone offering to buy me a drink is welcome to be a friend. Come sit next to me."
-    doggirl "Hell yeah! Anyone offering to buy me a drink is welcome to be a friend. Come sit next to me."
+    doggirl "耶，太好了！所有请我喝酒的人都能成为我的朋友。来，过来坐。"
 
 # game/bar.rpy#L3740
 translate chinese doubledoggo_869a59a5:

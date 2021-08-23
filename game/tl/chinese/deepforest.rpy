@@ -590,7 +590,7 @@ translate chinese zoe1_e39531a1:
 translate chinese zoe1_0da98eac:
 
     # zo "A male! A male… Perhaps you are looking for someone to nail?"
-    zo "颇有姿色大帅哥，与我巫山云雨乐？"
+    zo "姿色出众小帅哥，与我巫山云雨乐？"
 
 # game/deepforest.rpy#L192
 translate chinese zoe1_de847361:

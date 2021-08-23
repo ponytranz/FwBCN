@@ -2642,13 +2642,13 @@ translate chinese farmvisit1_6e5d241c_1:
 translate chinese farmvisit1_26e669bd:
 
     # butters "I guess so, I haven't had a lot of recent experiences with heat until just now, but I can definitely say it's easy to make bad decisions when you're young and dumb."
-    butters "I guess so, I haven't had a lot of recent experiences with heat until just now, but I can definitely say it's easy to make bad decisions when you're young and dumb."
+    butters "我想是的，直到现在我才有了很多关于做爱的经验，但我可以肯定地说，当你年轻又笨的时候，很容易做出错误的决定。"
 
 # game/farm.rpy#L825
 translate chinese farmvisit1_25f1510a_1:
 
     # mc "Ahh, that helps me relate to it a little."
-    mc "Ahh, that helps me relate to it a little."
+    mc "啊，这对我有一些帮助。"
 
 # game/farm.rpy#L826
 translate chinese farmvisit1_db485bd0_1:
