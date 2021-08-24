@@ -8012,7 +8012,7 @@ translate chinese rubyeveningmenu_373ba7d5:
 translate chinese rubyeveningmenu_0a1e35d4:
 
     # ruby "Rather than imagining myself as the girl in the sex scenes, I'd imagine myself watching. Not as a cuckold mind you, as a voyeur."
-    ruby "Rather than imagining myself as the girl in the sex scenes, I'd imagine myself watching. Not as a cuckold mind you, as a voyeur."
+    ruby "我不会把自己想像成剧情中的女主，而是会把自己当成旁观者。我并不喜欢给别人戴绿帽子，而是喜欢偷窥。"
 
 # game/boutique.rpy#L2358
 translate chinese rubyeveningmenu_4ed3ba45:
@@ -8126,7 +8126,7 @@ translate chinese rubyeveningmenu_fb095cec:
 translate chinese rubyeveningmenu_48caddc7:
 
     # melody "N-No way?! You knew that?!"
-    melody "N-No way?! You knew that?!"
+    melody "不……不可能的？！你已经知道了吗？！"
 
 # game/boutique.rpy#L2404
 translate chinese rubyeveningmenu_0e522fab:

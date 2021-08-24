@@ -3548,7 +3548,7 @@ translate chinese creamvmissionary_f641160f:
 translate chinese creamvmissionary_2ca195be:
 
     # "My point of contact with the mare is a deluge of her juices that constantly dribble and drip onto my pelvis, the wet sounds created from our rutting are vulgar to say the least."
-    "My point of contact with the mare is a deluge of her juices that constantly dribble and drip onto my pelvis, the wet sounds created from our rutting are vulgar to say the least."
+    "爱液不断地从我们交合的部位缓缓流出，并滴落到我的下体上。同时，我们做爱时发出的啪啪声简直淫荡极了。"
 
 # game/bakery.rpy#L1149
 translate chinese creamvmissionary_6c928de0:
@@ -4706,127 +4706,127 @@ translate chinese bakeryvisit2_42658dfa:
 translate chinese bakeryvisit2_5c13f4ff:
 
     # cream "The meaning of human life needs to be timeless; you can’t define meaning by time."
-    cream "The meaning of human life needs to be timeless; you can’t define meaning by time."
+    cream "人的存在需要脱离时间；你不能用时间来度量人的存在。"
 
 # game/bakery.rpy#L1472
 translate chinese bakeryvisit2_8943ea01:
 
     # cream "Therefore, the true meaning of life must be true for the 10 second old baby, the 100-year-old woman, and the infinite immortal being."
-    cream "Therefore, the true meaning of life must be true for the 10 second old baby, the 100-year-old woman, and the infinite immortal being."
+    cream "因此，人的存在必允许活了十秒的婴儿出现，必允许活了一百年的老妇人出现，也必允许永恒不朽的存在出现。"
 
 # game/bakery.rpy#L1473
 translate chinese bakeryvisit2_b9c928aa:
 
     # "I stand here, rather perplexed, occasionally looking over to the oven. Baking cakes seems so benign compared to these discussions."
-    "I stand here, rather perplexed, occasionally looking over to the oven. Baking cakes seems so benign compared to these discussions."
+    "我杵在那里，十分困惑，眼光偶然间落在了烤箱上。与这些讨论相比，烘焙蛋糕看起来更人畜无害。"
 
 # game/bakery.rpy#L1475
 translate chinese bakeryvisit2_ec053266:
 
     # cream "Yeah, maybe the meaning of life is to breed and continue your species, but I’d like to think with my sentient arrogance that it’s more than that."
-    cream "Yeah, maybe the meaning of life is to breed and continue your species, but I’d like to think with my sentient arrogance that it’s more than that."
+    cream "是啊，也许生命的意义就是要繁衍并延续自己所属的的物种，但我更想傲慢的说，这还远远不够。"
 
 # game/bakery.rpy#L1476
 translate chinese bakeryvisit2_47825466:
 
     # mc "There are millions of people that have died and been forgotten. It’s pretty depressing to think that in the grand scheme of humanity, let alone the universe, all our actions are completely and utterly meaningless."
-    mc "There are millions of people that have died and been forgotten. It’s pretty depressing to think that in the grand scheme of humanity, let alone the universe, all our actions are completely and utterly meaningless."
+    mc "有数以万计的人死去而被忘却。这还只是在人类范围内，更别说在宇宙间了，我们所有的行为都是完全无意义的，想想就让人感到压抑。"
 
 # game/bakery.rpy#L1477
 translate chinese bakeryvisit2_e68bd47d:
 
     # mc "But… we surely derive our own personal meanings to make our existence satisfying."
-    mc "But… we surely derive our own personal meanings to make our existence satisfying."
+    mc "但...我们诚然在实现我们的个人价值来让我们的存在更令我们自己满意。"
 
 # game/bakery.rpy#L1478
 translate chinese bakeryvisit2_570b5622:
 
     # mc "We make great friends, we laugh and joke, we fall in love and can ultimately have a fun life full of meaning."
-    mc "We make great friends, we laugh and joke, we fall in love and can ultimately have a fun life full of meaning."
+    mc "我们广交朋友，我们谈笑风生，我们坠入爱河，最终我们会拥有充满意义的有趣生活。"
 
 # game/bakery.rpy#L1480
 translate chinese bakeryvisit2_d4182f40:
 
     # cream "Heh, that’s adorable, I believe my own meaning is to spread fun and positivity! These cakes here won’t matter in a quadrillion years, but they’re gonna make some tummies incredibly happy soon!"
-    cream "Heh, that’s adorable, I believe my own meaning is to spread fun and positivity! These cakes here won’t matter in a quadrillion years, but they’re gonna make some tummies incredibly happy soon!"
+    cream "嘿，那可真叫马喜欢，我相信我存在的意义是传递欢乐和正能量！这些蛋糕在亿万年光阴间毫无意义，但是它们就要让一些肚肚无比欢畅啦！"
 
 # game/bakery.rpy#L1481
 translate chinese bakeryvisit2_cd9b58ba:
 
     # mc "Yeah, the universe doesn’t care about us, might as well do what makes the brain happy."
-    mc "Yeah, the universe doesn’t care about us, might as well do what makes the brain happy."
+    mc "是啊，就算宇宙抛弃了我们，我们也能做点让自己的大脑开心的事儿。"
 
 # game/bakery.rpy#L1483
 translate chinese bakeryvisit2_792b7652:
 
     # cream "Oh, that’s such a tragic spin, you act like we’re slaves to the brain."
-    cream "Oh, that’s such a tragic spin, you act like we’re slaves to the brain."
+    cream "啊呀，这转折也太悲剧了点，你说的就像我们是大脑的奴役一样。"
 
 # game/bakery.rpy#L1484
 translate chinese bakeryvisit2_139ec4b1:
 
     # mc "I guess in a way we are, isn’t that what it means to be human? If you don’t meet the brain’s needs, you’ll slowly become miserable."
-    mc "I guess in a way we are, isn’t that what it means to be human? If you don’t meet the brain’s needs, you’ll slowly become miserable."
+    mc "我想在某种程度上，这不就是身为人类的意义吗？如果你不满足大脑的需求，你就会慢慢的变成一出悲剧。"
 
 # game/bakery.rpy#L1485
 translate chinese bakeryvisit2_f3f1fbdf:
 
     # mc "I try to be aware of my brain’s needs, self-actualization, my self-esteem, belongingness and love, safety and physiological needs."
-    mc "I try to be aware of my brain’s needs, self-actualization, my self-esteem, belongingness and love, safety and physiological needs."
+    mc "我试着去感知我的大脑需要什么，自我实现，要求尊重，归属和爱，安全与生理的需求。"
 
 # game/bakery.rpy#L1486
 translate chinese bakeryvisit2_419e6715:
 
     # mc "If I ever falter in one of those, it’s my priority to set it back on track. So, I try to dedicate some time to each action, it’s the reason I like to treat myself."
-    mc "If I ever falter in one of those, it’s my priority to set it back on track. So, I try to dedicate some time to each action, it’s the reason I like to treat myself."
+    mc "如果我在这其中有短，我就要第一时间将它扳回正轨。所以，我试着去给每一份需求分配点时间，这就是我喜欢善待自己的原因。"
 
 # game/bakery.rpy#L1488
 translate chinese bakeryvisit2_cb339697:
 
     # cream "Hahaha, it’s like looking after a needy pet."
-    cream "Hahaha, it’s like looking after a needy pet."
+    cream "哈哈哈，这就像是在照顾一个永不满足的宠物。"
 
 # game/bakery.rpy#L1489
 translate chinese bakeryvisit2_43611eaa:
 
     # mc "Oh yeah, trust me, I’d love to be able to exist without food, drink, sleep, et cetera."
-    mc "Oh yeah, trust me, I’d love to be able to exist without food, drink, sleep, et cetera."
+    mc "哦好啦，相信我，我真想能在没有食物，水分，睡眠等等情况下活着。"
 
 # game/bakery.rpy#L1490
 translate chinese bakeryvisit2_f7f8ae43:
 
     # mc "But that’s part of the human condition, right?"
-    mc "But that’s part of the human condition, right?"
+    mc "但这是人类天性的一部分，对吧？"
 
 # game/bakery.rpy#L1492
 translate chinese bakeryvisit2_37c9b6b8:
 
     # cream "Ah yes, in this world we call that the anthropologic condition, these are the actions of a sentient anthropomorph and cannot be understood by the universe."
-    cream "Ah yes, in this world we call that the anthropologic condition, these are the actions of a sentient anthropomorph and cannot be understood by the universe."
+    cream "啊对的，在这个世界我们叫它马类学条件，这些是不为宇宙所理解的能自知拟人小马的运动。"
 
 # game/bakery.rpy#L1493
 translate chinese bakeryvisit2_05014300:
 
     # cream "Fun and positivity are human concepts, they’ll die out when humanity dies."
-    cream "Fun and positivity are human concepts, they’ll die out when humanity dies."
+    cream "欢乐和积极是人所有的概念，人的意识消失了，它们也就绝灭了。"
 
 # game/bakery.rpy#L1494
 translate chinese bakeryvisit2_fe6d312a:
 
     # mc "If I was immortal there would be no way I could keep having fun after humanity has died out, lest I go insane in the manner you described. So I guess those concepts could live on through my rotting brain."
-    mc "If I was immortal there would be no way I could keep having fun after humanity has died out, lest I go insane in the manner you described. So I guess those concepts could live on through my rotting brain."
+    mc "如果我是不朽的，那在人的意识消失后我就没法一直快乐下去了，免得我在你描绘的图景里发疯了。所以我想这些概念就可以在我腐烂的大脑里留存下来。"
 
 # game/bakery.rpy#L1496
 translate chinese bakeryvisit2_7c0a8f45:
 
     # cream "I feel like an immortal being would need to find a new meaning. Most humans are constrained by time and space."
-    cream "I feel like an immortal being would need to find a new meaning. Most humans are constrained by time and space."
+    cream "我觉得一个永恒的存在得要找到一个新的意义。大多数人都被时间和空间限制着。"
 
 # game/bakery.rpy#L1497
 translate chinese bakeryvisit2_9612d417:
 
     # cream "Time is just a convenient intellectual concept for anthropomorphs to understand events. It’s simply an illusion made up by the brain to conceptualize the world."
-    cream "Time is just a convenient intellectual concept for anthropomorphs to understand events. It’s simply an illusion made up by the brain to conceptualize the world."
+    cream "时间只是个让我们理解存在的又聪明又方便的概念。它只是大脑认识世界时所产生的错觉。"
 
 # game/bakery.rpy#L1498
 translate chinese bakeryvisit2_09850139:
@@ -4844,163 +4844,163 @@ translate chinese bakeryvisit2_27a8f4b4:
 translate chinese bakeryvisit2_4c2abd39:
 
     # cream "Hence… I think being truly immortal is to exist outside of time."
-    cream "Hence… I think being truly immortal is to exist outside of time."
+    cream "所以呢...我认为要做到真正的永恒就要存在于时间之外。"
 
 # game/bakery.rpy#L1502
 translate chinese bakeryvisit2_a01e9357:
 
     # cream "My question is: How would a human like yourself react if they were placed outside of time? What would that experience be like?"
-    cream "My question is: How would a human like yourself react if they were placed outside of time? What would that experience be like?"
+    cream "我的问题是：如果一个像你一样的人类被放在时间之外会有什么反应？那该是一种什么样的体验？"
 
 # game/bakery.rpy#L1503
 translate chinese bakeryvisit2_d8c2aae0:
 
     # cream "Maybe it’s more than just living forever, maybe it’s experiencing every single second simultaneously."
-    cream "Maybe it’s more than just living forever, maybe it’s experiencing every single second simultaneously."
+    cream "也许这远不止就是永远的的活着，也许这是同时经历每一秒钟。"
 
 # game/bakery.rpy#L1504
 translate chinese bakeryvisit2_e4aa7044:
 
     # mc "Wait, I think I get it, but I can’t quite put it into words."
-    mc "Wait, I think I get it, but I can’t quite put it into words."
+    mc "等等，我觉得我体会到了，但我不太能把它描述出来。"
 
 # game/bakery.rpy#L1506
 translate chinese bakeryvisit2_333e6b1e:
 
     # cream "It could be like unlocking the third eye and seeing reality for what it really is."
-    cream "It could be like unlocking the third eye and seeing reality for what it really is."
+    cream "这就像是睁开了第三只眼，能看见存在中的真实。"
 
 # game/bakery.rpy#L1507
 translate chinese bakeryvisit2_45d03e8b:
 
     # cream "The universe is either a three-dimensional space where things happen over time, or a four-dimensional space where nothing happens. Perhaps even more dimensions than that."
-    cream "The universe is either a three-dimensional space where things happen over time, or a four-dimensional space where nothing happens. Perhaps even more dimensions than that."
+    cream "宇宙要不然是一个运动依赖于时间的三维空间，就是一个没有运动的四维空间。也许还有比这个维数更多的。"
 
 # game/bakery.rpy#L1508
 translate chinese bakeryvisit2_770c80d4:
 
     # cream "If that is the case, then reality is an illusion."
-    cream "If that is the case, then reality is an illusion."
+    cream "如果真是这样，那么存在就是意识的影像。"
 
 # game/bakery.rpy#L1509
 translate chinese bakeryvisit2_545427f6:
 
     # cream "You, yes, you have that illusion of reality, the only reason you have a past is because your brain has memories."
-    cream "You, yes, you have that illusion of reality, the only reason you have a past is because your brain has memories."
+    cream "你，没错，你有那存在的影像，你还谈得上有过往的唯一原因就是你的大脑还有记忆。"
 
 # game/bakery.rpy#L1510
 translate chinese bakeryvisit2_3e4e606a:
 
     # mc "So… I’m not insane, I’m just living in an illusion?"
-    mc "So… I’m not insane, I’m just living in an illusion?"
+    mc "所以...我没发疯，我只是生活在一个主观世界里?"
 
 # game/bakery.rpy#L1512
 translate chinese bakeryvisit2_c35dd423:
 
     # cream "Worse, we may all be living in our own unique illusions. You and I may not exist, either separately or simultaneously."
-    cream "Worse, we may all be living in our own unique illusions. You and I may not exist, either separately or simultaneously."
+    cream "更糟的是，我们可能都生活在自己独特的主观世界里，我和你可能并不存在，可以单独存在，也可以共同存在。"
 
 # game/bakery.rpy#L1513
 translate chinese bakeryvisit2_5903991a:
 
     # mc "I was so close, but you just lost me. Do you have a philosophy degree or something?"
-    mc "I was so close, but you just lost me. Do you have a philosophy degree or something?"
+    mc "我差点就理解了，可你却把我弄糊涂了。你难道是有哲学学位什么的吗？"
 
 # game/bakery.rpy#L1515
 translate chinese bakeryvisit2_247b9214:
 
     # cream "Philosophy degree? Nah silly! This is quantum physics! I’ll try to dial it back a little for you. The implication I mentioned about illusion is that there are two worlds you’re experiencing simultaneously."
-    cream "Philosophy degree? Nah silly! This is quantum physics! I’ll try to dial it back a little for you. The implication I mentioned about illusion is that there are two worlds you’re experiencing simultaneously."
+    cream "哲学学位？才没有呢小傻瓜！这是量子力学！我会试着让你理解一点点。我提到的关于意识的含义是指你正同时生活在两个世界里。"
 
 # game/bakery.rpy#L1516
 translate chinese bakeryvisit2_c72c7ba4:
 
     # cream "There’s the internal world which is what we see, experience and engage in with our five main senses. Then there is the external world which is the true reality."
-    cream "There’s the internal world which is what we see, experience and engage in with our five main senses. Then there is the external world which is the true reality."
+    cream "有一个我们能用我们的五感观察，体会并生活其中的里世界。之后就是标志真实存在的表世界。"
 
 # game/bakery.rpy#L1521
 translate chinese bakeryvisit2_0633a09b:
 
     # cream "Perfect, because these next ideas keep me up at night."
-    cream "Perfect, because these next ideas keep me up at night."
+    cream "非常好，因为接下来的这些想法让我整晚都合不了眼。"
 
 # game/bakery.rpy#L1523
 translate chinese bakeryvisit2_abf268da:
 
     # cream "When I try to sleep, it's like an idea party in my head!"
-    cream "When I try to sleep, it's like an idea party in my head!"
+    cream "我想要睡觉的时候，脑子里就像开想法派对似的！"
 
 # game/bakery.rpy#L1525
 translate chinese bakeryvisit2_3e841e36:
 
     # cream "Yeah sure, I have a really simple example."
-    cream "Yeah sure, I have a really simple example."
+    cream "是的没错，我有个非常简单的例子。"
 
 # game/bakery.rpy#L1526
 translate chinese bakeryvisit2_ceb522ef:
 
     # cream "What colour is this cake in the oven?"
-    cream "What colour is this cake in the oven?"
+    cream "那个在烤箱里的蛋糕是什么色的？"
 
 # game/bakery.rpy#L1527
 translate chinese bakeryvisit2_bf128379:
 
     # mc "Hmm, looks yellow to me, still needs a few more minutes until they’re golden brown."
-    mc "Hmm, looks yellow to me, still needs a few more minutes until they’re golden brown."
+    mc "嗯…我看是黄色的，还要再多烤几分钟它们才能变成金黄色。"
 
 # game/bakery.rpy#L1529
 translate chinese bakeryvisit2_512910d4:
 
     # cream "Yup good eye, looks yellow to me too."
-    cream "Yup good eye, looks yellow to me too."
+    cream "对头，好眼力，我看也是黄色的。"
 
 # game/bakery.rpy#L1530
 translate chinese bakeryvisit2_6dae82d6:
 
     # "She waits for a few seconds without saying anything."
-    "She waits for a few seconds without saying anything."
+    "她一言不发的等了几秒。"
 
 # game/bakery.rpy#L1532
 translate chinese bakeryvisit2_71483261:
 
     # cream "Did you catch it?"
-    cream "Did you catch it?"
+    cream "你懂了没？"
 
 # game/bakery.rpy#L1533
 translate chinese bakeryvisit2_e360504c:
 
     # mc "Catch what?"
-    mc "Catch what?"
+    mc "懂什么啊？"
 
 # game/bakery.rpy#L1535
 translate chinese bakeryvisit2_32fa9795:
 
     # cream "We just agreed that it both looks yellow, how did we come to that agreement?"
-    cream "We just agreed that it both looks yellow, how did we come to that agreement?"
+    cream "我们刚刚都同意它看起来是黄色的，我们是怎么达成这个共识的？"
 
 # game/bakery.rpy#L1536
 translate chinese bakeryvisit2_ad97ba5b:
 
     # mc "Hm, because yellow is yellow?"
-    mc "Hm, because yellow is yellow?"
+    mc "嗯…因为它就是黄色的？"
 
 # game/bakery.rpy#L1538
 translate chinese bakeryvisit2_ab9a5531:
 
     # cream "How do you know your yellow is the same as my yellow?"
-    cream "How do you know your yellow is the same as my yellow?"
+    cream "你怎么知道你理解的黄色跟我理解的黄色是一样的？"
 
 # game/bakery.rpy#L1539
 translate chinese bakeryvisit2_cd992474:
 
     # mc "I guess there’s no way to prove that, unless science has figured it out."
-    mc "I guess there’s no way to prove that, unless science has figured it out."
+    mc "我想这没法解释，除非科学已经把它弄明白了。"
 
 # game/bakery.rpy#L1541
 translate chinese bakeryvisit2_b73bed29:
 
     # cream "To take it a step further, how do we know anything we perceive is the same as what someone else perceives?"
-    cream "To take it a step further, how do we know anything we perceive is the same as what someone else perceives?"
+    cream "让我们更进一步，我们怎么知道我们认识的一切就跟别人认识的一切一模一样？"
 
 # game/bakery.rpy#L1542
 translate chinese bakeryvisit2_1bc5a026:
@@ -5018,79 +5018,79 @@ translate chinese bakeryvisit2_f8128d80:
 translate chinese bakeryvisit2_019f8a49:
 
     # cream "By what means can an individual truly know the world?"
-    cream "By what means can an individual truly know the world?"
+    cream "一个人如何才能真正认识世界？"
 
 # game/bakery.rpy#L1547
 translate chinese bakeryvisit2_fdd83f9a:
 
     # "I try to think of a response, but… I have nothing. The way I’m perceiving this world has been radically altered. We went from the brain being a pesky pet to a sensory illusionist."
-    "I try to think of a response, but… I have nothing. The way I’m perceiving this world has been radically altered. We went from the brain being a pesky pet to a sensory illusionist."
+    "我试着想出一句回应，但...我什么都没想到。我理解这个世界的方式已经彻底改变了。我们的大脑从一个讨厌的宠物变成了一个感官魔术师"
 
 # game/bakery.rpy#L1549
 translate chinese bakeryvisit2_b52a36e6:
 
     # cream "By what means can an individual come to false conclusions about the world?"
-    cream "By what means can an individual come to false conclusions about the world?"
+    cream "一个人是如何对世界得出错误结论的？"
 
 # game/bakery.rpy#L1550
 translate chinese bakeryvisit2_daf85070:
 
     # "The people I know, and love may not be real. It may be a simulation, but not of the computer, of the brain."
-    "The people I know, and love may not be real. It may be a simulation, but not of the computer, of the brain."
+    "我所认识的，和所爱的人，可能都不是真的。它们也许是被模拟出来的，但不是用电脑，而是用大脑。"
 
 # game/bakery.rpy#L1552
 translate chinese bakeryvisit2_1d4cae74:
 
     # cream "How do we determine whether a perception is correct."
-    cream "How do we determine whether a perception is correct."
+    cream "我们如何检定一种认识是否正确。"
 
 # game/bakery.rpy#L1553
 translate chinese bakeryvisit2_c6748cbb:
 
     # "A simulation of senses? I guess simulation is the wrong word. It’s no simulation, it’s the genuine reality and how our brain’s perceptions interpret it."
-    "A simulation of senses? I guess simulation is the wrong word. It’s no simulation, it’s the genuine reality and how our brain’s perceptions interpret it."
+    "用模拟出的意识？我想模拟一词不正确。这不是模拟，这是真实的实在，这就是我们大脑的意识如此解读的。"
 
 # game/bakery.rpy#L1555
 translate chinese bakeryvisit2_2f365cb2:
 
     # cream "Is there a limit to human knowledge, and if so, in what form does that limit exist?"
-    cream "Is there a limit to human knowledge, and if so, in what form does that limit exist?"
+    cream "人类的认识有尽头吗，如果有，这尽头将以何种形态存在？"
 
 # game/bakery.rpy#L1557
 translate chinese bakeryvisit2_83dee8d0:
 
     # cream "Is the world you’re occupying right now with your senses a convenient truth of your internal world, or is it the external world?"
-    cream "Is the world you’re occupying right now with your senses a convenient truth of your internal world, or is it the external world?"
+    cream "现在你在这个世界中的意识认识到的存在是你的主观世界，还是外部世界？"
 
 # game/bakery.rpy#L1558
 translate chinese bakeryvisit2_75476489:
 
     # "If there are ants to humans, are humans an ant to something greater?"
-    "If there are ants to humans, are humans an ant to something greater?"
+    "如果于人类而言有蚂蚁，那么人类于某些更大的存在而言是否也是蚂蚁？"
 
 # game/bakery.rpy#L1559
 translate chinese bakeryvisit2_0fc51e5e:
 
     # "I speak up, I finally have something to contribute to the recently one-sided discussion."
-    "I speak up, I finally have something to contribute to the recently one-sided discussion."
+    "我开了口，我终于能对这一边倒的讨论做出点贡献了。"
 
 # game/bakery.rpy#L1560
 translate chinese bakeryvisit2_e0018609:
 
     # mc "I like to think of these questions as logically as possible. What is most likely?"
-    mc "I like to think of these questions as logically as possible. What is most likely?"
+    mc "我想要尽可能逻辑的考量这些问题。什么是最恰当的？"
 
 # game/bakery.rpy#L1561
 translate chinese bakeryvisit2_da107eab:
 
     # mc "The way you’re talking, I’m starting to lean on the internal, rather than external. My brain is struggling to rationalise it though. How can my existence and everything I witness be… wrong?"
-    mc "The way you’re talking, I’m starting to lean on the internal, rather than external. My brain is struggling to rationalise it though. How can my existence and everything I witness be… wrong?"
+    mc "按照你说的，我已经开始依赖于我的内部世界，而不是外部。尽管我的大脑正挣扎着要开脱它。我的存在和我所认识的一切，怎么会是...错的？"
 
 # game/bakery.rpy#L1562
 translate chinese bakeryvisit2_cdaea8c6:
 
     # mc "Yet, it makes far too much sense to say that this isn't the true reality."
-    mc "Yet, it makes far too much sense to say that this isn't the true reality."
+    mc "然而，说它不是真的实在要合理更多。"
 
 # game/bakery.rpy#L1564
 translate chinese bakeryvisit2_bb953178:

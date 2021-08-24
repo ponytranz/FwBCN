@@ -734,7 +734,7 @@ translate chinese augustamenu_3239f973:
 translate chinese augustamenu_0f7366c5:
 
     # augusta "On the contrary, after close inspection your penis does seem to have this ridge in the location that separates the head from the shaft."
-    augusta "并不，在我的仔细观察后，我发现你的性器官前端也有类似隆起的脊状部位，而且还分开了龟头。"
+    augusta "并不，在我的仔细观察后，我发现你的性器官前端，将龟头与阴茎分开的地方，也有类似的隆起部位。"
 
 # game/church.rpy#L266
 translate chinese augustamenu_dccb3698:

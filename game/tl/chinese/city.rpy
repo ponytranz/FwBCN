@@ -2420,13 +2420,13 @@ translate chinese melodylaptop_6140697b:
 translate chinese melodylaptop_8d546e05:
 
     # melody "Mmmphh, mmm... *Squelch, squish...*"
-    melody "Mmmphh, mmm... *Squelch, squish...*"
+    melody "嗯嗯嗯，嗯……*啪唧，扑哧……*"
 
 # game/city.rpy#L1179
 translate chinese melodylaptop_431b2bb6:
 
     # "Our explosive orgasms slowly come to an end. Spent, Melody slumps over onto the table."
-    "Our explosive orgasms slowly come to an end. Spent, Melody slumps over onto the table."
+    "在我们两人的高潮逐渐褪去后，Melody瘫倒在了桌子上。"
 
 # game/city.rpy#L1180
 translate chinese melodylaptop_ddf9bbc4:
@@ -2444,7 +2444,7 @@ translate chinese melodylaptop_501e84b7:
 translate chinese melodylaptop_377ae069:
 
     # "The two of us embrace with satisfaction as we regain our breath."
-    "The two of us embrace with satisfaction as we regain our breath."
+    "在调整呼吸的同时，我们两人十分满意地相拥在了一起。"
 
 # game/city.rpy#L1186
 translate chinese melodylaptop_21e0e4be:
@@ -2516,19 +2516,19 @@ translate chinese melodycunnilingus_8ccc9557:
 translate chinese melodycunnilingus_866dba6a:
 
     # mc "Oh really?"
-    mc "Oh really?"
+    mc "喔 真的吗？"
 
 # game/city.rpy#L1208
 translate chinese melodycunnilingus_6573b07f:
 
     # "Oh shit!"
-    "Oh shit!"
+    "哦，真该死！"
 
 # game/city.rpy#L1210
 translate chinese melodycunnilingus_c0590a5b:
 
     # melody "You know, you never thanked me properly for giving you a key card to get in here."
-    melody "You know, you never thanked me properly for giving you a key card to get in here."
+    melody "你知道的，你还没有感谢过我会给你一张钥匙卡让你进来呢。"
 
 # game/city.rpy#L1211
 translate chinese melodycunnilingus_a9a73e41:
@@ -2546,19 +2546,19 @@ translate chinese melodycunnilingus_fec8f83c:
 translate chinese melodycunnilingus_1d2a69e5:
 
     # melody "Mm, mm… Fair point. But I’d quite like it if you were to thank me in another way."
-    melody "Mm, mm… Fair point. But I’d quite like it if you were to thank me in another way."
+    melody "嗯唔... 有道理。但我希望你能用另一种方式来感谢我。"
 
 # game/city.rpy#L1216
 translate chinese melodycunnilingus_fd638c42:
 
     # mc "Is this the part where you pretend I’m a pervert, while getting me to do something perverted for you?"
-    mc "Is this the part where you pretend I’m a pervert, while getting me to do something perverted for you?"
+    mc "你是不是要假装我是个变态，然后让我为你做些变态的事？"
 
 # game/city.rpy#L1218
 translate chinese melodycunnilingus_a9c0188d:
 
     # melody "Hmph, well it’s not very fun when you spell it out. It’s not easy improvising these scenarios you know."
-    melody "Hmph, well it’s not very fun when you spell it out. It’s not easy improvising these scenarios you know."
+    melody "嗯，当你讲出来的时候这就不好玩了。你明白的，要即兴创作这些场景并不容易。"
 
 # game/city.rpy#L1219
 translate chinese melodycunnilingus_c9f01d74:
@@ -2606,37 +2606,37 @@ translate chinese melodycunnilingus_ec692670:
 translate chinese melodycunnilingus_cba25fff:
 
     # melody "Do I have to squish your cock with my foot?"
-    melody "Do I have to squish your cock with my foot?"
+    melody "要不要我帮你足交呢？"
 
 # game/city.rpy#L1231
 translate chinese melodycunnilingus_9e591033:
 
     # melody "Or maybe, I have a better idea…"
-    melody "Or maybe, I have a better idea…"
+    melody "或者……我有个更好的主意……"
 
 # game/city.rpy#L1232
 translate chinese melodycunnilingus_4af1d34e:
 
     # melody "Come closer, boy."
-    melody "Come closer, boy."
+    melody "帅哥，走近点。"
 
 # game/city.rpy#L1233
 translate chinese melodycunnilingus_b26272a6:
 
     # "I shuffle closer."
-    "I shuffle closer."
+    "我慢慢走近她。"
 
 # game/city.rpy#L1235
 translate chinese melodycunnilingus_b51d7213:
 
     # melody "Clooooser…"
-    melody "Clooooser…"
+    melody "再走近些……"
 
 # game/city.rpy#L1236
 translate chinese melodycunnilingus_65dc2e57:
 
     # "Uh, closer?"
-    "Uh, closer?"
+    "啊？还要近一点吗？"
 
 # game/city.rpy#L1238
 translate chinese melodycunnilingus_cbc5b4ef:
@@ -2648,7 +2648,7 @@ translate chinese melodycunnilingus_cbc5b4ef:
 translate chinese melodycunnilingus_2051d66a:
 
     # mc "Understood."
-    mc "Understood."
+    mc "明白。"
 
 # game/city.rpy#L1243
 translate chinese melodycunnilingus_0968d2e8:
@@ -2768,7 +2768,7 @@ translate chinese melodycunnilingus_3ee940c7:
 translate chinese melodycunnilingus_943894b6:
 
     # melody "Ahh, ahhh! Ahhh… F-Fucking hell!"
-    melody "Ahh, ahhh! Ahhh… F-Fucking hell!"
+    melody "啊，啊！啊啊啊……太……他妈爽了！"
 
 # game/city.rpy#L1267
 translate chinese melodycunnilingus_ae63fc90:
@@ -2780,25 +2780,25 @@ translate chinese melodycunnilingus_ae63fc90:
 translate chinese melodycunnilingus_b15c30cd:
 
     # melody "*Pant* Where did you learn how to do that?!"
-    melody "*Pant* Where did you learn how to do that?!"
+    melody "*喘气* 这技术你是从哪儿学来的？"
 
 # game/city.rpy#L1271
 translate chinese melodycunnilingus_55f94fdc:
 
     # mc "Amateur lesbian porn."
-    mc "Amateur lesbian porn."
+    mc "从女同片里学的。"
 
 # game/city.rpy#L1272
 translate chinese melodycunnilingus_02333ca9:
 
     # melody "Tch. You’re kinda disgusting, you know?"
-    melody "Tch. You’re kinda disgusting, you know?"
+    melody "切，你知道吗，你可真有点恶心。"
 
 # game/city.rpy#L1273
 translate chinese melodycunnilingus_4d37efc4:
 
     # mc "Yeah, but you love it."
-    mc "是啊，但你喜欢。"
+    mc "是啊，但你也很喜欢啊。"
 
 # game/city.rpy#L1275
 translate chinese melodycunnilingus_73cff8db:

@@ -10562,14 +10562,14 @@
   {
     "id": 79434029,
     "createdAt": "2021-05-30T17:55:39.000Z",
-    "updatedAt": "2021-06-07T11:24:42.000Z",
+    "updatedAt": "2021-08-23T09:38:40.000Z",
     "key": "werewolfsex_3bec423d",
     "original": "My name is like, ‘Devil’, and I think Butters is my mom, but I don’t know the details.",
-    "translation": "我叫‘Devil’，我感觉Butters是我的母亲，可具体的细节我就不知道了。",
+    "translation": "我应该是叫，‘Devil’，我感觉Butters是我的母亲，可具体的细节我就不知道了。",
     "file": 272346,
     "stage": 1,
     "project": 2414,
-    "uid": 19759,
+    "uid": 22440,
     "extra": null,
     "context": "说话人: devil \n代码: https://github.com/ponytranz/FwBCN/blob/main/game/deepforest.rpy#L1393",
     "words": 18

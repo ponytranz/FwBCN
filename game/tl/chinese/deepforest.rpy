@@ -4226,7 +4226,7 @@ translate chinese werewolfsex_ef758e11:
 translate chinese werewolfsex_3bec423d:
 
     # devil "My name is like, ‘Devil’, and I think Butters is my mom, but I don’t know the details."
-    devil "我叫‘Devil’，我感觉Butters是我的母亲，可具体的细节我就不知道了。"
+    devil "我应该是叫，‘Devil’，我感觉Butters是我的母亲，可具体的细节我就不知道了。"
 
 # game/deepforest.rpy#L1394
 translate chinese werewolfsex_62989f51:

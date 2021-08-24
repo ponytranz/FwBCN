@@ -9680,19 +9680,19 @@ translate chinese rikuclimbingsex_2182b9f3:
 translate chinese rikuclimbingsex_9f8be9a0:
 
     # "I reposition my cock at her entrance and seamlessly push in, causing Riku to let off a cute moan. Her insides were soaking wet, allowing me to effortlessly slide in all the way."
-    "I reposition my cock at her entrance and seamlessly push in, causing Riku to let off a cute moan. Her insides were soaking wet, allowing me to effortlessly slide in all the way."
+    "我重新调整了肉棒的位置，然后十分顺利地将它滑入了Riku的小穴中，这让她发出了一声可爱而娇媚的呻吟。此时，她的下体已经完全湿润了，所以，我可以毫不费力地进行着抽插。"
 
 # game/bar.rpy#L2785
 translate chinese rikuclimbingsex_29165612:
 
     # "I savour every inch of penetration, moving slowly forward until her entrance is tightly wrapped around the base of my cock. Even she can’t stay frustrated when it feels this good."
-    "I savour every inch of penetration, moving slowly forward until her entrance is tightly wrapped around the base of my cock. Even she can’t stay frustrated when it feels this good."
+    "我一边抽插，一边享受着她小穴内每一寸肌肤所带来的触感。我慢慢向前推进着。当肉棒完全插入到小穴之中时，我感觉到她的阴道口正紧紧地包裹着我肉棒的根部。在我享受这快感的同时，她也变得兴奋起来。"
 
 # game/bar.rpy#L2786
 translate chinese rikuclimbingsex_27b006c6:
 
     # riku "*Siiighh* That’s some good dick…"
-    riku "*Siiighh* That’s some good dick…"
+    riku "*唉唉唉* 这大棒棒的感觉实在太舒服了……"
 
 # game/bar.rpy#L2788
 translate chinese rikuclimbingsex_55464b91:
@@ -9722,37 +9722,37 @@ translate chinese rikuclimbingsex_f12fbb8c:
 translate chinese rikuclimbingsex_f15d7c4b:
 
     # "These deep thrusts always seem to drive Riku wild with pleasure, especially at the peak, where my cock seems to grind on an erogenous zone deep inside of her."
-    "These deep thrusts always seem to drive Riku wild with pleasure, especially at the peak, where my cock seems to grind on an erogenous zone deep inside of her."
+    "每一次抽插似乎都会让Riku感受到无比的愉悦，从而使她变得激动不已。在我将肉棒插入到她小穴深处最为敏感的部位时，她享受而愉悦的神情和动作就会变得尤为明显。"
 
 # game/bar.rpy#L2794
 translate chinese rikuclimbingsex_cf47415f:
 
     # "She manages to keep her body steadfast on the climbing wall. But she's also managing to keep her body loose enough to bounce along with the rutting. Her cute small breasts jiggle ever so slightly, and her soft butt cushioning the peak of each thrust."
-    "She manages to keep her body steadfast on the climbing wall. But she's also managing to keep her body loose enough to bounce along with the rutting. Her cute small breasts jiggle ever so slightly, and her soft butt cushioning the peak of each thrust."
+    "在攀爬的过程中，虽然她在努力保持身体的稳定，但同时，她又想让身体保持放松，以便更自然地进行爱爱。每一次抽插过后，她那对可爱的娇乳就会微微地抖动起来，而她那柔软的臀部则在缓冲着每一次抽插所带来的冲击。"
 
 # game/bar.rpy#L2796
 translate chinese rikuclimbingsex_43e1096b:
 
     # riku "Ahh… *Pant* I should have you on the wall while I ride you, make you see how it feels. Hah."
-    riku "Ahh… *Pant* I should have you on the wall while I ride you, make you see how it feels. Hah."
+    riku "啊……*喘气* 在我骑在你身上的时候，你也应该爬到墙上来才对，然后也让你感受一下那种感觉。哈哈。"
 
 # game/bar.rpy#L2797
 translate chinese rikuclimbingsex_8dd3d936:
 
     # mc "I bet it still feels good."
-    mc "I bet it still feels good."
+    mc "我敢说，这感觉应该也很不错。"
 
 # game/bar.rpy#L2799
 translate chinese rikuclimbingsex_7336b4ba:
 
     # riku "Mmpphh, I was never going to argue that… Your cock is really nice."
-    riku "Mmpphh, I was never going to argue that… Your cock is really nice."
+    riku "嗯嗯嗯，这话我百分之一百同意……你的小弟弟可真厉害。"
 
 # game/bar.rpy#L2800
 translate chinese rikuclimbingsex_22319016:
 
     # "Even in the precarious position, her body reacts favourably to each pleasurable action. Her pussy occasionally squeezing, and she stifles a few moans."
-    "Even in the precarious position, her body reacts favourably to each pleasurable action. Her pussy occasionally squeezing, and she stifles a few moans."
+    "虽然我们两人爱爱的姿势很不稳定，但每一次抽插还是会让她的身体变得十分兴奋。她的小穴偶尔会收缩一下，随后她也会轻轻地发出几声娇喘。"
 
 # game/bar.rpy#L2801
 translate chinese rikuclimbingsex_8e66792f:
@@ -9764,19 +9764,19 @@ translate chinese rikuclimbingsex_8e66792f:
 translate chinese rikuclimbingsex_5cb79588:
 
     # "Let’s see how she handles it when I thrust even faster."
-    "Let’s see how she handles it when I thrust even faster."
+    "如果我加快抽插的速度，我可要好好看看她该怎么应对。"
 
 # game/bar.rpy#L2803
 translate chinese rikuclimbingsex_9019346c:
 
     # riku "Oh, [playername]… That’s good, ahhh… Keep going that deep… Aaaahhhnn…"
-    riku "噢,[playername]...真舒服,啊~再插深点...啊啊啊啊啊啊啊~"
+    riku "噢，[playername]……好舒服啊，啊……再插深点……嗯啊啊啊啊啊啊啊……"
 
 # game/bar.rpy#L2804
 translate chinese rikuclimbingsex_e1a166e6:
 
     # "Ah, she’s starting to really enjoy it! Her moans are starting to echo throughout the empty climbing facility, accompanied by lewd wet noises from the sex."
-    "Ah, she’s starting to really enjoy it! Her moans are starting to echo throughout the empty climbing facility, accompanied by lewd wet noises from the sex."
+    "啊，她居然开始享受起来了！她的娇喘声混合着潮湿的身体撞击时所发出的淫荡的啪啪声，开始在空旷的场地内回荡起来。"
 
 # game/bar.rpy#L2805
 translate chinese rikuclimbingsex_a0819c2e:
@@ -9800,79 +9800,79 @@ translate chinese rikuclimbingsex_40d0481f:
 translate chinese rikuclimbingsex_a51a11f1:
 
     # "Yeah, she’s coming already. I can feel her insides vigorously contracting around my member in an effort to make me cum, and it’s working quite well."
-    "Yeah, she’s coming already. I can feel her insides vigorously contracting around my member in an effort to make me cum, and it’s working quite well."
+    "确实，她已经高潮了。我可以感受到她的下体正饥渴地包裹在我的肉棒四周，渴求着我的浓浆。不过她的这种方式的确很奏效。"
 
 # game/bar.rpy#L2809
 translate chinese rikuclimbingsex_ba689a91:
 
     # "I continue to fuck Riku’s pussy as she wriggles in pleasure. By pushing hard and faster I progressively get closer to climaxing myself."
-    "I continue to fuck Riku’s pussy as she wriggles in pleasure. By pushing hard and faster I progressively get closer to climaxing myself."
+    "在Riku的小穴因快感而不断扭动的同时，我仍在继续进行着抽插。由于我抽插的幅度变得越发激烈，速度越来越快，我逐渐感受到自己的高潮也即将到来了。"
 
 # game/bar.rpy#L2810
 translate chinese rikuclimbingsex_8d2a0e85:
 
     # riku "Cum for me! I want you… *Pant* …Fill my pussy up with your cum! Ah ahhhh!"
-    riku "Cum for me! I want you… *Pant* …Fill my pussy up with your cum! Ah ahhhh!"
+    riku "快射出来吧！我想让你……*喘气* ……把精液都射到小穴里去！啊，啊啊啊！"
 
 # game/bar.rpy#L2811
 translate chinese rikuclimbingsex_2f7991c1:
 
     # "Riku’s cute moans become one of the main things pushing me over the edge, and soon enough, I’m no longer able to hold back."
-    "Riku’s cute moans become one of the main things pushing me over the edge, and soon enough, I’m no longer able to hold back."
+    "Riku那可爱的娇喘也成为了我将自己推向高潮的原因之一。再过不久，我就要撑不住了。"
 
 # game/bar.rpy#L2816
 translate chinese rikuclimbingsex_488d4fb4:
 
     # "My throbbing cock explodes deep inside, as I did, her vagina tightly gripped around my shaft, wringing even more cum out of it as we continued to fuck during our climaxes."
-    "My throbbing cock explodes deep inside, as I did, her vagina tightly gripped around my shaft, wringing even more cum out of it as we continued to fuck during our climaxes."
+    "我达到了高潮，我那悸动的肉棒在她的阴道深处爆发了。在狂射的同时，她的下体也在牢牢地包裹着我的肉棒。在我们两人都达到高潮时，我仍在继续抽插着，这使得她的小穴已经被我的精液完全填满了。"
 
 # game/bar.rpy#L2821
 translate chinese rikuclimbingsex_6f1b94ba:
 
     # riku "Ahhh… I can feel it, oh gosh, there’s so much, it’s so hot… Ahhhhh…"
-    riku "Ahhh… I can feel it, oh gosh, there’s so much, it’s so hot… Ahhhhh…"
+    riku "啊……我感受到了，哦，老天，射了好多好多啊，还热热的……啊啊啊……"
 
 # game/bar.rpy#L2822
 translate chinese rikuclimbingsex_9b36894b:
 
     # "I keep thrusting my hips throughout the orgasms. Several more loads of cum seeps deep into her vagina and womb."
-    "I keep thrusting my hips throughout the orgasms. Several more loads of cum seeps deep into her vagina and womb."
+    "尽管达到了高潮，但我仍在继续扭动着腰部。更多的精液喷射而出，注入到了她的阴道深处和子宫中。"
 
 # game/bar.rpy#L2825
 translate chinese rikuclimbingsex_a12990c9:
 
     # "As my orgasm peaks and fades, I pull myself out of Riku’s pussy, some of my cum dripping out as I do"
-    "As my orgasm peaks and fades, I pull myself out of Riku’s pussy, some of my cum dripping out as I do"
+    "高潮过后，我将肉棒从Riku的小穴中拔了出来。在拔出的过程中，一部分精液从阴道里滴了出来。"
 
 # game/bar.rpy#L2826
 translate chinese rikuclimbingsex_253e03a0:
 
     # riku "Oohh… Ahh *Pant* Told you I could do it…"
-    riku "Oohh… Ahh *Pant* Told you I could do it…"
+    riku "哦……啊 *喘气* 都告诉你我能办得到了……"
 
 # game/bar.rpy#L2830
 translate chinese rikuclimbingsex_24cf2fa4:
 
     # "Even though she says that, she weakly gets off the climbing wall and slumps over. Her arms much be a little worn out from hanging in place for so long."
-    "Even though she says that, she weakly gets off the climbing wall and slumps over. Her arms much be a little worn out from hanging in place for so long."
+    "尽管这么说，但她还是气喘吁吁地从墙上爬了下来，然后瘫倒在了地上。由于她攀爬的时间过长，所以，她的胳膊很有可能拉伤了。"
 
 # game/bar.rpy#L2835
 translate chinese rikuclimbingsex_0734622a:
 
     # melody "Bloody hell."
-    melody "Bloody hell."
+    melody "我靠。"
 
 # game/bar.rpy#L2839
 translate chinese rikuclimbingsex_068b1aa9:
 
     # blossom "You were right, Mel! It’s always [playername] making trouble."
-    blossom "You were right, Mel! It’s always [playername] making trouble."
+    blossom "你是对的，MeI！[playername]这人就是个惹事精。"
 
 # game/bar.rpy#L2840
 translate chinese rikuclimbingsex_fe943978:
 
     # mc "Eh? H-Hey, how long have you been there?"
-    mc "呃？嘿-你到那里多久了？"
+    mc "呃？嘿-嘿，你是什么时候过来的？"
 
 # game/bar.rpy#L2848
 translate chinese rikuclimbingsex_2b15d617:
@@ -9908,25 +9908,25 @@ translate chinese rikuclimbingsex_593362df:
 translate chinese rikuclimbingsex_1477ac12:
 
     # riku "Hahaha. You’re making me feel a bit guilty now, Melody."
-    riku "Hahaha. You’re making me feel a bit guilty now, Melody."
+    riku "哈哈哈。Melody，你说得让我感觉自己好内疚啊。"
 
 # game/bar.rpy#L2859
 translate chinese rikuclimbingsex_1d285295:
 
     # melody "Oh, my apologies, Riku. My bullying was entirely directed at that perv, not you."
-    melody "Oh, my apologies, Riku. My bullying was entirely directed at that perv, not you."
+    melody "哦，对不起，Riku。我之所以变得很霸道，是因为我要对付那个死变态，但不是针对你。"
 
 # game/bar.rpy#L2861
 translate chinese rikuclimbingsex_8e415b9a:
 
     # blossom "Uhm anyway, who’s up for some more climbing?"
-    blossom "嗯...不论如何,谁还想继续去爬山？"
+    blossom "嗯……不论怎么样，谁还想继续攀岩呢？"
 
 # game/bar.rpy#L2869
 translate chinese rikuclimbingsex_c63e4ca9:
 
     # "Later on..."
-    "不久后..."
+    "不久后……"
 
 # game/bar.rpy#L2876
 translate chinese barvisitevening_cecdf24b:
@@ -10064,13 +10064,13 @@ translate chinese eveningbarmenu_d4e41baa:
 translate chinese eveningbarmenu_181ba73e:
 
     # "It's her again! That crazy bundle of sexual energy."
-    "It's her again! That crazy bundle of sexual energy."
+    "又是她！这个疯疯癫癫的大淫魔。"
 
 # game/bar.rpy#L2915
 translate chinese eveningbarmenu_ba2a7408:
 
     # doggirl "Ohh, [playername]! It's great to see you."
-    doggirl "哦,[playername]！很高兴见到你。"
+    doggirl "哦，[playername]！很高兴见到你。"
 
 # game/bar.rpy#L2916
 translate chinese eveningbarmenu_0e0188d3:
@@ -10472,37 +10472,37 @@ translate chinese eveningbarmenu_e68fa020:
 translate chinese eveningbarmenu_49c2d50b:
 
     # "The wolf girl barely gives me a chance to approach before she notices me looking her way and approachs me herself."
-    "The wolf girl barely gives me a chance to approach before she notices me looking her way and approachs me herself."
+    "在我刚注意到这个狼女并朝她的方向看去时，她也看到了我。随后，她立刻朝着我的方向走了过来。"
 
 # game/bar.rpy#L3036
 translate chinese eveningbarmenu_56e7c613:
 
     # wolfgirl "Hey! It's always nice seeing another non-pony around here, the name's Hilda. How about yourself?"
-    wolfgirl "Hey! It's always nice seeing another non-pony around here, the name's Hilda. How about yourself?"
+    wolfgirl "嘿！能在这里遇到小马族以外的人真是太棒了。我叫Hilda，你叫什么呢？"
 
 # game/bar.rpy#L3037
 translate chinese eveningbarmenu_8e8a7f38:
 
     # "Building up the courage to approach is hard, so it's nice to have the tables turned."
-    "Building up the courage to approach is hard, so it's nice to have the tables turned."
+    "想要鼓起勇气和别人接触可不容易，所以，调转话锋是个不错的选择。"
 
 # game/bar.rpy#L3039
 translate chinese eveningbarmenu_b49b39fb:
 
     # mc "Hey Hilda, I'm [playername], where abouts are you from?"
-    mc "Hey Hilda, I'm [playername], where abouts are you from?"
+    mc "嘿，Hilda，我叫[playername]。你是从哪儿过来的？"
 
 # game/bar.rpy#L3040
 translate chinese eveningbarmenu_5384e3a7:
 
     # wolfgirl "I'm an adventurer so I've always been on the road. But I like using Arcadia as a hub to sell my loot, and take on bounties."
-    wolfgirl "I'm an adventurer so I've always been on the road. But I like using Arcadia as a hub to sell my loot, and take on bounties."
+    wolfgirl "我是个冒险家，所以我总是居无定所。不过，我很喜欢把Arcadia当作贩卖战利品和领赏金的好地方。"
 
 # game/bar.rpy#L3041
 translate chinese eveningbarmenu_bac6174b:
 
     # mc "An adventurer, huh? I've never met one before."
-    mc "An adventurer, huh? I've never met one before."
+    mc "你是个冒险家，是吗？我可从来都没遇到过冒险家呢。"
 
 # game/bar.rpy#L3042
 translate chinese eveningbarmenu_fb946f29:
@@ -10514,7 +10514,7 @@ translate chinese eveningbarmenu_fb946f29:
 translate chinese eveningbarmenu_bf201f9a:
 
     # mc "Sounds like a lot of fun, I'm surprised a society like this has such a niche."
-    mc "Sounds like a lot of fun, I'm surprised a society like this has such a niche."
+    mc "听起来好像很有意思。这个世界居然还有这样的好工作，真让我很意外。"
 
 # game/bar.rpy#L3044
 translate chinese eveningbarmenu_7adf01ec:
@@ -10526,19 +10526,19 @@ translate chinese eveningbarmenu_7adf01ec:
 translate chinese eveningbarmenu_1874ac8f:
 
     # wolfgirl "By the way, can I get ya a drink? Nothing like a good drink to unwind after a long day of work."
-    wolfgirl "By the way, can I get ya a drink? Nothing like a good drink to unwind after a long day of work."
+    wolfgirl "顺便说一下，我可以帮你点杯酒吗？工作了一天，没有什么能比好好喝一杯更能解乏的了。"
 
 # game/bar.rpy#L3046
 translate chinese eveningbarmenu_2f5f2d9b:
 
     # mc "Agree with you there, how about some cider?"
-    mc "Agree with you there, how about some cider?"
+    mc "我和你想法一样。来点苹果酒如何？"
 
 # game/bar.rpy#L3048
 translate chinese eveningbarmenu_53080bab:
 
     # "With her sharp eyes, Hilda picks me out in the crowd and saunters over with a grin."
-    "With her sharp eyes, Hilda picks me out in the crowd and saunters over with a grin."
+    "Hilda双眼炯炯有神，微笑着把我带到了人群之中。之后，我们开始闲逛了起来。"
 
 # game/bar.rpy#L3052
 translate chinese eveningbarmenu_6611a9a5:
@@ -10562,19 +10562,19 @@ translate chinese eveningbarmenu_876e4cb2:
 translate chinese eveningbarmenu_5dc87c1f:
 
     # "Hilda and I get to know each other, soon she starts to flirt with me and the reason she approached me becomes clear."
-    "Hilda and I get to know each other, soon she starts to flirt with me and the reason she approached me becomes clear."
+    "我和Hilda逐渐熟识起来。很快，她就开始对我发起了调戏和勾引攻势。同时，她主动接近我的真正原因也渐渐显露出来。"
 
 # game/bar.rpy#L3060
 translate chinese eveningbarmenu_cbd87abc:
 
     # "Hilda and I enjoy chatting and getting drunk together before things get flirty."
-    "Hilda and I enjoy chatting and getting drunk together before things get flirty."
+    "我和Hilda很喜欢聊聊天、在一起喝个烂醉。但之后，她就会变得风骚起来。"
 
 # game/bar.rpy#L3061
 translate chinese eveningbarmenu_ff84791a:
 
     # "After a couple of hours, she invites me to her place..."
-    "After a couple of hours, she invites me to her place..."
+    "几个小时过后，她邀请我去她的住处做客……"
 
 # game/bar.rpy#L3066
 translate chinese eveningbarmenu_3d0595ce:
@@ -10592,241 +10592,241 @@ translate chinese eveningbarmenu_47793793:
 translate chinese eveningbarmenu_8eb86200:
 
     # "With her legs lifted up, I have a clear view of her wet pussy."
-    "With her legs lifted up, I have a clear view of her wet pussy."
+    "她抬起双腿，湿湿的小穴清晰地展现在了我的面前。"
 
 # game/bar.rpy#L3075
 translate chinese eveningbarmenu_7a451252:
 
     # "*Schlick*"
-    "*Schlick*"
+    "*吸溜*"
 
 # game/bar.rpy#L3076
 translate chinese eveningbarmenu_854072bf:
 
     # wolfgirl "Like what ya see?"
-    wolfgirl "Like what ya see?"
+    wolfgirl "你喜欢吗？"
 
 # game/bar.rpy#L3078
 translate chinese eveningbarmenu_fcf6bf75:
 
     # "I begin to fondle my cock into an erection... When I'm ready, I grab the wolf girl's hips and pull her towards me."
-    "I begin to fondle my cock into an erection... When I'm ready, I grab the wolf girl's hips and pull her towards me."
+    "我开始撸动自己的肉棒，让它做好硬起来的准备……等到完全勃起后，我一把抓住了她的腰，将她拉到了我面前。"
 
 # game/bar.rpy#L3080
 translate chinese eveningbarmenu_f65aa057:
 
     # wolfgirl "Eep! That's the thickest cock I've ever seen!"
-    wolfgirl "Eep! That's the thickest cock I've ever seen!"
+    wolfgirl "啊！这可是我见过最粗的大棒棒了！"
 
 # game/bar.rpy#L3082
 translate chinese eveningbarmenu_e1e46d22:
 
     # wolfgirl "Mmm, I love how thick your species' cocks are! Way better than a stallion, and you can fuck way longer than a canine."
-    wolfgirl "Mmm, I love how thick your species' cocks are! Way better than a stallion, and you can fuck way longer than a canine."
+    wolfgirl "嗯，我很喜欢你们人类的大屌，好粗哦！你可比种马厉害多了，而且你啪啪啪的时间也要比其他的小马长。"
 
 # game/bar.rpy#L3083
 translate chinese eveningbarmenu_8a010095:
 
     # "I tap my cock on her furry butt; enjoying the soft feeling as Hilda anxiously awaits my next move. However, I choose to tease her a little longer, playing with her pussy and engaging in extra foreplay."
-    "I tap my cock on her furry butt; enjoying the soft feeling as Hilda anxiously awaits my next move. However, I choose to tease her a little longer, playing with her pussy and engaging in extra foreplay."
+    "我用肉棒在她毛茸茸的翘臀上拍打了几下，充分享受着这松软棉弹的感觉，而Hilda则对我接下来的行动满怀期待。不过，我并不想这么快就进入正题，我还在她的蜜穴上蹭来蹭去挑逗着她，尽可能地把前戏做足。"
 
 # game/bar.rpy#L3084
 translate chinese eveningbarmenu_a09028c8:
 
     # "Her anxiety grows into impatience as I tease and massage her cute butt, her attempts at grinding against me do not go unnoticed."
-    "Her anxiety grows into impatience as I tease and massage her cute butt, her attempts at grinding against me do not go unnoticed."
+    "在我挑逗并按揉着她可爱的小屁屁时，她的情绪由原先的紧张不安逐渐变为了迫不及待。她十分迫切地渴求着爱爱的那一刻，这一点十分明显。"
 
 # game/bar.rpy#L3085
 translate chinese eveningbarmenu_0ea55e70:
 
     # wolfgirl "C'mon! Stahp teasing ya stud!"
-    wolfgirl "C'mon! Stahp teasing ya stud!"
+    wolfgirl "快呀！别玩了，伙计！"
 
 # game/bar.rpy#L3090
 translate chinese eveningbarmenu_21852944:
 
     # "I giggle and give her ass a playful slap as I position my cock at the lips of her hot pussy, and with one thrust I plunge my cock into the warmth and wetness."
-    "I giggle and give her ass a playful slap as I position my cock at the lips of her hot pussy, and with one thrust I plunge my cock into the warmth and wetness."
+    "我坏笑着，同时给了她丰臀俏皮的一巴掌，肉棒也直抵她燥热难耐的穴口。我向前轻轻一推，肉棒就顺利插入了她温暖而潮湿的蜜穴之中。"
 
 # game/bar.rpy#L3091
 translate chinese eveningbarmenu_b3d2a38a:
 
     # wolfgirl "Haaahh, th-that's really- haah, good!"
-    wolfgirl "Haaahh, th-that's really- haah, good!"
+    wolfgirl "哈啊啊啊，这……这感觉简直……哈啊，简直爽爆了！"
 
 # game/bar.rpy#L3092
 translate chinese eveningbarmenu_58984640:
 
     # mc "Made only better by the teasing."
-    mc "Made only better by the teasing."
+    mc "要有前戏才能让正戏更精彩。"
 
 # game/bar.rpy#L3094
 translate chinese eveningbarmenu_74db6012:
 
     # "I roughly pound the wolf girl's pussy, maintaining a firm grip on her thighs, she keeps her legs raised for the duration making it even tighter."
-    "I roughly pound the wolf girl's pussy, maintaining a firm grip on her thighs, she keeps her legs raised for the duration making it even tighter."
+    "我粗暴地抽插着狼女的小穴。我紧紧抓住她高高抬起的双腿，这个体位下她的小穴更加紧致。"
 
 # game/bar.rpy#L3095
 translate chinese eveningbarmenu_9293daef:
 
     # "The sound of our sexes slapping against each other mix and echo with her moans and howls of delight. It truly is an erotic symphony to the ears."
-    "The sound of our sexes slapping against each other mix and echo with her moans and howls of delight. It truly is an erotic symphony to the ears."
+    "我们交合的啪啪声伴随着她欢快的呻吟声在四周来回飘荡，好似一首淫靡的交响乐。"
 
 # game/bar.rpy#L3096
 translate chinese eveningbarmenu_e73dac17:
 
     # "I keep up for a few minutes, fucking her while occasionally slapping her ass and playing with her tits. I can feel her orgasm starting to come."
-    "I keep up for a few minutes, fucking her while occasionally slapping her ass and playing with her tits. I can feel her orgasm starting to come."
+    "我又继续抽插了几分钟，同时，我偶尔也会用手在她的肥臀上拍一下，也会不时地揉捏她的双峰。我可以感觉到，她应该快到高潮了。"
 
 # game/bar.rpy#L3097
 translate chinese eveningbarmenu_3357a9a7:
 
     # wolfgirl "Aahhhh, w-what a good cock! I-I'm I'm gonna, I-I'm coming! Awwwwoooooooooo!"
-    wolfgirl "Aahhhh, w-what a good cock! I-I'm I'm gonna, I-I'm coming! Awwwwoooooooooo!"
+    wolfgirl "啊啊啊，这大屌实在是太……太爽了！我……我要，我要去了！啊嗷……！"
 
 # game/bar.rpy#L3098
 translate chinese eveningbarmenu_4581bcc0:
 
     # "She climaxes, her pussy clenches around my member as she squeals with pleasure. But I'm not done yet, perhaps with a bit of whiskey dick, I still have some more fucking to do."
-    "She climaxes, her pussy clenches around my member as she squeals with pleasure. But I'm not done yet, perhaps with a bit of whiskey dick, I still have some more fucking to do."
+    "她终于高潮了，由于享受到了极度的快感，所以她小穴的内壁变得紧紧的，并包裹着我的肉棒。可我还没有尽兴，我肉棒的兴致也没有消退，我还想继续爽一爽。"
 
 # game/bar.rpy#L3099
 translate chinese eveningbarmenu_b6b50589:
 
     # "I grit my teeth and continue to pulverize her pussy, driving my cock deeper and faster than before, causing Hilda's body to jiggle back and forth along the bedsheets."
-    "I grit my teeth and continue to pulverize her pussy, driving my cock deeper and faster than before, causing Hilda's body to jiggle back and forth along the bedsheets."
+    "我咬紧牙关，继续用力冲击着她的蜜穴，肉棒抽插的速度不仅加快了，而且插得也更深了。强大的动能让Hilda柔嫩的身躯在床上前后抖动着。"
 
 # game/bar.rpy#L3100
 translate chinese eveningbarmenu_2aef54af:
 
     # wolfgirl "Haaaahhh, y-you're crazy! F-FUCK! Aaaahhhhhh! *Squish, squelch!*"
-    wolfgirl "Haaaahhh, y-you're crazy! F-FUCK! Aaaahhhhhh! *Squish, squelch!*"
+    wolfgirl "哈啊啊啊，你……你疯了吧！卧……槽！啊啊啊！*啪唧，扑哧！*"
 
 # game/bar.rpy#L3101
 translate chinese eveningbarmenu_d729740a:
 
     # "Still in an orgasmic daze, Hilda claws and grasps the bedsheets so aggressively that her claws threaten to tear the fabric, her quivering thighs struggling to remain upright."
-    "Still in an orgasmic daze, Hilda claws and grasps the bedsheets so aggressively that her claws threaten to tear the fabric, her quivering thighs struggling to remain upright."
+    "此时的Hilda仍然沉浸在高潮的喜悦中而飘飘欲仙。此时的她，全身上下都充满着很强的攻击性，只见她双手牢牢地抓着床单，恨不得要将它全部撕碎。而她的双腿依然保持着抬起的姿势，并且还在不停颤抖着。"
 
 # game/bar.rpy#L3102
 translate chinese eveningbarmenu_fcfbd827:
 
     # "I can feel my orgasm finally begin to boil up, and no doubt my wolf companion has already been racked to the core by a second orgasm; judging by her hysteric movements and moans."
-    "I can feel my orgasm finally begin to boil up, and no doubt my wolf companion has already been racked to the core by a second orgasm; judging by her hysteric movements and moans."
+    "我感觉自己的高潮已经迫在眉睫了。毫无疑问，我的爱侣也已经被她的第二次高潮冲得欣喜若狂，这从她夸张的肢体动作和疯狂的浪叫中就能可见一斑。"
 
 # game/bar.rpy#L3107
 translate chinese eveningbarmenu_2f74c2a4:
 
     # "My orgasm finally arrives and overwhelms me with its glory, my vision turns white as a torrent of thick jism spews into Hilda's pussy and womb."
-    "My orgasm finally arrives and overwhelms me with its glory, my vision turns white as a torrent of thick jism spews into Hilda's pussy and womb."
+    "终于，我到达了高潮，大量精液喷薄而出，量多得我都有点手足无措。当浓浓的精液灌满Butters的小穴和子宫时，我的眼前变得一片空白。"
 
 # game/bar.rpy#L3113
 translate chinese eveningbarmenu_ec87259c:
 
     # "Three loads, six, then nine. The wolf's pussy is filled to the brim, so much that it readily oozes and spills out."
-    "Three loads, six, then nine. The wolf's pussy is filled to the brim, so much that it readily oozes and spills out."
+    "三发，六发，我一共射了九发。这个狼女的蜜穴已经被我的精液全部填满了，而多余的精液则流出或喷溅而出。"
 
 # game/bar.rpy#L3115
 translate chinese eveningbarmenu_82563719:
 
     # "As I pull out, a thick droplet of cum drips down over her anus and pools in the fur of her tail."
-    "As I pull out, a thick droplet of cum drips down over her anus and pools in the fur of her tail."
+    "在我抽出肉棒时，浓稠的精液成股流出，顺着肛门一路流下，最后滴落到了她的绒毛和尾巴上。"
 
 # game/bar.rpy#L3117
 translate chinese eveningbarmenu_9789388c:
 
     # wolfgirl "Haahh, t-that was one hell of a fuck, [playername]..."
-    wolfgirl "Haahh, t-that was one hell of a fuck, [playername]..."
+    wolfgirl "哈啊啊，你“干”得太好了，[playername]……"
 
 # game/bar.rpy#L3118
 translate chinese eveningbarmenu_7336a16a:
 
     # mc "You're just so sexy, I couldn't resist."
-    mc "You're just so sexy, I couldn't resist."
+    mc "你太性感了，我根本把持不住。"
 
 # game/bar.rpy#L3120
 translate chinese eveningbarmenu_57f40fcf:
 
     # "*Schlick*, I spread her pussy and admire my work, this action causes Hilda to giggle."
-    "*Schlick*, I spread her pussy and admire my work, this action causes Hilda to giggle."
+    "*滋溜*，我扒开她的小穴，细细欣赏着我刚完成的杰作。而我的这个动作却让Hilda傻笑了起来。"
 
 # game/bar.rpy#L3123
 translate chinese eveningbarmenu_13626e25:
 
     # "With her legs lifted up, I have a clear view of her wet pussy; and under that, her tight pucker."
-    "With her legs lifted up, I have a clear view of her wet pussy; and under that, her tight pucker."
+    "她抬起双腿，湿湿的小穴清晰地展现在了我的面前。而在小穴的后面，则是她紧致的后庭。"
 
 # game/bar.rpy#L3126
 translate chinese eveningbarmenu_7a451252_1:
 
     # "*Schlick*"
-    "*Schlick*"
+    "*吸溜*"
 
 # game/bar.rpy#L3127
 translate chinese eveningbarmenu_854072bf_1:
 
     # wolfgirl "Like what ya see?"
-    wolfgirl "Like what ya see?"
+    wolfgirl "你喜欢吗？"
 
 # game/bar.rpy#L3129
 translate chinese eveningbarmenu_90cc980d:
 
     # "I begin to fondle my cock into an erection, when I'm ready, I grab the wolf girl's hips and pull her towards me."
-    "I begin to fondle my cock into an erection, when I'm ready, I grab the wolf girl's hips and pull her towards me."
+    "我开始撸动自己的肉棒，让它做好硬起来的准备。等到完全勃起后，我一把抓住了她的腰，将她拉到了我面前。"
 
 # game/bar.rpy#L3131
 translate chinese eveningbarmenu_396ad2f6:
 
     # wolfgirl "Eep! That's the thickest cock I've ever seen! T-That'll barely fit in my butt!"
-    wolfgirl "Eep! That's the thickest cock I've ever seen! T-That'll barely fit in my butt!"
+    wolfgirl "啊！这可是我见过最粗的大棒棒了！这……这玩意和我的小屁屁很配哦！"
 
 # game/bar.rpy#L3132
 translate chinese eveningbarmenu_c2db22d8:
 
     # "I tap my cock on her furry butt; enjoying the soft feeling as Hilda anxiously awaits my next move. I prod the tip against her pucker and I'm immediately met with notable resistance."
-    "I tap my cock on her furry butt; enjoying the soft feeling as Hilda anxiously awaits my next move. I prod the tip against her pucker and I'm immediately met with notable resistance."
+    "我用肉棒在她毛茸茸的翘臀上拍打了几下，充分享受着这松软棉弹的感觉，而Hilda则对我接下来的行动满怀期待。于是，我将肉棒的顶端抵在了她的后庭上，但我立刻就明显感受到了它给肉棒所带来的阻力。"
 
 # game/bar.rpy#L3133
 translate chinese eveningbarmenu_ac63ca8b:
 
     # wolfgirl "*Pant*, m-maybe try spitting?"
-    wolfgirl "*Pant*, m-maybe try spitting?"
+    wolfgirl "*喘气*，要……要不要稍稍把它扒开一些呢？"
 
 # game/bar.rpy#L3135
 translate chinese eveningbarmenu_9f414690:
 
     # wolfgirl "Mmm, wanna do it in my ass? Just a tiny bit of drool should let you slide deep inside..."
-    wolfgirl "Mmm, wanna do it in my ass? Just a tiny bit of drool should let you slide deep inside..."
+    wolfgirl "嗯，你想插我的屁屁是吗？你只需要涂些口水就可以让你的小弟滑进去了……"
 
 # game/bar.rpy#L3136
 translate chinese eveningbarmenu_2b55b510:
 
     # "With a gracious amount of drool applied to the tip of my cock I try pressing my member against her sphincter again, that combined with her relaxation..."
-    "With a gracious amount of drool applied to the tip of my cock I try pressing my member against her sphincter again, that combined with her relaxation..."
+    "于是，我在龟头上涂了很多很多口水。然后，我再次将肉棒顶到了她那已经放松下来的后庭上……"
 
 # game/bar.rpy#L3139
 translate chinese eveningbarmenu_49ce11fc:
 
     # wolfgirl "Haaah! It's in! Pheewww, that feels good... I like it when it hurts, hehe."
-    wolfgirl "Haaah! It's in! Pheewww, that feels good... I like it when it hurts, hehe."
+    wolfgirl "哈啊！它进去了！呼……感觉好棒啊……好痛，但我就是喜欢这感觉，嘿嘿。"
 
 # game/bar.rpy#L3141
 translate chinese eveningbarmenu_50bb4031:
 
     # "I giggle and give her ass a playful slap as I allow my cock to sink deeper into the warmth and wetness."
-    "I giggle and give her ass a playful slap as I allow my cock to sink deeper into the warmth and wetness."
+    "在我的肉棒插入到她温暖而潮湿的后庭深处后，我笑了起来，随后调皮地给了她的翘臀一巴掌。"
 
 # game/bar.rpy#L3142
 translate chinese eveningbarmenu_b3d2a38a_1:
 
     # wolfgirl "Haaahh, th-that's really- haah, good!"
-    wolfgirl "Haaahh, th-that's really- haah, good!"
+    wolfgirl "哈啊啊啊，这……这感觉简直……哈啊，简直爽爆了！"
 
 # game/bar.rpy#L3144
 translate chinese eveningbarmenu_78fb9393:
 
     # "Starting slowly, I gently fuck the wolf girl's ass allowing her time to adjust to my girth. The tightness, especially around the base of my cock, is immense."
-    "Starting slowly, I gently fuck the wolf girl's ass allowing her time to adjust to my girth. The tightness, especially around the base of my cock, is immense."
+    "刚开始的时候，我慢慢地抽插着她的后庭，让她逐渐适应我肉棒的尺寸。她的后庭十分紧致，当我将肉棒完全插入其中时，我感觉肉棒根部的压迫感很强。"
 
 # game/bar.rpy#L3145
 translate chinese eveningbarmenu_3438b1d1:
@@ -10838,97 +10838,97 @@ translate chinese eveningbarmenu_3438b1d1:
 translate chinese eveningbarmenu_9293daef_1:
 
     # "The sound of our sexes slapping against each other mix and echo with her moans and howls of delight. It truly is an erotic symphony to the ears."
-    "The sound of our sexes slapping against each other mix and echo with her moans and howls of delight. It truly is an erotic symphony to the ears."
+    "我们交合的啪啪声伴随着她欢快的呻吟声在四周来回飘荡，好似一首淫靡的交响乐。"
 
 # game/bar.rpy#L3148
 translate chinese eveningbarmenu_e73dac17_1:
 
     # "I keep up for a few minutes, fucking her while occasionally slapping her ass and playing with her tits. I can feel her orgasm starting to come."
-    "I keep up for a few minutes, fucking her while occasionally slapping her ass and playing with her tits. I can feel her orgasm starting to come."
+    "我又继续抽插了几分钟，同时，我偶尔也会用手在她的肥臀上拍一下，也会不时地揉捏她的双峰。我可以感觉到，她应该快到高潮了。"
 
 # game/bar.rpy#L3149
 translate chinese eveningbarmenu_3357a9a7_1:
 
     # wolfgirl "Aahhhh, w-what a good cock! I-I'm I'm gonna, I-I'm coming! Awwwwoooooooooo!"
-    wolfgirl "Aahhhh, w-what a good cock! I-I'm I'm gonna, I-I'm coming! Awwwwoooooooooo!"
+    wolfgirl "啊啊啊，这大屌实在是太……太爽了！我……我要，我要去了！啊嗷……！"
 
 # game/bar.rpy#L3150
 translate chinese eveningbarmenu_761a3629:
 
     # "She climaxes, her ass clenches around my member as she squeals with pleasure. But I'm not done yet, perhaps with a bit of whiskey dick, I still have some more fucking to do."
-    "She climaxes, her ass clenches around my member as she squeals with pleasure. But I'm not done yet, perhaps with a bit of whiskey dick, I still have some more fucking to do."
+    "她终于高潮了，由于享受到了极度的快感，所以她小穴的内壁变得紧紧的，并包裹着我的肉棒。可我还没有尽兴，我肉棒的兴致也没有消退，我还想继续爽一爽。"
 
 # game/bar.rpy#L3151
 translate chinese eveningbarmenu_d406b444:
 
     # "I grit my teeth and continue to pulverize her rump, driving my cock deeper and faster than before, causing Hilda's body to jiggle back and forth along the bedsheets."
-    "I grit my teeth and continue to pulverize her rump, driving my cock deeper and faster than before, causing Hilda's body to jiggle back and forth along the bedsheets."
+    "我咬紧牙关，继续用力冲击着她的蜜穴，肉棒抽插的速度不仅加快了，而且插得也更深了。强大的动能让Hilda柔嫩的身躯在床上前后抖动着。"
 
 # game/bar.rpy#L3152
 translate chinese eveningbarmenu_2aef54af_1:
 
     # wolfgirl "Haaaahhh, y-you're crazy! F-FUCK! Aaaahhhhhh! *Squish, squelch!*"
-    wolfgirl "Haaaahhh, y-you're crazy! F-FUCK! Aaaahhhhhh! *Squish, squelch!*"
+    wolfgirl "哈啊啊啊，你……你是不是疯了！卧……槽！啊啊啊！*啪唧，扑哧！*"
 
 # game/bar.rpy#L3153
 translate chinese eveningbarmenu_d729740a_1:
 
     # "Still in an orgasmic daze, Hilda claws and grasps the bedsheets so aggressively that her claws threaten to tear the fabric, her quivering thighs struggling to remain upright."
-    "Still in an orgasmic daze, Hilda claws and grasps the bedsheets so aggressively that her claws threaten to tear the fabric, her quivering thighs struggling to remain upright."
+    "此时的Hilda仍然沉浸在高潮的喜悦中而飘飘欲仙。此时的她，全身上下都充满着很强的攻击性，只见她双手牢牢地抓着床单，恨不得要将它全部撕碎。而她的双腿依然保持着抬起的姿势，并且还在不停颤抖着。"
 
 # game/bar.rpy#L3154
 translate chinese eveningbarmenu_fcfbd827_1:
 
     # "I can feel my orgasm finally begin to boil up, and no doubt my wolf companion has already been racked to the core by a second orgasm; judging by her hysteric movements and moans."
-    "I can feel my orgasm finally begin to boil up, and no doubt my wolf companion has already been racked to the core by a second orgasm; judging by her hysteric movements and moans."
+    "我感觉自己的高潮已经迫在眉睫了。毫无疑问，我的爱侣也已经被她的第二次高潮冲得欣喜若狂，这从她夸张的肢体动作和疯狂的浪叫中就能可见一斑。"
 
 # game/bar.rpy#L3159
 translate chinese eveningbarmenu_2f45abb1:
 
     # "My orgasm finally arrives and overwhelms me with its glory, my vision turns white as a torrent of thick jism spews into Hilda's ass."
-    "My orgasm finally arrives and overwhelms me with its glory, my vision turns white as a torrent of thick jism spews into Hilda's ass."
+    "终于，我到达了高潮，大量精液喷薄而出，量多得我都有点手足无措。当浓浓的精液灌满Butters的小穴和子宫时，我的眼前变得一片空白。"
 
 # game/bar.rpy#L3165
 translate chinese eveningbarmenu_d284e87e:
 
     # "Three loads, six, then nine. The wolf's butt is filled to the brim, so much that it readily oozes and spills out."
-    "Three loads, six, then nine. The wolf's butt is filled to the brim, so much that it readily oozes and spills out."
+    "三发，六发，我一共射了九发。这个狼女的蜜穴已经被我的精液全部填满了，而多余的精液则流出或喷溅而出。"
 
 # game/bar.rpy#L3167
 translate chinese eveningbarmenu_82563719_1:
 
     # "As I pull out, a thick droplet of cum drips down over her anus and pools in the fur of her tail."
-    "As I pull out, a thick droplet of cum drips down over her anus and pools in the fur of her tail."
+    "在我抽出肉棒时，浓稠的精液成股流出，顺着肛门一路流下，最后滴落到了她的绒毛和尾巴上。"
 
 # game/bar.rpy#L3170
 translate chinese eveningbarmenu_2da7f252:
 
     # wolfgirl "Haahh, fuck... I don't know when I became such a masochist in bed, but that pain felt so good."
-    wolfgirl "Haahh, fuck... I don't know when I became such a masochist in bed, but that pain felt so good."
+    wolfgirl "哈啊，草……我都不知道自己在床上的时候居然会变成个受虐狂。不过这痛痛的感觉确实很不错。"
 
 # game/bar.rpy#L3171
 translate chinese eveningbarmenu_cec439fb:
 
     # wolfgirl "Next time, and there will be a next time, ya gotta pull my tail!"
-    wolfgirl "Next time, and there will be a next time, ya gotta pull my tail!"
+    wolfgirl "等到下次，你一定要拽着我的尾巴哦。一定还会有下次的！"
 
 # game/bar.rpy#L3173
 translate chinese eveningbarmenu_72b5f96d:
 
     # wolfgirl "Haahh, fuck... Ya cock is a wild ride, you're giving the men of my species a tough act to follow up on."
-    wolfgirl "Haahh, fuck... Ya cock is a wild ride, you're giving the men of my species a tough act to follow up on."
+    wolfgirl "哈啊，卧槽……骑在你大棒上的感觉真是太让人疯狂了。你刚才的表现可是给我们族的小伙子们好好地上了一课。"
 
 # game/bar.rpy#L3176
 translate chinese eveningbarmenu_b0a63024:
 
     # "Finally spent, the both of us resign to snuggling together in the comfortable bed."
-    "Finally spent, the both of us resign to snuggling together in the comfortable bed."
+    "最后，我们两人躺在舒适的床上，依偎在一起，进入了梦乡。"
 
 # game/bar.rpy#L3177
 translate chinese eveningbarmenu_1c4f2d90:
 
     # "We wake up fairly early in the morning and actually decide to have another session of sex before parting ways."
-    "We wake up fairly early in the morning and actually decide to have another session of sex before parting ways."
+    "清晨，我们两个很早就起床了。然后，我们决定在分手前再好好快活一次。"
 
 # game/bar.rpy#L3178
 translate chinese eveningbarmenu_7383dce4:
@@ -10946,7 +10946,7 @@ translate chinese eveningbarmenu_c0e32efb:
 translate chinese eveningbarmenu_2c392e7d:
 
     # mc "Hey Midna, great to see you."
-    mc "Hey Midna, great to see you."
+    mc "嘿，Midna，很高兴见到你。"
 
 # game/bar.rpy#L3186
 translate chinese eveningbarmenu_428460e7:
@@ -10958,31 +10958,31 @@ translate chinese eveningbarmenu_428460e7:
 translate chinese eveningbarmenu_f0e618b6:
 
     # mc "The stallions not treating you well?"
-    mc "The stallions not treating you well?"
+    mc "其他的公马没伺候好你，是吗？"
 
 # game/bar.rpy#L3189
 translate chinese eveningbarmenu_39479696:
 
     # midna "Eh, those fuckers can't handle a woman like me, my ex was a dragon after all."
-    midna "Eh, those fuckers can't handle a woman like me, my ex was a dragon after all."
+    midna "嗯，这些蠢蛋根本驾驭不了像我这样的女人。还是，我前男友是条龙。"
 
 # game/bar.rpy#L3190
 translate chinese eveningbarmenu_d0e187f3:
 
     # "Looking around, there are a few stallions in here, but they're {i}all{/i} paired with a mare, or two."
-    "Looking around, there are a few stallions in here, but they're {i}all{/i} paired with a mare, or two."
+    "我看了看四周，发现这里也有几匹公马，但他们身边{i}全都{/i}已经有一到两匹雌驹相配了。"
 
 # game/bar.rpy#L3191
 translate chinese eveningbarmenu_a6885565:
 
     # "In contrast, there are far more mares alone or amongst themselves."
-    "In contrast, there are far more mares alone or amongst themselves."
+    "相比之下，还有很多母马都是孤身一人或者是和同性聚在一起。"
 
 # game/bar.rpy#L3193
 translate chinese eveningbarmenu_35601128:
 
     # midna "Hey, let me get you a drink?"
-    midna "Hey, let me get you a drink?"
+    midna "嘿，我请你喝杯酒可以吗？"
 
 # game/bar.rpy#L3194
 translate chinese eveningbarmenu_095e1f68:
@@ -11222,13 +11222,13 @@ translate chinese eveningbarmenu_7d419744:
 translate chinese eveningbarmenu_9745ba65:
 
     # "We snuggle and sleep together as lovers, and by morning she's back to her usual self."
-    "We snuggle and sleep together as lovers, and by morning she's back to her usual self."
+    "我们就像情人一样，互相依偎在一起，进入了梦乡。第二天一早，她又恢复了常态。"
 
 # game/bar.rpy#L3262
 translate chinese eveningbarmenu_54298feb:
 
     # "We walk together as she goes to setup her market stall, and I return home."
-    "We walk together as she goes to setup her market stall, and I return home."
+    "我们两人一起出了门。在她布置好市场的摊位后，我便回了家。"
 
 # game/bar.rpy#L3264
 translate chinese eveningbarmenu_b231e542:
@@ -11240,19 +11240,19 @@ translate chinese eveningbarmenu_b231e542:
 translate chinese eveningbarmenu_580ee9f9:
 
     # mc "You're too good to me, Midna."
-    mc "You're too good to me, Midna."
+    mc "你对我真是太好了，Midna。"
 
 # game/bar.rpy#L3267
 translate chinese eveningbarmenu_4a5bf837:
 
     # midna "Only the best for mwaster!"
-    midna "Only the best for mwaster!"
+    midna "给主人的一切都必须是最好的才可以！"
 
 # game/bar.rpy#L3269
 translate chinese eveningbarmenu_ffb65ba5:
 
     # "What a girl."
-    "What a girl."
+    "这个姑娘啊。"
 
 # game/bar.rpy#L3272
 translate chinese eveningbarmenu_482cead7:
@@ -11264,19 +11264,19 @@ translate chinese eveningbarmenu_482cead7:
 translate chinese eveningbarmenu_2c392e7d_1:
 
     # mc "Hey Midna, great to see you."
-    mc "Hey Midna, great to see you."
+    mc "嘿，Midna，很高兴见到你。"
 
 # game/bar.rpy#L3275
 translate chinese eveningbarmenu_ed571a82:
 
     # midna "Hey man, I've been thinking about you."
-    midna "Hey man, I've been thinking about you."
+    midna "嘿，是你啊。我一直都在想着你呢。"
 
 # game/bar.rpy#L3276
 translate chinese eveningbarmenu_3ab74a8f:
 
     # mc "Oh really? Of my charming good looks and personality I imagine."
-    mc "Oh really? Of my charming good looks and personality I imagine."
+    mc "哦，真的吗？我猜你肯定是在想我英俊的外表和完美的性格吧。"
 
 # game/bar.rpy#L3277
 translate chinese eveningbarmenu_0af4e10b:
@@ -11288,13 +11288,13 @@ translate chinese eveningbarmenu_0af4e10b:
 translate chinese eveningbarmenu_b2b9e19d:
 
     # mc "What do you mean?"
-    mc "What do you mean?"
+    mc "你什么意思？"
 
 # game/bar.rpy#L3279
 translate chinese eveningbarmenu_60a9aecd:
 
     # midna "Ah well, y'know... I won't sleep around and stuff."
-    midna "Ah well, y'know... I won't sleep around and stuff."
+    midna "啊，这么说吧，你知道吗……我可不是那种随便和人过夜和干那些事的人。"
 
 # game/bar.rpy#L3280
 translate chinese eveningbarmenu_37fc8d18:
@@ -11402,19 +11402,19 @@ translate chinese eveningbarmenu_f559eacc:
 translate chinese eveningbarmenu_f528fb47_1:
 
     # midna "Mmphh, does master like Kitty's tight pussy?"
-    midna "Mmphh, does master like Kitty's tight pussy?"
+    midna "嗯嗯，主人你喜欢Kitty的小穴吗？"
 
 # game/bar.rpy#L3307
 translate chinese eveningbarmenu_4218406d:
 
     # mc "Mmmhh yeah, Kitty's pussy feels so fucking good."
-    mc "Mmmhh yeah, Kitty's pussy feels so fucking good."
+    mc "嗯，当然了，Kitty的小穴简直完美极了。"
 
 # game/bar.rpy#L3308
 translate chinese eveningbarmenu_dc08fbc2:
 
     # midna "Ahah, thank you so much master!"
-    midna "Ahah, thank you so much master!"
+    midna "啊，太谢谢你了，主人！"
 
 # game/bar.rpy#L3311
 translate chinese eveningbarmenu_a812934c_1:
@@ -11438,7 +11438,7 @@ translate chinese eveningbarmenu_4a553283_1:
 translate chinese eveningbarmenu_4be85bcb_1:
 
     # midna "Haahh, m-master your cock is gonna make me come! Haaahhh!"
-    midna "Haahh, m-master your cock is gonna make me come! Haaahhh!"
+    midna "哈啊，主……主人，你的大棒棒要让我高潮了！哈啊啊啊！"
 
 # game/bar.rpy#L3316
 translate chinese eveningbarmenu_38a30c40_1:
@@ -11468,13 +11468,13 @@ translate chinese eveningbarmenu_20faa757_1:
 translate chinese eveningbarmenu_e2b08254_1:
 
     # midna "Master, fill Kitty's pussy up with your cum!"
-    midna "Master, fill Kitty's pussy up with your cum!"
+    midna "主人，如果你要射的话，一定要射到Kitty的小穴里哟！"
 
 # game/bar.rpy#L3321
 translate chinese eveningbarmenu_7c2f661e_1:
 
     # "Her encouraging words are just enough to push me past the point of no return."
-    "Her encouraging words are just enough to push me past the point of no return."
+    "听过她这番充满鼓励的话后，我一鼓作气，将自己推向了无法挽回的地步。"
 
 # game/bar.rpy#L3326
 translate chinese eveningbarmenu_f7e1ff42_1:
@@ -11486,7 +11486,7 @@ translate chinese eveningbarmenu_f7e1ff42_1:
 translate chinese eveningbarmenu_8a47ef9f:
 
     # midna "Nyaa, master's cumming inside my pussy!"
-    midna "Nyaa, master's cumming inside my pussy!"
+    midna "嗯啊，主人射到我的小穴里了！"
 
 # game/bar.rpy#L3333
 translate chinese eveningbarmenu_af110aa6_1:
@@ -11498,25 +11498,25 @@ translate chinese eveningbarmenu_af110aa6_1:
 translate chinese eveningbarmenu_326845ef_1:
 
     # "The two of us are utterly satisfied."
-    "The two of us are utterly satisfied."
+    "我们两个都很满意。"
 
 # game/bar.rpy#L3337
 translate chinese eveningbarmenu_4131c7cf:
 
     # midna "Mmm, I like being your kitty..."
-    midna "Mmm, I like being your kitty..."
+    midna "嗯，我很喜欢做你的小猫咪哦……"
 
 # game/bar.rpy#L3341
 translate chinese eveningbarmenu_9745ba65_1:
 
     # "We snuggle and sleep together as lovers, and by morning she's back to her usual self."
-    "We snuggle and sleep together as lovers, and by morning she's back to her usual self."
+    "我们就像情人一样，互相依偎在一起，进入了梦乡。第二天一早，她又恢复了常态。"
 
 # game/bar.rpy#L3344
 translate chinese eveningbarmenu_54298feb_1:
 
     # "We walk together as she goes to setup her market stall, and I return home."
-    "We walk together as she goes to setup her market stall, and I return home."
+    "我们两人一起出了门。在她布置好市场的摊位后，我便回了家。"
 
 # game/bar.rpy#L3353
 translate chinese eveningbarmenu_7887593c:
