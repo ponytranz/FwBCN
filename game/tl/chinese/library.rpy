@@ -5372,7 +5372,7 @@ translate chinese lilystandingsex_dcb0442c:
 translate chinese lilystandingsex_bfab1bfc:
 
     # mc "You’re too sweet."
-    mc "你太甜美了"
+    mc "你真可爱。"
 
 # game/library.rpy#L1552
 translate chinese lilystandingsex_6a958e11:

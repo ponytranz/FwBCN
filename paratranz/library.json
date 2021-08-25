@@ -13427,14 +13427,14 @@
   {
     "id": 79440462,
     "createdAt": "2021-05-30T17:55:41.000Z",
-    "updatedAt": "2021-07-07T10:45:30.000Z",
+    "updatedAt": "2021-08-24T13:07:42.000Z",
     "key": "lilystandingsex_bfab1bfc",
     "original": "You’re too sweet.",
-    "translation": "你太甜美了",
+    "translation": "你真可爱。",
     "file": 272350,
     "stage": 1,
     "project": 2414,
-    "uid": 22275,
+    "uid": 22440,
     "extra": null,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwBCN/blob/main/game/library.rpy#L1551",
     "words": 3

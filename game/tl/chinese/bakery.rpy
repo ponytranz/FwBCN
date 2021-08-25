@@ -4700,7 +4700,7 @@ translate chinese bakeryvisit2_ac20ffd1:
 translate chinese bakeryvisit2_42658dfa:
 
     # cream "In the grand, relative scale of a potentially infinite universe…"
-    cream "In the grand, relative scale of a potentially infinite universe…"
+    cream "在可能无限大宇宙的宏观相对尺度上…"
 
 # game/bakery.rpy#L1471
 translate chinese bakeryvisit2_5c13f4ff:
@@ -5006,13 +5006,13 @@ translate chinese bakeryvisit2_b73bed29:
 translate chinese bakeryvisit2_1bc5a026:
 
     # mc "Is there no way to prove that either?"
-    mc "Is there no way to prove that either?"
+    mc "这也没法证明吗？"
 
 # game/bakery.rpy#L1544
 translate chinese bakeryvisit2_f8128d80:
 
     # cream "Heh, well I like to think most anthropomorphs see the same thing, but…"
-    cream "Heh, well I like to think most anthropomorphs see the same thing, but…"
+    cream "哈，我觉得我们的大多数都是这么想的，但是…"
 
 # game/bakery.rpy#L1546
 translate chinese bakeryvisit2_019f8a49:
@@ -5096,13 +5096,13 @@ translate chinese bakeryvisit2_cdaea8c6:
 translate chinese bakeryvisit2_bb953178:
 
     # cream "Indeed, it would be naïve to say the external world is the average of all anthropomorphs."
-    cream "Indeed, it would be naïve to say the external world is the average of all anthropomorphs."
+    cream "实际上，说表世界是我们所有人的统一就显得天真了。"
 
 # game/bakery.rpy#L1565
 translate chinese bakeryvisit2_3275498d:
 
     # mc "Oh, I think our cakes are done, they’re golden brown."
-    mc "Oh, I think our cakes are done, they’re golden brown."
+    mc "啊，我觉得我们的蛋糕烤好了，它们变成金黄色了。"
 
 # game/bakery.rpy#L1567
 translate chinese bakeryvisit2_98fb7947:
@@ -5126,49 +5126,49 @@ translate chinese bakeryvisit2_f9e73372:
 translate chinese bakeryvisit2_6a07fc66:
 
     # "Perhaps she’s just a nerd that loves to indulge in this kind of discussion, but now I have this nagging feeling of ‘why’? Is there a reason she’s discussing all of this?"
-    "Perhaps she’s just a nerd that loves to indulge in this kind of discussion, but now I have this nagging feeling of ‘why’? Is there a reason she’s discussing all of this?"
+    "也许她只是个喜欢在这种讨论里遨游的书呆子，但我现在有个挥之不去的问题，为什么？她跟我讨论这些是不是另有其因？"
 
 # game/bakery.rpy#L1574
 translate chinese bakeryvisit2_55a724bb:
 
     # "We take the cakes out the oven, and as they cool I pursue that question."
-    "We take the cakes out the oven, and as they cool I pursue that question."
+    "我们把蛋糕从烤箱里端了出来，在让它放凉的时候我提出了那个问题。"
 
 # game/bakery.rpy#L1576
 translate chinese bakeryvisit2_69a3b20b:
 
     # mc "What’s leading you to say all these profound things, Cream?"
-    mc "What’s leading you to say all these profound things, Cream?"
+    mc "Cream.你为啥要谈这些个深刻的东西啊？"
 
 # game/bakery.rpy#L1578
 translate chinese bakeryvisit2_de06229c:
 
     # cream "Oh? Well… I’m not just making conversation anymore, [playername]."
-    cream "Oh? Well… I’m not just making conversation anymore, [playername]."
+    cream "啊？唉…我已经不是在交谈了，[playername]。"
 
 # game/bakery.rpy#L1579
 translate chinese bakeryvisit2_73a85b4c:
 
     # cream "These ideas keep me up at night thinking…"
-    cream "These ideas keep me up at night thinking…"
+    cream "这些想法让我在黯淡里思索…"
 
 # game/bakery.rpy#L1580
 translate chinese bakeryvisit2_38ec89f3:
 
     # cream "It’s more than just illusion, senses and time, it’s that there may be cosmic creatures that witness and observe the universe not through sight, smell and sound…"
-    cream "It’s more than just illusion, senses and time, it’s that there may be cosmic creatures that witness and observe the universe not through sight, smell and sound…"
+    cream "除了影像，意识和时间之外，还可能有宇宙生物不是用视觉，嗅觉和听觉来认识和见证宇宙的…"
 
 # game/bakery.rpy#L1581
 translate chinese bakeryvisit2_cd79e14d:
 
     # cream "But new senses that we’re unable to fathom, and these senses give birth to a radically different universe."
-    cream "But new senses that we’re unable to fathom, and these senses give birth to a radically different universe."
+    cream "但是这我们无法理解的新意识体，创生出了一个完全不同的宇宙。"
 
 # game/bakery.rpy#L1582
 translate chinese bakeryvisit2_94c7fbf6:
 
     # cream "There may even be other senses or extra dimensions occupied by creatures or concepts beyond the ability of our brain to comprehend."
-    cream "There may even be other senses or extra dimensions occupied by creatures or concepts beyond the ability of our brain to comprehend."
+    cream "甚至还可能有更多超出我们大脑认识能力的存在生物或意念的意识体或纬度。"
 
 # game/bakery.rpy#L1583
 translate chinese bakeryvisit2_16a22eaa:
@@ -5180,55 +5180,55 @@ translate chinese bakeryvisit2_16a22eaa:
 translate chinese bakeryvisit2_2b90331b:
 
     # cream "An ant doesn’t worry itself with the affairs of a human, indeed, it completely lacks the ability to."
-    cream "An ant doesn’t worry itself with the affairs of a human, indeed, it completely lacks the ability to."
+    cream "蚂蚁不会为人类的事情操心，实际上，它们也完全没有那种能力。"
 
 # game/bakery.rpy#L1585
 translate chinese bakeryvisit2_fb69bb4f:
 
     # mc "I see… Smell, sight, touch, hearing, and taste… What if there’s something in front of me, yet it’s out of reach because I lack the senses to engage with it."
-    mc "I see… Smell, sight, touch, hearing, and taste… What if there’s something in front of me, yet it’s out of reach because I lack the senses to engage with it."
+    mc "我明白了…嗅觉，视觉，触觉，听觉和味觉…要是我面前有某些东西，它却因为我没有合适的感官来认识它而变得遥不可及。"
 
 # game/bakery.rpy#L1586
 translate chinese bakeryvisit2_662b99f5:
 
     # mc "It’s like trying to imagine a new colour."
-    mc "It’s like trying to imagine a new colour."
+    mc "这就像尝试想象一种全新的颜色。"
 
 # game/bakery.rpy#L1588
 translate chinese bakeryvisit2_c9c05381:
 
     # cream "How can I stand here in my arrogance, baking cakes while pretending I have the senses that define the universe?"
-    cream "How can I stand here in my arrogance, baking cakes while pretending I have the senses that define the universe?"
+    cream "我怎么能只是傲慢的站在这里，在烤蛋糕的时候假装自己有能定义宇宙的意识？"
 
 # game/bakery.rpy#L1589
 translate chinese bakeryvisit2_bd3a991b:
 
     # mc "Why are you thinking about all this specifically?"
-    mc "Why are you thinking about all this specifically?"
+    mc "你为什么要特别考量这一切？"
 
 # game/bakery.rpy#L1590
 translate chinese bakeryvisit2_a962c2c1:
 
     # "She points at me, then boops my nose with that same finger."
-    "She points at me, then boops my nose with that same finger."
+    "她指着我，用手指戳了戳我的鼻子"
 
 # game/bakery.rpy#L1592
 translate chinese bakeryvisit2_314b9d5c:
 
     # cream "You… don’t belong here, do you?"
-    cream "You… don’t belong here, do you?"
+    cream "你…你不属于这里，对吧？"
 
 # game/bakery.rpy#L1593
 translate chinese bakeryvisit2_315a7522:
 
     # mc "I’m still trying to figure that one out."
-    mc "I’m still trying to figure that one out."
+    mc "我还在想这究竟是怎么回事。"
 
 # game/bakery.rpy#L1595
 translate chinese bakeryvisit2_dca684df:
 
     # cream "You’re an anomaly, no creature like you exists on this planet."
-    cream "You’re an anomaly, no creature like you exists on this planet."
+    cream "你是个异类，在这个星球上并不存在像你一样的生物。"
 
 # game/bakery.rpy#L1596
 translate chinese bakeryvisit2_0afd7d83:
@@ -5558,7 +5558,7 @@ translate chinese bakeryvisit2_91047b8c:
 translate chinese bakeryvisit2_5b8794d9:
 
     # "It reminds me of Moxie’s spell, was I teleported?"
-    "It reminds me of Moxie’s spell, was I teleported?"
+    "这让我想起了Moxie的魔法。难道我是被瞬移过来的吗？"
 
 # game/bakery.rpy#L1678
 translate chinese bakeryvisit2_c8c30de1:
@@ -5618,13 +5618,13 @@ translate chinese bakeryvisit2_6c1429cf:
 translate chinese bakeryvisit2_dc030d2b:
 
     # unknown "We're Creams from adjacent universes, hence why we all look so similar."
-    unknown "We're Creams from adjacent universes, hence why we all look so similar."
+    unknown "我们是来自平行宇宙的Cream，所以我们的样子都很像。"
 
 # game/bakery.rpy#L1699
 translate chinese bakeryvisit2_2bb54bbf:
 
     # unknown "Yup! But we all have unique names, actually."
-    unknown "Yup! But we all have unique names, actually."
+    unknown "没错！不过我们也有自己独立的名字。"
 
 # game/bakery.rpy#L1701
 translate chinese bakeryvisit2_0c7afbde:
@@ -5642,19 +5642,19 @@ translate chinese bakeryvisit2_48c579d5:
 translate chinese bakeryvisit2_83b43508:
 
     # unknown "What the fuck is going on over here? How dare you bring an outsider to this place Cream! How utterly irresponsible!"
-    unknown "What the fuck is going on over here? How dare you bring an outsider to this place Cream! How utterly irresponsible!"
+    unknown "这儿他妈发生什么事了？Cream，你怎么能把外人带到这儿来呢！这么做太不负责了吧！"
 
 # game/bakery.rpy#L1711
 translate chinese bakeryvisit2_00ffbf74:
 
     # cream "But Blackcurrant... This man is... This man is beyond our dimensions!"
-    cream "But Blackcurrant... This man is... This man is beyond our dimensions!"
+    cream "可是，Blackcurrant……这个人……这个人是从另一个维度过来的！"
 
 # game/bakery.rpy#L1713
 translate chinese bakeryvisit2_47141e82:
 
     # purple "W-What? Nonsense... Tell me young man, who are you?"
-    purple "W-What? Nonsense... Tell me young man, who are you?"
+    purple "什……什么？简直是胡扯……小伙子，你告诉我，你到底是什么人？"
 
 # game/bakery.rpy#L1721
 translate chinese bakeryvisit2_c569747f:

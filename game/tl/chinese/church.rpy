@@ -4400,13 +4400,13 @@ translate chinese lorequeen_fe20ea7b:
 translate chinese lorequeen_f4e20403:
 
     # augusta "Usually I tailor my technique in sex to the species, but I wasn’t quite sure how to deal with you, so I just used my usual stallion method."
-    augusta "Usually I tailor my technique in sex to the species, but I wasn’t quite sure how to deal with you, so I just used my usual stallion method."
+    augusta "在爱爱这方面，对于不同的人，我通常都会采用不同的手段来应对。但对于你，我恐怕就不知道要用什么方法了。所以呢，我还是用对付其他公马的方法来对付你吧。"
 
 # game/church.rpy#L1403
 translate chinese lorequeen_22ae190a:
 
     # augusta "Stallions usually cum too fast, so I spend eighty percent of the time going slowly and driving them wild with pleasure, before the explosive finish."
-    augusta "Stallions usually cum too fast, so I spend eighty percent of the time going slowly and driving them wild with pleasure, before the explosive finish."
+    augusta "通常，公马忍耐的时间都很短，用不了多久就会射。所以，在他们射之前，我会花些时间来慢慢地勾起他们的性趣，让他们享受快感。这个时间通常会占全部爱爱时间的五分之四左右。"
 
 # game/church.rpy#L1404
 translate chinese lorequeen_9073ab2b:
@@ -4418,7 +4418,7 @@ translate chinese lorequeen_9073ab2b:
 translate chinese lorequeen_6578b7f5:
 
     # mc "Yeah, I last a little longer than your contemporaries, usually a pleasant surprise for the mares."
-    mc "Yeah, I last a little longer than your contemporaries, usually a pleasant surprise for the mares."
+    mc "是啊，我的持久度确实比你遇到的其他公马要长一些。所以，很多小母马都是又吃惊又高兴。"
 
 # game/church.rpy#L1408
 translate chinese lorequeen_aa1b78f9:
@@ -4460,13 +4460,13 @@ translate chinese lorequeen_a21738be:
 translate chinese lorequeen_e6b88952:
 
     # "Augusta tries to bounce up off the sofa, however her quivering thighs almost give out."
-    "Augusta tries to bounce up off the sofa, however her quivering thighs almost give out."
+    "尽管Augusta双腿颤抖，基本连路都走不了了，但她还是用尽全力想要跳下沙发。"
 
 # game/church.rpy#L1420
 translate chinese lorequeen_fd273d4d:
 
     # augusta "Grrr… You were a formidable foe, [playername]. However, next time, it’ll be I who is victorious!"
-    augusta "Grrr… You were a formidable foe, [playername]. However, next time, it’ll be I who is victorious!"
+    augusta "呃啊……你真是个麻烦精，[playername]。不过，下一次的赢家肯定会是我！"
 
 # game/church.rpy#L1421
 translate chinese lorequeen_4246ca6b:

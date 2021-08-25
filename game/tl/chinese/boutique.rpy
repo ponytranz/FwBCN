@@ -9806,7 +9806,7 @@ translate chinese melodyeveningsex_ab261e7c:
 translate chinese melodyeveningsex_57d3faa1:
 
     # melody "Oohhh... I've picked a good toy, I'm gonna get a few orgasms out of you yet."
-    melody "哦哦哦……看来我已经找到了个不错的玩物，我要让你好好爽个够。"
+    melody "哦哦哦……看来我已经找到了个不错的玩物，我要让你帮我好好爽个够。"
 
 # game/boutique.rpy#L2960
 translate chinese melodyeveningsex_75784f2a:
@@ -9818,13 +9818,13 @@ translate chinese melodyeveningsex_75784f2a:
 translate chinese melodyeveningsex_f5c82fe3:
 
     # "No doubt filling her with great pleasure as indicated by the quivering in her thighs at the peak of each thrust."
-    "No doubt filling her with great pleasure as indicated by the quivering in her thighs at the peak of each thrust."
+    "每一次插入到最深处时，她的双腿都会剧烈地颤抖着，这说明，她肯定感受到了无比的愉悦。"
 
 # game/boutique.rpy#L2962
 translate chinese melodyeveningsex_5cc50212:
 
     # "Even though she's moving so slowly and carefully, the incredible tightness of her pussy causes each tiny movement to yield immense pleasure."
-    "Even though she's moving so slowly and carefully, the incredible tightness of her pussy causes each tiny movement to yield immense pleasure."
+    "尽管她身体的扭动十分缓慢谨慎，但由于她的小穴紧致异常，所以，每次微小的移动都会让她获得无与伦比的快感。"
 
 # game/boutique.rpy#L2963
 translate chinese melodyeveningsex_211360ca:
@@ -9848,25 +9848,25 @@ translate chinese melodyeveningsex_60a985c8:
 translate chinese melodyeveningsex_c901a0f8:
 
     # "She sighs as she once again sinks downwards along the length of my cock, it's a surprise that she can take the entire thing so easily."
-    "She sighs as she once again sinks downwards along the length of my cock, it's a surprise that she can take the entire thing so easily."
+    "当她再次将我的整根肉棒塞进自己的下体时，她轻轻地发出了几声叹息。令我感到意外的是，她居然可以很轻松地将它完全插进去。"
 
 # game/boutique.rpy#L2968
 translate chinese melodyeveningsex_7957b06f:
 
     # "I feel her hands squeeze at my legs as she grips onto me for leverage, her hips beginning to speed up their assault."
-    "I feel her hands squeeze at my legs as she grips onto me for leverage, her hips beginning to speed up their assault."
+    "在她扶着我，并以我为支撑点时，我可以感觉到她的双手正在用力地压在我的双腿上。随后，她的臀部开始加快了抖动的速度。"
 
 # game/boutique.rpy#L2969
 translate chinese melodyeveningsex_021fe9c4:
 
     # "Her cute breasts bounce up and down with each thrust, I can't help but bring my hands up to them and fondle them."
-    "Her cute breasts bounce up and down with each thrust, I can't help but bring my hands up to them and fondle them."
+    "每抽插一次，她那对娇乳就会上下晃动起来。见此情景，我不由自主地将手伸向了它们，并开始了抚摸。"
 
 # game/boutique.rpy#L2971
 translate chinese melodyeveningsex_1e957608:
 
     # "Despite that I'm a 'toy', Melody allows the action with glee, biting her lip as I toy with her sensitive nipples."
-    "Despite that I'm a 'toy', Melody allows the action with glee, biting her lip as I toy with her sensitive nipples."
+    "尽管我现在已经成为了Melody的玩物，但在我玩弄她敏感的乳头时，她还是边微笑着，边轻咬着双唇默许了。"
 
 # game/boutique.rpy#L2972
 translate chinese melodyeveningsex_c2cc1802:
@@ -9884,25 +9884,25 @@ translate chinese melodyeveningsex_2dd3ac9b:
 translate chinese melodyeveningsex_9f535f96:
 
     # "Unlike last time she's paced herself incredibly well, I'm not even close to cumming yet."
-    "Unlike last time she's paced herself incredibly well, I'm not even close to cumming yet."
+    "和上次不同的是，这次她的节奏掌握得很好，因为我到现在还没有任何高潮的感觉。"
 
 # game/boutique.rpy#L2976
 translate chinese melodyeveningsex_3be175a8:
 
     # "As her orgasm passes, she still doesn't increase her speed, instead choosing to tease me even more."
-    "As her orgasm passes, she still doesn't increase her speed, instead choosing to tease me even more."
+    "即使到达了高潮，她也并没有加快扭动的速度，反而更加期待着继续玩弄我。"
 
 # game/boutique.rpy#L2977
 translate chinese melodyeveningsex_6b0a2601:
 
     # "Unable to simply sit here and wait for her to tease me all night, I bring my hands to her hips and start to rock my hips into her, causing her to bounce up and down even faster."
-    "Unable to simply sit here and wait for her to tease me all night, I bring my hands to her hips and start to rock my hips into her, causing her to bounce up and down even faster."
+    "我不可能一整晚都傻傻地坐在这儿等着她玩弄我。于是，我一把抓住了她的腰，然后开始抽插起来。这让她身体上下晃动的速度变得更快了。"
 
 # game/boutique.rpy#L2979
 translate chinese melodyeveningsex_44e712a7:
 
     # melody "Ohh! Ahhh! You cheeky bastard! Ahh, ahhhh!"
-    melody "哦！啊啊啊！你个无耻的大混蛋！啊，啊啊啊！"
+    melody "哦！啊啊啊！你个不要脸的大混蛋！啊，啊啊啊！"
 
 # game/boutique.rpy#L2981
 translate chinese melodyeveningsex_a9e4f23d:
@@ -9938,13 +9938,13 @@ translate chinese melodyeveningsex_7ee8b536:
 translate chinese melodyeveningsex_af72e5bb:
 
     # "After all that teasing, my orgasm is long and powerful, almost rivaling the she-demon as she fatigues and slows down to a crawl."
-    "After all that teasing, my orgasm is long and powerful, almost rivaling the she-demon as she fatigues and slows down to a crawl."
+    "一番玩弄过后，我感受到自己已经来到了高潮的边缘。这感觉十分强烈而持久，即使她已经筋疲力竭，缓缓地蜷缩起来，我也要好好发泄一下。"
 
 # game/boutique.rpy#L3001
 translate chinese melodyeveningsex_a68eb108:
 
     # "Eventually culminating in her falling on top of me, cuddling while joined at the hips."
-    "Eventually culminating in her falling on top of me, cuddling while joined at the hips."
+    "当她骑在我的身上，同时我们两人的下体互相交合时，我终于忍耐不住，达到了自己的极限。"
 
 # game/boutique.rpy#L3003
 translate chinese melodyeveningsex_f8aa7095:
@@ -10358,7 +10358,7 @@ translate chinese melodyeveningvisit1_00f75c14:
 translate chinese melodyeveningvisit1_983748d0:
 
     # "I bring a hand to her breast and start to ruffle my fingers through the furry texture."
-    "I bring a hand to her breast and start to ruffle my fingers through the furry texture."
+    "我把一只手放在她的胸口中间，开始用手指抚摸着她被毛皮覆盖的肌肤。"
 
 # game/boutique.rpy#L3144
 translate chinese melodyeveningvisit1_bd0cf7d3:
@@ -10406,13 +10406,13 @@ translate chinese melodyeveningvisit1_2f378f35:
 translate chinese melodyeveningvisit1_9d36e260:
 
     # mc "They're so soft and squishy."
-    mc "这对乳房不仅非常柔软，而且还十分湿滑。"
+    mc "你这对巨乳不仅非常柔软，还很湿滑呢。"
 
 # game/boutique.rpy#L3158
 translate chinese melodyeveningvisit1_5e42807d:
 
     # melody "You know, I've never let anyone do this to me before."
-    melody "You know, I've never let anyone do this to me before."
+    melody "你知道吗，在你之前，我从来都没让任何人碰过它。"
 
 # game/boutique.rpy#L3159
 translate chinese melodyeveningvisit1_55efac4e:
@@ -10424,97 +10424,97 @@ translate chinese melodyeveningvisit1_55efac4e:
 translate chinese melodyeveningvisit1_533ab301:
 
     # melody "Hmph, don't think that'll change for a second, wormy boi!"
-    melody "Hmph, don't think that'll change for a second, wormy boi!"
+    melody "哼，别再幻想这种情况会发生什么变化了，痿哥！"
 
 # game/boutique.rpy#L3162
 translate chinese melodyeveningvisit1_68567bbe:
 
     # mc "Do you want to do something tonight?"
-    mc "Do you want to do something tonight?"
+    mc "今晚你想干点什么呢？"
 
 # game/boutique.rpy#L3164
 translate chinese melodyeveningvisit1_82131bb5:
 
     # melody "Mm yeah, I'm still in heat... So I'm gonna use you as a toy, got it?"
-    melody "Mm yeah, I'm still in heat... So I'm gonna use you as a toy, got it?"
+    melody "嗯，当然有事干了，我现在还在发情期呢……所以我想让你当我的玩物，明白了没？"
 
 # game/boutique.rpy#L3165
 translate chinese melodyeveningvisit1_717cf301:
 
     # mc "Whatever you say, 'mistress'."
-    mc "Whatever you say, 'mistress'."
+    mc "您说了算，“夫人”。"
 
 # game/boutique.rpy#L3166
 translate chinese melodyeveningvisit1_809a6be1:
 
     # melody "Toys don't talk, so be quiet and lay down."
-    melody "Toys don't talk, so be quiet and lay down."
+    melody "玩物可不会说话。所以闭上嘴，好好躺着吧。"
 
 # game/boutique.rpy#L3167
 translate chinese melodyeveningvisit1_cacb5235:
 
     # "I nod and lay down on her bed, my half-erection limply resting on my belly."
-    "I nod and lay down on her bed, my half-erection limply resting on my belly."
+    "我点了点头，然后躺到了她的床上。我未完全勃起的肉棒此时就瘫软在了我的腹部上。"
 
 # game/boutique.rpy#L3168
 translate chinese melodyeveningvisit1_cb4a8f82:
 
     # melody "Well this is just pathetic, let's fix that."
-    melody "Well this is just pathetic, let's fix that."
+    melody "嗯，这样可不太好呢，让我来好好帮帮你吧。"
 
 # game/boutique.rpy#L3174
 translate chinese melodyeveningvisit1_be0c33fb:
 
     # "She lowers her muzzle over my cock and starts to suck and lick, within seconds my shaft engorges within her mouth until I'm fully erect and almost too big for her to handle."
-    "She lowers her muzzle over my cock and starts to suck and lick, within seconds my shaft engorges within her mouth until I'm fully erect and almost too big for her to handle."
+    "她低下头，将口部移动到了我肉棒的上方，随后开始了舔舐和吸吮。没过多久，我的肉棒便在她的嘴里膨胀起来。最终，当肉棒完全勃起后，她变得有些展架不住了。"
 
 # game/boutique.rpy#L3176
 translate chinese melodyeveningvisit1_a2b923d6:
 
     # melody "Mmphh, damn, I forgot how big you were."
-    melody "Mmphh, damn, I forgot how big you were."
+    melody "唔嗯，靠，我都忘了你这玩意的尺寸有这么大了。"
 
 # game/boutique.rpy#L3179
 translate chinese melodyeveningvisit1_788e9786:
 
     # "Melody spends a few moments teasing the tip of my cock with her tongue, enjoying the way it feels as it throbs in her mouth."
-    "Melody spends a few moments teasing the tip of my cock with her tongue, enjoying the way it feels as it throbs in her mouth."
+    "Melody花了一段时间用舌头舔舐挑逗着我的龟头，享受着它在口中抖动的感觉。"
 
 # game/boutique.rpy#L3180
 translate chinese melodyeveningvisit1_42d5d8b4:
 
     # melody "Mmphh, phahh... *Schlurp*. *Lick*."
-    melody "Mmphh, phahh... *Schlurp*. *Lick*."
+    melody "嗯嗯，呃啊…… *呲溜* *舔*。"
 
 # game/boutique.rpy#L3181
 translate chinese melodyeveningvisit1_2eb20dc6:
 
     # "Every few licks or so, she pushes it deep and fucks it with her lips. My shaft gleams with her saliva."
-    "Every few licks or so, she pushes it deep and fucks it with her lips. My shaft gleams with her saliva."
+    "每舔舐一次，她都会将肉棒向自己的嘴里插得更深，同时用嘴唇爱抚着它。此时，我的肉棒上已经沾满了她的口水，整根肉棒变得亮闪闪的。"
 
 # game/boutique.rpy#L3183
 translate chinese melodyeveningvisit1_69df9c8e:
 
     # melody "My pussy is tight you know, so I need to make sure your cock is dripping wet."
-    melody "My pussy is tight you know, so I need to make sure your cock is dripping wet."
+    melody "你知道的，我的小穴可紧了。所以，我要保证你的小弟弟足够湿才行。"
 
 # game/boutique.rpy#L3187
 translate chinese melodyeveningvisit1_d9424182:
 
     # "With a quick movement, she pulls back and climbs on top of me, beginning to grind her cute pussy lips against my wet shaft."
-    "With a quick movement, she pulls back and climbs on top of me, beginning to grind her cute pussy lips against my wet shaft."
+    "说着，她以迅雷不及掩耳之势骑到了我的身上，并将自己小巧可爱的阴唇抵在了我湿漉漉的肉棒上。"
 
 # game/boutique.rpy#L3188
 translate chinese melodyeveningvisit1_206ecf86:
 
     # melody "You like my tight, little pussy don't you? You're a filthy worm like that, always fantasising about it."
-    melody "You like my tight, little pussy don't you? You're a filthy worm like that, always fantasising about it."
+    melody "你是不是很喜欢我紧紧的小穴呢？你就是个下流的贱货，每天都对它想入非非。"
 
 # game/boutique.rpy#L3189
 translate chinese melodyeveningvisit1_28ab5122:
 
     # melody "Here we go..."
-    melody "Here we go..."
+    melody "咱们开始吧……"
 
 # game/boutique.rpy#L3192
 translate chinese melodyeveningvisit1_ab261e7c:
@@ -10526,7 +10526,7 @@ translate chinese melodyeveningvisit1_ab261e7c:
 translate chinese melodyeveningvisit1_57d3faa1:
 
     # melody "Oohhh... I've picked a good toy, I'm gonna get a few orgasms out of you yet."
-    melody "Oohhh... I've picked a good toy, I'm gonna get a few orgasms out of you yet."
+    melody "哦哦哦……看来我已经找到了个不错的玩物，我要让你帮我好好爽个够。"
 
 # game/boutique.rpy#L3196
 translate chinese melodyeveningvisit1_75784f2a:
@@ -10544,7 +10544,7 @@ translate chinese melodyeveningvisit1_b1230d44:
 translate chinese melodyeveningvisit1_5cc50212:
 
     # "Even though she's moving so slowly and carefully, the incredible tightness of her pussy causes each tiny movement to yield immense pleasure."
-    "Even though she's moving so slowly and carefully, the incredible tightness of her pussy causes each tiny movement to yield immense pleasure."
+    "尽管她身体的扭动十分缓慢谨慎，但由于她的小穴紧致异常，所以，每次微小的移动都会让她获得无与伦比的快感。"
 
 # game/boutique.rpy#L3199
 translate chinese melodyeveningvisit1_211360ca:
@@ -10610,13 +10610,13 @@ translate chinese melodyeveningvisit1_9f535f96:
 translate chinese melodyeveningvisit1_3be175a8:
 
     # "As her orgasm passes, she still doesn't increase her speed, instead choosing to tease me even more."
-    "As her orgasm passes, she still doesn't increase her speed, instead choosing to tease me even more."
+    "即使到达了高潮，她也并没有加快扭动的速度，反而更加期待着继续玩弄我。"
 
 # game/boutique.rpy#L3213
 translate chinese melodyeveningvisit1_e7fe4258:
 
     # "Unable to simply sit here and wait for her to tease me all night, I bring my hands to her waist and start to rock my hips into her, causing her to bounce up and down even faster."
-    "Unable to simply sit here and wait for her to tease me all night, I bring my hands to her waist and start to rock my hips into her, causing her to bounce up and down even faster."
+    "我不可能一整晚都傻傻地坐在这儿等着她玩弄我。于是，我一把抓住了她的腰，然后开始抽插起来。这让她身体上下晃动的速度变得更快了。"
 
 # game/boutique.rpy#L3215
 translate chinese melodyeveningvisit1_44e712a7:
@@ -10658,13 +10658,13 @@ translate chinese melodyeveningvisit1_7ee8b536:
 translate chinese melodyeveningvisit1_af72e5bb:
 
     # "After all that teasing, my orgasm is long and powerful, almost rivaling the she-demon as she fatigues and slows down to a crawl."
-    "After all that teasing, my orgasm is long and powerful, almost rivaling the she-demon as she fatigues and slows down to a crawl."
+    "一番玩弄过后，我感受到自己已经来到了高潮的边缘。这感觉十分强烈而持久，即使她已经筋疲力竭，缓缓地蜷缩起来，我也要好好发泄一下。"
 
 # game/boutique.rpy#L3238
 translate chinese melodyeveningvisit1_a68eb108:
 
     # "Eventually culminating in her falling on top of me, cuddling while joined at the hips."
-    "Eventually culminating in her falling on top of me, cuddling while joined at the hips."
+    "当她骑在我的身上，同时我们两人的下体互相交合时，我终于忍耐不住，达到了自己的极限。"
 
 # game/boutique.rpy#L3239
 translate chinese melodyeveningvisit1_b414e0a6:
