@@ -9992,7 +9992,7 @@ translate chinese eveningbarmenu_4ec2bf90:
 translate chinese eveningbarmenu_468f1713:
 
     # mc "Awesome, I'll get two. The name's [playername] by the way, when I saw such a cute girl by herself I just knew I had to say hi."
-    mc "太棒了，给我来俩瓶。顺便说一下，我的名字是[playername]，你一下子就把我的眼球吸引住了。"
+    mc "太棒了，给我来俩瓶。顺便说一下，我的名字叫[playername]，你一下子就把我的眼球吸引住了。"
 
 # game/bar.rpy#L2899
 translate chinese eveningbarmenu_357bf0af:
@@ -10478,7 +10478,7 @@ translate chinese eveningbarmenu_49c2d50b:
 translate chinese eveningbarmenu_56e7c613:
 
     # wolfgirl "Hey! It's always nice seeing another non-pony around here, the name's Hilda. How about yourself?"
-    wolfgirl "嘿！能在这里遇到小马族以外的人真是太棒了。我叫Hilda，你叫什么呢？"
+    wolfgirl "嘿！能在这里遇到小马以外的客人真是太棒了。我叫Hilda，你叫什么呢？"
 
 # game/bar.rpy#L3037
 translate chinese eveningbarmenu_8e8a7f38:
@@ -10508,7 +10508,7 @@ translate chinese eveningbarmenu_bac6174b:
 translate chinese eveningbarmenu_fb946f29:
 
     # wolfgirl "It's a more pleasant word than 'mercenary', I take odd jobs from anonymous employers. Sometimes I could be clearing monsters, collecting rare ingredients, or delivering packages."
-    wolfgirl "It's a more pleasant word than 'mercenary', I take odd jobs from anonymous employers. Sometimes I could be clearing monsters, collecting rare ingredients, or delivering packages."
+    wolfgirl "“冒险家”这个词听起来要比“雇佣兵”顺耳得多。我会从不留名姓的雇主那里接到各种各样的奇怪工作。有时候，我的任务是清除怪物，有时候是收集珍贵的原料，有时候是递送包裹。"
 
 # game/bar.rpy#L3043
 translate chinese eveningbarmenu_bf201f9a:
@@ -10520,7 +10520,7 @@ translate chinese eveningbarmenu_bf201f9a:
 translate chinese eveningbarmenu_7adf01ec:
 
     # wolfgirl "Hehe, green around the ears are ya? I can see why you'd say that if you live in Arcadia, this is by far the safest place in the country. If you were to travel somewhere else though, there's plenty of work opportunities for an adventurer like myself."
-    wolfgirl "Hehe, green around the ears are ya? I can see why you'd say that if you live in Arcadia, this is by far the safest place in the country. If you were to travel somewhere else though, there's plenty of work opportunities for an adventurer like myself."
+    wolfgirl "呵呵，你不觉得菜鸟俩字都写在你脸上了吗？我知道你这么说是因为你住在Arcadia，这里是国内最安全的地方。要是你去别的地方旅行，工作机会我这样的冒险家一抓一大把。"
 
 # game/bar.rpy#L3045
 translate chinese eveningbarmenu_1874ac8f:
@@ -10544,19 +10544,19 @@ translate chinese eveningbarmenu_53080bab:
 translate chinese eveningbarmenu_6611a9a5:
 
     # wolfgirl "Hey sexy, ready for a fun night of deja vu?"
-    wolfgirl "Hey sexy, ready for a fun night of deja vu?"
+    wolfgirl "嘿，帅哥，准备好享受一个似曾相识的美好夜晚了吗?"
 
 # game/bar.rpy#L3053
 translate chinese eveningbarmenu_4380ba79:
 
     # mc "Forget deja vu, let's make it even better than last time."
-    mc "Forget deja vu, let's make it even better than last time."
+    mc "忘了似曾相识吧，让我们做得比上次更好。"
 
 # game/bar.rpy#L3054
 translate chinese eveningbarmenu_876e4cb2:
 
     # wolfgirl "Oohh, you're such a catch, lemme get ya a drink, ehehe."
-    wolfgirl "Oohh, you're such a catch, lemme get ya a drink, ehehe."
+    wolfgirl "哦，你真是个抢手货，让我给你拿杯喝的吧，呵呵。"
 
 # game/bar.rpy#L3058
 translate chinese eveningbarmenu_5dc87c1f:
@@ -10580,13 +10580,13 @@ translate chinese eveningbarmenu_ff84791a:
 translate chinese eveningbarmenu_3d0595ce:
 
     # wolfgirl "I've been eyeing up that delicious cock all night, now pick a hole big boy."
-    wolfgirl "I've been eyeing up that delicious cock all night, now pick a hole big boy."
+    wolfgirl "你那根美味的大棒棒我已经欣赏一晚上了。帅哥，现在选个想插的地方吧。"
 
 # game/bar.rpy#L3068
 translate chinese eveningbarmenu_47793793:
 
     # wolfgirl "In all my years of adventuring, ya might be one of my favourite fucks yet, gimmie some sugar, lover!"
-    wolfgirl "In all my years of adventuring, ya might be one of my favourite fucks yet, gimmie some sugar, lover!"
+    wolfgirl "在我这么多年的冒险生涯中，你的床上功夫应该算得上是首屈一指了。快给我点糖吃吧，我的小情人！"
 
 # game/bar.rpy#L3072
 translate chinese eveningbarmenu_8eb86200:
@@ -10832,7 +10832,7 @@ translate chinese eveningbarmenu_78fb9393:
 translate chinese eveningbarmenu_3438b1d1:
 
     # "It's clearly not her first time experiencing anal though, and before long I'm able to speed up. I maintain a firm grip on her hips for leverage while she keeps her legs raised for the duration, making it even tighter."
-    "It's clearly not her first time experiencing anal though, and before long I'm able to speed up. I maintain a firm grip on her hips for leverage while she keeps her legs raised for the duration, making it even tighter."
+    "显然，她肯定有过不只一次的肛交经验了。没过多久，我加快了速度。我仍旧牢牢地抓着她的腰部，并以此为支点继续抽插着。而她则继续保持着双腿抬起的姿势，这使得她的下体更加紧绷了。"
 
 # game/bar.rpy#L3146
 translate chinese eveningbarmenu_9293daef_1:
@@ -10934,13 +10934,13 @@ translate chinese eveningbarmenu_1c4f2d90:
 translate chinese eveningbarmenu_7383dce4:
 
     # "She tells me to catch her in the bar again sometime, she won't pass the opportunity if she sees me alone."
-    "She tells me to catch her in the bar again sometime, she won't pass the opportunity if she sees me alone."
+    "她告诉我可以是不是在酒吧和她聚聚，只要她看到我孤身一人，她不会放过这个机会的。"
 
 # game/bar.rpy#L3183
 translate chinese eveningbarmenu_c0e32efb:
 
     # "Ah, there's the blacksmith from the market, Midna, right? She offered to buy me a drink if she saw me here, time to cash in."
-    "Ah, there's the blacksmith from the market, Midna, right? She offered to buy me a drink if she saw me here, time to cash in."
+    "那是市场上的铁匠，Midna，是吧？她说如果她看到我在这里就请我喝一杯，是时候兑现了。"
 
 # game/bar.rpy#L3185
 translate chinese eveningbarmenu_2c392e7d:
@@ -10952,7 +10952,7 @@ translate chinese eveningbarmenu_2c392e7d:
 translate chinese eveningbarmenu_428460e7:
 
     # midna "Hey man, about time someone attractive came along."
-    midna "Hey man, about time someone attractive came along."
+    midna "嘿，伙计，来得正好呀，帮我解解“馋”吧。"
 
 # game/bar.rpy#L3187
 translate chinese eveningbarmenu_f0e618b6:
@@ -10964,7 +10964,7 @@ translate chinese eveningbarmenu_f0e618b6:
 translate chinese eveningbarmenu_39479696:
 
     # midna "Eh, those fuckers can't handle a woman like me, my ex was a dragon after all."
-    midna "嗯，这些蠢蛋根本驾驭不了像我这样的女人。还是，我前男友是条龙。"
+    midna "嗯，这些蠢蛋根本驾驭不了像我这样的女人。还有，我前男友是条龙。"
 
 # game/bar.rpy#L3190
 translate chinese eveningbarmenu_d0e187f3:
@@ -10976,55 +10976,55 @@ translate chinese eveningbarmenu_d0e187f3:
 translate chinese eveningbarmenu_a6885565:
 
     # "In contrast, there are far more mares alone or amongst themselves."
-    "相比之下，还有很多母马都是孤身一人或者是和同性聚在一起。"
+    "相比之下，还有很多母马都是孑然一身或者是和同性聚在一起。"
 
 # game/bar.rpy#L3193
 translate chinese eveningbarmenu_35601128:
 
     # midna "Hey, let me get you a drink?"
-    midna "嘿，我请你喝杯酒可以吗？"
+    midna "嘿，我请你，来喝一杯吗？"
 
 # game/bar.rpy#L3194
 translate chinese eveningbarmenu_095e1f68:
 
     # mc "Heh, you trying to get lucky?"
-    mc "Heh, you trying to get lucky?"
+    mc "你想碰碰运气吗?"
 
 # game/bar.rpy#L3195
 translate chinese eveningbarmenu_e70ba15b:
 
     # midna "You know it lad, I gotta soften you up with some booze first tho, right?"
-    midna "You know it lad, I gotta soften you up with some booze first tho, right?"
+    midna "你知道的，小伙子，我得先喝点酒让你放松一下，对吧?"
 
 # game/bar.rpy#L3196
 translate chinese eveningbarmenu_4ca0e150:
 
     # mc "I'll take something strong."
-    mc "I'll take something strong."
+    mc "给我来瓶猛的。"
 
 # game/bar.rpy#L3197
 translate chinese eveningbarmenu_73c0d86d:
 
     # midna "I like your style."
-    midna "I like your style."
+    midna "品味不错嘛。"
 
 # game/bar.rpy#L3200
 translate chinese eveningbarmenu_6fae0bdf:
 
     # "Midna and I chat about various interesting topics as we progressively get more drunk."
-    "Midna and I chat about various interesting topics as we progressively get more drunk."
+    "我们越喝越醉，Midna和我开始聊各种有趣的话题。"
 
 # game/bar.rpy#L3201
 translate chinese eveningbarmenu_6dcc1465:
 
     # "Midna is not a flirty type, she's more the type to outright ask for sex."
-    "Midna is not a flirty type, she's more the type to outright ask for sex."
+    "Midna不是那种爱调情的类型，她更倾向于直接的类型。"
 
 # game/bar.rpy#L3206
 translate chinese eveningbarmenu_8c0bb9f1:
 
     # "However, she is surprisingly kinky. She has this red collar with a leash."
-    "However, she is surprisingly kinky. She has this red collar with a leash."
+    "不过，她好像有亿点点变态。她戴着一个带皮带的红项圈。"
 
 # game/bar.rpy#L3207
 translate chinese eveningbarmenu_ddb274bc:
@@ -11036,19 +11036,19 @@ translate chinese eveningbarmenu_ddb274bc:
 translate chinese eveningbarmenu_85498165:
 
     # midna "I want you to treat me like a pet, and pull my leash while you fuck me, master!"
-    midna "I want you to treat me like a pet, and pull my leash while you fuck me, master!"
+    midna "我要你像对待宠物一样对待我，边操我的边拉我的皮带，主人！"
 
 # game/bar.rpy#L3209
 translate chinese eveningbarmenu_308ba267:
 
     # "Her attitude and fetish are an odd combination, but my erection doesn't care."
-    "Her attitude and fetish are an odd combination, but my erection doesn't care."
+    "她的态度加上性癖真是奇怪的组合，但我可“勃”在意。"
 
 # game/bar.rpy#L3210
 translate chinese eveningbarmenu_bde07c2b:
 
     # "As I contemplate the delicious possibilities, I waste no time shuffling into position on the bed."
-    "As I contemplate the delicious possibilities, I waste no time shuffling into position on the bed."
+    "我思忖到这些美妙的可能性，一下子就蹿到了床上。"
 
 # game/bar.rpy#L3211
 translate chinese eveningbarmenu_fdc2bb19:
@@ -11090,7 +11090,7 @@ translate chinese eveningbarmenu_b87e1836:
 translate chinese eveningbarmenu_1910ba15:
 
     # midna "Ohh, pull the leash tighter mwaster!"
-    midna "Ohh, pull the leash tighter mwaster!"
+    midna "哦，主人，请把皮带再拉紧一点嘛！"
 
 # game/bar.rpy#L3223
 translate chinese eveningbarmenu_a812934c:
@@ -11204,19 +11204,19 @@ translate chinese eveningbarmenu_30462872:
 translate chinese eveningbarmenu_e2925e24:
 
     # midna "Well, when I have this collar on anyway, lad, ahaha."
-    midna "Well, when I have this collar on anyway, lad, ahaha."
+    midna "当然，只有当我戴上这个项圈的时候哟，伙计，哈哈。"
 
 # game/bar.rpy#L3257
 translate chinese eveningbarmenu_7c653c14:
 
     # "I can't say I expected Midna to have a fetish like that, but sometimes people are impossible to predict."
-    "I can't say I expected Midna to have a fetish like that, but sometimes people are impossible to predict."
+    "我没料到Midna会有那样的性癖，但有时候马心隔肚皮嘛。"
 
 # game/bar.rpy#L3258
 translate chinese eveningbarmenu_7d419744:
 
     # "You never truly know someone until you sleep with them. After this, I may never look at Midna the same way."
-    "You never truly know someone until you sleep with them. After this, I may never look at Midna the same way."
+    "只有和别人上过床，你才能真正了解她的内在。在这之后，我可能就要对Midna“刮目相看”了。"
 
 # game/bar.rpy#L3259
 translate chinese eveningbarmenu_9745ba65:
@@ -11234,7 +11234,7 @@ translate chinese eveningbarmenu_54298feb:
 translate chinese eveningbarmenu_b231e542:
 
     # midna "Don't forget to come see me again lad, I'll give you a small discount at the market, and in the bar? Drinks are on me."
-    midna "Don't forget to come see me again lad, I'll give you a small discount at the market, and in the bar? Drinks are on me."
+    midna "别忘了再来看我，小伙子，我在市场给你一些小折扣的，至于在酒吧？饮料都算我头上。"
 
 # game/bar.rpy#L3266
 translate chinese eveningbarmenu_580ee9f9:
@@ -11252,7 +11252,7 @@ translate chinese eveningbarmenu_4a5bf837:
 translate chinese eveningbarmenu_ffb65ba5:
 
     # "What a girl."
-    "这个姑娘啊。"
+    "多好的姑娘啊。"
 
 # game/bar.rpy#L3272
 translate chinese eveningbarmenu_482cead7:
@@ -12578,7 +12578,7 @@ translate chinese doubledoggo_3632ebd7:
 translate chinese doubledoggo_db94e3a7:
 
     # doggirl "Hehe, you could say that. I think? But I’m more of a…"
-    doggirl "Hehe, you could say that. I think? But I’m more of a…"
+    doggirl "呵呵，我感觉这只是你的说辞吧。不过，我倒是更……"
 
 # game/bar.rpy#L3735
 translate chinese doubledoggo_97df4eda:
@@ -12596,7 +12596,7 @@ translate chinese doubledoggo_c0d11814:
 translate chinese doubledoggo_511df9ef:
 
     # wolfgirl "Well, I could use the company. Do you two want drinks?"
-    wolfgirl "Well, I could use the company. Do you two want drinks?"
+    wolfgirl "好好好，有朋友的话，就方便多了。你们两个想喝几杯吗？"
 
 # game/bar.rpy#L3738
 translate chinese doubledoggo_92601685:
@@ -12632,7 +12632,7 @@ translate chinese doubledoggo_b492ac79:
 translate chinese doubledoggo_451a8dc5:
 
     # "I swear, it’s the girls that come onto me every time."
-    "I swear, it’s the girls that come onto me every time."
+    "我敢发誓，这就是每次都来跟我搭讪的那两个姑娘。"
 
 # game/bar.rpy#L3749
 translate chinese doubledoggo_05173c86:
@@ -12644,19 +12644,19 @@ translate chinese doubledoggo_05173c86:
 translate chinese doubledoggo_b9724607:
 
     # "For a moment, I was almost worried I was going to be the third wheel. But they’re both desperately eager for my cock right now."
-    "For a moment, I was almost worried I was going to be the third wheel. But they’re both desperately eager for my cock right now."
+    "不久之后，我马上就要喝到第三轮了，这让我很是担心。但与此同时，这两个姑娘已经如饥似渴似地期待着享用我的肉棒了。"
 
 # game/bar.rpy#L3752
 translate chinese doubledoggo_668b4770:
 
     # wolfgirl "So, sexy. Who’s the lucky lady to get it first?"
-    wolfgirl "So, sexy. Who’s the lucky lady to get it first?"
+    wolfgirl "话说，小帅哥，我们两个当中，谁会成为第一个和你啪啪啪的幸运儿呢？"
 
 # game/bar.rpy#L3753
 translate chinese doubledoggo_1b006a1c:
 
     # mc "I couldn’t dishonour either of you lovely girls by choosing. So how about a game of rock, paper, scissors?"
-    mc "I couldn’t dishonour either of you lovely girls by choosing. So how about a game of rock, paper, scissors?"
+    mc "我可不想在你们这两位可爱的姑娘中进行选择，因为我不想得罪任何一个人。所以咱们就用剪刀石头布来决定怎么样？"
 
 # game/bar.rpy#L3754
 translate chinese doubledoggo_b63cc486:
@@ -12752,7 +12752,7 @@ translate chinese doubledoggo_1630f25b:
 translate chinese doubledoggo_c59afe5a:
 
     # doggirl "Alriiight, fuck it. Take Hilda first. I for one am actually pretty aroused at the idea of slurping her juices off your cock."
-    doggirl "Alriiight, fuck it. Take Hilda first. I for one am actually pretty aroused at the idea of slurping her juices off your cock."
+    doggirl "好……吧……去他的吧。让Hilda先开始吧。不过我还是很期待一边舔你的大棒棒，一边舔她的爱液呢。"
 
 # game/bar.rpy#L3770
 translate chinese doubledoggo_fa3f1e54:
@@ -12830,37 +12830,37 @@ translate chinese doubledoggo_e3257b49:
 translate chinese doubledoggo_20c2e502:
 
     # "I continue to caress Hilda’s supple breasts while I gently rock my hips back and forth. She moans with approval as I tweak her stiff nipples."
-    "I continue to caress Hilda’s supple breasts while I gently rock my hips back and forth. She moans with approval as I tweak her stiff nipples."
+    "我一边缓缓地前后扭动着腰身，一边继续抚摸着Hilda柔软的双乳。当我揉捏她坚挺起来的乳头时，她发出了呻吟声。"
 
 # game/bar.rpy#L3787
 translate chinese doubledoggo_2f1f3948:
 
     # "Rosa practically drools as she watches closely. She can’t help but play with Hilda’s other breast."
-    "Rosa practically drools as she watches closely. She can’t help but play with Hilda’s other breast."
+    "此时，在一旁仔细观瞧的Rosa口水都要流下来了。之后，她开始情不自禁地玩弄起了Hilda一侧的娇乳。"
 
 # game/bar.rpy#L3788
 translate chinese doubledoggo_bd96bb27:
 
     # "As the passion steadily increases, the two girls occasionally experiment with tongue kissing, and Rosa particularly enjoys suckling on Hilda’s breasts."
-    "As the passion steadily increases, the two girls occasionally experiment with tongue kissing, and Rosa particularly enjoys suckling on Hilda’s breasts."
+    "随着欲望的不断增加，两个姑娘开始互相试探性地舌吻起来。而且，Rosa也开始饶有兴趣地吸吮着Hilda的胸部。"
 
 # game/bar.rpy#L3790
 translate chinese doubledoggo_01296597:
 
     # "From behind, I can’t see everything Rosa does, but judging by the occasional touch against my balls, she’s rubbing Hilda’s clitoris too."
-    "From behind, I can’t see everything Rosa does, but judging by the occasional touch against my balls, she’s rubbing Hilda’s clitoris too."
+    "由于在后面，所以我无法看清Rosa究竟在做什么。但我会偶尔感觉到有什么东西在挤压我的蛋蛋，所以，我猜她也在揉搓着Hilda的阴蒂。"
 
 # game/bar.rpy#L3791
 translate chinese doubledoggo_07dbe058:
 
     # "The double assault of pleasure causes the wolf girl to slowly lose composure, her breathing growing heavy and moans becoming more frequent."
-    "The double assault of pleasure causes the wolf girl to slowly lose composure, her breathing growing heavy and moans becoming more frequent."
+    "在第二波汹涌攻势下，狼女变得不淡定起来。她的呼吸变得沉重起来，呻吟也越来越频繁了。"
 
 # game/bar.rpy#L3792
 translate chinese doubledoggo_c1cde077:
 
     # "I don’t speed up, but she does, with her ass bouncing up and down my cock greedily. Her back arching into me even further, as if her entire body is just melting into me."
-    "I don’t speed up, but she does, with her ass bouncing up and down my cock greedily. Her back arching into me even further, as if her entire body is just melting into me."
+    "我没有加快速度，她却反而加起了速。她的臀部在我的肉棒上贪婪地起伏着，她弓起后背，让自己的身体紧紧地贴在我身上，似乎她和我的身体已经融合在了一起。"
 
 # game/bar.rpy#L3793
 translate chinese doubledoggo_16b25f06:
@@ -12902,13 +12902,13 @@ translate chinese doubledoggo_4955eb36:
 translate chinese doubledoggo_161ed06e:
 
     # "The wolf girl’s entire body trembles as I pull out with a pop, splattering her ass with a few stray drops of cum."
-    "The wolf girl’s entire body trembles as I pull out with a pop, splattering her ass with a few stray drops of cum."
+    "我边爆射着，边将肉棒拔出。在将肉棒拔出的瞬间，狼女全身上下突然颤抖起来，同时，还有一些精液也射到了她的屁股上。"
 
 # game/bar.rpy#L3812
 translate chinese doubledoggo_3c84a659:
 
     # "Almost immediately, Rosa catches me off guard and slips my cock into her muzzle. Her tongue coils around my shaft and slurps all of the cum and sexual fluids off."
-    "Almost immediately, Rosa catches me off guard and slips my cock into her muzzle. Her tongue coils around my shaft and slurps all of the cum and sexual fluids off."
+    "就在我放松警惕时，Rosa一把将肉棒抓住，然后将它含进了嘴里。她将舌头缠绕在肉棒的四周，随后开始吸吮起附着在上面的精液和爱液。"
 
 # game/bar.rpy#L3813
 translate chinese doubledoggo_52a03990:
@@ -13146,11 +13146,11 @@ translate chinese strings:
 
     # game/bar.rpy_L63_1
     old "Heard any rumours?"
-    new "听到传言了吗？"
+    new "有听到传言吗？"
 
     # game/bar.rpy_L63_2
     old "Give me the latest gossip."
-    new "告诉我最近流言蜚语。"
+    new "告诉我最新的小道消息。"
 
     # game/bar.rpy_L63_3
     old "What kind of work can I do here?"
@@ -13178,7 +13178,7 @@ translate chinese strings:
 
     # game/bar.rpy_L448_1
     old "This is going to end up bad and you know it."
-    new "这到最后会很糟糕，你也知道的。"
+    new "这到最后肯定会有一个糟糕的结局，你也是知道的。"
 
     # game/bar.rpy_L484_0
     old "Truth"
@@ -13194,11 +13194,11 @@ translate chinese strings:
 
     # game/bar.rpy_L517_1
     old "I dare you to sit on my lap."
-    new "我要让你坐在我腿上。"
+    new "我要你坐在我腿上。"
 
     # game/bar.rpy_L517_2
     old "I dare you to serenade me."
-    new "我要让你为我唱小夜曲。"
+    new "我要你为我唱小夜曲。"
 
     # game/bar.rpy_L643_0
     old "What do I want to ask Riku?"
@@ -13214,11 +13214,11 @@ translate chinese strings:
 
     # game/bar.rpy_L664_0
     old "Push her for a dirtier answer."
-    new "逼她给她一个更肮脏的答案。"
+    new "逼她给出一个更肮脏的答案。"
 
     # game/bar.rpy_L664_1
     old "Nevermind, she answered perfectly."
-    new "不介意，她回答得很完美。"
+    new "行了，她回答得很完美。"
 
     # game/bar.rpy_L684_0
     old "Here we go again"
@@ -13226,11 +13226,11 @@ translate chinese strings:
 
     # game/bar.rpy_L737_0
     old "I dare you to tongue kiss me anywhere you choose for 30 seconds."
-    new "我要让你舌吻我身上你指定的任何部位，持续30秒。"
+    new "我要你舌吻我身上你指定的任何部位，持续30秒。"
 
     # game/bar.rpy_L737_1
     old "I dare you to suck on my finger and pretend you’re performing oral sex for 30 seconds."
-    new "我要让你舔我的手指，就如同在做口交一样，持续30秒。"
+    new "我要你舔我的手指，就如同在做口交一样，持续30秒。"
 
     # game/bar.rpy_L888_0
     old "Want to cheer it up?"
@@ -13238,7 +13238,7 @@ translate chinese strings:
 
     # game/bar.rpy_L888_1
     old "It just wants to find a nice, warm place to cum in."
-    new "它只是想射到一个又温暖又舒服的地方里去。"
+    new "它只是想射到一个又温暖又舒服的地方去。"
 
     # game/bar.rpy_L1240_0
     old "Today we’re going to write giant graffiti over the biggest tower in Arcadia castle."
@@ -13250,7 +13250,7 @@ translate chinese strings:
 
     # game/bar.rpy_L1240_2
     old "I’m going to put you in a jar and jack off into it"
-    new "我要把你装进罐子里，做活塞运动"
+    new "我要把你装进罐子里，然后对着你做活塞运动"
 
     # game/bar.rpy_L1356_0
     old "Damn Ruby, you were right, the clothing really does accentuate her ass."
@@ -13282,7 +13282,7 @@ translate chinese strings:
 
     # game/bar.rpy_L1796_1
     old "You don’t even know the half of it."
-    new "你估计的量甚至还没有过半呢。"
+    new "你知道的程度恐怕连一半都不到。"
 
     # game/bar.rpy_L1796_2
     old "No, you and Moxie are the only ones."
@@ -13290,7 +13290,7 @@ translate chinese strings:
 
     # game/bar.rpy_L2135_0
     old "Actually, you have to tell me, I order you to."
-    new "我命令你告诉我。"
+    new "实际上，你必须告诉我，这是命令。"
 
     # game/bar.rpy_L2135_1
     old "I already have a pretty good idea of what you like."
@@ -13310,7 +13310,7 @@ translate chinese strings:
 
     # game/bar.rpy_L2292_1
     old "Ask her about her unusual hair colour"
-    new "问问她的发色为什么很与众不同"
+    new "问问她的发色为什么与众不同"
 
     # game/bar.rpy_L2292_2
     old "Do you experience any trouble at your bar?"

@@ -6212,14 +6212,14 @@
   {
     "id": 79430266,
     "createdAt": "2021-05-30T17:55:37.000Z",
-    "updatedAt": "2021-06-22T14:15:38.000Z",
+    "updatedAt": "2021-08-25T10:31:24.000Z",
     "key": "augustajubilation_578c2570",
     "original": "That's certainly interesting... Call it culture shock.",
     "translation": "那可真有意思...简称文化震撼。",
     "file": 272343,
-    "stage": 1,
+    "stage": 2,
     "project": 2414,
-    "uid": 22062,
+    "uid": 21929,
     "extra": null,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwBCN/blob/main/game/church.rpy#L792",
     "words": 7

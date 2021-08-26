@@ -7088,7 +7088,7 @@ translate chinese finale_5557523e:
 translate chinese finale_6094e9aa:
 
     # mc "I guess it doesn’t really matter who summoned me. Dwelling on the past won’t help us move on. What matters is what we do now."
-    mc "我想谁召唤我来并不重要。沉湎于过去无助于我们继续前进。重要的是，我们现在做什么。"
+    mc "我想谁召唤我来并不重要。沉湎于过去无助于我们继续前进。重要的是，活在当下。"
 
 # game/finalroute.rpy#L3266
 translate chinese finale_3a4708ab:
@@ -7670,13 +7670,13 @@ translate chinese finale_08a2ebab:
 translate chinese finale_d26c682b:
 
     # moxie "Flying around and using telekinesis helped me acclimate to my new body, it was a lot of fun."
-    moxie "Flying around and using telekinesis helped me acclimate to my new body, it was a lot of fun."
+    moxie "飞行和使用心灵遥感能帮助我适应我的新身体，真好玩。"
 
 # game/finalroute.rpy#L3459
 translate chinese finale_bfebdec3:
 
     # selene "Glad to hear it. I’ve taken it upon myself to give you your first pay checks and a bonus for your roles in saving Arcadia."
-    selene "Glad to hear it. I’ve taken it upon myself to give you your first pay checks and a bonus for your roles in saving Arcadia."
+    selene "高兴听你这么说。我自费给你一份薪水和一笔奖金作为你拯救Arcadia的奖励。"
 
 # game/finalroute.rpy#L3460
 translate chinese finale_7fe78cc8:
@@ -7724,13 +7724,13 @@ translate chinese finale_c2143acc:
 translate chinese finale_6f4bd4c7:
 
     # moxie "Ahh, they’ll be held during the evening, right?"
-    moxie "Ahh, they’ll be held during the evening, right?"
+    moxie "啊，他们会在晚上施工，对吗?"
 
 # game/finalroute.rpy#L3478
 translate chinese finale_6b14b3c5:
 
     # selene "Afraid so! But I’ll be fair with my timing, 8:00pm to 12:00am seem reasonable?"
-    selene "Afraid so! But I’ll be fair with my timing, 8:00pm to 12:00am seem reasonable?"
+    selene "恐怕是的呢！但我对我的时间安排很公平，晚上8点到12点合理吗？"
 
 # game/finalroute.rpy#L3480
 translate chinese finale_b8f79099:

@@ -5150,7 +5150,7 @@ translate chinese bakeryvisit2_de06229c:
 translate chinese bakeryvisit2_73a85b4c:
 
     # cream "These ideas keep me up at night thinking…"
-    cream "这些想法让我在黯淡里思索…"
+    cream "这些想法让我夜不能寐…"
 
 # game/bakery.rpy#L1580
 translate chinese bakeryvisit2_38ec89f3:

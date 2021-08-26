@@ -326,7 +326,7 @@ translate chinese strings:
 
     # renpy/common/00director.rpy_L708_0
     old "The interactive director is not enabled here."
-    new "The interactive director is not enabled here."
+    new "手柄未启动成功。"
 
     # renpy/common/00director.rpy_L1481_0
     old "⬆"
@@ -370,7 +370,7 @@ translate chinese strings:
 
     # renpy/common/00director.rpy_L1631_0
     old "Change"
-    new "Change"
+    new "更改"
 
     # renpy/common/00director.rpy_L1633_0
     old "Add"
@@ -458,11 +458,11 @@ translate chinese strings:
 
     # renpy/common/00keymap.rpy_L300_0
     old "Failed to save screenshot as %s."
-    new "Failed to save screenshot as %s."
+    new "未能将截图保存为%s。"
 
     # renpy/common/00keymap.rpy_L312_0
     old "Saved screenshot as %s."
-    new "Saved screenshot as %s."
+    new "截图保存为%s。"
 
     # renpy/common/00library.rpy_L195_0
     old "Skip Mode"
@@ -510,11 +510,11 @@ translate chinese strings:
 
     # renpy/common/00preferences.rpy_L299_0
     old "skip unseen [text]"
-    new "skip unseen [text]"
+    new "跳过未读[text]"
 
     # renpy/common/00preferences.rpy_L304_0
     old "skip unseen text"
-    new "skip unseen text"
+    new "跳过未读文本"
 
     # renpy/common/00preferences.rpy_L306_0
     old "begin skipping"
@@ -670,7 +670,7 @@ translate chinese strings:
 
     # renpy/common/_developer/developer.rpym_L43_0
     old "Interactive Director (D)"
-    new "Interactive Director (D)"
+    new "切换手柄(D)"
 
     # renpy/common/_developer/developer.rpym_L45_0
     old "Reload Game (Shift+R)"
