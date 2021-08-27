@@ -2438,7 +2438,7 @@ translate chinese melodylaptop_ddf9bbc4:
 translate chinese melodylaptop_501e84b7:
 
     # melody "Ahh... You're such a catch..."
-    melody "Ahh... You're such a catch..."
+    melody "啊... 你还不赖嘛..."
 
 # game/city.rpy#L1182
 translate chinese melodylaptop_377ae069:
@@ -2510,7 +2510,7 @@ translate chinese melodycunnilingus_bbb9ca87:
 translate chinese melodycunnilingus_8ccc9557:
 
     # melody "Hey worm. Looks like it’s just you and I for the hour."
-    melody "Hey worm. Looks like it’s just you and I for the hour."
+    melody "嘿，精虫上脑的家伙。看来这一小时咱俩孤男寡女得共处一室了呀。"
 
 # game/city.rpy#L1207
 translate chinese melodycunnilingus_866dba6a:

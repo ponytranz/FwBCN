@@ -3920,7 +3920,7 @@ translate chinese rubyphotoshoot2_506c993f:
 translate chinese rubyphotoshoot2_bb01cd28:
 
     # melody "Did you enjoy sliding that pitiful wormy penis deep into my sister?"
-    melody "你喜欢把那可怜的虫子插进我姐姐的身体里吗？"
+    melody "你喜欢把那可怜的小虫子插进我姐姐的身体里吗？"
 
 # game/boutique.rpy#L1162
 translate chinese rubyphotoshoot2_31049cea:
@@ -4838,7 +4838,7 @@ translate chinese melodyblowjob2_cc063bea:
 translate chinese melodyblowjob2_cd43f6f9:
 
     # melody "What’s that, wormy boy?"
-    melody "什么事，蠕虫男孩？"
+    melody "什么事，小阳痿？"
 
 # game/boutique.rpy#L1422
 translate chinese melodyblowjob2_e683ffda:

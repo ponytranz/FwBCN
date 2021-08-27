@@ -12158,37 +12158,37 @@ translate chinese penelopework_498344be:
 translate chinese penelopework_01b611be:
 
     # penelope "I was the second in command to Morrigan, so I'm actually the new Morphling Queen... As the matriach I have a duty to breed."
-    penelope "I was the second in command to Morrigan, so I'm actually the new Morphling Queen... As the matriach I have a duty to breed."
+    penelope "我曾是Morrigan的二把手，所以我其实就成了新的幻型灵女王……作为女王，我有责任养育孩子。"
 
 # game/library.rpy#L3552
 translate chinese penelopework_6e5f7aaf:
 
     # mc "Isn't that a little suffocating as a responsiblity?"
-    mc "Isn't that a little suffocating as a responsiblity?"
+    mc "作为一种责任，这未免强马所难了吧？"
 
 # game/library.rpy#L3553
 translate chinese penelopework_46ea72b0:
 
     # penelope "It's just our culture, once I give birth, the eggs will be sent to the hive to be raised anyway."
-    penelope "It's just our culture, once I give birth, the eggs will be sent to the hive to be raised anyway."
+    penelope "这只是我们的文化，一旦我产卵，卵就会被送到巢穴里饲养。"
 
 # game/library.rpy#L3554
 translate chinese penelopework_feace6f9:
 
     # mc "Eggs? Wow, you really are a morphling Queen now, aren't you?"
-    mc "Eggs? Wow, you really are a morphling Queen now, aren't you?"
+    mc "产卵？哇，不是吧，你现在真成幻型灵女王了?"
 
 # game/library.rpy#L3556
 translate chinese penelopework_7caf4add:
 
     # penelope "Slowly adjusting to it, but yeah, I guess!"
-    penelope "Slowly adjusting to it, but yeah, I guess!"
+    penelope "慢慢适应嘛，不过我想...是的！"
 
 # game/library.rpy#L3557
 translate chinese penelopework_da7d9825:
 
     # "Well... Maybe I could try knocking her up?"
-    "Well... Maybe I could try knocking her up?"
+    "嗯…也许我可以试试把她肚子搞大？"
 
 # game/library.rpy#L3570
 translate chinese penelopework_dd19b4ff:

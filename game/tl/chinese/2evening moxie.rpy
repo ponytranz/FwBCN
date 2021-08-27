@@ -2500,7 +2500,7 @@ translate chinese strings:
 
     # game/2evening moxie.rpy_L108_2
     old "Sixty-Nine"
-    new "彼此舔抵私处"
+    new "69式"
 
     # game/2evening moxie.rpy_L108_3
     old "Doggystyle"

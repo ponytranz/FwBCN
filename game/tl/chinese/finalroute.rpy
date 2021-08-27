@@ -2240,7 +2240,7 @@ translate chinese cboutique_aa0f80f9:
 translate chinese cboutique_d9ed1dac:
 
     # melody "Oh my gosh, wormy master! I didn’t think you’d visit us peasants anymore since you became royalty, or whatever."
-    melody "天啊，蛆虫!我还以为你成为皇室成员啥的后就不会再来拜访我们这些下等人了呢。"
+    melody "天啊，下流的主人！我还以为你成为皇室成员啥的后就不会再来拜访我们这些下等人了呢。"
 
 # game/finalroute.rpy#L945
 translate chinese cboutique_d9e3fcf6:
@@ -2252,7 +2252,7 @@ translate chinese cboutique_d9e3fcf6:
 translate chinese cboutique_5b6e196d:
 
     # melody "Oh really, wormy master? Are you gonna give us some disgusting orders? Maybe turn us into breeding drones? Gross, gross, gross!"
-    melody "真的吗，蛆虫?您是要使唤我们干什么恶心的事情吗?还是要把我们变成没有意识的生育机器?恶心,恶心,恶心死了!"
+    melody "真的吗，下流的主人?您是要使唤我们干什么恶心的事情吗?还是要把我们变成没有意识的生育机器?恶心,恶心,恶心死了!"
 
 # game/finalroute.rpy#L948
 translate chinese cboutique_9f18ee4f:
@@ -2270,7 +2270,7 @@ translate chinese cboutique_f0ac9fdf:
 translate chinese cboutique_c253a35b:
 
     # melody "Mehehe, wormaster doesn’t have the balls to get two amazing slaves like us pregnant!"
-    melody "哼~哼~哼~，这蛆虫可没那个胆量让我们这两个性感奴隶怀孕的!"
+    melody "哼~哼~哼~，这贱人可没那个胆量让我们这两个性感奴隶怀孕的!"
 
 # game/finalroute.rpy#L951
 translate chinese cboutique_30ca5353:
