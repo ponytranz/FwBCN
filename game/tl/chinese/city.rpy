@@ -2516,7 +2516,7 @@ translate chinese melodycunnilingus_8ccc9557:
 translate chinese melodycunnilingus_866dba6a:
 
     # mc "Oh really?"
-    mc "喔 真的吗？"
+    mc "喔，真的吗？"
 
 # game/city.rpy#L1208
 translate chinese melodycunnilingus_6573b07f:
@@ -2672,7 +2672,7 @@ translate chinese melodycunnilingus_83b0d700:
 translate chinese melodycunnilingus_ef658b4b:
 
     # mc "Happily."
-    mc "Happily."
+    mc "真不错。"
 
 # game/city.rpy#L1247
 translate chinese melodycunnilingus_ce72efa5:
@@ -5318,7 +5318,7 @@ translate chinese honeyrubythreesome2_d80fe28a:
 translate chinese honeyrubythreesome2_9745bd51:
 
     # mc "With pleasure."
-    mc "With pleasure."
+    mc "乐意效劳。"
 
 # game/city.rpy#L2079
 translate chinese honeyrubythreesome2_812388a4:
@@ -5540,7 +5540,7 @@ translate chinese honeyrubythreesome2_112321b2:
 translate chinese honeyrubythreesome2_9745bd51_1:
 
     # mc "With pleasure."
-    mc "With pleasure."
+    mc "乐意效劳。"
 
 # game/city.rpy#L2132
 translate chinese honeyrubythreesome2_6750491b:

@@ -1496,7 +1496,7 @@ translate chinese auroravsex_6ed6025d:
 translate chinese auroravsex_7c513991:
 
     # aurora "Mmmm, ahhh! You nudge my clit slightly at the peak of each thrust, fuck that’s good."
-    aurora "嗯~~啊!每次高潮时别忘轻推我的阴蒂，真他妈爽。"
+    aurora "嗯~~啊!每次高潮时你还轻推我的阴蒂，真他妈爽。"
 
 # game/castle.rpy#L456
 translate chinese auroravsex_ace677e6:

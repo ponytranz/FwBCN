@@ -7748,7 +7748,7 @@ translate chinese finale_00970966:
 translate chinese finale_82b58f32:
 
     # selene "And what about you, [playername]? If there’s something else you want, I can help ‘nudge’ things in a direction you might like."
-    selene "And what about you, [playername]? If there’s something else you want, I can help ‘nudge’ things in a direction you might like."
+    selene "你呢，[playername]？如果你还想要其他东西的话，我可以在你感兴趣的地方助你一“逼”之力哟。"
 
 # game/finalroute.rpy#L3484
 translate chinese finale_803d7097:

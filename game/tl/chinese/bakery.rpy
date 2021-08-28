@@ -3380,7 +3380,7 @@ translate chinese creamvmissionary_6d841c25:
 translate chinese creamvmissionary_4184ea01:
 
     # "Blossom bites her lips and wiggles her hips, she's already eager for more, and the dripping wetness between her legs signals that she's ready to take me."
-    "Blossom咬着嘴唇扭动着臀部，她开始已经迫不及待了，双腿间滴落的湿意表明她已经准备好接受我的大宝贝了。"
+    "Blossom一边咬着嘴唇，一边扭动着腰身。看来她已经迫不及待了，从她双腿间滴落的爱液可以看出，她已经准备好接受我的大宝贝了。"
 
 # game/bakery.rpy#L1090
 translate chinese creamvmissionary_8e231741:
@@ -3392,19 +3392,19 @@ translate chinese creamvmissionary_8e231741:
 translate chinese creamvmissionary_27f61b7d:
 
     # "She takes her time sliding down my thick cock, I can feel my cock spread her lips apart with a delectable slowness until I'm finally at the hilt."
-    "她慢慢地坐在我厚实的阴茎上，我能感觉到我的阴茎以一种令人愉快的缓慢撑开她的阴唇，直到终于到达了我阴茎的终点。"
+    "她慢慢地坐在我粗粗的肉棒上，我能感觉到，我的肉棒在以一种令人无比愉悦的速度缓缓撑开她的阴唇。最终，我的肉棒完全淹没在了她的小穴中。"
 
 # game/bakery.rpy#L1092
 translate chinese creamvmissionary_4a5cc0b1:
 
     # "Blossom let's out a satisfied sigh and stares into my eyes with dreamy longingless, she merely nods before her hips begin to move with a passion."
-    "Blossom满足地点了点头，她开始用梦幻般的渴望注视着我的眼睛，她虽然只是点了点头，但与此同时她的臀部就开始激情的动了起来。"
+    "Blossom一边发出了满足的喘息声，一边用梦幻而渴望的眼神注视着我的双眼。在她满怀激情地开始扭动腰身前，她微微点了点头。"
 
 # game/bakery.rpy#L1094
 translate chinese creamvmissionary_ebb469b5:
 
     # "As she rises and falls along my member a mixture of gasps and moans slip from her lips as she loses herself in the throes of passion."
-    "当她在我的大宝贝上做活塞运动时，她在激情的阵痛中终于迷失了自我，从她的口中滑出喘息和呻吟的混合声音。"
+    "当她在我的大肉棒上做着活塞运动时，她已经完全沉浸在了那满怀激情的抽插所带来的阵痛之中。同时，她的口中还发出了一种由喘息声和呻吟声混合在一起的奇特声音。"
 
 # game/bakery.rpy#L1095
 translate chinese creamvmissionary_27c06a36:
@@ -3422,7 +3422,7 @@ translate chinese creamvmissionary_ab10c47d:
 translate chinese creamvmissionary_d4a24dca:
 
     # "Her riding gains speed and she arches her back in response to the quaking pleasure throughout her body, I too feel tense from the overwhelming sensation she's providing me."
-    "她的速度加快了，她拱起背来回应全身颤抖的快感，我也因为她给我带来的压倒性感觉而感到紧张。"
+    "由于强烈的快感，她的全身都在颤抖着。正因如此，她加快了起伏的速度，同时，她的背也拱了起来。由于她给我施加的快感太过强烈，使得我全身都紧绷了起来。"
 
 # game/bakery.rpy#L1099
 translate chinese creamvmissionary_5ea023bd:

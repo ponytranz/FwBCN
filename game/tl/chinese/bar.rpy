@@ -6002,7 +6002,7 @@ translate chinese barvisit2_7b854d68:
 translate chinese barvisit2_a049924a:
 
     # riku "Wha? What are you talking about? Perv…"
-    riku "啊？你说什么?你这恋物癖……"
+    riku "啊？你说什么?你这变态……"
 
 # game/bar.rpy#L1637
 translate chinese barvisit2_664d84a8:
@@ -9878,7 +9878,7 @@ translate chinese rikuclimbingsex_fe943978:
 translate chinese rikuclimbingsex_2b15d617:
 
     # riku "Oh, those two? They arrived about halfway in."
-    riku "Oh, those two? They arrived about halfway in."
+    riku "哦?那两个？他们估计才刚走到半路。"
 
 # game/bar.rpy#L2849
 translate chinese rikuclimbingsex_b26cfb6c:
@@ -9890,7 +9890,7 @@ translate chinese rikuclimbingsex_b26cfb6c:
 translate chinese rikuclimbingsex_9967e863:
 
     # riku "Meh, they’re all right, aren’t they? Hahaha."
-    riku "Meh, they’re all right, aren’t they? Hahaha."
+    riku "嗯，他们一点事都没有，不是吗？哈哈哈、"
 
 # game/bar.rpy#L2853
 translate chinese rikuclimbingsex_ab32869b:
@@ -9902,7 +9902,7 @@ translate chinese rikuclimbingsex_ab32869b:
 translate chinese rikuclimbingsex_593362df:
 
     # melody "He just can’t keep it to himself, can he? He has to go and fuck every mare he sees at any opportunity he can."
-    melody "He just can’t keep it to himself, can he? He has to go and fuck every mare he sees at any opportunity he can."
+    melody "他就是不能保持原样，不是吗？只要有机会，他就会上了所有入他法眼的雌驹。"
 
 # game/bar.rpy#L2857
 translate chinese rikuclimbingsex_1477ac12:
@@ -11054,7 +11054,7 @@ translate chinese eveningbarmenu_bde07c2b:
 translate chinese eveningbarmenu_fdc2bb19:
 
     # "Her mare pheromones are coming across unusually strong, causing my cock to throb and drip with precum."
-    "Her mare pheromones are coming across unusually strong, causing my cock to throb and drip with precum."
+    "她的催情信息素异常强烈，让我的肉棒悸动，流下前列腺液。"
 
 # game/bar.rpy#L3214
 translate chinese eveningbarmenu_e804abd9:
@@ -11066,7 +11066,7 @@ translate chinese eveningbarmenu_e804abd9:
 translate chinese eveningbarmenu_335d6012:
 
     # midna "Aahh, yes master! Yer naughty Kitty's pussy needs your cock so badly!"
-    midna "Aahh, yes master! Yer naughty Kitty's pussy needs your cock so badly!"
+    midna "啊啊啊啊，是的，我的主人！您的小调皮Kitty的淫荡小穴非常想要您的肉棒来把她填的满满的哦。"
 
 # game/bar.rpy#L3216
 translate chinese eveningbarmenu_2fc1aec0:
@@ -11378,7 +11378,7 @@ translate chinese eveningbarmenu_bde07c2b_1:
 translate chinese eveningbarmenu_e40388d7:
 
     # "Her mare pheromones are unusually strong as before, causing my cock to throb and drip with precum."
-    "Her mare pheromones are unusually strong as before, causing my cock to throb and drip with precum."
+    "她的催情信息素和以前一样强烈，让我的肉棒悸动，滴下了前列腺液。"
 
 # game/bar.rpy#L3302
 translate chinese eveningbarmenu_e804abd9_1:

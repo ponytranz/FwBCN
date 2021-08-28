@@ -12194,175 +12194,175 @@ translate chinese penelopework_da7d9825:
 translate chinese penelopework_dd19b4ff:
 
     # penelope "Heyy, I didn't know you were here! To work, I assume?"
-    penelope "Heyy, I didn't know you were here! To work, I assume?"
+    penelope "嘿，我都不知道你来了呢！工作，对吧？"
 
 # game/library.rpy#L3571
 translate chinese penelopework_9896c13f:
 
     # mc "You know it, what've you got for me?"
-    mc "You know it, what've you got for me?"
+    mc "你应该清楚。所以给我安排了什么任务？"
 
 # game/library.rpy#L3572
 translate chinese penelopework_eeb2acfd:
 
     # penelope "Oh, a little bit of this, a little bit of that. You can start with today's book returns and I'll work the reception."
-    penelope "Oh, a little bit of this, a little bit of that. You can start with today's book returns and I'll work the reception."
+    penelope "噢，就一点杂活。你可以先处理下今天退还的书，而我负责前台。"
 
 # game/library.rpy#L3575
 translate chinese penelopework_5da3de9f:
 
     # "I spend all day working at the library with Penelope."
-    "I spend all day working at the library with Penelope."
+    "我花了一整天同Penelope在图书馆工作。"
 
 # game/library.rpy#L3576
 translate chinese penelopework_2a1e4f41:
 
     # "As the evening draws closer, we close the library and take a break in her room."
-    "As the evening draws closer, we close the library and take a break in her room."
+    "夜幕将临，我们帮图书馆打烊，并在她的房间休息了片刻。"
 
 # game/library.rpy#L3584
 translate chinese penelopework_4525b1b7:
 
     # penelope "We've got about an hour to kill before five, wanna watch a film or something?"
-    penelope "We've got about an hour to kill before five, wanna watch a film or something?"
+    penelope "到五点前我们还有一小时，想看个电影之类的吗？"
 
 # game/library.rpy#L3595
 translate chinese penelopemenu_ca313238:
 
     # penelope "Got something to do? I won't hold it against ya."
-    penelope "Got something to do? I won't hold it against ya."
+    penelope "找点乐子？我对此没有意见。"
 
 # game/library.rpy#L3600
 translate chinese penelopemenu_67416abe:
 
     # penelope "See you around."
-    penelope "See you around."
+    penelope "回见。"
 
 # game/library.rpy#L3605
 translate chinese penelopetalk_dad91e81:
 
     # mc "Any plans for the future?"
-    mc "Any plans for the future?"
+    mc "那你以后作何打算呢？"
 
 # game/library.rpy#L3608
 translate chinese penelopetalk_293efc13:
 
     # penelope "Well, I want to help the rest of my species in these strange times."
-    penelope "Well, I want to help the rest of my species in these strange times."
+    penelope "嗯……我希望在这特殊的时间节点上，多帮助我的同类。"
 
 # game/library.rpy#L3609
 translate chinese penelopetalk_a92ddbd0:
 
     # penelope "News of our Queen's death may cause even more resentment to boil within our numbers, which isn't ideal for peace."
-    penelope "News of our Queen's death may cause even more resentment to boil within our numbers, which isn't ideal for peace."
+    penelope "女王离世的消息可能会煽起怨恨，威胁和平。"
 
 # game/library.rpy#L3610
 translate chinese penelopetalk_26f65c22:
 
     # penelope "Bravely, the Royal Sisters will help me figure things out..."
-    penelope "Bravely, the Royal Sisters will help me figure things out..."
+    penelope "皇家姐妹会挺身而出，帮我解决问题的……"
 
 # game/library.rpy#L3611
 translate chinese penelopetalk_753f836a:
 
     # penelope "As the new morphling Queen, I need to do my best to ensure there isn't an uprising."
-    penelope "As the new morphling Queen, I need to do my best to ensure there isn't an uprising."
+    penelope "作为新幻型灵女王，我得尽我所能，确保不会发生暴乱。"
 
 # game/library.rpy#L3612
 translate chinese penelopetalk_06877b69:
 
     # mc "Sounds like you've got your hands full."
-    mc "Sounds like you've got your hands full."
+    mc "听起来你空不出手啊。"
 
 # game/library.rpy#L3614
 translate chinese penelopetalk_3ca0ba18:
 
     # penelope "No kidding... Hmm... I'm hopeful though. I remember from a young age that there were many people that wondered why we didn't form a peace agreement with Arcadia."
-    penelope "No kidding... Hmm... I'm hopeful though. I remember from a young age that there were many people that wondered why we didn't form a peace agreement with Arcadia."
+    penelope "毫不夸张……呃……我倒觉得有希望。我还记得，自我小时就有不少民众奇怪为什么我们还没和Arcadia签订和平条约。"
 
 # game/library.rpy#L3616
 translate chinese penelopetalk_e332cb34:
 
     # penelope "Whisperings like 'I heard the cow girls have a great trading agreement, why don't we do that?'."
-    penelope "Whisperings like 'I heard the cow girls have a great trading agreement, why don't we do that?'."
+    penelope "还有像是——“我听说奶牛女们开出了绝好的贸易协议，为什么我们不接受呢？”这样的窃窃私语。"
 
 # game/library.rpy#L3617
 translate chinese penelopetalk_d84eff3e:
 
     # penelope "In truth, the toxicity may have simply been a seed planted by Morrigan, who has ruled for sixty years."
-    penelope "In truth, the toxicity may have simply been a seed planted by Morrigan, who has ruled for sixty years."
+    penelope "而事实上，这一切病灶最初都只是Morrigan掌权60年间所埋下的祸根。"
 
 # game/library.rpy#L3618
 translate chinese penelopetalk_b8adb6cf:
 
     # mc "Oh really? What were the morphlings like before that?"
-    mc "Oh really? What were the morphlings like before that?"
+    mc "真的吗？那在此之前的幻型灵是怎样的？"
 
 # game/library.rpy#L3620
 translate chinese penelopetalk_d004c9dd:
 
     # penelope "The previous leader wasn't much better. This recent incident marks the third time the morphlings tried to take over Arcadia in one hundred years."
-    penelope "The previous leader wasn't much better. This recent incident marks the third time the morphlings tried to take over Arcadia in one hundred years."
+    penelope "前任领导也好不到哪里去。最近其实是幻型灵百年间对Arcadia的第三次侵占尝试了。"
 
 # game/library.rpy#L3621
 translate chinese penelopetalk_2974a5b6:
 
     # penelope "But before that, as far as I'm aware we were a normal species stained with arrogant leaders that attempted to make non-unicorn creatures slaves."
-    penelope "But before that, as far as I'm aware we were a normal species stained with arrogant leaders that attempted to make non-unicorn creatures slaves."
+    penelope "但更早之前，就我所知，我们是正常物种，傲慢的领袖们给我们带来恶名——这些家伙试图让所有非独角兽成为奴隶。"
 
 # game/library.rpy#L3622
 translate chinese penelopetalk_0c37cfaf:
 
     # mc "Ah... I can see why had problems with the Royal Sisters, then."
-    mc "Ah... I can see why had problems with the Royal Sisters, then."
+    mc "噢……所以这就是为什么会和皇家姐妹过不去了。"
 
 # game/library.rpy#L3624
 translate chinese penelopetalk_b6f3ea5c:
 
     # penelope "Heh, yep... The sisters were very against keeping slaves, which caused plenty of conflict."
-    penelope "Heh, yep... The sisters were very against keeping slaves, which caused plenty of conflict."
+    penelope "啊，是的……皇家姐妹完全反对蓄奴，这导致了很多冲突。"
 
 # game/library.rpy#L3625
 translate chinese penelopetalk_9600cdcb:
 
     # penelope "You could make the argument that the Royal Sisters don't have any juristiction over the morphlings, so they shouldn't poke their muzzles where they don't belong..."
-    penelope "You could make the argument that the Royal Sisters don't have any juristiction over the morphlings, so they shouldn't poke their muzzles where they don't belong..."
+    penelope "你也可以说皇家姐妹对幻型灵没有管辖权，所以她们不应该对其事务指手画脚。"
 
 # game/library.rpy#L3626
 translate chinese penelopetalk_74fbc836:
 
     # penelope "But... Let's face it, you do something about that if you can."
-    penelope "But... Let's face it, you do something about that if you can."
+    penelope "但……还是回到现实吧，如果你能对此做些什么，不要犹豫。"
 
 # game/library.rpy#L3627
 translate chinese penelopetalk_aca284b8:
 
     # mc "I absolutely agree."
-    mc "I absolutely agree."
+    mc "完全同意。"
 
 # game/library.rpy#L3629
 translate chinese penelopetalk_f85c1b90:
 
     # penelope "Feels pretty pathetic knowing that lead to several wars and resentment over one hundred years."
-    penelope "Feels pretty pathetic knowing that lead to several wars and resentment over one hundred years."
+    penelope "这便是百年间激化仇恨、导致数次战争的缘由，实在可悲。"
 
 # game/library.rpy#L3630
 translate chinese penelopetalk_f94f714a:
 
     # penelope "The morphlings don't even try to keep slaves anymore. I think we just want all this to be over and done with."
-    penelope "The morphlings don't even try to keep slaves anymore. I think we just want all this to be over and done with."
+    penelope "幻型灵都不再想保留奴隶了。我想我们只希望这一切尽早结束。"
 
 # game/library.rpy#L3631
 translate chinese penelopetalk_b1415c95:
 
     # penelope "And it will be over, soon... I'll put things right."
-    penelope "And it will be over, soon... I'll put things right."
+    penelope "那时日将至……我会让事情回归正轨。"
 
 # game/library.rpy#L3632
 translate chinese penelopetalk_c584275d:
 
     # mc "You're an amazing person Penelope. You're going to be a great Queen"
-    mc "You're an amazing person Penelope. You're going to be a great Queen"
+    mc "你很了不起，Penelope。你肯定能成为一位伟大的女王的。"
 
 # game/library.rpy#L3634
 translate chinese penelopetalk_d40d18f5:
@@ -12374,235 +12374,235 @@ translate chinese penelopetalk_d40d18f5:
 translate chinese penelopetalk_443f38ed:
 
     # penelope "Just the usual, get an adorable girlfriend and/or harem of girls."
-    penelope "Just the usual, get an adorable girlfriend and/or harem of girls."
+    penelope "还是老样子，找个漂亮的女朋友和/或一群女孩。"
 
 # game/library.rpy#L3641
 translate chinese penelopetalk_dbb48f1b:
 
     # penelope "Get my dream job that pays millions."
-    penelope "Get my dream job that pays millions."
+    penelope "得到我梦寐以求的高薪工作。"
 
 # game/library.rpy#L3642
 translate chinese penelopetalk_f9568aa5:
 
     # penelope "Buy a mansion, of course. Maybe the entire castle."
-    penelope "Buy a mansion, of course. Maybe the entire castle."
+    penelope "当然是买下一栋大厦。甚至整个城堡。"
 
 # game/library.rpy#L3643
 translate chinese penelopetalk_1905c0a4:
 
     # penelope "Then uhm, maybe become a princess!"
-    penelope "Then uhm, maybe become a princess!"
+    penelope "然后嘛，也许当个公主！"
 
 # game/library.rpy#L3644
 translate chinese penelopetalk_ce2abaed:
 
     # mc "I see you like to keep your goals small and manageable."
-    mc "I see you like to keep your goals small and manageable."
+    mc "看来你喜欢确保自己的目标小而可控。"
 
 # game/library.rpy#L3649
 translate chinese penelopetalk_844e1641:
 
     # penelope "Absolutely!"
-    penelope "Absolutely!"
+    penelope "那当然！"
 
 # game/library.rpy#L3650
 translate chinese penelopetalk_20a103f3:
 
     # penelope "Really though, I'm hoping to use my Mysticism qualifications to get a job becoming an enchanter."
-    penelope "Really though, I'm hoping to use my Mysticism qualifications to get a job becoming an enchanter."
+    penelope "不过，我希望能用上自己的神秘学资历，找到个附魔师的工作。"
 
 # game/library.rpy#L3651
 translate chinese penelopetalk_830791f5:
 
     # penelope "If I can make a new enchantment that people want to buy, I can patent it and become a bazillionaire."
-    penelope "If I can make a new enchantment that people want to buy, I can patent it and become a bazillionaire."
+    penelope "如果我能研究出一种人人趋之若鹜的附魔，那么我将申请专利并成为亿万富翁。"
 
 # game/library.rpy#L3652
 translate chinese penelopetalk_ccac5bcc:
 
     # mc "Enchantments?"
-    mc "Enchantments?"
+    mc "附魔？"
 
 # game/library.rpy#L3653
 translate chinese penelopetalk_752f399f:
 
     # penelope "Like... Objects imbued with magic, like a ring that helps you sleep at night."
-    penelope "Like... Objects imbued with magic, like a ring that helps you sleep at night."
+    penelope "就像……用魔力浸染过的物品，比如能助眠的戒指。"
 
 # game/library.rpy#L3654
 translate chinese penelopetalk_1e0e13af:
 
     # mc "Ohh, that sounds awesome! I need to get me some of those."
-    mc "Ohh, that sounds awesome! I need to get me some of those."
+    mc "哇哦，那可太顶了！我肯定会买这种东西的。"
 
 # game/library.rpy#L3655
 translate chinese penelopetalk_b5723652:
 
     # penelope "They're expensive though, it can take weeks to make just a single one."
-    penelope "They're expensive though, it can take weeks to make just a single one."
+    penelope "但这种东西很贵，光是做一个就得耗费数周。"
 
 # game/library.rpy#L3656
 translate chinese penelopetalk_86d06d8d:
 
     # mc "Do you have any enchanted objects?"
-    mc "Do you have any enchanted objects?"
+    mc "你有什么附魔物件吗？"
 
 # game/library.rpy#L3661
 translate chinese penelopetalk_332b27ef:
 
     # penelope "I'm studying one right now, a really fucking unusual one too."
-    penelope "I'm studying one right now, a really fucking unusual one too."
+    penelope "我正在研究一个，那玩意可特么不寻常。"
 
 # game/library.rpy#L3662
 translate chinese penelopetalk_30847e13:
 
     # mc "Fuckin' unusual? I'm not used to hearing you swear."
-    mc "Fuckin' unusual? I'm not used to hearing you swear."
+    mc "“可特么”？我还没怎么听你爆粗呢。"
 
 # game/library.rpy#L3663
 translate chinese penelopetalk_5723cf32:
 
     # penelope "Seriously check out this circlet."
-    penelope "Seriously check out this circlet."
+    penelope "仔细看着这个手镯。"
 
 # game/library.rpy#L3664
 translate chinese penelopetalk_901e103d:
 
     # "Penny takes a golden circlet from a desk, puts it on and shows me it."
-    "Penny takes a golden circlet from a desk, puts it on and shows me it."
+    "Penny从桌子上取下一个金色手镯，戴上后展示给我看。"
 
 # game/library.rpy#L3665
 translate chinese penelopetalk_342ee9d7:
 
     # mc "Looks like an ordinary circlet."
-    mc "Looks like an ordinary circlet."
+    mc "看起来就是个普通的手镯。"
 
 # game/library.rpy#L3670
 translate chinese penelopetalk_b5a249a9:
 
     # penelope "Indeed, but this is a 'lucky' circlet, it makes you luckier."
-    penelope "Indeed, but this is a 'lucky' circlet, it makes you luckier."
+    penelope "确实，但这是一个“幸运”手镯，它能给你带来好运。"
 
 # game/library.rpy#L3671
 translate chinese penelopetalk_4a8ff2a5:
 
     # mc "Luckier? How the hell do you measure that?"
-    mc "Luckier? How the hell do you measure that?"
+    mc "带来好运？运气你要怎么衡量啊？"
 
 # game/library.rpy#L3672
 translate chinese penelopetalk_4df6d8cf:
 
     # penelope "I have no idea! I'm studying this intensively, I want to crack it."
-    penelope "I have no idea! I'm studying this intensively, I want to crack it."
+    penelope "我也不知道！我正深入研究以求破解。"
 
 # game/library.rpy#L3673
 translate chinese penelopetalk_61f03382:
 
     # mc "Have you tried asking the original creator?"
-    mc "Have you tried asking the original creator?"
+    mc "你有问过手镯的制造者吗？"
 
 # game/library.rpy#L3678
 translate chinese penelopetalk_48ec557d:
 
     # penelope "This is a relic that was found by archeologists, so unless I have a time machine, no can do."
-    penelope "This is a relic that was found by archeologists, so unless I have a time machine, no can do."
+    penelope "这是考古学家发现的遗珍，所以如果没有时光机，我怕是无能为力。"
 
 # game/library.rpy#L3679
 translate chinese penelopetalk_b2288e2e:
 
     # penelope "At first, all I knew is that it emnates magic, and the engraving tells you it gives luck."
-    penelope "At first, all I knew is that it emnates magic, and the engraving tells you it gives luck."
+    penelope "最初，我们只知道它散发着魔力，但上面的刻花说明它能带来好运。"
 
 # game/library.rpy#L3680
 translate chinese penelopetalk_1f7c82a0:
 
     # penelope "So of course I tested it, I wanted to figure out if it's true. Does it really make me lucky?"
-    penelope "So of course I tested it, I wanted to figure out if it's true. Does it really make me lucky?"
+    penelope "当然，我有测试过它，我想知道这是不是真的。它真的让我更幸运吗？"
 
 # game/library.rpy#L3681
 translate chinese penelopetalk_f0f74dbb:
 
     # penelope "I decided to field test it with permission, I wore it and paid very close attention to myself and my surroundings."
-    penelope "I decided to field test it with permission, I wore it and paid very close attention to myself and my surroundings."
+    penelope "我决定获准后进行实地测试，我戴着它，然后密切关注自己和周遭环境。"
 
 # game/library.rpy#L3682
 translate chinese penelopetalk_7d010a14:
 
     # mc "What happened?"
-    mc "What happened?"
+    mc "然后发生什么了？"
 
 # game/library.rpy#L3687
 translate chinese penelopetalk_4197413c:
 
     # penelope "Almost nothing remarkable, I was so disappointed."
-    penelope "Almost nothing remarkable, I was so disappointed."
+    penelope "基本没什么值得注意的，真的让我失望。"
 
 # game/library.rpy#L3692
 translate chinese penelopetalk_074f191d:
 
     # penelope "But then something occured to me..."
-    penelope "But then something occured to me..."
+    penelope "但忽然，我突然意识到……"
 
 # game/library.rpy#L3697
 translate chinese penelopetalk_a2af848c:
 
     # penelope "My body felt great while wearing the bracelet, I never once got ill, or got a cold. Even though it was the winter."
-    penelope "My body felt great while wearing the bracelet, I never once got ill, or got a cold. Even though it was the winter."
+    penelope "戴着手镯时，我的身体无比舒适，我从此再未生病，也没有感冒——即使是在冬天。"
 
 # game/library.rpy#L3698
 translate chinese penelopetalk_b782f3bc:
 
     # penelope "All my social interactions were smooth, I'd never slip up, or embarass myself."
-    penelope "All my social interactions were smooth, I'd never slip up, or embarass myself."
+    penelope "我的社交活动无比顺利，从未犯错或让自己难堪。"
 
 # game/library.rpy#L3699
 translate chinese penelopetalk_e2c3da1a:
 
     # penelope "When I tried playing board games and card games with friends, I'd win slightly more often than usual."
-    penelope "When I tried playing board games and card games with friends, I'd win slightly more often than usual."
+    penelope "而当我和朋友一起玩桌游或卡牌时，我比通常要多赢一些。"
 
 # game/library.rpy#L3700
 translate chinese penelopetalk_13a2e905:
 
     # penelope "I never tripped over while working, I never burnt the roof of my mouth while eating, and I always slept soundly while wearing it."
-    penelope "I never tripped over while working, I never burnt the roof of my mouth while eating, and I always slept soundly while wearing it."
+    penelope "工作上我也不失利，吃东西不烫到口，戴着它还能让我睡眠舒畅。"
 
 # game/library.rpy#L3701
 translate chinese penelopetalk_3623b19c:
 
     # penelope "That's when I realized, it worked! There was a small element of luck sprinkled into all the aspects of my life."
-    penelope "That's when I realized, it worked! There was a small element of luck sprinkled into all the aspects of my life."
+    penelope "然后我就意识到了，手镯起作用了！我生活的方方面面都零星附加了一点好运。"
 
 # game/library.rpy#L3702
 translate chinese penelopetalk_857b6cd4:
 
     # mc "That's... incredible."
-    mc "That's... incredible."
+    mc "简直……难以置信。"
 
 # game/library.rpy#L3703
 translate chinese penelopetalk_0d84c243:
 
     # mc "I want one!"
-    mc "I want one!"
+    mc "我也想要！"
 
 # game/library.rpy#L3708
 translate chinese penelopetalk_9d28dc4e:
 
     # penelope "Haha, that's it! Everyone will want one!"
-    penelope "Haha, that's it! Everyone will want one!"
+    penelope "哈哈，这就是关键！人人都想要一个！"
 
 # game/library.rpy#L3709
 translate chinese penelopetalk_97fe1a46:
 
     # penelope "So I need to figure this enchantment out and become a bazillionaire."
-    penelope "So I need to figure this enchantment out and become a bazillionaire."
+    penelope "所以我就要研究透这种附魔，然后成为亿万富翁。"
 
 # game/library.rpy#L3710
 translate chinese penelopetalk_bc3869e1:
 
     # mc "Damn, that's so cool Penny. Keep me updated on how that goes."
-    mc "Damn, that's so cool Penny. Keep me updated on how that goes."
+    mc "见鬼，这太炫酷了，Penny。有进展请及时告诉我。"
 
 # game/library.rpy#L3715
 translate chinese penelopetalk_c1404511:
@@ -12674,7 +12674,7 @@ translate chinese penelopetalk_d06a3af1:
 translate chinese penelopetalk_319c2a97:
 
     # mc "I wonder why that is."
-    mc "I wonder why that is."
+    mc "有点好奇这是为什么。"
 
 # game/library.rpy#L3736
 translate chinese penelopetalk_c61c1a18:

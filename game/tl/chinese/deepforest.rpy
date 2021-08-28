@@ -3494,7 +3494,7 @@ translate chinese werewolfhunting_d9d17d70:
 translate chinese werewolfhunting_7b7df747:
 
     # zo "Ahhhh, yesss… Press that fat wolf cock as deep as you can, big boy."
-    zo "哦呜呜呜呜呜，太-太棒♂了...把你那只粗壮臃肿的狼老二压得越深越好，带坏蛋！"
+    zo "哦呜呜呜呜呜，太-太棒♂了...把你那只粗壮臃肿的狼老二插得越深越好，带坏蛋！"
 
 # game/deepforest.rpy#L1118
 translate chinese werewolfhunting_a24d7736:
