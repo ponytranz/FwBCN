@@ -98,7 +98,7 @@ translate chinese libraryvisit1_2feaf4e6:
 translate chinese libraryvisit1_b13a8180:
 
     # "Catching me off guard, a quiet unicorn is behind me. The purple mare from the window."
-    "突然我发现一只独角兽静悄悄的来在我身后。似乎是之前那只窗外的紫色雌驹。"
+    "突然我发现一只独角兽静悄悄的来到我身后。似乎是之前那只窗外的紫色雌驹。"
 
 # game/library.rpy#L44
 translate chinese libraryvisit1_4f341007:
@@ -302,7 +302,7 @@ translate chinese libraryvisit1_3ea59ee2:
 translate chinese libraryvisit1_18f2866b:
 
     # lily "It can be somewhat of a burden, I'm quite introverted so it can be especially exhausting for me."
-    lily "这也许是一种负担吧，我的性格一直比较内向，所以这对我来说特别累。"
+    lily "这也许是一种负担，我的性格向来内向，所以这对我来说特别累。"
 
 # game/library.rpy#L102
 translate chinese libraryvisit1_09b995a2:
@@ -566,13 +566,13 @@ translate chinese libraryvisit1_07712a5e:
 translate chinese libraryvisit1_03d1b27d:
 
     # lily "Hmm... My current three ideas are:"
-    lily "嗯…我目前有三个设想:"
+    lily "嗯…目前我有三个设想:"
 
 # game/library.rpy#L162
 translate chinese libraryvisit1_71dbf9ca:
 
     # lily "1. You’re either from this world and didn’t realize it, maybe your memories were tampered with and you're actually from a faraway country... Although I think your species would be documented if that were the case."
-    lily "1. 你其实就来自这个世界，你的记忆被篡改，你实际上来自于一个遥远的国度，只是你没有意识到……不过我觉得如果真这样的话你们的物种应该会被记录下来才是。"
+    lily "1. 你其实就来自这个世界，但你的记忆被篡改，你实际上来自于一个遥远的国度，只是你没有意识到……不过我觉得如果真是这样的话，你们的物种应该会被记录下来才是。"
 
 # game/library.rpy#L163
 translate chinese libraryvisit1_9ea3aa24:
@@ -12368,7 +12368,7 @@ translate chinese penelopetalk_c584275d:
 translate chinese penelopetalk_d40d18f5:
 
     # penelope "Awh you..."
-    penelope "Awh you..."
+    penelope "啊这……"
 
 # game/library.rpy#L3640
 translate chinese penelopetalk_443f38ed:
@@ -12608,67 +12608,67 @@ translate chinese penelopetalk_bc3869e1:
 translate chinese penelopetalk_c1404511:
 
     # penelope "Will do [playername], you can test my first batch."
-    penelope "Will do [playername], you can test my first batch."
+    penelope "别着急[playername]，我第一个告诉你。"
 
 # game/library.rpy#L3716
 translate chinese penelopetalk_03156574:
 
     # mc "Oh hell yeah."
-    mc "Oh hell yeah."
+    mc "哦吼，好啊。"
 
 # game/library.rpy#L3722
 translate chinese penelopetalk_88eae08e:
 
     # penelope "Seems crazy, doesn't it? You'd think it should be biologically impossible. When was the last time you met a gay horse?"
-    penelope "Seems crazy, doesn't it? You'd think it should be biologically impossible. When was the last time you met a gay horse?"
+    penelope "似乎有点不可思议，是吧？你可能觉得这是不符生物学的。所以你上次碰到同性恋马是什么时候？"
 
 # game/library.rpy#L3727
 translate chinese penelopetalk_30847f04:
 
     # penelope "But short answer is, I'm just not sexually attracted to men. I have nothing against them, it's not their personalities or behaviour, they're just not hot."
-    penelope "But short answer is, I'm just not sexually attracted to men. I have nothing against them, it's not their personalities or behaviour, they're just not hot."
+    penelope "总之长话短说，我就是对男性没有感觉。我对他们没偏见，也不排斥他们的性格或行为，我反正觉得他们不够性感。"
 
 # game/library.rpy#L3728
 translate chinese penelopetalk_24cab3bf:
 
     # penelope "The female body on the other hand is extremely attractive to me; the curves, the breasts, the pussy... It all arouses me greatly."
-    penelope "The female body on the other hand is extremely attractive to me; the curves, the breasts, the pussy... It all arouses me greatly."
+    penelope "而女性的身体让我如痴如醉。想想那曲线，那胸和那小穴……真让我性奋。"
 
 # game/library.rpy#L3729
 translate chinese penelopetalk_868737ed:
 
     # penelope "So you could probably see why I have no issue engaging with a male turned female, for me it is purely physical attraction."
-    penelope "So you could probably see why I have no issue engaging with a male turned female, for me it is purely physical attraction."
+    penelope "所以，你或许已经知道为什么我能习惯和转性成女性的男性交往了，对我而言那纯粹就是天然吸引。"
 
 # game/library.rpy#L3730
 translate chinese penelopetalk_6532cbd4:
 
     # penelope "Wish I could tell you more of the underlying psychology behind it, but I couldn't explain it even if I tried."
-    penelope "Wish I could tell you more of the underlying psychology behind it, but I couldn't explain it even if I tried."
+    penelope "我很想给你解释其后隐含的心理学原理，但我心有余而力不足。"
 
 # game/library.rpy#L3731
 translate chinese penelopetalk_7d64cd9b:
 
     # mc "Is this sexual orientation common among the female aligned pony population?"
-    mc "Is this sexual orientation common among the female aligned pony population?"
+    mc "这种性取向在小马群体里很常见吗？"
 
 # game/library.rpy#L3732
 translate chinese penelopetalk_75b5bf90:
 
     # penelope "I'd say a preference to both genders is the norm, and while there are some mares that only like men, I'm in a minority of mares that only like females."
-    penelope "I'd say a preference to both genders is the norm, and while there are some mares that only like men, I'm in a minority of mares that only like females."
+    penelope "我想表达的是，对两种性别的偏好其实都很正常，有些雌驹喜欢男性，而我则是与之相反的少数。"
 
 # game/library.rpy#L3733
 translate chinese penelopetalk_72568704:
 
     # mc "Are there any stallions that only like men?"
-    mc "Are there any stallions that only like men?"
+    mc "有没有只喜欢男性的雄驹？"
 
 # game/library.rpy#L3734
 translate chinese penelopetalk_d06a3af1:
 
     # penelope "You bet, I think by percent there are more gay stallions than there are gay mares."
-    penelope "You bet, I think by percent there are more gay stallions than there are gay mares."
+    penelope "当然了，我认为雄驹中的同性恋比例还要比雌驹高。"
 
 # game/library.rpy#L3735
 translate chinese penelopetalk_319c2a97:
@@ -12680,199 +12680,199 @@ translate chinese penelopetalk_319c2a97:
 translate chinese penelopetalk_c61c1a18:
 
     # penelope "I reckon it's evolutionary, perhaps because mares have a deep maternal instinct and a mating season to go along with that."
-    penelope "I reckon it's evolutionary, perhaps because mares have a deep maternal instinct and a mating season to go along with that."
+    penelope "我认为这是一种进化，或是因为雌驹的母性本能根深蒂固，发情季也伴其而生。"
 
 # game/library.rpy#L3737
 translate chinese penelopetalk_8ab8e418:
 
     # mc "You could be on to something there."
-    mc "You could be on to something there."
+    mc "你可能是有所研究。"
 
 # game/library.rpy#L3739
 translate chinese penelopetalk_6932e61a:
 
     # mc "What made you reach out to Moxie when she was down?"
-    mc "What made you reach out to Moxie when she was down?"
+    mc "Moxie情绪低落时，什么促使你去找她？"
 
 # game/library.rpy#L3744
 translate chinese penelopetalk_dcffe9e9:
 
     # penelope "Good question, not many would in my position."
-    penelope "Good question, not many would in my position."
+    penelope "问得好，没有多少马会像我这样。"
 
 # game/library.rpy#L3745
 translate chinese penelopetalk_284912bc:
 
     # penelope "But I saw myself in her, I was young and naive once too."
-    penelope "But I saw myself in her, I was young and naive once too."
+    penelope "但我在她身上看到了我自己，曾几何时，我也同她一般天真年轻。"
 
 # game/library.rpy#L3750
 translate chinese penelopetalk_7c161d2e:
 
     # penelope "A good role model can make the difference between a good person and a bad person, so I wanted to inspire her."
-    penelope "A good role model can make the difference between a good person and a bad person, so I wanted to inspire her."
+    penelope "好榜样能左右小马的善恶，而我想激励她向善。"
 
 # game/library.rpy#L3751
 translate chinese penelopetalk_9c106f38:
 
     # mc "You saw yourself in her?"
-    mc "You saw yourself in her?"
+    mc "你认为她就像曾经的你？"
 
 # game/library.rpy#L3756
 translate chinese penelopetalk_9965245b:
 
     # penelope "Yeah... I wasn't always a good person, maybe I was worse."
-    penelope "Yeah... I wasn't always a good person, maybe I was worse."
+    penelope "是啊……我并不总行好事，我或许比看上去要邪恶。"
 
 # game/library.rpy#L3757
 translate chinese penelopetalk_7ae9e97e:
 
     # penelope "I lost a close friend and spiralled into isolation, I became quite toxic for many years."
-    penelope "I lost a close friend and spiralled into isolation, I became quite toxic for many years."
+    penelope "我失去了一位密友，一度陷入孤立。多年来，我曾沦为恶毒之马。"
 
 # game/library.rpy#L3758
 translate chinese penelopetalk_f0be72da:
 
     # penelope "I hated everyone else, I thought they were the problem. I never once considered that I was being an asshole and behaving problematically."
-    penelope "I hated everyone else, I thought they were the problem. I never once considered that I was being an asshole and behaving problematically."
+    penelope "我憎恶所有外马，认为他们是万恶之源，却未曾想过自己会变成一个行为不端的混蛋。"
 
 # game/library.rpy#L3763
 translate chinese penelopetalk_6aaaa964:
 
     # penelope "It's quite easy to become resentful when you're isolated, whilst also justifying yourself."
-    penelope "It's quite easy to become resentful when you're isolated, whilst also justifying yourself."
+    penelope "孤立引诱你愤世嫉俗，让你狡辩自己的过错。"
 
 # game/library.rpy#L3764
 translate chinese penelopetalk_6a14acbe:
 
     # penelope "Moxie was following that same path."
-    penelope "Moxie was following that same path."
+    penelope "Moxie走上了同一条道路。"
 
 # game/library.rpy#L3769
 translate chinese penelopetalk_bb7fc2b1:
 
     # penelope "She isn't a bad person, she's just very lonely, she doesn't have the friends nor role models to teach her how to be a better person."
-    penelope "She isn't a bad person, she's just very lonely, she doesn't have the friends nor role models to teach her how to be a better person."
+    penelope "她本性并不坏，只是很孤独，没有朋友、也没有榜样来教导她成为更好的小马。"
 
 # game/library.rpy#L3770
 translate chinese penelopetalk_b4259fe5:
 
     # mc "How did you pull yourself out of that isolation?"
-    mc "How did you pull yourself out of that isolation?"
+    mc "你是如何从那种孤立中解脱的？"
 
 # game/library.rpy#L3775
 translate chinese penelopetalk_6b38a820:
 
     # penelope "It was Lily and her friends that reached out to me, so it felt natural to reach out to Moxie when I saw her following the same path I did."
-    penelope "It was Lily and her friends that reached out to me, so it felt natural to reach out to Moxie when I saw her following the same path I did."
+    penelope "Lily和她的朋友们向我施以援手，如今，我也自然而然地想帮助Moxie，我认为她正重蹈我的覆辙。"
 
 # game/library.rpy#L3776
 translate chinese penelopetalk_1f48a113:
 
     # penelope "Especially at such a crucial age, you need to grow up fast before the world overwhelms you."
-    penelope "Especially at such a crucial age, you need to grow up fast before the world overwhelms you."
+    penelope "尤其在这样关键的年龄，不快速成长，就只能被世界压垮。"
 
 # game/library.rpy#L3777
 translate chinese penelopetalk_924b0e72:
 
     # mc "I definitely agree with you there, some people never grow up and it's such a sorry sight."
-    mc "I definitely agree with you there, some people never grow up and it's such a sorry sight."
+    mc "我完全同意你的观点，有些人永远长不大，实在遗憾。"
 
 # game/library.rpy#L3778
 translate chinese penelopetalk_182f88ca:
 
     # penelope "Indeed..."
-    penelope "Indeed..."
+    penelope "确实……"
 
 # game/library.rpy#L3779
 translate chinese penelopetalk_d1eb6ddd:
 
     # mc "What about Lily? Isn't she quite isolated?"
-    mc "What about Lily? Isn't she quite isolated?"
+    mc "Lily呢？她不也很孤僻吗？"
 
 # game/library.rpy#L3784
 translate chinese penelopetalk_bee95c43:
 
     # penelope "Lily? Surprisingly no. She isn't isolated, she's does talk and meet with people on occasion."
-    penelope "Lily? Surprisingly no. She isn't isolated, she's does talk and meet with people on occasion."
+    penelope "Lily？反而不是。她并非孤僻，偶尔还是会和别的马交往的。"
 
 # game/library.rpy#L3785
 translate chinese penelopetalk_116a100b:
 
     # penelope "She's just extremely introverted, but I believe that she's already learnt the important lessons."
-    penelope "She's just extremely introverted, but I believe that she's already learnt the important lessons."
+    penelope "她只是太内向了，但我相信她已经理解了孤立的风险。"
 
 # game/library.rpy#L3786
 translate chinese penelopetalk_e813c197:
 
     # penelope "My worry for her is that once I graduate, she won't be able to carry on her social life alone."
-    penelope "My worry for her is that once I graduate, she won't be able to carry on her social life alone."
+    penelope "我为她担心的是，一旦我毕业了，她或将无法独自参与社交。"
 
 # game/library.rpy#L3791
 translate chinese penelopetalk_a1e2afc7:
 
     # penelope "I'm trying my best to build up her confidence step by step."
-    penelope "I'm trying my best to build up her confidence step by step."
+    penelope "我正尽力而为，让她逐步建立起自信来。"
 
 # game/library.rpy#L3792
 translate chinese penelopetalk_b4f00bcd:
 
     # mc "Me too, she's really started to come out of her shell {i}again{/i} lately."
-    mc "Me too, she's really started to come out of her shell {i}again{/i} lately."
+    mc "我也是，她最近确实{i}又{/i}要迈出第一步了。"
 
 # game/library.rpy#L3793
 translate chinese penelopetalk_85aac971:
 
     # penelope "Yeah, it's easy to fall into old habits when you're alone for a while."
-    penelope "Yeah, it's easy to fall into old habits when you're alone for a while."
+    penelope "是啊，独处时很容易重拾旧习。"
 
 # game/library.rpy#L3794
 translate chinese penelopetalk_d636b700:
 
     # penelope "But don't worry, we mares are tough."
-    penelope "But don't worry, we mares are tough."
+    penelope "但别担心，我们雌驹很顽强的。"
 
 # game/library.rpy#L3797
 translate chinese penelopetalk_a2ddf2dc:
 
     # penelope "Ah, it's rough sometimes... Our history has left our species stigmatised and stereotyped."
-    penelope "Ah, it's rough sometimes... Our history has left our species stigmatised and stereotyped."
+    penelope "啊，事情有时也很艰难……我们的历史给我们种族留下了污名与成见。"
 
 # game/library.rpy#L3798
 translate chinese penelopetalk_64369ae8:
 
     # penelope "It's not like I blame anyone, I'd even agree with that sentiment... Especially considering how evil and corrupt our leader was..."
-    penelope "It's not like I blame anyone, I'd even agree with that sentiment... Especially considering how evil and corrupt our leader was..."
+    penelope "我并不会因此埋怨，我甚至同意那些刻板印象……尤其考虑到我们的领袖曾多么邪恶和堕落……"
 
 # game/library.rpy#L3799
 translate chinese penelopetalk_533c471a:
 
     # mc "So you think she was evil and corrupt too?"
-    mc "So you think she was evil and corrupt too?"
+    mc "所以你认为她也很邪恶，很堕落？"
 
 # game/library.rpy#L3801
 translate chinese penelopetalk_fc7df3ec:
 
     # penelope "Perhaps, but no one is beyond help... At least, that's what I used to think..."
-    penelope "Perhaps, but no one is beyond help... At least, that's what I used to think..."
+    penelope "或许吧，但没有谁是不可救药的……至少我过去是如此认为……"
 
 # game/library.rpy#L3802
 translate chinese penelopetalk_980b0e46:
 
     # penelope "Turns out, you can only help someone if they want to help themself."
-    penelope "Turns out, you can only help someone if they want to help themself."
+    penelope "事实证明，想自救者才可能被救。"
 
 # game/library.rpy#L3804
 translate chinese penelopetalk_446eb108:
 
     # penelope "You can't change someone, or even ever really understand them, you can only try to push them in the right direction with guidance. But you can never predict what they'll be like when the time comes."
-    penelope "You can't change someone, or even ever really understand them, you can only try to push them in the right direction with guidance. But you can never predict what they'll be like when the time comes."
+    penelope "你不能改变任何马，你甚至不能真正理解他们，你能做的只是循循善诱，让他们走向正确的方向。即使如此，待时间流逝，他们最终成为的模样也会出乎你的意料。"
 
 # game/library.rpy#L3805
 translate chinese penelopetalk_0d8b5189:
 
     # penelope "I thought Morrigan was changing for the better, but I was entirely mistaken..."
-    penelope "I thought Morrigan was changing for the better, but I was entirely mistaken..."
+    penelope "我曾相信Morrigan正向好改变，但大错特错……"
 
 # game/library.rpy#L3806
 translate chinese penelopetalk_0978228b:
@@ -12884,25 +12884,25 @@ translate chinese penelopetalk_0978228b:
 translate chinese penelopetalk_34219c2c:
 
     # penelope "All you need to do is look at how the two handled supreme power."
-    penelope "All you need to do is look at how the two handled supreme power."
+    penelope "你所要做的就是看看这两位是如何运用最高权力的。"
 
 # game/library.rpy#L3809
 translate chinese penelopetalk_f30747d7:
 
     # penelope "The moment any droplet of power was offered to Morrigan, she suddenly became selfish, bitter, hateful. Even I was irrelevant in her eyes now, a used tool."
-    penelope "The moment any droplet of power was offered to Morrigan, she suddenly became selfish, bitter, hateful. Even I was irrelevant in her eyes now, a used tool."
+    penelope "一旦Morrigan沾上了权力，她就会一下子变得自私、刻薄、可恨。就连我在她眼里都变得无关紧要，只是一枚被利用的棋子。"
 
 # game/library.rpy#L3811
 translate chinese penelopetalk_97eb8cbc:
 
     # penelope "But Moxie? She has really come a long way, she immediately wanted to use that power to help, and even to this day she's trying to pursue that path through Selene's lessons."
-    penelope "But Moxie? She has really come a long way, she immediately wanted to use that power to help, and even to this day she's trying to pursue that path through Selene's lessons."
+    penelope "而Moxie呢?她真的走了很长一段路，她立刻就想到用这种力量来帮助他人，直到今天，她还遵循Selene的教导在这条道路上前进。"
 
 # game/library.rpy#L3812
 translate chinese penelopetalk_6473ce33:
 
     # mc "You were close with Morrigan though, why did she turn on you so quickly?"
-    mc "You were close with Morrigan though, why did she turn on you so quickly?"
+    mc "你和Morrigan关系那么好，为什么她这么快就背叛了你?"
 
 # game/library.rpy#L3814
 translate chinese penelopetalk_70234848:

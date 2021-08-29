@@ -2990,7 +2990,7 @@ translate chinese nightclub_6c32108c:
 translate chinese nightclub_f2d25d52:
 
     # mc "Hey, did you just say this is your club? It’s really nice."
-    mc "Hey, did you just say this is your club? It’s really nice."
+    mc "嘿，你刚才说这是你的俱乐部吗？真的很不错。"
 
 # game/city.rpy#L1403
 translate chinese nightclub_67975e1d:
@@ -3566,7 +3566,7 @@ translate chinese agathasoniathreesome2_ce617998:
 translate chinese agathasoniathreesome2_b5838c6f:
 
     # "Three hours later..."
-    "Three hours later..."
+    "三小时后..."
 
 # game/city.rpy#L1604
 translate chinese agathasoniathreesome2_b00956cc:
