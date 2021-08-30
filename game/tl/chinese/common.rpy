@@ -454,15 +454,15 @@ translate chinese strings:
 
     # renpy/common/00gui.rpy_L391_0
     old "Are you sure you want to skip unseen dialogue to the next choice?"
-    new "您确定要跳过看不见的对话到下一个选择吗？"
+    new "您确定要跳过未读过的对话到下一个选择吗？"
 
     # renpy/common/00keymap.rpy_L300_0
     old "Failed to save screenshot as %s."
-    new "未能将截图保存为%s。"
+    new "未能将截图保存为到s。"
 
     # renpy/common/00keymap.rpy_L312_0
     old "Saved screenshot as %s."
-    new "截图保存为%s。"
+    new "截图保存到%s。"
 
     # renpy/common/00library.rpy_L195_0
     old "Skip Mode"

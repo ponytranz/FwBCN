@@ -11300,13 +11300,13 @@ translate chinese eveningbarmenu_60a9aecd:
 translate chinese eveningbarmenu_37fc8d18:
 
     # mc "That's up to you, I'm still going to sleep around, just being honest."
-    mc "That's up to you, I'm still going to sleep around, just being honest."
+    mc "随便你了，不过说真的，我还是想把这里的人都睡一遍。"
 
 # game/bar.rpy#L3281
 translate chinese eveningbarmenu_6e44fc52:
 
     # midna "Heh, you're such a fuckin' player."
-    midna "Heh, you're such a fuckin' player."
+    midna "呵呵，你真他娘的是个大嫖客。"
 
 # game/bar.rpy#L3282
 translate chinese eveningbarmenu_075bff3b:
@@ -11336,13 +11336,13 @@ translate chinese eveningbarmenu_e677630d:
 translate chinese eveningbarmenu_7703c7c8:
 
     # midna "Look, I'm really horny, do you wanna skip the booze and just go fuck?"
-    midna "Look, I'm really horny, do you wanna skip the booze and just go fuck?"
+    midna "你看我，我其实是很色的。你想跳过狂饮这一项，直接开干吗？"
 
 # game/bar.rpy#L3287
 translate chinese eveningbarmenu_f1463d2c:
 
     # mc "Suppose I could."
-    mc "Suppose I could."
+    mc "应该是吧。"
 
 # game/bar.rpy#L3288
 translate chinese eveningbarmenu_56d47d22:
@@ -11354,7 +11354,7 @@ translate chinese eveningbarmenu_56d47d22:
 translate chinese eveningbarmenu_3ac8d819:
 
     # "Midna and I hastily go to her house."
-    "Midna and I hastily go to her house."
+    "我和Midna匆匆来到了她的房间。"
 
 # game/bar.rpy#L3296
 translate chinese eveningbarmenu_cd021b7f:
@@ -11366,13 +11366,13 @@ translate chinese eveningbarmenu_cd021b7f:
 translate chinese eveningbarmenu_b4cffbff:
 
     # midna "Come on master, fuck your kitten! Breed her like a slut!"
-    midna "Come on master, fuck your kitten! Breed her like a slut!"
+    midna "来吧，主人，来干你的小猫咪吧！把她当成个小贱货，使劲干她吧！"
 
 # game/bar.rpy#L3298
 translate chinese eveningbarmenu_bde07c2b_1:
 
     # "As I contemplate the delicious possibilities, I waste no time shuffling into position on the bed."
-    "As I contemplate the delicious possibilities, I waste no time shuffling into position on the bed."
+    "当我思忖着各种让人欲罢不能的可能性时，我一下子就蹿到了床上。"
 
 # game/bar.rpy#L3299
 translate chinese eveningbarmenu_e40388d7:
@@ -12866,7 +12866,7 @@ translate chinese doubledoggo_c1cde077:
 translate chinese doubledoggo_16b25f06:
 
     # "The frantic movements of her ass mirror the rapid wagging of her tail. Her slick pussy clenching and contracting as she reaches the heights of pleasure."
-    "The frantic movements of her ass mirror the rapid wagging of her tail. Her slick pussy clenching and contracting as she reaches the heights of pleasure."
+    "她的臀部疯狂地扭动着，同时，她的尾巴也在快速地摇摆着。当她感受了极致的快感，她那光滑而湿润的小穴开始紧紧地收缩起来。"
 
 # game/bar.rpy#L3794
 translate chinese doubledoggo_8f15c7bb:
@@ -12884,7 +12884,7 @@ translate chinese doubledoggo_32b0e185:
 translate chinese doubledoggo_dfc86281:
 
     # "I squeeze her hips and pound into her fervently, my entire body growing tense as my orgasm stirs."
-    "I squeeze her hips and pound into her fervently, my entire body growing tense as my orgasm stirs."
+    "我紧紧抱住她的腰身，疯狂地抽插着。当我到达高潮的边缘时，我的全身开始紧绷起来。"
 
 # game/bar.rpy#L3801
 translate chinese doubledoggo_119c9a8c:
@@ -12956,7 +12956,7 @@ translate chinese doubledoggo_d428040b:
 translate chinese doubledoggo_a98f4b77:
 
     # "The dog girl coos and shivers at the sensation of being filled up. Her insides occasionally twitching as I push to the hilt."
-    "The dog girl coos and shivers at the sensation of being filled up. Her insides occasionally twitching as I push to the hilt."
+    "当犬女感受到极致的快感时，她发出了几声轻柔的呻吟。在我将肉棒插入她小穴深处时，她小穴的内壁就会不时地抽搐起来。"
 
 # game/bar.rpy#L3826
 translate chinese doubledoggo_ee235923:
@@ -12998,19 +12998,19 @@ translate chinese doubledoggo_8ed30fc7:
 translate chinese doubledoggo_fb52e072:
 
     # "My current partner’s pussy is much tighter, due to her being a smaller girl, but I swear she’s even wetter than Hilda was."
-    "My current partner’s pussy is much tighter, due to her being a smaller girl, but I swear she’s even wetter than Hilda was."
+    "由于她身材娇小，因此，她的小穴也是十分紧致的。不过，我敢说，她的小穴肯定要比Hilda的湿很多。"
 
 # game/bar.rpy#L3836
 translate chinese doubledoggo_8ad58dca:
 
     # "Her pussy is practically oozing with excessive lubricants. It makes it so easy to pound her ass."
-    "Her pussy is practically oozing with excessive lubricants. It makes it so easy to pound her ass."
+    "她的蜜穴中流出了很多很多的淫液，这一定能使我的抽插变得更加轻松。"
 
 # game/bar.rpy#L3837
 translate chinese doubledoggo_f4999924:
 
     # "And having just orgasmed earlier, I’m able to move much faster and aggressively without the fear of cumming too soon."
-    "And having just orgasmed earlier, I’m able to move much faster and aggressively without the fear of cumming too soon."
+    "因为刚刚高潮过，所以，我可以更快更激烈地进行抽插，而不用担心第二次高潮会过早的出现。"
 
 # game/bar.rpy#L3838
 translate chinese doubledoggo_e03e4eed:
@@ -13022,7 +13022,7 @@ translate chinese doubledoggo_e03e4eed:
 translate chinese doubledoggo_5f9728d5:
 
     # doggirl "Mmphh, mmm… If you keep g-going this fast… I-I can’t even concentrate on kissing."
-    doggirl "Mmphh, mmm… If you keep g-going this fast… I-I can’t even concentrate on kissing."
+    doggirl "唔嗯，嗯……如果你的速度还……还是这么快的话……我……我就不能专心亲你了。"
 
 # game/bar.rpy#L3840
 translate chinese doubledoggo_51fbcbe9:
@@ -13064,7 +13064,7 @@ translate chinese doubledoggo_cdd18e11:
 translate chinese doubledoggo_1dbf3fec:
 
     # "It doesn’t take me too long to build myself up to a second orgasm, my cock finally tightening as the familiar feeling rises in my nether."
-    "It doesn’t take me too long to build myself up to a second orgasm, my cock finally tightening as the familiar feeling rises in my nether."
+    "没过多久，我就到了第二次高潮。最终，我的肉棒紧绷起来，一种熟悉的感觉在下体处油然而生。"
 
 # game/bar.rpy#L3851
 translate chinese doubledoggo_838e5d3f:
@@ -13100,13 +13100,13 @@ translate chinese doubledoggo_c87baf83:
 translate chinese doubledoggo_6e4fbe4e:
 
     # wolfgirl "I’ve done a lot of crazy things in my life, but this is definitely the wildest."
-    wolfgirl "I’ve done a lot of crazy things in my life, but this is definitely the wildest."
+    wolfgirl "我这辈子已经干过很多疯狂的事了，但这算得上是我干过最疯狂的事了。"
 
 # game/bar.rpy#L3864
 translate chinese doubledoggo_1a585c7e:
 
     # doggirl "Hehe, that was actually my first threesome too."
-    doggirl "Hehe, that was actually my first threesome too."
+    doggirl "嘿嘿，这也是我第一次3P呢。"
 
 # game/bar.rpy#L3865
 translate chinese doubledoggo_d3ceef9c:

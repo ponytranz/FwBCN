@@ -11198,19 +11198,19 @@ translate chinese annamilkingevent_1f31ae77:
 translate chinese annamilkingevent_2a83979f:
 
     # "With many metallic pitter-patters, the milk freely seeps from her nipples. She's enjoying the feeling so much, her eyes are practically rolled back."
-    "With many metallic pitter-patters, the milk freely seeps from her nipples. She's enjoying the feeling so much, her eyes are practically rolled back."
+    "乳汁不停地从她的乳头处缓缓流下，并滴落到下面的桶中，同时发出滴答滴答的响声。她一定非常享受这种感觉，因为她的双眼几乎已经完全翻白了。"
 
 # game/farm.rpy#L3391
 translate chinese annamilkingevent_0ee7fff7:
 
     # "The more she enjoys herself, the more her thighs subconsciously part as her body's desire to mate grows."
-    "The more she enjoys herself, the more her thighs subconsciously part as her body's desire to mate grows."
+    "她越是享受，她双腿下意识张开的幅度就会越大，这说明她对性爱的欲望越来越强了。"
 
 # game/farm.rpy#L3398
 translate chinese annamilkingevent_398b1b24:
 
     # "It doesn't take much milking for her glistening pussy to be readily viewable, I can't help but occasionally glance down."
-    "It doesn't take much milking for her glistening pussy to be readily viewable, I can't help but occasionally glance down."
+    "实际上，我并没有挤多少奶。因为当Anna那湿润的小蜜穴完全展示在我面前时，我已经控制不住自己了，我的目光会不时地瞥向她的那诱人的阴部。"
 
 # game/farm.rpy#L3399
 translate chinese annamilkingevent_0eecf86b:
@@ -11222,37 +11222,37 @@ translate chinese annamilkingevent_0eecf86b:
 translate chinese annamilkingevent_14945c83:
 
     # "Her pussy is enticing, as before one of my hands finds its way between her legs, teasing her pussy."
-    "Her pussy is enticing, as before one of my hands finds its way between her legs, teasing her pussy."
+    "当我用手在她的双腿间不停寻觅，并开始按揉挑逗着她的蜜穴时，我感觉，那蜜穴简直是太诱人了。"
 
 # game/farm.rpy#L3401
 translate chinese annamilkingevent_7c78c8e0:
 
     # "My other hand works on the breasts. The stimulation of her pussy causes the lactation to noticeably increase."
-    "My other hand works on the breasts. The stimulation of her pussy causes the lactation to noticeably increase."
+    "我的另一只手则放在了她的双峰上。由于小穴受到了刺激，使得她乳汁流出的速度明显加快了。"
 
 # game/farm.rpy#L3402
 translate chinese annamilkingevent_87ea1a49:
 
     # honeycrisp "As always, you're the right man for the job [playername], drain those jugs dry."
-    honeycrisp "As always, you're the right man for the job [playername], drain those jugs dry."
+    honeycrisp "[playername]，你真的很适合这份工作哦。快把奶全部都挤出来吧。"
 
 # game/farm.rpy#L3403
 translate chinese annamilkingevent_6f66b1e6:
 
     # "With Anna sufficiently aroused, I use both my hands to really milk her nipples."
-    "With Anna sufficiently aroused, I use both my hands to really milk her nipples."
+    "随着Anna的性欲越来越强，我开始用双手去挤压她的双乳，为她挤奶。"
 
 # game/farm.rpy#L3404
 translate chinese annamilkingevent_6da951f4:
 
     # "*Squirt*! A stream of milk immediately trickles out the moment I put any pressure on, all seeping down into the bucket, some of it getting sodden in the fur surrounding Anna’s breasts."
-    "*Squirt*! A stream of milk immediately trickles out the moment I put any pressure on, all seeping down into the bucket, some of it getting sodden in the fur surrounding Anna’s breasts."
+    "*噗滋*！在我挤压的瞬间，一股乳汁喷涌而出，几乎全部滴落在桶里，还有一些浸湿了Anna双乳的毛皮。"
 
 # game/farm.rpy#L3405
 translate chinese annamilkingevent_73976301:
 
     # "Applying pressure, the nipples in a regular pattern, pulling and squeezing one then the other, the milk squirts out in intervals while Anna squirms in delight."
-    "Applying pressure, the nipples in a regular pattern, pulling and squeezing one then the other, the milk squirts out in intervals while Anna squirms in delight."
+    "我稍稍用力，轮流挤压揉捏着她的两个乳头。Anna则愉悦地扭动着身体，乳汁也会不时地从两个乳头中喷出。"
 
 # game/farm.rpy#L3406
 translate chinese annamilkingevent_15c24c13:
@@ -11264,19 +11264,19 @@ translate chinese annamilkingevent_15c24c13:
 translate chinese annamilkingevent_a37a09ee:
 
     # "Rather suddenly, I feel Anna lean over and wrap her furry hand around my shaft."
-    "Rather suddenly, I feel Anna lean over and wrap her furry hand around my shaft."
+    "突然间，我感觉到Anna将自己的身体俯了下来，同时用自己毛茸茸的手握住了我的肉棒。"
 
 # game/farm.rpy#L3411
 translate chinese annamilkingevent_95b06988:
 
     # honeycrisp "Here we go again, making me jealous!"
-    honeycrisp "Here we go again, making me jealous!"
+    honeycrisp "又要开始了，我好羡慕嫉妒恨啊！"
 
 # game/farm.rpy#L3412
 translate chinese annamilkingevent_2b6c6f26:
 
     # "As Anna jerks me off, I concentrate on the milking. Finally past the midway point, the amount of milk slows down to a trickle."
-    "As Anna jerks me off, I concentrate on the milking. Finally past the midway point, the amount of milk slows down to a trickle."
+    "在Anna撸动着我肉棒的同时，我仍在专心地挤着奶。在乳汁达到桶高度的一半时，她的乳量逐渐变小了，原本成股流出的乳汁现在开始滴滴答答地滴落下来。"
 
 # game/farm.rpy#L3414
 translate chinese annamilkingevent_43142464:
@@ -11288,121 +11288,121 @@ translate chinese annamilkingevent_43142464:
 translate chinese annamilkingevent_836554fa:
 
     # mc "If you two want to have your fun with me, I'll need the aphrodisiac."
-    mc "If you two want to have your fun with me, I'll need the aphrodisiac."
+    mc "如果你们两个想玩到尽兴的话，一定要让我保持性奋才行哦。"
 
 # game/farm.rpy#L3419
 translate chinese annamilkingevent_c175311e:
 
     # "I stop working her nipples and Anna leans in really, really close. Up close her moist fur sheens with the milk."
-    "I stop working her nipples and Anna leans in really, really close. Up close her moist fur sheens with the milk."
+    "我的双手停止了揉捏，Anna则凑到了离我很近很近的地方。我看到，她的茸毛已经被乳汁浸湿了，所以茸毛变得亮闪闪的。"
 
 # game/farm.rpy#L3421
 translate chinese annamilkingevent_477ee891:
 
     # "I bring one of her drippy nipples to my mouth and begin to suckle at the nipple."
-    "I bring one of her drippy nipples to my mouth and begin to suckle at the nipple."
+    "我将她一侧的乳头含在嘴里，然后舔舐吸吮起来。"
 
 # game/farm.rpy#L3423
 translate chinese annamilkingevent_0a4bbe8b:
 
     # anna "Mmphhh, yeshh!"
-    anna "Mmphhh, yeshh!"
+    anna "唔嗯，好爽！"
 
 # game/farm.rpy#L3424
 translate chinese annamilkingevent_3ad0aa2c:
 
     # "It takes a moment, but my mouth is suddenly intruded by a stream of warm and refreshing liquid."
-    "It takes a moment, but my mouth is suddenly intruded by a stream of warm and refreshing liquid."
+    "虽然废了点功夫，不过突然间，一股温热而令人享受的液体便注入到了我的口中。"
 
 # game/farm.rpy#L3433
 translate chinese annamilkingevent_7574a074:
 
     # "I feel her furry hand once again wrap itself around my stiff shaft and she wastes no time in jacking back and forth."
-    "I feel her furry hand once again wrap itself around my stiff shaft and she wastes no time in jacking back and forth."
+    "我感觉到她又一次用她毛茸茸的手握住了我的肉棒。同时，她还在不遗余力地反复撸动着它。"
 
 # game/farm.rpy#L3435
 translate chinese annamilkingevent_e2a1c0a5:
 
     # "As the milk from this first nipple seems to dry out, I pull back and focus on the next nipple."
-    "As the milk from this first nipple seems to dry out, I pull back and focus on the next nipple."
+    "在挤干净她一侧乳房的乳汁后，我又将注意力放到了她另一侧的乳房上。"
 
 # game/farm.rpy#L3444
 translate chinese annamilkingevent_692cafc2:
 
     # "All of her body language is begging for more, she’s incredibly aroused and her legs spread once again giving me a glimpse of her pussy whenever I want."
-    "All of her body language is begging for more, she’s incredibly aroused and her legs spread once again giving me a glimpse of her pussy whenever I want."
+    "从她的肢提动作可以看出，她现在的性欲异常高涨，她再一次张开双腿，让我可以随意地欣赏她的蜜穴。"
 
 # game/farm.rpy#L3445
 translate chinese annamilkingevent_b4c2422d:
 
     # "More of the delectable milk trickles into my mouth, warm and enticing. As it coats my mouth and drips down my throat it refreshes and invigorates me, drinking this strange milk feels wonderful. "
-    "More of the delectable milk trickles into my mouth, warm and enticing. As it coats my mouth and drips down my throat it refreshes and invigorates me, drinking this strange milk feels wonderful. "
+    "更多温暖而诱人的奶水滴入我的口中。乳汁顺着口腔滑进我的喉咙，我顿感神清气爽、精力充沛。这种让人感到些许奇怪的牛奶竟是如此的香甜。"
 
 # game/farm.rpy#L3446
 translate chinese annamilkingevent_2a9c8f63:
 
     # "I close my eyes and give in to all the sensations, my cock throbs as Anna starts to speed up, I can feel myself potentially getting close to climax."
-    "I close my eyes and give in to all the sensations, my cock throbs as Anna starts to speed up, I can feel myself potentially getting close to climax."
+    "我闭上眼睛，让身体去享受这种快感。随着Anna速度的加快，我的肉棒开始颤动起来，我感觉自己离高潮越来越近了。"
 
 # game/farm.rpy#L3447
 translate chinese annamilkingevent_1d1eab5a:
 
     # "I suck harder but the milk stops coming, and Anna’s hand job slows down quite considerably."
-    "I suck harder but the milk stops coming, and Anna’s hand job slows down quite considerably."
+    "我继续用力地吮吸着，而乳汁却迟迟未到，Anna撸动的速度也明显慢了下来。"
 
 # game/farm.rpy#L3453
 translate chinese annamilkingevent_588cb8b8:
 
     # "I drop her tiddy from my mouth and wipe my lip dry with the back of my forearm."
-    "I drop her tiddy from my mouth and wipe my lip dry with the back of my forearm."
+    "我松开她的乳头，用小臂抹去了残存在嘴上的乳汁。"
 
 # game/farm.rpy#L3455
 translate chinese annamilkingevent_f7f8c602:
 
     # anna "Looks like you milked me all dry! Time for me to return the favour."
-    anna "Looks like you milked me all dry! Time for me to return the favour."
+    anna "看来你已经把我的奶都挤干了！现在该让我来好好犒劳一下你了。"
 
 # game/farm.rpy#L3459
 translate chinese annamilkingevent_22d3bf75:
 
     # "Anna lifts herself up slightly and clamps her breasts around my cock, completely squishing my shaft with a soft tightness."
-    "Anna lifts herself up slightly and clamps her breasts around my cock, completely squishing my shaft with a soft tightness."
+    "Anna稍稍抬起身，然后将自己的巨乳紧紧夹在了我的肉棒周围，并开始以一种既有力又轻柔的方式挤压起我的肉棒。"
 
 # game/farm.rpy#L3463
 translate chinese annamilkingevent_7d13fbcb:
 
     # "Honey is masturbating as she enjoys the show, no need to hold back now she's out of her cast."
-    "Honey is masturbating as she enjoys the show, no need to hold back now she's out of her cast."
+    "Honey一边欣赏着我们的表演，一边自慰着。此时，她已经完全没有遮遮掩掩的必要了。"
 
 # game/farm.rpy#L3464
 translate chinese annamilkingevent_37227c12:
 
     # "Her breasts feel so soft around my cock and they’re slightly damp too, it’s a snug fit."
-    "Her breasts feel so soft around my cock and they’re slightly damp too, it’s a snug fit."
+    "我的肉棒被她那湿润而柔软的双峰包裹挤压着，这快感简直是人间一绝。"
 
 # game/farm.rpy#L3465
 translate chinese annamilkingevent_b0d30e60:
 
     # "She starts raising her torso up and down, so her breasts stimulate my shaft."
-    "She starts raising her torso up and down, so her breasts stimulate my shaft."
+    "她的玉体开始上下伏动起来，这也给我的肉棒带来了无比的刺激。"
 
 # game/farm.rpy#L3466
 translate chinese annamilkingevent_40587a44:
 
     # anna "Mmphh, do you like this? Are you gonna cum for me?"
-    anna "Mmphh, do you like this? Are you gonna cum for me?"
+    anna "嗯啊，你喜欢吗？你想射了吗？"
 
 # game/farm.rpy#L3467
 translate chinese annamilkingevent_3fcbd7cb:
 
     # "Lewd sloppy wet sounds keep coming from her breasts as she drools down onto my cock, providing some lubrication, that combined with the surprising tightness of her breasts around my cock is extremely stimulating.."
-    "Lewd sloppy wet sounds keep coming from her breasts as she drools down onto my cock, providing some lubrication, that combined with the surprising tightness of her breasts around my cock is extremely stimulating.."
+    "她将口水当作润滑剂滴在我的肉棒上，然后继续乳交着。随后，淫靡的啪啪声从肉棒与双乳的交合处不断地传来。那滑腻的触感和难以言喻的挤压感所带来的双重刺激很快把我推向了高潮……"
 
 # game/farm.rpy#L3468
 translate chinese annamilkingevent_d1923602:
 
     # "It won’t take me long to cum at all, I can even hear Honey moaning while she watches."
-    "It won’t take me long to cum at all, I can even hear Honey moaning while she watches."
+    "我离爆射的瞬间已经不远了。同时，我还可以听到Honey在一旁所发出的呻吟声。"
 
 # game/farm.rpy#L3469
 translate chinese annamilkingevent_139dbab8:
@@ -11414,19 +11414,19 @@ translate chinese annamilkingevent_139dbab8:
 translate chinese annamilkingevent_6f693ce6:
 
     # "I can’t hold back much longer, this is too good. I'm gonna cum"
-    "I can’t hold back much longer, this is too good. I'm gonna cum"
+    "我再也坚持不住了，这感觉真的是太美妙了，我马上就要射了。"
 
 # game/farm.rpy#L3471
 translate chinese annamilkingevent_8fea19b6:
 
     # anna "Cum for me, cum for me!"
-    anna "Cum for me, cum for me!"
+    anna "快射吧，快射出来吧！"
 
 # game/farm.rpy#L3472
 translate chinese annamilkingevent_800653a7:
 
     # "Using both her hands she slides her breasts back and forth against my dick, far faster than she could by moving her entire body, it completely overwhelms my senses and pushes me over the edge."
-    "Using both her hands she slides her breasts back and forth against my dick, far faster than she could by moving her entire body, it completely overwhelms my senses and pushes me over the edge."
+    "她用双手抓住自己的双乳，然后在我的肉棒周围疯狂地上下摇动起来，这速度比她身体的运动还要快很多。这快感让我迷失了自我，同时也把我推向了高潮的边缘。"
 
 # game/farm.rpy#L3473
 translate chinese annamilkingevent_57da2407:
@@ -11444,7 +11444,7 @@ translate chinese annamilkingevent_7d2d9751:
 translate chinese annamilkingevent_a93cde72:
 
     # "She keeps her breasts moving back and forth the entire time overall resulting in an explosive and satisfying orgasm."
-    "She keeps her breasts moving back and forth the entire time overall resulting in an explosive and satisfying orgasm."
+    "在我高潮时，她依然在前后不停摇动着巨乳，这让我的高潮十分强烈，而且令我格外满足。"
 
 # game/farm.rpy#L3485
 translate chinese annamilkingevent_ce868364:
@@ -11462,7 +11462,7 @@ translate chinese annamilkingevent_957d7237:
 translate chinese annamilkingevent_fdf30713:
 
     # honeycrisp "Alrighty stud, fifteen minutes. But that's coming outta your pay!"
-    honeycrisp "Alrighty stud, fifteen minutes. But that's coming outta your pay!"
+    honeycrisp "当然可以了，小伙儿，就给你十五分钟时间。不过，浪费的时间可是会从你工资里扣的！"
 
 # game/farm.rpy#L3496
 translate chinese annamilkingevent_e6d9e57d:
@@ -11480,7 +11480,7 @@ translate chinese annamilkingevent_a20cefa7:
 translate chinese annamilkingevent_2dd62f4f:
 
     # "Honey gets on her knees and presents her ass, using the hay bales to hold her up."
-    "Honey gets on her knees and presents her ass, using the hay bales to hold her up."
+    "Honey扶着干草堆跪了下来，然后将自己的臀部展现在了我的面前。"
 
 # game/farm.rpy#L3503
 translate chinese annamilkingevent_97ed1d40:
@@ -11492,19 +11492,19 @@ translate chinese annamilkingevent_97ed1d40:
 translate chinese annamilkingevent_77ce61ca:
 
     # "Anna scurries over and mirrors Honey’s pose, leaving me with two amazing asses presenting themselves to me. Their pussies both dripping wet, needy and in heat."
-    "Anna scurries over and mirrors Honey’s pose, leaving me with two amazing asses presenting themselves to me. Their pussies both dripping wet, needy and in heat."
+    "Anna急忙跑过来模仿起Honey的动作，也将自己的臀部展示在了我面前。此时，展现在我面前的，是两只让人欲罢不能的丰臀。同时，她们两人湿漉漉的小穴也变得欲火中烧，充满了欲望。"
 
 # game/farm.rpy#L3509
 translate chinese annamilkingevent_eb91650d:
 
     # "With my cock ready to go, I choose to start with Anna since she's the special guest."
-    "With my cock ready to go, I choose to start with Anna since she's the special guest."
+    "我的肉棒已经准备就绪。我决定先从Anna入手，因为她可是这里的贵宾级人物。"
 
 # game/farm.rpy#L3512
 translate chinese annamilkingevent_7647b371:
 
     # "I position my cock at her pussy and push forward, easily sinking inside her warm cow pussy."
-    "I position my cock at her pussy and push forward, easily sinking inside her warm cow pussy."
+    "我将肉棒顶端抵在她的小穴前，然后向前轻轻一推，肉棒就轻轻松松地滑进了她温暖的牛穴之中。"
 
 # game/farm.rpy#L3513
 translate chinese annamilkingevent_d0916f7f:
@@ -11522,25 +11522,25 @@ translate chinese annamilkingevent_63af1428:
 translate chinese annamilkingevent_74bb490e:
 
     # "I can see Honey biting her lip as she watches my cock slide in, her left hand is between her legs, rubbing herself while she watches."
-    "I can see Honey biting her lip as she watches my cock slide in, her left hand is between her legs, rubbing herself while she watches."
+    "我看到，Honey正一边盯着我滑入的肉棒，一边咬着自己的双唇。同时，她将左手放在两腿之间，摩擦着自己的私处。"
 
 # game/farm.rpy#L3517
 translate chinese annamilkingevent_6c0cab1e:
 
     # "I fuck Anna, her warm insides tightly squeezing and sucking around my cock with each movement in her wet pussy."
-    "I fuck Anna, her warm insides tightly squeezing and sucking around my cock with each movement in her wet pussy."
+    "我用力地干着Anna。每当我抽插着她湿润的小穴时，我都可以感受到她温暖的内壁在不断挤压包裹着我的肉棒。"
 
 # game/farm.rpy#L3519
 translate chinese annamilkingevent_cd10aa95:
 
     # "At the peak of each thrust her pussy contracts around my cock, enhancing the pleasure for both of us."
-    "At the peak of each thrust her pussy contracts around my cock, enhancing the pleasure for both of us."
+    "每当我将完全肉棒插到她小穴深处时，小穴的内壁都会紧缩并牢牢地裹在肉棒的四周。这使我们两人的快感都得到了增强。"
 
 # game/farm.rpy#L3520
 translate chinese annamilkingevent_993bb74e:
 
     # "She can't help but fuck me back by rocking her hips up and down, making her thick ass bounce into me."
-    "She can't help but fuck me back by rocking her hips up and down, making her thick ass bounce into me."
+    "作为回应，她的腰身开始了不受控制的上下起伏。这样一来，她丰满的臀部开始在我的身上不断拍打起来。"
 
 # game/farm.rpy#L3522
 translate chinese annamilkingevent_150c3fdb:
@@ -11552,7 +11552,7 @@ translate chinese annamilkingevent_150c3fdb:
 translate chinese annamilkingevent_50f1c31b:
 
     # anna "Ahhh, haaahh, your cock is so good [playername]."
-    anna "Ahhh, haaahh, your cock is so good [playername]."
+    anna "啊，哈啊，你的肉棒真是厉害了，[playername]。"
 
 # game/farm.rpy#L3526
 translate chinese annamilkingevent_88b12565:
