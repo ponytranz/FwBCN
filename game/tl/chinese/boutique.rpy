@@ -6662,7 +6662,7 @@ translate chinese melodycowgirl2_e68ac13f:
 translate chinese melodycowgirl2_dae1b68d:
 
     # mc "I- uh, right. Don’t you care at all, Ruby?"
-    mc "I- uh, right. Don’t you care at all, Ruby?"
+    mc "我……额，说得也是。你是一点也不在乎吗，Ruby？"
 
 # game/boutique.rpy#L1934
 translate chinese melodycowgirl2_6b130950:
@@ -6722,7 +6722,7 @@ translate chinese melodycowgirl2_8b0da48e:
 translate chinese melodycowgirl2_93e9233d:
 
     # ruby "Sisters that secretly planned to share and sleep with him, hehe."
-    ruby "Sisters that secretly planned to share and sleep with him, hehe."
+    ruby "姐妹们已经私下计划好该怎么玩他和睡他了，呵呵。"
 
 # game/boutique.rpy#L1950
 translate chinese melodycowgirl2_42bd829d:

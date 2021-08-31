@@ -4526,43 +4526,43 @@ translate chinese annamilking_1d984040:
 translate chinese annamilking_5c79fe14:
 
     # "Honey fills our mugs before pouring herself half a mug of her cider which she necks in one go."
-    "Honey fills our mugs before pouring herself half a mug of her cider which she necks in one go."
+    "Honey为我们倒上一杯私酿苹果酒，又给自己倒上半杯，随后一饮而尽。"
 
 # game/farm.rpy#L1405
 translate chinese annamilking_c7b6f83c:
 
     # "Anna thirstily gulps hers down."
-    "Anna thirstily gulps hers down."
+    "Anna也开始豪饮。"
 
 # game/farm.rpy#L1406
 translate chinese annamilking_f77e03ef:
 
     # "I’m not that thirsty, considering the milk, I just have a sip of mine."
-    "I’m not that thirsty, considering the milk, I just have a sip of mine."
+    "考虑到刚刚喝了牛奶，我还没那么渴，所以只是抿了一小口。"
 
 # game/farm.rpy#L1408
 translate chinese annamilking_030c774a:
 
     # honeycrisp "[playername], I should let you know that I invited Anna here to have sex with me, and you happened to show up at the right time."
-    honeycrisp "[playername], I should let you know that I invited Anna here to have sex with me, and you happened to show up at the right time."
+    honeycrisp "[playername]，咱得告诉你咱本来是打算跟Anna做爱的，而你只是刚好赶上了这个好机会。"
 
 # game/farm.rpy#L1410
 translate chinese annamilking_7f240a03:
 
     # anna "H-Hun! Eh... I guess there's no hiding it."
-    anna "H-Hun! Eh... I guess there's no hiding it."
+    anna "H-Hun！额...算了，反正也藏不住了。"
 
 # game/farm.rpy#L1413
 translate chinese annamilking_97a498cf:
 
     # mc "Really? You two do that often?"
-    mc "Really? You two do that often?"
+    mc "真的？你俩是那种关系？"
 
 # game/farm.rpy#L1414
 translate chinese annamilking_94b882c9:
 
     # "I look at Anna and expect her to be embarrassed, but she’s far too horny to care."
-    "I look at Anna and expect her to be embarrassed, but she’s far too horny to care."
+    "我看向Anna，本以为她会害羞，结果她饥渴到根本顾不上这些。"
 
 # game/farm.rpy#L1416
 translate chinese annamilking_408f389b:
@@ -11558,13 +11558,13 @@ translate chinese annamilkingevent_50f1c31b:
 translate chinese annamilkingevent_88b12565:
 
     # "This tight pussy feels amazing right now, at this speed it won't take me long to reach orgasm."
-    "This tight pussy feels amazing right now, at this speed it won't take me long to reach orgasm."
+    "现在，这紧致小穴的感觉真是太爽了。按这个速度，用不了多久，我就要高潮了。"
 
 # game/farm.rpy#L3528
 translate chinese annamilkingevent_b2dbdd77:
 
     # "Judging by her moans, she's close too, her back is arching and her entire body trembles as her explosive orgasm boils within."
-    "Judging by her moans, she's close too, her back is arching and her entire body trembles as her explosive orgasm boils within."
+    "根据她的呻吟声，可以看出，她也离高潮不远了。当高潮在她的体内爆发时，她的背弓了起来，全身也颤抖了起来。"
 
 # game/farm.rpy#L3530
 translate chinese annamilkingevent_75e3e2ca:
@@ -11576,13 +11576,13 @@ translate chinese annamilkingevent_75e3e2ca:
 translate chinese annamilkingevent_9baef8d9:
 
     # "She can barely contain herself, she’s in complete ecstasy as her entire body experiences a powerful orgasm."
-    "She can barely contain herself, she’s in complete ecstasy as her entire body experiences a powerful orgasm."
+    "由于高潮袭来，她身上的每一个部位都已经沉浸在了无比的快感之中，此时的她完全不能自拔了。"
 
 # game/farm.rpy#L3534
 translate chinese annamilkingevent_46c0ac5a:
 
     # anna "Ahh, k-keep going, I’m… Aahhhhh!"
-    anna "Ahh, k-keep going, I’m… Aahhhhh!"
+    anna "啊，继……继续，我……啊啊啊！"
 
 # game/farm.rpy#L3536
 translate chinese annamilkingevent_e50cc4c1:
@@ -11594,43 +11594,43 @@ translate chinese annamilkingevent_e50cc4c1:
 translate chinese annamilkingevent_ad8f56c1:
 
     # "As before, Anna squirts a little with her orgasm, splattering her lewd juices onto my cock."
-    "As before, Anna squirts a little with her orgasm, splattering her lewd juices onto my cock."
+    "和从前一样，由于高潮，Anna的下体喷出了少量爱液，并溅到了我的肉棒上。"
 
 # game/farm.rpy#L3540
 translate chinese annamilkingevent_25df125a:
 
     # anna "Gosh, so good… D-don’t stop! I want more!"
-    anna "Gosh, so good… D-don’t stop! I want more!"
+    anna "天哪，太爽了……别……别停！我还要！"
 
 # game/farm.rpy#L3542
 translate chinese annamilkingevent_29572d96:
 
     # "I wasn’t planning on stopping. If anything, I’m going even quicker and harder so I can fill her pussy up with my cum."
-    "I wasn’t planning on stopping. If anything, I’m going even quicker and harder so I can fill her pussy up with my cum."
+    "我并没有停下来的打算。总之，我抽插的速度会越来越快，抽插的力度也会越来越大，这样我就可以爽爽地来上一发，把她的小穴全部射满。"
 
 # game/farm.rpy#L3544
 translate chinese annamilkingevent_baf31b21:
 
     # "Tightly grabbing her ass as leverage, I speed up, prepping myself to cum inside."
-    "Tightly grabbing her ass as leverage, I speed up, prepping myself to cum inside."
+    "我紧紧抓住她的臀部，并以此作为支点，加快了抽插的速度。我已经做好了内射的准备。"
 
 # game/farm.rpy#L3545
 translate chinese annamilkingevent_e35957a6:
 
     # anna "Ahh! C-Cum inside me, I want it all!"
-    anna "Ahh! C-Cum inside me, I want it all!"
+    anna "啊！射……射进来吧，全都射进来吧，我都想要！"
 
 # game/farm.rpy#L3546
 translate chinese annamilkingevent_67887f81:
 
     # "Her words enthuse me as my orgasm begins to swell up, her pussy feels euphoric right now. "
-    "Her words enthuse me as my orgasm begins to swell up, her pussy feels euphoric right now. "
+    "在我离高潮越来越近的时候，她的这番话让我兴奋不已。此时，她蜜穴的感觉真的是妙不可言。"
 
 # game/farm.rpy#L3547
 translate chinese annamilkingevent_c137b0e8:
 
     # anna "It feels so good, I-I’m going to... Again!"
-    anna "It feels so good, I-I’m going to... Again!"
+    anna "这感觉好爽，我……我要去……又要去了！"
 
 # game/farm.rpy#L3548
 translate chinese annamilkingevent_7ddedb96:

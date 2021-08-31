@@ -11390,7 +11390,7 @@ translate chinese eveningbarmenu_e804abd9_1:
 translate chinese eveningbarmenu_335d6012_1:
 
     # midna "Aahh, yes master! Yer naughty Kitty's pussy needs your cock so badly!"
-    midna "Aahh, yes master! Yer naughty Kitty's pussy needs your cock so badly!"
+    midna "啊啊啊啊，是的，我的主人！您调皮的小猫咪非常期待您用肉棒来把她的小穴填得满满的哦！"
 
 # game/bar.rpy#L3304
 translate chinese eveningbarmenu_f559eacc:
@@ -13028,13 +13028,13 @@ translate chinese doubledoggo_5f9728d5:
 translate chinese doubledoggo_51fbcbe9:
 
     # "I gyrate my hips not only to keep the thrusts hard and fast, but also to grind against some of the most sensitive areas deep inside of her."
-    "I gyrate my hips not only to keep the thrusts hard and fast, but also to grind against some of the most sensitive areas deep inside of her."
+    "我快速扭动着自己的腰部，这样不仅可以保持抽插的速度和强度，也可以将肉棒尽可能深地插入到她小穴中最敏感的部位。"
 
 # game/bar.rpy#L3841
 translate chinese doubledoggo_7c59675e:
 
     # "Moans spill from her mouth with each thrust, as she gets closer and closer to orgasm."
-    "Moans spill from her mouth with each thrust, as she gets closer and closer to orgasm."
+    "每进行一次抽插，她的嘴中就会发出一声呻吟。看来，她离高潮已经越来越近了。"
 
 # game/bar.rpy#L3842
 translate chinese doubledoggo_2e063427:
@@ -13052,13 +13052,13 @@ translate chinese doubledoggo_b1cb531e:
 translate chinese doubledoggo_3fb0bf4b:
 
     # "Her cunt squeezes tightly, almost sucking me in with each push of my hips. Her pussy squirting ever so slightly, dripping onto my thighs."
-    "Her cunt squeezes tightly, almost sucking me in with each push of my hips. Her pussy squirting ever so slightly, dripping onto my thighs."
+    "她小穴的内壁紧紧地收缩着，每当我扭动腰部，它就会牢牢地吸附包裹住我的肉棒。同时，还有少量爱液会从小穴中流出，滴落到我的腿上。"
 
 # game/bar.rpy#L3845
 translate chinese doubledoggo_cdd18e11:
 
     # "I keep moving faster, while Hilda teases the climaxing dog girl in any way she can. Hilda tweaks her nipples, rubs her clit, kisses her neck. Rosa’s mind is being attacked from almost every angle."
-    "I keep moving faster, while Hilda teases the climaxing dog girl in any way she can. Hilda tweaks her nipples, rubs her clit, kisses her neck. Rosa’s mind is being attacked from almost every angle."
+    "我依然快速地抽插着，而Hilda则在尽自己所能地玩弄着一旁已经达到高潮的犬女。Hilda一边揉捏着她的乳头，一边摩擦着她的阴蒂，同时亲吻着她的脖子。此时的Rosa，几乎已经被Hilda的攻势团团围住了。"
 
 # game/bar.rpy#L3846
 translate chinese doubledoggo_1dbf3fec:
@@ -13070,31 +13070,31 @@ translate chinese doubledoggo_1dbf3fec:
 translate chinese doubledoggo_838e5d3f:
 
     # "The first few loads of cum shoot into Rosa’s pussy, and she definitely acknowledges it as she throws her head back and moans out a hearty ‘Yeesssss!’"
-    "The first few loads of cum shoot into Rosa’s pussy, and she definitely acknowledges it as she throws her head back and moans out a hearty ‘Yeesssss!’"
+    "我的第一发都射进了Rosa的小穴里。作为回应，她将头转过来，并欢快地发出了一句‘太~爽~了！’和几声呻吟。"
 
 # game/bar.rpy#L3856
 translate chinese doubledoggo_65aaef62:
 
     # "A second load shortly follows, pumping straight into the dog girl’s womb."
-    "A second load shortly follows, pumping straight into the dog girl’s womb."
+    "第二发也随即而至。随后，我便将爱液射进了犬女的子宫中。"
 
 # game/bar.rpy#L3857
 translate chinese doubledoggo_d901a25f:
 
     # "The two of us continue rutting until our orgasms slowly fizzle, and we essentially fall forward into a cuddle"
-    "The two of us continue rutting until our orgasms slowly fizzle, and we essentially fall forward into a cuddle"
+    "在高潮消退前，我们两个仍旧在一起激情了片刻。在高潮完全消退后，我们两人躺了下来，并拥抱在了一起。"
 
 # game/bar.rpy#L3861
 translate chinese doubledoggo_a3dae936:
 
     # "A cuddle which Hilda gladly takes advantage of, leaving me in the middle of them on Hilda’s bed."
-    "A cuddle which Hilda gladly takes advantage of, leaving me in the middle of them on Hilda’s bed."
+    "Hilda也和我拥抱在了一起。这样一来，我就被她们两个夹在了中间。"
 
 # game/bar.rpy#L3862
 translate chinese doubledoggo_c87baf83:
 
     # "Ahhh… Two extremely soft lupine girls cuddling me from either side."
-    "Ahhh… Two extremely soft lupine girls cuddling me from either side."
+    "啊……两个肌肤柔软细腻的狼女一左一右，依偎在我的身旁。"
 
 # game/bar.rpy#L3863
 translate chinese doubledoggo_6e4fbe4e:

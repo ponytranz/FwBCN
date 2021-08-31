@@ -12914,55 +12914,55 @@ translate chinese penelopetalk_70234848:
 translate chinese penelopetalk_d1e12be3:
 
     # mc "I see... So she was likely taking advantage of your feelings towards her."
-    mc "I see... So she was likely taking advantage of your feelings towards her."
+    mc "我明白了……所以说她很可能是在利用你对她的同情。"
 
 # game/library.rpy#L3816
 translate chinese penelopetalk_c9176573:
 
     # mc "Why help her take over at all? Did you have something against the Royal Sisters?"
-    mc "Why help her take over at all? Did you have something against the Royal Sisters?"
+    mc "你究竟为什么要帮她呢？你是不是对皇家姐妹有什么不满？"
 
 # game/library.rpy#L3818
 translate chinese penelopetalk_a2150f96:
 
     # penelope "*Sigh* She also took advantage of me by making me her spymaster..."
-    penelope "*Sigh* She also took advantage of me by making me her spymaster..."
+    penelope "*叹气*她甚至都要让我变成她的间谍头子了。"
 
 # game/library.rpy#L3819
 translate chinese penelopetalk_22c1118f:
 
     # penelope "While I was helping Morrigan to take over Arcadia, I always wanted her to be a benevolent Queen... Not an evil tyrant."
-    penelope "While I was helping Morrigan to take over Arcadia, I always wanted her to be a benevolent Queen... Not an evil tyrant."
+    penelope "虽然我确实在帮Morrigan掌控Arcadia，但我一直以来都期盼她成为一位仁慈的女王……而非邪恶的暴君。"
 
 # game/library.rpy#L3821
 translate chinese penelopetalk_bf5ac7d5:
 
     # penelope "I, like many other morphlings, was subject to a lot of propaganda from a young age, so I did initially detest the royal sisters for the majority of my life."
-    penelope "I, like many other morphlings, was subject to a lot of propaganda from a young age, so I did initially detest the royal sisters for the majority of my life."
+    penelope "我，则和许多幻型灵一样，自小便被无数宣传裹挟，长久以来对皇家姐妹先入为主的厌恶也不足为奇了。"
 
 # game/library.rpy#L3822
 translate chinese penelopetalk_b1c56112:
 
     # penelope "But as I began to live my life here as a spy, it became apparently obvious just how many lies I was fed."
-    penelope "But as I began to live my life here as a spy, it became apparently obvious just how many lies I was fed."
+    penelope "而当我作为间谍，融入此地时，我幡然醒悟，自己被灌输了不计其数的谎言。"
 
 # game/library.rpy#L3823
 translate chinese penelopetalk_93f300e7:
 
     # penelope "I just hope the other morphlings can follow in my footsteps. I'm going to try to instate peace and trade agreements between Arcadia and the hive of remaining morphlings."
-    penelope "I just hope the other morphlings can follow in my footsteps. I'm going to try to instate peace and trade agreements between Arcadia and the hive of remaining morphlings."
+    penelope "我只希望其他幻型灵能像我一样重识真相。而我要让Arcadia同余下幻型灵的巢穴间建立和平贸易关系。"
 
 # game/library.rpy#L3825
 translate chinese penelopetalk_246d5823:
 
     # penelope "One day, perhaps our species will no longer be seen as evil, but merely another 'type' of pony, like unicorns or pegasus."
-    penelope "One day, perhaps our species will no longer be seen as evil, but merely another 'type' of pony, like unicorns or pegasus."
+    penelope "终有一日，或许我的种族将不会与“邪恶”标签挂钩，大家看待他们，就像看待独角兽和天马一般，仅仅是“另一种”小马。"
 
 # game/library.rpy#L3826
 translate chinese penelopetalk_d3a9dda9:
 
     # mc "I wish you the best of luck, Penelope, and thank you for defying your upbringing."
-    mc "I wish you the best of luck, Penelope, and thank you for defying your upbringing."
+    mc "望天随人愿，也感谢你能与错误的命运安排分道扬镳。"
 
 # game/library.rpy#L3838
 translate chinese penelopesex_5ce83f7e:
@@ -13100,7 +13100,7 @@ translate chinese penelopesex_a879fce2:
 translate chinese penelopesex_2d0ad636:
 
     # penelope "*Lick, lick*, *Lick*."
-    penelope "*Lick, lick*, *Lick*."
+    penelope "*舔，舔*，*舔*。"
 
 # game/library.rpy#L3900
 translate chinese penelopesex_59e58c2b:
