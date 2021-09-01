@@ -5546,13 +5546,13 @@ translate chinese honeyannathreesome_8b10c937:
 translate chinese honeyannathreesome_eda3e8d8:
 
     # blossom "So… If you were supposed to be milking Anna this morning… When did you…?"
-    blossom "So… If you were supposed to be milking Anna this morning… When did you…?"
+    blossom "话说……如果你是今早给Anna挤奶的话……那你是什么时候……？"
 
 # game/farm.rpy#L1722
 translate chinese honeyannathreesome_0b323697:
 
     # mc "Uhm… When did I...?"
-    mc "Uhm… When did I...?"
+    mc "呃……我是什么时候……？"
 
 # game/farm.rpy#L1724
 translate chinese honeyannathreesome_5c7aec70:
@@ -5582,25 +5582,25 @@ translate chinese honeyannathreesome_e70128a2:
 translate chinese honeyannathreesome_de462385:
 
     # blossom "It sounds like her and Anna are closer than I thought, we should write that letter as soon as we can to see if Anna can help."
-    blossom "It sounds like her and Anna are closer than I thought, we should write that letter as soon as we can to see if Anna can help."
+    blossom "看来她和Anna的关系比我想象中还要亲密。咱们应该写封信，然后看Anna会不会帮忙。"
 
 # game/farm.rpy#L1731
 translate chinese honeyannathreesome_ae88aa69:
 
     # mc "Yeah, I had suspected that Anna was the same cow farmer you mentioned. Let's get on that."
-    mc "Yeah, I had suspected that Anna was the same cow farmer you mentioned. Let's get on that."
+    mc "是啊，我早就怀疑Anna和你提到的那个奶牛场主是同一个人了。咱们马上开始吧。"
 
 # game/farm.rpy#L1733
 translate chinese honeyannathreesome_6ccf91fe:
 
     # blossom "Come upstairs with me?"
-    blossom "Come upstairs with me?"
+    blossom "要和我一起上楼吗？"
 
 # game/farm.rpy#L1735
 translate chinese honeyannathreesome_f7cfc289:
 
     # "This time she displays less doubt and more confidence, without even waiting for my reply she starts to walk her way upstairs."
-    "This time she displays less doubt and more confidence, without even waiting for my reply she starts to walk her way upstairs."
+    "这次，她的表现更加自信和决绝了。还没等我回答，她就开始朝楼上走去。"
 
 # game/farm.rpy#L1737
 translate chinese honeyannathreesome_2357509c:
@@ -5612,25 +5612,25 @@ translate chinese honeyannathreesome_2357509c:
 translate chinese honeyannathreesome_61f26ee4:
 
     # "She isn’t giving me a choice this time, how exciting, I’m invested in how this situation plays out."
-    "She isn’t giving me a choice this time, how exciting, I’m invested in how this situation plays out."
+    "这一次，她没有给我选择的机会，真是太让人激动了。我在想，事情会朝哪个方向发展呢？"
 
 # game/farm.rpy#L1740
 translate chinese honeyannathreesome_66aa52b5:
 
     # "Blossom leads me to her bedroom, it’s a small yet adorable room, adorned with several girly decorations, there’s a keyboard in one corner, a dressing table, and a double bed."
-    "Blossom leads me to her bedroom, it’s a small yet adorable room, adorned with several girly decorations, there’s a keyboard in one corner, a dressing table, and a double bed."
+    "Blossom把我带到了她的房间。她的房间虽然不大，但很精致。屋子四周有一些很少女风的装饰。在屋子的一角，摆放着一只键盘、一个梳妆台和一张双人床。"
 
 # game/farm.rpy#L1742
 translate chinese honeyannathreesome_2db4c28f:
 
     # "Blossom sits at her dressing table and takes out a paper and a pen, I casually sit on the bed adjacent to her and watch what she’s doing."
-    "Blossom sits at her dressing table and takes out a paper and a pen, I casually sit on the bed adjacent to her and watch what she’s doing."
+    "Blossom坐到梳妆台前，然后拿出了纸笔。而我则坐到了一旁的床上，开始看她在做什么。"
 
 # game/farm.rpy#L1743
 translate chinese honeyannathreesome_584af3a5:
 
     # mc "Alright, what are we writing then? "
-    mc "好吧，那我们写什么呢？"
+    mc "好吧，那我们要写什么呢？"
 
 # game/farm.rpy#L1745
 translate chinese honeyannathreesome_3ed84780:
@@ -5648,7 +5648,7 @@ translate chinese honeyannathreesome_e44df3e0:
 translate chinese honeyannathreesome_f265a6de:
 
     # blossom "Could you please help? You’re a grown up so you should be good with these things."
-    blossom "你能帮忙吗?你是个成年人，应该会处理好这些事。"
+    blossom "你能帮帮我吗？你是成年人，处理这些事应该不成问题吧。"
 
 # game/farm.rpy#L1749
 translate chinese honeyannathreesome_f7dd4e06:
@@ -5660,19 +5660,19 @@ translate chinese honeyannathreesome_f7dd4e06:
 translate chinese honeyannathreesome_523cd0c8:
 
     # blossom "Ohh, really? But you're so mature..."
-    blossom "Ohh, really? But you're so mature..."
+    blossom "哦，是吗？但你可成熟多了……"
 
 # game/farm.rpy#L1752
 translate chinese honeyannathreesome_96cc6844:
 
     # mc "How about something along the lines of, ‘Honeycrisp has been struggling to maintain the north Arcadia farm on her own, especially with her injury.’"
-    mc "How about something along the lines of, ‘Honeycrisp has been struggling to maintain the north Arcadia farm on her own, especially with her injury.’"
+    mc "这么写如何：“Honeycrisp虽然受伤了，可她还在独自一人努力经营着Arcadia北边的农场。”"
 
 # game/farm.rpy#L1754
 translate chinese honeyannathreesome_a4f0df95:
 
     # blossom "Okay, I’ll just write that down."
-    blossom "Okay, I’ll just write that down."
+    blossom "可以，我这就写下来。"
 
 # game/farm.rpy#L1755
 translate chinese honeyannathreesome_a2bb2aa3:
@@ -5684,7 +5684,7 @@ translate chinese honeyannathreesome_a2bb2aa3:
 translate chinese honeyannathreesome_7497e295:
 
     # blossom "That’s good!"
-    blossom "好耶！"
+    blossom "这主意不错！"
 
 # game/farm.rpy#L1758
 translate chinese honeyannathreesome_8acb5852:
@@ -5702,13 +5702,13 @@ translate chinese honeyannathreesome_c106fd0a:
 translate chinese honeyannathreesome_b3b3ccea:
 
     # blossom "I like that, we’ll probably trade crops since there are a few things we grow here that they don’t grow."
-    blossom "I like that, we’ll probably trade crops since there are a few things we grow here that they don’t grow."
+    blossom "我感觉可以。因为我们这儿可以种出他们那里没有的作物，所以，我们可以去卖庄稼。"
 
 # game/farm.rpy#L1762
 translate chinese honeyannathreesome_37b51a61:
 
     # mc "You already have the milk trade, so it sounds like this is just a logical step in that direction. Honestly, I wonder why it hasn’t already happened, this seems perfect."
-    mc "You already have the milk trade, so it sounds like this is just a logical step in that direction. Honestly, I wonder why it hasn’t already happened, this seems perfect."
+    mc "你这里已经有牛奶生意了，所以把生意转向其他领域也是很合理的。说实话，我在想，这事相当有希望，可为什么不早点开始呢。"
 
 # game/farm.rpy#L1764
 translate chinese honeyannathreesome_3f162161:
@@ -5720,49 +5720,49 @@ translate chinese honeyannathreesome_3f162161:
 translate chinese honeyannathreesome_af29ced2:
 
     # blossom "Perhaps this partnership was inevitable in the future, but I want it now, because I can’t just sit here and wait while my sister suffers."
-    blossom "Perhaps this partnership was inevitable in the future, but I want it now, because I can’t just sit here and wait while my sister suffers."
+    blossom "也许在将来，这种合作会是必然，但我现在就想让它成真，因为我不想在我妹妹受苦受累的时候就这么等着。"
 
 # game/farm.rpy#L1767
 translate chinese honeyannathreesome_45b609a7:
 
     # "She folds up the letter and turns to me, placing her hands on my thighs."
-    "She folds up the letter and turns to me, placing her hands on my thighs."
+    "她把信叠好，然后转向我，将双手放在了我的腿上。"
 
 # game/farm.rpy#L1769
 translate chinese honeyannathreesome_5ad1bb1c:
 
     # blossom "Earlier downstairs, Honey looked happier than she has in a long time, I want to thank you for that."
-    blossom "Earlier downstairs, Honey looked happier than she has in a long time, I want to thank you for that."
+    blossom "早些时候，我在楼下看见了Honey。她的心情好像好了很多，我已经很久没见到她这么高兴了。所以，我想好好谢谢你。"
 
 # game/farm.rpy#L1771
 translate chinese honeyannathreesome_b7bd1ce1:
 
     # blossom "Thank you so much, having you here has brightened up both of our days."
-    blossom "Thank you so much, having you here has brightened up both of our days."
+    blossom "真的很感谢你，有你在我身边，我感觉我们两个人的生活都变得更美好了。"
 
 # game/farm.rpy#L1772
 translate chinese honeyannathreesome_3c430106:
 
     # mc "I admit, I don’t feel like I’ve done much, but I’ve enjoyed every second of it, and no doubt every second further."
-    mc "I admit, I don’t feel like I’ve done much, but I’ve enjoyed every second of it, and no doubt every second further."
+    mc "我承认，虽然我并没有帮上什么忙，但我却很享受这段时光。当然，再享受片刻也无妨。"
 
 # game/farm.rpy#L1774
 translate chinese honeyannathreesome_8ac22438:
 
     # blossom "You’re so sweet, I can see why Honey likes you."
-    blossom "You’re so sweet, I can see why Honey likes you."
+    blossom "你太有魅力了，我知道Honey为什么会喜欢你了。"
 
 # game/farm.rpy#L1776
 translate chinese honeyannathreesome_7949f46f:
 
     # blossom "I kinda like you too... You know…"
-    blossom "I kinda like you too... You know…"
+    blossom "其实我也挺喜欢你的……你知道吗……"
 
 # game/farm.rpy#L1777
 translate chinese honeyannathreesome_92814c8e:
 
     # "She moves from the stool of her dressing table and straddles me. Her body language is pretty similar to Honey when she's acting confident."
-    "She moves from the stool of her dressing table and straddles me. Her body language is pretty similar to Honey when she's acting confident."
+    "她从梳妆台的椅子上站起来，然后走向了我。此时，她的动作和姿态就和Honey信心满满时的动作和姿态很相像。"
 
 # game/farm.rpy#L1779
 translate chinese honeyannathreesome_d9876289:
@@ -5774,13 +5774,13 @@ translate chinese honeyannathreesome_d9876289:
 translate chinese honeyannathreesome_bce1654b:
 
     # mc "R-Right now, are you sure?"
-    mc "R-Right now, are you sure?"
+    mc "现……现在做吗，你确定？"
 
 # game/farm.rpy#L1781
 translate chinese honeyannathreesome_336c55e5:
 
     # "She leans in and kisses me on the cheek."
-    "She leans in and kisses me on the cheek."
+    "她靠了过来，然后在我的脸颊上轻轻吻了一下。"
 
 # game/farm.rpy#L1783
 translate chinese honeyannathreesome_78cafce4:
@@ -5792,7 +5792,7 @@ translate chinese honeyannathreesome_78cafce4:
 translate chinese honeyannathreesome_4f754704:
 
     # blossom "I’ll have you to myself another day, I just wanted to whet your appetite for the next time we meet."
-    blossom "I’ll have you to myself another day, I just wanted to whet your appetite for the next time we meet."
+    blossom "过些天我再来和你玩。我只是想激起一下你的兴趣，等到下次咱们再见面，你还能对我保持兴趣。"
 
 # game/farm.rpy#L1786
 translate chinese honeyannathreesome_8b0a8aa3:
@@ -5864,7 +5864,7 @@ translate chinese honeyannathreesome_3602ab85:
 translate chinese honeyannathreesome_fd92c32c:
 
     # "And yet she still wants to have sex with me, I mean sheesh, I barely know this girl."
-    "And yet she still wants to have sex with me, I mean sheesh, I barely know this girl."
+    "但她还是想和我爱爱。我的天，可我和这姑娘根本就不熟。"
 
 # game/farm.rpy#L1803
 translate chinese honeyannathreesome_26691e9f:
@@ -5900,7 +5900,7 @@ translate chinese honeyannathreesome_25448776:
 translate chinese honeyannathreesome_bbf72403:
 
     # blossom "Okay, [playername]"
-    blossom "好，[playername]"
+    blossom "好，[playername]。"
 
 # game/farm.rpy#L1816
 translate chinese farmvisit2choice1_5b0299be:
@@ -6632,7 +6632,7 @@ translate chinese farmvisit2choice1_9d000343:
 translate chinese farmvisit2choice1_ecb72ec0_1:
 
     # mc "It was crazy, the milk let me just keep going even after ejaculating."
-    mc "It was crazy, the milk let me just keep going even after ejaculating."
+    mc "这太疯狂了，牛奶令我在射精后还能保持挺拔。"
 
 # game/farm.rpy#L2016
 translate chinese farmvisit2choice1_9c081ec0:
@@ -7856,7 +7856,7 @@ translate chinese blossomcowgirl_4c775599:
 translate chinese blossomcowgirl_95c7633a:
 
     # mc "Are you okay?"
-    mc "Are you okay?"
+    mc "你还好吗？"
 
 # game/farm.rpy#L2351
 translate chinese blossomcowgirl_897c36f7:
@@ -9302,7 +9302,7 @@ translate chinese farmvisit3honeydialogue_ef96554f:
 translate chinese farmvisit3honeydialogue_39da55fd:
 
     # blossom "Ahaha, darnit!"
-    blossom "Ahaha, darnit!"
+    blossom "啊哈哈，该死的！"
 
 # game/farm.rpy#L2775
 translate chinese farmvisit3honeydialogue_62dbc1c7:
@@ -9332,13 +9332,13 @@ translate chinese farmvisit3honeydialogue_1e448d8b:
 translate chinese farmvisit3honeydialogue_2a7db446:
 
     # blossom "You know… I really enjoyed our time together."
-    blossom "You know… I really enjoyed our time together."
+    blossom "你知道的……和你相处真的很愉快。"
 
 # game/farm.rpy#L2783
 translate chinese farmvisit3honeydialogue_a380c70d:
 
     # blossom "I always wanted a cute boyfriend like you."
-    blossom "I always wanted a cute boyfriend like you."
+    blossom "我总想找一个和你一样可爱的男朋友。"
 
 # game/farm.rpy#L2784
 translate chinese farmvisit3honeydialogue_25e61c9b:
@@ -9350,13 +9350,13 @@ translate chinese farmvisit3honeydialogue_25e61c9b:
 translate chinese farmvisit3honeydialogue_f09f5877:
 
     # blossom "Bleh, true, I want a boy all to myself, and it seems you’re in hot demand."
-    blossom "Bleh, true, I want a boy all to myself, and it seems you’re in hot demand."
+    blossom "呃啊，这倒是，我想找一个只属于我自己的小男生。而且，看来你很抢手嘛。"
 
 # game/farm.rpy#L2787
 translate chinese farmvisit3honeydialogue_25b4dc2e:
 
     # mc "I bet you’d still welcome me to your bedroom though."
-    mc "I bet you’d still welcome me to your bedroom though."
+    mc "不过我敢打赌，你还是会同意让我去你卧室坐坐的。"
 
 # game/farm.rpy#L2789
 translate chinese farmvisit3honeydialogue_725f19c1:
@@ -9374,49 +9374,49 @@ translate chinese farmvisit3honeydialogue_7290a330:
 translate chinese farmvisit3honeydialogue_c8421a6d:
 
     # blossom "Ooohh, that’s what Melody is always telling me, but I’m too shy to actually approach anyone."
-    blossom "Ooohh, that’s what Melody is always telling me, but I’m too shy to actually approach anyone."
+    blossom "哦，Melody也经常这么和我说，可我太内向了，根本不敢和人来往。"
 
 # game/farm.rpy#L2793
 translate chinese farmvisit3honeydialogue_c4ab75a6:
 
     # mc "Hmm, that’s quite the predicament, but you approached me more or less, remember? I think you’re more confident than you realize, you have the same fiery soul as your sister."
-    mc "Hmm, that’s quite the predicament, but you approached me more or less, remember? I think you’re more confident than you realize, you have the same fiery soul as your sister."
+    mc "嗯，这确实是个问题，不过你和我也有过一些来往，你还记得吗？我感觉你比你想象中的自己更有自信，你的性格其实和你姐姐一样热情开朗。"
 
 # game/farm.rpy#L2795
 translate chinese farmvisit3honeydialogue_e24180ec:
 
     # blossom "R-Really? Me? Uuu, I guess you’re right, I need to stop overthinking."
-    blossom "R-Really? Me? Uuu, I guess you’re right, I need to stop overthinking."
+    blossom "真……真的吗？我？呜呜，我感觉你说得对，我不应该想太多的。"
 
 # game/farm.rpy#L2796
 translate chinese farmvisit3honeydialogue_bc86a3d1:
 
     # mc "Some say that your brain is your own worst enemy."
-    mc "Some say that your brain is your own worst enemy."
+    mc "有人说过，你的思绪才是你最大的敌人。"
 
 # game/farm.rpy#L2798
 translate chinese farmvisit3honeydialogue_302641fc:
 
     # blossom "Yeah… Yeah! That’s it, that’s exactly my problem, my dummy brain is holding me back."
-    blossom "Yeah… Yeah! That’s it, that’s exactly my problem, my dummy brain is holding me back."
+    blossom "是啊……没错！确实是这样，这就是我的问题，我总是想得太多，这耽误了我很多事。"
 
 # game/farm.rpy#L2799
 translate chinese farmvisit3honeydialogue_fcefe201:
 
     # blossom "I want to be more like my sister, strong and confident."
-    blossom "I want to be more like my sister, strong and confident."
+    blossom "我也希望我能像我姐姐一样又自信又坚强。"
 
 # game/farm.rpy#L2800
 translate chinese farmvisit3honeydialogue_3479abcf:
 
     # blossom "I know she used to be shy like me when she was young, however that just means I have the potential to outgrow my worries and become self-assured."
-    blossom "I know she used to be shy like me when she was young, however that just means I have the potential to outgrow my worries and become self-assured."
+    blossom "我知道，她小时候也和我一样内向，但这也证明，我有战胜这些问题的潜力，我也可以变得更自信。"
 
 # game/farm.rpy#L2801
 translate chinese farmvisit3honeydialogue_4bfafeaa:
 
     # mc "Honestly, in my eyes, you already have that confidence deep inside. You had the strength to do something even your sister couldn’t do."
-    mc "Honestly, in my eyes, you already have that confidence deep inside. You had the strength to do something even your sister couldn’t do."
+    mc "说真的，在我看来，你的内心其实是很有自信的。你在做某些事的时候所展现出的能力甚至比你姐姐还要强。"
 
 # game/farm.rpy#L2803
 translate chinese farmvisit3honeydialogue_74b39f1d:
@@ -9428,61 +9428,61 @@ translate chinese farmvisit3honeydialogue_74b39f1d:
 translate chinese farmvisit3honeydialogue_89d10114:
 
     # mc "You sure did."
-    mc "You sure did."
+    mc "确实。"
 
 # game/farm.rpy#L2805
 translate chinese farmvisit3honeydialogue_085946b2:
 
     # "As the sun starts to slowly sink beneath the distant mountains, I take one last sip of my tea."
-    "As the sun starts to slowly sink beneath the distant mountains, I take one last sip of my tea."
+    "天色渐渐暗了下来，太阳也已经落山了。于是，在临走前，我喝了最后一口茶。"
 
 # game/farm.rpy#L2806
 translate chinese farmvisit3honeydialogue_4bdb116f:
 
     # mc "Thank you for the tea, I think I’ll set off now."
-    mc "Thank you for the tea, I think I’ll set off now."
+    mc "谢谢你的茶，我要走了。"
 
 # game/farm.rpy#L2808
 translate chinese farmvisit3honeydialogue_ecc3480d:
 
     # blossom "Visit me lots, ‘kay? I really wanna cuddle more."
-    blossom "Visit me lots, ‘kay? I really wanna cuddle more."
+    blossom "有时间常过来陪陪我，好吗？我还想要抱抱。"
 
 # game/farm.rpy#L2809
 translate chinese farmvisit3honeydialogue_5aa65cc6:
 
     # blossom "Maybe if you get attached to me you can become my cool boyfriend."
-    blossom "Maybe if you get attached to me you can become my cool boyfriend."
+    blossom "如果你忘不了我了，说不定你就能成为我酷酷的男朋友了。"
 
 # game/farm.rpy#L2810
 translate chinese farmvisit3honeydialogue_1f9c174e:
 
     # mc "I assure you, I’m not that cool. Although, I may be so inclined to come visit for some fun."
-    mc "I assure you, I’m not that cool. Although, I may be so inclined to come visit for some fun."
+    mc "说真的，我可没那么酷。不过，我很可能会到你这儿来消遣一下的。"
 
 # game/farm.rpy#L2812
 translate chinese farmvisit3honeydialogue_e2d5849c:
 
     # blossom "Oh, and my sister doesn’t know that we had sex, let’s just keep that one between us, okay?"
-    blossom "Oh, and my sister doesn’t know that we had sex, let’s just keep that one between us, okay?"
+    blossom "哦，我姐姐还不知道咱们已经啪啪啪过了。所以这就是咱们两个人之间的秘密，不要告诉别人，好吗？"
 
 # game/farm.rpy#L2814
 translate chinese farmvisit3honeydialogue_e26420da:
 
     # "I’ve already accidentally told her, but she doesn’t need to know that, a secret within a secret."
-    "I’ve already accidentally told her, but she doesn’t need to know that, a secret within a secret."
+    "可我已经无意之中告诉她了。不过，我还是不要告诉她了，就当这是另一个秘密吧。"
 
 # game/farm.rpy#L2815
 translate chinese farmvisit3honeydialogue_ba95230d:
 
     # mc "Yeah I’ll keep quiet about that. You don’t mind me sleeping with her though?"
-    mc "Yeah I’ll keep quiet about that. You don’t mind me sleeping with her though?"
+    mc "是啊，我会保密的。还有，我睡过你姐姐，你不会介意吧？"
 
 # game/farm.rpy#L2817
 translate chinese farmvisit3honeydialogue_1a9ca0d9:
 
     # blossom "Nah, not at all, if anything that just makes me want to sleep with you more. I don’t know, something competitive within me spurring me on."
-    blossom "Nah, not at all, if anything that just makes me want to sleep with you more. I don’t know, something competitive within me spurring me on."
+    blossom "不介意，我当然不会介意了。这只会让我更想和你爱爱。我不知道这是为什么，我只是想和别人争个高低，所以才会这么想。"
 
 # game/farm.rpy#L2818
 translate chinese farmvisit3honeydialogue_9dc01d16:
@@ -9494,37 +9494,37 @@ translate chinese farmvisit3honeydialogue_9dc01d16:
 translate chinese farmvisit3honeydialogue_2cc49f0a:
 
     # mc "No worries, it has been my pleasure."
-    mc "No worries, it has been my pleasure."
+    mc "不用担心，这是我的荣幸。"
 
 # game/farm.rpy#L2821
 translate chinese farmvisit3honeydialogue_92ad148c:
 
     # blossom "Have a nice evening [playername], hope to see you again sometime soon!"
-    blossom "Have a nice evening [playername], hope to see you again sometime soon!"
+    blossom "晚安，[playername]，希望能很快再见到你！"
 
 # game/farm.rpy#L2822
 translate chinese farmvisit3honeydialogue_c51c76b4:
 
     # mc "Same to you!"
-    mc "Same to you!"
+    mc "也祝你晚安！"
 
 # game/farm.rpy#L2823
 translate chinese farmvisit3honeydialogue_f1ceddc2:
 
     # mc "Oh, and one more thing."
-    mc "Oh, and one more thing."
+    mc "哦，还有一件事。"
 
 # game/farm.rpy#L2824
 translate chinese farmvisit3honeydialogue_4579823e:
 
     # mc "Next time, no milk, okay?"
-    mc "Next time, no milk, okay?"
+    mc "下次不要再加奶了，好吗？"
 
 # game/farm.rpy#L2826
 translate chinese farmvisit3honeydialogue_73bb9d26:
 
     # blossom "Hehe, you have a deal, no milk!"
-    blossom "Hehe, you have a deal, no milk!"
+    blossom "嘿嘿，就这么定了，不加奶了！"
 
 # game/farm.rpy#L2831
 translate chinese farmvisit3honeydialogue_5554ae5e:
@@ -9596,13 +9596,13 @@ translate chinese farmvisit3honeydialogue_0f40899d:
 translate chinese farmvisit3honeydialogue_8fadb691:
 
     # honeycrisp "Mmphh… *Kiss*… Have a good night, stud…"
-    honeycrisp "Mmphh… *Kiss*… Have a good night, stud…"
+    honeycrisp "嗯……*亲吻*……晚安，帅哥……"
 
 # game/farm.rpy#L2852
 translate chinese farmvisit3honeydialogue_c060d06b:
 
     # mc "You too, sexy."
-    mc "You too, sexy."
+    mc "你也一样，小美人。"
 
 # game/farm.rpy#L2854
 translate chinese farmvisit3honeydialogue_9c44fe0e:
@@ -9716,43 +9716,43 @@ translate chinese farmvisit3honeydialogue_6a358a21:
 translate chinese farmvisit3honeydialogue_bdf7fe63:
 
     # moxie "W-Wah?! You saw me?"
-    moxie "W-Wah?! You saw me?"
+    moxie "什……什么？！你看见我了？"
 
 # game/farm.rpy#L2889
 translate chinese farmvisit3honeydialogue_2ed83991:
 
     # mc "Something wrong?"
-    mc "Something wrong?"
+    mc "有什么问题吗？"
 
 # game/farm.rpy#L2891
 translate chinese farmvisit3honeydialogue_981a5ae7:
 
     # moxie "Noooo, you’re not allowed to see, it’s too embarrassing!"
-    moxie "Noooo, you’re not allowed to see, it’s too embarrassing!"
+    moxie "不不不，你不应该看到我的，太尴尬了！"
 
 # game/farm.rpy#L2892
 translate chinese farmvisit3honeydialogue_9acab0fb:
 
     # mc "But it’s public, everyone can see you."
-    mc "But it’s public, everyone can see you."
+    mc "可那是在公共场所，大家都可以看到你啊。"
 
 # game/farm.rpy#L2894
 translate chinese farmvisit3honeydialogue_51fbed55:
 
     # moxie "You know what I mean airhead, too embarrassing to let you see me do it."
-    moxie "You know what I mean airhead, too embarrassing to let you see me do it."
+    moxie "你知道我是什么意思，笨蛋。让你看见我都做了些什么真是太尴尬了。"
 
 # game/farm.rpy#L2895
 translate chinese farmvisit3honeydialogue_21dd1951:
 
     # mc "I don’t think I understand what you mean at all, haha."
-    mc "I don’t think I understand what you mean at all, haha."
+    mc "我好像根本就不知道你这话是什么意思，哈哈。"
 
 # game/farm.rpy#L2896
 translate chinese farmvisit3honeydialogue_f01b344f:
 
     # moxie "Then how about I watch you next time you go have sex with someone, huh?"
-    moxie "Then how about I watch you next time you go have sex with someone, huh?"
+    moxie "下次如果是我看到你在和别人啪啪啪会怎么样呢，嗯？"
 
 # game/farm.rpy#L2897
 translate chinese farmvisit3honeydialogue_e8fa3aee:
@@ -9866,19 +9866,19 @@ translate chinese farmvisit3honeydialogue_3e477658:
 translate chinese honeycrisptalk_c29bdbc0:
 
     # honeycrisp "Ever since you came along things have been going so well lately."
-    honeycrisp "Ever since you came along things have been going so well lately."
+    honeycrisp "自从你来了以后，最近很多事都进行得特别顺利。"
 
 # game/farm.rpy#L2934
 translate chinese honeycrisptalk_478e5449:
 
     # mc "Don't forget the work your sister and Anna did, I was only a small part of that."
-    mc "Don't forget the work your sister and Anna did, I was only a small part of that."
+    mc "可别忘了你妹妹和Anna的努力，我的贡献简直微乎其微。"
 
 # game/farm.rpy#L2935
 translate chinese honeycrisptalk_270a277b:
 
     # honeycrisp "Ay, but sometimes the smallest cog is required to make the machine run."
-    honeycrisp "Ay, but sometimes the smallest cog is required to make the machine run."
+    honeycrisp "是啊，但有时候为了能让机器运转，最小的齿轮也是必不可少的。"
 
 # game/farm.rpy#L2936
 translate chinese honeycrisptalk_b3f5e087:
@@ -9890,25 +9890,25 @@ translate chinese honeycrisptalk_b3f5e087:
 translate chinese honeycrisptalk_9ad2b2a4:
 
     # honeycrisp "Sometimes you're so alone, and you work so hard you forget what the outside world is like."
-    honeycrisp "Sometimes you're so alone, and you work so hard you forget what the outside world is like."
+    honeycrisp "有些时候你真的是太孤独了。你特别努力地工作，所以连外面的世界是什么样都已经忘了。"
 
 # game/farm.rpy#L2938
 translate chinese honeycrisptalk_27b311ae:
 
     # mc "It's good to reach out and reconnect with friends and family every so often."
-    mc "It's good to reach out and reconnect with friends and family every so often."
+    mc "所以能和亲朋好友再次取得联系是件很不错的事。"
 
 # game/farm.rpy#L2939
 translate chinese honeycrisptalk_c8831af2:
 
     # mc "You need to remember that you're not alone, and you can get the support you need."
-    mc "You need to remember that you're not alone, and you can get the support you need."
+    mc "你要记住，你并非孤身一马，你总会得到你想要的帮助和支持。"
 
 # game/farm.rpy#L2940
 translate chinese honeycrisptalk_b9b47848:
 
     # honeycrisp "You're right stud, but you forget that one of the hardest steps sometimes is reaching out and accepting that support."
-    honeycrisp "You're right stud, but you forget that one of the hardest steps sometimes is reaching out and accepting that support."
+    honeycrisp "帅哥，你说的不错。但你可别忘了，有时候向他马求援并接受帮助，恰恰是最困难的那一步。"
 
 # game/farm.rpy#L2941
 translate chinese honeycrisptalk_1515dec5:
@@ -9920,13 +9920,13 @@ translate chinese honeycrisptalk_1515dec5:
 translate chinese honeycrisptalk_2748889b:
 
     # mc "Now you're working closely with Anna and have an employee, what are your plans for the future?"
-    mc "Now you're working closely with Anna and have an employee, what are your plans for the future?"
+    mc "你现在已经可以和Anna融洽地合作了，而且你们还找到了一个新雇员。你对未来有什么打算吗？"
 
 # game/farm.rpy#L2944
 translate chinese honeycrisptalk_d28ab7c7:
 
     # honeycrisp "Hmm, good question stud."
-    honeycrisp "Hmm, good question stud."
+    honeycrisp "嗯，帅哥，这问题问得好。"
 
 # game/farm.rpy#L2945
 translate chinese honeycrisptalk_3178dc76:
@@ -10010,19 +10010,19 @@ translate chinese honeycrisptalk_1b24cf62:
 translate chinese honeycrisptalk_dcd5dfe4:
 
     # mc "How did you become a farmer?"
-    mc "How did you become a farmer?"
+    mc "你是怎么当上农场主的？"
 
 # game/farm.rpy#L2963
 translate chinese honeycrisptalk_a629f95d:
 
     # honeycrisp "It has always been in my blood, stud. Hey, that rhymed!"
-    honeycrisp "It has always been in my blood, stud. Hey, that rhymed!"
+    honeycrisp "农场主的血流淌在我身体中，老兄。嘿，这句押韵了！"
 
 # game/farm.rpy#L2964
 translate chinese honeycrisptalk_5e8243cc:
 
     # honeycrisp "I helped out paps ever since I was a tiny girl."
-    honeycrisp "I helped out paps ever since I was a tiny girl."
+    honeycrisp "在我小时候，我就去帮我爹干活了。"
 
 # game/farm.rpy#L2965
 translate chinese honeycrisptalk_5c135b08:
@@ -10178,7 +10178,7 @@ translate chinese honeyblossomthreesome_7e821a75:
 translate chinese honeyblossomthreesome_6226daad:
 
     # blossom "Haahh, yesshh… This is so good, I’m so glad the three of us can enjoy this together…"
-    blossom "Haahh, yesshh… This is so good, I’m so glad the three of us can enjoy this together…"
+    blossom "哈啊，好……好舒服……太棒了，咱们仨能在一起享受这一切，我真是太高兴了……"
 
 # game/farm.rpy#L3007
 translate chinese honeyblossomthreesome_1d0aac42:
@@ -10232,7 +10232,7 @@ translate chinese honeyblossomthreesome_201a20d2:
 translate chinese honeyblossomthreesome_00bae2c4:
 
     # blossom "Ooohh, mmmphhh, s-so good!"
-    blossom "Ooohh, mmmphhh, s-so good!"
+    blossom "哦~，嗯嗯嗯~，太……太棒了！"
 
 # game/farm.rpy#L3027
 translate chinese honeyblossomthreesome_765287f5:
@@ -11636,19 +11636,19 @@ translate chinese annamilkingevent_c137b0e8:
 translate chinese annamilkingevent_7ddedb96:
 
     # "Her insides contract around my cock and she squirts again, but all I can concentrate on is fucking. The pleasure is indescribable, I can’t hold on much longer, I’ll cum any second."
-    "Her insides contract around my cock and she squirts again, but all I can concentrate on is fucking. The pleasure is indescribable, I can’t hold on much longer, I’ll cum any second."
+    "在肉壁紧紧包裹住我肉棒的同时，她又一次高潮了。但此时的我，除了专心爱爱外，已经顾不上其他的事了。这种快感完全无法用语言形容。我再也坚持不住了，随时都有射出来的可能。"
 
 # game/farm.rpy#L3553
 translate chinese annamilkingevent_08a3033c:
 
     # "My vision turns white, and my muscles tense up as I ejaculate thick ropes of semen deep into her womb."
-    "My vision turns white, and my muscles tense up as I ejaculate thick ropes of semen deep into her womb."
+    "在我爆射时，浓稠的精液喷涌而出，射进了她的子宫。同时，我的肌肉紧绷起来，眼前变得一片空白。"
 
 # game/farm.rpy#L3558
 translate chinese annamilkingevent_f33baaac:
 
     # anna "Aiiieeee, you’re cumming! Ahhhh…"
-    anna "Aiiieeee, you’re cumming! Ahhhh…"
+    anna "啊噫噫噫，你射了！啊啊啊……"
 
 # game/farm.rpy#L3563
 translate chinese annamilkingevent_fba94218:
@@ -11660,37 +11660,37 @@ translate chinese annamilkingevent_fba94218:
 translate chinese annamilkingevent_7152d368:
 
     # honeycrisp "Mmm, damn stud, leave some for me…"
-    honeycrisp "Mmm, damn stud, leave some for me…"
+    honeycrisp "嗯，我去，帅哥，也给我留点嘛……"
 
 # game/farm.rpy#L3565
 translate chinese annamilkingevent_6523a26d:
 
     # anna "So much inside me… I have so much of your cum in my belly and womb…"
-    anna "So much inside me… I have so much of your cum in my belly and womb…"
+    anna "里面好胀呀……我的肚子和子宫都被你这家伙的精液填满了呢……"
 
 # game/farm.rpy#L3567
 translate chinese annamilkingevent_122230c2:
 
     # "I pull out and copious amounts of cum oozes out of her pussy."
-    "I pull out and copious amounts of cum oozes out of her pussy."
+    "在我将肉棒抽出后，精液就开始从她的小穴里哗啦啦地流淌出来。"
 
 # game/farm.rpy#L3569
 translate chinese annamilkingevent_fadd2422:
 
     # honeycrisp "Hope y'all didn’t forget about me, I'm paying ya to stick that semen coated cock straight inside me!"
-    honeycrisp "Hope y'all didn’t forget about me, I'm paying ya to stick that semen coated cock straight inside me!"
+    honeycrisp "帅哥，希望你别忘了我，快把你那根粘粘的大棒棒插到我身体里吧，我会给你报酬的！"
 
 # game/farm.rpy#L3570
 translate chinese annamilkingevent_7a47d615:
 
     # "I shuffle over to Honey with my erection in hand. Thanks to the aphrodisiac’s effects getting stronger, I’m ready to go immediately."
-    "I shuffle over to Honey with my erection in hand. Thanks to the aphrodisiac’s effects getting stronger, I’m ready to go immediately."
+    "我握住自己坚挺的肉棒，然后转向了Honey。催情药的药效越发强烈了。多亏了它，我马上就进入了状态。"
 
 # game/farm.rpy#L3571
 translate chinese annamilkingevent_e36635b6:
 
     # "Honey presents her pussy to me by spreading her outer lips out with her fingers. She’s utterly soaked."
-    "Honey presents her pussy to me by spreading her outer lips out with her fingers. She’s utterly soaked."
+    "Honey用手将自己的外阴扒开，然后将自己的小穴展现在了我的面前。她的下面已经完全湿润了。"
 
 # game/farm.rpy#L3573
 translate chinese annamilkingevent_d7755816:
@@ -13238,7 +13238,7 @@ translate chinese annasex_63d2c0e8:
 translate chinese annasex_1e97493a:
 
     # "About six hours later, it’s evening and the sun has nearly set. Even Anna seems a little tired, she put all the work in for that last ejaculation."
-    "About six hours later, it’s evening and the sun has nearly set. Even Anna seems a little tired, she put all the work in for that last ejaculation."
+    "大约六个小时过后，天色渐晚，太阳也即将落山。尽管Anna看起来有些疲惫，但她还是用尽全力想要享受今天的最后一发。"
 
 # game/farm.rpy#L3993
 translate chinese annasex_a06dd559:
@@ -13256,13 +13256,13 @@ translate chinese annasex_b438b71e:
 translate chinese annasex_71f9d333:
 
     # anna "*Pant, pant* You know… I think…"
-    anna "*Pant, pant* You know… I think…"
+    anna "*喘气* *喘气* 你知道吗……我觉得……"
 
 # game/farm.rpy#L3996
 translate chinese annasex_3f871f46:
 
     # mc "Hmm?"
-    mc "嗯...?"
+    mc "嗯？"
 
 # game/farm.rpy#L3998
 translate chinese annasex_ba016f37:
@@ -13274,7 +13274,7 @@ translate chinese annasex_ba016f37:
 translate chinese annasex_f1678d52:
 
     # "My ears perk up, thankfully I’m not so exhausted I can’t move, I still have to walk home after all."
-    "My ears perk up, thankfully I’m not so exhausted I can’t move, I still have to walk home after all."
+    "我的耳朵立刻竖了起来。谢天谢地，我还没有累到连路都走不了的地步，因为我稍后还要走回家呢。"
 
 # game/farm.rpy#L4000
 translate chinese annasex_8f1cb80c:
@@ -13286,7 +13286,7 @@ translate chinese annasex_8f1cb80c:
 translate chinese annasex_de8e5984:
 
     # anna "Yeah… Usually there’s this tingling inbetween my legs all the time during heat, but it’s gone!"
-    anna "Yeah… Usually there’s this tingling inbetween my legs all the time during heat, but it’s gone!"
+    anna "是啊……每到发情期，我两腿之间就会有痒痒的感觉。但现在这感觉消失了！"
 
 # game/farm.rpy#L4002
 translate chinese annasex_295de33c:
@@ -13562,7 +13562,7 @@ translate chinese farmsexduringwork_67e5d33f:
 translate chinese farmsexduringwork_5ad35b25:
 
     # honeycrisp "Mmmpphh, go on stud, fill ‘er up."
-    honeycrisp "Mmmpphh, go on stud, fill ‘er up."
+    honeycrisp "嗯嗯嗯，帅哥，继续，把她射满。"
 
 # game/farm.rpy#L4061
 translate chinese farmsexduringwork_392c0d2d:

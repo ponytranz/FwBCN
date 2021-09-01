@@ -12908,7 +12908,7 @@ translate chinese penelopetalk_6473ce33:
 translate chinese penelopetalk_70234848:
 
     # penelope "'Close'... is a questionable term with Morrigan, I think she sees everyone as expendeable. Even while we were lovers, I think she was just using me to get energy via sex."
-    penelope "'Close'... is a questionable term with Morrigan, I think she sees everyone as expendeable. Even while we were lovers, I think she was just using me to get energy via sex."
+    penelope "“关系好”……对Morrigan而言可能不值一提，我觉得她视所有人为消耗品。甚至在恋爱时，我就感觉她只是利用我，通过性爱来获取能量。"
 
 # game/library.rpy#L3815
 translate chinese penelopetalk_d1e12be3:
@@ -12968,31 +12968,31 @@ translate chinese penelopetalk_d3a9dda9:
 translate chinese penelopesex_5ce83f7e:
 
     # penelope "Ahh, up for practicing some girl lovin'?"
-    penelope "Ahh, up for practicing some girl lovin'?"
+    penelope "噢对，准备好尝试下女生间的爱爱了吗？"
 
 # game/library.rpy#L3839
 translate chinese penelopesex_c92bdf57:
 
     # mc "Sure thing, no holding back."
-    mc "Sure thing, no holding back."
+    mc "当然，不必犹豫。"
 
 # game/library.rpy#L3840
 translate chinese penelopesex_53be0bf3:
 
     # penelope "You could tell I was holding back before? Hehe."
-    penelope "You could tell I was holding back before? Hehe."
+    penelope "你知道我一直抑制着吗？哈哈。"
 
 # game/library.rpy#L3846
 translate chinese penelopesex_74b6e9d5:
 
     # "Almost catching me off guard, Penny’s horn flashes, and I feel a surge of magic surround me. Within a painless instant, I find myself miraculously possessing a female body."
-    "Almost catching me off guard, Penny’s horn flashes, and I feel a surge of magic surround me. Within a painless instant, I find myself miraculously possessing a female body."
+    "不等我反应过来，Penny的独角亮起，我顿时感到大量魔法涌现，包围着我。一瞬之间，毫无痛感，我便发现自己已成女性躯体，实在神奇非凡。"
 
 # game/library.rpy#L3847
 translate chinese penelopesex_01b17e16:
 
     # "As before, my senses don’t immediately register the addition of breasts or the loss of my male genitalia. This bizarre phantom feeling eventually fades."
-    "As before, my senses don’t immediately register the addition of breasts or the loss of my male genitalia. This bizarre phantom feeling eventually fades."
+    "我的意识保有惯性，并未立即接纳增大的乳房和新生殖器。这奇异的错位感最终渐渐消失。"
 
 # game/library.rpy#L3852
 translate chinese penelopesex_7f30e798:
@@ -13010,13 +13010,13 @@ translate chinese penelopesex_63a946fb:
 translate chinese penelopesex_f040f6aa:
 
     # penelope "How could I not? Hehe."
-    penelope "How could I not? Hehe."
+    penelope "控制不住呢，哈哈。"
 
 # game/library.rpy#L3863
 translate chinese penelopesex_ea04e51a:
 
     # penelope "This spell always turns me on."
-    penelope "This spell always turns me on."
+    penelope "这个魔咒总能让我起感觉。"
 
 # game/library.rpy#L3869
 translate chinese penelopesex_d1a88e5a:
