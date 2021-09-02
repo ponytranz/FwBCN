@@ -4580,31 +4580,31 @@ translate chinese annamilking_e2f82f32:
 translate chinese annamilking_2415243e:
 
     # honeycrisp "Mmm, that’s what I like about you stud, always willing to try your hardest."
-    honeycrisp "Mmm, that’s what I like about you stud, always willing to try your hardest."
+    honeycrisp "嗯，这就是我喜欢你的地方，帅哥，因为你总是想尝试最有挑战性的事。"
 
 # game/farm.rpy#L1424
 translate chinese annamilking_55eeb3f9:
 
     # "Honey kneels closely beside me and reaches out for my penis, exploring it clumsily with her left hand. Anna gasps as she watches in awe."
-    "Honey kneels closely beside me and reaches out for my penis, exploring it clumsily with her left hand. Anna gasps as she watches in awe."
+    "Honey跪在我身后，然后伸出左手，笨拙地去摸我的肉棒。而Anna则在一边惊讶地看着，一边轻轻喘着气。"
 
 # game/farm.rpy#L1426
 translate chinese annamilking_6e0225ee:
 
     # honeycrisp "It’s difficult with my left hand."
-    honeycrisp "It’s difficult with my left hand."
+    honeycrisp "左手好难用啊。"
 
 # game/farm.rpy#L1427
 translate chinese annamilking_c11b03d8:
 
     # "She begins jerking me off lightly."
-    "She begins jerking me off lightly."
+    "随后，她开始用左手轻轻地撸动起我的肉棒。"
 
 # game/farm.rpy#L1429
 translate chinese annamilking_dd7ac9fa:
 
     # honeycrisp "You have no idea how much I want to ride your cock right now. But that wouldn’t be fair for Anna…"
-    honeycrisp "You have no idea how much I want to ride your cock right now. But that wouldn’t be fair for Anna…"
+    honeycrisp "你根本不知道我现在有多想骑到你的大棒棒上，但这么做对Anna不太公平……"
 
 # game/farm.rpy#L1431
 translate chinese annamilking_4e314ec3:
@@ -4622,7 +4622,7 @@ translate chinese annamilking_954beefd:
 translate chinese annamilking_39036f8c:
 
     # honeycrisp "Over here Anna, copy me."
-    honeycrisp "Over here Anna, copy me."
+    honeycrisp "快过来，Anna，模仿我的动作。"
 
 # game/farm.rpy#L1436
 translate chinese annamilking_07e5ff0a:
@@ -4634,25 +4634,25 @@ translate chinese annamilking_07e5ff0a:
 translate chinese honeyannathreesome_2dd62f4f:
 
     # "Honey gets on her knees and presents her ass, using the hay bales to hold her up."
-    "Honey gets on her knees and presents her ass, using the hay bales to hold her up."
+    "Honey靠在身边的干草堆旁，跪坐下来，然后将自己的臀部展现了出来。"
 
 # game/farm.rpy#L1443
 translate chinese honeyannathreesome_0194d0dc:
 
     # anna "Oh my… Such a lewd pose…"
-    anna "Oh my… Such a lewd pose…"
+    anna "哦，我的天……这姿势可真色……"
 
 # game/farm.rpy#L1445
 translate chinese honeyannathreesome_327c176a:
 
     # anna "Okay, okay! I can’t hold on anymore."
-    anna "Okay, okay! I can’t hold on anymore."
+    anna "好了，好了！我再也忍不住了。"
 
 # game/farm.rpy#L1450
 translate chinese honeyannathreesome_77ce61ca:
 
     # "Anna scurries over and mirrors Honey’s pose, leaving me with two amazing asses presenting themselves to me. Their pussies both dripping wet, needy and in heat."
-    "Anna scurries over and mirrors Honey’s pose, leaving me with two amazing asses presenting themselves to me. Their pussies both dripping wet, needy and in heat."
+    "Anna急忙跑过来模仿起Honey的动作，也将自己的臀部展示在了我面前。此时，展现在我面前的，是两只让人欲罢不能的丰臀。同时，她们两人湿漉漉的小穴也变得欲火中烧，充满了欲望。"
 
 # game/farm.rpy#L1451
 translate chinese honeyannathreesome_7cf93b6f:
@@ -4670,7 +4670,7 @@ translate chinese honeyannathreesome_4931417f:
 translate chinese honeyannathreesome_28b8986b:
 
     # "I position my cock at her pussy and slowly push forward, easily sinking inside, her warmth is inviting and squeezes against my shaft."
-    "I position my cock at her pussy and slowly push forward, easily sinking inside, her warmth is inviting and squeezes against my shaft."
+    "我将肉棒顶端抵在她的小穴前，然后向前轻轻一推，肉棒就轻轻松松地滑进了她那紧致、温暖而充满渴望的蜜穴之中。"
 
 # game/farm.rpy#L1456
 translate chinese honeyannathreesome_e767d2e8:
@@ -4682,7 +4682,7 @@ translate chinese honeyannathreesome_e767d2e8:
 translate chinese honeyannathreesome_d0916f7f:
 
     # "Anna’s whole body reacts with a shiver of pleasure, culminating in a loud moan that escapes her mouth and echoes off the barn walls."
-    "Anna’s whole body reacts with a shiver of pleasure, culminating in a loud moan that escapes her mouth and echoes off the barn walls."
+    "Anna的全身因快感而颤抖起来。与此同时，她口中还传出了一声娇喘。这呻吟声在谷仓的四壁间久久回荡。而且声音十分响亮。"
 
 # game/farm.rpy#L1458
 translate chinese honeyannathreesome_e5ceaec1:
@@ -4700,7 +4700,7 @@ translate chinese honeyannathreesome_9562e2d5:
 translate chinese honeyannathreesome_7ba7af1d:
 
     # "I can see Honey biting her lip as she looks on, her left hand is between her legs, prepared to rub herself as she watches and waits for her turn."
-    "I can see Honey biting her lip as she looks on, her left hand is between her legs, prepared to rub herself as she watches and waits for her turn."
+    "我看到，Honey正一边旁观，一边咬着自己的双唇。同时，在旁观和等待的过程中，她还将左手放在两腿之间，摩擦着自己的私处。"
 
 # game/farm.rpy#L1461
 translate chinese honeyannathreesome_c0f2f678:
@@ -4736,7 +4736,7 @@ translate chinese honeyannathreesome_06572e53:
 translate chinese honeyannathreesome_3ef1a9f8:
 
     # anna "This is the best thing ever! Ahhhh! Ahhh!"
-    anna "This is the best thing ever! Ahhhh! Ahhh!"
+    anna "这永远都是世界上最爽的事！啊！啊啊啊！"
 
 # game/farm.rpy#L1469
 translate chinese honeyannathreesome_5b59bc17:
@@ -4772,13 +4772,13 @@ translate chinese honeyannathreesome_08b2008a:
 translate chinese honeyannathreesome_d8216572:
 
     # "She can barely contain herself, she’s in complete ecstasy."
-    "She can barely contain herself, she’s in complete ecstasy."
+    "此时的她已经沉浸在了无比的快感之中，完全不能自拔了。"
 
 # game/farm.rpy#L1475
 translate chinese honeyannathreesome_e830a787:
 
     # anna "Ahh, k-keep going, I’m… Aaaiiiieeeee!"
-    anna "Ahh, k-keep going, I’m… Aaaiiiieeeee!"
+    anna "啊，继……继续，我要……呀啊啊啊！"
 
 # game/farm.rpy#L1476
 translate chinese honeyannathreesome_dcadca96:
@@ -4796,7 +4796,7 @@ translate chinese honeyannathreesome_017b790a:
 translate chinese honeyannathreesome_25df125a:
 
     # anna "Gosh, so good… D-don’t stop! I want more!"
-    anna "Gosh, so good… D-don’t stop! I want more!"
+    anna "天哪，太爽了……别……别停！我还要！"
 
 # game/farm.rpy#L1479
 translate chinese honeyannathreesome_2cb13fb9:
@@ -4820,31 +4820,31 @@ translate chinese honeyannathreesome_d288db84:
 translate chinese honeyannathreesome_e35957a6:
 
     # anna "Ahh! C-Cum inside me, I want it all!"
-    anna "Ahh! C-Cum inside me, I want it all!"
+    anna "啊！射……射进来吧，全都射进来吧，我都想要！"
 
 # game/farm.rpy#L1483
 translate chinese honeyannathreesome_67887f81:
 
     # "Her words enthuse me as my orgasm begins to swell up, her pussy feels euphoric right now. "
-    "Her words enthuse me as my orgasm begins to swell up, her pussy feels euphoric right now. "
+    "在我离高潮越来越近的时候，她的这番话让我兴奋不已。此时，她蜜穴的感觉真的是妙不可言。"
 
 # game/farm.rpy#L1484
 translate chinese honeyannathreesome_c137b0e8:
 
     # anna "It feels so good, I-I’m going to... Again!"
-    anna "It feels so good, I-I’m going to... Again!"
+    anna "这感觉好爽，我……我要去……又要去了！"
 
 # game/farm.rpy#L1485
 translate chinese honeyannathreesome_61505bdc:
 
     # "Her insides contract around my cock and she squirts even more this time, but all I can concentrate on is fucking. The pleasure is indescribable, I can’t hold on much longer, I’ll cum any second."
-    "Her insides contract around my cock and she squirts even more this time, but all I can concentrate on is fucking. The pleasure is indescribable, I can’t hold on much longer, I’ll cum any second."
+    "在肉壁紧紧包裹住我肉棒的同时，她又一次高潮了。但此时的我，除了专心爱爱外，已经顾不上其他的事了。这种快感完全无法用语言形容。我再也坚持不住了，随时都有射出来的可能。"
 
 # game/farm.rpy#L1490
 translate chinese honeyannathreesome_8f5a22cb:
 
     # "My vision turns white and my muscles tense up as I ejaculate inside her, cumming just as much as the last time, countless loads deep inside her."
-    "My vision turns white and my muscles tense up as I ejaculate inside her, cumming just as much as the last time, countless loads deep inside her."
+    "在我爆射时，浓稠的精液喷涌而出，射进了她的子宫。同时，我的肌肉紧绷起来，眼前变得一片空白。"
 
 # game/farm.rpy#L1495
 translate chinese honeyannathreesome_f33baaac:
@@ -4892,7 +4892,7 @@ translate chinese honeyannathreesome_84c5d995:
 translate chinese honeyannathreesome_1b3269ec:
 
     # "I shuffle over to Honey with my erection in hand, it’s slightly softened but thanks to the aphrodisiac’s effects getting stronger I think I’m ready to go immediately."
-    "I shuffle over to Honey with my erection in hand, it’s slightly softened but thanks to the aphrodisiac’s effects getting stronger I think I’m ready to go immediately."
+    "我握住自己坚挺的肉棒，然后转向了Honey。催情药的药效越发强烈了。虽然肉棒还没有完全坚挺起来，但多亏了它，我马上就进入了状态。"
 
 # game/farm.rpy#L1510
 translate chinese honeyannathreesome_649ba04a:
@@ -4934,7 +4934,7 @@ translate chinese honeyannathreesome_f1e114bc:
 translate chinese honeyannathreesome_a5d9659a:
 
     # honeycrisp "Ahhh, darn… That’s really good…"
-    honeycrisp "Ahhh, darn… That’s really good…"
+    honeycrisp "啊，老天……太舒服了……"
 
 # game/farm.rpy#L1520
 translate chinese honeyannathreesome_d55fe4ea:
@@ -4952,7 +4952,7 @@ translate chinese honeyannathreesome_5639b056:
 translate chinese honeyannathreesome_a3c13b7a:
 
     # honeycrisp "Mmmm, keep going like that, just like that."
-    honeycrisp "Mmmm, keep going like that, just like that."
+    honeycrisp "嗯嗯嗯，继续，就是这样。"
 
 # game/farm.rpy#L1523
 translate chinese honeyannathreesome_61a2e50d:
@@ -4976,7 +4976,7 @@ translate chinese honeyannathreesome_12a22188:
 translate chinese honeyannathreesome_160039f1:
 
     # anna "Spank her butt, [playername]! Spankies!"
-    anna "Spank her butt, [playername]! Spankies!"
+    anna "拍她的屁股，[playername]！使劲拍啊！"
 
 # game/farm.rpy#L1529
 translate chinese honeyannathreesome_e5c8b463:
@@ -5030,7 +5030,7 @@ translate chinese honeyannathreesome_85df7f56:
 translate chinese honeyannathreesome_25bf3060:
 
     # honeycrisp "Aahhhh, ahhhhh, coming! Mmmm…!"
-    honeycrisp "Aahhhh, ahhhhh, coming! Mmmm…!"
+    honeycrisp "啊啊啊，啊啊啊，要去了！唔唔唔……！"
 
 # game/farm.rpy#L1541
 translate chinese honeyannathreesome_3fb4f969:
@@ -9932,7 +9932,7 @@ translate chinese honeycrisptalk_d28ab7c7:
 translate chinese honeycrisptalk_3178dc76:
 
     # honeycrisp "Ya see, I was never the planner in the farm, that was always paps. He always had a plan and ambition."
-    honeycrisp "Ya see, I was never the planner in the farm, that was always paps. He always had a plan and ambition."
+    honeycrisp "要知道，过去我可不是农场里搞决策的那个人，这些事都是老爹负责的。他总是有新计划，也很有抱负。"
 
 # game/farm.rpy#L2947
 translate chinese honeycrisptalk_dcf3088d:
@@ -10004,7 +10004,7 @@ translate chinese honeycrisptalk_9665e56c:
 translate chinese honeycrisptalk_1b24cf62:
 
     # honeycrisp "Guess I'll have to think about it more now, thanks stud."
-    honeycrisp "Guess I'll have to think about it more now, thanks stud."
+    honeycrisp "我想，我现在得多多考虑这个问题了，谢了，老兄。"
 
 # game/farm.rpy#L2962
 translate chinese honeycrisptalk_dcd5dfe4:
