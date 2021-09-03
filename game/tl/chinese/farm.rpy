@@ -9938,67 +9938,67 @@ translate chinese honeycrisptalk_3178dc76:
 translate chinese honeycrisptalk_dcf3088d:
 
     # honeycrisp "Which is why it felt so icky for him to pass in his prime, he had so much spirit in him."
-    honeycrisp "Which is why it felt so icky for him to pass in his prime, he had so much spirit in him."
+    honeycrisp "也正因如此，他在盛年早逝才令马万分惋惜，他真的是充满雄心壮志啊！"
 
 # game/farm.rpy#L2948
 translate chinese honeycrisptalk_e828c7c6:
 
     # honeycrisp "Never got to see the fruit of his work, or even the opportunity to have grandkids."
-    honeycrisp "Never got to see the fruit of his work, or even the opportunity to have grandkids."
+    honeycrisp "现在再也看不到他努力的成果了，而他连抱抱孙子孙女的机会都没有了。"
 
 # game/farm.rpy#L2949
 translate chinese honeycrisptalk_6fe16401:
 
     # "See sighs and tears up slightly, it's clear that the memories are still painful."
-    "See sighs and tears up slightly, it's clear that the memories are still painful."
+    "她发出一声轻叹，眼角也泛起了泪花。很显然，这段记忆依然让她痛心切骨。"
 
 # game/farm.rpy#L2950
 translate chinese honeycrisptalk_40ce2210:
 
     # mc "I've never actually asked because it felt like a sensitive topic, but how did he pass?"
-    mc "I've never actually asked because it felt like a sensitive topic, but how did he pass?"
+    mc "因为考虑到这个话题很敏感，所以我一直没有问过这件事。不过，他老人家是怎么过世的呢？"
 
 # game/farm.rpy#L2951
 translate chinese honeycrisptalk_38df6292:
 
     # honeycrisp "He didn't even get to die in an interesting way, it was a disease that caused him to deteriorate so fast."
-    honeycrisp "He didn't even get to die in an interesting way, it was a disease that caused him to deteriorate so fast."
+    honeycrisp "他的死也没有什么特别的。一场重病让他的身体每况愈下。"
 
 # game/farm.rpy#L2952
 translate chinese honeycrisptalk_a1047ff6:
 
     # honeycrisp "Paps was healthy one moment, and in the next week he was immobilised in hospital, and then in a month..."
-    honeycrisp "Paps was healthy one moment, and in the next week he was immobilised in hospital, and then in a month..."
+    honeycrisp "老爹的身体原本很健康，可一个星期之后，他就住院了。但一个月之后……"
 
 # game/farm.rpy#L2953
 translate chinese honeycrisptalk_b755efd8:
 
     # mc "It's shocking how fast it can happen sometimes."
-    mc "It's shocking how fast it can happen sometimes."
+    mc "真是病来如山倒啊。"
 
 # game/farm.rpy#L2954
 translate chinese honeycrisptalk_a2e08a2d:
 
     # mc "What about your mother, is she not around?"
-    mc "What about your mother, is she not around?"
+    mc "那你妈妈呢？她没陪在你爸爸身边吗？"
 
 # game/farm.rpy#L2955
 translate chinese honeycrisptalk_6308f9eb:
 
     # honeycrisp "Nah, we're estranged from her. I have no idea where she is, or what she's doing."
-    honeycrisp "Nah, we're estranged from her. I have no idea where she is, or what she's doing."
+    honeycrisp "没有，我们已经和她分家了。我不知道她去哪儿了，也不知道她现在在干什么。"
 
 # game/farm.rpy#L2956
 translate chinese honeycrisptalk_8f23da94:
 
     # honeycrisp "My paps was a single father for years, quite a rare case in Arcadia. After mother left, he didn't care much for dating, Blossom and I were always his priority."
-    honeycrisp "My paps was a single father for years, quite a rare case in Arcadia. After mother left, he didn't care much for dating, Blossom and I were always his priority."
+    honeycrisp "我老爹做了很多年的单身父亲，这种情况在Arcadia是很少见的。自从我妈走了之后，他就很少把心思放到相亲的事上了。相反，他把精力全部投入到了我和Blossom身上。"
 
 # game/farm.rpy#L2958
 translate chinese honeycrisptalk_9665e56c:
 
     # honeycrisp "Gosh, anyway... Sorry to bore you with that tangent, you asked me if I had any plans for the future."
-    honeycrisp "天哪，无论如何...我为我用那个话题而抱歉，你问过我有没有任何未来的计划。"
+    honeycrisp "天哪，算了……抱歉，我又跑题了，和你说了那么多无聊的事。对了，你刚才问我有没有考虑过未来的事对吧。"
 
 # game/farm.rpy#L2960
 translate chinese honeycrisptalk_1b24cf62:
@@ -10028,115 +10028,115 @@ translate chinese honeycrisptalk_5e8243cc:
 translate chinese honeycrisptalk_5c135b08:
 
     # honeycrisp "Back then he'd give me small 'made up' jobs for fun, like uh, raking the leaves!"
-    honeycrisp "Back then he'd give me small 'made up' jobs for fun, like uh, raking the leaves!"
+    honeycrisp "那时候，他会给我安排一些“很有趣”的小活儿，就比如耙树叶！"
 
 # game/farm.rpy#L2966
 translate chinese honeycrisptalk_425dd5a2:
 
     # mc "You've never considered any other work?"
-    mc "You've never considered any other work?"
+    mc "你就从来没考虑过其他的工作吗？"
 
 # game/farm.rpy#L2967
 translate chinese honeycrisptalk_62129e5a:
 
     # honeycrisp "I mean it's a farce ain't it. I'd probably have to sell the farm, and that's been in our family for longer than I know."
-    honeycrisp "I mean it's a farce ain't it. I'd probably have to sell the farm, and that's been in our family for longer than I know."
+    honeycrisp "我的意思是，这就像是场闹剧，对不对？这座农场已经陪伴我们家很长很长时间了，但或许某一天，我可能真的会把它卖掉。"
 
 # game/farm.rpy#L2968
 translate chinese honeycrisptalk_a863d095:
 
     # honeycrisp "But I don't mind being a farmer for the rest of mah days, it's incredibly satisfying work, and every evening is free time so I never burn out."
-    honeycrisp "But I don't mind being a farmer for the rest of mah days, it's incredibly satisfying work, and every evening is free time so I never burn out."
+    honeycrisp "但如果真做一辈子农场主的话，我也不介意，因为这工作特别有满足感，而且每天晚上都有休息时间，所以一点都不觉得累。"
 
 # game/farm.rpy#L2969
 translate chinese honeycrisptalk_e8579f29:
 
     # mc "You reckon your children will run the farm then?"
-    mc "You reckon your children will run the farm then?"
+    mc "你想让你的孩子继续经营这座农场吗？"
 
 # game/farm.rpy#L2970
 translate chinese honeycrisptalk_3f03d75c:
 
     # honeycrisp "Hah, I don't tend to think that far forward in mah life, I just meander mah way through each day."
-    honeycrisp "Hah, I don't tend to think that far forward in mah life, I just meander mah way through each day."
+    honeycrisp "哈，我才不会想那么遥远的事呢，我只想悠闲地过好每一天。"
 
 # game/farm.rpy#L2971
 translate chinese honeycrisptalk_25f60082:
 
     # honeycrisp "What about you? Are you ever going to settle down with a permanent job?"
-    honeycrisp "What about you? Are you ever going to settle down with a permanent job?"
+    honeycrisp "那你呢？你想找份稳定的工作，然后安顿下来吗？"
 
 # game/farm.rpy#L2972
 translate chinese honeycrisptalk_65c3b38c:
 
     # mc "That's a great question, it would probably pay more if I specialised into one career."
-    mc "That's a great question, it would probably pay more if I specialised into one career."
+    mc "这个问题问得好，如果我只专注于一种工作的话，得到的报酬可能会更多。"
 
 # game/farm.rpy#L2974
 translate chinese honeycrisptalk_3cafb849:
 
     # honeycrisp "Y'all always welcome to make working here your career, although if you do we won't be able to have children to run the place after us, ahaha!"
-    honeycrisp "Y'all always welcome to make working here your career, although if you do we won't be able to have children to run the place after us, ahaha!"
+    honeycrisp "虽然咱们俩都不可能有孩子，也没法把农场继承给他们，但如果你真的想在这儿工作的话，我还是会随时欢迎的，啊哈哈！"
 
 # game/farm.rpy#L2975
 translate chinese honeycrisptalk_8dd1e262:
 
     # mc "That's very cheeky of you to presume, haha."
-    mc "That's very cheeky of you to presume, haha."
+    mc "你这猜测也太不厚道了吧，哈哈。"
 
 # game/farm.rpy#L2977
 translate chinese honeycrisptalk_7e3ff788:
 
     # honeycrisp "Now that I've actually got free time, I've been getting out more and visiting friends."
-    honeycrisp "Now that I've actually got free time, I've been getting out more and visiting friends."
+    honeycrisp "因为我的空闲时间很充裕，所以我会经常出门转转，去见见朋友。"
 
 # game/farm.rpy#L2978
 translate chinese honeycrisptalk_26255370:
 
     # mc "Anyone in particular?"
-    mc "Anyone in particular?"
+    mc "那你见没见到过什么特别的马呢？"
 
 # game/farm.rpy#L2979
 translate chinese honeycrisptalk_fac7153e:
 
     # honeycrisp "I like to pop down to the Riding Mare for a pint of cider and Ruby often visits."
-    honeycrisp "I like to pop down to the Riding Mare for a pint of cider and Ruby often visits."
+    honeycrisp "我有空的时候就会到骑驹酒吧喝一品脱苹果酒。Ruby也经常去那儿。"
 
 # game/farm.rpy#L2980
 translate chinese honeycrisptalk_601c5e29:
 
     # honeycrisp "It may be the cider I make, but it's even more satisfying drinking with friends."
-    honeycrisp "It may be the cider I make, but it's even more satisfying drinking with friends."
+    honeycrisp "那里卖的苹果酒可能就是我酿的，但和朋友一起分享的话，我就会有一种很满足的感觉。"
 
 # game/farm.rpy#L2981
 translate chinese honeycrisptalk_bc3b4b2f:
 
     # mc "I should join you sometime."
-    mc "I should join you sometime."
+    mc "看来我如果有空的话，真应该多和你一起走走。"
 
 # game/farm.rpy#L2982
 translate chinese honeycrisptalk_afbdb95d:
 
     # honeycrisp "Absolutely, just visit the bar in the evenings."
-    honeycrisp "Absolutely, just visit the bar in the evenings."
+    honeycrisp "当然没问题了，每天晚上来酒吧找我就可以了。"
 
 # game/farm.rpy#L2983
 translate chinese honeycrisptalk_248c95ac:
 
     # honeycrisp "I'd give you a specific time and date, but the fun of visiting the bar is just seeing who's there!"
-    honeycrisp "I'd give you a specific time and date, but the fun of visiting the bar is just seeing who's there!"
+    honeycrisp "我本打算给你具体日期和时间的，但逛酒吧的乐趣不就是碰运气，看谁也会在里面嘛！"
 
 # game/farm.rpy#L2995
 translate chinese honeyblossomthreesome_91a984ab:
 
     # "The sisters present themselves eagerly on the bed, their pussies soaked with lust and their expression glazed with need and obedience."
-    "The sisters present themselves eagerly on the bed, their pussies soaked with lust and their expression glazed with need and obedience."
+    "姐妹俩迫切而饥渴地躺在床上，她们的小穴因欲望的刺激而湿漉漉的，从她们的表情中可以看出，她们已经被渴望和服从所支配了。"
 
 # game/farm.rpy#L2996
 translate chinese honeyblossomthreesome_d6569a13:
 
     # "My cock is throbbingly erect, I'm going to take my time loving these girls."
-    "My cock is throbbingly erect, I'm going to take my time loving these girls."
+    "我的肉棒颤抖着坚挺了起来。这一次，我要同时照顾两个姑娘了。"
 
 # game/farm.rpy#L2997
 translate chinese honeyblossomthreesome_abc00d61:
@@ -10154,19 +10154,19 @@ translate chinese honeyblossomthreesome_c4d57c1a:
 translate chinese honeyblossomthreesome_622331dc:
 
     # "Blossom lowers her eyes slightly as I lean in. Her expression is shy, but she still licks her lips as my cock nears her aching pussy."
-    "Blossom lowers her eyes slightly as I lean in. Her expression is shy, but she still licks her lips as my cock nears her aching pussy."
+    "当我俯下身去的时候，Blossom微微垂下了她的双眼。随着我的肉棒逐渐接近她饥渴的小穴，她双腮微红，变得有些羞涩，但她仍在舔舐着自己的双唇。"
 
 # game/farm.rpy#L3000
 translate chinese honeyblossomthreesome_88f8d209:
 
     # "She blushes as I take hold of her fuzzy thighs and move closer. I rub the head of my member against her dripping snatch, coating my tip with her wetness."
-    "She blushes as I take hold of her fuzzy thighs and move closer. I rub the head of my member against her dripping snatch, coating my tip with her wetness."
+    "当我抓住她毛茸茸的腿，并向她的方向靠近时，她的脸瞬间变得通红。我将肉棒抵在她湿漉漉的小穴前，然后用龟头摩擦起来。一番摩擦后，肉棒已经完全被浸湿了。"
 
 # game/farm.rpy#L3004
 translate chinese honeyblossomthreesome_cca6efd6:
 
     # "With enough of her juices gleaming on my glans to act as lubricant, I align her slippery pussy with my cock and push forward."
-    "With enough of her juices gleaming on my glans to act as lubricant, I align her slippery pussy with my cock and push forward."
+    "她的爱液在我的龟头上闪闪发光。有了它们来充当润滑剂，我便将肉棒对准她光滑的小穴，然后向前缓缓推进。"
 
 # game/farm.rpy#L3005
 translate chinese honeyblossomthreesome_7e821a75:
