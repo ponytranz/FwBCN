@@ -1670,13 +1670,13 @@ translate chinese musicstudiomenub_9af29cfa:
 translate chinese musicstudiomenub_55156407:
 
     # mc "I can't believe we nearly got caught."
-    mc "难以置信的是我们差一点就被抓住了"
+    mc "我不敢相信我们差一点就被抓住了。"
 
 # game/city.rpy#L575
 translate chinese musicstudiomenub_e0d10466:
 
     # melody "Heh, I was keeping an ear out."
-    melody "嘿，我的耳朵可是一直竖着的"
+    melody "嘿，我的耳朵可是一直竖着的。"
 
 # game/city.rpy#L577
 translate chinese musicstudiomenub_f01908ab:
@@ -1688,7 +1688,7 @@ translate chinese musicstudiomenub_f01908ab:
 translate chinese musicstudiomenub_f921beaf:
 
     # "Upon seeing Melody's erotic form and wet snatch, my cock starts to grow in expectation of the upcoming fuck."
-    "在看到Melody不停自慰，欲求不满的样子之后，我的阴茎极速膨胀，仿佛在期待着即将到来的欢愉"
+    "在看到Melody不停自慰，欲求不满的样子之后，我的阴茎极速膨胀，仿佛在期待着即将到来的欢愉。"
 
 # game/city.rpy#L579
 translate chinese musicstudiomenub_b3facdbd:
@@ -1706,25 +1706,25 @@ translate chinese musicstudiomenub_53292d0d:
 translate chinese musicstudiomenub_c4b5cae3:
 
     # melody "Heh, leave the dirty talking to me. Now, let's fuck!"
-    melody "嘿，别对我说这些毫无营养的话，现在我只想要你的阴茎能更快的与我结合"
+    melody "嘿，别对我说这些毫无营养的话，现在我只想要你的阴茎能更快的与我结合。"
 
 # game/city.rpy#L582
 translate chinese musicstudiomenub_c15ea3e0:
 
     # "She fondles her cute breasts while I get into position next to the table she's laying on."
-    "她不断抚摸着她那乖巧可爱的乳房，而我就坐在她躺着的桌子旁边"
+    "她不断抚摸着她那乖巧可爱的乳房，而我就坐在她躺着的桌子旁边。"
 
 # game/city.rpy#L585
 translate chinese musicstudiomenub_2a57e237:
 
     # "Eagerly I slide the length of my erection inside her pussy, immediately feeling the tender warmth of her insides."
-    "急不可耐的我立刻把完全勃起阴茎插入了她的阴部，那一瞬间我似乎感觉到了她内心深处的温暖与柔软"
+    "急不可耐的我立刻把完全勃起阴茎插入了她的阴部，那一瞬间我似乎感觉到了她内心深处的温暖与柔软。"
 
 # game/city.rpy#L586
 translate chinese musicstudiomenub_779cb4d7:
 
     # melody "Mmmhh, your cock is really moreish."
-    melody "嗯嗯啊啊啊，你的阴茎好像真的能让人上瘾"
+    melody "嗯唔，你的阴茎好像真的能让人上瘾。"
 
 # game/city.rpy#L587
 translate chinese musicstudiomenub_3599e6d5:
@@ -1760,7 +1760,7 @@ translate chinese musicstudiomenub_b7e92999:
 translate chinese musicstudiomenub_0db3595c:
 
     # melody "D-Don't tell me what to do, ahh... Mmmphh..."
-    melody "我…我不需要你来告诉我怎么…怎么做，啊…嗯啊啊"
+    melody "我…我不需要你来告诉我怎么…怎么做，啊…嗯啊啊..."
 
 # game/city.rpy#L597
 translate chinese musicstudiomenub_686c18dd:

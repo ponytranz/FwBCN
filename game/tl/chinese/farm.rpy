@@ -1460,7 +1460,7 @@ translate chinese farmvisit1_8c79da8c:
 translate chinese farmvisit1_2eee4820:
 
     # "I can’t even fathom the emotional turmoil of what she’s going through, yet she still wears a strong smile for me and her sister."
-    "她的思想感情太过于纷繁复杂，我甚至无法理解她所经历的混乱情感，即便如此她仍然对着我和她的姐妹微笑"
+    "她的思想感情太过于纷繁复杂，我甚至无法理解她所经历的混乱情感，即便如此她仍然对着我和她的姐妹微笑。"
 
 # game/farm.rpy#L487
 translate chinese farmvisit1_4da248f3:

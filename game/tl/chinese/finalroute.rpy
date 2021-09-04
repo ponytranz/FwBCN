@@ -2168,7 +2168,7 @@ translate chinese cfarm_0b28be29:
 translate chinese cboutique_b96629a0:
 
     # "I don't have enough time to meet with Ruby and the devil, I need to complete my sleeping mission!"
-    "我可没有更多的时间去见Ruby或者是那只devil兔子，我现在必须要睡觉，这是使我人生圆满的一个重要任务"
+    "我可没有更多的时间去见Ruby或者是那只devil兔子，我现在必须要睡觉，这是使我人生圆满的一个重要任务！"
 
 # game/finalroute.rpy#L922
 translate chinese cboutique_2c0accfb:
@@ -3386,7 +3386,7 @@ translate chinese cbar2_60f323a4:
 translate chinese cbar2_2b65c5ba:
 
     # "I give Riku a quick explanation of the events, and she agrees to meet at Lily’s tree at the designated time."
-    "我快速地向Riku解释了事情的经过，她也同意在指定的时间在Lily的树上会面。"
+    "我快速地向Riku解释了事情的经过，她也同意在指定的时间于Lily的树屋会面。"
 
 # game/finalroute.rpy#L1292
 translate chinese cbar2_9a8e3880:

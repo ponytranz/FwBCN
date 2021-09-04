@@ -12878,7 +12878,7 @@ translate chinese penelopetalk_0d8b5189:
 translate chinese penelopetalk_0978228b:
 
     # penelope "While I was trying to better Moxie-Morrigan, I did notice some improvement, but it seems like that improvement was entirely levied by Moxie."
-    penelope "While I was trying to better Moxie-Morrigan, I did notice some improvement, but it seems like that improvement was entirely levied by Moxie."
+    penelope "当我正试图让Moxie与Morrigan更出色时，我确实注意到一些改变，不过只有Moxie变得更好。"
 
 # game/library.rpy#L3807
 translate chinese penelopetalk_34219c2c:
@@ -12890,13 +12890,13 @@ translate chinese penelopetalk_34219c2c:
 translate chinese penelopetalk_f30747d7:
 
     # penelope "The moment any droplet of power was offered to Morrigan, she suddenly became selfish, bitter, hateful. Even I was irrelevant in her eyes now, a used tool."
-    penelope "一旦Morrigan沾上了权力，她就会一下子变得自私、刻薄、可恨。就连我在她眼里都变得无关紧要，只是一枚被利用的棋子。"
+    penelope "Morrigan一旦沾上了权力，她很快会变得自私、刻薄、可恨起来。就连我在她眼里都变得无关紧要，只是一枚被利用的棋子。"
 
 # game/library.rpy#L3811
 translate chinese penelopetalk_97eb8cbc:
 
     # penelope "But Moxie? She has really come a long way, she immediately wanted to use that power to help, and even to this day she's trying to pursue that path through Selene's lessons."
-    penelope "而Moxie呢?她真的走了很长一段路，她立刻就想到用这种力量来帮助他人，直到今天，她还遵循Selene的教导在这条道路上前进。"
+    penelope "而Moxie呢?她真的为此走了很长一段路，她立刻就想到用这种力量来帮助他人，直到今天，她还遵循着Selene的教导在这条道路上前进。"
 
 # game/library.rpy#L3812
 translate chinese penelopetalk_6473ce33:
@@ -12998,13 +12998,13 @@ translate chinese penelopesex_01b17e16:
 translate chinese penelopesex_7f30e798:
 
     # penelope "You make a cute girl [playername], I'd tap that."
-    penelope "You make a cute girl [playername], I'd tap that."
+    penelope "[playername]，你是个可爱的女孩，我喜欢你。"
 
 # game/library.rpy#L3853
 translate chinese penelopesex_63a946fb:
 
     # mc "You are 'tapping' that."
-    mc "You are 'tapping' that."
+    mc "你在 "发掘 "这一点。"
 
 # game/library.rpy#L3858
 translate chinese penelopesex_f040f6aa:
@@ -13022,79 +13022,79 @@ translate chinese penelopesex_ea04e51a:
 translate chinese penelopesex_d1a88e5a:
 
     # "Penny sits down next to me and takes a commanding lead, bringing her lips towards mine and passionately making out with me."
-    "Penny sits down next to me and takes a commanding lead, bringing her lips towards mine and passionately making out with me."
+    "Penny坐在我身旁，开始一马当先的用嘴唇贴近我，热情地与我亲吻。"
 
 # game/library.rpy#L3870
 translate chinese penelopesex_5eb5eeca:
 
     # "Her experience is immediately clear as her tongue swirls into my mouth and toys around with my own."
-    "Her experience is immediately clear as her tongue swirls into my mouth and toys around with my own."
+    "当她的舌头在我嘴里打转，玩弄我的舌头时，她的经验水平立刻就显现了出来。"
 
 # game/library.rpy#L3871
 translate chinese penelopesex_85ab69b3:
 
     # "Feeling all tension drift away from my body, I sink back into the sofa, completely captivated by her kiss."
-    "Feeling all tension drift away from my body, I sink back into the sofa, completely captivated by her kiss."
+    "感觉身体里所有的紧张感都消失了，我倒在沙发上，被她的吻完全迷住了。"
 
 # game/library.rpy#L3872
 translate chinese penelopesex_03e60c54:
 
     # "I can feel my new body getting aroused. I feel a warmth in my pelvis and a tingling sensation between my thighs."
-    "I can feel my new body getting aroused. I feel a warmth in my pelvis and a tingling sensation between my thighs."
+    "我能感觉到我的新身体被唤醒。我感到骨盆在发热，大腿间传来刺痛感。"
 
 # game/library.rpy#L3877
 translate chinese penelopesex_4a47f810:
 
     # penelope "Mmphh, ah... Does it feel better as a girl?"
-    penelope "Mmphh, ah... Does it feel better as a girl?"
+    penelope "呣呣，哈……喜欢当个女孩子吗?"
 
 # game/library.rpy#L3878
 translate chinese penelopesex_3a907e7e:
 
     # mc "It actually does, the orgasms are much better."
-    mc "It actually does, the orgasms are much better."
+    mc "当然，高潮的感觉要好多了。"
 
 # game/library.rpy#L3883
 translate chinese penelopesex_16131cb5:
 
     # penelope "I wonder if I should try turning into a guy, hahah"
-    penelope "I wonder if I should try turning into a guy, hahah"
+    penelope "我在想我是不是应该变成一个男人试试，哈哈哈"
 
 # game/library.rpy#L3888
 translate chinese penelopesex_86589ae3:
 
     # "She pushes me down on the sofa and crawls on top of me, wasting no time sticking her face in my breasts and licking one of my nipples while she teases the other expertly with her fingers."
-    "She pushes me down on the sofa and crawls on top of me, wasting no time sticking her face in my breasts and licking one of my nipples while she teases the other expertly with her fingers."
+    "她把我推到沙发上，然后爬到我身上。她毫不犹豫地把脸贴在我的胸前，开始舔我其中一个乳头，同时熟练地用手指逗弄另一个。"
 
 # game/library.rpy#L3889
 translate chinese penelopesex_804df073:
 
     # "I can begin to feel a growing, throbbing desire in between my legs."
-    "I can begin to feel a growing, throbbing desire in between my legs."
+    "我开始感到两腿之间有一种越来越强烈、悸动的欲望。"
 
 # game/library.rpy#L3890
 translate chinese penelopesex_b50b590b:
 
     # "Penny swaps her mouth to the other nipple and continues to tease me, I rub my thighs together slightly resulting in a tiny pleasurable sensation, but it only increases my desire to be touched."
-    "Penny swaps her mouth to the other nipple and continues to tease me, I rub my thighs together slightly resulting in a tiny pleasurable sensation, but it only increases my desire to be touched."
+    "Penny把她的嘴换到另一个乳头上，继续挑逗着我。我轻轻摩擦大腿，产生了微小的愉悦感，而我想被爱抚的欲望增加了。"
 
 # game/library.rpy#L3896
 translate chinese penelopesex_9ff49cde:
 
     # "She grins as she finally goes between my legs. She doesn’t tease me anymore, and I feel her tongue immediately lapping up and down the length of my new vulva."
-    "She grins as she finally goes between my legs. She doesn’t tease me anymore, and I feel her tongue immediately lapping up and down the length of my new vulva."
+    "当她最后到我的两腿之间时，她没有再挑逗我，我能感到她的舌头立即在我的新外阴上上下下地舔着。"
 
 # game/library.rpy#L3897
 translate chinese penelopesex_15d047fc:
 
     # "It feels so wet and sloppy, but when she focuses on my clit my body is racked with a powerful sensation that causes my back to arch and my eyes to roll back."
-    "It feels so wet and sloppy, but when she focuses on my clit my body is racked with a powerful sensation that causes my back to arch and my eyes to roll back."
+    "我感觉阴蒂湿漉漉的，当她专注于我的阴蒂时，我的身体被一种强烈的感觉折磨着，我的背拱了起来，眼珠向后翻动。"
 
 # game/library.rpy#L3898
 translate chinese penelopesex_a879fce2:
 
     # penelope "Warm, wet, soft, and delicious…"
-    penelope "Warm, wet, soft, and delicious…"
+    penelope "温暖、湿润、柔软、还有甜美……"
 
 # game/library.rpy#L3899
 translate chinese penelopesex_2d0ad636:
@@ -13106,7 +13106,7 @@ translate chinese penelopesex_2d0ad636:
 translate chinese penelopesex_59e58c2b:
 
     # "This is fucking awesome, Penny’s tongue skillfully pleasures my clit over and over. I have to hold back a few moans with the worry that Lily might hear me."
-    "This is fucking awesome, Penny’s tongue skillfully pleasures my clit over and over. I have to hold back a few moans with the worry that Lily might hear me."
+    "这太他妈棒了。Penny巧妙的舌头一遍又一遍地取悦我的阴蒂。我不得不忍住几声呻吟，生怕Lily会听到。"
 
 # game/library.rpy#L3901
 translate chinese penelopesex_dea0930f:
@@ -13118,13 +13118,13 @@ translate chinese penelopesex_dea0930f:
 translate chinese penelopesex_eabb5c1a:
 
     # "I can’t help but squirm and moan, it feels amazing, and the pleasure keeps rising."
-    "I can’t help but squirm and moan, it feels amazing, and the pleasure keeps rising."
+    "我忍不住扭动和呻吟。这感觉太好了，快感在不断上升。"
 
 # game/library.rpy#L3903
 translate chinese penelopesex_c6cd6cb5:
 
     # "I think I’m going to orgasm soon."
-    "I think I’m going to orgasm soon."
+    "我想我很快就要高潮了。"
 
 # game/library.rpy#L3904
 translate chinese penelopesex_4f30831f:

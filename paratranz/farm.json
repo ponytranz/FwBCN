@@ -3647,14 +3647,14 @@
   {
     "id": 79434328,
     "createdAt": "2021-05-30T17:55:39.000Z",
-    "updatedAt": "2021-07-19T12:04:27.000Z",
+    "updatedAt": "2021-09-03T13:26:46.000Z",
     "key": "farmvisit1_2eee4820",
     "original": "I can’t even fathom the emotional turmoil of what she’s going through, yet she still wears a strong smile for me and her sister.",
-    "translation": "她的思想感情太过于纷繁复杂，我甚至无法理解她所经历的混乱情感，即便如此她仍然对着我和她的姐妹微笑",
+    "translation": "她的思想感情太过于纷繁复杂，我甚至无法理解她所经历的混乱情感，即便如此她仍然对着我和她的姐妹微笑。",
     "file": 272347,
     "stage": 1,
     "project": 2414,
-    "uid": 22389,
+    "uid": 21929,
     "extra": null,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwBCN/blob/main/game/farm.rpy#L486",
     "words": 24
