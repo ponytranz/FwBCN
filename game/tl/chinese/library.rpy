@@ -3818,7 +3818,7 @@ translate chinese penelopecunnilingus_e77cfc56:
 translate chinese penelopecunnilingus_15d047fc:
 
     # "It feels so wet and sloppy, but when she focuses on my clit my body is racked with a powerful sensation that causes my back to arch and my eyes to roll back."
-    "我感觉阴蒂湿漉漉的，当她专注于我的阴蒂时，我的身体被一种强烈的感觉折磨着，我的背拱了起来，眼珠向后翻动。"
+    "我感觉阴蒂湿漉漉的，当她专注于我下面时，我的身体被一种强烈的感觉折磨着，我的背拱了起来，眼珠向后翻动。"
 
 # game/library.rpy#L1104
 translate chinese penelopecunnilingus_a879fce2:
@@ -3836,7 +3836,7 @@ translate chinese penelopecunnilingus_2d0ad636:
 translate chinese penelopecunnilingus_83134baa:
 
     # "This is fucking awesome. Penny’s tongue skillfully pleasures my clit over and over. I have to hold back a few moans with the worry that Lily might hear me."
-    "这太他妈棒了。Penny巧妙的舌头一遍又一遍地取悦我的阴蒂。我不得不忍住几声呻吟，生怕Lily会听到。"
+    "这太他妈棒了。Penny巧妙的舌头一遍又一遍地取悦我的小穴。我不得不忍住几声呻吟，生怕Lily会听到。"
 
 # game/library.rpy#L1107
 translate chinese penelopecunnilingus_a8108bdd:
@@ -3848,7 +3848,7 @@ translate chinese penelopecunnilingus_a8108bdd:
 translate chinese penelopecunnilingus_0ca762ba:
 
     # "I can’t help but squirm and moan. It feels amazing, and the pleasure keeps rising."
-    "我忍不住扭动和呻吟。这感觉太好了，快感在不断上升。"
+    "我忍不住的扭动和呻吟。这感觉太好了，快感在不断上升。"
 
 # game/library.rpy#L1109
 translate chinese penelopecunnilingus_4f30831f:
@@ -3860,7 +3860,7 @@ translate chinese penelopecunnilingus_4f30831f:
 translate chinese penelopecunnilingus_17f8fd47:
 
     # "Finally, her skillful tongue work on my pussy pushes me to the edge and I climax."
-    "最后，她用熟练的舌头将我的小穴推到快感的边缘，我达到了高潮。"
+    "最终，她用熟练的舌头将我的小穴推到快感的边缘，我达到了高潮。"
 
 # game/library.rpy#L1113
 translate chinese penelopecunnilingus_5b9a6ddd:
@@ -3902,7 +3902,7 @@ translate chinese penelopecunnilingus_3ca397f6:
 translate chinese penelopecunnilingus_dad8485d:
 
     # "She giggles and straddles my head, giving me a direct view of her aroused vulva. Her lips glistening with a sheen of wetness."
-    "她咯咯地笑着，然后跨坐在我的头上，让我直接看到了她极度兴奋的外阴。她的阴唇上闪烁着一层湿润的光泽。"
+    "她咯咯地笑着，然后跨坐在我的头上，让我直接看到了她极度兴奋的小穴。她的阴唇上闪烁着一层湿润的光泽。"
 
 # game/library.rpy#L1124
 translate chinese penelopecunnilingus_c07bb284:
@@ -3926,7 +3926,7 @@ translate chinese penelopecunnilingus_a22349a6:
 translate chinese penelopecunnilingus_25f8e432:
 
     # "Only a few licks in, I can already hear her breathing turn ragged, and cute gasps escaping her lips."
-    "只舔了几下，我就能听到她急促的呼吸，可爱的喘息从她的唇边逸出。"
+    "只舔了几下，我就能听到她急促的呼吸，可爱的喘息声从她的唇边逸出。"
 
 # game/library.rpy#L1128
 translate chinese penelopecunnilingus_694e6582:
@@ -3938,7 +3938,7 @@ translate chinese penelopecunnilingus_694e6582:
 translate chinese penelopecunnilingus_ce0d2d16:
 
     # penelope "*Pant, pant* Mmphhh gosh, my clit is so sensitive!"
-    penelope "*喘息，喘息*嗯呼…天啊，我的阴蒂太敏感了!"
+    penelope "*喘息，喘息*呣呼…天啊，我的阴蒂太敏感了!"
 
 # game/library.rpy#L1130
 translate chinese penelopecunnilingus_43cfdefa:
@@ -3950,7 +3950,7 @@ translate chinese penelopecunnilingus_43cfdefa:
 translate chinese penelopecunnilingus_12a1818b:
 
     # "I swirl my tongue around in circles on her clitoris as she starts to gradually grind back and forth."
-    "我的舌头在她的阴蒂上打转，她也开始逐渐地来回磨蹭。"
+    "我的舌头在她的小穴上打转，她也开始逐渐地来回磨蹭。"
 
 # game/library.rpy#L1132
 translate chinese penelopecunnilingus_fe920b08:
@@ -3986,13 +3986,13 @@ translate chinese penelopecunnilingus_73118253:
 translate chinese penelopecunnilingus_bbad22c1:
 
     # "I have to hold her thighs in place as I tactfully suck and lick her moving clit to the best of my ability, even as she wriggles and writhes above me."
-    "我必须把她的大腿固定在合适的位置，即便她在我上面扭动，我也要用我最好的技巧吮吸她的阴蒂。"
+    "我必须把她的大腿固定在合适的位置，即便她在我上面扭动，我也要用我最好的技巧吮吸她的小穴。"
 
 # game/library.rpy#L1138
 translate chinese penelopecunnilingus_f9c27e10:
 
     # penelope "C-Coming! Aaaahhhhh, aaaahhhhh!"
-    penelope "要-要来了！啊啊啊，啊啊啊！"
+    penelope "要-要去了！啊啊啊，啊啊啊！"
 
 # game/library.rpy#L1139
 translate chinese penelopecunnilingus_d24b7e37:
@@ -4016,7 +4016,7 @@ translate chinese penelopecunnilingus_51e7d673:
 translate chinese penelopecunnilingus_74fc57e4:
 
     # "I sit up and she notices my face is covered in her wetness, so she graciously pats me down with a tissue."
-    "我坐了起来，她注意到我的脸上沾满了她的液体，所以她温柔地用纸巾擦了擦我。"
+    "我坐了起来，她注意到我的脸上沾满了她的淫液，所以她温柔地用纸巾擦了擦我。"
 
 # game/library.rpy#L1151
 translate chinese penelopecunnilingus_5b02c089:
@@ -13088,7 +13088,7 @@ translate chinese penelopesex_9ff49cde:
 translate chinese penelopesex_15d047fc:
 
     # "It feels so wet and sloppy, but when she focuses on my clit my body is racked with a powerful sensation that causes my back to arch and my eyes to roll back."
-    "我感觉阴蒂湿漉漉的，当她专注于我的阴蒂时，我的身体被一种强烈的感觉折磨着，我的背拱了起来，眼珠向后翻动。"
+    "我感觉阴蒂湿漉漉的，当她专注于我下面时，我的身体被一种强烈的感觉折磨着，我的背拱了起来，眼珠向后翻动。"
 
 # game/library.rpy#L3898
 translate chinese penelopesex_a879fce2:
@@ -13106,217 +13106,217 @@ translate chinese penelopesex_2d0ad636:
 translate chinese penelopesex_59e58c2b:
 
     # "This is fucking awesome, Penny’s tongue skillfully pleasures my clit over and over. I have to hold back a few moans with the worry that Lily might hear me."
-    "这太他妈棒了。Penny巧妙的舌头一遍又一遍地取悦我的阴蒂。我不得不忍住几声呻吟，生怕Lily会听到。"
+    "这太他妈棒了。Penny巧妙的舌头一遍又一遍地取悦我的小穴。我不得不忍住几声呻吟，生怕Lily会听到。"
 
 # game/library.rpy#L3901
 translate chinese penelopesex_dea0930f:
 
     # "Occasionally I can feel her lips purse around the nub as they suck, simultaneously I can feel a pressure from her tongue, it drives me wild as my fingers grip tightly on the sofa cushions."
-    "Occasionally I can feel her lips purse around the nub as they suck, simultaneously I can feel a pressure from her tongue, it drives me wild as my fingers grip tightly on the sofa cushions."
+    "同时我能感受到她用嘴唇夹住我的小豆豆进行吮吸，还有来自她舌头上的压力。这种混合的快感让我欲罢不能，我的手紧紧地攥在沙发垫上。"
 
 # game/library.rpy#L3902
 translate chinese penelopesex_eabb5c1a:
 
     # "I can’t help but squirm and moan, it feels amazing, and the pleasure keeps rising."
-    "我忍不住扭动和呻吟。这感觉太好了，快感在不断上升。"
+    "我忍不住的扭动和呻吟。这感觉太好了，快感在不断上升。"
 
 # game/library.rpy#L3903
 translate chinese penelopesex_c6cd6cb5:
 
     # "I think I’m going to orgasm soon."
-    "我想我很快就要高潮了。"
+    "我想我很快就要去了。"
 
 # game/library.rpy#L3904
 translate chinese penelopesex_4f30831f:
 
     # "It doesn’t just feel like she’s licking my clit, it feels like she’s making out with my pussy."
-    "It doesn’t just feel like she’s licking my clit, it feels like she’s making out with my pussy."
+    "这不只是感觉她在舔我的阴蒂，感觉她在和我的小妹妹亲热。"
 
 # game/library.rpy#L3905
 translate chinese penelopesex_af7d6f6e:
 
     # "Finally, her skillful tongue pushs my pussy over the edge and I climax."
-    "Finally, her skillful tongue pushs my pussy over the edge and I climax."
+    "最终，她用熟练的舌头将我的小穴推到快感的边缘，我达到了高潮。"
 
 # game/library.rpy#L3906
 translate chinese penelopesex_86830729:
 
     # "The initial climax was powerful, similar to a male orgasm, however the peak of euphoria dragged on for far longer."
-    "The initial climax was powerful, similar to a male orgasm, however the peak of euphoria dragged on for far longer."
+    "一开始高潮快感是强烈的，类似于男性的射精，不过这持续的时间要更为长久。"
 
 # game/library.rpy#L3907
 translate chinese penelopesex_9debc2ce:
 
     # "The euphoria dissipated but the climax continued with a heightened sense of sensitivity, each movement of Penny’s tongue filled my entire body with potent pleasure."
-    "The euphoria dissipated but the climax continued with a heightened sense of sensitivity, each movement of Penny’s tongue filled my entire body with potent pleasure."
+    "兴奋消散了，但高潮仍在继续，敏感度加剧，现在Penny舌头的每一个动作都使我的身体充满了快乐。"
 
 # game/library.rpy#L3908
 translate chinese penelopesex_966550d1:
 
     # "My climax lasted far longer than a man’s. And while the peak of pleasure was relatively the same, the length of the female orgasm easily bested the two."
-    "My climax lasted far longer than a man’s. And while the peak of pleasure was relatively the same, the length of the female orgasm easily bested the two."
+    "我高潮的持续时间要比男性状态持久得多。尽管快感的峰值相对平等，但女性高潮的时长很容易就超过了男性。"
 
 # game/library.rpy#L3909
 translate chinese penelopesex_0dca868b:
 
     # "My head was in the clouds for a few seconds after that powerful orgasm. It took me a few seconds to notice Penny crawling over me like a cougar hunting her prey."
-    "My head was in the clouds for a few seconds after that powerful orgasm. It took me a few seconds to notice Penny crawling over me like a cougar hunting her prey."
+    "在几次强烈的性高潮过后，我的头有点飘飘然。过了几秒钟，我才注意到Penny像一只猎杀猎物的美洲狮在我身上爬行。"
 
 # game/library.rpy#L3915
 translate chinese penelopesex_4e773e89:
 
     # penelope "Hope you enjoyed the first act, but this next part is my favourite..."
-    penelope "Hope you enjoyed the first act, but this next part is my favourite..."
+    penelope "希望你能喜欢开幕，但接下来的部分是我最喜欢的……"
 
 # game/library.rpy#L3920
 translate chinese penelopesex_75fd56e4:
 
     # "She giggles and straddles my head, giving me a direct view of her aroused vulva. Her lips glisten with a sheen of wetness."
-    "She giggles and straddles my head, giving me a direct view of her aroused vulva. Her lips glisten with a sheen of wetness."
+    "她咯咯地笑着，然后跨坐在我的头上，让我直接看到了她极度兴奋的小穴。她的阴唇上闪烁着一层湿润的光泽。"
 
 # game/library.rpy#L3922
 translate chinese penelopesex_c07bb284:
 
     # "As she slowly lowers herself, I resign myself to pleasure her as much as possible. I may not be as good at cunnilingus, but I want to wow her."
-    "As she slowly lowers herself, I resign myself to pleasure her as much as possible. I may not be as good at cunnilingus, but I want to wow her."
+    "当她慢慢低下身子时，我只好竭尽全力地来取悦她。尽管我并不擅长舔穴，但我想给她满足。"
 
 # game/library.rpy#L3923
 translate chinese penelopesex_a7cc053b:
 
     # "I know for a fact she needs no teasing, so I focus on her clit immediately and draw as much pleasure from her as possible."
-    "I know for a fact she needs no teasing, so I focus on her clit immediately and draw as much pleasure from her as possible."
+    "我知道她不需要任何的挑逗，所以我立即专注于她的阴蒂，并尽可能多地从她身上汲取快感。"
 
 # game/library.rpy#L3924
 translate chinese penelopesex_5763bf2b:
 
     # penelope "Ahh, that’s perfect, ahhh... You really are a good girl."
-    penelope "Ahh, that’s perfect, ahhh... You really are a good girl."
+    penelope "啊，就是那个地方，啊啊…你真是个好女孩。"
 
 # game/library.rpy#L3925
 translate chinese penelopesex_f78d4334:
 
     # "Only a few licks in and I can already hear her breathing turn ragged and cute gasps escaping her lips."
-    "Only a few licks in and I can already hear her breathing turn ragged and cute gasps escaping her lips."
+    "只舔了几下，我就能听到她急促的呼吸，可爱的喘息声从她的唇边逸出。"
 
 # game/library.rpy#L3926
 translate chinese penelopesex_694e6582:
 
     # "It’s clear to me that she’s burning with desire."
-    "It’s clear to me that she’s burning with desire."
+    "我很清楚，她心中充满了欲望。"
 
 # game/library.rpy#L3927
 translate chinese penelopesex_ce0d2d16:
 
     # penelope "*Pant, pant* Mmphhh gosh, my clit is so sensitive!"
-    penelope "*Pant, pant* Mmphhh gosh, my clit is so sensitive!"
+    penelope "*喘息，喘息*呣呼…天啊，我的阴蒂太敏感了!"
 
 # game/library.rpy#L3928
 translate chinese penelopesex_cbb020cd:
 
     # penelope "Ahh, ah… Don’t hold back though, it feels so amazing!"
-    penelope "Ahh, ah… Don’t hold back though, it feels so amazing!"
+    penelope "啊，啊……不要停，这感觉太棒了！"
 
 # game/library.rpy#L3929
 translate chinese penelopesex_12a1818b:
 
     # "I swirl my tongue around in circles on her clitoris as she starts to gradually grind back and forth."
-    "I swirl my tongue around in circles on her clitoris as she starts to gradually grind back and forth."
+    "我的舌头在她的小穴上打转，她也开始逐渐地来回磨蹭。"
 
 # game/library.rpy#L3930
 translate chinese penelopesex_4b2243bf:
 
     # "As her hips move the fur of her thighs pleasantly brush against my cheek and the grool from her sex drips onto my lips and tongue."
-    "As her hips move the fur of her thighs pleasantly brush against my cheek and the grool from her sex drips onto my lips and tongue."
+    "当她的臀部移动时，大腿上的皮毛愉悦地的拂过我的脸颊，汁液也伴随着呻吟声滴落在我的嘴唇和舌头上。"
 
 # game/library.rpy#L3931
 translate chinese penelopesex_3037be7b:
 
     # penelope "Mmphh, that’s perfect, keep going like that… Ahh, ahh…"
-    penelope "Mmphh, that’s perfect, keep going like that… Ahh, ahh…"
+    penelope "嗯哈，真不错。保持这样...啊，啊..."
 
 # game/library.rpy#L3932
 translate chinese penelopesex_59e4badf:
 
     # "As my tongue persists, continuously keeping up the pleasure on her sweet spot, her grinding gradually becomes more needy and vigorous."
-    "As my tongue persists, continuously keeping up the pleasure on her sweet spot, her grinding gradually becomes more needy and vigorous."
+    "随着我的舌头持续不断地在她的蜜穴保持着动作，她也逐渐磨的得更加有力了。"
 
 # game/library.rpy#L3933
 translate chinese penelopesex_d259eb52:
 
     # "She applies more pressure onto my face as she drags herself back and forth. Her gasps from earlier dissolving into complete passionate moans."
-    "She applies more pressure onto my face as she drags herself back and forth. Her gasps from earlier dissolving into complete passionate moans."
+    "她来回拖动着身体，在我脸上施加了更大的压力。她先前的喘息声现已是激情的呻吟了。"
 
 # game/library.rpy#L3934
 translate chinese penelopesex_73118253:
 
     # penelope "Ahhh, aaaahhhhh… I-I… Aaaaahhhhhhhhhhhh, I’m gonna…"
-    penelope "Ahhh, aaaahhhhh… I-I… Aaaaahhhhhhhhhhhh, I’m gonna…"
+    penelope "啊，啊啊啊啊......我-我......啊啊啊啊，我要......"
 
 # game/library.rpy#L3935
 translate chinese penelopesex_bbad22c1:
 
     # "I have to hold her thighs in place as I tactfully suck and lick her moving clit to the best of my ability, even as she wriggles and writhes above me."
-    "I have to hold her thighs in place as I tactfully suck and lick her moving clit to the best of my ability, even as she wriggles and writhes above me."
+    "我必须把她的大腿固定在合适的位置，即便她在我上面扭动，我也要用我最好的技巧吮吸她的小穴。"
 
 # game/library.rpy#L3936
 translate chinese penelopesex_f9c27e10:
 
     # penelope "C-Coming! Aaaahhhhh, aaaahhhhh!"
-    penelope "C-Coming! Aaaahhhhh, aaaahhhhh!"
+    penelope "要-要去了！啊啊啊，啊啊啊！"
 
 # game/library.rpy#L3937
 translate chinese penelopesex_d24b7e37:
 
     # "She actually stops grinding and arches her back as she climaxes, allowing me to pleasure her throughout the entire duration."
-    "She actually stops grinding and arches her back as she climaxes, allowing me to pleasure her throughout the entire duration."
+    "当她高潮时，她停止了磨蹭并拱起了背，让我自始至终的取悦了她。"
 
 # game/library.rpy#L3944
 translate chinese penelopesex_4e006412:
 
     # "As she gradually comes to a halt, she lifts herself from my face and crumples down onto the sofa, her legs seemingly weak as she catches her breath."
-    "As she gradually comes to a halt, she lifts herself from my face and crumples down onto the sofa, her legs seemingly weak as she catches her breath."
+    "她慢慢地缓了下来，从我面前刚站起来还不久便瘫倒在沙发上。她喘着气，双腿似乎很无力。"
 
 # game/library.rpy#L3945
 translate chinese penelopesex_51e7d673:
 
     # penelope "*Pant* Damn… That was good."
-    penelope "*Pant* Damn… That was good."
+    penelope "*喘气*干…真是太棒了。"
 
 # game/library.rpy#L3950
 translate chinese penelopesex_74fc57e4:
 
     # "I sit up and she notices my face is covered in her wetness, so she graciously pats me down with a tissue."
-    "I sit up and she notices my face is covered in her wetness, so she graciously pats me down with a tissue."
+    "我坐了起来，她注意到我的脸上沾满了她的淫液，所以她温柔地用纸巾擦了擦我。"
 
 # game/library.rpy#L3951
 translate chinese penelopesex_8382553d:
 
     # mc "Thanks Penny, those female orgasms are mind-shattering."
-    mc "Thanks Penny, those female orgasms are mind-shattering."
+    mc "谢了，Penny，那些女性高潮真是让人痛快。"
 
 # game/library.rpy#L3956
 translate chinese penelopesex_b5859bcb:
 
     # penelope "You’re telling me. You also gave me an even better orgasm than last time."
-    penelope "You’re telling me. You also gave me an even better orgasm than last time."
+    penelope "我得说，你也给了比上次感觉更好的高潮。"
 
 # game/library.rpy#L3962
 translate chinese penelopesex_6b375922:
 
     # penelope "I'm going to take my time playing with you..."
-    penelope "I'm going to take my time playing with you..."
+    penelope "我要慢慢陪你玩……"
 
 # game/library.rpy#L3968
 translate chinese penelopesex_7074fe9d:
 
     # "I find myself immediately returning to my dainty female body."
-    "I find myself immediately returning to my dainty female body."
+    "我发现自己的身形变成了娇媚的女性。"
 
 # game/library.rpy#L3969
 translate chinese penelopesex_35a13f83:
 
     # "It takes a few seconds for my nervous system to readjust."
-    "It takes a few seconds for my nervous system to readjust."
+    "我的神经系统花了几秒钟适应这个新身体。"
 
 # game/library.rpy#L3970
 translate chinese penelopesex_1e2ccc58:
@@ -13340,13 +13340,13 @@ translate chinese penelopesex_56545a48:
 translate chinese penelopesex_8a2743ea:
 
     # "She pushes me down and I can feel her tongue trace the outline of my lips."
-    "She pushes me down and I can feel her tongue trace the outline of my lips."
+    "她把我推倒在沙发上，我能感觉到她的香舌在我的嘴唇边上蜿蜒。"
 
 # game/library.rpy#L3988
 translate chinese penelopesex_953d8b12:
 
     # mc "A lick? Is that all?"
-    mc "A lick? Is that all?"
+    mc "你就光舔？"
 
 # game/library.rpy#L3993
 translate chinese penelopesex_2beebd63:
