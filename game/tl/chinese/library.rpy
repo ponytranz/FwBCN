@@ -13352,109 +13352,109 @@ translate chinese penelopesex_953d8b12:
 translate chinese penelopesex_2beebd63:
 
     # "Penny doesn’t wait another second, she surprises me with a sudden forceful kiss of the lips. She soon backs away and observes my reaction."
-    "Penny doesn’t wait another second, she surprises me with a sudden forceful kiss of the lips. She soon backs away and observes my reaction."
+    "Penny没有回答，又朝我的嘴上又是强力的一吻，出乎我的意料。不一会唇分，她直起来观察着我的反应。"
 
 # game/library.rpy#L3998
 translate chinese penelopesex_438ed6d7:
 
     # penelope "Mmm… I like that."
-    penelope "Mmm… I like that."
+    penelope "嗯...我喜欢那样。"
 
 # game/library.rpy#L3999
 translate chinese penelopesex_db818ff3:
 
     # mc "Me too… Let’s do it again?"
-    mc "Me too… Let’s do it again?"
+    mc "我也是...咱们再来？"
 
 # game/library.rpy#L4004
 translate chinese penelopesex_dd5df0c9:
 
     # "Holding both my hands back, she lowers her head and begins to kiss me again."
-    "Holding both my hands back, she lowers her head and begins to kiss me again."
+    "她与我十指相扣，又俯下身子和我接起了吻。"
 
 # game/library.rpy#L4005
 translate chinese penelopesex_e52e85c9:
 
     # "Penelope’s tongue slipped its way into my mouth past my pursed lips."
-    "Penelope’s tongue slipped its way into my mouth past my pursed lips."
+    "Penelope的舌头从我撅起的嘴唇溜进我的嘴里。"
 
 # game/library.rpy#L4006
 translate chinese penelopesex_c2b9c220:
 
     # penelope "Ahn… hnn… mmm…. ha…"
-    penelope "Ahn… hnn… mmm…. ha…"
+    penelope "啊哈...呵嗯...额嗯...哈..."
 
 # game/library.rpy#L4007
 translate chinese penelopesex_f5386959:
 
     # "I responded with an equal amount of passion, my tongue twisting around hers."
-    "I responded with an equal amount of passion, my tongue twisting around hers."
+    "我以同样的热情回吻着她，舌头与她交织在一起。"
 
 # game/library.rpy#L4008
 translate chinese penelopesex_aeab2387:
 
     # "In our overeagerness the wet noises from our kiss were borderline obscene and our lips began to glisten with a layer of moisture."
-    "In our overeagerness the wet noises from our kiss were borderline obscene and our lips began to glisten with a layer of moisture."
+    "我们两个都以狂热的力度拥吻着彼此，发出了湿漉漉的声音非常淫靡，我们的嘴唇都蒙上了一层水分。"
 
 # game/library.rpy#L4009
 translate chinese penelopesex_c15675dd:
 
     # "That primal, animalistic energy as our tongues twirl and toy with each other."
-    "That primal, animalistic energy as our tongues twirl and toy with each other."
+    "我们的舌头以原始，狂野的欲望交织，撩拨着彼此。"
 
 # game/library.rpy#L4010
 translate chinese penelopesex_8eb1b5f5:
 
     # "Every few seconds I could feel Penny’s hand gently brush against my thighs, ever inching closer to my sweet spot."
-    "Every few seconds I could feel Penny’s hand gently brush against my thighs, ever inching closer to my sweet spot."
+    "我能感觉到Penny的玉手在我的大腿上抚摸，随着时间的推移，离我的私密部位越来越近。"
 
 # game/library.rpy#L4015
 translate chinese penelopesex_6dc26153:
 
     # penelope "Haah… Hah… Your girly skin is so soft."
-    penelope "Haah… Hah… Your girly skin is so soft."
+    penelope "哈……哈……你的少女肌肤好柔软。"
 
 # game/library.rpy#L4020
 translate chinese penelopesex_c2f79a4d:
 
     # "She says before she returns to kissing me. The teasing aroused me and the aching feeling between my thighs re-emerged."
-    "She says before she returns to kissing me. The teasing aroused me and the aching feeling between my thighs re-emerged."
+    "说完她又亲了上来。她的撩拨让我越来越性奋，双腿之间再次出现了熟悉的刺痛感。"
 
 # game/library.rpy#L4026
 translate chinese penelopesex_419b3374:
 
     # "Finally, Penny’s fingers start to brush against the wet folds of my pussy. Penny pulls away from the kiss as she watches eagerly for my reactions."
-    "Finally, Penny’s fingers start to brush against the wet folds of my pussy. Penny pulls away from the kiss as she watches eagerly for my reactions."
+    "Penny的手指终于摸到了我湿透的蜜穴。Penny从吻中抽出，色迷迷地观察着我的反应。"
 
 # game/library.rpy#L4027
 translate chinese penelopesex_82337c76:
 
     # penelope "You’re so warm down there… Already so wet too hehe…"
-    penelope "You’re so warm down there… Already so wet too hehe…"
+    penelope "你的下面好热啊...而且还流了不少水，嘿嘿......"
 
 # game/library.rpy#L4028
 translate chinese penelopesex_71985af2:
 
     # "She teases me by lifting her fingers and showing a string of my wetness between them, with a lewd expression she licks off the juices before bringing her finger back to my pussy."
-    "She teases me by lifting her fingers and showing a string of my wetness between them, with a lewd expression she licks off the juices before bringing her finger back to my pussy."
+    "她抬起手指，向我展示她手上连成丝的淫水，借此挑逗我，她淫靡地舔干净了手指上的淫水，又把手指伸回我的淫穴上。"
 
 # game/library.rpy#L4029
 translate chinese penelopesex_e392ec06:
 
     # "Her fingers waste no time finding and rubbing my clit, as a woman and she certainly knows how to please one."
-    "Her fingers waste no time finding and rubbing my clit, as a woman and she certainly knows how to please one."
+    "她的手指没花多少时间便摸索到了我的阴蒂，并且开始摩擦它。她自己就是个女孩子，自然很清楚怎么撩拨我。"
 
 # game/library.rpy#L4030
 translate chinese penelopesex_5351fe92:
 
     # "My entire body shivers with that unique pleasure, causing me to squirm under her movements."
-    "My entire body shivers with that unique pleasure, causing me to squirm under her movements."
+    "我的身体在她的爱抚产生的快感冲击下，不住地颤抖着。"
 
 # game/library.rpy#L4031
 translate chinese penelopesex_36eec602:
 
     # "She speeds up, and before I know it my breath is becoming ragged and I’m struggling to hold back moans."
-    "She speeds up, and before I know it my breath is becoming ragged and I’m struggling to hold back moans."
+    "她开始加速，我的呼吸开始紊乱，都还有些不自知，我想努力地抑制自己的呻吟。"
 
 # game/library.rpy#L4032
 translate chinese penelopesex_8fdc515e:
@@ -13466,61 +13466,61 @@ translate chinese penelopesex_8fdc515e:
 translate chinese penelopesex_488dd039:
 
     # penelope "If I keep going like this, I’ll make you come…"
-    penelope "If I keep going like this, I’ll make you come…"
+    penelope "如果我继续的话，会让你高潮的哦......"
 
 # game/library.rpy#L4034
 translate chinese penelopesex_f3c69ed3:
 
     # "She’s right, she continues to rub my clit, she doesn’t get faster or harder, yet the pleasure keeps rising."
-    "She’s right, she continues to rub my clit, she doesn’t get faster or harder, yet the pleasure keeps rising."
+    "她说得没错，她还在摩擦我的小豆豆，就算没有再加速和使劲，我的快感还是在高速攀升。"
 
 # game/library.rpy#L4035
 translate chinese penelopesex_d6fe3a33:
 
     # "She keeps going, my toes curl and my muscles tense up slightly."
-    "She keeps going, my toes curl and my muscles tense up slightly."
+    "她没有停手，我的脚趾弯曲，肌肉稍稍有些绷紧。"
 
 # game/library.rpy#L4036
 translate chinese penelopesex_e224dcc0:
 
     # penelope "I love your cute faces..."
-    penelope "I love your cute faces..."
+    penelope "你这副可爱的表情我真喜欢......"
 
 # game/library.rpy#L4037
 translate chinese penelopesex_de54a5f1:
 
     # mc "I-I’m close."
-    mc "I-I’m close."
+    mc "我，我要去了。"
 
 # game/library.rpy#L4038
 translate chinese penelopesex_ba281ed7:
 
     # penelope "You’re lucky that I’m not one for orgasm denial."
-    penelope "You’re lucky that I’m not one for orgasm denial."
+    penelope "你很幸运，我不在意这么快就高潮。"
 
 # game/library.rpy#L4039
 translate chinese penelopesex_7ad95871:
 
     # "Her finger starts to speed up slightly, building up intensity and pressure inside me."
-    "Her finger starts to speed up slightly, building up intensity and pressure inside me."
+    "她的手指开始缓缓提速，越来越用力地插进我的身体里。"
 
 # game/library.rpy#L4040
 translate chinese penelopesex_a281cffb:
 
     # penelope "I’m more of a ‘how many times can I make you come in one session’ gal."
-    penelope "I’m more of a ‘how many times can I make you come in one session’ gal."
+    penelope "我更像是“我在一次中能让你高潮多少次”的那种女孩。"
 
 # game/library.rpy#L4041
 translate chinese penelopesex_3fa27e73:
 
     # "I can’t feel anything else, except the electrifying pleasure of Penny’s finger rubbing my clitoris. It radiates all over my body."
-    "I can’t feel anything else, except the electrifying pleasure of Penny’s finger rubbing my clitoris. It radiates all over my body."
+    "除了Penny的手指摩擦我阴蒂产生的极乐快感外，我已经感受不到其他东西了。这种快感已经辐射至全身。"
 
 # game/library.rpy#L4042
 translate chinese penelopesex_5360c34f:
 
     # "Before I can even conceptualise what’s happening, the building pressure release all at once in a powerful orgasm."
-    "Before I can even conceptualise what’s happening, the building pressure release all at once in a powerful orgasm."
+    "在我意识到发生了什么之前，高速递增的快感让我迸发出了一次强力的高潮。"
 
 # game/library.rpy#L4047
 translate chinese penelopesex_1f39d1b9:

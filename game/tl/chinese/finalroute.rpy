@@ -962,13 +962,13 @@ translate chinese cforest_4ef5063d:
 translate chinese cforest_167317d4:
 
     # mc "Who and what are these ‘elements’ I keep hearing about?"
-    mc "我一直听说的这些“谐律元素”到底是谁或者是什么东西？"
+    mc "我一直听说的这些“元素”到底是谁或者是什么东西？"
 
 # game/finalroute.rpy#L502
 translate chinese cforest_810520bb:
 
     # butters "The Elements of Har’Mony, of course!"
-    butters "和谐之元？当然可以给你谈谈。"
+    butters "那东西，当然是谐律精华了！"
 
 # game/finalroute.rpy#L504
 translate chinese cforest_6d43d914:
@@ -1874,7 +1874,7 @@ translate chinese cfarm_56fe790d:
 translate chinese cfarm_1416b6b7:
 
     # honeycrisp "Ahh stud, I’m so grateful that you’ve decided to bless us with sex today."
-    honeycrisp "啊~，我很感激你今天决定用做爱来祝福我们。"
+    honeycrisp "啊~，我很感激你今天决定用做爱来赏赐我们。"
 
 # game/finalroute.rpy#L809
 translate chinese cfarm_dc8da1e7:
@@ -1940,7 +1940,7 @@ translate chinese cfarm_7905bb9b:
 translate chinese cfarm_c5f02086:
 
     # "It’s curious to note that the girls never touch each other, it’d be against their personalities to do that without an order. As tempted as I may be to make them kiss, or touch each other, that’d be incredibly irresponsible of me."
-    "It’s curious to note that the girls never touch each other, it’d be against their personalities to do that without an order. As tempted as I may be to make them kiss, or touch each other, that’d be incredibly irresponsible of me."
+    "很奇妙的一点是，两个女孩子之间没有互相接触，要是她们在没有命令时这么做了，就违背了她们的性格。尽管我可能很想让他们亲吻，或触摸对方，但这对我来说是非常不负责任的。"
 
 # game/finalroute.rpy#L824
 translate chinese cfarm_80ff2098:
@@ -2006,7 +2006,7 @@ translate chinese cfarm_417b2d9d:
 translate chinese cfarm_47910a8e:
 
     # "Resuming sex at the same intensity as before, Honeycrisp’s back arches and toes curl in response to the immediate spike in pleasure."
-    "Resuming sex at the same intensity as before, Honeycrisp’s back arches and toes curl in response to the immediate spike in pleasure."
+    "我恢复了之前的性爱强度，Honeycrisp被突如其来的快感弄得后背弓起，脚趾蜷缩。"
 
 # game/finalroute.rpy#L848
 translate chinese cfarm_9b6d2375:
@@ -3722,7 +3722,7 @@ translate chinese cbakery_2765e347:
 translate chinese cbakery_6f41ab94:
 
     # "She sinks down onto the counter and pants in the afterglow of her orgasm, clearly enjoying the feeling of my hot cum inside her."
-    "She sinks down onto the counter and pants in the afterglow of her orgasm, clearly enjoying the feeling of my hot cum inside her."
+    "高潮过后，她趴在柜台上，一边大口大口地喘着气，一边享受着下体被滚烫精液填满的满足感。"
 
 # game/finalroute.rpy#L1399
 translate chinese cbakery_7a8fc1b4:
@@ -7760,7 +7760,7 @@ translate chinese finale_803d7097:
 translate chinese finale_a458afff:
 
     # mc "I’m not sure yet, I’ve definitely got a few big decisions to make. I might take you up on that offer though."
-    mc "I’m not sure yet, I’ve definitely got a few big decisions to make. I might take you up on that offer though."
+    mc "我还不确定呢，肯定得做出几个很大的决定。我可能会考虑下你的提议的。"
 
 # game/finalroute.rpy#L3487
 translate chinese finale_30b12662:
@@ -7772,7 +7772,7 @@ translate chinese finale_30b12662:
 translate chinese finale_2ffbf7e5:
 
     # moxie "No promises!"
-    moxie "No promises!"
+    moxie "才怪咧！"
 
 # game/finalroute.rpy#L3491
 translate chinese finale_99d14465:
@@ -7796,37 +7796,37 @@ translate chinese finale_03c64e3a:
 translate chinese finale_74268ac7:
 
     # penelope "Ahh… You don’t seem mad at all, even after what I did… Morrigan used to get so angry at me when I messed up, but everyone here is being so nice to me…"
-    penelope "Ahh… You don’t seem mad at all, even after what I did… Morrigan used to get so angry at me when I messed up, but everyone here is being so nice to me…"
+    penelope "啊……看来哪怕是我犯了那么多事，你们也一点都不生气啊……我搞砸事情的时候Morrigan会相当恼火，但是这里的大家对我都很好……"
 
 # game/finalroute.rpy#L3503
 translate chinese finale_86737caf:
 
     # moxie "Those are the values Arcadia and its people teach us, they’re even values you helped teach me. Deep down you know the right thing to do."
-    moxie "Those are the values Arcadia and its people teach us, they’re even values you helped teach me. Deep down you know the right thing to do."
+    moxie "这就是Arcadia和她的民众教给我们的价值观，甚至是你教给我的价值观。你在内心深处也是知道做什么是正确的。"
 
 # game/finalroute.rpy#L3504
 translate chinese finale_008a0887:
 
     # moxie "I bet Aurora gave you an earful about that, what did she talk to you about?"
-    moxie "I bet Aurora gave you an earful about that, what did she talk to you about?"
+    moxie "我猜Aurora会对你说教一番，她对你说了什么？"
 
 # game/finalroute.rpy#L3506
 translate chinese finale_67b8af12:
 
     # penelope "Well… I’m slowly figuring things out. I’m a little shaky, but I came here because I really wanted to apologize to you Moxie…"
-    penelope "Well… I’m slowly figuring things out. I’m a little shaky, but I came here because I really wanted to apologize to you Moxie…"
+    penelope "嗯……我在慢慢把事情弄清楚。我现在有点发抖，不过我来是因为我真的很想向Moxie你道歉……"
 
 # game/finalroute.rpy#L3508
 translate chinese finale_6e4ca88b:
 
     # moxie "Awh … I accept your apology; I still think of you as a dear friend, our interactions weren’t purely Morrigan talking."
-    moxie "Awh … I accept your apology; I still think of you as a dear friend, our interactions weren’t purely Morrigan talking."
+    moxie "啊……我接受你的道歉；我仍然认为你是个亲密的朋友，我们之间的互动可不止是Morrigan的谈话。"
 
 # game/finalroute.rpy#L3510
 translate chinese finale_ac29d6d5:
 
     # penelope "I guess that explains why you were so much nicer back then, compared to how Morrigan usually is."
-    penelope "I guess that explains why you were so much nicer back then, compared to how Morrigan usually is."
+    penelope "我想这就是你为什么你当时和Morrigan平时的样子相比那么善良的原因了。"
 
 # game/finalroute.rpy#L3511
 translate chinese finale_4f9d41a3:
@@ -7946,7 +7946,7 @@ translate chinese finale_ae7850bf:
 translate chinese finale_43892736:
 
     # moxie "She certainly doesn't waste any time. Kinda ironic that Morrigan was using me to take over the kingdom, but now in my future I’ll potentially run it. If she had only been patient and waited another 20 years… Hehehehe!"
-    moxie "She certainly doesn't waste any time. Kinda ironic that Morrigan was using me to take over the kingdom, but now in my future I’ll potentially run it. If she had only been patient and waited another 20 years… Hehehehe!"
+    moxie "她显然不会浪费任何时间的。Morrigan想要用我来夺取这个王国，但现在我还真可能在未来统治这里呢，有点讽刺啊。要是她再耐心点，等个20年的……蛤蛤蛤！"
 
 # game/finalroute.rpy#L3547
 translate chinese finale_51919316:
@@ -7970,7 +7970,7 @@ translate chinese finale_e8fdb015:
 translate chinese finale_96eb0f77:
 
     # moxie "Yeah… When I saw her gut you… I broke down and with some of the siphoned power I tore her influence away."
-    moxie "Yeah… When I saw her gut you… I broke down and with some of the siphoned power I tore her influence away."
+    moxie "是啊……当我看到她伤了你的心的时候……我带着一部分她吸取的能量分离了出来，摆脱了她的影响。"
 
 # game/finalroute.rpy#L3554
 translate chinese finale_ad1cf96f:
@@ -8006,7 +8006,7 @@ translate chinese finale_ab807107:
 translate chinese finale_3a8c9121:
 
     # mc "Riiight… I’ve got some cleaning up to do then. Let’s see here…"
-    mc "辣行吧...那我还得去处理一下。要不我们一起去吧…"
+    mc "辣行吧...那我还得去处理一下。让我看看……"
 
 # game/finalroute.rpy#L3563
 translate chinese finale_5324a923:
