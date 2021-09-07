@@ -4574,7 +4574,7 @@ translate chinese annamilking_408f389b:
 translate chinese annamilking_e2f82f32:
 
     # mc "What can I say? I came to help anyway I can. I expected a lot of physical exercise, but I didn’t think it’d be this fun!"
-    mc "What can I say? I came to help anyway I can. I expected a lot of physical exercise, but I didn’t think it’d be this fun!"
+    mc "我还能说啥？我肯定会帮忙。我之前想过有点“锻炼”，不过我没想过会这么有意思！"
 
 # game/farm.rpy#L1421
 translate chinese annamilking_2415243e:
@@ -4982,13 +4982,13 @@ translate chinese honeyannathreesome_160039f1:
 translate chinese honeyannathreesome_e5c8b463:
 
     # "Good idea, I lift up my dominant hand and markedly bring it down square onto Honey’s tight ass cheek."
-    "Good idea, I lift up my dominant hand and markedly bring it down square onto Honey’s tight ass cheek."
+    "这主意不错，于是我抬起自己的惯用手，然后向Honey紧致的臀部狠狠地打了下去。"
 
 # game/farm.rpy#L1530
 translate chinese honeyannathreesome_218d74e1:
 
     # honeycrisp "Eep! Don’t gang up on me you two!"
-    honeycrisp "Eep! Don’t gang up on me you two!"
+    honeycrisp "呃啊！你们两个别合在一起玩我好吗！"
 
 # game/farm.rpy#L1531
 translate chinese honeyannathreesome_e70c52d9:
@@ -5000,7 +5000,7 @@ translate chinese honeyannathreesome_e70c52d9:
 translate chinese honeyannathreesome_0c1dfe52:
 
     # anna "Ohh that was hot, again, again!"
-    anna "Ohh that was hot, again, again!"
+    anna "哦，太刺激了，再来一次，再来一次！"
 
 # game/farm.rpy#L1534
 translate chinese honeyannathreesome_37063407:
@@ -5012,13 +5012,13 @@ translate chinese honeyannathreesome_37063407:
 translate chinese honeyannathreesome_344a003c:
 
     # honeycrisp "Oh, ohh! That… Again! I’m close!"
-    honeycrisp "Oh, ohh! That… Again! I’m close!"
+    honeycrisp "哦，哦！这感觉……再来！我快不行了！"
 
 # game/farm.rpy#L1537
 translate chinese honeyannathreesome_e21c24c3:
 
     # anna "Ahah! She loves it! I always pictured Hun being the dominant one, not the sub! This is great!"
-    anna "Ahah! She loves it! I always pictured Hun being the dominant one, not the sub! This is great!"
+    anna "啊哈！看来她很喜欢这样嘛！我总是把Hun想象成支配别人的人，而从没想象过她会成为被支配的人！这感觉棒极了！"
 
 # game/farm.rpy#L1539
 translate chinese honeyannathreesome_85df7f56:
@@ -11756,19 +11756,19 @@ translate chinese annamilkingevent_9e5fcbe2:
 translate chinese annamilkingevent_52ee19c5:
 
     # anna "Don't forget to spank her!"
-    anna "Don't forget to spank her!"
+    anna "别忘了拍拍她的屁股！"
 
 # game/farm.rpy#L3594
 translate chinese annamilkingevent_42d66c1f:
 
     # "I lift up my dominant hand and markedly bring it down square onto Honey’s tight ass cheek."
-    "I lift up my dominant hand and markedly bring it down square onto Honey’s tight ass cheek."
+    "我抬起自己的惯用手，然后向Honey紧致的臀部狠狠地打了下去。"
 
 # game/farm.rpy#L3595
 translate chinese annamilkingevent_05c9b8fb:
 
     # honeycrisp "Oh you two, always ganging up on me, heh."
-    honeycrisp "Oh you two, always ganging up on me, heh."
+    honeycrisp "哦，你们两个，总是合起伙来玩我，嘿嘿。"
 
 # game/farm.rpy#L3597
 translate chinese annamilkingevent_878723dd:
@@ -11840,7 +11840,7 @@ translate chinese annamilkingevent_785e02bc:
 translate chinese annamilkingevent_9972bb7b:
 
     # honeycrisp "Ahhh, are you close stud? I wanna feel your hot cum inside me."
-    honeycrisp "Ahhh, are you close stud? I wanna feel your hot cum inside me."
+    honeycrisp "啊，你是不是要射了，帅哥？我想感受一下你爱液射进我身体里的感觉。"
 
 # game/farm.rpy#L3614
 translate chinese annamilkingevent_72b92e85:
@@ -11876,7 +11876,7 @@ translate chinese annamilkingevent_fabbb243:
 translate chinese annamilkingevent_3a4a71c4:
 
     # honeycrisp "Ahhh! Inside, inside! Mmpphh…"
-    honeycrisp "Ahhh! Inside, inside! Mmpphh…"
+    honeycrisp "啊啊啊！射进去了，射进去了！嗯嗯嗯……"
 
 # game/farm.rpy#L3632
 translate chinese annamilkingevent_30b2a1c4:
@@ -11894,25 +11894,25 @@ translate chinese annamilkingevent_b5d1801a:
 translate chinese annamilkingevent_bfe3d057:
 
     # "The three of us clean up and have a jovial lunch."
-    "The three of us clean up and have a jovial lunch."
+    "在收拾干净后，我们三个享用了一顿愉快的午餐。"
 
 # game/farm.rpy#L3639
 translate chinese annamilkingevent_ff568dfd:
 
     # "Anna eventually has to return home."
-    "Anna eventually has to return home."
+    "之后，Anna回家了。"
 
 # game/farm.rpy#L3641
 translate chinese annamilkingevent_d3b37270:
 
     # "Honeycrisp and I continue to work around the farm throughout the early afternoon."
-    "Honeycrisp and I continue to work around the farm throughout the early afternoon."
+    "下午，我和Honeycrisp继续在农场里干活。"
 
 # game/farm.rpy#L3643
 translate chinese annamilkingevent_20ed438f:
 
     # "I work all day and earn 30 monies, a little extra than usual!"
-    "I work all day and earn 30 monies, a little extra than usual!"
+    "我干了一整天的活，挣了30元钱，比平时多挣了点！"
 
 # game/farm.rpy#L3646
 translate chinese annamilkingevent_daa953ab:
@@ -11924,13 +11924,13 @@ translate chinese annamilkingevent_daa953ab:
 translate chinese annamilkingevent_c0196875:
 
     # "I go into the farmhouse and visit Blossom, she seems to be lazing around in her bedroom and hasn't left for college yet. I should have an hour to talk or play with her."
-    "I go into the farmhouse and visit Blossom, she seems to be lazing around in her bedroom and hasn't left for college yet. I should have an hour to talk or play with her."
+    "我走进农舍去看望Blossom，看起来她懒洋洋地呆在卧室里，还没动身去大学。我应该还有一个小时的时间和她聊天玩闹。"
 
 # game/farm.rpy#L3661
 translate chinese annavisit_ad3a4f18:
 
     # "I nod and bid farewell to Honey as I walk past the farm and into the mountains to visit Anna."
-    "I nod and bid farewell to Honey as I walk past the farm and into the mountains to visit Anna."
+    "在离开农场时，我向Honey道了别，然后便进山去找Anna了。"
 
 # game/farm.rpy#L3665
 translate chinese annavisit_3e8f056e:
@@ -11978,25 +11978,25 @@ translate chinese annavisit_9e4750d0:
 translate chinese annavisit_67b44671:
 
     # anna "Heyyy, [playername], you actually came to work? Oh my gosh, this is so cool!"
-    anna "Heyyy, [playername], you actually came to work? Oh my gosh, this is so cool!"
+    anna "嘿，[playername]，你真来我这儿干活了？哦，我的天，太酷了吧！"
 
 # game/farm.rpy#L3676
 translate chinese annavisit_84534f14:
 
     # anna "I can’t believe you came to see me, I’m not even a pony or anything, I’m so honored ahah."
-    anna "I can’t believe you came to see me, I’m not even a pony or anything, I’m so honored ahah."
+    anna "因为我本身不是小马，所以真不敢相信你居然会来看我。我好荣幸哦，啊哈。"
 
 # game/farm.rpy#L3677
 translate chinese annavisit_eef437eb:
 
     # mc "How could I refuse an invitation? I'm here to work and spend some time with you."
-    mc "How could I refuse an invitation? I'm here to work and spend some time with you."
+    mc "我怎么会拒绝你的邀请呢？我到这儿来是为了工作和陪陪你的。"
 
 # game/farm.rpy#L3678
 translate chinese annavisit_8ba08c74:
 
     # anna "Heh, perfect, I have some jobs we can work on together and then we can have some fun later."
-    anna "Heh, perfect, I have some jobs we can work on together and then we can have some fun later."
+    anna "嘿嘿，太棒了，我有一些需要咱们一起完成的工作。工作完成后，咱们就有时间轻松一下了。"
 
 # game/farm.rpy#L3679
 translate chinese annavisit_4ab241a9:
@@ -12008,7 +12008,7 @@ translate chinese annavisit_4ab241a9:
 translate chinese annavisit_abb71bb4:
 
     # anna "Oh! I know what you can do, you can do something very special for me."
-    anna "Oh! I know what you can do, you can do something very special for me."
+    anna "哦！我知道你有什么能耐，你也可以给我来点特殊待遇哦。"
 
 # game/farm.rpy#L3681
 translate chinese annavisit_c17ef8ec:
@@ -12026,7 +12026,7 @@ translate chinese annavisit_293729ed:
 translate chinese annavisit_52f9ad64:
 
     # anna "During mating season minotaurs come down from the mountains, visit the cow village and mate with the cows in heat."
-    anna "During mating season minotaurs come down from the mountains, visit the cow village and mate with the cows in heat."
+    anna "在交配季节，雄性牛头人就会从山上下来，然后到奶牛村和发情的母牛交配。"
 
 # game/farm.rpy#L3684
 translate chinese annavisit_5cb36039:
