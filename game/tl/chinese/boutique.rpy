@@ -9218,7 +9218,7 @@ translate chinese melodyeveningmenu_23ad6c34:
 translate chinese melodyeveningmenu_82523928:
 
     # melody "Nah, I encouraged Ruby to be open with herself and sleep with you. She told me to do the same, but I declined saying I wasn't interested."
-    melody "Nah, I encouraged Ruby to be open with herself and sleep with you. She told me to do the same, but I declined saying I wasn't interested."
+    melody "当然是真的，我鼓励过Ruby，让她放开点，之后再让她和你上床。但她也和我说过相同的话，可我说我对这不感兴趣，所以就拒绝了。"
 
 # game/boutique.rpy#L2739
 translate chinese melodyeveningmenu_e9b3942e:
@@ -10670,19 +10670,19 @@ translate chinese melodyeveningvisit1_a68eb108:
 translate chinese melodyeveningvisit1_b414e0a6:
 
     # "I say cuddling, but it's more just like she's died and fallen limp on top of me, and I have a single hand on her back so she doesn't fall."
-    "I say cuddling, but it's more just like she's died and fallen limp on top of me, and I have a single hand on her back so she doesn't fall."
+    "我本想抱住她的，但此时的她却昏了过去，然后无精打采地瘫倒在我的身上。之后，我用一只手扶在她的背后，这样她就不会从我身上摔下来了。"
 
 # game/boutique.rpy#L3240
 translate chinese melodyeveningvisit1_42ef6825:
 
     # "It takes a few seconds, but her soft furry hands wrap around me and she snuggles her cheek into my chest."
-    "It takes a few seconds, but her soft furry hands wrap around me and she snuggles her cheek into my chest."
+    "这个姿势持续了几秒钟，可之后，她便用她毛茸茸的手搂住了我，然后将自己的脸贴在了我的胸膛上。"
 
 # game/boutique.rpy#L3241
 translate chinese melodyeveningvisit1_2f000a02:
 
     # "We snuggle happily while ignoring the hot, wet mess left between us."
-    "We snuggle happily while ignoring the hot, wet mess left between us."
+    "我们两个欣喜地相拥在一起，将周身的湿热与周围的狼藉完全抛到了脑后。"
 
 # game/boutique.rpy#L3243
 translate chinese melodyeveningvisit1_a20cefa7:

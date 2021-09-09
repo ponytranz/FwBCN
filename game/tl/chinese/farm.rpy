@@ -4610,19 +4610,19 @@ translate chinese annamilking_dd7ac9fa:
 translate chinese annamilking_4e314ec3:
 
     # honeycrisp "We’ve seen how you deal with one girl. Think y’all be able to please two girls begging for your cock?"
-    honeycrisp "We’ve seen how you deal with one girl. Think y’all be able to please two girls begging for your cock?"
+    honeycrisp "我们已经见识过你和一个姑娘啪啪啪的能耐了。我在想，让你同时满足两个渴望大棒棒的姑娘应该也不成问题，对吧？"
 
 # game/farm.rpy#L1432
 translate chinese annamilking_954beefd:
 
     # "She stands up and moves over to some hay bales."
-    "She stands up and moves over to some hay bales."
+    "她站了起来，然后走到干草堆前。"
 
 # game/farm.rpy#L1434
 translate chinese annamilking_39036f8c:
 
     # honeycrisp "Over here Anna, copy me."
-    honeycrisp "快过来，Anna，模仿我的动作。"
+    honeycrisp "快过来，Anna，快来模仿我的动作。"
 
 # game/farm.rpy#L1436
 translate chinese annamilking_07e5ff0a:
@@ -4658,13 +4658,13 @@ translate chinese honeyannathreesome_77ce61ca:
 translate chinese honeyannathreesome_7cf93b6f:
 
     # "Honey is looking back expectantly, while Anna is wiggling her butt desperately."
-    "Honey is looking back expectantly, while Anna is wiggling her butt desperately."
+    "Honey回过头，眼神里充满着期待，而Anna则兴奋地摇晃着自己的臀部。"
 
 # game/farm.rpy#L1452
 translate chinese honeyannathreesome_4931417f:
 
     # "With my cock ready to go, I choose to start with Anna, she’s undoubtedly in a horny stupor right now and needs some sense fucked into her."
-    "With my cock ready to go, I choose to start with Anna, she’s undoubtedly in a horny stupor right now and needs some sense fucked into her."
+    "我的肉棒已经做好了准备。我决定先从Anna入手。毫无疑问，她现在已经是欲火中烧，不能自拔了，她急切期待着那种被干的快感。"
 
 # game/farm.rpy#L1455
 translate chinese honeyannathreesome_28b8986b:
@@ -4688,13 +4688,13 @@ translate chinese honeyannathreesome_d0916f7f:
 translate chinese honeyannathreesome_e5ceaec1:
 
     # honeycrisp "Mmphh… you took it all in so quickly, you’re a perverted girl after all this time, Anna."
-    honeycrisp "Mmphh… you took it all in so quickly, you’re a perverted girl after all this time, Anna."
+    honeycrisp "嗯唔唔……你入戏也太快了吧。Anna，这次你的表现可真像个小变态呢。"
 
 # game/farm.rpy#L1459
 translate chinese honeyannathreesome_9562e2d5:
 
     # anna "Eheh, I’ve had some practice with my dildo, but ahhh, this cock feels far better…"
-    anna "Eheh, I’ve had some practice with my dildo, but ahhh, this cock feels far better…"
+    anna "嗯嗯，虽然我已经用假肉棒练习过了，可……啊啊啊，这大棒棒的感觉可爽多了……"
 
 # game/farm.rpy#L1460
 translate chinese honeyannathreesome_7ba7af1d:
@@ -4706,31 +4706,31 @@ translate chinese honeyannathreesome_7ba7af1d:
 translate chinese honeyannathreesome_c0f2f678:
 
     # "I start to move my hips; my cock comfortably slides back and forth inside Anna. She’s so wet that as I pull out, I can see the entirety of my cock coated in a sheen of that wetness."
-    "I start to move my hips; my cock comfortably slides back and forth inside Anna. She’s so wet that as I pull out, I can see the entirety of my cock coated in a sheen of that wetness."
+    "我的腰部开始扭动起来。我的肉棒在Anna的小穴中来去自如，这感觉幸福无比。由于她小穴内部已经相当湿润，所以，在拔出肉棒时，我可以看到它已经完全被湿漉漉、亮闪闪的爱液包裹住了。"
 
 # game/farm.rpy#L1463
 translate chinese honeyannathreesome_3f93df2c:
 
     # "Every time I slide in, I can feel her insides tighten around my cock, enhancing the pleasure for both of us at the peak of each thrust."
-    "Every time I slide in, I can feel her insides tighten around my cock, enhancing the pleasure for both of us at the peak of each thrust."
+    "每当向前推进时，我都可以感受到小穴内壁正在紧紧地包裹在我肉棒的周围。这使得每次抽插都让我们极为享受。"
 
 # game/farm.rpy#L1464
 translate chinese honeyannathreesome_f0d664f8:
 
     # anna "F-Finally, ahh! This is incredible! T-Thank you, thank you!"
-    anna "F-Finally, ahh! This is incredible! T-Thank you, thank you!"
+    anna "终……终于，啊！这感觉妙极了！谢……谢你，太谢谢你了！"
 
 # game/farm.rpy#L1465
 translate chinese honeyannathreesome_b9db9907:
 
     # "She starts rocking her hips, making her butt rhythmically bounce into me, enthusiastically intensifying each thrust."
-    "She starts rocking her hips, making her butt rhythmically bounce into me, enthusiastically intensifying each thrust."
+    "她的腰身也开始扭动起来，之后，她的臀部开始了有节奏的上下起伏。而且，随着每次的起伏，她的动作变得越来越有激情，也越来越剧烈。"
 
 # game/farm.rpy#L1466
 translate chinese honeyannathreesome_06572e53:
 
     # "Every time our bodies meet there’s a satisfying thwap sound along with the girls’ moans."
-    "Every time our bodies meet there’s a satisfying thwap sound along with the girls’ moans."
+    "随着每一次的抽插，我们身体相接触的地方就会发出令人满足的啪啪声。此外，姑娘们的呻吟声也伴随着这啪啪声回荡在四周。"
 
 # game/farm.rpy#L1468
 translate chinese honeyannathreesome_3ef1a9f8:
@@ -4742,25 +4742,25 @@ translate chinese honeyannathreesome_3ef1a9f8:
 translate chinese honeyannathreesome_5b59bc17:
 
     # "Her pussy feels astounding around my cock right now, it’s overwhelming my senses."
-    "Her pussy feels astounding around my cock right now, it’s overwhelming my senses."
+    "现在，她内壁给我肉棒所带来的挤压感简直妙不可言，我全身的感官已经完全麻木了。"
 
 # game/farm.rpy#L1470
 translate chinese honeyannathreesome_2cc93449:
 
     # "It wouldn’t take me long to cum deep inside this girl’s tight pussy, but I’m hoping I can get her to come once or twice before I finish inside."
-    "It wouldn’t take me long to cum deep inside this girl’s tight pussy, but I’m hoping I can get her to come once or twice before I finish inside."
+    "我马上就要将精液射进她紧致蜜穴的最深处了，但在这之前，我还是希望能让她再高潮个一两次。"
 
 # game/farm.rpy#L1471
 translate chinese honeyannathreesome_1abe0e7b:
 
     # "I decide to help her out by using my hand to rub her clit."
-    "I decide to help her out by using my hand to rub her clit."
+    "我决定帮她按揉一下她的私处。"
 
 # game/farm.rpy#L1472
 translate chinese honeyannathreesome_036b3e75:
 
     # "This drives Anna absolutely wild, her back arches and her entire body trembles, some of her hairs stand on end!"
-    "This drives Anna absolutely wild, her back arches and her entire body trembles, some of her hairs stand on end!"
+    "这让Anna变得彻底疯狂了。她弓起后背，全身颤抖着。她身上的一些毛发居然也都竖了起来！"
 
 # game/farm.rpy#L1473
 translate chinese honeyannathreesome_08b2008a:
@@ -4784,13 +4784,13 @@ translate chinese honeyannathreesome_e830a787:
 translate chinese honeyannathreesome_dcadca96:
 
     # "Her moans are reduced to adorable squeaks as her hips buckle and a strong orgasm consumes her. "
-    "Her moans are reduced to adorable squeaks as her hips buckle and a strong orgasm consumes her. "
+    "当她沉浸在高潮的快感中时，她的腰身蜷缩起来，原先的呻吟声也渐渐变为了迷人的尖叫。"
 
 # game/farm.rpy#L1477
 translate chinese honeyannathreesome_017b790a:
 
     # "Anna even squirts onto my rubbing finger and thighs as she climaxes."
-    "Anna even squirts onto my rubbing finger and thighs as she climaxes."
+    "同样，Anna也达到了高潮，爱液喷射而出，溅到了我的手指和腿上。"
 
 # game/farm.rpy#L1478
 translate chinese honeyannathreesome_25df125a:
@@ -4802,19 +4802,19 @@ translate chinese honeyannathreesome_25df125a:
 translate chinese honeyannathreesome_2cb13fb9:
 
     # "I wasn’t planning on stopping. If anything, I’m going even quicker and harder so I can fill her pussy up with my cum before moving on to Honey."
-    "I wasn’t planning on stopping. If anything, I’m going even quicker and harder so I can fill her pussy up with my cum before moving on to Honey."
+    "我并没有打算停下来。总之，我抽插的速度会越来越快，抽插的力度也会越来越大，这样，在干Honey之前，我就可以爽爽地把她的小穴全部射满了。"
 
 # game/farm.rpy#L1480
 translate chinese honeyannathreesome_002bdc6f:
 
     # "I have to stop rubbing her clit and hold her ass tightly in order to speed up, but Anna is soon to replace my hand with hers as she starts to rub herself."
-    "I have to stop rubbing her clit and hold her ass tightly in order to speed up, but Anna is soon to replace my hand with hers as she starts to rub herself."
+    "为了加快速度，我只好将按揉Honey私处的手停了下来，然后用力抓住了Anna的臀部。但当我刚把手撤回来时，Anna却又将我这只手放到了她的阴蒂上揉捏起来。"
 
 # game/farm.rpy#L1481
 translate chinese honeyannathreesome_d288db84:
 
     # "Perfect, now I can go as hard as I want. After a long morning of teasing and flirting, I’m finally going to get what I want by deeply filling this cow girl."
-    "Perfect, now I can go as hard as I want. After a long morning of teasing and flirting, I’m finally going to get what I want by deeply filling this cow girl."
+    "太好了，现在，我就可以尽情地抽插了。经过一早上的调戏和玩弄，我终于可以如愿以偿，去内射这头小母牛了。"
 
 # game/farm.rpy#L1482
 translate chinese honeyannathreesome_e35957a6:
@@ -4898,19 +4898,19 @@ translate chinese honeyannathreesome_1b3269ec:
 translate chinese honeyannathreesome_649ba04a:
 
     # "Honey presents her pussy to me by spreading her outer lips out with her fingers. She’s utterly soaked, it has even dripped down her thighs."
-    "Honey presents her pussy to me by spreading her outer lips out with her fingers. She’s utterly soaked, it has even dripped down her thighs."
+    "Honey用手将自己的外阴扒开，然后将自己的小穴展现在了我的面前。她的下面已经完全湿润了，爱液也已经滴到了她的腿上。"
 
 # game/farm.rpy#L1513
 translate chinese honeyannathreesome_f9967cdc:
 
     # "As it drips with cum, I bring the tip of my cock to the entrance of her pussy. As usual, the pussies of these incredibly aroused girls invites me in with a delightful warmth and tightness."
-    "As it drips with cum, I bring the tip of my cock to the entrance of her pussy. As usual, the pussies of these incredibly aroused girls invites me in with a delightful warmth and tightness."
+    "我将沾有精液的肉棒放到了她的穴口。和往常一样，像这类性欲满满的姑娘的小穴总是那么温暖，那么紧致，而且随时都在欢迎着肉棒的到来。"
 
 # game/farm.rpy#L1514
 translate chinese honeyannathreesome_8cba4dc1:
 
     # "While sinking deeper, my shaft becomes fully erect again, that aphrodisiac is amazing!"
-    "While sinking deeper, my shaft becomes fully erect again, that aphrodisiac is amazing!"
+    "随着不断地深入，我的肉棒又一次完全坚挺了起来。这催情药的效果真是太惊人了！"
 
 # game/farm.rpy#L1515
 translate chinese honeyannathreesome_e9e16b33:
@@ -4922,13 +4922,13 @@ translate chinese honeyannathreesome_e9e16b33:
 translate chinese honeyannathreesome_3d47eaf8:
 
     # "My cock slides in all the way, the cum mixing in with her juices creating a messy lubricant the enables me to skip the gentle sex and get straight to the rough fucking."
-    "My cock slides in all the way, the cum mixing in with her juices creating a messy lubricant the enables me to skip the gentle sex and get straight to the rough fucking."
+    "我将肉棒完全插了进去，我的精液混合着她的爱液，使得她的小穴内壁变得光滑无比。这样一来，我就不需要进行轻柔的抽插了，我完全可以直接狂干她了。"
 
 # game/farm.rpy#L1518
 translate chinese honeyannathreesome_f1e114bc:
 
     # "With each thrust, I pull out the entirety of my shaft and sink it back in as deep as it’ll go."
-    "With each thrust, I pull out the entirety of my shaft and sink it back in as deep as it’ll go."
+    "每次抽插，我都会先将整根肉棒全部拔出，然后再将它用力插入到尽可能深的地方。"
 
 # game/farm.rpy#L1519
 translate chinese honeyannathreesome_a5d9659a:
@@ -4940,13 +4940,13 @@ translate chinese honeyannathreesome_a5d9659a:
 translate chinese honeyannathreesome_d55fe4ea:
 
     # "Honey’s body and muscles are tighter than the soft, squishy Anna. Even her pussy feels different as it squeezes around my shaft."
-    "Honey’s body and muscles are tighter than the soft, squishy Anna. Even her pussy feels different as it squeezes around my shaft."
+    "相比于Anna柔软细腻的身躯，Honey的肌肉和身体更为紧实。所以，当她的小穴裹缠并挤压着我的肉棒时，我体会到了一种前所未有的感觉。"
 
 # game/farm.rpy#L1521
 translate chinese honeyannathreesome_5639b056:
 
     # "It’s a more rough and rugged fuck, even if the cum around my cock makes her insides soaked and sloppy."
-    "It’s a more rough and rugged fuck, even if the cum around my cock makes her insides soaked and sloppy."
+    "即使我的肉棒周围沾满了精液，她的小穴也已变得光滑湿润，但抽插仍然十分困难。"
 
 # game/farm.rpy#L1522
 translate chinese honeyannathreesome_a3c13b7a:
@@ -4958,13 +4958,13 @@ translate chinese honeyannathreesome_a3c13b7a:
 translate chinese honeyannathreesome_61a2e50d:
 
     # "Yes ma'am! I kept fucking at this current pace which allowed me to feel all the best parts of her pussy on every nerve ending of my penis."
-    "Yes ma'am! I kept fucking at this current pace which allowed me to feel all the best parts of her pussy on every nerve ending of my penis."
+    "女士，那必须的！我会保持现在这个速度干你的，我要让我肉棒的每一个部位都享受一遍你那极品小穴的质感。"
 
 # game/farm.rpy#L1524
 translate chinese honeyannathreesome_e0753b2c:
 
     # "The pleasure wasn't so overwhelming that I would ejaculate too soon. She on the other hand could easily climax at this speed."
-    "The pleasure wasn't so overwhelming that I would ejaculate too soon. She on the other hand could easily climax at this speed."
+    "对我来说，这种快感并不是特别强烈，所以我是不会马上就射出来的。但对她来说，如果我继续按照现在这个速度抽插的话，她应该很快就会到达高潮了。"
 
 # game/farm.rpy#L1525
 translate chinese honeyannathreesome_12a22188:
