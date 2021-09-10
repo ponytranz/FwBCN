@@ -10520,7 +10520,7 @@ translate chinese melodyeveningvisit1_28ab5122:
 translate chinese melodyeveningvisit1_ab261e7c:
 
     # "With a schlick, she lifts herself up and pushes herself down over my thick cock. Her pussy pushes back and labia indents as her tightness takes me all the way to the hilt in an impressive display."
-    "With a schlick, she lifts herself up and pushes herself down over my thick cock. Her pussy pushes back and labia indents as her tightness takes me all the way to the hilt in an impressive display."
+    "随着“噗叽”一声，她一下跨坐在我挺拔的肉棒上。她的穴口紧紧收缩，妙曼的触感让我的激情一下子迸发了出来。"
 
 # game/boutique.rpy#L3193
 translate chinese melodyeveningvisit1_57d3faa1:
