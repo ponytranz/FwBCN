@@ -1124,7 +1124,7 @@ translate chinese arisex_fa6aa0df:
 translate chinese arisex_69aaed46:
 
     # "With a familiar tension building in my groin, I methodically pound Ari’s pussy as I push for my climax."
-    "我的下面传来了一种熟悉的紧张感，我有条不紊地抽插着Ari的下体，推向我自己的高潮。"
+    "我的肉棒传来了熟悉的紧张感，我有条不紊地抽插着Ari的屁股，把我推向我高潮。"
 
 # game/3map.rpy#L416
 translate chinese arisex_27cad567:
@@ -1658,7 +1658,7 @@ translate chinese giftshop_fa6aa0df:
 translate chinese giftshop_69aaed46:
 
     # "With a familiar tension building in my groin, I methodically pound Ari’s pussy as I push for my climax."
-    "我的下面传来了一种熟悉的紧张感，我有条不紊地抽插着Ari的下体，推向我自己的高潮。"
+    "我的肉棒传来了熟悉的紧张感，我有条不紊地抽插着Ari的屁股，把我推向我高潮。"
 
 # game/3map.rpy#L573
 translate chinese giftshop_cbbc37a8:

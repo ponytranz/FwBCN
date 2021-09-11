@@ -5108,7 +5108,7 @@ translate chinese honeyannathreesome_fb6edcfe:
 translate chinese honeyannathreesome_3a4a71c4:
 
     # honeycrisp "Ahhh! Inside, inside! Mmpphh…"
-    honeycrisp "Ahhh! Inside, inside! Mmpphh…"
+    honeycrisp "啊啊啊！进去了，射进去了！嗯嗯嗯……"
 
 # game/farm.rpy#L1567
 translate chinese honeyannathreesome_30b2a1c4:
@@ -5168,7 +5168,7 @@ translate chinese honeyannathreesome_fa8a500d:
 translate chinese honeyannathreesome_026fdea0:
 
     # anna "Cuddles? Oh, don’t cuddle without me!"
-    anna "Cuddles? Oh, don’t cuddle without me!"
+    anna "抱抱？哦，如果要抱抱的话，可别忘了我！"
 
 # game/farm.rpy#L1596
 translate chinese honeyannathreesome_cd322824:
@@ -5384,7 +5384,7 @@ translate chinese honeyannathreesome_0254ee2c:
 translate chinese honeyannathreesome_ac533870:
 
     # mc "Later and thank you!"
-    mc "Later and thank you!"
+    mc "谢谢了，再见！"
 
 # game/farm.rpy#L1673
 translate chinese honeyannathreesome_d06e8a57:
@@ -5918,13 +5918,13 @@ translate chinese farmvisit2choice1_918d0638:
 translate chinese farmvisit2choice1_db9e4195:
 
     # blossom "I study music, me and my friend Melody like to make music."
-    blossom "I study music, me and my friend Melody like to make music."
+    blossom "我是学音乐的，而且我和我朋友Melody都喜欢作曲。"
 
 # game/farm.rpy#L1821
 translate chinese farmvisit2choice1_ae2229e0:
 
     # "Melody? I can’t imagine that she-devil and Blossom being friends."
-    "Melody? I can’t imagine that she-devil and Blossom being friends."
+    "Melody？真想不到，这个马面兽心的Melody和Blossom居然是朋友。"
 
 # game/farm.rpy#L1823
 translate chinese farmvisit2choice1_4530792d:
