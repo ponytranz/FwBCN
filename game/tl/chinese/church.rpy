@@ -4424,31 +4424,31 @@ translate chinese lorequeen_6578b7f5:
 translate chinese lorequeen_aa1b78f9:
 
     # augusta "Ah-ha… Thing is, due to my role, I actually share your pleasure too… So, you made me orgasm once, and when that ended you had your orgasm causing me to orgasm again…"
-    augusta "Ah-ha… Thing is, due to my role, I actually share your pleasure too… So, you made me orgasm once, and when that ended you had your orgasm causing me to orgasm again…"
+    augusta "啊哈~原来如此，不过作为爱侣，我也有爽到...所以，你让我高潮一次，我高潮差不多快结束的时候你射了，让我又高潮了一次。"
 
 # game/church.rpy#L1410
 translate chinese lorequeen_73fb88eb:
 
     # augusta "So I had an orgasm for like… an entire minute. That’s bad for my heart, dude. Ah-ha!"
-    augusta "So I had an orgasm for like… an entire minute. That’s bad for my heart, dude. Ah-ha!"
+    augusta "所以我的高潮持续了有...一分钟的样子。人家的小心脏有点承受不了，兄dei。啊哈！"
 
 # game/church.rpy#L1411
 translate chinese lorequeen_57052be0:
 
     # mc "You’re telling me, you almost made me black out from the pleasure."
-    mc "You’re telling me, you almost made me black out from the pleasure."
+    mc "说得像我受得了似的，你差点把我爽晕过去。"
 
 # game/church.rpy#L1413
 translate chinese lorequeen_4fe72e1e:
 
     # augusta "Alright, I fuckin’ admit it, I was showing off because you’re from another universe… But you’re definitely no virgin, ahh… hahaaa… Phew…"
-    augusta "Alright, I fuckin’ admit it, I was showing off because you’re from another universe… But you’re definitely no virgin, ahh… hahaaa… Phew…"
+    augusta "那好吧，承让承让，毕竟你是从其他宇宙来的，我是在炫耀呐...不过你确实比处男强多了，哈啊啊...呼......"
 
 # game/church.rpy#L1415
 translate chinese lorequeen_d5e1c32a:
 
     # augusta "Maybe I should just take today off and chill out…"
-    augusta "Maybe I should just take today off and chill out…"
+    augusta "也许我今天该放松下，好好休息......"
 
 # game/church.rpy#L1417
 translate chinese lorequeen_a21738be:
@@ -4478,79 +4478,79 @@ translate chinese lorequeen_4246ca6b:
 translate chinese lorequeen_f47d839a:
 
     # augusta "Hmph, you’ve got some pep. I wonder if Aurora would still be pissed if I offered to make you a priest…"
-    augusta "Hmph, you’ve got some pep. I wonder if Aurora would still be pissed if I offered to make you a priest…"
+    augusta "哼，你倒是还活力满满的。不知道Aurora见了你这副样子，还会不会驳斥我收你做爱之神父的意见。"
 
 # game/church.rpy#L1424
 translate chinese lorequeen_3a33dece:
 
     # augusta "I mean, is that something you’d want? You could come here and work with a few customers; a man with your stamina could outperform a lot of the priests, especially with some milk supplements."
-    augusta "I mean, is that something you’d want? You could come here and work with a few customers; a man with your stamina could outperform a lot of the priests, especially with some milk supplements."
+    augusta "我是说，这不就是你想要的？你可以来这儿，服务好几个顾客；一个精力充沛，续航超长的男的能顶我们好几个神父了，有牛奶加持的话效果会更好。"
 
 # game/church.rpy#L1425
 translate chinese lorequeen_8eb92174:
 
     # mc "I’ll think about it… Becoming an isekai prostitute wasn’t exactly a dream of mine."
-    mc "I’ll think about it… Becoming an isekai prostitute wasn’t exactly a dream of mine."
+    mc "我会考虑的...当个异世界男妓不是我的理想之一。"
 
 # game/church.rpy#L1427
 translate chinese lorequeen_ecb4e8e3:
 
     # augusta "Ahh, you still have some deeply ingrained biases. If you’re that fussy, just come here and fuck me instead! I need to study your anthropology and entomology so I can give you the best sexual service possible."
-    augusta "Ahh, you still have some deeply ingrained biases. If you’re that fussy, just come here and fuck me instead! I need to study your anthropology and entomology so I can give you the best sexual service possible."
+    augusta "啊，原来你还有那些根深蒂固的偏见啊。既然你这么挑，那以后来这儿和我爱爱不就行了！你身上还有很多人类和昆虫学的知识可供我攫取，我学得越多，和你上床的时候活就越好。"
 
 # game/church.rpy#L1429
 translate chinese lorequeen_125bd682:
 
     # "Is that something she does with all species? I guess it’s lucky that I’m the only person in this entire species."
-    "Is that something she does with all species? I guess it’s lucky that I’m the only person in this entire species."
+    "她对所有物种都这个态度和处事方法吗？还好目前这个世界里，“人类”只有我一个。"
 
 # game/church.rpy#L1430
 translate chinese lorequeen_a5ee0381:
 
     # "That explains the titles for the books on her bookshelves."
-    "That explains the titles for the books on her bookshelves."
+    "所以她书架里那本书叫这个名字："
 
 # game/church.rpy#L1431
 translate chinese lorequeen_882658ea:
 
     # "Ultimate Guide to Pleasuring Stallions 25th edition – Princess Augusta, Princess Ophelia."
-    "Ultimate Guide to Pleasuring Stallions 25th edition – Princess Augusta, Princess Ophelia."
+    "《取悦公马的终极指南第25版》Augusta公主，Ophelia公主 合著。"
 
 # game/church.rpy#L1432
 translate chinese lorequeen_30219373:
 
     # "Ultimate Guide to Pleasuring Lupines 10th edition – Princess Augusta."
-    "Ultimate Guide to Pleasuring Lupines 10th edition – Princess Augusta."
+    "《取悦鲁冰花的终极指南第10版》Augusta公主 著。"
 
 # game/church.rpy#L1433
 translate chinese lorequeen_4fee1790:
 
     # "Ultimate Guide to… eh? What’s a gastropod? Wait, what the fuck?"
-    "Ultimate Guide to… eh? What’s a gastropod? Wait, what the fuck?"
+    "《取悦腹足动物的终...呃？腹足动物是什么东西？等下，什么鬼？"
 
 # game/church.rpy#L1435
 translate chinese lorequeen_c74a8d6d:
 
     # augusta "Heh, I see you’re eyeing up the books. I doubt I’ll release a book on you; however, these books are only secondary to my passion for the study of anthropological mating habits."
-    augusta "Heh, I see you’re eyeing up the books. I doubt I’ll release a book on you; however, these books are only secondary to my passion for the study of anthropological mating habits."
+    augusta "嘿，你在看人家的藏书呢。我可能也会出一本怎么攻略你的书，不过这些书只是我研究类人生物交配习惯的副产物之一。"
 
 # game/church.rpy#L1436
 translate chinese lorequeen_71091f4a:
 
     # augusta "I failed to tell you this earlier, but if you come and work here, I want to watch you, and maybe even participate!"
-    augusta "I failed to tell you this earlier, but if you come and work here, I want to watch you, and maybe even participate!"
+    augusta "我之前没告诉过你这方面的事情，但要是你来这儿工作，我想好好观察你，有时候也会参与进来的！"
 
 # game/church.rpy#L1437
 translate chinese lorequeen_0143ea5e:
 
     # mc "Sheesh, you’re a real handful Augusta, a real damn handful."
-    mc "Sheesh, you’re a real handful Augusta, a real damn handful."
+    mc "我去，Augusta，你属实难以捉摸，难到爆炸。"
 
 # game/church.rpy#L1439
 translate chinese lorequeen_af8cc639:
 
     # augusta "Ah-ha, I see the wisdom from the eye of infinity has unsealed! Come forth my reign of lust and consume the lands! Ah-hahaha!"
-    augusta "Ah-ha, I see the wisdom from the eye of infinity has unsealed! Come forth my reign of lust and consume the lands! Ah-hahaha!"
+    augusta "啊哈，无尽的智慧之眼已经开启！施放吾之欲望，散播吾之信仰，淹没这片大地吧！啊哈哈哈！"
 
 # game/church.rpy#L1440
 translate chinese lorequeen_f2a6272d:
@@ -4586,7 +4586,7 @@ translate chinese lorequeen_c11c844d:
 translate chinese lorequeen_47923f9d:
 
     # augusta "You masturbated while watching earlier, that was very interesting. Try participating next time, though!"
-    augusta "You masturbated while watching earlier, that was very interesting. Try participating next time, though!"
+    augusta "你上次在一旁边看边打手冲，蛮有意思的。下次要参与进来才行啊！"
 
 # game/church.rpy#L1454
 translate chinese lorequeen_ac132de5:
@@ -4598,13 +4598,13 @@ translate chinese lorequeen_ac132de5:
 translate chinese lorequeen_892e5fb1:
 
     # augusta "You wasted no time sticking it up that mare's butt. You're a brave soul, [playername]. Let's try another mare, another hole next time."
-    augusta "You wasted no time sticking it up that mare's butt. You're a brave soul, [playername]. Let's try another mare, another hole next time."
+    augusta "你毫不犹豫地在那只雌驹的后庭里捣弄了一番。非常大胆的决策，[playername]。下次试试另外一只雌驹吧，记得插另外一个洞哦。"
 
 # game/church.rpy#L1458
 translate chinese lorequeen_e416d683:
 
     # augusta "You easily bested the quality of sex that most of my priests offer when you fucked that mare earlier..."
-    augusta "You easily bested the quality of sex that most of my priests offer when you fucked that mare earlier..."
+    augusta "从你操那匹雌驹的动作来看，你的性爱质量轻轻松松秒我这边大部分的神父......"
 
 # game/church.rpy#L1459
 translate chinese lorequeen_c5c9c572:
@@ -4616,7 +4616,7 @@ translate chinese lorequeen_c5c9c572:
 translate chinese lorequeen_331b29ab:
 
     # augusta "Ideally I’d like a good diversity of acts too, so I may participate to aid that cause."
-    augusta "Ideally I’d like a good diversity of acts too, so I may participate to aid that cause."
+    augusta "我呢，喜欢做事情亲历亲为，也许我也参与下。"
 
 # game/church.rpy#L1462
 translate chinese lorequeen_471daa25:
@@ -4652,19 +4652,19 @@ translate chinese lorequeen_80e967c7:
 translate chinese lorequeen_f4c6cd29:
 
     # augusta "Maybe is better than no! Ah-ha, I the goddess of love will lure you in with the promise of more lustful acts!"
-    augusta "Maybe is better than no! Ah-ha, I the goddess of love will lure you in with the promise of more lustful acts!"
+    augusta "谁说的没有奖励，话可别说太早哦！我，爱之女神，会用更加淫荡的行动来诱惑你！"
 
 # game/church.rpy#L1473
 translate chinese lorequeen_a8b64e3e:
 
     # augusta "You seem unmotivated, however! Perhaps now you’re simply enjoying a post-coital/post-masturbatory absence of primal thoughts, but within the next few days you’ll come crawling back."
-    augusta "You seem unmotivated, however! Perhaps now you’re simply enjoying a post-coital/post-masturbatory absence of primal thoughts, but within the next few days you’ll come crawling back."
+    augusta "不过！你现在看起来没多大动力。可能只是因为交合后或者自慰后提不起性趣而已，但我敢说几天后，你会乖乖爬回我这儿来的。"
 
 # game/church.rpy#L1474
 translate chinese lorequeen_9a33baa5:
 
     # mc "Do you have any idea how many times I have sex a week? By Aurora, maybe I should be the god of love."
-    mc "Do you have any idea how many times I have sex a week? By Aurora, maybe I should be the god of love."
+    mc "你知道我一周跟其他马滚多少次床单吗？Aurora，也许我才该被称作爱之神。"
 
 # game/church.rpy#L1476
 translate chinese lorequeen_8dc0825e:
@@ -4682,31 +4682,31 @@ translate chinese lorequeen_c9d4ee11:
 translate chinese lorequeen_03b00a26:
 
     # augusta "You really are tough competition… I’ll have to do something about this, hmm!"
-    augusta "You really are tough competition… I’ll have to do something about this, hmm!"
+    augusta "那你真是个抢手货啊...我会有所行动的，哼！"
 
 # game/church.rpy#L1481
 translate chinese lorequeen_bc8b08a4:
 
     # "With simply a passive wave, Augusta leaves the room and returns downstairs."
-    "With simply a passive wave, Augusta leaves the room and returns downstairs."
+    "Augusta只是轻轻地摆了摆手，就离开房间到楼下去了。"
 
 # game/church.rpy#L1482
 translate chinese lorequeen_82bcc53a:
 
     # "I hope she doesn’t try to snuff me the next time we have sex. There are a lot of things I'm willing to try, but not that."
-    "I hope she doesn’t try to snuff me the next time we have sex. There are a lot of things I'm willing to try, but not that."
+    "希望我和她下次啪啪的时候她不会出什么狠招儿。我想尝试的东西不少，那方面的除外。"
 
 # game/church.rpy#L1483
 translate chinese lorequeen_6b7db2fd:
 
     # "Wait, more importantly… Why the hell did she just leave me in her house?"
-    "Wait, more importantly… Why the hell did she just leave me in her house?"
+    "等下，更重要的是...为什么她撇下我一个人在她的房子里走了？"
 
 # game/church.rpy#L1484
 translate chinese lorequeen_d6e87888:
 
     # "Wait, is that more important? My priorities are all off today. Her eccentricity has fried my brain circuits."
-    "Wait, is that more important? My priorities are all off today. Her eccentricity has fried my brain circuits."
+    "再等下，这也不是最重要的事情。我今天已经没什么特别想去做的事情了。她的各种奇葩癖好和言论已经把我脑回路炸了。"
 
 # game/church.rpy#L1486
 translate chinese lorequeen_f9dc9f75:

@@ -9584,7 +9584,7 @@ translate chinese rikuclimbingsex_49459340:
 translate chinese rikuclimbingsex_0d108671:
 
     # mc "All I said is that you have to hold on until I’ve filled you up. I didn’t specify any conditions."
-    mc "All I said is that you have to hold on until I’ve filled you up. I didn’t specify any conditions."
+    mc "我说的可是，你得坚持住，直到我交货为止。我可没指定任何附加条件。"
 
 # game/bar.rpy#L2763
 translate chinese rikuclimbingsex_05b791cc:
@@ -9662,7 +9662,7 @@ translate chinese rikuclimbingsex_b0633a85:
 translate chinese rikuclimbingsex_0c48d25d:
 
     # riku "Mmphh… Come on, man... Teasing me like that is mean!"
-    riku "Mmphh… Come on, man... Teasing me like that is mean!"
+    riku "嗯嗯...插进来啊，老弟...这般玩弄我真不像话！"
 
 # game/bar.rpy#L2778
 translate chinese rikuclimbingsex_f3b5d645:
@@ -9758,7 +9758,7 @@ translate chinese rikuclimbingsex_22319016:
 translate chinese rikuclimbingsex_8e66792f:
 
     # "Her arms don’t even seem slightly tired, but I haven’t forgotten how much of a physical specimen the unsuspecting Riku really is."
-    "Her arms don’t even seem slightly tired, but I haven’t forgotten how much of a physical specimen the unsuspecting Riku really is."
+    "她的手臂甚至一点酸累的意思都没有，不过我还是很清楚，Riku可不是什么固定标本之类的东西，我得整她一整。"
 
 # game/bar.rpy#L2802
 translate chinese rikuclimbingsex_5cb79588:
@@ -9896,7 +9896,7 @@ translate chinese rikuclimbingsex_9967e863:
 translate chinese rikuclimbingsex_ab32869b:
 
     # blossom "Yeah, I mean, we’ve all already done it."
-    blossom "Yeah, I mean, we’ve all already done it."
+    blossom "嗯，我的意思是，我们都瞧见了。"
 
 # game/bar.rpy#L2855
 translate chinese rikuclimbingsex_593362df:
@@ -11030,7 +11030,7 @@ translate chinese eveningbarmenu_8c0bb9f1:
 translate chinese eveningbarmenu_ddb274bc:
 
     # midna "Aye, I like it as rough as I am rough around the edges!"
-    midna "Aye, I like it as rough as I am rough around the edges!"
+    midna "没错，我喜欢狠操，就像我身上的毛一样狠！"
 
 # game/bar.rpy#L3208
 translate chinese eveningbarmenu_85498165:

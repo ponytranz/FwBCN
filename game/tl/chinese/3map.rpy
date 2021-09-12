@@ -1040,7 +1040,7 @@ translate chinese arisex_3c5595f0:
 translate chinese arisex_651fffff:
 
     # "Ari gasps and squirms slightly, her fingers digging into the bedsheets as she happily watches the action."
-    "Ari喘着气，微微扭动着身体，她的手指戳进床单里，开心地看着这一幕"
+    "Ari喘着气，微微扭动着身体，手指戳进床单里，开心地看着这一幕。"
 
 # game/3map.rpy#L396
 translate chinese arisex_4d489779:
@@ -1130,13 +1130,13 @@ translate chinese arisex_69aaed46:
 translate chinese arisex_27cad567:
 
     # "My cock pulsates as my pleasure peaks; my vision goes white and my cock unleashes a spray of hot cum into the once virgin."
-    "我的cock搏动到我快乐的顶峰，我一阵美妙的晕眩，向这个曾经的处女喷射出一股炽热的精液。"
+    "我的肉棒运动到快乐的顶峰，一阵美妙的晕眩后，向这个曾经的处女喷射出一股炽热的精液。"
 
 # game/3map.rpy#L422
 translate chinese arisex_b9891671:
 
     # ari "Aahh, ahhh! Y-Yes, cum in me! F-Fuck! Ahh, aaahhh!"
-    ari "啊.....哈.....射我！操！.....啊~哈......"
+    ari "啊.....哈.....填满我！操！.....啊~哈......"
 
 # game/3map.rpy#L423
 translate chinese arisex_825ad785:
@@ -1148,7 +1148,7 @@ translate chinese arisex_825ad785:
 translate chinese arisex_164c2881:
 
     # "Her entire body quivers as we fuck out the rest of our orgasms until I’ve unloaded every ounce of my cum into her."
-    "她的整个身体在这最后一刻仍颤抖着，直到我把每一滴精液都射进她的体内。"
+    "她的整个身体在这最后仍颤抖着，直到我把每一滴精液都射进她的体内。"
 
 # game/3map.rpy#L427
 translate chinese arisex_fcc76f1d:
@@ -1364,7 +1364,7 @@ translate chinese arisex_eca3dc0d:
 translate chinese arisex_fe02c80a:
 
     # mc "You're welcome, Ari."
-    mc "不客气，Ari"
+    mc "不客气，Ari。"
 
 # game/3map.rpy#L479
 translate chinese arisex_8a60145a:
@@ -1550,13 +1550,13 @@ translate chinese giftshop_96e5f571:
 translate chinese giftshop_b7c4d504:
 
     # ari "Hmm... I must admit, it's rather arousing to be fucked on a bed that you fuck other mares on."
-    ari "嗯…必须承认，在你和其他母马睡过的床上做爱是相当令我兴奋的。"
+    ari "嗯…必须承认，在你和其他小雌驹睡过的床上做爱相当令我兴奋。"
 
 # game/3map.rpy#L547
 translate chinese giftshop_eadab305:
 
     # "That was a strange comment... Anyway, she’s really wet now. Even though she's quite tight, it should be pretty easy to penetrate her now."
-    "听起来有点奇怪…不管怎样，她的下体虽然很紧，但现在真的湿透了，应该可以很容易插入她。"
+    "这话听起来有点奇怪…不管怎样，她的下体很紧，但现在完全湿透了，应该可以很容易得插入。"
 
 # game/3map.rpy#L548
 translate chinese giftshop_6e4874a2:
@@ -1574,19 +1574,19 @@ translate chinese giftshop_04ab8f6a:
 translate chinese giftshop_9c15761c:
 
     # "My cock was already anticipating the act and had been growing hard ever since we agreed to it."
-    "我的cock也准备已久，从我们同意后就一直在越发紧绷。"
+    "我的肉棒也准备已久，从我们同意做爱后就一直在越发紧绷。"
 
 # game/3map.rpy#L553
 translate chinese giftshop_df31d9ed:
 
     # "In a mere moment the tip of my erection is pressed up against her lustful pussy. Pushing forward, I feel her nether lips part around my girth."
-    "就在我龟头插入那欲火焚烤的阴道的一刹那，我感到她的阴唇像波涛汹涌的海面被我的cock劈开。"
+    "就在我龟头插入那欲火焚烤的阴道的一刹那，我感到她的阴唇像波涛汹涌的海面那般被我的肉棒劈开。"
 
 # game/3map.rpy#L554
 translate chinese giftshop_651fffff:
 
     # "Ari gasps and squirms slightly, her fingers digging into the bedsheets as she happily watches the action."
-    "Ari喘着气，微微扭动着身体，她的手指戳进床单里，开心地看着这一幕。"
+    "Ari喘着气，微微扭动着身体，手指戳进床单里，开心地看着这一幕。"
 
 # game/3map.rpy#L555
 translate chinese giftshop_4d489779:
@@ -1670,7 +1670,7 @@ translate chinese giftshop_cbbc37a8:
 translate chinese giftshop_b9891671:
 
     # ari "Aahh, ahhh! Y-Yes, cum in me! F-Fuck! Ahh, aaahhh!"
-    ari "啊.....哈.....射我！操！.....啊~哈......"
+    ari "啊.....哈.....填满我！操！.....啊~哈......"
 
 # game/3map.rpy#L580
 translate chinese giftshop_89b29545:
@@ -1682,7 +1682,7 @@ translate chinese giftshop_89b29545:
 translate chinese giftshop_164c2881:
 
     # "Her entire body quivers as we fuck out the rest of our orgasms until I’ve unloaded every ounce of my cum into her."
-    "她的整个身体在这最后一刻仍颤抖着，直到我把每一滴精液都射进她的体内。"
+    "她的整个身体在这最后仍颤抖着，直到我把每一滴精液都射进她的体内。"
 
 # game/3map.rpy#L584
 translate chinese giftshop_fcc76f1d:

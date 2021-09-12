@@ -632,14 +632,14 @@
   {
     "id": 79443097,
     "createdAt": "2021-05-30T19:47:47.000Z",
-    "updatedAt": "2021-06-02T15:57:33.000Z",
+    "updatedAt": "2021-09-11T07:46:55.000Z",
     "key": "game/boutique.rpy_L2146_1",
     "original": "Nah... I like it when it's just you and I. I wouldn't be against a third participant, though.",
-    "translation": "不……我虽然喜欢两个人独处，但我也不介意再多加一个人。",
+    "translation": "不……我虽然喜欢我们的二人世界，但我也不介意再多来个。",
     "file": 272375,
     "stage": 3,
     "project": 2414,
-    "uid": null,
+    "uid": 22062,
     "extra": null,
     "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/boutique.rpy#L2146",
     "words": 18

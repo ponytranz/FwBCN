@@ -1526,7 +1526,7 @@ translate chinese eveningbutterssex_a20cefa7_7:
 translate chinese eveningbutterssex_0144553b:
 
     # butters "You wanna play with my boobs?"
-    butters "你想让人家用胸部服侍你？"
+    butters "你想让人家用奶子服侍你？"
 
 # game/2evening%20butters.rpy#L597
 translate chinese eveningbutterssex_54658c80:
@@ -4844,7 +4844,7 @@ translate chinese buttersimpregpaizuri_28099a12:
 translate chinese buttersimpregpaizuri_b7cfef17:
 
     # butters "In fact, I have an overwhelming urge to be cuddled. Come on, wrap your arms around me."
-    butters "现在，我只想要一个给力的XOXO，不要XXOO。来吧，用你强有力的怀抱紧紧搂住我。"
+    butters "现在，我只想要一个给力的XOXO，不要XXOO。来嘛，人家想要一个暖暖的抱抱~"
 
 # game/2evening%20butters.rpy#L1679
 translate chinese buttersimpregpaizuri_c34fd2d4:
@@ -4856,7 +4856,7 @@ translate chinese buttersimpregpaizuri_c34fd2d4:
 translate chinese buttersimpregpaizuri_232d76d5:
 
     # butters "Fiiine…"
-    butters "行吧......"
+    butters "彳亍口巴......"
 
 # game/2evening%20butters.rpy#L1683
 translate chinese buttersimpregpaizuri_ce617998_1:

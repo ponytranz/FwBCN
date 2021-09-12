@@ -4568,7 +4568,7 @@ translate chinese annamilking_94b882c9:
 translate chinese annamilking_408f389b:
 
     # honeycrisp "It’s not that unusual for girls to do those kinds of things during heat, but imagine my surprise when I get a man willing to join us on that same day."
-    honeycrisp "It’s not that unusual for girls to do those kinds of things during heat, but imagine my surprise when I get a man willing to join us on that same day."
+    honeycrisp "雌驹们在发情期做这种事情并不罕见，但是想象一下，当我遇到一匹愿意在同一天加入我们的种马时，我会有多惊讶。"
 
 # game/farm.rpy#L1417
 translate chinese annamilking_e2f82f32:
@@ -4916,7 +4916,7 @@ translate chinese honeyannathreesome_8cba4dc1:
 translate chinese honeyannathreesome_e9e16b33:
 
     # honeycrisp "Aaahh! Don’t hold back stud, I haven’t been able to get off in a week!"
-    honeycrisp "Aaahh! Don’t hold back stud, I haven’t been able to get off in a week!"
+    honeycrisp "啊哈！不要影响我学习了，我已经一个星期没下马车了！"
 
 # game/farm.rpy#L1517
 translate chinese honeyannathreesome_3d47eaf8:
