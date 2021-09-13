@@ -10664,7 +10664,7 @@ translate chinese blossomvisit_ddbcb839:
 translate chinese blossomvisit_05905193:
 
     # blossom "A-Ah don't know whatcha talking about!"
-    blossom "A-Ah don't know whatcha talking about!"
+    blossom "啊……啊，我不明白你到底在说什么！"
 
 # game/farm.rpy#L3215
 translate chinese blossomvisit_01935283:
@@ -10676,13 +10676,13 @@ translate chinese blossomvisit_01935283:
 translate chinese blossomvisit_665861ec:
 
     # mc "I'll see you two later."
-    mc "I'll see you two later."
+    mc "再见了，两位。"
 
 # game/farm.rpy#L3218
 translate chinese blossomvisit_19341a3b:
 
     # melody "Sure thing champ, I'll see you in the boutique."
-    melody "Sure thing champ, I'll see you in the boutique."
+    melody "那必须的，帅哥。咱们精品店再见哦。"
 
 # game/farm.rpy#L3224
 translate chinese blossomvisitmenu_e4af789c:
@@ -10694,7 +10694,7 @@ translate chinese blossomvisitmenu_e4af789c:
 translate chinese blossomvisitmenu_4984ec5b:
 
     # blossom "Yeah, I better get to the music studio. See you later [playername]!"
-    blossom "Yeah, I better get to the music studio. See you later [playername]!"
+    blossom "嗯哼，我还是快点去音乐工作室吧。再见了，[playername]！"
 
 # game/farm.rpy#L3235
 translate chinese blossomtalk_3e8b25fe:
@@ -10706,7 +10706,7 @@ translate chinese blossomtalk_3e8b25fe:
 translate chinese blossomtalk_2aab87fa:
 
     # mc "Yeah, I bet you're feeling relieved."
-    mc "Yeah, I bet you're feeling relieved."
+    mc "我当然知道了。我敢说，你现在终于可以长舒一口气了。"
 
 # game/farm.rpy#L3237
 translate chinese blossomtalk_4fe233cf:
@@ -10784,7 +10784,7 @@ translate chinese blossomtalk_b8dc6baa:
 translate chinese blossomtalk_357eaad3:
 
     # mc "Any plans after college?"
-    mc "Any plans after college?"
+    mc "毕业之后有什么打算啊？"
 
 # game/farm.rpy#L3254
 translate chinese blossomtalk_78f6f51d:
@@ -12284,7 +12284,7 @@ translate chinese annavisit_83a74b82:
 translate chinese annavisit_740520c5:
 
     # "They must be having a lunch break, heh."
-    "They must be having a lunch break, heh."
+    "她们一定是吃午餐和午休去了，嘿嘿。"
 
 # game/farm.rpy#L3734
 translate chinese annavisit_e4342a6c:
@@ -12878,7 +12878,7 @@ translate chinese annasex_681635d8:
 translate chinese annasex_7d2d9751:
 
     # anna "Ahh, ahh… ahh! So-So much!"
-    anna "Ahh, ahh… ahh! So-So much!"
+    anna "啊，啊……啊啊啊！好……好多啊！"
 
 # game/farm.rpy#L3894
 translate chinese annasex_332d56d0:
@@ -12896,7 +12896,7 @@ translate chinese annasex_a25bc77d:
 translate chinese annasex_61218164:
 
     # anna "Mmm, I like it messy, but this might require a shower! Hehe"
-    anna "Mmm, I like it messy, but this might require a shower! Hehe"
+    anna "嗯，我就喜欢这种一塌糊涂的感觉，但最好还是去洗个澡吧！嘿嘿……"
 
 # game/farm.rpy#L3900
 translate chinese annasex_12c532c9:
@@ -12926,13 +12926,13 @@ translate chinese annasex_16af3386:
 translate chinese annasex_ec28f13f:
 
     # "She leans against me meekly, one of her hands brings itself to my flaccid penis and starts to jerk it, getting the blood flowing as it rapidly stiffens."
-    "She leans against me meekly, one of her hands brings itself to my flaccid penis and starts to jerk it, getting the blood flowing as it rapidly stiffens."
+    "她服服帖帖地靠在我身旁，然后单手握住我那已经软下来的肉棒，随后撸动了起来。这让我血脉喷张，肉棒也立刻硬了起来。"
 
 # game/farm.rpy#L3910
 translate chinese annasex_23e1e768:
 
     # anna "I know it’s a little selfish… But can you?"
-    anna "I know it’s a little selfish… But can you?"
+    anna "我知道这样做很自私……但你能不能……？"
 
 # game/farm.rpy#L3911
 translate chinese annasex_e4a498e6:

@@ -8942,7 +8942,7 @@ translate chinese melodyeveningmenu_33df1354:
 translate chinese melodyeveningmenu_6ad8593b:
 
     # melody "Eugh, this pisses me off. This is why I'm an angry bitch that wants to step on balls. I'm so sick of people."
-    melody "呃呃，就是这个现象让我相当不爽。现在知道为什么我很讨厌那些用下面想东西，提起他们就变成暴躁老哥的原因了吧。其他马病态得很。"
+    melody "呃呃，就是这个现象让我相当不爽。现在知道为什么我很讨厌那些用下面想东西，提起他们就变成暴躁老哥的原因了吧。这些马都有病。"
 
 # game/boutique.rpy#L2667
 translate chinese melodyeveningmenu_d2a85c68:
