@@ -4970,7 +4970,7 @@ translate chinese honeyannathreesome_e0753b2c:
 translate chinese honeyannathreesome_12a22188:
 
     # "I could see Anna also masturbating whilst she eagerly watched us, cum dripping down her thighs."
-    "I could see Anna also masturbating whilst she eagerly watched us, cum dripping down her thighs."
+    "我看到Anna一边自慰一边热切地望着我，淫液从她的腿上滑落。"
 
 # game/farm.rpy#L1526
 translate chinese honeyannathreesome_160039f1:

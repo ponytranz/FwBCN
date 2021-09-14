@@ -3572,7 +3572,7 @@ translate chinese creamvmissionary_20f3ccad:
 translate chinese creamvmissionary_d8fcf686:
 
     # "Her moans of ecstasy make it clear that she's going to orgasm any second, and as she does, she squeals loudly while her vagina clenches around my cock."
-    "Her moans of ecstasy make it clear that she's going to orgasm any second, and as she does, she squeals loudly while her vagina clenches around my cock."
+    "她欢悦而兴奋的呻吟表明她随时都有高潮的可能，当她高潮地时候，她高声尖叫着，用小穴更加有力地咬住了我的肉棒。"
 
 # game/bakery.rpy#L1161
 translate chinese creamvmissionary_f6ca9404:
@@ -3620,7 +3620,7 @@ translate chinese creamvmissionary_087bf0fc:
 translate chinese creamvmissionary_3707b5cc:
 
     # ruby "Hehe, we're so good that people would tune in to watch. Maybe next time we should do a camshow, but no drinking beforehand!"
-    ruby "Hehe, we're so good that people would tune in to watch. Maybe next time we should do a camshow, but no drinking beforehand!"
+    ruby "哈，咱们配合太牛了，观众肯定会来看咱们的直播的。下一次也许咱们可以办一个摄影展，但绝不能事先喝酒！"
 
 # game/bakery.rpy#L1181
 translate chinese creamvmissionary_98e0b782:
@@ -3638,19 +3638,19 @@ translate chinese creamvmissionary_b3961fc5:
 translate chinese creamvmissionary_b3b30073:
 
     # "As I talk with Melody, she's a relentless tease as usual, although far more watered down when around the others."
-    "As I talk with Melody, she's a relentless tease as usual, although far more watered down when around the others."
+    "当我和Melody交谈时，她像往常一样不停挑逗我，尽管在别人面前时她会收敛一点。"
 
 # game/bakery.rpy#L1187
 translate chinese creamvmissionary_de250707:
 
     # "She does seem to show subtle signs of jealousy though, and she's the one that actually asks if I want to come to her place."
-    "She does seem to show subtle signs of jealousy though, and she's the one that actually asks if I want to come to her place."
+    "然而她似乎还表现出了一丝嫉妒，她是诚心诚意地问我想不想去她家"
 
 # game/bakery.rpy#L1188
 translate chinese creamvmissionary_065a3f83:
 
     # "While she'd never admit that she brought me home for sex, I can definitely tell the alcohol has made her hornier than usual."
-    "While she'd never admit that she brought me home for sex, I can definitely tell the alcohol has made her hornier than usual."
+    "她坚决不承认带我回家是为了和我做爱，但我肯定，酒精让她比平时还要饥渴。"
 
 # game/bakery.rpy#L1193
 translate chinese creamvmissionary_23438060:

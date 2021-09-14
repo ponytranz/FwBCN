@@ -26,11 +26,11 @@ translate chinese strings:
 
     # renpy/common/00accessibility.rpy_L35_0
     old "horizontal scroll"
-    new "horizontal scroll"
+    new "横轴"
 
     # renpy/common/00accessibility.rpy_L36_0
     old "vertical scroll"
-    new "vertical scroll"
+    new "竖轴"
 
     # renpy/common/00accessibility.rpy_L37_0
     old "activate"
@@ -278,15 +278,15 @@ translate chinese strings:
 
     # renpy/common/00action_file.rpy_L566_0
     old "File page auto"
-    new "File page auto"
+    new "自动滚页"
 
     # renpy/common/00action_file.rpy_L568_0
     old "File page quick"
-    new "File page quick"
+    new "快速翻页"
 
     # renpy/common/00action_file.rpy_L570_0
     old "File page [text]"
-    new "File page [text]"
+    new "页码 [text]"
 
     # renpy/common/00action_file.rpy_L628_0
     old "Page {}"
@@ -342,23 +342,23 @@ translate chinese strings:
 
     # renpy/common/00director.rpy_L1561_0
     old "(statement)"
-    new "(statement)"
+    new "（声明）"
 
     # renpy/common/00director.rpy_L1562_0
     old "(tag)"
-    new "(tag)"
+    new "（标签）"
 
     # renpy/common/00director.rpy_L1563_0
     old "(attributes)"
-    new "(attributes)"
+    new "（属性）"
 
     # renpy/common/00director.rpy_L1564_0
     old "(transform)"
-    new "(transform)"
+    new "（改变）"
 
     # renpy/common/00director.rpy_L1589_0
     old "(transition)"
-    new "(transition)"
+    new "（过渡）"
 
     # renpy/common/00director.rpy_L1601_0
     old "(channel)"
