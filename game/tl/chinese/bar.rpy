@@ -11432,7 +11432,7 @@ translate chinese eveningbarmenu_c0605de9_1:
 translate chinese eveningbarmenu_4a553283_1:
 
     # "Truly Midna's technique is exquisite, my cock is already throbbing with pleasure."
-    "Truly Midna's technique is exquisite, my cock is already throbbing with pleasure."
+    "说真的石青派还真是熟练啊，我的小牛早已翩翩起舞"
 
 # game/bar.rpy#L3315
 translate chinese eveningbarmenu_4be85bcb_1:
@@ -12614,7 +12614,7 @@ translate chinese doubledoggo_1ebada85:
 translate chinese doubledoggo_869a59a5:
 
     # wolfgirl "Perfect. Let’s set a tab up. Me, then you, then [playername]."
-    wolfgirl "Perfect. Let’s set a tab up. Me, then you, then [playername]."
+    wolfgirl "很好。先让我记下来。我，还有你，[playername]"
 
 # game/bar.rpy#L3743
 translate chinese doubledoggo_ce617998:
@@ -12626,7 +12626,7 @@ translate chinese doubledoggo_ce617998:
 translate chinese doubledoggo_b492ac79:
 
     # "How do I keep finding myself in these situations?"
-    "How do I keep finding myself in these situations?"
+    "我到底是如何在种种这些情形中寻得自我的？"
 
 # game/bar.rpy#L3748
 translate chinese doubledoggo_451a8dc5:
@@ -12758,13 +12758,13 @@ translate chinese doubledoggo_c59afe5a:
 translate chinese doubledoggo_fa3f1e54:
 
     # wolfgirl "Heh, that was some fine projection when you declared the loser’s punishment."
-    wolfgirl "Heh, that was some fine projection when you declared the loser’s punishment."
+    wolfgirl "呵，没想到你惩罚输家的时候还蛮靓的嘛"
 
 # game/bar.rpy#L3771
 translate chinese doubledoggo_277ca48f:
 
     # doggirl "I wouldn’t have picked a punishment that I wouldn’t enjoy, hehehe."
-    doggirl "I wouldn’t have picked a punishment that I wouldn’t enjoy, hehehe."
+    doggirl "我怎么可能会挑一种我自己都不喜欢的惩罚呢，嘻嘻嘻"
 
 # game/bar.rpy#L3772
 translate chinese doubledoggo_26996d14:
@@ -12914,7 +12914,7 @@ translate chinese doubledoggo_3c84a659:
 translate chinese doubledoggo_52a03990:
 
     # "It’s initially a little sensitive, but I actually find myself getting hard again under the dog’s skillful tongue."
-    "It’s initially a little sensitive, but I actually find myself getting hard again under the dog’s skillful tongue."
+    "最开始还没那么敏感的，但事实上这条小狗的绝妙口技根本就让我欲软不能"
 
 # game/bar.rpy#L3817
 translate chinese doubledoggo_8e0a4c44:
@@ -12926,7 +12926,7 @@ translate chinese doubledoggo_8e0a4c44:
 translate chinese doubledoggo_08a0d2ee:
 
     # mc "Well, since you asked kindly."
-    mc "Well, since you asked kindly."
+    mc "那行，既然你都这么诚心的问了。"
 
 # game/bar.rpy#L3819
 translate chinese doubledoggo_1bb64275:
@@ -12938,7 +12938,7 @@ translate chinese doubledoggo_1bb64275:
 translate chinese doubledoggo_108c5719:
 
     # "The two girls resume their initial presenting positions. Their asses presented to me, and the bodies presented to each other, allowing all three of us easy access to tease and play with another."
-    "The two girls resume their initial presenting positions. Their asses presented to me, and the bodies presented to each other, allowing all three of us easy access to tease and play with another."
+    "两位女士恢复了最开始的姿势，把她们的丰臀朝向了我，之后又紧挨在一起，好让我们三个可以“好好玩”"
 
 # game/bar.rpy#L3821
 translate chinese doubledoggo_f51fc628:

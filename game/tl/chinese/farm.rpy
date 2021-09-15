@@ -10718,19 +10718,19 @@ translate chinese blossomtalk_4fe233cf:
 translate chinese blossomtalk_bcd24d78:
 
     # mc "Think I could listen to a few?"
-    mc "Think I could listen to a few?"
+    mc "我在想，能不能听几首呢？"
 
 # game/farm.rpy#L3240
 translate chinese blossomtalk_92d4f913:
 
     # blossom "I'd love it if you could listen and tell me what you think."
-    blossom "I'd love it if you could listen and tell me what you think."
+    blossom "如果你听了歌之后可以把你的想法告诉我，这样就太完美了。"
 
 # game/farm.rpy#L3242
 translate chinese blossomtalk_732b2960:
 
     # "I spend a few minutes listening to a selection of songs by Blossom, the genre of it surprises me."
-    "I spend a few minutes listening to a selection of songs by Blossom, the genre of it surprises me."
+    "我花了几分钟时间去听Blossom给我选的歌，但这些歌的风格却让我感到很惊讶。"
 
 # game/farm.rpy#L3243
 translate chinese blossomtalk_9d30d5ed:
@@ -10742,7 +10742,7 @@ translate chinese blossomtalk_9d30d5ed:
 translate chinese blossomtalk_9da45962:
 
     # blossom "Oh I do, I like all sorts of music, but this is the kind of music I like to make the most."
-    blossom "Oh I do, I like all sorts of music, but this is the kind of music I like to make the most."
+    blossom "哦，我也很喜欢流行乐和古典乐，所有的音乐类型我都很喜欢，但你刚才听到的那些歌是我写的最多的歌。"
 
 # game/farm.rpy#L3245
 translate chinese blossomtalk_0b763f07:
@@ -12428,7 +12428,7 @@ translate chinese annavisit_286c1e5f:
 translate chinese annavisit_dd335fb9:
 
     # anna "I can’t believe you were peeking!"
-    anna "I can’t believe you were peeking!"
+    anna "真不敢相信你居然会偷窥我！"
 
 # game/farm.rpy#L3770
 translate chinese annavisit_2323ed5a:
@@ -12452,13 +12452,13 @@ translate chinese annavisit_5fbaadba:
 translate chinese annavisit_4b8ed76f:
 
     # "Eventually Anna brings me to her house."
-    "Eventually Anna brings me to her house."
+    "最后，Anna把我带到了她家。"
 
 # game/farm.rpy#L3786
 translate chinese annamenu_8f546d43:
 
     # "I thank Anna for the day and return home before it gets too late."
-    "I thank Anna for the day and return home before it gets too late."
+    "我为白天的事向Anna表示了感谢，然后在夜深之前回了家。"
 
 # game/farm.rpy#L3792
 translate chinese annatalk_b94d7771:
@@ -12470,25 +12470,25 @@ translate chinese annatalk_b94d7771:
 translate chinese annatalk_14f2727a:
 
     # anna "I adore interspecies men, they're so exotic and interesting compared to those rough 'taurs."
-    anna "I adore interspecies men, they're so exotic and interesting compared to those rough 'taurs."
+    anna "我特别喜欢其他种族的帅哥，他们比这些剽悍的牛头人更有吸引力，而且更有趣。"
 
 # game/farm.rpy#L3794
 translate chinese annatalk_32dc89da:
 
     # mc "Trust me when I say I feel exactly the same way."
-    mc "Trust me when I say I feel exactly the same way."
+    mc "我也有同感。我说的可是真话。"
 
 # game/farm.rpy#L3795
 translate chinese annatalk_92b8de2e:
 
     # mc "Being able to meet all these cows, mares, and maybe more has been some of the most fun I've ever had."
-    mc "Being able to meet all these cows, mares, and maybe more has been some of the most fun I've ever had."
+    mc "我已经遇到了这么多牛头人和小马，也经历了这么多这辈子遇到的最有意思的事。"
 
 # game/farm.rpy#L3796
 translate chinese annatalk_5896c9af:
 
     # anna "Hah, well of course all the lovely ladies are exceptional."
-    anna "Hah, well of course all the lovely ladies are exceptional."
+    anna "哈，那必须的，这里的漂亮姑娘可个个都是精品呢。"
 
 # game/farm.rpy#L3797
 translate chinese annatalk_f41351aa:
@@ -12500,85 +12500,85 @@ translate chinese annatalk_f41351aa:
 translate chinese annatalk_6405d6c0:
 
     # anna "Ohh yeah, I think I told you that once. It's only some fun between friends."
-    anna "Ohh yeah, I think I told you that once. It's only some fun between friends."
+    anna "哦，是啊，我之前好像和你说过一次。我们俩干这事只是为了消遣而已。"
 
 # game/farm.rpy#L3800
 translate chinese annatalk_e8bc5d8d:
 
     # anna "She is really good with a strap-on, ehehe."
-    anna "She is really good with a strap-on, ehehe."
+    anna "她的捆绑技术可是相当了得，嘻嘻。"
 
 # game/farm.rpy#L3801
 translate chinese annatalk_8f16b197:
 
     # mc "I'd say that's a little more than just friends."
-    mc "I'd say that's a little more than just friends."
+    mc "我想说的是，作为朋友，你们的这种行为是不是有点过了。"
 
 # game/farm.rpy#L3803
 translate chinese annatalk_e464d797:
 
     # anna "Heh, maybe! I'd do this with any close friends though, it's fun sharing in pleasure."
-    anna "Heh, maybe! I'd do this with any close friends though, it's fun sharing in pleasure."
+    anna "嘿嘿，这么做可能是有点过分了！不过我就是喜欢和好朋友这么做，能和好朋友分享喜悦多好啊。"
 
 # game/farm.rpy#L3804
 translate chinese annatalk_337c696c:
 
     # anna "You may have noticed this is a female only village, and the ladies know how to have a good time, ahaha."
-    anna "You may have noticed this is a female only village, and the ladies know how to have a good time, ahaha."
+    anna "你应该已经注意到了，这个村子里只有女人，没有男人。所以，这里的姑娘都知道如何去找乐子，啊哈哈。"
 
 # game/farm.rpy#L3805
 translate chinese annatalk_2cf625da:
 
     # anna "Speaking of a good time, a lady like me needs a man too..."
-    anna "Speaking of a good time, a lady like me needs a man too..."
+    anna "说到找乐子，不得不说，其实我也需要一个能陪在我身边的男人……"
 
 # game/farm.rpy#L3807
 translate chinese annatalk_92e88a7c:
 
     # mc "So you're a real ambitious type I take it?"
-    mc "So you're a real ambitious type I take it?"
+    mc "这么说，你属于那种很有上进心的人，对不对？"
 
 # game/farm.rpy#L3809
 translate chinese annatalk_c19c1243:
 
     # anna "Mmm definitely! I'm working hard, I built and now own this entire farm myself."
-    anna "Mmm definitely! I'm working hard, I built and now own this entire farm myself."
+    anna "嗯，我当然是了！我一直都在努力干活、建农场。现在，这整片农场都是我的了。"
 
 # game/farm.rpy#L3811
 translate chinese annatalk_60cb71e4:
 
     # anna "Before me, the heifer village only had imports, now both villages have farms."
-    anna "Before me, the heifer village only had imports, now both villages have farms."
+    anna "在我把农场建成之前，整个母牛村的物资只能靠进口才行。但现在，我们两个村子都有了自己的农场。"
 
 # game/farm.rpy#L3812
 translate chinese annatalk_6654ecff:
 
     # mc "That's certainly remarkable for someone your age, what's the plan?"
-    mc "That's certainly remarkable for someone your age, what's the plan?"
+    mc "对你这个年纪的人来说，能取得这样的成就真的很厉害。接下来你有什么打算？"
 
 # game/farm.rpy#L3813
 translate chinese annatalk_d9a0d918:
 
     # anna "Ohh, well... I just paid off my debts for building supplies, funds are low right now but the future looks bright."
-    anna "Ohh, well... I just paid off my debts for building supplies, funds are low right now but the future looks bright."
+    anna "哦，这个嘛……我现在才刚还清买建筑材料的钱，所以手上的钱不多了。不过，未来还是很有希望的。"
 
 # game/farm.rpy#L3814
 translate chinese annatalk_e63b1b7c:
 
     # anna "I want to expand my house, my business and invest into the heifer village."
-    anna "I want to expand my house, my business and invest into the heifer village."
+    anna "我想扩建我的房子，还想把生意做大，然后资助母牛村发展。"
 
 # game/farm.rpy#L3815
 translate chinese annatalk_33c3b08f:
 
     # anna "I haven't told anyone yet, but I'm planning on living here forever, no kids for me!"
-    anna "I haven't told anyone yet, but I'm planning on living here forever, no kids for me!"
+    anna "这些事我还没和任何人说过，不过我想一直住在这里，而且不要孩子！"
 
 # game/farm.rpy#L3816
 translate chinese annatalk_c6fdf6fb:
 
     # mc "I got that impression, and I respect it. Looks like I'm doing the same."
-    mc "I got that impression, and I respect it. Looks like I'm doing the same."
+    mc "这心情我理解，我也很尊重你的想法。看来我的节奏和你一样诶。"
 
 # game/farm.rpy#L3817
 translate chinese annatalk_3dafb51f:
@@ -12590,25 +12590,25 @@ translate chinese annatalk_3dafb51f:
 translate chinese annatalk_f980a41b:
 
     # anna "You know, I thought I never wanted a partner too, but after meeting you I changed my mind."
-    anna "You know, I thought I never wanted a partner too, but after meeting you I changed my mind."
+    anna "你知道吗，我也想过不找男朋友的，但见到你之后，我改主意了。"
 
 # game/farm.rpy#L3819
 translate chinese annatalk_e22e538d:
 
     # anna "I want a cute interspecies boyfriend, not picky as long as they're ambitious and fun."
-    anna "I want a cute interspecies boyfriend, not picky as long as they're ambitious and fun."
+    anna "我现在想找一个其他种族的小帅哥当男朋友。我的要求不高，他只要有上进心，有幽默感就好。"
 
 # game/farm.rpy#L3820
 translate chinese annatalk_62e4dbcc:
 
     # mc "That sounds healthy, I think I'd go a bit crazy if I was alone for a few decades."
-    mc "That sounds healthy, I think I'd go a bit crazy if I was alone for a few decades."
+    mc "这要求听起来还挺正常的。如果我这辈子真的会孤独终老的话，我感觉我会相当苦恼的。"
 
 # game/farm.rpy#L3821
 translate chinese annatalk_90392900:
 
     # anna "And I can't keep this pillowy ass to myself, I need to share it."
-    anna "And I can't keep this pillowy ass to myself, I need to share it."
+    anna "我可不想独享我这软软的大屁屁，我也想把它分享给别人。"
 
 # game/farm.rpy#L3822
 translate chinese annatalk_3b017d7d:
@@ -12620,49 +12620,49 @@ translate chinese annatalk_3b017d7d:
 translate chinese annatalk_9b927d58:
 
     # mc "What are your parents like?"
-    mc "What are your parents like?"
+    mc "你父母都是什么样的牛？"
 
 # game/farm.rpy#L3825
 translate chinese annatalk_49c51895:
 
     # anna "Hard to say friend, as a cow you're never quite sure who your father is."
-    anna "Hard to say friend, as a cow you're never quite sure who your father is."
+    anna "这可不好说了，帅哥，作为一头奶牛，你永远都不会知道自己的父亲到底是谁。"
 
 # game/farm.rpy#L3826
 translate chinese annatalk_665c063a:
 
     # mc "Isn't that an incest problem?"
-    mc "Isn't that an incest problem?"
+    mc "这难道和乱伦有关系吗？"
 
 # game/farm.rpy#L3827
 translate chinese annatalk_392e32ab:
 
     # anna "Nah, nah... Uhm, I hope not."
-    anna "Nah, nah... Uhm, I hope not."
+    anna "不，没有……呃，我可不希望是这样。"
 
 # game/farm.rpy#L3828
 translate chinese annatalk_0202fb21:
 
     # anna "Anyway, my mother used to live here in the heifer village with me."
-    anna "Anyway, my mother used to live here in the heifer village with me."
+    anna "顺便提一下，我和我妈妈以前都住在母牛村。"
 
 # game/farm.rpy#L3829
 translate chinese annatalk_0688eb99:
 
     # anna "When a girl is born, she's brought here where she's raised and educated."
-    anna "When a girl is born, she's brought here where she's raised and educated."
+    anna "如果出生的是小母牛，她就会把她们带到村子里，然后把她们养大，教她们知识。"
 
 # game/farm.rpy#L3830
 translate chinese annatalk_0c894d13:
 
     # anna "When a male is born, they're taken to the mountains where he's raised and educated."
-    anna "When a male is born, they're taken to the mountains where he's raised and educated."
+    anna "如果出生的是小公牛，他们就会被带到山里，然后在山里生活和学习。"
 
 # game/farm.rpy#L3831
 translate chinese annatalk_1f9a0360:
 
     # anna "And when everyone comes of age and they're ready, they'll return to the cow village."
-    anna "And when everyone comes of age and they're ready, they'll return to the cow village."
+    anna "等到他们长大成人，准备交配的时候，他们就会回到村子里。"
 
 # game/farm.rpy#L3832
 translate chinese annatalk_3f7ea72c:
@@ -12674,13 +12674,13 @@ translate chinese annatalk_3f7ea72c:
 translate chinese annatalk_a06a252c:
 
     # mc "Ohh, I should have asked you if you have any siblings."
-    mc "Ohh, I should have asked you if you have any siblings."
+    mc "哦，我应该问问你有没有兄弟姐妹的。"
 
 # game/farm.rpy#L3834
 translate chinese annatalk_7b44538d:
 
     # anna "I dooo, I have a brother. Couldn't tell you much more than that. Not even his name."
-    anna "I dooo, I have a brother. Couldn't tell you much more than that. Not even his name."
+    anna "当然有了，我有个哥哥。可我只能告诉你这么多了，因为我连他的名字都不知道。"
 
 # game/farm.rpy#L3835
 translate chinese annatalk_46f00895:
@@ -12704,13 +12704,13 @@ translate chinese annatalk_83c73422:
 translate chinese annatalk_1268786b:
 
     # anna "Ohh, uh..."
-    anna "Ohh, uh..."
+    anna "哦，啊……"
 
 # game/farm.rpy#L3840
 translate chinese annatalk_3624bf81:
 
     # mc "What about if you met your father?"
-    mc "What about if you met your father?"
+    mc "如果你遇到了你父亲，你会怎么样呢？"
 
 # game/farm.rpy#L3841
 translate chinese annatalk_360fef0e:
@@ -12722,7 +12722,7 @@ translate chinese annatalk_360fef0e:
 translate chinese annatalk_d3e0382e:
 
     # mc "Awkward..."
-    mc "Awkward..."
+    mc "这问题是不是有点难回答呀……"
 
 # game/farm.rpy#L3843
 translate chinese annatalk_653f5085:
@@ -12758,7 +12758,7 @@ translate chinese annasex_f09b9131:
 translate chinese annasex_0ffc63f0:
 
     # anna "I think you're ready, big boy."
-    anna "I think you're ready, big boy."
+    anna "我感觉你已经准备好了，大帅哥。"
 
 # game/farm.rpy#L3866
 translate chinese annasex_9b6a379f:
@@ -12842,7 +12842,7 @@ translate chinese annasex_a9d71920:
 translate chinese annasex_a0bc00e1:
 
     # anna "Mmmphh, mmm, hahh... Don't stop, ahhh..."
-    anna "Mmmphh, mmm, hahh... Don't stop, ahhh..."
+    anna "嗯嗯嗯唔，嗯，哈啊……别停，啊啊啊……"
 
 # game/farm.rpy#L3882
 translate chinese annasex_dec54eab:
@@ -12860,7 +12860,7 @@ translate chinese annasex_a26443aa:
 translate chinese annasex_aa18c485:
 
     # anna "Aahhh, ahhh- I-I'm gonna..."
-    anna "Aahhh, ahhh- I-I'm gonna..."
+    anna "啊啊，啊啊……我……我要……"
 
 # game/farm.rpy#L3885
 translate chinese annasex_c35c8afd:
@@ -12938,7 +12938,7 @@ translate chinese annasex_23e1e768:
 translate chinese annasex_e4a498e6:
 
     # "Her hand speeds up, I’m almost fully erect now, and her seductive whispers only excite me more."
-    "Her hand speeds up, I’m almost fully erect now, and her seductive whispers only excite me more."
+    "她加快了撸动的速度。此时，我的肉棒几乎要完全硬起来了。同时，她充满诱惑的低语也在刺激着我的感官。"
 
 # game/farm.rpy#L3912
 translate chinese annasex_0a16c6bc:
@@ -13514,13 +13514,13 @@ translate chinese farmsexduringwork_78234582:
 translate chinese farmsexduringwork_fe5f95ef:
 
     # mc "You’re already a little wet…"
-    mc "You’re already a little wet…"
+    mc "你下面已经有点湿了……"
 
 # game/farm.rpy#L4053
 translate chinese farmsexduringwork_26cebb19:
 
     # honeycrisp "Tell ya the truth, I always get a bit horny around you, stud."
-    honeycrisp "Tell ya the truth, I always get a bit horny around you, stud."
+    honeycrisp "实话告诉你吧，小哥，只要站在你身边，就会勾起我的性趣。"
 
 # game/farm.rpy#L4054
 translate chinese farmsexduringwork_ce2a4f40:

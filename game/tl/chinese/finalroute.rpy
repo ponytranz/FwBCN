@@ -440,7 +440,7 @@ translate chinese finalroute_51c1e613:
 translate chinese finalroute_fc9fa0ca:
 
     # penelope "Good job newbie, you’ll be rewarded greatly under servitude of our new Queen."
-    penelope "好啊，新手蛋子，好好滴服务，女王有赏啊！"
+    penelope "好啊，新手蛋子，好好滴服务，女皇有赏啊！"
 
 # game/finalroute.rpy#L249
 translate chinese finalroute_f7f04e22:
@@ -518,7 +518,7 @@ translate chinese finalroute_51c1e613_1:
 translate chinese finalroute_fc9fa0ca_1:
 
     # penelope "Good job newbie, you’ll be rewarded greatly under servitude of our new Queen."
-    penelope "好啊，新手蛋子，好好滴服务，女王有赏啊！"
+    penelope "好啊，新手蛋子，好好滴服务，女皇有赏啊！"
 
 # game/finalroute.rpy#L300
 translate chinese finalroute_f7f04e22_1:
@@ -8180,7 +8180,7 @@ translate chinese badend_8e071894:
 translate chinese badend_180c1342:
 
     # morrigan "Oh, but enough about those whores, it’s time for you to service your Queen!"
-    morrigan "不过呢，别说那些婊子了，是时候为你的女皇服务了！"
+    morrigan "不过呢，别说那些婊子了，好好滴伺候，女皇有赏！"
 
 # game/finalroute.rpy#L3613
 translate chinese badend_908517c2:

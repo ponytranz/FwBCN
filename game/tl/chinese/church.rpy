@@ -74,7 +74,7 @@ translate chinese augustamenu_7a18b603:
 translate chinese augustamenu_d540dfe2:
 
     # mc "What's next?"
-    mc "接下来做和安排？"
+    mc "接下来做何安排？"
 
 # game/church.rpy#L39
 translate chinese augustamenu_e30bbcb0:
@@ -104,7 +104,7 @@ translate chinese augustamenu_20a690e2:
 translate chinese augustamenu_8c858d6f:
 
     # augusta "Perfect... I have my own room at the back of the church, where customers pay highly to get the best services we can offer."
-    augusta "很好...我在教堂后面有自己的房间，顾客们只要肯出大价钱，就能享受我们最极致的服务。"
+    augusta "很好...我们在教堂后面有自己的房间，顾客们只要肯出大价钱，就能享受我们最极致的服务。"
 
 # game/church.rpy#L54
 translate chinese augustamenu_7ba64a7c:
@@ -230,7 +230,7 @@ translate chinese augustamenu_6c6f6938:
 translate chinese augustamenu_e4bfd6c4:
 
     # "Removing her Nun's habit, Augusta positions herself in front of the customer."
-    "Augusta在顾客前摆好姿势，身上的修女服已经不知道哪里去了。"
+    "Augusta在顾客前摆好姿势，身上的修女服已经不知道扔到哪里去了。"
 
 # game/church.rpy#L96
 translate chinese augustamenu_7c484c2f:
