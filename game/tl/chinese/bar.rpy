@@ -11060,13 +11060,13 @@ translate chinese eveningbarmenu_fdc2bb19:
 translate chinese eveningbarmenu_e804abd9:
 
     # "I take hold of her leash with one hand, and align the tip of my cock with the other and I finally push myself in."
-    "I take hold of her leash with one hand, and align the tip of my cock with the other and I finally push myself in."
+    "我一只手拉住她的皮带，调整好自己龟头的位置，对齐后插了进去。"
 
 # game/bar.rpy#L3215
 translate chinese eveningbarmenu_335d6012:
 
     # midna "Aahh, yes master! Yer naughty Kitty's pussy needs your cock so badly!"
-    midna "啊啊啊啊，是的，我的主人！您的小调皮Kitty的淫荡小穴非常想要您的肉棒来把她填的满满的哦。"
+    midna "啊啊啊啊，是的，我的主人！您的调皮乖乖猫的淫荡小穴非常想要您的肉棒来把她填的满满的哦。"
 
 # game/bar.rpy#L3216
 translate chinese eveningbarmenu_2fc1aec0:
@@ -11084,7 +11084,7 @@ translate chinese eveningbarmenu_f528fb47:
 translate chinese eveningbarmenu_b87e1836:
 
     # "It is surprisingly tight, it would seem that Midna is purposely clenching her vagina to please my cock."
-    "It is surprisingly tight, it would seem that Midna is purposely clenching her vagina to please my cock."
+    "真是紧到不行，石青派特意夹紧她的肉壁来取悦我的肉棒。"
 
 # game/bar.rpy#L3221
 translate chinese eveningbarmenu_1910ba15:
@@ -11174,7 +11174,7 @@ translate chinese eveningbarmenu_f7e1ff42:
 translate chinese eveningbarmenu_3c10823b:
 
     # midna "Nyaa, master's cumming inside my pussy! Breed me, master! Hehe."
-    midna "Nyaa, master's cumming inside my pussy! Breed me, master! Hehe."
+    midna "嗯啊，主人射进我的小穴了！多来点嘛，主人！嘻嘻。"
 
 # game/bar.rpy#L3247
 translate chinese eveningbarmenu_af110aa6:
@@ -11432,7 +11432,7 @@ translate chinese eveningbarmenu_c0605de9_1:
 translate chinese eveningbarmenu_4a553283_1:
 
     # "Truly Midna's technique is exquisite, my cock is already throbbing with pleasure."
-    "说真的石青派还真是熟练啊，我的小牛早已翩翩起舞"
+    "说真的石青派还真是熟练啊，我的肉棒早已嗨到不行了。"
 
 # game/bar.rpy#L3315
 translate chinese eveningbarmenu_4be85bcb_1:
@@ -12614,7 +12614,7 @@ translate chinese doubledoggo_1ebada85:
 translate chinese doubledoggo_869a59a5:
 
     # wolfgirl "Perfect. Let’s set a tab up. Me, then you, then [playername]."
-    wolfgirl "很好。先让我记下来。我，还有你，[playername]"
+    wolfgirl "很好。先让我记下来。我，当然还有你，[playername]。"
 
 # game/bar.rpy#L3743
 translate chinese doubledoggo_ce617998:
@@ -12758,13 +12758,13 @@ translate chinese doubledoggo_c59afe5a:
 translate chinese doubledoggo_fa3f1e54:
 
     # wolfgirl "Heh, that was some fine projection when you declared the loser’s punishment."
-    wolfgirl "呵，没想到你惩罚输家的时候还蛮靓的嘛"
+    wolfgirl "呵，没想到你惩罚输家的时候还蛮靓的嘛。"
 
 # game/bar.rpy#L3771
 translate chinese doubledoggo_277ca48f:
 
     # doggirl "I wouldn’t have picked a punishment that I wouldn’t enjoy, hehehe."
-    doggirl "我怎么可能会挑一种我自己都不喜欢的惩罚呢，嘻嘻嘻"
+    doggirl "我怎么可能会挑一种我自己都不喜欢的惩罚呢，嘻嘻嘻。"
 
 # game/bar.rpy#L3772
 translate chinese doubledoggo_26996d14:
@@ -12914,7 +12914,7 @@ translate chinese doubledoggo_3c84a659:
 translate chinese doubledoggo_52a03990:
 
     # "It’s initially a little sensitive, but I actually find myself getting hard again under the dog’s skillful tongue."
-    "最开始还没那么敏感的，但事实上这条小狗的绝妙口技根本就让我欲软不能"
+    "最开始还没那么敏感的，但事实上这条小狗的绝妙口技根本就让我欲软不能。"
 
 # game/bar.rpy#L3817
 translate chinese doubledoggo_8e0a4c44:
@@ -12938,7 +12938,7 @@ translate chinese doubledoggo_1bb64275:
 translate chinese doubledoggo_108c5719:
 
     # "The two girls resume their initial presenting positions. Their asses presented to me, and the bodies presented to each other, allowing all three of us easy access to tease and play with another."
-    "两位女士恢复了最开始的姿势，把她们的丰臀朝向了我，之后又紧挨在一起，好让我们三个可以“好好玩”"
+    "两位女士恢复了最开始的姿势，把她们的丰臀朝向了我，之后又紧挨在一起，好让我们三个可以“好好玩”。"
 
 # game/bar.rpy#L3821
 translate chinese doubledoggo_f51fc628:

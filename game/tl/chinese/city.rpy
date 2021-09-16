@@ -2396,25 +2396,25 @@ translate chinese melodylaptop_d5b29671:
 translate chinese melodylaptop_8f2606cd:
 
     # melody "Ohh, yes, yes... Be a good toy and give it to me! Fuck me harder!"
-    melody "Ohh, yes, yes... Be a good toy and give it to me! Fuck me harder!"
+    melody "噢，好的，好的，就是这样...做我的好玩具赶紧射到里面！使劲操吧！"
 
 # game/city.rpy#L1164
 translate chinese melodylaptop_6dbeb293:
 
     # "Melody squeals in lustful joy and tries to rut as hard with me as I am with her. She seems to have completely forgotten about trying to be quiet."
-    "Melody squeals in lustful joy and tries to rut as hard with me as I am with her. She seems to have completely forgotten about trying to be quiet."
+    "甜贝儿淫荡又愉悦地叫着，试图像我对她那样朝我卖力地发情。好像完全忘了要安静一些。"
 
 # game/city.rpy#L1165
 translate chinese melodylaptop_5c9625e7:
 
     # "Her walls contract around my shaft, and another squirt of juices escapes her pussy, signalling that she's having another orgasm."
-    "Her walls contract around my shaft, and another squirt of juices escapes her pussy, signalling that she's having another orgasm."
+    "她的肉壁紧紧地包裹着我的肉棒，爱液再次从她的淫穴中喷了出来，是的，她又高潮了。"
 
 # game/city.rpy#L1170
 translate chinese melodylaptop_6140697b:
 
     # "The pure energy and vigor bring me to my second orgasm faster than my first, and my cock unloads a second torrent of thick cum into her womb."
-    "The pure energy and vigor bring me to my second orgasm faster than my first, and my cock unloads a second torrent of thick cum into her womb."
+    "这股爽快感让我射的比第一次还要快，我的肉棒又射在了她的子宫里。"
 
 # game/city.rpy#L1175
 translate chinese melodylaptop_8d546e05:
@@ -2456,13 +2456,13 @@ translate chinese melodylaptop_21e0e4be:
 translate chinese melodylaptop_9160bf59:
 
     # melody "That was uhm, fun... I know it doesn't make up for all that money you spent on me, but I hope you know that I appreciate you."
-    melody "That was uhm, fun... I know it doesn't make up for all that money you spent on me, but I hope you know that I appreciate you."
+    melody "真是额，有趣...我明白这根本弥补不了你在我身上画的钱，但我希望你能明白，我真的很欣赏你。"
 
 # game/city.rpy#L1191
 translate chinese melodylaptop_e56c5ac6:
 
     # melody "Even though sometimes I might act a bit mean."
-    melody "Even though sometimes I might act a bit mean."
+    melody "即便我有时候确实很刻薄。"
 
 # game/city.rpy#L1192
 translate chinese melodylaptop_c8c6d156:
@@ -2474,7 +2474,7 @@ translate chinese melodylaptop_c8c6d156:
 translate chinese melodylaptop_2c339a11:
 
     # mc "I already know that dummy, I wouldn't have given you the money otherwise."
-    mc "I already know that dummy, I wouldn't have given you the money otherwise."
+    mc "我早就知道那个蠢货了，不然我是不会给你钱的。"
 
 # game/city.rpy#L1195
 translate chinese melodylaptop_b405ce2d:
