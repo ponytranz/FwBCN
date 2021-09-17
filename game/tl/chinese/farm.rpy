@@ -8660,7 +8660,7 @@ translate chinese blossomcowgirl_a0da7492:
 translate chinese blossomcowgirl_33334a24:
 
     # anna "Don’t cry! Hun!"
-    anna "Don’t cry! Hun!"
+    anna "别哭了！Hun！"
 
 # game/farm.rpy#L2571
 translate chinese blossomcowgirl_1543c276:
@@ -8672,7 +8672,7 @@ translate chinese blossomcowgirl_1543c276:
 translate chinese blossomcowgirl_f4e32d6b:
 
     # honeycrisp "E-Everyone is too kind to me…"
-    honeycrisp "E-Everyone is too kind to me…"
+    honeycrisp "大……大家对我实在是太好了……"
 
 # game/farm.rpy#L2574
 translate chinese blossomcowgirl_29fc194f:
@@ -8720,13 +8720,13 @@ translate chinese blossomcowgirl_a9fdf3ab:
 translate chinese blossomcowgirl_39e7e745:
 
     # honeycrisp "[playername] has been so much help, I can’t thank him enough."
-    honeycrisp "[playername] has been so much help, I can’t thank him enough."
+    honeycrisp "[playername]帮了很多忙，我真的太太太感谢他了。"
 
 # game/farm.rpy#L2584
 translate chinese blossomcowgirl_60f475bf:
 
     # mc "Heh, I do my best."
-    mc "Heh, I do my best."
+    mc "嘿嘿，我只是尽力而为罢了。"
 
 # game/farm.rpy#L2585
 translate chinese blossomcowgirl_7163f682:
@@ -8750,7 +8750,7 @@ translate chinese blossomcowgirl_9a6e04ed:
 translate chinese blossomcowgirl_bb4c3291:
 
     # honeycrisp "B-But…"
-    honeycrisp "B-But…"
+    honeycrisp "可……可是……"
 
 # game/farm.rpy#L2591
 translate chinese blossomcowgirl_6f439c21:
@@ -8768,7 +8768,7 @@ translate chinese blossomcowgirl_a632d060:
 translate chinese blossomcowgirl_68ea8258:
 
     # honeycrisp "Alright…"
-    honeycrisp "Alright…"
+    honeycrisp "好……"
 
 # game/farm.rpy#L2596
 translate chinese blossomcowgirl_9066b93a:
@@ -12950,13 +12950,13 @@ translate chinese annasex_0a16c6bc:
 translate chinese annasex_879a860a:
 
     # anna "Oohh… This is it, I finally have you all to myself. Last time in the barn was good, but it left me wanting more of you, babe."
-    anna "Oohh… This is it, I finally have you all to myself. Last time in the barn was good, but it left me wanting more of you, babe."
+    anna "哦……这才对嘛，你现在终于是我的了。上一次在谷仓的经历好美妙哦，可我还想再多和你体验几次，小宝贝。"
 
 # game/farm.rpy#L3914
 translate chinese annasex_7ba19890:
 
     # anna "Here, this position should make use of my best asset."
-    anna "Here, this position should make use of my best asset."
+    anna "来，这个姿势一定能让你体验到全方位的享受。"
 
 # game/farm.rpy#L3917
 translate chinese annasex_2a4c9b18:
@@ -12974,13 +12974,13 @@ translate chinese annasex_22e68d99:
 translate chinese annasex_48351b4e:
 
     # anna "Don’t worry about me sugar, just go crazy… I know I will!"
-    anna "Don’t worry about me sugar, just go crazy… I know I will!"
+    anna "不用替我担心，小可爱，只管尽情地享受吧……我一定会很享受的这一刻的！"
 
 # game/farm.rpy#L3922
 translate chinese annasex_f7e54db0:
 
     # "With my hand, I guide my tip to her wet entrance, and I waste no time sinking deep inside her."
-    "With my hand, I guide my tip to her wet entrance, and I waste no time sinking deep inside her."
+    "我握住自己的肉棒，将它抵在了湿润的蜜穴上。随后，我迫不及待地向小穴的深处插了进去。"
 
 # game/farm.rpy#L3923
 translate chinese annasex_4188a67a:
@@ -12992,7 +12992,7 @@ translate chinese annasex_4188a67a:
 translate chinese annasex_5036db4b:
 
     # anna "Yeaahh… That’s it, I can’t get over how good this feels… Hahh…"
-    anna "Yeaahh… That’s it, I can’t get over how good this feels… Hahh…"
+    anna "没……错……就是这样，这感觉太爽了，我受不了了……哈啊啊……"
 
 # game/farm.rpy#L3926
 translate chinese annasex_b9e0c7d0:
@@ -13016,7 +13016,7 @@ translate chinese annasex_3131c460:
 translate chinese annasex_9d9474b6:
 
     # anna "Mmmphh… You’re so deep… Hahh… I love that, keep going…"
-    anna "Mmmphh… You’re so deep… Hahh… I love that, keep going…"
+    anna "唔嗯嗯……你插得好深啊……哈啊……我好喜欢这感觉，快继续吧……"
 
 # game/farm.rpy#L3930
 translate chinese annasex_f4de0424:
@@ -13028,7 +13028,7 @@ translate chinese annasex_f4de0424:
 translate chinese annasex_f7a6f41b:
 
     # anna "Mmmm, I-I can’t even think… Mmmmpphh…"
-    anna "Mmmm, I-I can’t even think… Mmmmpphh…"
+    anna "嗯嗯嗯，我……我真想象不到……唔嗯嗯嗯……"
 
 # game/farm.rpy#L3932
 translate chinese annasex_3fa0c6b7:
@@ -13064,7 +13064,7 @@ translate chinese annasex_61999977:
 translate chinese annasex_cdd13468:
 
     # anna "Yess… Faster [playername], mmmm… *Pant, pant*"
-    anna "Yess… Faster [playername], mmmm… *Pant, pant*"
+    anna "对……再快一点，[playername]，嗯嗯…… *喘气，喘气*"
 
 # game/farm.rpy#L3938
 translate chinese annasex_5232021f:
@@ -13088,7 +13088,7 @@ translate chinese annasex_2c4dd0eb:
 translate chinese annasex_f3ef7b0c:
 
     # anna "Ohmygoshh… *Pant* Mmmm, really close!"
-    anna "Ohmygoshh… *Pant* Mmmm, really close!"
+    anna "哦，我的天…… *喘气* 嗯嗯，马上就要到高潮了！"
 
 # game/farm.rpy#L3942
 translate chinese annasex_d799e078:
@@ -13100,7 +13100,7 @@ translate chinese annasex_d799e078:
 translate chinese annasex_f6ffc4c9:
 
     # anna "Mmmphh… Mmmmm *Pant* Yess…"
-    anna "Mmmphh… Mmmmm *Pant* Yess…"
+    anna "唔嗯嗯……嗯嗯嗯 *喘气* 就这样……"
 
 # game/farm.rpy#L3944
 translate chinese annasex_d9c1f43c:
@@ -13112,7 +13112,7 @@ translate chinese annasex_d9c1f43c:
 translate chinese annasex_f759f3a2:
 
     # anna "Faahhh… I’m cominggg, ahhh…!"
-    anna "Faahhh… I’m cominggg, ahhh…!"
+    anna "草……我要受不了了，啊啊啊……！"
 
 # game/farm.rpy#L3946
 translate chinese annasex_1c1b71f3:
@@ -13130,13 +13130,13 @@ translate chinese annasex_97b3cba0:
 translate chinese annasex_69e68458:
 
     # "She keeps pumping up and down against my cock as I ejaculate inside of her, unloading thick hot globs of cum inside of needy pussy."
-    "She keeps pumping up and down against my cock as I ejaculate inside of her, unloading thick hot globs of cum inside of needy pussy."
+    "当我的长枪在她的体内爆射时，她仍在我的身上上下起伏着，滚烫粘稠的精液填满了她饥渴的小穴。"
 
 # game/farm.rpy#L3957
 translate chinese annasex_b3c9c849:
 
     # anna "Ahhhhh, aaaahhhh… *Pant* yess, mmm… all your sperm… deep inside me… just like my heat wanted…"
-    anna "Ahhhhh, aaaahhhh… *Pant* yess, mmm… all your sperm… deep inside me… just like my heat wanted…"
+    anna "啊啊，啊啊啊…… *喘气* 没错，嗯……你的精液……已经把我的下面填满了……这就是我现在最想要的……"
 
 # game/farm.rpy#L3958
 translate chinese annasex_8f362f04:
@@ -13172,7 +13172,7 @@ translate chinese annasex_3164a1b5:
 translate chinese annasex_1c9f72dd:
 
     # "She spreads her pussy, some of my cum drizzles out and slides down her thigh."
-    "She spreads her pussy, some of my cum drizzles out and slides down her thigh."
+    "此时，她扒开自己的小穴，一些精液从中流了出来，随后流到了她的腿上。"
 
 # game/farm.rpy#L3967
 translate chinese annasex_76528e92:
@@ -13184,19 +13184,19 @@ translate chinese annasex_76528e92:
 translate chinese annasex_023db2bf:
 
     # anna "Come here babe… Suckle my nipple, maybe that’ll help you."
-    anna "Come here babe… Suckle my nipple, maybe that’ll help you."
+    anna "快过来，小宝贝……快来舔舔我的奶头吧，说不定它还能给你点帮助呢。"
 
 # game/farm.rpy#L3970
 translate chinese annasex_9db63253:
 
     # "Milk? I’ve messed with it before… Guess it couldn’t hurt."
-    "Milk? I’ve messed with it before… Guess it couldn’t hurt."
+    "这是在让我吸奶吗？我以前可搞砸过……我猜，这不会弄疼她吧。"
 
 # game/farm.rpy#L3971
 translate chinese annasex_9047172f:
 
     # mc "Sure…"
-    mc "当然..."
+    mc "没问题……"
 
 # game/farm.rpy#L3973
 translate chinese annasex_edca42f9:
@@ -13382,13 +13382,13 @@ translate chinese annasex_30a6c822:
 translate chinese annasex_ddb43a9a:
 
     # "She bounces towards me, hugs and kisses me."
-    "She bounces towards me, hugs and kisses me."
+    "她跳到我面前，紧紧抱住了我，同时吻了我。"
 
 # game/farm.rpy#L4021
 translate chinese annasex_e49308d6:
 
     # anna "Oohh, my legs are like jello. That tired me out a lot too."
-    anna "Oohh, my legs are like jello. That tired me out a lot too."
+    anna "哦，我的腿已经软了。干这事也好累哦。"
 
 # game/farm.rpy#L4022
 translate chinese annasex_1fada2fb:
@@ -13406,13 +13406,13 @@ translate chinese annasex_6b6de4e6:
 translate chinese annasex_5fd8f6d7:
 
     # mc "Haha, alright, thanks for today Anna, hope to see you again."
-    mc "Haha, alright, thanks for today Anna, hope to see you again."
+    mc "哈哈，好了，今天太谢谢你了，Anna，希望能再见到你。"
 
 # game/farm.rpy#L4025
 translate chinese annasex_b41a4f5d:
 
     # anna "See you, oh, and your pay is on the counter in the kitchen."
-    anna "See you, oh, and your pay is on the counter in the kitchen."
+    anna "拜拜。哦，你的工资已经放在厨房的台子上了。"
 
 # game/farm.rpy#L4026
 translate chinese annasex_3ab180c4:
@@ -13424,13 +13424,13 @@ translate chinese annasex_3ab180c4:
 translate chinese annasex_741d7132:
 
     # "I collect my pay, then I head out, racing my way back to Arcadia, racing the sun before it sets."
-    "I collect my pay, then I head out, racing my way back to Arcadia, racing the sun before it sets."
+    "我拿到工资后就马上离开了。我要在太阳下山前赶回Arcadia。"
 
 # game/farm.rpy#L4032
 translate chinese farmsexduringwork_3f497396:
 
     # "During work…"
-    "工作期间..."
+    "工作期间……"
 
 # game/farm.rpy#L4033
 translate chinese farmsexduringwork_2a65a922:
@@ -13616,7 +13616,7 @@ translate chinese farmsexduringwork_aef613d8:
 translate chinese farmsexduringwork_60b3f7d8:
 
     # honeycrisp "Ahhh, ohhh… I wish we could do this all day, stud. *Pant*"
-    honeycrisp "Ahhh, ohhh… I wish we could do this all day, stud. *Pant*"
+    honeycrisp "啊，哦...我真想和你干上一整天。*喘气*"
 
 # game/farm.rpy#L4073
 translate chinese farmsexduringwork_7e45e3bc:
@@ -13628,7 +13628,7 @@ translate chinese farmsexduringwork_7e45e3bc:
 translate chinese farmsexduringwork_87e44684:
 
     # "Needless to say, it’s still just as pleasurable. Honeycrisp’s face contorts with lust, her hands gripping so tightly into the wood that it may leave a mark."
-    "Needless to say, it’s still just as pleasurable. Honeycrisp’s face contorts with lust, her hands gripping so tightly into the wood that it may leave a mark."
+    "还用说吗，当然是乐意至极。Honeycrisp的表情逐渐淫荡起来，她紧紧地抓住木头，都抓出了一道印来。"
 
 # game/farm.rpy#L4075
 translate chinese farmsexduringwork_7eb33363:
@@ -13652,7 +13652,7 @@ translate chinese farmsexduringwork_170fdd9f:
 translate chinese farmsexduringwork_25a588f3:
 
     # honeycrisp "Oohh, gosh… Cum in me, stud! Make me yours!"
-    honeycrisp "Oohh, gosh… Cum in me, stud! Make me yours!"
+    honeycrisp "哦，我的天……射进去吧，帅哥！不要客气！"
 
 # game/farm.rpy#L4083
 translate chinese farmsexduringwork_19325ed5:

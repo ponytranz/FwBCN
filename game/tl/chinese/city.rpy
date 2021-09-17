@@ -2402,7 +2402,7 @@ translate chinese melodylaptop_8f2606cd:
 translate chinese melodylaptop_6dbeb293:
 
     # "Melody squeals in lustful joy and tries to rut as hard with me as I am with her. She seems to have completely forgotten about trying to be quiet."
-    "甜贝儿淫荡又愉悦地叫着，试图像我对她那样朝我卖力地发情。好像完全忘了要安静一些。"
+    "Melody淫荡又愉悦地叫着，试图像我对她那样朝我卖力地发情。好像完全忘了要安静一些。"
 
 # game/city.rpy#L1165
 translate chinese melodylaptop_5c9625e7:

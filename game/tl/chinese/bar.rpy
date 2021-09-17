@@ -11072,19 +11072,19 @@ translate chinese eveningbarmenu_335d6012:
 translate chinese eveningbarmenu_2fc1aec0:
 
     # "K-Kitty? Whatever, I sink into the depths of her inviting pussy and push as far as I can, her insides caress every inch of my shaft until she takes me to the hilt."
-    "K-Kitty? Whatever, I sink into the depths of her inviting pussy and push as far as I can, her insides caress every inch of my shaft until she takes me to the hilt."
+    "小-猫猫？管她说什么呢，我只管尽我最大所能地挺进她蜜穴的最深处，她的肉壁一点一点地接纳着我肉棒的每一寸，直到全根没入为止。"
 
 # game/bar.rpy#L3218
 translate chinese eveningbarmenu_f528fb47:
 
     # midna "Mmphh, does master like Kitty's tight pussy?"
-    midna "Mmphh, does master like Kitty's tight pussy?"
+    midna "嗯啊，主人喜欢小猫猫紧致的穴儿吗？"
 
 # game/bar.rpy#L3219
 translate chinese eveningbarmenu_b87e1836:
 
     # "It is surprisingly tight, it would seem that Midna is purposely clenching her vagina to please my cock."
-    "真是紧到不行，石青派特意夹紧她的肉壁来取悦我的肉棒。"
+    "真是紧到不行，Midna特意夹紧她的肉壁来取悦我的肉棒。"
 
 # game/bar.rpy#L3221
 translate chinese eveningbarmenu_1910ba15:
@@ -11096,31 +11096,31 @@ translate chinese eveningbarmenu_1910ba15:
 translate chinese eveningbarmenu_a812934c:
 
     # "I pull the leash and the well-strung collar chokes the kitten-roleplaying mare while I begin to hump her."
-    "I pull the leash and the well-strung collar chokes the kitten-roleplaying mare while I begin to hump her."
+    "于是我拽紧了皮带，缩紧的项圈紧紧扼住了这只扮演小猫的雌驹，我的下体则开始挺动。"
 
 # game/bar.rpy#L3224
 translate chinese eveningbarmenu_c0605de9:
 
     # "Her hips gyrate back and forth in tandem with my movements, ensuring that each thrust slides into her deepest and most sensitive areas."
-    "Her hips gyrate back and forth in tandem with my movements, ensuring that each thrust slides into her deepest and most sensitive areas."
+    "她的美臀也开始随着我的抽插前后扭动，确保我每次都能插到她最深，最敏感的地方。"
 
 # game/bar.rpy#L3225
 translate chinese eveningbarmenu_4a553283:
 
     # "Truly Midna's technique is exquisite, my cock is already throbbing with pleasure."
-    "Truly Midna's technique is exquisite, my cock is already throbbing with pleasure."
+    "Midna的活实在是太好了，我的肉棒早就被她玩弄的嗨到直颤。"
 
 # game/bar.rpy#L3226
 translate chinese eveningbarmenu_73cfb5f6:
 
     # "The two of us drunkenly and hornily rut at an increasing intensity, my grip constantly tugging and teasing at the leash choking her more."
-    "The two of us drunkenly and hornily rut at an increasing intensity, my grip constantly tugging and teasing at the leash choking her more."
+    "我俩醉醺醺的，色欲也逐渐充斥着彼此的头脑，我的手总是不自觉地玩弄着皮带来让她的窒息感愈发强烈。"
 
 # game/bar.rpy#L3227
 translate chinese eveningbarmenu_bd2cc33f:
 
     # "Her tail thrashes about excitedly as each thrust gets faster and harder, causing her teardrop breasts to jiggle back and forth."
-    "Her tail thrashes about excitedly as each thrust gets faster and harder, causing her teardrop breasts to jiggle back and forth."
+    "我插的愈发地迅猛，她的尾巴也因此性奋地摆动，巨大的奶子也跟着前后摇摆。"
 
 # game/bar.rpy#L3229
 translate chinese eveningbarmenu_4be85bcb:
@@ -11138,7 +11138,7 @@ translate chinese eveningbarmenu_38a30c40:
 translate chinese eveningbarmenu_c8a08ffd:
 
     # "Midna's moans escalate as I speed up, after about twenty seconds of consistent pleasure a small gush of squirt escapes her pussy as she climaxes."
-    "Midna's moans escalate as I speed up, after about twenty seconds of consistent pleasure a small gush of squirt escapes her pussy as she climaxes."
+    "随着我插的越来越快，就这么挺了大概20秒她就高潮了，一股淫水从她小穴里喷了出来。"
 
 # game/bar.rpy#L3232
 translate chinese eveningbarmenu_7a18d4b3:
@@ -11150,7 +11150,7 @@ translate chinese eveningbarmenu_7a18d4b3:
 translate chinese eveningbarmenu_20faa757:
 
     # "She screams, almost neighing, as her vagina clenches tightly around my cock and threatens to make me cum almost immediately."
-    "She screams, almost neighing, as her vagina clenches tightly around my cock and threatens to make me cum almost immediately."
+    "她淫叫着，好像一匹嘶鸣的马，她的肉壁紧紧地包裹着我的老二，好悬没让我当场射爆。"
 
 # game/bar.rpy#L3234
 translate chinese eveningbarmenu_e2b08254:
@@ -11168,7 +11168,7 @@ translate chinese eveningbarmenu_7c2f661e:
 translate chinese eveningbarmenu_f7e1ff42:
 
     # "My cock tightens as the first of many loads of cum splatter against Midna's insides, she cries out in delight at the sensation of hot cum gushing inside of her."
-    "My cock tightens as the first of many loads of cum splatter against Midna's insides, she cries out in delight at the sensation of hot cum gushing inside of her."
+    "我绷紧肉棒狠狠地在Midna的里面射了第一发，那种滚烫的精液在里面迸发的感觉让她高性地叫了出来。"
 
 # game/bar.rpy#L3245
 translate chinese eveningbarmenu_3c10823b:
@@ -11180,7 +11180,7 @@ translate chinese eveningbarmenu_3c10823b:
 translate chinese eveningbarmenu_af110aa6:
 
     # "Excess drops of cum escape the seal formed by my cock, smearing her fortunately white bedsheets with the results of our coupling."
-    "Excess drops of cum escape the seal formed by my cock, smearing her fortunately white bedsheets with the results of our coupling."
+    "超多的精液止不住地从我肉棒中滴出来，她的床单沾满了我们的“战果”，还好它是白色的。"
 
 # game/bar.rpy#L3249
 translate chinese eveningbarmenu_326845ef:
@@ -11258,7 +11258,7 @@ translate chinese eveningbarmenu_ffb65ba5:
 translate chinese eveningbarmenu_482cead7:
 
     # "It's the kitten roleplaying Midna, my cock tingles just at the thought of approaching her, she really was good in bed."
-    "It's the kitten roleplaying Midna, my cock tingles just at the thought of approaching her, she really was good in bed."
+    "啊，猫女郎Midna，光是想想接近她时我的老二就硬的不行了,她床上功夫真的很了得。"
 
 # game/bar.rpy#L3274
 translate chinese eveningbarmenu_2c392e7d_1:
@@ -11366,7 +11366,7 @@ translate chinese eveningbarmenu_cd021b7f:
 translate chinese eveningbarmenu_b4cffbff:
 
     # midna "Come on master, fuck your kitten! Breed her like a slut!"
-    midna "来吧，主人，来干你的小猫咪吧！把她当成个小贱货，使劲干她吧！"
+    midna "来吧，主人，来干你的小猫猫吧！把她当成个小贱货，使劲干她吧！"
 
 # game/bar.rpy#L3298
 translate chinese eveningbarmenu_bde07c2b_1:
@@ -11390,7 +11390,7 @@ translate chinese eveningbarmenu_e804abd9_1:
 translate chinese eveningbarmenu_335d6012_1:
 
     # midna "Aahh, yes master! Yer naughty Kitty's pussy needs your cock so badly!"
-    midna "啊啊啊啊，是的，我的主人！您调皮的小猫咪非常期待您用肉棒来把她的小穴填得满满的哦！"
+    midna "啊啊啊啊，是的，我的主人！您调皮的小猫猫非常期待您用肉棒来把她的小穴填得满满的哦！"
 
 # game/bar.rpy#L3304
 translate chinese eveningbarmenu_f559eacc:
@@ -11402,13 +11402,13 @@ translate chinese eveningbarmenu_f559eacc:
 translate chinese eveningbarmenu_f528fb47_1:
 
     # midna "Mmphh, does master like Kitty's tight pussy?"
-    midna "嗯嗯，主人你喜欢Kitty的小穴吗？"
+    midna "嗯嗯，主人你喜欢小猫猫紧致的蜜穴吗？"
 
 # game/bar.rpy#L3307
 translate chinese eveningbarmenu_4218406d:
 
     # mc "Mmmhh yeah, Kitty's pussy feels so fucking good."
-    mc "嗯，当然了，Kitty的小穴简直完美极了。"
+    mc "嗯，当然了，小猫猫的小穴简直完美极了。"
 
 # game/bar.rpy#L3308
 translate chinese eveningbarmenu_dc08fbc2:
@@ -11432,7 +11432,7 @@ translate chinese eveningbarmenu_c0605de9_1:
 translate chinese eveningbarmenu_4a553283_1:
 
     # "Truly Midna's technique is exquisite, my cock is already throbbing with pleasure."
-    "说真的石青派还真是熟练啊，我的肉棒早已嗨到不行了。"
+    "说真的Midna还真是熟练啊，我的肉棒早已嗨到不行了。"
 
 # game/bar.rpy#L3315
 translate chinese eveningbarmenu_4be85bcb_1:
@@ -11462,13 +11462,13 @@ translate chinese eveningbarmenu_7a18d4b3_1:
 translate chinese eveningbarmenu_20faa757_1:
 
     # "She screams, almost neighing, as her vagina clenches tightly around my cock and threatens to make me cum almost immediately."
-    "She screams, almost neighing, as her vagina clenches tightly around my cock and threatens to make me cum almost immediately."
+    "她淫叫着，好像一匹嘶鸣的马，她的肉壁紧紧地包裹着我的老二，好悬没让我当场射爆。"
 
 # game/bar.rpy#L3320
 translate chinese eveningbarmenu_e2b08254_1:
 
     # midna "Master, fill Kitty's pussy up with your cum!"
-    midna "主人，如果你要射的话，一定要射到Kitty的小穴里哟！"
+    midna "主人，如果你要射的话，一定要射到小猫猫的小穴里哟！"
 
 # game/bar.rpy#L3321
 translate chinese eveningbarmenu_7c2f661e_1:
@@ -11480,7 +11480,7 @@ translate chinese eveningbarmenu_7c2f661e_1:
 translate chinese eveningbarmenu_f7e1ff42_1:
 
     # "My cock tightens as the first of many loads of cum splatter against Midna's insides, she cries out in delight at the sensation of hot cum gushing inside of her."
-    "My cock tightens as the first of many loads of cum splatter against Midna's insides, she cries out in delight at the sensation of hot cum gushing inside of her."
+    "我绷紧肉棒狠狠地在Midna的里面射了第一发，那种滚烫的精液在里面迸发的感觉让她高性地叫了出来。"
 
 # game/bar.rpy#L3331
 translate chinese eveningbarmenu_8a47ef9f:
@@ -11492,7 +11492,7 @@ translate chinese eveningbarmenu_8a47ef9f:
 translate chinese eveningbarmenu_af110aa6_1:
 
     # "Excess drops of cum escape the seal formed by my cock, smearing her fortunately white bedsheets with the results of our coupling."
-    "Excess drops of cum escape the seal formed by my cock, smearing her fortunately white bedsheets with the results of our coupling."
+    "超多的精液止不住地从我肉棒中滴出来，她的床单沾满了我们的“战果”，还好它是白色的。"
 
 # game/bar.rpy#L3335
 translate chinese eveningbarmenu_326845ef_1:
