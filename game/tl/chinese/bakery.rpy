@@ -3974,7 +3974,7 @@ translate chinese creamvmissionary_3f6e84e0:
 translate chinese creamvmissionary_e6592895:
 
     # riku "Mmmph, you can thank your thick cock for that, hehe."
-    riku "Mmmph, you can thank your thick cock for that, hehe."
+    riku "嗯，多亏了你的大肉棒啊，嘻嘻。"
 
 # game/bakery.rpy#L1284
 translate chinese creamvmissionary_40ee8862:

@@ -9932,14 +9932,14 @@
   {
     "id": 79423835,
     "createdAt": "2021-05-30T17:55:35.000Z",
-    "updatedAt": "2021-08-17T12:44:57.000Z",
+    "updatedAt": "2021-09-17T01:57:48.000Z",
     "key": "creamvmissionary_e6592895",
     "original": "Mmmph, you can thank your thick cock for that, hehe.",
-    "translation": "",
+    "translation": "嗯，多亏了你的大肉棒啊，嘻嘻。",
     "file": 272339,
-    "stage": 0,
+    "stage": 1,
     "project": 2414,
-    "uid": 22440,
+    "uid": 23582,
     "extra": null,
     "context": "说话人: riku \n代码: https://github.com/ponytranz/FwBCN/blob/main/game/bakery.rpy#L1281",
     "words": 10

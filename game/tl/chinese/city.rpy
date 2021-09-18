@@ -2384,13 +2384,13 @@ translate chinese melodylaptop_0fd65144:
 translate chinese melodylaptop_b254fb31:
 
     # "Melody even begins to thrust and buck against me, trying her best to maximise the euphoric pleasure, although in her position the attempts are awkward."
-    "Melody even begins to thrust and buck against me, trying her best to maximise the euphoric pleasure, although in her position the attempts are awkward."
+    "Melody甚至开始在我身上做起了活塞运动，她尽可能地享受这种极乐，虽然这么看起来她的体位确实挺逗人的。"
 
 # game/city.rpy#L1162
 translate chinese melodylaptop_d5b29671:
 
     # "Recognizing her increasing desire, I forcefully pound her. The pleasure overwhelms Melody as her thighs quiver and her tail thrashes about."
-    "Recognizing her increasing desire, I forcefully pound her. The pleasure overwhelms Melody as her thighs quiver and her tail thrashes about."
+    "我注意到了，她的那股欲望逐渐升温，我狠狠地拍了她一下。只见Melody的大腿疯狂颤动，她的尾巴也跟着摇了起来，不难看出，她已经爽翻了。"
 
 # game/city.rpy#L1163
 translate chinese melodylaptop_8f2606cd:
@@ -2450,13 +2450,13 @@ translate chinese melodylaptop_377ae069:
 translate chinese melodylaptop_21e0e4be:
 
     # "It's Melody that breaks out of the embrace first. She takes a moment to clean up the copius mess we made with some tissues, before returning to sit beside me."
-    "It's Melody that breaks out of the embrace first. She takes a moment to clean up the copius mess we made with some tissues, before returning to sit beside me."
+    "Melody先是挣脱了我的怀抱。然后在回我身边之前，她用纸巾擦干净了那些“丰厚战果”。"
 
 # game/city.rpy#L1190
 translate chinese melodylaptop_9160bf59:
 
     # melody "That was uhm, fun... I know it doesn't make up for all that money you spent on me, but I hope you know that I appreciate you."
-    melody "真是额，有趣...我明白这根本弥补不了你在我身上画的钱，但我希望你能明白，我真的很欣赏你。"
+    melody "真是额，有趣...我明白这根本弥补不了你在我身上花的钱，但我希望你能明白，我真的很欣赏你。"
 
 # game/city.rpy#L1191
 translate chinese melodylaptop_e56c5ac6:
@@ -2468,7 +2468,7 @@ translate chinese melodylaptop_e56c5ac6:
 translate chinese melodylaptop_c8c6d156:
 
     # "I smile and pat Melody on the head."
-    "I smile and pat Melody on the head."
+    "我笑着拍了拍Melody的头。"
 
 # game/city.rpy#L1193
 translate chinese melodylaptop_2c339a11:
@@ -2480,25 +2480,25 @@ translate chinese melodylaptop_2c339a11:
 translate chinese melodylaptop_b405ce2d:
 
     # melody "Pfft... You cute bastard. I'm just glad I chose you to be my sex toy."
-    melody "Pfft... You cute bastard. I'm just glad I chose you to be my sex toy."
+    melody "嘁...你可真是个可爱的小混球。我高兴只是因为选了你做我的性玩具罢了。"
 
 # game/city.rpy#L1196
 translate chinese melodylaptop_ad9a6d7b:
 
     # mc "For you, that's almost 'cute'."
-    mc "For you, that's almost 'cute'."
+    mc "对你来说，还真是“可爱”呢。"
 
 # game/city.rpy#L1198
 translate chinese melodylaptop_8655e174:
 
     # melody "Yeah... 'cute'. Anyway... I should get back. Come see me again sometime champ."
-    melody "Yeah... 'cute'. Anyway... I should get back. Come see me again sometime champ."
+    melody "是啊...“可爱”。好了...我得回去了。你有时间再来找我吧。"
 
 # game/city.rpy#L1199
 translate chinese melodylaptop_85904fb1:
 
     # mc "I wouldn't miss it."
-    mc "I wouldn't miss it."
+    mc "我可不会错过。"
 
 # game/city.rpy#L1204
 translate chinese melodycunnilingus_bbb9ca87:
@@ -2534,13 +2534,13 @@ translate chinese melodycunnilingus_c0590a5b:
 translate chinese melodycunnilingus_a9a73e41:
 
     # mc "Fairly sure I did, actually."
-    mc "Fairly sure I did, actually."
+    mc "我已经谢过了。"
 
 # game/city.rpy#L1213
 translate chinese melodycunnilingus_fec8f83c:
 
     # mc "And, what about fixing your laptop? That wasn’t cheap you know."
-    mc "And, what about fixing your laptop? That wasn’t cheap you know."
+    mc "还有，你修笔记本的事情有着落了吗？要修好可不便宜。"
 
 # game/city.rpy#L1215
 translate chinese melodycunnilingus_1d2a69e5:

@@ -13202,13 +13202,13 @@ translate chinese annasex_9047172f:
 translate chinese annasex_edca42f9:
 
     # "She turns around and sits down, perking up a breast and playfully bouncing it up and down expectantly."
-    "She turns around and sits down, perking up a breast and playfully bouncing it up and down expectantly."
+    "她转了一圈，坐了下来，然后充满期待和渴望地上下抖动着自己的胸部。"
 
 # game/farm.rpy#L3974
 translate chinese annasex_03d68bfe:
 
     # anna "It hasn’t been long enough to produce a lot, but it’ll be enough for you."
-    anna "It hasn’t been long enough to produce a lot, but it’ll be enough for you."
+    anna "因为才刚刚挤过奶，所以现在应该挤不出多少了，不过对你来说，这些奶肯定足够了。"
 
 # game/farm.rpy#L3978
 translate chinese annasex_80b37118:
@@ -13268,13 +13268,13 @@ translate chinese annasex_3f871f46:
 translate chinese annasex_ba016f37:
 
     # anna "I’m not horny anymore… Hah… ahaha… My heat, I can’t feel it at all."
-    anna "I’m not horny anymore… Hah… ahaha… My heat, I can’t feel it at all."
+    anna "我感觉自己没有刚才那么饥渴了……哈……啊哈哈……我的那种冲动完全消失了。"
 
 # game/farm.rpy#L3999
 translate chinese annasex_f1678d52:
 
     # "My ears perk up, thankfully I’m not so exhausted I can’t move, I still have to walk home after all."
-    "我的耳朵立刻竖了起来。谢天谢地，我还没有累到连路都走不了的地步，因为我稍后还要走回家呢。"
+    "听到这话，我的耳朵立刻竖了起来。谢天谢地，我还没有累到连路都走不了的地步，因为我稍后还要走回家呢。"
 
 # game/farm.rpy#L4000
 translate chinese annasex_8f1cb80c:
@@ -13328,31 +13328,31 @@ translate chinese annasex_19fe834c:
 translate chinese annasex_018c3666:
 
     # mc "Gosh, that’s crazy… I wish I had that kind of stamina."
-    mc "Gosh, that’s crazy… I wish I had that kind of stamina."
+    mc "老天，她们可太牛……我也希望自己能有那种体力。"
 
 # game/farm.rpy#L4010
 translate chinese annasex_f4c3ad2d:
 
     # anna "*Liiiiick*… Mmm… It’s a good thing we can take turns to give each other a break."
-    anna "*Liiiiick*… Mmm… It’s a good thing we can take turns to give each other a break."
+    anna "*舔舐* ……嗯……好在咱们俩可以给彼此一些休息的时间。"
 
 # game/farm.rpy#L4011
 translate chinese annasex_84e28b0c:
 
     # mc "Ah yeah, true, honestly I’m surprised I’m not sorer."
-    mc "Ah yeah, true, honestly I’m surprised I’m not sorer."
+    mc "啊，是啊，这话没错。不过说真的，我全身居然没有酸痛的感觉。"
 
 # game/farm.rpy#L4013
 translate chinese annasex_27d97469:
 
     # anna "Hehe, you might be sore in the morning, milk is supposed to boost your physical attributes too."
-    anna "Hehe, you might be sore in the morning, milk is supposed to boost your physical attributes too."
+    anna "嘿嘿，到了早上你可能就会疼起来了，因为我的奶有增强体质的效果哦。"
 
 # game/farm.rpy#L4014
 translate chinese annasex_4477189e:
 
     # mc "Is that so? In that case I best walk back as soon as I can before I collapse or something."
-    mc "Is that so? In that case I best walk back as soon as I can before I collapse or something."
+    mc "是吗？这样的话，我还是最好在身体彻底垮掉前赶快回家吧。"
 
 # game/farm.rpy#L4016
 translate chinese annasex_221bc854:
@@ -13364,7 +13364,7 @@ translate chinese annasex_221bc854:
 translate chinese annasex_9608c011:
 
     # anna "You should head back before it gets dark though."
-    anna "You should head back before it gets dark though."
+    anna "你应该在天黑前就回去的。"
 
 # game/farm.rpy#L4018
 translate chinese annasex_41f56152:
