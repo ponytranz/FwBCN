@@ -11282,7 +11282,7 @@ translate chinese eveningbarmenu_3ab74a8f:
 translate chinese eveningbarmenu_0af4e10b:
 
     # midna "Actually, I thought about what you said about 'dedicating' myself to you. Is that something you like?"
-    midna "Actually, I thought about what you said about 'dedicating' myself to you. Is that something you like?"
+    midna "其实你说让我把我的全部都献给你这事儿我有考虑过。你好这口？"
 
 # game/bar.rpy#L3278
 translate chinese eveningbarmenu_b2b9e19d:
@@ -11312,25 +11312,25 @@ translate chinese eveningbarmenu_6e44fc52:
 translate chinese eveningbarmenu_075bff3b:
 
     # midna "My fetish is being 'owned' though, so I don't really give a shit if you sleep around."
-    midna "My fetish is being 'owned' though, so I don't really give a shit if you sleep around."
+    midna "我的怪癖什么的，你懂的，只要是我的东西就行了，所以你沾花惹草这事我也用不着管。"
 
 # game/bar.rpy#L3283
 translate chinese eveningbarmenu_7a57e76e:
 
     # midna "Actually, is that my pussy getting moist or is it even hotter if you sleep around?"
-    midna "Actually, is that my pussy getting moist or is it even hotter if you sleep around?"
+    midna "说真的，到底是我自己湿了还是因为你到处乱搞才让我燥起来的？"
 
 # game/bar.rpy#L3284
 translate chinese eveningbarmenu_36976a72:
 
     # mc "Well, being 'owned' and being 'lovers' are different dynamics, if I sleep with others that adds to the ownership dynamic because it makes you more of an object."
-    mc "Well, being 'owned' and being 'lovers' are different dynamics, if I sleep with others that adds to the ownership dynamic because it makes you more of an object."
+    mc "其实吧，“被占有”和“相爱”完全是两码事，你想想，假如我睡了别人，“被占有”这方面份量是不就更大了，其实这就是因为这让你看起来就像是被孤立了一样。"
 
 # game/bar.rpy#L3285
 translate chinese eveningbarmenu_e677630d:
 
     # midna "Awh yeah, a technical breakdown of my fetish, that's the stuff."
-    midna "Awh yeah, a technical breakdown of my fetish, that's the stuff."
+    midna "噢，行啊，完美克制我的怪癖，真行啊。"
 
 # game/bar.rpy#L3286
 translate chinese eveningbarmenu_7703c7c8:
@@ -11348,7 +11348,7 @@ translate chinese eveningbarmenu_f1463d2c:
 translate chinese eveningbarmenu_56d47d22:
 
     # midna "Let's get outta this joint so I can start roleplaying!"
-    midna "Let's get outta this joint so I can start roleplaying!"
+    midna "我们走吧，离开这破地方，然后赶紧开始我的角色扮演！"
 
 # game/bar.rpy#L3291
 translate chinese eveningbarmenu_3ac8d819:
@@ -11360,7 +11360,7 @@ translate chinese eveningbarmenu_3ac8d819:
 translate chinese eveningbarmenu_cd021b7f:
 
     # "With her red collar tightly on, and leash presented to me, her owner..."
-    "With her red collar tightly on, and leash presented to me, her owner..."
+    "红项圈紧紧地戴在她的脖子上，之后又把皮带递给了她的主人，对，就是我..."
 
 # game/bar.rpy#L3297
 translate chinese eveningbarmenu_b4cffbff:
@@ -11384,7 +11384,7 @@ translate chinese eveningbarmenu_e40388d7:
 translate chinese eveningbarmenu_e804abd9_1:
 
     # "I take hold of her leash with one hand, and align the tip of my cock with the other and I finally push myself in."
-    "I take hold of her leash with one hand, and align the tip of my cock with the other and I finally push myself in."
+    "我一手拿着她给我的皮带，之后用另一只手对准我的龟头，然后我终于插了进去。"
 
 # game/bar.rpy#L3303
 translate chinese eveningbarmenu_335d6012_1:
@@ -11396,7 +11396,7 @@ translate chinese eveningbarmenu_335d6012_1:
 translate chinese eveningbarmenu_f559eacc:
 
     # "I sink into the depths of her inviting pussy and push as far as I can, her insides caress every inch of my shaft until she takes me to the hilt."
-    "I sink into the depths of her inviting pussy and push as far as I can, her insides caress every inch of my shaft until she takes me to the hilt."
+    "我沉沦在她蜜穴的每一寸肌肤，之后尽我所能的插了进去，她的肉壁也紧紧地爱抚着我的肉棒一直到我完全插进去为止。"
 
 # game/bar.rpy#L3306
 translate chinese eveningbarmenu_f528fb47_1:
@@ -11420,13 +11420,13 @@ translate chinese eveningbarmenu_dc08fbc2:
 translate chinese eveningbarmenu_a812934c_1:
 
     # "I pull the leash and the well-strung collar chokes the kitten-roleplaying mare while I begin to hump her."
-    "I pull the leash and the well-strung collar chokes the kitten-roleplaying mare while I begin to hump her."
+    "趁我们做爱的间隙，我拽紧皮带，使得原本就紧绷的项圈给这匹扮演小猫咪的雌驹带来更强的窒息感。"
 
 # game/bar.rpy#L3312
 translate chinese eveningbarmenu_c0605de9_1:
 
     # "Her hips gyrate back and forth in tandem with my movements, ensuring that each thrust slides into her deepest and most sensitive areas."
-    "Her hips gyrate back and forth in tandem with my movements, ensuring that each thrust slides into her deepest and most sensitive areas."
+    "她的美臀也开始随着我的抽插前后扭动，确保我每次都能插到她最深，最敏感的地方。"
 
 # game/bar.rpy#L3313
 translate chinese eveningbarmenu_4a553283_1:
@@ -11444,13 +11444,13 @@ translate chinese eveningbarmenu_4be85bcb_1:
 translate chinese eveningbarmenu_38a30c40_1:
 
     # "She wraps her legs around my hips and pulls me closer, her encouraging words spur on a faster fuck and a tighter pull on the leash."
-    "She wraps her legs around my hips and pulls me closer, her encouraging words spur on a faster fuck and a tighter pull on the leash."
+    "她用双腿缠住了我的腰来把我拉得更近些，还说着骚话让我忍不住更想干她，还有皮带当然也勒的更紧了。"
 
 # game/bar.rpy#L3317
 translate chinese eveningbarmenu_c8a08ffd_1:
 
     # "Midna's moans escalate as I speed up, after about twenty seconds of consistent pleasure a small gush of squirt escapes her pussy as she climaxes."
-    "Midna's moans escalate as I speed up, after about twenty seconds of consistent pleasure a small gush of squirt escapes her pussy as she climaxes."
+    "随着我插的越来越快，就这么挺了大概20秒她就高潮了，一股淫水从她小穴里喷了出来。"
 
 # game/bar.rpy#L3318
 translate chinese eveningbarmenu_7a18d4b3_1:
@@ -12638,7 +12638,7 @@ translate chinese doubledoggo_451a8dc5:
 translate chinese doubledoggo_05173c86:
 
     # "Hilda threw a few compliments Rosa’s way, and for some reason the dog girl blurted out that she swings both ways."
-    "Hilda threw a few compliments Rosa’s way, and for some reason the dog girl blurted out that she swings both ways."
+    "Hlida对Rosa恭维了几句，不知道怎么的这只小母狗想也没想就脱口而出一些不明所以的话。"
 
 # game/bar.rpy#L3750
 translate chinese doubledoggo_b9724607:
@@ -12878,7 +12878,7 @@ translate chinese doubledoggo_8f15c7bb:
 translate chinese doubledoggo_32b0e185:
 
     # "Hilda’s entire body quivers as she’s possessed by a powerful orgasm. The spasms of pleasure make her pussy feel even tighter, and she manages to keep the vigorous rhythm of her ass bouncing against me."
-    "Hilda’s entire body quivers as she’s possessed by a powerful orgasm. The spasms of pleasure make her pussy feel even tighter, and she manages to keep the vigorous rhythm of her ass bouncing against me."
+    "Hilda的整个身体因为一阵强烈的高潮而不断颤抖。这种痉挛的快感让她的小穴更紧了，在那之后她便保持着这股冲劲疯狂的做活塞运动。"
 
 # game/bar.rpy#L3796
 translate chinese doubledoggo_dfc86281:
@@ -12890,7 +12890,7 @@ translate chinese doubledoggo_dfc86281:
 translate chinese doubledoggo_119c9a8c:
 
     # "Flipped like a switch, my vision swims with white and all sensations are replaced with euphoria. My cock erupts thick loads of semen into her awaiting cunt, plastering her warm inner walls with white."
-    "Flipped like a switch, my vision swims with white and all sensations are replaced with euphoria. My cock erupts thick loads of semen into her awaiting cunt, plastering her warm inner walls with white."
+    "就像开了开关，我眼前一片洁白，并且这种愉悦感充斥着我的感官。我的肉棒往她饥渴的蜜穴里狠狠地射了一发，使得她的肉壁抹上了一缕白色。"
 
 # game/bar.rpy#L3806
 translate chinese doubledoggo_4955eb36:
@@ -12944,7 +12944,7 @@ translate chinese doubledoggo_108c5719:
 translate chinese doubledoggo_f51fc628:
 
     # "As I approach the dog girl’s bubble butt, her eyes follow every motion in anticipation. If her tail’s non-stop wagging is any indication of her excitement, you’d think this was the most fun she’d ever had in her life."
-    "As I approach the dog girl’s bubble butt, her eyes follow every motion in anticipation. If her tail’s non-stop wagging is any indication of her excitement, you’d think this was the most fun she’d ever had in her life."
+    "在我靠近这只小母狗的翘臀时，我看到她注视着我每一个动作。她不停的摇尾巴就说明她已经性奋的不行了，让人看起来好像是她生命中最快乐的时刻。"
 
 # game/bar.rpy#L3824
 translate chinese doubledoggo_d428040b:
@@ -13016,7 +13016,7 @@ translate chinese doubledoggo_f4999924:
 translate chinese doubledoggo_e03e4eed:
 
     # "The hungry pussy adores it as it clenches around my shaft, especially at the hilt of each thrust. Her thighs do these cute twitches in response to the pleasure too."
-    "The hungry pussy adores it as it clenches around my shaft, especially at the hilt of each thrust. Her thighs do these cute twitches in response to the pleasure too."
+    "这饥渴的小穴紧紧的裹住我的肉棒时爽翻了，更别提尤其是在插到最深处时了。她的大腿也会弄出一些可爱的小抽搐来回应这种快感。"
 
 # game/bar.rpy#L3839
 translate chinese doubledoggo_5f9728d5:

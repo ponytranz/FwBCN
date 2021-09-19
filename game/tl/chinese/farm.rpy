@@ -13244,7 +13244,7 @@ translate chinese annasex_1e97493a:
 translate chinese annasex_a06dd559:
 
     # "She was covered in so much cum it was nearly comical. My balls genuinely ache a little after the aphrodisiac finally wears off."
-    "She was covered in so much cum it was nearly comical. My balls genuinely ache a little after the aphrodisiac finally wears off."
+    "她全身上下沾满了精液，这让她看起来很滑稽。但在催情药的药效退去后，我的蛋蛋开始隐隐作痛起来。"
 
 # game/farm.rpy#L3994
 translate chinese annasex_b438b71e:
@@ -13298,19 +13298,19 @@ translate chinese annasex_295de33c:
 translate chinese annasex_0416acdd:
 
     # anna "Anyway, I guess I gotta clean you up a bit before you head off, and I feel like showing my gratitude by doing it the good ol’ way."
-    anna "Anyway, I guess I gotta clean you up a bit before you head off, and I feel like showing my gratitude by doing it the good ol’ way."
+    anna "对了，在你走之前，我还是先帮你好好收拾一下吧，这样我也可以表达一下对你的感激之情。"
 
 # game/farm.rpy#L4005
 translate chinese annasex_b194a709:
 
     # "She lazily shuffles towards my pelvis and uses her large wet cow tongue to lick off all the semen, rather efficiently too."
-    "She lazily shuffles towards my pelvis and uses her large wet cow tongue to lick off all the semen, rather efficiently too."
+    "她踏着懒洋洋的脚步走到我面前，将脸凑到我的下体，然后在很短的时间内用自己又长又宽的牛舌将上面的精液全部舔舐干净了。"
 
 # game/farm.rpy#L4006
 translate chinese annasex_63127049:
 
     # "I’d tell her that’s not necessary, but honestly at this point she can do whatever she wants."
-    "I’d tell her that’s not necessary, but honestly at this point she can do whatever she wants."
+    "我本想告诉她不用这么仔细的，但不得不说，在这种情况下，她想做什么就随她去吧。"
 
 # game/farm.rpy#L4007
 translate chinese annasex_d61d9714:
@@ -13322,7 +13322,7 @@ translate chinese annasex_d61d9714:
 translate chinese annasex_19fe834c:
 
     # anna "You remember those two cow girls you saw from earlier right? I bet they’re still going."
-    anna "You remember those two cow girls you saw from earlier right? I bet they’re still going."
+    anna "你还记得上次见过的那两头小母牛吗？我猜她们俩现在还在做呢。"
 
 # game/farm.rpy#L4009
 translate chinese annasex_018c3666:
@@ -13352,7 +13352,7 @@ translate chinese annasex_27d97469:
 translate chinese annasex_4477189e:
 
     # mc "Is that so? In that case I best walk back as soon as I can before I collapse or something."
-    mc "是吗？这样的话，我还是最好在身体彻底垮掉前赶快回家吧。"
+    mc "是吗？这样的话，我最好还是在身体彻底垮掉前赶快回家吧。"
 
 # game/farm.rpy#L4016
 translate chinese annasex_221bc854:
@@ -13376,7 +13376,7 @@ translate chinese annasex_41f56152:
 translate chinese annasex_30a6c822:
 
     # anna "Ohh, yeah. That would be for the best."
-    anna "Ohh, yeah. That would be for the best."
+    anna "哦，说的也是。你还是快点回去吧。"
 
 # game/farm.rpy#L4020
 translate chinese annasex_ddb43a9a:
@@ -13394,13 +13394,13 @@ translate chinese annasex_e49308d6:
 translate chinese annasex_1fada2fb:
 
     # mc "Go have a nice bath, you deserve it, chill out this evening, no more heat to bother you."
-    mc "Go have a nice bath, you deserve it, chill out this evening, no more heat to bother you."
+    mc "快去洗个澡吧，你累了一天，好好洗个澡也是应该的。今晚你应该会冷静多了，不会再去想爱爱的事了。"
 
 # game/farm.rpy#L4023
 translate chinese annasex_6b6de4e6:
 
     # anna "Mmm, I’m looking forward to it! I’ll be able to read a book tonight without getting distracted."
-    anna "Mmm, I’m looking forward to it! I’ll be able to read a book tonight without getting distracted."
+    anna "嗯，我就是这么想的！今晚我终于可以不受任何干扰地好好看书了。"
 
 # game/farm.rpy#L4024
 translate chinese annasex_5fd8f6d7:
@@ -13454,31 +13454,31 @@ translate chinese farmsexduringwork_ca30365c:
 translate chinese farmsexduringwork_187d8154:
 
     # "I stretch out and sit down on the grass beside the fence. Looking up I realize I accidentally gave myself a good view of Honey’s rear."
-    "I stretch out and sit down on the grass beside the fence. Looking up I realize I accidentally gave myself a good view of Honey’s rear."
+    "我伸了伸懒腰，然后坐在了栅栏旁边的草地上。坐下后，我无意之中抬起头，发现从这个角度欣赏Honey的背影简直棒极了。"
 
 # game/farm.rpy#L4042
 translate chinese farmsexduringwork_17edea86:
 
     # honeycrisp "Psshh, you sat there on purpose. I know your game, sugar."
-    honeycrisp "Psshh, you sat there on purpose. I know your game, sugar."
+    honeycrisp "嘁，你坐这儿是有目的的吧。我知道你是怎么想的，小可爱。"
 
 # game/farm.rpy#L4043
 translate chinese farmsexduringwork_993aa8e4:
 
     # "Honey laughs to herself and teasingly flicks her tail upwards."
-    "Honey laughs to herself and teasingly flicks her tail upwards."
+    "Honey笑了笑，然后挑逗性地将自己的尾巴抬了起来。"
 
 # game/farm.rpy#L4044
 translate chinese farmsexduringwork_a9d84213:
 
     # mc "I could have sat anywhere and gotten a great view of you, Honeycrisp."
-    mc "I could have sat anywhere and gotten a great view of you, Honeycrisp."
+    mc "我真应该坐在不同的位置，从各个角度欣赏你，Honeycrisp。"
 
 # game/farm.rpy#L4045
 translate chinese farmsexduringwork_c95ba3a8:
 
     # mc "Your back is especially nice though, very well-defined muscles."
-    mc "Your back is especially nice though, very well-defined muscles."
+    mc "你的背影真的漂亮极了，肌肉的纹理也很完美。"
 
 # game/farm.rpy#L4046
 translate chinese farmsexduringwork_e79adef5:
@@ -13496,19 +13496,19 @@ translate chinese farmsexduringwork_41e76ebb:
 translate chinese farmsexduringwork_86a1f88f:
 
     # honeycrisp "You certainly are being a naughty stud today. I tell ya what, how about a quickie? Don’t even need ta worry about my own orgasm, just fill ‘er up with cum."
-    honeycrisp "You certainly are being a naughty stud today. I tell ya what, how about a quickie? Don’t even need ta worry about my own orgasm, just fill ‘er up with cum."
+    honeycrisp "帅哥，今天你可真淘气呢。咱们来一次速战速决如何？你不用担心我会不会高潮，你只需要把我的小穴射满就好了。"
 
 # game/farm.rpy#L4049
 translate chinese farmsexduringwork_795283dd:
 
     # mc "Now that is an offer I don’t think I can refuse."
-    mc "Now that is an offer I don’t think I can refuse."
+    mc "你的这个请求真的让我难以拒绝。"
 
 # game/farm.rpy#L4051
 translate chinese farmsexduringwork_78234582:
 
     # "Standing up behind Honeycrisp, I bring one hand to her hips to hold her steady on the fence. My other hand slips under her ass and starts to rub between her plump labia."
-    "Standing up behind Honeycrisp, I bring one hand to her hips to hold her steady on the fence. My other hand slips under her ass and starts to rub between her plump labia."
+    "我来到Honeycrisp身后，一只手抓住她的腰，将她扶到栅栏旁，一只手从她的丰臀上向下滑动，然后开始揉搓她圆润的阴唇。"
 
 # game/farm.rpy#L4052
 translate chinese farmsexduringwork_fe5f95ef:
@@ -13526,13 +13526,13 @@ translate chinese farmsexduringwork_26cebb19:
 translate chinese farmsexduringwork_ce2a4f40:
 
     # honeycrisp "Somethin’ about seeing that delicious cock in the corner of my eye all day."
-    honeycrisp "Somethin’ about seeing that delicious cock in the corner of my eye all day."
+    honeycrisp "比如说，我每天都能用余光看到你那根美味的大棒棒哦。"
 
 # game/farm.rpy#L4055
 translate chinese farmsexduringwork_64b41d68:
 
     # "I rub her clit gently to prepare her pussy. She soon gets wetter and wetter, her pussy blooming as the blood starts flowing."
-    "I rub her clit gently to prepare her pussy. She soon gets wetter and wetter, her pussy blooming as the blood starts flowing."
+    "我轻轻摩擦着她的小穴，刺激着她。而她的下体马上就变得更加湿润了，她的血液开始向下体流去，使得她的小穴变得红润起来。"
 
 # game/farm.rpy#L4056
 translate chinese farmsexduringwork_643a0995:
