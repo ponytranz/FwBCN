@@ -2,13 +2,13 @@
 translate chinese farm_c5de936b:
 
     # honeycrisp "Hey stud! It's great to see you again."
-    honeycrisp "Hey stud! It's great to see you again."
+    honeycrisp "嘿，帅哥！很高兴能再次见到你。"
 
 # game/farm.rpy#L21
 translate chinese farm_0cf78ca2:
 
     # mc "Hey Honey, I'm always happy to visit."
-    mc "Hey Honey, I'm always happy to visit."
+    mc "嘿，Honey，能过来做客我也很高兴。"
 
 # game/farm.rpy#L23
 translate chinese farm_00bf8fa0:
@@ -20,7 +20,7 @@ translate chinese farm_00bf8fa0:
 translate chinese farm_82598137:
 
     # mc "That's wonderful, you'll barely need my help anymore I guess."
-    mc "That's wonderful, you'll barely need my help anymore I guess."
+    mc "这消息太棒了，我猜你应该不会再找我帮忙了吧。"
 
 # game/farm.rpy#L26
 translate chinese farm_f24c53ba:
@@ -13538,25 +13538,25 @@ translate chinese farmsexduringwork_64b41d68:
 translate chinese farmsexduringwork_643a0995:
 
     # "Slipping a single finger inside, it easily sinks up to my knuckle. She readily accepts a second finger too, albeit with slightly more resistance."
-    "Slipping a single finger inside, it easily sinks up to my knuckle. She readily accepts a second finger too, albeit with slightly more resistance."
+    "我先将一根手指滑入她的蜜穴，结果很容易就完全插了进去。同时，她也做好了被二指并入的准备，但这么做却有些吃力。"
 
 # game/farm.rpy#L4057
 translate chinese farmsexduringwork_13de73a7:
 
     # "Honeycrisp turns her body slightly. Taking advantage I bring our lips together and we kiss. The hand I had on her hip moves upwards to her breast, and I begin kneading my fingers into the soft fur."
-    "Honeycrisp turns her body slightly. Taking advantage I bring our lips together and we kiss. The hand I had on her hip moves upwards to her breast, and I begin kneading my fingers into the soft fur."
+    "Honeycrisp稍稍调整了一下姿势，这让我们两人的嘴唇离得更近了，之后，我们就互相亲吻起来。我那只抓在她腰部的手开始向上移动，然后摸到了她胸部的位置。随后，我便将手嵌入了她柔软细腻的毛发之中。"
 
 # game/farm.rpy#L4058
 translate chinese farmsexduringwork_da3963c5:
 
     # "Our tongues lovingly twirl around each other’s mouths while my fingers grind back and forth."
-    "Our tongues lovingly twirl around each other’s mouths while my fingers grind back and forth."
+    "在我的手来回抚摸着她的玉体时，我们两人的舌头也充满爱与激情地缠绕了在一起。"
 
 # game/farm.rpy#L4059
 translate chinese farmsexduringwork_67e5d33f:
 
     # "She’s getting really wet now, and I’m fully erect, my cock pressing against her butt slightly and twitching."
-    "She’s getting really wet now, and I’m fully erect, my cock pressing against her butt slightly and twitching."
+    "现在的她，全身已经湿透了，而我的肉棒也已经完全硬了起来。随后，它开始在Honeycrisp的臀部上轻轻地挤压并颤抖起来。"
 
 # game/farm.rpy#L4060
 translate chinese farmsexduringwork_5ad35b25:
@@ -13568,55 +13568,55 @@ translate chinese farmsexduringwork_5ad35b25:
 translate chinese farmsexduringwork_392c0d2d:
 
     # "She flashes a thumbs up while giving her ass a little wiggle."
-    "She flashes a thumbs up while giving her ass a little wiggle."
+    "她的臀部微微抖动起来，同时，她还对我伸出了大拇指。"
 
 # game/farm.rpy#L4062
 translate chinese farmsexduringwork_67344642:
 
     # mc "You got it, boss."
-    mc "你做到了，老大。"
+    mc "明白了，老大。"
 
 # game/farm.rpy#L4063
 translate chinese farmsexduringwork_01d63b5c:
 
     # "Making my move, I start by grabbing her ass while guiding my cock towards her wet and awaiting pussy."
-    "Making my move, I start by grabbing her ass while guiding my cock towards her wet and awaiting pussy."
+    "我做好准备，然后抱住她的臀部，同时将我的长枪指向了她湿润而饥渴的蜜穴。"
 
 # game/farm.rpy#L4066
 translate chinese farmsexduringwork_766da669:
 
     # "I push inside and slide deep into her inviting warmth, each inch of my member pleasantly squeezed."
-    "I push inside and slide deep into her inviting warmth, each inch of my member pleasantly squeezed."
+    "随后，我将肉棒插进了她充满渴望而温暖的小穴深处。肉棒上每一寸肌肤都感受到了被内壁挤压的快感。"
 
 # game/farm.rpy#L4067
 translate chinese farmsexduringwork_e5c2c05b:
 
     # "The mare moans pleasantly as she’s taken to the hilt, holding on carefully to the fence with her feet and left hand."
-    "The mare moans pleasantly as she’s taken to the hilt, holding on carefully to the fence with her feet and left hand."
+    "当她将自己的双脚和左手牢牢地扶在栅栏上时，这匹小母马立刻发出了欢快的娇喘声。"
 
 # game/farm.rpy#L4069
 translate chinese farmsexduringwork_2acb914c:
 
     # "I grit my teeth in response to the sharp pleasures, beginning to fuck at an appropriate pace for a ‘quickie’. Fast and deep."
-    "I grit my teeth in response to the sharp pleasures, beginning to fuck at an appropriate pace for a ‘quickie’. Fast and deep."
+    "在感受到一股突如其来的快感后，我咬紧牙关，开始用激烈而快速的节奏进行这次“速战速决”。"
 
 # game/farm.rpy#L4070
 translate chinese farmsexduringwork_837527c5:
 
     # "Honeycrisp handles the unusual position like a pro, remaining steadfast on the fence while taking a hell of a ploughing. She even takes a bite out of her apple between moans."
-    "Honeycrisp handles the unusual position like a pro, remaining steadfast on the fence while taking a hell of a ploughing. She even takes a bite out of her apple between moans."
+    "Honeycrisp的姿势虽然很不寻常，但却感觉相当专业：在她稳稳地趴在栅栏上时，她居然还能犁地。而且，她居然还能在呻吟的间歇咬上一口苹果。"
 
 # game/farm.rpy#L4071
 translate chinese farmsexduringwork_aef613d8:
 
     # "She isn’t entirely ignorant to the pleasure though, as her body soon heats up. First her back arches slightly, and secondly the moans grow in intensity and volume."
-    "She isn’t entirely ignorant to the pleasure though, as her body soon heats up. First her back arches slightly, and secondly the moans grow in intensity and volume."
+    "但由于她的身体已经被唤醒，所以她并没有完全忽略掉自身的快感。起初，她的背只是稍稍弓了起来，随后，她的呻吟声开始逐渐大了起来。"
 
 # game/farm.rpy#L4072
 translate chinese farmsexduringwork_60b3f7d8:
 
     # honeycrisp "Ahhh, ohhh… I wish we could do this all day, stud. *Pant*"
-    honeycrisp "啊，哦...我真想和你干上一整天。*喘气*"
+    honeycrisp "啊，哦……帅哥，我真想和你干上一整天。*喘气*"
 
 # game/farm.rpy#L4073
 translate chinese farmsexduringwork_7e45e3bc:
@@ -13634,43 +13634,43 @@ translate chinese farmsexduringwork_87e44684:
 translate chinese farmsexduringwork_7eb33363:
 
     # "My member pounds her over and over, going from the base to completely filling her. Splattering her juices with a squelch, and that noise is joined by a slapping sound at the peak of each thrust."
-    "My member pounds her over and over, going from the base to completely filling her. Splattering her juices with a squelch, and that noise is joined by a slapping sound at the peak of each thrust."
+    "我的大枪一次次地撞击着她的下体，一次又一次地将它完全插入到她的蜜穴中。每一次撞击后，她的下体都会发出呲溜呲溜和啪啪啪的混合声，同时，爱液也会从她的下体迸射而出。"
 
 # game/farm.rpy#L4076
 translate chinese farmsexduringwork_c9f0c583:
 
     # "From this position she can’t exert any effort into the rutting, so it’s up to me to finish what I started."
-    "From this position she can’t exert any effort into the rutting, so it’s up to me to finish what I started."
+    "但这种姿势并不能让她感受到任何快感。所以，收尾的工作就由我来负责了。"
 
 # game/farm.rpy#L4077
 translate chinese farmsexduringwork_170fdd9f:
 
     # "Determined, I fuck her just fast enough to feel a slow rise of orgasmic pleasure stir deep within me. Perhaps overexerting myself as I try to force that feeling out."
-    "Determined, I fuck her just fast enough to feel a slow rise of orgasmic pleasure stir deep within me. Perhaps overexerting myself as I try to force that feeling out."
+    "我做好准备，然后快速抽插着她。在这个过程中，我感受到一种无比的快感正在我体内慢慢地聚集。 或许，如果我想让这感觉变得更强烈，我就应该再用力一些。"
 
 # game/farm.rpy#L4078
 translate chinese farmsexduringwork_25a588f3:
 
     # honeycrisp "Oohh, gosh… Cum in me, stud! Make me yours!"
-    honeycrisp "哦，我的天……射进去吧，帅哥！不要客气！"
+    honeycrisp "哦，我的天……射进去吧，帅哥！不要手下留情！"
 
 # game/farm.rpy#L4083
 translate chinese farmsexduringwork_19325ed5:
 
     # "Pushing as hard as I can to the edge. I manage to finally achieve climax, spraying several loads deep inside."
-    "Pushing as hard as I can to the edge. I manage to finally achieve climax, spraying several loads deep inside."
+    "我用尽全力抽插着。不久之后，我到达了高潮的边缘。我最后用力一插，彻底达到了高潮，浓稠的液体瞬间射进了她的体内。"
 
 # game/farm.rpy#L4088
 translate chinese farmsexduringwork_90750d9b:
 
     # "I continue humping throughout my orgasm with the same passion. It feels blissful."
-    "I continue humping throughout my orgasm with the same passion. It feels blissful."
+    "我借着高潮的快感继续抽插着。这快感简直无与伦比。"
 
 # game/farm.rpy#L4093
 translate chinese farmsexduringwork_028df474:
 
     # "Oh-?!"
-    "哦-?!"
+    "哦……？！"
 
 # game/farm.rpy#L4094
 translate chinese farmsexduringwork_ef5b451c:
@@ -13682,13 +13682,13 @@ translate chinese farmsexduringwork_ef5b451c:
 translate chinese farmsexduringwork_826b96ca:
 
     # honeycrisp "Oohh, ahhh… Ahahahah."
-    honeycrisp "噢噢噢，啊啊...啊哈哈哈......"
+    honeycrisp "噢噢噢，啊啊……啊哈哈哈……"
 
 # game/farm.rpy#L4097
 translate chinese farmsexduringwork_93052d5d:
 
     # "It takes me a while to realize she had orgasmed, causing her to lose grip and fall off."
-    "It takes me a while to realize she had orgasmed, causing her to lose grip and fall off."
+    "过了一会儿，我才发现她已经高潮了。也正因如此，她松开了抓在栅栏上的手并摔了下来。"
 
 # game/farm.rpy#L4098
 translate chinese farmsexduringwork_4cbda3e1:
@@ -13700,7 +13700,7 @@ translate chinese farmsexduringwork_4cbda3e1:
 translate chinese farmsexduringwork_366c60a3:
 
     # honeycrisp "I-I’m good, just couldn’t handle my orgasm, hah."
-    honeycrisp "I-I’m good, just couldn’t handle my orgasm, hah."
+    honeycrisp "我……我没事，我只是控制不住我的高潮罢了，哈啊。"
 
 # game/farm.rpy#L4103
 translate chinese farmsexduringwork_ad0fc876:
@@ -13712,25 +13712,25 @@ translate chinese farmsexduringwork_ad0fc876:
 translate chinese farmsexduringwork_395fae5b:
 
     # mc "I’m surprised you had one so quickly!"
-    mc "I’m surprised you had one so quickly!"
+    mc "你居然这么快就高潮了，我真没想到！"
 
 # game/farm.rpy#L4107
 translate chinese farmsexduringwork_cd635837:
 
     # honeycrisp "I’ll put that up to your expert treatment of my pussy. The way you warmed me up at the start really set me up to get the most out of that rutting."
-    honeycrisp "I’ll put that up to your expert treatment of my pussy. The way you warmed me up at the start really set me up to get the most out of that rutting."
+    honeycrisp "你的技术可真专业，干我的时候太爽了。你的前戏也让我欲罢不能呢。"
 
 # game/farm.rpy#L4108
 translate chinese farmsexduringwork_d425c869:
 
     # mc "Always the best from me. I think we overdid it. Well… I overdid it."
-    mc "Always the best from me. I think we overdid it. Well… I overdid it."
+    mc "我的技术就是这么厉害。我感觉咱们已经做过头了。好吧……是我做过头了。"
 
 # game/farm.rpy#L4109
 translate chinese farmsexduringwork_e3a1658f:
 
     # honeycrisp "Y'all can never overdo it with me, sugar. Us farm girls are tough. Now, how about we go inside and have a proper break? I could use a drink."
-    honeycrisp "Y'all can never overdo it with me, sugar. Us farm girls are tough. Now, how about we go inside and have a proper break? I could use a drink."
+    honeycrisp "小可爱，不管你对我做什么，我都没问题的。我们这些在农场干活的姑娘没那么娇气。咱们现在进屋休息一下如何？我想喝点了。"
 
 # game/farm.rpy#L4114
 translate chinese farmsexduringwork_4a461056:

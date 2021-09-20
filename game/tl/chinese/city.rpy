@@ -68,7 +68,7 @@ translate chinese nightclubcm_6bcb94ed:
 translate chinese musicstudio_d9de54f7:
 
     # blossom "Hey! [playername]!"
-    blossom "嘿 ! [playername] !"
+    blossom "嘿！[playername]！"
 
 # game/city.rpy#L73
 translate chinese musicstudio_c3044bf2:
@@ -2600,7 +2600,7 @@ translate chinese melodycunnilingus_10c9f17b:
 translate chinese melodycunnilingus_ec692670:
 
     # melody "Yeah, I can see it… Your penis is getting hard just from kneeling before me. Just what kind of disgusting thoughts are you thinking?"
-    melody "Yeah, I can see it… Your penis is getting hard just from kneeling before me. Just what kind of disgusting thoughts are you thinking?"
+    melody "嗯，我明白了……你跪下之后，你的小弟弟就已经硬起来了。你到底在想些什么坏主意呢？"
 
 # game/city.rpy#L1229
 translate chinese melodycunnilingus_cba25fff:
@@ -2642,7 +2642,7 @@ translate chinese melodycunnilingus_65dc2e57:
 translate chinese melodycunnilingus_cbc5b4ef:
 
     # melody "I want your lips to be able to meet mine, understood, worm?"
-    melody "I want your lips to be able to meet mine, understood, worm?"
+    melody "我要你把你的嘴挪到我面前，明白了吗，小贱人？"
 
 # game/city.rpy#L1239
 translate chinese melodycunnilingus_2051d66a:
@@ -2654,7 +2654,7 @@ translate chinese melodycunnilingus_2051d66a:
 translate chinese melodycunnilingus_0968d2e8:
 
     # "There. Wow, her pussy looks amazing from this angle. I knew playing along would work."
-    "There. Wow, her pussy looks amazing from this angle. I knew playing along would work."
+    "就是这个角度。哇哦，从这个角度看，她的小穴简直完美极了。我知道，再这样继续下去一定会有效果的。"
 
 # game/city.rpy#L1244
 translate chinese melodycunnilingus_fffb3dfd:
@@ -2666,49 +2666,49 @@ translate chinese melodycunnilingus_fffb3dfd:
 translate chinese melodycunnilingus_83b0d700:
 
     # melody "I feel like our sex has too much of me doing things to you. Now it’s time for you to show your appreciation."
-    melody "I feel like our sex has too much of me doing things to you. Now it’s time for you to show your appreciation."
+    melody "我感觉，咱们爱爱的时候，我已经为你做了不少事。现在，该让你好好感谢我了。"
 
 # game/city.rpy#L1246
 translate chinese melodycunnilingus_ef658b4b:
 
     # mc "Happily."
-    mc "真不错。"
+    mc "我很乐意。"
 
 # game/city.rpy#L1247
 translate chinese melodycunnilingus_ce72efa5:
 
     # "I wrap both my hands around her soft thighs and push my face into her labia. She seems initially embarrassed but soon resumes a more domineering attitude."
-    "I wrap both my hands around her soft thighs and push my face into her labia. She seems initially embarrassed but soon resumes a more domineering attitude."
+    "我双手抱住她柔软的双腿，然后将自己的脸埋进了她的阴唇中。开始的时候，她还很不自在，但没过多久，她就恢复到了之前那种盛气凌人的状态。"
 
 # game/city.rpy#L1249
 translate chinese melodycunnilingus_e367e75b:
 
     # melody "Ahh… You really are a nasty little thing, diving so eagerly into my pussy like that. Do you have no dignity?"
-    melody "Ahh… You really are a nasty little thing, diving so eagerly into my pussy like that. Do you have no dignity?"
+    melody "啊……你个贱人可真讨厌，这么迫不及待地去舔人家的小穴。难道你连一点自尊都没有吗？"
 
 # game/city.rpy#L1250
 translate chinese melodycunnilingus_09ec6801:
 
     # "Her labia parts slightly with each lick, gently revealing the wet lips nestled between."
-    "Her labia parts slightly with each lick, gently revealing the wet lips nestled between."
+    "我每舔一次，她的阴唇就会稍稍分开一些，然后湿润的内阴就会缓缓显露出来。"
 
 # game/city.rpy#L1251
 translate chinese melodycunnilingus_a9478edd:
 
     # "With a few lazy licks up and down her lips, I turn my attention to her clit and circle my tongue around this sensitive area."
-    "With a few lazy licks up and down her lips, I turn my attention to her clit and circle my tongue around this sensitive area."
+    "一阵舔舐玩弄后，我有些厌倦了。于是，我将注意力放到了她的阴蒂上，然后，我用舌头包裹住了这个最为敏感的部位。"
 
 # game/city.rpy#L1252
 translate chinese melodycunnilingus_8312d524:
 
     # melody "Mmphh, mm… Well, I can’t insult your tongue work…"
-    melody "Mmphh, mm… Well, I can’t insult your tongue work…"
+    melody "唔嗯，嗯……不错，你的口活我真没什么可挑的……"
 
 # game/city.rpy#L1253
 translate chinese melodycunnilingus_86abf441:
 
     # melody "I bet you’ve been practicing just for this moment. How pitiful!"
-    melody "I bet you’ve been practicing just for this moment. How pitiful!"
+    melody "我敢说，你为了今天这一刻已经练习过很久了吧。好悲催哦！"
 
 # game/city.rpy#L1254
 translate chinese melodycunnilingus_77a4442e:
@@ -2720,19 +2720,19 @@ translate chinese melodycunnilingus_77a4442e:
 translate chinese melodycunnilingus_578bb0e1:
 
     # "Gripping her furry thighs slightly more tightly, I suckle at her clit with an intensity that’s sure to blow her mind."
-    "Gripping her furry thighs slightly more tightly, I suckle at her clit with an intensity that’s sure to blow her mind."
+    "我用力抓住她毛茸茸的双腿，然后猛烈舔舐吸吮着她的阴蒂。这一定会让她神魂颠倒的。"
 
 # game/city.rpy#L1258
 translate chinese melodycunnilingus_f22d376e:
 
     # melody "Ahhh, haaahh… Oohh, ohhh, aahhh… It’s not a- ahhh!"
-    melody "Ahhh, haaahh… Oohh, ohhh, aahhh… It’s not a- ahhh!"
+    melody "啊啊，哈啊啊……哦，哦，啊啊啊……这不是……啊啊啊！"
 
 # game/city.rpy#L1259
 translate chinese melodycunnilingus_54cc9590:
 
     # "Hehe, she likes to pretend she’s in control, but with the right technique you can make a girl come in only a few minutes of this."
-    "Hehe, she likes to pretend she’s in control, but with the right technique you can make a girl come in only a few minutes of this."
+    "嘿嘿，她总喜欢故作镇定。但如果你的手法正确，你可以让任何一个姑娘在几分钟内变得不再矜持。"
 
 # game/city.rpy#L1260
 translate chinese melodycunnilingus_a6490cbf:
@@ -2744,25 +2744,25 @@ translate chinese melodycunnilingus_a6490cbf:
 translate chinese melodycunnilingus_c155cfc2:
 
     # melody "Ahhh… Y-You don’t need to try so hard to impress me, you know!"
-    melody "Ahhh… Y-You don’t need to try so hard to impress me, you know!"
+    melody "啊啊……你……你用不着费这么多事来讨好我，知道吗！"
 
 # game/city.rpy#L1262
 translate chinese melodycunnilingus_33081331:
 
     # "Sparks of pleasure overwhelm her until she’s nothing but a quivering mess."
-    "Sparks of pleasure overwhelm her until she’s nothing but a quivering mess."
+    "当她全身上下开始剧烈颤抖起来时，她已经完全沉浸在了性爱的快感之中。"
 
 # game/city.rpy#L1263
 translate chinese melodycunnilingus_cd7ec2a9:
 
     # "I actively have to hold her in place due to how much her pelvis squirms."
-    "I actively have to hold her in place due to how much her pelvis squirms."
+    "由于她下体的剧烈扭动，我不得不将她晃动的身体控制住。"
 
 # game/city.rpy#L1264
 translate chinese melodycunnilingus_3ee940c7:
 
     # "After a few minutes of this treatment, her moans turn into pleasureful squeaks as she’s finally graced with an orgasm."
-    "After a few minutes of this treatment, her moans turn into pleasureful squeaks as she’s finally graced with an orgasm."
+    "几分钟之后，她终于达到了高潮，她原先的呻吟也逐渐变成了欢快的尖叫。"
 
 # game/city.rpy#L1266
 translate chinese melodycunnilingus_943894b6:
@@ -2924,13 +2924,13 @@ translate chinese nightclubncm_cf46c20f:
 translate chinese nightclubncm_e591e9ea:
 
     # "I should make sure I have some monies before I go in. Not only is there an entry fee, but if it's anything like home, the drinks'll be overpriced."
-    "I should make sure I have some monies before I go in. Not only is there an entry fee, but if it's anything like home, the drinks'll be overpriced."
+    "在进门前，我必须保证手里要有些钱。这么做不仅是因为进门要交入场费，而且这里的酒水肯定不便宜，这就和我之前的世界是一个道理。"
 
 # game/city.rpy#L1370
 translate chinese nightclubncm_4d25ff50:
 
     # "Shoot, I can't afford even 5 monies... That's embarrassing."
-    "天啊，我连5块钱的费用都负担不起... 那太尴尬了。"
+    "天啊，我连5块钱的费用都负担不起……真的好尴尬。"
 
 # game/city.rpy#L1389
 translate chinese nightclub_b38f1855:
@@ -2960,7 +2960,7 @@ translate chinese nightclub_4a6256f8:
 translate chinese nightclub_f978b1a1:
 
     # dawnunknown "Ooohhh, what do we have here? Another scrumptious young plaything straight out of life and into my club?"
-    dawnunknown "Ooohhh, what do we have here? Another scrumptious young plaything straight out of life and into my club?"
+    dawnunknown "哦哦哦，看看谁来了？又有一个年轻的小帅哥到我的俱乐部来做客了吗？"
 
 # game/city.rpy#L1396
 translate chinese nightclub_6b22f55a:
@@ -2972,7 +2972,7 @@ translate chinese nightclub_6b22f55a:
 translate chinese nightclub_fb91f3fd:
 
     # dawnunknown "Oh, I’m not frightening you, am I, duckling?"
-    dawnunknown "Oh, I’m not frightening you, am I, duckling?"
+    dawnunknown "哦，我没吓到你吧，小鸭鸭？"
 
 # game/city.rpy#L1399
 translate chinese nightclub_d32ddad8:
@@ -3002,31 +3002,31 @@ translate chinese nightclub_67975e1d:
 translate chinese nightclub_e9d72c3d:
 
     # dawnunknown "Is there anything else you’d like to investigate? Perhaps you’re more of a ‘private’ investigator… I could show you some truly criminal acts…"
-    dawnunknown "Is there anything else you’d like to investigate? Perhaps you’re more of a ‘private’ investigator… I could show you some truly criminal acts…"
+    dawnunknown "还有什么想调查的地方吗？说不定你的身份可不只是个“私人”侦探这一个哦……我可以给你展示一些真正的犯罪手段哦……"
 
 # game/city.rpy#L1405
 translate chinese nightclub_09e94021:
 
     # "Woah, she’s intense…"
-    "Woah, she’s intense…"
+    "哇哦，她简直太飒了……"
 
 # game/city.rpy#L1411
 translate chinese nightclub_561d70a2:
 
     # dawnunknown "Ohh, I’d just love to see what trouble we could get into together. Believe it or not, I’m a good girl, but for you, I could be really, really bad…"
-    dawnunknown "Ohh, I’d just love to see what trouble we could get into together. Believe it or not, I’m a good girl, but for you, I could be really, really bad…"
+    dawnunknown "哦，我其实很期待咱们两个会遇到什么样的麻烦。信不信由你，我可是个好姑娘。不过，为了你，我也可以变得很坏……很坏哦……"
 
 # game/city.rpy#L1414
 translate chinese nightclub_9fc184d8:
 
     # dawnunknown "Mmmheheh… If you keep talking like that, you’ll make me drip, sweetheart. But kitten, you misunderstand my intentions, the handcuffs would be for you."
-    dawnunknown "Mmmheheh… If you keep talking like that, you’ll make me drip, sweetheart. But kitten, you misunderstand my intentions, the handcuffs would be for you."
+    dawnunknown "嗯嘿嘿嘿……小可爱，如果你再用这种语气说话的话，我可要受不了了。但是呢，小猫咪，你可能误会我的意思了，会戴上手铐的人是你，不是我。"
 
 # game/city.rpy#L1417
 translate chinese nightclub_9ac98ff2:
 
     # dawnunknown "What’s your name, duckling? It’s not every day such a striking and handsome new face wanders onto my web."
-    dawnunknown "What’s your name, duckling? It’s not every day such a striking and handsome new face wanders onto my web."
+    dawnunknown "你叫什么，小鸭鸭？我可不是每天都能遇见这么英俊帅气的新面孔的。"
 
 # game/city.rpy#L1423
 translate chinese nightclub_866a1a27:
@@ -6986,55 +6986,55 @@ translate chinese sofiasex2_e21b9b64:
 translate chinese sofiasex2_ce617998:
 
     # "…"
-    "…"
+    "……"
 
 # game/city.rpy#L2502
 translate chinese sofiasex2_441e6622:
 
     # "In the morning, we go our separate ways after a quickie. This girl officially has a libido that puts me to shame."
-    "In the morning, we go our separate ways after a quickie. This girl officially has a libido that puts me to shame."
+    "早上，在我们两人来了一场速战速决后，我们互相道了别。说真的，这姑娘的性欲居然这么强，这让我有些无地自容。"
 
 # game/city.rpy#L2505
 translate chinese sofiasex2_a94fe683:
 
     # sofia "Ahh, you’re that kind of man?"
-    sofia "Ahh, you’re that kind of man?"
+    sofia "啊，你是那种类型的男生吗？"
 
 # game/city.rpy#L2506
 translate chinese sofiasex2_efa9a9b2_1:
 
     # sofia "Darling, close your eyes! Hehehe."
-    sofia "Darling, close your eyes! Hehehe."
+    sofia "亲爱的，快把眼睛闭上！嘿嘿嘿。"
 
 # game/city.rpy#L2507
 translate chinese sofiasex2_60cb1440_1:
 
     # "Close my eyes again? Alright, I’ll play along."
-    "Close my eyes again? Alright, I’ll play along."
+    "又要闭眼吗？好吧，我奉陪。"
 
 # game/city.rpy#L2509
 translate chinese sofiasex2_8935e3c6_1:
 
     # mc "Closed!"
-    mc "Closed!"
+    mc "闭好了！"
 
 # game/city.rpy#L2511
 translate chinese sofiasex2_785b1c26_1:
 
     # "Almost immediately I hear the bathroom door click, along with the ruffling of clothes as she approaches the bed."
-    "Almost immediately I hear the bathroom door click, along with the ruffling of clothes as she approaches the bed."
+    "闭上眼睛后不久，我便听到了浴室门打开的声音。随后，我又听到了她走到床边的脚步声和衣物摩擦的声音。"
 
 # game/city.rpy#L2512
 translate chinese sofiasex2_67fa8913_1:
 
     # sofia "Alright, open your eyes."
-    sofia "Alright, open your eyes."
+    sofia "好了，现在睁开眼睛吧。"
 
 # game/city.rpy#L2515
 translate chinese sofiasex2_aef98a4e_1:
 
     # "As I do, I’m greeted with a beautiful sight."
-    "As I do, I’m greeted with a beautiful sight."
+    "我随后睁开双眼，才发现眼前的一切是那样的无与伦比。"
 
 # game/city.rpy#L2516
 translate chinese sofiasex2_ea8d7845:
@@ -7088,13 +7088,13 @@ translate chinese sofiasex2_43aa1388:
 translate chinese sofiasex2_702a841b:
 
     # sofia "Yeahh… Ooohhh, that’s it… Your tongue feels exquisite!"
-    sofia "Yeahh… Ooohhh, that’s it… Your tongue feels exquisite!"
+    sofia "好舒服啊……哦哦哦，就是这样……你舌头的感觉真的太舒服了！"
 
 # game/city.rpy#L2526
 translate chinese sofiasex2_213335b5:
 
     # "No longer satisfied just licking through the stockings, I grip a bit of the fabric with my teeth and make a small tear."
-    "No longer satisfied just licking through the stockings, I grip a bit of the fabric with my teeth and make a small tear."
+    "隔着丝袜舔舐已经满足不了我了，所以，我用牙将丝袜咬开了一个小口。"
 
 # game/city.rpy#L2527
 translate chinese sofiasex2_bf2b2f75:
@@ -7112,7 +7112,7 @@ translate chinese sofiasex2_7a5d8ce4_1:
 translate chinese sofiasex2_d09fe25c_1:
 
     # sofia "Oohhh, ahhaaa… I want you to make me come lots and lots, okay?"
-    sofia "Oohhh, ahhaaa… I want you to make me come lots and lots, okay?"
+    sofia "哦哦，啊哈哈……我想让你帮我好好的射一次，好吗？"
 
 # game/city.rpy#L2530
 translate chinese sofiasex2_00e10ecd_1:
@@ -7286,13 +7286,13 @@ translate chinese sofiasex2_e21b9b64_1:
 translate chinese sofiasex2_ce617998_1:
 
     # "…"
-    "…"
+    "……"
 
 # game/city.rpy#L2579
 translate chinese sofiasex2_0696ed34:
 
     # "In the morning, we go our separate ways after a quickie. This girl officially has a libido that puts mine to shame."
-    "In the morning, we go our separate ways after a quickie. This girl officially has a libido that puts mine to shame."
+    "早上，在我们两人来了一场速战速决后，我们互相道了别。说真的，这姑娘的性欲居然这么强，这让我感到无地自容。"
 
 translate chinese strings:
 

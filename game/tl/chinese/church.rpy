@@ -236,7 +236,7 @@ translate chinese augustamenu_e4bfd6c4:
 translate chinese augustamenu_7c484c2f:
 
     # augusta "Alright, time to conjure a big ol' cock."
-    augusta "好啦，现在是大鸡巴时间。"
+    augusta "好啦，到了大变肉棒的时候了。"
 
 # game/church.rpy#L99
 translate chinese augustamenu_be770070:
