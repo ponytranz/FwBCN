@@ -325,79 +325,79 @@
     "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L63"
   },
   {
-    "key": "renpy/common/00action_file.rpy_L240_0",
+    "key": "renpy/common/00action_file.rpy_L250_0",
     "original": "%b %d, %H:%M",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L240"
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L250"
   },
   {
-    "key": "renpy/common/00action_file.rpy_L353_0",
+    "key": "renpy/common/00action_file.rpy_L363_0",
     "original": "Save slot %s: [text]",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L353"
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L363"
   },
   {
-    "key": "renpy/common/00action_file.rpy_L434_0",
+    "key": "renpy/common/00action_file.rpy_L444_0",
     "original": "Load slot %s: [text]",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L434"
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L444"
   },
   {
-    "key": "renpy/common/00action_file.rpy_L487_0",
+    "key": "renpy/common/00action_file.rpy_L497_0",
     "original": "Delete slot [text]",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L487"
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L497"
   },
   {
-    "key": "renpy/common/00action_file.rpy_L566_0",
+    "key": "renpy/common/00action_file.rpy_L576_0",
     "original": "File page auto",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L566"
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L576"
   },
   {
-    "key": "renpy/common/00action_file.rpy_L568_0",
+    "key": "renpy/common/00action_file.rpy_L578_0",
     "original": "File page quick",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L568"
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L578"
   },
   {
-    "key": "renpy/common/00action_file.rpy_L570_0",
+    "key": "renpy/common/00action_file.rpy_L580_0",
     "original": "File page [text]",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L570"
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L580"
   },
   {
-    "key": "renpy/common/00action_file.rpy_L628_0",
+    "key": "renpy/common/00action_file.rpy_L638_0",
     "original": "Page {}",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L628"
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L638"
   },
   {
-    "key": "renpy/common/00action_file.rpy_L628_1",
+    "key": "renpy/common/00action_file.rpy_L638_1",
     "original": "Automatic saves",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L628"
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L638"
   },
   {
-    "key": "renpy/common/00action_file.rpy_L628_2",
+    "key": "renpy/common/00action_file.rpy_L638_2",
     "original": "Quick saves",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L628"
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L638"
   },
   {
-    "key": "renpy/common/00action_file.rpy_L769_0",
+    "key": "renpy/common/00action_file.rpy_L779_0",
     "original": "Next file page.",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L769"
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L779"
   },
   {
-    "key": "renpy/common/00action_file.rpy_L841_0",
+    "key": "renpy/common/00action_file.rpy_L851_0",
     "original": "Previous file page.",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L841"
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L851"
   },
   {
-    "key": "renpy/common/00action_file.rpy_L902_0",
+    "key": "renpy/common/00action_file.rpy_L912_0",
     "original": "Quick save complete.",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L902"
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L912"
   },
   {
-    "key": "renpy/common/00action_file.rpy_L920_0",
+    "key": "renpy/common/00action_file.rpy_L930_0",
     "original": "Quick save.",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L920"
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L930"
   },
   {
-    "key": "renpy/common/00action_file.rpy_L939_0",
+    "key": "renpy/common/00action_file.rpy_L949_0",
     "original": "Quick load.",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L939"
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00action_file.rpy#L949"
   },
   {
     "key": "renpy/common/00action_other.rpy_L375_0",
@@ -520,64 +520,64 @@
     "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00director.rpy#L1803"
   },
   {
-    "key": "renpy/common/00gui.rpy_L382_0",
-    "original": "Are you sure?",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00gui.rpy#L382"
-  },
-  {
-    "key": "renpy/common/00gui.rpy_L383_0",
-    "original": "Are you sure you want to delete this save?",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00gui.rpy#L383"
-  },
-  {
     "key": "renpy/common/00gui.rpy_L384_0",
-    "original": "Are you sure you want to overwrite your save?",
+    "original": "Are you sure?",
     "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00gui.rpy#L384"
   },
   {
     "key": "renpy/common/00gui.rpy_L385_0",
-    "original": "Loading will lose unsaved progress.\\nAre you sure you want to do this?",
+    "original": "Are you sure you want to delete this save?",
     "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00gui.rpy#L385"
   },
   {
     "key": "renpy/common/00gui.rpy_L386_0",
-    "original": "Are you sure you want to quit?",
+    "original": "Are you sure you want to overwrite your save?",
     "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00gui.rpy#L386"
   },
   {
     "key": "renpy/common/00gui.rpy_L387_0",
-    "original": "Are you sure you want to return to the main menu?\\nThis will lose unsaved progress.",
+    "original": "Loading will lose unsaved progress.\\nAre you sure you want to do this?",
     "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00gui.rpy#L387"
   },
   {
     "key": "renpy/common/00gui.rpy_L388_0",
-    "original": "Are you sure you want to end the replay?",
+    "original": "Are you sure you want to quit?",
     "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00gui.rpy#L388"
   },
   {
     "key": "renpy/common/00gui.rpy_L389_0",
-    "original": "Are you sure you want to begin skipping?",
+    "original": "Are you sure you want to return to the main menu?\\nThis will lose unsaved progress.",
     "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00gui.rpy#L389"
   },
   {
     "key": "renpy/common/00gui.rpy_L390_0",
-    "original": "Are you sure you want to skip to the next choice?",
+    "original": "Are you sure you want to end the replay?",
     "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00gui.rpy#L390"
   },
   {
     "key": "renpy/common/00gui.rpy_L391_0",
-    "original": "Are you sure you want to skip unseen dialogue to the next choice?",
+    "original": "Are you sure you want to begin skipping?",
     "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00gui.rpy#L391"
   },
   {
-    "key": "renpy/common/00keymap.rpy_L300_0",
-    "original": "Failed to save screenshot as %s.",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00keymap.rpy#L300"
+    "key": "renpy/common/00gui.rpy_L392_0",
+    "original": "Are you sure you want to skip to the next choice?",
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00gui.rpy#L392"
   },
   {
-    "key": "renpy/common/00keymap.rpy_L312_0",
+    "key": "renpy/common/00gui.rpy_L393_0",
+    "original": "Are you sure you want to skip unseen dialogue to the next choice?",
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00gui.rpy#L393"
+  },
+  {
+    "key": "renpy/common/00keymap.rpy_L306_0",
+    "original": "Failed to save screenshot as %s.",
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00keymap.rpy#L306"
+  },
+  {
+    "key": "renpy/common/00keymap.rpy_L318_0",
     "original": "Saved screenshot as %s.",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00keymap.rpy#L312"
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00keymap.rpy#L318"
   },
   {
     "key": "renpy/common/00library.rpy_L195_0",
@@ -590,224 +590,234 @@
     "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00library.rpy#L281"
   },
   {
-    "key": "renpy/common/00preferences.rpy_L240_0",
+    "key": "renpy/common/00preferences.rpy_L247_0",
     "original": "display",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L240"
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L247"
   },
   {
-    "key": "renpy/common/00preferences.rpy_L252_0",
+    "key": "renpy/common/00preferences.rpy_L259_0",
     "original": "transitions",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L252"
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L259"
   },
   {
-    "key": "renpy/common/00preferences.rpy_L261_0",
+    "key": "renpy/common/00preferences.rpy_L268_0",
     "original": "skip transitions",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L261"
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L268"
   },
   {
-    "key": "renpy/common/00preferences.rpy_L263_0",
+    "key": "renpy/common/00preferences.rpy_L270_0",
     "original": "video sprites",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L263"
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L270"
   },
   {
-    "key": "renpy/common/00preferences.rpy_L272_0",
+    "key": "renpy/common/00preferences.rpy_L279_0",
     "original": "show empty window",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L272"
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L279"
   },
   {
-    "key": "renpy/common/00preferences.rpy_L281_0",
+    "key": "renpy/common/00preferences.rpy_L288_0",
     "original": "text speed",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L281"
-  },
-  {
-    "key": "renpy/common/00preferences.rpy_L289_0",
-    "original": "joystick",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L289"
-  },
-  {
-    "key": "renpy/common/00preferences.rpy_L289_1",
-    "original": "joystick...",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L289"
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L288"
   },
   {
     "key": "renpy/common/00preferences.rpy_L296_0",
-    "original": "skip",
+    "original": "joystick",
     "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L296"
   },
   {
-    "key": "renpy/common/00preferences.rpy_L299_0",
-    "original": "skip unseen [text]",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L299"
+    "key": "renpy/common/00preferences.rpy_L296_1",
+    "original": "joystick...",
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L296"
   },
   {
-    "key": "renpy/common/00preferences.rpy_L304_0",
-    "original": "skip unseen text",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L304"
+    "key": "renpy/common/00preferences.rpy_L303_0",
+    "original": "skip",
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L303"
   },
   {
     "key": "renpy/common/00preferences.rpy_L306_0",
-    "original": "begin skipping",
+    "original": "skip unseen [text]",
     "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L306"
   },
   {
-    "key": "renpy/common/00preferences.rpy_L310_0",
-    "original": "after choices",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L310"
+    "key": "renpy/common/00preferences.rpy_L311_0",
+    "original": "skip unseen text",
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L311"
+  },
+  {
+    "key": "renpy/common/00preferences.rpy_L313_0",
+    "original": "begin skipping",
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L313"
   },
   {
     "key": "renpy/common/00preferences.rpy_L317_0",
-    "original": "skip after choices",
+    "original": "after choices",
     "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L317"
   },
   {
-    "key": "renpy/common/00preferences.rpy_L319_0",
-    "original": "auto-forward time",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L319"
+    "key": "renpy/common/00preferences.rpy_L324_0",
+    "original": "skip after choices",
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L324"
   },
   {
-    "key": "renpy/common/00preferences.rpy_L333_0",
-    "original": "auto-forward",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L333"
+    "key": "renpy/common/00preferences.rpy_L326_0",
+    "original": "auto-forward time",
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L326"
   },
   {
     "key": "renpy/common/00preferences.rpy_L340_0",
-    "original": "Auto forward",
+    "original": "auto-forward",
     "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L340"
   },
   {
-    "key": "renpy/common/00preferences.rpy_L343_0",
+    "key": "renpy/common/00preferences.rpy_L347_0",
+    "original": "Auto forward",
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L347"
+  },
+  {
+    "key": "renpy/common/00preferences.rpy_L350_0",
     "original": "auto-forward after click",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L343"
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L350"
   },
   {
-    "key": "renpy/common/00preferences.rpy_L352_0",
+    "key": "renpy/common/00preferences.rpy_L359_0",
     "original": "automatic move",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L352"
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L359"
   },
   {
-    "key": "renpy/common/00preferences.rpy_L361_0",
+    "key": "renpy/common/00preferences.rpy_L368_0",
     "original": "wait for voice",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L361"
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L368"
   },
   {
-    "key": "renpy/common/00preferences.rpy_L370_0",
+    "key": "renpy/common/00preferences.rpy_L377_0",
     "original": "voice sustain",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L370"
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L377"
   },
   {
-    "key": "renpy/common/00preferences.rpy_L379_0",
+    "key": "renpy/common/00preferences.rpy_L386_0",
     "original": "self voicing",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L379"
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L386"
   },
   {
-    "key": "renpy/common/00preferences.rpy_L388_0",
+    "key": "renpy/common/00preferences.rpy_L395_0",
     "original": "self voicing volume drop",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L388"
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L395"
   },
   {
-    "key": "renpy/common/00preferences.rpy_L396_0",
+    "key": "renpy/common/00preferences.rpy_L403_0",
     "original": "clipboard voicing",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L396"
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L403"
   },
   {
-    "key": "renpy/common/00preferences.rpy_L405_0",
+    "key": "renpy/common/00preferences.rpy_L412_0",
     "original": "debug voicing",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L405"
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L412"
   },
   {
-    "key": "renpy/common/00preferences.rpy_L414_0",
+    "key": "renpy/common/00preferences.rpy_L421_0",
     "original": "emphasize audio",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L414"
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L421"
   },
   {
-    "key": "renpy/common/00preferences.rpy_L423_0",
+    "key": "renpy/common/00preferences.rpy_L430_0",
     "original": "rollback side",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L423"
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L430"
   },
   {
-    "key": "renpy/common/00preferences.rpy_L433_0",
+    "key": "renpy/common/00preferences.rpy_L440_0",
     "original": "gl powersave",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L433"
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L440"
   },
   {
-    "key": "renpy/common/00preferences.rpy_L439_0",
+    "key": "renpy/common/00preferences.rpy_L446_0",
     "original": "gl framerate",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L439"
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L446"
   },
   {
-    "key": "renpy/common/00preferences.rpy_L442_0",
+    "key": "renpy/common/00preferences.rpy_L449_0",
     "original": "gl tearing",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L442"
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L449"
   },
   {
-    "key": "renpy/common/00preferences.rpy_L445_0",
+    "key": "renpy/common/00preferences.rpy_L452_0",
     "original": "font transform",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L445"
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L452"
   },
   {
-    "key": "renpy/common/00preferences.rpy_L448_0",
+    "key": "renpy/common/00preferences.rpy_L455_0",
     "original": "font size",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L448"
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L455"
   },
   {
-    "key": "renpy/common/00preferences.rpy_L456_0",
+    "key": "renpy/common/00preferences.rpy_L463_0",
     "original": "font line spacing",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L456"
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L463"
   },
   {
-    "key": "renpy/common/00preferences.rpy_L464_0",
+    "key": "renpy/common/00preferences.rpy_L471_0",
     "original": "system cursor",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L464"
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L471"
   },
   {
-    "key": "renpy/common/00preferences.rpy_L484_0",
+    "key": "renpy/common/00preferences.rpy_L480_0",
+    "original": "renderer menu",
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L480"
+  },
+  {
+    "key": "renpy/common/00preferences.rpy_L483_0",
+    "original": "accessibility menu",
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L483"
+  },
+  {
+    "key": "renpy/common/00preferences.rpy_L496_0",
     "original": "music volume",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L484"
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L496"
   },
   {
-    "key": "renpy/common/00preferences.rpy_L485_0",
+    "key": "renpy/common/00preferences.rpy_L497_0",
     "original": "sound volume",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L485"
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L497"
   },
   {
-    "key": "renpy/common/00preferences.rpy_L486_0",
+    "key": "renpy/common/00preferences.rpy_L498_0",
     "original": "voice volume",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L486"
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L498"
   },
   {
-    "key": "renpy/common/00preferences.rpy_L487_0",
+    "key": "renpy/common/00preferences.rpy_L499_0",
     "original": "mute music",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L487"
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L499"
   },
   {
-    "key": "renpy/common/00preferences.rpy_L488_0",
+    "key": "renpy/common/00preferences.rpy_L500_0",
     "original": "mute sound",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L488"
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L500"
   },
   {
-    "key": "renpy/common/00preferences.rpy_L489_0",
+    "key": "renpy/common/00preferences.rpy_L501_0",
     "original": "mute voice",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L489"
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L501"
   },
   {
-    "key": "renpy/common/00preferences.rpy_L490_0",
+    "key": "renpy/common/00preferences.rpy_L502_0",
     "original": "mute all",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L490"
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L502"
   },
   {
-    "key": "renpy/common/00preferences.rpy_L571_0",
+    "key": "renpy/common/00preferences.rpy_L583_0",
     "original": "Clipboard voicing enabled. Press 'shift+C' to disable.",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L571"
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L583"
   },
   {
-    "key": "renpy/common/00preferences.rpy_L573_0",
+    "key": "renpy/common/00preferences.rpy_L585_0",
     "original": "Self-voicing would say \\\"[renpy.display.tts.last]\\\". Press 'alt+shift+V' to disable.",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L573"
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L585"
   },
   {
-    "key": "renpy/common/00preferences.rpy_L575_0",
+    "key": "renpy/common/00preferences.rpy_L587_0",
     "original": "Self-voicing enabled. Press 'v' to disable.",
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L575"
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/renpy/common/00preferences.rpy#L587"
   },
   {
     "key": "renpy/common/_compat/gamemenu.rpym_L198_0",
