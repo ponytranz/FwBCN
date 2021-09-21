@@ -56,7 +56,7 @@ translate chinese eveningbutterssuccmenu_f393e755:
 translate chinese eveningbutterssuccmenu_191e1772:
 
     # butters "What do you want from me, big boy?"
-    butters "小伙子，你想从我这儿搞到些什么？"
+    butters "你想要我肿么样，大男孩？"
 
 # game/2evening%20butters.rpy#L54
 translate chinese eveningbutterssuccmenu_24ec2adb:
@@ -608,7 +608,7 @@ translate chinese eveningbutterssex_3b9f9afc:
 translate chinese eveningbutterssex_98fb2838:
 
     # "In response, I rock my hips into her movements, causing her ass to thwap against with the force of us both in our rut."
-    "不忍心让她一个人动，我也挺起腰，配合着她的动作，她的臀瓣因为我们二人交合的力量啪地撞在了一起。"
+    "不忍心光让她动，我也挺起腰，配合着她的动作，她的臀瓣因为我们二人交合的力量啪地撞在了一起。"
 
 # game/2evening%20butters.rpy#L301
 translate chinese eveningbutterssex_93ff3a78:

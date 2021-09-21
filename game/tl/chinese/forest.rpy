@@ -9416,7 +9416,7 @@ translate chinese morningbutterssuccsexmenu_5617b7e1:
 translate chinese morningbutterssuccsexmenu_4a5a5083:
 
     # "In response, I rock my hips into her movements causing her ass to thwap against me with the force of us both in our rut."
-    "不忍心让她一个人动，我也挺起腰，配合着她的动作，她的臀瓣因为我们二人交合的力量啪地撞在了一起。"
+    "不忍心光让她动，我也挺起腰，配合着她的动作，她的臀瓣因为我们二人交合的力量啪地撞在了一起。"
 
 # game/forest.rpy#L2685
 translate chinese morningbutterssuccsexmenu_82e7782b:

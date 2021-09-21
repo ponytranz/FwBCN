@@ -5192,7 +5192,7 @@ translate chinese honeyannathreesome_bc74f57c:
 translate chinese honeyannathreesome_4e1eb0c9:
 
     # anna "Uh… Actually… This hay isn’t actually comfy, I’m getting tired of leaning on hay. Can we do this on a bed next time?"
-    anna "额，其实这些睡在这些干草上边不舒服。咱们下次能在床上做吗?"
+    anna "额，其实睡在这些干草上儿并不舒服。咱们下次能在床上做吗?"
 
 # game/farm.rpy#L1609
 translate chinese honeyannathreesome_ca8b03c1:

@@ -9137,14 +9137,14 @@
   {
     "id": 79423782,
     "createdAt": "2021-05-30T17:55:35.000Z",
-    "updatedAt": "2021-08-17T12:44:44.000Z",
+    "updatedAt": "2021-09-20T11:39:59.000Z",
     "key": "creamvmissionary_23438060",
     "original": "I spend most of the evening talking with Lily, encouraging her to open up, which she easily does with aid of a few drinks.",
-    "translation": "",
+    "translation": "我花了整晚都在和Lily聊天，不停地鼓励她，而她喝几杯酒就能敞开心扉了。",
     "file": 272339,
-    "stage": 0,
+    "stage": 1,
     "project": 2414,
-    "uid": 22440,
+    "uid": 21833,
     "extra": null,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwBCN/blob/main/game/bakery.rpy#L1193",
     "words": 24

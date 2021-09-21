@@ -3656,7 +3656,7 @@ translate chinese creamvmissionary_065a3f83:
 translate chinese creamvmissionary_23438060:
 
     # "I spend most of the evening talking with Lily, encouraging her to open up, which she easily does with aid of a few drinks."
-    "I spend most of the evening talking with Lily, encouraging her to open up, which she easily does with aid of a few drinks."
+    "我花了整晚都在和Lily聊天，不停地鼓励她，而她喝几杯酒就能敞开心扉了。"
 
 # game/bakery.rpy#L1194
 translate chinese creamvmissionary_464b1bf2:

@@ -620,7 +620,7 @@ translate chinese libraryvisit1_2e96186f:
 translate chinese libraryvisit1_c1ea0f28:
 
     # mc "Lab? Are you going to probe me?"
-    mc "实验室吗？你要调查我吗？"
+    mc "实验室？你要调查我吗？"
 
 # game/library.rpy#L174
 translate chinese libraryvisit1_872d5366:
@@ -764,7 +764,7 @@ translate chinese libraryvisit1_76b86584:
 translate chinese libraryvisit1_e4378c4b:
 
     # lily "She may be trying to improve, but she doesn’t know everything."
-    lily "她也许正努力改进，但她啥也不懂。"
+    lily "也许她正努力改进，但她啥也不懂。"
 
 # game/library.rpy#L215
 translate chinese libraryvisit1_555b847b:
@@ -944,7 +944,7 @@ translate chinese library12_3763cc81:
 translate chinese library12_986ac8f3:
 
     # lily "I’ve just never been asked that before."
-    lily "以前从来没人问过我这个问题。"
+    lily "以前还从来没人问过我这个问题。"
 
 # game/library.rpy#L265
 translate chinese library12_7d438d8d:
@@ -1310,7 +1310,7 @@ translate chinese lilytj_d8efbe6b:
 translate chinese lilytj_61459984:
 
     # mc "I guess you are nude, that does help a tiny bit."
-    mc "你是裸体的，我想这会有一点帮助。"
+    mc "你是裸体的，我想这会帮上忙。"
 
 # game/library.rpy#L383
 translate chinese lilytj_3696403f:

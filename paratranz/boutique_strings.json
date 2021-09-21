@@ -2,14 +2,14 @@
   {
     "id": 79443055,
     "createdAt": "2021-05-30T19:47:47.000Z",
-    "updatedAt": "2021-06-02T15:57:33.000Z",
+    "updatedAt": "2021-09-20T11:36:54.000Z",
     "key": "game/boutique.rpy_L61_0",
     "original": "Buy the dress (-50 Monies)",
     "translation": "买裙子（-50元）",
     "file": 272375,
-    "stage": 3,
+    "stage": 5,
     "project": 2414,
-    "uid": null,
+    "uid": 21833,
     "extra": null,
     "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/boutique.rpy#L61",
     "words": 5
