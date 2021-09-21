@@ -31,7 +31,10 @@ try {
     )) result.push({
       key: match[3],
       original: match[5],
-      context: `说话人: ${match[4] ?? '无 '}\n代码: https://github.com/ponytranz/FwBCN/blob/main/${match[1].replace(/ /g, '%20')}#L${match[2]}`
+      context: `说话人: ${match[4] ?? '无 '}\n代码: ${/^renpy\/common/.test(match[1])
+        ? `https://github.com/renpy/renpy/blob/master/${match[1].replace(/ /g, '%20')}`
+        : `https://github.com/ponytranz/FwBCN/blob/empty/${match[1].replace(/ /g, '%20')}`
+        }#L${match[2]}`
     })
     if (result.length)
       fs.writeFileSync(
@@ -56,7 +59,10 @@ try {
       result.push({
         key: `${match[2]}_L${match[3]}_${cnt++}`,
         original: match[4],
-        context: `代码: https://github.com/ponytranz/FwBCN/blob/main/${match[2].replace(/ /g, '%20')}#L${match[3]}`
+        context: `代码: ${/^renpy\/common/.test(match[2])
+          ? `https://github.com/renpy/renpy/blob/master/${match[2].replace(/ /g, '%20')}`
+          : `https://github.com/ponytranz/FwBCN/blob/empty/${match[2].replace(/ /g, '%20')}`
+          }#L${match[3]}`
       })
     }
     if (result.length)
