@@ -1,0 +1,50 @@
+﻿name: Sync with empty branch
+
+on:
+  workflow_dispatch:
+  # 没找到 Paratranz 怎么从命令行上传
+  # 只能手动上传然后手动触发
+  # push:
+  #   branches:
+  #     - 'empty'
+  #   paths:
+  #     - 'game/tl/chinese/*.rpy'
+
+jobs:
+  sync:
+    name: sync
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Setup node
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+      - name: Checkout main branch
+        uses: actions/checkout@v2
+        with:
+          ref: 'main'
+      - name: Checkout empty branch
+        uses: actions/checkout@v2
+        with:
+          ref: 'empty' # workaround
+          path: 'empty'
+      - name: Load empty
+        run: cp -Rf ./empty/game/tl/chinese ./game/tl
+      - name: Pull from Paratranz
+        env:
+          token: ${{ secrets.PARATRANZ_TOKEN }}
+        run: 'wget -O latest.zip --header="Authorization: $token" https://paratranz.cn/api/projects/2414/artifacts/download'
+      - name: Update
+        run: |
+          rm -rf paratranz
+          unzip latest.zip "utf8/*"
+          mv utf8 paratranz
+      - name: Sort & Reconvert
+        run: node reconvert.js
+      - name: Add & Commit
+        uses: EndBug/add-and-commit@v7 # You can change this to use a specific version
+        with:
+          add: '"paratranz" "game/tl/chinese"'
+          default_author: github_actions
+          message: 'Sync with empty branch'
+          push: true
