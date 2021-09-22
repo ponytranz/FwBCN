@@ -14,7 +14,7 @@ translate chinese farm_0cf78ca2:
 translate chinese farm_00bf8fa0:
 
     # honeycrisp "I have great news too, mah wrist is finally okay! And, I have a new cow employee."
-    honeycrisp "I have great news too, mah wrist is finally okay! And, I have a new cow employee."
+    honeycrisp "我也有个好消息要告诉你，我的手腕终于痊愈了！而且我还雇到了一位奶牛工。"
 
 # game/farm.rpy#L24
 translate chinese farm_82598137:
@@ -6728,19 +6728,19 @@ translate chinese farmvisit3_3ec99973:
 translate chinese farmvisit3_4a1b6165:
 
     # "I arrive at the farm a little earlier than last time. Although I don't doubt that Honey has been outside working since sunrise. I don't envy how much hard work it must be running this place."
-    "I arrive at the farm a little earlier than last time. Although I don't doubt that Honey has been outside working since sunrise. I don't envy how much hard work it must be running this place."
+    "我比上次提前了一些到达农场。但我绝不怀疑Honey一大早起来就出来干活了。还有，我可不羡慕经营这个地方有多辛苦。"
 
 # game/farm.rpy#L2046
 translate chinese farmvisit3_31955e7b:
 
     # "I walk up to the farmhouse without seeing Honey, I enter through the front door and step into the kitchen to find Blossom munching some breakfast cereal."
-    "I walk up to the farmhouse without seeing Honey, I enter through the front door and step into the kitchen to find Blossom munching some breakfast cereal."
+    "我没有去见Honey而是径直走向了农舍。我从前门进了厨房看到Blossom正吃着早餐麦片。"
 
 # game/farm.rpy#L2047
 translate chinese farmvisit3_bf27b472:
 
     # blossom "*Munch* Oh, hey. *Munch, munch*"
-    blossom "*Munch* Oh, hey. *Munch, munch*"
+    blossom "*嚼*哦，嘿。*嚼*"
 
 # game/farm.rpy#L2049
 translate chinese farmvisit3_794c4ae2:
@@ -6752,73 +6752,73 @@ translate chinese farmvisit3_794c4ae2:
 translate chinese farmvisit3_31e846d9:
 
     # mc "I’ve already eaten, appreciate the offer though."
-    mc "I’ve already eaten, appreciate the offer though."
+    mc "我吃过了，不过还是谢谢你的好意。"
 
 # game/farm.rpy#L2052
 translate chinese farmvisit3_0016fd1a:
 
     # "I take a seat, as per usual in the exact same spots as the last two times I was in the kitchen with Blossom."
-    "I take a seat, as per usual in the exact same spots as the last two times I was in the kitchen with Blossom."
+    "就和往常一样，我和Blossom在厨房挑了和上次一样的地方坐了下来。"
 
 # game/farm.rpy#L2054
 translate chinese farmvisit3_85ef996d:
 
     # blossom "Heh, you actually came. *Munch*."
-    blossom "Heh, you actually came. *Munch*."
+    blossom "嘿。你还真来了。*嚼*"
 
 # game/farm.rpy#L2056
 translate chinese farmvisit3_dfb79e73:
 
     # blossom "You’re making me blush internally."
-    blossom "You’re making me blush internally."
+    blossom "你这弄的我很尴尬啊。"
 
 # game/farm.rpy#L2057
 translate chinese farmvisit3_695f593b:
 
     # mc "I think you’re blushing externally too."
-    mc "I think you’re blushing externally too."
+    mc "我想，某人的脸现在也很红哦。"
 
 # game/farm.rpy#L2059
 translate chinese farmvisit3_f09ff395:
 
     # blossom "Mm… Maybe. *Munch, crunch*"
-    blossom "Mm… Maybe. *Munch, crunch*"
+    blossom "嗯...也许是吧。*嚼*"
 
 # game/farm.rpy#L2060
 translate chinese farmvisit3_f00ef78d:
 
     # "Seems like she’s back to being shy, although maybe she just woke up and feels lethargic."
-    "Seems like she’s back to being shy, although maybe she just woke up and feels lethargic."
+    "看起来她又不好意思了，虽然也可能只是她刚睡醒还是有点困罢了。"
 
 # game/farm.rpy#L2061
 translate chinese farmvisit3_aaaa7d27:
 
     # blossom "I sent that letter off."
-    blossom "I sent that letter off."
+    blossom "我把那封信寄出去了。"
 
 # game/farm.rpy#L2062
 translate chinese farmvisit3_f66ee6d3:
 
     # mc "Any good news?"
-    mc "Any good news?"
+    mc "有什么好消息吗？"
 
 # game/farm.rpy#L2064
 translate chinese farmvisit3_502a6ef3:
 
     # blossom "Nah, not yet. I’m still building up the courage to tell sis what I did."
-    blossom "Nah, not yet. I’m still building up the courage to tell sis what I did."
+    blossom "啊，还没。我还在努力鼓起勇气告诉姐姐我干了什么。"
 
 # game/farm.rpy#L2066
 translate chinese farmvisit3_e4574441:
 
     # blossom "Does my sister know you’re here?"
-    blossom "Does my sister know you’re here?"
+    blossom "我姐姐知道你在哪吗？"
 
 # game/farm.rpy#L2067
 translate chinese farmvisit3_77dfdfa7:
 
     # mc "Haven’t seen her yet."
-    mc "Haven’t seen her yet."
+    mc "还没看见她呢。"
 
 # game/farm.rpy#L2069
 translate chinese farmvisit3_817bec6f:
@@ -8060,13 +8060,13 @@ translate chinese blossomcowgirl_b4b4cba2:
 translate chinese blossomcowgirl_88b4bc98:
 
     # mc "I’m serious."
-    mc "I’m serious."
+    mc "我没开玩笑。"
 
 # game/farm.rpy#L2414
 translate chinese blossomcowgirl_8093e12e:
 
     # honeycrisp "Look son, I gave you an out, I’d say you take it."
-    honeycrisp "Look son, I gave you an out, I’d say you take it."
+    honeycrisp "听着孩子，我给了你一个机会，你，就要接受。"
 
 # game/farm.rpy#L2415
 translate chinese blossomcowgirl_ebb09db3:
@@ -13706,7 +13706,7 @@ translate chinese farmsexduringwork_366c60a3:
 translate chinese farmsexduringwork_ad0fc876:
 
     # "Hmm... This reminds me of that one time Blossom got a cramp. I hope this doesn't awaken anything within me."
-    "Hmm... This reminds me of that one time Blossom got a cramp. I hope this doesn't awaken anything within me."
+    "嗯...这让我想起了Blossom抽筋那次。但愿这别让我再记起任何事。"
 
 # game/farm.rpy#L4104
 translate chinese farmsexduringwork_395fae5b:
@@ -13742,7 +13742,7 @@ translate chinese farmsexduringwork_4a461056:
 translate chinese farmsexduringwork_c287edc4:
 
     # "As the afternoon lulls on, I spend some time with Honey which eventually leads us into the kitchen."
-    "As the afternoon lulls on, I spend some time with Honey which eventually leads us into the kitchen."
+    "我和Honey共同度过了惬意的下午时光，最后我俩一同进入了厨房。"
 
 translate chinese strings:
 

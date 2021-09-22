@@ -2,31 +2,31 @@
   {
     "id": 79442712,
     "createdAt": "2021-05-30T19:47:45.000Z",
-    "updatedAt": "2021-07-09T04:57:57.000Z",
+    "updatedAt": "2021-09-21T21:31:48.000Z",
     "key": "game/2morning.rpy_L169_0",
     "original": "Yeah",
     "translation": "确实",
     "file": 272369,
     "stage": 5,
     "project": 2414,
-    "uid": 21396,
+    "uid": null,
     "extra": null,
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/2morning.rpy#L169",
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/empty/game/2morning.rpy#L169",
     "words": 1
   },
   {
     "id": 79442713,
     "createdAt": "2021-05-30T19:47:45.000Z",
-    "updatedAt": "2021-07-09T04:58:02.000Z",
+    "updatedAt": "2021-09-21T21:31:48.000Z",
     "key": "game/2morning.rpy_L169_1",
     "original": "Nah, I got stuff to do. (Visit her manually from the castle)",
     "translation": "呃，我还有点别的事情要处理。（手动去城堡访问她）",
     "file": 272369,
     "stage": 5,
     "project": 2414,
-    "uid": 21396,
+    "uid": null,
     "extra": null,
-    "context": "代码: https://github.com/ponytranz/FwBCN/blob/main/game/2morning.rpy#L169",
+    "context": "代码: https://github.com/ponytranz/FwBCN/blob/empty/game/2morning.rpy#L169",
     "words": 12
   }
 ]

@@ -2204,7 +2204,7 @@ translate chinese melodylaptop_4fc9104d:
 translate chinese melodylaptop_054a8cfa:
 
     # melody "Meh, blame it on the heat and lust. Now are you going to admire me, or are you gonna fuck me?"
-    melody "Meh，把这归咎于性欲吧。所以你现在是要崇拜我，还是要把我上了？"
+    melody "嗯……都怪这火热的欲望。Now are you going to admire me，还是要把我上了？"
 
 # game/city.rpy#L1105
 translate chinese melodylaptop_b5a08e2f:
@@ -4370,7 +4370,7 @@ translate chinese honeycrisprubythreesome_1f93d5e1:
 translate chinese honeycrisprubythreesome_c2548ae6:
 
     # honeycrisp "Good idea Stud, let’s give this slut more than she bargained for, eh? Haha."
-    honeycrisp "Good idea Stud, let’s give this slut more than she bargained for, eh? Haha."
+    honeycrisp "这主意不错，帅哥。咱们来给这个小贱货多加点福利吧，这样如何？哈哈。"
 
 # game/city.rpy#L1828
 translate chinese honeycrisprubythreesome_9a3810e2:
@@ -4382,13 +4382,13 @@ translate chinese honeycrisprubythreesome_9a3810e2:
 translate chinese honeycrisprubythreesome_4a20a58c:
 
     # "Her plump, puffy labia looks so perfect from this angle, it even squishes and indents as I poke my cock at her teasingly."
-    "Her plump, puffy labia looks so perfect from this angle, it even squishes and indents as I poke my cock at her teasingly."
+    "从这个角度看，她柔软而丰满的阴唇简直完美极了。在我用肉棒挑逗性地插她时，她的阴唇竟然收缩了起来。"
 
 # game/city.rpy#L1830
 translate chinese honeycrisprubythreesome_0823b31f:
 
     # "The view gets even better as Honey smirks and uses two fingers to part the petals of her flower with an audible ‘schlick’."
-    "The view gets even better as Honey smirks and uses two fingers to part the petals of her flower with an audible ‘schlick’."
+    "当Honey一边痴笑着，一边用双指扒开Ruby花蕊外的粉嫩花瓣时，我看到了更加让人兴奋的美丽景象。同时，我还听到了花瓣被分开时所发出的“噗叽”声。"
 
 # game/city.rpy#L1833
 translate chinese honeycrisprubythreesome_8bcc5a53:
@@ -4400,7 +4400,7 @@ translate chinese honeycrisprubythreesome_8bcc5a53:
 translate chinese honeycrisprubythreesome_31a81a2e:
 
     # "Eager to dive in, I prod the tip against her vaginal entrance, slowly and teasingly. She’s so wet that the simple action of rubbing up and down against her wet vulva coats my glans in her slick lubricants."
-    "Eager to dive in, I prod the tip against her vaginal entrance, slowly and teasingly. She’s so wet that the simple action of rubbing up and down against her wet vulva coats my glans in her slick lubricants."
+    "我已经迫不及待地想要插进她的蜜穴了，于是，我缓慢而充满挑逗性地将肉棒前端顶在了她的穴口上。此时，她的小穴已经完全湿透了，所以，当我的肉棒轻轻地在她的穴口上下摩擦时，我的龟头沾满了她湿滑的爱液。"
 
 # game/city.rpy#L1837
 translate chinese honeycrisprubythreesome_699f8c08:
@@ -4634,7 +4634,7 @@ translate chinese honeycrisprubythreesome_97d67e84:
 translate chinese honeycrisprubythreesome_6b9d7456:
 
     # honeycrisp "First time for everything, eh? Maybe you can take my anal virginity too, hah."
-    honeycrisp "First time for everything, eh? Maybe you can take my anal virginity too, hah."
+    honeycrisp "凡事都有第一次，对不对？说不定你也可以把我屁屁的第一次给夺走呢，哈。"
 
 # game/city.rpy#L1895
 translate chinese honeycrisprubythreesome_63af7add:
@@ -4652,13 +4652,13 @@ translate chinese honeycrisprubythreesome_8c13a753:
 translate chinese honeycrisprubythreesome_ea2bb104_1:
 
     # ruby "Ooftt, go easy on me, darling!"
-    ruby "Ooftt, go easy on me, darling!"
+    ruby "噢，对我温柔一点哦，亲爱的！"
 
 # game/city.rpy#L1899
 translate chinese honeycrisprubythreesome_696a7eff:
 
     # honeycrisp "Or… not! Aha! *Spank*"
-    honeycrisp "Or… not! Aha! *Spank*"
+    honeycrisp "如果……不温柔呢？啊哈！ *啪*"
 
 # game/city.rpy#L1900
 translate chinese honeycrisprubythreesome_5fee07d1:
@@ -4682,13 +4682,13 @@ translate chinese honeycrisprubythreesome_b7a1cdaf:
 translate chinese honeycrisprubythreesome_6150dfd2:
 
     # ruby "Oohhh… It feels so different…"
-    ruby "Oohhh… It feels so different…"
+    ruby "哦哦……这感觉好不一样哦……"
 
 # game/city.rpy#L1904
 translate chinese honeycrisprubythreesome_ed695ac4:
 
     # honeycrisp "Don’t worry Rubes, I’m not going to let your clit get lonely."
-    honeycrisp "Don’t worry Rubes, I’m not going to let your clit get lonely."
+    honeycrisp "别担心，Rubes，我可不会让你的小蒂蒂感到孤独寂寞的。"
 
 # game/city.rpy#L1906
 translate chinese honeycrisprubythreesome_831a35cd_1:
@@ -4700,7 +4700,7 @@ translate chinese honeycrisprubythreesome_831a35cd_1:
 translate chinese honeycrisprubythreesome_112321b2:
 
     # ruby "Eep! Ahh, ahhhh… T-That’s good, you can go harder…"
-    ruby "Eep! Ahh, ahhhh… T-That’s good, you can go harder…"
+    ruby "呃啊！啊，啊啊啊……太……太棒了！你再用点力……"
 
 # game/city.rpy#L1909
 translate chinese honeycrisprubythreesome_9745bd51_1:
@@ -4724,7 +4724,7 @@ translate chinese honeycrisprubythreesome_25b1fd2e_1:
 translate chinese honeycrisprubythreesome_c6d3e790_1:
 
     # "And Honey takes full advantage of this, Ruby has been merely reduced to a toy."
-    "And Honey takes full advantage of this, Ruby has been merely reduced to a toy."
+    "同时，Honey也占据了所有有利条件和位置。所以，此时的Ruby已经彻底沦为了他人的玩物。"
 
 # game/city.rpy#L1914
 translate chinese honeycrisprubythreesome_2083ba48_1:
@@ -4748,7 +4748,7 @@ translate chinese honeycrisprubythreesome_b3172535_1:
 translate chinese honeycrisprubythreesome_935c3f45_1:
 
     # ruby "Ahh, ahhhh… Oohh, fuck me! Ahhaaaaaaiiee! Kyaaahhh!"
-    ruby "Ahh, ahhhh… Oohh, fuck me! Ahhaaaaaaiiee! Kyaaahhh!"
+    ruby "啊，啊啊……哦，使劲干我吧！啊啊啊耶耶！呃啊啊啊！"
 
 # game/city.rpy#L1919
 translate chinese honeycrisprubythreesome_7d7db5e7:
@@ -4760,25 +4760,25 @@ translate chinese honeycrisprubythreesome_7d7db5e7:
 translate chinese honeycrisprubythreesome_363d92a4:
 
     # "Gripping tightly on to her fluffy butt for leverage, I start to pound her ass almost recklessly as I surge forward towards an explosive orgasm."
-    "Gripping tightly on to her fluffy butt for leverage, I start to pound her ass almost recklessly as I surge forward towards an explosive orgasm."
+    "由于我马上就要达到高潮了，所以我紧紧抓住她毛茸茸的臀部，并以此作为支点，然后更加肆无忌惮地抽插起来。"
 
 # game/city.rpy#L1921
 translate chinese honeycrisprubythreesome_7ef282a3_1:
 
     # ruby "Ahh, ahh- ahh- ahhh! Yes, yes, fuck me, fuck!"
-    ruby "Ahh, ahh- ahh- ahhh! Yes, yes, fuck me, fuck!"
+    ruby "啊，啊……啊……啊啊啊！对，没错，使劲干我吧，妈的！"
 
 # game/city.rpy#L1922
 translate chinese honeycrisprubythreesome_7cc1747a_1:
 
     # honeycrisp "Hell yeah, partner! Fill ‘er up!"
-    honeycrisp "Hell yeah, partner! Fill ‘er up!"
+    honeycrisp "哦，就是这样，伙计！使劲射她吧！"
 
 # game/city.rpy#L1923
 translate chinese honeycrisprubythreesome_ed1a3ab8_1:
 
     # "I can’t hold back any longer!"
-    "I can’t hold back any longer!"
+    "我再也坚持不住了！"
 
 # game/city.rpy#L1928
 translate chinese honeycrisprubythreesome_12376fa2:

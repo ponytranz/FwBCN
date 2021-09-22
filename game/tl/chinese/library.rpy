@@ -620,7 +620,7 @@ translate chinese libraryvisit1_2e96186f:
 translate chinese libraryvisit1_c1ea0f28:
 
     # mc "Lab? Are you going to probe me?"
-    mc "实验室？你要调查我吗？"
+    mc "实验室？Are you going to probe me？"
 
 # game/library.rpy#L174
 translate chinese libraryvisit1_872d5366:
@@ -13004,7 +13004,7 @@ translate chinese penelopesex_7f30e798:
 translate chinese penelopesex_63a946fb:
 
     # mc "You are 'tapping' that."
-    mc "你在 "发掘 "这一点。"
+    mc "你在“发掘”这一点。"
 
 # game/library.rpy#L3858
 translate chinese penelopesex_f040f6aa:
