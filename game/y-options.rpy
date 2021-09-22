@@ -237,6 +237,16 @@ init python:
     build.classify('**/#**', None)
     build.classify('**/thumbs.db', None)
 
+    ## 排除翻译文件
+
+    build.classify('paratranz/*', None)
+    build.classify('README.md', None)
+    build.classify('*.js', None)
+
+    ## 排除源码
+
+    build.classify('game/**.rpy', None)
+
     ## To archive files, classify them as 'archive'.
 
     build.classify('game/**.png', 'archive')
@@ -244,7 +254,6 @@ init python:
     build.classify('game/**.mp3', 'archive')
     build.classify('game/**.ogg', 'archive')
     build.classify('game/**.wav', 'archive')
-    build.classify('game/**.rpy', 'archive')
     build.classify('game/**.rpt', 'archive')
     build.classify('game/**.rpyc', 'archive')
     # build.classify('game/**.png', 'archive')
