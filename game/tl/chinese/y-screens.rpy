@@ -412,7 +412,7 @@ translate chinese strings:
 
     # game/y-screens.rpy_L1681_0
     old "{color=#00000000}I should go work at the {p}library.{/color}"
-    new "{color=#00000000}我应该去图书馆工作。 {p}{/color}"
+    new "{color=#00000000}我应该去图书馆{p}工作.{/color}"
 
     # game/y-screens.rpy_L1685_0
     old "{color=#00000000}Secret, find out later.{/color}"
@@ -460,7 +460,7 @@ translate chinese strings:
 
     # game/y-screens.rpy_L1783_0
     old "{color=#00000000}Complete Butters' Route.{/color}"
-    new "{color=#00000000}完成Butter线.{/color}"
+    new "{color=#00000000}完成Butters线.{/color}"
 
     # game/y-screens.rpy_L1791_0
     old "{color=#00000000}Visit Zoe at night.{/color}"

@@ -4202,7 +4202,7 @@ translate chinese honeycrisprubythreesome_b2f2cacb:
 translate chinese honeycrisprubythreesome_1ff0a0b5:
 
     # honeycrisp "Ahh, hey Rubes. I guess we didn’t. But we’ve been doing this for so long now, I bet a smart girl like her can figure it out."
-    honeycrisp "啊，嘿Rubes。虽然咱两嘴上不说。不过我们都纠缠在一起这么久了，她那么聪明，肯定能猜出个七八分吧。"
+    honeycrisp "啊，嘿Rubes。虽然咱两嘴上不说。不过我们都纠缠在一起这么久了，Lily冰雪聪明，咱俩之间这点事，她大概率能参透的。"
 
 # game/city.rpy#L1783
 translate chinese honeycrisprubythreesome_4a7cbc55:
@@ -4316,19 +4316,19 @@ translate chinese honeycrisprubythreesome_c7fb5c21:
 translate chinese honeycrisprubythreesome_8ee4bf3c:
 
     # "The three of us were all on bed a moment ago, fondling each other and making out."
-    "The three of us were all on bed a moment ago, fondling each other and making out."
+    "不一会我们的“天”就聊到床上去了，开始互相抚摸，慰藉彼此。"
 
 # game/city.rpy#L1816
 translate chinese honeycrisprubythreesome_f0b4702e:
 
     # "As Ruby and I were making out, she was giving me a handjob. But before we could go any further, she was almost stolen away by Honey who began to discipline her with some butt rippling spanks."
-    "As Ruby and I were making out, she was giving me a handjob. But before we could go any further, she was almost stolen away by Honey who began to discipline her with some butt rippling spanks."
+    "我和Ruby开始缠绵起来，她帮我打着手冲。但我们的前戏被Honey搅了局，她一巴掌拍向Ruby的丰臀，激起一阵淫靡的涟漪，转移了Ruby的注意。"
 
 # game/city.rpy#L1817
 translate chinese honeycrisprubythreesome_43572db0:
 
     # "Even now, lust utterly emanates from Ruby. She not only sticks her ass out, but her pussy is also purposely presented, oozing with almost excessive wetness."
-    "Even now, lust utterly emanates from Ruby. She not only sticks her ass out, but her pussy is also purposely presented, oozing with almost excessive wetness."
+    "到了这种地步，Ruby散发出的春意仍然愈加旺盛。她把自己的翘臀高高挺起扭动，洪水泛滥的蜜穴也展露无遗。"
 
 # game/city.rpy#L1819
 translate chinese honeycrisprubythreesome_918c3cf0:
@@ -4364,7 +4364,7 @@ translate chinese honeycrisprubythreesome_63e60f59:
 translate chinese honeycrisprubythreesome_1f93d5e1:
 
     # "I stand up and stroke the side of Ruby’s plump ass. Perched on Honey’s knees, she’s actually the perfect height for me to fuck right now."
-    "I stand up and stroke the side of Ruby’s plump ass. Perched on Honey’s knees, she’s actually the perfect height for me to fuck right now."
+    "我起身用手抚摸Ruby硕大的蜜桃。她趴在Honey的膝盖上，高度对我来说正正好好。"
 
 # game/city.rpy#L1827
 translate chinese honeycrisprubythreesome_c2548ae6:
@@ -4376,7 +4376,7 @@ translate chinese honeycrisprubythreesome_c2548ae6:
 translate chinese honeycrisprubythreesome_9a3810e2:
 
     # ruby "Yeeesss, pleeeaasee! *Wiggle, wiggle*"
-    ruby "好……啊……好……啊……求……求……你……了！ *抖动，抖动*"
+    ruby "好……啊……好……啊……求……求……你……了！ *扭臀，扭臀*"
 
 # game/city.rpy#L1829
 translate chinese honeycrisprubythreesome_4a20a58c:
@@ -4394,7 +4394,7 @@ translate chinese honeycrisprubythreesome_0823b31f:
 translate chinese honeycrisprubythreesome_8bcc5a53:
 
     # "Her pussy is so enticing, it’s so pristine and seemingly perfect. I’ve been thinking about it ever since she first made out with me in the club."
-    "Her pussy is so enticing, it’s so pristine and seemingly perfect. I’ve been thinking about it ever since she first made out with me in the club."
+    "她的蜜穴是如此完美，令人垂涎欲滴，忍不住想要释放自己最原始的冲动。我从第一次在夜总会里做过后就对这个名器流连忘返。"
 
 # game/city.rpy#L1834
 translate chinese honeycrisprubythreesome_31a81a2e:
@@ -4406,13 +4406,13 @@ translate chinese honeycrisprubythreesome_31a81a2e:
 translate chinese honeycrisprubythreesome_699f8c08:
 
     # "I can’t tease myself anymore. I push forward, my hips easily meeting her butt in a single, perhaps overly enthusiastic thrust."
-    "I can’t tease myself anymore. I push forward, my hips easily meeting her butt in a single, perhaps overly enthusiastic thrust."
+    "我不能再克制了。我往前一插，腰轻轻松松地撞上了她的屁股，也有可能是我用力过猛的缘故。"
 
 # game/city.rpy#L1838
 translate chinese honeycrisprubythreesome_33ecf396:
 
     # ruby "Ohhh, f-fuck… I needed that, ahh…"
-    ruby "哦哦哦，妈……妈的……人家想要的就是这个，啊啊……"
+    ruby "哦哦哦，妈……妈呀……人家想要的就是这个，啊啊……"
 
 # game/city.rpy#L1839
 translate chinese honeycrisprubythreesome_73da5249:
@@ -4460,7 +4460,7 @@ translate chinese honeycrisprubythreesome_a23dfd2d:
 translate chinese honeycrisprubythreesome_e9bcbe6d:
 
     # "The sudden squeeze upon each spank is dangerously pleasureful, she tightens around all the most sensitive areas of my glans, I feel like if I let my guard down I could immediately cum."
-    "The sudden squeeze upon each spank is dangerously pleasureful, she tightens around all the most sensitive areas of my glans, I feel like if I let my guard down I could immediately cum."
+    "每一巴掌让她的淫穴缩紧的感觉好到难以形容，肉壁的每一次收缩都能精准刺激到我龟头的敏感带，我只有稍微放松一下可能会一泻千里。"
 
 # game/city.rpy#L1851
 translate chinese honeycrisprubythreesome_88e026ca:
@@ -4472,13 +4472,13 @@ translate chinese honeycrisprubythreesome_88e026ca:
 translate chinese honeycrisprubythreesome_78235698:
 
     # honeycrisp "Y’all haven’t seen anything yet… Let’s see how you handle this…"
-    honeycrisp "Y’all haven’t seen anything yet… Let’s see how you handle this…"
+    honeycrisp "看来你还不了解情况呢……让我看看这种情况你该怎么处理……"
 
 # game/city.rpy#L1853
 translate chinese honeycrisprubythreesome_831a35cd:
 
     # "With a thumb, Honey teases at Ruby’s clit. At roughly the same time, I pull back and thrust back in, causing Ruby to squeak."
-    "With a thumb, Honey teases at Ruby’s clit. At roughly the same time, I pull back and thrust back in, causing Ruby to squeak."
+    "说着，Honey开始用拇指揉搓起Ruby的阴蒂。与此同时，我还在反复抽插着她的下体。在双重刺激之下，Ruby发出了阵阵尖叫声。"
 
 # game/city.rpy#L1854
 translate chinese honeycrisprubythreesome_d80fe28a:
@@ -4496,37 +4496,37 @@ translate chinese honeycrisprubythreesome_9745bd51:
 translate chinese honeycrisprubythreesome_812388a4:
 
     # "Starting with a brisk pace, I fuck Ruby while she lays on the knees of one of her best friends. Can’t say I woke up this morning expecting this."
-    "Starting with a brisk pace, I fuck Ruby while she lays on the knees of one of her best friends. Can’t say I woke up this morning expecting this."
+    "我开始用轻快的速度抽插着趴在她最好的朋友膝盖上的Ruby。简直为我的这一天画上了完美的句号。"
 
 # game/city.rpy#L1858
 translate chinese honeycrisprubythreesome_25b1fd2e:
 
     # "*Spank* Honey has all reign over Ruby’s body, she can tease her breasts, she can toy with her ass, she can play with her clit."
-    "*Spank* Honey has all reign over Ruby’s body, she can tease her breasts, she can toy with her ass, she can play with her clit."
+    "*啪* Honey已经完全将Ruby的身体据为己有了，她可以肆无忌惮地玩弄Ruby的胸部，也可以随意蹂躏她的臀部，还可以摆弄她的阴蒂。"
 
 # game/city.rpy#L1859
 translate chinese honeycrisprubythreesome_c6d3e790:
 
     # "And Honey takes full advantage of this, Ruby has been merely reduced to a toy."
-    "And Honey takes full advantage of this, Ruby has been merely reduced to a toy."
+    "同时，Honey也占据了所有有利条件和位置。所以，此时的Ruby已经彻底沦为了她的玩物。"
 
 # game/city.rpy#L1860
 translate chinese honeycrisprubythreesome_2083ba48:
 
     # "Not only that, but Honey acts as somewhat of a voyeur to the act of being fucked, feeding deeply into Ruby’s own aberrant fetishes."
-    "Not only that, but Honey acts as somewhat of a voyeur to the act of being fucked, feeding deeply into Ruby’s own aberrant fetishes."
+    "不仅如此，在我抽插的同时，Honey还在一旁欣赏并意淫着自己被干的画面，将自己完全融入到了Ruby那变态般的癖好之中并享受着它。"
 
 # game/city.rpy#L1862
 translate chinese honeycrisprubythreesome_e2f0d8e7:
 
     # "With each spank, or tease, I can feel Ruby’s nethers tighten and tense around my member. Adding more and more to the already intense pleasure."
-    "With each spank, or tease, I can feel Ruby’s nethers tighten and tense around my member. Adding more and more to the already intense pleasure."
+    "随着每一次的抽打或是玩弄，我都会感受到Ruby的肉壁对肉棒的挤压感在不断增强，我的快感也在一点一点地加强。"
 
 # game/city.rpy#L1863
 translate chinese honeycrisprubythreesome_b3172535:
 
     # "I have to actively concentrate to not let my orgasm prematurely escape, however, as Honey keeps focusing on the clit, it would seem Ruby’s already getting pretty close to hers."
-    "I have to actively concentrate to not let my orgasm prematurely escape, however, as Honey keeps focusing on the clit, it would seem Ruby’s already getting pretty close to hers."
+    "现在，为了不早泄，我必须要全神灌注才行。不过，由于Honey在不停玩弄着Ruby的阴蒂，此时的Ruby看来已经到达了高潮的边缘。"
 
 # game/city.rpy#L1864
 translate chinese honeycrisprubythreesome_935c3f45:
@@ -4538,13 +4538,13 @@ translate chinese honeycrisprubythreesome_935c3f45:
 translate chinese honeycrisprubythreesome_f07fd2eb:
 
     # "As Ruby starts to orgasm, her entrance tightens around my shaft, intensifying the pleasure and signalling to me that I can let my guard down and fill this mare up with cum."
-    "As Ruby starts to orgasm, her entrance tightens around my shaft, intensifying the pleasure and signalling to me that I can let my guard down and fill this mare up with cum."
+    "在Ruby达到高潮时，她的后庭紧紧地包裹在我肉棒的周围，这让我的快感急速猛增。同时，我感觉自己已经彻底放松下来了，而且马上就要到达高潮，并要将精液全部射进她的体内了。"
 
 # game/city.rpy#L1866
 translate chinese honeycrisprubythreesome_cdd0397f:
 
     # "Gripping tightly on to her fluffy butt for leverage, I start to pound her almost recklessly as I surge forward towards an explosive orgasm."
-    "Gripping tightly on to her fluffy butt for leverage, I start to pound her almost recklessly as I surge forward towards an explosive orgasm."
+    "由于我马上就要达到高潮了，所以我紧紧抓住她毛茸茸的臀部，并以此作为支点，然后更加肆无忌惮地抽插起来。"
 
 # game/city.rpy#L1867
 translate chinese honeycrisprubythreesome_7ef282a3:
@@ -4568,19 +4568,19 @@ translate chinese honeycrisprubythreesome_ed1a3ab8:
 translate chinese honeycrisprubythreesome_ee84ad03:
 
     # "My orgasm erupts, huge loads of thick cum splatter her pussy whilst I maintain my vigorous pace throughout."
-    "My orgasm erupts, huge loads of thick cum splatter her pussy whilst I maintain my vigorous pace throughout."
+    "由于高潮已到，所以，在我继续用力抽插的同时，大量粘稠的精液一泻而出，射进了她的体内。"
 
 # game/city.rpy#L1880
 translate chinese honeycrisprubythreesome_f49be42b:
 
     # "Pulling out briefly near the end, I ice her butt with a few last blasts of jism."
-    "Pulling out briefly near the end, I ice her butt with a few last blasts of jism."
+    "狂射过后，我将肉棒拔出来，然后将残留的几滴精液射在了她的屁股上。"
 
 # game/city.rpy#L1881
 translate chinese honeycrisprubythreesome_ec132adc:
 
     # "Ruby is utterly out of breath, but absolutely satisfied as cum drips from her sloppy pussy, no longer looking as pretty and pristine as ten minutes prior."
-    "Ruby is utterly out of breath, but absolutely satisfied as cum drips from her sloppy pussy, no longer looking as pretty and pristine as ten minutes prior."
+    "这时的Ruby已经上气不接下气了，相比十分钟前娇美的面容，她现在的容貌明显狼狈和疲倦了很多。但可以肯定的是，面对着自己精液横流的小穴，她一定感受到了无比的满足。"
 
 # game/city.rpy#L1883
 translate chinese honeycrisprubythreesome_0ed9dfeb:
@@ -4592,7 +4592,7 @@ translate chinese honeycrisprubythreesome_0ed9dfeb:
 translate chinese honeycrisprubythreesome_3e69ad04:
 
     # ruby "Ahh… I hope Melody didn’t hear me, I got really loud…"
-    ruby "啊……希望Melody没听到我的声音，我当时实在是太吵了……"
+    ruby "啊……希望Melody没听到我的叫声，我当时的声音实在是太大了……"
 
 # game/city.rpy#L1885
 translate chinese honeycrisprubythreesome_11b54b66:
@@ -4604,7 +4604,7 @@ translate chinese honeycrisprubythreesome_11b54b66:
 translate chinese honeycrisprubythreesome_26956d71:
 
     # "But I have an even better idea… I’ve been eyeing up that cute tight pucker for a while. It’s so pristine and seemingly perfect."
-    "But I have an even better idea… I’ve been eyeing up that cute tight pucker for a while. It’s so pristine and seemingly perfect."
+    "不过，我有了一个更不错的想法……我已经流连她那朵可爱的小菊花许久了，它是那么的纯净，多么完美啊。"
 
 # game/city.rpy#L1888
 translate chinese honeycrisprubythreesome_4aa8dceb:
@@ -4622,7 +4622,7 @@ translate chinese honeycrisprubythreesome_67b07f5e:
 translate chinese honeycrisprubythreesome_a4d6aae0:
 
     # "Honey giggles, immediately our plans align as the two fingers she had been using to spread her pussy move up to spread her pucker."
-    "Honey giggles, immediately our plans align as the two fingers she had been using to spread her pussy move up to spread her pucker."
+    "Honey咯咯咯地笑着，然后，她便将原本用来扒开Ruby小穴的手转向了她的后庭。这正合我意。"
 
 # game/city.rpy#L1891
 translate chinese honeycrisprubythreesome_97d67e84:
@@ -4640,13 +4640,13 @@ translate chinese honeycrisprubythreesome_6b9d7456:
 translate chinese honeycrisprubythreesome_63af7add:
 
     # "Honey unceremoniously drools onto the slightly spread pucker, that combined with the slick pussy juices, my dick inserts almost immediately into the anus."
-    "Honey unceremoniously drools onto the slightly spread pucker, that combined with the slick pussy juices, my dick inserts almost immediately into the anus."
+    "随后，Honey突然向Ruby已经张开的后庭吐了些口水。之后，我立刻将混合着口水和爱液的肉棒插入了Ruby的菊花。"
 
 # game/city.rpy#L1896
 translate chinese honeycrisprubythreesome_8c13a753:
 
     # "I grit my teeth as I push inwards, her ass slowly sucking and squeezing in my throbbing member."
-    "I grit my teeth as I push inwards, her ass slowly sucking and squeezing in my throbbing member."
+    "我一边咬着牙，一边向前推进着。渐渐地，我的肉棒感受到了她后庭所带来的吸力和挤压感。"
 
 # game/city.rpy#L1897
 translate chinese honeycrisprubythreesome_ea2bb104_1:
@@ -4664,19 +4664,19 @@ translate chinese honeycrisprubythreesome_696a7eff:
 translate chinese honeycrisprubythreesome_5fee07d1:
 
     # "As Honeycrisp spanks Ruby’s ass, her pucker tightens around my shaft while I’m pushing in, almost locking me in place."
-    "As Honeycrisp spanks Ruby’s ass, her pucker tightens around my shaft while I’m pushing in, almost locking me in place."
+    "在我推进的同时，Honeycrisp也冲着Ruby的屁股给了一巴掌，然后，Ruby的小穴紧紧地包裹在了我肉棒的周围，并且几乎要将它完全锁死了。"
 
 # game/city.rpy#L1901
 translate chinese honeycrisprubythreesome_426cded2:
 
     # "So, she gets tighter when she’s spanked… Interesting."
-    "So, she gets tighter when she’s spanked… Interesting."
+    "看来，在她被打的时候，下面会变得更紧哟……真有意思。"
 
 # game/city.rpy#L1902
 translate chinese honeycrisprubythreesome_b7a1cdaf:
 
     # "I push forward until I’m fully hilted, and I wait to allow Ruby to adjust to my girth. The near painful tightness of her ass slowly easing."
-    "I push forward until I’m fully hilted, and I wait to allow Ruby to adjust to my girth. The near painful tightness of her ass slowly easing."
+    "我将肉棒向前推进并将它完全插了进去，之后，我等待着Ruby将身体调整到合适的位置。最后，令我感到有些疼痛的挤压感才逐渐有所减轻。"
 
 # game/city.rpy#L1903
 translate chinese honeycrisprubythreesome_6150dfd2:
@@ -4694,7 +4694,7 @@ translate chinese honeycrisprubythreesome_ed695ac4:
 translate chinese honeycrisprubythreesome_831a35cd_1:
 
     # "With a thumb, Honey teases at Ruby’s clit. At roughly the same time, I pull back and thrust back in, causing Ruby to squeak."
-    "With a thumb, Honey teases at Ruby’s clit. At roughly the same time, I pull back and thrust back in, causing Ruby to squeak."
+    "说着，Honey开始用拇指揉搓起Ruby的阴蒂。与此同时，我还在反复抽插着她的下体。在双重刺激之下，Ruby发出了阵阵尖叫声。"
 
 # game/city.rpy#L1908
 translate chinese honeycrisprubythreesome_112321b2:
@@ -4712,37 +4712,37 @@ translate chinese honeycrisprubythreesome_9745bd51_1:
 translate chinese honeycrisprubythreesome_d0f94d87:
 
     # "Starting with a gentle pace, I fuck Ruby’s virgin asshole while she lays on the knees of one of her best friends. Can’t say I woke up this morning expecting this."
-    "Starting with a gentle pace, I fuck Ruby’s virgin asshole while she lays on the knees of one of her best friends. Can’t say I woke up this morning expecting this."
+    "我开始以缓慢轻柔的节奏抽插着趴在自己好友膝盖上的Ruby的后庭。今天起床的时候，我无论如何也不会想到自己会经历这种美事，真难以置信。"
 
 # game/city.rpy#L1912
 translate chinese honeycrisprubythreesome_25b1fd2e_1:
 
     # "*Spank* Honey has all reign over Ruby’s body, she can tease her breasts, she can toy with her ass, she can play with her clit."
-    "*Spank* Honey has all reign over Ruby’s body, she can tease her breasts, she can toy with her ass, she can play with her clit."
+    "*啪* Honey已经完全将Ruby的身体据为己有了，她可以肆无忌惮地玩弄Ruby的胸部，也可以随意蹂躏她的臀部，还可以摆弄她的阴蒂。"
 
 # game/city.rpy#L1913
 translate chinese honeycrisprubythreesome_c6d3e790_1:
 
     # "And Honey takes full advantage of this, Ruby has been merely reduced to a toy."
-    "同时，Honey也占据了所有有利条件和位置。所以，此时的Ruby已经彻底沦为了他人的玩物。"
+    "同时，Honey也占据了所有有利条件和位置。所以，此时的Ruby已经彻底沦为了他人手中的玩物。"
 
 # game/city.rpy#L1914
 translate chinese honeycrisprubythreesome_2083ba48_1:
 
     # "Not only that, but Honey acts as somewhat of a voyeur to the act of being fucked, feeding deeply into Ruby’s own aberrant fetishes."
-    "Not only that, but Honey acts as somewhat of a voyeur to the act of being fucked, feeding deeply into Ruby’s own aberrant fetishes."
+    "不仅如此，在我抽插的同时，Honey还在一旁欣赏并意淫着自己被干的画面，将自己完全融入到了Ruby那变态般的癖好之中并享受着它。"
 
 # game/city.rpy#L1916
 translate chinese honeycrisprubythreesome_0f26d001:
 
     # "With each spank, or tease, I can feel Ruby’s anus tighten and tense around my member. Adding more and more to the already intense pleasure."
-    "With each spank, or tease, I can feel Ruby’s anus tighten and tense around my member. Adding more and more to the already intense pleasure."
+    "随着每一次的抽打或是玩弄，我都会感受到Ruby的肉壁对肉棒的挤压感在不断增强，同时，我的快感也在一点点地加强。"
 
 # game/city.rpy#L1917
 translate chinese honeycrisprubythreesome_b3172535_1:
 
     # "I have to actively concentrate to not let my orgasm prematurely escape, however, as Honey keeps focusing on the clit, it would seem Ruby’s already getting pretty close to hers."
-    "I have to actively concentrate to not let my orgasm prematurely escape, however, as Honey keeps focusing on the clit, it would seem Ruby’s already getting pretty close to hers."
+    "此时，为了不早泄，我必须要全神灌注才行。不过，由于Honey在不停玩弄着Ruby的阴蒂，此时的Ruby看来已经到达了高潮的边缘。"
 
 # game/city.rpy#L1918
 translate chinese honeycrisprubythreesome_935c3f45_1:
@@ -4754,7 +4754,7 @@ translate chinese honeycrisprubythreesome_935c3f45_1:
 translate chinese honeycrisprubythreesome_7d7db5e7:
 
     # "As Ruby starts to orgasm, her pucker tightens around my shaft, intensifying the pleasure and signalling to me that I can let my guard down and fill this mare up with cum."
-    "As Ruby starts to orgasm, her pucker tightens around my shaft, intensifying the pleasure and signalling to me that I can let my guard down and fill this mare up with cum."
+    "在Ruby达到高潮时，她的后庭紧紧地包裹在我肉棒的周围，这让我的快感急速猛增。同时，我感觉自己已经彻底放松下来了，而且马上就要到达高潮，并要将精液全部射进她的体内了。"
 
 # game/city.rpy#L1920
 translate chinese honeycrisprubythreesome_363d92a4:
@@ -4784,19 +4784,19 @@ translate chinese honeycrisprubythreesome_ed1a3ab8_1:
 translate chinese honeycrisprubythreesome_12376fa2:
 
     # "My orgasm erupts, huge loads of thick cum splatter her ass whilst I maintain my vigorous pace throughout."
-    "My orgasm erupts, huge loads of thick cum splatter her ass whilst I maintain my vigorous pace throughout."
+    "由于高潮已到，所以，在我继续用力抽插的同时，大量粘稠的精液一泻而出，射进了她的体内。"
 
 # game/city.rpy#L1934
 translate chinese honeycrisprubythreesome_d977d25c:
 
     # "Pulling out briefly near the end, I ice her ass with a few last blasts of jism."
-    "Pulling out briefly near the end, I ice her ass with a few last blasts of jism."
+    "狂射过后，我将肉棒拔出来，然后将残留的几滴精液射在了她的屁股上。"
 
 # game/city.rpy#L1935
 translate chinese honeycrisprubythreesome_3f82126b:
 
     # "Ruby is utterly out of breath, but absolutely satisfied as cum drips from her used pucker."
-    "Ruby is utterly out of breath, but absolutely satisfied as cum drips from her used pucker."
+    "这时的Ruby已经上气不接下气了，相比十分钟前娇美的面容，她现在的容貌明显狼狈和疲倦了很多。但可以肯定的是，面对着自己精液横流的小穴，她一定感受到了无比的满足。"
 
 # game/city.rpy#L1937
 translate chinese honeycrisprubythreesome_0ed9dfeb_1:
@@ -4808,7 +4808,7 @@ translate chinese honeycrisprubythreesome_0ed9dfeb_1:
 translate chinese honeycrisprubythreesome_3e69ad04_1:
 
     # ruby "Ahh… I hope Melody didn’t hear me, I got really loud…"
-    ruby "啊……希望Melody没听到我的声音，我当时实在是太吵了……"
+    ruby "啊……希望Melody没听到我的叫声，我当时的声音实在是太大了……"
 
 # game/city.rpy#L1939
 translate chinese honeycrisprubythreesome_11b54b66_1:
@@ -4820,37 +4820,37 @@ translate chinese honeycrisprubythreesome_11b54b66_1:
 translate chinese honeycrisprubythreesome_6159c2ad:
 
     # honeycrisp "My turn. Stud, your dick may be out of commission, but put that tongue to good use. I want you both between my legs."
-    honeycrisp "My turn. Stud, your dick may be out of commission, but put that tongue to good use. I want you both between my legs."
+    honeycrisp "该轮到我了。帅哥，你的小弟可能已经被掏空了吧，不过你的舌头应该还能用吧。我要你们两个到我的腿之间来。"
 
 # game/city.rpy#L1942
 translate chinese honeycrisprubythreesome_ac00e1dd:
 
     # "Eh?! I wasn’t expecting to be the submissive one tonight!"
-    "Eh?! I wasn’t expecting to be the submissive one tonight!"
+    "嗯？！我可不想整个晚上都当受啊！"
 
 # game/city.rpy#L1943
 translate chinese honeycrisprubythreesome_7f853f0e:
 
     # "But Honey is just far too dominant!"
-    "But Honey is just far too dominant!"
+    "可Honey却太过强势了！"
 
 # game/city.rpy#L1945
 translate chinese honeycrisprubythreesome_1fdb4ccc:
 
     # "The three of us love each other long into the early hours of the morning, I don’t even remember how it ended."
-    "The three of us love each other long into the early hours of the morning, I don’t even remember how it ended."
+    "清晨时分，我们三个在一起爱爱了许久。事后，我连爱爱结束的时间都不记得了。"
 
 # game/city.rpy#L1946
 translate chinese honeycrisprubythreesome_8e16c7c1:
 
     # "The three of us just sorta passed out in a writhe of limbs and lewdity."
-    "The three of us just sorta passed out in a writhe of limbs and lewdity."
+    "我们三个在一起乱搞起来，这使得我们几乎都要昏过去了。"
 
 # game/city.rpy#L1947
 translate chinese honeycrisprubythreesome_16c90a97:
 
     # "In the morning..."
-    "到了早上之后..."
+    "清晨……"
 
 # game/city.rpy#L1949
 translate chinese honeycrisprubythreesome_d7587e91:
@@ -4904,7 +4904,7 @@ translate chinese honeyrubythreesome2_eab2998f:
 translate chinese honeyrubythreesome2_b6d1bbfa:
 
     # honeycrisp "Look who showed up again, you sure are reliable!"
-    honeycrisp "Look who showed up again, you sure are reliable!"
+    honeycrisp "看看谁来了，你这人还真是可靠呢！"
 
 # game/city.rpy#L1969
 translate chinese honeyrubythreesome2_04f95559:
@@ -4934,31 +4934,31 @@ translate chinese honeyrubythreesome2_bf144ea5:
 translate chinese honeyrubythreesome2_699c9a95:
 
     # ruby "Mmphh, mmm… Mmmphh-aaahh…"
-    ruby "Mmphh, mmm… Mmmphh-aaahh…"
+    ruby "嗯唔，嗯嗯……嗯唔唔……啊啊啊……"
 
 # game/city.rpy#L1979
 translate chinese honeyrubythreesome2_35b2160f:
 
     # ruby "Oohh, dearie… Did you get an erection?"
-    ruby "Oohh, dearie… Did you get an erection?"
+    ruby "哦，亲爱的……你下面硬起来了吗？"
 
 # game/city.rpy#L1980
 translate chinese honeyrubythreesome2_53c06e5a:
 
     # mc "Ahh... almost... That’s your fault…"
-    mc "Ahh... almost... That’s your fault…"
+    mc "啊……快了……都怪你……"
 
 # game/city.rpy#L1982
 translate chinese honeyrubythreesome2_004b44b1:
 
     # ruby "It’s okay darling, I can hide that…"
-    ruby "It’s okay darling, I can hide that…"
+    ruby "没关系的，亲爱的，我可以把它藏起来的……"
 
 # game/city.rpy#L1983
 translate chinese honeyrubythreesome2_05500ff6:
 
     # mc "Huh?"
-    mc "Huh?"
+    mc "嗯？"
 
 # game/city.rpy#L1985
 translate chinese honeyrubythreesome2_a995f1ba:
@@ -4970,7 +4970,7 @@ translate chinese honeyrubythreesome2_a995f1ba:
 translate chinese honeyrubythreesome2_a493f26d:
 
     # ruby "Mm, mmmmpphh… Mmmphh-aaahh…"
-    ruby "Mm, mmmmpphh… Mmmphh-aaahh…"
+    ruby "嗯，唔嗯嗯……嗯嗯……啊啊……"
 
 # game/city.rpy#L1987
 translate chinese honeyrubythreesome2_5f57b048:
@@ -5114,7 +5114,7 @@ translate chinese honeyrubythreesome2_eccab8b4:
 translate chinese honeyrubythreesome2_ce617998:
 
     # "…"
-    "..."
+    "……"
 
 # game/city.rpy#L2034
 translate chinese honeyrubythreesome2_7ca2dd43:
@@ -6740,13 +6740,13 @@ translate chinese sofiasex2_bedfb7b6:
 translate chinese sofiasex2_aae6cde7:
 
     # "Her panties are so gorgeous, naturally they’re designed to accommodate the tail which Sofia holds back to give me the best view possible."
-    "Her panties are so gorgeous, naturally they’re designed to accommodate the tail which Sofia holds back to give me the best view possible."
+    "她的内裤十分精致。当然，这条内裤一定是为了配合Sofia尾巴的形状而专门订制的。所以，穿上它之后，映入我眼帘的全部都是让人热血沸腾的美景。"
 
 # game/city.rpy#L2440
 translate chinese sofiasex2_5e30fbba:
 
     # "Her very wetness drips from the panties in a manner that can only be called obscene. Now I’m beginning to understand why she was so eager to bring me back."
-    "Her very wetness drips from the panties in a manner that can only be called obscene. Now I’m beginning to understand why she was so eager to bring me back."
+    "此时，她的爱液已经顺着内裤流了下来，这个画面恐怕只能用淫荡来形容了吧。现在，我终于明白她为什么会如此迫切地想把我带过来了。"
 
 # game/city.rpy#L2441
 translate chinese sofiasex2_f8ab6ab6:
@@ -6758,19 +6758,19 @@ translate chinese sofiasex2_f8ab6ab6:
 translate chinese sofiasex2_44e5b44d:
 
     # "I shimmy closer, first bringing my hands to her soft thighs and running my fingers through her flawless fur."
-    "I shimmy closer, first bringing my hands to her soft thighs and running my fingers through her flawless fur."
+    "我迅速来到她身边，将双手放在了她柔软的双腿上。然后，我用手指抚摸起她腿上细腻无瑕的绒毛。"
 
 # game/city.rpy#L2443
 translate chinese sofiasex2_1b98c5ea:
 
     # "She shivers and coos as I reach her hips, I find the strap keeping her panties in place and playfully slip my fingers underneath, feigning removal."
-    "She shivers and coos as I reach her hips, I find the strap keeping her panties in place and playfully slip my fingers underneath, feigning removal."
+    "当我触摸到她的丰臀时，她不仅颤抖了起来，而且还发出了咕咕声。之后，我发现了固定内裤的带子。随后，我将手慢慢伸了进去，并假装要脱掉它。"
 
 # game/city.rpy#L2444
 translate chinese sofiasex2_29947033:
 
     # "Although I have a more experimental plan, as I close the distance between her crotch and my face, bringing my tongue to the wetness of the soft fabric."
-    "Although I have a more experimental plan, as I close the distance between her crotch and my face, bringing my tongue to the wetness of the soft fabric."
+    "在我的脸逐渐靠近她的双腿根部时，我已经想出了一个更加大胆的计划。接着，我伸出舌头，开始舔舐起她那已经湿润的内裤。"
 
 # game/city.rpy#L2445
 translate chinese sofiasex2_9eb35436:

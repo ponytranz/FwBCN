@@ -8414,7 +8414,7 @@ translate chinese blossomcowgirl_27fbee46:
 translate chinese blossomcowgirl_8a87afe8:
 
     # mc "You hired me, right?"
-    mc "You hired me, right?"
+    mc "你雇了我，对吧？"
 
 # game/farm.rpy#L2494
 translate chinese blossomcowgirl_9e09cdf4:
@@ -8696,25 +8696,25 @@ translate chinese blossomcowgirl_7948a9b0:
 translate chinese blossomcowgirl_6adaa656:
 
     # honeycrisp "I’m sorry it took me so long to admit it."
-    honeycrisp "I’m sorry it took me so long to admit it."
+    honeycrisp "很抱歉过了这么久我才承认。"
 
 # game/farm.rpy#L2579
 translate chinese blossomcowgirl_4350773d:
 
     # mc "Even people as tough as you need a helping hand sometimes, there’s no shame in that."
-    mc "Even people as tough as you need a helping hand sometimes, there’s no shame in that."
+    mc "就算是像你一样坚强的人有时候也会需要帮助，没什么丢人的。"
 
 # game/farm.rpy#L2580
 translate chinese blossomcowgirl_893b1e77:
 
     # anna "We’re all here for you, we always have been."
-    anna "We’re all here for you, we always have been."
+    anna "我们永远支持你，一直都会。"
 
 # game/farm.rpy#L2581
 translate chinese blossomcowgirl_a9fdf3ab:
 
     # anna "Gosh, I just wish you said something earlier Hun, when I saw you had a new man around the farm, I thought you had it all figured out."
-    anna "Gosh, I just wish you said something earlier Hun, when I saw you had a new man around the farm, I thought you had it all figured out."
+    anna "天啊，我只是希望你能早点说啊，Hun，你知道在我看见农场又添新人时，我还真以为你早就想清楚了。"
 
 # game/farm.rpy#L2583
 translate chinese blossomcowgirl_39e7e745:
@@ -8732,7 +8732,7 @@ translate chinese blossomcowgirl_60f475bf:
 translate chinese blossomcowgirl_7163f682:
 
     # honeycrisp "Anna too, thank you so much for coming here today…"
-    honeycrisp "Anna too, thank you so much for coming here today…"
+    honeycrisp "哦对了，Anna，也非常感谢你今天能来。"
 
 # game/farm.rpy#L2586
 translate chinese blossomcowgirl_705a0061:
@@ -8744,7 +8744,7 @@ translate chinese blossomcowgirl_705a0061:
 translate chinese blossomcowgirl_9a6e04ed:
 
     # anna "Today, I’ll work for you, just tell me and [playername] what to do, after that, we’ll talk business."
-    anna "Today, I’ll work for you, just tell me and [playername] what to do, after that, we’ll talk business."
+    anna "行，今天我可以给你干活，你只要告诉我和[playername]该干什么就行了，然后呢，我们再谈正事。"
 
 # game/farm.rpy#L2590
 translate chinese blossomcowgirl_bb4c3291:
@@ -9080,211 +9080,211 @@ translate chinese farmvisit3honeydialogue_37be0350:
 translate chinese farmvisit3honeydialogue_1d47e51e:
 
     # "Anna and I return to the farmhouse where Blossom and Honeycrisp are joyously cooking up a treat."
-    "Anna and I return to the farmhouse where Blossom and Honeycrisp are joyously cooking up a treat."
+    "我和Anna回到了农舍，Blossom和Honeycrisp正好也在那高高兴兴地做着饭。"
 
 # game/farm.rpy#L2704
 translate chinese farmvisit3honeydialogue_6df3456b:
 
     # honeycrisp "Howdy y’all, I’ve baked us all some delicious apple fritters"
-    honeycrisp "Howdy y’all, I’ve baked us all some delicious apple fritters"
+    honeycrisp "大伙好啊，我给你们做了美味的苹果馅饼。"
 
 # game/farm.rpy#L2706
 translate chinese farmvisit3honeydialogue_4c565d8e:
 
     # blossom "And some of our homemade ice-cold cider to go with!"
-    blossom "And some of our homemade ice-cold cider to go with!"
+    blossom "再来点我家自制的冰镇苹果酒吧！"
 
 # game/farm.rpy#L2707
 translate chinese farmvisit3honeydialogue_c913bbbc:
 
     # mc "Apple fritters? Delicious!"
-    mc "Apple fritters? Delicious!"
+    mc "苹果馅饼？肯定很好吃！"
 
 # game/farm.rpy#L2709
 translate chinese farmvisit3honeydialogue_bf9a5ce3:
 
     # anna "What a treat, thank you so much!"
-    anna "What a treat, thank you so much!"
+    anna "太棒了，真的很感谢你！"
 
 # game/farm.rpy#L2712
 translate chinese farmvisit3honeydialogue_3c7c0782:
 
     # honeycrisp "Least me and Blossom could do for all the help, y’all have been absolute blessings."
-    honeycrisp "Least me and Blossom could do for all the help, y’all have been absolute blessings."
+    honeycrisp "还好我和Blossom至少能帮帮你们，你可走大运了。"
 
 # game/farm.rpy#L2713
 translate chinese farmvisit3honeydialogue_f829581a:
 
     # blossom "We couldn’t have done it without ya!"
-    blossom "We couldn’t have done it without ya!"
+    blossom "没有你我们可做不到！"
 
 # game/farm.rpy#L2714
 translate chinese farmvisit3honeydialogue_349128a6:
 
     # "Blossom smooches me on the cheek and personally hands me a fritter, it's ludicrously delicious, I can’t stuff it into my mouth fast enough."
-    "Blossom smooches me on the cheek and personally hands me a fritter, it's ludicrously delicious, I can’t stuff it into my mouth fast enough."
+    "Blossom在我的脸上亲了一下，之后又亲手递给我一个馅饼，这饼看起来出奇的美味，我迫不及待地想赶紧塞进嘴里。"
 
 # game/farm.rpy#L2715
 translate chinese farmvisit3honeydialogue_7c8e92be:
 
     # mc "It was my pleasure, I’ve loved getting to know you three, I’m looking forward to working here again."
-    mc "It was my pleasure, I’ve loved getting to know you three, I’m looking forward to working here again."
+    mc "这是我的荣幸，我也很高兴能认识你们三个，期待能再次在这儿工作。"
 
 # game/farm.rpy#L2717
 translate chinese farmvisit3honeydialogue_2065016b:
 
     # anna "Same to you [playername], I think you’ve managed to find a spot in each of our hearts!"
-    anna "Same to you [playername], I think you’ve managed to find a spot in each of our hearts!"
+    anna "我们也是，我想你应该已经在我们彼此之间都找到了一席之地！"
 
 # game/farm.rpy#L2719
 translate chinese farmvisit3honeydialogue_5cf0fed1:
 
     # honeycrisp "…and our beds!"
-    honeycrisp "…and our beds!"
+    honeycrisp "...当然还有床上啦！"
 
 # game/farm.rpy#L2721
 translate chinese farmvisit3honeydialogue_641d3ba6:
 
     # anna "Shh, lewd!"
-    anna "Shh, lewd!"
+    anna "嘘，你个老色批！"
 
 # game/farm.rpy#L2722
 translate chinese farmvisit3honeydialogue_8e5944c2:
 
     # "Blossom hands each of us a glass of cider, playfully winking as she hands me mine."
-    "Blossom hands each of us a glass of cider, playfully winking as she hands me mine."
+    "Blossom给我们每人都递了一杯苹果酒，给我的时候她还调皮地向我眨了下眼。"
 
 # game/farm.rpy#L2723
 translate chinese farmvisit3honeydialogue_12e4ac80:
 
     # blossom "Here’s to a brighter future!"
-    blossom "Here’s to a brighter future!"
+    blossom "敬我们的前途一片光明！"
 
 # game/farm.rpy#L2727
 translate chinese farmvisit3honeydialogue_f65a325b:
 
     # everyone "Cheers!"
-    everyone "Cheers!"
+    everyone "干杯！"
 
 # game/farm.rpy#L2731
 translate chinese farmvisit3honeydialogue_ce617998_1:
 
     # "…"
-    "…"
+    "..."
 
 # game/farm.rpy#L2733
 translate chinese farmvisit3honeydialogue_74b755e7:
 
     # "After a delicious lunch, and a long afternoon of work, I return to the kitchen to collect my pay and rest. Anna has already returned home, and Honey is as ever tirelessly doing extra work before sun sets."
-    "After a delicious lunch, and a long afternoon of work, I return to the kitchen to collect my pay and rest. Anna has already returned home, and Honey is as ever tirelessly doing extra work before sun sets."
+    "在一顿丰盛的午餐以及漫长的下午工作之后，我回厨房拿了我的工资又歇了一会。Anna早回家了，还有Honey，她一如既往赶在日落前不知疲倦地做着额外工作。"
 
 # game/farm.rpy#L2734
 translate chinese farmvisit3honeydialogue_33f20c26:
 
     # "Once again, it’s just me and Blossom in her bedroom enjoying a cup of tea as we relax, this time without milk."
-    "Once again, it’s just me and Blossom in her bedroom enjoying a cup of tea as we relax, this time without milk."
+    "又是一次，还是我和Blossom在她的卧室里喝茶放松，只不过这次没放牛奶而已。"
 
 # game/farm.rpy#L2739
 translate chinese farmvisit3honeydialogue_e55e2cfe:
 
     # blossom "What do you think of the farm then? This must be your third day here now."
-    blossom "What do you think of the farm then? This must be your third day here now."
+    blossom "你觉得这个农场如何啊？你都来这3天了。"
 
 # game/farm.rpy#L2740
 translate chinese farmvisit3honeydialogue_5736423d:
 
     # mc "I love working here. Sure, there’s plenty of strenuous physical activity but there’s catharsis in that."
-    mc "I love working here. Sure, there’s plenty of strenuous physical activity but there’s catharsis in that."
+    mc "我挺喜欢在这里工作的。当然，高强度的体力劳动是有的，但不是还有能宣泄的空间嘛。"
 
 # game/farm.rpy#L2742
 translate chinese farmvisit3honeydialogue_50d3dcc6:
 
     # blossom "I always say you never get to the end of a day of hard work and regret it."
-    blossom "I always say you never get to the end of a day of hard work and regret it."
+    blossom "我总和你说，功夫不负有心人。"
 
 # game/farm.rpy#L2743
 translate chinese farmvisit3honeydialogue_56ca79b5:
 
     # mc "Especially when Honey cooks lunch, the food is delectable, and I love being able to rest here at the end of the day and enjoy a cup of special apple tea."
-    mc "Especially when Honey cooks lunch, the food is delectable, and I love being able to rest here at the end of the day and enjoy a cup of special apple tea."
+    mc "尤其是当Honey做午饭时，香气扑鼻，所以我很喜欢在一天结束后来着歇会儿，来一杯特别的苹果茶。"
 
 # game/farm.rpy#L2745
 translate chinese farmvisit3honeydialogue_94f34839:
 
     # blossom "Aww, well, you can take some home with you, if you want."
-    blossom "Aww, well, you can take some home with you, if you want."
+    blossom "哦，如果你想的话，拿点回去也行。"
 
 # game/farm.rpy#L2746
 translate chinese farmvisit3honeydialogue_a6a56126:
 
     # mc "That’s generous of you, I may just do that."
-    mc "That’s generous of you, I may just do that."
+    mc "你可真大方，那我恭敬不如从命了。"
 
 # game/farm.rpy#L2748
 translate chinese farmvisit3honeydialogue_c5f9491c:
 
     # blossom "Of course, you can always visit, you’re always welcome to come see me, or Honey, or even Anna again."
-    blossom "Of course, you can always visit, you’re always welcome to come see me, or Honey, or even Anna again."
+    blossom "当然了，你要是想来就可以来，随时欢迎你再来看望我，或是说Honey，又或者是Anna。"
 
 # game/farm.rpy#L2750
 translate chinese farmvisit3honeydialogue_9b2eb17b:
 
     # blossom "That being said, I gotta know, who’s your fave?"
-    blossom "That being said, I gotta know, who’s your fave?"
+    blossom "话虽如此，但我还是想知道，你最喜欢谁啊？"
 
 # game/farm.rpy#L2754
 translate chinese farmvisit3honeydialogue_889d7755:
 
     # blossom "Ahah yes! Maybe you can be my boyfriend after all."
-    blossom "Ahah yes! Maybe you can be my boyfriend after all."
+    blossom "啊哈，对了！也许你可以做我男朋友啊。"
 
 # game/farm.rpy#L2755
 translate chinese farmvisit3honeydialogue_aca11dbb:
 
     # mc "Are you asking me out?"
-    mc "Are you asking me out?"
+    mc "你这是...在约我出去吗？"
 
 # game/farm.rpy#L2757
 translate chinese farmvisit3honeydialogue_03b1b425:
 
     # blossom "Mmm, maybe, are you saying yes?"
-    blossom "Mmm, maybe, are you saying yes?"
+    blossom "嗯，或许吧，所以你意下如何？"
 
 # game/farm.rpy#L2758
 translate chinese farmvisit3honeydialogue_47f6900f:
 
     # mc "I’ll have to give you an answer a bit later."
-    mc "I’ll have to give you an answer a bit later."
+    mc "得过会儿我才能告诉你。"
 
 # game/farm.rpy#L2759
 translate chinese farmvisit3honeydialogue_9ecec07a:
 
     # mc "Maybe in the future, you never know."
-    mc "Maybe in the future, you never know."
+    mc "也许在将来的某一天吧，谁知道呢。"
 
 # game/farm.rpy#L2761
 translate chinese farmvisit3honeydialogue_0c5f275b:
 
     # blossom "Ohh, I think my heart just swooned."
-    blossom "Ohh, I think my heart just swooned."
+    blossom "哦啊啊，我感觉我的心都要跳出来了。"
 
 # game/farm.rpy#L2764
 translate chinese farmvisit3honeydialogue_7d263610:
 
     # blossom "Awhh, I can see that. Anna is such a great character, I think many a man would admire her."
-    blossom "Awhh, I can see that. Anna is such a great character, I think many a man would admire her."
+    blossom "啊，我看出来了。Anna简直就是个万人迷，我想得有很多男人很喜欢她。"
 
 # game/farm.rpy#L2766
 translate chinese farmvisit3honeydialogue_532eceab:
 
     # blossom "But I thought she wasn't interested in relationships and stuff."
-    blossom "But I thought she wasn't interested in relationships and stuff."
+    blossom "但我觉得她对那些感情之类的事毫无兴趣。"
 
 # game/farm.rpy#L2767
 translate chinese farmvisit3honeydialogue_b486862e:
 
     # mc "You’re right, she did mention that, however I'm a bit of a special case."
-    mc "You’re right, she did mention that, however I'm a bit of a special case."
+    mc "有说的对，她确实有提到过，不过，我可是个特例。"
 
 # game/farm.rpy#L2769
 translate chinese farmvisit3honeydialogue_ac1a32f3:
