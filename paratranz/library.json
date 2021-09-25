@@ -1547,14 +1547,14 @@
   {
     "id": 79439670,
     "createdAt": "2021-05-30T17:55:41.000Z",
-    "updatedAt": "2021-09-21T21:32:29.000Z",
+    "updatedAt": "2021-09-24T16:56:12.000Z",
     "key": "libraryvisit1_c1ea0f28",
     "original": "Lab? Are you going to probe me?",
-    "translation": "实验室？Are you going to probe me？",
+    "translation": "实验室？你想把我研究一番？",
     "file": 272350,
-    "stage": 2,
+    "stage": 1,
     "project": 2414,
-    "uid": null,
+    "uid": 22062,
     "extra": null,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwBCN/blob/empty/game/library.rpy#L172",
     "words": 7

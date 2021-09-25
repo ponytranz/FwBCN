@@ -620,7 +620,7 @@ translate chinese libraryvisit1_2e96186f:
 translate chinese libraryvisit1_c1ea0f28:
 
     # mc "Lab? Are you going to probe me?"
-    mc "实验室？Are you going to probe me？"
+    mc "实验室？你想把我研究一番？"
 
 # game/library.rpy#L174
 translate chinese libraryvisit1_872d5366:

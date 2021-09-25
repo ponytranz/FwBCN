@@ -9062,13 +9062,13 @@ translate chinese rikumoxiethreesome_2a10faa4:
 translate chinese rikumoxiethreesome_89e8dec8:
 
     # riku "Ahh, ever since we've started fucking, I've been even hornier than usual lately, and even wetter..."
-    riku "啊，自打我们第一次开始交配起，我就比平时更饥渴，甚至更湿了…"
+    riku "啊，自打我们第一次滚床单的时候，我就比平时更饥渴，流的水也更多了…..."
 
 # game/bar.rpy#L2575
 translate chinese rikumoxiethreesome_f3601f9e:
 
     # "Truly there was a submissive slut ready to escape within Riku all along, she just needed the right key to let it out."
-    "Riku的内心深处的确藏着一个渴望解除封印的淫荡母狗，只需要一把合适的钥匙就能将其释放。"
+    "Riku的内心里果然一直藏着一只顺从的淫魔，只需正确引导，便会出来作妖。"
 
 # game/bar.rpy#L2576
 translate chinese rikumoxiethreesome_83633923:
@@ -9092,7 +9092,7 @@ translate chinese rikumoxiethreesome_9a281c0e:
 translate chinese rikumoxiethreesome_10b2efd9:
 
     # "I raise my dominant hand and bring it down powerfully causing a slap sound, this seems to hit the spot as her eyes roll back and she lets out a satisfied moan."
-    "我扬起我的手然后猛地一巴掌拍出巨响，看来是正中靶心引得她翻起白眼并发出满足的呻吟。"
+    "我抬起手，使劲地一巴掌下去，啪的一声让她美目翻白，看来正中目标，嘴中送出满意的娇吟。"
 
 # game/bar.rpy#L2585
 translate chinese rikumoxiethreesome_048fcb05:
@@ -9104,7 +9104,7 @@ translate chinese rikumoxiethreesome_048fcb05:
 translate chinese rikumoxiethreesome_b9cbd43f:
 
     # "I can’t help but fuck a little faster, her hips are rocking in response to each thrust too, and her pussy squeezing even tighter around my cock."
-    "我不禁加快了速度，她的腰腹也跟着我的每次冲击摇摆起来，并且她的阴部也把我的好兄弟包得更紧了。"
+    "我情不自禁地加快了速度，她的柳腰也开始迎合我的抽插，穴肉也将我的肉棒吸噬得更紧。"
 
 # game/bar.rpy#L2590
 translate chinese rikumoxiethreesome_a4a56069:
@@ -9122,7 +9122,7 @@ translate chinese rikumoxiethreesome_549ebe2c:
 translate chinese rikumoxiethreesome_cfca6119:
 
     # "I can feel my cock throbbing in response to her pussy contracting around it, I really could come any second if I let my guard down."
-    "我能感受到我的鸡巴正在用悸动回应那包裹住它的小穴，只要我一不留神随时都会大爆射。"
+    "在她蜜穴的紧榨下，我能感受到自己肉棒的悸动，只要稍微松懈，我保定会一泻千里。"
 
 # game/bar.rpy#L2597
 translate chinese rikumoxiethreesome_45d33f16:
@@ -9140,7 +9140,7 @@ translate chinese rikumoxiethreesome_a67f816a:
 translate chinese rikumoxiethreesome_f7605d18:
 
     # "It doesn’t help that she’s rocking her hips into me, practically fucking me just as hard as I’m fucking her, and damn it feels amazing."
-    "她不停向我摆动屁屁让情况变得更糟，尤其是她操我和我操她一样用力，而且还真他妈爽啊。"
+    "她朝还在朝我使劲动腰，她的力道跟我插她一样大，这感觉太爽了。"
 
 # game/bar.rpy#L2602
 translate chinese rikumoxiethreesome_04a6a15e:

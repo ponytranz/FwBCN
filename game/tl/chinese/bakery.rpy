@@ -3662,7 +3662,7 @@ translate chinese creamvmissionary_23438060:
 translate chinese creamvmissionary_464b1bf2:
 
     # "Her inner slut also seems to escape along with that drunkness though, while not enough to embarass herself, it's easy to forget that this slut is incredibly horny for me."
-    "Her inner slut also seems to escape along with that drunkness though, while not enough to embarass herself, it's easy to forget that this slut is incredibly horny for me."
+    "她内心里的那只淫魔也在酒精的撩拨下呼之欲出，虽然她还意识不到自己现在的行为很不得体，但足以让我忘却这个小荡妇对我的饥渴之情了。"
 
 # game/bakery.rpy#L1195
 translate chinese creamvmissionary_8478c5be:
@@ -3962,7 +3962,7 @@ translate chinese creamvmissionary_0937ffa0:
 translate chinese creamvmissionary_bb383e9a:
 
     # mc "I certainly do, but it's your tight pussy that's the star of the show."
-    mc "I certainly do, but it's your tight pussy that's the star of the show."
+    mc "当然，不过你的小穴儿才是重头戏吧。"
 
 # game/bakery.rpy#L1280
 translate chinese creamvmissionary_3f6e84e0:
@@ -3992,7 +3992,7 @@ translate chinese creamvmissionary_1286fbda:
 translate chinese creamvmissionary_01613490:
 
     # "I take my time and fuck her gently, savouring the tightness and warmth of her vagina. The long, slow thrusts drive her wild. "
-    "I take my time and fuck her gently, savouring the tightness and warmth of her vagina. The long, slow thrusts drive her wild. "
+    "我轻柔地开始和她交合，没必要着急，细细品味着她紧致又温暖的蜜穴。直抵花心，却又缓慢的抽插将她推向性福的云端。"
 
 # game/bakery.rpy#L1287
 translate chinese creamvmissionary_a6d942da:
@@ -4016,13 +4016,13 @@ translate chinese creamvmissionary_2a10faa4:
 translate chinese creamvmissionary_89e8dec8:
 
     # riku "Ahh, ever since we've started fucking, I've been even hornier than usual lately, and even wetter..."
-    riku "Ahh, ever since we've started fucking, I've been even hornier than usual lately, and even wetter..."
+    riku "啊，自打我们第一次滚床单的时候，我就比平时更饥渴，流的水也更多了…..."
 
 # game/bakery.rpy#L1292
 translate chinese creamvmissionary_f3601f9e:
 
     # "Truly there was a submissive slut ready to escape within Riku all along, she just needed the right key to let it out."
-    "Truly there was a submissive slut ready to escape within Riku all along, she just needed the right key to let it out."
+    "Riku的内心里果然一直藏着一只顺从的淫魔，只需正确引导，便会出来作妖。"
 
 # game/bakery.rpy#L1293
 translate chinese creamvmissionary_83633923:
@@ -4046,7 +4046,7 @@ translate chinese creamvmissionary_9a281c0e:
 translate chinese creamvmissionary_10b2efd9:
 
     # "I raise my dominant hand and bring it down powerfully causing a slap sound, this seems to hit the spot as her eyes roll back and she lets out a satisfied moan."
-    "I raise my dominant hand and bring it down powerfully causing a slap sound, this seems to hit the spot as her eyes roll back and she lets out a satisfied moan."
+    "我抬起手，使劲地一巴掌下去，啪的一声让她美目翻白，看来正中目标，嘴中送出满意的娇吟。"
 
 # game/bakery.rpy#L1302
 translate chinese creamvmissionary_048fcb05:
@@ -4058,7 +4058,7 @@ translate chinese creamvmissionary_048fcb05:
 translate chinese creamvmissionary_b9cbd43f:
 
     # "I can’t help but fuck a little faster, her hips are rocking in response to each thrust too, and her pussy squeezing even tighter around my cock."
-    "I can’t help but fuck a little faster, her hips are rocking in response to each thrust too, and her pussy squeezing even tighter around my cock."
+    "我情不自禁地加快了速度，她的柳腰也开始迎合我的抽插，穴肉也将我的肉棒吸噬得更紧。"
 
 # game/bakery.rpy#L1305
 translate chinese creamvmissionary_a4a56069:
@@ -4070,31 +4070,31 @@ translate chinese creamvmissionary_a4a56069:
 translate chinese creamvmissionary_549ebe2c:
 
     # "Spanking her out pushed her over the edge, and she starts to have a strong first orgasm, her hips bucking and her whole-body squirming as the pleasure overwhelms her."
-    "Spanking her out pushed her over the edge, and she starts to have a strong first orgasm, her hips bucking and her whole-body squirming as the pleasure overwhelms her."
+    "每一次的抽打都不断把她推向高潮的边缘，最后她开始了这次激烈的高潮，她整个身体都在颤抖中被快感淹没了。"
 
 # game/bakery.rpy#L1309
 translate chinese creamvmissionary_cfca6119:
 
     # "I can feel my cock throbbing in response to her pussy contracting around it, I really could come any second if I let my guard down."
-    "I can feel my cock throbbing in response to her pussy contracting around it, I really could come any second if I let my guard down."
+    "在她蜜穴的紧榨下，我能感受到自己肉棒的悸动，只要稍微松懈，我保定会一泻千里。"
 
 # game/bakery.rpy#L1311
 translate chinese creamvmissionary_45d33f16:
 
     # riku "Faster Daddy, faster! Ahhh, ahh! *Pant, pant*."
-    riku "Faster Daddy, faster! Ahhh, ahh! *Pant, pant*."
+    riku "再快点啊爸爸，快点！啊啊，啊！*喘气，喘气*"
 
 # game/bakery.rpy#L1312
 translate chinese creamvmissionary_a67f816a:
 
     # "Why is she suddenly calling me daddy again?! That level of dirty talk is only going to make me cum faster."
-    "Why is she suddenly calling me daddy again?! That level of dirty talk is only going to make me cum faster."
+    "她怎么又突然叫我爸爸了，说这种羞耻的话只会让我爆射得更快！"
 
 # game/bakery.rpy#L1313
 translate chinese creamvmissionary_f7605d18:
 
     # "It doesn’t help that she’s rocking her hips into me, practically fucking me just as hard as I’m fucking her, and damn it feels amazing."
-    "It doesn’t help that she’s rocking her hips into me, practically fucking me just as hard as I’m fucking her, and damn it feels amazing."
+    "她朝还在朝我使劲动腰，她的力道跟我插她一样大，这感觉太爽了。"
 
 # game/bakery.rpy#L1315
 translate chinese creamvmissionary_04a6a15e:
@@ -5438,7 +5438,7 @@ translate chinese bakeryvisit2_49d6ad5b:
 translate chinese bakeryvisit2_a852be88:
 
     # cream "Ehehe, I have some wild parties with wild people, you wouldn’t understand."
-    cream "Ehehe, I have some wild parties with wild people, you wouldn’t understand."
+    cream "嘿嘿嘿，我和一些狂放的家伙搞一些狂野的聚会，你不会明白的。"
 
 # game/bakery.rpy#L1651
 translate chinese bakeryvisit2_7bc9fea7:

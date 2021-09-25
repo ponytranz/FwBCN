@@ -1757,14 +1757,14 @@
   {
     "id": 79443320,
     "createdAt": "2021-05-30T19:47:47.000Z",
-    "updatedAt": "2021-09-21T21:32:10.000Z",
+    "updatedAt": "2021-09-24T12:25:32.000Z",
     "key": "game/city.rpy_L2222_1",
     "original": "Stockings",
-    "translation": "长筒袜",
+    "translation": "丝袜",
     "file": 272378,
     "stage": 1,
     "project": 2414,
-    "uid": null,
+    "uid": 22062,
     "extra": null,
     "context": "代码: https://github.com/ponytranz/FwBCN/blob/empty/game/city.rpy#L2222",
     "words": 1

@@ -6632,7 +6632,7 @@ translate chinese farmvisit2choice1_9d000343:
 translate chinese farmvisit2choice1_ecb72ec0_1:
 
     # mc "It was crazy, the milk let me just keep going even after ejaculating."
-    mc "这太疯狂了，牛奶令我在射精后还能保持挺拔。"
+    mc "这太疯狂了，那些牛奶令我在射精后还能保持挺拔。"
 
 # game/farm.rpy#L2016
 translate chinese farmvisit2choice1_9c081ec0:
@@ -8756,13 +8756,13 @@ translate chinese blossomcowgirl_bb4c3291:
 translate chinese blossomcowgirl_6f439c21:
 
     # mc "Even if you want to keep working today, you should take a small break Honey. Don’t worry about us, we’ll have all these barrels delivered before you know it."
-    mc "Even if you want to keep working today, you should take a small break Honey. Don’t worry about us, we’ll have all these barrels delivered before you know it."
+    mc "Honey今天你就算再想继续工作，你也得歇一会。不用担心，在你知道之前我们会把这些桶送过来的。"
 
 # game/farm.rpy#L2593
 translate chinese blossomcowgirl_a632d060:
 
     # anna "Yeah, you should go see Blossom, sounds like you have some catching up to do regarding this secret letter she sent out!"
-    anna "Yeah, you should go see Blossom, sounds like you have some catching up to do regarding this secret letter she sent out!"
+    anna "是啊，你确实得去找Blossom了，看起来你得好好和她谈谈她寄出去的那封密信了。"
 
 # game/farm.rpy#L2595
 translate chinese blossomcowgirl_68ea8258:
@@ -8774,13 +8774,13 @@ translate chinese blossomcowgirl_68ea8258:
 translate chinese blossomcowgirl_9066b93a:
 
     # honeycrisp "Once y’all are done, come back to the house, me and Blossom are going to make the most delicious lunch you’ve ever had."
-    honeycrisp "Once y’all are done, come back to the house, me and Blossom are going to make the most delicious lunch you’ve ever had."
+    honeycrisp "你们要是完事了就回来吧，我和Blossom一定会给你们弄一顿流连忘返的绝美午餐的。"
 
 # game/farm.rpy#L2598
 translate chinese blossomcowgirl_f7e99381:
 
     # "Honey heads back to the farmhouse leaving us to sort out the barrels again."
-    "Honey heads back to the farmhouse leaving us to sort out the barrels again."
+    "Honey又把我们留下来分拣这些桶，自己则会农舍了。"
 
 # game/farm.rpy#L2603
 translate chinese blossomcowgirl_ce617998:
@@ -8792,25 +8792,25 @@ translate chinese blossomcowgirl_ce617998:
 translate chinese blossomcowgirl_41d7f2a2:
 
     # anna "Bless her… She’s still struggling over the loss of her father, I can’t even imagine how much that hurt her."
-    anna "Bless her… She’s still struggling over the loss of her father, I can’t even imagine how much that hurt her."
+    anna "我真为她感到默哀...她还深陷失父之痛，真不敢想象她要承受多大的伤害。"
 
 # game/farm.rpy#L2608
 translate chinese blossomcowgirl_6f34eebd:
 
     # anna "I hadn’t realized how much the loss was affecting Hun."
-    anna "I hadn’t realized how much the loss was affecting Hun."
+    anna "我真的无法想象这种失去亲人的痛苦对她影响多大。"
 
 # game/farm.rpy#L2610
 translate chinese blossomcowgirl_4e0419cc:
 
     # anna "I haven’t seen her cry before, even if it was just a few tears."
-    anna "I haven’t seen her cry before, even if it was just a few tears."
+    anna "我以前可没见她哭过，哪怕是几滴眼泪。"
 
 # game/farm.rpy#L2612
 translate chinese blossomcowgirl_156c893f:
 
     # anna "I always looked up to Honey as a beacon of strength."
-    anna "I always looked up to Honey as a beacon of strength."
+    anna "我一直视Honey为我最有力的指路人。"
 
 # game/farm.rpy#L2614
 translate chinese blossomcowgirl_637008bd:
