@@ -6662,7 +6662,7 @@ translate chinese farmvisit2choice1_2e8137d2:
 translate chinese farmvisit2choice1_027548cf_1:
 
     # mc "Wow, you’re actually enjoying my sexual adventures, aren’t you?"
-    mc "Wow, you’re actually enjoying my sexual adventures, aren’t you?"
+    mc "哇哦，你真的很喜欢我的性爱冒险，不是吗？"
 
 # game/farm.rpy#L2024
 translate chinese farmvisit2choice1_2b39a866:
@@ -6710,7 +6710,7 @@ translate chinese farmvisit2choice1_b34fcfbe:
 translate chinese farmvisit3_cff1fd04:
 
     # "If I’m quick, I should be able to get to the farm just before Blossom leaves for college."
-    "If I’m quick, I should be able to get to the farm just before Blossom leaves for college."
+    "如果我行动够快，我应该能在Blossom去上大学之前赶到农场。"
 
 # game/farm.rpy#L2039
 translate chinese farmvisit3_b2003838:
@@ -6824,7 +6824,7 @@ translate chinese farmvisit3_77dfdfa7:
 translate chinese farmvisit3_817bec6f:
 
     # blossom "Perfect, that means we have as much time as we want."
-    blossom "Perfect, that means we have as much time as we want."
+    blossom "太好了，这意味着我们有足够的时间。"
 
 # game/farm.rpy#L2070
 translate chinese farmvisit3_91563b99:
@@ -9530,13 +9530,13 @@ translate chinese farmvisit3honeydialogue_73bb9d26:
 translate chinese farmvisit3honeydialogue_5554ae5e:
 
     # "I leave her room, head downstairs and step out the house having said my goodbyes."
-    "I leave her room, head downstairs and step out the house having said my goodbyes."
+    "我走出她的房间，下了楼，然后来到门口和她道了别。"
 
 # game/farm.rpy#L2833
 translate chinese farmvisit3honeydialogue_e33f0b7b:
 
     # "As I walk down the path leading out of the farm, I spot Honeycrisp on the way."
-    "As I walk down the path leading out of the farm, I spot Honeycrisp on the way."
+    "当我走在去往农场的路上时，我看到了Honeycrisp。"
 
 # game/farm.rpy#L2835
 translate chinese farmvisit3honeydialogue_2224dbfb:
@@ -9548,13 +9548,13 @@ translate chinese farmvisit3honeydialogue_2224dbfb:
 translate chinese farmvisit3honeydialogue_f6cd7d72:
 
     # mc "Uhh, technically I think I’ve done that twice already."
-    mc "Uhh, technically I think I’ve done that twice already."
+    mc "呃，严格来说，我好像已经道过两次别了。"
 
 # game/farm.rpy#L2838
 translate chinese farmvisit3honeydialogue_7d029202:
 
     # honeycrisp "Shh… I want to give you something before you leave."
-    honeycrisp "Shh… I want to give you something before you leave."
+    honeycrisp "嘘……我想在你走之前送你点东西。"
 
 # game/farm.rpy#L2840
 translate chinese farmvisit3honeydialogue_7da57466:
@@ -9776,19 +9776,19 @@ translate chinese farmvisit3honeydialogue_b9e6d406:
 translate chinese farmvisit3honeydialogue_52701f8d:
 
     # "As I arrive at the cottage I slump down onto Butter's sofa, somewhat fatigued from all of the strenuous exercise required at the farm."
-    "As I arrive at the cottage I slump down onto Butter's sofa, somewhat fatigued from all of the strenuous exercise required at the farm."
+    "在我来到农舍后，我跌跌撞撞地躺在了Butters的沙发上。由于在农场干了各种重活累活，我现在已经疲惫不堪了。"
 
 # game/farm.rpy#L2907
 translate chinese farmvisit3honeydialogue_7d455b82:
 
     # "Butters isn't around, but she soon appears from her work.."
-    "Butters isn't around, but she soon appears from her work.."
+    "虽然Butters并不在这里，但没过多久，她就干完活回来了……"
 
 # game/farm.rpy#L2909
 translate chinese farmvisit3honeydialogue_5bdae26a:
 
     # butters "Sorry I'm late today. How've you been?"
-    butters "Sorry I'm late today. How've you been?"
+    butters "对不起，我今天来晚了。你怎么样呀？"
 
 # game/farm.rpy#L2910
 translate chinese farmvisit3honeydialogue_3aace823:

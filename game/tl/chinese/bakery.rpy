@@ -4106,31 +4106,31 @@ translate chinese creamvmissionary_04a6a15e:
 translate chinese creamvmissionary_81793b62:
 
     # "I spank harder, while her pussy squeezes and sucks harder around my shaft as if it’s trying to milk my cock. All whilst Riku moans and squeaks with erotic delight."
-    "I spank harder, while her pussy squeezes and sucks harder around my shaft as if it’s trying to milk my cock. All whilst Riku moans and squeaks with erotic delight."
+    "我更使劲地打着她，她的蜜穴则以紧致的吮吸报以我的长枪，想榨出精液。同时Riku嘴里不住地浪叫。"
 
 # game/bakery.rpy#L1319
 translate chinese creamvmissionary_21a30eec:
 
     # "My orgasm keeps swelling up, I can’t hold back much longer, I’m going to cum!"
-    "My orgasm keeps swelling up, I can’t hold back much longer, I’m going to cum!"
+    "我已临近精关，再也无法忍受了，我要一泄千里了！"
 
 # game/bakery.rpy#L1321
 translate chinese creamvmissionary_cfd44d92:
 
     # "Riku arches her back, her eyes roll back and she and lets out a sensational moan, as she has her second orgasm."
-    "Riku arches her back, her eyes roll back and she and lets out a sensational moan, as she has her second orgasm."
+    "Riku的柳腰挺起，翻着白眼，发出了一声美妙绝伦的浪叫，看来她是第二次高潮了。"
 
 # game/bakery.rpy#L1323
 translate chinese creamvmissionary_a7af0f3e:
 
     # "Immediately I feel myself climaxing as well, my cock throbs and swells as my vision turns cloudy and my mind fogs up."
-    "Immediately I feel myself climaxing as well, my cock throbs and swells as my vision turns cloudy and my mind fogs up."
+    "我的高潮接踵而至，肉棒悸动着，向外喷射，思维陷入停滞，视线渐渐模糊。"
 
 # game/bakery.rpy#L1328
 translate chinese creamvmissionary_8497d972:
 
     # "The two of us orgasm together, my cock unloading copious amounts of cum deep inside Riku’s pussy whilst we fuck each other passionately."
-    "The two of us orgasm together, my cock unloading copious amounts of cum deep inside Riku’s pussy whilst we fuck each other passionately."
+    "我们的高潮碰撞在一起，尽管我已经在她的小穴里喷射出大量的精液，但做爱的兴头依旧高歌猛进。"
 
 # game/bakery.rpy#L1333
 translate chinese creamvmissionary_bbf29c3d:
@@ -4142,13 +4142,13 @@ translate chinese creamvmissionary_bbf29c3d:
 translate chinese creamvmissionary_16e4bc96:
 
     # "As I pull out, a trail of cum still connects us, before it collapses down her thigh."
-    "As I pull out, a trail of cum still connects us, before it collapses down her thigh."
+    "当我抽出鸡巴后，一根精液连成的丝线依旧牵连着彼此的性器，不一会儿又滴落到了她的大腿上。"
 
 # game/bakery.rpy#L1338
 translate chinese creamvmissionary_7215d096:
 
     # riku "Haah, I-I can barely feel my butt, hahaa. *Pant, pant*."
-    riku "Haah, I-I can barely feel my butt, hahaa. *Pant, pant*."
+    riku "啊哈，我…我的屁屁都快没感觉了，哈哈。*喘气*。"
 
 # game/bakery.rpy#L1340
 translate chinese creamvmissionary_fd82404c:

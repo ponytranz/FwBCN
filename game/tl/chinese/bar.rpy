@@ -9170,7 +9170,7 @@ translate chinese rikumoxiethreesome_3f306d03:
 translate chinese rikumoxiethreesome_a7af0f3e:
 
     # "Immediately I feel myself climaxing as well, my cock throbs and swells as my vision turns cloudy and my mind fogs up."
-    "紧接着，我也感觉到了自己的大爆射，我的小兄弟颤抖着，视线和思想同时模糊了起来。"
+    "我的高潮接踵而至，肉棒悸动着，向外喷射，思维陷入停滞，视线渐渐模糊。"
 
 # game/bar.rpy#L2616
 translate chinese rikumoxiethreesome_8497d972:
@@ -9188,7 +9188,7 @@ translate chinese rikumoxiethreesome_bbf29c3d:
 translate chinese rikumoxiethreesome_16e4bc96:
 
     # "As I pull out, a trail of cum still connects us, before it collapses down her thigh."
-    "当我抽出鸡巴后，一根精液连成的细线依旧连着那一头，不一会儿又滴落到了她的大腿上。"
+    "当我抽出鸡巴后，一根精液连成的丝线依旧牵连着彼此的性器，不一会儿又滴落到了她的大腿上。"
 
 # game/bar.rpy#L2627
 translate chinese rikumoxiethreesome_7215d096:

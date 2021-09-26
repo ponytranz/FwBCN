@@ -2204,7 +2204,7 @@ translate chinese melodylaptop_4fc9104d:
 translate chinese melodylaptop_054a8cfa:
 
     # melody "Meh, blame it on the heat and lust. Now are you going to admire me, or are you gonna fuck me?"
-    melody "嗯……都怪这火热的欲望。Now are you going to admire me，还是要把我上了？"
+    melody "切，还不是发情和欲望的问题。你现在就这么傻瞪着，到底还要不要上我？"
 
 # game/city.rpy#L1105
 translate chinese melodylaptop_b5a08e2f:
@@ -4280,7 +4280,7 @@ translate chinese honeycrisprubythreesome_ce617998:
 translate chinese honeycrisprubythreesome_7ca2dd43:
 
     # "We had some drinks, we danced… It’s a bit of a blur…"
-    "我们喝了点酒，跳了点舞... 有点记不清了..."
+    "我们喝了点酒，跳了会舞... 有点记不清了..."
 
 # game/city.rpy#L1804
 translate chinese honeycrisprubythreesome_240a3938:
@@ -5774,7 +5774,7 @@ translate chinese sofiasex_7e4b1479:
 translate chinese sofiasex_83446491:
 
     # unknown "It’s true, I’m in heat, so I can't let myself get swept off my feet by a stallion, hehehe."
-    unknown "It’s true, I’m in heat, so I can't let myself get swept off my feet by a stallion, hehehe."
+    unknown "这么说也没错，我处在发情期，所以不想让其他公马靠近我，嘿嘿嘿。"
 
 # game/city.rpy#L2194
 translate chinese sofiasex_61adf363:
@@ -5792,7 +5792,7 @@ translate chinese sofiasex_8329b747:
 translate chinese sofiasex_5a545ec9:
 
     # unknown "Some ladies have better self-control than others, hehehe."
-    unknown "因为有些女人的自控能力要更强一些，嘿嘿嘿。"
+    unknown "因为有些女士的自控能力要更强一些，嘿嘿嘿。"
 
 # game/city.rpy#L2198
 translate chinese sofiasex_df81e9ec:
@@ -5816,7 +5816,7 @@ translate chinese sofiasex_cabda07d:
 translate chinese sofiasex_c520af89:
 
     # unknown "I like the sound of that. We can go through your dirty thoughts like a list."
-    unknown "I like the sound of that. We can go through your dirty thoughts like a list."
+    unknown "正中我下怀。我们可以把你那些脏脏的想法都列出来。"
 
 # game/city.rpy#L2207
 translate chinese sofiasex_7e258f21:
@@ -5834,7 +5834,7 @@ translate chinese sofiasex_33f0db62:
 translate chinese sofiasex_202b9c08:
 
     # sofia "Call me ‘Sofia’. It's not my real name, but doesn't it just roll off the tongue?"
-    sofia "Call me ‘Sofia’. It's not my real name, but doesn't it just roll off the tongue?"
+    sofia "我叫“Sofia”。这只是我的艺名，不过朗朗上口，不是吗？"
 
 # game/city.rpy#L2212
 translate chinese sofiasex_79eb4aba:
@@ -5846,19 +5846,19 @@ translate chinese sofiasex_79eb4aba:
 translate chinese sofiasex_348250fa:
 
     # "Sofia and I get our freak on, dancing and getting more drunk."
-    "Sofia and I get our freak on, dancing and getting more drunk."
+    "我和Sofia迅速追于灯红酒绿中，纵情跳舞，狂饮。"
 
 # game/city.rpy#L2216
 translate chinese sofiasex_82b8b25e:
 
     # "Almost impatiently and spontaneously, she leads me away from the dancefloor, inviting me to her place after only an hour."
-    "Almost impatiently and spontaneously, she leads me away from the dancefloor, inviting me to her place after only an hour."
+    "一小时后我和她离开了舞池，她将我领至她的住处。"
 
 # game/city.rpy#L2218
 translate chinese sofiasex_02d29149:
 
     # "Drunkenly, I find myself alone in her bedroom while she prepares in the bathroom, from where I hear her calling out to me."
-    "Drunkenly, I find myself alone in her bedroom while she prepares in the bathroom, from where I hear her calling out to me."
+    "我醉得厉害，迷迷糊糊地就倒在了她卧室的床上，她则在浴室中乔装打扮，然后她的垂问从浴室中传来。"
 
 # game/city.rpy#L2219
 translate chinese sofiasex_cdf7fef2:
@@ -5936,7 +5936,7 @@ translate chinese sofiasex_bedfb7b6:
 translate chinese sofiasex_2e8baace:
 
     # "I think this is my first time seeing panties in this world, naturally they’re designed to accommodate the tail which Sofia holds back to give me the best view possible."
-    "I think this is my first time seeing panties in this world, naturally they’re designed to accommodate the tail which Sofia holds back to give me the best view possible."
+    "这应该是我第一次在这个世界里看到“内裤”这种东西，当然内裤的样式为Sofia的尾巴特地开了口，她正拉起自己的尾巴，向我展示这一美景。"
 
 # game/city.rpy#L2238
 translate chinese sofiasex_5e30fbba:
@@ -5978,91 +5978,91 @@ translate chinese sofiasex_db77749e:
 translate chinese sofiasex_ccbb466f:
 
     # "With only a few licks, I can already see the outline of her vulva forming in the damp fabric, my cock is already throbbing at the sight."
-    "With only a few licks, I can already see the outline of her vulva forming in the damp fabric, my cock is already throbbing at the sight."
+    "舌头只在上面舔了几下，她淫穴中渗出的爱液就已在内裤上渗出一条完美的轮廓，此景足以让我的肉棒蠢蠢欲动了。"
 
 # game/city.rpy#L2245
 translate chinese sofiasex_ee6a1a1b:
 
     # "No longer satisfied just licking her panties, I grip a particularly loose piece of fabric with my teeth and begin to remove her panties almost entirely with just my mouth."
-    "No longer satisfied just licking her panties, I grip a particularly loose piece of fabric with my teeth and begin to remove her panties almost entirely with just my mouth."
+    "我可不打算一直隔着一层内裤舔，我用牙齿咬住内裤一块松软的边料，然后用嘴将内裤全部拉开。"
 
 # game/city.rpy#L2247
 translate chinese sofiasex_cfa6bac8:
 
     # "I don’t know what drunk me was expecting, but they don’t come off as easily as I’d expect. Luckily my fingers are already in place to help loosen the panties, as they shift and fall to her knees."
-    "I don’t know what drunk me was expecting, but they don’t come off as easily as I’d expect. Luckily my fingers are already in place to help loosen the panties, as they shift and fall to her knees."
+    "我当然不指望醉醺醺的我能操作得有多精准，但把内裤扯开着实花了我一番功夫。幸运的是我的手指摸索到了位置，按在她的膝盖上好借力把内裤撤下来。"
 
 # game/city.rpy#L2248
 translate chinese sofiasex_181ee9ff:
 
     # "Satisfied, all that’s left is a wet trail between her wet folds and privates. Her pussy is delightfully plump and fully bloomed with arousal."
-    "Satisfied, all that’s left is a wet trail between her wet folds and privates. Her pussy is delightfully plump and fully bloomed with arousal."
+    "成功拉开内裤后，之间她的小穴已经洪水泛滥。穴肉非常丰满，性奋无比。"
 
 # game/city.rpy#L2249
 translate chinese sofiasex_7a5d8ce4:
 
     # "I bury my face back into her crotch, my tongue quickly finding her clit while my other senses are bombarded with lewd sights, sounds and smells."
-    "I bury my face back into her crotch, my tongue quickly finding her clit while my other senses are bombarded with lewd sights, sounds and smells."
+    "我把脸一下子埋进她的花丛中，舌头精准锁住小豆豆，任由自己的其他感官被这幅淫靡的图景冲击着。"
 
 # game/city.rpy#L2250
 translate chinese sofiasex_38ce0b01:
 
     # sofia "Oohhh, ahhaaa… I’m in heat, so I want you to make me come lots and lots, okay?"
-    sofia "Oohhh, ahhaaa… I’m in heat, so I want you to make me come lots and lots, okay?"
+    sofia "哦哦，啊啊啊...因为人家在发情，所以你得让人家爽得不要不要的，可以吗？"
 
 # game/city.rpy#L2251
 translate chinese sofiasex_00e10ecd:
 
     # "Hard to argue from this position, I’m completely enamoured by this gorgeous mare. Nibbling, sucking and licking at her tantalising vulva, the increasing intensity of her moans indicating that she may already be approaching her first orgasm."
-    "Hard to argue from this position, I’m completely enamoured by this gorgeous mare. Nibbling, sucking and licking at her tantalising vulva, the increasing intensity of her moans indicating that she may already be approaching her first orgasm."
+    "按我现在的这个体位也不好说什么话去反驳，这只旖旎的雌驹已经让我完全沦陷了。我疯狂地舔咬，吮吸着她的穴口，她越来越高亢的呻吟说明她的第一次高潮快来了。"
 
 # game/city.rpy#L2252
 translate chinese sofiasex_a6a0828e:
 
     # "I focus intently on her clit for over a minute, until her pleasure finally boils over. Her entire body shivers, her fur almost standing on end as her pussy visibly starts to contract."
-    "I focus intently on her clit for over a minute, until her pleasure finally boils over. Her entire body shivers, her fur almost standing on end as her pussy visibly starts to contract."
+    "我在她的阴蒂上持续逗弄了大概一分钟，终于让她到了高潮的边缘。她的娇躯剧烈地颤抖起来，毛发竖起，穴肉开始收缩。"
 
 # game/city.rpy#L2253
 translate chinese sofiasex_2fe4f3a1:
 
     # "Lovingly, I lap at the milk of Sofia as she has a sensational orgasm, her rear pushing even further against my face, soaking my lips and even my nose slightly."
-    "Lovingly, I lap at the milk of Sofia as she has a sensational orgasm, her rear pushing even further against my face, soaking my lips and even my nose slightly."
+    "我充满爱意地接受着Sofia高潮泄出的蜜汁，深邃的股沟将我的脸吸得更深，我的嘴唇附近和鼻子上都被溅上不少。"
 
 # game/city.rpy#L2254
 translate chinese sofiasex_ee3fa032:
 
     # sofia "Mmm… What a wonderful start, usually I have to ask the man to do that… Hehehe, you’re such a gentleman."
-    sofia "Mmm… What a wonderful start, usually I have to ask the man to do that… Hehehe, you’re such a gentleman."
+    sofia "嗯...这前戏针不戳，一般我都得求着男性去舔他们才肯去...嘿嘿嘿，你真是位风度翩翩的绅士。"
 
 # game/city.rpy#L2255
 translate chinese sofiasex_2f267d5b:
 
     # sofia "Well, you don’t have to be gentle anymore… I want you to rut me like a bitch in heat."
-    sofia "Well, you don’t have to be gentle anymore… I want you to rut me like a bitch in heat."
+    sofia "不过呢，接下来你就没必要再风度翩翩下去了...人家想被当成一条发情的母狗很操。"
 
 # game/city.rpy#L2256
 translate chinese sofiasex_f1616e69:
 
     # "She hoists the rim of her skirt up further, and bends over even more as she presents herself to me fully, her pussy perfectly angled for penetration."
-    "She hoists the rim of her skirt up further, and bends over even more as she presents herself to me fully, her pussy perfectly angled for penetration."
+    "她执起裙子的边缘拉的更高，柳腰也往下弯去，只为向我呈现出她的下方美景，她的小穴正好到了一个合适我插入的高度。"
 
 # game/city.rpy#L2257
 translate chinese sofiasex_f1d6f4f9:
 
     # "My cock is practically drooling precum, and I’m more than ready to fuck her hard."
-    "My cock is practically drooling precum, and I’m more than ready to fuck her hard."
+    "我的鸡巴已经开始流出前列腺液了，我已经准备好狠狠地满足她的愿望了。"
 
 # game/city.rpy#L2260
 translate chinese sofiasex_b3145cc4:
 
     # "I press the tip against her soaking pussy, and it immediately sinks in, almost sucked in."
-    "I press the tip against her soaking pussy, and it immediately sinks in, almost sucked in."
+    "我把龟头抵上她水漫金山的穴口，然后很轻松地长驱直入，几乎是被吸进去的。"
 
 # game/city.rpy#L2261
 translate chinese sofiasex_a9595778:
 
     # "She’s so wet, I easily plunge deeply until my hips meet her rear. Yet, she still manages to feel wonderfully tight around my throbbing member, some internal twitching adding to the pleasure."
-    "She’s so wet, I easily plunge deeply until my hips meet her rear. Yet, she still manages to feel wonderfully tight around my throbbing member, some internal twitching adding to the pleasure."
+    "她的爱液太多了，我轻而易举地就全根没入，我们俩的胯部一下子撞在一起。而她还在尽可能地缩紧肉壁，款待我颤动的小兄弟，穴肉时不时的抽搐增加了不少快感。"
 
 # game/city.rpy#L2262
 translate chinese sofiasex_ee09f48d:
@@ -6074,31 +6074,31 @@ translate chinese sofiasex_ee09f48d:
 translate chinese sofiasex_2d9cc4dc:
 
     # "Her pussy squeezes as I pull back, as if it’s automatically trying to suck me back. With a few more practiced thrusts, I adopt a speedy pace, pounding her pussy hard causing a few enchanting moans to slip from her mouth."
-    "Her pussy squeezes as I pull back, as if it’s automatically trying to suck me back. With a few more practiced thrusts, I adopt a speedy pace, pounding her pussy hard causing a few enchanting moans to slip from her mouth."
+    "在我把肉棒往回拉的时候她的肉壁再度缩紧，好像又想把我给吸回去一样。在几次熟练地挺进后，我开始加快速度，并且抽插的力度更加霸道，让她发出几声娇吟。"
 
 # game/city.rpy#L2264
 translate chinese sofiasex_0e5593a6:
 
     # "She feels so soft, both internally and externally, as I hold her hips and my own regularly meet with her fluffy butt."
-    "She feels so soft, both internally and externally, as I hold her hips and my own regularly meet with her fluffy butt."
+    "当我抱住她的腰部，并用下体有节奏地撞击着她的臀部时，我感觉到她的身体真的好柔软啊，无论是皮肤和毛发，还是身体的内部都是如此。"
 
 # game/city.rpy#L2265
 translate chinese sofiasex_04c0574e:
 
     # "I’m guessing she has an amazing conditioner, because as I grab her tail and pull it to the side like pulling a human woman’s hair, that too feels immensely soft."
-    "I’m guessing she has an amazing conditioner, because as I grab her tail and pull it to the side like pulling a human woman’s hair, that too feels immensely soft."
+    "想必她是用了什么神奇的护发素，我像拽人类女性的头发一样粗暴的把她的尾巴拉到一边，手感也柔顺无比。"
 
 # game/city.rpy#L2266
 translate chinese sofiasex_83751793:
 
     # "It genuinely feels like I’m fucking a princess; the sights, the sounds, the smells. It’s all so fragrant and exquisite."
-    "It genuinely feels like I’m fucking a princess; the sights, the sounds, the smells. It’s all so fragrant and exquisite."
+    "感觉就像在同一位公主颠鸾倒凤一样；她的美貌，她的声音，她的体香，一切都是那么完美无瑕。"
 
 # game/city.rpy#L2267
 translate chinese sofiasex_6dae3050:
 
     # "Yet, as her pussy squelches, the inescapable vulgarity of the situation consumes us both in absolute ecstasy."
-    "Yet, as her pussy squelches, the inescapable vulgarity of the situation consumes us both in absolute ecstasy."
+    "当然，当她的穴肉收紧的时候，这种狂野的快感都将我们两个推向高潮。"
 
 # game/city.rpy#L2268
 translate chinese sofiasex_f0d958b5:
@@ -6116,31 +6116,31 @@ translate chinese sofiasex_ab3b07b0:
 translate chinese sofiasex_b8402776:
 
     # "I can’t hold myself back much longer, and as her pussy clings even tighter around my tense throbbing member, I can almost feel the surge of cum rising through my loins."
-    "I can’t hold myself back much longer, and as her pussy clings even tighter around my tense throbbing member, I can almost feel the surge of cum rising through my loins."
+    "我坚持不了多久了。当她那包裹着我悸动的肉棒的小穴变得越来越紧时，我可以感受到爆射的冲动在我腰腹的位置变得越发强烈了。"
 
 # game/city.rpy#L2271
 translate chinese sofiasex_77c2431c:
 
     # "Giving into the heavenly orgasm, I fuck deeply as my cock releases load after load of hot thick cum into this mare’s pussy."
-    "Giving into the heavenly orgasm, I fuck deeply as my cock releases load after load of hot thick cum into this mare’s pussy."
+    "我完全沉浸在了这妙不可言的高潮之中。我用力将肉棒插入到小穴的深处，在这一瞬间，滚烫而浓稠的精液喷涌而出，直接射进了这匹小马的嫩穴之中。"
 
 # game/city.rpy#L2276
 translate chinese sofiasex_9eb591cc:
 
     # "My vision briefly whitens as I lose myself to pure pleasure, and no doubt my sexual partner is too as her eyes scrunch and her orgasmic moaning intensifies."
-    "My vision briefly whitens as I lose myself to pure pleasure, and no doubt my sexual partner is too as her eyes scrunch and her orgasmic moaning intensifies."
+    "我的视线在这纯粹快乐的刺激下逐渐翻白，我的性侣境遇无疑与我相同，她的美目紧闭，高潮的呻吟加剧。"
 
 # game/city.rpy#L2283
 translate chinese sofiasex_dba19186:
 
     # "I fill the mare I met less than two hours ago to the brim, before eventually we come down from our lustful highs and pull away."
-    "I fill the mare I met less than two hours ago to the brim, before eventually we come down from our lustful highs and pull away."
+    "这只雌驹和我见面才不过两小时而已，花房里就被我播下了种子，最后我们俩都从性福的云端里缓了过来。"
 
 # game/city.rpy#L2286
 translate chinese sofiasex_f6467090:
 
     # "Sofia tosses aside the dress and panties, having only kept it on to make the sex more interesting, and then pulls me into a cuddle on her bed."
-    "Sofia tosses aside the dress and panties, having only kept it on to make the sex more interesting, and then pulls me into a cuddle on her bed."
+    "Sofia把自己的裙子和内裤都扔到一边，只为了增加性爱的情趣，然后将我拉到她的床上，拥抱在一起。"
 
 # game/city.rpy#L2290
 translate chinese sofiasex_ebb531bd:
@@ -6152,13 +6152,13 @@ translate chinese sofiasex_ebb531bd:
 translate chinese sofiasex_c0775b64:
 
     # sofia "A lady has to be in Arcadia, how do you think I get what I want? Hehehe."
-    sofia "A lady has to be in Arcadia, how do you think I get what I want? Hehehe."
+    sofia "一位Arcadia的名媛理应如此，不然我怎么在上流圈子纵横捭阖呢？嘿嘿嘿。"
 
 # game/city.rpy#L2293
 translate chinese sofiasex_dfc7e577:
 
     # "Her legs wrap around me, and almost as if the exact positioning of me relative to her was pre-planned I can feel her wet vulva against my shaft, trying to coax another erection out of me."
-    "Her legs wrap around me, and almost as if the exact positioning of me relative to her was pre-planned I can feel her wet vulva against my shaft, trying to coax another erection out of me."
+    "她的玉腿缠住了我，角度和位置之精准，我怀疑她早有预谋，我能感受到她潮湿的小穴贴上了我的长枪，想让它再次扬头奋进。"
 
 # game/city.rpy#L2295
 translate chinese sofiasex_4fec1402:
@@ -6176,13 +6176,13 @@ translate chinese sofiasex_3f8e1a2f:
 translate chinese sofiasex_fe741241:
 
     # "Not literally, but the moment our lips touch, my fate is already sealed. I’m fucking her again, I know it, she knows it."
-    "Not literally, but the moment our lips touch, my fate is already sealed. I’m fucking her again, I know it, she knows it."
+    "不需要我回答，当我们的双唇吻在一起时，我的命运就已注定。我还会再和她翻云覆雨一番，我和她皆心知肚明。"
 
 # game/city.rpy#L2300
 translate chinese sofiasex_397e0103:
 
     # "We’re gonna fuck again."
-    "咱们再来啪啪啪吧。"
+    "今晚注定不会风平浪静。"
 
 # game/city.rpy#L2302
 translate chinese sofiasex_ce617998:
@@ -6194,19 +6194,19 @@ translate chinese sofiasex_ce617998:
 translate chinese sofiasex_fdbeee4f:
 
     # "Turns out, ‘again’ was an understatement. I was so naïve when I thought we’d just do it twice and call it a great night together."
-    "Turns out, ‘again’ was an understatement. I was so naïve when I thought we’d just do it twice and call it a great night together."
+    "事实证明，“一番”这个词可远远不够。这个夜晚两发就完事的想法太过天真。"
 
 # game/city.rpy#L2304
 translate chinese sofiasex_df31a256:
 
     # "We fucked not once more, but another two times more. Three times total in the evening, and once in the morning for good measure."
-    "We fucked not once more, but another two times more. Three times total in the evening, and once in the morning for good measure."
+    "之后，我们又做了两次。加在一起，我们一晚上一共做了三次，在早上又做了一次。"
 
 # game/city.rpy#L2305
 translate chinese sofiasex_5de398aa:
 
     # "I’m fairly certain she had eight orgasms in total."
-    "I’m fairly certain she had eight orgasms in total."
+    "我能确定的是，这段时间她一共高潮了八次。"
 
 # game/city.rpy#L2306
 translate chinese sofiasex_e2d67d44:
@@ -6218,19 +6218,19 @@ translate chinese sofiasex_e2d67d44:
 translate chinese sofiasex_30b2937c:
 
     # "She’s a maid at the castle, go figure. It’s one of the few professions in Arcadia that wears a dress to work, that’ll be why she owns a few in the first place."
-    "She’s a maid at the castle, go figure. It’s one of the few professions in Arcadia that wears a dress to work, that’ll be why she owns a few in the first place."
+    "她是城堡里的女仆，想想看。这是在Arcadia少数几个要求穿着裙子上班的工作了，所以她才会有那么多裙子。"
 
 # game/city.rpy#L2308
 translate chinese sofiasex_e3016370:
 
     # "Despite permission to stay, I find myself leaving at the same time as her as I return home for breakfast and a shower."
-    "Despite permission to stay, I find myself leaving at the same time as her as I return home for breakfast and a shower."
+    "虽然我能在她的住处待上一阵，但我回家吃早饭和洗澡的时间和她出发去上班的时间差不多重合。"
 
 # game/city.rpy#L2309
 translate chinese sofiasex_d64e0b35:
 
     # "Not before exchanging magic mail addresses though, she says she wants to see me again sometime."
-    "Not before exchanging magic mail addresses though, she says she wants to see me again sometime."
+    "她说还想再和我共度良宵，随后我们交换了彼此的魔法邮件地址。"
 
 # game/city.rpy#L2310
 translate chinese sofiasex_ce617998_1:
@@ -6254,7 +6254,7 @@ translate chinese sofiasex_efa9a9b2_1:
 translate chinese sofiasex_be811226_1:
 
     # "Close my eyes? Alright, I’ll play along."
-    "又要我闭眼吗？好吧，我奉陪。"
+    "要我闭上眼睛吗？好吧，我奉陪。"
 
 # game/city.rpy#L2318
 translate chinese sofiasex_8935e3c6_1:
@@ -6296,43 +6296,43 @@ translate chinese sofiasex_794b7ddf:
 translate chinese sofiasex_c00fac6c:
 
     # "I think this is my first time seeing pantyhose in this world, naturally they’re designed to accommodate the tail which Sofia holds back to give me the best view possible."
-    "I think this is my first time seeing pantyhose in this world, naturally they’re designed to accommodate the tail which Sofia holds back to give me the best view possible."
+    "我猜，这可能是我在这个世界上第一次见到丝袜吧。当然，它的样式是为Sofia的尾巴而特别订制的。她拉起自己的尾巴，向我展示着这一美丽的画面。"
 
 # game/city.rpy#L2328
 translate chinese sofiasex_a4b0527c:
 
     # "Her very wetness drips from the stockings in a manner that can only be called obscene. Now I’m beginning to understand why she was so eager to bring me back."
-    "Her very wetness drips from the stockings in a manner that can only be called obscene. Now I’m beginning to understand why she was so eager to bring me back."
+    "此时，她的爱液已经顺着丝袜流了下来，这个画面只能用淫荡来形容。现在，我终于明白了她为什么会如此迫切地想把我带过来。"
 
 # game/city.rpy#L2329
 translate chinese sofiasex_f8ab6ab6:
 
     # sofia "Darling, I want you to savour every inch…"
-    sofia "亲爱的，我想让你好好享受一番……"
+    sofia "亲爱的，我想让你好好享受个痛快……"
 
 # game/city.rpy#L2330
 translate chinese sofiasex_b5d8eaa4:
 
     # "I shimmy closer, first bringing my hands to her soft thighs and running my fingers over the velvety fabric."
-    "I shimmy closer, first bringing my hands to her soft thighs and running my fingers over the velvety fabric."
+    "我迅速来到她身边，将双手放在了她柔软的双腿上。然后，我用手指抚摸起她腿上那条细腻的丝袜。"
 
 # game/city.rpy#L2331
 translate chinese sofiasex_ff0cf2ed:
 
     # "She shivers and coos as I reach her ass, using my fingers to part her cheeks slightly, I can hear a wet schlick as the folds of her vulva part."
-    "She shivers and coos as I reach her ass, using my fingers to part her cheeks slightly, I can hear a wet schlick as the folds of her vulva part."
+    "当我触摸到她的丰臀时，她的身体不仅颤抖了起来，而且还发出了咕咕声。在我用手指轻轻扒开她的阴唇时，我听到了唇瓣分开时发出的“噗叽”声。"
 
 # game/city.rpy#L2332
 translate chinese sofiasex_43aa1388:
 
     # "I close the distance between her crotch and my face, bringing my tongue to the wetness of the soft fabric."
-    "I close the distance between her crotch and my face, bringing my tongue to the wetness of the soft fabric."
+    "我将自己的脸向她的双腿根部慢慢凑近，然后伸出舌头去舔舐她已被浸湿的丝袜。"
 
 # game/city.rpy#L2333
 translate chinese sofiasex_db77749e_1:
 
     # sofia "Yeahh… Ooohhh, that’s it… We’ve got all night…"
-    sofia "Yeahh… Ooohhh, that’s it… We’ve got all night…"
+    sofia "没错没错……哦哦哦，就是这样……咱们就这样做上一个晚上吧……"
 
 # game/city.rpy#L2335
 translate chinese sofiasex_213335b5:
@@ -6344,19 +6344,19 @@ translate chinese sofiasex_213335b5:
 translate chinese sofiasex_cbfe9d4b:
 
     # sofia "Oh? Oh my, how sexy... As long as you keep the holes under the dress, go wild, babe."
-    sofia "Oh? Oh my, how sexy... As long as you keep the holes under the dress, go wild, babe."
+    sofia "哦？天啊，好涩哦...你要你不把裙子下面的洞给弄破，其他的都随你了，小宝贝儿。"
 
 # game/city.rpy#L2337
 translate chinese sofiasex_bf2b2f75:
 
     # "I use my fingers to play with her labia as I gradually make the hole in the stockings larger. Soon her entire pussy is exposed to the cool bedroom air. Her pussy is delightfully plump and fully bloomed with arousal."
-    "I use my fingers to play with her labia as I gradually make the hole in the stockings larger. Soon her entire pussy is exposed to the cool bedroom air. Her pussy is delightfully plump and fully bloomed with arousal."
+    "在我将丝袜的小口撕开的同时，我也在用手指玩弄着她的阴唇。很快，她的小穴就完全暴露在了卧室那冰冷的空气中。这时，她的小穴已经因为刺激而变得充血和肿胀起来。"
 
 # game/city.rpy#L2338
 translate chinese sofiasex_7a5d8ce4_1:
 
     # "I bury my face back into her crotch, my tongue quickly finding her clit while my other senses are bombarded with lewd sights, sounds and smells."
-    "I bury my face back into her crotch, my tongue quickly finding her clit while my other senses are bombarded with lewd sights, sounds and smells."
+    "我将脸埋在她两腿之间，之后，在我的感官被各种淫荡的画面、声音和味道狂轰滥炸的同时，我还在用舌头快速地寻找着她阴蒂的位置。"
 
 # game/city.rpy#L2339
 translate chinese sofiasex_38ce0b01_1:
@@ -6368,55 +6368,55 @@ translate chinese sofiasex_38ce0b01_1:
 translate chinese sofiasex_00e10ecd_1:
 
     # "Hard to argue from this position, I’m completely enamoured by this gorgeous mare. Nibbling, sucking and licking at her tantalising vulva, the increasing intensity of her moans indicating that she may already be approaching her first orgasm."
-    "Hard to argue from this position, I’m completely enamoured by this gorgeous mare. Nibbling, sucking and licking at her tantalising vulva, the increasing intensity of her moans indicating that she may already be approaching her first orgasm."
+    "按我现在的这个体位也不好说什么话去反驳，这只旖旎的雌驹已经让我完全沦陷了。我疯狂地舔咬，吮吸着她的穴口，她越来越高亢的呻吟说明她的第一次高潮快来了。"
 
 # game/city.rpy#L2341
 translate chinese sofiasex_a6a0828e_1:
 
     # "I focus intently on her clit for over a minute, until her pleasure finally boils over. Her entire body shivers, her fur almost standing on end as her pussy visibly starts to contract."
-    "I focus intently on her clit for over a minute, until her pleasure finally boils over. Her entire body shivers, her fur almost standing on end as her pussy visibly starts to contract."
+    "我在她的阴蒂上持续逗弄了大概一分钟，终于让她到了高潮的边缘。她的娇躯剧烈地颤抖起来，毛发竖起，穴肉开始收缩。"
 
 # game/city.rpy#L2342
 translate chinese sofiasex_2fe4f3a1_1:
 
     # "Lovingly, I lap at the milk of Sofia as she has a sensational orgasm, her rear pushing even further against my face, soaking my lips and even my nose slightly."
-    "Lovingly, I lap at the milk of Sofia as she has a sensational orgasm, her rear pushing even further against my face, soaking my lips and even my nose slightly."
+    "我充满爱意地接受着Sofia高潮泄出的蜜汁，深邃的股沟将我的脸吸得更深，我的嘴唇附近和鼻子上都被溅上不少。"
 
 # game/city.rpy#L2343
 translate chinese sofiasex_0d0aa90d:
 
     # sofia "Mmm… What a wonderful start, usually I have to ask men to do that… Hehehe, you’re such a gentleman."
-    sofia "Mmm… What a wonderful start, usually I have to ask men to do that… Hehehe, you’re such a gentleman."
+    sofia "嗯...这前戏针不戳，一般我都得求着男性去舔他们才肯去...嘿嘿嘿，你真是位风度翩翩的绅士。"
 
 # game/city.rpy#L2344
 translate chinese sofiasex_2f267d5b_1:
 
     # sofia "Well, you don’t have to be gentle anymore… I want you to rut me like a bitch in heat."
-    sofia "Well, you don’t have to be gentle anymore… I want you to rut me like a bitch in heat."
+    sofia "不过呢，接下来你就没必要再风度翩翩下去了...人家想被当成一条发情的母狗很操。"
 
 # game/city.rpy#L2345
 translate chinese sofiasex_f1616e69_1:
 
     # "She hoists the rim of her skirt up further, and bends over even more as she presents herself to me fully, her pussy perfectly angled for penetration."
-    "She hoists the rim of her skirt up further, and bends over even more as she presents herself to me fully, her pussy perfectly angled for penetration."
+    "她执起裙子的边缘拉的更高，柳腰也往下弯去，只为向我呈现出她的下方美景，她的小穴正好到了一个合适我插入的高度。"
 
 # game/city.rpy#L2346
 translate chinese sofiasex_f1d6f4f9_1:
 
     # "My cock is practically drooling precum, and I’m more than ready to fuck her hard."
-    "My cock is practically drooling precum, and I’m more than ready to fuck her hard."
+    "我的鸡巴已经开始流出前列腺液了，我已经准备好狠狠地满足她的愿望了。"
 
 # game/city.rpy#L2349
 translate chinese sofiasex_b3145cc4_1:
 
     # "I press the tip against her soaking pussy, and it immediately sinks in, almost sucked in."
-    "I press the tip against her soaking pussy, and it immediately sinks in, almost sucked in."
+    "我把龟头抵上她水漫金山的穴口，然后很轻松地长驱直入，几乎是被吸进去的。"
 
 # game/city.rpy#L2350
 translate chinese sofiasex_a9595778_1:
 
     # "She’s so wet, I easily plunge deeply until my hips meet her rear. Yet, she still manages to feel wonderfully tight around my throbbing member, some internal twitching adding to the pleasure."
-    "She’s so wet, I easily plunge deeply until my hips meet her rear. Yet, she still manages to feel wonderfully tight around my throbbing member, some internal twitching adding to the pleasure."
+    "她的爱液太多了，我轻而易举地就全根没入，我们俩的胯部一下子撞在一起。而她还在尽可能地缩紧肉壁，款待我颤动的小兄弟，穴肉时不时的抽搐增加了不少快感。"
 
 # game/city.rpy#L2351
 translate chinese sofiasex_ee09f48d_1:
@@ -6428,37 +6428,37 @@ translate chinese sofiasex_ee09f48d_1:
 translate chinese sofiasex_2d9cc4dc_1:
 
     # "Her pussy squeezes as I pull back, as if it’s automatically trying to suck me back. With a few more practiced thrusts, I adopt a speedy pace, pounding her pussy hard causing a few enchanting moans to slip from her mouth."
-    "Her pussy squeezes as I pull back, as if it’s automatically trying to suck me back. With a few more practiced thrusts, I adopt a speedy pace, pounding her pussy hard causing a few enchanting moans to slip from her mouth."
+    "在我把肉棒往回拉的时候她的肉壁再度缩紧，好像又想把我给吸回去一样。在几次熟练地挺进后，我开始加快速度，并且抽插的力度更加霸道，让她发出几声娇吟。"
 
 # game/city.rpy#L2353
 translate chinese sofiasex_f938cfdc:
 
     # "She feels so soft, both internally and externally, as I hold her hips and my own regularly graze against her velvety stockings."
-    "She feels so soft, both internally and externally, as I hold her hips and my own regularly graze against her velvety stockings."
+    "当我抱住她的腰部，并用下体有节奏地撞击着她的臀部时，我感觉到她的身体真的好柔软啊，无论是皮肤和毛发，还是身体的内部都是如此，我的臀部还能撞到她如天鹅绒般柔软的丝袜上。"
 
 # game/city.rpy#L2354
 translate chinese sofiasex_04c0574e_1:
 
     # "I’m guessing she has an amazing conditioner, because as I grab her tail and pull it to the side like pulling a human woman’s hair, that too feels immensely soft."
-    "I’m guessing she has an amazing conditioner, because as I grab her tail and pull it to the side like pulling a human woman’s hair, that too feels immensely soft."
+    "想必她是用了什么神奇的护发素，我像拽人类女性的头发一样粗暴的把她的尾巴拉到一边，手感也柔顺无比。"
 
 # game/city.rpy#L2355
 translate chinese sofiasex_83751793_1:
 
     # "It genuinely feels like I’m fucking a princess; the sights, the sounds, the smells. It’s all so fragrant and exquisite."
-    "It genuinely feels like I’m fucking a princess; the sights, the sounds, the smells. It’s all so fragrant and exquisite."
+    "感觉就像在同一位公主颠鸾倒凤一样；她的美貌，她的声音，她的体香，一切都是那么完美无瑕。"
 
 # game/city.rpy#L2356
 translate chinese sofiasex_6dae3050_1:
 
     # "Yet, as her pussy squelches, the inescapable vulgarity of the situation consumes us both in absolute ecstasy."
-    "Yet, as her pussy squelches, the inescapable vulgarity of the situation consumes us both in absolute ecstasy."
+    "当然，当她的嫩穴收紧的时候，这种狂野的快感将我们两个都推向了高潮。"
 
 # game/city.rpy#L2357
 translate chinese sofiasex_f0d958b5_1:
 
     # "And I’m going to fill up this pussy soon. I’m going to unload into this sophisticated mare’s pussy."
-    "我马上就要射了，我马上就要把这匹老于世故的小母马的小穴全部射满了。"
+    "我马上就要射了，我马上就要灌满这匹社交名流马的淫穴了。"
 
 # game/city.rpy#L2358
 translate chinese sofiasex_ab3b07b0_1:
@@ -6470,55 +6470,55 @@ translate chinese sofiasex_ab3b07b0_1:
 translate chinese sofiasex_b8402776_1:
 
     # "I can’t hold myself back much longer, and as her pussy clings even tighter around my tense throbbing member, I can almost feel the surge of cum rising through my loins."
-    "I can’t hold myself back much longer, and as her pussy clings even tighter around my tense throbbing member, I can almost feel the surge of cum rising through my loins."
+    "我坚持不了多久了。当她那包裹着我悸动的肉棒的小穴变得越来越紧时，我可以感受到爆射的冲动在我腰腹的位置变得越发强烈了。"
 
 # game/city.rpy#L2364
 translate chinese sofiasex_77c2431c_1:
 
     # "Giving into the heavenly orgasm, I fuck deeply as my cock releases load after load of hot thick cum into this mare’s pussy."
-    "Giving into the heavenly orgasm, I fuck deeply as my cock releases load after load of hot thick cum into this mare’s pussy."
+    "我完全沉浸在了这妙不可言的高潮之中。我用力将肉棒插入到小穴的深处，在这一瞬间，滚烫而浓稠的精液喷涌而出，直接射进了这匹小马的嫩穴之中。"
 
 # game/city.rpy#L2371
 translate chinese sofiasex_9eb591cc_1:
 
     # "My vision briefly whitens as I lose myself to pure pleasure, and no doubt my sexual partner is too as her eyes scrunch and her orgasmic moaning intensifies."
-    "My vision briefly whitens as I lose myself to pure pleasure, and no doubt my sexual partner is too as her eyes scrunch and her orgasmic moaning intensifies."
+    "我的视线在这纯粹快乐的刺激下逐渐翻白，我的性侣境遇无疑与我相同，她的美目紧闭，高潮的呻吟加剧。"
 
 # game/city.rpy#L2374
 translate chinese sofiasex_d25b157c:
 
     # "I fill the mare I met less than two hours ago to the brim, before eventually we fall down from our lustful highs and fall down onto the bed."
-    "I fill the mare I met less than two hours ago to the brim, before eventually we fall down from our lustful highs and fall down onto the bed."
+    "这只雌驹和我见面才不过两小时而已，花房里就被我播下了种子，最后我们俩都从性福的云端里缓了过来，倒在床上。"
 
 # game/city.rpy#L2375
 translate chinese sofiasex_e7364c55:
 
     # "Sofia tosses aside the dress and stockings, having only kept it on to make the sex more interesting, and then pulls me into a cuddle."
-    "Sofia tosses aside the dress and stockings, having only kept it on to make the sex more interesting, and then pulls me into a cuddle."
+    "Sofia把自己的裙子和丝袜都扔到一边，只为了增加性爱的情趣，然后将我扑倒，我们彼此拥抱在一起。"
 
 # game/city.rpy#L2379
 translate chinese sofiasex_ebb531bd_1:
 
     # mc "You’re quite forceful, aren’t you?"
-    mc "You’re quite forceful, aren’t you?"
+    mc "你劲好大啊，是不是呀？"
 
 # game/city.rpy#L2381
 translate chinese sofiasex_c0775b64_1:
 
     # sofia "A lady has to be in Arcadia, how do you think I get what I want? Hehehe."
-    sofia "A lady has to be in Arcadia, how do you think I get what I want? Hehehe."
+    sofia "一位Arcadia的名媛理应如此，不然我怎么在上流圈子纵横捭阖呢？嘿嘿嘿。"
 
 # game/city.rpy#L2382
 translate chinese sofiasex_dfc7e577_1:
 
     # "Her legs wrap around me, and almost as if the exact positioning of me relative to her was pre-planned I can feel her wet vulva against my shaft, trying to coax another erection out of me."
-    "Her legs wrap around me, and almost as if the exact positioning of me relative to her was pre-planned I can feel her wet vulva against my shaft, trying to coax another erection out of me."
+    "她的玉腿缠住了我，角度和位置之精准，我怀疑她早有预谋，我能感受到她潮湿的小穴贴上了我的长枪，想让它再次扬头奋进。"
 
 # game/city.rpy#L2384
 translate chinese sofiasex_4fec1402_1:
 
     # sofia "Now… How long does it take for your species to get hard again?"
-    sofia "Now… How long does it take for your species to get hard again?"
+    sofia "嗯……你们人类的棒棒要用多长时间才能再硬起来呢？"
 
 # game/city.rpy#L2386
 translate chinese sofiasex_3f8e1a2f_1:
@@ -6530,7 +6530,7 @@ translate chinese sofiasex_3f8e1a2f_1:
 translate chinese sofiasex_fe741241_1:
 
     # "Not literally, but the moment our lips touch, my fate is already sealed. I’m fucking her again, I know it, she knows it."
-    "Not literally, but the moment our lips touch, my fate is already sealed. I’m fucking her again, I know it, she knows it."
+    "不需要我回答，当我们的双唇吻在一起时，我的命运就已注定。我还会再和她翻云覆雨一番，我和她皆心知肚明。"
 
 # game/city.rpy#L2388
 translate chinese sofiasex_397e0103_1:
@@ -6548,7 +6548,7 @@ translate chinese sofiasex_ce617998_2:
 translate chinese sofiasex_fdbeee4f_1:
 
     # "Turns out, ‘again’ was an understatement. I was so naïve when I thought we’d just do it twice and call it a great night together."
-    "Turns out, ‘again’ was an understatement. I was so naïve when I thought we’d just do it twice and call it a great night together."
+    "事实证明，“一番”这个词可远远不够。这个夜晚两发就完事的想法太过天真。"
 
 # game/city.rpy#L2392
 translate chinese sofiasex_df31a256_1:
@@ -6572,19 +6572,19 @@ translate chinese sofiasex_e2d67d44_1:
 translate chinese sofiasex_30b2937c_1:
 
     # "She’s a maid at the castle, go figure. It’s one of the few professions in Arcadia that wears a dress to work, that’ll be why she owns a few in the first place."
-    "She’s a maid at the castle, go figure. It’s one of the few professions in Arcadia that wears a dress to work, that’ll be why she owns a few in the first place."
+    "她是城堡里的女仆，想想看。这是在Arcadia少数几个要求穿着裙子上班的工作了，所以她才会有那么多裙子。"
 
 # game/city.rpy#L2396
 translate chinese sofiasex_e3016370_1:
 
     # "Despite permission to stay, I find myself leaving at the same time as her as I return home for breakfast and a shower."
-    "Despite permission to stay, I find myself leaving at the same time as her as I return home for breakfast and a shower."
+    "虽然我能在她的住处待上一阵，但我回家吃早饭和洗澡的时间和她出发去上班的时间差不多重合。"
 
 # game/city.rpy#L2397
 translate chinese sofiasex_d64e0b35_1:
 
     # "Not before exchanging magic mail addresses though, she says she wants to see me again sometime."
-    "Not before exchanging magic mail addresses though, she says she wants to see me again sometime."
+    "她说还想再和我共度良宵，随后我们交换了彼此的魔法邮件地址。"
 
 # game/city.rpy#L2398
 translate chinese sofiasex_ce617998_3:
@@ -6596,43 +6596,43 @@ translate chinese sofiasex_ce617998_3:
 translate chinese sofiasex2_cbb39bca:
 
     # "There’s Sofia again, and she seems to still be wearing her dress."
-    "There’s Sofia again, and she seems to still be wearing her dress."
+    "又和Sofia见面了，她依然着装得体，裙不离身。"
 
 # game/city.rpy#L2402
 translate chinese sofiasex2_c87a6b2c:
 
     # "Flashbacks to our night together play in my head as I close the distance to her."
-    "Flashbacks to our night together play in my head as I close the distance to her."
+    "当我向她走去时，我们那一晚的点点滴滴在我的脑海中不断浮现。"
 
 # game/city.rpy#L2404
 translate chinese sofiasex2_d7d4512e:
 
     # mc "Hey Sofia, time for an encore?"
-    mc "Hey Sofia, time for an encore?"
+    mc "嘿，Sofia，要不要再来一出？"
 
 # game/city.rpy#L2406
 translate chinese sofiasex2_3c325dfb:
 
     # sofia "Hehehe, aren’t you presumptuous?"
-    sofia "Hehehe, aren’t you presumptuous?"
+    sofia "嘿嘿嘿，你胆一直这么肥吗？"
 
 # game/city.rpy#L2407
 translate chinese sofiasex2_a7ec65b0:
 
     # mc "Ah, my bad for assuming you’d be up for it again. My head was in the clouds."
-    mc "Ah, my bad for assuming you’d be up for it again. My head was in the clouds."
+    mc "啊，抱歉我以为你肯定还想再来一次。我脑子乱的。"
 
 # game/city.rpy#L2408
 translate chinese sofiasex2_817957ed:
 
     # "She shakes her head and giggles."
-    "She shakes her head and giggles."
+    "她摇了摇头，然后咯咯咯地笑了起来。"
 
 # game/city.rpy#L2410
 translate chinese sofiasex2_f0119207:
 
     # sofia "You misunderstand me, an ‘encore’ is the end of a concert, right? As far as I’m concerned, I’ll never stop wanting to perform with you, hehehe."
-    sofia "You misunderstand me, an ‘encore’ is the end of a concert, right? As far as I’m concerned, I’ll never stop wanting to perform with you, hehehe."
+    sofia "你会错意啦，“再来一出”的意思是，上场表演已经结束了，对吧？我的意思是，我和你的那场演出，永不结束，嘿嘿嘿。"
 
 # game/city.rpy#L2411
 translate chinese sofiasex2_ec17b06b:
@@ -6644,25 +6644,25 @@ translate chinese sofiasex2_ec17b06b:
 translate chinese sofiasex2_300465e6:
 
     # sofia "Wanna go back to my place? Then I can give you all the erections you’d like, sexy…"
-    sofia "想去我家吗？你有什么爱爱的要求我都可以满足你的，我性感的……"
+    sofia "想去我家吗？你有什么爱爱的要求我都可以满足你的，比如穿性感点……"
 
 # game/city.rpy#L2414
 translate chinese sofiasex2_6373d73a:
 
     # mc "Already? But it’s so early."
-    mc "Already? But it’s so early."
+    mc "这就走？这个点还早啊。"
 
 # game/city.rpy#L2416
 translate chinese sofiasex2_b6e24058:
 
     # sofia "Exactly, ever more time to mate with you. Come on, make me yours."
-    sofia "Exactly, ever more time to mate with you. Come on, make me yours."
+    sofia "嗯呐，这样就有更多的床上时光了。来嘛，好好疼疼人家。"
 
 # game/city.rpy#L2417
 translate chinese sofiasex2_0419585a:
 
     # "Ah shit, here we go again."
-    "啊，见了鬼了，又要来一遍。"
+    "Ah shit, here we go again.（该梗出自GTA:SA）"
 
 # game/city.rpy#L2421
 translate chinese sofiasex2_3b690d1d:
@@ -6782,31 +6782,31 @@ translate chinese sofiasex2_9eb35436:
 translate chinese sofiasex2_ccbb466f:
 
     # "With only a few licks, I can already see the outline of her vulva forming in the damp fabric, my cock is already throbbing at the sight."
-    "With only a few licks, I can already see the outline of her vulva forming in the damp fabric, my cock is already throbbing at the sight."
+    "舌头只在上面舔了几下，她淫穴中渗出的爱液就已在内裤上渗出一条完美的轮廓，此景足以让我的肉棒蠢蠢欲动了。"
 
 # game/city.rpy#L2447
 translate chinese sofiasex2_ee6a1a1b:
 
     # "No longer satisfied just licking her panties, I grip a particularly loose piece of fabric with my teeth and begin to remove her panties almost entirely with just my mouth."
-    "No longer satisfied just licking her panties, I grip a particularly loose piece of fabric with my teeth and begin to remove her panties almost entirely with just my mouth."
+    "我可不打算一直隔着一层内裤舔，我用牙齿咬住内裤一块松软的边料，然后用嘴将内裤全部拉开。"
 
 # game/city.rpy#L2449
 translate chinese sofiasex2_f72ed279:
 
     # "Sober, I manage to peel the panties off pretty well. At a certain point they simply fall down to her knees."
-    "Sober, I manage to peel the panties off pretty well. At a certain point they simply fall down to her knees."
+    "别慌，一定要冷静，我正准备要把她的内裤一点点地扯下来呢。而在此时，她也双膝着地，跪了下来。"
 
 # game/city.rpy#L2450
 translate chinese sofiasex2_181ee9ff:
 
     # "Satisfied, all that’s left is a wet trail between her wet folds and privates. Her pussy is delightfully plump and fully bloomed with arousal."
-    "Satisfied, all that’s left is a wet trail between her wet folds and privates. Her pussy is delightfully plump and fully bloomed with arousal."
+    "成功拉开内裤后，之间她的小穴已经洪水泛滥。穴肉非常丰满，性奋无比。"
 
 # game/city.rpy#L2451
 translate chinese sofiasex2_7a5d8ce4:
 
     # "I bury my face back into her crotch, my tongue quickly finding her clit while my other senses are bombarded with lewd sights, sounds and smells."
-    "I bury my face back into her crotch, my tongue quickly finding her clit while my other senses are bombarded with lewd sights, sounds and smells."
+    "我将脸埋在她两腿之间，之后，在我的感官被各种淫荡的画面、声音和味道狂轰滥炸的同时，我还在用舌头快速寻找着她阴蒂的位置。"
 
 # game/city.rpy#L2452
 translate chinese sofiasex2_d09fe25c:
@@ -6818,19 +6818,19 @@ translate chinese sofiasex2_d09fe25c:
 translate chinese sofiasex2_00e10ecd:
 
     # "Hard to argue from this position, I’m completely enamoured by this gorgeous mare. Nibbling, sucking and licking at her tantalising vulva, the increasing intensity of her moans indicating that she may already be approaching her first orgasm."
-    "Hard to argue from this position, I’m completely enamoured by this gorgeous mare. Nibbling, sucking and licking at her tantalising vulva, the increasing intensity of her moans indicating that she may already be approaching her first orgasm."
+    "按我现在的这个体位也不好说什么话去反驳，这只旖旎的雌驹已经让我完全沦陷了。我疯狂地舔咬，吮吸着她的穴口，她越来越高亢的呻吟说明她的第一次高潮快来了。"
 
 # game/city.rpy#L2454
 translate chinese sofiasex2_a6a0828e:
 
     # "I focus intently on her clit for over a minute, until her pleasure finally boils over. Her entire body shivers, her fur almost standing on end as her pussy visibly starts to contract."
-    "I focus intently on her clit for over a minute, until her pleasure finally boils over. Her entire body shivers, her fur almost standing on end as her pussy visibly starts to contract."
+    "我在她的阴蒂上持续逗弄了大概一分钟，终于让她到了高潮的边缘。她的娇躯剧烈地颤抖起来，毛发竖起，穴肉开始收缩。"
 
 # game/city.rpy#L2455
 translate chinese sofiasex2_2fe4f3a1:
 
     # "Lovingly, I lap at the milk of Sofia as she has a sensational orgasm, her rear pushing even further against my face, soaking my lips and even my nose slightly."
-    "Lovingly, I lap at the milk of Sofia as she has a sensational orgasm, her rear pushing even further against my face, soaking my lips and even my nose slightly."
+    "我充满爱意地接受着Sofia高潮泄出的蜜汁，深邃的股沟将我的脸吸得更深，我的嘴唇附近和鼻子上都被溅上不少。"
 
 # game/city.rpy#L2456
 translate chinese sofiasex2_bd390014:
@@ -6842,31 +6842,31 @@ translate chinese sofiasex2_bd390014:
 translate chinese sofiasex2_9cf76a72:
 
     # sofia "Well, you don’t have to be gentle anymore… I want you to rut me like a bitch in heat. Fuck me just like last time, you fiend, hehehe."
-    sofia "Well, you don’t have to be gentle anymore… I want you to rut me like a bitch in heat. Fuck me just like last time, you fiend, hehehe."
+    sofia "不过呢，接下来你就没必要再风度翩翩下去了...人家想被当成一条发情的母狗很操，就像上次那样，嘿嘿嘿。"
 
 # game/city.rpy#L2458
 translate chinese sofiasex2_f1616e69:
 
     # "She hoists the rim of her skirt up further, and bends over even more as she presents herself to me fully, her pussy perfectly angled for penetration."
-    "She hoists the rim of her skirt up further, and bends over even more as she presents herself to me fully, her pussy perfectly angled for penetration."
+    "她执起裙子的边缘拉的更高，柳腰也往下弯去，只为向我呈现出她的下方美景，她的小穴正好到了一个合适我插入的高度。"
 
 # game/city.rpy#L2459
 translate chinese sofiasex2_f1d6f4f9:
 
     # "My cock is practically drooling precum, and I’m more than ready to fuck her hard."
-    "My cock is practically drooling precum, and I’m more than ready to fuck her hard."
+    "我的鸡巴已经开始流出前列腺液了，我已经准备好狠狠地满足她的愿望了。"
 
 # game/city.rpy#L2462
 translate chinese sofiasex2_b3145cc4:
 
     # "I press the tip against her soaking pussy, and it immediately sinks in, almost sucked in."
-    "I press the tip against her soaking pussy, and it immediately sinks in, almost sucked in."
+    "我把龟头抵上她水漫金山的穴口，然后很轻松地长驱直入，几乎是被吸进去的。"
 
 # game/city.rpy#L2463
 translate chinese sofiasex2_a9595778:
 
     # "She’s so wet, I easily plunge deeply until my hips meet her rear. Yet, she still manages to feel wonderfully tight around my throbbing member, some internal twitching adding to the pleasure."
-    "She’s so wet, I easily plunge deeply until my hips meet her rear. Yet, she still manages to feel wonderfully tight around my throbbing member, some internal twitching adding to the pleasure."
+    "她的爱液太多了，我轻而易举地就全根没入，我们俩的胯部一下子撞在一起。而她还在尽可能地缩紧肉壁，款待我颤动的小兄弟，穴肉时不时的抽搐增加了不少快感。"
 
 # game/city.rpy#L2464
 translate chinese sofiasex2_ee09f48d:
@@ -6878,79 +6878,79 @@ translate chinese sofiasex2_ee09f48d:
 translate chinese sofiasex2_2d9cc4dc:
 
     # "Her pussy squeezes as I pull back, as if it’s automatically trying to suck me back. With a few more practiced thrusts, I adopt a speedy pace, pounding her pussy hard causing a few enchanting moans to slip from her mouth."
-    "Her pussy squeezes as I pull back, as if it’s automatically trying to suck me back. With a few more practiced thrusts, I adopt a speedy pace, pounding her pussy hard causing a few enchanting moans to slip from her mouth."
+    "在我把肉棒往回拉的时候她的肉壁再度缩紧，好像又想把我给吸回去一样。在几次熟练地挺进后，我开始加快速度，并且抽插的力度更加霸道，让她发出几声娇吟。"
 
 # game/city.rpy#L2466
 translate chinese sofiasex2_0e5593a6:
 
     # "She feels so soft, both internally and externally, as I hold her hips and my own regularly meet with her fluffy butt."
-    "She feels so soft, both internally and externally, as I hold her hips and my own regularly meet with her fluffy butt."
+    "当我抱住她的腰部，并用下体有节奏地撞击着她的臀部时，我感觉到她的身体真的好柔软啊，无论是皮肤和毛发，还是身体的内部都是如此。"
 
 # game/city.rpy#L2467
 translate chinese sofiasex2_19d421d8:
 
     # "I grab her tail and pull it to the side like pulling a human woman’s hair, it’s pretty fun pulling a mare’s tail while fucking them."
-    "I grab her tail and pull it to the side like pulling a human woman’s hair, it’s pretty fun pulling a mare’s tail while fucking them."
+    "我像拽人类女性的头发一样把她的尾巴拉到一边，在和小马爱爱的时候拉尾巴可以增添不少情趣。"
 
 # game/city.rpy#L2468
 translate chinese sofiasex2_83751793:
 
     # "It genuinely feels like I’m fucking a princess; the sights, the sounds, the smells. It’s all so fragrant and exquisite."
-    "It genuinely feels like I’m fucking a princess; the sights, the sounds, the smells. It’s all so fragrant and exquisite."
+    "感觉就像在同一位公主颠鸾倒凤一样；她的美貌，她的声音，她的体香，一切都是那么完美无瑕。"
 
 # game/city.rpy#L2469
 translate chinese sofiasex2_6dae3050:
 
     # "Yet, as her pussy squelches, the inescapable vulgarity of the situation consumes us both in absolute ecstasy."
-    "Yet, as her pussy squelches, the inescapable vulgarity of the situation consumes us both in absolute ecstasy."
+    "当然，当她的嫩穴收紧的时候，这种狂野的快感将我们两个都推向了高潮。"
 
 # game/city.rpy#L2470
 translate chinese sofiasex2_f0d958b5:
 
     # "And I’m going to fill up this pussy soon. I’m going to unload into this sophisticated mare’s pussy."
-    "And I’m going to fill up this pussy soon. I’m going to unload into this sophisticated mare’s pussy."
+    "我马上就要射了，我马上就要灌满这匹社交名流马的淫穴了。"
 
 # game/city.rpy#L2471
 translate chinese sofiasex2_ab3b07b0:
 
     # sofia "Aahhaa, I’m coming! Ahh… Aahh! Your cock is so amazing! Ahh!"
-    sofia "Aahhaa, I’m coming! Ahh… Aahh! Your cock is so amazing! Ahh!"
+    sofia "啊哈哈，我受不了了！啊……啊啊！你的大鸡巴太厉害了！啊！"
 
 # game/city.rpy#L2472
 translate chinese sofiasex2_b8402776:
 
     # "I can’t hold myself back much longer, and as her pussy clings even tighter around my tense throbbing member, I can almost feel the surge of cum rising through my loins."
-    "I can’t hold myself back much longer, and as her pussy clings even tighter around my tense throbbing member, I can almost feel the surge of cum rising through my loins."
+    "我坚持不了多久了。当她那包裹着我悸动的肉棒的小穴变得越来越紧时，我可以感受到爆射的冲动在我腰腹的位置变得越发强烈了。"
 
 # game/city.rpy#L2473
 translate chinese sofiasex2_77c2431c:
 
     # "Giving into the heavenly orgasm, I fuck deeply as my cock releases load after load of hot thick cum into this mare’s pussy."
-    "Giving into the heavenly orgasm, I fuck deeply as my cock releases load after load of hot thick cum into this mare’s pussy."
+    "我完全沉浸在了这妙不可言的高潮之中。我用力将肉棒插入到小穴的深处，在这一瞬间，滚烫而浓稠的精液喷涌而出，直接射进了这匹小马的嫩穴之中。"
 
 # game/city.rpy#L2478
 translate chinese sofiasex2_9eb591cc:
 
     # "My vision briefly whitens as I lose myself to pure pleasure, and no doubt my sexual partner is too as her eyes scrunch and her orgasmic moaning intensifies."
-    "My vision briefly whitens as I lose myself to pure pleasure, and no doubt my sexual partner is too as her eyes scrunch and her orgasmic moaning intensifies."
+    "我的视线在这纯粹快乐的刺激下逐渐翻白，我的性侣境遇无疑与我相同，她的美目紧闭，高潮的呻吟加剧。"
 
 # game/city.rpy#L2485
 translate chinese sofiasex2_d2bcf540:
 
     # "I fill her to the brim, before eventually we come down from our lustful highs and pull away."
-    "I fill her to the brim, before eventually we come down from our lustful highs and pull away."
+    "我在她的花房播下了种子，最后我们俩都从性福的云端里缓了过来，完全回过神。"
 
 # game/city.rpy#L2488
 translate chinese sofiasex2_6d8abcd5:
 
     # "Sofia tosses aside the dress, having only kept it on to make the sex more interesting, and then pulls me into a cuddle on her bed."
-    "Sofia tosses aside the dress, having only kept it on to make the sex more interesting, and then pulls me into a cuddle on her bed."
+    "Sofia把自己的裙子扔到一边，只为了增加性爱的情趣，然后将我拉到她的床上，拥抱在一起。"
 
 # game/city.rpy#L2492
 translate chinese sofiasex2_3d6e7c82:
 
     # mc "Fifteen minutes, then you can be on top."
-    mc "Fifteen minutes, then you can be on top."
+    mc "等我15分钟，然后咱们可以继续。"
 
 # game/city.rpy#L2494
 translate chinese sofiasex2_61408408:
@@ -6980,7 +6980,7 @@ translate chinese sofiasex2_3f8e1a2f:
 translate chinese sofiasex2_e21b9b64:
 
     # "Not literally, but the moment our lips touch, my fate is already sealed."
-    "Not literally, but the moment our lips touch, my fate is already sealed."
+    "不需要我回答，当我们的双唇吻在一起时，我的命运就已经注定了。"
 
 # game/city.rpy#L2501
 translate chinese sofiasex2_ce617998:
@@ -7118,97 +7118,97 @@ translate chinese sofiasex2_d09fe25c_1:
 translate chinese sofiasex2_00e10ecd_1:
 
     # "Hard to argue from this position, I’m completely enamoured by this gorgeous mare. Nibbling, sucking and licking at her tantalising vulva, the increasing intensity of her moans indicating that she may already be approaching her first orgasm."
-    "Hard to argue from this position, I’m completely enamoured by this gorgeous mare. Nibbling, sucking and licking at her tantalising vulva, the increasing intensity of her moans indicating that she may already be approaching her first orgasm."
+    "按我现在的这个体位也不好说什么话去反驳，这只旖旎的雌驹已经让我完全沦陷了。我疯狂地舔咬，吮吸着她的穴口，她越来越高亢的呻吟说明她的第一次高潮快来了。"
 
 # game/city.rpy#L2531
 translate chinese sofiasex2_a6a0828e_1:
 
     # "I focus intently on her clit for over a minute, until her pleasure finally boils over. Her entire body shivers, her fur almost standing on end as her pussy visibly starts to contract."
-    "I focus intently on her clit for over a minute, until her pleasure finally boils over. Her entire body shivers, her fur almost standing on end as her pussy visibly starts to contract."
+    "我在她的阴蒂上持续逗弄了大概一分钟，终于让她到了高潮的边缘。她的娇躯剧烈地颤抖起来，毛发竖起，穴肉开始收缩。"
 
 # game/city.rpy#L2532
 translate chinese sofiasex2_2fe4f3a1_1:
 
     # "Lovingly, I lap at the milk of Sofia as she has a sensational orgasm, her rear pushing even further against my face, soaking my lips and even my nose slightly."
-    "Lovingly, I lap at the milk of Sofia as she has a sensational orgasm, her rear pushing even further against my face, soaking my lips and even my nose slightly."
+    "我充满爱意地接受着Sofia高潮泄出的蜜汁，深邃的股沟将我的脸吸得更深，我的嘴唇附近和鼻子上都被溅上不少。"
 
 # game/city.rpy#L2533
 translate chinese sofiasex2_093b9067:
 
     # sofia "Mmm… What a wonderful start… Hehehe, you’re always such a gentleman."
-    sofia "Mmm… What a wonderful start… Hehehe, you’re always such a gentleman."
+    sofia "嗯...这前戏针不戳，一般我都得求着男性去舔他们才肯去...嘿嘿嘿，你真是位风度翩翩的绅士。"
 
 # game/city.rpy#L2534
 translate chinese sofiasex2_545f089f:
 
     # sofia "Well, you don’t have to be gentle anymore… I want you to rut me like a bitch in heat. Fuck me hard, just like last time."
-    sofia "Well, you don’t have to be gentle anymore… I want you to rut me like a bitch in heat. Fuck me hard, just like last time."
+    sofia "不过呢，接下来你就没必要再风度翩翩下去了...人家想被当成一条发情的母狗很操。"
 
 # game/city.rpy#L2535
 translate chinese sofiasex2_f1616e69_1:
 
     # "She hoists the rim of her skirt up further, and bends over even more as she presents herself to me fully, her pussy perfectly angled for penetration."
-    "She hoists the rim of her skirt up further, and bends over even more as she presents herself to me fully, her pussy perfectly angled for penetration."
+    "她执起裙子的边缘拉的更高，柳腰也往下弯去，只为向我呈现出她的下方美景，她的小穴正好到了一个合适我插入的高度。"
 
 # game/city.rpy#L2536
 translate chinese sofiasex2_f1d6f4f9_1:
 
     # "My cock is practically drooling precum, and I’m more than ready to fuck her hard."
-    "My cock is practically drooling precum, and I’m more than ready to fuck her hard."
+    "我的鸡巴已经开始流出前列腺液了，我已经准备好狠狠地满足她的愿望了。"
 
 # game/city.rpy#L2539
 translate chinese sofiasex2_b3145cc4_1:
 
     # "I press the tip against her soaking pussy, and it immediately sinks in, almost sucked in."
-    "I press the tip against her soaking pussy, and it immediately sinks in, almost sucked in."
+    "我把龟头抵上她水漫金山的穴口，然后很轻松地长驱直入，几乎是被吸进去的。"
 
 # game/city.rpy#L2540
 translate chinese sofiasex2_a9595778_1:
 
     # "She’s so wet, I easily plunge deeply until my hips meet her rear. Yet, she still manages to feel wonderfully tight around my throbbing member, some internal twitching adding to the pleasure."
-    "She’s so wet, I easily plunge deeply until my hips meet her rear. Yet, she still manages to feel wonderfully tight around my throbbing member, some internal twitching adding to the pleasure."
+    "她的爱液太多了，我轻而易举地就全根没入，我们俩的胯部一下子撞在一起。而她还在尽可能地缩紧肉壁，款待我颤动的小兄弟，穴肉时不时的抽搐增加了不少快感。"
 
 # game/city.rpy#L2541
 translate chinese sofiasex2_ee09f48d_1:
 
     # sofia "Oooohhh! Fuck me! That’s goooood!"
-    sofia "Oooohhh! Fuck me! That’s goooood!"
+    sofia "哦哦哦！干我吧！太……舒……服……了！"
 
 # game/city.rpy#L2542
 translate chinese sofiasex2_2d9cc4dc_1:
 
     # "Her pussy squeezes as I pull back, as if it’s automatically trying to suck me back. With a few more practiced thrusts, I adopt a speedy pace, pounding her pussy hard causing a few enchanting moans to slip from her mouth."
-    "Her pussy squeezes as I pull back, as if it’s automatically trying to suck me back. With a few more practiced thrusts, I adopt a speedy pace, pounding her pussy hard causing a few enchanting moans to slip from her mouth."
+    "在我把肉棒往回拉的时候她的肉壁再度缩紧，好像又想把我给吸回去一样。在几次熟练地挺进后，我开始加快速度，并且抽插的力度更加霸道，让她发出几声娇吟。"
 
 # game/city.rpy#L2543
 translate chinese sofiasex2_f938cfdc:
 
     # "She feels so soft, both internally and externally, as I hold her hips and my own regularly graze against her velvety stockings."
-    "She feels so soft, both internally and externally, as I hold her hips and my own regularly graze against her velvety stockings."
+    "当我抱住她的腰部，并用下体有节奏地撞击着她的臀部时，我感觉到她的身体真的好柔软啊，无论是皮肤和毛发，还是身体的内部都是如此，我的臀部还能撞到她如天鹅绒般柔软的丝袜上。"
 
 # game/city.rpy#L2544
 translate chinese sofiasex2_4e7d2be1:
 
     # "I grab her tail and pull it to the side like pulling a human woman’s hair, pulling a mare’s tail is a lot of fun, and Sofia definitely loves it."
-    "I grab her tail and pull it to the side like pulling a human woman’s hair, pulling a mare’s tail is a lot of fun, and Sofia definitely loves it."
+    "我像拽人类女性的头发一样把她的尾巴拉到一边，在和小马爱爱的时候拉尾巴可以增添不少情趣，Sofia对此显然也很受用。"
 
 # game/city.rpy#L2545
 translate chinese sofiasex2_83751793_1:
 
     # "It genuinely feels like I’m fucking a princess; the sights, the sounds, the smells. It’s all so fragrant and exquisite."
-    "It genuinely feels like I’m fucking a princess; the sights, the sounds, the smells. It’s all so fragrant and exquisite."
+    "感觉就像在同一位公主颠鸾倒凤一样；她的美貌，她的声音，她的体香，一切都是那么完美无瑕。"
 
 # game/city.rpy#L2546
 translate chinese sofiasex2_6dae3050_1:
 
     # "Yet, as her pussy squelches, the inescapable vulgarity of the situation consumes us both in absolute ecstasy."
-    "Yet, as her pussy squelches, the inescapable vulgarity of the situation consumes us both in absolute ecstasy."
+    "当然，当她的嫩穴收紧的时候，这种狂野的快感将我们两个都推向了高潮。"
 
 # game/city.rpy#L2547
 translate chinese sofiasex2_f0d958b5_1:
 
     # "And I’m going to fill up this pussy soon. I’m going to unload into this sophisticated mare’s pussy."
-    "我马上就要射了，我马上就要把这匹社会马的小穴全部射满了。"
+    "我马上就要射了，我马上就要灌满这匹社交名流马的淫穴了。"
 
 # game/city.rpy#L2548
 translate chinese sofiasex2_ab3b07b0_1:
@@ -7220,37 +7220,37 @@ translate chinese sofiasex2_ab3b07b0_1:
 translate chinese sofiasex2_b8402776_1:
 
     # "I can’t hold myself back much longer, and as her pussy clings even tighter around my tense throbbing member, I can almost feel the surge of cum rising through my loins."
-    "I can’t hold myself back much longer, and as her pussy clings even tighter around my tense throbbing member, I can almost feel the surge of cum rising through my loins."
+    "我坚持不了多久了。当她那包裹着我悸动的肉棒的小穴变得越来越紧时，我可以感受到爆射的冲动在我腰腹的位置变得越发强烈了。"
 
 # game/city.rpy#L2554
 translate chinese sofiasex2_77c2431c_1:
 
     # "Giving into the heavenly orgasm, I fuck deeply as my cock releases load after load of hot thick cum into this mare’s pussy."
-    "Giving into the heavenly orgasm, I fuck deeply as my cock releases load after load of hot thick cum into this mare’s pussy."
+    "我完全沉浸在了这妙不可言的高潮之中。我用力将肉棒插入到小穴的深处，在这一瞬间，滚烫而浓稠的精液喷涌而出，直接射进了这匹小马的嫩穴之中。"
 
 # game/city.rpy#L2561
 translate chinese sofiasex2_9eb591cc_1:
 
     # "My vision briefly whitens as I lose myself to pure pleasure, and no doubt my sexual partner is too as her eyes scrunch and her orgasmic moaning intensifies."
-    "My vision briefly whitens as I lose myself to pure pleasure, and no doubt my sexual partner is too as her eyes scrunch and her orgasmic moaning intensifies."
+    "我的视线在这纯粹快乐的刺激下逐渐翻白，我的性侣境遇无疑与我相同，她的美目紧闭，高潮的呻吟加剧。"
 
 # game/city.rpy#L2564
 translate chinese sofiasex2_d2bcf540_1:
 
     # "I fill her to the brim, before eventually we come down from our lustful highs and pull away."
-    "I fill her to the brim, before eventually we come down from our lustful highs and pull away."
+    "我向她的花房里播下了种子，最后我们俩都从性福的云端里缓了过来，倒在了床上。"
 
 # game/city.rpy#L2565
 translate chinese sofiasex2_6d8abcd5_1:
 
     # "Sofia tosses aside the dress, having only kept it on to make the sex more interesting, and then pulls me into a cuddle on her bed."
-    "Sofia tosses aside the dress, having only kept it on to make the sex more interesting, and then pulls me into a cuddle on her bed."
+    "Sofia把自己的裙子扔到一边，只为了增加性爱的情趣，然后将我拉到她的床上，拥抱在一起。"
 
 # game/city.rpy#L2569
 translate chinese sofiasex2_3d6e7c82_1:
 
     # mc "Fifteen minutes, then you can be on top."
-    mc "Fifteen minutes, then you can be on top."
+    mc "等我15分钟，然后咱们可以继续。"
 
 # game/city.rpy#L2571
 translate chinese sofiasex2_61408408_1:
@@ -7280,7 +7280,7 @@ translate chinese sofiasex2_3f8e1a2f_1:
 translate chinese sofiasex2_e21b9b64_1:
 
     # "Not literally, but the moment our lips touch, my fate is already sealed."
-    "Not literally, but the moment our lips touch, my fate is already sealed."
+    "不需要我回答，当我们的双唇吻在一起时，我的命运就已经注定了。"
 
 # game/city.rpy#L2578
 translate chinese sofiasex2_ce617998_1:
