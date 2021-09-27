@@ -4064,7 +4064,7 @@ translate chinese lorequeen_4d2b8245:
 translate chinese lorequeen_67177c6a:
 
     # "If this was a cRPG, I'd probably have gained an additional skill point in lore, or something."
-    "如果这是一个电脑角色扮演游戏，我应该已经在背景知识上得到了额外的技能点数或者别的啥的。"
+    "如果这是一个CRPG游戏，我应该已经在背景知识上得到了额外的技能点数或者别的啥的。"
 
 # game/church.rpy#L1301
 translate chinese lorequeen_6f349328:

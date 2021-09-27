@@ -5030,7 +5030,7 @@ translate chinese honeyannathreesome_85df7f56:
 translate chinese honeyannathreesome_25bf3060:
 
     # honeycrisp "Aahhhh, ahhhhh, coming! Mmmm…!"
-    honeycrisp "啊啊啊，啊啊啊，要去了！唔唔唔……！"
+    honeycrisp "啊啊啊，啊啊啊，要高潮了！唔唔唔……！"
 
 # game/farm.rpy#L1541
 translate chinese honeyannathreesome_3fb4f969:
@@ -5042,7 +5042,7 @@ translate chinese honeyannathreesome_3fb4f969:
 translate chinese honeyannathreesome_b15a6391:
 
     # honeycrisp "Mmph, *Pant*. I can’t believe I came by getting spanked, I’ll get you back for that one stud…"
-    honeycrisp "Mmph, *Pant*. I can’t believe I came by getting spanked, I’ll get you back for that one stud…"
+    honeycrisp "唔嗯，*喘气* 。真不敢相信，你居然敢打我，老娘会让你还回来的，小子……"
 
 # game/farm.rpy#L1543
 translate chinese honeyannathreesome_5c63139d:
@@ -5060,7 +5060,7 @@ translate chinese honeyannathreesome_13d92de3:
 translate chinese honeyannathreesome_874da9e2:
 
     # "Even though I had two orgasms, I am still incredibly horny. Ever since I met Honey and she started to tease me, I knew I wanted to bend her over and ravish her."
-    "Even though I had two orgasms, I am still incredibly horny. Ever since I met Honey and she started to tease me, I knew I wanted to bend her over and ravish her."
+    "虽然我已经高潮过两次了，但我依旧饥渴难耐。在我第一次见到Honey时，她就在调戏我。我明白，我其实很想把她按在地上，然后好好爽一次。"
 
 # game/farm.rpy#L1546
 translate chinese honeyannathreesome_5fe4194c:
@@ -5078,13 +5078,13 @@ translate chinese honeyannathreesome_8309fc04:
 translate chinese honeyannathreesome_a65091b8:
 
     # "I spank her again with my other hand, I love the way she twitches and gasps in response to it. "
-    "I spank her again with my other hand, I love the way she twitches and gasps in response to it. "
+    "我又用另一只手打了她一次。每次抽打完过后，她都会全身颤抖，同时发出急促的喘息声。我真的好享受这个过程。"
 
 # game/farm.rpy#L1550
 translate chinese honeyannathreesome_a511f0fc:
 
     # honeycrisp "Ahh… C-Cum inside!"
-    honeycrisp "啊啊啊...把你的精液射在里面吧！"
+    honeycrisp "啊啊啊……射……射在里面吧！"
 
 # game/farm.rpy#L1551
 translate chinese honeyannathreesome_74285cdd:
@@ -8432,25 +8432,25 @@ translate chinese blossomcowgirl_a84e775b:
 translate chinese blossomcowgirl_4c526f70:
 
     # mc "You’re not weak, you’re one of the strongest people I’ve ever met."
-    mc "You’re not weak, you’re one of the strongest people I’ve ever met."
+    mc "软弱？才没有，你可是我见过最坚强的人。"
 
 # game/farm.rpy#L2499
 translate chinese blossomcowgirl_949082d6:
 
     # honeycrisp "*Sniff* You’re gonna make me cry, stud."
-    honeycrisp "*Sniff* You’re gonna make me cry, stud."
+    honeycrisp "*抽泣*伙计，你要把我弄哭了。"
 
 # game/farm.rpy#L2500
 translate chinese blossomcowgirl_de616cba:
 
     # "Has she been struggling with these barrels all morning? Tracks on the ground seem to suggest as much."
-    "Has she been struggling with these barrels all morning? Tracks on the ground seem to suggest as much."
+    "她一早上都在忙活弄这些桶子？这散一地的架子应该就足够说明这一点了。"
 
 # game/farm.rpy#L2502
 translate chinese blossomcowgirl_eea6a39e:
 
     # "She beckons me in for a hug and we embrace in the barn."
-    "She beckons me in for a hug and we embrace in the barn."
+    "她招呼我过来，然后我们就在谷仓里紧紧相拥。"
 
 # game/farm.rpy#L2503
 translate chinese blossomcowgirl_35729f7e:
@@ -12668,7 +12668,7 @@ translate chinese annatalk_1f9a0360:
 translate chinese annatalk_3f7ea72c:
 
     # anna "Momma went back to the cow village, I wonder if she'll get pregnant again."
-    anna "Momma went back to the cow village, I wonder if she'll get pregnant again."
+    anna "妈妈也会回到村子。我在想，她是不是又怀孕了。"
 
 # game/farm.rpy#L3833
 translate chinese annatalk_a06a252c:
@@ -12686,19 +12686,19 @@ translate chinese annatalk_7b44538d:
 translate chinese annatalk_46f00895:
 
     # mc "Feels pretty lonely having the men and women separated in such a way."
-    mc "Feels pretty lonely having the men and women separated in such a way."
+    mc "家人因为这种原因而分别真的让人感觉很孤独，很凄凉。"
 
 # game/farm.rpy#L3836
 translate chinese annatalk_22147252:
 
     # anna "Yeah perhaps, but from our perspective it's always been like that."
-    anna "Yeah perhaps, but from our perspective it's always been like that."
+    anna "嗯，可能是这样吧。可在我们看来，这才是常态。"
 
 # game/farm.rpy#L3837
 translate chinese annatalk_83c73422:
 
     # mc "What if hypothetically you went back to the cow village, ready to breed, and you met your brother?"
-    mc "What if hypothetically you went back to the cow village, ready to breed, and you met your brother?"
+    mc "你假设一下，如果你也回到了村子里交配生子，然后遇到了你哥哥，你会怎么样？"
 
 # game/farm.rpy#L3839
 translate chinese annatalk_1268786b:
