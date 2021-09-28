@@ -5072,7 +5072,7 @@ translate chinese honeyannathreesome_5fe4194c:
 translate chinese honeyannathreesome_8309fc04:
 
     # honeycrisp "You darn stud… I knew you’d be a good lay…"
-    honeycrisp "You darn stud… I knew you’d be a good lay…"
+    honeycrisp "你个该死的大牲口……我就知道你的技术肯定特别牛……"
 
 # game/farm.rpy#L1549
 translate chinese honeyannathreesome_a65091b8:
@@ -5102,7 +5102,7 @@ translate chinese honeyannathreesome_2138d30a:
 translate chinese honeyannathreesome_fb6edcfe:
 
     # "The sudden tightness of her pussy, combined with the speed we’re rutting, easily pushes me over the edge, and I start to unload inside of her."
-    "The sudden tightness of her pussy, combined with the speed we’re rutting, easily pushes me over the edge, and I start to unload inside of her."
+    "她小穴的突然收紧，加之我快速的抽插，使我很快就到达了高潮的边缘。随后，我便在她的体内一泻千里。"
 
 # game/farm.rpy#L1562
 translate chinese honeyannathreesome_3a4a71c4:
@@ -5114,13 +5114,13 @@ translate chinese honeyannathreesome_3a4a71c4:
 translate chinese honeyannathreesome_30b2a1c4:
 
     # "As I climax, I continue to thrust into her as I fill up her pussy with my hot cum, enjoying what is perhaps my most satisfying orgasm of the day."
-    "As I climax, I continue to thrust into her as I fill up her pussy with my hot cum, enjoying what is perhaps my most satisfying orgasm of the day."
+    "在我高潮的同时，我仍在用力抽插着她那灌满滚烫精液的蜜穴，享受着这一天中最令人满意的一次高潮。"
 
 # game/farm.rpy#L1571
 translate chinese honeyannathreesome_b50e9281:
 
     # "Most satisfying, however, most tiring. After my third orgasm I close my eyes and fall back onto some hay feeling exhausted."
-    "Most satisfying, however, most tiring. After my third orgasm I close my eyes and fall back onto some hay feeling exhausted."
+    "虽然我感觉爽到了极点，但同时，我也已经精疲力竭了。在三次高潮过后，我缓缓闭上双眼，然后后退了几步，坐到了干草堆上——真是累死我了。"
 
 # game/farm.rpy#L1575
 translate chinese honeyannathreesome_d25e92af:
@@ -8468,7 +8468,7 @@ translate chinese blossomcowgirl_5c4613d2:
 translate chinese blossomcowgirl_29602afd:
 
     # honeycrisp "Yeah, you’re right [playername]."
-    honeycrisp "Yeah, you’re right [playername]."
+    honeycrisp "没错，你说的太对了，[playername]。"
 
 # game/farm.rpy#L2508
 translate chinese blossomcowgirl_c064f426:
@@ -8480,49 +8480,49 @@ translate chinese blossomcowgirl_c064f426:
 translate chinese blossomcowgirl_7337efb1:
 
     # mc "You can’t run this farm on your own."
-    mc "You can’t run this farm on your own."
+    mc "你自己可打理不来整个农场。"
 
 # game/farm.rpy#L2510
 translate chinese blossomcowgirl_e083996c:
 
     # honeycrisp "You mentioned Anna? I know Anna can help; she has always been there for me…"
-    honeycrisp "You mentioned Anna? I know Anna can help; she has always been there for me…"
+    honeycrisp "你说Anna?我知道她能帮上忙；她永远都会支持我..."
 
 # game/farm.rpy#L2512
 translate chinese blossomcowgirl_69cd5889:
 
     # honeycrisp "I was just too anxious to say anything when she was here before…"
-    honeycrisp "I was just too anxious to say anything when she was here before…"
+    honeycrisp "她来着时我太急了，已经什么都说不出来了..."
 
 # game/farm.rpy#L2513
 translate chinese blossomcowgirl_417a3c5f:
 
     # "Ah, these sisters… They really are alike; they're both exceedingly shy, however, Honey is much better at hiding it. "
-    "Ah, these sisters… They really are alike; they're both exceedingly shy, however, Honey is much better at hiding it. "
+    "啊，这对姐妹长得太像了；她俩都挺害羞的，还好Honey掩饰的还不错。"
 
 # game/farm.rpy#L2514
 translate chinese blossomcowgirl_42cd8202:
 
     # mc "To be honest Honey, the reason I was in the house earlier with Blossom is because we were trying to help you."
-    mc "To be honest Honey, the reason I was in the house earlier with Blossom is because we were trying to help you."
+    mc "说真的Honey，我和Blossom这么早就在屋里是因为我们是想尽量帮帮你。"
 
 # game/farm.rpy#L2517
 translate chinese blossomcowgirl_a4c574fa:
 
     # honeycrisp "So y’all didn’t have sex and that was a cover up?"
-    honeycrisp "So y’all didn’t have sex and that was a cover up?"
+    honeycrisp "所以你们还没上过床还是说那就是个幌子？"
 
 # game/farm.rpy#L2518
 translate chinese blossomcowgirl_d79d8e01:
 
     # mc "Oh, we did that as well, sorry."
-    mc "Oh, we did that as well, sorry."
+    mc "噢，我们也这么做了，抱歉哈。"
 
 # game/farm.rpy#L2520
 translate chinese blossomcowgirl_aa27a673:
 
     # honeycrisp "Help me? What do you mean---"
-    honeycrisp "Help me? What do you mean---"
+    honeycrisp "帮我？你这什么意---"
 
 # game/farm.rpy#L2523
 translate chinese blossomcowgirl_70d524a3:
@@ -8732,13 +8732,13 @@ translate chinese blossomcowgirl_60f475bf:
 translate chinese blossomcowgirl_7163f682:
 
     # honeycrisp "Anna too, thank you so much for coming here today…"
-    honeycrisp "哦对了，Anna，也非常感谢你今天能来。"
+    honeycrisp "哦，对了，Anna，也非常感谢你今天能来……"
 
 # game/farm.rpy#L2586
 translate chinese blossomcowgirl_705a0061:
 
     # anna "I came as soon as I could, I can’t leave a friend in need."
-    anna "I came as soon as I could, I can’t leave a friend in need."
+    anna "只要有时间，我就会过来。朋友需要帮助，我是不会坐视不管的。"
 
 # game/farm.rpy#L2588
 translate chinese blossomcowgirl_9a6e04ed:
@@ -8786,7 +8786,7 @@ translate chinese blossomcowgirl_f7e99381:
 translate chinese blossomcowgirl_ce617998:
 
     # "…"
-    "…"
+    "……"
 
 # game/farm.rpy#L2606
 translate chinese blossomcowgirl_41d7f2a2:
@@ -8822,7 +8822,7 @@ translate chinese blossomcowgirl_637008bd:
 translate chinese blossomcowgirl_5eea12b5:
 
     # anna "I'm supposed to be one of her best friends but I didn't even notice, I have this pit of guilt in my tummy right now..."
-    anna "I'm supposed to be one of her best friends but I didn't even notice, I have this pit of guilt in my tummy right now..."
+    anna "她把我当作她最要好的朋友之一，可我却毫不知情。我现在感觉好内疚啊……"
 
 # game/farm.rpy#L2616
 translate chinese blossomcowgirl_31472cae:

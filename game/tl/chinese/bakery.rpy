@@ -5396,7 +5396,7 @@ translate chinese bakeryvisit2_f49e97f7:
 translate chinese bakeryvisit2_8bf0b08b:
 
     # "I take a few steps toward the wall and I’m about to peek behind the lines of curtains, but Cream stops me."
-    "I take a few steps toward the wall and I’m about to peek behind the lines of curtains, but Cream stops me."
+    "就在我走向墙前，拉开这帷幕之际，Cream一把将我拦住。"
 
 # game/bakery.rpy#L1641
 translate chinese bakeryvisit2_55305ca8:
@@ -5702,7 +5702,7 @@ translate chinese bakeryvisit2_bc41954d:
 translate chinese bakeryvisit2_5588723d:
 
     # mc "So they are all horny, yet all not horny?"
-    mc "So they are all horny, yet all not horny?"
+    mc "所以他们现在是发情但没完全发情？"
 
 # game/bakery.rpy#L1739
 translate chinese bakeryvisit2_8e0971ef:
