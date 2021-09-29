@@ -4916,7 +4916,7 @@ translate chinese honeyannathreesome_8cba4dc1:
 translate chinese honeyannathreesome_e9e16b33:
 
     # honeycrisp "Aaahh! Don’t hold back stud, I haven’t been able to get off in a week!"
-    honeycrisp "啊哈！不要影响我学习了，我已经一个星期没下马车了！"
+    honeycrisp "啊~啊！别藏着了，伙计，我这一星期都没好好地骑过马！"
 
 # game/farm.rpy#L1517
 translate chinese honeyannathreesome_3d47eaf8:
@@ -4994,7 +4994,7 @@ translate chinese honeyannathreesome_218d74e1:
 translate chinese honeyannathreesome_e70c52d9:
 
     # "As my hand connected, I could feel her insides briefly squeeze around my cock."
-    "As my hand connected, I could feel her insides briefly squeeze around my cock."
+    "在手和臀部相接之时，我能感到她的小穴猛烈地挤压着我的肉棒。"
 
 # game/farm.rpy#L1532
 translate chinese honeyannathreesome_0c1dfe52:
@@ -5006,7 +5006,7 @@ translate chinese honeyannathreesome_0c1dfe52:
 translate chinese honeyannathreesome_37063407:
 
     # "This time I use my other hand, with a raise and a return, I smack Honey’s other ass cheek creating a satisfying slapping sound, even against her soft fur."
-    "This time I use my other hand, with a raise and a return, I smack Honey’s other ass cheek creating a satisfying slapping sound, even against her soft fur."
+    "这次我用了另一只手，一抬一落之际，Honey紧致的臀部发出满意的响声，即使隔着一层毛发。"
 
 # game/farm.rpy#L1535
 translate chinese honeyannathreesome_344a003c:
@@ -5024,7 +5024,7 @@ translate chinese honeyannathreesome_e21c24c3:
 translate chinese honeyannathreesome_85df7f56:
 
     # "As requested by Honey herself, I spank her ass again with my dominant hand, this sets her off and she begins to orgasm, her pussy contracting and squeezing my shaft more and more."
-    "As requested by Honey herself, I spank her ass again with my dominant hand, this sets her off and she begins to orgasm, her pussy contracting and squeezing my shaft more and more."
+    "应Honey的请求，我的惯用手再次落在她的臀部，这一下刺激她伸直身体，把她推向高潮，她的小穴紧收，不断挤压我的肉棒。"
 
 # game/farm.rpy#L1540
 translate chinese honeyannathreesome_25bf3060:
@@ -8546,115 +8546,115 @@ translate chinese blossomcowgirl_07ad6d66:
 translate chinese blossomcowgirl_98e1418d:
 
     # "We pop our heads out the barn, and we’re greeted with a friendly face."
-    "We pop our heads out the barn, and we’re greeted with a friendly face."
+    "我们从谷仓里探出头，迎接的是一张和善的面容。"
 
 # game/farm.rpy#L2535
 translate chinese blossomcowgirl_cc4b10da:
 
     # anna "Oh my gosh, Honey! It’s so great to see you!"
-    anna "Oh my gosh, Honey! It’s so great to see you!"
+    anna "我的天，是你Honey!见到你实在是太好了！"
 
 # game/farm.rpy#L2538
 translate chinese blossomcowgirl_f971f171:
 
     # anna "[playername]! Wow, both of you, I picked a wonderful day to visit!"
-    anna "[playername]! Wow, both of you, I picked a wonderful day to visit!"
+    anna "[playername]！哇哦，你俩要知道，我可是特意挑了个好日子来看你们！"
 
 # game/farm.rpy#L2540
 translate chinese blossomcowgirl_92d4a03f:
 
     # "I expect Honey to give her usual positive greeting, but to my surprise she seems nervous."
-    "I expect Honey to give her usual positive greeting, but to my surprise she seems nervous."
+    "我本想着Honey能像平常那样笑呵呵地冲我们打招呼，但我很意外地发现她看起来有点小紧张。"
 
 # game/farm.rpy#L2541
 translate chinese blossomcowgirl_90bc351f:
 
     # "Anna quickly reads the mood and adapts to a softer tone."
-    "Anna quickly reads the mood and adapts to a softer tone."
+    "Anna很快就看透了，之后就换了一种温柔的语气。"
 
 # game/farm.rpy#L2543
 translate chinese blossomcowgirl_94018f68:
 
     # anna "Uhmm… Not a good time?"
-    anna "Uhmm… Not a good time?"
+    anna "额...好像不是时候？"
 
 # game/farm.rpy#L2544
 translate chinese blossomcowgirl_5c7f42d5:
 
     # mc "Actually, this is the perfect time, we were just talking about you."
-    mc "Actually, this is the perfect time, we were just talking about you."
+    mc "其实现在正是时候，我们刚才正谈论你呢。"
 
 # game/farm.rpy#L2545
 translate chinese blossomcowgirl_16880a09:
 
     # "Taking my lead, Honey perks up, her vigour restored."
-    "Taking my lead, Honey perks up, her vigour restored."
+    "在我的帮助下，Honey振作了起来，活力焕发。"
 
 # game/farm.rpy#L2547
 translate chinese blossomcowgirl_56b73e38:
 
     # honeycrisp "That’s right! Pardon my surprise."
-    honeycrisp "That’s right! Pardon my surprise."
+    honeycrisp "就是这样！哦，原谅我的惊喜。"
 
 # game/farm.rpy#L2548
 translate chinese blossomcowgirl_8c6c8acc:
 
     # honeycrisp "I think uhm, we should talk about the farm…"
-    honeycrisp "I think uhm, we should talk about the farm…"
+    honeycrisp "我觉得吧，额嗯，咱们应该说说这座农场了。"
 
 # game/farm.rpy#L2550
 translate chinese blossomcowgirl_adb311b7:
 
     # anna "That’s why I’m here. I got your letter!"
-    anna "That’s why I’m here. I got your letter!"
+    anna "这就是为什么我在这。我收到了你的信！"
 
 # game/farm.rpy#L2552
 translate chinese blossomcowgirl_377c3647:
 
     # honeycrisp "Letter? I… I didn’t…"
-    honeycrisp "Letter? I… I didn’t…"
+    honeycrisp "什么信？我...我才没..."
 
 # game/farm.rpy#L2553
 translate chinese blossomcowgirl_bea78949:
 
     # anna "Quite a surprise to see how neat the handwriting was considering your injury, I guess [playername] must have written it."
-    anna "Quite a surprise to see how neat the handwriting was considering your injury, I guess [playername] must have written it."
+    anna "说起来挺惊讶的，考虑到伤得那么重还能写出这么好的字，所以我才这一定是[playername]写的。"
 
 # game/farm.rpy#L2554
 translate chinese blossomcowgirl_a327855b:
 
     # mc "That was Blossom’s neat handwriting."
-    mc "That was Blossom’s neat handwriting."
+    mc "Blossom能写的这么好看。"
 
 # game/farm.rpy#L2556
 translate chinese blossomcowgirl_88001ca1:
 
     # anna "Ohh, she wrote the letter? I didn’t even realize."
-    anna "Ohh, she wrote the letter? I didn’t even realize."
+    anna "噢，她写了这封信？我压根就没想到。"
 
 # game/farm.rpy#L2557
 translate chinese blossomcowgirl_efee329e:
 
     # mc "Yeah, Blossom really wanted to help Honey, so we wrote the letter together asking if you’d help."
-    mc "Yeah, Blossom really wanted to help Honey, so we wrote the letter together asking if you’d help."
+    mc "是啊，Blossom真的很想帮Honey，所以我们就一起写了这封信，想问问你能帮帮忙吗。"
 
 # game/farm.rpy#L2559
 translate chinese blossomcowgirl_b0e4d613:
 
     # anna "Aww, that’s so sweet."
-    anna "Aww, that’s so sweet."
+    anna "噢~真是太贴心了。"
 
 # game/farm.rpy#L2561
 translate chinese blossomcowgirl_01e7a0a7:
 
     # honeycrisp "You two did that for me? Y'all are too nice to me…"
-    honeycrisp "You two did that for me? Y'all are too nice to me…"
+    honeycrisp "你俩这么做都是为了我吗？你们对我真的是太好了..."
 
 # game/farm.rpy#L2562
 translate chinese blossomcowgirl_a0da7492:
 
     # "To our surprise, the steadfast Honeycrisp starts tearing up."
-    "To our surprise, the steadfast Honeycrisp starts tearing up."
+    "令我们惊讶的是，一向很坚强的Honeycrisp竟然哭了。"
 
 # game/farm.rpy#L2564
 translate chinese blossomcowgirl_33334a24:
@@ -8666,7 +8666,7 @@ translate chinese blossomcowgirl_33334a24:
 translate chinese blossomcowgirl_1543c276:
 
     # "Anna cuddles Honey, holding her close in a soft fluffy embrace."
-    "Anna cuddles Honey, holding her close in a soft fluffy embrace."
+    "Anna抱住了Honey，把她紧紧地抱在那柔软的怀中。"
 
 # game/farm.rpy#L2572
 translate chinese blossomcowgirl_f4e32d6b:
@@ -8678,19 +8678,19 @@ translate chinese blossomcowgirl_f4e32d6b:
 translate chinese blossomcowgirl_29fc194f:
 
     # anna "Of course we are Hun, everyone here wants the best for you, and you absolutely deserve it."
-    anna "Of course we are Hun, everyone here wants the best for you, and you absolutely deserve it."
+    anna "当然了Hun，这儿的每个人都希望你能得到最好的，这是你应得的。"
 
 # game/farm.rpy#L2575
 translate chinese blossomcowgirl_d1e3484a:
 
     # anna "I received the letter, and I’m incredibly happy to help, I think expanding our relationship would be perfect for our farms."
-    anna "I received the letter, and I’m incredibly happy to help, I think expanding our relationship would be perfect for our farms."
+    anna "我收到了这封信，很高兴能帮上忙，而且我觉得增进我们的关系对于农场来说也是极好的。"
 
 # game/farm.rpy#L2577
 translate chinese blossomcowgirl_7948a9b0:
 
     # honeycrisp "Y-Yeah… I finally admit it, I need help. I’m so tired of trying to do everything by myself."
-    honeycrisp "Y-Yeah… I finally admit it, I need help. I’m so tired of trying to do everything by myself."
+    honeycrisp "行-行吧...我承认吧，我确实需要帮助。靠我自己处理一切我是真的吃不消。"
 
 # game/farm.rpy#L2578
 translate chinese blossomcowgirl_6adaa656:
@@ -8828,61 +8828,61 @@ translate chinese blossomcowgirl_5eea12b5:
 translate chinese blossomcowgirl_31472cae:
 
     # mc "Don't feel guilty, you can make those tears her last, you can make things better for her, right?"
-    mc "Don't feel guilty, you can make those tears her last, you can make things better for her, right?"
+    mc "不必内疚，想哭就哭吧，你可以让她过的更好，对吧？"
 
 # game/farm.rpy#L2618
 translate chinese blossomcowgirl_13fac6ff:
 
     # anna "That’s right, I’m going to strike a business deal with her similar to the milking deal. I’ll send someone to work here, and in the evening, she’ll come back with some produce that covers the cost."
-    anna "That’s right, I’m going to strike a business deal with her similar to the milking deal. I’ll send someone to work here, and in the evening, she’ll come back with some produce that covers the cost."
+    anna "没错，我要像挤奶那样和她做笔生意。我会派人来这工作，晚上，她就会拿等价的农产品过来。"
 
 # game/farm.rpy#L2620
 translate chinese blossomcowgirl_095f6dba:
 
     # anna "It’s a pretty nice deal for both of us since Hun’s farm grows produce that we don’t, I want to try those yummy parsnips."
-    anna "It’s a pretty nice deal for both of us since Hun’s farm grows produce that we don’t, I want to try those yummy parsnips."
+    anna "因为Hun的农场可以产出我们这里没有的东西，所以，这笔买卖对我们来说都有利可图。还有，我也想尝尝其他地方萝卜的味道。"
 
 # game/farm.rpy#L2621
 translate chinese blossomcowgirl_e02ffaf4:
 
     # mc "That’s great news! Ever since I arrived I knew this farm was far too big for just a single person to run it."
-    mc "That’s great news! Ever since I arrived I knew this farm was far too big for just a single person to run it."
+    mc "这消息太棒了！在我第一次来农场的时候，我就感觉这里太大了，只靠一个人经营难度很大。"
 
 # game/farm.rpy#L2623
 translate chinese blossomcowgirl_7cf075d2:
 
     # anna "Exactly! It should be profitable for both of us too, we’re just far enough away from each other to have different customers"
-    anna "Exactly! It should be profitable for both of us too, we’re just far enough away from each other to have different customers"
+    anna "太对了！我们肯定都能赚上一笔，就我们之间的距离已经足够让我们拥有不同的客人了。"
 
 # game/farm.rpy#L2624
 translate chinese blossomcowgirl_922e10e7:
 
     # mc "Well, perfect, especially for an eager businesswoman like yourself."
-    mc "Well, perfect, especially for an eager businesswoman like yourself."
+    mc "啊，确实不错，尤其是对于像你这样如此渴望成功的女商人来说。"
 
 # game/farm.rpy#L2626
 translate chinese blossomcowgirl_6f9c31c6:
 
     # anna "Mhm! I’ve been looking to start a new farm, however it’s hard to fund a venture like that. But if me and Honey start a partnership, we could become big players in the industry. Why stop at two farms, why not three, or four?"
-    anna "Mhm! I’ve been looking to start a new farm, however it’s hard to fund a venture like that. But if me and Honey start a partnership, we could become big players in the industry. Why stop at two farms, why not three, or four?"
+    anna "嗯！我一直有考虑开个新农场，可这种项目我觉得融资就已经很难了。但要是我和Honey展开合作的话，我们一定会在这个行业大放异彩的。就两个农场我感觉可不够，三个或者四个不也挺好吗？"
 
 # game/farm.rpy#L2628
 translate chinese blossomcowgirl_e4099615:
 
     # "Anna’s eyes are practically glowing with passion. I hope she can use that same passion to lift these barrels though."
-    "Anna’s eyes are practically glowing with passion. I hope she can use that same passion to lift these barrels though."
+    "Anna眼中充满了激情。我希望她在弄这些桶子时也能有这股劲。"
 
 # game/farm.rpy#L2629
 translate chinese blossomcowgirl_5138b33a:
 
     # mc "Honey wanted us to deliver these barrels, we couldn’t lift them on our own, do you think you and I can do it?"
-    mc "Honey wanted us to deliver these barrels, we couldn’t lift them on our own, do you think you and I can do it?"
+    mc "Honey想让我我们送这些桶，但我们自己可抬不起来，你觉得咱俩能行吗？"
 
 # game/farm.rpy#L2631
 translate chinese blossomcowgirl_1401d3d5:
 
     # anna "Oohh, barrels? Easy peasy, cutie!"
-    anna "Oohh, barrels? Easy peasy, cutie!"
+    anna "哦哦哦，运桶吗？小菜一碟了，小宝贝！"
 
 # game/farm.rpy#L2632
 translate chinese blossomcowgirl_495a196b:
@@ -8894,31 +8894,31 @@ translate chinese blossomcowgirl_495a196b:
 translate chinese blossomcowgirl_ab2b2f29:
 
     # "We manage to hoist the barrel onto the wagon! It’s much easier with the strength of a cow girl on my side."
-    "We manage to hoist the barrel onto the wagon! It’s much easier with the strength of a cow girl on my side."
+    "我们在设法把这桶吊上篷车！有这么个牛姑娘在身边可就轻松多了。"
 
 # game/farm.rpy#L2635
 translate chinese blossomcowgirl_047e3950:
 
     # anna "I’m surprised Honey managed to fill this many barrels all by herself, that girl must'a been working fifteen hour days."
-    anna "I’m surprised Honey managed to fill this many barrels all by herself, that girl must'a been working fifteen hour days."
+    anna "惊了，Honey一个人就装了这么多桶子，她一天肯定得干将近15个小时吧。"
 
 # game/farm.rpy#L2636
 translate chinese blossomcowgirl_57304c99:
 
     # "We lift the next barrel and plonk it onto the wagon."
-    "We lift the next barrel and plonk it onto the wagon."
+    "我们举起桶子然后重重地放在了篷车上。"
 
 # game/farm.rpy#L2637
 translate chinese blossomcowgirl_23ed1028:
 
     # mc "We’ll need to push this into town, right? How many barrels do you think we could take at once?"
-    mc "We’ll need to push this into town, right? How many barrels do you think we could take at once?"
+    mc "我们得把这玩意送到镇上，对吧？你觉得我们一次能拿多少桶呢？"
 
 # game/farm.rpy#L2639
 translate chinese blossomcowgirl_01917b25:
 
     # anna "I’m thinking… two trips of four?"
-    anna "I’m thinking… two trips of four?"
+    anna "我觉得...要不来个两趟或者四趟？"
 
 # game/farm.rpy#L2641
 translate chinese blossomcowgirl_8bba6b71:
