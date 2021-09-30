@@ -3128,49 +3128,49 @@ translate chinese creamvmissionary_dd6bcf56:
 translate chinese creamvmissionary_f0f67ab3:
 
     # honeycrisp "Ahh, I love your cock... Ever since rut in the barn I've been thinking about this while I masturbate..."
-    honeycrisp "啊，我爱死你肉棒了……自从在谷仓里发情之后，我只要一自慰的就想着你的肉棒…"
+    honeycrisp "啊，我真的爱死你的大肉棒了……自从在谷仓发过情后，我只要一自慰，就会想到你的肉棒……"
 
 # game/bakery.rpy#L979
 translate chinese creamvmissionary_552f7f5b:
 
     # "Her pussy's comfortable tightness squeezes and massages my shaft as I give myself over Honey's dominant riding."
-    "她那舒适且紧绷的小穴挤压着，按摩着我的肉棒，就像我在Honey的主骑乘位下一样。"
+    "当Honey骑在我身上时，我可以感觉到，她那舒适而紧致的小穴正在挤压并按摩着我的肉棒。"
 
 # game/bakery.rpy#L981
 translate chinese creamvmissionary_9a3c958b:
 
     # "Her insides squeeze around my throbbing shaft sending waves of pleasure throughout me, especially as she begins to move her hips up and down."
-    "她的小穴紧紧包裹着我那抽插着的肉棒且传递着快感，尤其是当她开始上下移动臀部的时候。"
+    "她的小穴紧紧包裹着我那颤抖着的肉棒四周，这让我快感十足，尤其是在她开始上下移动臀部时更是如此。"
 
 # game/bakery.rpy#L984
 translate chinese creamvmissionary_9af13131:
 
     # "It's almost like she's purposely contracting her muscles to tighten and squeeze around my cock."
-    "就好像她故意收缩她的肌肉来包围压缩我的肉棒。"
+    "这感觉就好像是她故意在收缩她小穴内壁的肌肉，然后来包裹、挤压着我的肉棒。"
 
 # game/bakery.rpy#L986
 translate chinese creamvmissionary_1301b880:
 
     # "Her muscular body provides a distinct internal tightness that no mare I've been with has been able to replicate."
-    "她肌肉发达的身体提供了一种独特的小穴紧绷感，这是我所见过的任何一位雌驹都无法模仿的。"
+    "因为她身体的肌肉十分发达，所以，这使得她的小穴也具有了一种独特的紧致感。到现在为止，我所见过的任何一匹小马都没有和她一样健硕的身体。"
 
 # game/bakery.rpy#L989
 translate chinese creamvmissionary_0a462e6e:
 
     # honeycrisp "Ehehe, you like that stud? I'm not your average rider."
-    honeycrisp "呵呵，你喜欢那个种马吗?我可不是一般的骑手。"
+    honeycrisp "呃呵呵，你喜欢吗，小帅哥？我的骑乘技术可不一般哦。"
 
 # game/bakery.rpy#L991
 translate chinese creamvmissionary_93ac4268:
 
     # honeycrisp "Mmm, you like it when I squeeze my pussy like that? I can feel your cock throb every time I do it, ehehe..."
-    honeycrisp "你喜欢我像这样摸自己的小穴？我能感觉到你的小兄弟躁动起来了，诶嘿。"
+    honeycrisp "嗯嗯，你喜欢我收缩小穴时的感觉吗？每次我这么做，都能感觉到你的小弟弟在一动一动的呢，嘿嘿嘿……"
 
 # game/bakery.rpy#L996
 translate chinese creamvmissionary_6f92827d:
 
     # "Her hips start to twist and gyrate as she speeds up, the sensations of sex surge through my body, racking it with pleasure."
-    "随着她的加速运动，她的臀部开始转动起来，被长期抑制的快感在我的身体中涌动，愉悦地折磨着我。"
+    "随着她加快了骑乘的速度，她的臀部开始扭动和旋转起来。这种性快感在我的体内涌动着，同时也让我感到了无比的愉悦。"
 
 # game/bakery.rpy#L998
 translate chinese creamvmissionary_36c63ee8:
@@ -3266,13 +3266,13 @@ translate chinese creamvmissionary_2a6f8dac:
 translate chinese creamvmissionary_ff375eb0:
 
     # honeycrisp "Ahh, I-I'm coming! Cum with me [playername], fill up my pussy!"
-    honeycrisp "啊，我-我要来了！向我发射你壮观的大爆射吧[playername]，我已经急不可待了！快点！"
+    honeycrisp "啊，我……我要去了！快和我一起高潮吧，[playername]，快射进我的小穴里吧！"
 
 # game/bakery.rpy#L1038
 translate chinese creamvmissionary_b66e10d0:
 
     # "Honeycrisp bites her lip as she continues to ride me, wanting to enjoy her time on top of me as long as she can before I inevitably cum inside."
-    "Honeycrisp咬着嘴唇继续骑在我身上，我想在不可避免地大爆射之前尽可能地享受她在我身上的时间，也许这是最后一次了……"
+    "Honeycrisp咬着嘴唇，继续骑坐在我的身上。我想，在我射出来前，还是尽可能地去享受她骑在我身上的美好时光吧。"
 
 # game/bakery.rpy#L1040
 translate chinese creamvmissionary_ab5cda37:
@@ -3290,7 +3290,7 @@ translate chinese creamvmissionary_e12dce82:
 translate chinese creamvmissionary_32ae230b:
 
     # "My cock begins to erupt inside her, flooding her pussy and womb with my thick cum."
-    "我的阴茎开始在她体内喷发汁液，用我粘稠的汁液填满她的肚子。"
+    "我的肉棒开始在她的体内爆发，粘稠的精液全部射进了她的小穴和子宫之中。"
 
 # game/bakery.rpy#L1053
 translate chinese creamvmissionary_3c577794:

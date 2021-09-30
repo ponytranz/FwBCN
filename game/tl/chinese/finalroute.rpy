@@ -1970,7 +1970,7 @@ translate chinese cfarm_88e76f4b:
 translate chinese cfarm_201a20d2:
 
     # "Pressure builds in my loins as my climax surges throughout my entire body, releasing a generous amount of thick cum which her pussy greedily accepts."
-    "她的小穴贪婪地吮吸着我迸发出的浓稠精液。我的肉棒感受到了压力，高潮之感贯穿了我的整个身体。"
+    "在她小穴的挤压下，我到了高潮，我全身上下都感受到了它带来的快感。于是，我将大量浓稠的精液全部射进了她那正在贪婪等待着的小穴中。"
 
 # game/finalroute.rpy#L838
 translate chinese cfarm_458ab56d:
@@ -1982,31 +1982,31 @@ translate chinese cfarm_458ab56d:
 translate chinese cfarm_00bae2c4:
 
     # blossom "Ooohh, mmmphhh, s-so good!"
-    blossom "哦~，嗯~，太-太棒了!"
+    blossom "哦~，嗯嗯嗯~，太……太棒了！"
 
 # game/finalroute.rpy#L841
 translate chinese cfarm_765287f5:
 
     # "Recklessly, I pull out as a last few spurts of cum splatter over Blossom’s tummy and I move over to Honeycrisp."
-    "直到最后几滴精液喷涌而出，我嗖的一下，很快呀，就把我的肉棒从Blossom的肚子里抽了出来，然后转向了Honeycrisp。"
+    "我不顾一切地将最后几滴精液全都射到了Blossom的肚子上。然后，我又转向了Honeycrisp。"
 
 # game/finalroute.rpy#L842
 translate chinese cfarm_fc3120f9:
 
     # honeycrisp "Dang stud, y’all crazy today!"
-    honeycrisp "他妈的，一个两个脑子都秀逗了！"
+    honeycrisp "见了鬼了，老兄，今天你是不是疯了！"
 
 # game/finalroute.rpy#L846
 translate chinese cfarm_417b2d9d:
 
     # "Honey’s pussy was already drenched with her lubricative fluids allowing me to sink to the hilt in a single motion."
-    "Honey的小穴里充斥着淫液，这让我只需稍加用力就能将我的肉棒整个插入。"
+    "Honey的小穴里已经充满了滑滑的淫液，这让我只需稍稍用力就能将整根肉棒完全插进去。"
 
 # game/finalroute.rpy#L847
 translate chinese cfarm_47910a8e:
 
     # "Resuming sex at the same intensity as before, Honeycrisp’s back arches and toes curl in response to the immediate spike in pleasure."
-    "我恢复了之前的性爱强度，Honeycrisp被突如其来的快感弄得后背弓起，脚趾蜷缩。"
+    "我将抽插的力度恢复到了开始时的大小。在感受到这种快感之后，Honeycrisp的背立刻弓了起来，脚趾也蜷缩在了一起。"
 
 # game/finalroute.rpy#L848
 translate chinese cfarm_9b6d2375:
@@ -2024,25 +2024,25 @@ translate chinese cfarm_19fb9844:
 translate chinese cfarm_510308d4:
 
     # "Honey fucks a lot more proactively than Blossom did, her hips bucking towards me and clashing with each thrust; making my job a lot easier."
-    "Honey要比Blossom还主动些，我一向内插，她的屁股就往外一顶;这让属实我轻松了不少。"
+    "Honey要比Blossom主动得多。她将自己的臀部对准我，之后高高抬起，然后配合着我的每一次撞击，这真让我省了不少事。"
 
 # game/finalroute.rpy#L851
 translate chinese cfarm_2ad2ed8f:
 
     # "Together we rut, the disgusting lewd squelching sounds are more than enough to make Blossom blush."
-    "咱们高潮的时间不约而同。Blossom发出了撕心裂肺而又淫荡的呻吟，她的脸刷的一下就充满了害羞的潮红。"
+    "我们三个混在一起，彼此缠绵着。那令人有些不适却无比淫荡的啪啪声让Blossom的脸唰地一下变得通红。"
 
 # game/finalroute.rpy#L853
 translate chinese cfarm_7e797283:
 
     # honeycrisp "Haahh, ahhh, don’t hold out on me stud! This is the Queen’s order after all!"
-    honeycrisp "啊哈，啊哈，在我身上干就别扭扭捏捏的，要射就射!这可是女王的命令!"
+    honeycrisp "哈啊，啊啊啊，帅哥，别强忍着了！这…… 这感觉还不赖嘛！"
 
 # game/finalroute.rpy#L854
 translate chinese cfarm_0c8fb3c2:
 
     # "It takes a frustratingly long time to achieve a second orgasm in a row, even with the help of the milk."
-    "即使有牛奶的效果加持，我也花很长时间才让她达到另一轮的高潮。"
+    "即使有牛奶的效果加持，我也花了很长的时间才达到了第二次高潮。"
 
 # game/finalroute.rpy#L855
 translate chinese cfarm_d149b093:
@@ -2054,13 +2054,13 @@ translate chinese cfarm_d149b093:
 translate chinese cfarm_8c0ff7c0:
 
     # "With a few final deep thrusts, an intense orgasmic sensation ascends my loins and fills my body."
-    "在最后几次的深入的抽插后，一种强烈的高潮感从我的下体奔涌而出，随即将我的身体占据。"
+    "在最后几次用力的抽插后，一种强烈的高潮感从我的下体奔涌而出，随即充满了我的全身上下。"
 
 # game/finalroute.rpy#L861
 translate chinese cfarm_9fcea442:
 
     # "Finally, my cock uploads a jet of cum causing Honey to gasp as she feels it enter her. Her pussy convulses into an orgasm, causing her entire body to rack, her breasts jiggling wildly."
-    "最后，我的肉棒迸溅出一股精液，冲向Honey的体内令她发出了一声娇喘。她的小穴抽搐，乳房疯狂地摇晃，整个身体都在展示着高潮的喜悦。"
+    "最后，在Honey感觉到我插入她下体时，一股精液从我的肉棒中迸射而出，这让她突然发出了一声娇喘。随后，她的小穴因为高潮而抽搐起来，整个身体也在颤抖着，同时，她的双峰也在疯狂地摇晃着。"
 
 # game/finalroute.rpy#L868
 translate chinese cfarm_19951469:
