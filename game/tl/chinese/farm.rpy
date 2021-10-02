@@ -4886,7 +4886,7 @@ translate chinese honeyannathreesome_aa6764f4:
 translate chinese honeyannathreesome_84c5d995:
 
     # honeycrisp "Hope you sugarcubes didn’t forget about me, I want you to stick that semen coated cock straight inside me, get to work stud!"
-    honeycrisp "希望你别忘了咱，咱要你把这“刚出炉”的肉棒赶紧插进来，开始工作吧，帅哥！"
+    honeycrisp "希望你别忘了咱，咱要你把这“刚出炉”的肉棒赶紧插进来，开始干活儿吧，帅哥！"
 
 # game/farm.rpy#L1509
 translate chinese honeyannathreesome_1b3269ec:
@@ -6158,85 +6158,85 @@ translate chinese farmvisit2choice1_5198cd41:
 translate chinese farmvisit2choice1_22e07e0a:
 
     # "I sit up on the side of her bed, and Blossom follows my movements so she's sat up next to me."
-    "I sit up on the side of her bed, and Blossom follows my movements so she's sat up next to me."
+    "我坐在Blossom的床边。这时，她也凑了过来，坐到了我身边。"
 
 # game/farm.rpy#L1883
 translate chinese farmvisit2choice1_0e4f52a8:
 
     # "She hugs me, and we cuddle for a while. I can feel her small breasts pressing against my chest, her nipples are hard."
-    "She hugs me, and we cuddle for a while. I can feel her small breasts pressing against my chest, her nipples are hard."
+    "接着，她抱住了我。然后，我们两个就相拥在了一起许久。我能感觉到她的一对小乳正压在我的胸口上，我也感觉到她的乳头有些硬硬的。"
 
 # game/farm.rpy#L1884
 translate chinese farmvisit2choice1_f4bfcdc4:
 
     # "She smells great too, I’ve noticed a lot of mares smell nice, I think I’ve figured out that those are the pheromones."
-    "She smells great too, I’ve noticed a lot of mares smell nice, I think I’ve figured out that those are the pheromones."
+    "她身上的体香也好诱人。我发现，很多小马身上的味道都很不错。我敢说，这一定就是费洛蒙的味道吧。"
 
 # game/farm.rpy#L1886
 translate chinese farmvisit2choice1_11d9715b:
 
     # blossom "Alright, I’ll see you soon [playername]."
-    blossom "Alright, I’ll see you soon [playername]."
+    blossom "好了，咱们很快会再见面的，[playername]。"
 
 # game/farm.rpy#L1887
 translate chinese farmvisit2choice1_578c1b7f:
 
     # mc "Did you want me to leave? "
-    mc "Did you want me to leave? "
+    mc "你是想让我走吗？"
 
 # game/farm.rpy#L1889
 translate chinese farmvisit2choice1_72f78da7:
 
     # blossom "Oh, I thought you were about to leave."
-    blossom "Oh, I thought you were about to leave."
+    blossom "哦，我还以为你要走了呢。"
 
 # game/farm.rpy#L1890
 translate chinese farmvisit2choice1_5e421e13:
 
     # mc "Yeah I was, just teasing you. Still, it feels weird leaving work when it’s so early in the afternoon. I don’t want to keep you. though "
-    mc "Yeah I was, just teasing you. Still, it feels weird leaving work when it’s so early in the afternoon. I don’t want to keep you. though "
+    mc "没错，我确实想走，我逗你玩呢。不过呢，下午就早早下班了让我觉得怪怪的。但我也不想再和你待在一起了。"
 
 # game/farm.rpy#L1892
 translate chinese farmvisit2choice1_154a8c4c:
 
     # blossom "Yeah you should probably leave before I start grinding on you, hehe"
-    blossom "Yeah you should probably leave before I start grinding on you, hehe"
+    blossom "是啊是啊，在我准备蹂躏你之前，你还是赶快走吧，嘻嘻……"
 
 # game/farm.rpy#L1893
 translate chinese farmvisit2choice1_b26e318b:
 
     # mc "Wow, you went from being so shy you couldn’t speak to having no filter at all."
-    mc "Wow, you went from being so shy you couldn’t speak to having no filter at all."
+    mc "哇哦，你已经从以前的一言不发变成现在的无话不说了。"
 
 # game/farm.rpy#L1895
 translate chinese farmvisit2choice1_2a991dbf:
 
     # blossom "Hehe, I don’t get it either, you just have a strange way of making me open up to you."
-    blossom "Hehe, I don’t get it either, you just have a strange way of making me open up to you."
+    blossom "嘿嘿，其实我并没有变。之所以会这样，是因为你好像有某种魔力，然后我就向你敞开心扉了。"
 
 # game/farm.rpy#L1897
 translate chinese farmvisit2choice1_b69b49ae:
 
     # blossom "Strange way of making me open my legs, heh… Was that one too much?"
-    blossom "Strange way of making me open my legs, heh… Was that one too much?"
+    blossom "而且你的魔力还有让我主动张开双腿的功能哦，嘻嘻……我说得是不是太过了？"
 
 # game/farm.rpy#L1898
 translate chinese farmvisit2choice1_6d9280e5:
 
     # mc "I don’t know what to say, I’m too surprised."
-    mc "我真不知道该说什么了，我被你惊到了。"
+    mc "我真不知道该说什么了，我已经被你惊到了。"
 
 # game/farm.rpy#L1900
 translate chinese farmvisit2choice1_cd58b301:
 
     # blossom "Sorry, I’m so horny I’m not exactly thinking straight."
-    blossom "Sorry, I’m so horny I’m not exactly thinking straight."
+    blossom "抱歉，我现在性致太高了，思路都不清晰了。"
 
 # game/farm.rpy#L1901
 translate chinese farmvisit2choice1_c005e90c:
 
     # "That’s my fault for lying in bed with a mare in heat."
-    "That’s my fault for lying in bed with a mare in heat."
+    "我错了，我真不应该和一匹发情的母马上床的。"
 
 # game/farm.rpy#L1903
 translate chinese farmvisit2choice1_313e9675:
@@ -6248,25 +6248,25 @@ translate chinese farmvisit2choice1_313e9675:
 translate chinese farmvisit2choice1_918a9fe7:
 
     # mc "I won’t keep you from it then; I’ll see you very soon."
-    mc "I won’t keep you from it then; I’ll see you very soon."
+    mc "你随意，我不拦着你。回见了。"
 
 # game/farm.rpy#L1905
 translate chinese farmvisit2choice1_b140b87c:
 
     # "I stand up and make my way to her door."
-    "我站起身，然后走到了她的房门前。"
+    "我站起身，然后朝她家房门走去。"
 
 # game/farm.rpy#L1907
 translate chinese farmvisit2choice1_2eb9f59d:
 
     # blossom "I’m going to think about you while I do it."
-    blossom "I’m going to think about you while I do it."
+    blossom "每次自慰的时候，我都会想起你。"
 
 # game/farm.rpy#L1908
 translate chinese farmvisit2choice1_e2483a1c:
 
     # mc "Slowly leaving!"
-    mc "慢点走！"
+    mc "那我等一会儿再走吧！"
 
 # game/farm.rpy#L1910
 translate chinese farmvisit2choice1_8fb38894:
@@ -6278,31 +6278,31 @@ translate chinese farmvisit2choice1_8fb38894:
 translate chinese farmvisit2choice1_991feeae:
 
     # mc "I’m leaving!"
-    mc "那我先走了。"
+    mc "那我还是现在就走吧！"
 
 # game/farm.rpy#L1914
 translate chinese farmvisit2choice1_ab7055b6:
 
     # "I step out of her room and close the door behind me."
-    "I step out of her room and close the door behind me."
+    "接着，我走出了她的房间，然后关上了屋门。"
 
 # game/farm.rpy#L1915
 translate chinese farmvisit2choice1_d0b3fae7:
 
     # "I stay there for a few seconds and listen, I can’t resist."
-    "I stay there for a few seconds and listen, I can’t resist."
+    "门关上后，我趴在门口听了听房间里的动静。可里面传出来的声音却让我把持不住了。"
 
 # game/farm.rpy#L1917
 translate chinese farmvisit2choice1_059ed639:
 
     # blossom "Mm… Mmmm…"
-    blossom "嗯...嗯嗯......"
+    blossom "嗯……嗯嗯……"
 
 # game/farm.rpy#L1918
 translate chinese farmvisit2choice1_83bac1d2:
 
     # "She’s certainly didn’t waste any time; I can hear wet sounds and her moans."
-    "She’s certainly didn’t waste any time; I can hear wet sounds and her moans."
+    "她可真速度，这就开始自慰上了。我在门外可以听到她自慰时小穴发出的噗噗声和她自己的呻吟声。"
 
 # game/farm.rpy#L1919
 translate chinese farmvisit2choice1_98d36dc0:
@@ -6350,13 +6350,13 @@ translate chinese farmvisit2choice1_eceaabe5:
 translate chinese farmvisit2choice1_b83453b1:
 
     # moxie "Hey lazy, time to wake up! I hope you weren’t napping all day! Lazy, lazy!"
-    moxie "Hey lazy, time to wake up! I hope you weren’t napping all day! Lazy, lazy!"
+    moxie "嘿，小懒虫，起床辣！憋再睡大觉辣！懒虫，小懒虫！"
 
 # game/farm.rpy#L1940
 translate chinese farmvisit2choice1_4fd15848:
 
     # mc "*Grumble* Today was exhausting, I was at the farm working really hard."
-    mc "*嘟囔*今天很累，我在农场工作得很辛苦。"
+    mc "*嘟囔*我今天很累，在农场工作得很辛苦。"
 
 # game/farm.rpy#L1942
 translate chinese farmvisit2choice1_d60184d2:
@@ -6380,7 +6380,7 @@ translate chinese farmvisit2choice1_cef50e28:
 translate chinese farmvisit2choice1_3941505e:
 
     # moxie "Ohh, chatting up all those ladies lead to something?"
-    moxie "Ohh, chatting up all those ladies lead to something?"
+    moxie "跟那些女士搭讪有什么结果吗?"
 
 # game/farm.rpy#L1948
 translate chinese farmvisit2choice1_851d493f:
@@ -6410,7 +6410,7 @@ translate chinese farmvisit2choice1_b000dfad:
 translate chinese farmvisit2choice1_8a1b641e:
 
     # moxie "A cow? I’ve seen a few of those, not as many as ponies though."
-    moxie "一头牛？我见过其中的一些，但没有小马那么多。"
+    moxie "一头奶牛？我见过其中的一些，但没有小马那么多。"
 
 # game/farm.rpy#L1955
 translate chinese farmvisit2choice1_f6a9568a:
@@ -6422,19 +6422,19 @@ translate chinese farmvisit2choice1_f6a9568a:
 translate chinese farmvisit2choice1_104b353e:
 
     # moxie "You had a threesome without me? Awh darn, we should invite Riku over again sometime."
-    moxie "You had a threesome without me? Awh darn, we should invite Riku over again sometime."
+    moxie "你们玩3p都不带上我嘛？淦，咱们应该找个时间邀请Riku再过来。"
 
 # game/farm.rpy#L1960
 translate chinese farmvisit2choice1_9a7b08d0:
 
     # moxie "Did you drink the milk? It’s a sex drug, right? Haven’t tried it myself, but I’ve seen it in the market."
-    moxie "你喝牛奶了吗？是性爱药，对吗？我自己还没试过，但我在市场上见过它。"
+    moxie "你喝牛奶了吗？那是性爱药，对吗？我自己还没试过，但我在市场上见过它。"
 
 # game/farm.rpy#L1961
 translate chinese farmvisit2choice1_ecb72ec0:
 
     # mc "It was crazy, the milk let me just keep going even after ejaculating."
-    mc "这太疯狂了，牛奶令我在射精后还能保持挺拔。"
+    mc "效力惊人，那牛奶让我在射精后还能保持挺拔。"
 
 # game/farm.rpy#L1963
 translate chinese farmvisit2choice1_6b3c6b55:
@@ -6452,19 +6452,19 @@ translate chinese farmvisit2choice1_8c4d02ee:
 translate chinese farmvisit2choice1_b946098d:
 
     # mc "The cow girl was called Anna, I’m assuming she was in heat too. Turns out she was there for more than just milking and before I knew it, I had the two girls bending over and begging."
-    mc "The cow girl was called Anna, I’m assuming she was in heat too. Turns out she was there for more than just milking and before I knew it, I had the two girls bending over and begging."
+    mc "那个奶牛姑娘叫Anna，我猜她也在发情。我可是没想到我这奶挤着挤着就变成了两位姑娘的弯腰挤我的“奶”了。"
 
 # game/farm.rpy#L1968
 translate chinese farmvisit2choice1_b30c0868:
 
     # moxie "No progress on the little sister then? I was curious about her; I want to know if she has the same sex drive you say Honeycrisp has."
-    moxie "No progress on the little sister then? I was curious about her; I want to know if she has the same sex drive you say Honeycrisp has."
+    moxie "小妹妹的事没进展吗?我对她很好奇；我想知道她是不是和你说的Honeycrisp，有一样的性冲动。"
 
 # game/farm.rpy#L1969
 translate chinese farmvisit2choice1_027548cf:
 
     # mc "Wow, you’re actually enjoying my sexual adventures, aren’t you?"
-    mc "Wow, you’re actually enjoying my sexual adventures, aren’t you?"
+    mc "喔唔，你真的很享受我的性爱体验，对吧?"
 
 # game/farm.rpy#L1971
 translate chinese farmvisit2choice1_77128526:
@@ -6554,7 +6554,7 @@ translate chinese farmvisit2choice1_c7642785:
 translate chinese farmvisit2choice1_4fd15848_1:
 
     # mc "*Grumble* Today was exhausting, I was at the farm working really hard."
-    mc "*嘟囔*今天很累，我在农场工作得很辛苦。"
+    mc "*嘟囔*我今天很累，在农场工作得很辛苦。"
 
 # game/farm.rpy#L1998
 translate chinese farmvisit2choice1_672fa6b6:
@@ -6632,7 +6632,7 @@ translate chinese farmvisit2choice1_9d000343:
 translate chinese farmvisit2choice1_ecb72ec0_1:
 
     # mc "It was crazy, the milk let me just keep going even after ejaculating."
-    mc "这太疯狂了，那些牛奶令我在射精后还能保持挺拔。"
+    mc "效力惊人，那些牛奶令我在射精后还能保持挺拔。"
 
 # game/farm.rpy#L2016
 translate chinese farmvisit2choice1_9c081ec0:

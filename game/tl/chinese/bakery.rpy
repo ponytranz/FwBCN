@@ -5420,13 +5420,13 @@ translate chinese bakeryvisit2_d531cce6:
 translate chinese bakeryvisit2_16c932a3:
 
     # mc "At least tell me what this room is, is it a magic illusion?"
-    mc "你至少得告诉我这房间究竟是什么，这是个魔法错觉吗？"
+    mc "你至少得告诉我这房间究竟是什么，是种幻术吗？"
 
 # game/bakery.rpy#L1647
 translate chinese bakeryvisit2_3fd8b6c4:
 
     # cream "It’s not really an illusion, it’s more of an interdimensional space…"
-    cream "这不是幻觉，它更像是个异次元空间…"
+    cream "这不是幻术，它更像是个异次元空间…"
 
 # game/bakery.rpy#L1648
 translate chinese bakeryvisit2_49d6ad5b:
@@ -5444,13 +5444,13 @@ translate chinese bakeryvisit2_a852be88:
 translate chinese bakeryvisit2_7bc9fea7:
 
     # mc "I guess I wouldn’t, can unicorns do that?"
-    mc "我想我不会这个，独角兽能做到吗？"
+    mc "我也觉得我无法理解，但是独角兽能做到这样吗？"
 
 # game/bakery.rpy#L1653
 translate chinese bakeryvisit2_f72e28fc:
 
     # cream "I have a skeleton in the bakery closet, I haven’t exactly been honest to you about everything."
-    cream "我有个大秘密，我还没完全跟你说过实话。"
+    cream "我还没完全跟你说过实话，还有就是，我在面包房橱柜里藏了个大秘密呢。"
 
 # game/bakery.rpy#L1654
 translate chinese bakeryvisit2_b2b9e19d:
@@ -5486,7 +5486,7 @@ translate chinese bakeryvisit2_2b8d8b18:
 translate chinese bakeryvisit2_a881923a:
 
     # cream "I’m slowly coming to terms with what I am, but I’m still trying to solve what you are."
-    cream "我正在慢慢接受我是什么，但是我也在试着去弄明白你什么。"
+    cream "我正在慢慢地理解并接受我是什么，但是我仍然在试着去弄明白你是什么。"
 
 # game/bakery.rpy#L1662
 translate chinese bakeryvisit2_149b5340:
@@ -5528,7 +5528,7 @@ translate chinese bakeryvisit2_3206e927:
 translate chinese bakeryvisit2_d154a4cd:
 
     # cream "The hand fits the glove. If I were in your universe, I’d appear human, I’m sure."
-    cream "就像手能适应手套一样，如果我在你们的宇宙里，我会变成人类的模样，我确定。"
+    cream "就像手能适应手套一样，如果我在你们的宇宙里，我确定，我会变成人类的模样。"
 
 # game/bakery.rpy#L1671
 translate chinese bakeryvisit2_d1a6ffe1:
@@ -5570,7 +5570,7 @@ translate chinese bakeryvisit2_c8c30de1:
 translate chinese bakeryvisit2_67e85606:
 
     # "It took me a while to process what happened. It was the curtain, it had been lifted, revealing infinite identical rooms that seem to span onwards into infinity, and there are other ponies in the distance too."
-    "It took me a while to process what happened. It was the curtain, it had been lifted, revealing infinite identical rooms that seem to span onwards into infinity, and there are other ponies in the distance too."
+    "过了好一会儿我才理清发生了什么。一块被揭开了的幕布，显示出无限延伸的相同的房间，似乎，在远处还有其他小马。"
 
 # game/bakery.rpy#L1680
 translate chinese bakeryvisit2_7d010a14:
@@ -5594,7 +5594,7 @@ translate chinese bakeryvisit2_04d5c59a:
 translate chinese bakeryvisit2_2d3ced04:
 
     # "All of assorted colours and pony ‘type’."
-    "All of assorted colours and pony ‘type’."
+    "都是长着一个样子的小马，仅仅是颜色不同。"
 
 # game/bakery.rpy#L1690
 translate chinese bakeryvisit2_8278fb2a:
@@ -5672,7 +5672,7 @@ translate chinese bakeryvisit2_a1107e77:
 translate chinese bakeryvisit2_0276d953:
 
     # mc "So, this was in your bedroom all along, Cream?"
-    mc "这里其实一直都是你的卧室，Cream？"
+    mc "所以，你这卧室里可真是别有洞天呀，是吧，Cream？"
 
 # game/bakery.rpy#L1726
 translate chinese bakeryvisit2_d5bcb679:
@@ -5696,7 +5696,7 @@ translate chinese bakeryvisit2_a63f14cb:
 translate chinese bakeryvisit2_bc41954d:
 
     # cream "Nah, not really. But considering there are infinite of them, yes!"
-    cream "Nah, not really. But considering there are infinite of them, yes!"
+    cream "嗯，不清楚。但考虑到有无数个Cream，所以是的这样的，没错！"
 
 # game/bakery.rpy#L1737
 translate chinese bakeryvisit2_5588723d:
@@ -5732,19 +5732,19 @@ translate chinese bakeryvisit2_ba90e94b:
 translate chinese bakeryvisit2_99269cc7:
 
     # cream "Every single variation of 'Cream', me, is aware of their own existence within a piece of media."
-    cream "Every single variation of 'Cream', me, is aware of their own existence within a piece of media."
+    cream "每一个“Cream”，或者说“我”，都能意识到自己存在于一个游戏中。"
 
 # game/bakery.rpy#L1748
 translate chinese bakeryvisit2_9a5605ee:
 
     # mc "What does that have to do with me? Am I in a piece of media too?"
-    mc "What does that have to do with me? Am I in a piece of media too?"
+    mc "这跟我有什么关系呢？难不成我也身处一个游戏之中？"
 
 # game/bakery.rpy#L1750
 translate chinese bakeryvisit2_6716d38f:
 
     # cream "You're so much more than that [playername], you're the player!"
-    cream "You're so much more than that [playername], you're the player!"
+    cream "你远不止如此，[playername]，你可是这个游戏的玩家呀！"
 
 # game/bakery.rpy#L1751
 translate chinese bakeryvisit2_78050ca5:
@@ -5756,7 +5756,7 @@ translate chinese bakeryvisit2_78050ca5:
 translate chinese bakeryvisit2_3a2d26b8:
 
     # cream "I was assigned to be a sexy party girl in an eroge. Oh, but it was so hard!"
-    cream "我被雇佣在一部色情片中扮演一个性感的派对女郎。但是这实在太难了！"
+    cream "我被派到这个游戏去做一个工口派对女郎。哦，那我太难了呀。"
 
 # game/bakery.rpy#L1754
 translate chinese bakeryvisit2_d77e3a86:
@@ -5768,25 +5768,25 @@ translate chinese bakeryvisit2_d77e3a86:
 translate chinese bakeryvisit2_27fff1e2:
 
     # cream "Hmm, someone powerful like you put me up to this, it's scary to think there are creatures out there in other universes or dimensions that are so strong."
-    cream "Hmm, someone powerful like you put me up to this, it's scary to think there are creatures out there in other universes or dimensions that are so strong."
+    cream "唔...是一个和你一样强大的人指派我来做这件事的，一想到那些手眼通天的存在在其他宇宙和纬度，我就觉得可怕。"
 
 # game/bakery.rpy#L1757
 translate chinese bakeryvisit2_ee15c241:
 
     # cream "Creatures that have higher dimensionality than me, I guess I'm only two dimensional? Kinda sucks!"
-    cream "Creatures that have higher dimensionality than me, I guess I'm only two dimensional? Kinda sucks!"
+    cream "比我更高维度的生物...那我说不定只有二维咯？太逊了啦！"
 
 # game/bakery.rpy#L1758
 translate chinese bakeryvisit2_13d77358:
 
     # mc "No way... It's all starting to make sense now..."
-    mc "No way... It's all starting to make sense now..."
+    mc "卧槽…现在这一切都说得通了…"
 
 # game/bakery.rpy#L1760
 translate chinese bakeryvisit2_50225344:
 
     # cream "What I want to know, is did I do a decent job as a sexy eroge character, [playername]?"
-    cream "What I want to know, is did I do a decent job as a sexy eroge character, [playername]?"
+    cream "我想知道的是，作为一个工口角色，我表现得还行吗，[playername]?"
 
 # game/bakery.rpy#L1764
 translate chinese bakeryvisit2_4a42e8c9:
@@ -5798,7 +5798,7 @@ translate chinese bakeryvisit2_4a42e8c9:
 translate chinese bakeryvisit2_f3a43019:
 
     # cream "Darn, I knew they should have sent Cockslayer Carrot, but some people thought that was over the top."
-    cream "Darn, I knew they should have sent Cockslayer Carrot, but some people thought that was over the top."
+    cream "淦，我就知应该派Cockslayer Carrot来的，但有些人觉得那是大材小用。"
 
 # game/bakery.rpy#L1769
 translate chinese bakeryvisit2_eac54dd9:
@@ -5828,19 +5828,19 @@ translate chinese bakeryvisit2_23996243:
 translate chinese bakeryvisit2_2e197217:
 
     # mc "Also, did you say eroge? You’re an eroge character?"
-    mc "Also, did you say eroge? You’re an eroge character?"
+    mc "还有，你说工口，你扮演的是一个工口角色？"
 
 # game/bakery.rpy#L1777
 translate chinese bakeryvisit2_bd8efe9d:
 
     # cream "Only when someone wants to play with me, hehe."
-    cream "Only when someone wants to play with me, hehe."
+    cream "只有一个巴掌是拍不响哟，嘿嘿。"
 
 # game/bakery.rpy#L1778
 translate chinese bakeryvisit2_783d25e8:
 
     # mc "So, I’m an eroge character?"
-    mc "所以我是一个色情角色？"
+    mc "所以我是一个工口角色？"
 
 # game/bakery.rpy#L1779
 translate chinese bakeryvisit2_4148ba90:
@@ -6332,7 +6332,7 @@ translate chinese creamgangbang_b47ded13:
 translate chinese creamgangbang_f7526fc9:
 
     # blue "Us? It was you that pushed him too far!"
-    blue "我们？是你把他推那么远的！"
+    blue "我们？就你一个干得最起劲儿！"
 
 # game/bakery.rpy#L1928
 translate chinese creamgangbang_e4ff3e11:
@@ -6356,43 +6356,43 @@ translate chinese creamgangbang_2b052364:
 translate chinese creamgangbang_4e732824:
 
     # "I can feel reality warping and bending again as my surroundings melt away."
-    "I can feel reality warping and bending again as my surroundings melt away."
+    "四周的环境再一次变得虚幻，我能感觉到现实正在扭曲与融化。"
 
 # game/bakery.rpy#L1938
 translate chinese creamgangbang_5e61715d:
 
     # "The world turns dark, and just as I assume we’re about to return to the bakery, we don’t."
-    "The world turns dark, and just as I assume we’re about to return to the bakery, we don’t."
+    "世界变得漆黑一片，我本以为我们马上就要回面包房了，但是我们并没有。"
 
 # game/bakery.rpy#L1939
 translate chinese creamgangbang_b873a9eb:
 
     # "The world remains dark and the soft warmness of four ponies around me dissolves into just one, Cream."
-    "The world remains dark and the soft warmness of four ponies around me dissolves into just one, Cream."
+    "世界仍旧漆黑，而我感受着周围的4匹小马的温暖逐渐汇聚到Cream一马之上。"
 
 # game/bakery.rpy#L1941
 translate chinese creamgangbang_3a276498:
 
     # "I sit up and look around, my body comfortably pursed on the softest sands imaginable. Above me is a black sky, below me is a black sea."
-    "I sit up and look around, my body comfortably pursed on the softest sands imaginable. Above me is a black sky, below me is a black sea."
+    "我席地而坐，看向四周，我的身体感受着沙滩的梦幻柔软。吾之上乃玄黑之夜空，吾之下乃幽暗之海水。"
 
 # game/bakery.rpy#L1942
 translate chinese creamgangbang_c1f15718:
 
     # "Despite this, I feel calm, it reminds me of when me and Cream looked up at the stars in Arcadia."
-    "Despite this, I feel calm, it reminds me of when me and Cream looked up at the stars in Arcadia."
+    "另外，我感到宁静，这让我回忆起和Cream一起在Arcadia看星星的时光。"
 
 # game/bakery.rpy#L1943
 translate chinese creamgangbang_27d0cc61:
 
     # mc "Another illusion?"
-    mc "这是另一种幻觉吗？"
+    mc "这是另一种幻术吗？"
 
 # game/bakery.rpy#L1947
 translate chinese creamgangbang_8470fb5e:
 
     # cream "This is the edge of my reality, it’s what I see when I sleep."
-    cream "This is the edge of my reality, it’s what I see when I sleep."
+    cream "这里是我现实的边缘，每次睡觉我都会看到这些。"
 
 # game/bakery.rpy#L1948
 translate chinese creamgangbang_a8a93ac6:
@@ -6404,13 +6404,13 @@ translate chinese creamgangbang_a8a93ac6:
 translate chinese creamgangbang_aaa09d79:
 
     # cream "Yeah, when you turn off the game, everyone returns to their own personal void. However, everyone else sleeps during this process."
-    cream "Yeah, when you turn off the game, everyone returns to their own personal void. However, everyone else sleeps during this process."
+    cream "是的，当你关闭游戏的时候，所有马都会回到自己的空间里，但除了我之外，其它马都只会在这个阶段睡觉。"
 
 # game/bakery.rpy#L1951
 translate chinese creamgangbang_fc861c34:
 
     # cream "I like to imagine the sound of calming waves, floating on the water."
-    cream "I like to imagine the sound of calming waves, floating on the water."
+    cream "我喜欢想象水波荡漾在水面上的声音。"
 
 # game/bakery.rpy#L1953
 translate chinese creamgangbang_7bebd320:
@@ -6452,19 +6452,19 @@ translate chinese creamgangbang_b5bc5db9:
 translate chinese creamgangbang_3f86a46d:
 
     # "I lay back on the sand and it does indeed feel as soft as bed sheets, the sound of waves crashing into the sand eases all the tension in my body."
-    "I lay back on the sand and it does indeed feel as soft as bed sheets, the sound of waves crashing into the sand eases all the tension in my body."
+    "我躺在沙滩上，就跟躺在席梦思一样舒服。海浪不断拍打在沙子上的声音拂去了我身体的紧张。"
 
 # game/bakery.rpy#L1964
 translate chinese creamgangbang_ba1ed2a1:
 
     # mc "Now I get it, all the ramblings and conversations we had... You were talking about yourself the entire time..."
-    mc "Now I get it, all the ramblings and conversations we had... You were talking about yourself the entire time..."
+    mc "我现在算是明白了，其实在我们所有的讨论和闲谈中...你都是在谈论你自己吧..."
 
 # game/bakery.rpy#L1965
 translate chinese creamgangbang_9b8735be:
 
     # mc "Is there anything I can do? Surely there's a better way."
-    mc "Is there anything I can do? Surely there's a better way."
+    mc "我能帮你些什么吗？肯定有更好的办法。"
 
 # game/bakery.rpy#L1968
 translate chinese creamgangbang_0e18e481:
@@ -7886,7 +7886,7 @@ translate chinese creamlingeriesex_5d094a88:
 translate chinese creamlingeriesex_f404253c:
 
     # mc "I hope you didn’t give me a hickey!"
-    mc "希望你没在我脖子上种草莓。"
+    mc "I hope you didn’t give me a hickey!"
 
 # game/bakery.rpy#L2409
 translate chinese creamlingeriesex_ef73422b:
