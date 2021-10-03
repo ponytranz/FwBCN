@@ -14,7 +14,7 @@ translate chinese strings:
 
     # renpy/common/00accessibility.rpy_L32_0
     old "bar"
-    new "酒馆"
+    new "酒吧"
 
     # renpy/common/00accessibility.rpy_L33_0
     old "selected"

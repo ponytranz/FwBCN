@@ -47,14 +47,14 @@
   {
     "id": 79443324,
     "createdAt": "2021-05-30T19:47:47.000Z",
-    "updatedAt": "2021-09-21T21:32:11.000Z",
+    "updatedAt": "2021-10-02T19:07:18.000Z",
     "key": "renpy/common/00accessibility.rpy_L32_0",
     "original": "bar",
-    "translation": "酒馆",
+    "translation": "酒吧",
     "file": 272379,
     "stage": 1,
     "project": 2414,
-    "uid": null,
+    "uid": 22440,
     "extra": null,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00accessibility.rpy#L32",
     "words": 1
