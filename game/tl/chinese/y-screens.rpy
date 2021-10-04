@@ -456,7 +456,7 @@ translate chinese strings:
 
     # game/y-screens.rpy_L1774_0
     old "{color=#00000000}I should work at the bakery.{/color}"
-    new "{color=#00000000}我应该去烘焙店工作。{/color}"
+    new "{color=#00000000}我应该去烘焙坊工作。{/color}"
 
     # game/y-screens.rpy_L1783_0
     old "{color=#00000000}Complete Butters' Route.{/color}"

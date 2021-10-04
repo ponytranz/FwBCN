@@ -4994,7 +4994,7 @@ translate chinese honeyannathreesome_218d74e1:
 translate chinese honeyannathreesome_e70c52d9:
 
     # "As my hand connected, I could feel her insides briefly squeeze around my cock."
-    "在手和臀部相接之时，我能感到她的小穴猛烈地挤压着我的肉棒。"
+    "我击打着她的屁屁，她的蜜穴内壁挤压着我的肉棒。"
 
 # game/farm.rpy#L1532
 translate chinese honeyannathreesome_0c1dfe52:
@@ -10952,7 +10952,7 @@ translate chinese blossomtalk_bbb66721:
 translate chinese blossomtalk_829e08c8:
 
     # mc "Well, there's always Cream at the bakery."
-    mc "呃，烘焙店的Cream厨艺也很不错的。"
+    mc "呃，烘焙坊的Cream厨艺也很不错的。"
 
 # game/farm.rpy#L3285
 translate chinese blossomtalk_c5ec56b2:
@@ -11786,7 +11786,7 @@ translate chinese annamilkingevent_17aeb522:
 translate chinese annamilkingevent_37063407:
 
     # "This time I use my other hand, with a raise and a return, I smack Honey’s other ass cheek creating a satisfying slapping sound, even against her soft fur."
-    "This time I use my other hand, with a raise and a return, I smack Honey’s other ass cheek creating a satisfying slapping sound, even against her soft fur."
+    "我用另一只手拍她。抬起，又“啪”的一声落下，我爱死这声音了，拍在她毛茸茸小屁屁上的感觉可真是令人愉悦！"
 
 # game/farm.rpy#L3601
 translate chinese annamilkingevent_91fd7a39:

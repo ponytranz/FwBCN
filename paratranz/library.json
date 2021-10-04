@@ -5357,14 +5357,14 @@
   {
     "id": 79439924,
     "createdAt": "2021-05-30T17:55:41.000Z",
-    "updatedAt": "2021-09-21T21:32:29.000Z",
+    "updatedAt": "2021-10-03T02:38:11.000Z",
     "key": "lilytj_949d6f58",
     "original": "It was just… Such a heated in-the-moment decision, I just…",
-    "translation": "这只是…这样一个激烈的决定，我只是…",
+    "translation": "这只是…这样一个冲动的决定，我只是…",
     "file": 272350,
     "stage": 1,
     "project": 2414,
-    "uid": null,
+    "uid": 22440,
     "extra": null,
     "context": "说话人: lily \n代码: https://github.com/ponytranz/FwBCN/blob/empty/game/library.rpy#L646",
     "words": 10

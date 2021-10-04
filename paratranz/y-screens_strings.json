@@ -1547,14 +1547,14 @@
   {
     "id": 85228954,
     "createdAt": "2021-07-03T10:30:42.000Z",
-    "updatedAt": "2021-09-21T21:32:34.000Z",
+    "updatedAt": "2021-10-03T04:10:39.000Z",
     "key": "game/y-screens.rpy_L1774_0",
     "original": "{color=#00000000}I should work at the bakery.{/color}",
-    "translation": "{color=#00000000}我应该去烘焙店工作。{/color}",
+    "translation": "{color=#00000000}我应该去烘焙坊工作。{/color}",
     "file": 272389,
     "stage": 1,
     "project": 2414,
-    "uid": null,
+    "uid": 22440,
     "extra": null,
     "context": "代码: https://github.com/ponytranz/FwBCN/blob/empty/game/y-screens.rpy#L1774",
     "words": 6

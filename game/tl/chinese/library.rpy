@@ -2144,7 +2144,7 @@ translate chinese lilytj_329f609e:
 translate chinese lilytj_949d6f58:
 
     # lily "It was just… Such a heated in-the-moment decision, I just…"
-    lily "这只是…这样一个激烈的决定，我只是…"
+    lily "这只是…这样一个冲动的决定，我只是…"
 
 # game/library.rpy#L648
 translate chinese lilytj_5f52ac06:

@@ -2018,7 +2018,7 @@ translate chinese auroravsex_74df58bb:
 translate chinese auroravsex_228f900a:
 
     # mc "Oh yeah, I just worked and partied with Cream. I don't even think I was that helpful at the bakery, but she enjoyed my company."
-    mc "是的，我也不过是和奶油一起工作和狂欢。我不认为我在烘焙店帮了多大忙，但她很喜欢我的陪伴。"
+    mc "是的，我也不过是和奶油一起工作和狂欢。我不认为我在烘焙坊帮了多大忙，但她很喜欢我的陪伴。"
 
 # game/castle.rpy#L600
 translate chinese auroravsex_e2357590:

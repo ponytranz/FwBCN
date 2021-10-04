@@ -1892,7 +1892,7 @@ translate chinese giftshop_4b888627:
 translate chinese giftshop_8b0ef798:
 
     # cream "Yeah, I thought it’d be a good idea to have a quick and easy alternative than coming in to the bakery. It’s like a drive through!"
-    cream "是的，我认为这是个好主意，能有一个快速而简便的选择比绕远路去烘焙店方便多了，跟坐火箭似的！"
+    cream "是的，我认为这是个好主意，能有一个快速而简便的选择比绕远路去烘焙坊方便多了，跟坐火箭似的！"
 
 # game/3map.rpy#L668
 translate chinese giftshop_a15a3711:
@@ -1910,7 +1910,7 @@ translate chinese giftshop_58300973:
 translate chinese giftshop_35c694b2:
 
     # cream "No problemo! I’m going to open up the bakery now, I’ll see you two beauties later."
-    cream "真不错!我现在要去开张烘焙店了，两位美女待会儿见。"
+    cream "真不错!我现在要去开张烘焙坊了，两位美女待会儿见。"
 
 # game/3map.rpy#L671
 translate chinese giftshop_16a73af2:
@@ -2186,7 +2186,7 @@ translate chinese postcindytalkmenu1_7e2cb898:
 translate chinese postcindytalkmenu1_cca99458:
 
     # "And while I keep my thoughts to myself, selling muffins can’t be easy with such an amazing bakery seconds away."
-    "虽然我不愿透露自己的想法，但在这儿卖玛芬可不是件容易事，因为有家很棒的烘焙店就在附近。"
+    "虽然我不愿透露自己的想法，但在这儿卖玛芬可不是件容易事，因为有家很棒的烘焙坊就在附近。"
 
 # game/3map.rpy#L808
 translate chinese postcindytalkmenu1_dc20341c:
@@ -3728,7 +3728,7 @@ translate chinese cindylum_e0e35db2:
 translate chinese cindylum_24d48c52:
 
     # mc "Why don’t you ask Cream to help you? She's the mare that owns the bakery, and she's interested in expanding. Maybe you could be a subsidiser that sells her product, or at least work a deal out so you can use her kitchen."
-    mc "你为什么不让Cream帮你呢?她是烘焙店的老板，最近想扩大规模。也许你可以让她付你工钱，帮她卖产品，或者至少达成个什么协议，用用她的厨房。"
+    mc "你为什么不让Cream帮你呢?她是烘焙坊的老板，最近想扩大规模。也许你可以让她付你工钱，帮她卖产品，或者至少达成个什么协议，用用她的厨房。"
 
 # game/3map.rpy#L1279
 translate chinese cindylum_1d8458cc:
@@ -5362,11 +5362,11 @@ translate chinese strings:
 
     # game/3map.rpy_L1359_0
     old "Cream's bakery"
-    new "Cream的烘焙店"
+    new "Cream的烘焙坊"
 
     # game/3map.rpy_L1359_1
     old "Visit the bakery"
-    new "去烘焙店"
+    new "去烘焙坊"
 
     # game/3map.rpy_L1390_0
     old "Butters' home"

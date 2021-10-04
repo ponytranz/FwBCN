@@ -2,13 +2,13 @@
 translate chinese bakeryvisit1_2f4adbe4:
 
     # "The bakery will be fun to work at, if I’m lucky I might be able to lick the spoons! Actually, that’s a terrible idea, this is a professional establishment, not my grandma’s kitchen."
-    "在烘焙店工作会很有趣的，要是我运气好的话，可能还会有机会舔舔勺子！事实上，这主意很糟，这是个专业的设施，可不是我奶奶的厨房。"
+    "在烘焙坊工作会很有趣的，要是我运气好的话，可能还会有机会舔舔勺子！事实上，这主意很糟，这是个专业的设施，可不是我奶奶的厨房。"
 
 # game/bakery.rpy#L16
 translate chinese bakeryvisit1_eb1421a6:
 
     # "When I arrive at the bakery I move to give the door a knock but it immediately bursts open!"
-    "当我到达烘焙店的时候，我本来是要敲门的，没想到门一下子就冲开了！"
+    "当我到达烘焙坊的时候，我本来是要敲门的，没想到门一下子就冲开了！"
 
 # game/bakery.rpy#L19
 translate chinese bakeryvisit1_c8098308:
@@ -236,7 +236,7 @@ translate chinese bakeryvisit1_8265d7e9:
 translate chinese bakeryvisit1_f41ec9b1:
 
     # mc "You must be confused, Penelope sent me here to work at the bakery, I’m not some kind of sex worker."
-    mc "你肯定是搞混了，Penelope是为了让我工作才派我来烘焙店的，我干的可不是什么性工作。"
+    mc "你肯定是搞混了，Penelope是为了让我工作才派我来烘焙坊的，我干的可不是什么性工作。"
 
 # game/bakery.rpy#L76
 translate chinese bakeryvisit1_ade39bbf:
@@ -326,7 +326,7 @@ translate chinese bakeryvisit1_22f07b7c:
 translate chinese bakeryvisit1_337b0010:
 
     # cream "It’s not easy running such a great bakery by myself! Watch and learn..."
-    cream "我一个人经营这么一家烘焙店可不是件容易事！好好学着点……"
+    cream "我一个人经营这么一家烘焙坊可不是件容易事！好好学着点……"
 
 # game/bakery.rpy#L97
 translate chinese bakeryvisit1_6d65144f:
@@ -986,7 +986,7 @@ translate chinese creamquickie_b5b1c6cd:
 translate chinese creamquickie_d15f4c3f:
 
     # "We spend the rest of the day sorting out the bakery, selling cakes, and baking more. As the sun starts to set, Cream and I start to close up the shop and talk about the party she wants to have tonight."
-    "当天的晚些时候，我们打扫整理了烘焙店，同时又卖了不少糕点，也做了很多糕点。太阳要落山的时候，我和Cream锁上店门，然后和她聊了聊今晚聚会的事。"
+    "当天的晚些时候，我们打扫整理了烘焙坊，同时又卖了不少糕点，也做了很多糕点。太阳要落山的时候，我和Cream锁上店门，然后和她聊了聊今晚聚会的事。"
 
 # game/bakery.rpy#L299
 translate chinese creamquickie_d6a5f11a:
@@ -1064,7 +1064,7 @@ translate chinese creamquickie_2104c3f9:
 translate chinese creamquickie_55bdf770:
 
     # cream "Well, let's begin transforming this bakery!"
-    cream "好了，咱们让这间烘焙店来个大变样吧！"
+    cream "好了，咱们让这间烘焙坊来个大变样吧！"
 
 # game/bakery.rpy#L323
 translate chinese creamquickie_f8966219:
@@ -1124,7 +1124,7 @@ translate chinese creamquickie_0856bbd0:
 translate chinese creamquickie_3506af29:
 
     # mc "Still, the bakery has gotten hot and stuff, I could use some fresh air."
-    mc "面包房里可真热啊，我想呼吸点新鲜空气了。"
+    mc "烘焙坊里可真热啊，我想呼吸点新鲜空气了。"
 
 # game/bakery.rpy#L339
 translate chinese creamquickie_facbfd10:
@@ -4184,13 +4184,13 @@ translate chinese creamvmissionary_eccc4859:
 translate chinese creamvmissionary_0426f14a:
 
     # moxie "Bakery eh? Who were you working with? I thought it was closed."
-    moxie "你是在面包房上班吗？你又是和谁一起工作呀？面包房好像都关门了。"
+    moxie "你是在烘焙坊上班吗？你又是和谁一起工作呀？烘焙坊好像都关门了。"
 
 # game/bakery.rpy#L1348
 translate chinese creamvmissionary_9cce50bb:
 
     # mc "It would have been really boring if Cream wasn’t hilarious company."
-    mc "如果没有Cream活跃气氛的话，那在面包房工作就太无聊了。"
+    mc "如果没有Cream活跃气氛的话，那在烘焙坊工作就太无聊了。"
 
 # game/bakery.rpy#L1349
 translate chinese creamvmissionary_b0781353:
@@ -4232,7 +4232,7 @@ translate chinese creamvmissionary_88093050:
 translate chinese creamvmissionary_a4d996d3:
 
     # moxie "If she works at the bakery, she’s probably seen me in passing."
-    moxie "如果她是在面包房工作的话，就有可能见过我。"
+    moxie "如果她是在烘焙坊工作的话，就有可能见过我。"
 
 # game/bakery.rpy#L1356
 translate chinese creamvmissionary_56aa37b0:
@@ -4316,19 +4316,19 @@ translate chinese creamvmissionary_ce617998_1:
 translate chinese bakeryvisit2_d09c278f:
 
     # "Time to return to the bakery, and see what I can cook up with Cream."
-    "该回面包房了，顺便看看Cream需不需要我帮忙。"
+    "该回烘焙坊了，顺便看看Cream需不需要我帮忙。"
 
 # game/bakery.rpy#L1372
 translate chinese bakeryvisit2_3a4f1a5e:
 
     # "I make my way to the front door of the bakery."
-    "我来到了面包房的正门。"
+    "我来到了烘焙坊的正门。"
 
 # game/bakery.rpy#L1373
 translate chinese bakeryvisit2_17479c9e:
 
     # "Despite the fact it’s nearly 8:30am, the establishment still seems completely closed, shouldn't she be in the kitchen right now?"
-    "现在已经是早上八点半了，可面包房却还没开门。她是不是正在厨房呢？"
+    "现在已经是早上八点半了，可烘焙坊却还没开门。她是不是正在厨房呢？"
 
 # game/bakery.rpy#L1374
 translate chinese bakeryvisit2_c54c3a01:
@@ -4376,7 +4376,7 @@ translate chinese bakeryvisit2_01627207:
 translate chinese bakeryvisit2_bc544baf:
 
     # "I step into the dark bakery, it feels despairingly empty compared to how bright and cheerful the party was."
-    "我走进了昏暗的面包房。相比于之前开派对时明亮而欢快的情景，现在的面包房却显得空荡荡的。"
+    "我走进了昏暗的烘焙坊。相比于之前开派对时明亮而欢快的情景，现在的烘焙坊却显得空荡荡的。"
 
 # game/bakery.rpy#L1386
 translate chinese bakeryvisit2_eeaf36f8:
@@ -4412,7 +4412,7 @@ translate chinese bakeryvisit2_665002be:
 translate chinese bakeryvisit2_1be02b9e:
 
     # mc "Hey, Cream, this place feels closed, I thought you were supposed to start running the shop now?"
-    mc "嘿，Cream，面包房好像还没开门吧。我以为你已经开始营业了。"
+    mc "嘿，Cream，烘焙坊好像还没开门吧。我以为你已经开始营业了。"
 
 # game/bakery.rpy#L1396
 translate chinese bakeryvisit2_fc5de36c:
@@ -5432,7 +5432,7 @@ translate chinese bakeryvisit2_3fd8b6c4:
 translate chinese bakeryvisit2_49d6ad5b:
 
     # mc "And why is there an interdimensional space in the bakery?"
-    mc "那为什么蛋糕店里会有异次元空间呢？"
+    mc "那为什么烘焙坊里会有异次元空间呢？"
 
 # game/bakery.rpy#L1650
 translate chinese bakeryvisit2_a852be88:
@@ -5450,7 +5450,7 @@ translate chinese bakeryvisit2_7bc9fea7:
 translate chinese bakeryvisit2_f72e28fc:
 
     # cream "I have a skeleton in the bakery closet, I haven’t exactly been honest to you about everything."
-    cream "我还没完全跟你说过实话，还有就是，我在面包房橱柜里藏了个大秘密呢。"
+    cream "我还没完全跟你说过实话，还有就是，我在烘焙坊橱柜里藏了个大秘密呢。"
 
 # game/bakery.rpy#L1654
 translate chinese bakeryvisit2_b2b9e19d:
@@ -6362,7 +6362,7 @@ translate chinese creamgangbang_4e732824:
 translate chinese creamgangbang_5e61715d:
 
     # "The world turns dark, and just as I assume we’re about to return to the bakery, we don’t."
-    "世界变得漆黑一片，我本以为我们马上就要回面包房了，但是我们并没有。"
+    "世界变得漆黑一片，我本以为我们马上就要回烘焙坊了，但是我们并没有。"
 
 # game/bakery.rpy#L1939
 translate chinese creamgangbang_b873a9eb:
@@ -6422,7 +6422,7 @@ translate chinese creamgangbang_7bebd320:
 translate chinese creamgangbang_945c9bb2:
 
     # cream "No, you’re still in the bakery."
-    cream "没错，你还在面包房呢。"
+    cream "没错，你还在烘焙坊呢。"
 
 # game/bakery.rpy#L1956
 translate chinese creamgangbang_138883c6:
@@ -6686,13 +6686,13 @@ translate chinese creamgangbang_cec3c57e:
 translate chinese creamgangbang_d09c278f:
 
     # "Time to return to the bakery, and see what I can cook up with Cream."
-    "该回面包房了，顺便看看能不能帮Cream一些忙。"
+    "该回烘焙坊了，顺便看看Cream需不需要我帮忙。"
 
 # game/bakery.rpy#L2025
 translate chinese creamgangbang_3a4f1a5e:
 
     # "I make my way to the front door of the bakery."
-    "我来到了面包房的正门。"
+    "我来到了烘焙坊的正门。"
 
 # game/bakery.rpy#L2026
 translate chinese creamgangbang_73e58676:
@@ -6848,13 +6848,13 @@ translate chinese bakerydaymenu_aded7c85:
 translate chinese bakerydaymenu_1b67ff9c:
 
     # mc "How did you end up becoming a baker, and owning such an amazing bakery?"
-    mc "你后来是怎么样才成为糕点师的，而且是怎么得到这么一家不错的面包房的？"
+    mc "你后来是怎么样才成为糕点师的，而且又是怎么得到这么一家不错的烘焙坊的？"
 
 # game/bakery.rpy#L2087
 translate chinese bakerydaymenu_c2c9a2d8:
 
     # cream "I've been working in bakeries all my life, ever since I was a young filly I'd love baking with my grandma."
-    cream "我一直都在面包房工作啊。我从小时候开始就特别喜欢和奶奶一起做糕点。"
+    cream "我一直都在烘焙坊工作啊。我从小时候开始就特别喜欢和奶奶一起做糕点。"
 
 # game/bakery.rpy#L2089
 translate chinese bakerydaymenu_465b9568:
@@ -6872,7 +6872,7 @@ translate chinese bakerydaymenu_d2ce4cae:
 translate chinese bakerydaymenu_85a7ffdb:
 
     # cream "Mhm! So I stopped working with others, and decided to run my own bakery instead! I took out a loan and bought my own place!"
-    cream "嗯！所以，我才决定开一家属于自己的面包房！之后，我就不再和其他人一起做事了。后来，我贷款买下了这里！"
+    cream "嗯！所以，我才决定开一家属于自己的烘焙坊！之后，我就不再和其他人一起做事了。后来，我靠贷款买下了这里！"
 
 # game/bakery.rpy#L2093
 translate chinese bakerydaymenu_13e2d6f0:
@@ -6884,7 +6884,7 @@ translate chinese bakerydaymenu_13e2d6f0:
 translate chinese bakerydaymenu_7c107389:
 
     # cream "Yup! I spent ages doing research! That's why I bought the bakery here, since there were no other bakerys in the suburbs, business has been smooth sailing ever since, easy peasy!"
-    cream "当然算了！我可是花了相当长的时间来做研究和调查的！因为城郊这里没有一家面包房，所以我才会在这儿开店的。之后的生意自然相当不错。这简直是小菜一碟！"
+    cream "当然算了！我可是花了相当长的时间来做研究和调查的！因为城郊这里没有一家烘焙坊，所以我才会在这儿开店的。之后的生意自然相当不错。这简直是小菜一碟！"
 
 # game/bakery.rpy#L2096
 translate chinese bakerydaymenu_be1f51f5:
@@ -6968,7 +6968,7 @@ translate chinese bakerydaymenu_71f1857f:
 translate chinese bakerydaymenu_39952c3f:
 
     # "The sweet aroma of love sifts through the air, whilst her moans reverberate against the wooden walls of the bakery; my senses are almost overwhelmed."
-    "爱欲甜腻的气味弥漫在空气当中，她的娇喘声也回荡在面包房的四壁周围。我的所有感官几乎都要麻木了。"
+    "爱欲甜腻的气味弥漫在空气当中，她的娇喘声也回荡在烘焙坊的四壁周围。我的所有感官几乎都要麻木了。"
 
 # game/bakery.rpy#L2126
 translate chinese bakerydaymenu_32f28c9c:
@@ -7106,13 +7106,13 @@ translate chinese bakeryeveningmenu_aded7c85:
 translate chinese bakeryeveningmenu_1b67ff9c:
 
     # mc "How did you end up becoming a baker, and owning such an amazing bakery?"
-    mc "你后来是怎么样才成为糕点师的，而且又是怎么得到这么一家不错的面包房的？"
+    mc "你后来是怎么样才成为糕点师的，而且又是怎么得到这么一家不错的烘焙坊的？"
 
 # game/bakery.rpy#L2184
 translate chinese bakeryeveningmenu_c2c9a2d8:
 
     # cream "I've been working in bakeries all my life, ever since I was a young filly I'd love baking with my grandma."
-    cream "我一直都在面包房工作啊。我从小时候开始就特别喜欢和奶奶一起做糕点。"
+    cream "我一直都在烘焙坊工作啊。我从小时候开始就特别喜欢和奶奶一起做糕点。"
 
 # game/bakery.rpy#L2186
 translate chinese bakeryeveningmenu_465b9568:
@@ -7130,7 +7130,7 @@ translate chinese bakeryeveningmenu_d2ce4cae:
 translate chinese bakeryeveningmenu_85a7ffdb:
 
     # cream "Mhm! So I stopped working with others, and decided to run my own bakery instead! I took out a loan and bought my own place!"
-    cream "嗯！所以，我才决定开一家属于自己的面包房！之后，我就不再和其他人一起做事了。后来，我靠贷款买下了这里！"
+    cream "嗯！所以，我才决定开一家属于自己的烘焙坊！之后，我就不再和其他人一起做事了。后来，我靠贷款买下了这里！"
 
 # game/bakery.rpy#L2190
 translate chinese bakeryeveningmenu_13e2d6f0:
@@ -7142,7 +7142,7 @@ translate chinese bakeryeveningmenu_13e2d6f0:
 translate chinese bakeryeveningmenu_7c107389:
 
     # cream "Yup! I spent ages doing research! That's why I bought the bakery here, since there were no other bakerys in the suburbs, business has been smooth sailing ever since, easy peasy!"
-    cream "当然算了！我可是花了很长的时间来做研究和调查的！因为城郊附近没有一家烘焙店，所以我才会在这儿开店的。之后的生意自然相当不错。这简直是小菜一碟！"
+    cream "当然算了！我可是花了很长的时间来做研究和调查的！因为城郊附近没有一家烘焙坊，所以我才会在这儿开店的。之后的生意自然相当不错。这简直是小菜一碟！"
 
 # game/bakery.rpy#L2193
 translate chinese bakeryeveningmenu_be1f51f5:
@@ -7550,7 +7550,7 @@ translate chinese bakeryeveningmenu_a4163e56:
 translate chinese bakeryeveningmenu_ae54dd39:
 
     # "There’s no denying the abnormal pleasure I’m able to give Cream as her body shudders with lust and she tightly clings onto the bakery counter."
-    "Cream双手紧紧地抓在面包房的柜台上，身体也因为强烈的性欲而不停颤抖着。这让我完全无法抑制住那无与伦比的快感，我想把这快感全部发泄到Cream的身上。"
+    "Cream双手紧紧地抓在烘焙坊的柜台上，身体也因为强烈的性欲而不停颤抖着。这让我完全无法抑制住那无与伦比的快感，我想把这快感全部发泄到Cream的身上。"
 
 # game/bakery.rpy#L2301
 translate chinese bakeryeveningmenu_00680dd4:
@@ -7574,7 +7574,7 @@ translate chinese bakeryeveningmenu_89c220ef:
 translate chinese bakeryeveningmenu_9b3dd727:
 
     # "She howled in ecstasy as I kept up the pace, anyone walking past the bakery right now would definitely be able to hear her slutty moaning."
-    "在我跟上她的节奏时，她发出了欣喜若狂地低吼声。现在，任何走过烘焙店的小马肯定都能听到她淫荡的呻吟吧。"
+    "在我跟上她的节奏时，她发出了欣喜若狂地低吼声。现在，任何走过烘焙坊的小马肯定都能听到她淫荡的呻吟吧。"
 
 # game/bakery.rpy#L2305
 translate chinese bakeryeveningmenu_ff6a9f7f:

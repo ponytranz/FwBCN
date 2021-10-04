@@ -3434,7 +3434,7 @@ translate chinese cbakery_89ea16d7:
 translate chinese cbakery_fc73cdd3:
 
     # "When I arrive at the bakery it’s open and running business as usual. Cream is working the till, and baking cakes simultaneously, despite her brainwashing."
-    "我到达了烘焙店，发现它仍然在照常营业。尽管Cream已经洗脑了，但她还是在收银台工作，同时烘焙蛋糕。"
+    "我到达了烘焙坊，发现它仍然在照常营业。尽管Cream已经洗脑了，但她还是在收银台工作，同时烘焙蛋糕。"
 
 # game/finalroute.rpy#L1315
 translate chinese cbakery_1ab96695:
@@ -3518,7 +3518,7 @@ translate chinese cbakery_6da2ecbc:
 translate chinese cbakery_fda0c601:
 
     # "I return to the bakery which is still operating as normal."
-    "我回到面包房，那里仍然在照常营业。"
+    "我回到烘焙坊，那里仍然在照常营业。"
 
 # game/finalroute.rpy#L1337
 translate chinese cbakery_b7f85de9:
@@ -3656,7 +3656,7 @@ translate chinese cbakery_a4163e56:
 translate chinese cbakery_7a66125f:
 
     # "Maybe it’s due to Morrigan’s magic, but there’s no denying the abnormal pleasure I’m able to give Cream as her body shudders with lust and she tightly clings onto the bakery counter."
-    "也许是因为Morrigan的魔法，但不可否认，当她的身体因欲望而颤抖，她紧紧地抓住烘焙店柜台的时候，我知道我能给Cream带来异常的快感。"
+    "也许是因为Morrigan的魔法，但不可否认，当她的身体因欲望而颤抖，她紧紧地抓住烘焙坊柜台的时候，我知道我能给Cream带来异常的快感。"
 
 # game/finalroute.rpy#L1377
 translate chinese cbakery_00680dd4:
@@ -3680,7 +3680,7 @@ translate chinese cbakery_89c220ef:
 translate chinese cbakery_9b3dd727:
 
     # "She howled in ecstasy as I kept up the pace, anyone walking past the bakery right now would definitely be able to hear her slutty moaning."
-    "在我跟上她的节奏时，她发出了欣喜若狂地低吼声。现在，任何走过烘焙店的小马肯定都能听到她淫荡的呻吟吧。"
+    "在我跟上她的节奏时，她发出了欣喜若狂地低吼声。现在，任何走过烘焙坊的小马肯定都能听到她淫荡的呻吟吧。"
 
 # game/finalroute.rpy#L1381
 translate chinese cbakery_ff6a9f7f:
