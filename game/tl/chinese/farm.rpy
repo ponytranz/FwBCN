@@ -7040,7 +7040,7 @@ translate chinese farmvisit3_544240f6:
 translate chinese farmvisit3_4c2cd9eb:
 
     # "Do the people of this world really need more reasons to have a strong sex drive? It seems between the disparity of sexes and the estrus they have that covered."
-    "Do the people of this world really need more reasons to have a strong sex drive? It seems between the disparity of sexes and the estrus they have that covered."
+    "难道这个世界的马们就必须得有点什么理由来搞黄色？就好像他们已经无视性别差异还有发情期这回事了。"
 
 # game/farm.rpy#L2117
 translate chinese farmvisit3_9ba427ef:
@@ -7358,7 +7358,7 @@ translate chinese blossomcowgirl_b8fcb147:
 translate chinese blossomcowgirl_65cab0af:
 
     # mc "You didn’t waste any time getting off!"
-    mc "You didn’t waste any time getting off!"
+    mc "你可没耽误什么!"
 
 # game/farm.rpy#L2204
 translate chinese blossomcowgirl_babc8d10:
@@ -7454,7 +7454,7 @@ translate chinese blossomcowgirl_a5214b34:
 translate chinese blossomcowgirl_48bc6957:
 
     # "She slowly lifts herself up and then allows herself to drop back down, this feeling is unreal, Blossom seems to be feeling it too, as she’s gasping under her breath."
-    "She slowly lifts herself up and then allows herself to drop back down, this feeling is unreal, Blossom seems to be feeling it too, as she’s gasping under her breath."
+    "她缓缓起身然后又坐了下来，这种迷幻的感觉，Blossom似乎也感受到了，因为她在屏住呼吸。"
 
 # game/farm.rpy#L2230
 translate chinese blossomcowgirl_c6a15a61:

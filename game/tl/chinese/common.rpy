@@ -418,35 +418,35 @@ translate chinese strings:
 
     # renpy/common/00gui.rpy_L384_0
     old "Are you sure?"
-    new "您确定要覆盖你的存档吗？"
+    new "你确定吗？"
 
     # renpy/common/00gui.rpy_L385_0
     old "Are you sure you want to delete this save?"
-    new "读取存档将丢失未保存的进度。\n您确定吗？"
+    new "你真的要删除这个存档吗？"
 
     # renpy/common/00gui.rpy_L386_0
     old "Are you sure you want to overwrite your save?"
-    new "确定要退出吗？"
+    new "你真的要覆盖这个存档吗？"
 
     # renpy/common/00gui.rpy_L387_0
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
-    new "您确定要返回主菜单吗？\n未保存的进度将丢失。"
+    new "读取存档将丢失未保存的进度。\n确定要这么做吗？"
 
     # renpy/common/00gui.rpy_L388_0
     old "Are you sure you want to quit?"
-    new "您确定要结束回放吗？"
+    new "你确定要退出吗？"
 
     # renpy/common/00gui.rpy_L389_0
     old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
-    new "您确定您想要开始跳过吗？"
+    new "返回主菜单将丢失未保存的进度。\n确定要这么做吗？"
 
     # renpy/common/00gui.rpy_L390_0
     old "Are you sure you want to end the replay?"
-    new "您确定要跳到下一个选择吗？"
+    new "你确定要结束回放吗？"
 
     # renpy/common/00gui.rpy_L391_0
     old "Are you sure you want to begin skipping?"
-    new "您确定要跳过未读过的对话到下一个选择吗？"
+    new "你确定要开始跳过吗？"
 
     # renpy/common/00gui.rpy_L392_0
     old "Are you sure you want to skip to the next choice?"
@@ -470,7 +470,7 @@ translate chinese strings:
 
     # renpy/common/00library.rpy_L281_0
     old "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
-    new "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
+    new "本软件使用了以各种协议发布的自由软件，例如 MIT 协议和 LGPL 协议。完整的程序列表，包括到其发布源代码地址的链接，可以在{a=https://www.renpy.org/l/license}这里{/a}找到。"
 
     # renpy/common/00preferences.rpy_L247_0
     old "display"
