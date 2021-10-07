@@ -12308,37 +12308,37 @@ translate chinese annavisit_dfc184f3:
 translate chinese annavisit_dba0bd4e:
 
     # "With the wagon restocked I take one last peek through the window, I can’t resist."
-    "With the wagon restocked I take one last peek through the window, I can’t resist."
+    "篷车装满货物后，我顺着车窗向外看了最后一眼。可我所看到的画面却让我完全把持不住了。"
 
 # game/farm.rpy#L3741
 translate chinese annavisit_34f61d09:
 
     # "They just keep going, in a erotic sex-filled delirium."
-    "They just keep going, in a erotic sex-filled delirium."
+    "她们还在忘我地沉浸在淫荡而欢快的性爱之中。"
 
 # game/farm.rpy#L3742
 translate chinese annavisit_1bea0800:
 
     # "It looks fun, if I’m still here the next time Anna needs milking, I’ll have to try that one with Honey. For now, I really want to sleep with Anna."
-    "It looks fun, if I’m still here the next time Anna needs milking, I’ll have to try that one with Honey. For now, I really want to sleep with Anna."
+    "太有意思了。如果下一次来，Anna还需要挤奶的话，我好想和Honey试一试啊。可现在呢，我却特别想睡Anna。"
 
 # game/farm.rpy#L3744
 translate chinese annavisit_5e0d9a32:
 
     # "With map in hand, I wheel the wagon all the way back to the heifer village."
-    "With map in hand, I wheel the wagon all the way back to the heifer village."
+    "地图在手，于是我驾着篷车返回了母牛村。"
 
 # game/farm.rpy#L3746
 translate chinese annavisit_c7e938eb:
 
     # "When I return I find Anna is sat on a wall reading a book while she waits for me."
-    "When I return I find Anna is sat on a wall reading a book while she waits for me."
+    "当我运货回来时，我看到Anna正坐在墙边，一边看着书，一边等着我回来。"
 
 # game/farm.rpy#L3748
 translate chinese annavisit_5d679d7f:
 
     # anna "Ahh, there you are, thought I’d catch up with some reading while I wait."
-    anna "Ahh, there you are, thought I’d catch up with some reading while I wait."
+    anna "啊，你回来了。我正想着边等边看会儿书呢。"
 
 # game/farm.rpy#L3749
 translate chinese annavisit_2caf6a6f:
@@ -12350,19 +12350,19 @@ translate chinese annavisit_2caf6a6f:
 translate chinese annavisit_5a974c59:
 
     # mc "You were waiting?"
-    mc "你还在等吗？"
+    mc "你一直都在等我吗？"
 
 # game/farm.rpy#L3752
 translate chinese annavisit_7ddb740f:
 
     # anna "It was more my impatience, I couldn’t stop thinking about you, hehe."
-    anna "It was more my impatience, I couldn’t stop thinking about you, hehe."
+    anna "我当时等你等得有点不耐烦了，我可是一直都在惦记着你呢，嘿嘿。"
 
 # game/farm.rpy#L3754
 translate chinese annavisit_a9596f6e:
 
     # anna "Here, let me take that wagon."
-    anna "Here, let me take that wagon."
+    anna "来，篷车就交给我吧。"
 
 # game/farm.rpy#L3755
 translate chinese annavisit_f7a4fd25:
@@ -12374,13 +12374,13 @@ translate chinese annavisit_f7a4fd25:
 translate chinese annavisit_61657142:
 
     # "We go back to Anna’s farmhouse where she pays me 30 monies!"
-    "We go back to Anna’s farmhouse where she pays me 30 monies!"
+    "我们回到了Anna的农场。然后她给了我30块钱的工资！"
 
 # game/farm.rpy#L3758
 translate chinese annavisit_36d6bcb5:
 
     # mc "Wow, that's even more than Honey pays me."
-    mc "Wow, that's even more than Honey pays me."
+    mc "哇，她给的钱可比Honey多了不少。"
 
 # game/farm.rpy#L3759
 translate chinese annavisit_a1af7670:
@@ -12440,7 +12440,7 @@ translate chinese annavisit_2323ed5a:
 translate chinese annavisit_2d3fa662:
 
     # anna "Nice to see ya [playername], let's get to work so the play tonight's even better!"
-    anna "Nice to see ya [playername], let's get to work so the play tonight's even better!"
+    anna "你好啊，[playername]，咱们快点干活去吧，这样咱们晚上就可以好好玩玩了！"
 
 # game/farm.rpy#L3775
 translate chinese annavisit_5fbaadba:
