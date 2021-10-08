@@ -7460,7 +7460,7 @@ translate chinese blossomcowgirl_48bc6957:
 translate chinese blossomcowgirl_c6a15a61:
 
     # "She eventually begins to loosen around my shaft, and she finds it easier to ride my cock, her pace ever so slightly increasing and her face flushing as it becomes more pleasureful for her."
-    "She eventually begins to loosen around my shaft, and she finds it easier to ride my cock, her pace ever so slightly increasing and her face flushing as it becomes more pleasureful for her."
+    "她终于裹住了我的肉棒，发现还是骑在上面更好，之后她又稍稍加快了速度，这种愈加愉悦的感觉让她的脸涨的通红。"
 
 # game/farm.rpy#L2231
 translate chinese blossomcowgirl_cc53f820:
@@ -7484,7 +7484,7 @@ translate chinese blossomcowgirl_a9ab4c7a:
 translate chinese blossomcowgirl_7c66e5cd:
 
     # "My eyes are drawn to her breasts which wiggle each time she bounces. They’re usually hidden behind her thick bushy twintails so it’s especially nice to see them."
-    "My eyes are drawn to her breasts which wiggle each time she bounces. They’re usually hidden behind her thick bushy twintails so it’s especially nice to see them."
+    "我的眼睛已经离不开她那因为抽插而不断摆动的奶子了。因为平时总藏在她浓密的双马尾后面，所以能亲眼见到别提有多棒了。"
 
 # game/farm.rpy#L2236
 translate chinese blossomcowgirl_81e9e82d:
@@ -7520,13 +7520,13 @@ translate chinese blossomcowgirl_17271e25:
 translate chinese blossomcowgirl_e7748f6e:
 
     # "She begins to speedily piston up and down, excitedly focusing on getting me off."
-    "She begins to speedily piston up and down, excitedly focusing on getting me off."
+    "她开始快速地上下抽插，性奋到只想让我爽翻天。"
 
 # game/farm.rpy#L2247
 translate chinese blossomcowgirl_d943766e:
 
     # "It’s working too, her tightness combined with that speed is blowing my cock and mind."
-    "It’s working too, her tightness combined with that speed is blowing my cock and mind."
+    "逐渐起效果了，她紧致的蜜穴配上那种速度简直快要把我的肉棒还有脑子一并融化。"
 
 # game/farm.rpy#L2248
 translate chinese blossomcowgirl_f36bbd39:
@@ -7538,7 +7538,7 @@ translate chinese blossomcowgirl_f36bbd39:
 translate chinese blossomcowgirl_6cc60510:
 
     # "Not holding myself back, I let myself freely ejaculate deep inside of her, she continues fucking me the entire time and the resulting orgasm is ecstasy."
-    "Not holding myself back, I let myself freely ejaculate deep inside of her, she continues fucking me the entire time and the resulting orgasm is ecstasy."
+    "我也不憋着了，任由自己射进她的蜜穴深处，她一直向我榨精，最后的高潮也是可喜可贺。"
 
 # game/farm.rpy#L2258
 translate chinese blossomcowgirl_5d2497f7:
@@ -7550,25 +7550,25 @@ translate chinese blossomcowgirl_5d2497f7:
 translate chinese blossomcowgirl_73469933:
 
     # "She winces almost as if her own orgasm caught her off guard, and we climax passionately together. My cock continuing to pump her with more cum throughout the entire experience."
-    "She winces almost as if her own orgasm caught her off guard, and we climax passionately together. My cock continuing to pump her with more cum throughout the entire experience."
+    "她抽了一下，好像是被自己的高潮弄的有点猝不及防了，之后我们一起高潮了个爽。我的肉棒自始至终都在不断地射在她里面。"
 
 # game/farm.rpy#L2264
 translate chinese blossomcowgirl_d6358867:
 
     # "As we peak and fall, her hips gradually stop, globs of cum trickling down the length of my cock, out of her pussy and dripping down onto my pelvis."
-    "As we peak and fall, her hips gradually stop, globs of cum trickling down the length of my cock, out of her pussy and dripping down onto my pelvis."
+    "战斗结束后，她的丰臀也逐渐停了下来，几滴精液从她的蜜穴里流出之后顺着我的肉棒淌了下来，滴在了我的盆骨上。"
 
 # game/farm.rpy#L2265
 translate chinese blossomcowgirl_3a9cce5d:
 
     # "Usually around this time, I’d be feeling sensitive and getting soft, but thanks to the cheeky milk tea I had earlier, I’m lustful for more."
-    "Usually around this time, I’d be feeling sensitive and getting soft, but thanks to the cheeky milk tea I had earlier, I’m lustful for more."
+    "每每在这种时候，我都会极度敏感然后软下来，但是多亏了我早些时候喝的？？奶茶，我还是欲求不满。"
 
 # game/farm.rpy#L2266
 translate chinese blossomcowgirl_27abef1d:
 
     # blossom "*Pant* There’s so much, hehe, it’s dripping out…"
-    blossom "*Pant* There’s so much, hehe, it’s dripping out…"
+    blossom "*喘气*好多精液呢，嘿嘿，都流出来了..."
 
 # game/farm.rpy#L2267
 translate chinese blossomcowgirl_5d4d7dc0:
@@ -7586,55 +7586,55 @@ translate chinese blossomcowgirl_c1e1dfa0:
 translate chinese blossomcowgirl_67db4d61:
 
     # "She brings a finger and prods at some cum on my pelvis, seemingly surprised by its viscosity, that same finger soon brings itself to her mouth as she curiously tastes it."
-    "She brings a finger and prods at some cum on my pelvis, seemingly surprised by its viscosity, that same finger soon brings itself to her mouth as she curiously tastes it."
+    "她用手指在我的盆骨上划了一下精液，好像被这种粘度惊到了，在好奇心的驱使下她的手指不自觉地就送到了她嘴边小舐一口。"
 
 # game/farm.rpy#L2270
 translate chinese blossomcowgirl_23ea97b2:
 
     # blossom "Hmm, not as tasty as they act like it is in porn."
-    blossom "Hmm, not as tasty as they act like it is in porn."
+    blossom "嗯，也没有色情片里说的那样美味啊。"
 
 # game/farm.rpy#L2273
 translate chinese blossomcowgirl_6d86988e:
 
     # "Tasting aside, she wastes no time in beginning to raise herself up and down, her insides now soaking in both cum and her natural lubricant."
-    "Tasting aside, she wastes no time in beginning to raise herself up and down, her insides now soaking in both cum and her natural lubricant."
+    "除了尝了尝，她并没有在抽插上浪费时间，因为她里面现在已经装满了精液还有她那天然的润滑液。"
 
 # game/farm.rpy#L2274
 translate chinese blossomcowgirl_c4f62e02:
 
     # "Every time she slips back down onto my cock, it displaces more cum and it oozes, creating a lewd squelching sound."
-    "Every time she slips back down onto my cock, it displaces more cum and it oozes, creating a lewd squelching sound."
+    "每一次她坐在我的肉棒上，都会弄出更多精液之后又渗出来，发出一种淫荡的啪啪声。"
 
 # game/farm.rpy#L2275
 translate chinese blossomcowgirl_37840236:
 
     # blossom "This is so naughty, it’s making my head spin…"
-    blossom "This is so naughty, it’s making my head spin…"
+    blossom "可真调皮，搞得我要晕过去..."
 
 # game/farm.rpy#L2276
 translate chinese blossomcowgirl_7f06a2ba:
 
     # blossom "Ahhh, I didn’t think anything could feel this good, ahhh!"
-    blossom "Ahhh, I didn’t think anything could feel this good, ahhh!"
+    blossom "啊啊，我真没想到能这么爽，啊啊啊！"
 
 # game/farm.rpy#L2277
 translate chinese blossomcowgirl_3cf3362f:
 
     # blossom "I just wanna be your cum dump, filled over and over by you."
-    blossom "I just wanna be your cum dump, filled over and over by you."
+    blossom "我只想当你的肉便器，让你一次又一次的灌满我。"
 
 # game/farm.rpy#L2278
 translate chinese blossomcowgirl_142f9370:
 
     # "The aphrodisiac has given Blossom an insatiable sexual appetite, just like Anna forewarned when she mentioned cow and minotaur mating habits."
-    "The aphrodisiac has given Blossom an insatiable sexual appetite, just like Anna forewarned when she mentioned cow and minotaur mating habits."
+    "这春药让Blossom的性欲总是欲求不满，就像Anna事先警告提到奶牛和牛头人的交配习惯那样。"
 
 # game/farm.rpy#L2279
 translate chinese blossomcowgirl_0d3c5703:
 
     # "Blossom and I will keep going until we collapse, I can already feel my cock stiffen up fully, bulging inside her drippy pussy as my second orgasm rises."
-    "Blossom and I will keep going until we collapse, I can already feel my cock stiffen up fully, bulging inside her drippy pussy as my second orgasm rises."
+    "Blossom和我一直挺着直到坚持不住为止，我能感觉到我的肉棒已经很硬了，在我第二次射出来之后仍然在她的湿穴中坚挺着。"
 
 # game/farm.rpy#L2280
 translate chinese blossomcowgirl_aa51c387:
@@ -7652,7 +7652,7 @@ translate chinese blossomcowgirl_ea99186f:
 translate chinese blossomcowgirl_9359aaa2:
 
     # "She seems to be losing her mind to pleasure, various squeaks and moans escaping her mouth, I desperately hope Honey doesn’t come inside because she’d unquestionably hear us."
-    "She seems to be losing her mind to pleasure, various squeaks and moans escaping her mouth, I desperately hope Honey doesn’t come inside because she’d unquestionably hear us."
+    "她好像没有心思享受了，嘴里不断发出各种吱吱声和呻吟声，我只是希望Honey可别这时候进来，因为她肯定会听到我们的。"
 
 # game/farm.rpy#L2284
 translate chinese blossomcowgirl_f9e64755:
@@ -7682,7 +7682,7 @@ translate chinese blossomcowgirl_f8b07413:
 translate chinese blossomcowgirl_418e6c48:
 
     # "Several loads of my cum discharge deep within her, but she doesn’t slow down her riding for a second, causing a lot of it to gush out spectacularly."
-    "Several loads of my cum discharge deep within her, but she doesn’t slow down her riding for a second, causing a lot of it to gush out spectacularly."
+    "我在她里面又射了几发，可她却一秒都不愿意停下抽插，弄的她那里不断喷水。"
 
 # game/farm.rpy#L2298
 translate chinese blossomcowgirl_77469ad6:
@@ -7694,13 +7694,13 @@ translate chinese blossomcowgirl_77469ad6:
 translate chinese blossomcowgirl_a5eeb10f:
 
     # "Her breathing becomes more erratic as she seems to climax again, her pussy contracting tightly, particularly around my glans, keeping me erect."
-    "Her breathing becomes more erratic as she seems to climax again, her pussy contracting tightly, particularly around my glans, keeping me erect."
+    "就在她大概又一次高潮后，呼吸开始紊乱，小穴也跟着收紧，特别是我龟头那块，搞得我软不下去。"
 
 # game/farm.rpy#L2301
 translate chinese blossomcowgirl_388abe30:
 
     # "As she comes, she throws her head into the air and arches her back. Her thrusts become disjointed as she’s visibly dazed with pleasure."
-    "As she comes, she throws her head into the air and arches her back. Her thrusts become disjointed as she’s visibly dazed with pleasure."
+    "当她高潮时，她将头高高地仰了起来，同时拱起了后背。很明显，她已经彻底沉浸在了无尽的快感之中。正因如此，她的动作开始变得断断续续的。"
 
 # game/farm.rpy#L2302
 translate chinese blossomcowgirl_966237a0:
@@ -7922,13 +7922,13 @@ translate chinese blossomcowgirl_03d6fec8:
 translate chinese blossomcowgirl_c78bdf21:
 
     # blossom "Either way, gotta lick it up, wouldn’t want to stain the bed!"
-    blossom "Either way, gotta lick it up, wouldn’t want to stain the bed!"
+    blossom "不管怎样，我都要把它舔干净，我可不想把床弄脏!"
 
 # game/farm.rpy#L2375
 translate chinese blossomcowgirl_9b57a918:
 
     # "With the cum cleaned, we cuddle again, this time for much longer. My erection is gone now, so the aphrodisiac must have worn off."
-    "With the cum cleaned, we cuddle again, this time for much longer. My erection is gone now, so the aphrodisiac must have worn off."
+    "精液舔干净后，我们再次相拥，这次拥抱的时间更长了。我的勃起慢慢消失，壮阳药肯定已经失效了。"
 
 # game/farm.rpy#L2376
 translate chinese blossomcowgirl_51554f70:
@@ -7964,13 +7964,13 @@ translate chinese blossomcowgirl_35c1a8db:
 translate chinese blossomcowgirl_04a5e393:
 
     # blossom "Of course I did… You’ve got farm work after this; I couldn’t tire you out."
-    blossom "Of course I did… You’ve got farm work after this; I couldn’t tire you out."
+    blossom "当然我有……你之后还得去干农活;我可不能把你给累坏了。"
 
 # game/farm.rpy#L2385
 translate chinese blossomcowgirl_30e532a9:
 
     # "Even at times like this, Blossom is so thoughtful and caring, even down to the little details. She’d make a good wife."
-    "Even at times like this, Blossom is so thoughtful and caring, even down to the little details. She’d make a good wife."
+    "即使是在这样的时刻，Blossom也是如此的体贴和关心，甚至是小细节。她会成为一个好老婆。"
 
 # game/farm.rpy#L2387
 translate chinese blossomcowgirl_08d1acbb:
@@ -12386,37 +12386,37 @@ translate chinese annavisit_36d6bcb5:
 translate chinese annavisit_a1af7670:
 
     # anna "Well [playername], you did a very high paying job just now. A job no one else in this village could have done as quickly and cleanly."
-    anna "Well [playername], you did a very high paying job just now. A job no one else in this village could have done as quickly and cleanly."
+    anna "嗯，[playername]，你刚干完的这个活的费用是很高的。整个村子都找不到第二个能和你一样干得又快又好的人了。"
 
 # game/farm.rpy#L3760
 translate chinese annavisit_ec1e9dbf:
 
     # anna "If you came here every day, that'd be lucrative to me, so I have no choice but to pay you more than the competition, right? Hehehe."
-    anna "If you came here every day, that'd be lucrative to me, so I have no choice but to pay you more than the competition, right? Hehehe."
+    anna "要是你每天都能来我这儿的话，我可就要发大财了。所以呢，为了不让竞争对手得到你，我只能出高价雇你了，是这个理儿不？嘿嘿嘿。"
 
 # game/farm.rpy#L3761
 translate chinese annavisit_0824368c:
 
     # anna "I also offer other benefits with my employment... Come with me."
-    anna "I also offer other benefits with my employment... Come with me."
+    anna "还有，我也会给员工发其他福利的……跟我来一下。"
 
 # game/farm.rpy#L3765
 translate chinese annavisit_819daf7b:
 
     # "She leads me to a cute bedroom with a double bed."
-    "She leads me to a cute bedroom with a double bed."
+    "说着，她把我带到了一间风格可爱，内置一张双人床的卧室。"
 
 # game/farm.rpy#L3766
 translate chinese annavisit_d2ef8871:
 
     # "Anna sits on the edge of her bed and invites me to sit beside her with a pat."
-    "Anna sits on the edge of her bed and invites me to sit beside her with a pat."
+    "Anna坐在床边，并拍了拍我，示意我也坐到她身边来。"
 
 # game/farm.rpy#L3767
 translate chinese annavisit_f49a5fba:
 
     # anna "What was it like at the other village, everything go smoothly?"
-    anna "What was it like at the other village, everything go smoothly?"
+    anna "别村的情况怎么样啊？事情都顺利吗？"
 
 # game/farm.rpy#L3768
 translate chinese annavisit_286c1e5f:
@@ -12428,13 +12428,13 @@ translate chinese annavisit_286c1e5f:
 translate chinese annavisit_dd335fb9:
 
     # anna "I can’t believe you were peeking!"
-    anna "真不敢相信你居然会偷窥我！"
+    anna "真不敢相信你居然会偷窥别人！"
 
 # game/farm.rpy#L3770
 translate chinese annavisit_2323ed5a:
 
     # anna "Wanna show me exactly how they did it? Ehehe!"
-    anna "Wanna show me exactly how they did it? Ehehe!"
+    anna "不过呢，你想不想给我演示一下你偷看到的情景呢？诶嘿嘿！"
 
 # game/farm.rpy#L3774
 translate chinese annavisit_2d3fa662:
