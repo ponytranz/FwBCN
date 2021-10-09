@@ -7706,7 +7706,7 @@ translate chinese blossomcowgirl_388abe30:
 translate chinese blossomcowgirl_966237a0:
 
     # "However, it doesn’t take her long to regain her composure and resume her previous pace, with a lustful wanton abandon perpetuated within her eyes which lock mine while she continues to bounce on my cock."
-    "However, it doesn’t take her long to regain her composure and resume her previous pace, with a lustful wanton abandon perpetuated within her eyes which lock mine while she continues to bounce on my cock."
+    "但是呢，没过多久，她就恢复到了高潮前的平静。于是，她的身体再次扭动起来。这次，她变得更加狂野和放荡了：当她骑在我肉棒上尽情地上下起伏时，她还一直在用双眼含情脉脉地注视着我。"
 
 # game/farm.rpy#L2304
 translate chinese blossomcowgirl_1b998193:
@@ -7718,7 +7718,7 @@ translate chinese blossomcowgirl_1b998193:
 translate chinese blossomcowgirl_e3a4d323:
 
     # "She mumbles almost unintelligibly between her ragged breaths, it was starting to become clear that her fatigue was overtaking her uncontrollable lust."
-    "She mumbles almost unintelligibly between her ragged breaths, it was starting to become clear that her fatigue was overtaking her uncontrollable lust."
+    "她已经上气不接下气了，所以我也基本听不清她在说些什么了。可当她精疲力竭，无暇顾及那难以克制的性欲时，我才听清她话的内容。"
 
 # game/farm.rpy#L2306
 translate chinese blossomcowgirl_68c9bbd9:
@@ -7730,19 +7730,19 @@ translate chinese blossomcowgirl_68c9bbd9:
 translate chinese blossomcowgirl_b79e33be:
 
     # "Even after so many orgasms, Blossom’s pussy is unrelentingly squeezing and stimulating my cock while she’s fucking me so fast. I try to keep rubbing her clit, but she’s moving too fast to keep up."
-    "Even after so many orgasms, Blossom’s pussy is unrelentingly squeezing and stimulating my cock while she’s fucking me so fast. I try to keep rubbing her clit, but she’s moving too fast to keep up."
+    "尽管经历了多次高潮，但在Blossom疯狂而快速地扭动着身体的同时，她的小穴却仍在无情挤压和刺激着我的肉棒。虽然我在试图揉捏她的阴蒂，但由于她扭动的速度实在是太快了，所以我根本就碰不到它。"
 
 # game/farm.rpy#L2309
 translate chinese blossomcowgirl_a7e71a1f:
 
     # "Her endurance to ride me this fast for so long almost seems impossible by human standards."
-    "Her endurance to ride me this fast for so long almost seems impossible by human standards."
+    "她的速度如此之快，耐力如此持久，如果是普通人类的话，几乎是达不到这种状态的。"
 
 # game/farm.rpy#L2311
 translate chinese blossomcowgirl_218139c6:
 
     # "The pleasure continues to send my senses into overdrive as her rapid riding is unyielding. I can barely think straight. "
-    "The pleasure continues to send my senses into overdrive as her rapid riding is unyielding. I can barely think straight. "
+    "在她不断而快速的扭动下，我感受到一阵阵的刺激和快感正在向我袭来。我的意识开始变得恍惚了。"
 
 # game/farm.rpy#L2312
 translate chinese blossomcowgirl_0ef39b9e:
@@ -7766,13 +7766,13 @@ translate chinese blossomcowgirl_672045b7:
 translate chinese blossomcowgirl_14339b32:
 
     # "Her insides begin to contract, exciting my cock even further. It’s so sudden and impossibly pleasureful that it feels like she’s stealing my third orgasm."
-    "Her insides begin to contract, exciting my cock even further. It’s so sudden and impossibly pleasureful that it feels like she’s stealing my third orgasm."
+    "她小穴的内部开始紧缩起来，这使得我的肉棒更加兴奋了。突然之间，我感受到了一种无与伦比的快感。我这才明白，她又把我的第三次高潮给夺走了。"
 
 # game/farm.rpy#L2321
 translate chinese blossomcowgirl_cfbf9fbe:
 
     # "I couldn’t hold myself back even if I wanted to, her riding forces my cock to erupt yet another load of cum in perhaps the most powerful orgasm yet."
-    "I couldn’t hold myself back even if I wanted to, her riding forces my cock to erupt yet another load of cum in perhaps the most powerful orgasm yet."
+    "如果我不想再忍下去的话，我完全可以马上就射出来。由于她对我肉棒的摩擦和挤压，我达到了这几次中最强最有力的一次高潮，我又射了。"
 
 # game/farm.rpy#L2326
 translate chinese blossomcowgirl_b58011bd:
@@ -7790,13 +7790,13 @@ translate chinese blossomcowgirl_5d658d54:
 translate chinese blossomcowgirl_990f9569:
 
     # "Yet again, more cum straight to the deepest reaches of her vagina, the area connecting our sexes is an absolute cum laden mess."
-    "Yet again, more cum straight to the deepest reaches of her vagina, the area connecting our sexes is an absolute cum laden mess."
+    "又一次，大量精液一下喷射进了她小穴的深处，我们交合的地方也被浓稠的精液搞得一塌糊涂。"
 
 # game/farm.rpy#L2332
 translate chinese blossomcowgirl_01587f12:
 
     # "After this orgasm, I start to feel somewhat sensitive, and my cock softens, yet Blossom in her drunk lust just keeps going, that is, until..."
-    "After this orgasm, I start to feel somewhat sensitive, and my cock softens, yet Blossom in her drunk lust just keeps going, that is, until..."
+    "这次高潮过后，我开始变得有些敏感了，同时，我的肉棒也逐渐软了下来。而Blossom却仍沉浸在性欲的愉悦中不能自拔。情况虽然如此，但突然间……"
 
 # game/farm.rpy#L2339
 translate chinese blossomcowgirl_3df852a9:
@@ -7844,7 +7844,7 @@ translate chinese blossomcowgirl_2d863050:
 translate chinese blossomcowgirl_922b5e64:
 
     # "I awkwardly lay here feeling guilty while she cradles herself in the fetal position for about half a minute."
-    "I awkwardly lay here feeling guilty while she cradles herself in the fetal position for about half a minute."
+    "她蜷缩在床上长达半分钟之久，而我则呆呆地躺在一边，既不知所措，又感觉很内疚。"
 
 # game/farm.rpy#L2349
 translate chinese blossomcowgirl_4c775599:
@@ -7880,7 +7880,7 @@ translate chinese blossomcowgirl_479ff40c:
 translate chinese blossomcowgirl_20791e9a:
 
     # "She timidly crawls into my arms and we cuddle quietly, even with both of our pelvic areas glazed with cum."
-    "She timidly crawls into my arms and we cuddle quietly, even with both of our pelvic areas glazed with cum."
+    "说着，她小心翼翼地投入了我的怀抱。随后，我们完全没有在意交合处溢出的精液，就抱在了一起。"
 
 # game/farm.rpy#L2360
 translate chinese blossomcowgirl_7ce2ae65:
@@ -7970,7 +7970,7 @@ translate chinese blossomcowgirl_04a5e393:
 translate chinese blossomcowgirl_30e532a9:
 
     # "Even at times like this, Blossom is so thoughtful and caring, even down to the little details. She’d make a good wife."
-    "即使是在这样的时刻，Blossom也是如此的体贴和关心，甚至是小细节。她会成为一个好老婆。"
+    "即使是在这样的时刻，Blossom也是如此的体贴和关心，甚至是小细节。我相信她会是位好老婆。"
 
 # game/farm.rpy#L2387
 translate chinese blossomcowgirl_08d1acbb:
@@ -12344,7 +12344,7 @@ translate chinese annavisit_5d679d7f:
 translate chinese annavisit_2caf6a6f:
 
     # "She waves around a business novel, '7 Habits of Highly Effective Mares', honestly I think I’ve read my world’s version of that book."
-    "She waves around a business novel, '7 Habits of Highly Effective Mares', honestly I think I’ve read my world’s version of that book."
+    "只见她手里摇晃着一本名为《具有极强行动力的小马所拥有的7大习惯》的书。说真的，我在之前的世界也读过这书的另一个版本。"
 
 # game/farm.rpy#L3750
 translate chinese annavisit_5a974c59:
@@ -12368,7 +12368,7 @@ translate chinese annavisit_a9596f6e:
 translate chinese annavisit_f7a4fd25:
 
     # "She takes the wagon and wheels it with finesse over to an employee of hers who takes it to a barn."
-    "She takes the wagon and wheels it with finesse over to an employee of hers who takes it to a barn."
+    "她上了车，然后熟练地将车开到了一位农场雇员面前。之后，那名雇员将车开进了谷仓。"
 
 # game/farm.rpy#L3757
 translate chinese annavisit_61657142:
@@ -12584,7 +12584,7 @@ translate chinese annatalk_c6fdf6fb:
 translate chinese annatalk_3dafb51f:
 
     # anna "Ohh, of course you are Mr. Hooman."
-    anna "Ohh, of course you are Mr. Hooman."
+    anna "哦哦哦，是啊是啊，你可真会说话呢。"
 
 # game/farm.rpy#L3818
 translate chinese annatalk_f980a41b:

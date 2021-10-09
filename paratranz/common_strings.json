@@ -1457,14 +1457,14 @@
   {
     "id": 79443418,
     "createdAt": "2021-05-30T19:47:47.000Z",
-    "updatedAt": "2021-09-21T21:32:11.000Z",
+    "updatedAt": "2021-10-08T15:33:45.000Z",
     "key": "renpy/common/00director.rpy_L1695_0",
     "original": "Tag:",
-    "translation": "",
+    "translation": "Tag:",
     "file": 272379,
-    "stage": 0,
+    "stage": 1,
     "project": 2414,
-    "uid": null,
+    "uid": 21929,
     "extra": null,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00director.rpy#L1695",
     "words": 1
