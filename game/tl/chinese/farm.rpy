@@ -7814,7 +7814,7 @@ translate chinese blossomcowgirl_738903f9:
 translate chinese blossomcowgirl_5a121c16:
 
     # "In the middle of her breakneck riding, she suddenly rolls off me, and clings to her thigh whilst yelping. "
-    "In the middle of her breakneck riding, she suddenly rolls off me, and clings to her thigh whilst yelping. "
+    "在我们翻云覆雨的过程中，她突然间我的身上摔了下来。只见她一边叫着，一边紧紧地捂着自己的腿。"
 
 # game/farm.rpy#L2343
 translate chinese blossomcowgirl_2972f626:
@@ -7886,7 +7886,7 @@ translate chinese blossomcowgirl_20791e9a:
 translate chinese blossomcowgirl_7ce2ae65:
 
     # "After having a minute or two of recovery, Blossom lays me down and begins to clean up all the cum with her tongue."
-    "After having a minute or two of recovery, Blossom lays me down and begins to clean up all the cum with her tongue."
+    "经过一两分钟的休息，Blossom将我推倒在了床上，然后开始用舌头清理起残留在我身上的精液。"
 
 # game/farm.rpy#L2366
 translate chinese blossomcowgirl_87ab6788:
@@ -7898,31 +7898,31 @@ translate chinese blossomcowgirl_87ab6788:
 translate chinese blossomcowgirl_e3cefc49:
 
     # "She caringly trails her tongue over every cum covered inch of my cock and pelvis, there’s a lot and it takes her a long time, yet she still perseveres."
-    "She caringly trails her tongue over every cum covered inch of my cock and pelvis, there’s a lot and it takes her a long time, yet she still perseveres."
+    "她小心地舔舐我肉棒还有我盆骨周围的每一处精液，这么多的量花了她好一会才弄完，但她坚持舔了个干干净净。"
 
 # game/farm.rpy#L2369
 translate chinese blossomcowgirl_939bf829:
 
     # blossom "Mmphh... I wish it tasted better… *Lick* Whatever… Licking you feels good…"
-    blossom "唔嗯嗯……我希望这玩意的味道能好一点…… *舔* 算了……舔你的感觉还不错哟……"
+    blossom "唔嗯嗯……我本来以为这玩意的味道能好一点的…… *舔* 算了……舔你的感觉还不错哟……"
 
 # game/farm.rpy#L2370
 translate chinese blossomcowgirl_d2269b27:
 
     # mc "Oh right, cum tastes gross, I think you still have some tea left over if you want to wash it down."
-    mc "Oh right, cum tastes gross, I think you still have some tea left over if you want to wash it down."
+    mc "哦，说得是啊，这玩意的味道确实不太好。如果你咽不下去的话，就把剩下的茶喝了吧。"
 
 # game/farm.rpy#L2372
 translate chinese blossomcowgirl_03d6fec8:
 
     # blossom "More tea? I think I had enough milk for a lifetime, it kinda turned me into a lustful demon."
-    blossom "More tea? I think I had enough milk for a lifetime, it kinda turned me into a lustful demon."
+    blossom "还要喝吗？我感觉我已经把这辈子的奶都喝够了。喝了这奶之后，我都变成大淫魔了。"
 
 # game/farm.rpy#L2374
 translate chinese blossomcowgirl_c78bdf21:
 
     # blossom "Either way, gotta lick it up, wouldn’t want to stain the bed!"
-    blossom "不管怎样，我都要把它舔干净，我可不想把床弄脏!"
+    blossom "不管怎样，我都要把它舔干净，我可不想把床弄脏！"
 
 # game/farm.rpy#L2375
 translate chinese blossomcowgirl_9b57a918:
@@ -7982,19 +7982,19 @@ translate chinese blossomcowgirl_08d1acbb:
 translate chinese blossomcowgirl_b9e50d7f:
 
     # mc "I will, hope you recover fast!"
-    mc "好，希望你能早点好起来！"
+    mc "好，希望你的腿能早点好起来！"
 
 # game/farm.rpy#L2393
 translate chinese blossomcowgirl_cecd3879:
 
     # "I leave her room and head down the stairs. My balls may be drained but I feel quite perky and ready to face the day."
-    "I leave her room and head down the stairs. My balls may be drained but I feel quite perky and ready to face the day."
+    "我走出她的房间，然后下了楼。虽然我感觉自己的蛋蛋已经被掏空了，可我却感觉神清气爽，对生活的态度也变得积极了很多。"
 
 # game/farm.rpy#L2394
 translate chinese blossomcowgirl_ce7d0119:
 
     # "A passing clock says it’s 10:00am, fortunately I’m only an hour late, Honey probably wouldn’t mind and there are plenty of excuses that could work."
-    "A passing clock says it’s 10:00am, fortunately I’m only an hour late, Honey probably wouldn’t mind and there are plenty of excuses that could work."
+    "我看了一眼表，才发现现在已经是上午10点了。不过，好在我只迟到了一个小时，Honey应该不会介意的。而且，靠谱的理由我也有的是。"
 
 # game/farm.rpy#L2395
 translate chinese blossomcowgirl_4474e80d:
@@ -8006,7 +8006,7 @@ translate chinese blossomcowgirl_4474e80d:
 translate chinese blossomcowgirl_06e0ee46:
 
     # "As I enter the kitchen, Honey is right there."
-    "As I enter the kitchen, Honey is right there."
+    "当我走进厨房时，我发现Honey早已等候多时了。"
 
 # game/farm.rpy#L2399
 translate chinese blossomcowgirl_d255d158:
@@ -8018,7 +8018,7 @@ translate chinese blossomcowgirl_d255d158:
 translate chinese blossomcowgirl_a559d206:
 
     # "She caught me, no less going down the stairs of her house, so I can’t just lie and say I was looking for her."
-    "She caught me, no less going down the stairs of her house, so I can’t just lie and say I was looking for her."
+    "我在她家下楼时被她逮到个正着，所以我也没可能撒谎说我在找她了。"
 
 # game/farm.rpy#L2405
 translate chinese blossomcowgirl_21d7ffc3:
@@ -8072,43 +8072,43 @@ translate chinese blossomcowgirl_8093e12e:
 translate chinese blossomcowgirl_ebb09db3:
 
     # "She has a mildly terrifying aura right now."
-    "She has a mildly terrifying aura right now."
+    "此时，从她身上散发出了一丝令人畏惧的气息。"
 
 # game/farm.rpy#L2416
 translate chinese blossomcowgirl_dc6ad9dc:
 
     # mc "I think it’s important that Blossom and I can be honest to you, although I assume she would have preferred to keep it quiet."
-    mc "I think it’s important that Blossom and I can be honest to you, although I assume she would have preferred to keep it quiet."
+    mc "我觉得Blossom和我很有必要和你说实话，虽然我猜她更想保密。"
 
 # game/farm.rpy#L2417
 translate chinese blossomcowgirl_81a40277:
 
     # mc "But you caught me and I think you deserve to know."
-    mc "But you caught me and I think you deserve to know."
+    mc "但你就是逮到我了，所以我觉得你也应该知道了。"
 
 # game/farm.rpy#L2418
 translate chinese blossomcowgirl_19757df5:
 
     # "She thinks for a moment and then nods."
-    "She thinks for a moment and then nods."
+    "她想了想，之后点头同意了。"
 
 # game/farm.rpy#L2420
 translate chinese blossomcowgirl_29c99133:
 
     # honeycrisp "Ay, she’s old enough to make her own decisions now, I shouldn’t be too over-protective."
-    honeycrisp "Ay, she’s old enough to make her own decisions now, I shouldn’t be too over-protective."
+    honeycrisp "也是，她也老大不小了，该有点主见了，我不该管太多。"
 
 # game/farm.rpy#L2421
 translate chinese blossomcowgirl_baf3ebe9:
 
     # honeycrisp "Let’s keep this one to ourselves for her sake, she’s a teenage mare so she’s bound to have secrets that she doesn’t want me to know."
-    honeycrisp "Let’s keep this one to ourselves for her sake, she’s a teenage mare so she’s bound to have secrets that she doesn’t want me to know."
+    honeycrisp "就当是为了她，我们还是保密吧，小孩子嘛，肯定有点什么事不想让我知道。"
 
 # game/farm.rpy#L2422
 translate chinese blossomcowgirl_6a81401c:
 
     # mc "Agreed, thanks for seeing eye to eye."
-    mc "Agreed, thanks for seeing eye to eye."
+    mc "确实，很高兴我们意见一致。"
 
 # game/farm.rpy#L2424
 translate chinese blossomcowgirl_f6b0c661:
@@ -8138,7 +8138,7 @@ translate chinese blossomcowgirl_4debd529:
 translate chinese blossomcowgirl_1f49da52:
 
     # honeycrisp "Oh really? Well I’ll be, looks like you and Blossom became good friends behind my back, what is it that you two were doing?"
-    honeycrisp "Oh really? Well I’ll be, looks like you and Blossom became good friends behind my back, what is it that you two were doing?"
+    honeycrisp "哦，是这样吗？好吧，看来，你背着我和Blossom成了好朋友啊。那你们俩当时在干什么呀？"
 
 # game/farm.rpy#L2431
 translate chinese blossomcowgirl_a4a96253:
@@ -8150,13 +8150,13 @@ translate chinese blossomcowgirl_a4a96253:
 translate chinese blossomcowgirl_19bf5e97:
 
     # "When me, Honey and Anna had sex, Blossom said she could smell it on me, pony noses are sharp."
-    "When me, Honey and Anna had sex, Blossom said she could smell it on me, pony noses are sharp."
+    "在我、Honey和Anna啪啪啪之后，Blossom说过，她能在我身上闻到这种味道。而且，她还说，小马的鼻子都很灵。"
 
 # game/farm.rpy#L2433
 translate chinese blossomcowgirl_462137ac:
 
     # "Can she tell? I certainly hope not."
-    "Can she tell? I certainly hope not."
+    "她说的是真的吗？我可不希望那是真的。"
 
 # game/farm.rpy#L2434
 translate chinese blossomcowgirl_0426db69:
@@ -8168,7 +8168,7 @@ translate chinese blossomcowgirl_0426db69:
 translate chinese blossomcowgirl_eaa976a9:
 
     # honeycrisp "Hm... A secret? Not that I recall. Y’all got some kind of surprise waiting for me?"
-    honeycrisp "Hm... A secret? Not that I recall. Y’all got some kind of surprise waiting for me?"
+    honeycrisp "嗯……秘密？我感觉好像不是这样吧。你是不是想给我个大惊喜呢？"
 
 # game/farm.rpy#L2437
 translate chinese blossomcowgirl_23c1ad2d:
@@ -8180,7 +8180,7 @@ translate chinese blossomcowgirl_23c1ad2d:
 translate chinese blossomcowgirl_f9dcef21:
 
     # honeycrisp "I won’t pry; I’ll patiently await a pleasant surprise!"
-    honeycrisp "I won’t pry; I’ll patiently await a pleasant surprise!"
+    honeycrisp "我不会去打探的，我只需要耐心等着那个惊喜出现就可以了！"
 
 # game/farm.rpy#L2441
 translate chinese blossomcowgirl_75c38e6b:
@@ -8204,7 +8204,7 @@ translate chinese blossomcowgirl_598873a7:
 translate chinese blossomcowgirl_7200a80a:
 
     # "Ah, I’m a moron."
-    "啊，我是个白痴。"
+    "啊，我真是个大白痴。"
 
 # game/farm.rpy#L2446
 translate chinese blossomcowgirl_a4a96253_1:
@@ -8216,19 +8216,19 @@ translate chinese blossomcowgirl_a4a96253_1:
 translate chinese blossomcowgirl_19bf5e97_1:
 
     # "When me, Honey and Anna had sex, Blossom said she could smell it on me, pony noses are sharp."
-    "When me, Honey and Anna had sex, Blossom said she could smell it on me, pony noses are sharp."
+    "在我、Honey和Anna啪啪啪之后，Blossom说过，她能在我身上闻到这种味道。而且，她还说，小马的鼻子都很灵。"
 
 # game/farm.rpy#L2448
 translate chinese blossomcowgirl_462137ac_1:
 
     # "Can she tell? I certainly hope not."
-    "Can she tell? I certainly hope not."
+    "她说的是真的吗？我可不希望那是真的。"
 
 # game/farm.rpy#L2449
 translate chinese blossomcowgirl_dcde45d8:
 
     # mc "I’m sorry, I don’t know how I missed you."
-    mc "I’m sorry, I don’t know how I missed you."
+    mc "真抱歉，我都不知道自己有多想你了。"
 
 # game/farm.rpy#L2451
 translate chinese blossomcowgirl_1725650c:
@@ -8246,7 +8246,7 @@ translate chinese blossomcowgirl_a87691e7:
 translate chinese blossomcowgirl_3f4b8a96:
 
     # honeycrisp "I was just about to ask Blossom for help anyway, hopefully you can do it instead."
-    honeycrisp "I was just about to ask Blossom for help anyway, hopefully you can do it instead."
+    honeycrisp "我正要去问Blossom能不能帮我呢。希望你也能帮到我。"
 
 # game/farm.rpy#L2455
 translate chinese blossomcowgirl_61da5f9a:
@@ -8264,7 +8264,7 @@ translate chinese blossomcowgirl_4c8ad9aa:
 translate chinese blossomcowgirl_a7795025:
 
     # "Perfect, everything settled amicably, and Honey isn’t even remotely bothered, she’s just grateful that I’m helping out."
-    "Perfect, everything settled amicably, and Honey isn’t even remotely bothered, she’s just grateful that I’m helping out."
+    "好极了，所有的工作都有条不紊，Honey也没有抱怨什么，因为我帮了她，所以她很是感激。"
 
 # game/farm.rpy#L2458
 translate chinese blossomcowgirl_8763a2e3:
@@ -8276,7 +8276,7 @@ translate chinese blossomcowgirl_8763a2e3:
 translate chinese blossomcowgirl_6e7a2e0d:
 
     # "The two of us head to the barn and there are a lot of heavy barrels that need lifting onto a wagon. This is definitely a two-person job."
-    "The two of us head to the barn and there are a lot of heavy barrels that need lifting onto a wagon. This is definitely a two-person job."
+    "我们两个朝着谷仓的方向走去。这里放着很多需要搬上篷车的桶，而且桶的重量都很大。这活肯定需要两个人一起完成才行。"
 
 # game/farm.rpy#L2463
 translate chinese blossomcowgirl_66a0aab0:
@@ -8288,13 +8288,13 @@ translate chinese blossomcowgirl_66a0aab0:
 translate chinese blossomcowgirl_8da26a7e:
 
     # mc "These uh… They’re really heavy."
-    mc "These uh… They’re really heavy."
+    mc "这，呃……这些桶太重了。"
 
 # game/farm.rpy#L2465
 translate chinese blossomcowgirl_2bb7c08b:
 
     # "We attempt to lift the first barrel with our three able hands."
-    "We attempt to lift the first barrel with our three able hands."
+    "我们两个人试着用三只手去抬第一只桶。"
 
 # game/farm.rpy#L2466
 translate chinese blossomcowgirl_1b55fac1:
@@ -8306,25 +8306,25 @@ translate chinese blossomcowgirl_1b55fac1:
 translate chinese blossomcowgirl_d3734b91:
 
     # "Ponies are definitely stronger than humans so I’m probably useless here."
-    "Ponies are definitely stronger than humans so I’m probably useless here."
+    "小马的体质肯定比人强，所以，我在这里基本算是一无是处。"
 
 # game/farm.rpy#L2469
 translate chinese blossomcowgirl_732abb14:
 
     # honeycrisp "Ehehe… It’s still too heavy, sorry I couldn’t be more help, stud."
-    honeycrisp "Ehehe… It’s still too heavy, sorry I couldn’t be more help, stud."
+    honeycrisp "诶嘿嘿……这样还是很重，我也帮不上什么忙了，抱歉了，老兄。"
 
 # game/farm.rpy#L2470
 translate chinese blossomcowgirl_8ab57922:
 
     # mc "No need to apologise, my species is a lot weaker than yours so I’m not as good at lifting."
-    mc "No need to apologise, my species is a lot weaker than yours so I’m not as good at lifting."
+    mc "不用道歉，我们人类比你们弱太多了，所以我可不擅长抬东西。"
 
 # game/farm.rpy#L2472
 translate chinese blossomcowgirl_e748c4f1:
 
     # honeycrisp "Even a stud like you has their weaknesses huh?"
-    honeycrisp "Even a stud like you has their weaknesses huh?"
+    honeycrisp "想你这样的帅小伙也有弱点吗，哈？"
 
 # game/farm.rpy#L2473
 translate chinese blossomcowgirl_3b54c2d5:
