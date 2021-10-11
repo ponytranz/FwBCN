@@ -3098,7 +3098,7 @@ translate chinese creamvmissionary_654cd5ad:
 translate chinese creamvmissionary_d97f8bac:
 
     # "With a smirk, the drunken Honeycrisp pushes me down onto her bed using the hand that was once in a cast. Now that it's free, I'm at the complete mercy of this girl's sexual appetite, and she's ready to show it in full force tonight."
-    "醉醺醺的Honeycrisp用那只曾经打过石膏的手把我推倒在她的床上。现在它自由了，我完全听从这个女孩性欲的摆布，而她今晚已经准备好全面展示它。"
+    "醉醺醺的Honeycrisp用那只曾经打过石膏的手把我推倒在她的床上。现在它痊愈了，我完全听从这个女孩性欲的摆布，而她准备在今晚释放自己的全部野性。"
 
 # game/bakery.rpy#L961
 translate chinese creamvmissionary_ef7cb4e2:
@@ -3182,7 +3182,7 @@ translate chinese creamvmissionary_36c63ee8:
 translate chinese creamvmissionary_3d68d6f8:
 
     # "I reach back and give her a slap on the ass causing her to jolt up with surprise and giggle."
-    "我给了她一个耳光，她惊讶地向后跳，我咯咯地笑了起来。"
+    "我给了她的丰臀一巴掌，让她娇躯一颤，随后咯咯地笑了出来。"
 
 # game/bakery.rpy#L1004
 translate chinese creamvmissionary_c94990df:
@@ -3230,13 +3230,13 @@ translate chinese creamvmissionary_297b4fa5:
 translate chinese creamvmissionary_5c2ec407:
 
     # "It's clear that Honey is driven by pure pleasure and sexual instinct right now, she doesn't care about anything but sex as she blissfully moans."
-    "很明显，Honey现在被纯粹的快感和性本能所驱使，她幸福地呻吟着，除了交配，什么都不在乎。"
+    "很明显，Honey现在被纯粹的快感和性本能所驱使，她幸福地呻吟着，除了交合，什么都不在乎。"
 
 # game/bakery.rpy#L1024
 translate chinese creamvmissionary_ef36abc9:
 
     # "Giving herself completely to the lust, Honey rides me with complete focus as she pushes herself to her orgasm. All while I try to hold back mine."
-    "Honey让自己完全满足于欲望，她将自己推向高潮时全神贯注地骑着我，似乎怕我逃跑。"
+    "Honey让自己完全为欲望所驱动，她将自己推向高潮时全神贯注地骑着我，而我则在努力忍耐，不想就此交货。"
 
 # game/bakery.rpy#L1027
 translate chinese creamvmissionary_ddecad70:
@@ -3296,7 +3296,7 @@ translate chinese creamvmissionary_32ae230b:
 translate chinese creamvmissionary_3c577794:
 
     # "The feeling of my cum inside her causes Honey to swoon and orgasm again as the familiar contractions of an orgasming mare return to my cock."
-    "当高潮的时候来临，雌驹阴部的收缩，传递到我的阴茎时，我在她体内大爆射的感觉使苹果杰克再次晕倒并再次达到高潮。"
+    "当高潮的时候来临，雌驹阴部的收缩，传递到我的阴茎时，我在她体内大爆射的感觉使Honey再次晕倒并再次达到高潮。"
 
 # game/bakery.rpy#L1055
 translate chinese creamvmissionary_71bb6a77:

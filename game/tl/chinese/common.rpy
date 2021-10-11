@@ -450,7 +450,7 @@ translate chinese strings:
 
     # renpy/common/00gui.rpy_L392_0
     old "Are you sure you want to skip to the next choice?"
-    new "Are you sure you want to skip to the next choice?"
+    new "你确定要跳到下一个选项吗？"
 
     # renpy/common/00gui.rpy_L393_0
     old "Are you sure you want to skip unseen dialogue to the next choice?"
@@ -646,7 +646,7 @@ translate chinese strings:
 
     # renpy/common/00preferences.rpy_L583_0
     old "Clipboard voicing enabled. Press 'shift+C' to disable."
-    new "Clipboard voicing enabled. Press 'shift+C' to disable."
+    new "已启用剪贴板语音。按下'shift+C'以禁用。"
 
     # renpy/common/00preferences.rpy_L585_0
     old "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
@@ -830,27 +830,27 @@ translate chinese strings:
 
     # renpy/common/00updater.rpy_L374_0
     old "The Ren'Py Updater is not supported on mobile devices."
-    new "The Ren'Py Updater is not supported on mobile devices."
+    new "移动设备不支持Ren'Py 更新。"
 
     # renpy/common/00updater.rpy_L496_0
     old "An error is being simulated."
-    new "An error is being simulated."
+    new "正在模拟一个错误。"
 
     # renpy/common/00updater.rpy_L680_0
     old "Either this project does not support updating, or the update status file was deleted."
-    new "Either this project does not support updating, or the update status file was deleted."
+    new "该项目不支持更新，或者更新状态文件已被删除。"
 
     # renpy/common/00updater.rpy_L694_0
     old "This account does not have permission to perform an update."
-    new "This account does not have permission to perform an update."
+    new "该帐户没有执行更新的权限。"
 
     # renpy/common/00updater.rpy_L697_0
     old "This account does not have permission to write the update log."
-    new "This account does not have permission to write the update log."
+    new "该帐户没有写入更新日志的权限。"
 
     # renpy/common/00updater.rpy_L724_0
     old "Could not verify update signature."
-    new "Could not verify update signature."
+    new "无法验证更新签名。"
 
     # renpy/common/00updater.rpy_L995_0
     old "The update file was not downloaded."
@@ -1022,7 +1022,7 @@ translate chinese strings:
 
     # renpy/common/00gltest.rpy_L255_0
     old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display."
-    new "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display."
+    new "它的图形驱动程序可能是过时的或不能正确操作。这可能会导致缓慢或不正确的图形显示。"
 
     # renpy/common/00gltest.rpy_L259_0
     old "The {a=edit:1:log.txt}log.txt{/a} file may contain information to help you determine what is wrong with your computer."
@@ -1034,7 +1034,7 @@ translate chinese strings:
 
     # renpy/common/00gltest.rpy_L269_0
     old "Continue, Show this warning again"
-    new "Continue, Show this warning again"
+    new "继续，再次显示此警告"
 
     # renpy/common/00gltest.rpy_L273_0
     old "Continue, Don't show warning again"
