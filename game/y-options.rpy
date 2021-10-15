@@ -249,6 +249,9 @@ init python:
 
     ## To archive files, classify them as 'archive'.
 
+    build.archive('chinese','all')
+    build.classify('game/tl/chinese/**.rpyc', 'chinese')
+
     build.classify('game/**.png', 'archive')
     build.classify('game/**.jpg', 'archive')
     build.classify('game/**.mp3', 'archive')
@@ -256,8 +259,7 @@ init python:
     build.classify('game/**.wav', 'archive')
     build.classify('game/**.rpt', 'archive')
     build.classify('game/**.rpyc', 'archive')
-    # build.classify('game/**.png', 'archive')
-    # build.classify('game/**.jpg', 'archive')
+
     ## Files matching documentation patterns are duplicated in a mac app build,
     ## so they appear in both the app and the zip file.
 
