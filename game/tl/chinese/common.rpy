@@ -866,7 +866,7 @@ translate chinese strings:
 
     # renpy/common/00updater.rpy_L1433_0
     old "Updater"
-    new "Updater"
+    new "更新"
 
     # renpy/common/00updater.rpy_L1440_0
     old "An error has occured:"
@@ -1026,11 +1026,11 @@ translate chinese strings:
 
     # renpy/common/00gltest.rpy_L259_0
     old "The {a=edit:1:log.txt}log.txt{/a} file may contain information to help you determine what is wrong with your computer."
-    new "The {a=edit:1:log.txt}log.txt{/a} file may contain information to help you determine what is wrong with your computer."
+    new "{a=edit:1:log.txt}log.txt{/a}文件可能包含信息，以帮助您确定计算机的问题所在。"
 
     # renpy/common/00gltest.rpy_L264_0
     old "More details on how to fix this can be found in the {a=[url]}documentation{/a}."
-    new "More details on how to fix this can be found in the {a=[url]}documentation{/a}."
+    new "有关如何解决此问题的更多详细信息，请参见 {a=[url]}文档{/a}."
 
     # renpy/common/00gltest.rpy_L269_0
     old "Continue, Show this warning again"
