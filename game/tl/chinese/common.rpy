@@ -830,7 +830,7 @@ translate chinese strings:
 
     # renpy/common/00updater.rpy_L374_0
     old "The Ren'Py Updater is not supported on mobile devices."
-    new "移动设备不支持Ren'Py 更新。"
+    new "移动设备不支持内置更新。"
 
     # renpy/common/00updater.rpy_L496_0
     old "An error is being simulated."
@@ -838,27 +838,27 @@ translate chinese strings:
 
     # renpy/common/00updater.rpy_L680_0
     old "Either this project does not support updating, or the update status file was deleted."
-    new "该项目不支持更新，或者更新状态文件已被删除。"
+    new "这个游戏不支持内置更新，或更新状态文件已被删除。"
 
     # renpy/common/00updater.rpy_L694_0
     old "This account does not have permission to perform an update."
-    new "该帐户没有执行更新的权限。"
+    new "当前帐户没有进行更新的权限。"
 
     # renpy/common/00updater.rpy_L697_0
     old "This account does not have permission to write the update log."
-    new "该帐户没有写入更新日志的权限。"
+    new "当前帐户没有权限记录更新日志。"
 
     # renpy/common/00updater.rpy_L724_0
     old "Could not verify update signature."
-    new "无法验证更新签名。"
+    new "无法验证更新包的签名。"
 
     # renpy/common/00updater.rpy_L995_0
     old "The update file was not downloaded."
-    new "更新文件未被下载。"
+    new "找不到下载的更新包。"
 
     # renpy/common/00updater.rpy_L1013_0
     old "The update file does not have the correct digest - it may have been corrupted."
-    new "更新文件没有正确的摘要-它可能已损坏。"
+    new "更新包没有正确的摘要，它可能已损坏。"
 
     # renpy/common/00updater.rpy_L1067_0
     old "While unpacking {}, unknown type {}."
@@ -866,7 +866,7 @@ translate chinese strings:
 
     # renpy/common/00updater.rpy_L1433_0
     old "Updater"
-    new "更新"
+    new "检查更新"
 
     # renpy/common/00updater.rpy_L1440_0
     old "An error has occured:"
