@@ -10520,7 +10520,7 @@ translate chinese eveningbarmenu_bf201f9a:
 translate chinese eveningbarmenu_7adf01ec:
 
     # wolfgirl "Hehe, green around the ears are ya? I can see why you'd say that if you live in Arcadia, this is by far the safest place in the country. If you were to travel somewhere else though, there's plenty of work opportunities for an adventurer like myself."
-    wolfgirl "呵呵，你不觉得菜鸟俩字都写在你脸上了吗？我知道你这么说是因为你住在Arcadia，这里是国内最安全的地方。要是你去别的地方旅行，工作机会我这样的冒险家一抓一大把。"
+    wolfgirl "呵呵，你不觉得菜鸟俩字都写在你脸上了吗？我知道你这么说是因为你住在Arcadia，这里是国内最安全的地方。要是你去别的地方旅行，工作机会对我这样的冒险家来说就是一抓一大把。"
 
 # game/bar.rpy#L3045
 translate chinese eveningbarmenu_1874ac8f:

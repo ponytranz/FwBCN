@@ -26297,14 +26297,14 @@
   {
     "id": 79426239,
     "createdAt": "2021-05-30T17:55:35.000Z",
-    "updatedAt": "2021-09-21T21:31:58.000Z",
+    "updatedAt": "2021-11-06T11:04:13.000Z",
     "key": "eveningbarmenu_7adf01ec",
     "original": "Hehe, green around the ears are ya? I can see why you'd say that if you live in Arcadia, this is by far the safest place in the country. If you were to travel somewhere else though, there's plenty of work opportunities for an adventurer like myself.",
-    "translation": "呵呵，你不觉得菜鸟俩字都写在你脸上了吗？我知道你这么说是因为你住在Arcadia，这里是国内最安全的地方。要是你去别的地方旅行，工作机会我这样的冒险家一抓一大把。",
+    "translation": "呵呵，你不觉得菜鸟俩字都写在你脸上了吗？我知道你这么说是因为你住在Arcadia，这里是国内最安全的地方。要是你去别的地方旅行，工作机会对我这样的冒险家来说就是一抓一大把。",
     "file": 272340,
-    "stage": 2,
+    "stage": 1,
     "project": 2414,
-    "uid": null,
+    "uid": 22440,
     "extra": null,
     "context": "说话人: wolfgirl \n代码: https://github.com/ponytranz/FwBCN/blob/empty/game/bar.rpy#L3044",
     "words": 47
