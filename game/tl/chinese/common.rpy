@@ -494,7 +494,7 @@ translate chinese strings:
 
     # renpy/common/00preferences.rpy_L288_0
     old "text speed"
-    new "text speed"
+    new "文本播放速度"
 
     # renpy/common/00preferences.rpy_L296_0
     old "joystick"
@@ -506,7 +506,7 @@ translate chinese strings:
 
     # renpy/common/00preferences.rpy_L303_0
     old "skip"
-    new "skip"
+    new "跳过"
 
     # renpy/common/00preferences.rpy_L306_0
     old "skip unseen [text]"
@@ -514,11 +514,11 @@ translate chinese strings:
 
     # renpy/common/00preferences.rpy_L311_0
     old "skip unseen text"
-    new "skip unseen text"
+    new "跳过未读文本"
 
     # renpy/common/00preferences.rpy_L313_0
     old "begin skipping"
-    new "begin skipping"
+    new "开始跳过"
 
     # renpy/common/00preferences.rpy_L317_0
     old "after choices"
@@ -526,7 +526,7 @@ translate chinese strings:
 
     # renpy/common/00preferences.rpy_L324_0
     old "skip after choices"
-    new "skip after choices"
+    new "按下选项后继续跳过"
 
     # renpy/common/00preferences.rpy_L326_0
     old "auto-forward time"
@@ -618,11 +618,11 @@ translate chinese strings:
 
     # renpy/common/00preferences.rpy_L496_0
     old "music volume"
-    new "music volume"
+    new "音乐音量"
 
     # renpy/common/00preferences.rpy_L497_0
     old "sound volume"
-    new "sound volume"
+    new "音效音量"
 
     # renpy/common/00preferences.rpy_L498_0
     old "voice volume"
@@ -630,11 +630,11 @@ translate chinese strings:
 
     # renpy/common/00preferences.rpy_L499_0
     old "mute music"
-    new "mute music"
+    new "关闭音乐"
 
     # renpy/common/00preferences.rpy_L500_0
     old "mute sound"
-    new "mute sound"
+    new "关闭音效"
 
     # renpy/common/00preferences.rpy_L501_0
     old "mute voice"
@@ -642,7 +642,7 @@ translate chinese strings:
 
     # renpy/common/00preferences.rpy_L502_0
     old "mute all"
-    new "mute all"
+    new "全部静音"
 
     # renpy/common/00preferences.rpy_L583_0
     old "Clipboard voicing enabled. Press 'shift+C' to disable."
