@@ -4802,14 +4802,14 @@
   {
     "id": 79434405,
     "createdAt": "2021-05-30T17:55:39.000Z",
-    "updatedAt": "2021-09-21T21:32:17.000Z",
+    "updatedAt": "2021-11-27T10:54:46.000Z",
     "key": "farmvisit1_180965fa",
     "original": "She just seems to be waiting for me to say something... Oh, right! I was going to ask about trying to find employees for her sister.",
-    "translation": "她好像在等我说些什么... 哦，对了！我本来是想问帮她妹妹找员工的事。",
+    "translation": "她好像在等我说些什么... 哦，对了！我本来是想问帮她姐姐找员工的事。",
     "file": 272347,
     "stage": 1,
     "project": 2414,
-    "uid": null,
+    "uid": 22062,
     "extra": null,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwBCN/blob/empty/game/farm.rpy#L620",
     "words": 26

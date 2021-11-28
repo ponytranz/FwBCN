@@ -1922,7 +1922,7 @@ translate chinese farmvisit1_89fd6089:
 translate chinese farmvisit1_180965fa:
 
     # "She just seems to be waiting for me to say something... Oh, right! I was going to ask about trying to find employees for her sister."
-    "她好像在等我说些什么... 哦，对了！我本来是想问帮她妹妹找员工的事。"
+    "她好像在等我说些什么... 哦，对了！我本来是想问帮她姐姐找员工的事。"
 
 # game/farm.rpy#L622
 translate chinese farmvisit1_6e8e24b9:
