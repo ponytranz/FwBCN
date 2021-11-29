@@ -734,7 +734,7 @@ translate chinese dawnrcg_98351e5e:
 translate chinese dawnrcg_40104e9c:
 
     # "Pushing my cock back somewhat with her rump, she positions our genitalia in such a way that she can grind them together."
-    "用屁股顶着我的阴茎，她摆出了可以一起摩擦我俩生殖器的体位。"
+    "用丰臀顶着我的阴茎，她摆出了可以一起摩擦我俩性器的体位。"
 
 # game/dawn.rpy#L277
 translate chinese dawnrcg_f04f0c35:
@@ -1004,7 +1004,7 @@ translate chinese dawnvisit2_d79c6fe3:
 translate chinese dawnvisit2_fcb5d130:
 
     # dawn "Afraid not, I have a business to run! Mmmhehe, but I’m simply delighted that you came to play with me regardless."
-    dawn "恐怕是的，我得照料夜店的生意！Mmmhehe，可你来找我玩，我还是无比开心。"
+    dawn "恐怕是的，我得照料夜店的生意！嗯哼哼~可你来找我玩，我还是无比开心。"
 
 # game/dawn.rpy#L350
 translate chinese dawnvisit2_ecbc6e2c:
@@ -1028,7 +1028,7 @@ translate chinese dawnvisit2_64db664c:
 translate chinese dawnvisit2_248c96f2:
 
     # dawn "My treat darling, I fully intend to soften you up, before getting you hard again… Mmmhehe…"
-    dawn "我请你，亲爱的。我只是想让你放松，然后和你用力的搞~Mmmhehe~"
+    dawn "我请你，亲爱的。我只是想让你放松，然后和你用力的搞~嗯哼哼~"
 
 # game/dawn.rpy#L355
 translate chinese dawnvisit2_e5ce27ed:
@@ -1076,7 +1076,7 @@ translate chinese dawnvisit2_476528f7:
 translate chinese dawnvisit2_ce773bfb:
 
     # dawn "Mmmhehe, I know all about you cute little humans. I’ve never seen one naked before though. I do believe you’ve stolen a part of my innocence that I’ll never get back."
-    dawn "Mmmhehe，我完全了解你们这些人类哦，虽然之前没见到过裸体的。我相信你偷走了一份我的贞洁，而我永远也取不回来了哦。"
+    dawn "嗯，哼哼~我完全了解你们这些人类哦，虽然之前没见到过裸体的。我相信你偷走了一份我的贞洁，而我永远也取不回来了哦。"
 
 # game/dawn.rpy#L366
 translate chinese dawnvisit2_a8f7ce62:
@@ -1124,7 +1124,7 @@ translate chinese dawnvisit2_3064e51c:
 translate chinese dawnvisit2_b7a2960c:
 
     # dawn "Ohhh, cat got your tongue? I haven’t even sat on your face yet… Mmmhehehe."
-    dawn "哦，你的舌头打结了？我都还没有坐在你的脸上呢~Mmmhehehe。"
+    dawn "哦，你的舌头打结了？我都还没有坐在你的脸上呢~嗯嘿嘿嘿。"
 
 # game/dawn.rpy#L376
 translate chinese dawnvisit2_d4920897:
@@ -1406,7 +1406,7 @@ translate chinese dawnvisit2_4dbff5d2:
 translate chinese dawnvisit2_62231659:
 
     # dawn "Ahh… That’s rare, you truly are a one of a kind man… Oh wait, no you aren’t! Mmmheheh."
-    dawn "啊。。。这可不常见，你真是独一无二。。。哦等等，你不是！Mmmheheh。"
+    dawn "啊。。。这可不常见，你真是独一无二。。。哦等等，你不是！哦呵呵呵~"
 
 # game/dawn.rpy#L444
 translate chinese dawnvisit2_1d5b8fc4:
@@ -1496,7 +1496,7 @@ translate chinese dawnvisit2_95b2ee1d:
 translate chinese dawnvisit2_1c6cb859:
 
     # dawn "Oh my, I’ll be responsible for dressing you? Mmmhehe, only if you undress me, kitten…"
-    dawn "天呐，我要负责为你着衣？Mnnhehe，除非你先褪我的衣，小猫咪~"
+    dawn "天呐，我要负责为你着衣？嗯哼哼~除非你先褪我的衣，小猫咪~"
 
 # game/dawn.rpy#L465
 translate chinese dawnvisit2_af3a39da:
@@ -1862,7 +1862,7 @@ translate chinese dawnv2c1_226d23bb:
 translate chinese dawnv2c1_68d32084:
 
     # dawn "Mmmhehe, maybe! But I'm the owner, not the manager. That means I don't actually have to do anything, ahaha!"
-    dawn "Mmmhehe，或许吧！不过我是店主，而不是经理。那意味着我啥也不用做，啊哈哈！"
+    dawn "嗯嘿嘿，或许吧！不过我是店主，而不是经理。那意味着我啥也不用做，啊哈哈！"
 
 # game/dawn.rpy#L580
 translate chinese dawnv2c1_2b969f9f:
@@ -1976,7 +1976,7 @@ translate chinese dawnv2c1b_87ed872a:
 translate chinese dawnv2c1b_eee4b6a9:
 
     # dawn "Mmmhehe, care to dance?"
-    dawn "Mmmhehe，愿意共舞吗？"
+    dawn "嗯哼哼~愿意共舞吗？"
 
 # game/dawn.rpy#L612
 translate chinese dawnv2c1c_0e7fee09:
@@ -2024,7 +2024,7 @@ translate chinese dawnv2c1d_fb476f5f:
 translate chinese dawnv2c1d_c236adf4:
 
     # dawn "Mmhehe. I’m always flirting with you, and yet, you’ve seen less of me than any other mare you’ve ever laid your eyes upon."
-    dawn "Mmmhehe。我总是在和你调情，可是在你所有见过的雌驹中，我是你‘了解’最少的。（意味主角见到雌驹就上）"
+    dawn "嗯哼哼~我总是在和你调情，可是在你所有见过的雌驹中，我是你‘了解’最少的。（意味主角见到雌驹就上）"
 
 # game/dawn.rpy#L630
 translate chinese dawnv2c1d_52897cc1:
@@ -2162,13 +2162,13 @@ translate chinese dawnv2bj_47db5473:
 translate chinese dawnv2bj_7f64d7a9:
 
     # "Simultaneously she takes to time to adjust herself so her breasts are brazenly pushed against my shaft, where she continues to fondle her breasts enticingly now that they’re in perfect view."
-    "Simultaneously she takes to time to adjust herself so her breasts are brazenly pushed against my shaft, where she continues to fondle her breasts enticingly now that they’re in perfect view."
+    "与此同时，她调整了姿势，用乳房完全夹住了我的阴茎，并诱人地自抚着一览无余的乳房。"
 
 # game/dawn.rpy#L671
 translate chinese dawnv2bj_9a153e2a:
 
     # dawn "You finally saw something under my dress, mmhehe, like what you see, my little duckling? *Slurp, lick*"
-    dawn "你终于见到我裙底的景色了，mmhehe，喜欢吗，我的小鸭子？（吮，舔）"
+    dawn "你终于见到我裙底的景色了，嗯哼哼~喜欢吗，我的小鸭子？（吮，舔）"
 
 # game/dawn.rpy#L672
 translate chinese dawnv2bj_1f783760:
@@ -2870,7 +2870,7 @@ translate chinese dawnvisit3_e4ae9d73:
 translate chinese dawnvisit3_68fddd0f:
 
     # dawn "Wouldn’t you like to know, mmmhehehehe…"
-    dawn "你猜，mmmhehehehe……"
+    dawn "你猜，嗯哼哼哼哼~~~……"
 
 # game/dawn.rpy#L880
 translate chinese dawnvisit3_24e1fbe4:
@@ -2882,7 +2882,7 @@ translate chinese dawnvisit3_24e1fbe4:
 translate chinese dawnvisit3_b5fbca44:
 
     # "A challenge to have sex with a ‘cougar’? I wanna have sex with you Dawn, not some random human."
-    "和一只饥渴难耐的“美洲豹熟女”性交的挑战？Dawn，我想和你性交，而不是随便某一个人类。"
+    "和一只饥渴难耐的“熟女”性交的挑战？Dawn，我想和你性交，而不是随便某一个人类。"
 
 # game/dawn.rpy#L882
 translate chinese dawnvisit3_508bd77f:
@@ -2978,7 +2978,7 @@ translate chinese dawnvisit3_3b2f4058:
 translate chinese dawnvisit3_811e34ce:
 
     # paurora "Phew, and here I thought my closet was haunted again. Come on in, dearies, no need to be shy."
-    paurora "Phew，我还以为衣柜又闹鬼了。快过来，亲爱的，没必要害羞。"
+    paurora "呼，我还以为衣柜又闹鬼了。快过来，亲爱的，没必要害羞。"
 
 # game/dawn.rpy#L911
 translate chinese dawnvisit3_326ff42d:
@@ -3254,7 +3254,7 @@ translate chinese dawnvisit3_b10ebee8:
 translate chinese dawnvisit3_88847d6a:
 
     # "Wait… Is this… the cougar?"
-    "等等……难道她就是……“美洲豹熟女”？"
+    "等等……难道她就是……之前提到过的“熟女”？"
 
 # game/dawn.rpy#L983
 translate chinese dawnvisit3_b21c68b6:
@@ -3266,7 +3266,7 @@ translate chinese dawnvisit3_b21c68b6:
 translate chinese dawnvisit3_2c3bcb08:
 
     # "I'm not sure who I'm more ashamed in... Myself for not realizing Aurora was the cougar, or Dawn for so obviously setting us up. Sheesh, that girl…"
-    "我不知道我更为谁感到羞耻……没意识到Aurora是美洲豹熟女的我，还是有意掺和我两的Dawn。天呐，那个女孩……"
+    "我不知道我更为谁感到羞耻……没意识到Aurora就是那个熟女的我，还是有意掺和我两的Dawn。天呐，那个女孩……"
 
 # game/dawn.rpy#L989
 translate chinese dawnvisit3_d2f1f5c3:
@@ -3428,7 +3428,7 @@ translate chinese ppclsex_ff0bac28:
 translate chinese ppclsex_6de2112e:
 
     # "Sheesh, just who's idea was this in the first place? Dawn's or Principal Aurora's?"
-    "Sheesh，这到底是谁的主意？Dawn还是Aurora校长？"
+    "噫，这到底是谁的主意？Dawn还是Aurora校长？"
 
 # game/dawn.rpy#L1042
 translate chinese ppclsex_85989ad8:
@@ -3716,7 +3716,7 @@ translate chinese ppclsex_4f4df614:
 translate chinese ppclsex_ea1ba11e:
 
     # dawn "Mmmhehe, it wasn't?"
-    dawn "Mmmhehe，没有吗？"
+    dawn "嗯哼哼~，没有吗？"
 
 # game/dawn.rpy#L1128
 translate chinese ppclsex_ac5c7dd3:
@@ -4112,7 +4112,7 @@ translate chinese ppclsex_7a4daa01:
 translate chinese ppclsex_9c32c5a4:
 
     # dawn "Psshhh, if it’s heaven, then why have you been sinning so much? Mmmhehe!"
-    dawn "Psshhh，如果是天堂，你为什么还要犯下这么多地罪行呢？Mmmhehe！"
+    dawn "切，如果是天堂，你为什么还要犯下这么多地罪行呢？嗯~嘿嘿！"
 
 # game/dawn.rpy#L1222
 translate chinese ppclsex_2968a87c:
@@ -4160,7 +4160,7 @@ translate chinese ppclsex_9f2a5a75:
 translate chinese ppclsex_e7f02abe:
 
     # dawn "Yet! Mmhehe!"
-    dawn "还没发生！Mmhehe！"
+    dawn "还没发生！嗯哼哼！"
 
 # game/dawn.rpy#L1243
 translate chinese ppclsex_59abc87d:
@@ -4700,7 +4700,7 @@ translate chinese ppclsex_53173792:
 translate chinese ppclsex_9e39b7ec:
 
     # dawn "At least, I could do you the courtesy of removing her, mmheheh."
-    dawn "至少，我可以为了你脱掉它，mmheheh。"
+    dawn "至少，我可以为了你脱掉它，嗯哼哼~"
 
 # game/dawn.rpy#L1384
 translate chinese ppclsex_3b16556b:
@@ -4784,7 +4784,7 @@ translate chinese ppclsex_50720a1c:
 translate chinese dawnv3sex_23a5f69d:
 
     # dawn "Well, aren’t you glad I wore a dress now? Mmmhehe!"
-    dawn "行，那我穿裙子你会开心吗？Mmmhehe！"
+    dawn "行，那我穿裙子你会开心吗？嗯~嘿嘿！"
 
 # game/dawn.rpy#L1410
 translate chinese dawnv3sex_515a5479:
@@ -4826,7 +4826,7 @@ translate chinese dawnv3sex_1b4e0bbc:
 translate chinese dawnv3sex_4a2b8352:
 
     # dawn "To just… close your eyes, lay your tail aside and… Mmhehe…"
-    dawn "仅仅是……闭上眼，尾巴摆到一边，然后……Mmhehe……"
+    dawn "仅仅是……闭上眼，尾巴摆到一边，然后……嗯哼哼~……"
 
 # game/dawn.rpy#L1419
 translate chinese dawnv3sex_85ca7153:
@@ -4862,7 +4862,7 @@ translate chinese dawnv3sex_98351e5e:
 translate chinese dawnv3sex_40104e9c:
 
     # "Pushing my cock back somewhat with her rump, she positions our genitalia in such a way that she can grind them together."
-    "Pushing my cock back somewhat with her rump, she positions our genitalia in such a way that she can grind them together."
+    "用丰臀顶着我的阴茎，她摆出了可以一起摩擦我俩性器的体位。"
 
 # game/dawn.rpy#L1432
 translate chinese dawnv3sex_28f96b31:
@@ -6236,7 +6236,7 @@ translate chinese dawnv4threesome_4cc155da:
 translate chinese dawnv4threesome_67a41171:
 
     # dawn "Mmm, mmmmm… Hehehe…"
-    dawn "Mmm, mmmmm…… Hehehe……"
+    dawn "嗯，嗯嗯嗯…… 嘿嘿嘿……"
 
 # game/dawn.rpy#L1856
 translate chinese dawnv4threesome_e45d1dd3:
@@ -6272,7 +6272,7 @@ translate chinese dawnv4threesome_58a086c7:
 translate chinese dawnv4threesome_d8f82a1f:
 
     # dawn "Hehe, I didn’t even need to ask her to spread her legs."
-    dawn "Hehe，她自觉地就把双腿张开了。"
+    dawn "呵呵，她自觉地就把双腿张开了。"
 
 # game/dawn.rpy#L1867
 translate chinese dawnv4threesome_bc2a847f:
@@ -6302,7 +6302,7 @@ translate chinese dawnv4threesome_d7069a19:
 translate chinese dawnv4threesome_5473b201:
 
     # dawn "Ooohh, hehe, you two really do have a deeper relationship than I expected… I’m expecting great things, [playername]."
-    dawn "Ooohh, hehe, 我们的关系比我预计的还有亲密……我抱着很大的期待哦，[playername]。"
+    dawn "噢, 嘿嘿, 我们的关系比我预计的还有亲密……我抱着很大的期待哦，[playername]。"
 
 # game/dawn.rpy#L1872
 translate chinese dawnv4threesome_4e7623ad:

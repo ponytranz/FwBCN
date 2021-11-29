@@ -80,7 +80,7 @@ translate chinese musicstudio_c3044bf2:
 translate chinese musicstudio_c5130d62:
 
     # melody "Look at you staring around in awe. Looking for some sleezy mares?"
-    melody "看看你惊叹地盯着四周，想找些光滑的母马吗？"
+    melody "看看你惊叹地盯着四周，想找些光溜溜的雌驹吗？"
 
 # game/city.rpy#L78
 translate chinese musicstudio_582abb8d:
@@ -302,7 +302,7 @@ translate chinese musicstudio_ecd8fd3a:
 translate chinese musicstudio_fca1f2fd:
 
     # claire "It's 'me'? I don't think we've ever met before."
-    claire "我？我不认为我们之前见过。"
+    claire "什么是“我”？我不认为我们之前见过。"
 
 # game/city.rpy#L154
 translate chinese musicstudio_d0284560:
@@ -1016,7 +1016,7 @@ translate chinese musicstudio_d52be1b7:
 translate chinese musicstudio_9c227d7d:
 
     # claire "Well, it's just... Have you had sex with my sister before? L-Like, purchased her services?"
-    claire "嗯，只是... 你以前和我妹妹上过床吗？像-像是，买了她的服务？"
+    claire "嗯，只是... 你以前和我姐姐上过床吗？像-像是，买了她的服务？"
 
 # game/city.rpy#L355
 translate chinese musicstudio_ba10778b:

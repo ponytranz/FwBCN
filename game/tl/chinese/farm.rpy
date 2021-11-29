@@ -6656,7 +6656,7 @@ translate chinese farmvisit2choice1_b946098d_1:
 translate chinese farmvisit2choice1_2e8137d2:
 
     # butters "No progress on the little sister then? I thought you and her were gonna..."
-    butters "妹妹的事没进展吗？我以为你和她会…"
+    butters "和她妹妹的事没进展吗？我以为你和她会…"
 
 # game/farm.rpy#L2022
 translate chinese farmvisit2choice1_027548cf_1:
