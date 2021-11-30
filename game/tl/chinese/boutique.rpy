@@ -980,7 +980,7 @@ translate chinese melodyhandjob2_2d11b214:
 translate chinese melodyhandjob2_74526893:
 
     # mc "Okay, that was a bit mean."
-    mc "好吧，那是有点刻薄。"
+    mc "好吧，这句话有点刻薄了。"
 
 # game/boutique.rpy#L299
 translate chinese melodyhandjob2_ab3079aa:

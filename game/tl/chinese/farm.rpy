@@ -620,7 +620,7 @@ translate chinese farmvisit1_ca7faf73:
 translate chinese farmvisit1_d666f417:
 
     # honeycrisp "You came just in time, I’ve been struggling to keep up the farm alone with mah dang cast and I'm running behind on apple deliveries."
-    honeycrisp "你来的正是时候，老娘一个人打着他妈的石膏拼命运营这个农场，现在都快赶不上苹果的供货时间了。"
+    honeycrisp "你来的正是时候，只有老娘自己打着他妈的石膏拼命运营这个农场，现在都快赶不上苹果的供货时间了。"
 
 # game/farm.rpy#L245
 translate chinese farmvisit1_063e0fdd:
@@ -7958,7 +7958,7 @@ translate chinese blossomcowgirl_ee904f2c:
 translate chinese blossomcowgirl_35c1a8db:
 
     # mc "You did push yourself a lot, and you did all of the work too."
-    mc "因为你太累了，所有的活都是你一个人干的。"
+    mc "因为你太累了，所有的活都是你一个小马干的。"
 
 # game/farm.rpy#L2384
 translate chinese blossomcowgirl_04a5e393:
@@ -8846,7 +8846,7 @@ translate chinese blossomcowgirl_095f6dba:
 translate chinese blossomcowgirl_e02ffaf4:
 
     # mc "That’s great news! Ever since I arrived I knew this farm was far too big for just a single person to run it."
-    mc "这消息太棒了！在我第一次来农场的时候，我就感觉这里太大了，只靠一个人经营难度很大。"
+    mc "这消息太棒了！在我第一次来农场的时候，我就感觉这里太大了，光凭一马之力经营难度很大。"
 
 # game/farm.rpy#L2623
 translate chinese blossomcowgirl_7cf075d2:
@@ -8900,7 +8900,7 @@ translate chinese blossomcowgirl_ab2b2f29:
 translate chinese blossomcowgirl_047e3950:
 
     # anna "I’m surprised Honey managed to fill this many barrels all by herself, that girl must'a been working fifteen hour days."
-    anna "惊了，Honey一个人就装了这么多桶子，她一天肯定得干将近15个小时吧。"
+    anna "惊了，Honey一个小马就装了这么多桶子，她一天肯定得干将近15个小时吧。"
 
 # game/farm.rpy#L2636
 translate chinese blossomcowgirl_57304c99:
@@ -9674,7 +9674,7 @@ translate chinese farmvisit3honeydialogue_0bdd1006:
 translate chinese farmvisit3honeydialogue_09d6379e:
 
     # mc "Honey was trying to run that entire farm on her own with her dominant hand in a cast."
-    mc "Honey的手受伤了，可她还是想靠自己一个人来经营整座农场。"
+    mc "Honey的手受伤了，可她还是想靠自己一个小马来经营整座农场。"
 
 # game/farm.rpy#L2878
 translate chinese farmvisit3honeydialogue_0fee299c:
@@ -13166,7 +13166,7 @@ translate chinese annasex_1bf590df:
 translate chinese annasex_3164a1b5:
 
     # anna "Hehe, we won’t fuck my heat into next week with just one go."
-    anna "嘿嘿，到了下个星期，我一个人可没办法解决饥渴的事了。"
+    anna "嘿嘿，到了下个星期，我光凭自己可没办法解决饥渴的事了。"
 
 # game/farm.rpy#L3966
 translate chinese annasex_1c9f72dd:

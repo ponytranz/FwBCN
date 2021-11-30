@@ -2447,14 +2447,14 @@
   {
     "id": 79426834,
     "createdAt": "2021-05-30T17:55:36.000Z",
-    "updatedAt": "2021-09-21T21:32:00.000Z",
+    "updatedAt": "2021-11-29T04:06:37.000Z",
     "key": "melodyhandjob2_74526893",
     "original": "Okay, that was a bit mean.",
-    "translation": "好吧，那是有点刻薄。",
+    "translation": "好吧，这句话有点刻薄了。",
     "file": 272341,
     "stage": 1,
     "project": 2414,
-    "uid": null,
+    "uid": 22062,
     "extra": null,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwBCN/blob/empty/game/boutique.rpy#L297",
     "words": 6

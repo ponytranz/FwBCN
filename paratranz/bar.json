@@ -27332,14 +27332,14 @@
   {
     "id": 79426308,
     "createdAt": "2021-05-30T17:55:35.000Z",
-    "updatedAt": "2021-09-21T21:31:58.000Z",
+    "updatedAt": "2021-11-29T04:07:08.000Z",
     "key": "eveningbarmenu_7383dce4",
     "original": "She tells me to catch her in the bar again sometime, she won't pass the opportunity if she sees me alone.",
-    "translation": "她告诉我可以是不是在酒吧和她聚聚，只要她看到我孤身一人，她不会放过这个机会的。",
+    "translation": "她告诉我可以时不时在酒吧和她聚聚，只要她看到我孤身一马，她不会放过这个机会的。",
     "file": 272340,
-    "stage": 2,
+    "stage": 1,
     "project": 2414,
-    "uid": null,
+    "uid": 22062,
     "extra": null,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwBCN/blob/empty/game/bar.rpy#L3178",
     "words": 21

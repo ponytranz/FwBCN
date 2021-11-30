@@ -10934,7 +10934,7 @@ translate chinese eveningbarmenu_1c4f2d90:
 translate chinese eveningbarmenu_7383dce4:
 
     # "She tells me to catch her in the bar again sometime, she won't pass the opportunity if she sees me alone."
-    "她告诉我可以是不是在酒吧和她聚聚，只要她看到我孤身一人，她不会放过这个机会的。"
+    "她告诉我可以时不时在酒吧和她聚聚，只要她看到我孤身一马，她不会放过这个机会的。"
 
 # game/bar.rpy#L3183
 translate chinese eveningbarmenu_c0e32efb:
