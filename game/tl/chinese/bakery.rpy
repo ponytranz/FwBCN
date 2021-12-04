@@ -5354,7 +5354,7 @@ translate chinese bakeryvisit2_53d4bbc5:
 translate chinese bakeryvisit2_15cbd38b:
 
     # cream "You’ll just have to find out, [playername]!"
-    cream "别急啊[plaername]，你马上就知道了！"
+    cream "别急啊[playername]，你马上就知道了！"
 
 # game/bakery.rpy#L1628
 translate chinese bakeryvisit2_3509df32:

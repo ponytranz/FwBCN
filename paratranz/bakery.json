@@ -13382,14 +13382,14 @@
   {
     "id": 79424065,
     "createdAt": "2021-05-30T17:55:35.000Z",
-    "updatedAt": "2021-09-21T21:31:53.000Z",
+    "updatedAt": "2021-12-03T16:35:36.000Z",
     "key": "bakeryvisit2_15cbd38b",
     "original": "You’ll just have to find out, [playername]!",
-    "translation": "别急啊[plaername]，你马上就知道了！",
+    "translation": "别急啊[playername]，你马上就知道了！",
     "file": 272339,
     "stage": 1,
     "project": 2414,
-    "uid": null,
+    "uid": 20927,
     "extra": null,
     "context": "说话人: cream \n代码: https://github.com/ponytranz/FwBCN/blob/empty/game/bakery.rpy#L1627",
     "words": 7
