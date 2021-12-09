@@ -2207,14 +2207,14 @@
   {
     "id": 79430775,
     "createdAt": "2021-05-30T17:55:37.000Z",
-    "updatedAt": "2021-09-21T21:32:08.000Z",
+    "updatedAt": "2021-12-08T16:28:54.000Z",
     "key": "musicstudio_f6bbd59a",
     "original": "I can make you a special customer, just ask me for a 'special' when you arrive. I'll bring you in here and we can forget the spa and just fuck for fun.",
-    "translation": "我可以让你成为一个特别的顾客，只要你到了就点特殊服务。我会带你到这里，我们可以忘记温泉spy，只是为了好玩。",
+    "translation": "我可以让你成为一个特别的顾客，只要你到了就点特殊服务。我会带你到这里，我们可以忘记温泉spa，只是为了好玩。",
     "file": 272344,
     "stage": 1,
     "project": 2414,
-    "uid": null,
+    "uid": 22062,
     "extra": null,
     "context": "说话人: greymare \n代码: https://github.com/ponytranz/FwBCN/blob/empty/game/city.rpy#L321",
     "words": 32

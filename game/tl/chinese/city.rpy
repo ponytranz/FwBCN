@@ -884,7 +884,7 @@ translate chinese musicstudio_79558377:
 translate chinese musicstudio_f6bbd59a:
 
     # greymare "I can make you a special customer, just ask me for a 'special' when you arrive. I'll bring you in here and we can forget the spa and just fuck for fun."
-    greymare "我可以让你成为一个特别的顾客，只要你到了就点特殊服务。我会带你到这里，我们可以忘记温泉spy，只是为了好玩。"
+    greymare "我可以让你成为一个特别的顾客，只要你到了就点特殊服务。我会带你到这里，我们可以忘记温泉spa，只是为了好玩。"
 
 # game/city.rpy#L323
 translate chinese musicstudio_ca1f4c50:
