@@ -1184,7 +1184,7 @@ translate chinese farmvisit1_6498cd53:
 translate chinese farmvisit1_290d796a:
 
     # "I feel a flitter of butterflies in my stomach before we part, and she gleefully takes a sip of cider to break up the post-hug awkwardness."
-    "在我们离开前，我感觉到有蝴蝶在我的肚子里一掠而过，她高兴地喝了一口苹果汁来打破拥抱后的尴尬。"
+    "在我们离开前，我感觉到心里小鹿乱撞，她高兴地喝了一口苹果汁来打破拥抱后的尴尬。"
 
 # game/farm.rpy#L406
 translate chinese farmvisit1_318cfba9:
@@ -1736,7 +1736,7 @@ translate chinese farmvisit1_6f42ad6c:
 translate chinese farmvisit1_f5aa9f29:
 
     # blossom "This is so wonderful, yes! I’ve been worried sick about my sister! I’m so glad to hear we have an employee."
-    blossom "是的，这太棒了！我一直都很担心我妹妹！我很高兴听说我们有员工了。"
+    blossom "是的，这太棒了！我一直都很担心我姐姐！我很高兴听说我们有员工了。"
 
 # game/farm.rpy#L568
 translate chinese farmvisit1_81b90279:

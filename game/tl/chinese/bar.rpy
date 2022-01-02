@@ -10718,7 +10718,7 @@ translate chinese eveningbarmenu_fcfbd827:
 translate chinese eveningbarmenu_2f74c2a4:
 
     # "My orgasm finally arrives and overwhelms me with its glory, my vision turns white as a torrent of thick jism spews into Hilda's pussy and womb."
-    "终于，我到达了高潮，大量精液喷薄而出，量多得我都有点手足无措。当浓浓的精液灌满Butters的小穴和子宫时，我的眼前变得一片空白。"
+    "终于，我到达了高潮，大量精液喷薄而出，量多得我都有点手足无措。当浓浓的精液灌满Hilda的小穴和子宫时，我的眼前变得一片空白。"
 
 # game/bar.rpy#L3113
 translate chinese eveningbarmenu_ec87259c:
@@ -10886,7 +10886,7 @@ translate chinese eveningbarmenu_fcfbd827_1:
 translate chinese eveningbarmenu_2f45abb1:
 
     # "My orgasm finally arrives and overwhelms me with its glory, my vision turns white as a torrent of thick jism spews into Hilda's ass."
-    "终于，我到达了高潮，大量精液喷薄而出，量多得我都有点手足无措。当浓浓的精液灌满Butters的小穴和子宫时，我的眼前变得一片空白。"
+    "终于，我到达了高潮，大量精液喷薄而出，量多得我都有点手足无措。当浓浓的精液灌满Hilda的小穴和子宫时，我的眼前变得一片空白。"
 
 # game/bar.rpy#L3165
 translate chinese eveningbarmenu_d284e87e:
