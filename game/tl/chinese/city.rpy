@@ -1436,7 +1436,7 @@ translate chinese musicstudiomenub_cebfd763:
 translate chinese musicstudiomenub_db845d63:
 
     # claire "Yeah, actually. I enjoy hiking through the forests and mountains with my boyfriend."
-    claire "是的。实际上，我享受和男朋友一起徒步穿越森林和山脉的感觉。"
+    claire "是的。事实上，我享受和男朋友一起徒步穿越森林和山脉的感觉。"
 
 # game/city.rpy#L507
 translate chinese musicstudiomenub_07aa34c4:
