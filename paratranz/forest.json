@@ -2927,14 +2927,14 @@
   {
     "id": 79437954,
     "createdAt": "2021-05-30T17:55:41.000Z",
-    "updatedAt": "2021-09-21T21:32:25.000Z",
+    "updatedAt": "2022-01-21T11:48:44.000Z",
     "key": "forestvisit1choice2_3bb23f8e",
     "original": "The surface of the cave is natural and rocky, carelessness would make it easy to trip.",
-    "translation": "洞里的地面都是些天然形成的湿透，一不个小心就能摔成狗啃泥。",
+    "translation": "洞里的地面都是些天然形成的石头，一不个小心就能摔成狗啃泥。",
     "file": 272349,
     "stage": 1,
     "project": 2414,
-    "uid": null,
+    "uid": 20927,
     "extra": null,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwBCN/blob/empty/game/forest.rpy#L322",
     "words": 16

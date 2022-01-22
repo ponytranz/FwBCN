@@ -1172,7 +1172,7 @@ translate chinese forestvisit1choice2_ecc1fa2a:
 translate chinese forestvisit1choice2_3bb23f8e:
 
     # "The surface of the cave is natural and rocky, carelessness would make it easy to trip."
-    "洞里的地面都是些天然形成的湿透，一不个小心就能摔成狗啃泥。"
+    "洞里的地面都是些天然形成的石头，一不个小心就能摔成狗啃泥。"
 
 # game/forest.rpy#L323
 translate chinese forestvisit1choice2_4c190cfc:
