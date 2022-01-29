@@ -11996,7 +11996,7 @@ translate chinese penelopework_56e29a42:
 translate chinese penelopework_fb9b3d56:
 
     # penelope "I just wanted to apologize again."
-    penelope "我还想再道一次谦来着。"
+    penelope "我还想再道一次歉来着。"
 
 # game/library.rpy#L3518
 translate chinese penelopework_fabb0791:

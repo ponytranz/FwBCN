@@ -29987,14 +29987,14 @@
   {
     "id": 79441566,
     "createdAt": "2021-05-30T17:55:41.000Z",
-    "updatedAt": "2021-09-21T21:32:32.000Z",
+    "updatedAt": "2022-01-28T13:19:30.000Z",
     "key": "penelopework_fb9b3d56",
     "original": "I just wanted to apologize again.",
-    "translation": "我还想再道一次谦来着。",
+    "translation": "我还想再道一次歉来着。",
     "file": 272350,
     "stage": 1,
     "project": 2414,
-    "uid": null,
+    "uid": 20927,
     "extra": null,
     "context": "说话人: penelope \n代码: https://github.com/ponytranz/FwBCN/blob/empty/game/library.rpy#L3517",
     "words": 6
